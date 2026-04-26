@@ -4,7 +4,7 @@
 
 25.08.1936
 
-## _**Philosophische Untersuchungen.**_ _Versuch einer Umarbeitung._
+## Philosophische Untersuchungen. Versuch einer Umarbeitung.
 
 ### [Ms-115,118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/118.webp)
 

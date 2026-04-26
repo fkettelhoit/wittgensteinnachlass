@@ -2,7 +2,7 @@
 
 ### [Ts-214a1,1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)
 
-## _**Komplex und Tatsache.**_
+## Komplex und Tatsache.
 
 ### [Ts-214a1,1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)
 
@@ -82,7 +82,7 @@ Das Schema: Ding-Eigenschaft. Man sagt: eine Handlung habe eine Eigenschaft! etw
 
 ### [Ts-214b1,5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214b1/5.webp)
 
-## _**Begriff und Gegenstand.**_ _**Eigenschaft und Substrat.**_
+## Begriff und Gegenstand. Eigenschaft und Substrat.
 
 ### [Ts-214b1,5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214b1/5.webp),[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214b1/6.webp),[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214b1/7.webp)
 
@@ -142,7 +142,7 @@ Ja, wir sprechen vom Kreis, seinem Durchmesser, etc., etc. wie von einem Begriff
 
 ### [Ts-214c1,13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)
 
-## _**Gegenstand.**_
+## Gegenstand.
 
 ### [Ts-214c1,13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)
 

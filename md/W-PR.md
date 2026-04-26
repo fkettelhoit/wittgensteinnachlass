@@ -2,7 +2,7 @@
 
 ### [Ts-214a1,1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)
 
-## _**Komplex und Tatsache.**_
+## Komplex und Tatsache.
 
 ### [Ts-214a1,1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)
 
@@ -82,7 +82,7 @@ Das Schema: Ding-Eigenschaft. Man sagt: eine Handlung habe eine Eigenschaft! etw
 
 ### [Ts-215a,1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215a/1.webp)
 
-## _**Unendlich lang.**_
+## Unendlich lang.
 
 ### [Ts-215a,1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215a/1.webp)
 
@@ -142,7 +142,7 @@ Der Satz: daß einmal – in der unendlichen Zukunft – ein Ereignis (z.B. der 
 
 ### [Ts-215b,13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215b/13.webp)
 
-## _**Unendliche Möglichkeit.**_
+## Unendliche Möglichkeit.
 
 ### [Ts-215b,14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215b/14.webp),[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215b/15.webp),[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215b/16.webp)
 
