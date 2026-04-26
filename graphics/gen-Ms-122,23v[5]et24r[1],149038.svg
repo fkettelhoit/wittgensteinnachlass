@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- 8 pairs of stacked vertical bars centered in the viewBox -->
+  <!-- Each "figure" is a vertical bar split into two halves (top and bottom) with a small gap between them -->
+  <!-- Centered around y=148.5, x spread around 105 -->
+  
+  <!-- Bar parameters -->
+  <!-- bar height top: 5, gap: 1.5, bar height bottom: 5 -->
+  <!-- bar width: 0.7, spacing between bars: 4 -->
+  <!-- total width: 8 bars * 4 = 32, start x = 105 - 16 = 89 -->
+
+  <g stroke="#000000" stroke-width="0.7" stroke-linecap="round">
+    <!-- Bar 1 -->
+    <line x1="89" y1="143" x2="89" y2="148"/>
+    <line x1="89" y1="150" x2="89" y2="155"/>
+    <!-- Bar 2 -->
+    <line x1="93" y1="143" x2="93" y2="148"/>
+    <line x1="93" y1="150" x2="93" y2="155"/>
+    <!-- Bar 3 -->
+    <line x1="97" y1="143" x2="97" y2="148"/>
+    <line x1="97" y1="150" x2="97" y2="155"/>
+    <!-- Bar 4 -->
+    <line x1="101" y1="143" x2="101" y2="148"/>
+    <line x1="101" y1="150" x2="101" y2="155"/>
+    <!-- Bar 5 -->
+    <line x1="105" y1="143" x2="105" y2="148"/>
+    <line x1="105" y1="150" x2="105" y2="155"/>
+    <!-- Bar 6 -->
+    <line x1="109" y1="143" x2="109" y2="148"/>
+    <line x1="109" y1="150" x2="109" y2="155"/>
+    <!-- Bar 7 -->
+    <line x1="113" y1="143" x2="113" y2="148"/>
+    <line x1="113" y1="150" x2="113" y2="155"/>
+    <!-- Bar 8 -->
+    <line x1="117" y1="143" x2="117" y2="148"/>
+    <line x1="117" y1="150" x2="117" y2="155"/>
+  </g>
+</svg>

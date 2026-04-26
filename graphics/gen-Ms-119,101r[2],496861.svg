@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- Row 1: Sage:  "a  b  c  d"  & meine: -->
+  <!-- Row 2:         es ist schön draußen        -->
+
+  <!-- Sage: -->
+  <text x="30" y="140" font-size="7" fill="#000000">Sage:</text>
+
+  <!-- Opening quote -->
+  <text x="52" y="140" font-size="7" fill="#000000">"</text>
+
+  <!-- a -->
+  <text x="58" y="140" font-size="7" fill="#000000">a</text>
+
+  <!-- b -->
+  <text x="72" y="140" font-size="7" fill="#000000">b</text>
+
+  <!-- c -->
+  <text x="86" y="140" font-size="7" fill="#000000">c</text>
+
+  <!-- d -->
+  <text x="104" y="140" font-size="7" fill="#000000">d</text>
+
+  <!-- Closing quote -->
+  <text x="118" y="140" font-size="7" fill="#000000">"</text>
+
+  <!-- & meine: -->
+  <text x="126" y="140" font-size="7" fill="#000000">&amp; meine:</text>
+
+  <!-- Row 2: smaller text aligned under a, b, c, d -->
+  <!-- es (under a) -->
+  <text x="58" y="150" font-size="5" fill="#000000">es</text>
+
+  <!-- ist (under b) -->
+  <text x="72" y="150" font-size="5" fill="#000000">ist</text>
+
+  <!-- schön (under c) -->
+  <text x="86" y="150" font-size="5" fill="#000000">schön</text>
+
+  <!-- draußen (under d) -->
+  <text x="104" y="150" font-size="5" fill="#000000">draußen</text>
+</svg>

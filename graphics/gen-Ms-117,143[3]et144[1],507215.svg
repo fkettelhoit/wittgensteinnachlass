@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- Path: right, right, up, right, down, down, down -->
+  <!-- Each arrow segment has length 20 units -->
+  <!-- Starting point: center-ish -->
+  <!-- Sequence: → → ↑ → ↓ ↓ ↓ -->
+  <!-- Let's trace: start at (65, 148), go right, right, up, right, down, down, down -->
+  <!-- Each step = 20 units -->
+  <!-- Points:
+    (65,148) → (85,148) → (105,148) → (105,128) → (125,128) → (125,148) → (125,168) → (125,188)
+  -->
+
+  <g stroke="#000000" stroke-width="0.6" fill="none">
+    <!-- Arrow 1: right (65,148) to (85,148) -->
+    <line x1="65" y1="148" x2="83" y2="148"/>
+    <polygon fill="#000000" stroke="none" points="85,148 81,146 81,150"/>
+
+    <!-- Arrow 2: right (85,148) to (105,148) -->
+    <line x1="85" y1="148" x2="103" y2="148"/>
+    <polygon fill="#000000" stroke="none" points="105,148 101,146 101,150"/>
+
+    <!-- Arrow 3: up (105,148) to (105,128) -->
+    <line x1="105" y1="148" x2="105" y2="130"/>
+    <polygon fill="#000000" stroke="none" points="105,128 103,132 107,132"/>
+
+    <!-- Arrow 4: right (105,128) to (125,128) -->
+    <line x1="105" y1="128" x2="123" y2="128"/>
+    <polygon fill="#000000" stroke="none" points="125,128 121,126 121,130"/>
+
+    <!-- Arrow 5: down (125,128) to (125,148) -->
+    <line x1="125" y1="128" x2="125" y2="146"/>
+    <polygon fill="#000000" stroke="none" points="125,148 123,144 127,144"/>
+
+    <!-- Arrow 6: down (125,148) to (125,168) -->
+    <line x1="125" y1="148" x2="125" y2="166"/>
+    <polygon fill="#000000" stroke="none" points="125,168 123,164 127,164"/>
+
+    <!-- Arrow 7: down (125,168) to (125,188) -->
+    <line x1="125" y1="168" x2="125" y2="186"/>
+    <polygon fill="#000000" stroke="none" points="125,188 123,184 127,184"/>
+  </g>
+</svg>

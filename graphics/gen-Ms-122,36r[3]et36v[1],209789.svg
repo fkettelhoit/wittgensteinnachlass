@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- First group: (a b c d) -->
+  <text x="30" y="130" font-size="7" fill="#000000">(</text>
+  <text x="34" y="130" font-size="7" fill="#000000">a</text>
+  <text x="42" y="130" font-size="7" fill="#000000">b</text>
+  <text x="50" y="130" font-size="7" fill="#000000">c</text>
+  <text x="58" y="130" font-size="7" fill="#000000">d</text>
+  <text x="64" y="130" font-size="7" fill="#000000">)</text>
+
+  <!-- Second group: (r s t) -->
+  <text x="74" y="130" font-size="7" fill="#000000">(</text>
+  <text x="78" y="130" font-size="7" fill="#000000">r</text>
+  <text x="86" y="130" font-size="7" fill="#000000">s</text>
+  <text x="93" y="130" font-size="7" fill="#000000">t</text>
+  <text x="99" y="130" font-size="7" fill="#000000">)</text>
+
+  <!-- Third group: (α β γ δ ε ξ η) -->
+  <text x="120" y="130" font-size="7" fill="#000000">(</text>
+  <text x="124" y="130" font-size="7" fill="#000000">α</text>
+  <text x="132" y="130" font-size="7" fill="#000000">β</text>
+  <text x="140" y="130" font-size="7" fill="#000000">γ</text>
+  <text x="148" y="130" font-size="7" fill="#000000">δ</text>
+  <text x="156" y="130" font-size="7" fill="#000000">ε</text>
+  <text x="164" y="130" font-size="7" fill="#000000">ξ</text>
+  <text x="172" y="130" font-size="7" fill="#000000">η</text>
+  <text x="178" y="130" font-size="7" fill="#000000">)</text>
+
+  <!-- Arcs from (a b c d) to (α β γ δ) -->
+  <!-- a -> α -->
+  <path d="M 36,133 Q 80,160 126,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+  <!-- b -> β -->
+  <path d="M 44,133 Q 88,158 134,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+  <!-- c -> γ -->
+  <path d="M 52,133 Q 96,156 142,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+  <!-- d -> δ -->
+  <path d="M 60,133 Q 104,154 150,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+
+  <!-- Arcs from (r s t) to (ε ξ η) -->
+  <!-- r -> ε -->
+  <path d="M 80,133 Q 118,152 158,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+  <!-- s -> ξ -->
+  <path d="M 88,133 Q 126,150 166,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+  <!-- t -> η -->
+  <path d="M 95,133 Q 134,148 174,133" fill="none" stroke="#000000" stroke-width="0.5"/>
+</svg>

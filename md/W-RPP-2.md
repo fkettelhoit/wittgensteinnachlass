@@ -1,0 +1,2993 @@
+# Bemerkungen über die Philosophie der Psychologie – II
+
+### [Ts-232,600\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp)
+
+<span class="series-number">1.</span> <span class="series-number">01</span> ‘Überraschung’ und die _Empfindung_ des raschen Einziehens des Atems.
+
+### [Ts-232,600\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp)
+
+<span class="series-number">2.</span> <span class="series-number">02</span> “Ich hoffe unentwegt, …” im Gegensatz zu “Ich hoffe, du wirst kommen!”. Dies heißt ungefähr das Gleiche wie: “Du wirst doch kommen!”.
+
+### [Ts-232,600\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp)
+
+<span class="series-number">3.</span> <span class="series-number">03</span> Man sagt “Ich wünsche …” normalerweise gewiß nicht auf Grund einer Selbstbeobachtung – es ist eben Wunschäußerung – es kann aber doch vorkommen, daß man einen Wunsch durch Beobachtung der eigenen Reaktionen erkennt, entdeckt. Wenn du nun fragst “Erkennst du in so einem Fall _dasselbe_, was du im andern durch die _Äußerung_ ausdrückst?” – so liegt in der Frage ein Fehler. (Als fragte man: Ist es der selbe Sessel, den ich sehen kann und auf dem ich sitzen kann?)
+
+### [Ts-232,600\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp)
+
+<span class="series-number">4.</span> <span class="series-number">04</span> Ich sage “Ich hoffe, du wirst kommen”, aber nicht “Ich glaube: ich hoffe, du wirst kommen”; Wohl aber wäre es möglich zu sagen: “Ich glaube, ich hoffe noch immer, er werde kommen”.
+
+### [Ts-232,600\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp)
+
+<span class="series-number">5.</span> <span class="series-number">05</span> “Aber _erlebt_ man nicht die Bedeutung?” “Aber hört man nicht das Klavier?” Jede der beiden Fragen kann sachlich und begrifflich gemeint sein, d.h.: gebraucht werden. (Zeitlich, oder zeitlos.)
+
+### [Ts-232,600\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp),[601\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/601.webp)
+
+<span class="series-number">6.</span> <span class="series-number">06</span> Er sagt “Ich will jetzt ausgehen”, plötzlich sagt er “Nein” und tut etwas anderes. Als er “Nein” sagte, fiel ihm plötzlich ein, er wolle zuerst … – er sagte “Nein”; aber _dachte_ er auch “Nein”? Dachte er eben nicht an jene andere Angelegenheit? Man kann sagen, er dachte an sie. Er mußte dazu aber weder laut noch im Stillen einen Gedanken aussprechen. – Er könnte freilich später die Absicht in einen Satz kleiden. Zur Zeit des Wechsels mochte ihm ein Bild vorgeschwebt haben, oder aber er sagte nicht nur “Nein”, sondern irgend _ein_ Wort, das Äquivalent eines Bildes. Wollte er etwa zuerst den Schrank zuschließen, so sagte er vielleicht “Der Schrank!”; wollte er erst die Hände waschen, so sah er sie etwa an und verzog das Gesicht. “Aber ist das Denken?” – Ich weiß es nicht. Sagt man denn in so einem Falle nicht, Einer habe sich etwas ‘überlegt’, er habe sich anders ‘besonnen’? Aber muß er zu _diesem_ Denken unbedingt eine Sprache beherrschen lernen? Könnte nicht ein ‘intelligentes’ Tier so handeln? Man hat es abgerichtet, einen Gegenstand von dort und dort zu holen und ihn dorthin zu bringen. Es geht nun, ohne den Gegenstand dem Ziele zu, kehrt plötzlich um (_als hätte es gesagt_ “Ach, ich habe …vergessen!”) und holt den Gegenstand, etc. Sähen wir so etwas, so würden wir sagen: es sei in ihm, in seinem Geiste, damals etwas vorgefallen. Und was ist denn in _mir_ vorgefallen, wenn ich so handle? “Nicht gar viel” möchte ich sagen. Und was innen vorgeht, ist nicht wichtiger, als was äußerlich, durch Sprechen, Zeichnen, etc. vorgehen kann. ((Woraus du lernen kannst, wie das Wort “denken” gebraucht wird.))
+
+### [Ts-232,601\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/601.webp),[602\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/602.webp)
+
+<span class="series-number">7.</span> <span class="series-number">07</span> Denk dir nun, Einer habe einen Bau aufzuführen, mit Bausteinen, oder ‘Mechano’. Er probiert nun, verschiedene Stücke, versucht sie, zusammen zu fassen, macht vielleicht eine Skizze, etc. etc. Nun sagt man, er habe bei dieser Tätigkeit _gedacht_! – Gewiß, man unterscheidet so dies Tun von einem sehr anders gearteten. Aber ist es eine gute Beschreibung dieses Unterschieds: in einem Falle gehe mit dem manuellen Tun noch etwas anderes einher? Könnte man etwa dieses Andere isolieren, und es geschehen lassen, ohne die übrige Tätigkeit? Es ist nicht wahr, daß Denken eine Art Sprechen ist, wie ich einmal sagte. Der Begriff ‘denken’ ist vom Begriff ‘sprechen’ _kategorisch_ verschieden. Aber natürlich ist das Denken keine Begleitung des Sprechens, noch sonst irgend eines Vorgangs. Das heißt: man kann z.B. den ‘Denkvorgang’ nicht unbegleitet vor sich gehen lassen. Er hat auch nicht Abschnitte, die den Abschnitten der andern Tätigkeit (des Redens z.B.) entsprechen. D.h.: wenn man von einem ‘Denkvorgang’ redet, so ist er so etwas wie das Operieren (schriftlich oder mündlich) mit Zeichen. Das Schließen und Rechnen könnte man einen ‘Denkvorgang nennen.
+
+### [Ts-232,602\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/602.webp)
+
+<span class="series-number">8.</span> <span class="series-number">08</span> Es wäre auch nicht ganz falsch, das Sprechen ‘das Instrument des Denkens’ zu nennen. Aber man kann nicht sagen, der Sprechvorgang sei ein Instrument des Denkvorgangs; oder die Sprache gleichsam der Träger des Gedankens, wie etwa die Töne eines Lieds die Träger der Worte genannt werden können.
+
+### [Ts-232,602\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/602.webp)
+
+<span class="series-number">9.</span> <span class="series-number">09</span> Man kann das Wort “denken” so verwenden, daß es, beiläufig gesprochen, ein Reden zu einem Zweck bezeichnet, d.h. also, ein Sprechen oder Schreiben, ein Sprechen in der Vorstellung, so zu sagen ein ‘Kopfsprechen’.
+
+### [Ts-232,602\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/602.webp),[603\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/603.webp)
+
+<span class="series-number">10.</span> <span class="series-number">010</span> Man sagt “Überleg dir, was du sagen willst, ehe du sprichst”. _Eine_ Form dies zu tun, ist: sich die Rede leise vorsagen oder aufschreiben und Korrekturen anbringen. Man sagt sich etwa einen Satz vor, schüttelt den Kopf, sagt “das ist zu lang” etc.; sagt den Satz wieder in einer anderen Form.
+
+### [Ts-232,603\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/603.webp)
+
+<span class="series-number">11.</span> <span class="series-number">011</span> Man könnte etwa, was Denken ist, beschreiben, indem man den Unterschied zwischen einem Geistesschwachen und einem normalen Kind, das zu denken anfängt, beschreibt. Wollte man die Tätigkeit angeben, die der Normale lernt, der Geistesschwache nicht lernen kann, man könnte sie nicht aus ihrem Benehmen herausklauben.
+
+### [Ts-232,603\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/603.webp)
+
+<span class="series-number">12.</span> <span class="series-number">012</span> Das Wort “Denken” wird in gewisser Weise sehr anders gebraucht als zum Beispiel “Schmerzen haben”, “traurig sein”, etc.: Man sagt nicht “Ich denke” als Äußerung eines Seelenzustands. Höchstens “Ich denke nach”. “Laß mich in Ruh; ich denke über … nach”. Und damit meint man natürlich nicht “Laß mich in Ruh; ich benehme mich jetzt so und so.” Also ist “Denken” kein Benehmen.
+
+### [Ts-232,603\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/603.webp)
+
+<span class="series-number">13.</span> <span class="series-number">013</span> “Ich dachte ‘der Stab ist zu lang, ich muß einen Andern probieren’.” – Als ich das dachte, sagte ich mir vielleicht gar nichts, – vielleicht ein oder zwei Worte. Und doch ist der Bericht nicht unwahr (oder kann doch wahr sein). Er hat eine Verwendung. Man sagt z.B. “Ja, ich hab dir zugeschaut und hab mir gedacht, daß du dir das gedacht hast”.
+
+### [Ts-232,603\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/603.webp),[604\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/604.webp)
+
+<span class="series-number">14.</span> <span class="series-number">014</span> “Der Mensch denkt, fühlt, wünscht, glaubt, will, weiß.” Das klingt wie ein vernünftiger Satz. So wie: “Der Mensch zeichnet, malt, modelliert.” Oder: “Der Mensch kennt Saiteninstrumente, Blasinstrumente …” Der erste Satz ist eine Aufzählung alles dessen, was der Mensch mit seinem Geiste tut. Aber so wie man zum Satz über die Instrumente die Frage stellen kann “Und kennt der Mensch nicht auch Instrumente, die aus quiekenden Mäusen bestehen?” und die Antwort darauf wäre; Nein – – so müßte es zu der Aufzählung der Geistestätigkeiten auch eine Frage geben der Art: “Und können die Menschen nicht auch …?”
+
+### [Ts-232,604\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/604.webp)
+
+<span class="series-number">15.</span> <span class="series-number">015</span> Jemand sagt: “Der Mensch hofft.” Wie hätte man das naturgeschichtliche Phänomen zu beschreiben? – Man könnte ein Kind beobachten und warten, bis es eines Tages Hoffnung äußert; und man könnte dann sagen: “heut hat es zum ersten Mal gehofft”. Aber das klingt doch seltsam! Obwohl es ganz natürlich wäre zu sagen “Heut hat es zum ersten Mal gesagt ‘ich hoffe’”. Und warum seltsam? Man sagt doch nicht von einem Säugling, er hoffe …, und man sagt es doch vom Erwachsenen. – Nun, das _tägliche Leben_ wird nach und nach zu dem, worin für Hoffnung Raum ist.
+
+### [Ts-232,604\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/604.webp)
+
+<span class="series-number">16.</span> <span class="series-number">016</span> Ich habe in diesem Fall den Ausdruck “eingebettet” gebraucht, gesagt, die Hoffnung, der Glaube, etc. sei im menschlichen Leben in allen den Situationen und Reaktionen die das menschliche Leben ausmachen, eingebettet. Das Krokodil hoffe nicht, der Mensch hofft. Oder: Vom Krokodil kann man nicht sagen, es hofft; aber vom Menschen. Wie aber müßte sich ein Mensch verhalten, von dem man sagen würde: er hoffe nie? – Die erste Antwort ist: Ich weiß es nicht. Eher könnte ich schon sagen, wie ein Mensch sich benehmen müßte, der sich nie nach irgend etwas sehnt; oder der sich nie über irgend etwas freut; oder der nie erschrickt, oder sich vor nichts fürchtet.
+
+### [Ts-232,604\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/604.webp),[605\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/605.webp)
+
+<span class="series-number">17.</span> <span class="series-number">017</span> Furchtbenehmen bei Furchtanlässen (etc.) ist ein Phänomen unseres Lebens. Aber Furcht? – Nun, man könnte sagen, statt “ich fürchte mich”: “Das Phänomen der Furcht zeigt sich in mir”; wobei man nicht an das eigene _Benehmen_ denkt. Könnte man dann aber im gleichen Sinne sagen: “Das Phänomen der Furcht zeigt sich in ihm”?
+
+### [Ts-232,605\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/605.webp)
+
+<span class="series-number">18.</span> <span class="series-number">018</span> Wenn ich jemandem sage: “Die Menschen denken, fühlen, …”, so mache ich ihm, scheint es, eine _naturgeschichtliche_ Mitteilung. Sie soll ihm etwa den Unterschied des Menschen von den Tierarten zeigen. Kann er sie aber exemplifizieren, in dem er sagt “Ja; ich selbst z.B. sehe jetzt”? Ist denn “Ich sehe …” eine naturgeschichtliche Mitteilung über mich? Würde es nämlich nicht ebenso gut sein, wenn ich sagte “Ich sehe nicht”?
+
+### [Ts-232,605\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/605.webp)
+
+<span class="series-number">19.</span> <span class="series-number">019</span> “Der Mensch denkt, fürchtet sich, etc. etc.”: das könnte man etwa Einem antworten, der gefragt hat, welche Kapitel ein Buch über Psychologie enthalten soll.
+
+### [Ts-232,605\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/605.webp)
+
+<span class="series-number">20.</span> <span class="series-number">020</span> Woher nehmen wir den Begriff ‘denken’, den wir hier betrachten wollen? Aus der Alltagssprache. Was unsrer Aufmerksamkeit zuerst ihre Richtung gibt, ist das Wort “denken”. Aber der Gebrauch dieses Worts ist verworren. Und wir können es nicht anders erwarten. Und das läßt sich natürlich von allen psychologischen Verben sagen. Ihre Verwendung ist nicht so klar, und so leicht zu übersehen, wie die der Wörter der Mechanik z.B.
+
+### [Ts-232,605\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/605.webp)
+
+<span class="series-number">21.</span> <span class="series-number">021</span> Es ist mit den psychologischen Wörtern etwa so, wie mit denen, die aus der Sprache des Alltags in die der Mediziner übergehen. (“Shock”).
+
+### [Ts-232,605\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/605.webp),[606\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/606.webp)
+
+<span class="series-number">22.</span> <span class="series-number">022</span> Ich sage Einem: “Die Menschen denken.” Er fragt mich: “Was ist _Denken_?” – Nun erkläre ich ihm den Gebrauch dieses Worts. Aber ist danach jener erste Satz noch eine Mitteilung? ((Könnte nicht eine Ameise so zu einer Ameise sprechen?))
+
+### [Ts-232,606\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/606.webp)
+
+<span class="series-number">23.</span> <span class="series-number">023</span> “Die Menschen denken, die Heuschrecken nicht.” Das heißt etwa: Der Begriff ‘denken’ bezieht sich auf das Leben der Menschen, nicht der Heuschrecken. – Und diese Mitteilung könnte man Einem machen, der das deutsche Wort “denken” nicht versteht und etwa irrtümlich glaubt, es beziehe sich auf etwas, was Heuschrecken tun.
+
+### [Ts-232,606\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/606.webp)
+
+<span class="series-number">24.</span> <span class="series-number">024</span> “Heuschrecken denken nicht.” Wohin gehört das? – Ist es ein Glaubensartikel, oder gehört es in die Naturgeschichte? Wenn das letztere, so sollte es etwa ein Satz sein wie: “Heuschrecken können nicht lesen und schreiben.” Dieser Satz hat einen klaren Sinn, und wenn er vielleicht auch nie verwendet wird, so ist es doch leicht, sich eine Verwendung für ihn vorzustellen.
+
+### [Ts-232,606\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/606.webp)
+
+<span class="series-number">25.</span> <span class="series-number">025</span> “Eine Dampfmaschine hat einen Kreuzkopf, eine Dampfturbine nicht.” Wem, in welchem Zusammenhang, würde man das sagen?
+
+### [Ts-232,606\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/606.webp),[607\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/607.webp)
+
+<span class="series-number">26.</span> <span class="series-number">026</span> “Kann ein Mensch verstehen, was ‘lesen’ ist, es sei denn, er könne selber lesen; kann er verstehen, was ‘fürchten’ ist, ohne Furcht zu kennen; u.s.w.?” Nun, ein Analphabet kann doch gewiß sagen, er könne nicht lesen, aber sein Sohn habe es gelernt. Ein Blinder kann sagen, er sei blind und die Leute um ihn seien sehend. “Ja, aber meint er nicht doch etwas anderes mit den Worten ‘blind’ und ‘sehend’, als der Sehende?” Worauf beruht es, daß man das sagen will? Nun, wenn Einer nicht wüßte wie ein Leopard ausschaut, so könnte er doch sagen und verstehen “Dieser Ort ist sehr gefährlich, es gibt Leoparden dort”. Man würde aber doch vielleicht sagen, er weiß nicht, was ein Leopard ist, also nicht, oder nur unvollständig, was das Wort “Leopard” bedeutet, bis man ihm einmal ein solches Tier zeigt. Nun kommt es uns mit dem Blinden ähnlich vor. Sie wissen, so zu sagen, nicht, wie sehend ist. – Ist nun ‘Furcht nicht kennen’ analog dem ‘nie einen Leoparden gesehen haben’? Das will ich natürlich verneinen.
+
+### [Ts-232,607\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/607.webp)
+
+<span class="series-number">27.</span> <span class="series-number">027</span> Die Frage ist: Was für Sprachspiele kann, der die Furcht nicht kennt, eo ipso, nicht spielen? Man könnte da z.B. sagen: er würde einer Tragödie ohne Verständnis zuschauen. Und man könnte das so erklären: Wenn ich den Andern in einer furchtbaren Lage sehe, auch wenn ich selbst gar nichts zu fürchten habe, so kann ich schaudern, aus Mitgefühl schaudern. Wer aber die Furcht nicht kennte, täte das nicht. _Wir_ fürchten uns _mit ihm_, auch wenn wir nichts zu fürchten haben; und _das_ ist es, was jener nicht kann. Wie ich mein Gesicht schmerzlich verziehe, wenn man dem Andern Schmerz zufügt.
+
+### [Ts-232,607\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/607.webp)
+
+<span class="series-number">28.</span> <span class="series-number">028</span> Gut; aber wäre es nicht denkbar, daß Einer, der den Schmerz nie gefühlt hat, ihn in der Form des Mitleids dennoch empfände? Er würde also, was immer ihm geschähe, nicht stöhnen, wohl aber, wenn einem Andern Schmerz zugefügt wird. Aber ob wir nun von Diesem sagen würden, er habe Mitleid? Ob wir nicht sagen würden: “Es ist eigentlich kein Mitleid, weil er ja eigenen Schmerz gar nicht kennt”. –? Oder man könnte sich in so einem Fall denken, daß die Leute sagten, diesem Menschen habe Gott ein Gefühl für das Leid, die Furcht des Andern gegeben. So etwas würde man vielleicht eine Intuition nennen.
+
+### [Ts-232,607\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/607.webp),[608\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/608.webp)
+
+<span class="series-number">29.</span> <span class="series-number">029</span> “Die Menschen denken manchmal.” Wie habe ich gelernt, was “denken” heißt? – Es scheint, ich kann nur gelernt haben, indem ich mit Menschen lebte. – Man könnte sich freilich denken, daß Einem das Leben der Menschen im Film vorgeführt würde, oder daß er das Leben nur beobachten dürfte, ohne mitzutun. Er würde ihr Leben dann etwa verstehen wie wir das Leben der Fische verstehen oder gar der Pflanzen. Von Lust und Leid etc. der Fische können wir nicht reden.
+
+### [Ts-232,608\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/608.webp)
+
+<span class="series-number">30.</span> <span class="series-number">030</span> Ich meine aber natürlich nicht: Er kann es, erfahrungsgemäß, nicht verstehen, wenn er das Leben nicht mitlebt (als sagte man: man kann Rudern nicht lernen indem man bloß Andern beim Rudern zuschaut) – sondern gemeint ist: Ich würde von mir nicht (noch vom Andern) sagen, wir verstünden die Lebensäußerungen, die uns fremd sind. Und hier gibt es natürlich Grade.
+
+### [Ts-232,608\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/608.webp)
+
+<span class="series-number">31.</span> <span class="series-number">031</span> Das Denken kann man keine Erscheinung nennen; wohl aber kann man von ‘Erscheinungen des Denkens’ reden, und Jeder wird wissen was für Erscheinungen da gemeint sind.
+
+### [Ts-232,608\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/608.webp)
+
+<span class="series-number">32.</span> <span class="series-number">032</span> Man kann offenbar sagen: “Denk an Zornanlässe und Zornerscheinungen (Zornbenehmen). Nenne ich aber den _Zorn_ eine Erscheinung, so muß ich _meinen_ Zorn, meine Zornerfahrung eine Erscheinung nennen. (Eine Erscheinung meines Innenlebens etwa.)
+
+### [Ts-232,608\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/608.webp),[609\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/609.webp)
+
+<span class="series-number">33.</span> <span class="series-number">033</span> Sieh es einmal rein behaviouristisch an: Jemand sagt: Der Mensch denkt, wünscht, freut sich, ist zornig, etc. Denk, es sei hier nur von gewissen Formen des Verhaltens bei gewiß Anlässen die Rede. Man könnte sich vorstellen, wer so vom Menschen redet, habe diese Verhaltungsweisen zuerst bei andern Wesen beobachtet und sage nun, beim Menschen ließen sich diese Erscheinungen auch beobachten. Das wäre also, wie wenn wir dies von einer Tierart sagten. – – –
+
+### [Ts-232,609\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/609.webp)
+
+<span class="series-number">34.</span> <span class="series-number">034</span> Plötzlich lächle ich und sage … Als ich lächelte, war mir der Gedanke gekommen. Worin bestand er? Er bestand in gar nichts; denn das Bild, oder Wort, etc. das etwa auftauchte, war nicht der Gedanke.
+
+### [Ts-232,609\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/609.webp)
+
+<span class="series-number">35.</span> <span class="series-number">035</span> Ich würde gerne sagen: Die Psychologie hat es mit bestimmten _Aspekten_ des menschlichen Lebens zu tun. Oder auch: mit gewissen Erscheinungen – aber die Wörter “denken”, “fürchten”, etc. etc. bezeichnen _nicht_ diese Erscheinungen.
+
+### [Ts-232,609\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/609.webp)
+
+<span class="series-number">36.</span> <span class="series-number">036</span> “Wie ist es aber möglich, daß man ein Ding einer _Deutung_ gemäß _sieht_?” – Die Frage stellt diese als ein seltsames Faktum da; als wäre hier etwas in eine Form gezwängt worden, was eigentlich nicht hineinpaßt. Aber es ist hier kein Drücken und Zwängen geschehen.
+
+### [Ts-232,609\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/609.webp)
+
+<span class="series-number">37.</span> <span class="series-number">037</span> Und nun ist das Merkwürdige, daß man so zu sagen nicht weiß, was man tut, wenn man die Figur einmal als _das_, einmal als _das_ ansieht, oder sieht. Das heißt, man ist geneigt, zu fragen “Wie mache ich das?”, “Was sehe ich eigentlich anderes?” – Und darauf erhält man keine relevante Erklärung zur Antwort.
+
+### [Ts-232,609\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/609.webp),[610\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp)
+
+<span class="series-number">38.</span> <span class="series-number">038</span> Denn nicht das ist die Frage: was ich mache, wenn … (dies könnte nur eine psychologische Frage sein) – sondern, welche Bedeutung die Äußerung hat, was sich aus ihr entnehmen läßt, _welche Folgen sie hat_.
+
+### [Ts-232,610\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp)
+
+<span class="series-number">39.</span> <span class="series-number">039</span> Wer den Aspektwechsel nicht empfände, wäre nicht geneigt zu sagen: “Jetzt sieht es ganz anders aus!” oder “Es ist als hätte sich das Bild verändert, und hat sich doch nicht verändert!” oder “Die Form ist gleich geblieben und doch hat sich etwas verändert; etwas, was ich die Auffassung nennen möchte und was man sieht!” –
+
+### [Ts-232,610\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp)
+
+<span class="series-number">40.</span> <span class="series-number">040</span> Etwas einmal als _das_, einmal als _das_ sehen, könnte ein bloßes _Spiel_ sein. Man redet zum Kind einmal in dieser Weise – etwa: “Jetzt ist es …! jetzt …!” – und es reagiert; ich meine, es lacht, macht nun verschiedene solche Übungen (so, als hätte man es darauf aufmerksam gemacht, daß die Vokale Farben haben). Ein anderes Kind empfindet weder diese Farben, noch versteht es was mit jener Änderung gemeint ist.
+
+### [Ts-232,610\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp)
+
+<span class="series-number">41.</span> <span class="series-number">041</span> Wie aber, wenn man _diesem_ Kind die Aufgabe stellte, die Gestalt 4 in der Figur 🖵 aufzusuchen? (Dies könnte eine Aufgabe im ersten Unterricht der Kinder sein.) Könnte es die Aufgabe nicht lösen (oder die, eine Reihe verschiedener Gestalten in jener Figur zu finden), wenn es sich einer Aspektänderung nicht bewußt wird, nicht sagen möchte die Figur ändere sich irgendwie, werde zu einem anderen Gebilde, oder dergleichen?
+
+### [Ts-232,610\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp),[611\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/611.webp)
+
+<span class="series-number">42.</span> <span class="series-number">042</span> Du sagst, der normale Mensch sähe die Figur 🖵 als zwei Kreise von einer Geraden durchschnitten. Aber wie zeigt sich das? Wenn er die Figur etwa kopiert, soll ich sagen, es zeige sich darin, _wie_ er's tut? Wenn er die Figur mit Worten beschreibt, zeigt es sich darin, welche Beschreibung er wählt? Diese Wahl könnte durch die Bequemlichkeit der Darstellung _bestimmt_ sein. Ja, wenn das Kind auf verschiedene Arten der zeichnerischen Wiedergabe (Reihenfolge der Striche) käme, wäre _das_ unser Kriterium für den Wechsel des Aspekts? – Wenn es aber sagt “Jetzt ist es … – jetzt …”, wenn es redet, als _sähe_ es jedes Mal einen anderen Gegenstand, dann werden wir sagen, es sieht die Figur _auf verschiedene Weisen_.
+
+### [Ts-232,611\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/611.webp)
+
+<span class="series-number">43.</span> <span class="series-number">043</span> Das Wesentliche am Sehen ist, daß es ein _Zustand_ ist und ein solcher in einen anderen umschlagen kann. Aber wie weiß ich, daß er in einem solchen Zustand ist? nicht also in einem der einer Disposition vergleichbar ist, wie das Wissen, das Verstehen oder eine Auffassung. Was ist das logische Charakteristikum so eines Zustands?
+
+### [Ts-232,611\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/611.webp)
+
+<span class="series-number">44.</span> <span class="series-number">044</span> Denn, sagen, man erkenne ihn eben als solchen, wenn man ihn _habe_, ist Unsinn. Denn _woran_ erkennt man ihn? (Das Kriterium der Identität.)
+
+### [Ts-232,611\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/611.webp),[612\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/612.webp)
+
+<span class="series-number">45.</span> <span class="series-number">045</span> Ich will von einem ‘Bewußtseinszustand’ reden, und das Sehen eines bestimmten Bildes, das Hören eines Tons, eine Schmerzempfindung, Geschmacksempfindung, etc. so nennen. Ich will sagen: Glauben, Verstehen, Wissen, Beabsichtigen, u.a. seien nicht Bewußtseinszustände. Wenn ich diese Letzteren _für einen Augenblick_ “Dispositionen” nenne, so ist ein wichtiger Unterschied zwischen Dispositionen und Bewußtseinszuständen, daß eine Disposition durch eine Unterbrechung des Bewußtseins, oder eine Verschiebung der Aufmerksamkeit nicht unterbrochen wird. (Und das ist natürlich keine kausale Bemerkung.) Man sagt wohl überhaupt kaum, man habe etwas seit gestern “ununterbrochen” geglaubt, oder verstanden, Eine Unterbrechung des Glaubens wäre aber eine Periode des Unglaubens, nicht z.B. die Abwendung der Aufmerksamkeit von dem Geglaubten, oder z.B. der Schlaf. (Der Unterschied zwischen ‘knowing’ und ‘being aware of’.)
+
+### [Ts-232,612\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/612.webp)
+
+<span class="series-number">46.</span> <span class="series-number">046</span> Das ist wohl der Punkt, an dem man sagt, man könne dem _Andern_ eben nur die Form mitteilen, nicht aber den Inhalt. – So redet man also zu sich selbst _über den Inhalt_! und was heißt das? (Wie ‘beziehen’ sich meine Worte auf den mir bewußten Inhalt? und zu welchem Zweck?)
+
+### [Ts-232,612\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/612.webp)
+
+<span class="series-number">47.</span> <span class="series-number">047</span> Wir ziehen in diesen Betrachtungen oft, was man ‘Hilfslinien’ nennen kann. Wir machen Konstruktionen wie die des ‘seelenlosen Stamms’ – die am Schluß aus der Betrachtung herausfallen. Daß sie herausfielen, mußte gezeigt werden.
+
+### [Ts-232,612\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/612.webp)
+
+<span class="series-number">48.</span> <span class="series-number">048</span> “Schmerz ist ein Bewußtseinszustand, Verstehen nicht.” – “Nun, ich _fühle_ eben das Verstehen nicht.” – Aber diese Erklärung tut's nicht. Es wäre auch keine Erklärung zu sagen: Was man in irgend einem Sinne _fühlt_, ist ein Bewußtseinszustand. Das hieße ja nur: Bewußtseinszustand = Gefühl. (Man hätte nur ein Wort durch ein anderes ersetzt.)
+
+### [Ts-232,612\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/612.webp)
+
+<span class="series-number">49.</span> <span class="series-number">049</span> Beobachte dich beim Schreiben und wie die Hand die Buchstaben formt, ohne daß du es _eigentlich_ veranlaßt. Du fühlst wohl etwas in deiner Hand, allerlei Spannungen und Drucke, aber daß _die_ dazu nötig sind, diese Buchstaben zu erzeugen, davon weißt du nichts.
+
+### [Ts-232,613\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/613.webp)
+
+<span class="series-number">50.</span> <span class="series-number">050</span> Wo es echte Dauer gibt, da kann man Einem sagen: “Merk auf und gib mir ein Zeichen, wenn das Bild, das Geräusch, etc. sich ändert. Es gibt da überhaupt ein Aufmerken. Während man nicht das Vergessen des Gewußten, u. dergl., mit der Aufmerksamkeit verfolgen kann.
+
+### [Ts-232,613\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/613.webp)
+
+<span class="series-number">51.</span> <span class="series-number">051</span> Denk an das Sprachspiel: Bestimm mit der Stoppuhr, wie lange der Eindruck dauert. Man könnte so nicht die Dauer des Wissens, Könnens, Verstehens bestimmen.
+
+### [Ts-232,613\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/613.webp)
+
+<span class="series-number">52.</span> <span class="series-number">052</span> “Aber die Verschiedenheit von Wissen und Hören liegt doch nicht einfach in so einem Merkmal, wie die Art ihrer Dauer. Sie sind doch ganz und gar grundverschieden!” Freilich. Aber man kann eben nicht sagen: “_Wisse_ und _höre_, und du wirst den Unterschied merken!”
+
+### [Ts-232,613\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/613.webp)
+
+<span class="series-number">53.</span> <span class="series-number">053</span> Man kann nicht das Wissen und das Hören betrachten und sehen, wie verschieden sie sind. Wie man nicht Fichtenholz und einen Tisch betrachten kann, um einen Eindruck von ihrer Verschiedenheit zu kriegen.
+
+### [Ts-232,613\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/613.webp),[614\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/614.webp)
+
+<span class="series-number">54.</span> <span class="series-number">054</span> Wenn ich, um mir den Unterschied der _Begriffe_ Wissen und Sehen vorzuführen, das Sprachspiel mit der Stoppuhr z.B. anwende, so macht dies allerdings den Eindruck als zeigte ich eine sehr schmächtige Unterscheidung, wo die Wirkliche doch unermeßlich groß ist. Aber dieser enorme Unterschied liegt eben darin (so möchte ich immer sagen), daß die beiden Begriffe ganz anders in unsern Sprachspielen eingebettet sind. Und der Unterschied auf den ich aufmerksam machte, war eben nur ein Hinweis auf diese durchgehende Verschiedenheit.
+
+### [Ts-232,614\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/614.webp)
+
+<span class="series-number">55.</span> <span class="series-number">055</span> Das Kind lernt “Ich weiß das jetzt” und “Ich höre das jetzt”; aber Gott! wie verschieden die Anlässe, die Anwendung, Alles! Wie kann man den Gebrauch überhaupt vergleichen? Es ist schwer zu sehen, wie man sie zusammenstellen soll, um Unterschiede anzugeben. Wo der Unterschied so groß ist, da ist es schwer auf eine Unterscheidung hinzuweisen.
+
+### [Ts-232,614\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/614.webp)
+
+<span class="series-number">56.</span> <span class="series-number">056</span> Ich kann sagen “So und ähnlich wird dieses Wort verwendet, so und ähnlich jenes.” Die Vergleichbarkeit ist schwer zu sehen; nicht der Unterschied.
+
+### [Ts-232,614\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/614.webp)
+
+<span class="series-number">57.</span> <span class="series-number">057</span> Der gemeinsame Unterschied aller Bewußtseinszustände von den Dispositionen scheint mir zu sein, daß man sich nicht durch Stichproben überzeugen muß, ob sie noch andauern.
+
+### [Ts-232,614\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/614.webp)
+
+<span class="series-number">58.</span> <span class="series-number">058</span> Man muß daran denken, daß es einen Zustand der Sprache geben kann (und wohl gegeben hat) in welchem sie den allgemeinen Begriff der Sinnesempfindung nicht besitzt, aber doch Wörter entsprechend unserem “sehen”, “hören”, “schmecken”.
+
+### [Ts-232,614\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/614.webp)
+
+<span class="series-number">59.</span> <span class="series-number">059</span> Sinneswahrnehmungen nennen wir Sehen, Hören, … Zwischen diesen Begriffen bestehen Analogien und Zusammenhänge, sie sind unsere Rechtfertigung für diese Zusammenfassung.
+
+### [Ts-232,615\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/615.webp)
+
+<span class="series-number">60.</span> <span class="series-number">060</span> Man kann also fragen: Was für Zusammenhänge und Analogien bestehen zwischen Sehen und Hören? Zwischen Sehen und Greifen? Zwischen Sehen und Riechen? –
+
+### [Ts-232,615\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/615.webp)
+
+<span class="series-number">61.</span> <span class="series-number">061</span> Und fragt man das, so rücken die Sinne so zu sagen gleich weiter auseinander, als sie _auf den ersten Blick_ zu liegen scheinen.
+
+### [Ts-232,615\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/615.webp)
+
+<span class="series-number">62.</span> <span class="series-number">062</span> Die Begriffe der Psychologie sind eben Begriffe des Alltags. Nicht von der Wissenschaft zu ihren Zwecken neu gebildete Begriffe, wie die der Physik und Chemie. Die Psychologischen Begriffe verhalten sich etwa zu denen der strengen Wissenschaften wie die Begriffe der wissenschaftlichen Medizin zu denen von alten Weibern die sich mit der Krankenpflege abgeben.
+
+### [Ts-232,615\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/615.webp),[616\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/616.webp),[617\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)
+
+<span class="series-number">63.</span> <span class="series-number">063</span> Plan zur Behandlung der psychologischen Begriffe. Psychologische Verben charakterisieren dadurch, daß die dritte Person des Präsens durch Beobachtung zu identifizieren ist, die erste Person nicht. Satz in der dritten Person Präsens: Mitteilung, in der ersten Person Präsens Äußerung. ((Stimmt nicht ganz.)) Sinnesempfindungen: ihre inneren Zusammenhänge und Analogien.
+
+Alle haben echte Dauer. Möglichkeit der Angabe des Anfangs und Endes. Möglichkeit der Gleichzeitigkeit, des zeitlichen Zusammenfallens. Alle haben Grade und qualitative Mischungen. Grad: kaum merkbar – nicht auszuhalten. In diesem Sinne gibt es nicht Lage– oder Bewegungsempfindung. Ort der Empfindung am Leib: unterscheidet Sehen und Hören von
+
+Druck-, Temperatur-, Geschmacks- und Schmerzempfindung. (Wenn Empfindungen die Lage der Glieder und die Bewegungen charakterisieren, so ist ihr Ort jedenfalls nicht das Gelenk.) Die Lage der Glieder und ihre Bewegungen _weiß_ man. Man kann sie z.B. angeben, wenn man gefragt wird. So wie man auch den Ort einer Empfindung (Schmerz) am Leibe weiß. Reaktionen des Berührens der schmerzhaften Stelle. Kein lokales Merkmal an der Empfindung. So wenig wie ein zeitliches am Erinnerungsbild. (Zeitliche Merkmale an der Photographie.) Schmerz von andern Sinnesempfindungen unterschieden durch charakteristischen Ausdruck. Dadurch verwandt der Freude (die keine Sinnesempfindung). “Sinnesempfindungen lehren uns die Außenwelt kennen.” Vorstellung: Gehörsvorstellung, Gesichtsvorstellung, wie unterscheiden sie sich von den Empfindungen? Nicht durch “Lebhaftigkeit”. Vorstellungen belehren uns nicht über die Außenwelt, weder richtig noch falsch. (Vorstellungen sind nicht Halluzinationen, auch nicht Einbildungen.) Während ich einen Gegenstand sehe, kann ich ihn mir nicht vorstellen. Verschiedenheit der Sprachspiele: “Schau die Figur an!” und “Stell dir die Figur vor!” Vorstellung dem Willen unterworfen. Vorstellung nicht Bild. Welchen Gegenstand ich mir vorstelle, ersehe ich nicht aus der Ähnlichkeit des Vorstellungsbildes mit ihm. Auf die Frage “Was stellst du dir vor” kann man mit einem Bild antworten.
+
+### [Ts-232,617\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)
+
+<span class="series-number">64.</span> <span class="series-number">064</span> Man möchte sagen: Der vorgestellte Klang sei in einem andern _Raum_ als der gehörte. (Frage – Warum?)
+
+### [Ts-232,617\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)
+
+<span class="series-number">65.</span> <span class="series-number">065</span> Ich lese ein Buch und stelle mir während des Lesens, also während des aufmerksamen Schauens alles Mögliche vor.
+
+### [Ts-232,617\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)
+
+<span class="series-number">66.</span> <span class="series-number">066</span> Es könnte Leute geben, die nie den Ausdruck gebrauchen “etwas vor dem inneren Auge sehen”, oder einen ähnlichen; und diese könnten doch im Stande sein, ‘aus der Vorstellung’, oder Erinnerung zu zeichnen, zu modellieren, das charakteristische Benehmen Anderer nachzuahmen, etc. Sie mögen auch, ehe sie etwas aus der Erinnerung zeichnen, die Augen schließen, oder wie blind vor sich hinstarren. Und doch könnten sie leugnen, daß sie dann vor sich _sehen_, was sie später zeichnen.
+
+### [Ts-232,617\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)
+
+<span class="series-number">67.</span> <span class="series-number">067</span> “Siehst du sie, wie sie zur Tür hereinkommt?” – und nun macht man's nach.
+
+### [Ts-232,617\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)
+
+<span class="series-number">68.</span> <span class="series-number">068</span> ‘Sehen’ ist nämlich mit ‘Schauen’ unzertrennlich verbunden. ((D.h., das ist _eine_ Art der Begriffsbestimmung, die eine Physiognomie ergibt.)) Die Wörter, die beschreiben, was man sieht, sind Eigenschaften der Dinge, man lernt ihre Bedeutung nicht im Zusammenhang mit dem Begriff des ‘inneren Sehens’.
+
+### [Ts-232,617\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp),[618\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp)
+
+<span class="series-number">69.</span> <span class="series-number">069</span> Fragt man aber: “Was ist der Unterschied zwischen einem Gesichtsbild und einem Vorstellungsbild?” – so könnte die Antwort lauten: Die gleiche Beschreibung kann darstellen, was ich sehe, und was ich mir vorstelle. Zu sagen, es sei ein Unterschied zwischen Gesichtsbild und Vorstellungsbild, heißt: man stellt sich etwas anders vor als es ausschaut.
+
+### [Ts-232,618\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp)
+
+<span class="series-number">70.</span> <span class="series-number">070</span> Ich hätte früher auch sagen können: Der _Zusammenhang_ zwischen Vorstellen und Sehen ist eng; eine _Ähnlichkeit_ aber gibt es nicht.
+
+### [Ts-232,618\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp)
+
+<span class="series-number">71.</span> <span class="series-number">071</span> Die Sprachspiele mit den beiden Begriffen sind grundverschieden, – hängen aber zusammen.
+
+### [Ts-232,618\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp)
+
+<span class="series-number">72.</span> <span class="series-number">072</span> Unterschied: ‘trachten, etwas zu sehen’ – ‘trachten, sich etwas vorzustellen’. Im ersten Fall sagt man etwa “Schau genau hin!, im zweiten “Schließ die Augen!”
+
+### [Ts-232,618\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp)
+
+<span class="series-number">73.</span> <span class="series-number">073</span> So weißt du also nicht, ob Gesehenes (z.B. ein Nachbild) und eine Vorstellung im Übrigen nicht ganz gleich ausschauen? (Oder soll es heißen: _sind_?) – – – Diese Frage könnte nur eine empirische sein und etwa heißen: “kommt es vor, oder gar oft vor, daß Einer eine Vorstellung längere Zeit ungestört vor der Seele erhalten, und sie so in allen Einzelheiten beschreiben kann, wie etwa ein Nachbild?”
+
+### [Ts-232,618\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp)
+
+<span class="series-number">74.</span> <span class="series-number">074</span> “Kannst du den Vogel jetzt noch sehen?” – “Ich bilde mir ein, ich kann ihn noch sehen.” Das heißt nicht: Ich stelle ihn mir vielleicht vor.
+
+### [Ts-232,618\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/618.webp),[619\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/619.webp)
+
+<span class="series-number">75.</span> <span class="series-number">075</span> “Sehen und Vorstellen sind verschiedene Phänomene.” – Die Wörter “sehen” und “vorstellen” werden ungleich verwendet. “Ich sehe” wird anders verwendet als “Ich stelle mir vor”; “Sieh!” wird anders verwendet als “Stell dir vor!”; “Ich versuche, es zu sehen” anders als “Ich versuche, mir's vorzustellen”. – – –“Aber die Phänomene sind eben: daß die Menschen sehen und daß wir uns Dinge vorstellen.” Ein Phänomen ist etwas, das man beobachten kann: Wie beobachtet man nun, daß die Menschen sehen? Ich kann z.B. beobachten, daß die Vögel fliegen oder Eier legen. Ich kann Einem sagen: “Siehst du, diese Geschöpfe fliegen. Schau, wie sie mit den Flügeln schlagen und sich in die Luft erheben.” Ich kann auch sagen: “Siehst du, dieses Kind ist nicht blind; es sieht. Schau, wie es der Kerzenflamme folgt.” Aber kann ich mich so zu sagen davon überzeugen, _daß Menschen sehen_? “Menschen sehen.” – Im Gegensatz _wozu_? Dazu etwa, daß alle blind sind?
+
+### [Ts-232,619\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/619.webp)
+
+<span class="series-number">76.</span> <span class="series-number">076</span> Kann ich mir den Fall vorstellen, daß ich sagte: “Ja, du hast Recht: die Menschen sehen, so wie ich auch.”
+
+### [Ts-232,619\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/619.webp)
+
+<span class="series-number">77.</span> <span class="series-number">077</span> “Sehen und Verstehen sind verschiedene Phänomene.” – Die Wörter “sehen” und “verstehen” haben verschiedene Bedeutungen! Ihre Bedeutungen beziehen sich auf eine Menge wichtiger Arten und Weisen menschlichen Verhaltens, auf Phänomene des menschlichen Lebens. Die Augen schließen um sich etwas vorzustellen ist ein Phänomen; mit verkniffenen angestrengt schauen, ist ein Anderes; einem Ding in Bewegung mit den Augen folgen, wieder eins. Denk, Einer sagte: “Der Mensch kann sehen oder blind sein”! “Sehen”, “Vorstellen”, “Hoffen” sind eben nicht Phänomenwörter, könnte man sagen. Das heißt aber natürlich nicht, daß der Psychologe nicht Phänomene beobachtet.
+
+### [Ts-232,620\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)
+
+<span class="series-number">78.</span> <span class="series-number">078</span> Der Ausdruck, das Vorstellen unterstehe dem Willen kann irreführen, weil er den Schein erweckt, als wäre der Wille eine Art Motor und die Vorstellungen mit diesem im Zusammenhang, so daß er sie hervorrufen, bewegen, abstellen könnte.
+
+### [Ts-232,620\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)
+
+<span class="series-number">79.</span> <span class="series-number">079</span> Aber wäre es nicht denkbar, daß bei einem Menschen das gewöhnliche Sehen dem Willen unterworfen wäre – Würde ihn das Sehen dann über die Außenwelt belehren? Hätten denn die Dinge Farben, wenn wir sie sehen könnten, wie wir wollen?
+
+### [Ts-232,620\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)
+
+<span class="series-number">80.</span> <span class="series-number">080</span> Weil die Vorstellung dem Willen untertan ist unterrichtet sie uns eben nicht über die Außenwelt. Insofern – aber nicht in anderer Weise – ist sie einer Tätigkeit wie dem Zeichnen verwandt. Und doch ist es nicht leicht, das Vorstellen eine Tätigkeit zu nennen.
+
+### [Ts-232,620\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)
+
+<span class="series-number">81.</span> <span class="series-number">081</span> Wie ist es aber, wenn ich dir sage: “Stell dir eine Melodie vor”? Ich muß sie mir ‘innerlich vorsingen’. Das wird man ebenso eine Tätigkeit nennen wie das Kopfrechnen.
+
+### [Ts-232,620\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)
+
+<span class="series-number">82.</span> <span class="series-number">082</span> Denk auch daran, daß man Einem befehlen kann “Zeichne den N.N. nach der Vorstellung” und daß, ob er dies tut, oder nicht, nicht nach der Ähnlichkeit des Bildnisses entschieden wird. Und dem ist analog, daß ich mir den N.N. vorstelle, auch wenn ich ihn mir falsch vorstelle.
+
+### [Ts-232,620\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp),[621\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/621.webp)
+
+<span class="series-number">83.</span> <span class="series-number">083</span> Wenn ich sage, die Vorstellung sei dem Willen unterworfen, so heißt das nicht, sie sei gleichsam eine willkürliche Bewegung im Gegensatz zu einer unwillkürlichen. Denn die selbe Bewegung des Armes etwa, die jetzt willkürlich ist, könnte auch unwillkürlich sein. – Ich meine: Es hat _Sinn_ einen Befehl zu geben: “Stell dir das vor”, oder auch “Stell dir das nicht vor.”
+
+### [Ts-232,621\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/621.webp)
+
+<span class="series-number">84.</span> <span class="series-number">083</span> Aber betrifft die Verbindung mit dem Willen nicht nur, so zu sagen, die Maschinerie, durch die die Vorstellung (das Vorstellungsbild) erzeugt, geändert wird? – Es wird hier kein Bild erzeugt; es sei denn, Einer fertige ein Bild, ein wirkliches Bild, an.
+
+### [Ts-232,621\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/621.webp)
+
+<span class="series-number">85.</span> <span class="series-number">084</span> Der Dolch, den Macbeth vor sich sieht, ist kein vorgestellter Dolch. Eine Vorstellung kann man nicht für Wirklichkeit halten, noch Gesehenes für Vorgestelltes; aber nicht, weil sie einander so unähnlich sind.
+
+### [Ts-232,621\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/621.webp)
+
+<span class="series-number">86.</span> <span class="series-number">085</span> Gegen die Willkürlichkeit der Vorstellung kann man sagen, daß Vorstellungen oft gegen unsern Willen sich uns aufdrängen und bleiben, sich nicht verscheuchen lassen Doch aber kann der Wille gegen sie ankämpfen. Ist aber, sie willkürlich zu nennen, nicht, als nennte ich eine Armbewegung willkürlich, zu der ein Anderer meinen Arm _gegen meinen Willen_ zwingt?
+
+### [Ts-232,621\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/621.webp),[622\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/622.webp)
+
+<span class="series-number">87.</span> <span class="series-number">086</span> Sag dir wieder, wenn Einer darauf besteht, was er “Gesichtsvorstellung” nennt, sei ähnlich dem Gesichtseindruck: daß er sich vielleicht _irrt_! Oder: Wie, wenn er sich darin irrte? Das heißt: was weißt du von der Ähnlichkeit seines Gesichtseindrucks und seiner Gesichtsvorstellung?! (Ich rede vom Andern, weil, was von ihm gilt, auch von mir gilt.) Was weißt du also von dieser Ähnlichkeit? Sie äußert sich nur in den Ausdrücken, die er zu gebrauchen geneigt ist; nicht in dem, was er mit diesen Ausdrücken sagt. “Es ist gar kein Zweifel: die Gesichtsvorstellung und der Gesichtseindruck sind von der selben Art!” Das mußt du aus deiner eigenen Erfahrung wissen; und dann ist es also etwas, was für dich stimmen mag und für Andere nicht. (Und das gilt natürlich auch für mich, wenn _ich_ es sage.) Nichts ist schwerer, als den Begriffen _vorurteilslos_ gegenüber stehen. (Und das ist die Hauptschwierigkeit der Philosophie.)
+
+### [Ts-232,622\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/622.webp)
+
+<span class="series-number">88.</span> <span class="series-number">087</span> Sich etwas vorstellen, ist zu vergleichen mit einer Tätigkeit. (Schwimmen) Wenn wir uns etwas vorstellen, beobachten wir nicht. Daß die Bilder kommen und vergehen _geschieht_ uns nicht. Wir sind nicht überrascht von diesen Bildern und sagen “Sieh da! …”
+
+### [Ts-232,622\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/622.webp)
+
+<span class="series-number">89.</span> <span class="series-number">088</span> Wir verscheuchen nicht Gesichtseindrücke, aber Vorstellungen.
+
+### [Ts-232,622\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/622.webp)
+
+<span class="series-number">90.</span> <span class="series-number">089</span> Könnten wir die Eindrücke verscheuchen und vor unsere Seele rufen, sie könnten uns nicht über die Wirklichkeit informieren. – So unterschieden sich Eindrücke von Vorstellungen nur dadurch, daß wir diese bewegen können und jene nicht? So ist also der Unterschied empirisch! So ist es eben nicht.
+
+### [Ts-232,623\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/623.webp)
+
+<span class="series-number">91.</span> <span class="series-number">090</span> Aber ist es denn undenkbar, daß Gesichtseindrücke sich verscheuchen, oder zurückrufen ließen? Ja, ist es nicht wirklich möglich? Wenn ich meine Hand ansehe und dann bewege ich sie aus dem Gesichtsfeld, habe ich ihren Gesichtseindruck nicht willkürlich abgebrochen? – Aber, wird man mir sagen, so etwas nennt man doch nicht “das Bild der Hand verscheuchen”! Freilich nicht; aber wo ist der Unterschied? Man möchte sagen: der Wille bewegt die Vorstellungen unmittelbar. Denn, wenn ich meinen Gesichtseindruck willkürlich ändere, so folgen die _Dinge_ meinem Willen.
+
+### [Ts-232,623\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/623.webp)
+
+<span class="series-number">92.</span> <span class="series-number">091</span> Wie aber, wenn die Gesichtseindrücke sich eben unmittelbar regieren ließen? Soll ich sagen: “Dann gäbe es keine Eindrücke, sondern nur Vorstellungen”? Und wie wäre das? Wie erführe ich z.B., daß der Andere eine bestimmte Vorstellung hätte? Er würde es mir sagen. – Aber wie würde er die dazu nötigen Worte lernen – sagen wir; “rot” und “rund”? Denn ich könnte sie ihn doch nicht lehren, indem ich auf etwas Rotes und Rundes zeige. Ich könnte mir nur die Vorstellung hervorrufen, daß ich auf etwas derartiges zeige. Und ich könnte ihn natürlich auch nicht _sehen_, sondern ihn mir nur vorstellen. Ist die Annahme nicht überhaupt so wie die, es gäbe in der Welt _nur_ Dichtung und nicht Wahrheit?
+
+### [Ts-232,623\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/623.webp),[624\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/624.webp)
+
+<span class="series-number">93.</span> <span class="series-number">092</span> Und ich selbst könnte natürlich auch keine Beschreibung meiner Vorstellungen lernen, noch sie auch selbst erfinden. Denn was hieße es, z.B., daß ich mir ein rotes Kreuz auf weißem Grunde vorstelle? Wie sieht denn ein rotes Kreuz aus? So?? – Aber könnte nicht ein höheres Wesen durch Intuition wissen, _was_ ich mir vorstelle, und dies in seiner Sprache beschreiben, wenn sie _mir_ auch unverständlich wäre? – Angenommen, dies höhere Wesen sagte “ich weiß, was sich dieser Mensch jetzt vorstellt; es ist dies: …” – Aber wie konnte ich das “wissen” nennen? Es ist ja ganz anders, als das, was _wir_ nennen “wissen”, was sich der Andere vorstellt”. Wie vergleicht man denn den gewöhnlichen Fall mit jenem erdichteten? Wenn ich mich in diesem Fall als Dritten denke, so wüßte ich gar nicht, was das höhere Wesen damit meint: Es wisse, welche Vorstellung der Mensch hat, der nur Vorstellungen und keine Eindrücke hat.
+
+### [Ts-232,624\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/624.webp)
+
+<span class="series-number">94.</span> <span class="series-number">093</span> “Aber kann ich mir nicht doch so einen Fall vorstellen?” Vor Allem kannst du über ihn _reden_. Aber das zeigt nicht, daß du ihn ganz durchdacht hast. (5 Uhr auf der Sonne.)
+
+### [Ts-232,624\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/624.webp)
+
+<span class="series-number">95.</span> <span class="series-number">094</span> Man möchte davon reden, wie ein Gesichtseindruck und wie eine Vorstellung _ausschauen_. Und etwa fragen: “Könnte nicht etwas so ausschauen, wie z.B. mein gegenwärtiger Gesichtseindruck, sich aber im Übrigen _benehmen_ wie eine Vorstellung?” Und hier ist offenbar ein Fehler.
+
+### [Ts-232,624\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/624.webp),[625\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/625.webp)
+
+<span class="series-number">96.</span> <span class="series-number">095</span> Aber denk dir dies: Wir lassen jemand durch ein Loch in eine Art Guckkasten schauen, und in diesem bewegen wir nun verschiedene Gegenstände, Figuren, und zwar, durch Zufall oder mit Absicht so, daß die Bewegung gerade die ist, die der Beobachter wollte; so daß er sich einbildet, was er sieht, gehorche seinem Willen. – Konnte der sich nun täuschen; glauben, seine Gesichtseindrücke seien Vorstellungen? Das klingt ganz absurd. Ich brauche ja den Guckkasten gar nicht, sondern muß nur, wie oben, meine Hand betrachten und sie bewegen. Könnte ich aber auch den Vorgang dort drüben willkürlich bewegen, oder zum Verschwinden bringen, so würde ich das doch nicht als einen Vorgang in meiner Fantasie deuten.
+
+### [Ts-232,625\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/625.webp)
+
+<span class="series-number">97.</span> <span class="series-number">096</span> Ich kann eben von Haus aus einen Eindruck nicht für eine Vorstellung halten. Aber was heißt das? Könnte ich mir denn einen Fall denken, daß ein _Anderer_ das täte? Wie kommt es, daß das nicht denkbar ist?
+
+### [Ts-232,625\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/625.webp)
+
+<span class="series-number">98.</span> <span class="series-number">097</span> Wenn Einer wirklich sagte “Ich weiß nicht, sehe ich jetzt einen Baum, oder stelle ich mir einen vor”, so würde ich zunächst glauben, er meine: “oder bilde ich mir nur ein, es stehe dort einer”. – Meint er das nicht, so könnte ich ihn überhaupt nicht verstehen – wollte mir aber jemand diesen Fall erklären und sagte “Er hat eben so außergewöhnlich lebhafte **V**orstellungen, daß er sie für Sinneseindrücke halten kann” – verstünde ich's jetzt?
+
+### [Ts-232,625\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/625.webp),[626\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp)
+
+<span class="series-number">99.</span> <span class="series-number">098</span> Denk dir aber nun dennoch einen Menschen, der sagte “Meine Vorstellungen sind heute so lebhaft, wie wirkliche Gesichtseindrücke”, – müßte freilich erst von ihm erfahren, wie sich denn dies zeigt. Sagte er mir aber “Ich weiß oft nicht, ob ich etwas sehe, oder es mir nur vorstelle”, so würde ich das nicht einen Fall überlebhafter Vorstellung nennen.
+
+### [Ts-232,626\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp)
+
+<span class="series-number">100.</span> <span class="series-number">099</span> Muß man aber hier nicht unterscheiden: sich, sagen wir, das Gesicht eines Freundes vorstellen, aber nicht im Raum der mich umgibt – und andrerseits: sich an dieser Wand dort ein Bild etwa vorstellen? Man könnte z.B. auf die Aufforderung “Stell dir dort drüben einen runden Fleck vor” sich einbilden, wirklich einen dort zu sehen.
+
+### [Ts-232,626\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp)
+
+<span class="series-number">101.</span> <span class="series-number">100</span> Freilich, wenn ich sage “Ist dort nicht wirklich ein Fleck?” Und also etwas genauer hinschaue, so gehorcht, was ich hier Vorstellung nenne, _nicht_ meinem Willen. Und eine _Einbildung_ gehorcht ja nicht meinem Willen.
+
+### [Ts-232,626\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp)
+
+<span class="series-number">102.</span> <span class="series-number">101</span> Man darf nicht vergessen, daß die materielle Implikation tatsächlich auch ihre Verwendung, ihre praktische Verwendung, hat; wenn sie auch nicht häufig vorkommt.
+
+### [Ts-232,626\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp)
+
+<span class="series-number">103.</span> <span class="series-number">102</span> Wer den Satz “Wenn p, so q” verneint, verneint einen Zusammenhang. Er sagt: “Es muß nicht so sein.” Und das Wort “muß” deutet auf den Zusammenhang.
+
+### [Ts-232,626\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp),[627\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp)
+
+<span class="series-number">104.</span> <span class="series-number">103</span> Aus “nicht p & und q” folgt _nicht_ “Wenn p, so q”. Es ist _nicht_ aus “nicht p & q” zu erschließen. Der Sinn von “Wenn p, so q” ist von dem des Satzes “p impliziert q” **grund**verschieden. Wenn auch ein _Zusammenhang_ besteht. Dieser: “p & q”, welches die Implikationen wahr macht, tut dies auch für den Satz “ …so …”, oder spricht doch für seine Wahrheit. “p & nicht q widerspricht der Implikation und auch dem Wenn-so-Satz, oder ist seiner Wahrheit nicht günstig. “nicht p & q” und “nicht p & nicht q” bewahrheiten die Implikation und entscheiden nichts über die Wahrheit von “Wenn …, so …”.
+
+### [Ts-232,627\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp)
+
+<span class="series-number">105.</span> <span class="series-number">104</span> “Wenn _dies_ eintrifft, so wird _das_ eintreffen. Habe ich Recht, so zahlst du mir einen Schilling, habe ich Unrecht, so zahle ich dir einen, bleibt es unentschieden, so zahlt keiner.” Das könnte man auch so ausdrücken: Der Fall, in welchem die Prämisse _nicht_ eintrifft, interessiert. uns nicht, wir reden nicht von ihnen. Oder auch: es ist uns hier nicht natürlich, die Wörter “ja” und “nein” so zu gebrauchen, wie in dem Falle (und solche Fälle gibt es) in welchem uns die materielle Implikation interessiert. Mit “Nein” wollen wir hier sagen “p & nicht q”, mit “Ja” nur “p & q”.
+
+### [Ts-232,627\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp),[628\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp)
+
+<span class="series-number">106.</span> <span class="series-number">105</span> Es ist z.B. ganz gewöhnlich auf die Wahrheit einer Vorhersage zu _wetten_. Wetten wir nun auf die Behauptung “Wenn p eintrifft, so wird q eintreffen”, so wird man zwar auch sagen “Wenn du Recht hast, zahle ich dir …, wenn nicht …”; aber beim Nicht–eintreffen von p wird die Wette nicht gelten. Es handelt sich doch hier um zwei verschiedene Arten der Verwendung der Verneinung eines Satzes. Und so, wie “nicht nicht p” nicht p ist, wenn die Verdopplung der Verneinung eine Verstärkung der Verneinung bedeutet, so ist auch “p ⌵ nicht p”, wie _wir_ die Verneinung gebrauchen, nicht _unbedingt_ eine Tautologie. In dem obigen Fall sollte die Behauptung, der Bedingungssatz sei wahr oder aber falsch, eigentlich das unbedingte Eintreffen des Ereignisses behaupten. Denn jene Behauptung ist ja, der Bedingungssatz werde nicht unentschieden bleiben.
+
+### [Ts-232,628\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp)
+
+<span class="series-number">107.</span> <span class="series-number">106</span> Der Satz “Die Vorstellung ist dem Willen unterworfen” ist kein Satz der Psychologie.
+
+### [Ts-232,628\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp)
+
+<span class="series-number">108.</span> <span class="series-number">107</span> Ich lerne den Begriff ‘sehen’ in Verbindung mit ‘schauen’. Die Verwendung des einen Worts verbunden mit der des andern.
+
+### [Ts-232,628\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp)
+
+<span class="series-number">109.</span> <span class="series-number">108</span> Wenn man sagt “der Erlebnisinhalt des Sehens und des Vorstellens sei wesentlich der Selbe”, so ist _das_ wahr daran, daß ein gemaltes Bild wiedergeben kann, was man sieht und wiedergeben kann, was man sich vorstellt. Nur darf man sich nicht vom Mythus des _inneren Bildes_ täuschen lassen.
+
+### [Ts-232,628\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp)
+
+<span class="series-number">110.</span> <span class="series-number">109</span> Das ‘Vorstellungsbild’ tritt nicht dort ins Sprachspiel ein, wo man es vermuten möchte.
+
+### [Ts-232,628\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp)
+
+<span class="series-number">111.</span> <span class="series-number">110</span> Ich lerne den Begriff ‘sehen’ mit dem Beschreiben dessen, was ich sehe, Ich lerne beobachten und das Beobachtete beschreiben. Ich lerne den Begriff ‘vorstellen’ in einer gänzlich andern Verbindung. Die Beschreibungen des Gesehenen und des Vorgestellten sind allerdings von der selben Art, und eine Beschreibung könnte sowohl das Eine, wie auch das Andere sein; aber sonst sind die Begriffe durchaus verschieden. Der Begriff des Vorstellens ist eher wie der eines Tuns, als eines Empfangens. Das Vorstellen könnte man einen schöpferischen Akt nennen. (Und nennt es ja auch so.
+
+### [Ts-232,628\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/628.webp),[629\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/629.webp)
+
+<span class="series-number">112.</span> <span class="series-number">111</span> “Ja, aber die Vorstellung selbst, so wie der Gesichtseindruck, ist doch das innere Bild und _du_ redest nur von den Verschiedenheiten der Erzeugung, Entstehung, Behandlung des Bildes.” Die Vorstellung ist nicht ein Bild, noch ist der Gesichtseindruck eines. Weder ‘Vorstellung’ noch ‘Eindruck’ ist ein Bildbegriff, obwohl in beiden Fällen ein Zusammenhang mit einem Bild statt hat, und jedes Mal ein Anderer.
+
+### [Ts-232,629\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/629.webp)
+
+<span class="series-number">113.</span> <span class="series-number">112</span> “Aber könnte ich mir nicht einen Erlebnisinhalt denken von der Art der visuellen Vorstellung, aber dem Willen nicht unterworfen, in dieser Beziehung wie der Gesichtseindruck?” Hier ist das Irreführende das Reden vom Erlebnisinhalt. Wenn wir von Einem fürs visuelle Vorstellen typischen Erlebnisinhalt reden, so muß der Inhalt in mir mit dem Inhalt in dir verglichen werden können. Und, so seltsam es klingt, müßte man, glaube ich, sagen, der Erlebnisinhalt – wenn man überhaupt diesen Begriff hier gebrauchen will – sei für visuelle Vorstellung und visuellen Eindruck _der Gleiche_. Und das klingt paradox, weil Jeder ausrufen möchte: Du willst mir doch nicht sagen, daß man je diese beiden, Vorstellung und Eindruck, mit einander verwechseln könnte! – So wenig, könnte ich antworten, wie z.B. Zeichnen und Sehen. Aber was gezeichnet und was gesehen wird, mag doch das Selbe sein. Vorstellung und Eindruck ‘schauen’ eben nicht verschieden ‘aus’.
+
+### [Ts-232,629\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/629.webp),[630\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/630.webp)
+
+<span class="series-number">114.</span> <span class="series-number">113</span> Man könnte aber auch sagen, daß “Erlebnisinhalt” für Vorstellung und Eindruck nicht die gleiche Bedeutung hat, sondern nur verwandte Bedeutungen. Wenn ich mir z.B. ein Gesicht ganz genau so vorstelle, wie es ausschaut, wenn ich's später sehe, hatte mein Eindruck und meine Vorstellung den gleichen Erlebnisinhalt. Man kann _nicht_ sagen, es sei nicht der Gleiche, da Vorstellung und Eindruck nie gleich aussähen. Der Inhalt der Beiden ist also _dies_ – (indem ich etwa auf ein Bild zeige). Aber ich _müßte_ nicht beide Male (den Inhalt) nennen.
+
+### [Ts-232,630\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/630.webp)
+
+<span class="series-number">115.</span> <span class="series-number">114</span> Vorstellung und Intention. Auch insofern ist vorstellen dem _schaffen_ eines Bildes zu vergleichen, als ich mir nicht den vorstelle, dem mein Vorstellungsbild ähnlich ist, sondern den, den ich mir vorstellen will.
+
+### [Ts-232,630\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/630.webp)
+
+<span class="series-number">116.</span> <span class="series-number">115</span> Ich glaube, wenn man Vorstellen mit einer Körperbewegung vergleicht, wie das Atmen, das man manchmal willkürlich, manchmal unwillkürlich geschieht, so darf man den Sinneseindruck _gar nicht_ mit einer Bewegung vergleichen. Nicht so kann der Unterschied gefaßt werden, daß das Eine geschieht, ob wir's wollen oder nicht, während wir das andere regieren. Vielmehr ist der eine Begriff dem einer Handlung ähnlich, der andre nicht. Der Unterschied ist eher wie der zwischen Sehen, daß meine Hand sich bewegt – und Wissen (ohne sie zu sehen) daß ich sie bewege.
+
+### [Ts-232,630\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/630.webp)
+
+<span class="series-number">117.</span> <span class="series-number">116</span> “Wenn ich die Augen schließe, steht er vor mir”. – Man könnte sich denken, daß solche Ausdrücke nicht gelernt, sondern poetisch spontan gebildet sind. Daß sie uns also ‘treffend scheinen’
+
+### [Ts-232,630\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/630.webp)
+
+<span class="series-number">118.</span> <span class="series-number">117</span> “Ich sehe ihn deutlich vor mir!” – Nun, vielleicht steht er wirklich vor dir. – “Nein, dazu ist mein Bild zu wenig lebhaft.” –
+
+### [Ts-232,631\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/631.webp)
+
+<span class="series-number">119.</span> <span class="series-number">118</span> Könnten wir uns nicht _diese_ Erscheinung _denken_: Wir seien im Stande, indem wir einen Lichtschirm anschauen, auf ihm nach Willkür, ‘durch den bloßen Willen’, Bilder zu erzeugen, zu bewegen, verschwinden zu lassen, etc., Bilder, die nicht bloß der, der sie erzeugt, sondern auch der Andere sieht. – Wäre, was ich auf diesem Schirm sehe so etwas wie eine Vorstellung? Oder vielleicht richtiger gefragt: Hieße “ich sehe … auf dem Schirm” etwas Ähnliches wie: “Ich stelle mir … vor”? – oder soll ich sagen, der Satz “Auf dem Schirm zeigt sich jetzt …” entspreche dem “Ich stelle mir … vor”? – Nein; _so_ ist es nicht. Die Schwierigkeit ist hier, daß ich keinen klaren Begriff davon habe: ‘die Bilder durch den Willen zu erzeugen’ etc. Denn eigentlich ist ja der Fall nicht ganz fantastisch: Ich kann mir ja wirklich auf einer fleckigen Wand alles Mögliche vorstellen; und wenn der Andere, wenn er auf die Wand schaut, immer wüßte, was ich mir vorstelle, so wäre der Fall nun ähnlich dem _eben beschriebenen_. ((Könnte man aber nicht auch von dem sagen, er erzeuge Bilder auf der Wand durch den bloßen Willen, der sie auf die Wand zeichnet?)) “Durch den bloßen Willen bewegen” was heißt es? Etwa, daß die Bilder meinem Willen immer genau folgen, während meine zeichnende Hand, mein Bleistift, das nicht tut? Immerhin wäre es ja dann doch möglich zu sagen: “Für gewöhnlich stelle ich mir ganz genau vor, was ich will; heute ist es anders ausgefallen.” Gibt es denn ein ‘Mißlingen der Vorstellung’?
+
+### [Ts-232,631\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/631.webp),[632\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/632.webp)
+
+<span class="series-number">120.</span> <span class="series-number">119</span> Wenn nicht, so will man das etwa so erklären, daß das Vorstellungsbild masselos ist. und dem Willen keinen Trägheits- oder andern Widerstand entgegensetzt. Nein; “ich sehe auf dem Schirm …” kann nicht meinem Vorstellen entsprechen. Auch nicht “ich produziere auf dem Schirm …” – denn dann könnte es gelingen und mißlingen. Eher noch das: “Für mich ist, was auf diesem Schirm ist, jetzt ein Bild von …
+
+### [Ts-232,632\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/632.webp)
+
+<span class="series-number">121.</span> <span class="series-number">120</span> Es gibt freilich ein Sprachspiel mit dem Befehl “Stell dir … vor!” – aber ist es denn wirklich ohne Weiteres gleich zu setzen dem “Dreh deinen Kopf nach rechts!”? Oder auch so: Hat es denn ohne Weiteres Sinn, zu sagen, Gesichtsbilder, innere Bilder, folgten meinem Willen? (Wohlgemerkt: _nicht_ “meinem Wunsch”.)
+
+### [Ts-232,632\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/632.webp)
+
+<span class="series-number">122.</span> <span class="series-number">121</span> Denn das, wovon man _normaler Weise_ sagt, es folge, oder folge nicht, dem Willen, sind nicht ‘innere Bilder’. Es ist also nicht klar, daß man den Begriff dieses Folgens _ohne Weiteres_ auf die andere Kategorie anwenden kann.
+
+### [Ts-232,632\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/632.webp)
+
+<span class="series-number">123.</span> <span class="series-number">121</span> (Daß man nämlich die ‘Willkürlichkeit’ der Vorstellung nicht mit der der Bewegung den Körpern vergleichen kann, ist klar; denn, ob die Bewegung stattgefunden hat, das zu beurteilen sind auch Andere befähigt; während es bei der Bewegung meiner Vorstellungen immer nur darauf ankäme, was Ich zu sehen behaupte, – was immer irgend ein Anderer sieht. Es würden also die sich bewegenden wirklichen Gegenstände aus der Betrachtung herausfallen, da es auf sie gar nicht ankäme.)
+
+### [Ts-232,632\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/632.webp),[633\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp)
+
+<span class="series-number">124.</span> <span class="series-number">123</span> Sagte man also: “Vorstellungen sind innere Bilder, ähnlich, oder ganz so, wie meine Gesichtsempfindungen, nur meinem Willen untertan” – so hätte das bis auf Weiteres noch keinen Sinn. Denn wenn Einer zu berichten gelernt hat, was er dort sieht oder was ihm dort zu sein _scheint_, so ist es doch nicht klar, was der Befehl bedeute, er solle jetzt _das_ dort sehen, oder es solle ihm jetzt _das_ dort zu sein scheinen.
+
+### [Ts-232,633\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp)
+
+<span class="series-number">125.</span> <span class="series-number">124</span> Es ist freilich eine gewisse Verwandtschaft zwischen dem Vorstellen und einer Handlung, die sich eben in der Möglichkeit des Befehls ausdrückt; aber der _Grad_ dieser Verwandtschaft muß erst untersucht werden.
+
+### [Ts-232,633\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp)
+
+<span class="series-number">126.</span> <span class="series-number">125</span> “Bewege dein inneres Bild!” könnte heißen: bewege den Gegenstand.
+
+### [Ts-232,633\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp)
+
+<span class="series-number">127.</span> <span class="series-number">126</span> “Bewege, was du siehst”. Es könnte auch heißen: Nimm etwas ein, was deine Gesichtseindrücke beeinflußt.
+
+### [Ts-232,633\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp)
+
+<span class="series-number">128.</span> <span class="series-number">127</span> Welches merkwürdige Phänomen, das ein Kind wirklich die menschliche Sprache lernen kann! Daß ein Kind, ohne irgend etwas zu wissen, anfangen kann und, auf sicherem Wege, diese ungeheuer komplizierte Technik erlernt. Dieser Gedanke kam mir, als mir, in einem bestimmten Fall, zum Bewußtsein kam, wie ein Kind _mit nichts_ anfängt, und eines Tages die Negation gebraucht wie wir!
+
+### [Ts-232,633\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp)
+
+<span class="series-number">129.</span> <span class="series-number">128</span> Mit dem Satz “Vorstellungen sind willkürlich, Empfindungen nicht” unterscheidet man nicht Empfindungen von Vorstellungen, sondern die Sprachspiele, in denen wir's mit diesen Begriffen zu tun haben.
+
+### [Ts-232,633\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/633.webp),[634\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/634.webp)
+
+<span class="series-number">130.</span> <span class="series-number">129</span> Es gibt, was man Erscheinungen des Sehens und Erscheinungen des Vorstellens nennen kann; und den Begriff des Sehens und den Begriff der Vorstellung. Man kann von _‘Unterschieden’_ innerhalb dieser Paare reden.
+
+### [Ts-232,634\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/634.webp)
+
+<span class="series-number">131.</span> <span class="series-number">130</span> Wenn man sagt “die Vorstellung hat es mit dem Willen zu tun”, so meint man die selbe Art des Zusammenhangs, die man mit dem Satz meint “Die Vorstellung hat es nicht mit der Beobachtung zu tun”.
+
+### [Ts-232,634\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/634.webp)
+
+<span class="series-number">132.</span> <span class="series-number">131</span> Ich sagte, es gäbe Phänomene des Sehens, – was meinte ich damit? Nun etwa Alles das, was sich auf Bildern darstellen läßt und mit “sehen” beschreiben würde. Das genaue Beobachten; das Anschauen einer Landschaft; ein Mensch vom Licht geblendet; der freudig überraschte Blick; das Wegwenden um sich sehen zu müssen. Alle die Arten des Benehmens, die den sehenden Menschen vom Blinden unterscheiden. (Es hat doch einen Grund, warum mir gerade _diese_ Bilder aus dem menschlichen Leben hier einfallen
+
+### [Ts-232,634\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/634.webp)
+
+<span class="series-number">133.</span> <span class="series-number">132</span> Phänomene des Sehens, – das ist, was der Psychologe beobachtet.
+
+### [Ts-232,634\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/634.webp),[635\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/635.webp)
+
+<span class="series-number">134.</span> <span class="series-number">133</span> Einer sagt: “Ich sehe ein Haus mit grünen Fensterläden”. Und du: “Er _sieht_ es nicht, er stellt es sich nur vor. Er schaut ja gar nicht; siehst du, wie er vor sich hinstarrt?” – Man könnte sich _sehr beiläufig_ auch so ausdrücken: “So sieht es nicht aus, wenn jemand etwas sieht; sondern wenn er sich etwas vorstellt.” Hier vergleichen wir Erscheinungen des Sehens mit Erscheinungen des Vorstellens. So auch, wenn wir zwei Leute eines fremden Stammes beobachteten, die während einer bestimmten Tätigkeit ein Wort gebrauchen, welches wir für ein Äquivalent unseres “Sehen” erkannt haben. Und wie wir nun ihren Gebrauch jenes Worts bei dieser Gelegenheit verfolgen, schließen wir, es müßte hier “vor dem innern Auge sehen” bedeuten. (Ebenso könnte man auch zu dem Schluß kommen, das Wort müsse hier _Verstehen_ bedeuten.)
+
+### [Ts-232,635\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/635.webp)
+
+<span class="series-number">135.</span> <span class="series-number">134</span> Was heißt es z.B., daß “sehen” mit “beobachten” zusammenhängt? – Wenn wir “sehen” gebrauchen lernen, so lernen wir es zugleich und in Verbindung mit “schauen” gebrauchen, mit “beobachten”, etc.
+
+### [Ts-232,635\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/635.webp)
+
+<span class="series-number">136.</span> <span class="series-number">135</span> Wie wir den Schachkönig in Verbindung mit dem Bauern gebrauchen lernen und das Wort “König” zusammen mit dem Wort “Schachmatt”.
+
+### [Ts-232,635\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/635.webp)
+
+<span class="series-number">137.</span> <span class="series-number">136</span> Ein Sprachspiel umfaßt ja doch den Gebrauch _mehrerer_ Wörter.
+
+### [Ts-232,635\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/635.webp)
+
+<span class="series-number">138.</span> <span class="series-number">137</span> Nichts kann falscher sein, als zu sagen, Sehen und Vorstellen seien verschiedene Tätigkeiten. Das ist, als sagte man, im Schach ziehen und verlieren seien verschiedene Tätigkeiten.
+
+### [Ts-232,635\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/635.webp),[636\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/636.webp)
+
+<span class="series-number">139.</span> <span class="series-number">138</span> Die Worte “Vorstellen ist willkürlich, sehen nicht”, oder ähnliche, können Einen irreleiten. Wenn wir als Kinder lernen, die Worte “sehen”, “schauen”, “vorstellen” gebrauchen, so spielen dabei Willenshandlungen, Befehle hinein. Aber in anderer Weise für jedes der drei Wörter. Das Sprachspiel mit dem Befehl “Schau!” und mit dem Befehl “Stell dir … vor!” – wie soll ich sie nur vergleichen? – Wenn wir jemand abrichten wollen, daß er auf den Befehl “schau …!” reagiert und wenn wir ihn dazu abrichten wollen, daß er den Befehl “Stell dir … vor!” versteht, so müssen wir ihn doch offenbar ganz Anderes lehren. Reaktionen, die zu diesem Sprachspiel gehören, gehören zu jenem nicht. Ja, ein enger Zusammenhang der Sprachspiele ist natürlich da, aber eine Ähnlichkeit? – Stücke des Einen sind Stücken des Andern ähnlich, aber die ähnlichen Stücke sind nicht homolog.
+
+### [Ts-232,636\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/636.webp)
+
+<span class="series-number">140.</span> <span class="series-number">139</span> Ich könnte mir etwas Ähnliches für wirkliche Spiele denken. Es könnte etwa in zwei wesensverschiedenen Spielen – Spielen, die in wichtigem Sinne einander viel unähnlicher wären als Dame und Schach – ein und dasselbe Brett mit den selben Zügen vorkommen, nur, wenn ich so sagen darf, in einer andern Stellung. Im einen Spiel könnte es z.B. die Aufgabe sein, dem Andern nachzusetzen; im andern wäre der ganze Verlauf des Nachsetzens im Voraus gegeben, und die beiden Spieler hätten mit Bezug auf ihn eine Aufgabe ganz anderer Art. Es wären den Spielern z.B. zwei Wege des Nachsetzens gegeben und sie müßten die Beiden in psychologischer Hinsicht vergleichen. So gibt es ein Spiel: ein Kreuzworträtsel auflösen, und ein anderes: mehrere mir gegebene Auflösungen eines Kreuzworträtsels in irgend einem Sinne auf ihre Güte zu prüfen.
+
+### [Ts-232,636\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/636.webp)
+
+<span class="series-number">141.</span> <span class="series-number">140</span> Das Sehen untersteht dem Willen _in anderer Weise_ als das Vorstellen. Oder: ‘sehen’ und ‘vorstellen’ haben zum ‘wollen’ verschiedene Beziehungen.
+
+### [Ts-232,636\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/636.webp),[637\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/637.webp)
+
+<span class="series-number">142.</span> <span class="series-number">141</span> Nun scheint es aber doch, als wären Vorstellungen matte Spiegelungen der Sinneseindrücke. Wann scheint es so, und wem? Es gibt natürlich ein klar und unklar in den Vorstellungen. Und wenn ich sage “Mein Vorstellungsbild von ihm ist viel unbestimmter als mein Gesichtseindruck, wenn ich ihn sehe,”, so ist das wahr, denn ich kann ihn aus der Vorstellung auch nicht annähernd so genau beschreiben, als wenn ich ihn vor mir habe. Es kann aber doch geschehen, daß eines Menschen Gesicht sich so trügt, daß er einen Andern viel unschärfer sieht, als er sich ihn vorstellen kann.
+
+### [Ts-232,637\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/637.webp)
+
+<span class="series-number">143.</span> <span class="series-number">142</span> Wenn ich mir, und ein Anderer sich, einen Schmerz vorstellen kann, oder wir doch sagen, daß wir's können, – wie kann man herausfinden, ob wir ihn uns richtig vorstellen, und wie genau?
+
+### [Ts-232,637\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/637.webp)
+
+<span class="series-number">144.</span> <span class="series-number">143</span> Könnte es nicht Leute geben, die die Züge eines Menschen aus dem Gedächtnis höchst genau beschreiben könnten, ja, die auch sagen, jetzt wüßten sie plötzlich, wie er ausschaut, – die aber die Frage, ob sie den Menschen in jenem Augenblick in irgendeinem Sinn ‘vor sich sähen’ (oder dergleichen) unbedingt verneinten? Leute also, denen der Ausdruck “ich sehe ihn vor mir” _durchaus nicht passend vorkäme_? Dies scheint mir eine sehr wichtige Frage. Oder auch: die wichtige Frage ist, ob diese Frage Sinn hat. – Denn, was für einen Grund habe ich, zu glauben, daß das nicht unser Aller Fall ist? Oder, wie kann ich die Frage entscheiden, ob der Andere (ich nehme mich einstweilen aus) sich jemand wirklich ‘visuell vorstellt’, oder nur im Stande ist, ihn visuell zu beschreiben zu zeichnen, etc.) – plus dem Faktum, daß er, wenn ich so sagen darf, eine ‘Erleuchtung’ kennt, oder einen Zustand der Erleuchtung, ähnlich dem ‘Jetzt weiß ich's’. ((Echte Dauer)).
+
+### [Ts-232,638\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/638.webp)
+
+<span class="series-number">145.</span> <span class="series-number">144</span> Die _visuelle_ Vorstellung ist eben _nicht_ nur durch das Zeichnen – können und dergleichen charakterisiert, sondern auch durch feinere Abschattungen des Benehmens. In dem Sprachspiel mit “vorstellen” gehört jedenfalls die _Beschreibung_ der Vorstellung. (Das heißt nicht, daß in Grenzfällen eine Äußerung vorkommen kann: “Ich kann mir's genau vorstellen aber absolut nicht beschreiben.” Ein Spiel läßt Grenzfälle zu – eine Regel-Ausnahme. Aber Ausnahme und Regel könnten nicht ihre Rolle vertauschen, ohne das Spiel zu vernichten. (Der ‘Übergang von der Quantität zur Qualität’?)
+
+### [Ts-232,638\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/638.webp)
+
+<span class="series-number">146.</span> <span class="series-number">145</span> “Wenn Ausnahme und Regel ihre Rolle vertauschen, so ist es eben nicht mehr dasselbe!” – Aber was heißt das? Etwa daß sich dann mit einem Schlage unsere Einstellung zu dem _Spiel_ ändern wird? Ist es, als kippte nach einem allmählichen Beschweren der einen und Erleichtern der andern Schale der Waagebalken, _nicht_ allmählich um?
+
+### [Ts-232,638\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/638.webp)
+
+<span class="series-number">147.</span> <span class="series-number">146</span> Wie könnte nun die Beschreibung der Vorstellung einer Bewegungsempfindung ausschauen?
+
+### [Ts-232,638\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/638.webp),[639\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/639.webp),[640\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp)
+
+<span class="series-number">148.</span> <span class="series-number">147</span> Fortsetzung der Klassifizierung der psychologischen Begriffe. Gemütsbewegungen. Ihnen gemeinsam echte Dauer, ein Verlauf. (Zorn flammt auf läßt nach, verschwindet; ebenso: Freude, Depression, Furcht.) Unterschied von den Empfindungen: sie sind nicht lokalisiert (auch nicht diffus!). Gemeinsam: sie haben ein charakteristisches Ausdrucksbenehmen. (Gesichtsausdruck.) Und daraus folgt schon: auch charakteristische Empfindungen. So geht die Trauer oft mit dem Weinen einher, und mit ihm charakteristische Empfindungen. (Die Tränenschwere Stimme.) Aber die Empfindungen sind nicht die Gemütsbewegungen. (In dem Sinne, wie die Ziffer 2 nicht die Zahl 2 ist.) Unter den Gemütsbewegungen könnte man gerichtete von ungerichteten unterscheiden. Furcht _vor_ etwas, Freude _über_ etwas. Dies Etwas ist das Objekt, nicht die Ursache der Gemütsbewegung. Das Sprachspiel “Ich fürchte mich” enthält schon das Objekt. Angst könnte man ungerichtete Furcht nennen, insofern ihre Äußerungen _verwandt_ mit denen der Furcht sind. Der _Inhalt_ einer Gemütsbewegung – darunter stellt man sich so etwas vor wie ein _Bild_, oder etwas, wovon ein Bild gemacht werden kann. (Die Finsternis der Depression, die sich auf Einen herniedersenkt, die Flammen des Zornes.) Man könnte auch das menschliche Gesicht ein solches Bild nennen und den _Verlauf_ der Leidenschaft durch seine Veränderungen darstellen. Zum Unterschied von den Empfindungen: sie unterrichten uns nicht über die Außenwelt. (Grammatische Bemerkungen.) Liebe und Haß könnte man Gemütsdispositionen nennen; auch Furcht in einem bestimmten Sinne. Es ist Eines, akute Furcht empfinden, und ein anderes, jemand ‘chronisch’ fürchten. Aber Furcht ist keine Empfindung. ‘Schreckliche Furcht’: sind es die _Empfindungen_, die so schrecklich sind? Typische Ursachen des Schmerzes einerseits, der Depression, Trauer, Freude anderseits. Ursache dieser zugleich ihr Objekt. Das Benehmen des Schmerzes und das Benehmen der Traurigkeit. – Man kann diese nur mit ihren äußeren _Anlässen_ beschreiben. (Wenn die Mutter das Kind allein läßt, mag es vor Trauer weinen; wenn es hinfällt, vor Schmerz.) Benehmen und Art des Anlasses gehören zusammen.
+
+### [Ts-232,640\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp)
+
+<span class="series-number">149.</span> <span class="series-number">148</span> Vielleicht wird man sagen: Wie kann man den Begriff ‘Schmerz’ durch die Schmerzanlässe charakterisieren? Schmerz ist doch was er ist – was immer ihn veranlaßt! – Frage jedoch: Wie identifiziert man Schmerz? Der Anlaß bestimmt den Nutzen des Schmerzsignals.
+
+### [Ts-232,640\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp)
+
+<span class="series-number">150.</span> <span class="series-number">149</span> Der Schmerzbegriff ist eben auf eine bestimmte Weise in unserm Leben eingebettet. Ist es charakterisiert durch ganz bestimmte Zusammenhänge. Wie es einen Zug mit dem Schachkönig nur in einem bestimmten Zusammenhang gibt. Er läßt sich aus diesem Zusammenhang nicht lösen. – Denn dem Begriff entspricht eine Technik. (Das Auge lächelt nur in einem Gesicht.)
+
+### [Ts-232,640\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp)
+
+<span class="series-number">151.</span> <span class="series-number">150</span> Nur inmitten gewisser _normaler_ Lebensäußerungen gibt es eine Schmerzäußerung. Nur inmitten von noch viel weitgehender bestimmten Lebensäußerung und Ausdruck der Trauer, oder der Zuneigung. U.s.f.
+
+### [Ts-232,640\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp)
+
+<span class="series-number">152.</span> <span class="series-number">151</span> Gemütseinstellungen (Liebe z.B.) kann man prüfen, Gemütsbewegungen nicht.
+
+### [Ts-232,640\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp),[641\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/641.webp)
+
+<span class="series-number">153.</span> <span class="series-number">152</span> Ich möchte sagen: Gemütsbewegungen können die Gedanken _färben_; der Schmerz nicht. Und darum rede man von traurigen Gedanken, nicht aber in analoger Weise vom zahnschmerzlichen. Es ist, als könnte man sagen; Furcht, oder gar Hoffnung, könne geradezu aus Gedanken bestehen, aber doch nicht Schmerz. Nun, Schmerz hat vor allem die Merkmale der Empfindung und Furcht nicht. Furcht hängt mit Befürchtungen zusammen, und Befürchtungen sind Gedanken.
+
+### [Ts-232,641\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/641.webp)
+
+<span class="series-number">154.</span> <span class="series-number">153</span> Die Hoffnung kann man eine Gemütsbewegung nennen. D.h., sie mit Furcht Zorn, Freude, zusammenstellen. Sie ist verwandt mit dem Glauben, der _keine_ Gemütsbewegung ist. Es gibt keinen typischen Körperausdruck des Glaubens. Vergleiche die Bedeutung von “ununterbrochener Schmerz” mit: “ununterbrochener Zorn”, Jubel, Trauer, Freude, Furcht, und anderseits “ununterbrochener Glaube” oder “ununterbrochene Hoffnung”. Aber auch Furcht, Hoffnung, Sehnsucht, Erwartung sind schwer mit einander zu vergleichen. Die Sehnsucht ist eine Beschäftigung im Gedanken mit einem bestimmten Objekt. Die Furcht vor einem _Ereignis_ (apprehension) scheint von ähnlicher Art zu sein; nicht aber die Furcht vor dem Hund, der mich anbellt. Es könnten hier zwei verschiedene Worte gebraucht werden. Ebenso kann “erwarten” bedeuten: glauben, das und das werde geschehen – aber auch: die Zeit mit erwartenden Gedanken und Tätigkeiten hinbringen, also _harren_.
+
+### [Ts-232,641\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/641.webp),[642\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/642.webp)
+
+<span class="series-number">155.</span> <span class="series-number">154</span> Der Glaube ist keine Beschäftigung mit dem Gegenstand des Glaubens. Die Furcht aber, die Sehnsucht, die Hoffnung beschäftigen sich mit ihrem Objekt. Wir sagen in einer wissenschaftlichen Untersuchung alles Mögliche, machen viele Aussagen, deren Rolle wir in der Untersuchung nicht verstehen. Denn wir sagen ja nicht etwa alles mit einem bewußten Zweck, sondern unser Mund geht eben. Wir gehen durch herkömmliche Gedankenbewegungen, machen automatisch Gedankenübergänge gemäß den Formen, die wir gelernt haben. Und nun müssen wir erst, was wir gesagt haben, sichten. Wir haben eine ganze Menge unnütze, ja zweckwidrige Bewegungen gemacht, müssen nun unsere Gedankenbewegungen philosophisch klären.
+
+### [Ts-232,642\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/642.webp)
+
+<span class="series-number">156.</span> <span class="series-number">155</span> Wenn ich erzähle “Ich habe mich den ganzen Tag vor seinem Kommen gefürchtet” – da könnte ich doch ins Einzelne gehen: Ich habe gleich beim Erwachen gedacht … Dann überlegte ich mir … Ich sah immer wieder zum Fenster hinaus, etc. etc. Das könnte man einen Bericht über die Furcht nennen. Wenn ich aber damals zu jemand sprach “Ich fürchte mich …” – ist das gleichsam ein Stöhnen der Furcht, oder eine Betrachtung über meinen Zustand? – Es könnte das Eine, oder auch das andere sein: Es mag einfach ein Stöhnen der Furcht sein; es mag aber auch sein, daß ich dem Andern berichten will, wie ich den Tag verbracht habe. Wenn ich ihm nun sagte: “Ich habe den ganzen Tag in Furcht verbracht (nun folgen vielleicht Einzelheiten) und auch jetzt bin ich voll Angst” – was sollen wir nun über dieses Gemisch von Bericht und Äußerung sagen – nun was sollen wir sagen, als daß wir hier die Verwendung des Wortes “Furcht” vor uns sehen.
+
+### [Ts-232,642\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/642.webp),[643\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/643.webp)
+
+<span class="series-number">157.</span> <span class="series-number">156</span> Wenn es Leute gäbe, die in den Fällen, wo wir Befürchtungen mit Angstgefühlen aussprechen, einen stechenden Schmerz in der linken Seite empfinden, – würde dies Stechen bei ihnen den Platz unsres Furchtgefühls einnehmen? – Wenn wir also diese Leute beobachteten und, sooft sie eine Befürchtung aussprächen, d.h., etwas sagten, was bei uns jedenfalls eine Befürchtung wäre, und sie zuckten dabei zusammen und hielten sich die linke Seite, – würden wir sagen: Diese Leute empfinden ihre Furcht als stechenden Schmerz? Offenbar nicht. –
+
+### [Ts-232,643\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/643.webp)
+
+<span class="series-number">158.</span> <span class="series-number">157</span> Warum verwendet man aber das Wort “Leiden” für die Furcht und auch für den Schmerz? Nun, es sind ja Verbindungen genug. –
+
+### [Ts-232,643\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/643.webp)
+
+<span class="series-number">159.</span> <span class="series-number">158</span> Denke, man sagte: Fröhlichkeit wäre ein Gefühl, und Traurigkeit bestünde darin, daß man _nicht_ fröhlich ist. – Ist denn die Abwesenheit eines Gefühls ein Gefühl?
+
+### [Ts-232,643\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/643.webp)
+
+<span class="series-number">160.</span> <span class="series-number">159</span> Wenn ich sage “Ich habe immer mit Furcht daran gedacht” – hat die Furcht meine Gedanken _begleitet_? – Wie stellt man sich die Trennung des Begleitenden von der Begleitung vor? Man könnte fragen: Wie durchdringt die Furcht den Gedanken? Denn sie scheint nicht nur mit ihm einherzugehen. Wenn ich sage “Ich denke mit Beklemmung daran”, so könnte es allerdings so scheinen, als ob der Gedanke, etwa die Worte, mit einem besonderen Gefühl in der Brust einhergingen und _darauf_ angespielt würde. Aber die Verwendung dieses Satzes ist eben anders. Man sagt auch: “Es beklemmt mir den Atem, daran zu denken” und meint nicht nur, daß erfahrungsgemäß die und die Empfindung und Reaktion diesen Gedanken begleiten.
+
+### [Ts-232,643\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/643.webp),[644\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/644.webp)
+
+<span class="series-number">161.</span> <span class="series-number">160</span> Auf die _Äußerung_ “Ich kann nicht ohne Furcht daran denken …” antwortet man etwa: “Es ist kein Grund zur Furcht, denn … Das ist jedenfalls _ein_ Mittel, Furcht zu beseitigen, im Gegensatz zu Schmerzen. Ist Ekel eine Empfindung? – Hat er einen Ort? – Und er hat einen Gegenstand, wie die Furcht. Und es gibt hier charakteristische Empfindungen.
+
+### [Ts-232,644\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/644.webp)
+
+<span class="series-number">162.</span> <span class="series-number">161</span> Ja, du mußt dich immer fragen: Was wird durch diese Sätze den Andern mitgeteilt? und das heiß: welche Verwendung kann er nun davon machen?
+
+### [Ts-232,644\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/644.webp)
+
+<span class="series-number">163.</span> <span class="series-number">162</span> Ich _konstatiere_ ich habe Furcht. – besinne ich mich dazu meiner Gedanken in der letzten halben Stunde, oder lasse ich mir rasch einen Gedanken an den Zahnarzt durch den Kopf gehen, um zu sehen, wie er mich affiziert; oder konnte mir ein Zweifel kommen, ob es wirklich Furcht vor dem Zahnarzt ist und nicht ein anderes organisches Unwohlgefühl?
+
+### [Ts-232,644\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/644.webp)
+
+<span class="series-number">164.</span> <span class="series-number">163</span> Oder ist das Konstatieren, ich hätte Furcht wie ein äußerst gemildetes Stöhnen der Furcht? Nein; denn mit dem Stöhnen will ich dem Andern nicht unbedingt das mitteilen. Die Konstatierung ist, so zu sagen, ein Teil eines _Gesprächs_.
+
+### [Ts-232,644\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/644.webp)
+
+<span class="series-number">165.</span> <span class="series-number">164</span> Kann man sagen: “Ich fürchte mich vor der Operation nur, während ich gerade an sie denke”? Und heißt das: während ich über sie nachdenke? Kann mir nicht vor etwas grauen, auch während ich nicht, sozusagen, ausdrücklich darüber nachdenke. Kann ich Einem nicht sagen “mir graut vor diesem Zusammentreffen” obwohl ich das Ereignis sozusagen nur aus dem Augenwinkel sehe.
+
+### [Ts-232,644\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/644.webp),[645\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/645.webp)
+
+<span class="series-number">166.</span> <span class="series-number">165</span> Vergessen wir doch einmal ganz, daß uns der Seelenzustand des Fürchtenden interessiert. Gewiß ist, daß uns auch sein Benehmen unter gewissen Umständen als Anzeichen für künftiges Verhalten interessieren kann. Warum sollten wir also nicht dafür ein Wort haben. Es kann dies ein Verbum oder Adjektiv sein. Man könnte nun fragen, ob dies Wort sich wirklich einfach auf das Benehmen, einfach auf die Veränderungen des Körpers bezögen. Und das wollen wir verneinen. Es liegt uns ja nichts daran, den Gebrauch dieses Worts derart zu vereinfachen. Es bezieht sich auf das Benehmen unter gewissen äußeren Umständen. Wenn wir diese und jenes beobachten, sagen wir, Einer sei … Wenn das Wort in der _ersten_ Person gebraucht wird, ist die Analogie mit dem Gebrauch in der dritten Person die selbe wie die zwischen “ich schiele” und “er schielt”.
+
+### [Ts-232,645\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/645.webp)
+
+<span class="series-number">167.</span> <span class="series-number">166</span> Ich will nun sagen, daß Menschen, welche einen solchen Begriff gebrauchen, seinen Gebrauch _nicht_ müßten beschreiben können. Und sollten sie's versuchen, so könnten sie eine ganz unzulängliche Beschreibung geben, (Wie die meisten, wenn sie versuchen wollten, die Verwendung des Papiergelds richtig zu beschreiben.)
+
+### [Ts-232,645\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/645.webp)
+
+<span class="series-number">168.</span> <span class="series-number">167</span> Es ist z.B. möglich, daß sie diese Aussage von einem Menschen machen, ohne doch recht sagen zu können, _welches_ Benehmen in ihm sie dazu veranlaßt. Sie könnten sagen “Ich sehe es; aber ich weiß nicht genau, _was_ ich sehe.” Wie wir sagen: “Es hat sich etwas an ihm verändert, aber ich weiß nicht genau, was”. Die künftige Erfahrung mag ihnen Recht geben.
+
+### [Ts-232,645\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/645.webp),[646\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/646.webp)
+
+<span class="series-number">169.</span> <span class="series-number">168</span> Es könnte nun sein, daß Leute ein Verbum hätten, dessen dritte Person sich _genau_ mit unserem “Er fürchtet sich” deckt; dessen erste Person aber nicht mit unserem “Ich fürchte mich”. Denn die Behauptung in der ersten Person würde sich auf Selbstbeobachtung stützen. Sie wäre nicht die _Äußerung_ der Furcht, und es gäbe ein “Ich glaube, ich …”, “Es kommt mir vor, ich …”. Diese erste Person hätte nun, so scheint es mir, keine, oder eine sehr seltene Verwendung. Würde mein Benehmen in einer bestimmten Situation gefilmt, so könnte ich, wenn mir der Film vorgeführt wird, sagen: “Mein Benehmen macht den Eindruck …”
+
+### [Ts-232,646\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/646.webp)
+
+<span class="series-number">170.</span> <span class="series-number">169</span> Das “Ich glaube, er fühlt, was ich unter solchen Umständen fühle” gibt es hier noch nicht: Die Interpretation, daß ich in mir etwas sehe, was ich in ihm vermute.
+
+Denn in Wahrheit ist das eine rohe Interpretation. Ich vermute – im Allgemeinen – die Furcht nicht in ihm, – ich _sehe_ sie. Es ist mir nicht, als schlösse ich aus einem Äußeren auf die wahrscheinliche Existenz eines inneren; sondern als sei das menschliche Gesicht quasi durchscheinend, und ich sähe an ihm nicht reflektiertes, sondern eigenes Licht.
+
+### [Ts-232,646\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/646.webp),[647\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/647.webp)
+
+<span class="series-number">171.</span> <span class="series-number">170</span> “Mir graut davor.” – Das ist nicht eine Abbildung von etwas, was ich sehe. Ja, so wie ich _schaue_, sehe ich nichts, oder nicht eigentlich, was ich meinte. Es ist dann, als wäre dies ein so feiner Schleier, daß man von ihm wissen, aber ihn nicht eigentlich sehen könnte. Als wäre das Grauen ein ganz feines dunkles Geräusch neben den Tagesgeräuschen, das ich nur _merken_ und nicht eigentlich hören könnte. Denk dir ein Kind, das lange nicht recht sprechen lernen konnte, gebrauche plötzlich den Ausdruck, den es von den Erwachsenen gehört hatte, “Mir graut vor …”. Und sein Gesicht und die Umstände und was folgt lassen uns sagen: Es hat wirklich gemeint. (Man könnte ja immer sagen: “Eines schönen Tages gebraucht nun das Kind das Wort.”) Ich habe den Fall des Kindes gewählt, weil hier, was in ihm vorgeht, uns noch fremder erscheint als im Erwachsenen. Was weiß ich – so möchte ich sagen – von einem _Hintergrund_ der Worte “Mir graut …? Läßt das Kind nicht plötzlich in sich hineinschauen?
+
+### [Ts-232,647\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/647.webp)
+
+<span class="series-number">172.</span> <span class="series-number">171</span> Diese Sache erinnert auch an das Hören eines Geräusches _aus einer bestimmten Richtung_. Es ist beinahe, als fühlte man die _Beschwerde_ in der Magengegend aus der Richtung der Furcht. D.h. eigentlich, daß “Mir ist schlecht vor Furcht” nicht eine _Ursache_ der Furcht angibt.
+
+### [Ts-232,647\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/647.webp)
+
+<span class="series-number">173.</span> <span class="series-number">172</span> Gibt es psychologische Konglomerate; und ist das Erwarten eines? Vielleicht das Harren, aber nicht das Erwarten.
+
+### [Ts-232,647\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/647.webp)
+
+<span class="series-number">174.</span> <span class="series-number">173</span> Daß es ein Furchtkonglomerat, z.B., gibt, heißt nicht, daß Furcht ein Konglomerat ist.
+
+### [Ts-232,647\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/647.webp),[648\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/648.webp)
+
+<span class="series-number">175.</span> <span class="series-number">174</span> Sage ich “Ich erwarte sehnsüchtig sein Kommen”, so heißt das: ich _beschäftige_ mich mit seinem Kommen (in Gedanken, und man kann auch sagen: in Gedanken und Handlungen) Den Zustand des sehnsüchtigen Erwartens kann man also ein Konglomerat nennen. Aber es ist nicht, so zu sagen, ein Konglomerat von Handlungen einer bestimmten Art, sondern es geht um die Intention der Handlungen, also um ein _Motiv_, nicht eine _Ursache_.
+
+### [Ts-232,648\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/648.webp)
+
+<span class="series-number">176.</span> <span class="series-number">175</span> Wenn ich sage, ich verwende die Worte “Ich habe Schmerzen”, “Ich sehne mich nach ihm”, etc. etc. als Mitteilung, nicht als Naturlaut, so charakterisiert dies meine Intention. Ich will z.B., daß der Andere darauf in bestimmter Weise reagiere. Hier bin ich aber noch die Erklärung des Begriffs der Intention schuldig, und die Intention ist nun nicht etwa eine Art Empfindung, auf die ich Alles reduzieren will; der ich so zu sagen, alles in die Schuhe schiebe. (Denn die Intention ist _keine_ Empfindung.)
+
+### [Ts-232,648\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/648.webp)
+
+<span class="series-number">177.</span> <span class="series-number">176</span> Wenn wir Furcht, Trauer, Freude, Zorn, etc. Seelenzustände nennen, so heißt das, daß der Furchtvolle, Trauervolle, etc. die Mitteilung machen kann: “Ich bin im Zustand der Furcht”, etc., daß diese Mitteilung – ganz wie die primitive Äußerung – nicht auf einer Beobachtung beruht.
+
+### [Ts-232,648\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/648.webp)
+
+<span class="series-number">178.</span> <span class="series-number">177</span> Absicht, Intention, ist weder Gemütsbewegung, Stimmung, noch Empfindung, oder Vorstellung. Sie ist kein Bewußtseinszustand. Sie hat nicht echte Dauer. Die Absicht kann man eine seelische Disposition nennen. Dieser Ausdruck ist insofern irreführend, als man eine solche Disposition in sich nicht durch Erfahrung wahrnimmt. Die _Neigung_ zur Eifersucht dagegen ist eine Disposition im eigentlichen Sinne. Erfahrung lehrt mich, daß ich sie habe.
+
+### [Ts-232,648\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/648.webp),[649\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/649.webp)
+
+<span class="series-number">179.</span> <span class="series-number">178</span> “Ich beabsichtige” ist nicht die Äußerung eines Erlebnisses. Es gibt keinen Schrei der Absicht, so wenig wie des Wissens, oder Glaubens. Wohl aber könnte man den _Entschluß_, mit welchem oft eine Absicht beginnt, ein Erlebnis nennen.
+
+### [Ts-232,649\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/649.webp)
+
+<span class="series-number">180.</span> <span class="series-number">179</span> Ist Entschluß ein Gedanke? Er kann das Ende eines Gedankenganges sein.
+
+### [Ts-232,649\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/649.webp)
+
+<span class="series-number">181.</span> <span class="series-number">180</span> Einer sagt mir etwas; ich schaue ihn erstaunt an; er erklärt …Mein fragender Blick war gleichbedeutend der Frage: “Wieso?” oder “Was meinst du?” oder “Warum?” oder “_Das_ willst du tun? wo du doch immer …?” – Der plötzliche Gedanke.
+
+### [Ts-232,649\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/649.webp)
+
+<span class="series-number">182.</span> <span class="series-number">181</span> Absichtlich – unabsichtlich. Willkürlich – unwillkürlich. Was ist der Unterschied zwischen einer Handbewegung ohne besondere Absicht und der gleichen Handbewegung, die ich als ein Zeichen meine?
+
+### [Ts-232,649\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/649.webp),[650\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/650.webp)
+
+<span class="series-number">183.</span> <span class="series-number">182</span> Denken wir uns, daß Einer eine Arbeit verrichtet, in der es ein Vergleichen, Versuchen, Wählen gibt. Er stellt etwa einen Gebrauchsgegenstand aus gewissen Materialstücken mit gegebenen Werkzeugen her. Immer wieder entsteht das Problem “Soll ich _dies_ Stück dazu nehmen?” Das Stück wird verworfen, ein anderes versucht. Stücke werden versuchsweise zusammengestellt, auseinandergenommen; es wird nach einem Passenden gesucht, etc. etc. Ich denke mir nun diesen ganzen Hergang gefilmt. Der Arbeitende gibt etwa auch Laute von sich, wie “Hm” oder “Ha!” Sozusagen, Laute des Zögerns, des plötzlichen Findens, des Entschlusses, der Zufriedenheit, der Unzufriedenheit. Aber kein Wort wird geredet. Jene Laute mögen im Film aufgenommen werden. Der Film wird mir vorgeführt; und ich erfinde nun ein Selbstgespräch des Arbeitenden, welches zu seiner Arbeitsweise, dem Rhythmus seiner Arbeit, seinem Mienenspiel, seinen Gebärden und Naturlauten paßt, welches all dem entspricht. Ich lasse ihn also manchmal sagen “Nein, das Stück ist zu lang, vielleicht paßt ein anderes besser.” – Oder “Was soll ich jetzt tun? – Ich hab's!” – Oder “Das ist ganz gut.” etc. Wenn der Arbeitende reden kann, – wäre es eine Verfälschung des wirklichen Vorgangs, wenn er ihn genau beschriebe und etwa sagte: “Dann dachte ich: Nein, das geht nicht; ich muß es anders versuchen.” usw. – obwohl er während der Arbeit nicht gesprochen, und sich auch diese Worte nicht vorgestellt hatte? Ich will sagen: Kann er nicht seine wortlosen Gedanken später in Worten wiedergeben? So zwar, daß wir, die den Arbeitsvorgang sähen, mit dieser Wiedergabe einverstanden sein könnten? – Umso mehr, wenn wir dem Mann nicht nur einmal, sondern öfters bei der Arbeit zugesehen hätten?
+
+### [Ts-232,650\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/650.webp)
+
+<span class="series-number">184.</span> <span class="series-number">183</span> Wir könnten natürlich sein ‘Denken’ von der Tätigkeit nicht trennen. Das Denken ist eben keine Begleitung der Arbeit; so wenig, wie der denkenden Rede.
+
+### [Ts-232,650\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/650.webp)
+
+<span class="series-number">185.</span> <span class="series-number">184</span> Denk dir, Einer pausiert in der Arbeit, blickt wie nachdenkend vor sich hin in einer Situation, in der wir uns eine Frage vorlegen, Möglichkeiten erwägen würden, – würden wir von ihm unbedingt sagen, er überlege? Ist dazu nicht auch nötig, daß er eine Sprache _beherrscht_, also nötigenfalls die Überlegung auch aussprechen könnte?
+
+### [Ts-232,650\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/650.webp),[651\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp)
+
+<span class="series-number">186.</span> <span class="series-number">185</span> Nun, wenn wir Wesen bei der Arbeit sähen, deren Arbeits**rhythmus**, deren Mienenspiel, etc. dem unsern ähnlich wäre, nur daß diese Leute nicht _sprächen_, dann würden wir vielleicht sagen, sie dächten, überlegten, machten Entscheidungen. Das heißt: es wäre eben in so einem Falle _viel_ dem der gewöhnlichen Menschen ähnlich. Und es ist nicht klar, _wieviel_ ähnlichen sein muß, damit wir den Begriff ‘denken’, der in _unserm_ Leben zu Hause ist, auch bei ihnen anzuwenden ein Recht hätten.
+
+### [Ts-232,651\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp)
+
+<span class="series-number">187.</span> <span class="series-number">186</span> Und wozu sollen wir auch diese Entscheidung fällen? Wir werden einen wichtigen Unterschied machen zwischen Wesen, die eine Arbeit, selbst eine komplizierte, “mechanisch” zu verrichten lernen können, und solchen, die bei der Arbeit probieren, vergleichen. – Was aber “probieren” und “vergleichen” zu nennen ist, kann ich nur wieder an Beispielen erklären, und diese Beispiele werden unserm Leben, oder einem, das dem unsern ähnlich ist, entnommen sein.
+
+### [Ts-232,651\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp)
+
+<span class="series-number">188.</span> <span class="series-number">187</span> Nehme nun das Probieren, gar die Form an des Herstellens einer Art von Modell (oder gar einer Zeichnung), so würden wir ohne zu zweifeln sagen, diese Wesen dächten. Freilich könnte man hier auch von einem Operieren mit Zeichen reden.
+
+### [Ts-232,651\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp)
+
+<span class="series-number">189.</span> <span class="series-number">188</span> “Aber könnte nicht das Operieren mit Zeichen auch mechanisch sein?” – Freilich; d.h., auch dies muß in einer bestimmten Umgebung sein, damit man sagen könne, es sei nicht mechanisch.
+
+### [Ts-232,651\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp),[652\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/652.webp)
+
+<span class="series-number">190.</span> <span class="series-number">189</span> Es ist also, als wären unsere Begriffe, als wäre die Verwendung unserer Worte, bedingt durch ein Gerüst von Tatsächlichem. Aber wie _kann_ das sein?! Wie könnten wir denn das Gerüst beschreiben, wenn wir nicht die Möglichkeit von etwas Anderem zuließen? – Du machst ja, möchte man sagen, Unsinn aus jeder Logik!
+
+### [Ts-232,652\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/652.webp)
+
+<span class="series-number">191.</span> <span class="series-number">190</span> Das Problem, das uns hier beunruhigt, ist das Gleiche wie das in der Betrachtung: “Du kannst Menschen zählen lehren, wenn die Dinge in ihrer Umgebung nicht in fortwährendem schnellen Entstehen und Vergehen begriffen sind.”
+
+### [Ts-232,652\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/652.webp)
+
+<span class="series-number">192.</span> <span class="series-number">191</span> Du kannst doch auch sagen: “Hast du keine Stäbchen, Steinchen, etc. zur Hand, so kannst du einem nicht Rechnen lehren.” Ganz so wie: “Hast du keine Schreibfläche noch Schreibmaterial zur Hand, so kannst ihn die Differentialrechnung nicht lehren” (oder: so kannst du die Division 76570 : 319 nicht ausführen).
+
+Man sagt vom Tisch und Stuhl nicht, daß sie denken, auch von der Pflanze nicht, auch vom Fisch nicht, kaum vom Hund; aber vom Menschen. Und auch nicht von allen Menschen. Wenn ich aber sage “ein Tisch denkt nicht”, so ist das nicht ähnlich einer Aussage wie “Ein Tisch wächst nicht”. Denn ich wüßte gar nicht, ‘wie das wäre, wenn’ ein Tisch dächte. Und hier gibt es offenbar einen graduellen Übergang zu dem Fall des Menschen.
+
+### [Ts-232,652\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/652.webp),[653\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/653.webp)
+
+<span class="series-number">193.</span> <span class="series-number">192</span> “Denken ist eine geistige Tätigkeit.” – Denken ist _keine_ körperliche Tätigkeit. Ist Denken eine Tätigkeit? Nun, man kann Einem befehlen “denk darüber nach!”. Wenn aber nun Einer in Befolgung dieses Befehls zu sich selbst oder auch zum Andern spricht, verrichtet er da _zwei_ Tätigkeiten? Also ist Denken doch wieder nicht recht einer Tätigkeit zu vergleichen Denn man kann auch nicht sagen, Denken sei: in der Vorstellung sprechen. Dies kann man tun, auch ohne zu denken.
+
+### [Ts-232,653\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/653.webp)
+
+<span class="series-number">194.</span> <span class="series-number">193</span> Man darf nie vergessen, daß “denken” ein _Wort der Alltagssprache_ ist, so wie auch alle andern psychologischen Bezeichnungen. Es ist von diesem Wort nicht zu erwarten, daß es eine einheitliche Verwendung habe; es ist viel mehr zu erwarten, daß es sie nicht habe.
+
+### [Ts-232,653\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/653.webp)
+
+<span class="series-number">195.</span> <span class="series-number">194</span> Wenn Einer über ein Problem nachdenkt und ich zeige ihm plötzlich eine gewisse Zeichnung, so wird er vielleicht ausrufen “Ach, _so_ ist es!” oder “Jetzt weiß ich's.” Und gefragt, was dabei in ihm vorgegangen ist, wird er in diesem Falle wohl einfach sagen “Ich habe die Zeichnung gesehen”. Ich beschreibe diesen Fall, um einen Vorgang in der Vorstellung durch einen des Sehens zu ersetzen. Wird er nun sagen: “In dem Augenblick, als ich die Zeichnung sah, stand mir die ganze Lösung vor Augen”? Er könnte auch, wenn ich ihm mit der Zeichnung zu Hilfe komme, sagen: “Ja, jetzt ist es leicht!”
+
+### [Ts-232,653\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/653.webp),[654\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp)
+
+<span class="series-number">196.</span> <span class="series-number">195</span> “Mir stand die Benützung des Wortes vor der Seele” – wird man das auch dann sagen, wenn Einem mit dem Wort ein für seine Bedeutung charakteristisches Bild gezeigt wird? ((Das Bedeutungserlebnis scheint hier vom Gesehenen übertönt zu werden.))
+
+### [Ts-232,654\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp)
+
+<span class="series-number">197.</span> <span class="series-number">196</span> Wir sagen: Gras ist grün, Kreide ist weiß, Kohle schwarz, Blut rot, etc. – Wie wäre es in einer Welt, in der also die übrigen Eigenschaften eines Dings mit seiner Farbe nicht zusammenhingen? Dies ist, ob richtig oder falsch gestellt, eine wichtige Frage, und nur ein Exempel unzähliger ähnlicher Fragen.
+
+### [Ts-232,654\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp)
+
+<span class="series-number">198.</span> <span class="series-number">197</span> Denk dir, ich käme in ein Land, wo die Farben der Dinge, wie ich sagen würde, unaufhörlich wechselten, etwa durch eine Eigenheit der Atmosphäre. Die Einwohner sehen nie ruhige Farben. Ihr Gras sieht bald grün, bald rot, etc. aus. Könnten diese Leute ihren Kindern die Farbwörter beibringen? ‒ ‒ Vor Allem einmal könnte es sein, daß ihrer Sprache die Farbwörter _fehlten_. Und wenn wir dies fänden, so würden wir's vielleicht damit erklären, daß die für gewisse Sprachspiele wenig, oder keine Verwendung hätten.
+
+### [Ts-232,654\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp),[655\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)
+
+<span class="series-number">199.</span> <span class="series-number">198</span> Wie könnten denn Leute, in einem Land, wo Alles nur _eine_ Farbe hätte, den Gebrauch der Farbworte lernen? Kann ich aber nun sagen: “Nur weil in unserer Umgebung Dinge verschiedener Farbe existieren und weil …, können wir Farbnamen gebrauchen.”?? Es wird hier zwischen logischer und physischer Möglichkeit der Unterschied nicht gesehen. – Nicht das interessiert uns: unter welchen Umständen das Sprachspiel mit den Farbnamen physisch nicht möglich – also eigentlich, nicht wahrscheinlich ist. Ohne Schachfiguren kann man nicht Schach spielen – das ist die Unmöglichkeit, die uns interessiert.
+
+### [Ts-232,655\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)
+
+<span class="series-number">200.</span> <span class="series-number">199</span> Man lernt das Wort “denken”, d.i. seinen Gebrauch, unter gewissen Umständen, die man aber nicht beschreiben lernt.
+
+### [Ts-232,655\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)
+
+<span class="series-number">201.</span> <span class="series-number">200</span> Man lernt es etwa nur vom Menschen sagen, es von ihm behaupten, oder leugnen. Die Frage “Denkt ein Fisch”” existiert unter seinen Sprachanwendungen nicht, _wird nicht gestellt_. (Was kann natürlicher sein, als so ein Zustand; als so eine Sprachverwendung!)
+
+### [Ts-232,655\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)
+
+<span class="series-number">202.</span> <span class="series-number">201</span> “An _diesen_ Fall hat niemand gedacht” kann man sagen. Ich kann zwar nicht die Bedingungen aufzählen, unter denen das Wort “denken” zu gebrauchen ist, – aber, wenn ein Umstand den Gebrauch zweifelhaft macht, so kann ich's sagen, und auch, _wie_ die Lage von der gewöhnlichen abweicht.
+
+### [Ts-232,655\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)
+
+<span class="series-number">203.</span> <span class="series-number">202</span> Und hier müßte man etwas über mein Sprachspiel № 2 sagen. – _Unter welchen Umständen_ würde man die Laute des Bauenden, etc., wirklich eine Sprache nennen? Unter _allen_? Gewiß nicht! – – War es nun falsch, ein Sprachrudiment zu isolieren und es Sprache zu nennen? Soll man etwa sagen, daß dies Rudiment nur in der Umgebung des Ganzen, was wir unsere Sprache zu nennen gewohnt sind, ein Sprachspiel ist??
+
+### [Ts-232,655\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)
+
+<span class="series-number">204.</span> <span class="series-number">203</span> Nun, vor Allem ist die _Umgebung_ nicht die geistige Begleitung des Sprechens, nicht das ‘Meinen’ und ‘Verstehen’, das man sich als der Sprache wesentlich vorzustellen geneigt ist.
+
+### [Ts-232,655\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp),[656\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/656.webp)
+
+<span class="series-number">205.</span> <span class="series-number">204</span> Gefährlich wäre es mir nur, wenn Einer sagte: “Du setzt eben stillschweigend schon voraus, daß diese Menschen _denken_; daß sie in _dieser_ Beziehung den uns bekannten Menschen gleichen; daß sie jenes Sprachspiel nicht rein mechanisch betreiben. Denn stelltest du dir vor, sie täten's so würdest du's selbst nicht ein Sprechen nennen.” Was soll ich nun dem antworten? Es ist natürlich wahr, daß das Leben jener Menschen dem unsern in vieler Beziehung gleichen muß und daß ich über diese Ähnlichkeiten nichts gesagt habe. Das wichtige aber ist eben, daß ich mir ihre Sprache, wie auch ihr Denken primitiv vorstellen kann; daß es ein ‘primitives Denken’ gibt, welches durch ein primitives _Verhalten_ zu beschreiben ist.
+
+### [Ts-232,656\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/656.webp)
+
+<span class="series-number">206.</span> <span class="series-number">205</span> Ich sage von Jemandem: er vergleicht zwei Gegenstände, Ich weiß, wie das ausschaut, wie man das macht. Ich kann es Einem vorführen. Aber was ich so vorführe, würde ich dennoch nicht unter _allen_ Umständen ein ‘Vergleichen’ nennen. Ich kann mir nur etwa Fälle vorstellen, in welchen ich nicht geneigt wäre zu sagen, daß verglichen wird; aber die Umstände, unter welchen dies ein Vergleichen ist, beschreiben, das könnte ich nicht. – Aber ich _kann_ einen Menschen den Gebrauch des Wortes _lehren!_ denn dazu ist ein Beschreiben jener Umstände nicht nötig.
+
+### [Ts-232,656\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/656.webp)
+
+<span class="series-number">207.</span> <span class="series-number">206</span> Ich lehre ihn eben das Wort _unter bestimmten Umständen_.
+
+### [Ts-232,656\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/656.webp),[657\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/657.webp)
+
+<span class="series-number">208.</span> <span class="series-number">207</span> Manchmal ist es wirklich, als ob ein Denken neben dem Reden (Lesen z.B.) einherliefe. Nicht aber, daß man's dann von dem Lesen isolieren könnte.. Viel mehr ist, was die Worte begleitet, wie eine Reihe kleiner Nebenbewegungen. Es ist, als werde man eine Straße entlang geführt, würfe aber Blicke rechts und links in alle Nebengäßchen.
+
+### [Ts-232,657\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/657.webp)
+
+<span class="series-number">209.</span> <span class="series-number">208</span> Denk dir, ich zeigte jemand eine Liste von den Gängen, Besorgungen, die er für mich zu machen hat. Wir kennen uns gut und er braucht nur Andeutungen, um zu wissen, was er zu tun hat. Die Liste enthält nun lauter solche Andeutungen. Er liest sie durch und sagt nach jeder solchen Andeutung “Ich verstehe”. Und er versteht; er könnte jeden dieser Punkte erklären, wenn er gefragt würde. Ich könnte ihn dann fragen: “Hast du alles verstanden?” Oder: “Geh die Liste genau durch und sieh, ob du alles verstehst.” Oder: “Weißt du, was du hier zu machen hast?” – Was hätte er zu tun, um sich davon zu überzeugen, daß er die Andeutungen verstanden hat? Ist es hier, als müßte er bei jedem Punkt eine Kopfrechnung machen? Wäre das nötig, so könnte er später von der Rechnung laut Rechenschaft geben und man würde sehen, ob er richtig gerechnet hat. – Aber das ist im Allgemeinen _nicht_ nötig. Wir schreiben also nicht vor, was der Andere beim verständnisvollen Durchgehen der Liste zu tun hat; und ob er wirklich verstanden hat, ersehen wir aus dem, was er später tut, oder aus der Erklärung, die wir etwa von ihm verlangen.
+
+### [Ts-232,657\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/657.webp),[658\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/658.webp)
+
+<span class="series-number">210.</span> <span class="series-number">209</span> Wir könnten nun sagen: wer sich so prüft, ob er verstanden habe, geht immer ein Stück Weges der Straße nach, die er später gehen soll. Und das könnte ja so sein. Obwohl kein Grund ist, anzunehmen, daß es so ist. Denn, wenn er doch nur ein Stück des Weges geht, – warum soll er dann nicht ohne zu gehen erkennen können, daß er weiß welchen Weg er zu gehen hat? Damit ist aber nicht gesagt, daß nicht wirklich die Wege ein Stück gegangen werden. Aber es kommt auch vor, daß, was wir später als den ‘_Keim_’ des Gedankens oder der Tat ansehen, dies, seiner Natur nach, nicht ist.
+
+### [Ts-232,658\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/658.webp)
+
+<span class="series-number">211.</span> <span class="series-number">210</span> Wenn nun Einer sagte: Das heißt eben nur, daß “denken” das heißt, was einen bestimmten Enderfolg hat, einen bestimmten Zweck erfüllt. _Wie_ Jeder es macht, und ob heute so wie das vorige Mal, ist gleichgiltig. – So könnte ich antworten: Und wenn es zum richtigen Enderfolg führt, gar nichts zu tun, so bestünde also hier das Denken darin, daß Einer nichts tut. Man sagt: “Überzeug dich, daß du jeden Punkt verstehst!” Wenn ich nun fragte: “Wie soll ich mich überzeugen?” Welchen Rat würde man mir geben? Man würde mir sagen: “Frag dich, ob …”
+
+### [Ts-232,658\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/658.webp)
+
+<span class="series-number">212.</span> <span class="series-number">211</span> Ist es hier nicht wie beim Kunstrechner? – Er hat richtig gerechnet, wenn das Richtige herauskam. Was in ihm vorging, kann er vielleicht selbst nicht sagen. Und hörten wir's, so erschiene es vielleicht wie ein seltsames _Zerrbild_ einer Rechnung.
+
+### [Ts-232,658\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/658.webp)
+
+<span class="series-number">213.</span> <span class="series-number">212</span> Wenn einer sagt “Man kann auch wortlos denken”, so ist das irreleitend. Es handelt sich hier nicht darum, daß man im Stande ist, etwas Bestimmtes zu tun, ohne dabei das und das Andere zu tun; Wie z.B. “Man kann auch lesen, ohne die Lippen zu bewegen”.
+
+### [Ts-232,658\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/658.webp),[659\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/659.webp)
+
+<span class="series-number">214.</span> <span class="series-number">213</span> Wenn es z.B. nur ganz wenige Menschen gäbe, die die Antwort auf eine Rechenaufgabe finden könnten, ohne zu sprechen, oder zu schreiben, könnte man diese nicht zum Zeugnis dafür anführen, daß man auch ohne Zeichen rechnen könnte. Weil es nämlich nicht klar wäre, daß diese Leute überhaupt ‘rechnen’. Ebenso kann auch das Zeugnis des Ballard (bei James) Einen nicht davon überzeugen, daß man denken könne ohne Sprache. Ja, warum soll man, wo keine Sprache gebraucht wird, vom ‘denken’ reden? Tut man's, so zeigt das eben etwas über den _Begriff_ des Denkens.
+
+### [Ts-232,659\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/659.webp)
+
+<span class="series-number">215.</span> <span class="series-number">214</span> Man könnte z.B. zwei (oder mehr als zwei) verschiedene Wörter besitzen: eines fürs ‘laute Denken’, eines fürs denkende Sprechen in der Vorstellung, eines fürs Innehalten, wobei irgend etwas uns vorschwebt (oder auch nicht) woraufhin wir aber die Antwort mit Sicherheit geben können. Wir könnten zwei Wörter haben: eines für den Gedanken, der im Satz ausgedrückt ist; eines für den Gedankenblitz, den ich später ‘in Worte kleiden’ kann.
+
+### [Ts-232,659\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/659.webp)
+
+<span class="series-number">216.</span> <span class="series-number">215</span> Wenn man auch das denkende Arbeiten, ohne alles Reden, in unserer Betrachtung einbezieht, so sieht man, daß unser Begriff ‘denken’ ein weit verzweigter ist. Wie ein weit verzweigtes Verkehrsnetz, das viele entlegene Orte mit einander verbindet. In allen diesen weit entlegenen Fällen reden wir von einem ‘Denken’.
+
+### [Ts-232,659\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/659.webp)
+
+<span class="series-number">217.</span> <span class="series-number">216</span> In allen diesen Fällen sagen wir, der Geist sei nicht untätig, es gehe etwas in ihm vor; und unterscheiden sie dadurch von einem Zustand der Dumpfheit, des mechanischen Tuns.
+
+### [Ts-232,659\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/659.webp),[660\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)
+
+<span class="series-number">218.</span> <span class="series-number">217</span> ‘Denken’, ein weit verzweigter Begriff. Könnte man dasselbe nicht auch vom ‘glauben’, ‘tun’, ‘sich freuen’, sagen? Und wo gehört die Bemerkung eigentlich hin, dieser Begriff sei weit verzweigt? – Nun, man wir sie dem sagen, der darangeht, sich die Verzweigungen dieses Begriffs zu überlegen.
+
+### [Ts-232,660\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)
+
+<span class="series-number">219.</span> <span class="series-number">218</span> Es ist doch sehr merkwürdig, daß man keinerlei Schwierigkeit hat in einer Figur wie dieser 🖵 ein Gesicht zu sehen, obwohl doch die Unähnlichkeit des einen Winkels mit einer Nase des Andern mit einer Stirn etc. unglaublich groß ist, oder eine Ähnlichkeit kaum vorhanden. Man hat – wie gesagt – keinerlei Schwierigkeit, in diesen Strichen ein menschliches Gesicht zu sehen; man möchte sagen: “So ein Gesicht _gibt_ es”. Oder auch: “Es ist dies zwar die Karikatur eines menschlichen Gesichts, aber eben eines in der Wirklichkeit möglichen.” – Ganz so, wie man keine Schwierigkeit hat, im Grau und Weiß der Photographie das menschliche Gesicht zu sehen. ‒ ‒ Und was heißt das? Nun, wir _betrachten_ z.B. einen Film und folgen allen Vorgängen mit Anteilnahme; als hätten wir wirkliche Menschen vor uns.
+
+### [Ts-232,660\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)
+
+<span class="series-number">220.</span> <span class="series-number">219</span> ‘Denken’, ein weitverzweigter Begriff. Ein Begriff, der viele Lebensäußerungen in sich begreift. Die Denk**phänomene** liegen weit auseinander.
+
+### [Ts-232,660\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)
+
+<span class="series-number">221.</span> <span class="series-number">220</span> Und willst du nicht sagen, du sähest doch _ein_ Gesicht in allen diesen Wortverwendungen, _einen_ echten Begriff? – Aber was will das sagen? Kann nicht Gewohnheit all das zusammenschweißen?
+
+### [Ts-232,660\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp),[661\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/661.webp)
+
+<span class="series-number">222.</span> <span class="series-number">221</span> Wer mir etwa irgend einen Vorfall erzählt, oder eine gewöhnlich Frage an mich richtet (wieviel Uhr es ist, z.B.), den werde ich nicht fragen, ob er dabei gedacht habe. Oder so: Es wäre nicht ohne Weiteres klar, unter welchen Umständen man gesagt hätte, er hätte dies ohne zu denken getan– obwohl sich solche Umstände ausdenken lassen. (Hier ist eine Verwandtschaft mit der Frage, was eine ‘willkürliche’ Handlung zu nennen sei.)
+
+### [Ts-232,661\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/661.webp)
+
+<span class="series-number">223.</span> <span class="series-number">222</span> Der denkende Gesichtsausdruck, der Gesichtsausdruck des Idioten. Das Stirnrunzeln des Nachdenkens, der Aufmerksamkeit.
+
+### [Ts-232,661\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/661.webp),[662\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp)
+
+<span class="series-number">224.</span> <span class="series-number">223</span> Nun denke dir einen Menschen, oder einen von Köhlers Affen, der eine Banane von der Decke holen will, sie nicht erreichen kann, auf Mittel und Wege sinnt, endlich zwei Stöcke aneinander setzt, etc. Denk, man fragte “Was muß dazu in ihm vorgehen?” – Die Frage scheint irgendeinen Sinn zu haben. Und es könnte vielleicht Einer antworten, der Affe, wenn er nicht durch Zufall, oder aus einem Instinkt heraus handelte, müsse den Vorgang vor dem geistigen Auge gesehen haben. Aber das wäre nicht genug, und anderseits wieder zu viel. Ich will, der Affe solle sich etwas _überlegen_. Zuerst bringt und langt er vergebens nach der Banane, dann gibt er's auf und ist etwa niederschlagen – aber diese Phase kann wegbleiben. Wie kann er nun _innerlich_ dazu kommen, überhaupt einen Stock zu ergreifen? Es könnte ihm ja ein Bild gezeigt werden, das so etwas darstellt, und er könnte daraufhin so handeln; oder so ein Bild könnte ihm einfach vorschweben. Aber das wäre doch wieder Zufall. Er hätte dieses Bild nicht durch Nachdenken gewonnen. Und hilft es uns, wenn wir sagen, er brauche nur seinen Arm und den Stock irgendwie als eine Einheit gesehen haben? Aber nehmen wir doch einmal einen günstigen Zufall an! Die Frage ist dann: wie kann er aus dem Zufall _lernen_? Vielleicht hatte er also den Stock zufällig in der Hand und berührte mit ihm zufällig die Banane. – Und was muß nun weiter in ihm vorgehen? Er sagt sich, gleichsam, “So geht's!” und tut es nun mit dem Zeichen des vollen Bewußtseins. ‒ ‒ Hat er etwa spielend eine Kombination gemacht, und verwendet sie nun als Methode, das und jenes zu tun, so werden wir sagen, er denke. – Beim _Überlegen_ würde er Mittel und Wege an seinem geistigen Auge vorbeiziehen lassen. Aber dazu muß er schon welche im Vorrat haben. Das Denken gibt ihm die Möglichkeit zur _Vervollkommnung_ seiner Methoden. Oder vielmehr: Er ‘denkt”, wenn er in bestimmter Art und Weise seine Methoden vervollkommnet.
+
+### [Ts-232,662\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp)
+
+<span class="series-number">225.</span> <span class="series-number">224</span> Man könnte auch sagen: er denkt, wenn er in bestimmter Weise _lernt_.
+
+### [Ts-232,662\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp)
+
+<span class="series-number">226.</span> <span class="series-number">225</span> Und auch dies könnte man sagen: Wer bei der Arbeit _denkt_ der wird _Hilfstätigkeiten_ in sie einschalten. Das Wort “denken” nun bezeichnet nicht diese Hilfstätigkeiten, wie Denken ja auch nicht Reden ist. Obwohl der Begriff ‘denken’ nach Art einer imaginären Hilfstätigkeit gebildet ist. (So wie man sagen könnte, der Begriff des Differentialquotienten sei nach Art eines imaginären Quotienten gebildet.)
+
+### [Ts-232,662\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp)
+
+<span class="series-number">227.</span> <span class="series-number">226</span> Diese Hilfstätigkeiten sind nicht das Denken; aber man stellt sich das Denken vor, als das jenige, was unter der Oberfläche dieser Hilfsmittel strömen muß, wenn sie nicht doch nur mechanische Handlungen sein sollen.
+
+### [Ts-232,662\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp),[663\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp)
+
+<span class="series-number">228.</span> <span class="series-number">227</span> Denken ist die imaginäre Hilfstätigkeit; der unsichtbare Strom, der alle diese Arten des Handelns trägt und verbindet. – Die Grammatik von “denken” aber gleicht sich der von “Sprechen” an.
+
+### [Ts-232,663\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp)
+
+<span class="series-number">229.</span> <span class="series-number">228</span> Man könnte also zwei Schimpansen mit Bezug auf ihre Arbeitsweise unterscheiden, und vom einen sagen, er denkt, vom andern, er denke nicht.
+
+### [Ts-232,663\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp)
+
+<span class="series-number">230.</span> <span class="series-number">229</span> Aber hier hätten wir freilich nicht die volle Verwendung von “Denken”. Das Wort bezöge sich auf ein Benehmen. Die Bedeutung der seelischen Tätigkeit erhält es erst durch die besondere Verwendung in der ersten Person.
+
+### [Ts-232,663\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp)
+
+<span class="series-number">231.</span> <span class="series-number">230</span> Es ist, glaube ich, wichtig, zu bemerken, daß das Wort eine erste Person der Gegenwart (in der Bedeutung, auf die es uns ankommt) nicht hat. Oder soll ich sagen: daß seine Verwendung in der Gegenwart nicht mit der z.B. des Verbums “Schmerz fühlen” parallel läuft?
+
+### [Ts-232,663\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp)
+
+<span class="series-number">232.</span> <span class="series-number">231</span> “Ich dachte …” kann man sagen, wenn man den Ausdruck der Gedanken wirklich gebraucht hat; aber auch, wenn diese Worte gleichsam die Entwicklung aus einem Denkkeim sind.
+
+### [Ts-232,663\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp)
+
+<span class="series-number">233.</span> <span class="series-number">232</span> Nur unter ganz speziellen Umständen tritt die Frage auf, ob _denkend_ geredet wurde, oder nicht.
+
+### [Ts-232,663\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/663.webp),[664\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/664.webp)
+
+<span class="series-number">234.</span> <span class="series-number">233</span> Die Verwendung so eines Wortes wie “denkend” ist eben viel erratischer als es zuerst den Anschein hat. Man kann das auch so sagen: der Ausdruck dient einem viel spezielleren Zweck als man's seiner Form ansieht. Denn diese ist eine einfache, regelmäßige Bildung: Wenn das Denken oft, oder zumeist, mit dem Reden zusammengeht, so ist natürlich die Möglichkeit vorhanden, daß es einmal nicht mit ihm geht.
+
+### [Ts-232,664\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/664.webp),[665\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/665.webp)
+
+<span class="series-number">235.</span> <span class="series-number">234</span> Ich lerne eine fremde Sprache und lese Satzbeispiele in einem Übungsbuch. “Meine Tante hat einen schönen Garten.” Er hat ein Übungsbuch-Aroma. Ich lese ihn und frage mich Wie heißt ‘schön’ auf …?” dann denke ich an den Kasus. – Nun, wenn ich Jemandem mitteile, meine Tante habe …, so denke ich an diese Dinge nicht. Der Zusammenhang, in dem der Satz stand, war ein ganz anderer. – Aber konnte ich nicht jenen Satz im Übungsbuch lesen und bei ihm trotzdem an den Garten meiner Tante denken? Gewiß. Und soll ich nun sagen, die Denkbegleitung ist jedesmal eine andere, je nachdem ich den Satz einmal als reine Übung sehe, einmal als Übung mit dem Gedanken an einen Garten, einmal wenn ich ihn jemand einfach als Mitteilung sage? ‒ ‒ Und ist es unmöglich, daß mir Einer mitten im Gespräch diese Mitteilung macht und in ihm ganz das Gleiche stattfindet wie wenn er den Satz als Sprachübung behandelt? Kommt es mir denn darauf an, was in ihm geschieht? Erfahre ich's denn? Und wie kann ich denn überhaupt mit irgendwelcher Sicherheit darüber schreiben, denn, während ich dies tue, lerne ich ja keine Sprache und mache niemand jene Mitteilung. Wie kann ich dann also wissen, was in einem solchen Falle in Einem vorgeht? Erinnere mich denn jetzt an das, was in diesen Fällen in mir vorging? Nichts dergleichen. Ich glaube nur, mich jetzt in diese Lage hineindenken zu können. Aber da mag ich doch ganz und gar irre gehen. Und dies ist ja die Methode, die man in solchen Fällen _immer_ anwendet! Was man dabei an sich erfährt, ist charakteristisch nur für die Situation des Philosophierens.
+
+### [Ts-232,665\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/665.webp)
+
+<span class="series-number">236.</span> <span class="series-number">235</span> Was weiß ich von den inneren Vorgängen eines, der mit Aufmerksamkeit einen Satz liest? Und kann er mir sie beschreiben, nachdem er's getan hat, und ist, was er etwa beschreibt eben der charakteristische Vorgang der Aufmerksamkeit?
+
+### [Ts-232,665\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/665.webp)
+
+<span class="series-number">237.</span> <span class="series-number">236</span> Welche Wirkung will ich denn erzielen, wenn ich Einem sage “Lies aufmerksam!”? Etwa, daß ihm das und jenes auffällt, er davon berichten kann. – Wieder könnte man, glaube ich, sagen, daß, wer einen Satz mit großer Aufmerksamkeit liest, dann von Vorgängen in seinem Geist, Vorstellungen etwa, im Allgemeinen wird berichten können. Aber das heißt nun nicht, daß diese Vorgänge die Aufmerksamkeit ausmachten.
+
+### [Ts-232,665\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/665.webp),[666\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/666.webp)
+
+<span class="series-number">238.</span> <span class="series-number">237</span> Was tue ich mit einer Mitteilung, er habe beim Lesen des Satzes an etwas ganz Anderes gedacht? Welche Schlüsse, die mich interessieren, kann ich aus so einer Mitteilung ziehen? Nun, etwa, daß ihn jene Sache beschäftigt; daß ich nicht zu erwarten habe, er wisse, wovon das Gelesene gehandelt hat; daß ihm das Gelesene keinen Eindruck irgend welcher Art gemacht hat; und dergleichen. Darum hätte es ja auch keinen Sinn, wenn jemand, der mit mir ein angenehmes Gespräch gehabt hatte, mir danach versicherte, er habe ganz ohne zu denken geredet. Und zwar nicht, weil es aller Erfahrung widerspricht, daß Einer, der so reden kann, es ohne die Begleitvorgänge des Denkens tue. Sondern, weil es sich hier zeigt, daß uns die Begleitungsvorgänge überhaupt nicht interessieren und nicht das Denken _ausmachen_. Wir kümmern uns den Teufel um seine Begleitvorgänge, wenn er mit uns ein Gespräch in normaler Weise führt.
+
+### [Ts-232,666\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/666.webp)
+
+<span class="series-number">239.</span> <span class="series-number">238</span> “Es zuckte mir durch den Sinn: … Nun, diesen Ausdruck lernt der Mensch gebrauchen. Fast nie fragt man Einen “_Wie_ zuckte es dir durch den Sinn? Hast du dir gewisse Worte gesagt, hast du etwas in der Vorstellung vor dir gesehen; kannst du _überhaupt_ sagen, was in dir vorging?”
+
+### [Ts-232,666\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/666.webp)
+
+<span class="series-number">240.</span> <span class="series-number">239</span> Wenn man erkennen will, wie Verschiedenes “Gedanke” heißt, braucht man ja nur einen Gedanken der reinen Mathematik mit einem Nicht-Mathematischen vergleichen. Denk nur, was alles “Satz” heißt!
+
+### [Ts-232,666\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/666.webp)
+
+<span class="series-number">241.</span> <span class="series-number">240</span> Das Kind _muß_ nicht zuerst einen primitiven Ausdruck gebrauchen, den wir dann durch den gebräuchlichen ersetzen. Warum soll es nicht sogleich den Ausdruck der Erwachsenen gebrauchen, den es öfters gehört hat. Wie es “errät”, daß dies der richtige Ausdruck ist, oder wie es darauf kommt, ihn zu gebrauchen, ist ja gleichgiltig. Hauptsache ist: es gebraucht ihn – nach welchen Präliminarien immer – so, wie die Erwachsenen ihn gebrauchen: d.h., bei den selben Anlässen, in der gleichen Umgebung. Er sagt auch: der Andere habe gedacht …
+
+### [Ts-232,666\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/666.webp)
+
+<span class="series-number">242.</span> <span class="series-number">241</span> Wie wichtig ist das Erleben der Bedeutung im sprachlichen Verkehr? Was wichtig ist, ist, daß wir beim Aussprechen eines Worts intendieren. Ich sage z.B. “Bank!” und will damit jemand erinnern, er solle auf die Bank gehen, und ich meine dabei in der einen, und nicht in der andern Bedeutung. – Aber die Intention ist eben kein Erlebnis.
+
+### [Ts-232,666\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/666.webp),[667\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/667.webp)
+
+<span class="series-number">243.</span> <span class="series-number">242</span> Was unterscheidet sie aber vom Erlebnis? – Sie hat kein Nun, sie hat keinen Erlebnisinhalt. Denn die Inhalte, (Vorstellungen z.B.), die mit ihr oft Hand in Hand gehen, sind nicht die Intention selbst. – Und doch ist sie auch nicht eine Disposition, wie das Wissen. Denn die Intention war vorhanden, als ich es sagte; sie ist jetzt nicht mehr vorhanden; aber ich habe sie nicht vergessen.
+
+### [Ts-232,667\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/667.webp)
+
+<span class="series-number">244.</span> <span class="series-number">243</span> Es ist wahr: ich konnte mich mehr, oder weniger intensiv mit dem beschäftigen, was ich sagte. Und hier handelt sich's offenbar nicht um bestimmte Erlebnisse während des Aussprechens der Worte. D.h., man könnte nicht sagen “Beim Aussprechen des Wortes ‘Bank’ mußte das und das vor sich gehen, wenn es wirklich _so_ gemeint war”.
+
+### [Ts-232,667\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/667.webp)
+
+<span class="series-number">245.</span> <span class="series-number">244</span> Daß man nun doch das Wort isoliert, fern von jeder Intention, ‘einmal mit einer, einmal mit einer andern Bedeutung aussprechen’ kann, das ist ein Phänomen, das nicht auf das Wesen der Bedeutung reflektiert; so daß man sagen könnte “Siehst du, auch _dies_ kann man mit einer Bedeutung machen”. ‒ ‒ So wenig, wie man sagen könnte: “Schau, was man mit einem Apfel alles machen kann: man kann ihn essen, sehen, zu haben wünschen, sich vorzustellen versuchen.” So wenig wie es für den _Begriff_ ‘Nadel’ und ‘Seele’ charakteristisch ist, daß wir fragen können, wieviele Seelen auf einer Nadelspitze Platz haben. – Es handelt sich hier, so zu sagen, um einen _Auswuchs_ des Begriffs.
+
+### [Ts-232,667\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/667.webp),[668\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/668.webp)
+
+<span class="series-number">246.</span> <span class="series-number">245</span>
+
+Statt “Auswuchs des Begriffes” hätte ich auch sagen können “Anbau an den Begriff”. ‒ ‒ In dem Sinne, in welchem es auch nicht zu dem Wesen des Personennamens gehört, daß er die Eigenschaften seines Trägers zu haben scheint. – ((Zitat aus Grillparzer)).
+
+### [Ts-232,668\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/668.webp)
+
+<span class="series-number">247.</span> <span class="series-number">246</span> Wie kann man den Geisteszustand dessen, der einen Befehl halb automatisch gibt, von dem unterscheiden, in er mit _Nachdruck_, eindringlich, gegeben wird? “Es geht in dieses Menschen Geist etwas anderes vor.” Denke an den Zweck der Unterscheidung. Was sind die Zeichen des Nachdrucks?
+
+### [Ts-232,668\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/668.webp)
+
+<span class="series-number">248.</span> <span class="series-number">247</span> Wenn ein sonst normaler Mensch unter den und den normalen Umständen ein normales Gespräch führt, und ich gefragt würde, wie sich in so einem Falle der Denkende vom Nichtdenkenden unterschiede, – ich wüßte nicht zu antworten. Und ich könnte _gewiß nicht_ sagen, daß der Unterschied in etwas liegt, was während des Sprechens vor sich ginge, oder nicht vor sich ginge.
+
+### [Ts-232,668\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/668.webp)
+
+<span class="series-number">249.</span> <span class="series-number">248</span> Die Grenzlinie zwischen ‘denken’ und ‘nicht denken’, die hier gezogen würde, liefe zwischen zwei Zuständen, die sich durch nichts einem Spiel der Vorstellungen auch nur Ähnliches unterschieden. Denn das Spiel der Vorstellungen bleibt ja doch das, was man sich als das Charakteristikum des Denkens denkt.
+
+### [Ts-232,668\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/668.webp)
+
+<span class="series-number">250.</span> <span class="series-number">249</span> “Ich habe diese Worte gesagt, aber mir _gar nichts_ bei ihnen gedacht”, das ist eine interessante Äußerung, weil die Folgen interessant sind. Du kannst dir aber immer denken, daß, wer dies sagte, sich bei der Introspektion geirrt hat; aber das würde nichts machen.
+
+### [Ts-232,668\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/668.webp),[669\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/669.webp)
+
+<span class="series-number">251.</span> <span class="series-number">250</span> Was aber soll ich nun sagen: Ist dem, der gedankenlos geredet hat, ein Erlebnis abgegangen? Waren es z.B. Vorstellungen? ‒ ‒ Aber wenn ihm die abgegangen wären, hätte das für uns _dasselbe Interesse_ wie dies, daß er ohne zu denken gesprochen hat? Sind es die Vorstellungen, die uns in diesem Falle interessieren? Haben wir in seiner Äußerung nicht eine Art Signal von ganz anderer Bedeutung?
+
+### [Ts-232,669\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/669.webp)
+
+<span class="series-number">252.</span> <span class="series-number">251</span> Soll ich sagen: “Wenn du nicht automatisch gesprochen hast (was immer das heißen mag) und wenn du deine Absicht nicht erst später erhalten, oder geändert hast, so hattest du sie, als du sprachst”?
+
+### [Ts-232,669\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/669.webp)
+
+<span class="series-number">253.</span> <span class="series-number">252</span> “Ich habe mit dem Satz nichts gemeint, ich hab ihn nur vor mich hin gesagt.” Wie merkwürdig, daß ich damit auf kein Erlebnis während des Sprechens anspiele, und daß ich trotzdem nichts Bezweifelbares ausspreche. Es ist sehr merkwürdig, daß die _Vorgänge_ beim Denken uns so gut wie nie interessieren. (Aber natürlich sollte ich nicht sagen, es sei merkwürdig.)
+
+### [Ts-232,669\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/669.webp)
+
+<span class="series-number">254.</span> <span class="series-number">253</span> Die Frage “Was hast du gemeint” und ähnliche können in zweifacher Weise verwendet werden. In einem Fall wird einfach eine Sinn– oder Bedeutungserklärung verlangt, damit man mit dem Sprachspiel fortfahren kann. Im andern Fall interessiert uns etwas, was zur Zeit, als der Satz gesprochen wurde, geschah. Im ersten Falle würde uns ein psychologischer Bericht wie dieser “Zuerst sagte ich's nur zu mir selbst, dann wendete ich mich an dich und wollte dich erinnern …” nicht interessieren.
+
+### [Ts-232,669\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/669.webp)
+
+<span class="series-number">255.</span> <span class="series-number">254</span> Hast du _das_ gemeint? Ja, es war der Anfang dieser Bewegung.
+
+### [Ts-232,669\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/669.webp),[670\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/670.webp),[671\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/671.webp)
+
+<span class="series-number">256.</span> <span class="series-number">‒ ‒255</span> Denken wir uns diesen Fall: Ich soll um 12 Uhr jemand daran erinnern, er solle auf die Bank gehen, Geld holen. Mein Blick fällt um 12 Uhr auf die Uhr und ich sage “Bank!” (Zu ihm gewendet, oder auch nicht) vielleicht mache ich eine Gebärde, die man manchmal macht, wenn man sich plötzlich einer Sache, die zu tun ist, entsinnt. – Gefragt “meinst du die …bank”? werde ich's bejahen. – Gefragt “Hast du beim Sprechen die …bank gemeint”, auch. – Wie, wenn ich das Letztere verneinte? Was würde das dem Andern mitteilen? Etwa daß ich beim Sprechen den Satz anders gemeint, ihn aber dann doch für _diesen_ Zweck verwenden wollte. Nun, das kann vorkommen. Es könnte auch sein, daß ich, als mein Blick auf die Uhr fiel, in seltsamer automatischer Weise das Wort “Bank” ausspreche, so daß ich dann berichte “ich hörte mich plötzlich das Wort sagen, ohne mit ihm irgend eine Bedeutung zu verbinden. Erst nach einigen Sekunden erinnerte ich mich daran, daß du zur Bank solltest.” – Die Antwort, ich hätte zuerst das Wort anders gemeint, bezog sich offenbar auf die Zeit des Sprechens; und ich hätte mich auch so ausdrücken können: “Ich habe beim Sprechen an _diese_ Bank gedacht, nicht an …”. – Die Frage ist nun: ist dieses ‘Denken an …’ ein Erlebnis? Es geht häufig, vielleicht immer, mit einem Erlebnis zusammen, möchte man sagen. Zu sagen, man habe damals an _diese_ Sache gedacht, auf die man nun zeigen, die man beschreiben kann, etc., ist förmlich als sagte man: Dieses Wort, dieser Satz, war der Anfang von diesem Gedankengang, von dieser Bewegung. Nicht aber so, als ob ich dies durch nachträgliche Erfahrung wüßte; Sondern die Äußerung “Ich habe bei diesen Worten an … gedacht” knüpft eben selber an jenen Zeitpunkt an. Und wenn ich sie in der Gegenwart statt in der Vergangenheit machte, _hieße sie etwas_ _anderes_.
+
+### [Ts-232,671\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/671.webp)
+
+<span class="series-number">257.</span> <span class="series-number">256</span> Warum aber will ich sagen, jenes Denken sei kein Erlebnis? – Man kann an die ‘Dauer’ denken. Wenn ich statt des einen Wortes einen ganzen Satz gesprochen hätte, könnte ich nicht von einem Zeitpunkt im Sprechen sagen, er sei der Anfang des Denkens gewesen noch auch der Augenblick, in dem es stattgefunden hat. Oder, wenn man Anfang und Ende des Satzes Anfang und Ende des Gedankens nennt, dann ist es nicht klar, ob man von dem Erlebnis des Denkens sagen soll, es sei während dieser Zeit einförmig, oder es sei ein Vorgang wie das Sprechen des Satzes selbst. Ja, wenn man von einer _Erfahrung_ des Denkens spricht, so ist die Erfahrung des Redens so gut wie jede Andere. Aber der Begriff ‘denken’ ist kein Erfahrungsbegriff. Denn man vergleicht Gedanken nicht, wie man Erfahrungen vergleicht.
+
+### [Ts-232,671\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/671.webp)
+
+<span class="series-number">258.</span> <span class="series-number">257</span> Man kann Einen im Denken stören; – aber im Beabsichtigen? Gedanken wohl aber im Planen. Auch im Festhalten einer Absicht, nämlich im Denken oder handeln.
+
+### [Ts-232,671\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/671.webp),[672\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/672.webp)
+
+<span class="series-number">259.</span> <span class="series-number">258</span> “Sag ‘_abcde_’ und meine: Das Wetter ist schön.” Soll ich also sagen, daß das Erlebnis des Aussprechens eines Satzes einer uns geläufigen Sprache ein ganz anderes ist, als das des Aussprechens uns nicht in bestimmten Bedeutungen geläufiger Zeichen? Wenn ich also jene Sprache lernte in welcher “_abcde_” den Sinn … hat, würde ich nach und nach das uns bekannte Erlebnis beim Aussprechen eines Satzes kriegen? Oder soll ich sagen, wie ich geneigt bin zu sagen, die Hauptverschiedenheit der beiden Fälle liegt darin, daß ich mich im Einen nicht bewegen kann. Es ist, als wäre eines meiner Gelenke in Schienen und ich wäre noch nicht an sie gewöhnt und hätte daher noch nicht ihre möglichen Bewegungen inne, stieße also so zu sagen in einem fort an. (Gefühl des Weichen).
+
+### [Ts-232,672\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/672.webp)
+
+<span class="series-number">260.</span> <span class="series-number">259</span> Denk dir, ich wäre mit einem Menschen beisammen, der diese Sprache spricht und mir wäre gesagt worden, “_abcde_” heiße das und das, und ich solle dies sagen, weil es höflich sei. Ich würde es also mit einem freundlichen Lächeln, mit einem Blick zum Fenster hinaus sagen. Wäre das nicht allein genug, um mir diese Zeichen näher zu bringen?
+
+### [Ts-232,672\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/672.webp)
+
+<span class="series-number">261.</span> <span class="series-number">260</span> Man könnte von _‘Anteilnahme’_ reden. Und worin liegt meine Anteilnahme an einem Satz, den ich spreche? An dem, wird man sagen, was dabei in mir vorgeht. _Ich_ möchte sagen: An den Verbindungen, Zusammenhängen, die ich mache. Es ist nämlich die Frage: Was immer beim Anteilnehmen in mir vor sich geht, – wodurch ist es ein Anteilnehmen an dem Inhalt dieses Satzes? Warum ist es z.B. nicht eine pathologische Aufregung in mir, die das Sprechen begleitet?
+
+### [Ts-232,672\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/672.webp)
+
+<span class="series-number">262.</span> <span class="series-number">261</span> Kann ich wirklich sagen, es sei beim ‘gedankenlosen’ Lesen des Übungsbuchsatzes in mir etwas ganz Anderes, oder einfach etwas anderes geschehen, als beim verständnisvollen Lesen des Satzes in anderem Zusammenhang? Ja – Unterschiede sind da. Ich werde z.B. auf den gleichen Satz in gewissem Zusammenhang sagen “Ja, _so_ war es?”, ich werde überrascht, enttäuscht, gespannt, befriedigt sein, etc.
+
+### [Ts-232,672\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/672.webp),[673\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/673.webp)
+
+<span class="series-number">263.</span> <span class="series-number">262</span> “Hast du den Satz denkend gelesen?” – “Ja, ich habe ihn denkend gelesen; jedes Wort war mir wichtig.” “Ich habe sehr anstrengt dabei gedacht”. Ein Signal. Ist dabei nichts vorgegangen? Doch, allerlei. Aber _darauf_ bezog sich das Signal nicht. Und doch bezog sich das Signal auf die Zeit des Redens.
+
+### [Ts-232,673\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/673.webp)
+
+<span class="series-number">264.</span> <span class="series-number">263</span> James könnte vielleicht sagen: “Ich lese jedes Wort mit dem ihm entsprechenden Gefühl”. “Aber” mit dem Abergefühl, u.s.w. Und selbst wenn das wahr ist, – was bedeutet es eigentlich? Was ist die Grammatik des Begriffs “Abergefühl”? Es wird ja nicht ein Gefühl dadurch, daß ich es “Gefühl” nenne.
+
+### [Ts-232,673\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/673.webp)
+
+<span class="series-number">265.</span> <span class="series-number">264</span> Wie seltsam, daß etwas beim Sprechen vorgegangen ist, und ich doch nicht sagen kann, _was_! ‒ ‒ Am besten: ich sage, es war eine Illusion, und es ist nichts vorgegangen; und nun untersuche ich den Nutzen der Äußerung. Und es wird sich auch fragen, welches der Nutzen des Bezugs auf den vergangenen Zeitpunkt ist.
+
+### [Ts-232,673\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/673.webp)
+
+<span class="series-number">266.</span> <span class="series-number">265</span> Ja; “Ich habe bei diesen Worten gedacht …” bezieht sich allerdings auf die Zeit des Redens; aber wenn ich nun den ‘Vorgang’ _charakterisieren_ soll, so kann ich ihn nicht als ein Geschehen in diesem Zeitraum beschreiben, z.B. nicht sagen, die und die Phase des Vorgangs habe in _diesem_ Zeitabschnitt stattgefunden. Also _nicht_, wie ich z.B. das Sprechen selbst beschreiben kann. Das ist der Grund, warum man das Denken nicht wohl einen Vorgang nennen kann. ((Noch eine Begleitung des Redens.))
+
+### [Ts-232,673\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/673.webp),[674\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/674.webp)
+
+<span class="series-number">267.</span> <span class="series-number">266</span> Mit ‘denkend reden’ müßte ich eigentlich meinen: Reden und verstehen, was man sagt, und nicht erst nachträglich verstehen.
+
+### [Ts-232,674\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/674.webp)
+
+Das Schreiben ist gewiß eine willkürliche Bewegung, und doch eine automatische. Und von einem Fühlen der Schreibbewegungen ist natürlich nicht die Rede. D.h. man fühlt etwas, aber könnte das Gefühl unmöglich zergliedern. Die Hand schreibt; sie schreibt nicht, weil man will, sondern man will, daß sie schreibt. Man sieht ihr nicht erstaunt oder mit Interesse beim Schreiben zu; denkt nicht “Was wird sie nun schreiben”. Aber nicht, _weil_ man eben wünschte, sie solle _das_ schreiben. Denn, daß sie schreibt, was ich wünsche, könnte mich ja erst recht in Erstaunen versetzen.
+
+### [Ts-232,674\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/674.webp)
+
+<span class="series-number">268.</span> <span class="series-number">267</span> Wie prüfen wir, ob jemand versteht, was es heißt, die Muskeln des Armes entspannen, schlaff lassen? Doch dadurch, daß wir prüfen, ob sie entspannt sind, wenn er sagt, er habe sie entspannt (etwa auf unsern Befehl). Was würden wir nun zu dem sagen, der uns mitteilt, er spanne die Muskeln nicht an, während sein Arm ein Gewicht hebt und es mit allen den gewöhnlichen Anzeichen der gewollten Bewegung tut? Wir würden hier von Lüge oder von einer merkwürdigen Illusion reden. Ich weiß nicht, ob es Verrückte gibt, die ihre normalen Bewegungen für ungewollt erklären. Wenn es aber jemand tut, so erwarte ich mir von ihm, daß er der Bewegung seines Arms in ganz anderer als der normalen Weise mit seiner Aufmerksamkeit folgt; so nämlich, wie der Bewegung des Zeigers eines Instruments etwa.
+
+### [Ts-232,674\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/674.webp),[675\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/675.webp)
+
+<span class="series-number">269.</span> <span class="series-number">268</span> Das Kind lernt gehen, kriechen, spielen. Es lernt nicht, willkürlich und unwillkürlich spielen. Aber was macht die Bewegungen des Spiels zu willkürlichen Bewegungen? Nun, wie wäre es denn, wenn sie unwillkürlich wären? – Ich könnte auch fragen: was macht denn diese Bewegungen zu einem Spielen? – Daß sie Reaktionen auf gewisse Bewegungen, Laute, etc. des Erwachsenen sind, daß sie einander _so_ folgen, mit _dieser_ Miene und Lauten (dem Lachen z.B.) zusammengehen.
+
+### [Ts-232,675\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/675.webp)
+
+<span class="series-number">270.</span> <span class="series-number">269</span> Kurz, macht es die Bewegungen _**so**_, so sagen wir sie seien willkürlich. Bewegungen in solchen Syndromen heißen “willkürlich”.
+
+### [Ts-232,675\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/675.webp)
+
+<span class="series-number">271.</span> <span class="series-number">270</span> Ich gebe Einen mit den Augen ein Zeichen. Ich kann, was es bedeutet hat, später erklären. Wenn ich sage “Ich hatte dabei _diese_ Intention”, so ist das, als bezeichnete ich den Ausdruck als Anfang einer Bewegung. Ich erkläre ihn nicht mit Hilfe von _hergebrachten_ Regeln, noch durch eine Definition, die den zukünftigen Gebrauch des Zeichens regeln soll. Ich sage weder “Dies Zeichen bedeutet bei uns _das_”, noch “Es soll in Hinkunft _das_ bedeuten”. Ich gebe also _keine_ Definition.
+
+### [Ts-232,675\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/675.webp)
+
+<span class="series-number">272.</span> <span class="series-number">271</span> Denk nun aber an den Unterschied, den es macht, wenn ich jenen Ausruf in seiner bestimmten Situation nicht aus eigenem, mache, sondern ihn in einer Geschichte, oder einem Schauspiel lese. Ich nehme an; mit _Verständnis_ lese. Wenn ich aber da noch immer von einer Intention (ich meine von _meiner_ Intention) bei diesem Wort zu reden?
+
+### [Ts-232,675\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/675.webp)
+
+<span class="series-number">273.</span> <span class="series-number">272</span> Kann ich aber sagen, es geht beim Lesen etwas anderes in mir vor sich als beim spontanen Ausruf? Nein. Ich weiß _nichts_ von so einer Verschiedenheit der Vorgänge; obwohl die Art und Weise, wie ich mich ausdrücke, auf so etwas schließen ließe. Aber, wenn Einer ins Zimmer käme, gerade wenn ich den Ausruf lese, und er fragte mich, ob ich das und das wolle, würde ich ihm sagen, ich hätte es nicht so gemeint und bloß etwas gelesen.
+
+### [Ts-232,676\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/676.webp)
+
+<span class="series-number">274.</span> <span class="series-number">273</span> Ich sagte früher, die Intention habe keinen Inhalt. Nun, ihren Inhalt kann man das nennen, was ihr Wortausdruck erklärt. Aber eben davon kann man weder sagen, es sei ein gleichförmiger Zustand, der von diesem Zeitpunkt bis zu jenem andauert; also etwa vom Anfang des ersten, bis zum Ende des letzten Wortes; noch kann man Phasen in ihm unterscheiden und diese dem Ablaufen des Wortausdrucks zuordnen. Wäre dagegen der Satz von einem Spiel der Vorstellungen begleitet, so könnte man eben dies tun.
+
+### [Ts-232,676\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/676.webp)
+
+<span class="series-number">275.</span> <span class="series-number">274</span> Unterschied zwischen ‘Die Absicht haben’ und ‘an die Absicht denken’. Wenn ich mir sage “Ich will diesem Gespräch ein Ende machen”, so ist das doch der Ausdruck einer Absicht und zwar im Moment ihres Entstehens; es ist eigentlich der Ausdruck des _Entschlusses_. Und dem Entschluß als einem Bejahen der Absicht entspricht auch ein Hin- und Herschwanken zwischen Entscheidungen, ein Ringen mit dem Entschluß.
+
+### [Ts-232,676\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/676.webp)
+
+<span class="series-number">276.</span> <span class="series-number">275</span> Wenn ich bei mir denke “Ich halt es nicht mehr aus; ich will gehen!” so denke ich doch eine Absicht. Es ist aber das Denken des Ausbruchs einer Absicht. Während man von dem der erzählt “Ich beabsichtige im nächsten Jahr …” auch sagen kann, er denke eine Absicht, aber in ganz anderem Sinne.
+
+### [Ts-232,676\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/676.webp)
+
+<span class="series-number">277.</span> <span class="series-number">276</span> Man sagt nicht “Ich weiß, daß es regnet” einfach als Mitteilung, es regnet; sondern etwa, wenn diese Aussage angezweifelt wurde; oder auf die Frage, ob ich auch sicher sei. Aber ich könnte dann auch sagen “es ist ganz gewiß: es regnet.”
+
+### [Ts-232,676\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/676.webp),[677\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/677.webp)
+
+<span class="series-number">278.</span> <span class="series-number">277</span> Ich kann mit einer Meldung eine Reihe von Sprachspielen spielen. Eines ist z.B.: nach ihr handeln; ein anderes: durch sie den Meldenden prüfen. Aber ist nicht das erste so zu sagen das ursprünglichere Sprachspiel, das, wozu eine Meldung eigentlich da ist?
+
+### [Ts-232,677\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/677.webp)
+
+<span class="series-number">279.</span> <span class="series-number">278</span> Man muß sich sagen, daß es die erste Person “ich glaube” sehr wohl auch ohne eine dritte geben könnte. Warum sollte nicht in der Sprache ein Verbum gebildet worden sein, daß nur eine erste Person der Gegenwart hat? Es ist gleichgiltig, was dazu geführt hat, welche Vorstellungen.
+
+### [Ts-232,677\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/677.webp)
+
+<span class="series-number">280.</span> <span class="series-number">279</span> Aber was heißt das: “Es regnet und ich glaube es nicht” habe Sinn, wenn ich es als Annahme _meine_, und keinen Sinn, wenn ich es als Behauptung, oder Meldung meine. Man stellt sich das so vor, daß, wenn der Satz auf die Erste Art intendiert wird, etwas von ihm ausgeht, etwas aufleuchtet, wogegen alles finster bleibt, wenn man ihn auf die zweite Art intendiert. Und etwas ist ja wahr daran: denn, sagt mir Einer diese Worte und ich verstehe sie als Annahme, so leuchtet etwa Verständnis in meinem Gesicht auf; deute ich aber den Satz als Meldung, so werde ich am Sinn irre und das Verständnis bleibt aus. “Es regnet und ich glaube es nicht” ist eine Annahme, aber keine Meldung.
+
+### [Ts-232,677\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/677.webp)
+
+<span class="series-number">281.</span> <span class="series-number">280</span> Man möchte auch sagen: die Annahme, ich glaube das, ist die Annahme, ich sei _so_ disponiert. Während ich von der Meldung “Ich glaube …” nicht sagen möchte sie berichte von meiner Disposition. Vielmehr ist sie eine Äußerung dieser Disposition.
+
+### [Ts-232,677\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/677.webp),[678\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/678.webp)
+
+<span class="series-number">282.</span> <span class="series-number">281</span> Alles das hängt damit zusammen, daß man sagen kann “Ich glaube, er glaubt …”, “Ich glaube, ich habe geglaubt …”, aber nicht “Ich glaube, ich glaube …”
+
+### [Ts-232,678\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/678.webp)
+
+<span class="series-number">283.</span> <span class="series-number">282</span> In dem Falle eines obligatorischen “Ich glaube” zu Anfang jeder Behauptung hieße zwar “Ich glaube, es sei so” das selbe wie “Es ist so”, aber “Angenommen, ich glaubte, es sei so” _nicht_ das selbe wie “Angenommen, es sei so.”
+
+### [Ts-232,678\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/678.webp)
+
+<span class="series-number">284.</span> <span class="series-number">283</span> Ich habe mich von etwas überzeugt, nun weiß ich es. “Ich weiß, daß die Erdkugel in den letzten 10 Minuten existiert hat” sagt man nicht; wohl aber “Man weiß, daß die Erde viele tausende von Jahren existiert hat”. Und das nicht, weil es unnötig ist, so etwas zu versichern.
+
+### [Ts-232,678\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/678.webp)
+
+<span class="series-number">285.</span> <span class="series-number">284</span> “Ich weiß, daß dieser Weg dorthin führt.” “Ich weiß, wohin dieser Weg führt.” Im zweiten Falle sage ich, ich besitze etwas; im ersten versichere ich eine Tatsache. In _diesem_ könnte das Wort “wissen” auch wegbleiben. In jenem wäre es möglich fortzusetzen, “aber ich sag's nicht”.
+
+### [Ts-232,678\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/678.webp)
+
+<span class="series-number">286.</span> <span class="series-number">285</span> Auf die Aussage “Ich weiß, daß es so ist” folgt die Frage “wie weißt du das?”, die Frage nach der Evidenz.
+
+### [Ts-232,678\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/678.webp),[679\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/679.webp)
+
+<span class="series-number">287.</span> <span class="series-number">286</span> In dem Sprachspiel der Meldung gibt es den Fall, daß die Meldung angezweifelt wird, daß man annimmt, der Meldende vermute nur, was er meldet, habe sich nicht überzeugt. Hier sagt er dann etwa: “Ich _weiß_ es”. D.H.: Es ist nicht bloß Vermutung.– – – Soll ich da sagen, er teile mir die Sicherheit mit, die er bei seiner Meldung fühlt? Das möchte ich nicht sagen. Er spielt einfach Meldungssprachspiel, und “Ich weiß es” ist die Form einer Meldung.
+
+### [Ts-232,679\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/679.webp)
+
+<span class="series-number">288.</span> <span class="series-number">287</span> Kann man nur Wissen, was wahr ist? Nun, man sagt ja auch “Ich glaube, es zu wissen” und hier kann dem Glauben keine Unsicherheit anhaften. Es heißt nicht “Ich bin nicht sicher: weiß ich's oder weiß ich's nicht.”
+
+### [Ts-232,679\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/679.webp)
+
+<span class="series-number">289.</span> <span class="series-number">288</span> Mancher wird sagen, daß mein Reden über den Begriff des Wissens irrelevant sei, da zwar dieser Begriff, wie die Philosophen ihn auffassen allerdings nicht mit dem der alltäglichen Rede übereinstimmt, aber eben ein wichtiger, interessanter Begriff sei, der durch eine Art Sublimierung aus dem Landläufigen und nicht sehr interessanten gebildet ist. Aber jener philosophische Begriff ist durch allerlei Mißverständnisse entstanden und befestigt Mißverständnisse. Er ist durchaus nicht interessant, außer als Exempel, um daran Mißverständnisse zu demonstrieren.
+
+### [Ts-232,679\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/679.webp)
+
+<span class="series-number">290.</span> <span class="series-number">289</span> Du darfst wieder nicht vergessen, daß “Ein Widerspruch hat keinen Sinn” nicht heißt: der Sinn des Widerspruchs ist ein Unsinn. – Den Widerspruch schließen wir aus der Sprache aus; wir haben für ihn keine klare Verwendung und wollen ihn nicht verwenden. Und wenn “Es regnet, aber ich glaube es nicht”, sinnlos ist, so wieder, weil eine Verlängerung gewisser Linien zu dieser Technik führt. Aber unter andern als den normalen Umständen könnte jener Satz einen klaren Sinn erhalten.
+
+### [Ts-232,679\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/679.webp),[680\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp)
+
+<span class="series-number">291.</span> <span class="series-number">290</span> Wenn es ein ‘automatisches’ Reden gäbe, so könnten wir z.B. nicht mit einer solchen Äußerung streiten, den der sie ausspricht, nicht eines Irrtums überweisen wollen. Wir würden also nicht die gleichen Sprachspiele mit den automatischen, wie mit dem normalen Reden spielen.
+
+### [Ts-232,680\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp)
+
+<span class="series-number">292.</span> <span class="series-number">291</span> Wenn ich ein Reden “automatisch” nenne, so stellt man sich dabei etwas Infektionsloses, maschinelles vor. Aber das ist für uns gar nicht wesentlich. Man braucht nur anzunehmen, daß _zwei_ Personen durch einen Mund reden. Und wir haben dann, was gesagt wurde auch als die Äußerung zweier Menschen zu behandeln. Es könnten also beide Sätze mit der Intention der Mitteilung gesprochen werden. Und es würde sich nur fragen, wie ich auf diese Mitteilungen reagieren sollte.
+
+### [Ts-232,680\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp)
+
+<span class="series-number">293.</span> <span class="series-number">292</span> Einerseits kann man sagen, daß Schwarz und Weiß in Grau koexistieren können; und anderseits wird man sagen: “Aber wo Grau ist, ist natürlich Weiß, noch Schwarz. Was Grau ist, ist natürlich nicht wirklich Weiß.
+
+### [Ts-232,680\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp)
+
+<span class="series-number">294.</span> <span class="series-number">293</span> Aber wie ist es mit “Hellrot” und “Dunkelrot”? Wird man auch sagen wollen, daß diese irgendwo zugleich sind? oder lila und violett – nun, denk dir den Fall, hellblau und dunkelblau, und zwar ganz bestimmte Töne umgäben uns ständig, und wir können nicht (wie es tatsächlich der Fall ist) leicht beliebige Farbtöne erzeugen. Es wäre aber unter Umständen möglich, die hellblaue Substanz mit der dunkelblauen zu mischen, und dann erhielten wir einen seltenen Farbton, den wir nun auffassen als eine Mischung von hellblau und dunkelblau.
+
+### [Ts-232,680\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp),[681\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp)
+
+<span class="series-number">295.</span> <span class="series-number">294</span> “Aber wären dann unsere Farbbegriffe die gleichen wie sie heute sind?” Sie wären diese sehr ähnlich. Ungefähr wie die wie die Zahlbegriffe der Völker, die nur bis 5 zählen können, den unseren.
+
+### [Ts-232,681\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp)
+
+<span class="series-number">296.</span> <span class="series-number">295</span> Man kann sagen: Wem ein Wort durch Hinweisen auf einen färbigen Fleck erklärt wird, der weiß nur insofern, _was_ gemeint ist, als er weiß _wie_ das Wort anzuwenden ist. Das heißt: Es gibt hier kein Erfassen, Auffassen des Gegenstandes, außer durch ein Erfassen einer Technik. Anderseits könnte man doch sagen, ein Erfassen, Ergreifen des Gegenstandes _vor_ jedem Erfassen einer Technik sei möglich, denn wir können Einem einfach den Befehl geben “Kopiere _dies!_” und er kann nun z.B. die Farbe kopieren, oder die Gestalt und Größe, oder nur die Gestalt, oder die Farbe, aber nicht den genauen Ton, etc. Und hier tut das Kopieren, was bei einem Körper etwa ein in die Hand nehmen tut. – Es ist uns da, als könnten wir, was gemeint ist, die Farbe etwa, mit einer eigenen feinen geistigen Zange auffassen, ohne irgendetwas anderes mitzunehmen.
+
+### [Ts-232,681\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp)
+
+<span class="series-number">297.</span> <span class="series-number">296</span> Der Verstand, sage ich, ergreift _den einen Gegenstand;_ und dann reden wir von _ihm_, und seinen Eigenschaften, seiner Natur gemäß.
+
+### [Ts-232,681\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp),[682\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/682.webp)
+
+<span class="series-number">298.</span> <span class="series-number">297</span> Wie aber weiß ich, daß dein Geist den gleichen Gegenstand ergreift wie meiner? Doch eben z.B. dadurch, wie du auf meinen Befehl, “kopiere die Farbe” z.B. reagierst. Aber hier, wirst du sagen, können wir nun das Wesentliche dieser Reaktion erkennen, indem wir ihn öfters Farben kopieren heißen. Das heißt wohl, ich werde nach einigen dieser Reaktionen andere vorher sehen können; und dies erkläre ich, indem ich sage: ich weiß nun, “_was_” er eigentlich kopiert. Also die Farbe, oder die Form z.B. – aber es gibt hier mehr solche _was_, als wir für gewöhnlich anzunehmen geneigt sind; d.h. man kann auch Begriffe bilden, die uns ganz ungewohnt sind. Es kann auch sein, was ich allerdings nach einigen Reaktionen des Kopierens andere richtig voraussehe und nun mit ihnen rechnen kann – also sage, wir hätten einander nun verstanden – daß ich aber in einer etwas andern Situation eine Überraschung erlebe. – – – Und was soll ich nun sagen: Ich hätte ihn die ganze Zeit mißverstanden? oder, ich habe ihn zum Teil mißverstanden. Wenn du ans Ergreifen eines Gegenstandes denkst, wirst du vielleicht das erste sagen, gemäß dem Bild, er habe eben _nicht_ den Gegenstand ergriffen, den ich glaubte. Denken wir aber an Methoden des Gebrauchs von Worten, so werden wir sagen, es seien hier ungleiche aber ähnliche, Methoden.
+
+### [Ts-232,682\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/682.webp)
+
+<span class="series-number">299.</span> <span class="series-number">298</span> Hier ist es nun freilich wichtig, daß eine Technik für uns eine Physiognomie hat. Daß wir z.B. von einer einheitlichen und einer uneinheitlichen Verwendung sprechen können.
+
+### [Ts-232,682\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/682.webp),[683\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/683.webp)
+
+<span class="series-number">300.</span> <span class="series-number">299</span> Wissen in einem Sinn ist ein gelernt und nicht vergessen haben. Es hängt so mit dem Gedächtnis zusammen. – Nun kann ich also sagen: “Ich weiß, wie viel 97 × 78 ist” oder “ich weiß daß 97 × 78 432 ist.” Im ersten Falle, so wollte ich sagen, teile ich jemand mit, ich könne etwas, habe einen gewissen Besitz; im zweiten versichere ich den andern einfach, 97 × 78 sei 432. Heißt denn “97 × 78 ist ganz bestimmt 432” nicht, _ich wisse_, es sei so? Man kann auch sagen: Der erste Satz ist sicher kein arithmetischer, noch kann ihn ein solcher irgendwie ersetzen; statt des zweiten aber könnte man einen arithmetischen Satz verwenden.
+
+### [Ts-232,683\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/683.webp)
+
+<span class="series-number">301.</span> <span class="series-number">300</span> Der Unterschied ist der: im Satze “ich weiß, wie es sich verhält” kann das “ich weiß” nicht wegbleiben. Den Satz “Ich weiß, daß es sich so verhält” kann man ersetzen durch “es verhält sich so”.
+
+### [Ts-232,683\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/683.webp)
+
+<span class="series-number">302.</span> <span class="series-number">301</span> “Es wird regnen.” – “Du glaubst, es wird regnen?” – “Ich weiß es wird regnen.” Sagt der dritte Satz mehr als der Erste? Er ist die Wiederholung des Ersten und eine Abwehr des zweiten.
+
+### [Ts-232,683\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/683.webp)
+
+<span class="series-number">303.</span> <span class="series-number">302</span> Aber gibt es nicht ein Phänomen des Wissens, so zu sagen, ganz abgesehen vom Sinn der Worte “Ich weiß”? Ist es nicht merkwürdig, daß ein Mensch etwas _wissen_ kann, die Tatsache gleichsam in sich selbst haben kann? Aber das ist eben ein falsches Bild. Denn, sagt man, wissen ist es nur, wenn es sich wirklich verhält, wie er sagt Aber das ist nicht genug. Es darf sich nicht nur zufällig so verhalten. Es muß nämlich wissen, daß er weiß; das Wissen ist ja sein eigener Seelenzustand; er kann darüber, außer durch eine besondere Verblendung nicht im Zweifel oder Unrecht sein. Wenn also das Wissen, daß es so ist, nur ein Wissen ist, wenn es wirklich so ist; und wenn das Wissen in ihm ist, so daß er darüber, daß es ein Wissen ist unfehlbar ist; dann ist er also auch darüber unfehlbar, daß es ist, wie es das Wissen weiß; und also muß die Tatsache, die er weiß, so wie das Wissen, in ihm sein. Also: wenn ich, ohne zu lügen, sage, “Ich weiß, daß es so ist”, so kann ich nur durch eine besondere Verblendung im Unrecht sein.
+
+### [Ts-232,683\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/683.webp)
+
+<span class="series-number">304.</span> <span class="series-number">303</span> Heißt ‘das Bild nicht _**so**_ sehen’: _es anders sehen_?
+
+### [Ts-232,684\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/684.webp)
+
+<span class="series-number">305.</span> <span class="series-number">304</span> Denk dir diesen Fall: ein Vexierbild wird mir gezeigt; ich sehe darin Bäume, Leute, etc.. Ich untersuche es, und plötzlich sehe ich eine Gestalt in den Kronen der Bäume. Wenn ich es danach ansehe, sehe ich jene Striche nicht mehr als Zweige, sondern zur Gestalt gehörig. Nun stelle ich das Bild in meinem Zimmer auf und sehe es tagtäglich, und da vergesse ich zumeist die zweite Interpretation und es ist nun einfach ein Wald. Ich sehe es also, wie jedes andere Bild eines Waldes. (Du siehst die Schwierigkeit.) – Ich sage nun von jenem Bild einmal: ich habe es schon lange nicht mehr als Vexierbild gesehen, beinahe vergessen, daß es eins ist.” Da kann man natürlich fragen “Wie hast du's denn gesehen?” und ich werde sagen “Nun, als Bäume …” und das ist auch ganz richtig; aber hab ich also nicht das Bild gesehen und gewußt, was es darstellt, sondern es auch immer gemäß einer bestimmten Deutung wahrgenommen? Lieber möchte ich sagen: für mich waren's jetzt einfach immer Bäume, ich habe nie in anderm Sinne an das Bild gedacht.
+
+### [Ts-232,684\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/684.webp)
+
+<span class="series-number">306.</span> <span class="series-number">305</span> Wer etwas bereut, der denkt doch daran. Ist also die Reue eine Art von Gedanken? Oder eine Färbung von Gedanken? Es gibt reuevolle Gedanken, wie es z.B. furchtvolle gibt. Wenn ich aber sage “Ich bereue es”, sage ich, “Ich habe reuevolle Gedanken”? Nein, denn das könnte auch sagen, wer es gerade jetzt nicht bereut. Aber könnte ich nicht statt “Ich bereue es”, sagen: “Ich denke mit Reue daran”?
+
+### [Ts-232,684\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/684.webp),[685\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp)
+
+<span class="series-number">307.</span> <span class="series-number">306</span> Was interessiert mich an der Reue des Andern? Seine Einstellung zu der Handlung. Die Zeichen der Reue sind die Zeichen des Widerwillens, der Trauer. Der Ausdruck der Reue bezieht sich auf die Handlung. Man nennt die Reue einen Schmerz der Seele, weil die Zeichen des Schmerzes denen der Reue ähnlich sind. Wollte man aber ein Analogon zum Ort des Schmerzens finden, so wäre es natürlich nicht die Seele (wie ja der Ort des Körperschmerzes nicht der Körper ist), sondern der _Gegenstand_ der Reue.
+
+### [Ts-232,685\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp)
+
+<span class="series-number">308.</span> <span class="series-number">307</span> Warum kann der Hund Furcht, aber nicht Reue empfinden? Wäre es richtig zu sagen “Weil er nicht sprechen kann”?
+
+### [Ts-232,685\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp)
+
+<span class="series-number">309.</span> <span class="series-number">308</span> Nur wer über die Vergangenheit nachdenken kann, kann bereuen. Das heißt aber nicht, daß nur so einer erfahrungsgemäß des Gefühls der Reue fähig ist.
+
+### [Ts-232,685\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp)
+
+<span class="series-number">310.</span> <span class="series-number">309</span> Es ist ja auch nichts so Erstaunliches, daß ein Begriff nur auf ein Wesen anwendbar sein sollte, das z.B. eine Sprache besitzt.
+
+### [Ts-232,685\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp)
+
+<span class="series-number">311.</span> <span class="series-number">310</span> Die Behandlung aller dieser Erscheinungen des Seelenlebens ist mir nicht darum wichtig, weil's mir auf Vollständigkeit ankommt. Sondern, weil jede für mich auf die richtige Behandlung _aller_ ein Licht wirft.
+
+### [Ts-232,685\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp),[686\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)
+
+<span class="series-number">312.</span> <span class="series-number">311</span> Wenn er zuerst die Farbnamen lernt, – was wird ihm beigebracht? Nun, er lernt z.B. beim Anblick von etwas Rotem “Rot” ausrufen. – Ist das eine richtige Beschreibung, oder hätte es heißen sollen: “Er lernt ‘rot’ nennen, _was auch wir_ ‘rot’ nennen”? Beide Beschreibungen sind richtig. Wie unterscheidet sich davon das Sprachspiel “Wie kommt es dir vor?”? Man könnte Einem doch die Farbwörter beibringen, indem man ihn auf weiße Gegenstände durch farbige Brillen schauen läßt. Was ich ihn aber lehre, muß ein _Können_ sein. Er _kann_ also jetzt auf Befehle etwas Rotes bringen; oder Gegenstände nach ihren Farben ordnen. Aber was ist denn etwas Rotes? “Nun _das_ (zeigend)”. Oder hätte er sagen sollen: “_Das_; weil es die Meisten von uns ‘rot’ nennen”? Oder einfach: “ _Das_ nennen die Meisten von uns ‘rot’”? Dieses Auskunftsmittel nützt uns nichts. Die Schwierigkeit, die wir für “rot” hier empfinden, tritt dann bei “gleich” wieder auf
+
+### [Ts-232,686\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)
+
+<span class="series-number">313.</span> <span class="series-number">312</span> Ich beschreibe eben das Sprachspiel “Bring etwas Rotes” dem, der es schon selbst spielen kann. Den Andern könnt' ich's nur _lehren_. (Relativität.)
+
+### [Ts-232,686\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)
+
+<span class="series-number">314.</span> <span class="series-number">313</span> Es ist hier ein tiefer und wichtiger Punkt, den ich gerne ganz klar auszudrücken verstünde. Man täuscht sich irgendwie über den Zweck der Beschreibung. Oder will das Begründen fortsetzen, weil man seine Funktion mißversteht.
+
+### [Ts-232,686\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)
+
+<span class="series-number">315.</span> <span class="series-number">314</span> Warum lehrt man das Kind nicht zuerst gleich das Sprachspiel “Es scheint mir rot”? Weil es noch nicht im Stande ist den feineren Unterschied zwischen Schein und Sein zu verstehen?
+
+### [Ts-232,686\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)
+
+<span class="series-number">316.</span> <span class="series-number">315</span> Die rote Gesichtsempfindung ist ein neuer _Begriff_.
+
+### [Ts-232,686\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)
+
+<span class="series-number">317.</span> <span class="series-number">316</span> Das Sprachspiel, was wir ihm dann beibringen, ist: “Mir scheint es …, dir scheint es …” Im ersten Sprachspiel kommt eine Person als wahrnehmendes Subjekt nicht vor.
+
+### [Ts-232,686\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp),[687\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/687.webp)
+
+<span class="series-number">318.</span> <span class="series-number">317</span> Du gibst dem Sprachspiel ein neues Gelenk. Was aber nicht heißt, daß nun davon immer Gebrauch gemacht wird. Das Sprachspiel “Was ist das?” – “Ein Sessel.” – ist nicht das Gleiche wie: “Wofür hältst du das?” – “Es dürfte ein Sessel sein.”
+
+### [Ts-232,687\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/687.webp)
+
+<span class="series-number">319.</span> <span class="series-number">318</span> Wir lehren das Kind im Anfang nicht “Das ist wahrscheinlich ein Sessel,” sondern “Das ist ein Sessel”. Bilde dir ja nicht ein, man lasse das Wort “wahrscheinlich” aus, weil das Verstehen desselben, dem Kind noch zu schwierig ist; man vereinfache die Dinge für das Kind; lehre es also etwas, was nicht _streng_ richtig ist.
+
+### [Ts-232,687\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/687.webp)
+
+<span class="series-number">320.</span> <span class="series-number">319</span> Man spricht von einem Gefühl der Überzeugung, weil es einen _Ton_ der Überzeugung gibt. Ja, das Charakteristikum aller ‘Gefühle’ ist, daß es einen Ausdruck, d.i. eine Miene, Gebärde des Gefühls gibt.
+
+### [Ts-232,687\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/687.webp),[688\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/688.webp)
+
+<span class="series-number">321.</span> <span class="series-number">320</span> James sagt, man könne sich eine Gemütsbewegung, oder Stimmung nicht ohne die entsprechenden (sie zusammensetzenden) Körperempfindungen denken. Denke man sich diese hinweg, so empfinde man, daß man dadurch die Existenz der Gemütsbewegung selbst aufhebe. Das geschieht etwa so: Ich stelle mir mich selbst trauernd vor und nun versuche ich, mich zugleich jubelnd in der Vorstellung zu sehen und zu empfinden. Dazu hole ich etwa tief Atem und ahme ein strahlendes Gesicht nach. Und nun kann ich mir allerdings die Trauer nicht gut vorstellen; denn, sie mir vorstellen, hieß, sie spielen. Aber daraus folgt nun nicht, daß was wir dabei im Körper fühlen, die Trauer oder etwas ähnliches wie die Trauer ist. – Der Trauernde kann ja allerdings nicht überzeugend lachen und jubeln, und könnte er's, so wäre, was wir den Ausdruck der Trauer nennen, nicht Ausdruck der Trauer, und das Jubeln nicht Ausdruck einer andern Gemütsbewegung. – Wenn der Tod des Freundes und die Genesung des Freundes uns gleichermaßen jubeln oder – dem Benehmen nach – trauern ließen, so wären diese Formen des Benehmens nicht, was wir den Druck der Freude oder der Trauer nennen. Ist es a priori _klar_, daß, wer die Freude nachahmt, Freude fühlen wird? Kann es nicht sein, daß der bloße Versuch, in der Trauer zu lachen, diese noch ungeheuer verschärft?
+
+### [Ts-232,688\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/688.webp)
+
+<span class="series-number">322.</span> <span class="series-number">321</span> Dabei darf ich aber doch nicht vergessen, daß Freude mit körperlichem Wohlbefinden zusammengeht und Trauer oder doch Depression, oft mit körperlichem Unbehagen. – Wenn ich spazieren gehe und mich über alles freue, so ist es wohl wahr, daß dies nicht geschähe, wenn ich unwohl wäre. Wenn ich aber nun meiner Freude Ausdruck gebe, z.B. sage “Wie herrlich Alles ist!” – wollte ich sagen, daß all diese Dinge in mir angenehme körperliche Gefühle hervorrufen? Ja selbst wenn ich meine Freude so ausdrückte “Die Bäume und der Himmel und die Vögel geben mir ein herrliches Gefühl im ganzen Körper” – so wäre hier nicht von Verursachung die Rede, nicht von dem erfahrungsmäßigen Zusammentreffen etc. etc.
+
+### [Ts-232,688\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/688.webp),[689\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/689.webp)
+
+<span class="series-number">323.</span> <span class="series-number">322</span> Man sagt doch. “Jetzt, wo er wieder gesund ist, atme ich freier”, holt auch einen tiefen Atemzug der Erleichterung. Es wäre ja möglich, daß man traurig ist, weil man weint, aber natürlich nicht _darüber_, daß man weint. Es wäre doch möglich. daß Menschen, die man etwa mit Hilfe von Zwiebeln weinend macht, traurig würden; daß sie entweder im Allgemeinen deprimiert würden, oder anfingen, an bestimmte Geschehnisse zu denken und über sie zu trauern. Aber die _Empfindungen_ des Weinens wären doch damit nicht ein Teil des ‘Gefühls’ der Trauer geworden.
+
+### [Ts-232,689\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/689.webp)
+
+<span class="series-number">324.</span> <span class="series-number">323</span> Wer sich unter den und den Umständen so und so benimmt, von dem sagen wir, er sei traurig. (Auch vom Hunde) Insofern kann man nicht sagen, das Benehmen sei die _Ursache_ der Trauer; sie ist ihr Anzeichen. Sie die Wirkung der Trauer zu nennen, wäre auch nicht einwandfrei. – Sagt er's von sich (er sei traurig) so wird er im Allgemeinen dafür als Grund nicht sein trauriges Gesicht u.s.w. angeben. Wie aber wäre es, wenn er sagte: “Erfahrung hat mich gelehrt, daß ich traurig werde, sobald ich anfange, traurig dazusitzen, etc.”? Das könnte zweierlei heißen. Erstens: “Sobald ich, etwa einer leichten Neigung folgend, es mir gestatte, mich so und so zu halten und zu benehmen, gerate ich in den Zustand, in diesem Benehmen verharren zu müssen.” Es könnte ja sein, daß Zahnschmerzen durch Stöhnen ärger würden. Zweitens aber, könnte jener Satz eine Spekulation enthalten über die Ursache der menschlichen Trauer. Etwa des Inhalts, daß, was im Stande wäre auf irgend eine Weise gewisse Körperzustände hervorzurufen, den Menschen traurig machen würde. Hier ist aber die Schwierigkeit, daß wir einen Menschen, der unter allen Umständen traurig _aussähe_ und sich _benehme_, nicht traurig nennen würden. Ja, wenn wir einem solchen den Ausdruck “Ich bin traurig” beibrächten und er sagte das _die_ _ganze Zeit_ mit dem Ausdruck der Trauer, so hätten diese Worte so wie die übrigen Zeichen ihren normalen Sinn verloren.
+
+### [Ts-232,689\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/689.webp)
+
+<span class="series-number">325.</span> <span class="series-number">324</span> Fast möchte ich sagen: Man fühlt die Trauer so wenig im Körper, wie das Sehen im Auge.
+
+### [Ts-232,690\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">326.</span> <span class="series-number">325</span> Einen im Anfang lehren “Das scheint rot” hat ja gar keinen Sinn. Das muß er ja spontan sagen, wenn er einmal gelernt hat, was “rot” heißt, d.i. die Technik der Wortverwendung.
+
+### [Ts-232,690\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">327.</span> <span class="series-number">326</span> Die Grundlage jeder Erklärung ist die Abrichtung. (Das sollten Erzieher bedenken.)
+
+### [Ts-232,690\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">328.</span> <span class="series-number">327</span> “Nur für den _ganzen_ Menschen gelten also diese Begriffe?” – Nein; denn Manche haben ihre Anwendung auch auf Tiere.
+
+### [Ts-232,690\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">329.</span> <span class="series-number">328</span> “Wer im Allgemeinen _so_ handelt und dann manchmal _so_ handelt, von dem sagen wir …” Das ist eine legitime der Worterklärung.
+
+### [Ts-232,690\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">330.</span> <span class="series-number">329</span> Wir neigen dazu, uns die Sache so zu denken, als wäre die Gesichts**empfindung** ein neuer _Gegenstand_, den das Kind kennenlernt, nach dem es die ersten primitiven Sprachspiele _mit_ Gesichtswahrnehmungen gelernt hat. “Es scheint mir rot.” – “Und wie ist rot?” – “_So_” Dabei muß auf das richtige Paradigma gezeigt werden.
+
+### [Ts-232,690\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">331.</span> <span class="series-number">330</span> Wenn ich in einem bestimmten Zimmer eine bestimmte Tätigkeit auszuführen gelernt habe (das Aufräumen des Zimmers etwa) und diese Technik beherrsche, so folgt doch nicht, daß ich bereit sein müsse, die Einrichtung des Zimmers zu beschreiben; auch wenn ich jede Veränderung in ihr gleich merken würde und auch sofort beschreiben könnte.
+
+### [Ts-232,690\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)
+
+<span class="series-number">332.</span> <span class="series-number">331</span> “Dieses Gesetz wurde nicht in Voraussicht solcher Fälle gegeben. Ist es darum sinnlos?
+
+### [Ts-232,690\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp),[691\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/691.webp)
+
+<span class="series-number">333.</span> <span class="series-number">332</span> Man könnte sich doch einen Furchtbegriff, z.B., denken, der nur auf Tiere, also rein das Benehmen betreffend Anwendung fände. – Du willst doch nicht sagen, daß so ein Begriff keinen Nutzen hätte.
+
+### [Ts-232,691\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/691.webp)
+
+<span class="series-number">334.</span> <span class="series-number">333</span> Kann man sagen, es existiere zwischen der Gemütsbewegung und ihrem Ausdruck eine _Ähnlichkeit_, insofern z.B. beide aufgeregt seien? Ähnliches hat, glaube ich, Köhler gesagt.) Und wie weiß man, daß die Gemütsbewegung selbst aufgeregt sei? Der sie hat, merkt es und sagt's. – Und wenn nun Einer einmal das Gegenteil sagte? – “Aber nun sei offen und sag, ob du nicht wirklich die innere Aufregung erkennst!” – Wie habe ich nur die Bedeutung des Worts “Aufregung”, gelernt?
+
+### [Ts-232,691\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/691.webp)
+
+<span class="series-number">335.</span> <span class="series-number">334</span> Die falsche Auffassung, daß dieses Wort _sowohl_ etwas Inneres, _als auch_ etwas Äußeres bedeutet. Und leugnet man dies, so wird es dahin mißverstanden, man leugne die innere Aufregung. (Zeitliche und zeitlose Sätze.)
+
+### [Ts-232,691\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/691.webp)
+
+<span class="series-number">336.</span> <span class="series-number">335</span> Denke, ein Kind wäre ganz besonders gescheit, so gescheit, daß man ihm gleich die Zweifelhaftigkeit der Existenz aller Dinge beibringen kann. Es lernt also vom Anfang: “Das ist wahrscheinlich ein Sessel?”? Und wie lernt es nun die Frage: “Ist das auch wirklich ein Sessel?”?
+
+### [Ts-232,691\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/691.webp)
+
+<span class="series-number">337.</span> <span class="series-number">336</span> Betreibe ich Kinderpsychologie? – Ich bringe den Begriff des Lehrens mit dem Begriff der Bedeutung in Verbindung.
+
+### [Ts-232,691\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/691.webp),[692\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/692.webp)
+
+<span class="series-number">338.</span> <span class="series-number">337</span> Einer sei ein überzeugter Realist, der Andere ein überzeugter Idealist und lehrt seine Kinder dementsprechend. In einer so wichtigen Sache wie der Existenz, oder Nichtexistenz der äußern Welt wollen sie ihren Kindern nichts Falsches beibringen. Was wird man sie nun lehren? Auch dies, zu sagen “Es gibt physikalische Gegenstände”, beziehungsweise das Gegenteil? Wenn Einer an Feen nicht glaubt, so braucht er seine Kinder nicht lehren “Es gibt keine Feen”, sondern er kann es unterlassen, ihnen das Wort Fee zu lehren. Bei welcher Gelegenheit sollen sie sagen “Es gibt …” oder “Es gibt nicht …”? Nur wenn sie Leute treffen, die entgegengesetzten Glaubens sind.
+
+### [Ts-232,692\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/692.webp)
+
+<span class="series-number">339.</span> <span class="series-number">338</span> Aber der Idealist wird den Kindern doch das Wort “Sessel” beibringen, denn er will sie ja lehren, gewisses zu tun, z.B. einen Sessel zu holen. Wo wird sich also, was die idealistisch erzogenen Kinder sagen, von dem, was die realistischen sagen, unterscheiden? Wird der Unterschied nicht nur der der Schlachtrufe sein?
+
+### [Ts-232,692\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/692.webp)
+
+<span class="series-number">340.</span> <span class="series-number">339</span> Fängt denn nicht das Spiel “Das ist wahrscheinlich ein … mit der Enttäuschung an? Und kann die erste Einstellung die auf die mögliche Enttäuschung sein?
+
+### [Ts-232,692\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/692.webp)
+
+<span class="series-number">341.</span> <span class="series-number">340</span> “So muß man ihm also zuerst eine falsche Sicherheit beibringen?” Es ist bei ihrem Sprachspiel von Sicherheit oder von Unsicherheit noch nicht die Rede. Erinnere dich: sie lernen ja etwas _tun_.
+
+### [Ts-232,692\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/692.webp),[693\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/693.webp)
+
+<span class="series-number">342.</span> <span class="series-number">341</span> Wie äußert sich denn also der Zweite? ich meine: im Sprachspiel, nicht einfach in gewissen _Redensarten_. Etwa im näher Hinsehen, also in einer ziemlich komplizierten Tätigkeit. Aber diese Äußerung des Zweifels hat gar nicht immer Sinn, Zweck. Man vergißt eben, daß auch das Zweifeln zu einem Sprachspiel gehört.
+
+### [Ts-232,693\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/693.webp)
+
+<span class="series-number">343.</span> <span class="series-number">342</span>
+
+b Man kann erst zweifeln, wenn man Gewisses gelernt hat; wie man sich erst verrechnen kann, wenn man rechnen gelernt hat. Dann ist es allerdings unwillkürlich. Wie kommt es, daß der Zweifel nicht der Willkür untersteht? a – Und wenn es so ist, – könnte nicht ein Kind durch seine merkwürdige Veranlagung an Allem zweifeln?
+
+### [Ts-232,693\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/693.webp)
+
+<span class="series-number">344.</span> <span class="series-number">343</span> Wenn ich daran zweifle, daß dies ein Sessel ist, – was tue ich? – Ich besehe und befühle ihn von allen Seiten und dergleichen. Ist aber diese Handlungsweise immer der Ausdruck des Zweifels? Nein. Wenn ein Affe oder ein Kind dies täte, wäre es keiner. Zweifeln kann der, der schon einen ‘Grund zum Zweifeln’ kennt.
+
+### [Ts-232,693\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/693.webp)
+
+<span class="series-number">345.</span> <span class="series-number">344</span> Ich kann mir wohl vorstellen, daß ein bestimmtes primitives Benehmen sich später zum Zweifel auswächst. Es gibt z.B. ein _primitives_ Untersuchen. (Ein Affe, der z.B. eine Zigarette zerpflückt. Einen intelligenten Hund sehen wir dergleichen nicht tun.) Das bloße Hin- und Herwenden und Beschauen eines Gegenstandes ist eine primitive Wurzel des Zweifels. Aber Zweifel ist erst da, wenn die typischen Antezedentien und Konsequenzen des Zweifels da sind.
+
+### [Ts-232,693\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/693.webp),[694\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/694.webp)
+
+<span class="series-number">346.</span> <span class="series-number">345</span> “Es schmeckt wie Zucker.” Man erinnert sich genau und mit Sicherheit wie Zucker schmeckt. Ich sage nicht “Ich glaube, so schmeckt Zucker.” Welch merkwürdiges Phänomen, Eben das Phänomen des Gedächtnisses. – Aber ist es richtig, es ein merkwürdiges Phänomen zu nennen? Es ist ja nichts weniger als merkwürdig. Jene Sicherheit ist ja nicht um Haar merkwürdiger, als es die Unsicherheit wäre. Was ist denn merkwürdig? Das, daß ich mit Sicherheit sage “Das schmeckt wie Zucker”, oder, daß es dann wirklich Zucker ist? Oder, daß Andere das selbe finden? Wenn das sichere Erkennen des Zuckers merkwürdig ist, so wäre es also das Nichterkennen weniger.
+
+### [Ts-232,694\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/694.webp)
+
+<span class="series-number">347.</span> <span class="series-number">346</span> Wenn Leute (plötzlich) aufhörten, in ihren Urteilen über Geschmäcke übereinzustimmen, – würde ich noch sagen: Jeder wisse jedenfalls, was er schmecke? – Würde es dann nicht klar, daß das Unsinn sei?
+
+### [Ts-232,694\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/694.webp)
+
+<span class="series-number">348.</span> <span class="series-number">347</span> Verwirrung der Geschmäcke: Ich sage “Das ist süß”, der Andere “das ist sauer”, u.s.f. Einer kommt daher und sagt: “Ihr habt alle keine Ahnung, wovon ihr sprecht. Ihr wißt gar nicht mehr, was ihr einmal einen Geschmack genannt habt.” Was wäre das Zeichen dafür, daß wir's noch wissen?
+
+### [Ts-232,694\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/694.webp)
+
+<span class="series-number">349.</span> <span class="series-number">348</span> Aber könnten wir nicht auch in dieser ‘Verwirrung’ ein Sprachspiel spielen? – Aber ist es noch das Frühere? –
+
+### [Ts-232,694\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/694.webp)
+
+<span class="series-number">350.</span> <span class="series-number">349</span> Aber hier ist doch ein Paradox! Soll denn die Verläßlichkeit meiner Geschmacksäußerung von den Veränderungen in der Außenwelt abhängen? – Es kommt doch hier auf den Sinn des Urteils, nicht auf die Nützlichkeit an. – – – Wir sehen hier die Verwandtschaft mit dem ursprünglichen Sprachspiel der Wahrnehmung.
+
+### [Ts-232,694\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/694.webp),[695\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/695.webp)
+
+<span class="series-number">351.</span> <span class="series-number">350</span> “Es schmeckt genau wie Zucker”. Wie kommt es, daß ich dessen so sicher sein kann? Aber auch, wenn es sich dann als falsch herausstellt. – Und was erstaunt mich daran? Daß ich den Begriff Zucker in eine so _feste_ Verbindung mit der Geschmacksempfindung bringe. Daß ich die Substanz Zucker direkt im Geschmack zu erkennen scheine. Aber statt des Ausdrucks “Es schmeckt genau …” könnte ich ja primitiver den Ausruf “Zucker!” _verwenden_. Und kann man denn sagen, bei dem Wort ‘schwebe mir die Substanz Zucker vor’? wie tut sie das?
+
+### [Ts-232,695\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/695.webp)
+
+<span class="series-number">352.</span> <span class="series-number">351</span> Kann ich sagen, dieser Geschmack brächte gebieterisch den Namen “Zucker” mit sich; oder aber das Bild eines Stücks Zucker? Keines von beiden scheint richtig. Ja, gebieterisch ist das Verlangen nach dem Begriff ‘Zucker’ allerdings und zwar ebenso, wie nach dem Begriff ‘rot’, wenn wir ihn zur Beschreibung des Gesehenen verwenden.
+
+### [Ts-232,695\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/695.webp)
+
+<span class="series-number">353.</span> <span class="series-number">352</span> Ich erinnere mich, daß Zucker so geschmeckt hat. Es kommt mir das Erlebnis zurück ins Bewußtsein. Aber natürlich: wie weiß ich, daß es das frühere Erlebnis ist? Das Gedächtnis hilft mir da nicht mehr. Nein, diese Worte, das Erlebnis ist? Das Gedächtnis hilft mir da nicht mehr. Nein, diese Worte, das Erlebnis komme zurück …, sind nur eine Umschreibung, keine Erklärung des Erinnerns. Aber wenn ich sage “Es schmeckt genau wie Zucker”, so findet in einem wichtigen Sinne gar kein Erinnern statt. Ich _begründe_ also mein Urteil, oder meinen Ausruf, _nicht_. Wer mich fragt, “Was meinst du mit ‘Zucker’?” – dem werde ich allerdings ein Stück Zucker zu zeigen trachten. Und wer fragt “Wie weißt du, daß Zucker so schmeckt”, werde ich allerdings antworten “Ich habe tausende Male Zucker gegessen” – aber das ist nicht eine Rechtfertigung, die ich mir selbst gebe.
+
+### [Ts-232,695\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/695.webp),[696\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/696.webp)
+
+<span class="series-number">354.</span> <span class="series-number">353</span> “Selbstbeobachtung lehrt mich: ich glaube das, – aber Beobachtung der Außenwelt, daß es nicht so ist.”
+
+### [Ts-232,696\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/696.webp)
+
+<span class="series-number">355.</span> <span class="series-number">354</span> Nehmen wir nun an, ich habe das F eines Menschen gesehen, welches er so schreibt: 🖵, und habe es immer für ein SpiegelF _gehalten_; d.h. ich habe einen _gewissen_ Zusammenhang zwischen seinen Buchstaben und dem regelrecht geschriebenen angenommen. Nun machst du mich aufmerksam, daß dieser Zusammenhang _nicht_ besteht, sondern ein anderer, (der der verschobenen Striche). Die verstehe ich, und sage nun: “Dann sieht es freilich auch anders aus.” Gefragt “_Wie_ anders”? sage ich etwa: “Früher sah es ungeschickt aus, jetzt aber kühn und energisch.”
+
+### [Ts-232,696\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/696.webp)
+
+<span class="series-number">356.</span> <span class="series-number">355</span> Sag dir, es hätte Einer Gesichter immer nur mit _einem_ Ausdruck, sagen wir lächelnd, gesehen. Und nun sieht er zum ersten Mal ein Gesicht seinen Ausdruck verändern. Könnte man da nicht sagen, jetzt erst bemerke er einen Ausdruck des Gesichts? Erst der Wechsel machte den Ausdruck bedeutsam; früher gehörte er eben zur Anatomie des Gesichts. – Ist es so auch mit dem Aspekt des Buchstaben? Ausdruck, könnte man sagen, gibt es nur im Mienen spiel.
+
+### [Ts-232,696\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/696.webp)
+
+<span class="series-number">357.</span> <span class="series-number">356</span> Wie mir ein Buchstabe vorkommt, hängt also davon ab, ob er streng nach der Norm gebildet ist oder ob, und wie er von ihr abweicht. Dann ist _auch das begreiflich_, daß es einen Unterschied macht, ob wir nur eine oder zwei Erklärungen einer Buchstabenform kennen.
+
+### [Ts-232,696\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/696.webp)
+
+<span class="series-number">358.</span> <span class="series-number">357</span> Wie konnte ich denn sehen, daß diese Stelle zaghaft war, ehe ich wußte, daß sie eine Stellung und nicht die Anatomie dieses Wesens war.
+
+### [Ts-232,697\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/697.webp)
+
+<span class="series-number">359.</span> <span class="series-number">358</span> Die Frage ist nun: Wenn man eine Figur einer Interpretation gemäß sehen kann, sieht man sie _immer_ einer Interpretation gemäß? Und ist da ein scharfer Unterschied zwischen dem sehen, das mit keiner Interpretation verbunden ist und jenem andern?
+
+### [Ts-232,697\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/697.webp)
+
+<span class="series-number">360.</span> <span class="series-number">359</span> Ich will sagen: Das Sehen einer Figur in dieser Interpretation ist ein Denken an die Interpretation. Denn soll ich sagen, es sei möglich, dies als ein Spiegel- F zu sehen und dabei nicht an die besondere _Beziehung_ zu denken, die das Wort Z Spiegel- F bedeutet? Ich sehe doch eine Deutung und eine Deutung ist ein Gedanke.
+
+### [Ts-232,697\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/697.webp)
+
+<span class="series-number">361.</span> <span class="series-number">360</span> Man könnte das Vexierbild vor und nach der Lösung _beiläufig_ kopieren; und dann würde der Fehler beim Kopieren des ersten Aspekts verschieden sein von dem beim Kopieren des Zweiten. Ich könnte also sagen: “Vor der Lösung sah ich ungefähr _das_ (und zeichne einen Wald) – – – nach der Lösung ungefähr _das_ (und zeichne einen Menschen in den Baumkronen).
+
+### [Ts-232,697\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/697.webp)
+
+<span class="series-number">362.</span> <span class="series-number">361</span> Du mußt bedenken, daß, was einer sieht, in der wichtigsten Klasse von Fällen in einer Meldung über das betrachtete Objekt zum Ausdruck kommt. Und zu dieser Meldung gehört natürlich auch die räumliche Anmeldung. – – – Wie ist es nun, wenn Einer zu melden hat, was er auf einer Fläche sieht und wenn die Zeichnung auf ihr den Charakter des Vexierbildes hat? Erstens, was das Räumliche anbelangt, so kann er, was er auf der Fläche sieht, auch räumlich beschreiben; ja, das ist vielleicht die einzige Art der Beschreibung, die er geben kann.
+
+### [Ts-232,697\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/697.webp),[698\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/698.webp)
+
+<span class="series-number">363.</span> <span class="series-number">362</span> Eine wichtige Meldung wird z.B. sein: “Es hat sich in dieser ganzen Zeit nichts verändert.” Sie beruht eben auf andauernder Beobachtung.
+
+### [Ts-232,698\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/698.webp)
+
+<span class="series-number">364.</span> <span class="series-number">363</span> Wenn ich die Lösung des Vexierbildes entdecke, mache ich über das Bild selbst eine Entdeckung. Die Entdeckung z.B., daß durch diese Camouflage ein Schiff verborgen wurde. Ich will Einem etwa geheim mitteilen, wie ein gewisser Mensch ausschaut und verberge meine Mitteilung, nämlich sein Porträt, in einem Vexierbild.
+
+### [Ts-232,698\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/698.webp)
+
+<span class="series-number">365.</span> <span class="series-number">364</span> Wenn ich die Figur eine Gedankenhilfe nennte, so könnte ich sagen, ich sehe sie als _diese_ Gedankenhilfe.
+
+### [Ts-232,698\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/698.webp)
+
+<span class="series-number">366.</span> <span class="series-number">365</span> Was für eine seltsame Frage ist es, ob ich nicht an den N.N. _gedacht_ haben müsse – als ich sein Gesicht plötzlich in dem seines Sohnes sah! Ich wollte natürlich nicht fragen, ob ich nicht _gleichzeitig_ mit jenem Vorstellen an ihn gedacht haben müßte, sondern ob das Vorstellen kein Denken war. Wie entscheidet man das aber? Ich sage z.B. “Ich habe gerade daran gedacht, ob er wohl auch in … angekommen ist”. Dieser Gedanke drückt sich in einem Satz aus. Jener andere etwa in einem Ausruf.
+
+### [Ts-232,698\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/698.webp)
+
+<span class="series-number">367.</span> <span class="series-number">366</span> Kann ich jetzt in seinem Gesicht das seines Vaters sehen und doch dabei nicht an seinen Vater _denken_? In seinem Gesicht das seines Vaters sehen, war doch _offenbar_ eine Art des Vorstellens dieses Gesichts. Und da muß man sich erinnern, daß man die Vorstellung eines Menschen nicht als die seine _erkennt_.
+
+### [Ts-232,698\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/698.webp),[699\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/699.webp)
+
+<span class="series-number">368.</span> <span class="series-number">367</span> Erinnere dich daran, daß du ja auch das Wandern des Blicks durch ein Bild (oder Modell) nicht wiedergeben kannst! Und würde man den Eindruck, den das erzeugt, nicht sehr natürlich zum Gesichtseindruck rechnen? Es wird, oder kann, sich auch der Aspekt in der Art und Weise ausdrücken, wie ich die Figur kopiere, also doch, in _einem_ Sinne, in der Kopie. Ich werde auch ein Gesicht, jenachdem ich's _auffasse_, anders in der Zeichnung wiedergeben, obwohl die Photographie jedesmal das Gleiche zeigt. Also hier wieder ein Grund vom “sehen” zu reden.
+
+### [Ts-232,699\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/699.webp)
+
+<span class="series-number">369.</span> <span class="series-number">368</span> Daß ich eine andere Kopie (ein anderes Resultat) hervorbringe, das stimmt mit dem Begriff des Sehzustandes zusammen. Daß ich die gleiche Kopie erzeuge, sie aber _anders_ erzeuge – die Striche in anderer Reihenfolge ziehe – weist auf den Begriff des _Denkens_
+
+### [Ts-232,699\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/699.webp)
+
+<span class="series-number">370.</span> <span class="series-number">369</span> Mit welchem Recht gebraucht er da das Wort “sehen”? oder hat er keine Berechtigung, und ist es nur eine Sprachdummheit? Oder liegt die einzige Berechtigung darin, daß ich auch geneigt bin, zu sagen: “einmal sehe ich es als das”, “einmal sehe ich als jenes”? Es könnte so sein. Aber ich bin durchaus abgeneigt, das anzunehmen; ich fühle ich _muß_ sagen “ich sehe etwas”. Was soll das aber heißen? – Ich habe doch das Wort “sehen” _gelernt_. Was paßt, ist doch nicht das _Wort_, der Klang, oder das geschriebene Bild. Der Gebrauch des Worts ist es, was mir die Idee aufnötigt, ich _sähe_ dies. Was ich über den Gebrauch des Worts gelernt habe, muß mich hier zwingen, es hier zu gebrauchen.
+
+### [Ts-232,699\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/699.webp),[700\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/700.webp)
+
+<span class="series-number">371.</span> <span class="series-number">370</span> “Das _ist_ doch: etwas sehen –” möchte ich sagen. Und es ist ja wirklich so: die Situation ist ganz wie, in welcher dieses Wort auch sonst gebraucht wird; – nur ist die Technik hier etwas verschieden.
+
+### [Ts-232,700\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/700.webp)
+
+<span class="series-number">372.</span> <span class="series-number">371</span> Der Gebrauch des Wortes “sehen” ist ja durchaus kein einfacher. – Man stellt sich ihn manchmal wie den eines Tätigkeitswortes vor, – und es sei nur schwer auf die Tätigkeit geradezu zu _deuten_. – Man stellt sich ihn daher einfacher vor, als er wirklich ist, das Sehen so zu sagen als ein Eintrinken von etwas mit den Augen. Wenn ich also etwas mit den Augen eintrinke, so könne kein Zweifel mehr bestehen, ich sähe etwas (wenn mich nicht Vorurteile täuschen).
+
+### [Ts-232,700\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/700.webp)
+
+<span class="series-number">373.</span> <span class="series-number">372</span> Man könnte sagen: Ich sehe die Figur einmal als den Grenzwert dieser Reihe, einmal als den Grenzwert jener. Dieser _Wert_ könne der Grenzwert verschiedener Funktionen sein.
+
+### [Ts-232,700\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/700.webp)
+
+<span class="series-number">374.</span> <span class="series-number">373</span> Das, als was ich die Figur sehe, das kann sie immer, in einem gewissen Sinne, _sein_. Wenn das auch nicht im anderen Sinne ‘sichtbar’ wäre. Denn eine Figur kann ja ihrem Gebrauch, oder ihrer Entstehungsweise nach Grenzwert verschiedener Reihen sein. Ein Dreieck kann wirklich gebraucht werden, einen Berg darzustellen, oder als Pfeil, um in _dieser_ Richtung zu zeigen, etc. etc. Die Beschreibung des Aspekts ist also immer eine richtige Beschreibung der Sehwahrnehmung.
+
+### [Ts-232,700\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/700.webp),[701\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/701.webp)
+
+<span class="series-number">375.</span> <span class="series-number">374</span> Es kann doch eine Figur, sagen wir, ein Schriftzeichen das korrekt geschrieben, oder in verschiedenen Weisen ein fehlerhaft geschriebenes sein. Und diesen Auffassungen der Figur entsprechen Aspekte. – Hier haben wir die größte Ähnlichkeit mit dem Erleben der Bedeutung beim Aussprechen eines isolierten Worts.
+
+### [Ts-232,701\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/701.webp)
+
+<span class="series-number">376.</span> <span class="series-number">375</span> Man kopiert es anders, – aber die Kopie ist die selbe. Aber ich will sagen: Wenn etwas Anderes _gesehen_ wird, muß die _Kopie_ eine andere sein.
+
+### [Ts-232,701\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/701.webp)
+
+<span class="series-number">377.</span> <span class="series-number">376</span> Was ist z.B. eine Kopie des ‘Würfelschemas’? Eine Zeichnung, oder ein Körper? Und warum nur das erstere?! Und wenn ein Körper, – welcher Körper: ein Raumeck, ein solider Würfel, ein Drahtgestell?
+
+### [Ts-232,701\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/701.webp)
+
+<span class="series-number">378.</span> <span class="series-number">377</span> Wenn ich ihm mitteile; “Ich sehe die Figur jetzt als …”, so mache ich ihm eine Mitteilung in mancher Beziehung _ähnlich_ der einer Gesichtswahrnehmung, aber auch ähnlich der eines Auffassens, oder einer Deutung, oder eines Vergleichens, oder eines Wissens.
+
+### [Ts-232,701\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/701.webp),[702\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/702.webp)
+
+<span class="series-number">379.</span> <span class="series-number">378</span> “Ich sehe jetzt ein weißes Kreuz auf schwarzem Grunde und dann ein schwarzes Kreuz auf weißem Grunde.” Aber was ist denn das: ein weißes Kreuz auf schwarzem Grunde? erklär es doch! und was ist ein schwarzes Kreuz auf weißem Grunde? Du darfst doch für beide nicht etwa die gleiche Erklärung geben! Und erklärt müßten sie doch werden! Die Erklärung könnte doch ungefähr so lauten: “Ein weißes Kreuz auf schwarzem Grunde, das ist _so_ etwas –” und nun folgt eine Figur. Es darf aber natürlich _nicht_ die doppeldeutige sein. Daher kann man dem statt zu sagen “ich sehe die Figur einmal als ein weißes Kreuz auf …, einmal als …” auch sagen: “ich sehe die Figur einmal _so_ (folgte eine Figur), einmal _so_ folgt eine andere Figur). Und war der erste Satz ein erlaubter Ausdruck, so war es dieser auch.
+
+### [Ts-232,702\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/702.webp)
+
+<span class="series-number">380.</span> <span class="series-number">379</span> Und heißt das nicht, daß nun jene zwei Figuren eine _Art_ von Kopien der doppeldeutigen Figur wahren?
+
+### [Ts-232,702\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/702.webp)
+
+<span class="series-number">381.</span> <span class="series-number">380</span> Einerseits sind diese beiden Darstellungen Kopien des Gesehenen anderseits bedarf es auch noch einer begrifflichen Erklärung. – Wenn ich z.B. die Kreuzfigur 🖵 einmal als liegendes Kreuz, einmal als stehendes Kreuz, einmal als schiefgestelltes Diagonalkreuz sehe, – was sind die entsprechenden Kopien? Ein liegendes Kreuz ist eines, das umgelegt worden ist und stehen sollte. Die Kopie wird also etwas sein, was Kreuzform hat und wovon wir wissen, ob es liegt oder steht. Es wäre daher auch möglich, als Kopie ein Bild zu gebrauchen, worin die Kreuzform vorkommt und die oder die Rolle spielt. D.h., es gibt ein Bild, welches, was ich als Aspekt sehe, zum Ausdruck bringt. Und das gibt dem Aspekt Ähnlichkeit mit etwas durch Sehen wahrgenommen.
+
+### [Ts-232,702\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/702.webp)
+
+<span class="series-number">382.</span> <span class="series-number">381</span> Oder: Es gibt ein Bild, das für den Aspekt eine _ähnliche_ darstellende Rolle spielt, wie das Bild als Mitteilung des Wahrgenommen. Denk dir ein Gemälde, eine Kreuzabnahme etwa; was wäre es uns, wenn wir nicht wüßten, welche _Bewegungen_ hier festgehalten wurden. Und das Bild zeigt uns diese Bewegungen und es zeigt sie uns auch nicht. (Das Bild der Kavallerieattacke, wenn der Betrachter nicht weiß, daß die Pferde nicht so stehen bleiben.)
+
+### [Ts-232,702\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/702.webp),[703\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)
+
+<span class="series-number">383.</span> <span class="series-number">382</span> “Was ich sehe, schaut _so_ aus”. Denk dir, das sagte jemand, der das Bild eines rennenden Pferdes betrachtet und als Kopie davon ein ausgestopftes Pferd benützt, welches in laufender Stellung _steht_! Wäre nicht die richtige Kopie ein laufendes Pferd?
+
+### [Ts-232,703\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)
+
+<span class="series-number">384.</span> <span class="series-number">383</span> Ist mir nun mit dem Aspekt ein _Gedanke_ vorm Auge? Ist mir mit dem _Gemälde_ einer vor Augen? (denn die als das und da gesehene Figur ist ja wie der allein noch sinnlose Bestandteil eines Gemäldes.)
+
+### [Ts-232,703\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)
+
+<span class="series-number">385.</span> <span class="series-number">384</span> Man kann doch ein Gemälde beschreiben, indem man _Vorgänge_ beschreibt; ja so würde man es beinahe immer beschreiben. “Er steht im Schmerz versunken, sie ringt die Hände, …” Ja, wer es so nicht beschreiben könnte, ob er es auch als Verteilung von Farbflecken auf der Fläche haarscharf beschreiben könnte, verstünde es nicht. ((Bild vom Mann, der den Berg hinaufgeht.))
+
+### [Ts-232,703\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)
+
+<span class="series-number">386.</span> <span class="series-number">385</span> Du siehst es also so, wie wenn du _das_ davon wüßtest. Und wenn dies eine närrische Ausdrucksweise erscheint, so muß man eben _im Auge behalten_, daß der _Begriff_ des Sehens durch sie modifiziert wird.
+
+### [Ts-232,703\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)
+
+<span class="series-number">387.</span> <span class="series-number">386</span> Kann ich aber auch sagen: “Er würde das Bild (der Schlacht etwa) anders sehen, wenn er nicht wüßte, was hier vor sich geht”? Wie würde sich das äußern?! Er würde nicht so über das Bild reden wie wir; er würde nicht sagen: “Man sieht förmlich, wie diese Pferde dahinbrausen” oder “So läuft doch ein Pferd nicht!” etc. Er würde unzähliges nicht aus dem Bild entnehmen, was wir daraus entnehmen.
+
+### [Ts-232,704\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/704.webp)
+
+<span class="series-number">388.</span> <span class="series-number">387</span> Wir könnten uns doch entscheiden, das, was wir jetzt “die Figur als … sehen” nennen, sie als das und das “_auffassen_” zu nennen. – Hätten wir das nun getan, so wären dadurch die Probleme natürlich nicht zur Seite geschafft sondern wir würden nun den Gebrauch von “auffassen” studieren, und insbesondere _die Eigentümlichkeit_, daß dieses Auffassen etwas stationäres ist, ein Zustand, der _jetzt_ anfängt, _jetzt_ endet.
+
+### [Ts-232,704\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/704.webp)
+
+<span class="series-number">389.</span> <span class="series-number">388</span> Es ist mir also zumute – könnte ich sagen – als müßte ich im Stande sein, diese Auffassung durch ein _Bild_ der angeschauten Figur wiederzugeben. – Und das ist doch wirklich so: ich kann doch sagen, das Bild, das Einer von ihr macht, drücke eine Auffassung des Gegenstands aus. Ganz so, wie man eben sagen kann: Hör dieses Thema _so_ … und spiel entsprechend.
+
+### [Ts-232,704\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/704.webp)
+
+<span class="series-number">390.</span> <span class="series-number">389</span> Es ist ein Sehen, _insofern_ …
+
+es ist ein Sehen nur insofern, als …
+
+(das scheint mir die Lösung.)
+
+### [Ts-232,704\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/704.webp),[705\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/705.webp)
+
+<span class="series-number">391.</span> <span class="series-number">390</span> Insofern aber unterscheiden sich die Aspekte, die so zu sagen gesehene Deutungen der Figur sind von den Aspekten der räumlichen Erscheinung. Denn man kann eine Figur für einen Körper _halten_. Und auch, wenn von einer solchen Täuschung nicht die Rede ist, so teilt “Ich sehe diese Figur jetzt als Pyramide” anders mit, hat andere Konsequenzen, als, daß ich die Figur jetzt als schwarzes Kreuz auf weißen Grunde sehe etc. (Die Konsequenzen des räumlichen Sehens in der darstellenden Geometrie.) Es scheint aber auch der Zusammenhang des Aspektes mit dem Denken geändert oder gelöst. Denn ist hier nicht die Kopie, die dem Andern zeigt, wie ich die Figur sehe, von andrer Art? Und man darf nicht vergessen, daß das Wort “Kopie” in dieser ganzen Betrachtung eine schwankende Bedeutung hat.
+
+### [Ts-232,705\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/705.webp)
+
+<span class="series-number">392.</span> <span class="series-number">391</span> “Es ist, als wären unsere Begriffe bedingt durch ein Gerüst von Tatsachen.” Das hieß doch: Wenn du dir gewisse Tatsachen anders denkst, sie anders beschreibst, als sie sind, dann kannst du die Anwendung gewisser Begriffe dir nicht mehr vorstellen, weil die Regeln ihrer Anwendung kein Analogen unter den neuen Umständen haben. – Was ich sage, kommt also _darauf_ hinaus: Ein Gesetz wird für Menschen gegeben und ein Jurist mag wohl fähig sein, Konsequenzen für jeden Fall zu ziehen, der ihm gewöhnlich vorkommt, das Gesetz hat also offenbar seine Verwendung, einen Sinn. Trotzdem aber setzt seine Giltigkeit allerlei voraus; und wenn das Wesen, welches er zu richten hat, ganz vom gewöhnlichen Menschen abweicht, dann wird z.B. die Entscheidung, ob er eine Tat mit böser Absicht begangen hat, nicht etwa schwer, sondern einfach unmöglich werden.
+
+### [Ts-232,705\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/705.webp)
+
+<span class="series-number">393.</span> <span class="series-number">392</span> Wenn die Menschen nicht im Allgemeinen über die Farben der Dinge übereinstimmten, wenn Unstimmigkeiten nicht Ausnahmen wären, könnte es unsern Farbbegriff nicht geben. “Nein; _gäbe_ es unsern Farbbegriff nicht. Heißt das also: Was als Regel denkbar ist, muß es nicht als Ausnahme sein?
+
+### [Ts-232,705\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/705.webp),[706\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp)
+
+<span class="series-number">394.</span> <span class="series-number">393</span> Der Fall ist doch ähnlich diesem: Ich habe gelernt, Versuchsresultate durch eine Kurve darzustellen und werde, wenn die aufgenommenen Punkte _so_ liegen, wissen, ungefähr welche Kurve zu ziehen ist und werde weitere Schlüsse aus den Experimenten ziehen können. Liegen aber die Punkte _so_, so wird, was ich gelernt habe, mich im Stiche lassen; ich weiß gar nicht mehr, welche Linie ich ziehen soll. Und käme ich zu Leuten, die, ohne mir verständlicher Methode und ohne Bedenken, eine Kurve durch diese Konstellation legten, so könnte ich ihre Technik nicht nachahmen; sollte ich aber sehen, daß bei ihnen _irgend_ eine plausible Linie als die Richtige anerkannt wird und diese dann zur Basis weiterer Folgerungen dient; und, wenn diese Folgerungen, wie wir sagen würden, mit der Erfahrung in Widerspruch kämen, die Leute sich irgendwie darüber hinweg setzen, – dann würde ich sagen, es sei dies gar nicht mehr die mir bekannte Technik, sondern eine ‘äußerlich’ ähnliche, im Wesen aber ganz verschiedene. Sage ich das aber, so gebe ich mit den Worten “äußerlich” und “Wesen” ein Urteil ab.
+
+### [Ts-232,706\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp)
+
+<span class="series-number">395.</span> <span class="series-number">394</span>
+
+Was heißt das: “Das ist doch ein ganz anderes Spiel!” Wie verwende ich diesen Satz? Als Mitteilung? Nun, etwa als Einleitung zu einer Mitteilung, die die Unterschiede aufzählt und ihre Folgen erklärt. Aber auch, um auszudrücken, daß ich eben darum hier nicht mehr mittue, oder doch eine andere Stellung zu dem Spiel einnehme.
+
+### [Ts-232,706\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp)
+
+<span class="series-number">396.</span> <span class="series-number">395</span> Wenn ich sagte “Ich würde es nicht mehr … nennen”, so heißt das eigentlich: die Waage meiner Stellungnahme schlägt nun um.
+
+### [Ts-232,706\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp)
+
+<span class="series-number">397.</span> <span class="series-number">396</span> Ich könnte doch auch sagen: “ich kann mich mit diesem Menschen nicht mehr verständigen.”
+
+### [Ts-232,706\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp),[707\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/707.webp)
+
+<span class="series-number">398.</span> <span class="series-number">397</span> Ich sagte einmal, es könnte einen Begriff geben, der links von einer gewissen wichtigen Linie unserem ‘Rot’, rechts von ihr unserm ‘Grün’ entspräche. Und es kam und kommt mir vor, als könnte ich mich in diese Begriffswelt hineindenken; als könnte ich wohl geneigt sein, rot auf der einen Seite, das Gleiche zu nennen, wie Grün auf der Andern. (Und zwar geht es mir besonders so mit einem ziemlich dunklem Rot und einem ziemlich dunklem Grün.) Als wäre ich also nicht ungeneigt, das Grün nur einen Aspekt des Rot zu nennen; als liefe, was ich “Farbe” nenne unverändert weiter, und nur die ‘Schattierung’ änderte sich. Es besteht also hier die Neigung zu einer Ausdrucksweise, die, unter gewissen Umständen, für Grün und für Rot das selbe Eigenschaftswort, mit einem Bestimmungswort wie “beschattet” “unbeschattet” verwendet. “Aber willst du also wirklich sagen, daß hier nicht zwei verschiedene Farben vorliegen?” Ich will sagen: Ich sehe genug Ähnlichkeit in der von mir beschriebenen Ausdrucksweise mit dieser und jener, die wir tatsächlich verwenden, daß ich die ungewöhnliche unter Umständen sehr wohl hinnehmen könnte. – Aber würden also die Leute die Ähnlichkeit oder Gleichheit nicht sehen, die wir sehen: Nämlich zwischen Grün links und (nach unserer Ausdrucksweise) Grün rechts? – Wie, wenn sie sagten, diese seien ‘äußerlich gleich’. Ich stelle mir die Lage ähnlich vor wie in der Zeichnung 🖵 wo ich die Winkel einander gleich, obwohl äußerlich ungleich nennen kann; die Winkel … ungleich, aber äußerlich gleich.
+
+### [Ts-232,707\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/707.webp)
+
+<span class="series-number">399.</span> <span class="series-number">398</span> Ich könnte auch sagen: Rot links und Grün rechts sei die gleiche Natur, aber eine andere Erscheinung.
+
+### [Ts-232,708\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/708.webp)
+
+<span class="series-number">400.</span> <span class="series-number">399</span> Bei allen Dem habe ich aber doch eine Verwirrung angerichtet. Das Wichtige an der Sache war doch, zu zeigen, daß man in einer Reihe so fortfahren kann, daß man, nach _unsern_ Begriffen, sie, nach der alten Regel, abbricht und nach einer neuen fortsetzt; daß aber nach einer andern Auffassung sich ihr Gesetz _nicht_ ändert, die scheinbare Änderung aber durch eine Änderung der Umstände begründet wird.
+
+### [Ts-232,708\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/708.webp)
+
+<span class="series-number">401.</span> <span class="series-number">400</span> Aber das kommt eigentlich darauf hinaus, daß was das _folgerechte_ Weitergehen in einer Reihe ist, nur durch das _Beispiel_ gezeigt werden kann.
+
+### [Ts-232,708\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/708.webp)
+
+<span class="series-number">402.</span> <span class="series-number">401</span> Und hier ist man immer wieder in der Versuchung, weiterzureden, wo man Halt machen sollte; mehr zu reden, als Sinn hat.
+
+### [Ts-232,708\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/708.webp)
+
+<span class="series-number">403.</span> <span class="series-number">402</span> Ich kann Einem sagen: “_diese_ Zahl ist die folgerechte Fortsetzung dieser Folge;” dadurch kann ich ihn dazu bringen, daß er in Zukunft das “folgerechte Fortsetzung” nennt, was ich so nenne. D.h., ich kann ihn eine Reihe (Grundreihe) fortsetzen lehren, ohne einen Ausdruck des ‘Gesetzes der Reihe’ zu verwenden; ja vielmehr, um ein Substrat zu haben für die Bedeutung algebraischer Regeln, oder was ihnen ähnlich ist.
+
+### [Ts-232,708\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/708.webp),[709\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/709.webp)
+
+<span class="series-number">404.</span> <span class="series-number">403</span> Er muß _ohne Grund_ so fortsetzen. Aber nicht, weil man ihm den Grund noch nicht begreiflich machen kann, sondern weil es – in _diesem_ System – keinen Grund gibt. “Die Kette der Gründe hat ein Ende.”) Und das _so_ (in “so fortsetzen”) ist durch eine Ziffer, einen Wert, bezeichnet. Denn auf _dieser_ Stufe wird der Regelausdruck durch den Wert erklärt, nicht der Wert durch die Regel.
+
+### [Ts-232,709\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/709.webp)
+
+<span class="series-number">405.</span> <span class="series-number">404</span> Denn dort, wo es heißt “Aber _siehst_ du denn nicht …!” nützt ja eben die Regel nichts, sie ist Erklärtes, nicht Erklärendes. sie
+
+### [Ts-232,709\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/709.webp)
+
+<span class="series-number">406.</span> <span class="series-number">405</span> “Er erfaßt die Regel intuitiv.” – Warum aber die Regel? und nicht, wie er jetzt fortsetzen soll?
+
+### [Ts-232,709\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/709.webp)
+
+<span class="series-number">407.</span> <span class="series-number">406</span> “Hat er nur das Richtige gesehen, diejenige der unendlich vielen Beziehungen, die ich ihm nahe zubringen trachte, – hat er sie nur einmal erfaßt, so wird er jetzt ohne weiteres die Reihe richtig fortsetzen. Ich gebe zu, er kann diese Beziehung, die ich meine, nur erraten (intuitiv erraten) – ist es aber gelungen, dann ist _das Spiel gewonnen”_ – Aber dieses ‘Richtige’ von mir Gemeinte, gibt es gar nicht. Der Vergleich ist falsch. Es gibt hier nicht quasi ein Rädchen, das er erfassen soll, die richtige Maschine, die ihn, einmal gewählt automatisch weiterbringt. Es könnte ja sein, daß sich in unserm Gehirn so etwas abspielt, aber das interessiert uns nicht.
+
+### [Ts-232,709\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/709.webp)
+
+<span class="series-number">408.</span> <span class="series-number">407</span> “Tu das selbe!” Aber dabei muß ich ja auf die Regel zeigen. Die muß er also schon _anzuwenden_ gelernt haben. Denn was bedeutet ihr Ausdruck sonst für ihn?
+
+### [Ts-232,709\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/709.webp),[710\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/710.webp)
+
+<span class="series-number">409.</span> <span class="series-number">408</span> Die Bedeutung der Regel erraten, sie intuitiv zu erfassen, könnte doch nur heißen: ihre _Anwendung_ erraten. Und das kann nun nicht heißen: die _Art_, die _Regel_ ihrer Anwendung erraten. Und vom Erraten ist hier überhaupt keine Rede.
+
+### [Ts-232,710\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/710.webp)
+
+<span class="series-number">410.</span> <span class="series-number">409</span> Ich könnte z.B. erraten, welche Fortsetzung dem Andern _Freude_ machen wird (etwa nach seinem Gesicht). Die Anwendung der Regel erraten könnte man nur, so fern man bereits aus verschiedenen Anwendungen _eine_ wählen kann.
+
+### [Ts-232,710\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/710.webp)
+
+<span class="series-number">411.</span> <span class="series-number">410</span> Man könnte sich ja dann auch denken, daß er, statt die “Anwendung der Regel zu erraten’, sie _erfindet_. Nun, wie sähe das aus? – Soll er etwa sagen: “Der Regel +1” folgen, möge einmal heißen, zu schreiben: 1, 1 + 1, 1 + 1 + 1, u.s.w.”? Aber was meint er damit? Das “u.s.w.” setzt ja eben schon das Beherrschen einer Technik voraus.
+
+### [Ts-232,710\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/710.webp)
+
+<span class="series-number">412.</span> <span class="series-number">411</span> Wie kann man denn, was jemand tut, der jene Regel fortsetzt, beschreiben? – Man kann die Regel angeben; dem nämlich, der sie schon gebrauchen kann. Und wer kann sie gebrauchen? Der, welcher auf 1 + 1 1 + 1 + 1 schreibt, und darauf 1 + 1 + 1 + 1 – Und kann ich jetzt enden “u.s.f.”? Das würde ja heißen: “und überhaupt nach dieser Regel weiter geht”.
+
+### [Ts-232,710\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/710.webp)
+
+<span class="series-number">413.</span> <span class="series-number">412</span> Ich kann nicht beschreiben, wie eine Regel (allgemein) zu verwenden ist, als indem ich dich _lehre_, _abrichte_, eine Regel zu verwenden.
+
+### [Ts-232,710\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/710.webp),[711\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/711.webp)
+
+<span class="series-number">414.</span> <span class="series-number">413</span> Ich kann nun z.B. einen solchen Unterricht im Sprechfilm aufnehmen. Der Lehrer wird manchmal sagen “So ist es recht”. Sollte der Schüler ihn fragen “warum?” – so wird er nichts, oder doch nichts Relevantes antworten, auch nicht das: “Nun, weil wir's Alle so machen”; das wird nicht der Grund sein.
+
+### [Ts-232,711\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/711.webp)
+
+<span class="series-number">415.</span> <span class="series-number">414</span> Man sagt nicht “Es dürfte sich so verhalten; verhält sich aber anders.” Oder: “Ich nehme an, er kommt morgen; er wird aber tatsächlich nicht kommen.”
+
+### [Ts-232,711\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/711.webp)
+
+<span class="series-number">416.</span> <span class="series-number">415</span> Die Linie liegt schon in der _Annahme_ anders, als du denkst. Ich möchte sagen: In den Worten “Angenommen, ich glaube das” setzt du schon die ganze Grammatik des Wortes “Glauben” voraus. Du nimmst nicht etwas an, was dir, so zu sagen, eindeutig durch ein Bild gegeben ist, so daß du dann eine Andere als die gewöhnliche Behauptung an diese Annahme anstückeln kannst. _Du wüßtest gar nicht_, was du hier annimmst, wenn dir nicht schon die Verwendung von “glauben” geläufig wäre.
+
+### [Ts-232,711\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/711.webp)
+
+<span class="series-number">417.</span> <span class="series-number">416</span> Es ist die unsichtbare Anwendung, die hier ihr Gesicht zeigt. _Der besonderen Technik_ sind wir uns nicht bewußt, sie fließt so zu sagen unterirdisch, ohne daß wir sie merken, dahin; und wir werden uns ihrer nur dort _plötzlich bewußt_, wo sie mit unserer falschen Vorstellung offen in Widerspruch tritt. Wo wir etwa merken, ein Satz habe keinen Sinn, wir wissen gar nicht, was wir mit ihm anfangen sollten, _ein Satz von dem dies nicht ohne Weiteres zu_ vermuten war. Kann man dem Arzt als Symptom einer geistigen Erkrankung mitteilen “Ich glaube …? – Wohl aber etwa: “Ich glaube immer Stimmen zu hören”. “Ich nehme immer an, er sei mir untreu, er ist es aber nicht.” Die Linie des Begriffs scheint je abgebrochen! –
+
+### [Ts-232,712\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)
+
+<span class="series-number">418.</span> <span class="series-number">417</span> “Der Satz ‘Ich glaube es, und es ist nicht wahr’ _kann doch die Wahrheit sein_. Wenn ich es nämlich wirklich glaube, und sich dieser Glaube als falsch herausstellt.”
+
+### [Ts-232,712\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)
+
+<span class="series-number">419.</span> <span class="series-number">418</span> Ich sagte vom Andern “Er scheint zu glauben … und andere sagen es von mir. Nun, warum sage ich's nie von mir, auch wenn die Andern es _mit Recht_ von mir sagen? Ebenso: “Es ist offenbar, er glaubt … Sehe ich mich selbst denn nicht? – Man kann es sagen.
+
+### [Ts-232,712\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)
+
+<span class="series-number">420.</span> <span class="series-number">419</span> A: “Ich glaube, es regnet.” – B: “Ich glaube es nicht.” – nun, sie widersprechen einander ja nicht; Jeder sagt bloß etwas über sich selbst aus.
+
+### [Ts-232,712\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)
+
+<span class="series-number">421.</span> <span class="series-number">420</span> “Es gibt kein bläuliches Gelb”. Ähnlich dem Satz “Es gibt kein regelmäßiges Zweieck”; eine Aussage der Farbengeometrie könnte man es nennen, d.h. ein begriffsbestimmender Satz.
+
+### [Ts-232,712\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)
+
+<span class="series-number">422.</span> <span class="series-number">421</span> Wenn ich Einen gelehrt hätte, die sechs primären Farbnamen zu gebrauchen und die Silbe “lich”, so könnte ich ihm Befehle geben wie “Male hier ein grünliches Weiß!” – Einmal aber sage ich ihm “Mal ein rötliches Grün!” Ich beobachte seine Reaktion. Vielleicht wird er Grün und Rot mischen und von dem Resultat nicht befriedigt sein; vielleicht endlich sagen: “es gibt kein rötliches Grün.” – Analog hätte ich ihn dazu bringen können, mir zu sagen “Ein regelmäßiges Zweieck gibt es nicht!” oder “eine Quadratwurzel aus ‒ 25 gibt es nicht.
+
+### [Ts-232,712\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)
+
+<span class="series-number">423.</span> <span class="series-number">422</span> Zwischen Grün und Rot, will ich sagen, sei eine geometrische Leere, nicht eine physikalische.
+
+### [Ts-232,713\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp)
+
+<span class="series-number">424.</span> <span class="series-number">423</span> Aber entspricht dieser also nichts Physikalisches? Das leugne ich nicht (Und wenn es bloß unsre Gewöhnung an _diese_ Begriffe, an diese Sprachspiele wäre. Aber ich sage nicht, daß es so ist.) Wenn wir einem Menschen die und die Technik durch Exempel beibringen, – daß er dann mit einem bestimmten neuen Fall _so_ und nicht _so_ geht, oder daß er dann stockt, daß für ihn also dies und nicht jenes die ‘natürliche’ Fortsetzung ist, ist allein schon ein höchst wichtiges Naturfaktum.
+
+### [Ts-232,713\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp)
+
+<span class="series-number">425.</span> <span class="series-number">424</span> “Aber wenn ich mit ‘bläulichgelb’ grün meine, so fasse ich eben diesen Ausdruck anders als nach der ursprünglichen Weise auf. Die ursprüngliche Auffassung bezeichnet einen andern und eben _nicht gangbaren_ Weg.” Was ist aber hier das wichtige Gleichnis das vom physisch nicht gangbaren Weg, oder vom nicht-Existieren des Weges? Also das Gleichnis der physikalischen, oder der mathematischen Unmöglichkeit?
+
+### [Ts-232,713\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp)
+
+<span class="series-number">426.</span> <span class="series-number">425</span> Wir haben ein System der Farben wie ein System der Zahlen. Liegen die Systeme in _unserer_ Natur, oder in der Natur der Dinge? Wie soll man's sagen? _Nicht_ in der Natur der Zahlen oder Farben.
+
+### [Ts-232,713\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp)
+
+<span class="series-number">427.</span> <span class="series-number">426</span> Hat denn dieses System etwas willkürliches? Ja und nein. Es ist mit Willkürlichem verwandt und mit nicht-Willkürlichem.
+
+### [Ts-232,713\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp),[714\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)
+
+<span class="series-number">428.</span> <span class="series-number">427</span> Es leuchtet aus dem ersten Bild ein, daß man nichts als Zwischenfarben von rot und grün anerkennen will. (Und ob es dem Menschen immer so eingeleuchtet, oder erst nach Erfahrung und Erziehung ist hier gleichgiltig.) Was würden wir von Menschen denken, die ein ‘rötlich-grün’ kennen (etwa olivgrün so nennen)? Und was heißt _das_: “Die haben dann überhaupt einen andern Begriff der Farbe”? Als wollten wir sagen: “Es wäre eben dann nicht _dieser_, sondern ein anderer” – indem wir auf unsern zeigen. Als gäbe es also einen _Gegenstand_, dem der Begriff eindeutig angehörte.
+
+### [Ts-232,714\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)
+
+<span class="series-number">429.</span> <span class="series-number">428</span> Die Leute kennen ein Rötlichgrün. Aber es _gibt_ doch gar keins! – Welcher sonderbare Satz. – (Wie weißt du's nur?)
+
+### [Ts-232,714\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)
+
+<span class="series-number">430.</span> <span class="series-number">429</span> (Das Bild, das den Begriff charakterisiert, wäre etwas wie eine algebraische Formel.)
+
+### [Ts-232,714\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)
+
+<span class="series-number">431.</span> <span class="series-number">430</span> Sagen wir's doch so: Müssen denn diese Leute die Diskrepanz merken? Vielleicht sind sie zu stumpf dazu. Und dann wieder: vielleicht auch nicht. –
+
+### [Ts-232,714\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)
+
+<span class="series-number">432.</span> <span class="series-number">431</span> Ja aber hat denn die Natur hier gar nichts mitzureden?! Doch – nur macht sie sich auf andere Weise hörbar. “Irgendwo wirst du doch an Existenz und nicht-Existenz anrennen!” Das heißt aber doch an _Tatsachen_, nicht an Begriffe.
+
+### [Ts-232,714\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp),[715\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)
+
+<span class="series-number">433.</span> <span class="series-number">432</span> Es ist eine Tatsache von der höchsten Wichtigkeit, daß eine Farbe, die wir (z.B.) “rötlichgelb” zu nennen geneigt sind, sich wirklich durch Mischung (auf verschiedene Weise) von Rot und Gelb erzeugen läßt. Und daß wir nicht im Stande sind, eine Farbe, die durch Mischen von Rot und Grün entstanden ist, ohne Weiteres als eine zu erkennen, die sich so erzeugen läßt. (Was aber bedeutet “ohne Weiteres” hier?) Es könnte Leute geben, die ein regelmäßiges 97-Eck ohne zu zählen auf einen Blick als solches erkennen.
+
+### [Ts-232,715\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)
+
+<span class="series-number">434.</span> <span class="series-number">433</span> Begriffe mit einer Malweise verglichen: Ist denn auch nur unsere Malweise willkürlich? Können wir uns einfach entscheiden, die der Ägypter anzunehmen? Oder handelt sich's da nur um hübsch und häßlich?
+
+### [Ts-232,715\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)
+
+<span class="series-number">435.</span> <span class="series-number">434</span> Haben wir denn die menschliche Sprache _erfunden_? So wenig, wie das Gehen auf zwei Beinen. Es ist eine wichtige Tatsache, wenn sich's so verhält, daß Menschen diesen großen Bären etwa in Strichen wiedergeben sollen, dies, wenn sie sich selbst überlassen sind, immer oder meistens auf eine bestimmte Weise und nie auf eine bestimmte andere tun. Aber heißt _das_: die Konstellation so sehen? Liegt darin z.B. schon die Möglichkeit eines Umschlagens des Aspekts? Denn es ist ja das Umschlagen, dessen Ähnlichkeit mit einem Wechseln des Gesichtsobjekts wir empfinden.
+
+### [Ts-232,715\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)
+
+<span class="series-number">436.</span> <span class="series-number">435</span> Wenn nicht der Wechsel des Aspekts vorläge, so gäbe es nur eine _Auffassung_, nicht ein so oder so _sehen_.
+
+### [Ts-232,715\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)
+
+<span class="series-number">437.</span> <span class="series-number">436</span> Das scheint absurd. Als wollte man sagen “Wenn ich nur immer mit Kohle heize, und nicht auch manchmal mit etwas anderem, so heize ich auch nicht mit Kohle”. Aber kann man nicht sagen: “Wenn es nur _eine_ Substanz gäbe, so hätte man keinen Gebrauch für das Wort ‘Substanz’”? Aber das heißt doch: Der Begriff ‘Substanz’ setzt den Begriff ‘Unterschied der Substanz’ voraus. (Wie der des Schachkönigs den des Schachzuges, oder wie der der _Farbe_ den der _Farben_.)
+
+### [Ts-232,716\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/716.webp)
+
+<span class="series-number">438.</span> <span class="series-number">437</span> Ich teile Einem etwas anders mit, wenn ich ihm sage:
+
+a) daß in der Zeichnung, die er nicht sieht, die und die Form enthalten ist –
+
+b) daß in der Zeichnung, die er sieht, die Form enthalten ist, die er noch nicht bemerkt –
+
+c) daß ich gerade entdeckt habe, die Zeichnung, die mir wohlbekannt war, enthielte diese Form –
+
+d) daß ich jetzt gerade die Zeichnung in diesem Aspekt sehe. Jede dieser Mitteilungen hat ein anderes Interesse.
+
+### [Ts-232,716\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/716.webp)
+
+<span class="series-number">439.</span> <span class="series-number">438</span> Die erste ist eine teilweise Beschreibung eines wahrgenommenen Gegenstands, etwa analog der “Ich sehe dort etwas Rotes”. Die zweite ist, was ich eine “geometrische Mitteilung” nennen will. Sie ist im Gegensatz zur ersten zeitlos. Die Entdeckung, daß es sich so verhält, ist von der Art mathematischer Entdeckungen.
+
+### [Ts-232,716\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/716.webp)
+
+<span class="series-number">440.</span> <span class="series-number">439</span> Aber könnte die Mitteilung nicht auch in temporaler Form gemacht werden? Etwa so: “Wenn du diese Zeichnung hin und herwendest, wirst du _diese_ Form in ihr sehen, ohne daß sich die Linien bewegt zu haben scheinen.” Daß wir dies Faktum begriffsbestimmend verwenden, ist damit noch nicht gesagt.
+
+### [Ts-232,716\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/716.webp)
+
+<span class="series-number">441.</span> <span class="series-number">440</span> Wie macht man denn die _Entdeckung_? Etwa, so: Man zieht auf durchscheinendem Papier – vielleicht rein zufällig – gewisse Linien der Zeichnung nach. Dann sieht man: das ist ja ein Gesicht! Oder man macht diesen Ausruf einmal beim Anblick der Zeichnung und zieht dann jenen Linien nach. – Und wo ist hier die _Entdeckung_? – Dies muß erst als Entdeckung, und insbesondere als _geometrische Entdeckung_, interpretiert werden.
+
+### [Ts-232,717\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)
+
+<span class="series-number">442.</span> <span class="series-number">441</span> Ein Aspekt kann mir dadurch erscheinen, daß mich einer auf ihn _aufmerksam macht_. Wie sehr unterscheidet das doch _dieses_ ‘Sehen’ vom Wahrnehmen der Farben und Formen.
+
+### [Ts-232,717\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)
+
+<span class="series-number">443.</span> <span class="series-number">442</span> Bemerken und Sehen. Man sagt nicht “Ich habe es fünf Minuten lang bemerkt”.
+
+### [Ts-232,717\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)
+
+<span class="series-number">444.</span> <span class="series-number">443</span> “Aber sehen wir die menschlichen Gestalten auf dem Bild _wirklich_?” Wonach fragt man nur?? Es geht hier offenbar eine Störung eines Begriffs durch einen etwas verschiedenen vor sich. Ich sollte etwa fragen: “Sehe ich denn die Gestalten wirklich in dem selben Sinne wie …?” Oder auch: “Welchen Grund habe ich, hier von ‘sehen’ zu sprechen? und was lehnt sich etwa in mir dagegen auf?”
+
+### [Ts-232,717\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)
+
+<span class="series-number">445.</span> <span class="series-number">444</span> Ich möchte etwa die Frage stellen: “Bin ich mir der Räumlichkeit (Tiefe) dieses Buches, z.B., während ich es sehe _immer bewußt_?” _Fühle_ ich sie so zu sagen die ganze Zeit? – Aber stell die Frage in der dritten Person. Wann würdest du sagen, er _sei_ sich ihrer immer bewußt? wann das Gegenteil? – Angenommen, du fragtest ihn, – aber wie hat er gelernt, dir auf diese Frage zu antworten? – Nun, er weiß z.B. was es heißt, ununterbrochen Schmerzen zu Fühlen. Aber das wird ihn hier nur verwirren, wie es auch mich verwirrt.
+
+### [Ts-232,717\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)
+
+<span class="series-number">446.</span> <span class="series-number">445</span> Wenn er mir nun sagt, er sei sich der Tiefe fortwährend bewußt, glaub ich's ihm? Und wenn er sagt, er sei sich ihrer nur von Zeit zu Zeit bewußt, wenn er etwa von ihr redet, – glaub ich ihm _das_? Grundlage. – Anders aber, wenn er mir sagt, der Gegenstand käme ihm manchmal räumlich, manchmal aber flach vor.
+
+### [Ts-232,718\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/718.webp)
+
+<span class="series-number">447.</span> <span class="series-number">446</span> Ich könnte Einem wichtige Botschaft übermitteln, indem ich ihm das Bild einer Landschaft übersende. Liest er dieses, wie eine Werkzeichnung; ich meine: _entziffert_ er es? Er sieht es an und richtet sich danach. Er sieht darauf Felsen, Bäume, ein Haus, etc.
+
+### [Ts-232,718\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/718.webp)
+
+<span class="series-number">448.</span> <span class="series-number">447</span> (Die Situation ist hier die der praktischen Notwendigkeit, aber das Verständigungsmittel eines, dem nichts von Verabredung, Definition und dergleichen anhängt, und das sonst nur quasi poetischen Zwecken dient. Aber es dient eben auch die gewöhnliche Wortsprache poetischen Zwecken.)
+
+### [Ts-232,718\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/718.webp)
+
+<span class="series-number">449.</span> <span class="series-number">448</span> Die Aspekte des F: Es ist quasi, wie wenn eine _Vorstellung_ mit dem Gesichtseindruck in Berührung käme und für eine Zeit in Berührung bliebe.
+
+### [Ts-232,718\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/718.webp)
+
+<span class="series-number">450.</span> <span class="series-number">449</span> Der Fall des schwarzen und weißen Kreuzes aber ist anders und ähnlich dem der _räumlichen_ Aspekte (z.B. der Prismenzeichnung).
+
+### [Ts-232,718\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/718.webp)
+
+<span class="series-number">451.</span> <span class="series-number">450</span> Die Versuchung, zu sagen “Ich sehe es _so_”, indem man bei “es” und “so” auf das Gleiche zeigt.
+
+### [Ts-232,718\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/718.webp),[719\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp)
+
+<span class="series-number">452.</span> <span class="series-number">451</span> Der Begriff ‘sehen’ macht einen wirren Eindruck. Nun, so ist er. – Ich sehe in die Landschaft; mein Blick schweift, ich sehe allerlei klare und unklare Bewegungen; dies prägt sich mir klar ein, _jenes_ nur ganz verschwommen. Wie gänzlich zerrissen uns doch erscheinen kann, was wir sehen! Und nun sieh, was eine “Beschreibung des Gesehenen” heißt! Aber das ist es, was wir so nennen. Wir haben nicht einen wirklichen, respektablen Fall so einer Beschreibung und sagen: “Nun, das Übrige ist eben noch unklarer, harrt noch der Klärung, oder muß einfach als Abfall in den Winkel gekehrt werden.
+
+### [Ts-232,719\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp)
+
+<span class="series-number">453.</span> <span class="series-number">452</span> Es ist hier für uns die ungeheure Gefahr, feine Unterschiede machen zu Wollen. Ähnlich ist es, wenn man den Begriff des physikalischen Körpers aus dem ‘wirklich Gesehenen’ erklären will. Es ist viel mehr das uns wohlbekannte Sprachspiel _hinzunehmen_, und _falsche_ Erklärungen sind als solche zu kennzeichnen. Das Primitive, uns ursprünglich beigebrachte Sprachspiel bedarf keiner Rechtfertigung, falsche Versuche der Rechtfertigung, die sich uns aufdrängen, bedürfen der Zurückweisung.
+
+### [Ts-232,719\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp)
+
+<span class="series-number">454.</span> <span class="series-number">453</span> Die Begriffsverhältnisse liegen sehr kompliziert.
+
+### [Ts-232,719\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp)
+
+<span class="series-number">455.</span> <span class="series-number">454</span> Es ist immer zu trennen der Ausdruck von der Technik. Und der Fall, wenn wir die Technik angeben können, von dem, wenn wir sie nicht angeben können.
+
+### [Ts-232,719\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp)
+
+<span class="series-number">456.</span> <span class="series-number">455</span> Ich könnte wohl sagen: “Meine Gedanken gehen von _diesem_ Bild natürlich zu wirklichem Gras, zu wirklichen Tieren hin; von jenem Bild nie.”
+
+### [Ts-232,719\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp)
+
+<span class="series-number">457.</span> <span class="series-number">456</span> Man sagt beim Anschauen des Bildes: “_Siehst du_ nicht ein Eichhörnchen!” “_Fühlst_ du nicht die Weichheit dieses Pelzes!” – Und man sagt dies bei gewissen Bildern, bei andern nicht.
+
+### [Ts-232,719\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/719.webp),[720\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/720.webp)
+
+<span class="series-number">458.</span> <span class="series-number">457</span> Auf die Idee des Bildwesens, welche nicht unähnlich einer mathematischen Idee ist, komme ich durch _gewisse_ Darstellungsweisen, unter _gewissen_ Umständen. Wenn jemand ein von mir geschriebenes Blatt sieht, so wird er, wenn er Lateinschrift lesen und schreiben kann, es leicht ziemlich genau kopieren können. Er braucht es nur lesen und wieder schreiben. Trotz der Abweichungen der Handschrift wird er mit Leichtigkeit ein halbwegs gutes Bild der Linien auf meinem Blatte hervorbringen. Hätte er Lateinschrift nicht lesen und schreiben gelernt, so wäre es ihm nur mit größter Mühe gelungen, jene verschlungenen Linien zu kopieren. Soll ich nun sagen: wer _dies_ gelernt hat, _sähe_ das beschriebene Blatt ganz anders als eine Anderer? – Was wissen wir davon? Es könnte ja sein, daß wir Einem, ehe er schreiben und lesen gelernt hatte jenes Blatt zu kopieren gab; und dann wieder, nachdem er schreiben und lesen gelernt hatte. Und er wird uns dann vielleicht sagen: “Ja, jetzt sehe ich diese Linien ganz anders.” Er wird auch vielleicht erklären: “Jetzt sehe ich eigentlich nur die Schrift, die ich gerade lese.; alles andere ist Drum und Dran, was mich nichts angeht und ich kaum bemerke.” Nun, das heißt: er sieht das Bild anders – wenn er nämlich wirklich auch anders darauf reagiert. Ebenso wird, wer lesen gelernt hat, von dem Blatt, das nach der Länge und Quere beschrieben ist, einen andern Bericht geben können, als wer nicht lesen kann. Und Analoges gilt vom Sprechen und den begleitenden Geräuschen.
+
+### [Ts-232,720\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/720.webp)
+
+<span class="series-number">459.</span> <span class="series-number">458</span> ((Zu № 685 S.191)). Es gibt da die Antwort “Ich habe ein 🖵 noch nie daraufhin angeschaut.”
+
+### [Ts-232,720\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/720.webp)
+
+<span class="series-number">460.</span> <span class="series-number">459</span> Denke, Einer antwortete: “Für mich schaut es _immer_ in dieser Richtung”. – Würden wir seine Antwort nun annehmen? Sie würde uns zu behaupten scheinen, er denke, wann immer er diesen Buchstaben sieht, an solche Zusammenhänge (ganz so, wie man sagt: “Wenn immer ich diesen Menschen sehe, muß ich daran denken, wie er …”
+
+### [Ts-232,720\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/720.webp),[721\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/721.webp)
+
+<span class="series-number">461.</span> <span class="series-number">460</span> Aber wenn wir nun das Bild eines Gesichts, oder ein wirkliches Gesicht sehen, – kann man hier auch sagen: Ich sehe es nur so lange in dieser Richtung schauend als ich mich _so_ damit beschäftige? – Was ist der Unterschied? Die Mitteilung “Dieses Gesicht schaut nach rechts” ist, für gewöhnlich, eine über die Lage des Gesichts, ich mache sie Einem, der selbst das Gesicht nicht sieht. Es ist die Mitteilung einer Wahrnehmung.
+
+### [Ts-232,721\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/721.webp)
+
+<span class="series-number">462.</span> <span class="series-number">461</span> ((Zu № 686 S.191 – 192)). Zeigt dies nun aber, daß es sich in diesen Fällen um ein ‘Sehen’ nicht handeln kann – sondern etwa um ein Denken? Dagegen spricht schon, daß man überhaupt von einem Sehen reden will. Soll ich also sagen, es ist hier ein Phänomen zwischen Sehen und Denken? Nein; aber ein Begriff, der zwischen dem des Sehens und dem des Denkens liegt, d.h., mit beiden Ähnlichkeit hat; und Phänomene, die mit denen des Sehens und Denkens verwandt sind (z.B. das Phänomen der Äußerung “Ich sehe das F nach rechts schauen”).
+
+### [Ts-232,721\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/721.webp)
+
+<span class="series-number">463.</span> <span class="series-number">462</span> Wie merkt man, daß die Menschen räumlich _sehen_? Ich frage Einen, wie das Terrain liegt, das er überschaut. “Liegt es _so_?” (räumliche Geste) – “Ja.” – “Woher weißt du das?” – Es ist nicht neblig, ich sehe ganz klar.” – Es werden keine Gründe für die _Vermutung_ abgeben. Es ist uns einzig natürlich, das Geschaute räumlich darzustellen; während es für die ebene Darstellung, sei es durch Zeichnung oder durch Worte, besonderer Übung und eines Unterrichts bedarf. Die Sonderbarkeit der Kinderzeichnungen.
+
+### [Ts-232,721\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/721.webp),[722\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/722.webp)
+
+<span class="series-number">464.</span> <span class="series-number">463</span> Was fehlt dem, der die Frage nicht versteht, nach welcher Seite der Buchstabe F schaue, wo ihm etwa eine Nase zu malen wäre? Oder dem, der nicht findet, beim öfteren Wiederholen eines Wortes gehe diesem etwas verloren; seine Bedeutung; und es werde nun ein großer Klang?
+
+_Wir_ sagen “Zuerst war etwas da wie eine Vorstellung”.
+
+### [Ts-232,722\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/722.webp)
+
+<span class="series-number">465.</span> <span class="series-number">464</span> Ist es dies, daß er einen Satz nicht wie die Verstehenden genießen, beurteilen kann; daß der Satz für ihn lebt (mit allem, was das in sich schließt); daß das Wort nicht das Aroma seiner Bedeutung hat? Daß er sich also in vielen Fällen anders zu einem Wort verhält als wir? Daß er sich also in vielen Fällen anders zu einem Wort verhält als wir? – Es _könnte_ so sein.
+
+### [Ts-232,722\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/722.webp)
+
+<span class="series-number">466.</span> <span class="series-number">465</span> Wenn ich aber eine Melodie mit Verständnis höre, geht da nicht etwas Besonderes in mir vor – was nicht vorgeht, wenn ich sie verständnislos höre? Und _was_? – Es kommt keine Antwort; oder was mir einfällt, ist abgeschmackt. Ich kann wohl sagen: “Jetzt habe ich sie verstanden”, und nun etwa über sie reden, sie spielen, sie mit andern vergleichen, etc. _Zeichen_ des Verständnisses mögen das Hören begleiten.
+
+### [Ts-232,722\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/722.webp)
+
+<span class="series-number">467.</span> <span class="series-number">466</span> Es ist falsch, das Verstehen einen Vorgang zu nennen, der das Hören begleitet. (Man könnte ja auch die Äußerung davon, das ausdrucksvolle Spiel, nicht eine Begleitung des Hörens nennen.)
+
+### [Ts-232,722\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/722.webp),[723\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723.webp)
+
+<span class="series-number">468.</span> <span class="series-number">467</span> Denn wie läßt sich erklären, was ‘ausdrucksvolles Spiel’ ist? Gewiß nicht durch etwas, _was_ das Spiel begleitet. – Was gehört also dazu? Eine Kultur, möchte man sagen. – Wer in einer bestimmten Kultur erzogen ist, – dann auf Musik so und so reagiert, dem wird man den Gebrauch des Wortes “ausdrucksvolles Spiel” beibringen können.
+
+### [Ts-232,723\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723.webp)
+
+<span class="series-number">469.</span> <span class="series-number">468</span> Das Verstehen _eines Themas_ ist weder eine Empfindung, noch eine Summe von Empfindungen. Es ein Erlebnis zu nennen, ist aber dennoch insofern richtig, als _dieser_ Begriff des Verstehens manche Verwandtschaften mit andern Erlebnisbegriffen hat. Man sagt “Ich habe diese Stelle diesmal ganz anders erlebt”“. Aber doch ‘beschreibt’ dieser Ausdruck ‘was geschah’ nur für den, der mit einem sondern Begriff System vertraut ist. Analogie: “Ich habe die Partie gewonnen”.
+
+### [Ts-232,723\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723.webp)
+
+<span class="series-number">470.</span> <span class="series-number">469</span> Beim Lesen schwebt mir _das_ vor. So geht also etwas beim Lesen vor sich …? Diese Frage führt ja nicht weiter.
+
+### [Ts-232,723\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723.webp)
+
+<span class="series-number">471.</span> <span class="series-number">470</span> Wie kann mir doch das vorschweben? Nicht in den Dimensionen, an die du denkst.
+
+### [Ts-232,723\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723.webp)
+
+<span class="series-number">472.</span> <span class="series-number">471</span> Gewisses am sehen kommt uns rätselhaft vor, weil uns das ganze Sehen uns nicht rätselhaft genug vorkommt.
+
+### [Ts-232,723\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723.webp),[723a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp)
+
+<span class="series-number">473.</span> <span class="series-number">472</span> Daß jemand einen deutlich gemalten Würfel räumlich sieht, wissen wir Alle. Er kann, was er sieht, vielleicht nicht einmal anders als räumlich beschreiben. Und, daß Einer so ein Bild auch flach sehen _könnte_, ist klar. Wenn er nun abwechselnd das Bild einmal so, einmal so sieht, hat er das Erlebnis eines Wechsels des Aspekts. Was ist dann _daran_ das Staunen erregende? – ist es dies: daß hier der Bericht “Ich sehe jetzt … nicht mehr Bericht über den wahrgenommenen Gegenstand sein kann. Denn früher war ja “Ich sehe auf diesem Bild einen Würfel” der Bericht über den Gegenstand, welchen ich anblicke.
+
+### [Ts-232,723a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp)
+
+<span class="series-number">474.</span> <span class="series-number">473</span> Das Unbegreifliche ist ja doch, daß sich _nichts_ geändert hat und sich doch _Alles_ geändert hat. Denn nur so kann man es ausdrücken. Nicht _so_: es habe sich in _einer_ Beziehung nicht verändert, wohl aber in einer andern. Daran wäre nichts Seltsames.” Es hat sich nichts geändert” heißt aber: Ich habe kein Recht, meinen Bericht über das Gesehene zu ändern, ich sehe nach wie vor das Selbe – bin aber, auf unbegreifliche Weise, gezwungen abwechselnd ganz verschiedenes zu berichten.
+
+### [Ts-232,723a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp)
+
+<span class="series-number">475.</span> <span class="series-number">474</span> Und es ist nicht _so_: ich sehe das Bild eben als einen der unendlich vielen Körper, dessen Projektion es ist; – sondern _nur_ als _diesen_ – oder als _diesen_. Das Bild _ist_ also abwechselnd der Eine und der Andere.
+
+### [Ts-232,723a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp)
+
+<span class="series-number">476.</span> <span class="series-number">745</span> Wir haben jetzt einen Sprachspiel, das in merkwürdiger Weise _gleich_, und in merkwürdiger Weise _verschieden_ von dem früheren ist. Die Konsequenzen aus dem Ausdruck “Ich sehe jetzt …” sind nun gänzlich andere; obwohl doch wieder enge Verwandtschaft der Sprachspiele besteht.
+
+### [Ts-232,723a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp)
+
+<span class="series-number">477.</span> <span class="series-number">476</span> Daß das Auge (der Punkt in unserem Bild) in einer Richtung liegt hätte uns gar nicht in Staunen versetzt – bis es die Blickrichtung _geändert_ hatte.
+
+### [Ts-232,723a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp),[724\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp)
+
+<span class="series-number">478.</span> <span class="series-number">477</span> ((Statt № 835 S.299.)) Die Frage liegt nahe: könnten wir uns Menschen denken, die nie etwas _als etwas sähen_? Würde diesen ein wichtiger Sinn fehlen; ähnlich als wären sie farbenblind oder als fehlte ihnen absolutes Gehör? Nennen wir solche Menschen einmal “gestaltblind” oder “aspektblind”.
+
+### [Ts-232,724\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp)
+
+<span class="series-number">479.</span> <span class="series-number">478</span> Da wird es sich fragen, für welche _Art_ von Aspekt einer blind ist. Soll ich z.B. annehmen, daß er das Würfelschema nicht einmal _so_, einmal anders im Raum sehen kann? Ist es so, werde ich konsequenter Weise annehmen müssen, er könne das Bild eines Würfels nicht als Würfel, also das Bild eines räumlichen Gegenstandes nicht als solchen sehen. Er hätte also zu Bildern überhaupt eine andere Einstellung als wir. Es könnte die sein, die wir zu einer Blaupause haben. Er wäre z.B. im Stande, nach einer bildlichen Darstellung zu arbeiten. – Aber hier ist die Schwierigkeit, daß er ein Bild dann nie für einen räumlichen Gegenstand halten dürfte, wie wir z.B. manchmal eine Scheinarchitektur. Und _das_ könnte man nicht wohl eine Blindheit nennen; eher das Gegenteil. (Diese Untersuchung ist keine psychologische.)
+
+### [Ts-232,724\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp)
+
+<span class="series-number">480.</span> <span class="series-number">479</span> Es läßt sich ja natürlich vorstellen, daß Einer nie einen Wechsel des Aspekts sieht; indem der räumliche Aspekt eines jeden Bildes für ihn immer stabil bleibt. Aber diese Annahme _interessiert_ uns nicht
+
+### [Ts-232,724\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp)
+
+<span class="series-number">481.</span> <span class="series-number">480</span> Es ist aber denkbar, und für uns auch wichtig, daß Leute ein von dem unsern ganz verschiedenes Verhältnis zu Bildern haben könnten. ((No. 836 S.230)).
+
+### [Ts-232,724\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp),[725\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/725.webp)
+
+<span class="series-number">482.</span> <span class="series-number">481</span> Wir könnten uns also Einen denken, der nur ein gemaltes Gesicht als Gesicht sähe, aber nicht eines, das aus einem Kreis und vier Punkten besteht. Der also das Hasen-Entenbild nicht als Bild eines Tierkopfes sieht, und daher auch nicht den Aspektwechsel, welchen wir kennen.
+
+### [Ts-232,725\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/725.webp)
+
+<span class="series-number">483.</span> <span class="series-number">482</span> Einer soll das Bild eines Laufenden nicht als Bild der Bewegung sehen können: Wie würde es sich zeigen? Ich nehme an, er habe _gelernt_, daß so ein Bild einen Läufer darstellt. So kann er also sagen, es sei ein Läufer; wie wird er sich dann von den normalen Menschen unterscheiden? Er wird für die Darstellung der Bewegung in einem Bild überhaupt nicht Verständnis zeigen, – werde ich annehmen. Und was würden wir Zeichen dieses mangelnden Verständnisses nennen? – Das können wir uns unschwer ausmalen. (Wenn aber ein solcher nun jedes Bild sehen und genau kopieren könnte, so würden wir gewiß von ihm nicht sagen. Sein Gesichtssinn sei mangelhaft.)
+
+Es ist ja klar, daß der Schüler, der nur eben erst mit dem Begriff Spitze, Grundlinie, etc. Bekanntschaft gemacht hat, daß für den die Worte “Ich sehe jetzt _das_ als Spitze – jetzt _das_” keinen Sinn haben werden. Aber das meinte ich nicht, als einen Erfahrungssatz.
+
+### [Ts-232,725\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/725.webp)
+
+<span class="series-number">484.</span> <span class="series-number">483</span> Nur von dem würde man sagen, er sähe es jetzt _so_, jetzt _so_, der _im Stande ist_, mit Geläufigkeit allerlei Anwendungen von der Figur zu machen.
+
+### [Ts-232,725\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/725.webp)
+
+<span class="series-number">485.</span> <span class="series-number">484</span> Wie seltsam aber, daß dies die Bedingung sein soll, daß er das und das _erlebt_! Du sagst doch nicht, daß nur der Zahnschmerzen hat, der das und das zu tun im Stande sei. Woraus eben folgt, daß wir's hier nicht mit dem selben Erlebnisbegriff zu tun haben. Der Erlebnisbegriff ist jedesmal ein anderer, wenn auch ein Verwandter.
+
+### [Ts-232,726\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/726.webp)
+
+<span class="series-number">486.</span> <span class="series-number">485</span> Wir sprechen, machen Äußerungen, und erst _später_ erhalten wir ein Bild von ihrem Leben.
+
+### [Ts-232,726\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/726.webp)
+
+<span class="series-number">487.</span> <span class="series-number">486</span> Man könnte sich aber diese Art und Weise denken, dem Schüler jenes Sehen beizubringen: Man zeichnet zu dem Dreieck ein zweites hin, welches das noch nicht umgestürzt ist. Später läßt man dies aus und er kann nun das Dreieck als umgefallen sehen. – Muß er denn aber diese Illustration verstehen, oder _doch_ richtig sehen? – Es könnte sein, daß sie ihn nur noch verwirrt. Wem jene Illustration nichts sagt, zu dem werden auch andere Bilder nicht sprechen wie zu uns, er wird auf sie nicht so reagieren wie wir. (Nicht erfahrungsmäßig.) Analogie mit dem Bild des laufenden Pferdes.
+
+### [Ts-232,726\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/726.webp)
+
+<span class="series-number">488.</span> <span class="series-number">487</span> Es ist nicht weniger als selbstverständlich daß wir mit zwei Augen ‘räumlich’ sehen. Wenn die Beiden Gesichtsbilder in eins verschmelzen, könnte man sich als Resultat ein verschwommenes erwarten, analog einer verwackelten Photographie.
+
+### [Ts-232,726\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/726.webp)
+
+<span class="series-number">489.</span> <span class="series-number">488</span> Eine Geheimsprache, die ich mit Einem vereinbare, worin “Bank” Apfel bedeutet. Gleich nach der Vereinbarung sage ich ihm “Schaff diese Bänke fort!” – Er versteht mich und tut es; aber das Wort “Bank” kommt ihm in dieser Verwendung noch immer fremdartig vor, und er mag bei ihm die Vorstellung von einer Bank haben.
+
+### [Ts-232,726\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/726.webp)
+
+<span class="series-number">490.</span> <span class="series-number">489</span> Was würde man von dem sagen, der das Würfelschema nicht einmal als Stehende, einmal als liegende Schachtel sehen kann? Ist dies nicht, wenn es ein Defekt ist, eher Einer der Fantasie, als des Gesichtspunktes?
+
+### [Ts-232,727\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)
+
+<span class="series-number">491.</span> <span class="series-number">490</span> Aber welch merkwürdige Methode! – Ich bilde einen Begriff und frage mich, wie er konsequent durchzuführen wäre. Was “seine konsequente Durchführung” für uns zu heißen verdiente. Wir sehen ein Gemälde zwar räumlich, es wäre uns nicht leicht, es als Aggregat ebener Farbflächen zu beschreiben, aber was wir im Stereoskop sehen, schaut noch ganz anders räumlich aus. – Wer eine Photographie betrachtet, von Menschen, Häusern, Bäumen etwa, dem scheint Räumlichkeit an ihr nicht abzugeben! ((Zu der Bemerkung über das räumliche mit beiden Augen.))
+
+### [Ts-232,727\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)
+
+<span class="series-number">492.</span> <span class="series-number">491</span> Ich kann das Würfelschema als Schachtel sehen, aber _nicht_: einmal als Papier – einmal als Blechschachtel. – Was sollte ich dazu sagen, wenn jemand mir versicherte er könnte die Figur als **Blech**schachtel sehen? Sollte ich antworten, daß sei kein _Sehen_? Aber, wenn nicht sehen, könnte er es also _empfinden_? Es wäre natürlich plausibel, zu antworten: nur was in Wirklichkeit gesehen werden könnte, könne man sich so _visuell_ vorstellen. ((Das Wissen im Traum.))
+
+### [Ts-232,727\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)
+
+<span class="series-number">493.</span> <span class="series-number">492</span> Die Erfahrung, wenn man aus dem Kino auf die Straße tritt und Straße und Menschen sieht, als wären sie auf dem Lichtschirm und Teil einer Filmhandlung. Woran liegt es? _Wie_ sieht man die Straße und die Menschen? Ich könnte nur sagen: ich habe z.B. den flüchtigen Gedanken “vielleicht wird _dieser_ Mann eine Hauptperson im Stück sein”. Aber das allein ist es nicht. Meine Einstellung ist irgendwie die zu den Vorgängen auf der Leinwand. Etwa wie eine milde Neugierde, ein Vergnügen. Aber das Alles kann ich zuerst gar nicht sagen.
+
+### [Ts-232,727\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp),[728\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/728.webp)
+
+<span class="series-number">494.</span> <span class="series-number">493</span> Gehört dazu, etwas als Variation eines bestimmten Themas zu hören, nicht Fantasie? Und doch nimmt man dadurch etwas wahr.
+
+### [Ts-232,728\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/728.webp)
+
+<span class="series-number">495.</span> <span class="series-number">494</span> “Stell dir _das_ so geändert vor, so hast du das andere.” Im Allgemeinen möchte man sagen, die Vorstellungskraft könne ein Bild, eine Demonstration ersetzen.
+
+### [Ts-232,728\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/728.webp)
+
+<span class="series-number">496.</span> <span class="series-number">495</span> Die Aspekte des doppelten Kreuzes kann man einfach dadurch ausdrücken, daß man einmal auf ein weißes Kreuz, einmal auf ein Schwarzes zeigt, darauf also, worauf man auch bei der Frage wiese “Ist in der Figur auf diesem Papier _dies_ enthalten?” – Die gleiche Frage könnte man bezüglich des Hasen – Enten – Bildes stellen. Es ist aber auch klar, daß hier jeder Fall etwas von dem Andern abweicht. Denn, um die Aspekte dieses Bilds auszudrücken, zeigt man z.B. auf etwas, was nicht im Bild enthalten ist, wie das schwarze Kreuz im Doppelkreuz.
+
+### [Ts-232,728\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/728.webp)
+
+<span class="series-number">497.</span> <span class="series-number">496</span> Du redest doch vom _Verstehen_ der Musik. Du verstehst sie doch _während_ du sie hörst! Sollen wir davon sagen, es sei ein Erlebnis, welches das Hören begleite?
+
+### [Ts-232,728\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/728.webp)
+
+<span class="series-number">498.</span> <span class="series-number">497</span> Ich gebe Zeichen des Entzückens und des Verständnisses. Ist es Wortklauberei: Freude, Genuß, Entzücken seien nicht Empfindungen? Fragen wir uns einmal: Wieviel Analogie besteht denn zwischen dem Entzücken und dem, was wir z.B. “Sinnesempfindungen nennen?
+
+### [Ts-232,728\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/728.webp)
+
+<span class="series-number">499.</span> <span class="series-number">498</span> Das Bindebild zwischen ihnen wäre der Schmerz. Denn sein Begriff ähnelt dem der Tastempfindung z.B. (durch die Merkmale der Lokalisierung, echten Dauer, Intensität, Qualität) und zugleich dem der Gemütsbewegungen durch den Ausdruck (Mienen, Gebärden, Laute).
+
+### [Ts-232,729\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/729.webp)
+
+<span class="series-number">500.</span> <span class="series-number">499</span> Wie weiß ich, daß Einer entzückt ist? Wie lernt man den sprachlichen Ausdruck des Entzückens? Woran knüpft er sich? An den Ausdruck von Körperempfindungen? Fragen wir Einen, was er in der Brust, in den Gesichtsmuskeln spürt, um herauszufinden, ob er Genuß empfindet?
+
+### [Ts-232,729\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/729.webp),[730\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/730.webp)
+
+<span class="series-number">501.</span> <span class="series-number">500</span> Heißt das aber, es gäbe nicht doch Empfindungen, die oft beim Genießen der Musik wiederkehren? Durchaus nicht. (Bei manchen Stellen mag ihm das Weinen kommen und es spürt es im Kehlkopf). Ein Gedicht macht uns beim Lesen einen Eindruck. “Fühlst du das selbe, während du es liest, wie wenn du etwas Gleichgiltiges liest?” – Wie habe ich auf diese Frage antworten gelernt? Ich werde vielleicht sagen: “Natürlich nicht!” – was soviel heißt wie: mich ergreift _dies_, und das andere nicht. “Ich erlebe dabei etwas anderes.” – Und welcher Art ist dies? – Ich kann nichts Befriedigendes antworten. Denn, was ich angebe, ist nichts Wichtiges. – “Hast du aber nicht _während_ des Lesens genossen?” Freilich – – – denn die entgegengesetzte Antwort hieße: ich hätte es früher, oder später genossen; und das will ich nicht sagen. Aber nun erinnerst du dich an gewisse Empfindungen und Vorstellungen und Gedanken beim Lesen, und zwar solche, die für das Genießen, für den Eindruck nicht irrelevant waren. – Aber von denen möchte ich sagen, sie hätten ihre Richtigkeit nur durch ihre Umgebung erhalten: durch das Lesen des Gedichts, durch meine _Kenntnis_ der Sprache, des Metrums und _unzähliger anderer Dinge_. Diese Augen lächeln nur in _diesem_ Gesicht und in _diesem_ zeitlichen Zusammenhang.) Du mußt dich doch fragen, wie haben wir den Ausdruck “Ist das nicht herrlich!” (z.B.) überhaupt gelernt? – Niemand erklärte ihn uns, indem er sich auf Empfindungen, Vorstellungen, oder Gedanken bezog, die das Hören begleiten! Ja, wir würden nicht verzweifeln, daß er's genossen hat, wenn er keine solchen Erlebnisse anzugeben wüßte; wohl aber, wenn es sich zeigte, daß er gewisse Zusammenhänge nicht versteht.
+
+### [Ts-232,730\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/730.webp)
+
+<span class="series-number">502.</span> <span class="series-number">501</span> Aber zeigt sich das Verständnis nicht z.B. darin, mit welchem Ausdruck Einer das Gedicht liest, die Melodie singt? Gewiß. Aber was ist nun hier das Erlebnis während des Lesens? Da müßte man ja sagen: der genieße und verstehe es, der es gut gelesen hört, oder in den Sprechorganen fühlt.
+
+### [Ts-232,730\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/730.webp)
+
+<span class="series-number">503.</span> <span class="series-number">502</span> Man kann auch vom Verstehen einer musikalischen _Phrase_ sagen, es sei das Verstehen einer _Sprache_.
+
+### [Ts-232,730\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/730.webp)
+
+<span class="series-number">504.</span> <span class="series-number">503</span> Ich denke an eine ganz kurze von nur zwei Takten. Du sagst “Was liegt nicht alles in ihr!” Aber es ist nur, so zu sagen, eine optische Täuschung, wenn du denkst, beim Hören gehe vor, was in ihr liegt. (Denk doch daran, daß wir manchmal ganz mit sagen, und ganz mit Recht: “Es kommt drauf an, _wer's_ sagt”.) (Nur in dem Schluß der Gedanken und des Lebens haben die Worte Bedeutung.)
+
+### [Ts-232,730\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/730.webp)
+
+<span class="series-number">505.</span> <span class="series-number">504</span> Nicht _das_ enthält die Täuschung: “ _Jetzt_ habe ich's verstanden.” – und nun folgt vielleicht eine lange Erklärung dessen, was ich verstanden habe.
+
+### [Ts-232,730\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/730.webp),[731\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/731.webp)
+
+<span class="series-number">506.</span> <span class="series-number">505</span> Wie hängt das Sehen eines Aspekts zusammen mit der Fähigkeit zu operieren (z.B. in der Mathematik)? Denk an das räumliche Sehen in der darstellenden Geometrie und das Operieren in der Zeichnung. Er bewegt sich mit dem Stift auf der Zeichenfläche, als bewegte er sich im wirklichen Körper. Wie aber kann das ein Beweis des _Sehens_ sein? Nun, ist es uns nicht auch ein Beweis des Sehens, wenn sich Einer mit Sicherheit im Zimmer umher bewegt? Es gibt eben verschiedene Kriterien des Sehens. Frag dich: Muß Einer, der Tiere, Menschen, und allerlei Gegenstände gut nach der Vorstellung oder Erinnerungen zeichnen kann, sie dazu vor dem innern Auge sehen? Die Antwort könnte sein: “In so einem Fall _sagen_ wir eben …” – aber auch: “Man muß den Zeichner fragen, ob er's tut oder nicht.”
+
+### [Ts-232,731\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/731.webp)
+
+<span class="series-number">507.</span> <span class="series-number">506</span> Es ist nun ein Zusammenhang zwischen Aspekt und Fantasie.
+
+### [Ts-232,731\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/731.webp)
+
+<span class="series-number">508.</span> <span class="series-number">507</span> Die Aspekte von Mantel und Grundfläche. Was fehlt dem, der für sie blind wäre? – Es ist nicht unsinnig, zu antworten: Vorstellungskraft.
+
+### [Ts-232,731\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/731.webp),[732\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)
+
+<span class="series-number">509.</span> <span class="series-number">508</span> Bedenke, daß es für einen Aspekt oft ein ‘treffendes’ Wort gibt. Läßt man z.B. Einen das Doppelkreuz ansehen und berichten, welchen der _beiden_ Aspekte (schwarzes Kreuz oder weißes Kreuz) er sehe, so mag es uns gleichgiltig sein, ob er sagt, er sehe das eine Mal etwas wie ein weißes Windmühlchen mit vier Flügeln, das andere Mal ein stehendes schwarzes Kreuz, oder ob er das weiße Kreuz als vier gegen die Mitte gefaltete Spitzen eines Papiers sieht. Das Kreuz, welches ‘jetzt’ gesehen wird, kann auch als kreuzförmige _Öffnung_ gesehen werden. Aber auf _diese_ Unterschiede müßte es uns nicht ankommen; und man könnte also eine Unterscheidung machen zwischen ‘rein optischen’ und ‘begrifflichen’ Aspekten. ((Ähnlich könnte es bei der Erzählung eines Traums auf die besondern Worte, mit welchen die Traumsituationen beschrieben werde, ankommen, oder nicht ankommen.))
+
+### [Ts-232,732\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)
+
+<span class="series-number">510.</span> <span class="series-number">509</span> Man könnte nicht verstehen “Sieh F als 🖵”, so lange nicht noch etwas ganz anderes gesagt ist. Denn verstünde ich “Sieh dieses Dreieck als jenes Dreieck”? Es muß erst eine begriffliche Verbindung bestehen.
+
+### [Ts-232,732\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)
+
+<span class="series-number">511.</span> <span class="series-number">510</span> “Es sieht jetzt für mich nach links – – – und nun wieder nach rechts.” Also so, wie schon vorher? Nein; früher hatte es für mich keine _Richtung_. Ich umgab es früher nicht mit dieser Welt von Vorstellungen.
+
+### [Ts-232,732\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)
+
+<span class="series-number">512.</span> <span class="series-number">511</span> Die Aufmerksamkeit ist dynamisch, nicht statisch – möchte man sagen. Ich vergleiche das Aufmerken zuerst mit einem Hinstarren: das ist es aber nicht, was ich Aufmerksamkeit nenne; und will nun sagen, ich finde, man könne nicht statisch aufmerken.
+
+### [Ts-232,732\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)
+
+<span class="series-number">513.</span> <span class="series-number">512</span> Einer könnte beim Anblick eines Felsens ausrufen “Ein Mann!” und nun vielleicht dem andern zeigen, wie er in dem Felsen den Mann sieht, – wo das Gesicht, wo die Füße sind, etc. (Ein anderer könnte in der gleichen Form einen Mann in anderer Weise sehen. Man wird sagen, es sei dazu Fantasie erforderlich. Nicht aber dazu, das naturgetreue Bild eines Hundes als solches zu erkennen.
+
+### [Ts-232,732\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)
+
+<span class="series-number">514.</span> <span class="series-number">513</span> “Er vergleicht den Felsen mit einer menschlichen Gestalt” – aber nicht im gleichem Sinne: er vergleiche jenes Bild mit einem Hund, oder diese Paßfotografie mit einem Gesicht.
+
+### [Ts-232,733\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">515.</span> <span class="series-number">514</span> Ich sage mir beim Anblick der Photographie nicht “Das könnte man als einen Menschen ansehen”. Noch beim Anblick des F: “Das könnte man als ein F ansehen”.
+
+### [Ts-232,733\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">516.</span> <span class="series-number">515</span> Wer mir die Figur zeigte und mich fragte “Was ist das?”, dem könnte ich nur _so_ antworten. – Auch nicht: “Ich halte das für ein …”, oder “Es ist wohl ein …”. So wenig, wie ich beim Lesen in einem Buch die Buchstaben für das oder das _halte_.
+
+### [Ts-232,733\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">517.</span> <span class="series-number">516</span> “Ich sehe als ein …” geht zusammen mit “Ich versuche es als … zu sehen”, oder “Ich kann es noch nicht als ein … sehen”. Du kannst aber nicht versuchen, das gewöhnliche F als dies zu sehen.
+
+### [Ts-232,733\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">518.</span> <span class="series-number">517</span> Einen im Geist um Rat fragen. Die Zeit schätzen, indem man sich eine Uhr _vorstellt_.
+
+### [Ts-232,733\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">519.</span> <span class="series-number">518</span> Im Aspekt ist eine Physiognomie vorhanden, die nachher vergeht. Es ist beinahe, als wäre da ein Gesicht, welches ich zuerst _nachahme_ und dann hinnehme, ohne es nachzuahmen. Und ist das nicht eigentlich genug der Erklärung? – Aber ist es nicht zu viel?
+
+### [Ts-232,733\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">520.</span> <span class="series-number">519</span> Wenn ich in einem bestimmten Fall sage: die Aufmerksamkeit besteht in der Bereitschaft, jeder kleinsten Bewegung, die sich zeigen mag, zu folgen, – so siehst du schon, daß die Aufmerksamkeit nicht das starre Hinschauen ist, sondern ein Begriff anderer Art.
+
+### [Ts-232,733\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">521.</span> <span class="series-number">520</span> Nicht den Aspektwechsel sieht man, sondern den Deutungswechsel.
+
+### [Ts-232,733\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/733.webp)
+
+<span class="series-number">522.</span> <span class="series-number">521</span> Du siehst es nicht einer Deutung, sondern einem Deuten gemäß.
+
+### [Ts-232,734\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">523.</span> <span class="series-number">522</span> Wen man fragte “Kannst du F als ein ef sehen?”, der würde uns nicht verstehen. Die Frage “Kannst du es als ein Spiegel-F sehen” aber würde er verstehen. Und auch die: “Und kannst du es jetzt wieder als ein gewöhnliches ef sehen?” Warum? “Kannst du es als … sehen?” oder “Sieh es jetzt als ein …” geht zusammen mit: “Faß es jetzt als ein … auf.” Nur wo dieser Befehl Sinn hat, hat jene Frage Sinn.
+
+### [Ts-232,734\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">524.</span> <span class="series-number">523</span> Denk, jemand sagte, auf ein gewöhnliches Druck-F zeigend, “Jetzt es ein ef” – Was heißt das? Hat es einen Sinn? Es hat einstweilen noch keinen. In wie fern ist es _**jetzt**_ dies? Etwa insofern es immer dies ist? Und im Gegensatz wozu? – Ich schaue auf eine Lampe und sage “Jetzt ist es eine Lampe” – was kann ich meinen?
+
+### [Ts-232,734\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">525.</span> <span class="series-number">524</span> Du brauchst eine neue Begriffsbrille.
+
+### [Ts-232,734\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">526.</span> <span class="series-number">525</span> Wer sagt “Jetzt ist es für mich ein Gesicht”, dem kann man fragen: “Auf welche Art der Verwandlung spielst du an?”
+
+### [Ts-232,734\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">527.</span> <span class="series-number">526</span> Der Ausruf “Ein Hase!” ist ja verwandt mit der _Meldung_ “ein Hase”.
+
+### [Ts-232,734\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">528.</span> <span class="series-number">527</span> Was ist denn die Äußerung des Staunens? Kann es eine stationäre Haltung sein? Kann also das Staunen ein Zustand der Ruhe sein?
+
+### [Ts-232,734\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp)
+
+<span class="series-number">529.</span> <span class="series-number">528</span> Denk dir, man fragte: “Warum ist das Erlebnis der Überraschung nicht festzuhalten?”
+
+### [Ts-232,734\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/734.webp),[735\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp)
+
+<span class="series-number">530.</span> <span class="series-number">529</span> “Das ef verschwindet und es ist ein Kreuz da; das Kreuz verschwindet und es ist ein Spiegel-F da; etc.” Das ist doch der Ausdruck der Änderung der Wahrnehmung.
+
+### [Ts-232,735\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp)
+
+<span class="series-number">531.</span> <span class="series-number">530</span> _Vergiß_, vergiß, daß du diese Erlebnisse selber hast!
+
+### [Ts-232,735\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp)
+
+<span class="series-number">532.</span> <span class="series-number">531</span> Es ist uns doch, als zeichnete unser Auge jedes Mal eine andere Figur in diese Striche (auf dem Papier).
+
+### [Ts-232,735\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp)
+
+<span class="series-number">533.</span> <span class="series-number">532</span> Verschiedene Bilder erscheinen mir. Aber _wie_ verschieden? Worin verschieden? Daß kann ich nur durch eine Genesis erklären.
+
+### [Ts-232,735\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp)
+
+<span class="series-number">534.</span> <span class="series-number">533</span> Ich sage etwas; und es ist richtig; – aber nun mißverstehe ich die Verwendung, der diese Aussage gehören würde.
+
+### [Ts-232,735\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp)
+
+<span class="series-number">535.</span> <span class="series-number">534</span> Wie spielt man denn das Spiel “Es könnte auch _das_ sein”? _Das_, was die Figur auch sein könnte – und das ist das, als was sie gesehen werden kann – ist nicht einfach eine andere Figur. Es hatte darum keinen Sinn, zu sagen: F könnte auch ein 🖵sein. Oder auch: – dies könnte ganz verschiedenerlei heißen. Jenes Spiel aber könnte man z.B. mit einem Kind spielen. Zusammen betrachten wir eine Figur; oder einen beliebigen Gegenstand (ein Möbelstück) – und nun heißt es: “das soll jetzt ein Haus sein” – und es wird nun von ihm berichtet und erzählt, und man stellt sich zu ihm, als wäre es ein Haus, und es wird ganz als dies ausgedeutet. Dann stellt das gleiche Ding etwas anderes vor, eine andere Erfindung wird darum gewoben.
+
+### [Ts-232,735\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/735.webp),[736\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">536.</span> <span class="series-number">535</span> Wie wirst du wissen, ob das Kind das Ding als _sieht_? nun, vielleicht wird es dies spontan sagen. Etwa sagen; “Ja, _jetzt_ sehe ich es als …”. Und in _dieser_ Situation, bei der lebhaften Teilnahme an der Erdichtung, wird es uns allerdings das Sehen des Aspekts bedeuten.
+
+### [Ts-232,736\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">537.</span> <span class="series-number">536</span> Ich will sagen: dieses Spiel ist mit dem des Sehens der Aspekte des F z.B. _verwandt_. Daß Einer mit den Dingen, gleichsam, Theater spielen kann, ist für uns eine Vorbedingung dessen, daß er mit den Worten “Jetzt sehe ich es als …” das meint, was wir meinen.
+
+### [Ts-232,736\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">538.</span> <span class="series-number">537</span> Wie lehrst du ein Kind etwa beim Rechnen: “Jetzt nimm diese Punkte zusammen!” oder “jetzt gehören _die_ zusammen”? Offenbar muß “zusammennehmen” und “zusammengehören” ursprünglich eine andere Bedeutung für ihn gehabt haben, als die, etwas so oder so _sehen_. – Und das war eine Bemerkung über Begriffe, nicht über Unterrichtsmethoden.
+
+### [Ts-232,736\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">539.</span> <span class="series-number">538</span> Man kann allerdings sagen “Sieh die Figur jetzt an für fünf Minuten als ein …”, denn dies heißt: Er halte, balanciere sie in diesem Aspekt.
+
+### [Ts-232,736\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">540.</span> <span class="series-number">539</span> Was verstehst du, wenn dir Einer sagt “Ich sehe es (nämlich das gewöhnliche F) als ein ef”? – Daß er es mit Aspekten zu tun hat; daß es ein labiler Zustand ist. Daß er denkt ‘es könnte auch das sein’.
+
+### [Ts-232,736\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">541.</span> <span class="series-number">540</span> Das Sehen der Aspekte ist auf anderen Spielen aufgebaut.
+
+### [Ts-232,736\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)
+
+<span class="series-number">542.</span> <span class="series-number">541</span> Man redet ja von einem Rechnen in der Vorstellung. Es ist also nicht Überraschendes, daß die Vorstellungskraft der Erkenntnis dienen kann.
+
+### [Ts-232,736\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp),[737\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/737.webp)
+
+<span class="series-number">543.</span> <span class="series-number">542</span> Ich will aber nicht sagen, daß der Aspekt eine Vorstellung ist. Aber daß ‘einen Aspekt sehen’ und ‘sich etwas vorstellen’ verwandte Begriffe sind.
+
+### [Ts-232,737\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/737.webp)
+
+<span class="series-number">544.</span> <span class="series-number">543</span> Vom Sehen des Aspekts möchte man fragen: “Ist es ein Sehen? ist es ein Denken?” Der Aspekt untersteht dem Willen: schon das macht ihn dem Denken verwandt.
+
+### [Ts-232,737\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/737.webp)
+
+<span class="series-number">545.</span> <span class="series-number">544</span> “Der Aspekt untersteht dem Willen”. Er ist nicht Erfahrungssatz. Es hat Sinn, zu sagen “Sieh diesen Kreis als Loch, nicht als Scheibe”; aber nicht “Sieh ihn als Viereck”, oder “Sieh ihn rot”.
+
+### [Ts-232,737\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/737.webp)
+
+<span class="series-number">546.</span> <span class="series-number">545</span> ((Zu № 699)). Sehe ich wirklich jedes Mal etwas anderes, oder deute ich nur, was ich sehe, auf verschiedene Weise? Ich bin geneigt, das erste zu sagen. Aber warum? – Deuten ist ein Denken, ein Handeln.
+
+### [Ts-232,737\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/737.webp)
+
+<span class="series-number">547.</span> <span class="series-number">546</span> Die Fälle, in welchen wir _deuten_, was wir sehen, sind leicht zu erkennen. Deuten wir, so machen wir eine Hypothese, die sich als falsch erweisen mag. “Ich sehe diese Figur als ein …” kann so wenig (oder nur in dem Sinne) verifiziert werden, wie die Aussage “Ich sehe ein leuchtendes Rot”. Hier besteht also eine Ähnlichkeit der Verwendungen des Wortes “sehen” in beiden Zusammenhängen.
+
+### [Ts-232,737\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/737.webp),[738\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/738.webp)
+
+<span class="series-number">548.</span> <span class="series-number">547</span> Denken wir, es fragte jemand; “Sehen wir Alle ein F auf die gleiche Weise?” Was könnte damit gemeint sein? – Wir könnten diesen Versuch machen: wir zeigen verschiedenen Leuten F und stellen die Frage “wohin schaut ein F, nach rechts, oder links”? Oder: “Wenn du ein F mit einem Gesicht im Profil vergleichst, wohin schaut das Gesicht?”
+
+Mancher aber würde vielleicht diese Frage nicht verstehen. Wie Mancher auch die Frage nicht versteht “Welche Farbe hat für dich der Vokal _a_?” – Wenn Einer sie nicht verstünde, wenn er erklärte, sie sei Unsinn, – könnten wir sagen, er verstehe nicht deutsch, oder nicht die Bedeutungen der Wörter “Farbe”, “Vokal”, etc.? Im Gegenteil: Wenn er diese Worte verstehen gelernt hat, dann kann er auch jene Fragen ‘mit Verständnis’ oder ‘ohne Verständnis’ reagieren.
+
+### [Ts-232,738\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/738.webp)
+
+<span class="series-number">549.</span> <span class="series-number">548</span> Denk, nicht die Frage wäre gestellt worden “In welcher Richtung schaut der Buchstabe …?” – Sondern die: “Wenn du Einem F oder J ein Auge oder eine Nase malen solltest, wohin würde es schauen?” Dies wäre doch auch eine psychologische Frage. Und in ihr ist von einem ‘so, oder anders _sehen_’ nicht die Rede. Statt dessen aber von einer _Neigung_, das eine oder andere zu tun. (Es ist aber zu bedenken wie er zu der Antwort auf diese Frage gelangt.) – Also ist es jenes Sehen mit einer Neigung verwandt. Die Neigung kann sie ändern, oder ganz fehlen.
+
+### [Ts-232,738\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/738.webp),[739\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/739.webp)
+
+<span class="series-number">550.</span> <span class="series-number">549</span> “Mit diese Verteilung der Fenster schaut die Fassade _dorthin_.” “Die Fenster waren früher so verteilt, daß die Fassade _dorthin_ sah.” Der erste Satz ist ähnlich einen geometrischen. Im zweiten dient der Begriff der ‘Richtung, in welcher sie schaut’ der Beschreibung der Fassade. So wie man ein Gesicht mittels der Begriffe ‘fröhlich’, ‘mürrisch’, ‘mißtrauisch’ beschreibt, oder eine Bewegung mit ‘furchtsam’, ‘zögernd’, ‘sicher’. Und insofern dies Beschreibungen des visuell Wahrgenommenen, des Beobachteten sind, sind es auch Beschreibungen des visuellen Eindrucks. Man kann also sagen: man _sähe_ das Zögern. (Wer ein Bild kopiert, dem kann man sagen “Das Gesicht ist noch nicht richtig, es ist nicht traurig genug”.)
+
+### [Ts-232,739\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/739.webp)
+
+<span class="series-number">551.</span> <span class="series-number">550</span> Wer einen Blick für Familienähnlichkeiten hat, kann erkennen, daß zwei Leute mit einander verwandt sind, auch ohne sagen zu können, worin die Ähnlichkeit besteht. (Denke an den Fall des Rechenkünstlers.)
+
+### [Ts-232,739\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/739.webp)
+
+<span class="series-number">552.</span> <span class="series-number">551</span> Es könnte sprachunrichtig sein, zu sagen “Ich sehe Furcht in diesem Gesicht”. Es wurde uns gelehrt: ein furchtsames Gesicht könne man ‘_sehen_’; die Furcht in ihm, die Ähnlichkeit, oder Verschiedenheit zweier Gesichter ‘_bemerke_’ man.
+
+### [Ts-232,739\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/739.webp)
+
+<span class="series-number">553.</span> <span class="series-number">552</span> Die Verwandtschaft der beiden Begriffe zeigt sich ja in dieser Erklärung; um ihre Verschiedenheit zu erkennen, bedenke man, welchen Sinn es haben könnte zu sagen, Einer habe die Ähnlichkeit zweier Gesichter von diesem Glockenschlage bis zum nächsten gesehen, oder denk an den Befehl: “Bemerke die Ähnlichkeit von … bis …!”
+
+### [Ts-232,739\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/739.webp)
+
+<span class="series-number">554.</span> <span class="series-number">553</span> Die Beschreibung des Gesichtseindrucks kann eine Zeichnung sein. Was in der Zeichnung oben, was unten ist, ist meistens von der größten Wichtigkeit. Es könnte aber auch festgesetzt werden in welcher Entfernung vom Auge wir sie halten sollten. Ja auch, auf welchem Punkt die Zeichnung wir zu blicken haben, oder wie unser Blick auf ihr zu wandern habe.
+
+### [Ts-232,739\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/739.webp),[740\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/740.webp)
+
+<span class="series-number">555.</span> <span class="series-number">554</span> Ich fange an, die Ähnlichkeit zu sehen, wenn sie mir ‘auffällt’; und sehe sie dann, solange ich die ähnlichen Gegenstände sehe? Oder nur solange ich mir der Ähnlichkeit _bewußt_ bin? – Fällt mir die Ähnlichkeit auf, so nehme ich etwas wahr; ich brauche mir ihrer aber nicht bewußt zu bleiben, um wahrzunehmen, daß sie sich nicht ändert.
+
+### [Ts-232,740\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/740.webp)
+
+<span class="series-number">556.</span> <span class="series-number">555</span> Zwei Verwendungen des Berichtes “ich sehe …”. Ein Sprachspiel: “Was siehst du dort?” – “Ich sehe … und es folgt eine Beschreibung des Gesehenen mit Worten, durch eine Zeichnung, ein Modell, Gebärden, etc. – Ein anderes Sprachspiel: Wir betrachten zwei Gesichter, und ich sage zum Andern: “ich sehe eine Ähnlichkeit in ihnen.”. Im ersten Sprachspiel hätte die Beschreibung z.B. lauten können: “Ich sehe zwei Gesichter, die einander ähnlich sind wie Vater und Sohn.” – Man kann dies eine weit unvollständigere Beschreibung nennen als die durch eine Zeichnung es wäre. Aber Einer könnte diese vollständigere Beschreibung geben und doch jene Ähnlichkeit nicht bemerken. Ein Anderer könnte die Zeichnung des Ersten sehen und die Familienähnlichkeit in ihr entdecken; und in gleicher Weise auch eine Ähnlichkeit des Gesichtsausdrucks.
+
+### [Ts-232,740\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/740.webp)
+
+<span class="series-number">557.</span> <span class="series-number">556</span> “Als ich das Wort jetzt aussprach, bedeutet es für mich …”. Warum sollte das nicht einfach Wahnsinn sein? weil _ich_ das erlebte? Das ist kein Grund.
+
+### [Ts-232,740\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/740.webp)
+
+<span class="series-number">558.</span> <span class="series-number">557</span> Es sind ganz _besondere_ Fälle: in denen das Innere mir verborgen erscheint. Und die Unsicherheit, die sich so ausdrückt, ist nicht eine philosophische, sondern eine praktische und primitive.
+
+### [Ts-232,740\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/740.webp)
+
+<span class="series-number">559.</span> <span class="series-number">558</span> Es ist dann, als ob ich mir erst bewußt würde, daß das Innere eigentlich immer verborgen ist.
+
+### [Ts-232,740\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/740.webp),[741\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/741.webp)
+
+<span class="series-number">560.</span> <span class="series-number">559</span> (Man sagt auch: Der Mensch ist mir vollkommen durchsichtig.) So ist mir also ein Mensch manchmal durchsichtig, manchmal undurchsichtig.
+
+### [Ts-232,741\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/741.webp)
+
+<span class="series-number">561.</span> <span class="series-number">560</span> “Ich kann nie wissen, was in ihm vorgeht.” – Aber muß denn etwas in ihm vorgehen? Und warum soll ich mich darum kümmern? – Es ist aber eine wirkliche, nicht erträumte Unsicherheit, welche uns dieses Bild nahelegt.
+
+### [Ts-232,741\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/741.webp)
+
+<span class="series-number">562.</span> <span class="series-number">561</span> Was ist die Wichtigkeit davon, daß Einer das und das Geständnis macht? muß er denn seinen Zustand richtig beurteilen können? – Es kommt eben nicht auf einen inneren Zustand an, den er beurteilt sondern gerade auf sein Geständnis. (Sein Geständnis kann Gewisses erklären. Es kann z.B. meinen Verdacht von einem Andern abziehen.)
+
+### [Ts-232,741\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/741.webp)
+
+<span class="series-number">563.</span> <span class="series-number">562</span> Die prinzipielle Unsicherheit: Ich weiß nicht, was er denkt, wenn er es nicht ausdrückt. Aber stell dir vor, er drückte es wohl aus, aber in einer Sprache, die du nicht verstehst. Er könnte es mit dem Finger einer Hand auf den Handrücken der andern klopfen, in Morsezeichen oder ähnlichem. Dann ist es doch auch geheim, und nicht _ebenso_ sehr als wäre es mir ausgedrückt werden? Die Sprache könnte ja auch von einer Art sein, wie ich sie nie lernen könnte, z.B. mit einer außerordentlichen Regelmäßigkeit.
+
+### [Ts-232,741\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/741.webp)
+
+<span class="series-number">564.</span> <span class="series-number">563</span> Es kann Einer also seine lauten Gedanken vor mir verbergen, indem er sie in einer mir fremden Sprache ausspricht. Wo ist aber hier das verborgene Seelische?
+
+### [Ts-232,741\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/741.webp)
+
+<span class="series-number">565.</span> <span class="series-number">564</span> Ich kann die Sprache wählen, in welcher ich denke. Nicht aber als dächte ich, und wählte die Sprache, in welcher ich meine wortlosen Gedanken übertragen will.
+
+### [Ts-232,742\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/742.webp)
+
+<span class="series-number">566.</span> <span class="series-number">565</span> Du kannst der Empfindung des Andern so _sicher_ sein, wie _irgend_ eines Faktums. Damit sind aber die Sätze “Er ist beglückt” und” 2 × 2 = 4 nicht zu ähnlichen Instrumenten geworden. Zu sagen “Die Sicherheit ist eine andere” liegt nahe, behebt aber die Unklarheit nicht.
+
+### [Ts-232,742\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/742.webp)
+
+<span class="series-number">567.</span> <span class="series-number">566</span> “Aber schließt du eben nicht einfach vor dem Zweifel die Augen, wenn du _sicher_ bist?” – Sie sind mir geschlossen. Es ist wohl wahr: Jener Zweifel wird auf einem ganz anderen Weg erreicht, als der an einem arithmetischen Satz. Vor allem ist da die völlige Gewißheit der Grenzfall eines nach Graden verschiedenen _Glaubens_. – Und es ist eben _alles_ anders.
+
+### [Ts-232,742\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/742.webp)
+
+<span class="series-number">568.</span> <span class="series-number">567</span> Und nun – möchte ich sagen – gibt es hier allerdings den Fall des hoffnungslosen Zweifels. Wenn ich sage: “Ich habe keine Ahnung, was er wirklich denkt –”. Er ist mir ein verschlossenes Buch. Wenn das einzige Mittel, den Andern zu verstehen, wäre, die gleiche Erziehung wie er durchzumachen, – was unmöglich ist. Und hier ist keine Verstellung. Denk dir aber Leute, deren Erziehung dahingeht, den Ausdruck der Gemütsbewegung im Gesicht und in den Gebärden zu unterdrücken, und diese Leute machen sich mir unzugänglich indem sie laut denken in einer mir unverständlichen Sprache. Nun sage ich “Ich habe keine Ahnung von dem, was in ihnen vorgeht”, und doch liegt es als äußere Tatsache vor.
+
+### [Ts-232,742\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/742.webp)
+
+<span class="series-number">569.</span> <span class="series-number">568</span> “Ich kann nicht wissen, was in ihm vorgeht” ist vor allem ein _Bild_. Es ist der überzeugende Ausdruck der Überzeugung. Es gibt nicht die Gründe der Überzeugung an. Diese sind nicht etwas, was man unmittelbar _sieht_.
+
+### [Ts-232,743\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/743.webp)
+
+<span class="series-number">570.</span> <span class="series-number">569</span> “Man _sieht_ Gemütsbewegung.” – Im Gegensatz wozu? – Man sieht nicht die Gesichtsveränderungen und _schließt_ nun, er fühle Freude, Trauer, Langeweile. Man beschreibt sein Gesicht unmittelbar als traurig, glückstrahlend, gelangweilt, auch wenn man nicht im Stande ist, sonst irgend eine Beschreibung der Gesichtszüge zu geben. – Die Trauer ist im Gesicht personifiziert, möchte man sagen. Dies ist dem, was wir “Gemütsbewegung” nennen, wesentlich.
+
+### [Ts-232,743\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/743.webp)
+
+<span class="series-number">571.</span> <span class="series-number">570</span> Der, denn ich bedeutungsblind nenne, wird wohl den Auftrag verstehen: “Sag ihm, er solle zur Bank gehen, und ich meine die Gartenbank”, aber nicht: “Sag das Wort Bank und meine damit Gartenbank”. Er wird auch nicht melden können: es sei ihm beinahe gelungen, das Wort sei aber in die falsche Bedeutung ausgerutscht. Es kommt ihm auch nicht vor, als habe das Wort etwas in sich, was förmlich wie eine Schreibweise die Bedeutung fixiert; und auch nicht, daß die Schreibweise gleichsam ein Bild der Bedeutung sei. – Man ist z.B. stark versucht, zu meinen, daß der andern Schreibweise doch ein geringer Unterschied der Aussprache entspricht, auch wo es gewiß so ist. Es ist hier der für viele andere als Beispiel dienende Fall: daß man sich die beiden Wörter (z.B. “Für” und “führ”) vorspricht und sie wirklich etwas verschieden ausspricht, obwohl man es natürlich im Fluß der Rede, wenn man nichts solches denkt, nicht tut; schon darum, weil man dann jedes der beiden Wörter bei verschiedenen Anlässen ungleich ausspricht.
+
+### [Ts-232,744\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/744.webp)
+
+<span class="series-number">572.</span> <span class="series-number">571</span> Verschiedene Menschen empfinden es sehr verschieden stark, wenn die Rechtschreibung eines Worts geändert wird. Und die Empfindung ist nicht nur Pietät für einen alten Gebrauch. Wem die Orthographie nur eine praktische Frage ist, dem geht ein Gefühl ab, ähnlich wie das, welches dem “Bedeutungsblinden” mangeln würde.
+
+### [Ts-232,744\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/744.webp)
+
+<span class="series-number">573.</span> <span class="series-number">572</span> Wie konnte er das Wort in der Bedeutung hören? Wie war es möglich?! – Gar nicht – in _diesen_ Dimensionen.
+
+### [Ts-232,744\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/744.webp)
+
+<span class="series-number">574.</span> <span class="series-number">573</span> Aber ist es also nicht wahr, daß das Wort für mich jetzt das bedeutet? Warum nicht? Es kommt ja dieser Sinn mit der übrigen Verwendung des Wortes nicht in Konflikt. Es sagt Einer: “Gib ihm den Befehl … und _meine_ damit …!” Was kann das heißen? Aber warum gebrauchst du für dein Erlebnis gerade diesen Ausdruck? einen schlecht sitzenden Anzug! – Das ist der Ausdruck des Erlebnisses, wie “Der Vokal _e_ ist gelb” und “Ich wußte im Traume, daß … Ausdrücke anderer Erlebnisse. Ein schlecht sitzender Anzug ist es nur, wenn du ihn falsch auffaßt. Dieser Ausdruck gehört zum Erlebnisse ebenso, wie die primitive Schmerzäußerung zum Schmerz.
+
+### [Ts-232,744\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/744.webp)
+
+<span class="series-number">575.</span> <span class="series-number">574</span> W. James: der Gedanke sei schon am Anfang des Satzes fertig. Wie kann man das wissen? – Aber die _Absicht_, ihn auszusprechen, kann schon geschehen, ehe das erste Wort gesagt ist. Denn fragt man Einen “weißt du, was du sagen willst?” so wird er es oft bejahen. Ich habe die Absicht, dieses Thema zu pfeifen: habe ich es damit in irgendeinem Sinne, etwa im Gedanken, schon gepfiffen?
+
+### [Ts-232,745\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">576.</span> <span class="series-number">575</span> Wer die Frage bejaht “Weißt du schon, was du sagen willst?” Dem wird vielleicht irgend etwas vorschweben; aber wäre dies auch etwas objektiv hörbares oder sichtbares, so könnte man doch meistens das Beabsichtigte nicht mit Sicherheit daraus entnehmen. (Aufzeigen.)
+
+### [Ts-232,745\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">577.</span> <span class="series-number">576</span> Nicht Jeder, der eine Absicht hat, hat darum einen _Plan_ gemacht.
+
+### [Ts-232,745\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">578.</span> <span class="series-number">577</span> Welche Formen geistiger Defekte wirklich existieren, kümmert _uns_ nicht; aber wohl die Möglichkeiten solcher Formen. Nicht, ob es Menschen gibt, die nicht des Gedankens “ich wollte damals …” fähig sind, wohl aber: wie dieser Begriff sich durchführen läßt.
+
+### [Ts-232,745\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">579.</span> <span class="series-number">578</span> Wie ließe sich diese Annahme konsequent durchführen? Was würden wir eine konsequente Durchführung nennen? – Wenn du annimmst daß Einer _das_ nicht kann, wie ist es dann mit _dem_? kann er es auch nicht? – Wohin führt uns dieser Begriff?
+
+### [Ts-232,745\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">580.</span> <span class="series-number">579</span> “Du mußt es dir ernstlich versprechen, dann wirst du's auch tun.” Zum ernstlichen Versprechen gehört z.B., daß man über die Sache nachdenkt, es gehört eine bestimmte Vorbereitung dazu. Am Schluß erfolgt dann vielleicht wirklich ein förmliches Versprechen, vielleicht auch mit lauter Stimme, aber das ist nur _ein_ Stein dieses Gebäudes. (Gelübde.)
+
+### [Ts-232,745\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">581.</span> <span class="series-number">580</span> Das Gelübde könnte man eine Zeremonie nennen. (Taufe, auch wenn sie kein christliches Sakrament ist.) Und eine Zeremonie hat eine eigene Wichtigkeit.
+
+### [Ts-232,745\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/745.webp)
+
+<span class="series-number">582.</span> <span class="series-number">581</span> “Ich hatte die Absicht …” drückt nicht die Erinnerung an ein Erlebnis aus. (So wenig wie “Ich war im Begriffe …”)
+
+### [Ts-232,746\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/746.webp)
+
+<span class="series-number">583.</span> <span class="series-number">582</span> “Welcher seltsame und furchtbare Laut. Ich werde ihn nie vergessen.” Und warum sollte man das nicht vom Erinnern sagen können (“Welche seltsame … Erfahrung …”), wenn man zum ersten Mal in die Vergangenheit gesehen hat? –
+
+### [Ts-232,746\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/746.webp)
+
+<span class="series-number">584.</span> <span class="series-number">583</span> Könnte er sich nur einbilden, dies gerechnet zu haben? (Damit soll nicht im Widerspruch sein, daß er jetzt das Resultat der Rechnung weiß. Und er könnte sich ja auch verrechnet haben.) Und _gibt_ es hier keinen Irrtum, dann nicht darum, weil Gewißheit besteht.
+
+### [Ts-232,746\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/746.webp)
+
+<span class="series-number">585.</span> <span class="series-number">584</span> Es sagt mir Einer, er habe gerade im Kopfe gerechnet, wieviel … × … sei. Er gibt ein offenbar falsches Resultat, und auf die Frage, wie er es erhalten habe, sagt er die Rechnung her; sie ist völliger Unsinn, wie er auch jetzt einsieht, kam ihm aber damals, sagt er, ganz richtig vor. (Im Traum geschieht ähnliches.) Kann das nicht vorkommen? Seine Kopfrechnung, _will ich sagen,_ muß sich doch erst bewähren.
+
+### [Ts-232,746\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/746.webp)
+
+<span class="series-number">586.</span> <span class="series-number">585</span> ‘Er versteckt etwas vor mir, kann es so verstecken, daß ich's nicht nur nie finden werde, sondern das Finden gar nicht denkbar ist.’ Das wäre ein metaphysisches Verstecken. – Aber wie, wenn er ohne es zu wissen, Zeichen gäbe, die ihn verrieten? Das wäre doch möglich. – Aber ob ihn jene Zeichen verraten habe, – kann nicht nur _er_ das entscheiden? – Aber könnte ich nicht darauf bestehen, er habe vergessen, was in ihm vorgegangen ist – seine Aussage nicht gelten lassen? (Ohne sie für eine Lüge zu erklären.) Das heißt also: sie für wertlos erklären; oder ihr einen Wert nur als ein Phänomen zuzugestehen, woraus etwa Schlüsse auf _seinen_ Zustand gezogen werden können.
+
+### [Ts-232,747\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp)
+
+<span class="series-number">587.</span> <span class="series-number">586</span> Wenn etwas versteckt ist, – ist es nicht, als wäre eine Schrift versteckt, oder vielmehr etwas, was einer Schrift ähnlich sieht; dessen Bedeutung nur darin liegt, was er einmal herauslesen, oder hineinlesen wird?
+
+### [Ts-232,747\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp)
+
+<span class="series-number">588.</span> <span class="series-number">587</span> Er kann mich natürlich _irreführen_, zu falschen Schlüssen bringen. Aber daraus folgt es nicht, daß er etwas versteckt hat; obgleich sich seine Handlungsweise mit einem Verstecken vergleichen läßt.
+
+### [Ts-232,747\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp)
+
+<span class="series-number">589.</span> <span class="series-number">588</span> Bin ich etwa nicht _mit Recht_ überzeugt, daß er sich gegen mich nicht verstellt? – Und kann ich also einen Andern nicht von meinem Recht überzeugen?
+
+### [Ts-232,747\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp)
+
+<span class="series-number">590.</span> <span class="series-number">589</span> Erzähle ich ihm, wie sich mein Freund benommen hat, im großen und kleinen, – wird er vernünftiger Weise an der Echtheit der Gefühle meines Freundes zweifeln? Zweifelt Einer an der Echtheit der Gefühle Lears?
+
+### [Ts-232,747\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp)
+
+<span class="series-number">591.</span> <span class="series-number">590</span> Ist es Gedankenlosigkeit, nicht doch die _Möglichkeit_ der Verstellung im Auge zu behalten?
+
+### [Ts-232,747\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp)
+
+<span class="series-number">592.</span> <span class="series-number">591</span> Erinnern: ein Sehen in die Vergangenheit. _Träumen_ könnte man so nennen, wenn es uns Vergangenes vorführt. Nicht aber Erinnern.; denn auch wenn es uns Szenen mit halluzinatorischer Klarheit zeigte, so lehrt es uns doch erst, daß dies das Vergangene sei.
+
+### [Ts-232,747\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/747.webp),[748\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">593.</span> <span class="series-number">592</span> Aber wenn uns nun das Gedächtnis die Vergangenheit zeigt, wie zeigt es uns, daß es die Vergangenheit ist? Es zeigt uns eben _nicht_ die Vergangenheit. So wenig, wie unsere Sinne die Gegenwart.
+
+### [Ts-232,748\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">594.</span> <span class="series-number">593</span> Man kann auch nicht sagen, sie teile uns die Vergangenheit mit. Denn selbst, wäre das Gedächtnis eine hörbare Stimme, die zu uns spräche, – wie könnten wir sie verstehen? Sagt sie uns z.B. “Gestern war schönes Wetter”, wie kann ich lernen, was “gestern” bedeutet?
+
+### [Ts-232,748\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">595.</span> <span class="series-number">594</span> Ich führe mir selbst nur _so_ etwas vor, wie ich es auch den Andern vorführe.
+
+### [Ts-232,748\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">596.</span> <span class="series-number">595</span> Ich kann dem Andern mein gutes Gedächtnis vorführen, und auch mir selbst vorführen. Ich kann mich selbst ausfragen. Vokabeln, Daten.
+
+### [Ts-232,748\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">597.</span> <span class="series-number">596</span> Aber wie führe ich mir das Erinnern vor? Nun, ich frage mich “Wie verbrachte ich den heutigen Morgen?” Und antworte mir darauf. – Aber was habe ich mir nun eigentlich vorgeführt? War es das Erinnern? nämlich, wie das ist, sich an etwas erinnern? Hätte ich denn damit einen _Andern_ das Erinnern vorgeführt?
+
+### [Ts-232,748\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">598.</span> <span class="series-number">597</span> “Sich etwas vornehmen ist ein besonderer innerer Vorgang.” – Aber was für ein Vorgang – auch wenn du ihn erdichten dürftest – könnte denn das leisten, was wir vom Vorsatz fordern.
+
+### [Ts-232,748\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">599.</span> <span class="series-number">598</span> Denk dir Menschen, die nur dann Mitgefühl zeigen, wenn sie den andern bluten sehen; sonst lachen sie über seine Schmerzäußerungen. So ist es bei ihnen. Manche nun beschmieren sich mit Tierblut, um bemitleidet zu werden. Kommt man ihnen darauf, so werden sie schwer bestraft.
+
+### [Ts-232,748\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">600.</span> <span class="series-number">599</span> Die Frage “Könnte er aber nicht dennoch Schmerzen haben?” stellen sie nicht:
+
+### [Ts-232,748\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/748.webp)
+
+<span class="series-number">601.</span> <span class="series-number">600</span> Diese Leute dürfen gewisse Skrupel nicht haben.
+
+### [Ts-232,749\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/749.webp)
+
+<span class="series-number">602.</span> <span class="series-number">601</span> Kümmere ich mich um sein Inneres, wenn ich ihm _traue_? Wenn ich's nicht tue, sage ich “ich weiß nicht, was in ihm vorgeht.”; vertraue ich ihm aber, so nicht: ich wisse, was in ihm vorgeht
+
+### [Ts-232,749\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/749.webp)
+
+<span class="series-number">603.</span> <span class="series-number">602</span> Mißtraue ich ihm nicht, so kümmere ich mich nicht um das, was in ihm vorgeht. (Worte und ihre Bedeutung. Die Bedeutung der Worte, was hinter ihnen steht, bekümmert mich im normalen sprachlichen Verkehr nicht. Sie fließen dahin und es werden die Übergänge gemacht von Worten zu Handlungen und von Handlungen zu Worten. Niemand denkt, wenn er rechnet, daran, ob er ‘gedankenvoll’ oder ‘papageihaft’ rechne. (Frage.)).
+
+### [Ts-232,749\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/749.webp),[750\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/750.webp)
+
+<span class="series-number">604.</span> <span class="series-number">603</span> Es mag Menschen geben, die viel mit sich selbst sprechen, ehe und während sie handeln, und solche, die nur sehr wenig zu sich selbst sagen, die gleichsam auch mit sich selbst sehr schweigsam sind. Wenn man ihn fragt “Was hast du gedacht, als du das tatest?” gesteht er vielleicht ganz ehrlich “Gar nichts”, obgleich seine Handlung uns wohlüberlegt, ja vielleicht listig scheint. Ich sage, ich wisse nicht, was in ihm vorgeht, und es geht in einem wichtigen Sinne nichts in ihm vor. Ich kenne mich bei ihm nicht aus: Ich mache z.B. leicht falsche Vermutungen und werde von Zeit zu Zeit hart in meinen Erwartungen getäuscht. Ich könnte mir von diesem Menschen ein Bild machen, indem ich mir vorstellte, er spreche zu allen seinen Handlungen Monologe, die seine Gesinnung zum Ausdruck brächten. Die Monologe wären eine Konstruktion, eine Arbeitshypothese, mittels derer ich mir seine Handlungen verständlich zu machen suche. Muß ich nun annehmen, daß in ihm _außer_ jenen Monologen noch ein Denken vor sich geht? Sind die Monologe nicht ganz genug? Können sie nicht Alles leisten, was das Innenleben leisten soll?
+
+### [Ts-232,750\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/750.webp)
+
+<span class="series-number">605.</span> <span class="series-number">604</span> Man kann sich leicht Ereignisse vorstellen und in alle Einzelheiten ausmalen, die wenn wir sie eintreten sähen, uns an allem Urteilen irre werden ließen. Sähe ich vor meinen Fenstern statt der altgewohnten eine ganz neue Umgebung, benähmen sich die Dinge darin, wie sie sich nie benommen haben, so würde ich etwa die Worte äußern “ich bin wahnsinnig geworden”; aber das wäre nur ein Ausdruck dafür, daß ich es aufgebe, mich auszukennen. Und das Gleiche könnte mir auch in der Mathematik zustoßen. Es könnte mir _z.B. scheinen_, als machte ich immer wieder Rechenfehler, so daß keine Lösung mir verläßlich erschiene. Das Wichtige aber für mich daran ist, daß es zwischen einem solchen Zustand und dem normalen keine scharfe Grenze gibt.
+
+### [Ts-232,750\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/750.webp)
+
+<span class="series-number">606.</span> <span class="series-number">605</span> Worin liegt die Wichtigkeit des genauen Ausmalens von Anomalien? Kann man es nicht, so zeigt das, daß man sich in den Begriffen noch nicht auskennt.
+
+### [Ts-232,750\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/750.webp)
+
+<span class="series-number">607.</span> <span class="series-number">606</span> Es gibt wohl dies: sich Menschenkenntnis zu erwerben; man kann Einem auch dabei helfen, also quasi einen Unterricht erteilen, aber man deutet nur auf Fälle, weist auf gewisse Züge hin, gibt nicht feste Regeln.
+
+### [Ts-232,750\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/750.webp),[751\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/751.webp)
+
+<span class="series-number">608.</span> <span class="series-number">607</span> Ich kann vielleicht sagen “Laß mich mit diesem Menschen reden, die und die Zeit mit ihm verbringen und ich werde wissen, ob ihm zu trauen ist.” und später: “Ich habe den Eindruck …” Aber hier handelt sich's um eine Prognose. Die Zukunft mag lehren, ob mein Eindruck richtig war. Menschenkenntnis kann uns davon überzeugen, daß dieser Mensch wirklich fühlt, was er zu fühlen vorgibt; aber überzeugt _sie_ uns davon, daß andere Menschen etwas fühlen?
+
+### [Ts-232,751\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/751.webp)
+
+<span class="series-number">609.</span> <span class="series-number">608</span> “So _kann_ man sich nicht vorstellen.” – Und das kann eine Erfahrung sein, – daß nämlich niemand, der sich _so_ benimmt, sich später so und so benehmen werde; aber auch eine begriffliche Feststellung; und die beiden können zusammen hängen. (Denn man hätte nicht gesagt, die Planeten _müssen_ sich in Kreisen bewegen, wenn es nie geschienen hätte, _daß_ sie sich in Kreisen bewegen.)
+
+### [Ts-232,751\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/751.webp)
+
+<span class="series-number">610.</span> <span class="series-number">609</span> Ich kann beim Unterricht auf Einen zeigen und sagen “Siehst du, _der_ verstellt sich nicht”. Und der Schüler kann daraus lernen. Aber wenn er mich fragte “Woraus wird es eigentlich erkannt?” – so wüßte ich nichts anderes zu antworten, als etwa: “Schau, wie er daliegt, schau auf seine Züge” und dergleichen.
+
+### [Ts-232,751\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/751.webp)
+
+<span class="series-number">611.</span> <span class="series-number">610</span> Könnte das nun bei andern Wesen anders sein? – Wenn sie z.B. alle die selbe Gestalt und die selben Gesichtszüge hätten, wäre schon _vieles_ anders.
+
+### [Ts-232,751\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/751.webp)
+
+<span class="series-number">612.</span> <span class="series-number">611</span> Und Verstellung ist natürlich nur ein besonderer Fall davon, daß Einer eine Schmerzäußerung von sich gibt, und nicht Schmerzen hat. Wenn dies überhaupt möglich ist, warum sollte denn dabei immer Vorstellung statthaben, – dieser sehr spezielle psychologische Vorgang? (Und mit einem “psychologischen” meine ich nicht einen “innern”.)
+
+### [Ts-232,752\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/752.webp)
+
+<span class="series-number">613.</span> <span class="series-number">612</span> Ja, es könnte ein Fall eintreten, in welchem wir sagen würden: “Er _glaubt_ sich zu verstellen.” (Pilgrim's Progress: Er _glaubt_, die Flüche zu äußern, die der Böse äußert.)
+
+### [Ts-232,752\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/752.webp)
+
+<span class="series-number">614.</span> <span class="series-number">613</span> Die zureichende Evidenz geht ohne eine Grenze in die unzureichende über. Eine natürliche Grundlage dieser Begriffsbildung ist das komplizierte Wesen und die Mannigfaltigkeit der menschlichen Fälle. So müßte also bei einer geringeren Mannigfaltigkeit eine scharf begrenzte Begriffsbildung natürlich erscheinen. Warum aber scheint es so schwer, sich den vereinfachten Fall vorzustellen? Ist es so, als wollte man sich einen Gesichtsausdruck vorstellen, der nicht allmählicher zarter Veränderungen fähig wäre, sondern, sagen wir, nur fünf Stellungen hätte; bei einer Veränderung ginge die eine mit einem Ruck in die andere über. Wäre nur dies starre Lächeln wirklich ein Lächeln? Und warum nicht? – Ich könnte mich vielleicht nicht so dazu verhalten wie zu einem Lächeln, Es wurde mich etwa nicht selber zum Lächeln bringen.
+
+### [Ts-232,752\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/752.webp)
+
+<span class="series-number">615.</span> <span class="series-number">614</span> Ein vollkommen starrer Gesichtsausdruck könnte kein freundlicher sein. Zum freundlichen Ausdruck gehört die Veränderlichkeit und die Unregelmäßigkeit. Die Unregelmäßigkeit gehört zur Physiognomie.
+
+### [Ts-232,752\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/752.webp)
+
+<span class="series-number">616.</span> <span class="series-number">615</span> Die Wichtigkeit für uns der feinen Abschattungen des Benehmens.
+
+### [Ts-232,753\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">617.</span> <span class="series-number">616</span> Zu meinem Begriff gehört hier mein Verhältnis zur Erscheinung.
+
+### [Ts-232,753\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">618.</span> <span class="series-number">617</span> Denk dir _dies_ Argument: Schmerzen haben doch einen Grad. Nun wird aber niemand behaupten, ich wisse je den genauen Grad der Schmerzen des Andern; also könnten sie auch den Grad 0 haben. Aber kennt denn er den ‘genauen Grad’ seiner Schmerzen? Und was heißt es: ihn kennen?
+
+### [Ts-232,753\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">619.</span> <span class="series-number">618</span> “Nun, weiß er denn nicht, wie stark seine Schmerzen sind?” Er hat darüber keinen Zweifel.
+
+### [Ts-232,753\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">620.</span> <span class="series-number">619</span> Aber ich weiß doch z.B. nicht, daß sein Schmerz jetzt ein klein wenig abgenommen hat. – Doch, ich weiß es, wenn er mir's sagt. Was er sagt, ist ja auch eine Äußerung.
+
+### [Ts-232,753\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">621.</span> <span class="series-number">620</span> Die Unsicherheit hat ihren Grund nicht darin, daß er seine Schmerzen nicht außen am Rock trägt. Und es ist auch gar keine Unsicherheit _im besondern Fall_. Wenn die Grenze zwischen zwei Ländern strittig wäre, würde daraus folgen, daß die Landesangehörigkeit jedes einzelnen Bewohners fraglich wäre?
+
+### [Ts-232,753\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">622.</span> <span class="series-number">621</span> ‘Sandhaufen’ ist ein unscharf begrenzter Begriff – – – aber warum verwendet man statt seiner nicht einen scharf begrenzten? Liegt der Grund in der Natur der Haufen? Welches Phänomens Natur bestimmt unsern Begriff?
+
+### [Ts-232,753\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp)
+
+<span class="series-number">623.</span> <span class="series-number">622</span> “Ein Hund ist einem Menschen ähnlicher, als ihm ein Wesen von menschlicher Gestalt wäre, das sich ‘mechanisch’ benähme.” Nach einfachen Regeln benähme?
+
+### [Ts-232,753\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/753.webp),[754\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp)
+
+<span class="series-number">624.</span> <span class="series-number">623</span> Wir beurteilen eine Handlung nach ihrem Hintergrund im menschlichen Leben, und dieser Hintergrund ist nicht einfärbig, sondern wir könnten ihn uns als ein sehr kompliziertes filigranes Muster vorstellen, das wir zwar nicht nachzeichnen könnten, aber nach seinem allgemeinen Eindruck wiedererkennen.
+
+### [Ts-232,754\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp)
+
+<span class="series-number">625.</span> <span class="series-number">624</span> Der Hintergrund ist das Getriebe des Lebens. Und unser Begriff bezeichnet etwas in _diesem_ Getriebe
+
+### [Ts-232,754\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp)
+
+<span class="series-number">626.</span> <span class="series-number">625</span> Und schon der Begriff ‘Getriebe’ bedingt die Unbestimmtheit. Denn nur durch ständige Wiederholung ergibt sich ein Getriebe. Und für ‘ständige Wiederholung’ gibt es keinen bestimmten Anfang.
+
+### [Ts-232,754\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp)
+
+<span class="series-number">627.</span> <span class="series-number">626</span> Die Variabilität selbst ist ein Charakter des Benehmens, der ihm nicht fehlen kann, ohne es für uns zu etwas ganz anderem zu machen. (Die charakteristischen Gesichtszüge der Trauer, z.B. sind nicht bedeutsamer als es ihre Beweglichkeit ist.)
+
+### [Ts-232,754\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp)
+
+<span class="series-number">628.</span> <span class="series-number">627</span> Es ist dort unnatürlich, eine Begriffsgrenze zu ziehen, wo für sie nicht eine besondere Rechtfertigung besteht, wo Ähnlichkeiten uns über die willkürlich gezogene Linie immer hinüberzögen.
+
+### [Ts-232,754\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp)
+
+<span class="series-number">629.</span> <span class="series-number">628</span> Wie könnte man die menschliche Handlungsweise betreiben? Doch nur, indem man die Handlungen der verschiedenen Menschen, wie sie durcheinanderwimmeln, zeigte. Nicht, was _Einer jetzt_ tut, sondern das ganze Gewimmel ist der Hintergrund, worauf wir eine Handlung sehen, und bestimmt unser Urteil, unsere Begriffe und Reaktionen.
+
+### [Ts-232,754\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/754.webp),[755\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/755.webp)
+
+<span class="series-number">630.</span> <span class="series-number">629</span> Wie könntest du erklären, was es heißt “Schmerzen heucheln”, “sich stellen, als habe man Schmerzen”. (Natürlich fragt er sich: _Wem_?) _Sollst du's vormachen_? Und warum ließe sich so eine Demonstration so leicht mißverstehen? Man möchte sagen: “Lebe einige Zeit unter uns und du wirst es verstehen lernen.”
+
+### [Ts-232,755\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/755.webp)
+
+<span class="series-number">631.</span> <span class="series-number">630</span> Man könnte ihn doch einfach lehren, den Schmerz (z.B.) zu mimen (nicht in der Absicht zu betrügen). Aber wäre es jedem beizubringen? Ich meine: Er könnte ja wohl erlernen, gewisse rohe Schmerzzeichen von sich zu geben, ohne aber je aus eigenem, aus seiner eigenen Einsicht eine feinere Nachahmung zu geben, (Sprachtalent.) (Man könnte vielleicht sogar einen gescheiten Hund eine Art Schmerzgeheul lehren; aber es käme doch nie seinerseits zu einer bewußten Nachahmung.)
+
+### [Ts-232,755\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/755.webp)
+
+<span class="series-number">632.</span> <span class="series-number">631</span> Ich will eigentlich sagen, daß die gedanklichen Skrupel im Instinkt anfangen (ihre Wurzeln haben). Oder auch so: das Sprachspiel hat seinen Ursprung nicht in der _Überlegung_. Überlegung ist ein Teil des Sprachspiels. Und der Begriff ist daher im Sprachspiel zu Hause.
+
+### [Ts-232,755\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/755.webp)
+
+<span class="series-number">633.</span> <span class="series-number">632</span> “Könntest du dir keine weitere Umgebung denken, in der auch das noch als Verstellung zu deuten wäre?” Aber was heißt es: daß es noch immer Verstellung sein könnte? Hat denn Erfahrung uns das gelehrt? Und wie können wir anders über Verstellung unterrichtet sein?
+
+### [Ts-232,755\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/755.webp),[756\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/756.webp)
+
+<span class="series-number">634.</span> <span class="series-number">633</span> Liegt hier nicht etwas Ähnliches vor, wie das Verhältnis der euklidischen Geometrie zur Gesichtserfahrung? (Ich meine: es sei eine tiefgehende Ähnlichkeit vorhanden.) Denn auch die euklidische Geometrie entspricht ja der Erfahrung nur in sehr eigentümlicher Weise, und nicht etwa nur ‘bloß annähernd’. Man könnte vielleicht sagen, sie entspreche ebensosehr unserer Methode des Zeichnens, wie andern Dingen, oder auch, sie entspreche gewissen Bedürfnissen des _Denkens_. Ihre Begriffe haben ihre Wurzeln in weitverstreut und entlegenen Gebieten.
+
+### [Ts-232,756\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/756.webp)
+
+<span class="series-number">635.</span> <span class="series-number">634</span> Denn, so wie das Verbum “glauben” konjugiert wird wie das Verbum “schlagen”, so werden Begriffe für das eine Gebiet nach Analogie weit entfernter Begriffe gebildet. (Die Geschlechter der Hauptworte.)
+
+### [Ts-232,756\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/756.webp)
+
+<span class="series-number">636.</span> <span class="series-number">635</span> Die Begriffsbildung hat z.B. Grenzenlosigkeit, wo in der Erfahrung keine scharfen Grenzen zu finden sind. (Grenzenlose Approximation.)
+
+### [Ts-232,756\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/756.webp)
+
+<span class="series-number">637.</span> <span class="series-number">636</span> Man könnte manchmal sagen, die Begriffe seien einer Denkbequemlichkeit gemäß gebildet. (Wie ja auch der Meterstab nicht nur den zu messenden Dingen, sondern auch dem Menschen gemäß ist.) Aber zum Teufel: es weiß doch Jeder, ob er Schmerzen hat! – Wie könnt's denn _Jeder_ wissen? Dazu müßte er doch vor allem wissen, daß Sie Alle das Gleiche haben.
+
+### [Ts-232,756\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/756.webp)
+
+<span class="series-number">638.</span> <span class="series-number">637</span> Ein Stamm hat zwei Begriffe, verwandt unserem ‘Schmerz’. Der Eine wird bei sichtbaren Verletzungen angewandt und ist mit Pflege, Mitleid, etc., verknüpft. Den andern wenden sie bei Magenschmerzen, z.B., an und er verbindet sich mit Belustigung über den Klagenden. “Aber merken sie denn wirklich nicht die Ähnlichkeit?” – Haben wir denn überall einen Begriff, wo eine Ähnlichkeit besteht? Die Frage ist: Ist ihnen die Ähnlichkeit _wichtig_? Und muß sie's ihnen sein?
+
+### [Ts-232,756\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/756.webp),[757\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp)
+
+<span class="series-number">639.</span> <span class="series-number">638</span> Wenn du dir überlegst, aus welchen Gründen sich Einer Schmerzen verbeißt, oder simulieren konnte, werden dir unzählige einfallen. Warum gibt es nun diese Vielheit? Das Leben ist sehr kompliziert. Es gibt sehr viele Möglichkeiten Aber könnten nicht andere Menschen viele dieser _Möglichkeiten_ beiseite lassen, gleichsam die Achsel über sie zucken?
+
+### [Ts-232,757\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp)
+
+<span class="series-number">640.</span> <span class="series-number">639</span> Aber übersieht dieser dann nicht etwas, was da ist? – Er nimmt davon keine Notiz; und warum sollte er? – Aber dann ist ja eben sein Begriff grundverschieden von dem unsern. – **Grund**verschieden? Verschieden. Aber es ist dann doch, als ob sein Wort nicht _das_ _selbe bezeichnen_ könnte wie unseres. Oder nur einen Teil davon. – Aber so muß es ja auch ausschauen, wenn sein Begriff verschieden ist. Denn die Unbestimmtheit unseres Begriffs kann sich ja für uns in den _Gegenstand_ projizieren, den das Wort bezeichnet. So daß, fehlte die Unbestimmtheit, auch nicht ‘dasselbe gemeint’ wäre. Das Bild, das wir verwenden, versinnbildlicht die Unbestimmtheit.
+
+### [Ts-232,757\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp)
+
+<span class="series-number">641.</span> <span class="series-number">640</span> In der Philosophie darf man keine Denkkrankheit _abschneiden_. Sie muß ihren natürlichen Lauf gehen, und die _langsame_ Heilung ist das Wichtigste.
+
+### [Ts-232,757\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp)
+
+<span class="series-number">642.</span> <span class="series-number">641</span> “Man kann nie wissen, was in seiner Seele vorgeht” – das scheint eine Selbstverständlichkeit zu sein. Und ist es auch in dem Sinne, daß hier eben das gebrauchte Bild den Satz schon enthält. Aber man muß ihn eben zugleich mit dem Bild in Frage ziehen.
+
+### [Ts-232,757\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp),[758\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/758.webp)
+
+<span class="series-number">643.</span> <span class="series-number">642</span> Das “Wer weiß, was in ihm vorgeht!” Das Interpretieren der äußeren Ereignisse als Folgen von unbekannten, oder nur geahnten, innern. Das Interesse, das sich auf dies Innere richtet, wie auf die chemische Struktur, aus der das Verhalten hervorgeht. Denn man braucht ja bloß sagen “Was gehen mich die innern Vorgänge, was immer sie sind, an?!” um zu sehen, daß sich eine andere Einstellung denken läßt – “Aber jeden wird doch immer _sein_ Inneres interessieren! Unsinn. Wüßte ich denn, daß der Schmerz, z.B. etc. etc. etwas Inneres ist, wenn's mir nicht gesagt würde?
+
+### [Ts-232,758\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/758.webp)
+
+<span class="series-number">644.</span> <span class="series-number">643</span> Der Zweifel am inneren Vorgang ist ein _Ausdruck_. Der _Zweifel_ aber ist ein instinktives Verhalten. Ein Verhalten gegen den Andern, Und es rührt nicht daher, daß ich von mir selbst her weiß _was_ Schmerz, etc., ist; weiß, daß es etwas Inneres ist und daß es mit irgendeinem Äußern zusammengehen kann. Ich weiß alles eher!
+
+### [Ts-232,758\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/758.webp)
+
+<span class="series-number">645.</span> <span class="series-number">644</span> Erinnere dich: die meisten sagen, man spüre in der Narkose nichts. Manche aber sagen doch: Man _könnte_ ja doch etwas fühlen und es nur völlig vergessen. Wenn es also hier solche gibt, die zweifeln und solche, denen kein Zweifel kommt, so könnte die Zweifellosigkeit doch auch viel allgemeiner bestehen.
+
+### [Ts-232,758\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/758.webp)
+
+<span class="series-number">646.</span> <span class="series-number">645</span> Oder der Zweifel könnte doch eine andere, und viel weniger unbestimmte Form haben, als in unserer Gedankenwelt.
+
+### [Ts-232,758\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/758.webp),[759\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">647.</span> <span class="series-number">646</span> Bedenke: Wir gebrauchen das Wort “Ich weiß nicht” oft in seltsamer Weise; wenn wir z.B. sagen; wir wissen nicht, ob Dieser wirklich mehr fühlt als der Andere, oder es nur stärker zum Ausdruck bringt, Es ist dann nicht klar, welche Art der Untersuchung die Frage entscheiden würde. Natürlich ist die Äußerung nicht ganz müßig: Wir wollen sagen, daß wir wohl die Gefühle des A und des B miteinander vergleichen können, aber uns die Umstände an einem Vergleich des A mit dem C irre werden lassen.
+
+### [Ts-232,759\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">648.</span> <span class="series-number">647</span> Nur Gott sieht die geheimsten Gedanken. Aber warum sollen diese so wichtig sein? Und müssen alle Menschen sie für wichtig halten?
+
+### [Ts-232,759\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">649.</span> <span class="series-number">648</span> ‘Denk dir Menschen, die nur laut denken.’ Es ist ja doch nicht selbstverständlich, das Wesen von der körperlichen Natur denken; so sollen sie also bloß redend denken, d.h., nicht anderes, was wir auch denken nennen würden, tun. Ihre geheimen Gedanken sind Monologe.)
+
+### [Ts-232,759\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">650.</span> <span class="series-number">649</span> Die Stufen zwischen instinktiver Schlauheit und durchdachter. Ein Idiot könnte schlau handeln, so würden wir's bezeichnen, und wir würden nicht glauben, daß er fähig sei, etwas zu _planen_. Gefragt “Was wohl in ihm vorgeht?” sagen wir “Es geht gewiß sehr wenig in ihm vor.” Aber was wissen wir davon?! Wir machen uns nach seinem Benehmen, seinen Äußerungen, seiner Denkfähigkeit, ein Bild.
+
+### [Ts-232,759\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">651.</span> <span class="series-number">650</span> Wir stellen Verschiedenes zu einer ‘Gestalt’ (Muster) zusammen, zu der des Betruges z.B. Das Bild des Innern vervollständigt die Gestalt.
+
+### [Ts-232,759\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">652.</span> <span class="series-number">651</span> Wenn ein Begriff von einem Lebensmuster abhängig ist, so muß in ihm eine Unbestimmtheit liegen. Denn weicht dann ein Muster vom Normalen ab, so wird fraglich, was wir hier sagen wollen.
+
+### [Ts-232,759\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/759.webp)
+
+<span class="series-number">653.</span> <span class="series-number">652</span> Könnte also Bestimmtheit nur dort sein, wo regelmäßige Lebensläufe sind? Was tun sie aber, wenn ihnen ein unregelmäßiger Fall unterläuft? Vielleicht zucken sie nur die Achseln.
+
+### [Ts-232,760\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/760.webp)
+
+<span class="series-number">654.</span> <span class="series-number">653</span> “Er sagte mir – und es war nicht der geringste Zweifel an seiner Glaubwürdigkeit möglich – daß …” Unter welchen Umständen ist kein Zweifel an seiner Glaubwürdigkeit möglich? Kann ich sie angeben? Nein.
+
+### [Ts-232,760\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/760.webp)
+
+<span class="series-number">655.</span> <span class="series-number">654</span> Du mußt an den Zweck der Worte denken. Was hat die Sprache mit Schmerzen zu tun?
+
+### [Ts-232,760\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/760.webp)
+
+<span class="series-number">656.</span> <span class="series-number">655</span> Im Falle, den ich mir vorstelle, haben die Leute ein Wort das einen ähnlichen Zweck erfüllt (eine ähnliche Funktion hat) wie das Wort “Schmerz”. Man kann nicht sagen, es “bezeichne” etwas Ähnliches. Es greift anders, und doch ähnlich, in ihr Leben ein.
+
+### [Ts-232,760\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/760.webp)
+
+<span class="series-number">657.</span> <span class="series-number">656</span> “Man kann aber doch den Schmerz nicht mit _Sicherheit_ nach dem Äußern erkennen.” – Man kann ihn _nur_ nach dem Äußeren erkennen und die Unsicherheit ist eine Konstitutionelle. Sie ist kein Mangel. Es liegt in unserm Begriff, daß diese Unsicherheit besteht; in unserm Instrument. Ob dieser Begriff praktisch, oder unpraktisch ist, darum handelt's sich eigentlich nicht.
+
+### [Ts-232,760\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/760.webp),[761\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)
+
+<span class="series-number">658.</span> <span class="series-number">657</span> Die Farben könnten in einer andern Welt eine andere Rollen spielen als in der unsern. Denk an verschiedene Fälle. 1) Bestimmte Farben an bestimmte Formen gebunden. Kreisförmiges rot, viereckiges Grün, etc. 2) Farbstoffe nicht herstellbar. Man kann Dinge nicht färben. 3) _Eine_ Farbe immer an einen üblen Geruch oder an Giftigkeit gebunden. 4) Farbenblindheit weit häufiger als bei uns. 5) Verschiedene Töne von Grau sind häufig alle andern Farben äußerst selten. 6) Wir können aus dem Gedächtnis eine große Anzahl von Farbtönen reproduzieren. Wenn unser Zahlsystem mit der Zahl unserer Finger zusammenhängt, warum denn nicht unser System der Farben mit der besondern Art des Auftretens der Farben. 7) Eine Farbe tritt immer nur in graduellem Übergang in eine
+
+andere auf. 8) Farben treten immer im Farbverlauf des Regenbogens auf.
+
+### [Ts-232,761\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)
+
+<span class="series-number">659.</span> <span class="series-number">658</span> Denke an die Unsicherheit, ob Tiere, besonders niedere Tiere, Fliegen z.B., Schmerzen fühlen. Die Unsicherheit, ob eine Fliege Schmerz fühlt, ist eine philosophische; aber könnte sie nicht auch eine instinktive sein? Und wie würde sich das zeigen? Ja, gibt es eben nicht eine Unsicherheit im Benehmen gegen die Tiere? Einer weiß nicht; Ist er grausam oder nicht.
+
+### [Ts-232,761\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)
+
+<span class="series-number">660.</span> <span class="series-number">659</span> Denn es gibt ja Unsicherheit des Benehmens, die nicht auf einer Unsicherheit in den Gedanken beruht.
+
+### [Ts-232,761\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)
+
+<span class="series-number">661.</span> <span class="series-number">660</span> Sieh die Frage der Unsicherheit, ob der Andere Schmerz empfindet, in der Beleuchtung durch die Frage, ob ein Insekt Schmerz empfindet.
+
+### [Ts-232,761\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)
+
+<span class="series-number">662.</span> <span class="series-number">661</span> Es gibt doch im Benehmen Vertrauen und Mißtrauen! Klagt Einer z.B., so kann ich mit völliger Sicherheit, vertrauensvoll reagieren, oder unsicher und wie Einer, der Verdacht hat. Es braucht dazu keine Worte, noch Gedanken.
+
+### [Ts-232,761\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp),[762\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">663.</span> <span class="series-number">622</span> Die Unvorhersehbarkeit des menschlichen Benehmens. Wäre sie nicht vorhanden, – würde man dann auch sagen, man könnte nie wissen, was im Andern vorgeht?
+
+### [Ts-232,762\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">664.</span> <span class="series-number">663</span> Aber wie wär's, wenn das menschliche Benehmen nicht unvorhersehbar wäre? Wie hat man sich das vorzustellen? (D.h.: wie auszumalen, welche Verbindungen anzunehmen?)
+
+### [Ts-232,762\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">665.</span> <span class="series-number">664</span> “Ich weiß nicht, was in ihm vorgeht?” das könnte man von einem komplizierten Uhrwerk sagen; etwa einer Kunstuhr, die nach sehr komplizierten Gesetzen verschiedene äußere Bewegungen auslöst. Man denkt sich dann bei ihrer Betrachtung vielleicht: Wenn ich wüßte, wie es in ihr ausschaut, was jetzt vorgeht, wüßte ich, was zu erwarten ist.
+
+### [Ts-232,762\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">666.</span> <span class="series-number">665</span> Beim Menschen aber ist angenommen, daß man in den Mechanismus keinen Einblick gewinnen _kann_. Es ist also die Unbestimmtheit postuliert.
+
+### [Ts-232,762\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">667.</span> <span class="series-number">666</span> Wenn ich aber zweifle, ob eine Spinne wohl Schmerz empfindet, dann ist es nicht, weil ich nicht weiß, was ich mir zu erwarten habe.
+
+### [Ts-232,762\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">668.</span> <span class="series-number">667</span> Wir können aber nicht umhin, uns das Bild vom seelischen Vorgang zu machen. Und _nicht_, weil wir ihn von uns her kennen!
+
+### [Ts-232,762\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">669.</span> <span class="series-number">668</span> _Eine_ Art der Unsicherheit wäre die, die wir auch einem uns unbekannten Mechanismus entgegenbringen könnten. Bei der andern würden wir uns möglicherweise an eine Begebenheit in unserm Leben erinnern. Es könnte z.B. sein, daß Einer, der gerade der Todesangst entronnen ist, sich davon scheuen würde, eine Fliege zu erschlagen und es sonst ohne Bedenken täte. Oder, anderseits, daß er mit diesem Erlebnis vor Augen, das Zögern tut, was er sonst ohne zögern täte.
+
+### [Ts-232,762\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/762.webp)
+
+<span class="series-number">670.</span> <span class="series-number">669</span> Auch wenn ich ‘nicht sicher in meinem Mitleid ruhe’, muß ich nicht an die Ungewißheit seines spätern Benehmens denken.
+
+### [Ts-232,763\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">671.</span> <span class="series-number">670</span> Die eine Unsicherheit geht so zu sagen von dir aus, die andere von ihm. Von der einen könnte man also doch sagen, sie hinge mit einer Analogie zusammen; von der andern nicht. Aber nicht, als ob ich aus der Analogie einen Schluß zöge!
+
+### [Ts-232,763\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">672.</span> <span class="series-number">671</span> Wenn das Leben ein Teppich wäre, so ist diese Muster (der Verstellung z.B.) nicht immer vollständig und vielfach variiert. Aber wir, in unserer Begriffswelt, sehen immer wieder das Gleiche mit Variationen wiederkehren. So fassen's unsere Begriffe auf. Die Begriffe sind ja nicht für **ein**maligen Gebrauch.
+
+### [Ts-232,763\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">673.</span> <span class="series-number">672</span> Und das Muster ist im Teppich mit vielen andern Mustern verwoben
+
+### [Ts-232,763\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">674.</span> <span class="series-number">673</span> Ich _sage_ z.B. “Er könnte sich ja doch vorstellen” –was _denke_ ich mir dabei? – d.h. welche Erklärung gäbe ich von dem Wort “verstellen”; was für Exempel fielen mir ein?
+
+### [Ts-232,763\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">675.</span> <span class="series-number">674</span> Wie _verwende_ ich den Satz? (Denn es ist hier wie in gewissen Gebieten der Mathematik, wo es eine ‘phantastische Anwendung’ gibt.)
+
+### [Ts-232,763\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">676.</span> <span class="series-number">675</span> Ich rufe ein Bild herauf, das dann zu einem Zweck dienen kann. (Ich könnte geradezu auf ein gemaltes Bild schauen.)
+
+### [Ts-232,763\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">677.</span> <span class="series-number">676</span> Manchmal behandle ich ihn so, wie ich mich behandle und behandelt werden möchte, wenn ich Schmerzen habe und manchmal nicht.
+
+### [Ts-232,763\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)
+
+<span class="series-number">678.</span> <span class="series-number">677</span> Wir sind an eine bestimmte Einteilung der Sachen gewöhnt. Sie ist uns mit der Sprache, oder den Sprachen, zur Natur geworden.
+
+### [Ts-232,764\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp)
+
+<span class="series-number">679.</span> <span class="series-number">678</span> Dies sind die festen Schienen, auf denen all unser Denken verläuft, und also nach ihnen auch unser Urteilen und Handeln.
+
+### [Ts-232,764\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp)
+
+<span class="series-number">680.</span> <span class="series-number">679</span> Muß der Begriff der Bescheidenheit, oder der Prahlerei überall bekannt sein, wo es bescheidene und prahlerische Menschen gibt? Es liegt ihnen vielleicht dort nichts an dieser Unterscheidung. Uns sind ja auch manche Unterschiede unwichtig, und könnten uns wichtig sein.
+
+### [Ts-232,764\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp)
+
+<span class="series-number">681.</span> <span class="series-number">680</span> Und Andere haben Begriffe, die unsere Begriffe durchschneiden. Und warum sollte nicht ihr Begriff unsern Begriff ‘Schmerz’ schneiden?
+
+### [Ts-232,764\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp)
+
+<span class="series-number">682.</span> <span class="series-number">681</span> Die ‘Unsicherheit’ bezieht sich eben nicht auf den besondern Fall, sondern auf die Methode, auf die Regeln der Evidenz.
+
+### [Ts-232,764\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp)
+
+<span class="series-number">683.</span> <span class="series-number">682</span> Festbegrenzte Begriffe würden eine Gleichförmigkeit des Verhaltens fordern. Es ist aber so, daß wo ich _sicher_ bin, der Andere unsicher ist. Und das ist eine Naturtatsache.
+
+### [Ts-232,764\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp)
+
+<span class="series-number">684.</span> <span class="series-number">683</span> Wenn man sagt “Die Evidenz kann die Echtheit des Gefühlsausdrucks nur wahrscheinlich machen”, so heißt das _nicht_, daß statt völliger Sicherheit immer nur eine mehr oder weniger zuversichtliche Vermutung da ist. “Nur wahrscheinlich” kann sich nicht auf den Grad unsrer Zuversicht beziehen, sondern nur auf die Art ihrer Begründung, auf den Charakter des Sprachspiels: Das muß doch die Konstitution unsres Begriffs bestimmen helfen: daß unter den Menschen in Bezug auf die Sicherheit ihrer Überzeugung nicht Übereinstimmung besteht (Vergleiche die Bemerkung über die Übereinstimmung in den Farburteilen und in der Mathematik.)
+
+### [Ts-232,764\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/764.webp),[765\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">685.</span> <span class="series-number">684</span> Es kann der Eine vollkommen überzeugt sein und der Andere, bei gleicher Evidenz, nicht. Und wir schließen darum jeder diesen noch jenen als urteilsunfähig, oder als unzurechnungsfähig, aus der Gesellschaft aus.
+
+### [Ts-232,765\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">686.</span> <span class="series-number">685</span> Aber könnte eine Gesellschaft nicht eben dies tun?
+
+### [Ts-232,765\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">687.</span> <span class="series-number">686</span> Denn die Wörter haben eben nur im Fluß des Lebens Bedeutung.
+
+### [Ts-232,765\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">688.</span> <span class="series-number">687</span> Ich bin sicher, _sicher_, daß er sich nicht verstellt; aber der
+
+Andere ist's nicht. Kann ich ihn überzeugen? Und wenn nicht, – sag ich, er kann nicht denken? (Die Überzeugung davon könnte man “intuitiv” nennen.)
+
+### [Ts-232,765\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">689.</span> <span class="series-number">688</span> Der Instinkt ist das Erste, das Räsonnement das Zweite. Gründe gibt es erst in einem Sprachspiel.
+
+### [Ts-232,765\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">690.</span> <span class="series-number">689</span> Sage ich etwa “und die Seele ist auch nur etwas am Leibe”? Nein (Ich bin nicht so arm an Kategorien.)
+
+### [Ts-232,765\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">691.</span> <span class="series-number">690</span> Du kannst den Begriff variieren, aber dann verändert du ihn vielleicht bis zur Unkenntlichkeit.
+
+### [Ts-232,765\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">692.</span> <span class="series-number">691</span> Wenn wir den Begriff der Verstellung variieren, müssen wir seine Innerlichkeit, d.h. die Möglichkeit des Geständnisses beibehalten. Wir müssen aber dem Geständnis nicht immer Glauben schenken, und das falsche Geständnis muß nicht Betrug sein.
+
+### [Ts-232,765\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp)
+
+<span class="series-number">693.</span> <span class="series-number">692</span> Andere, obgleich den unsern verwandte Begriffe könnten uns _sehr_ seltsam erscheinen: nämlich eine Abweichung vom gewohnten in ungewohnter _Richtung_.
+
+### [Ts-232,765\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/765.webp),[766\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">694.</span> <span class="series-number">693</span> “Du verstehst ja nichts!” so sagt man, wenn einer bezweifelt, daß das echt sei, was wir klar als echt erkennen. “Du verstehst ja nichts” – aber wir können nichts beweisen.
+
+### [Ts-232,766\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">695.</span> <span class="series-number">694</span> Der seelenvolle Ausdruck in der Musik, – er ist doch nicht nach Regeln zu erkennen. Und warum können wir uns nicht vorstellen, daß er's für andere Wesen wäre?
+
+### [Ts-232,766\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">696.</span> <span class="series-number">695</span> Schon das würde uns einen fremden und tiefen Eindruck machen, wenn wir zu Menschen kämen, die nur Spieluhrmusik kennten. Wir würden uns vielleicht eine Art Gebärden erwarten, die wir nicht verstünden, auf die wir nicht zu reagieren wüßten.
+
+### [Ts-232,766\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">697.</span> <span class="series-number">696</span> ‘Die Echtheit des Ausdrucks läßt sich nicht beweisen.’ ‘Man muß sie fühlen.’ Aber was geschieht nun weiter damit? Wenn Einer sagt “Voilà comment s'extreme un coeur vraiment epris”, und wenn er auch einen Andern zu seiner Ansicht bekehrt, – welche weitere Folgen hat es? Es lassen sich in vager Weise Folgen vorstellen. Die Aufmerksamkeit des Andern wird anders gelenkt.
+
+### [Ts-232,766\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">698.</span> <span class="series-number">697</span> Könnte man sich nun vorstellen, daß bei andern Wesen, was bei uns sich nicht beweisen läßt, sich beweisen ließe? Oder würde es eben dadurch sein Wesen bis zur Unkenntlichkeit ändern?
+
+### [Ts-232,766\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">699.</span> <span class="series-number">698</span> Was für uns wesentlich ist, ist doch die spontane Zustimmung, die spontane Sympathie.
+
+### [Ts-232,766\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/766.webp)
+
+<span class="series-number">700.</span> <span class="series-number">699</span> ‘Diese Menschen hätten nichts menschenähnliches.’ Warum? – Wir könnten uns unmöglich mit ihnen verständigen. Nicht einmal so, wie wir's mit einem Hund können. Wir könnten uns nicht in sie Finden. Und doch könnte es ja solche, im übrigen Menschliche, Wesen geben.
+
+### [Ts-232,767\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/767.webp)
+
+<span class="series-number">701.</span> <span class="series-number">700</span> “_Wissen_ kann man es doch nicht. Man kann es _glauben_. Mit ganzer Seele glauben, aber nicht wissen.” Dann liegt der Unterschied _nicht_ in der Sicherheit des Überzeugten. Er muß wo anders liegen; in der _Logik_ der Frage.
+
+### [Ts-232,767\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/767.webp)
+
+<span class="series-number">702.</span> <span class="series-number">701</span> Denke, Leute könnten das Funktionieren des Nervensystems im Andern beobachten. Sie unterschieden dann echte und geheuchelte Empfindung in sicherer Weise. Oder könnten sie doch wieder daran zweifeln, daß der Andere bei diesem Zeichen etwas spürt? – Man könnte sich jedenfalls vorstellen, daß, was sie da sehen, ihr Verhalten ohne alle Skrupel bestimmt. Und nun kann man dies doch auf das äußere Benehmen übertragen.
+
+### [Ts-232,767\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/767.webp)
+
+<span class="series-number">703.</span> <span class="series-number">702</span> Es gibt wohl den Fall, daß Einer mir später sein Innerstes durch ein Geständnis aufschließt: aber, daß es so ist, kann mir nicht das Wesen von Außen und Innen erklären, denn ich muß ja dem Geständnis doch Glauben schenken. Das Geständnis ist ja auch etwas Äußeres.
+
+### [Ts-232,767\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/767.webp)
+
+<span class="series-number">704.</span> <span class="series-number">703</span> Die Menschen, die das Funktionieren der Nerven sehen können: _Muß_ ich mir denken, daß Innere könne sie doch zum besten haben? Das heißt aber: Kann ich mir nicht doch äußere Zeichen denken, die mir zum _sicheren_ Urteil über das Innere ausreichend schienen?
+
+### [Ts-232,767\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/767.webp),[768\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp)
+
+<span class="series-number">705.</span> <span class="series-number">704</span> Aber nun sag: “Es könnte ja doch Einer etwas fühlen, auch wenn die physiologischen Zeichen ganz dagegen sprächen.” Nun, dann haben eben die einen andern Begriff, die _diese_ Skrupel nicht kennen.
+
+### [Ts-232,768\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp)
+
+<span class="series-number">706.</span> <span class="series-number">705</span> Denk dir, es würden die Leute eines Stammes von früher Jugend dazu erzogen, _keinerlei_ Gemütsausdruck zu zeigen. Er ist für sie etwas Kindisches, das abzutun sei. Die Abrichtung sei streng. Man redet von ‘Schmerzen’ nicht; schon erst recht nicht in der Form einer Vermutung “Vielleicht hat er doch …” Klagt jemand, so wird er verlacht oder gestraft. Den Verdacht der Verstellung gibt es gar nicht. Abrichtung zum ausdruckslosen, monotonen Reden, zu regelmäßigen Bewegungen.
+
+### [Ts-232,768\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp)
+
+<span class="series-number">707.</span> <span class="series-number">706</span> Ich will sagen: eine ganz andere Erziehung als die unsere könnte auch die Grundlage ganz anderer Begriffe sein.
+
+### [Ts-232,768\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp)
+
+<span class="series-number">708.</span> <span class="series-number">707</span> Denn es würde hier das Leben anders verlaufen. – Was uns interessiert, würde _sie_ nicht interessieren. Andere Begriffe wären da nicht mehr unvorstellbar. Ja, wesentlich andere Begriffe sind nur so vorstellbar.
+
+### [Ts-232,768\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp)
+
+<span class="series-number">709.</span> <span class="series-number">708</span> Nicht darauf sehen wir, daß die Evidenz das Gefühl des Andern nur wahrscheinlich macht, sondern darauf, daß wir _dies_ als Evidenz für irgend etwas Betrachten, daß wir auf _diese_ verwickelte Art der Evidenz eine Aussage bauen, daß _sie_ also in unserm Leben eine besondere Wichtigkeit hat und durch einen Begriff herausgehoben wird.
+
+### [Ts-232,768\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp)
+
+<span class="series-number">710.</span> <span class="series-number">709</span> “Verstellen”, könnten jene Leute sagen, “was für ein lächerlicher Begriff!”
+
+### [Ts-232,768\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/768.webp),[769\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/769.webp)
+
+<span class="series-number">711.</span> <span class="series-number">710</span> Der feste Glaube (an eine Verheißung z.B.) – ist er weniger sicher als die Überzeugung von einer mathematischen Wahrheit? – (Aber werden dadurch die Sprachspiele ähnlicher!)
+
+### [Ts-232,769\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/769.webp)
+
+<span class="series-number">712.</span> <span class="series-number">711</span> Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter eine Gruppe von Menschen bestehen? So daß ihnen ein Zweifel an Gefühlsäußerungen ganz fremd ist?
+
+### [Ts-232,769\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/769.webp)
+
+<span class="series-number">713.</span> <span class="series-number">712</span> Aber überlege: Warum soll sich Einer verstellen müssen, gibt es nicht andere Möglichkeiten? Kann er nicht träumen? Kann sich die Sache nicht anders verwirren? (_Couvade_.) Denk daran, wie oft es unmöglich ist, zu sagen: Einer sei ehrlich, oder unehrlich; aufrichtig, oder unaufrichtig. (Ein Politiker z.B.) Wohlmeinend oder das Gegenteil. Wieviel dumme Fragen werden darüber gestellt! Wie oft _passen die Begriffe nicht_!
+
+### [Ts-232,769\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/769.webp)
+
+<span class="series-number">714.</span> <span class="series-number">713</span> Es ist für unsere Betrachtung wichtig, daß es Menschen gibt von denen jemand fühlt, er werde nie wissen, was in ihnen vorgeht. Er werde sie nie verstehen.
+
+### [Ts-232,769\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/769.webp)
+
+<span class="series-number">715.</span> <span class="series-number">714</span> Wir sind gewiß _geneigt_, zu sagen, die Klage sei nur ein Zeichen, ein Symptom des wichtigen Phänomens welches nur erfahrungsmäßig mit jenem verbunden sei. Und wenn wir hier auch einen Fehler machen: so muß diese starke Versuchung doch ihre Begründung haben und zwar im Gesetz der Evidenz, welche wir zulassen.
+
+### [Ts-232,769\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/769.webp)
+
+<span class="series-number">716.</span> <span class="series-number">715</span> Man könnte die Frage stellen: welcher Art muß das Gesetz der zugelassenen Evidenz sein, damit diese Auffassung uns nahe liegt?
+
+### [Ts-232,770\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/770.webp)
+
+<span class="series-number">717.</span> <span class="series-number">716</span> Man möchte die Antwort geben: die Evidenz müsse schwankend sein. Vielgestaltig?
+
+### [Ts-232,770\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/770.webp)
+
+<span class="series-number">718.</span> <span class="series-number">717</span> Es gibt verstellten Ausdruck; aber auch für die Verstellung muß es ja Evidenz geben. Wenn wir auch oft einfach nicht wissen, was wir sagen sollen, so müssen wir doch manchmal einer Meinung zuneigen, manchmal Gewißheit haben. Es muß also doch das Äußere evident sein.
+
+### [Ts-232,770\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/770.webp)
+
+<span class="series-number">719.</span> <span class="series-number">718</span> Du sagst, du pflegst den Stöhnenden, weil Erfahrung dich gelehrt hat, daß du selbst stöhnst, wenn du das und das fühlst. Aber da du ja doch keinen solchen Schluß ziehst, so können wir die Begründung durch Analogie weglassen.
+
+### [Ts-232,770\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/770.webp)
+
+<span class="series-number">720.</span> <span class="series-number">719</span> Daß der und der Satz keinen Sinn hat, ist in der Philosophie von Bedeutung, aber auch, daß er komisch klingt.
+
+### [Ts-232,770\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/770.webp)
+
+<span class="series-number">721.</span> <span class="series-number">720</span> Kann man das ‘sich auskennen’ ein Erlebnis nennen? Nicht doch. Aber es gibt Erlebnisse charakteristisch für den Zustand des Sichauskennens und des Sich-nicht-auskennens. (Sich nicht auskennen und lügen.)
+
+### [Ts-232,770\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/770.webp),[771\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">722.</span> <span class="series-number">721</span> Ist “Ich hoffe …” eine Beschreibung eines Seelenzustandes? Ein Seelenzustand hat eine Dauer. Sage ich also “Ich habe den ganzen Tag gehofft …”, so ist das eine solche Beschreibung. Sage ich aber Einem “Ich hoffe, du kommst” – wie, wenn er mich fragte “Wie lange hoffst du es”? Ist die Antwort: “Ich hoffe, während ich's sage”? Angenommen ich hätte auf diese
+
+Frage irgendeine Antwort, wäre sie nicht für den Zweck der Worte “Ich hoffe, du wirst kommen” ganz irrelevant?
+
+### [Ts-232,771\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">723.</span> <span class="series-number">722</span> Ein Schrei ist nicht die Beschreibung eines Seelenzustandes, obwohl man aus ihm auf einen Seelenzustand schließen kann.
+
+### [Ts-232,771\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">724.</span> <span class="series-number">723</span> Man schreit nicht Hilfe, weil man auf den eigenen Angstzustand aufmerksam ist.
+
+### [Ts-232,771\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">725.</span> <span class="series-number">724</span> Zum ‘Beschreiben’ gehört das ‘Aufmerken’.
+
+### [Ts-232,771\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">726.</span> <span class="series-number">725</span> Beschreibungen sind die Sätze: “Ich fürchte ihn jetzt weniger als früher”, “ich wünsche schon seit langem …”, “Ich hoffe immer wieder …. (Man beschreibt einen Verlauf.)
+
+### [Ts-232,771\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">727.</span> <span class="series-number">726</span> Will ich also sagen, gewisse Tatsachen seien gewissen Begriffsbildungen günstig; oder ungünstig? Und lehrt das die Erfahrung? Es ist Erfahrungstatsache, daß Menschen ihre Begriffe ändern, wechseln, wenn sie neue Tatsachen kennenlernen; wenn dadurch, was ihnen früher wichtig war, unwichtig wird, und umgekehrt. (Man findet z.B.: was früher als Artunterschied galt, sei eigentlich _nur_ ein Gradunterschied.) ((Zur Betrachtung über den Farbbegriff und anderes)).
+
+### [Ts-232,771\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">728.</span> <span class="series-number">727</span> Ist der Schrei keine Beschreibung, dann ist es auch nicht der Wortausdruck, der ihn ersetzt. Die Äußerungen von Furcht, Hoffnung, Wunsch, sind keine Beschreibungen. Wohl aber sind das die Sätze. “Ich fürchte ihn jetzt weniger als früher”, “Ich wünsche schon seit langem …”, …
+
+### [Ts-232,771\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)
+
+<span class="series-number">729.</span> <span class="series-number">728</span> Was ist die Vergangenheitsform von “Nicht wahr, du kommst!”?
+
+### [Ts-232,772\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/772.webp)
+
+<span class="series-number">730.</span> <span class="series-number">729</span> Der verworrene Gebrauch der psychologischen Begriffswörter (“denken” z.B.). Als wenn das Wort “Violine” nicht bloß das Instrument, sondern manchmal auch den Geiger, die Geigenstimme, den Geigenklang, das Geigenspiel bezeichnete.
+
+### [Ts-232,772\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/772.webp)
+
+<span class="series-number">731.</span> <span class="series-number">730</span> “Wenn p eintrifft, so trifft q ein” könnte man eine bedingte Vorhersage nennen. D.h.: für den Fall nicht-p mache ich _keine_ Vorhersage. Aber darum wird, was ich sage, durch “nicht-p & nicht-q” auch nicht wahrgemacht. Oder auch _so_: es gibt bedingte Vorhersagen, und “p impliziert q” ist _keine_ solche.
+
+[→ ]
+
+### [Ts-232,772\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/772.webp)
+
+<span class="series-number">732.</span> <span class="series-number">731</span> Den Satz “Wenn p eintrifft, so trifft q ein”. Will ich “S” nennen. – “S oder nicht –S” ist eine Tautologie: aber ist es auch der Satz vom ausgeschlossenen Dritten? – Oder auch so: Wenn ich sagen will, daß die Vorhersage “S”” richtig, falsch, oder unentschieden sein kann, wird das durch den Satz ausgedrückt “nicht (S oder nicht – S)”?
+
+### [Ts-232,772\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/772.webp)
+
+<span class="series-number">733.</span> <span class="series-number">732</span> Die Verwendung des Wortes “Betrachten”, “Beobachten”. Und nun des Ausdrucks “sich selbst betrachten”!
+
+### [Ts-232,772\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/772.webp)
+
+<span class="series-number">734.</span> <span class="series-number">733</span> “Ich fürchte mich vor ihm” und “ich pflege mich vor ihm zu fürchten”. Aber auch der Ausdruck “Ich pflege …” könnte hier _mancherlei_ bedeuten. Es könnte aber eine Sprache geben, in deren Konjugationen _viel_ mehr Unterschiede als in dem uns bekannten Sprachen berücksichtigt werden.
+
+### [Ts-232,772\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/772.webp),[773\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/773.webp)
+
+<span class="series-number">735.</span> <span class="series-number">734</span> Unterschied des _Zwecks_ zwischen der Furchtäußerung “Ich fürchte mich!” und dem Furchtbericht “Ich fürchte mich.”
+
+### [Ts-232,773\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/773.webp)
+
+<span class="series-number">736.</span> <span class="series-number">735</span> “Wissen” kann etwas Ähnliches bedeuten wie “können” (auswendig wissen z.B.), oder aber wie “sicher sein”.
+
+### [Ts-232,773\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/773.webp)
+
+<span class="series-number">737.</span> <span class="series-number">736</span> Niemand außer ein Philosoph, würde sagen “Ich weiß, daß ich zwei Hände habe”; wohl aber kann man sagen: Ich bin nicht im Stande zu bezweifeln, daß ich zwei Hände habe”. “Wissen” aber wird gewöhnlich nicht in diesem Sinn gebraucht.

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- Letter "a" -->
+  <text x="70" y="168" font-size="14" fill="#000000">a</text>
+  
+  <!-- Shorter vertical bar next to "a" -->
+  <line x1="82" y1="135" x2="82" y2="200" stroke="#000000" stroke-width="0.7"/>
+  <!-- Top serif of short bar -->
+  <line x1="79" y1="135" x2="85" y2="135" stroke="#000000" stroke-width="0.7"/>
+  <!-- Bottom serif of short bar -->
+  <line x1="79" y1="200" x2="85" y2="200" stroke="#000000" stroke-width="0.7"/>
+  
+  <!-- Ampersand "&" -->
+  <text x="96" y="168" font-size="14" fill="#000000">&amp;</text>
+  
+  <!-- Letter "b" -->
+  <text x="116" y="168" font-size="14" fill="#000000">b</text>
+  
+  <!-- Longer vertical bar next to "b" -->
+  <line x1="128" y1="115" x2="128" y2="200" stroke="#000000" stroke-width="0.7"/>
+  <!-- Top serif of tall bar -->
+  <line x1="125" y1="115" x2="131" y2="115" stroke="#000000" stroke-width="0.7"/>
+  <!-- Bottom serif of tall bar -->
+  <line x1="125" y1="200" x2="131" y2="200" stroke="#000000" stroke-width="0.7"/>
+</svg>

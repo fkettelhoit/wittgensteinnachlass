@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+  <!-- Three columns of 3 dots each, arranged in a grid pattern -->
+  <!-- Column 1 -->
+  <circle cx="80" cy="138" r="1.8" fill="#000000"/>
+  <circle cx="80" cy="148" r="1.8" fill="#000000"/>
+  <circle cx="80" cy="158" r="1.8" fill="#000000"/>
+  <!-- Column 2 -->
+  <circle cx="90" cy="138" r="1.8" fill="#000000"/>
+  <circle cx="90" cy="148" r="1.8" fill="#000000"/>
+  <circle cx="90" cy="158" r="1.8" fill="#000000"/>
+  <!-- Column 3 -->
+  <circle cx="100" cy="138" r="1.8" fill="#000000"/>
+  <circle cx="100" cy="148" r="1.8" fill="#000000"/>
+  <circle cx="100" cy="158" r="1.8" fill="#000000"/>
+</svg>
