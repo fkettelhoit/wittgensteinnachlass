@@ -808,9 +808,9 @@ Was ist die _Anwendung_ des Begriffes der Geraden, der ein Punkt fehlt? Die Anwe
 
 ### [Ms-127,32\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/32.webp)
 
-Denk' Dir Einer sagte: “Ich will eine Komposition hören, die _so_ geht:
+Denk' Dir Einer sagte: “Ich will eine Komposition hören, die _so_ geht:”
 
-<span class="pre-block-punct">”</span>![](../graphics/127,32.svg)
+![](../graphics/127,32.svg)
 
 ### [Ms-127,32\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/32.webp),[33\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/33.webp)
 

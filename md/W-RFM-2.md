@@ -413,9 +413,9 @@ Er ist vorläufig ein Stück mathematischen Gerüsts, das in der Luft hängt, so
 
 <span class="series-number">53.</span> 27.12.1938
 
-‘Wie würdest Du nun _das_ nennen?
+‘Wie würdest Du nun _das_ nennen?’
 
-<span class="pre-block-punct">’</span>![](../graphics/121,67v.svg)
+![](../graphics/121,67v.svg)
 
 Nicht, “eine Methode die Zahlenpaare fortlaufend zu numerieren”? Und könnte ich nicht auch sagen: “die Zahlenpaare in eine Reihe zu ordnen”?
 

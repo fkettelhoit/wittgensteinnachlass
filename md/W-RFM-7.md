@@ -1370,9 +1370,7 @@ Der Forscher könnte sagen: “Sie folgen Regeln, aber es sieht doch ganz anders
 
 Eine Addition von Formen, in der gewisse Glieder verschmelzen spielt in unserm Leben eine sehr geringe Rolle. – Wie wenn
 
-![](../graphics/124,165-1.svg)
-
-&
+![](../graphics/124,165-1.svg) <span class="post-block-punct">&</span>
 
 ![](../graphics/124,165-2.svg)
 
