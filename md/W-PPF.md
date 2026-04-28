@@ -1,472 +1,472 @@
 # Philosophie der Psychologie – Ein Fragment
 
-### [Ms-144,1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
+### [Ms-144](/ms-144/#1r.1): [1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
 
 <span class="series-number">i.</span> Man kann sich ein Tier zornig, furchtsam, traurig, freudig, erschrocken vorstellen. Aber hoffend? Und warum nicht? Der Hund glaubt, sein Herr sei an der Tür. Aber kann er auch glauben, sein Herr werde übermorgen kommen? – Und _was_ kann er nun nicht? – Wie mache denn ich's? – Was soll ich darauf antworten? Kann nur hoffen, wer sprechen kann? Nur der, der die Verwendung einer Sprache beherrscht. D.h., die Erscheinungen des Hoffens sind Modifikationen dieser komplizierten Lebensform. (Wenn ein Begriff auf einen Charakter der menschlichen Handschrift abzielt, dann hat er keine Anwendung auf Wesen, welche nicht schreiben.)
 
-### [Ms-144,1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
+### [Ms-144](/ms-144/#1r.2): [1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
 
 “Kummer” beschreibt uns ein Muster, das im Lebensteppich mit verschiedenen Variationen wiederkehrt. Wenn bei einem Menschen der Körperausdruck des Grames & der Freude, etwa mit dem Ticken einer Uhr, abwechselten, so hätten wir hier nicht den charakteristischen Verlauf des Grammusters, noch des Freudemusters.
 
-### [Ms-144,1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
+### [Ms-144](/ms-144/#1r.3): [1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
 
 “Er fühlte für eine Sekunde heftigen Schmerz.” – Warum klingt es seltsam: “Er fühlte für eine Sekunde tiefen Kummer”? Nur weil es so selten vorkommt?
 
-### [Ms-144,1v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1v.webp)
+### [Ms-144](/ms-144/#1v.1): [1v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1v.webp)
 
 Aber fühlst Du nicht _jetzt_ den Kummer? (“Aber spielst Du nicht _jetzt_ Schach?”) Die Antwort kann bejahend sein; aber das macht den Begriff des Kummers nicht ähnlicher einem Empfindungsbegriff. – Die Frage war ja eigentlich eine zeitliche & persönliche; nicht die logische, die wir stellen wollten.
 
-### [Ms-144,1v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1v.webp)
+### [Ms-144](/ms-144/#1v.2): [1v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1v.webp)
 
 Und willst Du mir sagen, er spürt das nicht?! Wie _weiß_ er's denn sonst? – Aber auch, wenn es eine Mitteilung ist, so lernt er's nicht von seinen Empfindungen. “Du mußt wissen – ich fürchte mich.” “Du mußt wissen – mir graut davor.” – Ja, man kann das auch in _lächelndem_ Ton sagen.
 
-### [Ms-144,1v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1v.webp)
+### [Ms-144](/ms-144/#1v.3): [1v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1v.webp)
 
 Denn denk Dir die Empfindungen hervorgerufen durch die _Gebärden_ des Grauns: die Worte “mir graut davor” sind ja auch so eine Gebärde; & wenn ich sie beim Aussprechen höre & fühle, gehört das zu jenen übrigen Empfindungen. Warum soll denn die ungesprochene Gebärde die gesprochene begründen?
 
-### [Ms-144,4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)
+### [Ms-144](/ms-144/#4r.1): [4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)
 
 <span class="series-number">ii.</span> Mit seinen Worten “Als ich das Wort hörte, bedeutete es für mich …” bezieht er sich auf einen _Zeitpunkt_ & auf eine _Art der Wortverwendung_. (Was wir nicht begreifen, ist natürlich diese Kombination.) Und der Ausdruck “Ich wollte damals sagen …” bezieht sich auf einen _Zeitpunkt_ & auf eine _Handlung_. Ich rede von den wesentlichen _Bezügen_ der Äußerung, um sie von andern Besonderheiten unsres Ausdrucks abzulösen. Und wesentlich sind der Äußerung die Bezüge, die uns veranlassen würden, eine im übrigen uns fremde Ausdrucksweise in diese bei uns gebräuchliche Form zu übersetzen.
 
-### [Ms-144,4r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)
+### [Ms-144](/ms-144/#4r.2): [4r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)
 
 Wer nicht im Stande wäre, zu sagen: das Wort “sondern” könne ein Zeitwort & ein Bindewort sein, oder Sätze zu bilden, in denen es einmal dies, einmal jenes ist, der könnte einfache Schulübungen nicht bewältigen. Das aber wird von einem Schüler nicht verlangt: das Wort außerhalb eines Zusammenhangs so, oder so _aufzufassen_, oder zu berichten, wie er's aufgefaßt habe.
 
-### [Ms-144,4r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp),[4v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
+### [Ms-144](/ms-144/#4r.3+4v.1): [4r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp),[4v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
 
 Die Worte “die Rose ist rot” sind sinnlos, wenn das Wort “ist” die Bedeutung von “ist gleich” hat. – Heißt dies: Wenn Du jenen Satz sprichst & “ist” darin als Gleichheitszeichen meinst, so zerfällt Dir der Sinn? Wir nehmen einen Satz & erklären Einem die Bedeutung jedes seiner Wörter; er lernt damit, sie anzuwenden & also auch jenen Satz. Hätten wir statt des Satzes eine Wortreihe ohne Sinn gewählt, so würde er _sie_ nicht anwenden lernen. Und erklärt man das Wort “ist” als Gleichheitszeichen, dann lernt er nicht den Satz “die Rose ist rot” verwenden.
 
-### [Ms-144,4v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
+### [Ms-144](/ms-144/#4v.2): [4v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
 
 Und dennoch hat es auch mit dem ‘Zerfallen des Sinnes’ seine Richtigkeit. Sie liegt in diesem Beispiel: Man könnte Einem sagen: Wenn Du den Ausruf “Ei, ei!” ausdrucksvoll sprechen willst, darfst Du nicht an Eier dabei denken!
 
-### [Ms-144,4v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
+### [Ms-144](/ms-144/#4v.3): [4v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
 
 Das Erleben einer Bedeutung & das Erleben eines Vorstellungsbildes. “Man _erlebt_ hier & dort,” möchte man sagen, “nur etwas Anderes. Ein anderer Inhalt wird dem Bewußtsein dargeboten – steht vor ihm.” – Welcher ist der Inhalt des Vorstellungserlebnisses? Die Antwort ist ein Bild, oder eine Beschreibung. Und was ist der Inhalt des Bedeutungserlebnisses? Ich weiß nicht, wie ich antworten soll. – Wenn jene Äußerung irgendeinen Sinn hat, so ist es der, daß die beiden Begriffe sich ähnlich zu einander verhalten, wie die von ‘rot’ & ‘blau’; & das ist falsch.
 
-### [Ms-144,4v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
+### [Ms-144](/ms-144/#4v.4): [4v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
 
 Kann man das Verstehen einer Bedeutung festhalten wie ein Vorstellungsbild? Wenn mir also plötzlich eine Bedeutung des Wortes einfällt, – kann sie mir auch vor der Seele stehenbleiben?
 
-### [Ms-144,4v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
+### [Ms-144](/ms-144/#4v.5): [4v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4v.webp)
 
 “Der ganze Plan stand mir mit einem Schlage vor der Seele & blieb so fünf Minuten lang stehen.” Warum klingt das seltsam? Man möchte glauben: was aufblitzte & was stehen blieb, konnte nicht dasselbe sein.
 
-### [Ms-144,5r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp)
+### [Ms-144](/ms-144/#5r.1): [5r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp)
 
 Ich rief aus “Jetzt hab ich's!”, es war ein Aufzucken: dann konnte ich den Plan in seinen Einzelheiten darlegen. Was sollte da stehenbleiben? Ein Bild vielleicht. Aber “Jetzt hab' ich's” hieß nicht, ich habe das Bild.
 
-### [Ms-144,5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp)
+### [Ms-144](/ms-144/#5r.2): [5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp)
 
 Wem eine Bedeutung eines Wortes einfiel, & wer sie nicht wieder _vergaß_, kann nun das Wort in dieser Weise anwenden. Wem die Bedeutung einfiel, der _weiß_ sie nun, & der Einfall war der Anfang des Wissens. Wie ist er dann ähnlich einem Vorstellungserlebnis?
 
-### [Ms-144,5r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp)
+### [Ms-144](/ms-144/#5r.3): [5r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp)
 
 Wenn ich sage “Herr Schweizer ist kein Schweizer”, so meine ich das erste “Schweizer” als Eigennamen, das zweite als Gattungsnamen. Muß da also beim ersten “S.” etwas anderes in meinem Geiste vorgehen, als beim zweiten? (Es sei denn, daß ich den Satz ‘papageienhaft’ ausspreche.) – Versuch das erste “S.” als Gattungsnamen & das zweite als Eigennamen zu meinen! – Wie macht man das? Wenn _ich_'s tue, blinzle ich mit den Augen vor Anstrengung, indem ich versuche, mir bei jedem der beiden Worte die richtige Bedeutung vorzuführen. – Aber führe ich mir denn auch beim gewöhnlichen Gebrauch der Wörter ihre Bedeutung vor?
 
-### [Ms-144,5r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp),[5v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5v.webp)
+### [Ms-144](/ms-144/#5r.4+5v.1): [5r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5r.webp),[5v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/5v.webp)
 
 Wenn ich den Satz mit den vertauschten Bedeutungen ausspreche, so zerfällt mir der Satzsinn. – Nun, er zerfällt _mir_, aber nicht dem Andern, dem ich die Mitteilung mache. Was schadet es also? – “Aber es geht eben doch beim gewöhnlichen Aussprechen des Satzes etwas bestimmtes _anderes_ vor.” – Es geht dabei _nicht_ jenes ‘Vorführen der Bedeutung’ vor sich.
 
-### [Ms-144,6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)
+### [Ms-144](/ms-144/#6r.1): [6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)
 
 <span class="series-number">iii.</span> Was macht meine Vorstellung von ihm zu einer Vorstellung von _ihm_? Nicht die Ähnlichkeit des Bildes. Von der Äußerung “Ich sehe ihn jetzt lebhaft vor mir” gilt ja die gleiche Frage, wie von der Vorstellung. Was macht meine Äußerung zu einer Äußerung über _ihn_? – Nichts, was in ihr liegt, oder mit ihr gleichzeitig ist (‘hinter ihr steht’). Wenn Du wissen willst, wen er gemeint hat, frag ihn! (Es kann aber auch sein, daß mir ein Gesicht vorschwebt, ja daß ich es zeichnen kann, & weiß nicht, welcher Person es gehört, wo ich es gesehen habe.)
 
-### [Ms-144,6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)
+### [Ms-144](/ms-144/#6r.2): [6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)
 
 Wenn aber jemand beim Vorstellen, oder statt des Vorstellens zeichnete; wenn auch nur mit dem Finger in der Luft. (Man könnte das “motorische Vorstellung” nennen.) Da könnte man ihn fragen “Wen stellt das vor?” Und seine Antwort entschiede. – Es ist ganz so, als hätte er eine Beschreibung in Worten gegeben, & diese kann eben auch _statt_ der Vorstellung stehen.
 
-### [Ms-144,7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
+### [Ms-144](/ms-144/#7r.1): [7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
 
 <span class="series-number">iv.</span> “Ich glaube, daß er leidet.” ‒ ‒ _Glaube_ ich auch, daß er kein Automat ist? Nur mit Widerstreben könnte ich das Wort in diesen beiden Zusammenhängen aussprechen. (Oder ist es _so_: ich glaube, daß er leidet; ich bin sicher daß er kein Automat ist? Unsinn!)
 
-### [Ms-144,7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
+### [Ms-144](/ms-144/#7r.2): [7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
 
 Denke, ich sage von einem Freunde: “Er ist kein Automat.” – Was wird hier mitgeteilt, & für wen wäre es eine Mitteilung? Für einen _Menschen_, der den Andern unter gewöhnlichen Umständen trifft? Was _könnte_ es ihm mitteilen! (Doch höchstens, daß dieser sich immer wie ein Mensch, nicht manchmal wie eine Maschine benimmt.)
 
-### [Ms-144,7r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
+### [Ms-144](/ms-144/#7r.3): [7r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
 
 “Ich glaube, daß er kein Automat ist” hat, so ohne weiteres, noch gar keinen Sinn.
 
-### [Ms-144,7r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
+### [Ms-144](/ms-144/#7r.4): [7r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
 
 Meine Einstellung zu ihm ist eine Einstellung zur Seele. Ich habe nicht die Meinung, daß er eine Seele hat.
 
-### [Ms-144,7r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
+### [Ms-144](/ms-144/#7r.5): [7r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)
 
 Die Religion lehrt, die Seele könne bestehen, wenn der Leib zerfallen ist. Verstehe ich denn, was sie lehrt? – Freilich verstehe ich's – – ich kann mir dabei manches vorstellen. Man hat ja auch Bilder von diesen Dingen gemalt. Und warum sollte so ein Bild nur die unvollkommene Wiedergabe des ausgesprochenen Gedankens sein? Warum soll es nicht den _gleichen_ Dienst tun, wie das Wort? Und auf den Dienst kommt es an.
 
-### [Ms-144,7v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7v.webp)
+### [Ms-144](/ms-144/#7v.1): [7v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7v.webp)
 
 Wenn sich uns das Bild vom Gedanken im Kopf aufdrängen kann, warum dann nicht noch viel mehr das vom Gedanken in der Seele?
 
-### [Ms-144,7v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7v.webp)
+### [Ms-144](/ms-144/#7v.2): [7v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7v.webp)
 
 Der menschliche Körper ist das beste Bild der menschlichen Seele.
 
-### [Ms-144,7v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7v.webp)
+### [Ms-144](/ms-144/#7v.3): [7v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7v.webp)
 
 Wie ist es aber mit so einen Ausdruck: “Als Du es sagtest, verstand ich es in meinem Herzen”? Dabei deutet man auf's Herz. Und _meint_ man diese Gebärde etwa nicht?! Freilich meint man sie. Oder ist man sich bewußt _nur_ ein Bild zu gebrauchen? Gewiß nicht. – Es ist nicht ein Bild unsrer Wahl, nicht ein Gleichnis, & doch ein bildlicher Ausdruck.
 
-### [Ms-144,8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)
+### [Ms-144](/ms-144/#8r.1): [8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)
 
 <span class="series-number">v.</span> Denk Dir, wir beobachteten die Bewegung eines Punktes (eines Lichtpunktes auf einem Schirm, z.B.). Wichtige Schlüsse der verschiedensten Art könnten sich aus dem Benehmen dieses Punktes ziehen lassen. Aber wie vielerlei läßt sich an ihm beobachten! – Die Bahn des Punktes & gewisse ihrer Maße (z.B. Amplitude & Wellenlänge), oder die Geschwindigkeit & das Gesetz, wonach sie sich ändert, oder die Anzahl, oder die Lage, der Stellen, an denen sie sich sprungweise ändert, oder die Krümmung der Bahn an diesen Stellen, & unzähliges. – Und jeder dieser _Züge_ des Benehmens könnte der einzige sein, welcher uns interessiert. Es könnte z.B. alles an dieser Bewegung uns gleichgültig sein, außer die Zahl der Schlingen in einer gewissen Zeit. – Und wenn uns nun nicht nur _ein_ solcher Zug interessiert, sondern ihrer mehrere, so mag jeder von ihnen uns einen besondern, seiner Art nach von allen andern verschiedenen Aufschluß geben. Und so ist es mit dem Benehmen des Menschen, mit den verschiedenen Charakteristiken dieses Benehmens, die wir beobachten.
 
-### [Ms-144,8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)
+### [Ms-144](/ms-144/#8r.2): [8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)
 
 So handelt die Psychologie vom Benehmen, nicht von der Seele? Was berichtet der Psychologe? – Was beobachtet er? Nicht das Benehmen der Menschen, insbesondere ihre Äußerungen? Aber _diese_ handeln nicht vom Benehmen.
 
-### [Ms-144,8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)
+### [Ms-144](/ms-144/#8r.3+8v.1): [8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)
 
 “Ich merkte, er war verstimmt.” Ist das ein Bericht über das Benehmen, oder den Seelenzustand? (“Der Himmel sieht drohend aus”: handelt das von der Gegenwart, oder von der Zukunft?) Beides; aber nicht im Nebeneinander; sondern vom einen durch das andere.
 
-### [Ms-144,8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)
+### [Ms-144](/ms-144/#8v.2): [8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)
 
 Der Arzt fragt: “Wie fühlt er sich?” Die Krankenschwester sagt: “Er stöhnt.” Ein Bericht über's Benehmen. Aber muß die Frage für die Beiden überhaupt existieren, ob dieses Stöhnen wirklich echt, wirklich der Ausdruck von etwas ist? Könnten sie nicht z.B. den Schluß ziehen “Wenn er stöhnt so müssen wir ihm noch ein schmerzstillendes Mittel geben” – ohne ein Mittelglied zu verschweigen? Kommt es denn nicht auf den Dienst an, in welchen sie die Beschreibung des Benehmens stellen?
 
-### [Ms-144,8v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)
+### [Ms-144](/ms-144/#8v.3): [8v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)
 
 “Aber diese machen dann eben eine stillschweigende Voraussetzung.” Dann ruht der Vorgang unsres Sprachspiels immer auf einer stillschweigenden Voraussetzung.
 
-### [Ms-144,8v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp),[9r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/9r.webp)
+### [Ms-144](/ms-144/#8v.4+9r.1): [8v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp),[9r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/9r.webp)
 
 Ich beschreibe ein psychologisches Experiment: den Apparat, die Fragen des Experimentators, die Handlungen & Antworten des Subjekts – und nun sage ich, dies sei eine Szene in einem Theaterstück. – Nun hat sich alles geändert. Man wird also erklären: Wenn in einem Buch über Psychologie dieses Experiment in gleicher Weise beschrieben wäre, so würde die Beschreibung des Benehmens eben als Ausdruck von Seelischem verstanden, weil man _voraussetzt_, das Subjekt halte uns nicht zum Besten, habe die Antworten nicht auswendig gelernt, & dergleichen mehr. – Wir machen also eine Voraussetzung? Würden wir uns wirklich so äußern: “Ich mache natürlich die Voraussetzung, daß …”? – Oder nur darum nicht, weil der Andre das schon weiß?
 
-### [Ms-144,9r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/9r.webp)
+### [Ms-144](/ms-144/#9r.2): [9r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/9r.webp)
 
 Besteht eine Voraussetzung nicht, wo ein Zweifel besteht? Und der Zweifel kann gänzlich fehlen. Das Zweifeln hat ein Ende.
 
-### [Ms-144,9r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/9r.webp)
+### [Ms-144](/ms-144/#9r.3): [9r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/9r.webp)
 
 Es ist hier wie mit dem Verhältnis: physikalischer Gegenstand & Sinneseindrücke. Wir haben (hier) _zwei_ Sprachspiele, & ihre Beziehungen zu einander sind komplizierter Art. – Will man diese Beziehungen auf eine _einfache_ Formel bringen, so geht man fehl.
 
-### [Ms-144,10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)
+### [Ms-144](/ms-144/#10r.1): [10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)
 
 <span class="series-number">vi.</span> Denk Dir, Einer sagte: jedes uns wohlbekannte Wort, eines Buchs z.B., habe in unserm Geiste schon einen Dunstkreis, einen ‘Hof’ schwach angedeuteter Verwendungen um sich. – So, als wäre auf einem Gemälde jede der Figuren auch von zarten, nebelhaft gezeichneten Szenen, gleichsam in einer andern Dimension, umgeben, und wir sähen die Figuren hier in andern Zusammenhängen. – Machen wir nur Ernst mit dieser Annahme! – Da zeigt es sich, daß sie die _Intention_ nicht zu erklären vermag. Wenn es nämlich so ist, daß die Möglichkeiten der Verwendung eines Wortes beim Sprechen oder Hören uns in Halbtönen vorschweben – wenn es so ist, so gilt das eben für _uns_. Aber wir verständigen uns mit Andern, ohne zu wissen, ob auch sie diese Erlebnisse haben.
 
-### [Ms-144,10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)
+### [Ms-144](/ms-144/#10r.2): [10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)
 
 Was würden wir denn Einem entgegnen, der uns mitteilte bei _ihm_ sei das Verstehen ein innerer Vorgang? ‒ ‒ Was würden wir ihm entgegnen, wenn er sagte, bei ihm sei das Schachspielenkönnen ein innerer Vorgang? – Daß nichts, was in ihm vorgeht, uns interessiert, wenn wir wissen wollen, ob er Schach spielen kann. – Und wenn er nun darauf antwortet, es interessiere uns eben doch: – nämlich, ob er Schach spielen könne, – da müßten wir ihn auf die Kriterien aufmerksam machen, die uns seine Fähigkeit beweisen würden, & anderseits auf die Kriterien der ‘inneren Zustände’. Auch wenn Einer nur dann, & nur solange, das & das könnte, als er etwas bestimmtes fühlt, wäre das Gefühl nicht die Fähigkeit.
 
-### [Ms-144,10v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
+### [Ms-144](/ms-144/#10v.1): [10v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
 
 Die Bedeutung ist nicht das Erlebnis beim Hören oder Aussprechen des Wortes, & der Sinn des Satzes nicht der Komplex dieser Erlebnisse. – (Wie setzt sich der Sinn des Satzes: “Ich habe ihn noch immer nicht gesehen” aus den Bedeutungen seiner Wörter zusammen?) Der Satz ist aus den Wörtern zusammengesetzt, & das ist genug.
 
-### [Ms-144,10v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
+### [Ms-144](/ms-144/#10v.2): [10v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
 
 Jedes Wort – so möchte man sagen – kann zwar in verschiedenen Zusammenhängen verschiedenen Charakter haben, aber es hat doch immer _einen_ Charakter – ein Gesicht. Es schaut uns doch an. – Aber auch ein _gemaltes_ Gesicht schaut uns an.
 
-### [Ms-144,10v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
+### [Ms-144](/ms-144/#10v.3): [10v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
 
 Bist Du sicher, daß es _ein_ Wenn-Gefühl gibt; nicht vielleicht mehrere? Hast Du versucht, das Wort in sehr verschiedenartigen Zusammenhängen auszusprechen? Wenn es z.B. den Hauptton des Satzes trägt, & wenn ihn das nächste Wort trägt.
 
-### [Ms-144,10v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
+### [Ms-144](/ms-144/#10v.4): [10v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10v.webp)
 
 Denk Dir, wir fänden einen Menschen, der uns, über seine Wortgefühle, sagt: für ihn hätte “wenn” & “aber” das _gleiche_ Gefühl. – Dürften wir ihm das nicht glauben? Es würde uns vielleicht befremden. “Er spielt gar nicht unser Spiel” möchte man sagen. Oder auch: “Das ist ein anderer Typus.” Würden wir von diesem nicht glauben, er verstehe die Worte “wenn” & “aber”, so wie wir sie verstehen, wenn er sie so _verwendet_, wie wir?
 
-### [Ms-144,11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
+### [Ms-144](/ms-144/#11r.1): [11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
 
 Man schätzt das psychologische Interesse des Wenn-Gefühls falsch ein, wenn man es als selbstverständliches Korrelat einer Bedeutung ansieht; es muß vielmehr in einem andern Zusammenhang gesehen werden, in dem, der besondern Umstände, unter denen es auftritt.
 
-### [Ms-144,11r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
+### [Ms-144](/ms-144/#11r.2): [11r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
 
 Hat Einer das Wenn-Gefühl nie, wenn er das Wort “wenn” nicht ausspricht? Es ist doch jedenfalls merkwürdig, wenn nur diese Ursache dies Gefühl hervorruft. Und so ist es überhaupt mit der ‘Atmosphäre’ eines Worts: – warum sieht man es als so selbstverständlich an, daß nur _dies_ Wort diese Atmosphäre hat?
 
-### [Ms-144,11r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
+### [Ms-144](/ms-144/#11r.3): [11r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
 
 Das Wenn-Gefühl ist nicht ein Gefühl, das das Wort “wenn” begleitet.
 
-### [Ms-144,11r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
+### [Ms-144](/ms-144/#11r.4): [11r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
 
 Das Wenn-Gefühl müßte zu vergleichen sein dem besondern ‘Gefühl’, das eine musikalische Phrase uns gibt. (So ein Gefühl beschreibt man manchmal, indem man sagt “Es ist hier, als ob ein Schluß gezogen würde”, oder “Ich möchte sagen ‘_also_ …’”, oder “Ich möchte hier immer eine Geste machen –” & (nun) macht (man) sie.)
 
-### [Ms-144,11r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
+### [Ms-144](/ms-144/#11r.5): [11r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
 
 Aber kann man dies Gefühl von der Phrase trennen? Und doch ist es nicht die Phrase selbst; denn Einer kann sie hören ohne dies Gefühl.
 
-### [Ms-144,11r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
+### [Ms-144](/ms-144/#11r.6): [11r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11r.webp)
 
 Ist es darin ähnlich dem ‘Ausdruck’ mit welchem sie gespielt wird?
 
-### [Ms-144,11v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
+### [Ms-144](/ms-144/#11v.1): [11v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
 
 Wir sagen, diese Stelle gibt uns ein ganz besonderes Gefühl. Wir singen sie uns vor, & machen dabei eine gewisse Bewegung, haben vielleicht auch irgend eine besondere Empfindung. Aber diese Begleitungen – die Bewegung, die Empfindung – würden wir in anderem Zusammenhang gar nicht wiedererkennen. Sie sind ganz leer, außer eben, wenn wir diese Stelle singen.
 
-### [Ms-144,11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
+### [Ms-144](/ms-144/#11v.2): [11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
 
 “Ich singe sie mit einem ganz bestimmten Ausdruck”. Dieser Ausdruck ist nicht etwas, was man von der Stelle trennen kann. Es ist ein anderer Begriff. (Ein anderes Spiel.)
 
-### [Ms-144,11v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
+### [Ms-144](/ms-144/#11v.3): [11v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
 
 Das Erlebnis ist diese Stelle, so gespielt (_so_, wie ich es etwa vormache; eine Beschreibung könnte es nur _andeuten_).
 
-### [Ms-144,11v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
+### [Ms-144](/ms-144/#11v.4): [11v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/11v.webp)
 
 Die vom Ding untrennbare Atmosphäre, – sie ist also keine Atmosphäre. Was mit einander innig assoziiert ist, assoziiert _wurde_, das scheint zueinander zu passen. Aber wie scheint es das? wie äußert sich's, daß es zu passen scheint? Etwa so: Wir können uns nicht denken, daß der Mann, der diesen Namen, dies Gesicht, diese Schriftzüge hatte, nicht _diese_ Werke, sondern etwa ganz andere (die eines andern großen Mannes) hervorgebracht hat. Wir können uns das nicht denken? Versuchen wir's denn? –
 
-### [Ms-144,12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/12r.webp)
+### [Ms-144](/ms-144/#12r.1): [12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/12r.webp)
 
 Es könnte so sein: Ich höre, es male jemand ein Bild “Beethoven beim Schreiben der neunten Symphonie”. Ich könnte mir leicht vorstellen, was etwa auf so einem Bild zu sehen wäre. Aber wie, wenn Einer darstellen wollte, wie Goethe ausgesehen hätte beim Schreiben der neunten Symphonie? Da wüßte ich mir nichts vorzustellen, was nicht peinlich & lächerlich wäre.
 
-### [Ms-144,14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)
+### [Ms-144](/ms-144/#14r.1): [14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)
 
 <span class="series-number">vii.</span> Leute, die uns nach dem Erwachen gewisse Begebenheiten erzählen (sie seien dort & dort gewesen, etc.). Wir lehren sie nun den Ausdruck “Mir hat geträumt”, dem die Erzählung folgt. Ich frage sie dann manchmal “Hat Dir heute nacht etwas geträumt?” & erhalte eine bejahende, oder eine verneinende Antwort, manchmal eine Traumerzählung, manchmal keine. Das ist das Sprachspiel. (Ich habe jetzt angenommen, daß ich selbst nicht träume. Aber ich habe ja auch nie Gefühle einer unsichtbaren Gegenwart & Andre haben sie, & ich kann sie über ihre Erfahrungen befragen.) Muß ich nun eine Annahme darüber machen, ob die Leute ihr Gedächtnis getäuscht hat, oder nicht; ob sie wirklich während des Schlafs diese Bilder vor sich gesehen haben, oder ob es ihnen nur nach dem Erwachen so vorkommt? Und welchen Sinn hat diese Frage? – Und welches Interesse?! Fragen wir uns das je, wenn uns Einer seinen Traum erzählt? Und wenn nicht, – ist es, weil wir sicher sind, sein Gedächtnis werde ihn nicht getäuscht haben? (Und angenommen, es wäre ein Mensch mit ganz besonders schlechtem Gedächtnis. –)
 
-### [Ms-144,14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)
+### [Ms-144](/ms-144/#14r.2): [14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)
 
 Und heißt das, es sei unsinnig, je die Frage zu stellen: ob der Traum wirklich während des Schlafs vorsichgehe, oder ein Gedächtnisphänomen des Erwachten sei? Es kommt auf die Verwendung der Frage an.
 
-### [Ms-144,14r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp),[14v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14v.webp)
+### [Ms-144](/ms-144/#14r.3+14v.1): [14r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp),[14v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14v.webp)
 
 “Es scheint, der Geist kann dem Wort Bedeutung geben.” – Ist das nicht, als sagte ich: “Es scheint, daß im Benzol die C-Atome an den Ecken eines Sechsecks liegen”? Das ist doch kein Schein; es ist ein Bild.
 
-### [Ms-144,14v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14v.webp)
+### [Ms-144](/ms-144/#14v.2): [14v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14v.webp)
 
 Die Evolution der höheren Tiere & des Menschen & das Erwachen des Bewußtseins auf einer bestimmten Stufe. Das Bild ist etwa dies: Die Welt ist, trotz aller Ätherschwingungen, die sie durchziehen, dunkel. Eines Tages aber macht der Mensch sein sehendes Auge auf, & es wird hell. Unsere Sprache beschreibt zuerst einmal ein Bild. Was mit dem Bild zu geschehen hat, wie es zu verwenden ist, bleibt im Dunkeln. Aber es ist ja klar, daß es erforscht werden muß, wenn man den Sinn unsrer Aussage verstehen will. Das Bild aber scheint uns dieser Arbeit zu überheben; es deutet schon auf eine bestimmte Verwendung. Dadurch hat es uns zum Besten.
 
-### [Ms-144,15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)
+### [Ms-144](/ms-144/#15r.1): [15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)
 
 <span class="series-number">viii.</span> “Meine kinästhetischen Empfindungen belehren mich über die Bewegungen & Lagen meiner Glieder.” Ich lasse meinen Zeigefinger eine leichte pendelnde Bewegung mit kleinem Ausschlag machen. Ich spüre sie kaum, oder gar nicht. Vielleicht ein wenig in der Fingerspitze als ein leichtes Spannen. (Gar nicht im Gelenk.) Und diese Empfindung belehrt mich über die Bewegung? – denn ich kann sie genau beschreiben.
 
-### [Ms-144,15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)
+### [Ms-144](/ms-144/#15r.2): [15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)
 
 “Du mußt sie eben doch fühlen, sonst wüßtest Du nicht (ohne zu schauen) wie sich Dein Finger bewegt.” Aber, es “wissen”, heißt nur: es beschreiben können. – Ich mag die Richtung, aus der ein Schall kommt nur angeben können, weil er das eine Ohr stärker affiziert als das andre; aber das spüre ich nicht in den Ohren; es bewirkt aber: ich _weiß_, aus welcher Richtung der Schall kommt, ich blicke z.B. in dieser Richtung.
 
-### [Ms-144,15r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)
+### [Ms-144](/ms-144/#15r.3): [15r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)
 
 So geht es auch mit den Ideen, daß ein Merkmal der Schmerzempfindung uns über ihren Ort am Körper belehren muß, & ein Merkmal des Erinnerungsbildes über die Zeit, in die es fällt.
 
-### [Ms-144,15r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp),[15v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
+### [Ms-144](/ms-144/#15r.4+15v.1): [15r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp),[15v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
 
 Eine Empfindung _kann_ uns über die Bewegung, oder Lage eines Gliedes belehren. (Wer z.B. nicht, wie der Normale, wüßte, ob sein Arm gestreckt sei, den könnte ein stechender Schmerz im Ellbogen davon überzeugen.) – Und so kann auch der Charakter eines Schmerzes uns über den Sitz der Verletzung belehren. (Und die Vergilbtheit einer Photographie über ihr Alter.)
 
-### [Ms-144,15v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
+### [Ms-144](/ms-144/#15v.2): [15v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
 
 Was ist das Kriterium dafür, daß mich ein Sinneseindruck über die Form & die Farbe belehrt?
 
-### [Ms-144,15v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
+### [Ms-144](/ms-144/#15v.3): [15v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
 
 _Welcher_ Sinneseindruck? Nun _dieser_; ich beschreibe ihn durch Worte, oder durch ein Bild. Und nun: was fühlst Du, wenn Deine Finger in dieser Lage sind? – “Wie soll man ein Gefühl erklären? Es ist etwas unerklärbares, besonderes.” Aber den Gebrauch der Worte muß man doch lehren können!
 
-### [Ms-144,15v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
+### [Ms-144](/ms-144/#15v.4): [15v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
 
 Ich suche nun nach dem grammatischen Unterschied.
 
-### [Ms-144,15v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
+### [Ms-144](/ms-144/#15v.5): [15v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp)
 
 Sehen wir einmal vom kinästhetischen Gefühl ab! – Ich will Einem ein Gefühl beschreiben, & sage ihm “Mach's _so_, dann wirst Du's haben”, dabei halte ich meinen Arm, oder meinen Kopf in bestimmten Lage. Ist das nun eine Beschreibung eines Gefühls, & wann werde ich sagen, er habe verstanden, welches Gefühl ich gemeint habe? – Er wird daraufhin noch eine _weitere_ Beschreibung des Gefühls geben müssen. Und welcher Art muß die sein?
 
-### [Ms-144,15v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp),[16r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/16r.webp)
+### [Ms-144](/ms-144/#15v.6+16r.1): [15v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15v.webp),[16r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/16r.webp)
 
 Ich sage “Mach's _so_, dann wirst Du's haben.” Kann da nicht ein Zweifel sein? muß nicht einer sein, wenn ein Gefühl gemeint ist?
 
-### [Ms-144,16r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/16r.webp)
+### [Ms-144](/ms-144/#16r.2): [16r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/16r.webp)
 
 _Das_ schaut _so_ aus; _das_ schmeckt _so_; _das_ fühlt sich _so_ an. “das” & “so” müssen verschieden erklärt werden.
 
-### [Ms-144,16r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/16r.webp)
+### [Ms-144](/ms-144/#16r.3): [16r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/16r.webp)
 
 Ein ‘Gefühl’ hat für uns ein ganz _bestimmtes_ Interesse. Und dazu gehört z.B. der ‘Grad des Gefühls’, der ‘Ort’, die Übertäubbarkeit des einen durch ein anderes. (Wenn die Bewegung sehr schmerzhaft ist, so daß der Schmerz jede andre leise Empfindung an dieser Stelle übertäubt, wird es dadurch unsicher, ob Du diese Bewegung wirklich gemacht hast? Könnte es Dich etwa dazu bringen, daß Du Dich mit den Augen davon überzeugst?)
 
-### [Ms-144,18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)
+### [Ms-144](/ms-144/#18r.1): [18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)
 
 <span class="series-number">ix.</span> Wer den eigenen Kummer beobachtet, mit welchen Sinnen beobachtet er ihn? Mit einem besondern Sinn; mit einem, der den Kummer _fühlt_? So fühlt er ihn _anders_, wenn er ihn beobachtet? Und welchen beobachtet er nun; den, welcher nur da ist, während er beobachtet wird? ‘Beobachten’ erzeugt nicht das Beobachtete. (Das ist eine begriffliche Feststellung.) Oder: Ich ‘beobachte’ nicht _das_, was durch's Beobachten erst entsteht. Das Objekt des Beobachtens ist ein Anderes.
 
-### [Ms-144,18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)
+### [Ms-144](/ms-144/#18r.2): [18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)
 
 Eine Berührung, die gestern noch schmerzhaft war, ist es heute nicht mehr. Heute fühle ich den Schmerz nur mehr, wenn ich an ihn denke. (D.h.: unter gewissen Umständen.) Mein Kummer ist nicht mehr der gleiche: eine Erinnerung, die mir vor einem Jahr noch unerträglich war, ist es mir heute nicht mehr. Das ist das Resultat einer Beobachtung.
 
-### [Ms-144,18r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)
+### [Ms-144](/ms-144/#18r.3): [18r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)
 
 Wann sagt man: jemand beobachte? Ungefähr: Wenn er sich eine günstige Lage versetzt, gewisse Eindrücke zu erhalten, um (z.B.) was sie ihn lehren, zu beschreiben.
 
-### [Ms-144,18r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp),[18v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)
+### [Ms-144](/ms-144/#18r.4+18v.1): [18r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp),[18v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)
 
 Wen man abgerichtet hätte, beim Anblick von etwas Rotem einen bestimmten Laut auszustoßen, beim Anblick von etwas Gelbem einen andern, & so fort für andre Farben, der würde damit noch nicht Gegenstände nach ihren Farben beschreiben. Obwohl er uns zu einer Beschreibung verhelfen könnte. Eine Beschreibung ist eine Abbildung einer Verteilung in einem Raum (der Zeit z.B.).
 
-### [Ms-144,18v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)
+### [Ms-144](/ms-144/#18v.2): [18v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)
 
 Ich lasse meinen Blick in einem Zimmer umherschweifen, plötzlich fällt er auf einen Gegenstand von auffallender roter Färbung, & ich sage “Rot!” – damit habe ich keine Beschreibung gegeben.
 
-### [Ms-144,18v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)
+### [Ms-144](/ms-144/#18v.3): [18v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)
 
 Sind die Worte “Ich fürchte mich” eine Beschreibung eines Seelenzustandes?
 
-### [Ms-144,18v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp),[19r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
+### [Ms-144](/ms-144/#18v.4+19r.1): [18v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp),[19r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
 
 Ich sage “Ich fürchte mich”, der Andre fragt mich: “Was war das? Ein Schrei der Angst; oder wolltest Du mir mitteilen, wie Dir's zumute ist; war es eine Betrachtung über Deinen gegenwärtigen Zustand?” – Könnte ich ihm immer eine klare Antwort geben? könnte ich ihm nie eine geben? Man kann sich sehr Verschiedenes vorstellen, z.B.: “Nicht, nicht! Ich fürchte mich!” “Ich fürchte mich. Ich muß es leider gestehen.” “Ich fürchte mich noch immer ein wenig, aber nicht mehr so, wie früher.” “Ich fürchte mich im Grunde noch immer, obwohl ich mir's nicht gestehn will.” “Ich quäle mich selbst mit allerlei Furchtgedanken.” “Ich fürchte mich, jetzt, wo ich furchtlos sein sollte!” Zu jedem dieser Sätze gehört ein besonderer Tonfall, zu jedem ein anderer Zusammenhang. Man könnte sich Menschen denken, die gleichsam viel bestimmter dächten, als wir, & wo wir _ein_ Wort verwenden, verschiedene verwendeten.
 
-### [Ms-144,19r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
+### [Ms-144](/ms-144/#19r.2): [19r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
 
 Man fragt sich “Was bedeutet ‘ich fürchte mich’ eigentlich, worauf ziele ich damit?” Und es kommt natürlich keine Antwort, oder eine, die nicht genügt. Die Frage ist: “In welcher Art Zusammenhang steht es?”
 
-### [Ms-144,19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
+### [Ms-144](/ms-144/#19r.3): [19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
 
 Es kommt keine Antwort, wenn ich die Frage “Worauf ziele ich?”, “Was denke ich dabei?” dadurch beantworten will, daß ich die Furchtäußerung wiederhole & dabei auf mich achtgebe, aus dem Augenwinkel gleichsam meine Seele beobachte. Ich kann aber allerdings in einem konkreten Fall fragen “Warum habe ich das gesagt, was wollte ich damit?” – & ich könnte die Frage auch beantworten; aber nicht auf Grund der Beobachtung von Begleiterscheinungen des Sprechens. Und meine Antwort würde die frühere Äußerung ergänzen, paraphrasieren.
 
-### [Ms-144,19r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
+### [Ms-144](/ms-144/#19r.4): [19r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
 
 Was ist Furcht? Was heißt “sich fürchten”? Wenn ich's mit _einem_ Zeigen erklären wollte – würde ich die Furcht _spielen_.
 
-### [Ms-144,19r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
+### [Ms-144](/ms-144/#19r.5): [19r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19r.webp)
 
 Könnte ich Hoffen auch so darstellen? Kaum. Oder gar Glauben?
 
-### [Ms-144,19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
+### [Ms-144](/ms-144/#19v.1): [19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
 
 Meinen Seelenzustand (der Furcht etwa) beschreiben, das tue ich in einem bestimmten Zusammenhang. (Wie eine bestimmte Handlung nur in einem bestimmten Zusammenhang ein Experiment ist.) Ist es denn so erstaunlich, daß ich den gleichen Ausdruck in verschiedenen Spielen verwende? Und manchmal auch, gleichsam, zwischen den Spielen?
 
-### [Ms-144,19v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
+### [Ms-144](/ms-144/#19v.2): [19v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
 
 Und rede ich denn immer mit sehr bestimmter Absicht? – Und ist darum, was ich sage, sinnlos?
 
-### [Ms-144,19v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
+### [Ms-144](/ms-144/#19v.3): [19v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
 
 Wenn es in einer Leichenrede heißt “Wir trauern um unsern …”, so soll das doch der Trauer Ausdruck geben; nicht den Anwesenden etwas mitteilen. Aber in einem Gebet am Grabe wären diese Worte eine Art von Mitteilung.
 
-### [Ms-144,19v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
+### [Ms-144](/ms-144/#19v.4): [19v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
 
 Das Problem ist doch dies: Der Schrei, den man keine Beschreibung nennen kann, der primitiver ist als jede Beschreibung, tut gleichwohl den Dienst einer Beschreibung des Seelenlebens.
 
-### [Ms-144,19v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
+### [Ms-144](/ms-144/#19v.5): [19v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp)
 
 Ein Schrei ist keine Beschreibung. Aber es gibt Übergänge. Und die Worte “Ich fürchte mich” können näher & entfernter von einem Schrei sein. Sie können ihm ganz nahe liegen, & _ganz_ weit von ihm entfernt sein.
 
-### [Ms-144,19v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/20r.webp)
+### [Ms-144](/ms-144/#19v.6+20r.1): [19v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/19v.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/20r.webp)
 
 Wir sagen doch nicht unbedingt von Einem, er _klage_, weil er sagt, er habe Schmerzen. Also können die Worte “Ich habe Schmerzen” eine Klage, & auch etwas anderes sein.
 
-### [Ms-144,20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/20r.webp)
+### [Ms-144](/ms-144/#20r.2): [20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/20r.webp)
 
 Ist aber “Ich fürchte mich” nicht immer, & doch manchmal, etwas der Klage ähnliches, warum soll es dann _immer_ eine Beschreibung meines Seelenzustandes sein?
 
-### [Ms-144,21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)
+### [Ms-144](/ms-144/#21r.1): [21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)
 
 <span class="series-number">x.</span> Wie ist man je dazugekommen, einen Ausdruck wie “Ich glaube …” zu gebrauchen? Ist man einmal auf ein Phänomen (des Glaubens) aufmerksam geworden? Hatte man sich selbst & die Andern beobachtet & so das Glauben gefunden?
 
-### [Ms-144,21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)
+### [Ms-144](/ms-144/#21r.2): [21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)
 
 Moore's Paradox läßt sich so aussprechen: Die Äußerung “Ich glaube, es verhält sich so” wird ähnlich verwendet der Behauptung “Es verhält sich so”; & doch die _Annahme_, ich glaube, es verhalte sich so, nicht ähnlich der Annahme, es verhalte sich so.
 
-### [Ms-144,21v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
+### [Ms-144](/ms-144/#21v.2): [21v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
 
 [] Da scheint es ja, als wäre die Behauptung “Ich glaube” nicht die Behauptung dessen, was die Annahme “ich glaube” annimmt!
 
-### [Ms-144,21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)
+### [Ms-144](/ms-144/#21r.3): [21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)
 
 Ebenso: Die Aussage “Ich glaube, es wird regnen” hat einen ähnlichen Sinn, d.h., ähnliche Verwendung, wie “Es wird regnen”, aber “Ich glaubte damals, es werde regnen” nicht einen ähnlichen, wie “Es hat damals geregnet”. “Aber es muß doch ‘Ich glaubte’ eben _das_ in der Vergangenheit sagen, was “Ich glaubte’ in der Gegenwart!” – Es muß doch √‒1 eben das für ‒ 1 bedeuten, was √1 für 1 bedeutet! Das heißt gar nichts.
 
-### [Ms-144,21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
+### [Ms-144](/ms-144/#21r.4+21v.1): [21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
 
 “Im Grunde beschreibe ich mit den Worten ‘Ich glaube …’ den eigenen Geisteszustand, – aber diese Beschreibung ist hier indirekt eine Behauptung des geglaubten Tatbestandes selbst.” – Wie ich, unter Umständen, eine Photographie beschreibe, um das zu beschreiben, wovon sie eine Aufnahme ist. Aber dann muß ich noch sagen können, daß die Photographie eine gute Aufnahme ist. Also auch: “Ich glaube, daß es regnet, & mein Glaube ist verläßlich, also verlasse ich mich auf ihn.” – Dann wäre mein Glaube eine Art Sinneseindruck.
 
 >
 
-### [Ms-144,21v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
+### [Ms-144](/ms-144/#21v.6): [21v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
 
 Man kann den eigenen Sinnen mißtrauen, aber nicht dem eigenen Glauben.
 
-### [Ms-144,21v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
+### [Ms-144](/ms-144/#21v.3): [21v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
 
 Gäbe es ein Verbum mit der Bedeutung ‘fälschlich glauben’, so hätte das keine sinnvolle erste Person im Indikativ des Präsens.
 
-### [Ms-144,21v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
+### [Ms-144](/ms-144/#21v.4): [21v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
 
 Sieh's nicht als selbstverständliche an, sondern als etwas sehr Merkwürdiges, daß die Verben “glauben”, “wünschen”, “wollen”, alle die grammatischen Formen aufweisen, die “schneiden”, “kauen”, “laufen” auch haben.
 
-### [Ms-144,21v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
+### [Ms-144](/ms-144/#21v.5): [21v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)
 
 Das Sprachspiel der Meldung kann so gewendet werden, daß die Meldung den Empfänger nicht über ihren Gegenstand unterrichten soll; sondern über den Meldenden. So ist es z.B., wenn der Lehrer den Schüler prüft. (Man kann messen, um den Maßstab zu prüfen.)
 
-### [Ms-144,21v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp),[22r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
+### [Ms-144](/ms-144/#21v.7+22r.1): [21v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp),[22r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
 
 Angenommen, ich führte einen Ausdruck – z.B. den: “Ich glaube” – so ein: Er soll dort der Meldung vorgesetzt werden, wo sie dazu dient über den Meldenden selbst Auskunft zu geben. (Es braucht dem Ausdruck also keine Unsicherheit anzuhängen. Bedenke, daß die Unsicherheit der Behauptung sich auch unpersönlich ausdrücken läßt: “Er dürfte heute kommen”.) – “Ich glaube …, & es ist nicht so” wäre ein Widerspruch.
 
-### [Ms-144,22r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
+### [Ms-144](/ms-144/#22r.2): [22r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
 
 “Ich glaube …” beleuchtet meinen Zustand. Es lassen sich aus dieser Äußerung Schlüsse auf mein Verhalten ziehen. Also ist hier eine _Ähnlichkeit_ mit den Äußerungen der Gemütsbewegung, der Stimmung etc..
 
-### [Ms-144,22r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
+### [Ms-144](/ms-144/#22r.3): [22r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
 
 Wenn aber “Ich glaube, es sei so” meinen Zustand beleuchtet, dann auch die Behauptung “Es ist so”. Denn das Zeichen “Ich glaube” kann's nicht machen; kann es höchstens andeuten.
 
-### [Ms-144,22r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
+### [Ms-144](/ms-144/#22r.4): [22r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp)
 
 Eine Sprache, in der “Ich glaube, es ist so” nur durch den Ton der Behauptung “Es ist so” ausgedrückt wird. Statt “Er glaubt” heißt es dort “Er ist geneigt, zu sagen …” & es gibt auch die Annahme (den Konjunktiv) “Angenommen, ich sei geneigt etc.”, aber nicht eine Äußerung: “Ich bin geneigt, zu sagen”. Moore's Paradox gäbe es in dieser Sprache nicht; statt dessen aber ein Verbum, dem eine Form fehlt. Das aber sollte uns nicht überraschen. Denk daran, daß man die _eigene_ künftige Handlung in der Äußerung der Absicht vorhersagen kann.
 
-### [Ms-144,22r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp),[22v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
+### [Ms-144](/ms-144/#22r.5+22v.1): [22r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22r.webp),[22v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
 
 Ich sage vom Andern “Er scheint zu glauben …” & Andre sagen es von mir. Nun, warum sage ich's nie von mir, auch dann, wenn es die Andern _mit Recht_ von mir sagen? – Sehe & höre ich mich selbst denn nicht? – Man kann es sagen.
 
-### [Ms-144,22v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
+### [Ms-144](/ms-144/#22v.2): [22v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
 
 “Die Überzeugung fühlt man in sich, man schließt nicht auf sie aus den eigenen Worten, oder ihrem Tonfall.” – Wahr ist: Man schließt nicht aus den eigenen Worten auf die eigene Überzeugung; oder auf die Handlungen, die dieser entspringen.
 
-### [Ms-144,22v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
+### [Ms-144](/ms-144/#22v.3): [22v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
 
 “Da scheint es ja, als wäre die Behauptung ‘Ich glaube’ nicht die Behauptung dessen, was die Annahme annimmt.” – Ich bin also versucht nach einer andern Fortsetzung des Verbums in die erste Person des Indikativ Präsens auszuschauen.
 
-### [Ms-144,22v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
+### [Ms-144](/ms-144/#22v.4): [22v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
 
 Ich denke so: Glauben ist ein Zustand der Seele. Er dauert an; & unabhängig vom Ablauf seines Ausdrucks in einem Satz, z.B.. Er ist also eine Art von Disposition des Glaubenden. Die offenbart mir, im Andern, sein Benehmen; seine Worte. Und zwar ebensowohl eine Äußerung “Ich glaube …”, wie seine einfache Behauptung. – Wie ist es nun mit mir: wie erkenne ich selbst die eigene Disposition? – Da müßte ich ja wie der Andre auf mich achtgeben, auf meine Worte hören, aus ihnen Schlüsse ziehen können!
 
-### [Ms-144,22v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
+### [Ms-144](/ms-144/#22v.5): [22v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/22v.webp)
 
 Ich habe zu meinen eigenen Worten eine ganz andre Einstellung als die Andern.
 
-### [Ms-144,23r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
+### [Ms-144](/ms-144/#23r.4): [23r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
 
 Jene Fortsetzung könnte ich finden, wenn ich nur sagen könnte “Ich scheine zu glauben”.
 
-### [Ms-144,23r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
+### [Ms-144](/ms-144/#23r.1): [23r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
 
 Horchte ich auf die Rede meines Mundes, so könnte ich sagen, ein Andrer spreche aus meinem Mund.
 
-### [Ms-144,23r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
+### [Ms-144](/ms-144/#23r.2): [23r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
 
 “Nach meiner Äußerung zu urteilen, glaube ich _das_.” Nun, es ließen sich Umstände ausdenken, in denen diese Worte Sinn hätten. Und dann könnte Einer auch sagen “Es regnet & ich glaube es nicht”, oder “Mir scheint, mein Ego glaubt das, aber es ist nicht so.” Man müßte sich dazu ein Benehmen ausmalen, das darauf deutet, zwei Wesen sprächen aus meinem Munde.
 
-### [Ms-144,23r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
+### [Ms-144](/ms-144/#23r.3): [23r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)
 
 Die Linie liegt schon in der _Annahme_ anders, als Du denkst. In den Worten “Angenommen, ich glaube …” setzt Du schon die ganze Grammatik des Wortes “glauben” voraus, den gewöhnlichen Gebrauch, den Du beherrscht. – Du nimmst nicht etwas an, was Dir, sozusagen, eindeutig durch ein Bild vor Augen steht, so daß Du dann eine andere als die gewöhnliche Behauptung an diese Annahme anstückeln kannst. – Du wüßtest gar nicht, was Du hier annimmst (d.h., was z.B. aus so einer Annahme folgt), wenn Dir nicht schon die Verwendung von “glauben” geläufig wäre.
 
-### [Ms-144,23r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp),[23v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
+### [Ms-144](/ms-144/#23r.6+23v.1): [23r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp),[23v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
 
 Denk an den Ausdruck “Ich sage …”, z.B. in “Ich sage, es wird heute regnen”, welches einfach der Behauptung “Es wird …” gleichkommt. “Er sagt, es wird …” heißt beiläufig “Er glaubt, es wird …”. “Angenommen, ich sage …” heißt _nicht_: Angenommen, es werde heute ….
 
-### [Ms-144,23v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
+### [Ms-144](/ms-144/#23v.2): [23v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
 
 Verschiedene Begriffe berühren sich hier & laufen ein Stück Wegs miteinander. Man muß eben nicht glauben, daß die Linien alle _Kreise_ seien.
 
-### [Ms-144,23v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
+### [Ms-144](/ms-144/#23v.3): [23v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
 
 Betrachte auch den Unsatz: “Es dürfte regnen; aber es regnet nicht.” Und hier muß man sich hüten, zu sagen: “Es dürfte regnen” heißt eigentlich: ich glaube, es wird regnen. – Warum sollte dann nicht umgekehrt dies jenes heißen?
 
-### [Ms-144,23v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
+### [Ms-144](/ms-144/#23v.4): [23v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23v.webp)
 
 Betrachte nicht die zaghafte Behauptung als Behauptung der Zaghaftigkeit.
 
-### [Ms-144,24r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
+### [Ms-144](/ms-144/#24r.1): [24r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
 
 <span class="series-number">xi.</span> <span class="series-number">a1</span> Zwei Verwendungen des Wortes “sehen”. Die eine: “Was siehst Du dort?” – “Ich sehe _dies_” [es folgt eine Beschreibung, eine Zeichnung, eine Kopie]. Die andere: “Ich sehe eine Ähnlichkeit in diesen beiden Gesichtern” – der, dem ich dies mitteile, mag die Gesichter so deutlich sehen, wie ich selbst. Die Wichtigkeit: Der kategorische Unterschied der beiden ‘Objekte’ des Sehens.
 
-### [Ms-144,24r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
+### [Ms-144](/ms-144/#24r.2): [24r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
 
 <span class="series-number">a2</span> Der Eine könnte die beiden Gesichter genau abzeichnen; der Andre in dieser Zeichnung die Ähnlichkeit bemerken, die der erste nicht sah.
 
-### [Ms-144,24r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
+### [Ms-144](/ms-144/#24r.3): [24r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
 
 <span class="series-number">a3</span> Ich betrachte ein Gesicht, auf einmal bemerke ich seine Ähnlichkeit mit einem andern. Ich _sehe_, daß es sich nicht geändert hat; & sehe es doch anders. Diese Erfahrung nenne ich “das Bemerken eines Aspekts”.
 
-### [Ms-144,24r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
+### [Ms-144](/ms-144/#24r.4): [24r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
 
 <span class="series-number">a4</span> Seine _Ursachen_ interessieren den Psychologen.
 
-### [Ms-144,24r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
+### [Ms-144](/ms-144/#24r.5): [24r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)
 
 Uns interessiert der Begriff & seine Stellung in den Erfahrungsbegriffen.
 
-### [Ms-144,24r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp),[24v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)
+### [Ms-144](/ms-144/#24r.6+24v.1): [24r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp),[24v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)
 
 <span class="series-number">a5</span> Man könnte sich denken, daß an mehreren Stellen eines Buches, z.B. eines Lehrbuchs, die Illustration
 
@@ -474,11 +474,11 @@ Uns interessiert der Begriff & seine Stellung in den Erfahrungsbegriffen.
 
 stünde. Im dazugehörigen Text ist jedesmal von etwas anderem die Rede: Einmal von einem Glaswürfel, einmal von einer umgestülpten offenen Kiste, einmal von einem Drahtgestell, das diese Form hat, einmal von drei Brettern, die ein Raumeck bilden. Der Text deutet jedesmal die Illustration. Aber wir können auch die Illustration einmal als das eine, einmal als das andre Ding _sehen_. – Wir deuten sie also, & _sehen_ sie, wie wir sie _deuten_.
 
-### [Ms-144,24v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)
+### [Ms-144](/ms-144/#24v.2): [24v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)
 
 <span class="series-number">a6</span> Da möchte man vielleicht antworten: Die Beschreibung der unmittelbaren Erfahrung, des Seherlebnisses, mittels einer Deutung ist eine indirekte Beschreibung. “Ich sehe die Figur als Kiste” heißt: ich habe ein bestimmtes Seherlebnis, welches mit dem Deuten der Figur als Kiste, oder mit dem Anschaun einer Kiste, erfahrungsgemäß einhergeht. Aber wenn es das hieße, dann müßte ich's wissen. Ich müßte mich auf das Erlebnis direkt, & nicht nur indirekt beziehen können. (Wie ich von Rot nicht unbedingt als der Farbe des Blutes reden muß.)
 
-### [Ms-144,24v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp),[25r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)
+### [Ms-144](/ms-144/#24v.3+25r.1): [24v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp),[25r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)
 
 <span class="series-number">a7</span> Die folgende Figur, welche ich aus Jastrow entnommen habe, wird in meinen Bemerkungen der H.-E.-Kopf heißen. Man kann ihn als Hasenkopf, oder als Entenkopf sehen.
 
@@ -486,7 +486,7 @@ stünde. Im dazugehörigen Text ist jedesmal von etwas anderem die Rede: Einmal 
 
 Und ich muß zwischen dem ‘stätigen Sehen’ eines Aspekts & dem ‘Aufleuchten’ des Aspekts unterscheiden. Das Bild mochte mir gezeigt worden sein, & ich darin nie etwas anderes als einen Hasen gesehen haben.
 
-### [Ms-144,25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)
+### [Ms-144](/ms-144/#25r.2): [25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)
 
 <span class="series-number">a8</span> Es ist hier nützlich, den Begriff des Bildgegenstandes einzuführen. Ein ‘Bildgesicht’ z.B. wäre die Figur
 
@@ -494,137 +494,137 @@ Und ich muß zwischen dem ‘stätigen Sehen’ eines Aspekts & dem ‘Aufleucht
 
 Ich verhalte mich zu ihm in mancher Beziehung wie zu einem menschlichen Gesicht. Ich kann seinen Ausdruck studieren, auf ihn wie auf den Ausdruck des Menschengesichtes reagieren. Ein Kind kann zum Bildmenschen, oder Bildtier reden, sie behandeln, wie es Puppen behandelt.
 
-### [Ms-144,25r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)
+### [Ms-144](/ms-144/#25r.3): [25r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)
 
 <span class="series-number">a9</span> Ich konnte also den H.-E.-Kopf von vornherein einfach als Bildhasen sehen. D.h.: Gefragt, “Was ist das?”, oder “Was siehst Du da?”, hätte ich geantwortet: “Einen Bildhasen”. Hätte man mich weiter gefragt, was das sei, so hätte ich zur Erklärung auf allerlei Hasenbilder, auch auf wirkliche Hasen gezeigt, von dem Leben dieser Tiere geredet, oder sie nachgemacht.
 
-### [Ms-144,25r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp),[25v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
+### [Ms-144](/ms-144/#25r.4+25v.1): [25r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp),[25v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
 
 <span class="series-number">a10</span> Ich hätte auf die Frage “Was siehst Du da?” nicht geantwortet: “Ich sehe das jetzt als Bildhasen”. Ich hätte einfach die Wahrnehmung beschrieben; nicht anders, als wären meine Worte gewesen “Ich sehe dort einen roten Kreis”. – Dennoch hätte ein Andrer von mir sagen können “Er sieht die Figur als Bild-H..”
 
-### [Ms-144,25v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
+### [Ms-144](/ms-144/#25v.2): [25v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
 
 <span class="series-number">a11</span> Zu sagen “Ich sehe das jetzt als …”, hätte für mich so wenig Sinn gehabt, als wie beim Anblick von Messer & Gabel zu sagen: “Ich sehe das jetzt als Messer & Gabel.” Man würde diese Äußerung nicht verstehn. – Ebensowenig wie diese: “Das ist jetzt für mich eine Gabel”, oder “Das kann auch eine Gabel sein”.
 
-### [Ms-144,25v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
+### [Ms-144](/ms-144/#25v.3): [25v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
 
 <span class="series-number">a12</span> Man ‘_hält_’ auch nicht, was man bei Tisch als Eßbesteck erkennt, _für_ ein Eßbesteck; sowenig wie man, beim Essen, für gewöhnlich den Mund zu bewegen versucht, oder zu bewegen trachten.
 
-### [Ms-144,25v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
+### [Ms-144](/ms-144/#25v.4): [25v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
 
 <span class="series-number">a13</span> Wer sagt “Jetzt ist es für mich ein Gesicht”, den kann man fragen: “Auf welche Verwandlung spielst Du an?”
 
-### [Ms-144,25v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
+### [Ms-144](/ms-144/#25v.5): [25v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
 
 <span class="series-number">a14</span> Ich sehe zwei Bilder; im dem einen den H.-E.-Kopf umgeben von Hasen, im andern von Enten. Ich bemerke die Gleichheit nicht. _Folgt_ daraus, daß ich beidemale etwas andres _sehe_? – Es gibt uns einen Grund diesen Ausdruck hier zu gebrauchen.
 
-### [Ms-144,25v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
+### [Ms-144](/ms-144/#25v.6): [25v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)
 
 <span class="series-number">a15</span> “Ich habe es ganz anders gesehen, ich hätte es nie erkannt!” Nun, das ist ein Ausruf. Und er hat auch eine Rechtfertigung.
 
-### [Ms-144,25v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp),[26r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
+### [Ms-144](/ms-144/#25v.7+26r.1): [25v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp),[26r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
 
 <span class="series-number">a16</span> Ich hätte nie daran gedacht, die beiden Köpfe so auf einander zu legen, sie _so_ zu vergleichen. Denn sie legen eine andere Vergleichsweise nahe. Der Kopf, _so_ gesehen, hat mit dem Kopf, _so_ gesehen, auch nicht die leiseste Ähnlichkeit – obwohl sie kongruent sind.
 
-### [Ms-144,26r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
+### [Ms-144](/ms-144/#26r.2): [26r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
 
 <span class="series-number">a17</span> Man zeigt mir einen Bildhasen & fragt mich, was das sei; ich sage “Das ist ein H.”. Nicht “Das ist jetzt ein H.”. Ich teile die Wahrnehmung mit. – Man zeigt mir den H.-E.-Kopf und fragt mich, was das sei; da _kann_ ich sagen “Das ist ein H.-E.-Kopf”. Aber ich kann auch ganz anders auf die Frage reagieren. – Die Antwort, es sei der H.-E.-Kopf, ist wieder die Mitteilung der Wahrnehmung; die Antwort “Jetzt ist es ein H.” ist es nicht. Hätte ich gesagt “Es ist ein Hase”, so wäre mir die Doppeldeutigkeit entgangen, & ich hätte die Wahrnehmung berichtet.
 
-### [Ms-144,26r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
+### [Ms-144](/ms-144/#26r.3): [26r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
 
 <span class="series-number">a18</span> Der Aspektwechsel. “Du würdest doch sagen, daß sich das Bild jetzt gänzlich geändert hat!” Aber was ist anders: mein Eindruck? meine Stellungnahme? – Kann ich's sagen? Ich _beschreibe_ die Änderung, wie eine Wahrnehmung; ganz als hätte sich der Gegenstand vor meinen Augen geändert.
 
-### [Ms-144,26r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
+### [Ms-144](/ms-144/#26r.4): [26r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)
 
 <span class="series-number">a19</span> “Ich sehe ja jetzt _das_”, könnte ich sagen (z.B. auf ein andres Bild deutend). Es ist die Form der Meldung einer neuen Wahrnehmung.
 
-### [Ms-144,26r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp),[26v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
+### [Ms-144](/ms-144/#26r.5+26v.1): [26r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp),[26v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
 
 <span class="series-number">a20</span> Der Ausdruck des Aspektwechsels ist der Ausdruck einer _neuen_ Wahrnehmung, zugleich mit dem Ausdruck der unveränderten Wahrnehmung.
 
-### [Ms-144,26v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
+### [Ms-144](/ms-144/#26v.2): [26v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
 
 <span class="series-number">a21</span> Ich sehe auf einmal die Lösung eines Vexierbilds. Wo früher Zweige waren, ist jetzt eine menschliche Gestalt. Mein Gesichtseindruck hat sich geändert, & ich erkenne nun, daß er nicht nur Farbe & Form hatte, sondern auch eine ganz bestimmte ‘Organisation’. – Mein Gesichtseindruck hat sich geändert; – wie war er früher; wie ist er jetzt? – Stelle ich ihn durch eine genaue Kopie dar – & ist das keine gute Darstellung? – so zeigt sich keine Änderung.
 
-### [Ms-144,26v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
+### [Ms-144](/ms-144/#26v.3): [26v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
 
 <span class="series-number">a22</span> Und sag nur ja nicht “Mein Gesichtseindruck ist doch nicht die _Zeichnung_; er ist _dies_ – – was ich niemand zeigen kann.” – Freilich ist er nicht die Zeichnung, aber auch nichts von der gleichen Kategorie, das ich in mir trage.
 
-### [Ms-144,26v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
+### [Ms-144](/ms-144/#26v.4): [26v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)
 
 <span class="series-number">a23</span> Der Begriff des ‘innern Bildes’ ist irreführend, denn das Vorbild für diesen Begriff ist das ‘_äußere_ Bild’; & doch sind die Verwendungen der Begriffsworte einander nicht ähnlicher, als die von “Zahlzeichen” & “Zahl”. (Ja, wer die Zahl das “ideale Zahlzeichen” nennen wollte, könnte damit eine ähnliche Verwirrung anrichten.)
 
-### [Ms-144,26v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp),[27r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
+### [Ms-144](/ms-144/#26v.5+27r.1): [26v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp),[27r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
 
 <span class="series-number">a24</span> Wer die ‘Organisation’ des Gesichtseindrucks mit Farben & Formen zusammenstellt, geht vom Gesichtseindruck als einem innern Gegenstand aus. Dieser Gegenstand wird dadurch freilich ein Unding; ein seltsam schwankendes Gebilde. Denn die Ähnlichkeit mit dem Bild ist nun gestört.
 
-### [Ms-144,27r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
+### [Ms-144](/ms-144/#27r.2): [27r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
 
 <span class="series-number">a25</span> Wenn ich weiß, daß es verschiedene Aspekte des Würfelschemas gibt, kann ich den Andern, um zu erfahren, was er sieht, noch außer der Kopie ein Modell des Gesehenen herstellen, oder zeigen lassen; auch wenn _er_ gar nicht weiß, wozu ich zwei Erklärungen fordere. Beim Aspektwechsel aber verschiebt sich's. Es wird das der einzig mögliche Erlebnisausdruck, was früher nach der Kopie vielleicht eine unnütze Bestimmung schien, oder auch war.
 
-### [Ms-144,27r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
+### [Ms-144](/ms-144/#27r.3): [27r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
 
 <span class="series-number">a26</span> Und das allein tut den Vergleich der ‘Organisation’ mit Farbe & Form im Gesichtseindruck ab.
 
-### [Ms-144,27r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
+### [Ms-144](/ms-144/#27r.4): [27r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)
 
 <span class="series-number">a27</span> Wenn ich den H.-E.-Kopf als H. sah, so sah ich: diese Formen & Farben (ich gebe sie genau wieder) – & außerdem noch so etwas: dabei nun zeige ich auf eine Menge verschiedener Hasenbilder. – Dies zeigt die Verschiedenheit der Begriffe. Das ‘Sehen als …’ gehört nicht zur Wahrnehmung.
 
 Und darum ist es wie ein Sehen & wieder nicht wie ein Sehen.
 
-### [Ms-144,27r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp),[27v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
+### [Ms-144](/ms-144/#27r.5+27v.1): [27r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp),[27v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
 
 <span class="series-number">a28</span> Ich schaue auf ein Tier; man fragt mich: “Was siehst Du?” Ich antworte: “Einen Hasen.” – Ich sehe in die Landschaft; plötzlich läuft ein Hase vorbei. Ich rufe aus “Ein Hase!” Beides, die Meldung & der Ausruf, ist ein Ausdruck der Wahrnehmung & des Seherlebnisses. Aber der Ausruf ist es in anderm Sinne, als die Meldung. Er entringt sich uns. – Er verhält sich zum Erlebnis ähnlich, wie der Schrei zum Schmerz.
 
-### [Ms-144,27v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
+### [Ms-144](/ms-144/#27v.2): [27v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
 
 <span class="series-number">a29</span> Aber da er die Beschreibung einer Wahrnehmung ist, kann man ihn auch Gedankenausdruck nennen. – Wer den Gegenstand anschaut, muß nicht an ihn denken; wer aber das Seherlebnis hat, dessen Ausdruck der Ausruf ist, der _denkt_ auch an das, was er sieht.
 
-### [Ms-144,27v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
+### [Ms-144](/ms-144/#27v.3): [27v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
 
 <span class="series-number">a30</span> Und darum erscheint das aufleuchten des Aspekts halb Seherlebnis, halb ein Denken.
 
-### [Ms-144,27v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
+### [Ms-144](/ms-144/#27v.4): [27v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
 
 <span class="series-number">a31</span> Jemand sieht plötzlich eine Erscheinung vor sich, die er nicht erkennt (es mag ein ihm wohlbekannter Gegenstand, aber in ungewöhnlicher Lage, oder Beleuchtung sein); das Nichterkennen dauert vielleicht nur sekundenlang. Ist es richtig: er habe ein anderes Seherlebnis, als der, der den Gegenstand gleich erkannte?
 
-### [Ms-144,27v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
+### [Ms-144](/ms-144/#27v.5): [27v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)
 
 <span class="series-number">a32</span> Könnte denn Einer die vor ihm auftauchende, ihm unbekannte Form nicht ebenso _genau_ beschreiben, wie ich, dem sie vertraut ist? Und ist das nicht die Antwort? – Freilich, im allgemeinen wird es so nicht sein. Auch wird seine Beschreibung ganz anders lauten. (Ich werde z.B. sagen “Das Tier hatte lange Ohren” – er: “Es waren da zwei lange Fortsätze” & nun zeichnet es sie.)
 
-### [Ms-144,27v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp),[28r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
+### [Ms-144](/ms-144/#27v.6+28r.1): [27v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp),[28r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
 
 <span class="series-number">a33</span> Ich treffe Einen, den ich jahrelang nicht gesehen habe; ich sehe ihn deutlich, erkenne ihm aber nicht. Plötzlich erkenne ich ihn, sehe in seinem veränderten Gesicht sein früheres. Ich glaube, ich würde ihn jetzt anders portraitieren, wenn ich malen könnte.
 
-### [Ms-144,28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
+### [Ms-144](/ms-144/#28r.2): [28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
 
 <span class="series-number">a34</span> Wenn ich nun meinen Bekannten in der Menschenmenge erkenne, nachdem ich vielleicht schon längere Zeit in seiner Richtung geschaut habe, – ist das ein besonderes Sehen? ist es ein Sehen & Denken? oder eine Verschmelzung der beiden – wie ich beinahe sagen möchte? Die Frage ist: _Warum_ will man das sagen?
 
-### [Ms-144,28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
+### [Ms-144](/ms-144/#28r.3): [28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
 
 <span class="series-number">a35</span> Derselbe Ausdruck, der auch Meldung des Gesehenen ist, ist jetzt Ausruf des Erkennens.
 
-### [Ms-144,28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
+### [Ms-144](/ms-144/#28r.4): [28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
 
 <span class="series-number">a36</span> Was ist das Kriterium des Seherlebnisses? – Was soll das Kriterium sein? Die Darstellung dessen, ‘was gesehen wird’.
 
-### [Ms-144,28r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
+### [Ms-144](/ms-144/#28r.5): [28r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
 
 <span class="series-number">a37</span> Der Begriff der Darstellung des Gesehenen, sowie der Kopie, ist sehr dehnbar, & _mit ihm_ der Begriff des Gesehenen. Die beiden hängen innig zusammen. (Und das heißt _nicht_, daß sie ähnlich sind.)
 
-### [Ms-144,42r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
+### [Ms-144](/ms-144/#42r.1): [42r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
 
 <span class="series-number">a37˙1</span> Wie merkt man, daß die Menschen räumlich _sehen_? – Ich frage Einen, wie das Terrain (dort) liegt, das er überschaut. “Liegt es _so_?” (ich zeige es mit der Hand) – “Ja.” – “Wie weißt Du das?” – “Es ist nicht neblig, ich sehe es ganz klar.” – Es werden nicht Gründe für die _Vermutung_ gegeben. Es ist uns einzig natürlich, das Geschaute räumlich darzustellen; während es für die ebene Darstellung, sei es durch Zeichnung oder durch Worte, besonderer Übung & eines Unterrichts bedarf. (Die Sonderbarkeit der Kinderzeichnungen.)
 
-### [Ms-144,28r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
+### [Ms-144](/ms-144/#28r.6): [28r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)
 
 <span class="series-number">a38</span> Sieht Einer ein Lächeln, das er nicht als Lächeln erkennt, nicht so versteht, anders, als der es versteht? – Er macht es z.B. anders nach.
 
-### [Ms-144,30v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
+### [Ms-144](/ms-144/#30v.1): [30v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
 
 Halte die Zeichnung eines Gesichts verkehrt & Du kannst den Ausdruck des Gesichts nicht erkennen. Vielleicht kannst Du sehen, daß es lächelt, aber doch nicht genau, _wie_ es lächelt. Du kannst das Lächeln nicht nachahmen, oder seinen Charakter genauer beschreiben. Und doch mag das verkehrte Bild das Gesicht eines Menschen höchst genau darstellen.
 
-### [Ms-144,28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)
+### [Ms-144](/ms-144/#28v.1): [28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)
 
 <span class="series-number">a40</span> Die Figur a)
 
@@ -644,49 +644,49 @@ die Umkehrung von d)
 
 Aber zwischen meinem Eindruck von c & d besteht ein anderer Unterschied – möchte ich sagen – als zwischen dem von a & von b. (d sieht z.B. ordentlicher aus, als c. Vergleiche eine Bemerkung von Lewis Carrol.) d ist leicht zu kopieren, c schwer.
 
-### [Ms-144,28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)
+### [Ms-144](/ms-144/#28v.2): [28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)
 
 <span class="series-number">a41</span> Denk Dir den H.-E.-Kopf in einem Gewirr von Strichen versteckt. Einmal nun bemerke ich ihn in dem Bild, & zwar einfach als Hasenkopf. Später einmal schaue ich das gleiche Bild an & bemerke die gleiche Linie, aber als Ente, & dabei brauche ich noch nicht zu wissen, daß es beidemale die gleiche Linie war. Wenn ich später nun den Aspekt wechseln sehe, – kann ich sagen, daß dabei die Aspekte H. & E. ganz anders gesehen werden, als da ich sie einzeln im Gewirr der Striche erkannte? Nein. Aber der Wechsel ruft ein Staunen hervor, den das Erkennen nicht hervorrief.
 
-### [Ms-144,28v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)
+### [Ms-144](/ms-144/#28v.3): [28v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)
 
 <span class="series-number">a42</span> Wer in einer Figur (1) nach einer andern (2) sucht, & sie dann findet, der sieht (1) damit in einer neuen Weise. Er kann nicht nur eine neue Beschreibung von ihr geben, sondern jenes Bemerken war ein neues Seherlebnis.
 
-### [Ms-144,28v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
+### [Ms-144](/ms-144/#28v.4+29r.1): [28v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
 
 <span class="series-number">a43</span> Aber es muß nicht geschehen, daß er sagen möchte: “Die Figur (1) sieht nun ganz anders aus; sie hat auch keine Ähnlichkeit mit der früheren, obwohl sie mit ihr kongruent ist!”
 
 a44
 
-### [Ms-144,29v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
+### [Ms-144](/ms-144/#29v.4): [29v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
 
 <span class="series-number">a44</span> Es gibt hier eine Unmenge mit einander verwandter Erscheinungen & möglicher Begriffe.
 
-### [Ms-144,29r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
+### [Ms-144](/ms-144/#29r.2): [29r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
 
 <span class="series-number">a45</span> Ist also die Kopie der Figur eine _unvollkommene_ Beschreibung meines Seherlebnisses? Nein. – Es kommt doch auf die Umstände an, ob, & welche, nähere Bestimmungen notwendig sind. – Sie _kann_ eine unvollkommene Beschreibung sein; wenn eine Frage übrig bleibt.
 
-### [Ms-144,29r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
+### [Ms-144](/ms-144/#29r.3): [29r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
 
 Man kann natürlich sagen: Es gibt gewisse Dinge, die sowohl unter den Begriff ‘Bildhase’, als ‘Bildente’ fallen. Und so ein Ding ist ein Bild, eine Zeichnung. – Aber der _Eindruck_ ist nicht zugleich der von einer Bildente & von einem Bildhasen.
 
-### [Ms-144,29r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
+### [Ms-144](/ms-144/#29r.4): [29r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)
 
 <span class="series-number">a46</span> “Was ich eigentlich _sehe_, muß doch das sein, was in mir durch Einwirkung des Objekts zustandekommt.” – Das, was in mir zustandekommt, ist dann eine Art Abbild, etwas, was man selbst wieder anschauen, vor sich haben könnte; beinahe so etwas wie eine _Materialisation_. Und diese Materialisation ist etwas Räumliches & muß sich ganz in räumlichen Begriffen beschreiben lassen. Sie kann z.B. lächeln (wenn sie ein Gesicht ist), aber der Begriff der Freundlichkeit gehört nicht zu ihrer Darstellung, sondern ist dieser Darstellung _fremd_ (wenn er ihr auch dienen kann).
 
-### [Ms-144,29r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp),[29v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
+### [Ms-144](/ms-144/#29r.5+29v.1): [29r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp),[29v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
 
 <span class="series-number">a47</span> Fragst Du mich, was ich gesehen habe, so werde ich vielleicht eine Skizze herstellen können, die es zeigt; aber daran, wie mein Blick gewandert ist, werde ich mich in den meisten Fällen überhaupt nicht erinnern.
 
-### [Ms-144,29v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
+### [Ms-144](/ms-144/#29v.2): [29v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
 
 <span class="series-number">a48</span> Der Begriff ‘sehen’ macht einen wirren Eindruck. Nun, so ist er. – Ich sehe in die Landschaft; mein Blick schweift, ich sehe allerlei klare & unklare Bewegung; _dies_ prägt sich mir klar ein, _jenes_ nur ganz verschwommen. Wie gänzlich zerrissen uns doch erscheinen kann, was wir sehen! Und nun schau an, was “Beschreibung des Gesehenen” heißt! – Aber das ist eben, was man eine Beschreibung des Gesehenen nennt. Es gibt nicht _einen eigentlichen_, ordentlichen Fall so einer Beschreibung – & das Übrige ist eben noch unklar, harrt noch der Klärung, oder muß einfach als Abfall in den Winkel gekehrt werden.
 
-### [Ms-144,29v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
+### [Ms-144](/ms-144/#29v.3): [29v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)
 
 <span class="series-number">a49</span> Es ist hier für uns die ungeheure Gefahr: feine Unterschiede machen zu wollen. – Ähnlich ist es, wenn man den Begriff des physikalischen Körpers aus dem ‘wirklich Gesehenen’ erklären will. – Es ist vielmehr das alltägliche Sprachspiel _hinzunehmen_, & _falsche_ Darstellungen sind als dies zu kennzeichnen. Das primitive Sprachspiel, das dem Kind beigebracht wird, bedarf keiner Rechtfertigung; die Versuche der Rechtfertigung bedürfen der Zurückweisung.
 
-### [Ms-144,29v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp),[30r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
+### [Ms-144](/ms-144/#29v.5+30r.1): [29v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp),[30r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
 
 <span class="series-number">a50</span> Betrachte nun als Beispiel die Aspekte des Dreiecks. Das Dreieck
 
@@ -694,71 +694,71 @@ Man kann natürlich sagen: Es gibt gewisse Dinge, die sowohl unter den Begriff �
 
 kann gesehen werden: als dreieckiges Loch, als Körper, als geometrische Zeichnung; auf seiner Grundlinie stehend, an seiner Spitze aufgehängt; als Berg, als Keil, als Pfeil oder Zeiger; als ein umgefallener Körper, der (z.B.) auf der kürzeren Kathete stehen sollte, als ein halbes Parallelogramm, & verschiedenes andres.
 
-### [Ms-144,30r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
+### [Ms-144](/ms-144/#30r.2): [30r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
 
 <span class="series-number">a51</span> “Du kannst dabei einmal an _das_ denken, einmal an _das_, einmal es als _das_ ansehen, einmal als _das_, & dann wirst Du's einmal _so_ sehen, einmal _so_.” – _Wie_ denn? Es gibt ja keine weitere Bestimmung.
 
-### [Ms-144,30r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
+### [Ms-144](/ms-144/#30r.3): [30r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
 
 <span class="series-number">a52</span> Wie ist es aber möglich daß man ein Ding einer _Deutung_ gemäß _sieht_? – Die Frage stellt es als ein seltsames Faktum dar; als wäre hier etwas in eine Form gezwängt worden, was eigentlich nicht hineinpaßt. Aber es ist hier kein Drücken & Zwängen geschehen.
 
-### [Ms-144,30r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
+### [Ms-144](/ms-144/#30r.4): [30r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)
 
 <span class="series-number">a53</span> Wenn es scheint, es wäre für eine solche logische Form kein Platz, so mußt Du sie in einer andern Dimension aufsuchen. Wenn hier kein Platz ist, so ist er eben in einer andern Dimension. (In diesem Sinne ist auch auf der reellen Zahlenlinie nicht für imaginäre Zahlen Platz. Und das heißt doch: Die Anwendung eines imaginären Zahlzeichens ist unähnlicher der des reellen, als der Anblick der _Rechnungen_ es offenbart. Wenn man zur Anwendung hinuntersteigt, dann findet jener Begriff einen sozusagen _ungeahnt_ verschiedenen Platz.)
 
-### [Ms-144,30v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
+### [Ms-144](/ms-144/#30v.3): [30v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
 
 <span class="series-number">a54</span> Wie wäre diese Erklärung: “Ich kann etwas als _das_ sehen, wovon es ein Bild sein kann”? Das heißt doch: Die Aspekte im Aspektwechsel sind _die_, die die Figur unter Umständen _ständig_ in einem Bild haben könnte.
 
-### [Ms-144,30v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
+### [Ms-144](/ms-144/#30v.4): [30v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
 
 <span class="series-number">a55</span> Ein Dreieck kann ja wirklich in einem Gemälde _stehen_, in einem andern hängen, in einem dritten etwas Umgefallenes darstellen. – So zwar, daß ich, der Beschauer nicht sage “Das kann auch etwas Umgefallenes darstellen”, sondern “Das Glas ist umgefallen & liegt in Scherben”. So reagieren wir auf das Bild.
 
-### [Ms-144,30v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
+### [Ms-144](/ms-144/#30v.5): [30v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)
 
 <span class="series-number">a56</span> Könnte ich sagen, wie ein Bild beschaffen sein muß, um dies zu bewirken? Nein. Es gibt z.B. Malweisen, die mir nichts in dieser unmittelbaren Weise mitteilen, aber doch andern Menschen. Ich glaube, daß Gewohnheit & Erziehung hier mitzureden haben.
 
-### [Ms-144,30v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp),[31r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
+### [Ms-144](/ms-144/#30v.6+31r.1): [30v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp),[31r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
 
 <span class="series-number">a57</span> Was heißt es nun, daß ich auf dem Bild die Kugel ‘_schweben sehe_’? Liegt es schon darin, daß mir diese Beschreibung nächstliegende, selbstverständliche ist? Nein; das könnte sie aus verschiedenen Gründen sein. Sie könnte z.B. einfach die herkömmliche sein. Was aber ist der Ausdruck dafür, daß ich das Bild nicht nur, z.B., so verstehe (weiß, was es darstellen _soll_), sondern so _sehe_? – Ein solcher Ausdruck ist: “Die Kugel scheint zu schweben”, “Man sieht sie schweben”, oder auch, in besonderem Tonfall, “Sie schwebt!” Das ist also der Ausdruck des Dafürhaltens. Aber nicht als solcher verwendet.
 
-### [Ms-144,31r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
+### [Ms-144](/ms-144/#31r.2): [31r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
 
 <span class="series-number">a58</span> Wir fragen uns hier nicht, was die Ursachen sind & was in einem besondern Fall diesen Eindruck hervorruft.
 
-### [Ms-144,31r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
+### [Ms-144](/ms-144/#31r.3): [31r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
 
 <span class="series-number">a59</span> Und _ist_ es ein besonderer Eindruck? – “Ich sehe doch etwas _anderes_, wenn ich die Kugel schweben, als wenn ich sie bloß daliegen sehe.” – Das heißt eigentlich: Dieser Ausdruck ist gerechtfertigt! (Denn, wörtlich genommen, ist es ja nur eine Wiederholung.) (Und doch ist mein Eindruck auch nicht der einer wirklichen schwebenden Kugel. Es gibt Abarten des ‘räumlichen Sehens’. Die Räumlichkeit einer Photographie & die Räumlichkeit dessen, was wir durch's Stereoskop sehen.)
 
-### [Ms-144,31r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
+### [Ms-144](/ms-144/#31r.4): [31r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)
 
 <span class="series-number">a60</span> “Und ist es wirklich ein anderer Eindruck?” – Um es zu beantworten, möchte ich mich fragen, ob da wirklich etwas anderes in mir existiert. Aber wie kann ich mich davon überzeugen? ‒ ‒ Ich _beschreibe_, was ich sehe, anders.
 
-### [Ms-144,31v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
+### [Ms-144](/ms-144/#31v.1): [31v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
 
 <span class="series-number">a61</span> Gewisse Zeichnungen sieht man immer als Figuren in der Ebene, andere manchmal, oder auch immer, räumlich. Da möchte man nun sagen: Der Gesichtseindruck der räumlich gesehenen Zeichnungen ist räumlich; ist für's Würfelschema z.B. ein Würfel. (Denn die Beschreibung des Eindrucks ist die Beschreibung eines Würfels.)
 
-### [Ms-144,31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
+### [Ms-144](/ms-144/#31v.2): [31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
 
 <span class="series-number">a62</span> Und es ist dann merkwürdig, daß unser Eindruck für manche Zeichnung etwas Flaches, für manche etwas Räumliches ist. Man fragt sich: “Wo soll das enden?”
 
-### [Ms-144,31v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
+### [Ms-144](/ms-144/#31v.3): [31v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
 
 <span class="series-number">a63</span> Wenn ich das Bild eines dahinjagenden Pferdes sehe, – _weiß_ ich nur, daß diese Bewegungsart gemeint ist? Ist es Aberglaube, daß ich es im Bild dahinjagen _sehe_? – Und tut dies nun auch mein Gesichtseindruck?
 
-### [Ms-144,31v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
+### [Ms-144](/ms-144/#31v.4): [31v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)
 
 <span class="series-number">a64</span> Was teilt mir einer mit, der sagt “Ich sehe es jetzt als …”? Welche Folgen hat diese Mitteilung? Was kann ich mit ihr anfangen?
 
-### [Ms-144,31v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)
+### [Ms-144](/ms-144/#31v.5+32r.1): [31v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)
 
 <span class="series-number">a65</span> Menschen assoziieren oft Farben mit Vokalen. Es könnte sein, daß für Manchen ein Vokal, wenn er öfters hintereinander ausgesprochen wird, seine Farbe wechselt. _a_ ist für ihn z.B. ‘jetzt blau – jetzt rot’. Es könnte die Äußerung “Ich sehe es jetzt als …” uns nicht mehr bedeuten, als die: “_a_ ist für mich jetzt rot”. (Gekoppelt mit physiologischen Beobachtungen könnte auch dieser Wechsel uns wichtig werden.)
 
-### [Ms-144,32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)
+### [Ms-144](/ms-144/#32r.2): [32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)
 
 <span class="series-number">a66</span> Da fällt mir ein, daß in Gesprächen über ästhetische Gegenstände die Worte gebraucht werden: “Du mußt es _so_ sehen, so ist es gemeint”; “Wenn Du es _so_ siehst, siehst Du, wo der Fehler liegt”; “Du mußt diese Takte als Einleitung hören”; “Du mußt nach dieser Tonart hinhören”; “Du mußt es _so_ phrasieren” (& das kann sich auf's Hören wie auf's Spielen beziehen).
 
-### [Ms-144,32r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)
+### [Ms-144](/ms-144/#32r.3): [32r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)
 
 <span class="series-number">a67</span> Die Figur
 
@@ -766,35 +766,35 @@ kann gesehen werden: als dreieckiges Loch, als Körper, als geometrische Zeichnu
 
 soll eine konvexe Stufe vorstellen & zur Demonstration von irgendwelchen räumlichen Vorgängen verwendet werden. Wir ziehen dazu etwa die Gerade _a_ durch die Mittelpunkte der beiden Flächen. – Wenn nun Einer die Figur nur auf Augenblicke räumlich sähe, & auch dann bald als konkave, bald als konvexe Stufe, so könnte es ihm dadurch schwer werden unsrer Demonstration zu folgen. Und wenn für ihn der flache Aspekt mit einem räumlichen wechselt, so ist es hier nicht anders, als zeigte ich ihm während der Demonstration gänzlich verschiedene Gegenstände.
 
-### [Ms-144,32r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp),[32v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
+### [Ms-144](/ms-144/#32r.4+32v.1): [32r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp),[32v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
 
 <span class="series-number">a68</span> Was heißt es, wenn ich, eine Zeichnung in der darstellenden Geometrie betrachtend, sage: “Ich weiß, daß diese Linie hier wieder zum Vorschein kommt, aber ich kann sie nicht so _sehen_”? Bedeutet es einfach, daß mir die Geläufigkeit des Operierens in der Zeichnung fehlt, daß ich mich nicht so gut in ihr ‘auskenne’? – Nun, diese Geläufigkeit ist gewiß eines unserer Kriterien. Das Kriterium ist eine gewisse _Art_ des ‘sich Auskennens’. Gewisse Gesten z.B., die die räumlichen Verhältnisse andeuten: feine Abschattungen des Verhaltens.
 
-### [Ms-144,32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
+### [Ms-144](/ms-144/#32v.2): [32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
 
 <span class="series-number">a69</span> Ich sehe, daß auf dem Bild der Pfeil das Tier durchdringt. Er hat es im Hals getroffen & ragt im Genick heraus. Das Bild sei eine Silhouette. – _Siehst_ Du den Pfeil – _weißt_ Du nur, das diese beiden Stücke Teile eines Pfeils darstellen sollen? (Vergleiche Köhlers Figur der einander durchdringenden Sechsecke.)
 
-### [Ms-144,32v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
+### [Ms-144](/ms-144/#32v.4): [32v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
 
 <span class="series-number">a70</span> “Das ist doch kein _Sehen_!” ‒ ‒ “Das ist doch ein Sehen!” – Beide müssen sich begrifflich rechtfertigen lassen.
 
-### [Ms-144,32v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
+### [Ms-144](/ms-144/#32v.5): [32v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
 
 <span class="series-number">a71</span> Das ist doch ein Sehen! _Inwiefern_ ist es ein Sehen?
 
-### [Ms-144,32v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
+### [Ms-144](/ms-144/#32v.3): [32v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)
 
 <span class="series-number">a72</span> “Die Erscheinung nimmt einen zuerst wunder wunder, aber es wird gewiß eine physiologische Erklärung dafür gefunden werden.” – Unser Problem ist kein kausales, sondern ein Begriffliches.
 
-### [Ms-144,32v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#32v.6+33v.1): [32v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 <span class="series-number">a73</span> Würde mir das Bild des durchbohrten Tiers, oder der einander durchdringenden Kristalle, für einen Augenblick nur gezeigt, & ich sollte es danach beschreiben, so wäre _das_ die Beschreibung; sollte ich's zeichnen, so würde ich gewiß eine sehr fehlerhafte Kopie hervorbringen, aber sie würde eine Art Tier von einem Pfeil durchbohrt zeigen, oder zwei Sechsecke die einander durchdringen. D.h.: Gewisse Fehler würde ich _nicht_ machen.
 
-### [Ms-144,33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
+### [Ms-144](/ms-144/#33r.2): [33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
 
 <span class="series-number">a76</span> Das erste, was mir an diesem Bild in die Augen springt, ist: es sind zwei Sechsecke. Nun schau ich sie an & frage mich: “Seh ich sie wirklich _als_ Sechsecke?” – & zwar die ganze Zeit, während sie vor meinen Augen sind? (Vorausgesetzt daß sich ihr Aspekt dabei nicht geändert hat.) – Und ich möchte antworten: “Ich denke nicht die ganze Zeit an sie als Sechsecke.”
 
-### [Ms-144,33r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
+### [Ms-144](/ms-144/#33r.3): [33r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
 
 <span class="series-number">a75</span> Einer sagt mir: “Ich habe es sofort als zwei Sechsecke gesehen. Ja das war _alles, was_ ich gesehen habe.” Aber wie verstehe ich das? Ich denke, er hätte auf die Frage “Was siehst Du?” gleich mit dieser Beschreibung geantwortet, auch hätte er sie nicht als eine von mehreren möglichen behandelt. Sie ist darin gleich der Antwort “Ein Gesicht”, wenn ich ihm die Figur
 
@@ -802,75 +802,75 @@ soll eine konvexe Stufe vorstellen & zur Demonstration von irgendwelchen räumli
 
 gezeigt hätte.
 
-### [Ms-144,33v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#33v.2): [33v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 Die beste Beschreibung, die ich von dem geben kann, was mir auf einen Augenblick gezeigt wurde, ist _das_: … “Der Eindruck war der von einem sich bäumenden Tier.” Es kam also eine ganz bestimmte Beschreibung. – War das das _Sehen_, oder war es ein Gedanke?
 
-### [Ms-144,33v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#33v.3): [33v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 Versuche nicht, in Dir selbst das Erlebnis zu analysieren!
 
-### [Ms-144,33r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
+### [Ms-144](/ms-144/#33r.4): [33r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
 
 <span class="series-number">a78</span> Es hätte ja auch sein können, daß ich das Bild zuerst als etwas anderes sah, & mir dann sagte “Ach, es sind zwei Sechsecke!”. Der Aspekt hätte sich also geändert. Und beweist das nun, daß ich's tatsächlich als etwas Bestimmtes _sah_?
 
-### [Ms-144,33r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
+### [Ms-144](/ms-144/#33r.5): [33r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)
 
 <span class="series-number">a79</span> “Ist es ein _echtes_ Seherlebnis?”
 
 Die Frage ist: Inwiefern ist es eins.
 
-### [Ms-144,33r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#33r.6+33v.1): [33r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 <span class="series-number">a80</span> Es ist hier _schwierig_, zu sehen, daß es sich um Begriffsbestimmungen handelt. Ein _Begriff_ drängt sich auf. (Das darfst Du nicht vergessen.)
 
-### [Ms-144,33v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#33v.4): [33v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 <span class="series-number">a81</span> Wann würde ich's denn ein bloßes wissen, kein Sehen, nennen? – Etwa, wenn Einer das Bild wie eine Werkzeichnung behandelte, es _läse_, wie eine Blaupause. (Feine Abschattungen des Benehmens. – Warum sind sie _wichtig_? Sie haben wichtige Folgen.)
 
-### [Ms-144,33v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#33v.5): [33v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 <span class="series-number">a82</span> “Es ist für mich ein Tier, vom Pfeil durchbohrt.” Ich behandle es als das; dies ist meine _Einstellung_ zur Figur. Das ist eine Bedeutung davon, es ein ‘Sehen’ zu nennen.
 
-### [Ms-144,33v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
+### [Ms-144](/ms-144/#33v.6): [33v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)
 
 <span class="series-number">a83</span> Kann ich aber auch im gleichen Sinne sagen: “Dies sind für mich zwei Sechsecke”? Nicht im gleichen Sinne, aber in einem ähnlichen.
 
-### [Ms-144,33v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp),[34r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
+### [Ms-144](/ms-144/#33v.7+34r.1): [33v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp),[34r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
 
 <span class="series-number">a84</span> Du mußt an die Rolle denken, welche Bilder vom Charakter der Gemälde (im Gegensatz zu Werkzeichnungen) in unserm Leben spielen. Und hier besteht durchaus nicht Einförmigkeit. Damit zu vergleichen: Man hängt sich manchmal Sprüche an die Wand. Aber nicht Lehrsätze der Mechanik. (Unser Verhältnis zu diesen beiden.)
 
-### [Ms-144,34r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
+### [Ms-144](/ms-144/#34r.2): [34r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
 
 <span class="series-number">a85</span> Von dem, der die Zeichnung als dies Tier sieht, werde ich mir anderes erwarten als von dem, der nur weiß, was sie darstellen soll.
 
-### [Ms-144,34r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
+### [Ms-144](/ms-144/#34r.3): [34r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
 
 <span class="series-number">a86</span> Besser wäre jedoch vielleicht dieser Ausdruck gewesen: Wir _betrachten_ die Photographie, das Bild an unsrer Wand, als das Objekt selbst (Mensch, Landschaft, etc.) welches dargestellt wurde.
 
-### [Ms-144,34r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
+### [Ms-144](/ms-144/#34r.4): [34r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
 
 <span class="series-number">a87</span> Dies müßte nicht sein. Wir könnten uns leicht Menschen vorstellen, die zu diesen Bildern nicht dies Verhältnis hätten. Menschen z.B., die von Photographien abgestoßen würden, weil ihnen ein Gesicht ohne Farbe, ja vielleicht ein Gesicht in verkleinertem Maßstab, unmenschlich vorkäme.
 
-### [Ms-144,34r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
+### [Ms-144](/ms-144/#34r.5): [34r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)
 
 <span class="series-number">a88</span> Wenn ich nun sage “Wir betrachten ein Portrait als Menschen”, – wann & wie lange tun wir dies? _Immer_, wenn wir's überhaupt sehen (& es nicht etwa als etwas anderes sehen)? Ich könnte das bejahen, & dadurch würde ich den Begriff des Betrachtens bestimmen. – Die Frage ist, ob noch ein anderer, verwandter Begriff für uns wichtig wird, der eines so-Sehens (nämlich), das nur statt hat, während ich mich mit dem Bild als dem Gegenstand (der dargestellt ist) beschäftige.
 
-### [Ms-144,34r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp),[34v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
+### [Ms-144](/ms-144/#34r.6+34v.1): [34r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp),[34v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
 
 <span class="series-number">a89</span> Ich könnte sagen: Ein Bild _lebt_ nicht immer für mich, während ich es sehe. “Ihr Bild lächelt mich von der Wand an.” Das muß es nicht immer tun, wenn gerade mein Blick darauf fällt.
 
 a90
 
-### [Ms-144,36r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
+### [Ms-144](/ms-144/#36r.4): [36r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
 
 <span class="series-number">a90</span> Der H.-E.-Kopf. Man fragt sich: Wie ist es möglich, daß das Auge, dieser _Punkt_, in einer Richtung blickt? – “_Sieh, wie er blickt_!” (Und dabei ‘blickt’ man selbst.) Aber man sagt & tut das nicht in einem fort, während man das Bild betrachtet. Und was ist nun dieses “Sieh, wie er blickt!” – ist es der Ausdruck einer Empfindung?
 
-### [Ms-144,34v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
+### [Ms-144](/ms-144/#34v.2): [34v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
 
 <span class="series-number">a91</span> (Ich strebe nicht mit allen diesen Beispielen irgend eine Vollständigkeit an. Nicht eine Klassifikation der psychologischen Begriffe. Sie sollen nur den Leser in den Stand setzen, sich in begrifflichen Unklarheiten zu helfen.)
 
-### [Ms-144,34v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
+### [Ms-144](/ms-144/#34v.3): [34v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
 
 <span class="series-number">a92</span> “Ich sehe es jetzt als ein …” geht zusammen mit “Ich versuche, es als ein … zu sehen”, oder “Ich kann es noch nicht als ein … sehen”. Ich kann aber nicht versuchen, das konventionelle Bild eines Löwen _als_ Löwen zu sehen, sowenig wie ein
 
@@ -880,11 +880,11 @@ als diesen Buchstaben. (Wohl aber z.B. als einen Galgen.)
 
 a93
 
-### [Ms-144,37r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
+### [Ms-144](/ms-144/#37r.4): [37r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
 
 <span class="series-number">a93</span> Frage Dich nun nicht “Wie geht es mit _mir_?” – Frage: “Was weiß ich vom Andern?”
 
-### [Ms-144,34v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
+### [Ms-144](/ms-144/#34v.4): [34v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
 
 <span class="series-number">a94</span> Wie spielt man denn das Spiel: “Es könnte auch _das_ sein”? (_Das_, was die Figur auch sein könnte – & das ist das, als was sie gesehen werden kann – ist nicht einfach eine andere Figur. Wer sagt “Ich sehe
 
@@ -896,33 +896,33 @@ als
 
 könnte noch sehr Verschiedenes meinen.) Kinder spielen dieses Spiel. Sie sagen von einer Kiste z.B., sie ist jetzt ein Haus; & sie wird darauf ganz als ein Haus ausgedeutet & eine Erfindung um sie gewoben.
 
-### [Ms-144,34v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
+### [Ms-144](/ms-144/#34v.5): [34v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)
 
 <span class="series-number">a95</span> Und _sieht_ das Kind die Kiste nun als Haus? “Er vergißt ganz, daß es eine Kiste ist; es ist für ihn tatsächlich ein Haus.” (Dafür gibt es bestimmte Anzeichen.) Wäre es dann nicht auch richtig zu sagen, er _sehe_ sie als Haus?
 
-### [Ms-144,35r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
+### [Ms-144](/ms-144/#35r.1): [35r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
 
 <span class="series-number">a96</span> Und wer nun so spielen könnte, & in einer bestimmten Situation mit besonderem Ausdruck ausriefe “Jetzt ist es ein Haus!” – der würde dem Aufleuchten des Aspekts Ausdruck geben.
 
 a96˙1
 
-### [Ms-144,37r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
+### [Ms-144](/ms-144/#37r.5): [37r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
 
 <span class="series-number">a96˙1</span> Hörte ich Einen über das H.-E.-Bild reden, & _jetzt_, in gewisser Weise, über den besondern Ausdruck dieses Hasengesichts, so würde ich sagen, er sehe das Bild jetzt als Hasen.
 
-### [Ms-144,35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
+### [Ms-144](/ms-144/#35r.2): [35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
 
 <span class="series-number">a97</span> Der Ausdruck der Stimme & Gebärde aber ist der gleiche, als hätte sich das Objekt geändert & wäre nun endlich zu dem oder jenem _geworden_. Ich lasse mir ein Thema wiederholt und jedesmal in langsamerm Tempo vorspielen. Endlich sage ich “_Jetzt_ ist es richtig”, oder “_Jetzt_ erst ist es ein Marsch”, “_Jetzt_ erst ist es ein Tanz”. – In _diesem_ Ton drückt sich auch das Aufleuchten des Aspekts aus.
 
-### [Ms-144,35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
+### [Ms-144](/ms-144/#35r.3): [35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
 
 <span class="series-number">a98</span> ‘Feine Abschattungen des Benehmens’ – Wenn sich mein Verstehen eines Themas darin äußert, daß ich es mit dem richtigen Ausdruck pfeife, so ist das ein Beispiel dieser feinen Abschattungen.
 
-### [Ms-144,35r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
+### [Ms-144](/ms-144/#35r.4): [35r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
 
 <span class="series-number">a99</span> Die Aspekte des Dreiecks: Es ist, wie wenn eine _Vorstellung_ mit dem Gesichtseindruck in Berührung käme & für eine Zeit in Berührung bliebe.
 
-### [Ms-144,35r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
+### [Ms-144](/ms-144/#35r.5): [35r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)
 
 <span class="series-number">a100</span> Darin, unterscheiden sich diese Aspekte aber vom konkaven & konvexen Aspekt der Stufe (z.B.). Auch von den Aspekten der Figur
 
@@ -930,670 +930,670 @@ a96˙1
 
 (ich werde sie “Doppelkreuz” nennen) als weißes Kreuz auf schwarzem Grund & als schwarzes Kreuz auf weißem Grund.
 
-### [Ms-144,35r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp),[35v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
+### [Ms-144](/ms-144/#35r.6+35v.1): [35r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp),[35v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
 
 <span class="series-number">a101</span> Du mußt bedenken, daß die Beschreibung der mit einander abwechselnden Aspekte in jedem Falle von andrer Art sind.
 
-### [Ms-144,36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
+### [Ms-144](/ms-144/#36r.3): [36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
 
 <span class="series-number">a102</span> (Die Versuchung, zu sagen “Ich sehe es _so_”, indem man bei “es” & “so” auf das Gleiche zeigt.)
 
-### [Ms-144,41v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
+### [Ms-144](/ms-144/#41v.3): [41v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
 
 Eliminiere Dir immer das private Objekt, indem Du annimmst: es ändere sich fortwährend; Du merkst es aber nicht, weil Dich Dein Gedächtnis fortwährend täuscht.
 
-### [Ms-144,35v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
+### [Ms-144](/ms-144/#35v.2): [35v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
 
 <span class="series-number">a103</span> Jene beiden Aspekte des Doppelkreuzes (ich werde sie die Aspekte _A_ nennen) ließen sich z.B. einfach dadurch mitteilen, daß der Betrachter abwechselnd auf ein freistehendes weißes & auf ein freistehendes schwarzes Kreuz zeigt. Ja, man könnte sich denken, daß dies eine primitive Reaktion eines Kindes wäre, noch ehe es sprechen kann. (Bei der Mitteilung der Aspekte _A_ wird also auf einen Teil der Doppelkreuzfigur hingewiesen. – Den H. & E. Aspekt könnte man auf analoge Weise nicht beschreiben.)
 
-### [Ms-144,35v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
+### [Ms-144](/ms-144/#35v.3): [35v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
 
 <span class="series-number">a104</span> Nur der ‘sieht die Aspekte H. & E.’, der die Gestalten jener beiden Tiere innehat. Eine analoge Bedingung gibt es für die Aspekte _A_ nicht.
 
-### [Ms-144,35v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
+### [Ms-144](/ms-144/#35v.4): [35v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)
 
 <span class="series-number">a105</span> Den H.-E.-Kopf kann jemand einfach für das Bild eines Hasen halten, das Doppelkreuz für das Bild eines schwarzen Kreuzes, aber die bloße Dreiecksfigur nicht für das Bild eines umgefallenen Gegenstands. Diesen Aspekt des Dreiecks zu sehen, braucht es _Vorstellungskraft_.
 
-### [Ms-144,35v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp),[36r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
+### [Ms-144](/ms-144/#35v.5+36r.1): [35v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp),[36r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
 
 <span class="series-number">a106</span> Die Aspekte _A_ sind nicht wesentlich räumliche Aspekte; ein schwarzes Kreuz auf weißem Grunde nicht wesentlich eines, das eine weiße Fläche zum Hintergrund hat. Man könnte Einem den Begriff des schwarzen Kreuzes auf andersfärbigem Grunde beibringen, ohne ihm je andere als auf Papierbogen gemalte Kreuze zu zeigen. Der ‘Hintergrund’ ist hier einfach die Umgebung der Kreuzfigur. Die Aspekte _A_ hängen nicht in gleicher Weise mit einer möglichen Täuschung zusammen, wie die räumlichen Aspekte der Würfelzeichnung, oder der Stufe.
 
-### [Ms-144,38v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)
+### [Ms-144](/ms-144/#38v.2): [38v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)
 
 <span class="series-number">a106˙1</span> Ich kann das Würfelschema als Schachtel sehen; – aber auch: einmal als Papier-, einmal als Blechschachtel? – Was sollte ich dazu sagen, wenn jemand mich versicherte, _er_ könne es? – Ich kann hier eine Begriffsgrenze ziehen. Denke aber an den Ausdruck “_empfunden_” bei der Betrachtung eines Bildes. (“Man fühlt die Weichheit dieses Stoffes.”) (Das _Wissen_ im Traum. “Und ich _wußte_, daß in dem Zimmer der … war.”)
 
-### [Ms-144,38v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)
+### [Ms-144](/ms-144/#38v.3): [38v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)
 
 <span class="series-number">a107˙01</span> Wie lehrst Du ein Kind (etwa beim Rechnen) “Jetzt nimm _diese_ Punkte zusammen!” oder “Jetzt gehören _die_ zusammen”? Offenbar muß “zusammennehmen” & “zusammengehören” ursprünglich eine andere Bedeutung für ihn gehabt haben, als die, etwas so, oder so _sehen_. – Und das ist eine Bemerkung über Begriffe, nicht über Unterrichtsmethoden.
 
-### [Ms-144,37r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
+### [Ms-144](/ms-144/#37r.6): [37r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
 
 <span class="series-number">a107</span> Eine _Art_ der Aspekte könnte man “Aspekte der Organisation” nennen. Wechselt der Aspekt, so sind Teile des Bildes zusammengehörig, die früher nicht zusammengehörig waren.
 
-### [Ms-144,38r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
+### [Ms-144](/ms-144/#38r.5): [38r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
 
 <span class="series-number">a107˙1</span> Ich kann im Dreieck jetzt _das_ als Spitze, _das_ als Grundlinie sehen – jetzt _das_ als Spitze & _das_ als Grundlinie. – Es ist klar, daß dem Schüler, der nur eben erst mit dem Begriff Spitze, Grundlinie, etc. Bekanntschaft gemacht hat, die Worte “Ich sehe jetzt _das_ als Spitze” noch nichts sagen können. – Aber das meine ich nicht als Erfahrungssatz. Nur von dem würde man sagen, er sähe es jetzt _so_, jetzt _so_, der _im Stande ist_, mit Geläufigkeit gewisse Anwendungen von der Figur zu machen. Das Substrat dieses Erlebnisses ist das Beherrschen einer Technik.
 
-### [Ms-144,38v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)
+### [Ms-144](/ms-144/#38v.1): [38v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)
 
 <span class="series-number">a107˙2</span> Wie seltsam aber, daß dies die logische Bedingung dessen sein soll, daß Einer das & das _erlebt_! Du sagst doch nicht, nur der ‘habe Zahnschmerzen’, der das & das zu tun im Stande sei. – Woraus folgt, daß wir's hier nicht mit dem selben Erlebnisbegriff zu tun haben. Es ist ein anderer, wenn auch ein verwandter.
 
-### [Ms-144,38v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp),[39r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
+### [Ms-144](/ms-144/#38v.4+39r.1): [38v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp),[39r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
 
 <span class="series-number">a107˙3</span> Nur von Einem, der das & das _kann_, gelernt hat, beherrscht, hat es Sinn zu sagen, er habe _das_ erlebt. Und wenn das närrisch klingt, mußt Du bedenken, daß der _Begriff_ des Sehens hier modifiziert wird. (Eine ähnliche Überlegung ist oft nötig, um das Schwindelgefühl in der Mathematik zu vertreiben.)
 
-### [Ms-144,39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
+### [Ms-144](/ms-144/#39r.2): [39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
 
 Wir sprechen, machen Äußerungen, & erst _später_ erhalten wir ein Bild von ihrem Leben.
 
-### [Ms-144,39r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
+### [Ms-144](/ms-144/#39r.3): [39r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
 
 <span class="series-number">a107˙4</span> Wie konnte ich denn sehen, daß diese Stellung zaghaft war, ehe ich wußte, daß sie eine Stellung & nicht die Anatomie dieses Wesens ist? Aber heißt das nicht nur, daß ich _diesen_ Begriff, der sich eben nicht _nur_ auf Visuelles bezieht, dann zur Beschreibung des Gesehenen nicht anwenden könnte? – Könnte ich nicht dennoch einen rein-visuellen Begriff, sagen wir, des furchtsamen Gesichts, haben?
 
-### [Ms-144,39r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
+### [Ms-144](/ms-144/#39r.4): [39r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
 
 <span class="series-number">a107˙5</span> Ein solcher wäre dann mit den Begriffen ‘dur’ & ‘moll’ zu vergleichen, die wohl einen Gefühlswert haben, aber auch einzig zur Beschreibung der wahrgenommenen Struktur gebraucht werden können.
 
-### [Ms-144,39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
+### [Ms-144](/ms-144/#39v.3): [39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
 
 <span class="series-number">a107˙51</span> Das Epitheton “traurig” auf das Strichgesicht angewendet, z.B., charakterisiert die Gruppierung von Strichen in einem Oval. Angewendet auf den Menschen hat es eine andere (obgleich verwandte) Bedeutung. (Das heißt aber _nicht_, daß der traurige Gesichtsausdruck dem Gefühl der Traurigkeit _ähnlich_ sei!)
 
-### [Ms-144,39v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
+### [Ms-144](/ms-144/#39v.4): [39v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
 
 <span class="series-number">a107˙52</span> Bedenke auch dies: Rot & grün kann ich nur sehen, aber nicht hören, – die Traurigkeit aber, soweit ich sie sehen kann, kann ich sie auch hören.
 
-### [Ms-144,39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
+### [Ms-144](/ms-144/#39r.5): [39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)
 
 <span class="series-number">a107˙6</span> Denk nur an den Ausdruck “Ich hörte eine klagende Melodie”! Und nun die Frage: “_Hört_ er das Klagen?”
 
-### [Ms-144,39r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
+### [Ms-144](/ms-144/#39r.6+39v.1): [39r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
 
 <span class="series-number">a107˙7</span> Und wenn ich antwortete: “Nein, er hört es nicht; er empfindet es nur” – was ist damit getan? Man kann ja nicht einmal ein Sinnesorgan dieser ‘Empfindung’ angeben. Mancher möchte nun antworten: “Freilich hör ich's!” – Mancher: “Ich _höre_ es eigentlich nicht.” Es lassen sich aber Begriffsunterschiede feststellen.
 
-### [Ms-144,39v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
+### [Ms-144](/ms-144/#39v.2): [39v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)
 
 <span class="series-number">a107˙8</span> Wir reagieren anders auf den Gesichtseindruck, als der, der ihn nicht als furchtsam (im _vollen_ Sinne des Wortes) erkennt. – Nun will ich aber _nicht_ sagen, wir spüren in den Muskeln & Gelenken diese Reaktion, & dies sei die ‘Empfindung’. – Nein, wir haben hier einen modifizierten **Empfindungs**begriff.
 
-### [Ms-144,41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)
+### [Ms-144](/ms-144/#41r.1): [41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)
 
 <span class="series-number">a107˙91</span> Wer den Ernst einer Melodie empfindet, was nimmt der wahr? – Nichts, was sich durch Wiedergabe des Gehörten mitteile ließe.
 
-### [Ms-144,36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
+### [Ms-144](/ms-144/#36r.2): [36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)
 
 <span class="series-number">a108</span> Von einem beliebigen Schriftzeichen – diesem etwa <math display="inline"><mtext>𝖄</mtext></math> – kann ich mir vorstellen, es sei der streng korrekt geschriebene Buchstabe irgendeines fremden Alphabets. Oder aber, es sei ein fehlerhaft geschriebener; & zwar fehlerhaft auf die eine, oder andere Weise: z.B. schleuderhaft, oder typisch kindisch-ungeschickt, oder bürokratisch verschnörkelt. Es könnte in verschiedener Weise vom korrekt geschriebenen abweichen. – Und je nach der Erdichtung, mit der ich es umgebe, kann ich es in verschiedenen Aspekten sehen. Und hier besteht enge Verwandtschaft mit dem ‘Erleben der Bedeutung eines Wortes’.
 
-### [Ms-144,36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)
+### [Ms-144](/ms-144/#36v.2): [36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)
 
 <span class="series-number">a109</span> Ich möchte sagen, daß, was hier aufleuchtet, nur so lange stehen bleibt, als eine bestimmte Beschäftigung mit dem betrachteten Objekt dauert. (“Sieh, wie er blickt”) – ‘Ich möchte sagen’ – & _ist_ es so? – Frage Dich: “Wie lange fällt mir etwas auf?” – Wie lange ist es mir _neu_?
 
-### [Ms-144,36v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)
+### [Ms-144](/ms-144/#36v.3): [36v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)
 
 <span class="series-number">a110</span> Im Aspekt ist eine Physiognomie vorhanden, die nachher vergeht. Es ist beinahe, als wäre da ein Gesicht, welches ich zuerst _nachahme_, & dann hinnehme, ohne es nachzuahmen. – Und ist das nicht eigentlich genug der Erklärung? – Aber, ist es nicht zu viel?
 
-### [Ms-144,36v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)
+### [Ms-144](/ms-144/#36v.4): [36v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)
 
 <span class="series-number">a111</span> “Ich bemerkte die Ähnlichkeit zwischen ihm & seinem Vater für ein paar Minuten, dann nicht mehr.” – Das könnte man sagen, wenn sich sein Gesicht ändert & nur für kurze Zeit seinem Vater ähnlich sieht. Aber es kann auch heißen: Nach ein paar Minuten ist mir ihre Ähnlichkeit nicht mehr aufgefallen.
 
-### [Ms-144,38r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
+### [Ms-144](/ms-144/#38r.3): [38r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
 
 <span class="series-number">a111˙1</span> “Nachdem Dir die Ähnlichkeit der Beiden aufgefallen war, – wie lange warst Du Dir ihrer bewußt?” Wie könnte man diese Frage beantworten? – “Ich habe bald nicht mehr an sie gedacht” oder “Sie ist mir von Zeit zu Zeit immer wieder aufgefallen” oder “Es ist mir einigemale durch den Kopf gegangen: Wie ähnlich sie doch sind!” “Ich habe gewiß eine Minute lang die Ähnlichkeit angestaunt”. So etwa sehen die Antworten aus.
 
-### [Ms-144,37v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp)
+### [Ms-144](/ms-144/#37v.2): [37v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp)
 
 <span class="series-number">a111˙2</span> Ich möchte fragen: “Bin ich mir der Raumhaftigkeit, Tiefe, eines Gegenstandes (dieses Schrankes z.B.), während ich ihn sehe, _immer bewußt_?” _Fühle_ ich sie, sozusagen, die ganze Zeit? – Aber stell die Frage in der dritten Person. – Wann würdest Du sagen, er sei sich ihrer immer bewußt? wann das Gegenteil? – Man könnte ihn ja fragen, – aber wie hat er gelernt, auf diese Frage zu antworten? – Er weiß, was es heißt “ununterbrochen einen Schmerz fühlen”. Aber das wird ihn hier nur verwirren (wie es auch mich verwirrt). Wenn er nun sagt, er sei sich der Tiefe fortwährend bewußt, – glaub ich's ihm? Und sagt er, er sei sich ihrer nur von Zeit zu Zeit bewußt (wenn er von ihr redet, etwa) – glaub ich ihm _das_? Es wird mir vorkommen, als ruhten diese Antworten auf falscher Grundlage. – Anders aber, wenn er sagt, der Gegenstand käme ihm manchmal flach, manchmal räumlich vor.
 
-### [Ms-144,37v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
+### [Ms-144](/ms-144/#37v.3+38r.1): [37v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
 
 <span class="series-number">a111˙3</span> Es erzählt mir Einer: “Ich sah die Blume an, dachte aber an etwas anderes & war mir ihrer Farbe nicht bewußt.” Versteh ich das? – Ich kann mir einen sinnvollen Zusammenhang dazu denken; es würde etwa weitergehen: “Dann plötzlich _sah_ ich sie & erkannte, daß es die war, welche …” Oder auch: “Hätte ich mich damals abgewandt, ich hätte nicht sagen können, welche Farbe sie hatte”. “Er blickte sie an, ohne sie zu sehen.” – Das gibt's. Aber was ist das Kriterium dafür? – Es gibt da eben verschiedene Fälle.
 
-### [Ms-144,38r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
+### [Ms-144](/ms-144/#38r.2): [38r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)
 
 <span class="series-number">a112</span> “Ich habe jetzt mehr auf die Form, als auf die Farbe geschaut.” Laß Dich durch solche Wendungen des Ausdrucks nicht verwirren. Vor allem, denk nicht “Was mag da wohl im Aug, oder im Gehirn vor sich gehen?”
 
-### [Ms-144,36v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp),[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
+### [Ms-144](/ms-144/#36v.5+37r.1): [36v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp),[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
 
 <span class="series-number">a111˙4</span> Die Ähnlichkeit fällt mir auf, & das Auffallen erlischt. Sie fiel mir nur für wenige Minuten auf, dann nicht mehr. Was geschah da? – Wessen kann ich mich entsinnen? Mein eigener Gesichtsausdruck kommt mir in den Sinn, ich könnte ihn nachmachen. Hätte Einer, der mich nicht kennt, mein Gesicht gesehen, er hätte gesagt: “Es ist Dir jetzt etwas an seinem Gesicht aufgefallen”. – Auch fällt mir ein, was ich bei so einer Gelegenheit etwa hörbar, oder nur in mir selbst, sage. Und das ist alles. – Und ist das das Auffallen? Nein. Das sind die Erscheinungen des Auffallens; aber die _sind_ ‘was geschieht’.
 
-### [Ms-144,37r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
+### [Ms-144](/ms-144/#37r.2): [37r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
 
 <span class="series-number">a113</span> Ist das Auffallen Schauen & Denken? Nein. Viele unsrer Begriffe _kreuzen_ sich hier.
 
-### [Ms-144,37r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
+### [Ms-144](/ms-144/#37r.3): [37r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)
 
 <span class="series-number">a114</span> (‘Denken’ & ‘in der Vorstellung sprechen’ (ich sage nicht “zu sich selbst sprechen”) sind verschiedene Begriffe.)
 
-### [Ms-144,37r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp),[37v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp)
+### [Ms-144](/ms-144/#37r.7+37v.1): [37r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp),[37v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp)
 
 <span class="series-number">a115</span> Der Farbe des Objekts entspricht die Farbe im Gesichtseindruck (dies Fließpapier scheint mir rosa, & es ist rosa) – der Form des Objekts die Form im Gesichtseindruck (es scheint mir rechteckig, & es ist rechteckig) – aber was ich im Aufleuchten des Aspekts wahrnehme, ist nicht eine Eigenschaft des Objekts, es ist eine interne Relation zwischen ihm & andern Objekten.
 
-### [Ms-144,41r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)
+### [Ms-144](/ms-144/#41r.2): [41r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)
 
 <span class="series-number">a108˙1</span> Es ist beinahe, als ob das ‘_Sehen_ des Zeichens in diesem Zusammenhang’ ein Nachhall eines Gedankens wäre. “Ein im Sehen nachhallender Gedanke” – möchte man sagen.
 
-### [Ms-144,41r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp),[41v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
+### [Ms-144](/ms-144/#41r.3+41v.1): [41r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp),[41v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
 
 <span class="series-number">a108˙2</span> Denk Dir eine physiologische Erklärung für das Erlebnis. Es sei die: Beim Betrachten der Figur bestreicht der Blick sein Objekt wieder & wieder entlang einer bestimmten Bahn. Die Bahn entspricht einer besondern Form der Oszillation der Augäpfel beim Schauen. Es kann geschehen, daß eine solche Bewegungsart in eine andere überspringt & die beiden miteinander abwechseln (Aspekte _A_). Gewisse Bewegungsformen sind physiologisch unmöglich; daher kann ich z.B. das Würfelschema nicht als zwei einander durchdringende Prismen sehen. U.s.f.. Dies sei die Erklärung. – “Ja, nun weiß ich, daß es eine Art _Sehen_ ist.” – Du hast jetzt ein neues, ein physiologisches Kriterium des Sehens eingeführt. Und das kann das alte Problem verdecken, aber nicht lösen. – Der Zweck dieser Bemerkung war aber uns vor Augen zu führen, was geschieht, wenn uns eine physiologische Erklärung dargeboten wird. Der psychologische Begriff schwebt über dieser Erklärung unberührt. Und die Natur unsres Problems wird dadurch klarer.
 
-### [Ms-144,41v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
+### [Ms-144](/ms-144/#41v.4): [41v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
 
 <span class="series-number">a01</span> Sehe ich wirklich jedesmal etwas anderes, oder deute ich nur, was ich sehe, auf verschiedene Weise? Ich bin geneigt das erste zu sagen. Aber warum? – Deuten ist ein Denken, ein Handeln; Sehen ein Zustand.
 
-### [Ms-144,41v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
+### [Ms-144](/ms-144/#41v.5): [41v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
 
 <span class="series-number">a02</span> Nun, die Fälle, in welchen wir _deuten_, sind leicht zu erkennen. Deuten wir, so machen wir Hypothesen, die sich als falsch erweisen mögen. – “Ich sehe diese Figur als ein …” kann so wenig verifiziert werden (oder nur in dem Sinne) wie “Ich sehe ein leuchtendes Rot”. Es besteht also eine Ähnlichkeit der Verwendung von “_sehen_” in beiden Zusammenhängen.
 
-### [Ms-144,41v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
+### [Ms-144](/ms-144/#41v.6): [41v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)
 
 <span class="series-number">a03</span> Denk nun ja nicht, Du wüßtest im vorhinein, was “_Zustand_ des Sehens” hier bedeutet! Laß Dich die Bedeutung durch den Gebrauch _lehren_.
 
-### [Ms-144,42r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
+### [Ms-144](/ms-144/#42r.2): [42r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
 
 Gewisses am Sehen kommt uns rätselhaft vor, weil uns das ganze Sehen nicht rätselhaft genug vorkommt.
 
-### [Ms-144,42r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
+### [Ms-144](/ms-144/#42r.3): [42r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
 
 Wer eine Photographie betrachtet, von Menschen, Häusern, Bäumen, dem geht Räumlichkeit an ihr nicht ab. Es wäre uns nicht leicht, sie als Aggregat von Farbflecken in der Fläche zu beschreiben, aber was wir im Stereoskop sehen schaut noch in anderer Weise räumlich aus.
 
-### [Ms-144,42r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
+### [Ms-144](/ms-144/#42r.4): [42r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)
 
 (Es ist nichts weniger als selbstverständlich, daß wir mit zwei Augen ‘räumlich’ sehen. Wenn die beiden Gesichtsbilder in eins verschmelzen, könnte man sich als Resultat ein verschwommenes erwarten.)
 
-### [Ms-144,42r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp),[42v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
+### [Ms-144](/ms-144/#42r.5+42v.1): [42r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp),[42v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
 
 Der Begriff des Aspekts ist dem Begriff der Vorstellung verwandt. Oder: der Begriff ‘ich sehe es jetzt als …’ ist verwandt mit ‘ich stelle mir jetzt _das_ vor’.
 
-### [Ms-144,42v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
+### [Ms-144](/ms-144/#42v.2): [42v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
 
 Gehört dazu, etwas als Variation eines bestimmten Themas zu hören, nicht Fantasie? Und doch nimmt man dadurch etwas wahr.
 
-### [Ms-144,42v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
+### [Ms-144](/ms-144/#42v.3): [42v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
 
 “Stell Dir das so geändert vor, so hast Du das andere.” In der Vorstellung kann man einen Beweis führen.
 
-### [Ms-144,42v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
+### [Ms-144](/ms-144/#42v.4): [42v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
 
 Das Sehen des Aspekts & das Vorstellen unterstehen dem Willen. Es gibt den Befehl “Stell Dir _das_ vor!” & den, “Sieh die Figur jetzt _so_!”; aber nicht: “Sieh das Blatt jetzt grün!”
 
-### [Ms-144,42v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
+### [Ms-144](/ms-144/#42v.5): [42v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp)
 
 Es erhebt sich nun die Frage: Könnte es Menschen geben, denen die Fähigkeit, etwas _als etwas_ zu sehen, abginge – & wie wäre das? Was für Folgen hätte es? Wäre dieser Defekt zu vergleichen mit Farbenblindheit, oder mit dem Fehlen des absoluten Gehörs? – Wir wollen ihn “Aspektblindheit” nennen – & uns nun überlegen, was damit gemeint sein könnte. (Eine begriffliche Untersuchung.)
 
-### [Ms-144,42v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp),[43r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
+### [Ms-144](/ms-144/#42v.6+43r.1): [42v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42v.webp),[43r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
 
 Der Aspektblinde soll die Aspekte _A_ nicht wechseln sehen. Soll er aber (auch) nicht erkennen, daß das Doppelkreuz ein schwarzes & ein weißes Kreuz enthält? Soll er also die Aufgabe nicht bewältigen können: “Zeig mir unter diesen Figuren solche, die ein schwarzes Kreuz enthalten”? Nein, das soll er können, aber er soll nicht sagen: “Jetzt ist es ein schwarzes Kreuz auf weißem Grund!”
 
-### [Ms-144,43r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
+### [Ms-144](/ms-144/#43r.2): [43r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
 
 Soll er für die Ähnlichkeit zweier Gesichter blind sein? – Aber also auch für die Gleichheit, oder angenäherte Gleichheit? Das will ich nicht festsetzen. (Er soll Befehle von der Art “Bring mir etwas, was so ausschaut wie _das_!” ausführen können.)
 
-### [Ms-144,43r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
+### [Ms-144](/ms-144/#43r.3): [43r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
 
 Soll er das Würfelschema nicht als Würfel sehen können? – Daraus würde nicht folgen, daß er es nicht als Darstellung (z.B. als Werkzeichnung) eines Würfels erkennen könnte. Es würde aber für ihn nicht von einem Aspekt in den andern überspringen. – Frage: Soll er es, wie wir, unter Umständen für einen Würfel _halten_ können? – Wenn nicht, so könnte man das nicht wohl eine Blindheit nennen. Der ‘Aspektblinde’ wird zu Bildern überhaupt ein anderes Verhältnis haben, als wir.
 
-### [Ms-144,43r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
+### [Ms-144](/ms-144/#43r.4): [43r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
 
 (Anomalien _dieser_ Art können wir uns leicht vorstellen.)
 
-### [Ms-144,43r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
+### [Ms-144](/ms-144/#43r.5): [43r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp)
 
 Aspektblindheit wird _verwandt_ sein dem Mangel des ‘musikalischen Gehörs’.
 
-### [Ms-144,43r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp),[43v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp)
+### [Ms-144](/ms-144/#43r.6+43v.1): [43r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43r.webp),[43v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp)
 
 Die Wichtigkeit dieses Begriffes liegt in dem Zusammenhang der Begriffe ‘sehen des Aspekts’ & ‘erleben der Bedeutung eines Wortes’. Denn wir wollen fragen: “Was ginge dem ab, der die Bedeutung eines Wortes nicht _erlebt_?” Was ginge z.B. dem ab, der die Aufforderung, das Wort “sondern” auszusprechen & es als Zeitwort zu meinen, nicht verstünde, – oder Einem der nicht fühlt, daß das Wort, wenn es zehnmal nach der Reihe ausgesprochen wird, seine Bedeutung für ihn verliert & ein bloßer Klang wird?
 
-### [Ms-144,43v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp)
+### [Ms-144](/ms-144/#43v.2): [43v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp)
 
 Vor Gericht z.B. könnte die Frage erörtert werden, wie Einer ein Wort gemeint habe. Und es kann dies aus gewissen Tatsachen geschlossen werden. – Es ist eine Frage der _Absicht_. Konnte es aber in ähnlicher Weise bedeutsam sein, wie er ein Wort – das Wort “Bank” z.B. – erlebt hat?
 
-### [Ms-144,43v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp)
+### [Ms-144](/ms-144/#43v.3): [43v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp)
 
 Ich hätte mit jemandem eine Geheimsprache vereinbart; “Turm” bedeutet Bank. Ich sage ihm “Geh jetzt zum Turm!” – er versteht mich & handelt danach, aber das Wort “Turm” kommt ihm in dieser Verwendung fremdartig vor, es hat noch nicht die Bedeutung ‘angenommen’.
 
-### [Ms-144,43v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
+### [Ms-144](/ms-144/#43v.4+44r.1): [43v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/43v.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
 
 “Wenn ich ein Gedicht, eine Erzählung mit Empfindung lese, so geht doch etwas in mir vor, was nicht vorgeht, wenn ich (die) Zeilen nur der Information wegen überfliege.” – Auf welche Vorgänge spiele ich an? – Die Sätze _klingen_ anders. Ich achte genau auf den Tonfall. Manchmal hat ein Wort einen falschen Ton, tritt zu sehr, oder zu wenig hervor. Ich merke es & mein Gesicht drückt es aus. Ich könnte später über die Einzelheiten meines Vortrags reden, z.B. über die Unrichtigkeiten im Ton. Manchmal schwebt mir ein Bild, gleichsam eine Illustration vor. Ja, dies scheint mir zu helfen, im richtigen Ausdruck zu lesen. Und dergleichen könnte ich noch manches anführen. – Ich kann auch einem Wort einen Ton verleihen, der seine Bedeutung, beinahe als wäre das Wort ein Bild der Sache, aus den übrigen heraushebt. (Und dies kann natürlich durch den Bau des Satzes bedingt sein.)
 
-### [Ms-144,44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
+### [Ms-144](/ms-144/#44r.2): [44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
 
 Wenn ich beim ausdrucksvollen Lesen dies Wort ausspreche, ist es ganz mit seiner Bedeutung angefüllt. – “Wie kann das sein, wenn Bedeutung der Gebrauch des Wortes ist?” Nun, mein Ausdruck war bildlich gemeint. Aber nicht, als hätte ich das Bild gewählt, sondern es drängte sich mir auf. – Aber die bildliche Verwendung des Wortes konnte ja mit der ursprünglichen nicht in Konflikt geraten.
 
-### [Ms-144,44r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
+### [Ms-144](/ms-144/#44r.3): [44r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
 
 Warum gerade _dies_ Bild sich mir darbietet, ließe sich vielleicht erklären. (Denke nur an den Ausdruck & die Bedeutung des Ausdrucks “das treffende Wort”.)
 
-### [Ms-144,44r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
+### [Ms-144](/ms-144/#44r.4): [44r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp)
 
 Wenn mir aber der Satz wie ein Wortgemälde vorkommen kann, ja das einzelne Wort im Satz wie ein Bild, dann ist es nicht mehr so verwunderlich, daß ein Wort, isoliert & ohne Zweck ausgesprochen, eine bestimmte Bedeutung in sich zu tragen scheinen kann.
 
-### [Ms-144,44r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp),[44v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp)
+### [Ms-144](/ms-144/#44r.5+44v.1): [44r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44r.webp),[44v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp)
 
 Denke hier an eine besondere Art der Täuschung, die auf diese Dinge ein Licht wirft. – Ich gehe mit einem Bekannten in der Umgebung der Stadt spazieren. Im Gespräch zeigt es sich, daß ich mir die Stadt zu unsrer Rechten liegend vorstelle. Für diese Annahme habe ich nicht nur _keinen_ mir bewußten Grund, sondern eine ganz einfache Überlegung konnte mich davon überzeugen, daß die Stadt etwas links vor uns liegt. Gefragt, _warum_ ich mir denn die Stadt in _dieser_ Richtung vorstellte, kann ich zuerst keine Antwort geben. Ich hatte _keinen Grund_, das zu glauben. Obgleich aber keinen Grund, scheine ich doch gewisse psychologische Ursachen zu sehen. Und zwar sind es gewisse Assoziationen & Erinnerungen. Z.B. diese: Wir gingen nämlich einem Kanal entlang, & ich war früher einmal, unter ähnlichen Umständen, einem gefolgt, & die Stadt war damals rechts von uns. – Ich könnte die Ursachen meiner unbegründeten Überzeugung gleichsam psychoanalytisch zu finden trachten.
 
-### [Ms-144,44v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp)
+### [Ms-144](/ms-144/#44v.2): [44v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp)
 
 “Aber was ist das für ein seltsames Erlebnis?” – Es ist natürlich nicht seltsamer als jedes andere; es ist nur von andrer Art als diejenigen Erlebnisse, die wir als die fundamentalsten betrachten, die Sinneseindrücke etwa.
 
-### [Ms-144,44v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp)
+### [Ms-144](/ms-144/#44v.3): [44v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp)
 
 “Mir ist, als wüßte ich, daß die Stadt dort liegt.” – “Mir ist, als paßte der Name “Schubert” zu Schuberts Werken & seinem Gesicht.”
 
-### [Ms-144,44v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp),[45r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
+### [Ms-144](/ms-144/#44v.4+45r.1): [44v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/44v.webp),[45r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
 
 Du kannst Dir das Wort “weiche” vorsprechen & es dabei einmal als Imperativ, einmal als Eigenschaftswort meinen. Und nun sag “Weiche!” – & dann “Weiche _nicht_ vom Platz!” – Begleitet das _gleiche_ Erlebnis beide male das Wort – bist Du sicher?
 
-### [Ms-144,45r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
+### [Ms-144](/ms-144/#45r.2): [45r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
 
 Wenn ein feines Aufhorchen mir zeigt, daß ich in jenem Spiel das Wort bald _so_, bald _so_ erlebe, – zeigt es mir nicht auch, daß ich's im Fluß der Rede oft _gar_ nicht erlebe? – Denn, daß ich es dann auch bald _so_, bald _so_ meine, intendiere, später wohl auch so erkläre, stellt ja nicht in Frage.
 
-### [Ms-144,45r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
+### [Ms-144](/ms-144/#45r.3): [45r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
 
 Aber es bleibt dann die Frage, warum wir denn bei diesem _Spiel_ des Worterlebens auch von ‘Bedeutung’ & ‘Meinen’ sprechen. – Das ist eine Frage anderer Art. ‒ ‒ Es ist die charakteristische Erscheinung dieses Sprachspiels, daß wir, in _dieser_ Situation, sagen, wir hätten das Wort in _der_ Bedeutung ausgesprochen, & diesen Ausdruck aus jenem andern Sprachspiel herübernehmen.
 
-### [Ms-144,45v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
+### [Ms-144](/ms-144/#45v.5): [45v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
 
 Nenn es einen Traum. Es ändert nichts.
 
-### [Ms-144,45r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
+### [Ms-144](/ms-144/#45r.4): [45r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp)
 
 Gegeben die beiden Begriffe ‘fett’ & ‘mager’, würdest Du eher geneigt sein, zu sagen, Mittwoch sei fett & Dienstag mager, oder das Umgekehrte? (Ich neige entschieden zum erstern.) Haben nun hier “fett” & “mager” eine andere, als ihre gewöhnliche Bedeutung? – Sie haben eine andere Verwendung. – Hätte ich also eigentlich andere Wörter gebrauchen sollen? Doch gewiß nicht. – Ich will _diese_ Wörter (mit den mir geläufigen Bedeutungen) _hier_ gebrauchen. – Nun sage ich nichts über die Ursachen der Erscheinung. Sie _könnten_ Assoziationen aus meinen Kindheitstagen sein. Aber das ist Hypothese. Was immer die Erklärung, – jene Neigung besteht.
 
-### [Ms-144,45r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp),[45v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
+### [Ms-144](/ms-144/#45r.5+45v.1): [45r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45r.webp),[45v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
 
 Gefragt, “Was meinst Du hier eigentlich mit ‘fett’ & ‘mager’?” – könnte ich die Bedeutungen nur auf die ganz gewöhnliche Weise erklären. Ich könnte sie _nicht_ an den Beispielen von Dienstag & Mittwoch zeigen.
 
-### [Ms-144,45v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
+### [Ms-144](/ms-144/#45v.2): [45v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
 
 Man könnte hier von ‘primärer’ & ‘sekundärer’ Bedeutung eines Worts reden. Nur der, für den das Wort jene Bedeutung hat, verwendet es in dieser.
 
-### [Ms-144,45v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
+### [Ms-144](/ms-144/#45v.3): [45v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
 
 Nur dem, der rechnen gelernt hat – schriftlich oder mündlich – kann man, mittels dieses Begriffs des Rechnens begreiflich machen, was Kopfrechnen ist.
 
-### [Ms-144,45v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
+### [Ms-144](/ms-144/#45v.4): [45v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
 
 Die sekundäre Bedeutung ist nicht eine ‘übertragene’ Bedeutung. Wenn ich sage “Der Vokal _e_ ist für mich gelb”, so meine ich nicht: ‘gelb’ in übertragener Bedeutung – denn ich könnte, was ich sagen will, gar nicht anders als mittels des Begriffs ‘gelb’ ausdrücken.
 
-### [Ms-144,45v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
+### [Ms-144](/ms-144/#45v.6): [45v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/45v.webp)
 
 Einer sagt mir: “Wart auf mich bei der Bank.” Frage: Hast Du, _als Du das Wort aussprachst_, diese Bank gemeint? – Diese Frage ist von der Art derjenigen: “Hast Du, auf dem Weg zu ihm, beabsichtigt, ihm das & das zu sagen?” Sie bezieht sich auf eine bestimmte Zeit (auf die Zeit des Gehens, wie die erste Frage auf die Zeit des Redens) – aber nicht auf ein _Erlebnis_ während dieser Zeit. Das Meinen ist so wenig ein Erleben, wie das Beabsichtigen.
 
-### [Ms-144,47r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
+### [Ms-144](/ms-144/#47r.2): [47r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
 
 Was unterscheidet sie aber vom Erlebnis? – Sie haben keinen Erlebnisinhalt. Denn die Inhalte (Vorstellungen z.B.) die sie begleiten & illustrieren, sind nicht das Meinen oder Beabsichtigen.
 
-### [Ms-144,46r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
+### [Ms-144](/ms-144/#46r.1): [46r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
 
 Die Absicht _in der_ gehandelt wird ‘begleitet’ nicht die Handlung, sowenig wie der Gedanke die Rede ‘begleitet’. Gedanke & Absicht sind weder ‘gegliedert’ noch ‘ungegliedert’, weder einem einzelnen Ton zu vergleichen, der während des Handelns oder Redens erklingt, noch einer Melodie.
 
-### [Ms-144,46r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
+### [Ms-144](/ms-144/#46r.2): [46r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
 
 ‘Reden’ (ob laut, oder im Stillen) & ‘Denken’ sind nicht gleichartige Begriffe; wenn auch im engsten Zusammenhang.
 
-### [Ms-144,46r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
+### [Ms-144](/ms-144/#46r.3): [46r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
 
 Das Erlebnis beim Sprechen & die Absicht haben nicht das gleiche _Interesse_. (Das Erlebnis könnte vielleicht einen Psychologen über die ‘_unbewußte_’ Absicht belehren.)
 
-### [Ms-144,46r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
+### [Ms-144](/ms-144/#46r.4): [46r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
 
 “Wir haben bei diesem Wort Beide an ihn gedacht.” Nehmen wir an, jeder von uns hätte dabei die gleichen Worte im Stillen zu sich gesagt – & _mehr_ kann es doch nicht heißen. – Aber wären diese Worte nicht auch nur ein _Keim_? Sie müssen doch zu einer Sprache gehören & zu einem Zusammenhang, um wirklich der Ausdruck des Gedenkens an jenen Menschen zu sein.
 
-### [Ms-144,46r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
+### [Ms-144](/ms-144/#46r.5): [46r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp)
 
 Gott, wenn er in unsre Seelen geblickt hätte, hätte dort nicht sehen können, von wem wir sprachen.
 
-### [Ms-144,46r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp),[46v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
+### [Ms-144](/ms-144/#46r.6+46v.1): [46r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46r.webp),[46v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
 
 “Warum hast Du mich bei diesem Wort angeschaut, hast Du an … gedacht?” – Es gibt also eine Reaktion in diesem Zeitpunkt & sie wird durch die Worte “Ich dachte an …” oder “Ich erinnerte mich plötzlich an …” erklärt.
 
-### [Ms-144,46v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
+### [Ms-144](/ms-144/#46v.2): [46v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
 
 Du beziehst Dich mit dieser Äußerung auf den Zeitpunkt des Redens. Es macht einen Unterschied, ob Du Dich auf diesen, oder auf jenen Zeitpunkt beziehst. Die bloße Worterklärung bezieht sich nicht auf ein Geschehnis im Zeitpunkt des Aussprechens.
 
-### [Ms-144,46v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
+### [Ms-144](/ms-144/#46v.3): [46v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
 
 Das Sprachspiel “Ich meine (oder meinte) _das_” (nachträgliche Worterklärung) ist ganz verschieden von dem: “Ich dachte dabei an …” _Dies_ ist verwandt mit: “Es erinnerte mich an …”
 
-### [Ms-144,46v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
+### [Ms-144](/ms-144/#46v.4): [46v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
 
 “Ich habe mich heute schon dreimal dran erinnert, daß ich ihm schreiben muß.” Welche Wichtigkeit hat, was dabei in mir vorsichging? – Aber anderseits, welche Wichtigkeit, welches Interesse hat der Bericht selbst? – Er läßt gewisse Schlüsse zu.
 
-### [Ms-144,46v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
+### [Ms-144](/ms-144/#46v.5): [46v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp)
 
 “Bei diesen Worten fiel er mir ein.” – Was ist die primitive Reaktion, mit der das Sprachspiel anfängt? – die dann in diese Worte umgesetzt werden kann. Wie kommt es dazu, daß Menschen diese Worte gebrauchen? Die primitive Reaktion konnte ein Blick, eine Gebärde sein, aber auch ein Wort.
 
-### [Ms-144,46v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47.webp)
+### [Ms-144](/ms-144/#46v.6+47.1): [46v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47.webp)
 
 “Warum hast Du mich angeschaut & den Kopf geschüttelt?” – “Ich wollte Dir zu verstehen geben, daß Du …” Das soll nicht eine Zeichenregel ausdrücken, sondern den Zweck meiner Handlung.
 
-### [Ms-144,47r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
+### [Ms-144](/ms-144/#47r.3): [47r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
 
 Das Meinen ist kein Vorgang, der dies Wort begleitet. Denn kein _Vorgang_ könnte die Konsequenzen des Meinens haben. (Ähnlich könnte man, glaube ich, sagen: Eine Rechnung ist kein Experiment, denn kein Experiment könnte die besondern Konsequenzen einer Multiplikation haben.)
 
-### [Ms-144,47r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
+### [Ms-144](/ms-144/#47r.4): [47r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
 
 Es gibt wichtige Begleitvorgänge des Redens, die dem gedankenlosen Reden oft fehlen & es kennzeichnen. Aber _sie_ sind nicht das Denken.
 
-### [Ms-144,47r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
+### [Ms-144](/ms-144/#47r.5): [47r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)
 
 “Jetzt weiß ich's!” Was ging da vor? – – – Wußte ich's also _nicht_, als ich versicherte, jetzt wüßte ich's? Du siehst es falsch an. (Wozu dient das Signal?) Und konnte man das ‘Wissen’ einer Begleitung des Ausrufs nennen?
 
-### [Ms-144,47r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp),[47v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp)
+### [Ms-144](/ms-144/#47r.6+47v.1): [47r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp),[47v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp)
 
 Das vertraute Gesicht eines Wortes, die Empfindung, es habe seine Bedeutung in sich aufgenommen, sei ein Bild seiner Bedeutung, – es könnte Menschen geben, denen das alles fremd ist. (Es würde ihnen die Anhänglichkeit an ihre Worte fehlen.) – Und wie äußern sich diese Gefühle bei uns? – Darin, wie wir Worte wählen & schätzen.
 
-### [Ms-144,47v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp)
+### [Ms-144](/ms-144/#47v.2): [47v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp)
 
 Wie finde ich das ‘richtige’ Wort? Wie wähle ich unter den Worten? Es ist wohl manchmal, als vergliche ich sie nach feinen Unterschieden des Geruchs: _Dies_ ist zu sehr …, _dies_ zu sehr …, – _das_ ist das Richtige. – Aber ich muß nicht immer beurteilen, erklären; ich könnte oft nur sagen: “Es stimmt einfach noch nicht.” Ich bin unbefriedigt, suche weiter. Endlich kommt ein Wort: “_Das_ ist es!” _Manchmal_ kann ich sagen, warum. So schaut eben hier das Suchen aus, & so das Finden.
 
-### [Ms-144,47v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp)
+### [Ms-144](/ms-144/#47v.3): [47v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp)
 
 Aber ‘kommt’ nicht das Wort, das Dir einfällt, in etwas besonderer Weise? Gib doch acht! – Das genaue Achtgeben nützt mich nichts. Es könnte doch nur entdecken, was _jetzt_ in _mir_ vorgeht. Und wie kann ich, gerade jetzt, überhaupt drauf hinhören? Ich müßte doch warten, bis mir wieder ein Wort einfällt. Aber das Seltsame ist ja, daß es scheint, als müßte ich nicht auf die Gelegenheit warten; als könnte ich's mir vorführen, auch wenn es sich nicht wirklich zuträgt. Und wie? – Ich _spiele_ es. – Aber _was_ kann ich auf diese Weise erfahren? Was mache ich denn nach? – Charakteristische Begleiterscheinungen. Hauptsächlich: Gebärden, Mienen, Tonfall.
 
-### [Ms-144,47v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp),[48r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp)
+### [Ms-144](/ms-144/#47v.4+48r.1): [47v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47v.webp),[48r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp)
 
 Über einen feinen ästhetischen Unterschied läßt sich _Vieles_ sagen – das ist wichtig. – Die erste Äußerung mag freilich sein: “_Dies_ Wort paßt, _dies_ nicht” – oder dergleichen. Aber nun können noch alle weit verzweigten Zusammenhänge erörtert werden, die jedes der Wörter schlägt. Es ist eben _nicht_ mit jenem ersten Urteil abgetan, denn es ist das _Feld_ eines Wortes, was entscheidet.
 
-### [Ms-144,48r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp)
+### [Ms-144](/ms-144/#48r.2): [48r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp)
 
 “Mir liegt das Wort auf der Zunge.” Was geht dabei in meinem Bewußtsein vor? Darauf kommt's gar nicht an. Was immer vorging, war nicht mit jener Äußerung gemeint. Interessanter ist, was dabei in meinem Benehmen vorging. – “Mir liegt das Wort auf der Zunge” teilt Dir mit: das Wort, das hierher gehört, sei mir entfallen, ich hoffe es bald zu finden. Im Übrigen tut jener Wortausdruck nicht mehr, als ein gewisses wortloses Benehmen.
 
-### [Ms-144,48r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp)
+### [Ms-144](/ms-144/#48r.3): [48r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp)
 
 James will darüber eigentlich sagen: “Was für ein merkwürdiges Erlebnis! Das Wort ist noch nicht da & ist doch, in einem Sinne, schon da, – oder etwas ist da, was nur zu diesem Wort heranwachsen _kann_.” – Aber das ist gar kein Erlebnis. Als Erlebnis _gedeutet_ sieht es freilich seltsam aus. Nicht anders, als die Absicht, gedeutet als Begleitung des Handelns, oder aber ‒ 1 als Kardinalzahl.
 
-### [Ms-144,48r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp),[48v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48v.webp)
+### [Ms-144](/ms-144/#48r.4+48v.1): [48r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48r.webp),[48v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/48v.webp)
 
 Die Worte “Es liegt mir auf der Zunge” sind so wenig der Ausdruck eines Erlebnisses, wie die: “Jetzt weiß ich weiter!” – Wir gebrauchen sie in _gewissen Situationen_, & sie sind umgeben von einem Benehmen besondrer Art, auch von manchen charakteristischen Erlebnissen. Insbesondre folgt ihnen häufig das _Finden_ des Worts. (Frage Dich: “Wie wäre es, wenn Menschen _nie_ das Wort fänden, das ihnen auf der Zunge liegt?”)
 
-### [Ms-144,52r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
+### [Ms-144](/ms-144/#52r.2): [52r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
 
 Das stille, ‘innerliche’ Reden ist nicht ein halb verborgenes Phänomen, als nähme man es durch einen Schleier wahr. Es ist _gar nicht_ verborgen, aber sein Begriff kann uns leicht verwirren, denn er läuft, eine weite Strecke, hart am Begriff eines ‘äußern’ Vorgangs entlang, ohne sich doch mit ihm zu decken. (Die Frage, ob beim innerlichen Sprechen Kehlkopfmuskeln innerviert werden, & ähnliches, mag großes Interesse haben, aber nicht für unsre Untersuchung.)
 
-### [Ms-144,52r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
+### [Ms-144](/ms-144/#52r.3): [52r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
 
 Die enge Verwandtschaft des ‘innerlichen Redens’ mit dem ‘Reden’ drückt sich darin aus, daß sich hörbar mitteilen läßt, was innerlich geredet wurde, & daß das innerliche Reden eine äußere Handlung _begleiten_ kann. (Ich kann innerlich singen, oder leise lesen, oder Kopfrechnen & dabei mit der Hand den Takt schlagen.)
 
-### [Ms-144,52r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
+### [Ms-144](/ms-144/#52r.4): [52r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
 
 “Aber das innerliche Reden ist doch eine gewisse Tätigkeit, die ich lernen muß!” Wohl; aber was ist hier ‘tun’ & was ist hier ‘lernen’? Laß Dich die Bedeutung der Worte von ihren Verwendungen lehren! (Ähnlich kann man in der Mathematik oft sagen: Laß den _Beweis_ Dich lehren, _was_ bewiesen wurde.)
 
-### [Ms-144,52r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
+### [Ms-144](/ms-144/#52r.5): [52r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52r.webp)
 
 “So rechne ich nicht _wirklich_, wenn ich im Kopf rechne?” – Du unterscheidest doch auch Kopfrechnen vom wahrnehmbaren Rechnen! Aber Du kannst nur lernen, was ‘Kopfrechnen’ ist, indem Du lernst, was ‘Rechnen’ ist; Du kannst Kopfrechnen nur lernen, indem Du rechnen lernst.
 
-### [Ms-144,52v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
+### [Ms-144](/ms-144/#52v.1): [52v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
 
 Man kann sehr ‘deutlich’ in der Vorstellung reden, wenn man dabei den Tonfall der Sätze durch Summen (bei geschlossenen Lippen) wiedergibt. Auch Kehlkopfbewegungen helfen. Aber das Merkwürdige ist ja eben, daß man die Rede dann in der Vorstellung _hört_, & nicht bloß, sozusagen, ihr Skelett im Kehlkopf _fühlt_. (Denn es ließe sich ja auch denken, daß Menschen still mit Kehlkopfbewegungen rechneten, wie man mit den Fingern rechnen kann.)
 
-### [Ms-144,52v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
+### [Ms-144](/ms-144/#52v.2): [52v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
 
 Eine Hypothese, wie die, es ginge beim innerlichen Reden das & das in unserm Körper vor, ist für uns nur insofern von Interesse, als sie uns eine mögliche Verwendung der Äußerung “Ich sagte zu mir selbst …” zeigt; nämlich die, von der Äußerung auf den physiologischen Vorgang zu schließen.
 
-### [Ms-144,52v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
+### [Ms-144](/ms-144/#52v.3): [52v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
 
 Daß, was ein Andrer innerlich redet, mir verborgen ist, liegt im _Begriff_ ‘innerlich reden’. Nur ist “verborgen” hier das falsche Wort; denn ist es mir verborgen, so sollte es ihm selbst offenbar sein, _er_ müßte es _wissen_. Aber ‘weiß’ es nicht, nur den Zweifel, den es für mich gibt, gibt es für ihn nicht.
 
-### [Ms-144,52v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
+### [Ms-144](/ms-144/#52v.4): [52v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/52v.webp)
 
 “Was Einer zu sich selbst im Innern spricht, ist mir verborgen” könnte freilich auch heißen, ich könne es zumeist nicht _erraten_, noch auch (wie es ja möglich wäre) aus den Bewegungen seines Kehlkopfs z.B. ablesen.
 
-### [Ms-144,53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
+### [Ms-144](/ms-144/#53r.1): [53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
 
 “Ich weiß, was ich will, wünsche, glaube, fühle, …” (u.s.f. durch alle psychologischen Verben) ist entweder Philosophen-Unsinn, oder aber _nicht_ ein Urteil a priori.
 
-### [Ms-144,53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
+### [Ms-144](/ms-144/#53r.2): [53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
 
 “Ich weiß …” mag heißen “Ich zweifle nicht …” – aber es heißt nicht, die Worte “Ich zweifle …” seien _sinnlos_, der Zweifel logisch ausgeschlossen.
 
-### [Ms-144,53r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
+### [Ms-144](/ms-144/#53r.3): [53r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
 
 Man sagt “Ich weiß”, wo man auch sagen kann “Ich glaube”, oder “Ich vermute”; wo man sich überzeugen kann. (Wer mir aber vorhält, man sage manchmal “Ich muß doch wissen, ob ich Schmerzen habe!”, “Nur Du kannst wissen, was Du fühlst” & ähnliches, der soll sich die Anlässe & den Zweck dieser Redensarten besehen. “Krieg ist Krieg!” ist (ja) auch nicht ein Beispiel des Identitätsgesetzes.)
 
-### [Ms-144,53r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
+### [Ms-144](/ms-144/#53r.4): [53r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)
 
 Der Fall läßt sich denken, in dem ich mich davon überzeugen _könnte_, daß ich zwei Hände habe. Normalerweise aber kann ich's _nicht_. “Aber Du brauchst sie Dir ja nur vor die Augen zu halten.” – Wenn ich _jetzt_ zweifle, ob ich zwei Hände habe, dann brauche ich auch meinen Augen nicht zu trauen. (Ebensogut könnte ich dann meinen Freund fragen.)
 
-### [Ms-144,53r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp),[53v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)
+### [Ms-144](/ms-144/#53r.5+53v.1): [53r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp),[53v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)
 
 Damit hängt zusammen, daß z.B. der Satz “Die Erde hat Millionen von Jahren existiert” einen klareren Sinn hat, als der: “Die Erde hat in den letzten 5 Minuten existiert”. Denn, wer das letztere behauptet, den würde ich fragen: “Auf welche Beobachtungen bezieht sich dieser Satz; & welche würden ihm entgegenstehen?” – während ich weiß, zu welchem Gedankenkreis & zu welchen Beobachtungen der erste Satz gehört.
 
-### [Ms-144,53v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)
+### [Ms-144](/ms-144/#53v.2): [53v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)
 
 “Ein neugeborenes Kind hat keine Zähne.” – “Eine Gans hat keine Zähne.” – “Eine Rose hat keine Zähne.” – Das letztere – möchte man sagen – ist doch offenbar wahr! Sicherer sogar, als daß eine Gans keine hat. – Und doch ist es nicht so klar. Denn wo sollte eine Rose Zähne haben? Die Gans hat keine in ihren Kiefern. Und sie hat natürlich auch keine in den Flügeln, aber das meint niemand, der sagt, sie habe keine Zähne. – Ja wie, wenn man sagte: Die Kuh kaut ihr Futter & düngt dann damit die Rose, also hat die Rose Zähne im Maul eines Tiers. Das wäre darum nicht absurd, weil man von vornherein gar nicht weiß, wo bei der Rose nach Zähnen zu suchen wäre.
 
-### [Ms-144,53v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)
+### [Ms-144](/ms-144/#53v.3): [53v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)
 
 Ich kann wissen, was der Andre denkt, nicht was ich denke. Es ist richtig zu sagen “Ich weiß, was Du denkst”, & falsch: “Ich weiß, was ich denke.” (Eine ganze Wolke von Philosophie kondensiert zu einem Tröpfchen Grammatik.)
 
-### [Ms-144,53v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp),[54r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
+### [Ms-144](/ms-144/#53v.4+54r.1): [53v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp),[54r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
 
 “Das Denken des Menschen geht im Innern des Bewußtseins in einer Abgeschlossenheit vor sich, gegen die jede physische Abgeschlossenheit ein Offen-da-liegen ist.” Würden Menschen, die stets – etwa durch Beobachten des Kehlkopfs – die stillen Selbstgespräche des Andern lesen könnten, – würden die auch geneigt sein das Bild von der gänzlichen Abgeschlossenheit zu gebrauchen?
 
-### [Ms-144,54r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
+### [Ms-144](/ms-144/#54r.2): [54r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
 
 Spräche ich laut zu mir selbst, in einer Sprache, die die Anwesenden nicht verstehen, so wären meine Gedanken ihnen verborgen.
 
-### [Ms-144,54r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
+### [Ms-144](/ms-144/#54r.3): [54r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
 
 Nehmen wir an es gebe einen Menschen, der immer richtig erriete, was ich im Gedanken zu mir rede. (Wie es ihm gelingt, ist gleichgültig.) Aber was ist das Kriterium dafür, daß er es _richtig_ errät? Nun, ich bin wahrheitsliebend & gestehe, er habe es richtig erraten. – Aber könnte ich mich nicht irren, kann mich mein Gedächtnis nicht täuschen? Und könnte es das nicht immer, wenn ich – ohne zu lügen – ausspreche, was ich bei mir gedacht habe? ‒ ‒ Aber so scheint es ja, es könne gar nicht drauf ankommen, ‘was in meinem Innern vorgegangen ist.’ (Ich mache hier eine Hilfskonstruktion.)
 
-### [Ms-144,54r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
+### [Ms-144](/ms-144/#54r.4): [54r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp)
 
 Für die Wahrheit des _Geständnisses_, ich hätte das & das gedacht, sind die Kriterien nicht die der wahrheitsgemäßen _Beschreibung_ eines Vorgangs. Und die Wichtigkeit des wahren Geständnisses liegt nicht darin, daß es irgend einen Vorgang mit Sicherheit richtig wiedergibt. Sie liegt vielmehr in den besondern Konsequenzen, die sich aus einem Geständnis ziehen lassen, dessen Wahrheit durch die besondern Kriterien der _Wahrhaftigkeit_ verbürgt ist.
 
-### [Ms-144,54r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp),[54v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp)
+### [Ms-144](/ms-144/#54r.5+54v.1): [54r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54r.webp),[54v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp)
 
 (Angenommen, daß die Träume uns wichtige Aufschlüsse über den Träumer geben können, so wäre das, was den Aufschluß gibt, die wahrhaftige Traumerzählung. Die Frage, ob den Träumer sein Gedächtnis täuscht, wenn er nach dem Erwachen den Traum berichtet, kann sich nicht erheben, es sei denn, wir führten ein gänzlich neues Kriterium für eine ‘Übereinstimmung’ des Berichts mit dem Traum ein, ein Kriterium das hier eine Wahrheit von der Wahrhaftigkeit unterscheidet.)
 
-### [Ms-144,54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp)
+### [Ms-144](/ms-144/#54v.2): [54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp)
 
 Es gibt ein Spiel: ‘Gedankenerraten’. Eine Variante davon wäre die: Ich mache dem A eine Mitteilung in einer Sprache, die B nicht versteht. B soll den Sinn der Mitteilung erraten. – Eine andere Variante: Ich schreibe einen Satz nieder, den der Andre nicht sehen kann. Er muß den Wortlaut, oder den Sinn erraten. – Noch eine: Ich stelle ein Jigsaw-Puzzle zusammen; der Andre kann mich nicht sehen, errät aber von Zeit zu Zeit meine Gedanken & spricht sie aus. Er sagt z.B.: “Wo ist nur dieses Stück!” – “_Jetzt_ weiß ich, wie es paßt!” – “Ich habe keine Ahnung, was hierher gehört.” – “Der Himmel ist immer das Schwerste.” – u.s.f. – dabei aber brauche _ich_ weder laut noch auch im Stillen zu mir selbst sprechen.
 
-### [Ms-144,54v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp)
+### [Ms-144](/ms-144/#54v.3): [54v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp)
 
 Alles das ist Erraten von Gedanken; & wenn es tatsächlich nicht geschieht, so macht dies den Gedanken nicht verborgener, als den physischen Vorgang, den man nicht wahrnimmt.
 
-### [Ms-144,54v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
+### [Ms-144](/ms-144/#54v.4+55r.1): [54v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
 
 “Das _Innere_ ist uns verborgen.” – Die Zukunft ist uns verborgen. – Aber denkt der Astronom so, wenn er eine Sonnenfinsternis berechnet?
 
-### [Ms-144,55r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
+### [Ms-144](/ms-144/#55r.2): [55r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
 
 Wen ich, mit offenbarer Ursache, sich in Schmerzen winden sehe, von dem denke ich nicht: seine Gefühle seien mir doch verborgen.
 
-### [Ms-144,55r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
+### [Ms-144](/ms-144/#55r.3): [55r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
 
 Wir sagen auch von einem Menschen, er sei uns durchsichtig. Aber es ist für diese Betrachtung wichtig, daß ein Mensch für einen andern ein völliges Rätsel sein kann. Das erfährt man, wenn man in ein fremdes Land mit gänzlich fremden Traditionen kommt; & zwar auch dann, wenn man die Sprache des Landes beherrscht. Man _versteht_ die Menschen nicht. (Und nicht darum, weil man nicht weiß, was sie zu sich selber sprechen.) Wir können uns nicht in sie finden.
 
-### [Ms-144,55r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
+### [Ms-144](/ms-144/#55r.4): [55r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
 
 “Ich kann nicht wissen, was in ihm vorgeht” ist vor allen ein _Bild_. Es ist der überzeugende Ausdruck einer Überzeugung. Es gibt nicht die Gründe der Überzeugung an. _Sie_ liegen nicht auf der Hand.
 
-### [Ms-144,55r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
+### [Ms-144](/ms-144/#55r.5): [55r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp)
 
 Wenn ein Löwe sprechen könnte, wir könnten ihn nicht verstehn.
 
-### [Ms-144,55r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp),[55v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
+### [Ms-144](/ms-144/#55r.6+55v.1): [55r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55r.webp),[55v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
 
 Man kann sich ein Erraten der Absicht denken, ähnlich dem Gedankenerraten, aber auch ein Erraten dessen, was Einer nun tatsächlich _tun wird_. Zu sagen “Nur er kann wissen, was er beabsichtigt” ist Unsinn; zu sagen “Nur er kann wissen, was er tun wird” falsch. Denn die Vorhersage, die im Ausdruck meiner Absicht liegt (z.B. “So wie es 5 Uhr schlägt gehe ich nach Hause.”) muß nicht zutreffen, & der Andre mag wissen, was wirklich geschehen wird.
 
-### [Ms-144,55v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
+### [Ms-144](/ms-144/#55v.2): [55v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
 
 Zweierlei aber ist wichtig: Das er in vielen Fällen meine Handlungen nicht vorhersehen kann, während ich sie in meiner Absicht vorhersehe. Und daß meine Vorhersage (im Ausdruck meiner Absicht) nicht auf der gleichen Grundlage ruht, wie seine Vorhersage meiner Handlung, & die Schlüsse, die aus diesen Vorhersagen zu ziehen, ganz verschieden sind.
 
-### [Ms-144,55v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
+### [Ms-144](/ms-144/#55v.3): [55v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
 
 Ich kann der Empfindung des Andern so _sicher_ sein, wie irgend eines Faktums. Damit aber sind die Sätze “Er ist schwer bedrückt”, “25 × 25 = 625” & “Ich bin 60 Jahre alt” nicht zu ähnlichen Instrumenten geworden. Es liegt die Erklärung nahe: die Sicherheit sei von andrer _Art_. Sie scheint auf einen psychologischen Unterschied zu deuten. Aber der Unterschied ist ein logischer.
 
-### [Ms-144,55v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
+### [Ms-144](/ms-144/#55v.4): [55v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
 
 “Aber schließt Du eben nicht nur vor dem Zweifel die Augen, wenn Du _sicher_ bist?” – Sie sind mir geschlossen.
 
-### [Ms-144,55v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
+### [Ms-144](/ms-144/#55v.5): [55v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp)
 
 Bin ich weniger sicher, daß dieser Mann Schmerzen hat, als das 2 × 2 = 4 ist? – Aber ist darum das erste mathematische Sicherheit? – ‘Mathematische Sicherheit’ ist kein psychologischer Begriff. Die Art der Sicherheit ist die Art des Sprachspiels.
 
-### [Ms-144,55v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp),[56r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
+### [Ms-144](/ms-144/#55v.6+56r.1): [55v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/55v.webp),[56r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
 
 “Seine Motive weiß nur er” – das ist ein Ausdruck dafür, daß wir _ihn_ nach seinen Motiven fragen. – Ist er aufrichtig, so wird er sie uns sagen; aber ich brauche mehr als Aufrichtigkeit um seine Motive zu erraten. Hier ist die Verwandtschaft mit dem Falle des _Wissens_.
 
-### [Ms-144,56r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
+### [Ms-144](/ms-144/#56r.2): [56r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
 
 Laß es Dir aber _auffallen_, daß es so etwas gibt, wie unser Sprachspiel: Das Motiv meiner Tat gestehn.
 
-### [Ms-144,56r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
+### [Ms-144](/ms-144/#56r.3): [56r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
 
 Die unsägliche Verschiedenheit aller der tagtäglichen Sprachspiele kommt uns nicht zum Bewußtsein, weil die äußern Formen unsrer Sprache alles gleichmachen.
 
-### [Ms-144,56v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
+### [Ms-144](/ms-144/#56v.2): [56v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
 
 Das Neue (Spontane, ‘Spezifische’) ist ein Sprachspiel.
 
-### [Ms-144,56r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
+### [Ms-144](/ms-144/#56r.4): [56r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
 
 Was ist der Unterschied zwischen Motiv & Ursache? – Wie _findet_ man das Motiv, & wie die Ursache?
 
-### [Ms-144,56r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
+### [Ms-144](/ms-144/#56r.5): [56r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp)
 
 Es gibt die Frage: “Ist das eine zuverlässige Art, die Motive des Menschen zu beurteilen?” Aber um so fragen zu können, müssen wir schon wissen, was es bedeute: “das Motiv beurteilen”; & das lernen wir nicht, indem wir erfahren, was ‘_Motiv_’ ist & was ‘_beurteilen_’ ist.
 
-### [Ms-144,56r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp),[56v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
+### [Ms-144](/ms-144/#56r.6+56v.1): [56r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56r.webp),[56v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
 
 Man beurteilt die Länge eines Stabes & kann eine Methode suchen, & finden, um sie genauer, oder zuverlässiger zu beurteilen. Also – sagst Du – ist, _was_ hier beurteilt wird, unabhängig von der Methode des Beurteilens. Was Länge _ist_ kann man nicht mittels der Methode der Längenbestimmung erklären. – Wer so denkt macht einen Fehler. Welchen? – Zu sagen “Die Höhe des Mont Blanc hängt davon ab, wie man ihn besteigt”, wäre seltsam. Und ‘die Länge immer genauer messen’, das will man damit vergleichen, näher & näher an ein Objekt heranzukommen. Aber es ist in gewissen Fällen klar, in gewissen _nicht_, was es heiße “näher an die Länge des Objekts herankommen”. Was “die Länge bestimmen” heißt, lernt man nicht dadurch, daß man lernt, was _Länge_, & was _bestimmen_ ist; sondern die Bedeutung des Wortes “Länge” lernt man u.a. dadurch, daß man lernt was Längenbestimmung ist. (Darum hat das Wort “Methodologie” eine doppelte Bedeutung. “Methodologische Untersuchung” kann man eine physikalische Untersuchung nennen, aber auch eine begriffliche.)
 
-### [Ms-144,56v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
+### [Ms-144](/ms-144/#56v.3): [56v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
 
 Von der Sicherheit, vom Glauben möchte man manchmal sagen, sie seien Tönungen des Gedankens; & es ist wahr: sie haben einen Ausdruck im _Ton_ der Rede. Denk aber nicht an sie als ‘Gefühle’ beim Sprechen, oder Denken! Frag nicht: “Was geht da in uns vor, wenn wir sicher sind, …?” – sondern: Wie äußert sich ‘die Sicherheit, daß es so ist’ in dem Handeln des Menschen?
 
-### [Ms-144,56v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
+### [Ms-144](/ms-144/#56v.4): [56v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp)
 
 “Du kannst zwar über den Seelenzustand des Andern völlige Sicherheit haben, aber sie ist immer nur eine subjektive, keine objektive.” – Diese beiden Wörter deuten auf einen Unterschied von Sprachspielen.
 
-### [Ms-144,56v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp),[57r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp)
+### [Ms-144](/ms-144/#56v.5+57r.1): [56v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/56v.webp),[57r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp)
 
 Es kann ein Streit darüber entstehen, welches das richtige Resultat einer Rechnung ist (z.B. einer längern Addition). Aber so ein Streit entsteht selten & ist von kurzer Dauer. Er ist, wie wir sagen, ‘mit Sicherheit’ zu entscheiden. Es kommt zwischen den Mathematikern, im allgemeinen, nicht zum Streit über das Resultat einer Rechnung. (Das ist eine wichtige Tatsache.) – Wäre es anders, wäre z.B. der Eine überzeugt eine Ziffer habe sich unvermerkt geändert, oder das Gedächtnis habe ihn, oder den Andern getäuscht, etc., etc. – so würde es unsern Begriff der ‘mathematischen Sicherheit’ nicht geben.
 
-### [Ms-144,57r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp)
+### [Ms-144](/ms-144/#57r.2): [57r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp)
 
 Es könnte dann noch immer heißen: “Wir können zwar nie _wissen_, was das Resultat einer Rechnung ist, aber sie hat dennoch immer ein ganz bestimmtes Resultat. (Gott weiß es.) Die Mathematik ist allerdings von der höchsten Sicherheit, – wenn wir auch nur ein rohes Abbild von ihr besitzen.”
 
-### [Ms-144,57r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp)
+### [Ms-144](/ms-144/#57r.3): [57r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp)
 
 Aber will ich etwa sagen, die Sicherheit der Mathematik beruhe auf der Zuverlässigkeit von Tinte & Papier? _Nein_. (Das wäre ein circulus vitiosus.) – Ich habe nicht gesagt, _warum_ es zwischen den Mathematikern nicht zum Streit kommt, sondern nur, _daß_ es nicht zum Streit kommt.
 
-### [Ms-144,57r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp),[57v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
+### [Ms-144](/ms-144/#57r.4+57v.1): [57r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57r.webp),[57v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
 
 Es ist wohl wahr, daß man mit gewissen Arten von Papier & Tinte nicht rechnen könnte, wenn sie nämlich gewissen seltsamen Änderungen unterworfen wären, – aber daß sie sich ändern, könnte ja doch nur wieder durch das Gedächtnis & den Vergleich mit andern Rechenmitteln sich ergeben. Und wie prüft man diese wieder?
 
-### [Ms-144,57v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
+### [Ms-144](/ms-144/#57v.2): [57v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
 
 Das Hinzunehmende, Gegebene – könnte man sagen – seien _Lebensformen_.
 
-### [Ms-144,57v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
+### [Ms-144](/ms-144/#57v.3): [57v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
 
 Hat es Sinn, zu sagen, die Menschen stimmen in Bezug auf ihre Farburteile im allgemeinen überein? – Wie wäre es, wenn's anders wäre? – Dieser würde sagen, die Blume sei rot, die jener als blau anspricht, etc., etc.. – Aber mit welchem Recht könnte man nun die Wörter “rot” & “blau” dieser Menschen _unsre_ ‘Farbwörter’ nennen? – Wie würden sie lernen jene Wörter zu gebrauchen? Und ist das Sprachspiel, welches sie lernen noch das, was wir den Gebrauch der ‘Farbnamen’ nennen? Es gibt hier offenbar Gradunterschiede.
 
-### [Ms-144,57v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
+### [Ms-144](/ms-144/#57v.4): [57v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp)
 
 Aber diese Überlegung muß auch für die Mathematik gelten. Gäbe es die volle Übereinstimmung nicht, so würden die Menschen auch nicht die Technik lernen, die wir lernen. Sie wäre von der unsern mehr, oder weniger verschieden, auch bis zur Unkenntlichkeit.
 
-### [Ms-144,57v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp),[58r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
+### [Ms-144](/ms-144/#57v.5+58r.1): [57v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/57v.webp),[58r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
 
 “Die mathematische Wahrheit ist doch unabhängig davon, ob Menschen sie erkennen, oder nicht!” – Gewiß: Die Sätze “Die Menschen glauben, daß 2 × 2 = 4 ist” & “2 × 2 = 4” haben nicht den gleichen Sinne. Dieser ist ein mathematischer Satz, jener, wenn er überhaupt einen Sinn hat, kann etwa heißen, daß die Menschen auf den mathematischen Satz _gekommen_ sind. Die beiden haben gänzlich verschiedene _Verwendung_. – Aber was würde nun _das_ heißen: “Wenn auch alle Menschen glauben 2 × 2 sei 5, so wäre es doch 4.” – Wie sähe denn das aus, wenn alle Menschen dies glaubten? – Nun, ich könnte mir etwa vorstellen, sie hätten einen andern Kalkül, oder eine Technik, die wir nicht “rechnen” nennen würden. Aber wäre das _falsch_? (Ist eine Königskrönung _falsch_? Sie könnte, von uns verschiedenen, Wesen höchst seltsam erscheinen.)
 
-### [Ms-144,58r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
+### [Ms-144](/ms-144/#58r.2): [58r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
 
 Mathematik ist freilich, in einem Sinne, eine Lehre, – aber doch auch ein _Tun_. Und ‘falsche Züge’ kann es nur als Ausnahme geben. Denn würde, was wir jetzt so nennen, die Regel, so wäre damit das Spiel aufgehoben, worin sie die falschen Züge wären.
 
-### [Ms-144,58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
+### [Ms-144](/ms-144/#58r.3): [58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
 
 “Wir lernen Alle das gleiche Einmaleins.” Das könnte wohl eine Bemerkung über den Arithmetik-Unterricht an unsern Schulen sein, – aber auch eine Feststellung über den Begriff des Einmaleins. (“In einem Pferderennen laufen die Pferde, im allgemeinen, so schnell sie nur können.”)
 
-### [Ms-144,58r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
+### [Ms-144](/ms-144/#58r.4): [58r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
 
 Es gibt Farbenblindheit & Mittel, sie festzustellen. In den Farbaussagen der normal Befundenen herrscht, im allgemeinen, volle Übereinstimmung. Das charakterisiert den Begriff der Farbaussagen.
 
-### [Ms-144,58r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
+### [Ms-144](/ms-144/#58r.5): [58r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp)
 
 Diese Übereinstimmung gibt es im allgemeinen nicht in der Frage, ob eine Gefühlsäußerung echt, oder unecht ist.
 
-### [Ms-144,58r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
+### [Ms-144](/ms-144/#58r.6+58v.1): [58r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
 
 Ich bin sicher, _sicher_, daß er sich nicht verstellt; aber ein Dritter ist's nicht. Kann ich ihn immer überzeugen? Und wenn nicht, macht er dann einen Denk-, oder Beobachtungsfehler?
 
-### [Ms-144,58v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
+### [Ms-144](/ms-144/#58v.2): [58v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
 
 “Du verstehst ja nichts!” – so sagt man, wenn Einer anzweifelt, was wir klar als echt erkennen, – aber wir können nichts beweisen.
 
-### [Ms-144,58v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
+### [Ms-144](/ms-144/#58v.3): [58v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
 
 Gibt es über die Echtheit des Gefühlsausdrucks ein ‘fachmännisches’ Urteil? – Es gibt auch da Menschen mit ‘besseren’ & Menschen mit ‘schlechterem’ Urteil. Aus dem Urteil des bessern Menschenkenners werden, im allgemeinen, richtigere Prognosen hervorgehen. Kann man Menschenkenntnis lernen? Ja; Mancher kann sie lernen. Aber nicht durch einen Lehrkurs, sondern durch ‘_Erfahrung_’. – Kann ein Andrer dabei sein Lehrer sein? Gewiß. Er gibt ihm von Zeit zu Zeit den richtigen _Wink_. – So schaut hier das ‘Lernen’ & das ‘Lehren’ aus. – Was man erlernt ist keine Technik; man lernt richtiger Urteilen. Es gibt auch Regeln, aber sie bilden kein System, & nur der Erfahrene kann sie richtig anwenden. Unähnlich den Rechenregeln.
 
-### [Ms-144,58v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
+### [Ms-144](/ms-144/#58v.4): [58v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp)
 
 Das Schwerste ist hier, die Unbestimmtheit richtig & unverfälscht zum Ausdruck zu bringen.
 
-### [Ms-144,58v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp),[59r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp)
+### [Ms-144](/ms-144/#58v.5+59r.1): [58v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/58v.webp),[59r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp)
 
 “Die Echtheit des Ausdrucks läßt sich nicht beweisen; man muß sie fühlen.” – Wohl, – aber was geschieht nun weiter mit diesem Erkennen der Echtheit? Wenn Einer sagt “Voilà comment s'exprime un coeur vraiment épris” – & wenn er auch einen Andern zu seiner Ansicht brächte, – welche weiteren Folgen hat es? Oder hat es keine, & _endet_ das Spiel damit, daß dem Einen schmeckt, was dem Andern nicht schmeckt? Es gibt wohl _Folgen_, aber sie sind diffuser Art. Erfahrung, also mannigfaltige Beobachtung, kann sie lehren; & Du kannst sie auch nicht allgemein formulieren, sondern nur in verstreuten Fällen ein richtiges, fruchtbares, Urteil fällen, eine fruchtbare Verbindung sehen. Und die allgemeinsten Bemerkungen ergeben höchstens, was wie die Trümmer eines Systems aussieht.
 
-### [Ms-144,59r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp)
+### [Ms-144](/ms-144/#59r.2): [59r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp)
 
 Man kann wohl durch Evidenz davon überzeugen, daß Einer sich in dem & dem Seelenzustand befinde, daß er z.B. sich nicht verstelle. Aber es gibt hier auch ‘unwägbare’ Evidenz.
 
-### [Ms-144,59r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp)
+### [Ms-144](/ms-144/#59r.3): [59r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp)
 
 Die Frage ist: Was _leistet_ die unwägbare Evidenz? Denk, es gäbe unwägbare Evidenz für die chemische Struktur (das Innere) eines Stoffes, so müßte sie sich doch nun durch gewisse _wägbare_ Folgen als Evidenz erweisen. (Unwägbare Evidenz könnte Einen davon überzeugen, dies Bild sei ein echter …. Aber dies _kann_ sich auch dokumentarisch als richtig erweisen.)
 
-### [Ms-144,59r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp),[59v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
+### [Ms-144](/ms-144/#59r.4+59v.1): [59r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59r.webp),[59v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
 
 Zur unwägbaren Evidenz gehören die Feinheiten des Blicks, der Gebärde, des Tons. Ich mag den echten Blick der Liebe erkennen, ihn vom verstellten unterscheiden (& natürlich kann es hier eine ‘wägbare’ Bekräftigung meines Urteils geben). Aber ich mag gänzlich unfähig sein, den Unterschied zu beschreiben. Und das nicht darum, weil die mir bekannten Sprachen dafür keine Wörter haben. Warum führe ich denn nicht einfach neue Wörter ein? – Wäre ich ein höchst talentierter Maler, so wäre es denkbar, daß ich in Bildern den echten Blick & den geheuchelten darstellte.
 
-### [Ms-144,59v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
+### [Ms-144](/ms-144/#59v.2): [59v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
 
 Frage Dich: Wie lernt der Mensch einen ‘Blick’ für etwas kriegen? Und wie läßt sich ein solcher Blick verwenden?
 
-### [Ms-144,59v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
+### [Ms-144](/ms-144/#59v.3): [59v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
 
 Verstellung ist natürlich nur ein besonderer Fall davon, daß Einer, z.B., eine Schmerzäußerung von sich gibt & nicht Schmerzen hat. Wenn dies überhaupt möglich ist, warum sollte denn dabei immer Verstellung statthaben, – dieses sehr spezielle Muster auf dem Band des Lebens?
 
-### [Ms-144,59v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
+### [Ms-144](/ms-144/#59v.4): [59v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
 
 Ein Kind muß viel lernen, ehe es sich verstellen kann. (Ein Hund kann nicht heucheln, aber er kann auch nicht aufrichtig sein.)
 
-### [Ms-144,59v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
+### [Ms-144](/ms-144/#59v.5): [59v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/59v.webp)
 
 Ja es könnte ein Fall eintreten, in welchem wir sagen würden: “Er _glaubt_, sich zu verstellen.”
 
-### [Ms-144,50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)
+### [Ms-144](/ms-144/#50r.1): [50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)
 
 <span class="series-number">xii.</span> Wenn die Begriffsbildung sich aus Naturtatsachen erklären läßt, sollte uns dann nicht, statt der Grammatik, dasjenige interessieren, was ihr in der Natur zu Grunde liegt? – Uns interessiert wohl auch die Entsprechung von Begriffen mit sehr allgemeinen Naturtatsachen. (Solchen, die uns ihrer Allgemeinheit wegen meist nicht auffallen.) Aber unser Interesse fällt nun nicht auf diese möglichen Ursachen der Begriffsbildung zurück; wir betreiben nicht Naturwissenschaft; auch nicht Naturgeschichte, – da wir ja Naturgeschichtliches für unsre Zwecke auch erdichten können.
 
-### [Ms-144,50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)
+### [Ms-144](/ms-144/#50r.2): [50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)
 
 Ich sage nicht: Wären die & die Naturtatsachen anders, so hätten die Menschen andere Begriffe (im Sinne einer Hypothese). Sondern: Wer glaubt, gewisse Begriffe seien schlechtweg die richtigen, wer andere hätte, sähe eben etwas nicht ein, was wir einsehen, – der möge sich gewisse sehr allgemeine Naturtatsachen anders vorstellen, als wir sie gewohnt sind, & andere Begriffsbildungen als die gewohnten werden ihm verständlich werden.
 
-### [Ms-144,50r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)
+### [Ms-144](/ms-144/#50r.3): [50r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)
 
 Vergleiche einen Begriff mit einer Malweise: Ist denn auch nur unsre Malweise willkürlich? Können wir nach Belieben eine wählen? (Z.B. die der Ägypter.) Oder handelt sich's da nur um hübsch & häßlich?
 
-### [Ms-144,51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)
+### [Ms-144](/ms-144/#51r.1): [51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)
 
 <span class="series-number">xiii.</span> Wenn ich sage “Vor einer halben Stunde war er da” – nämlich aus der Erinnerung – so ist das nicht die Beschreibung eines gegenwärtigen Erlebnisses. Erinnerungs**erlebnisse** sind Begleiterscheinungen des Erinnerns.
 
-### [Ms-144,51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)
+### [Ms-144](/ms-144/#51r.2): [51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)
 
 Erinnern hat keinen Erlebnisinhalt. – Ist das nicht doch durch Introspektion zu erkennen? Zeigt _sie_ nicht eben, daß nichts da ist, wenn ich nach einem Inhalt ausschaue? – Das könnte sie doch nur von Fall zu Fall zeigen. Und sie kann mir doch nicht zeigen, was das Wort “erinnern” bedeutet, _wo_ also nach einem Inhalt zu suchen wäre! Die _Idee_ von einem Inhalt des Erinnerns erhalte ich nur durch ein Vergleichen der psychologischen Begriffe. Es ist ähnlich des Vergleichens zweier _Spiele_. (Fußball hat _Tore_, Völkerball nicht.)
 
-### [Ms-144,51r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp),[51v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51v.webp)
+### [Ms-144](/ms-144/#51r.3+51v.1): [51r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp),[51v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51v.webp)
 
 Könnte man sich diese Situation denken: Einer erinnert sich zum erstenmal im Leben an etwas & sagt: “Ja, jetzt weiß ich, was ‘Erinnern’ ist, wie erinnern _tut_.” – Wie weiß er, daß dies Gefühl ‘Erinnern’ ist? Vergleiche: “Ja, jetzt weiß ich, was ‘bremseln’ ist!” (er hat etwas zum ersten mal einen elektrischen Schlag gekriegt). – Weiß er, daß es Erinnern ist, weil es durch Vergangenes hervorgerufen wurde? Und wie weiß er, was Vergangenes ist? Den Begriff des Vergangenen lernt ja der Mensch, indem er sich erinnert. Und wie wird er in Zukunft wieder wissen, wie Erinnern tut? (Dagegen könnte man vielleicht von einem Gefühl “Lang, lang ist's her” reden, denn es gibt einen Ton, eine Gebärde, die Gewissen Erzählungen aus vergangenen Tagen angehören.)
 
-### [Ms-144,39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)
+### [Ms-144](/ms-144/#39v.5+40r.1): [39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)
 
 <span class="series-number">xiv.</span> <span class="series-number">a107˙9</span> Man könnte von Einem sagen, er sei für den _Ausdruck_ in einem Gesicht blind. Aber fehlte deshalb seinem Gesichtssinn etwas? Aber das ist natürlich nicht einfach eine Frage der Physiologie. Das Physiologische ist hier ein Symbol für das Logische. Die Verwirrung & Öde der Psychologie ist nicht damit zu erklären, daß sie eine “junge Wissenschaft” sei; ihr Zustand ist mit dem der Physik z.B. in ihrer Frühzeit nicht zu vergleichen. (Eher noch mit dem gewisser Zweige der Mathematik. Mengenlehre.) (Es bestehen nämlich, in der Psychologie, experimentelle Methoden _und Begriffsverwirrung_. (Wie im andern Fall Begriffsverwirrung & Beweismethoden.) Das Bestehen der experimentellen Methode läßt uns glauben, wir hätten das Mittel, die Probleme, die uns beunruhigen, los zu werden; obgleich Problem & Methode windschief an einander vorbei laufen.
 
-### [Ms-144,40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)
+### [Ms-144](/ms-144/#40r.2): [40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)
 
 Es ist für die Mathematik eine Untersuchung möglich ganz analog unsrer Untersuchung der Psychologie. Sie ist ebensowenig eine _mathematische_, wie die andre eine psychologische. In ihr wird _nicht_ gerechnet, sie ist also, z.B., nicht Logistik. Sie könnte den Namen einer Untersuchung der ‘Grundlagen der Mathematik’ verdienen.
