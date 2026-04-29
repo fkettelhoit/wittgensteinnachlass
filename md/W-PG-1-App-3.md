@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 3
 
+<details>
+
+<summary>1933, 13 remarks, Ts-214c1</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-3.svg">
+
+</details>
+
 ### [Ts-214c1](/ts-214c1/#13.1): [13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)
 
 ## Gegenstand.

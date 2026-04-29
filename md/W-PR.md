@@ -1,5 +1,13 @@
 # Philosophische Bemerkungen
 
+<details>
+
+<summary>1930–1933, 1152 remarks, Ts-214a1, Ts-215a, Ts-215b, Ts-209</summary>
+
+<img class="viz" src="/viz/W-PR.svg">
+
+</details>
+
 ### [Ts-214a1](/ts-214a1/#1.1): [1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)
 
 ## Komplex und Tatsache.

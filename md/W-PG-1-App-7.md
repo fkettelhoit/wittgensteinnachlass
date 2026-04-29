@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 7
 
+<details>
+
+<summary>1933, 29 remarks, Ts-213</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-7.svg">
+
+</details>
+
 ### [Ts-213](/ts-213/#123r.1): [123r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/123r.webp)
 
 _**Wahrscheinlichkeit.**_

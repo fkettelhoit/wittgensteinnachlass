@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – IV
 
+<details>
+
+<summary>1938–1944, 183 remarks, Ms-125, Ms-127, Ms-126, Ms-121</summary>
+
+<img class="viz" src="/viz/W-RFM-4.svg">
+
+</details>
+
 ### [Ms-125](/ms-125/#5v.4): [5v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/5v.webp)
 
 <span class="series-number">1.</span> “Die Axiome eines mathematischen Axiomsystems sollen einleuchtend sein.” Wie leuchten sie denn ein?

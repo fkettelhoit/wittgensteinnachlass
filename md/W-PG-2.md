@@ -1,5 +1,13 @@
 # Philosophische Grammatik – II
 
+<details>
+
+<summary>1931–1933, 789 remarks, Ms-112, Ts-213, Ms-113, Ts-211</summary>
+
+<img class="viz" src="/viz/W-PG-2.svg">
+
+</details>
+
 ### [Ms-112](/ms-112/#47v.6+48r.1): [47v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-112/47v.webp),[48r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-112/48r.webp)
 
 Es ist eine sehr wichtige Bemerkung daß das c in A nicht dieselbe Variable ist wie das c in β & γ. Ich habe also den Beweis nicht ganz richtig hingeschrieben, und zwar in einer für uns sehr wichtigen Beziehung. In A könnten wir statt c n setzen, dagegen sind die c in β & γ identisch. Es ist aber auch noch das zu fragen: kann ich nun aus A ableiten, daß i + (k + c) = (i + k) + c? und wenn ja, warum dann nicht gleich aus B? Also ist auch a & b in A nicht identisch mit a & b in α, β & γ?

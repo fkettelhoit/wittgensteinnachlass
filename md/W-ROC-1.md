@@ -1,5 +1,13 @@
 # Bemerkungen über die Farben – I
 
+<details>
+
+<summary>1950, 87 remarks, Ms-176</summary>
+
+<img class="viz" src="/viz/W-ROC-1.svg">
+
+</details>
+
 ### [Ms-176](/ms-176/#1r.1): [1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/1r.webp)
 
 <span class="series-number">1.</span> Ein Sprachspiel: Darüber berichten ob ein bestimmter Körper heller, oder dunkler als ein andrer sei. – Aber nun gibt es ein verwandtes: Über das Verhältnis der Helligkeiten bestimmter Farbtöne aussagen. (Damit ist zu vergleichen: Das Verhältnis der Längen zweier Stäbe bestimmen – & das Verhältnis zweier Zahlen bestimmen.) – Die Form der Sätze in beiden Sprachspielen ist die gleiche: “x ist heller als y”. Aber im ersten ist es eine externe Relation & der Satz zeitlich, im zweiten ist es eine interne Relation & der Satz zeitlos.

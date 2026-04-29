@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 5
 
+<details>
+
+<summary>1933, 15 remarks, Ts-213</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-5.svg">
+
+</details>
+
 ### [Ts-213](/ts-213/#113r.3): [113r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/113r.webp)
 
 Die Grammatik, wenn sie in der Form eines Buches uns vorläge, bestünde nicht aus einer Reihe bloß nebengeordneter Artikel, sondern würde eine andere Struktur zeigen. Und in dieser müßte man – wenn ich Recht habe – auch den Unterschied zwischen Phänomenologischem und Nicht-Phänomenologischem sehen. Es wäre da etwa ein Kapitel von den Farben, worin der Gebrauch der Farbwörter geregelt wäre; aber dem vergleichbar wäre nicht, was über die Wörter “nicht”, “oder”, etc. (die “logischen Konstanten”) in der Grammatik gesagt würde. Es würde z.B. aus den Regeln hervorgehen, daß diese letzteren Wörter in jedem Satz anzuwenden seien (nicht aber die Farbwörter). Und dieses “jedem” hätte nicht den Charakter einer erfahrungsmäßigen Allgemeinheit; sondern der _inappellablen_ Allgemeinheit einer obersten Spielregel. Es scheint mir ähnlich, wie das Schachspiel wohl ohne gewisse Figuren zu spielen (oder doch fortzusetzen) ist, aber nie ohne das Schachbrett. [Das ist nicht wahr, man könnte ganz gut mit einem Teil des Brettes auskommen.]

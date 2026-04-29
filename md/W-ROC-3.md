@@ -1,5 +1,13 @@
 # Bemerkungen über die Farben – III
 
+<details>
+
+<summary>1950, 346 remarks, Ms-173</summary>
+
+<img class="viz" src="/viz/W-ROC-3.svg">
+
+</details>
+
 ### [Ms-173](/ms-173/#FCv.3): [FCv\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/FCv.webp)
 
 <span class="series-number">1.</span> In einem Bild muß das Weiß die hellste Farbe sein.

@@ -1,5 +1,13 @@
 # Philosophische Untersuchungen
 
+<details>
+
+<summary>1944–1946, 710 remarks, Ts-227a, Ts-227b</summary>
+
+<img class="viz" src="/viz/W-PI.svg">
+
+</details>
+
 ### [Ts-227a](/ts-227a/#4.2+5.1): [4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/4.webp),[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/5.webp)
 
 <span class="series-number">1.</span> _Augustinus_, in den Confessionen I/8: cum ipsi (majores homines) appellabant rem aliquam, et cum secundum eam vocem corpus ad aliquid movebant, videbam, et tenebam hoc ab eis vocari rem illam, quod sonabant, cum eam vellent ostendere. Hoc autem eos velle ex motu corporis aperiebatur: tamquam verbis naturalibus omnium gentium, quae fiunt vultu et nutu oculorum, ceterorumque membrorum actu, et sonitu vocis indicante affectionem animi in petendis, habendis, rejiciendis, fugiendisve rebus. Ita verba in variis sententiis locis suis posita, et crebro audita, quarum rerum signa essent, paulatim colligebam, measque jam voluntates, edomito in eis signis ore, per haec enuntiabam.<sup> + </sup> In diesen Worten erhalten wir, so scheint es mir, ein bestimmtes Bild von dem Wesen der menschlichen Sprache. Nämlich dieses: Die Wörter der Sprache benennen Gegenstände – Sätze sind Verbindungen von solchen Benennungen. In diesem Bild von der Sprache finden wir die Wurzeln der Idee: Jedes Wort hat eine Bedeutung. Diese Bedeutung ist dem Wort zugeordnet. Sie ist der Gegenstand, für welchen das Wort steht.

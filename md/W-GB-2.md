@@ -1,5 +1,13 @@
 # Bemerkungen über Frazers Golden Bough – II
 
+<details>
+
+<summary>1950, 27 remarks, Ms-143</summary>
+
+<img class="viz" src="/viz/W-GB-2.svg">
+
+</details>
+
 ### [Ms-143](/ms-143/#1.1+2.1): [1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/2.webp)
 
 168. Dies ist natürlich nicht so daß das Volk glaubt, der Herrscher habe diese Kräfte, der Herrscher aber sehr wohl weiß daß er sie nicht hat oder es nur dann nicht weiß wenn er ein Schwachkopf oder Narr ist. Sondern die Notion von seiner Kraft ist natürlich schon so eingerichtet, daß sie mit der Erfahrung – des Volkes & seiner – übereinstimmen kann. Daß dabei irgend eine Heuchelei eine Rolle spielt ist nur wahr, sofern sie überhaupt bei dem meisten was Menschen tun nahe liegt.

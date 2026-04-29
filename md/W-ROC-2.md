@@ -1,5 +1,13 @@
 # Bemerkungen über die Farben – II
 
+<details>
+
+<summary>1950, 20 remarks, Ms-172</summary>
+
+<img class="viz" src="/viz/W-ROC-2.svg">
+
+</details>
+
 ### [Ms-172](/ms-172/#21.1): [21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/21.webp)
 
 <span class="series-number">1.</span> Man könnte von dem Farbeindruck einer Fläche reden, womit nicht die Farbe gemeint wäre, sondern die Farbtöne & ihre Verteilung, wenn sich z.B. der Eindruck einer braunen Fläche ergeben soll.

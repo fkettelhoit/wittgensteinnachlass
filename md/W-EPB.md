@@ -1,5 +1,13 @@
 # Eine Philosophische Betrachtung
 
+<details>
+
+<summary>1936, 369 remarks, Ms-115</summary>
+
+<img class="viz" src="/viz/W-EPB.svg">
+
+</details>
+
 ### [Ms-115](/ms-115/#118.1): [118\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/118.webp)
 
 25.08.1936

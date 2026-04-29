@@ -1,5 +1,13 @@
 # Bemerkungen über die Philosophie der Psychologie – I
 
+<details>
+
+<summary>1947, 1139 remarks, Ts-229</summary>
+
+<img class="viz" src="/viz/W-RPP-1.svg">
+
+</details>
+
 ### [Ts-229](/ts-229/#186.1+187.1): [186\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/186.webp),[187\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/187.webp)
 
 <span class="series-number">1.</span> <span class="series-number">699.</span> Überlegen wir uns, was man über ein Phänomen wie dieses sagt: Die Figur 🖵 einmal als ein F, einmal als das Spiegelbild eines F sehen. Ich will fragen: worin besteht es, die Figur einmal so, einmal anders sehen? – Sehe ich wirklich jedesmal etwas anderes; oder _deute_ ich nur, was ich sehe, auf verschiedene Weise? – Ich bin geneigt, das erste zu sagen. _Aber warum?_ Nun, Deuten ist eine Handlung. Es kann z.B. darin bestehen, daß Einer sagt “Das soll ein F sein”; oder daß er's nicht sagt, aber das Zeichen beim Kopieren durch ein F ersetzt; oder sich überlegt: “Was mag das wohl sein? Es wird ein F sein, das dem Schreiber mißglückt ist.” – Sehen ist keine Handlung, sondern ein Zustand. (Grammatische Bemerkung.) Und wenn ich die Figur nie für etwas anderes als ein “F” gehalten, mir nie überlegt habe, was es wohl sein mag, so wird man sagen, ich _sehe_ sie als F; wenn man nämlich weiß, daß sie sich auch anders sehen läßt. Wie ist man denn überhaupt zu dem Begriff des ‘das als das sehen’ gekommen? Bei welchen Gelegenheiten zeigt er sich, ist für ihn ein Bedürfnis? (Sehr häufig, wenn wir über ein Kunstwerk reden.) Dort, z.B., wo es sich um ein Phrasieren durchs Aug oder Ohr handelt. Wir sagen “Du mußt diese Takte als Einleitung hören”, “Du mußt nach dieser Tonart hinhören”, aber auch “Ich höre das französische ‘ne … pas’ als zweiteilige Verneinung, nicht als ‘nicht ein Schritt’” etc. Ist es nun ein wirkliches Sehen oder Hören? Nun: so nennen wir es; mit diesen Worten reagieren wir in bestimmten Situationen. Und _auf_ diese Worte reagieren wir wieder durch bestimmte Handlungen.

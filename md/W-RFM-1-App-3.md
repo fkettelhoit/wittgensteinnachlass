@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – I App III
 
+<details>
+
+<summary>1938, 19 remarks, Ts-221a, Ts-223</summary>
+
+<img class="viz" src="/viz/W-RFM-1-App-3.svg">
+
+</details>
+
 ### [Ts-221a](/ts-221a/#246.1): [246\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-221a/246.webp)
 
 <span class="series-number">1.</span> Man kann sich leicht eine Sprache denken, in der es keine Frage- und keine Befehlsform gibt, sondern in der Frage und Befehl in der Form der Behauptung ausgedrückt wird, in Formen z.B., entsprechend unserem: “Ich möchte wissen, ob ‥‥․” und “Ich wünsche, daß ‥‥․”. Niemand würde doch von einer Frage (etwa, ob es draußen regnet) sagen, sie sei wahr oder falsch. Es ist freilich deutsch, dies von einem Satz, “ich wünsche zu wissen, ob ‥‥․”, zu sagen. Wenn nun aber diese Form immer statt der Frage verwendet wird? –

@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 2
 
+<details>
+
+<summary>1933, 15 remarks, Ts-214b1</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-2.svg">
+
+</details>
+
 ### [Ts-214b1](/ts-214b1/#5.1): [5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214b1/5.webp)
 
 ## Begriff und Gegenstand. Eigenschaft und Substrat.

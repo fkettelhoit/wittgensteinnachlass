@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 4
 
+<details>
+
+<summary>1933–1938, 12 remarks, Ts-213, Ms-116</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-4.svg">
+
+</details>
+
 ### [Ts-213](/ts-213/#100r.2): [100r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/100r.webp)
 
 _**Elementarsatz.**_

@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – I App I
 
+<details>
+
+<summary>1938, 26 remarks, Ts-222</summary>
+
+<img class="viz" src="/viz/W-RFM-1-App-1.svg">
+
+</details>
+
 ### [Ts-222](/ts-222/#136.1): [136\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/136.webp)
 
 <span class="series-number">1.</span> Könnte ich nicht sagen, zwei Wörter – schreiben wir sie “non” und “ne” – hätten dieselbe Bedeutung, sie seien beide Verneinungszeichen– aber

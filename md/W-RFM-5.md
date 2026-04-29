@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – V
 
+<details>
+
+<summary>1942–1944, 236 remarks, Ms-126, Ms-127</summary>
+
+<img class="viz" src="/viz/W-RFM-5.svg">
+
+</details>
+
 ### [Ms-126](/ms-126/#28.3): [28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/28.webp)
 
 <span class="series-number">1.</span> Es ist natürlich klar, daß der Mathematiker, insofern er wirklich ‘ein Spiel spielt’ keine _Schlüsse zieht_. Denn ‘spielen’ muß hier heißen: in Übereinstimmung mit gewissen Regeln _handeln_. Und schon das wäre ein Heraustreten aus dem bloßen Spiel; wenn er den Schluß zöge, daß er hier der allgemeinen Regel gemäß _so_ handeln dürfe.

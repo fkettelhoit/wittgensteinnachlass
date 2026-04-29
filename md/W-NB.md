@@ -1,5 +1,13 @@
 # Tagebücher 1914–1916
 
+<details>
+
+<summary>1914–1917, 997 remarks, Ms-101, Ms-102, Ms-103</summary>
+
+<img class="viz" src="/viz/W-NB.svg">
+
+</details>
+
 ### [Ms-101](/ms-101/#8r.4): [8r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/8r.webp)
 
 22.08.1914

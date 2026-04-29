@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – I
 
+<details>
+
+<summary>1938, 175 remarks, Ts-222</summary>
+
+<img class="viz" src="/viz/W-RFM-1.svg">
+
+</details>
+
 ### [Ts-222](/ts-222/#1.1+2.1): [1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/2.webp)
 
 <span class="series-number">1.</span> Wir verwenden den Ausdruck: “die Übergänge sind durch die Formel ‥‥․ bestimmt“. Wie wird er verwendet? –

@@ -1,5 +1,13 @@
 # Bemerkungen über die Philosophie der Psychologie – II
 
+<details>
+
+<summary>1948, 738 remarks, Ts-232</summary>
+
+<img class="viz" src="/viz/W-RPP-2.svg">
+
+</details>
+
 ### [Ts-232](/ts-232/#600.1): [600\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/600.webp)
 
 <span class="series-number">1.</span> <span class="series-number">01</span> ‘Überraschung’ und die _Empfindung_ des raschen Einziehens des Atems.

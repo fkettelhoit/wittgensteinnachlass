@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – I App II
 
+<details>
+
+<summary>1938, 14 remarks, Ts-224</summary>
+
+<img class="viz" src="/viz/W-RFM-1-App-2.svg">
+
+</details>
+
 ### [Ts-224](/ts-224/#214bottom.1): [214bottom\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-224/214bottom.webp)
 
 <span class="series-number">1.</span> Das Überraschende kann in der Mathematik zweierlei völlig verschiedene Rollen spielen. Man kann den Wert einer mathematischen Gedankenreihe darin erblicken, daß sie etwas uns Überraschendes zutage fördert: – weil es von großem Interesse, von großer Wichtigkeit ist, zu sehen, wie ein _Sachverhalt_ durch die und die Art seiner Darstellung überraschend, oder erstaunlich, oder auch paradox wird.

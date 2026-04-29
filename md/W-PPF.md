@@ -1,5 +1,13 @@
 # Philosophie der Psychologie – Ein Fragment
 
+<details>
+
+<summary>1949, 382 remarks, Ms-144</summary>
+
+<img class="viz" src="/viz/W-PPF.svg">
+
+</details>
+
 ### [Ms-144](/ms-144/#1r.1): [1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)
 
 <span class="series-number">i.</span> Man kann sich ein Tier zornig, furchtsam, traurig, freudig, erschrocken vorstellen. Aber hoffend? Und warum nicht? Der Hund glaubt, sein Herr sei an der Tür. Aber kann er auch glauben, sein Herr werde übermorgen kommen? – Und _was_ kann er nun nicht? – Wie mache denn ich's? – Was soll ich darauf antworten? Kann nur hoffen, wer sprechen kann? Nur der, der die Verwendung einer Sprache beherrscht. D.h., die Erscheinungen des Hoffens sind Modifikationen dieser komplizierten Lebensform. (Wenn ein Begriff auf einen Charakter der menschlichen Handschrift abzielt, dann hat er keine Anwendung auf Wesen, welche nicht schreiben.)

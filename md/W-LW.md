@@ -1,5 +1,13 @@
 # Letzte Schriften über die Philosophie der Psychologie
 
+<details>
+
+<summary>1948–1949, 991 remarks, Ms-137, Ms-167, Ms-138</summary>
+
+<img class="viz" src="/viz/W-LW.svg">
+
+</details>
+
 ### [Ms-137](/ms-137/#76a.6): [76a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/76a.webp)
 
 <span class="series-number">1.</span> 22.10.1948

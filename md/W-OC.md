@@ -1,5 +1,13 @@
 # Über Gewißheit
 
+<details>
+
+<summary>1949–1951, 689 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
+
+<img class="viz" src="/viz/W-OC.svg">
+
+</details>
+
 ### [Ms-172](/ms-172/#1.1): [1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/1.webp)
 
 <span class="series-number">1.</span> Wenn Du weißt, daß hier eine Hand ist, so geben wir Dir alles Übrige zu. (Sagt man, der & der Satz lasse sich nicht beweisen, so heißt das natürlich nicht, daß er sich nicht aus andern herleiten läßt; jeder Satz läßt sich aus andern herleiten. Aber diese mögen nicht sicherer sein, als er selbst.) (Dazu eine komische Bemerkung Henry Newman's.)

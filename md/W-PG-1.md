@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I
 
+<details>
+
+<summary>1933–1934, 591 remarks, Ms-140, Ms-114, Ts-213, Ms-115</summary>
+
+<img class="viz" src="/viz/W-PG-1.svg">
+
+</details>
+
 ### [Ms-140](/ms-140/#1r.1): [1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-140/1r.webp)
 
 <span class="series-number">1.</span> Wie kann man vom ‘Verstehen’ & ‘Nicht verstehen’ eines Satzes reden; ist es nicht erst ein Satz, wenn man es versteht?

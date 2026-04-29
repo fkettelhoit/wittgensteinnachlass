@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 8
 
+<details>
+
+<summary>1933, 9 remarks, Ts-213</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-8.svg">
+
+</details>
+
 ### [Ts-213](/ts-213/#136r.1): [136r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/136r.webp)
 
 _Der Begriff “ungefähr”._ _Problem des ‘Sandhaufens’._

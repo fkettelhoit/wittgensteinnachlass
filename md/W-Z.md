@@ -1,5 +1,13 @@
 # Zettel
 
+<details>
+
+<summary>1930–1948, 689 remarks, Ts-233a, Ts-233b, Ts-232</summary>
+
+<img class="viz" src="/viz/W-Z.svg">
+
+</details>
+
 ### [Ts-233a](/ts-233a/#1.1): [1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)
 
 <span class="series-number">2.</span> <span class="series-number">574</span> W. James: der Gedanke sei schon am Anfang des Satzes fertig. Wie kann man das wissen? Aber die _Absicht_, ihn auszusprechen, kann schon bestehen, ehe das erste Wort gesagt ist. Denn fragt man Einen “weißt du, was du sagen willst?” so wird er es oft bejahen. Ich sage Einem “Ich werde dir jetzt das Thema … vorpfeifen”, ich habe die Absicht, es zu pfeifen, & ich weiß schon, was ich pfeifen werde. Ich habe die Absicht, dieses Thema zu pfeifen: habe ich es damit in irgendeinem Sinne, etwa im Gedanken, schon gepfiffen?

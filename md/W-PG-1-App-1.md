@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 1
 
+<details>
+
+<summary>1933, 20 remarks, Ts-214a1</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-1.svg">
+
+</details>
+
 ### [Ts-214a1](/ts-214a1/#1.1): [1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)
 
 ## Komplex und Tatsache.

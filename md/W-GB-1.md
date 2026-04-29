@@ -1,5 +1,13 @@
 # Bemerkungen über Frazers Golden Bough – I
 
+<details>
+
+<summary>1931–1933, 50 remarks, Ts-211, Ts-213, Ms-110</summary>
+
+<img class="viz" src="/viz/W-GB-1.svg">
+
+</details>
+
 ### [Ts-211](/ts-211/#313.1): [313\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-211/313.webp)
 
 Man muß beim Irrtum ansetzen und ihn in die Wahrheit überführen. D.h. man muß die Quelle des Irrtums aufdecken, sonst nützt uns das Hören der Wahrheit nichts. Sie kann nicht eindringen, solange etwas anderes ihren Platz einnimmt. (Einen von der Wahrheit zu überzeugen, genügt es nicht, die Wahrheit zu konstatieren, sondern man muß den _Weg_ vom Irrtum zur Wahrheit finden.)

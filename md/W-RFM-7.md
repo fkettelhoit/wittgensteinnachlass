@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – VII
 
+<details>
+
+<summary>1941–1944, 391 remarks, Ms-124</summary>
+
+<img class="viz" src="/viz/W-RFM-7.svg">
+
+</details>
+
 ### [Ms-124](/ms-124/#155.3+156.1): [155\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/155.webp),[156\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp)
 
 Einer Regel folgen ist ein bestimmtes Sprachspiel. Wie kann man es beschreiben? Wann sagen wir, er habe die Beschreibung verstanden? – Wir tun dies & das; wenn er nun so & so reagiert, hat er das Spiel verstanden. Und dieses ‘dies & das’ & ‘so & so’ enthält kein “und so weiter”. – Oder: verwendete ich bei der Beschreibung ein “und so weiter” & würde ich gefragt, was das bedeutet, müßte ich es wieder durch eine Aufzählung von Beispielen erklären; oder etwa durch eine Geste. Und ich würde es dann als Zeichen des Verständnisses ansehen, wenn er die Geste etwa mit einem verständnisvollen Gesichtsausdruck wiederholte, & in speziellen Fällen so & so handelte.

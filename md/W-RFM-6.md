@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – VI
 
+<details>
+
+<summary>1944, 261 remarks, Ms-164</summary>
+
+<img class="viz" src="/viz/W-RFM-6.svg">
+
+</details>
+
 ### [Ms-164](/ms-164/#FCv.1): [FCv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/FCv.webp)
 
 <span class="series-number">1.</span> Die Beweise ordnen die Sätze. Sie geben ihnen Zusammenhang.

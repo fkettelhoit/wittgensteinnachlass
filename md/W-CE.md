@@ -1,5 +1,13 @@
 # Ursache und Wirkung
 
+<details>
+
+<summary>1937–1938, 114 remarks, Ms-119, Ms-159, Ms-160</summary>
+
+<img class="viz" src="/viz/W-CE.svg">
+
+</details>
+
 ### [Ms-119](/ms-119/#1.2+2.1): [1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/2.webp)
 
 Wenn man sagt: “ich fürchte mich, weil er so finster dreinschaut” – so wird hier scheinbar eine Ursache, unmittelbar erkannt, ohne wiederholtes Experiment. Russell sagte, man müsse, ehe man etwas als Ursache durch wiederholte Erfahrung erkenne, etwas durch Intuition als Ursache erkennen. Ist das nicht ähnlich, als sagte man: Man muß, ehe man etwas als 2 m durch Messung anerkennt, etwas durch Intuition als 1 m erkennen?

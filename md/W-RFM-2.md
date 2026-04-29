@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – II
 
+<details>
+
+<summary>1938–1939, 63 remarks, Ms-117, Ms-121</summary>
+
+<img class="viz" src="/viz/W-RFM-2.svg">
+
+</details>
+
 ### [Ms-117](/ms-117/#97.3+98.1): [97\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/97.webp),[98\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)
 
 <span class="series-number">1.</span> _---_

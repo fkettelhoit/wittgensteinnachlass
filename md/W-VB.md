@@ -1,5 +1,13 @@
 # Vermischte Bemerkungen
 
+<details>
+
+<summary>1914–1951, 587 remarks, Ms-101, Ms-106, Ms-105, Ms-107, and 53 more</summary>
+
+<img class="viz" src="/viz/W-VB.svg">
+
+</details>
+
 ### [Ms-101](/ms-101/#7r.2): [7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/7r.webp)
 
 21.08.1914

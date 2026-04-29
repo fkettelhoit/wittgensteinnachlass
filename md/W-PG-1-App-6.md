@@ -1,5 +1,13 @@
 # Philosophische Grammatik – I App 6
 
+<details>
+
+<summary>1933, 25 remarks, Ts-213</summary>
+
+<img class="viz" src="/viz/W-PG-1-App-6.svg">
+
+</details>
+
 ### [Ts-213](/ts-213/#117r.1): [117r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/117r.webp)
 
 _**Wesen der Hypothese.**_

@@ -1,5 +1,13 @@
 # Bemerkungen über die Grundlagen der Mathematik – III
 
+<details>
+
+<summary>1939–1940, 356 remarks, Ms-122, Ms-117</summary>
+
+<img class="viz" src="/viz/W-RFM-3.svg">
+
+</details>
+
 ### [Ms-122](/ms-122/#5r.2+5v.1): [5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/5r.webp),[5v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/5v.webp)
 
 <span class="series-number">1.</span> 25.10.1939
