@@ -1,3 +1,6 @@
 *.md.partial
-target/
 .DS_Store
+target/
+graphics-cropped
+epub
+pdf
