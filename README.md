@@ -36,24 +36,15 @@ A small number of generated graphics (filenames starting with `gen-`) are progra
 
 Wittgenstein's writings are in the public domain in most jurisdictions, including the European Union and countries that apply a 70-year post mortem auctoris term (Wittgenstein died in 1951). In jurisdictions where the works remain under copyright, the rights are held by the Trustees of the Estate of the late Ludwig Wittgenstein, managed through Trinity College, Cambridge. Users should verify the copyright status of these works in their own jurisdiction before reproducing or distributing them.
 
-## Visualization tool
+## Tools
 
-The `tools/visualize/` directory contains a Rust tool that generates SVG diagrams showing how each published work draws from its source documents. Each diagram places the work's remarks as a solid bar on the left and the source document remarks on the right, with filled bezier shapes connecting corresponding remarks.
+The `tools/` directory contains tools for processing and publishing the Nachlass files. Each tool can be run from its own directory with `cargo run` (Rust tools) or directly (shell/Python scripts). All tools support single-file and batch modes.
 
-To generate all visualizations:
-
-```
-cd tools/visualize
-cargo run -- --all
-```
-
-To generate a single work's visualization:
-
-```
-cargo run -- --work W-OC.md
-```
-
-The tool embeds TeX Gyre Pagella into the SVG files for consistent rendering. Use `--font` to specify a different font path.
+- **[visualize](tools/visualize/)** -- generates SVG diagrams showing how published works draw from their source documents, with bezier shapes connecting corresponding remarks.
+- **[covers](tools/covers/)** -- generates SVG book covers with the title and a decorative grid of circles derived from the document content.
+- **[graphics](tools/graphics/)** -- crops raw A4-sized SVG drawings to their content bounding box and converts text to paths. Output goes to `graphics-cropped/` and is used by the ebooks and pdfs tools.
+- **[ebooks](tools/ebooks/)** -- generates EPUB ebooks from markdown files using Pandoc. Multi-part works are merged into a single volume with chapter navigation.
+- **[pdfs](tools/pdfs/)** -- generates PDF files from markdown files using Pandoc and WeasyPrint, with embedded TeX Gyre Pagella and SangBleu Empire fonts.
 
 ## Format reference
 

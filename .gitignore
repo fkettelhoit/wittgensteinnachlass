@@ -1,0 +1,3 @@
+*.md.partial
+target/
+.DS_Store
