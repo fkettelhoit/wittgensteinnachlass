@@ -1,4 +1,5 @@
 # Index
+
 ### [On Certainty](W-OC.md)
 
 - 1949–1951, 689 remarks
@@ -30,10 +31,6 @@
 ### [Remarks on the Foundations of Mathematics](W-RFM.md)
 
 - 1938–1944, 1724 remarks
-
-### [Cause and Effect](W-CE.md)
-
-- 1937–1938, 114 remarks
 
 ## 1951
 
@@ -423,52 +420,4 @@
 ### [Ms-120](Ms-120.md)
 
 - 511 remarks, 'XVI.'; 1937-38
-
-## 1937
-
-### [Ms-119](Ms-119.md)
-
-- 309 remarks, 'XV.'; 1937
-- published in parts in 'Cause and Effect: Intuitive Awareness'
-
-### [Ms-157b](Ms-157b.md)
-
-- 127 remarks, continuation of Ms-157a; source for Ms-142 and Ms-118; 1937
-
-### [Ms-118](Ms-118.md)
-
-- 334 remarks, 'XIV. Philosophische Bemerkungen'; 1937
-
-### [Ms-183](Ms-183.md)
-
-- 323 remarks, so-called Denkbewegungen; 1930-32 and 1936-37
-- published in 'Denkbewegungen'
-
-### [Ts-220](Ts-220.md)
-
-- 168 remarks, approximately first half of Investigations prewar version; 1937
-
-### [Ts-237](Ts-237.md)
-
-- 10 remarks, pages and cuttings from pp. 80-92 of Ts-220; 1937
-
-### [Ts-238](Ts-238.md)
-
-- 28 remarks, pages and cuttings from pp. 77-93 of Ts-220; 1937
-
-### [Ts-239](Ts-239.md)
-
-- 204 remarks, revised version of Ts-220; 1937
-
-### [Ms-142](Ms-142.md)
-
-- 211 remarks, 'Philosophische Untersuchungen'; 1936-37
-
-### [Ms-178e](Ms-178e.md)
-
-- 13 remarks, 1937?
-
-### [Ms-157a](Ms-157a.md)
-
-- 223 remarks, source for Ms-142; 1934 and 1937
 
