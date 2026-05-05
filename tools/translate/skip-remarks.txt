@@ -1,0 +1,4 @@
+# Remarks to skip during translation (use original verbatim).
+# Format: filename:remark_id
+# Lines starting with # are comments.
+Ts-231.md:a1.1

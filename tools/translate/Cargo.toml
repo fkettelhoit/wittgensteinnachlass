@@ -1,0 +1,11 @@
+[package]
+name = "translate-nachlass"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4", features = ["derive", "env"] }
+regex = "1"
+reqwest = { version = "0.12", features = ["blocking", "json"] }
+serde_json = "1"
+dotenvy = "0.15"

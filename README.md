@@ -45,6 +45,7 @@ The `tools/` directory contains tools for processing and publishing the Nachlass
 - **[graphics](tools/graphics/)** -- crops raw A4-sized SVG drawings to their content bounding box and converts text to paths. Output goes to `graphics-cropped/` and is used by the ebooks and pdfs tools.
 - **[ebooks](tools/ebooks/)** -- generates EPUB ebooks from markdown files using Pandoc. Multi-part works are merged into a single volume with chapter navigation.
 - **[pdfs](tools/pdfs/)** -- generates PDF files from markdown files using Pandoc and WeasyPrint, with embedded TeX Gyre Pagella and SangBleu Empire fonts.
+- **[translate](tools/translate/)** -- translates German markdown files to English using Ollama (local LLM) or the DeepL API, with glossary support, automatic verification, and sibling document reuse. Output goes to `md-en/`.
 
 ## Format reference
 
