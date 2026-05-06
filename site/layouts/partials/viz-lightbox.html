@@ -1,0 +1,28 @@
+{{/* Process viz SVG images: wrap in lightbox links and generate lightbox divs.
+     Takes a content string as input, returns modified content with lightbox elements appended. */}}
+{{ $c := . }}
+{{/* Wrap each viz img in a link to its lightbox */}}
+{{ $c = replaceRE `<img class="viz" src="/viz/([^"]+)\.svg">` `<a href="#viz-$1"><img class="viz" src="/viz/$1.svg"></a>` $c }}
+{{/* Collect viz SVG paths */}}
+{{ $vizzes := findRE `/viz/[^"]+\.svg` $c }}
+{{ $vizzes = uniq $vizzes }}
+{{ $vlen := len $vizzes }}
+{{ if gt $vlen 0 }}
+  {{ $vizLb := "" }}
+  {{ range $i, $src := $vizzes }}
+    {{ $id := replaceRE `^/viz/(.+)\.svg$` "$1" $src }}
+    {{ $prev := `<span class="lightbox-prev"></span>` }}
+    {{ $next := `<span class="lightbox-next"></span>` }}
+    {{ if gt $i 0 }}
+      {{ $prevId := replaceRE `^/viz/(.+)\.svg$` "$1" (index $vizzes (sub $i 1)) }}
+      {{ $prev = printf `<a class="lightbox-prev" href="#viz-%s">&lsaquo;</a>` $prevId }}
+    {{ end }}
+    {{ if lt $i (sub $vlen 1) }}
+      {{ $nextId := replaceRE `^/viz/(.+)\.svg$` "$1" (index $vizzes (add $i 1)) }}
+      {{ $next = printf `<a class="lightbox-next" href="#viz-%s">&rsaquo;</a>` $nextId }}
+    {{ end }}
+    {{ $vizLb = printf `%s<div id="viz-%s" class="lightbox"><a class="lightbox-backdrop" href="#_"></a><a class="lightbox-close" href="#_">&times;</a>%s<input type="checkbox" id="zoom-viz-%s" class="lightbox-zoom-toggle"><label for="zoom-viz-%s" class="lightbox-zoom"><img src="%s" loading="lazy"></label>%s</div>` $vizLb $id $prev $id $id $src $next }}
+  {{ end }}
+  {{ $c = printf "%s%s" $c $vizLb }}
+{{ end }}
+{{ return $c }}

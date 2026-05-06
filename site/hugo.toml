@@ -1,0 +1,47 @@
+baseURL = '/'
+languageCode = 'de'
+title = "Wittgenstein's Writings"
+
+disableKinds = ['taxonomy', 'term']
+
+[markup.goldmark.extensions]
+typographer = false
+strikethrough = false
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.goldmark.parser.attribute]
+block = true
+
+[[module.mounts]]
+source = "static"
+target = "static"
+
+[[module.mounts]]
+source = "../css"
+target = "static/css/shared"
+
+[[module.mounts]]
+source = "fonts"
+target = "static/fonts"
+
+[[module.mounts]]
+source = "../viz"
+target = "static/viz"
+
+[[module.mounts]]
+source = "../covers"
+target = "static/covers"
+
+[[module.mounts]]
+source = "../epub"
+target = "static/epub"
+
+[[module.mounts]]
+source = "../pdf"
+target = "static/pdf"
+
+[[module.mounts]]
+source = "content"
+target = "content"

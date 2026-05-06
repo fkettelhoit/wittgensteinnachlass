@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main class="gallery">
+  <nav><a href="/">{{ .Site.Title }}</a></nav>
+  {{ partial "intro-brief.html" }}
+  {{ $c := .Content }}
+  {{ $c = replaceRE `</h2>` `</h2><div>` $c }}
+  {{ $c = replaceRE `<h2` `</div></section><section><h2` $c }}
+  {{ $c = replace $c "</div></section><section>" "<section>" 1 }}
+  {{ $c = printf "%s</div></section>" $c }}
+  {{ $c | safeHTML }}
+</main>
+{{ partial "footer.html" }}
+{{ end }}

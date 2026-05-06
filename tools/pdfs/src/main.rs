@@ -38,16 +38,20 @@ struct Cli {
     pandoc: String,
 
     /// Font directory containing TeX Gyre Pagella OTF files
-    #[arg(long, default_value = "../../../site/fonts/tex-gyre")]
+    #[arg(long, default_value = "../../site/fonts/tex-gyre")]
     font_dir: PathBuf,
 
     /// Font directory containing SangBleu Empire WOFF2 files (for headings)
-    #[arg(long, default_value = "../../../site/fonts/sangbleu")]
+    #[arg(long, default_value = "../../site/fonts/sangbleu")]
     heading_font_dir: PathBuf,
 
     /// Author name for metadata
     #[arg(long, default_value = "Ludwig Wittgenstein")]
     author: String,
+
+    /// Path to shared transcription CSS
+    #[arg(long, default_value = "../../css/transcription.css")]
+    transcription_css: PathBuf,
 }
 
 fn main() {
@@ -61,7 +65,7 @@ fn main() {
     fs::create_dir_all(&cli.output).expect("Failed to create output directory");
 
     // Build CSS and template once (fonts are the same for all files)
-    let css = template::build_css(&cli.font_dir, &cli.heading_font_dir);
+    let css = template::build_css(&cli.font_dir, &cli.heading_font_dir, &cli.transcription_css);
     let html_template = template::build_template();
 
     // Write template to temp file (pandoc needs it on disk)

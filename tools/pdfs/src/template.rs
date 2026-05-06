@@ -2,7 +2,9 @@ use std::fs;
 use std::path::Path;
 
 /// Build the CSS stylesheet with font references via file:// URLs.
-pub fn build_css(font_dir: &Path, heading_font_dir: &Path) -> String {
+pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &Path) -> String {
+    let shared_css = fs::read_to_string(transcription_css)
+        .unwrap_or_else(|e| panic!("Failed to read transcription CSS at {}: {}", transcription_css.display(), e));
     let font_dir = fs::canonicalize(font_dir)
         .expect("Failed to resolve font directory path");
     let heading_font_dir = fs::canonicalize(heading_font_dir)
@@ -258,38 +260,12 @@ strong, b {{
   font-weight: 700;
 }}
 
-.series-number {{
-  background-color: #444;
-  color: #fff;
-  padding: 0.15em 0.2em 0 0.3em;
-  border-radius: 3px;
-  margin-right: 0.15em;
-  font-size: 0.9em;
-}}
-
-math {{
-  font-family: "TeX Gyre Pagella Math", math;
-}}
-
-sub, sup {{
-  line-height: 0;
-}}
-
-math[display="block"] {{
-  display: block;
-  margin: 0.5em 0 1em 0;
-}}
-
-s {{
-  text-decoration: line-through;
-}}
-
 img {{
   max-width: 100%;
   height: auto;
 }}
 "#
-    )
+    ) + "\n/* Shared transcription styles */\n" + &shared_css
 }
 
 /// Build the pandoc HTML template for weasyprint.

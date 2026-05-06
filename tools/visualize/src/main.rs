@@ -40,7 +40,7 @@ struct Cli {
     /// Path to TeX Gyre Pagella Regular OTF for embedding
     #[arg(
         long,
-        default_value = "../../../site/fonts/tex-gyre/texgyrepagella-regular.otf"
+        default_value = "../../site/fonts/tex-gyre/texgyrepagella-regular.otf"
     )]
     font: PathBuf,
 }

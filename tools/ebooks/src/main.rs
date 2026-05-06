@@ -42,6 +42,10 @@ struct Cli {
     /// Author name for metadata
     #[arg(long, default_value = "Ludwig Wittgenstein")]
     author: String,
+
+    /// Path to shared transcription CSS
+    #[arg(long, default_value = "../../css/transcription.css")]
+    transcription_css: PathBuf,
 }
 
 fn main() {
@@ -130,6 +134,7 @@ fn main() {
             &epub_path,
             if has_cover { Some(&cover_png) } else { None },
             &cli.input,
+            &cli.transcription_css,
         );
 
         // Clean up temp files
@@ -182,12 +187,17 @@ fn run_pandoc(
     output: &PathBuf,
     cover: Option<&PathBuf>,
     resource_path: &PathBuf,
+    css: &PathBuf,
 ) -> Result<(), String> {
     let mut cmd = Command::new(pandoc);
     cmd.arg(input);
     cmd.args(["--mathml", "-o"]);
     cmd.arg(output);
     cmd.arg(format!("--resource-path={}", resource_path.display()));
+
+    if css.exists() {
+        cmd.arg(format!("--css={}", css.display()));
+    }
 
     if let Some(cover_path) = cover {
         cmd.arg(format!("--epub-cover-image={}", cover_path.display()));

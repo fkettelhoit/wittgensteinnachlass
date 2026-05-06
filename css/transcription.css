@@ -1,0 +1,68 @@
+/* Shared transcription styles for site, EPUB, and PDF.
+   Uses only portable units (em, px) — no CSS variables. */
+
+/* Series number badges */
+.series-number {
+  background-color: #444;
+  color: #fff;
+  padding: 0.15em 0.2em 0 0.3em;
+  border-radius: 3px;
+  margin-right: 0.15em;
+  font-size: 0.9em;
+}
+
+/* Strikethrough */
+s {
+  text-decoration: line-through;
+}
+
+/* Math */
+math {
+  font-family: "TeX Gyre Pagella Math", math;
+}
+
+sub, sup {
+  line-height: 0;
+}
+
+math.stacked[display="inline"] {
+  font-size: 0.85em;
+}
+
+math[display="block"] {
+  display: block;
+  margin: 0.5em 0 1em 0;
+}
+
+/* MathML notation */
+menclose[notation="bottom"] {
+  padding-bottom: 2px;
+  margin-bottom: -2px;
+  border-bottom: 2px solid;
+}
+
+mtable[columnalign="left"] mtd {
+  display: flex;
+  justify-content: flex-start;
+}
+
+mtable[columnalign="right"] mtd {
+  display: flex;
+  justify-content: flex-end;
+}
+
+menclose[notation="box"] {
+  outline: 1px solid currentColor;
+  outline-offset: 2px;
+}
+
+/* Block punctuation alignment */
+p:has(.pre-block-punct, .post-block-punct) {
+  display: flex;
+  align-items: center;
+}
+
+/* Overline (e.g. line segments) */
+.barover {
+  text-decoration: overline;
+}

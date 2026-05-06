@@ -1,0 +1,58 @@
+{{ define "main" }}
+<nav><a href="/">{{ .Site.Title }}</a></nav>
+{{ $hasRemarks := findRE `\.webp\)` .RawContent }}
+{{ if $hasRemarks }}
+<main>
+  {{ $c := .Content }}
+  {{ if ne hugo.Environment "production" }}
+    {{ $stem := .File.ContentBaseName }}
+    {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
+    {{ $switcher := printf `</h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` (.File.ContentBaseName | urlize) $downloads }}
+    {{ $c = replace $c "</h1>" $switcher 1 }}
+  {{ end }}
+  {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
+  {{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
+  {{ $c = replace $c "</div></section><section>" "<section>" 1 }}
+  {{ $disclaimer := `<div class="disclaimer"><p><strong>This translation may contain errors!</strong><br><strong>Do not quote from or cite this translation!</strong><br>The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.</p></div>` }}
+  {{ $c = replace $c "<section>" (printf "%s<section>" $disclaimer) 1 }}
+  {{ $c = replaceRE `</a>,<a` ` &amp;</a><br><a` $c }}
+  {{/* Rewrite readable fragment IDs (e.g. #1.1, #1r.1+2r.1) in internal links
+       to match Goldmark's auto-generated IDs (strip dots and plus signs).
+       Each pass removes one occurrence; repeat enough for the longest fragments. */}}
+  {{ range seq 5 }}
+    {{ $c = replaceRE `(href="/[^"]*#[^"]*)[.+]([^"]*")` `${1}${2}` $c }}
+  {{ end }}
+  {{ $c = replaceRE `<a href="([^"]*/)([^/"]+)/([^/"]+)(\.webp)">` `<a href="#fac-$2-$3">` $c }}
+  {{ $c = replaceRE `<h3 id="([^"]+)"` `<h3 id="$1"><a class="fragment-link" href="#$1">§</a` $c }}
+  {{/* Move fac span from inside h3 to between h3 and content div */}}
+  {{ $c = replaceRE `(<span class="fac">.*?</span>)(</h3>)<div>` `${2}${1}<div>` $c }}
+  {{ $c = printf "%s</div></section>" $c }}
+  {{ $facs := findRE `https?://[^"]+\.webp` .Content }}
+  {{ $facs = uniq $facs }}
+  {{ $len := len $facs }}
+  {{ $.Scratch.Set "lightboxes" "" }}
+  {{ range $i, $url := $facs }}
+    {{ $id := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" $url }}
+    {{ $prev := `<span class="lightbox-prev"></span>` }}
+    {{ $next := `<span class="lightbox-next"></span>` }}
+    {{ if gt $i 0 }}
+      {{ $prevId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (sub $i 1)) }}
+      {{ $prev = printf `<a class="lightbox-prev" href="#fac-%s">&lsaquo;</a>` $prevId }}
+    {{ end }}
+    {{ if lt $i (sub $len 1) }}
+      {{ $nextId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (add $i 1)) }}
+      {{ $next = printf `<a class="lightbox-next" href="#fac-%s">&rsaquo;</a>` $nextId }}
+    {{ end }}
+    {{ $.Scratch.Add "lightboxes" (printf `<div id="fac-%s" class="lightbox"><a class="lightbox-backdrop" href="#_"></a><a class="lightbox-close" href="#_">&times;</a>%s<input type="checkbox" id="zoom-%s" class="lightbox-zoom-toggle"><label for="zoom-%s" class="lightbox-zoom"><img src="%s" loading="lazy"></label>%s</div>` $id $prev $id $id $url $next) }}
+  {{ end }}
+  {{ $c = printf "%s%s" $c ($.Scratch.Get "lightboxes") }}
+  {{ $c = partial "viz-lightbox.html" $c }}
+  {{ $c | safeHTML }}
+</main>
+{{ else }}
+<main>
+  {{ partial "viz-lightbox.html" .Content | safeHTML }}
+</main>
+{{ end }}
+{{ partial "footer.html" }}
+{{ end }}

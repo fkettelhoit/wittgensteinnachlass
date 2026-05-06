@@ -1,0 +1,61 @@
+{{ define "main" }}
+<nav><a href="/">{{ .Site.Title }}</a></nav>
+{{ $hasRemarks := findRE `\.webp\)` .RawContent }}
+{{ if $hasRemarks }}
+<main>
+  {{ $c := .Content }}
+  {{ $stem := .File.ContentBaseName }}
+  {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
+  {{ $bilingual := "" }}
+  {{ if and .Params.translation (ne hugo.Environment "production") }}
+    {{ $bilingual = printf ` | <a href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
+  {{ end }}
+  {{ $switcher := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>` $downloads $bilingual }}
+  {{ $c = replace $c "</h1>" $switcher 1 }}
+  {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
+  {{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
+  {{ $c = replace $c "</div></section><section>" "<section>" 1 }}
+  {{ $c = replaceRE `</a>,<a` ` &amp;</a><br><a` $c }}
+  {{/* Rewrite readable fragment IDs (e.g. #1.1, #1r.1+2r.1) in internal links
+       to match Goldmark's auto-generated IDs (strip dots and plus signs).
+       Each pass removes one occurrence; repeat enough for the longest fragments. */}}
+  {{ range seq 5 }}
+    {{ $c = replaceRE `(href="/[^"]*#[^"]*)[.+]([^"]*")` `${1}${2}` $c }}
+  {{ end }}
+  {{ $c = replaceRE `<a href="([^"]*/)([^/"]+)/([^/"]+)(\.webp)">` `<a href="#fac-$2-$3">` $c }}
+  {{ $c = replaceRE `<h3 id="([^"]+)"` `<h3 id="$1"><a class="fragment-link" href="#$1">§</a` $c }}
+  {{/* Move fac span from inside h3 to between h3 and content div */}}
+  {{ $c = replaceRE `(<span class="fac">.*?</span>)(</h3>)<div>` `${2}${1}<div>` $c }}
+  {{ $c = printf "%s</div></section>" $c }}
+  {{ $facs := findRE `https?://[^"]+\.webp` .Content }}
+  {{ $facs = uniq $facs }}
+  {{ $len := len $facs }}
+  {{ $.Scratch.Set "lightboxes" "" }}
+  {{ range $i, $url := $facs }}
+    {{ $id := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" $url }}
+    {{ $prev := `<span class="lightbox-prev"></span>` }}
+    {{ $next := `<span class="lightbox-next"></span>` }}
+    {{ if gt $i 0 }}
+      {{ $prevId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (sub $i 1)) }}
+      {{ $prev = printf `<a class="lightbox-prev" href="#fac-%s">&lsaquo;</a>` $prevId }}
+    {{ end }}
+    {{ if lt $i (sub $len 1) }}
+      {{ $nextId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (add $i 1)) }}
+      {{ $next = printf `<a class="lightbox-next" href="#fac-%s">&rsaquo;</a>` $nextId }}
+    {{ end }}
+    {{ $.Scratch.Add "lightboxes" (printf `<div id="fac-%s" class="lightbox"><a class="lightbox-backdrop" href="#_"></a><a class="lightbox-close" href="#_">&times;</a>%s<input type="checkbox" id="zoom-%s" class="lightbox-zoom-toggle"><label for="zoom-%s" class="lightbox-zoom"><img src="%s" loading="lazy"></label>%s</div>` $id $prev $id $id $url $next) }}
+  {{ end }}
+  {{ $c = printf "%s%s" $c ($.Scratch.Get "lightboxes") }}
+  {{ $c = partial "viz-lightbox.html" $c }}
+  {{ $c | safeHTML }}
+</main>
+{{ else }}
+<main>
+  {{ $stem2 := .File.ContentBaseName }}
+  {{ $dl2 := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem2 $stem2 }}
+  {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s</p>` $dl2 }}
+  {{ partial "viz-lightbox.html" (replace .Content "</h1>" $sw2 1) | safeHTML }}
+</main>
+{{ end }}
+{{ partial "footer.html" }}
+{{ end }}

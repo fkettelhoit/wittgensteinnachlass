@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} – {{ end }}{{ .Site.Title }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="icon" type="image/png" sizes="any" href="/favicon.png" media="(prefers-color-scheme: light)">
+  <link rel="icon" type="image/png" sizes="any" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
+</head>
+<body{{ with .Params.layout }}{{ if eq . "bilingual" }} class="bilingual"{{ end }}{{ end }}>
+  {{ block "main" . }}{{ end }}
+</body>
+</html>
