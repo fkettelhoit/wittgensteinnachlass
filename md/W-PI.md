@@ -2,11 +2,47 @@
 
 <details>
 
-<summary>1944–1946, 710 remarks, Ts-227a, Ts-227b</summary>
+<summary>1944–1946, 718 remarks, Ts-227b, Ts-227a</summary>
 
 <img class="viz" src="/viz/W-PI.svg">
 
 </details>
+
+### [Ts-227b](/ts-227b/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227b/1.webp)</span> {#ts-227b-11}
+
+## Philosophische Untersuchungen.
+
+### [Ts-227a](/ts-227a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/1.webp)</span> {#ts-227a-11}
+
+## Philosophische Untersuchungen.
+
+### [Ts-227a](/ts-227a/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/1.webp)</span> {#ts-227a-12}
+
+Motto: “Überhaupt hat der Fortschritt das an sich, daß er viel größer ausschaut als er wirklich ist.” (Nestroy)
+
+### [Ts-227a](/ts-227a/#1.3) <span class="fac">[1\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/1.webp)</span> {#ts-227a-13}
+
+_**Vorwort.**_
+
+### [Ts-227a](/ts-227a/#1.4+2.1+3.1+4.1) <span class="fac">[1\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/2.webp),[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/3.webp),[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/4.webp)</span> {#ts-227a-14213141}
+
+In dem Folgenden veröffentliche ich den Niederschlag philosophischer Untersuchungen die mich in den letzten 16 Jahren beschäftigt haben. Sie betreffen viele Gegenstände: Den Begriff der Bedeutung, des Verstehens, des Satzes, der Logik, die Grundlagen der Mathematik, die Bewußtseinszustände und Anderes. Ich habe diese Gedanken alle als _Bemerkungen_, kurze Absätze, niedergeschrieben. Manchmal in längeren Ketten, über den gleichen Gegenstand, manchmal in raschem Wechsel von einem Gebiet zum andern überspringend. – Meine Absicht war es von Anfang, alles dies einmal in einem Buche zusammenzufassen, von dessen Form ich mir zu verschiedenen Zeiten verschiedene Vorstellungen machte. Wesentlich aber schien es mir, daß darin die Gedanken von einem Gegenstand zum andern in einer natürlichen und lückenlosen Folge fortschreiten sollten. Nach manchen mißglückten Versuchen, meine Ergebnisse zu einem solchen Ganzen zusammenzuschweißen, sah ich ein, daß mir dies nie gelingen würde. Daß das beste, was ich schreiben konnte, immer nur philosophische Bemerkungen bleiben würden; daß meine Gedanken bald erlahmten, wenn ich versuchte, sie, gegen ihre natürliche Neigung, in _einer_ Richtung weiterzuzwingen. ‒ ‒ Und dies hing freilich mit der Natur der Untersuchung selbst zusammen. Sie nämlich zwingt uns, ein weites Gedankengebiet, kreuz und quer, nach allen Richtungen hin zu durchreisen. – Die philosophischen Bemerkungen dieses Buches sind gleichsam eine Menge von Landschaftskizzen, die auf diesen langen und verwickelten Fahrten entstanden sind. Die gleichen Punkte, oder beinahe die gleichen, wurden stets von neuem von verschiedenen Richtungen her berührt und immer neue Bilder entworfen. Eine Unzahl dieser war verzeichnet, oder uncharakteristisch, mit allen Mängeln eines schwachen Zeichners behaftet. Und wenn man diese ausschied, blieb eine Anzahl halbwegser übrig, die nun so angeordnet, oftmals beschnitten, werden mußten, daß sie dem Betrachter ein Bild der Landschaft geben konnten. – So ist also dieses Buch eigentlich nur ein Album. Ich hatte bis vor kurzem den Gedanken an eine Veröffentlichung meiner Arbeit bei meinen Lebzeiten eigentlich aufgegeben. Er wurde allerdings von Zeit zu Zeit rege gemacht, und zwar hauptsächlich dadurch, daß ich erfahren mußte, daß meine Ergebnisse, die ich in Vorlesungen, Skripten und Diskussionen weitergegeben hatte, vielfach mißverstanden, mehr oder weniger verwässert, oder verstümmelt im Umlauf waren. Hierdurch wurde meine Eitelkeit aufgestachelt und ich hatte Mühe, sie zu beruhigen. Vor vier Jahren aber hatte ich Veranlassung, mein erstes Buch (die “Logisch-philosophische Abhandlung”) wieder zu lesen und seine Gedanken zu erklären. Da schien es mir plötzlich, daß ich jene alten Gedanken und die neuen zusammen veröffentlichen sollte: daß diese nur durch den Gegensatz und auf dem Hintergrund meiner ältern Denkweise ihre rechte Beleuchtung erhalten könnten. Seit ich nämlich vor 16 Jahren mich wieder mit Philosophie zu beschäftigen anfing, mußte ich schwere Irrtümer in dem erkennen, was ich in jenem ersten Buche niedergelegt hatte. Diese Irrtümer einzusehen, hat mir – in einem Maße, das ich kaum selbst zu beurteilen vermag – die Kritik geholfen, die meine Ideen durch Frank Ramsey erfahren haben,– mit welchem ich sie, während der zwei letzten Jahre seines Lebens in zahllosen Gesprächen erörtert habe. – Mehr noch als dieser – stets kraftvollen und sichern – Kritik verdanke ich derjenigen, die ein Lehrer dieser Universität, Herr P. Sraffa, durch viele Jahre, unablässig an meinen Gedanken geübt hat. _Diesem_ Ansporn verdanke ich die folgereichsten der Ideen dieser Schrift. Aus mehr als _einem_ Grunde wird, was ich hier veröffentliche, sich mit dem berühren, was Andere heute schreiben. – Tragen meine Bemerkungen keinen Stempel an sich, der sie als die meinen kennzeichnet, so will ich sie auch weiter nicht als mein Eigentum beanspruchen. Ich übergebe sie mit zweifelhaften Gefühlen der Öffentlichkeit. Daß es dieser Arbeit in ihrer Dürftigkeit und der Finsternis dieser Zeit beschieden sein sollte, Licht in ein oder das andere Gehirn zu werfen, ist nicht unmöglich,– aber freilich nicht wahrscheinlich. Ich möchte nicht mit meiner Schrift Andern das Denken ersparen. Sondern, wenn es möglich wäre, jemand zu eigenen Gedanken anregen. Ich hätte gerne ein gutes Buch hervorgebracht. Es ist nicht so ausgefallen; aber die Zeit ist vorbei, in der es von mir verbessert werden könnte. Cambridge, im Januar 1945.
+
+### [Ts-227b](/ts-227b/#82a.1) <span class="fac">[82a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227b/82a.webp)</span> {#ts-227b-82a1}
+
+Die Philosophie der Logik redet in keinem anderen Sinn von Sätzen und Wörtern, als wir es im gewöhnlichen Leben tun wenn wir etwa sagen “Hier steht ein chinesischer Satz aufgeschrieben”, oder “Nein, das sieht nur aus wie ein Schriftzeichen, ist aber ein Ornament”, etc.. Wir reden von den räumlichen und zeitlichen Phänomenen der Sprache; nicht von einem unräumlichen und unzeitlichen Unding. Aber wir reden von ihr so, wie von den Figuren des Schachspiels, indem wir Spielregeln für sie angeben, nicht ihre physikalischen Eigenschaften beschreiben. Die Frage “Was ist eigentlich ein Wort?” ist analog der “Was ist eine Schachfigur?”
+
+Nur kann man sich in verschiedener Weise für ein Phänomen interessieren.
+
+### [Ts-227a](/ts-227a/#94a.3+94a.4) <span class="fac">[94a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/94a.webp),[94a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/94a.webp)</span> {#ts-227a-94a394a4}
+
+c) “Daß drei Verneinungen wieder eine Verneinung ergeben, muß doch schon in der einen Verneinung, die ich jetzt gebrauche, liegen.” Die Versuchung, einen Mythos des ‘Bedeutens’ zu erfinden.)
+
+Es hat den Anschein, als würde aus der Natur der Negation folgen, daß eine doppelte Verneinung eine Bejahung ist. (Und etwas Richtiges ist daran. Was? _Unsre_ Natur hängt mit beiden zusammen.)
+
+### [Ts-227a](/ts-227a/#94a.5) <span class="fac">[94a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/94a.webp)</span> {#ts-227a-94a5}
+
+d) Es kann keine Diskussion darüber geben, ob diese Regeln, oder andere die richtigen für das Wort “nicht” sind (ich meine, ob sie seiner Bedeutung gemäß sind). Denn das Wort hat ohne diese Regeln noch keine Bedeutung; und wenn wir die Regeln ändern, so hat es nun eine andere Bedeutung (oder keine) und wir können dann ebensogut auch das Wort ändern.
 
 ### [Ts-227a](/ts-227a/#4.2+5.1) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/4.webp),[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/5.webp)</span> {#ts-227a-4251}
 

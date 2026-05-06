@@ -1,0 +1,3066 @@
+# Tractatus Logico-Philosophicus
+
+<details>
+
+<summary>1918–1919, 537 remarks, Ts-203, Ts-202, Ts-204</summary>
+
+<img class="viz" src="/viz/W-TLP.svg">
+
+</details>
+
+### [Ts-203](/ts-203/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span> {#ts-203-1r1}
+
+<span class="series-number">1</span> Die Welt ist alles, was der Fall ist.
+
+### [Ts-203](/ts-203/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span> {#ts-203-1r2}
+
+<span class="series-number">1.1</span> Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
+
+### [Ts-203](/ts-203/#1r.3) <span class="fac">[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span> {#ts-203-1r3}
+
+<span class="series-number">1.11</span> Die Welt ist durch die Tatsachen bestimmt und dadurch, daß es _alle_ Tatsachen sind.
+
+### [Ts-203](/ts-203/#1r.4) <span class="fac">[1r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span> {#ts-203-1r4}
+
+<span class="series-number">1.12</span> Denn, die Gesamtheit der Tatsachen bestimmt, was der Fall ist und auch, was alles nicht der Fall ist.
+
+### [Ts-202](/ts-202/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r1}
+
+<span class="series-number">1</span> Die Welt ist alles, was der Fall ist.*
+
+### [Ts-202](/ts-202/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r2}
+
+<span class="series-number">1.1</span> Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
+
+### [Ts-202](/ts-202/#1r.3) <span class="fac">[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r3}
+
+<span class="series-number">1.11</span> Die Welt ist durch die Tatsachen bestimmt und dadurch, daß es _alle_ Tatsachen sind.
+
+### [Ts-202](/ts-202/#1r.4) <span class="fac">[1r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r4}
+
+<span class="series-number">1.12</span> Denn, die Gesamtheit der Tatsachen bestimmt, was der Fall ist und auch, was alles nicht der Fall ist.
+
+### [Ts-202](/ts-202/#1r.5) <span class="fac">[1r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r5}
+
+<span class="series-number">1.13</span> Die Tatsachen im logischen Raum sind die Welt.
+
+### [Ts-202](/ts-202/#1r.6) <span class="fac">[1r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r6}
+
+<span class="series-number">1.2</span> Die Welt zerfällt in Tatsachen.
+
+### [Ts-202](/ts-202/#1r.7) <span class="fac">[1r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r7}
+
+<span class="series-number">1.21</span> Eines kann der Fall sein oder nicht der Fall sein und alles Übrige gleich bleiben.
+
+### [Ts-202](/ts-202/#1r.8) <span class="fac">[1r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r8}
+
+<span class="series-number">2</span> Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten.
+
+### [Ts-202](/ts-202/#1r.9) <span class="fac">[1r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r9}
+
+<span class="series-number">2.01</span> Der Sachverhalt ist eine Verbindung von Gegenständen (Sachen, Dingen).
+
+### [Ts-202](/ts-202/#1r.10) <span class="fac">[1r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r10}
+
+<span class="series-number">2.011</span> Es ist dem Ding wesentlich, der Bestandteil eines Sachverhaltes sein zu können.
+
+### [Ts-202](/ts-202/#1r.11) <span class="fac">[1r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r11}
+
+<span class="series-number">2.012</span> In der Logik ist nichts zufällig: Wenn das Ding im Sachverhalt vorkommen _kann_, so muß die Möglichkeit des Sachverhaltes im Ding bereits präjudiziert sein.
+
+### [Ts-202](/ts-202/#1r.12) <span class="fac">[1r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r12}
+
+<span class="series-number">2.0121</span> Es erschiene gleichsam als Zufall, wenn dem Ding, das allein für sich bestehen könnte, nachträglich eine Sachlage passen würde.
+
+Wenn die Dinge in Sachverhalten vorkommen können, so muß dies schon in ihnen liegen.
+
+(Etwas Logisches kann nicht nur-möglich sein. Die Logik handelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Tatsachen.)
+
+Wie wir uns räumliche Gegenstände überhaupt nicht außerhalb des Raumes, zeitliche nicht außerhalb der Zeit denken können, so können wir uns _keinen_ Gegenstand außerhalb der Möglichkeit seiner Verbindung mit anderen denken.
+
+Wenn ich mir den Gegenstand im Verbande des Sachverhaltes denken kann, so kann ich ihn nicht außerhalb der _Möglichkeit_ dieses Verbandes denken.
+
+### [Ts-202](/ts-202/#1r.13) <span class="fac">[1r\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r13}
+
+<span class="series-number">2.0122</span> Das Ding ist selbständig, insofern es in allen _möglichen_ Sachlagen vorkommen kann, aber diese Form der Selbständigkeit ist eine Form des Zusammenhangs mit dem Sachverhalt, eine Form der Unselbständigkeit. (Es ist unmöglich, daß Worte in zwei verschiedenen Weisen auftreten, allein und im Satz.)
+
+### [Ts-202](/ts-202/#1r.14) <span class="fac">[1r\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/1r.webp)</span> {#ts-202-1r14}
+
+<span class="series-number">2.0123</span> Wenn ich den Gegenstand kenne, so kenne ich auch sämtliche Möglichkeiten seines Vorkommens in Sachverhalten.
+
+(Jede solche Möglichkeit muß in der Natur des Gegenstandes liegen.)
+
+Es kann nicht nachträglich eine neue Möglichkeit gefunden werden.
+
+### [Ts-203](/ts-203/#2r.6) <span class="fac">[2r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/2r.webp)</span> {#ts-203-2r6}
+
+<span class="series-number">2.014</span> Die Gegenstände enthalten die Möglichkeit aller Sachlagen.
+
+### [Ts-202](/ts-202/#2r.1) <span class="fac">[2r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r1}
+
+<span class="series-number">2.01231</span> Um einen Gegenstand zu kennen, muß ich zwar nicht seine externen-, aber ich muß alle seine internen Eigenschaften kennen.
+
+### [Ts-202](/ts-202/#2r.2) <span class="fac">[2r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r2}
+
+<span class="series-number">2.0124</span> Sind alle Gegenstände gegeben, so sind damit auch alle _möglichen_ Sachverhalte gegeben.
+
+### [Ts-202](/ts-202/#2r.3) <span class="fac">[2r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r3}
+
+<span class="series-number">2.013</span> Jedes Ding ist, gleichsam, in einem Raume möglicher Sachverhalte. Diesen Raum kann ich mir leer denken, nicht aber das Ding ohne den Raum.
+
+### [Ts-202](/ts-202/#2r.4) <span class="fac">[2r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r4}
+
+<span class="series-number">2.0131</span> Der räumliche Gegenstand muß im unendlichen Raume liegen.
+
+(Der Raumpunkt ist eine Argumentstelle.)
+
+Der Fleck im Gesichtsfeld muß zwar nicht rot sein, aber eine Farbe muß er haben: er hat sozusagen den Farbenraum um sich. Der Ton muß _eine_ Höhe haben, der Gegenstand des Tastsinnes _eine_ Härte u.s.w.
+
+### [Ts-202](/ts-202/#2r.5) <span class="fac">[2r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r5}
+
+<span class="series-number">2.014</span> Die Gegenstände enthalten die Möglichkeit aller Sachlagen.
+
+### [Ts-202](/ts-202/#2r.6) <span class="fac">[2r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r6}
+
+<span class="series-number">2.0141</span> Die Möglichkeit seines Vorkommens in Sachverhalten, ist die Form des Gegenstandes.
+
+### [Ts-202](/ts-202/#2r.7) <span class="fac">[2r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r7}
+
+<span class="series-number">2.02</span> Der Gegenstand ist einfach.
+
+### [Ts-202](/ts-202/#2r.8) <span class="fac">[2r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r8}
+
+<span class="series-number">2.0201</span> Jede Aussage über Komplexe läßt sich in eine Aussage über deren Bestandteile und in diejenigen Sätze zerlegen, welche die Komplexe vollständig beschreiben.
+
+### [Ts-202](/ts-202/#2r.9) <span class="fac">[2r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r9}
+
+<span class="series-number">2.021</span> Die Gegenstände bilden die Substanz der Welt. Darum können sie nicht zusammengesetzt sein.
+
+### [Ts-202](/ts-202/#2r.10) <span class="fac">[2r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r10}
+
+<span class="series-number">2.0211</span> Hätte die Welt keine Substanz, so würde, ob ein Satz Sinn hat, davon abhängen, ob ein anderer Satz wahr ist.
+
+### [Ts-202](/ts-202/#2r.11) <span class="fac">[2r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r11}
+
+<span class="series-number">2.0212</span> Es wäre dann unmöglich ein Bild der Welt (wahr oder falsch) zu entwerfen.
+
+### [Ts-202](/ts-202/#2r.12) <span class="fac">[2r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r12}
+
+<span class="series-number">2.022</span> Es ist offenbar, daß auch eine von der wirklichen noch so verschieden gedachte Welt Etwas – eine Form – mit der wirklichen gemein haben muß.
+
+### [Ts-202](/ts-202/#2r.13) <span class="fac">[2r\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r13}
+
+<span class="series-number">2.023</span> Diese feste Form besteht eben aus den Gegenständen.
+
+### [Ts-202](/ts-202/#2r.14) <span class="fac">[2r\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r14}
+
+<span class="series-number">2.0231</span> Die Substanz der Welt _kann_ nur eine Form und keine materiellen Eigenschaften bestimmen. Denn diese werden erst durch die Sätze dargestellt – erst durch die Konfiguration der Gegenstände gebildet.
+
+### [Ts-202](/ts-202/#2r.15) <span class="fac">[2r\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r15}
+
+<span class="series-number">2.0232</span> Beiläufig gesprochen: Die Gegenstände sind farblos.
+
+### [Ts-202](/ts-202/#2r.16) <span class="fac">[2r\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp)</span> {#ts-202-2r16}
+
+<span class="series-number">2.0233</span> Zwei Gegenstände von der gleichen logischen Form sind – abgesehen von ihren externen Eigenschaften – von einander nur dadurch unterschieden, daß sie verschieden sind.
+
+### [Ts-202](/ts-202/#2r.17+3r.1) <span class="fac">[2r\[17\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/2r.webp),[3r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-2r173r1}
+
+<span class="series-number">2.02331</span> Entweder ein Ding hat Eigenschaften, die kein anderes hat, dann kann man es ohne weiteres durch eine Beschreibung aus den anderen herausheben, und darauf hinweisen; oder aber, es gibt mehrere Dinge, die ihre sämtlichen Eigenschaften gemeinsam haben, dann ist es überhaupt unmöglich auf eines von ihnen zu zeigen.
+
+Denn, ist das Ding durch nichts hervorgehoben, so kann ich es nicht hervorheben, denn sonst ist es eben hervorgehoben.
+
+### [Ts-202](/ts-202/#3r.2) <span class="fac">[3r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r2}
+
+<span class="series-number">2.024</span> Die Substanz ist das, was unabhängig von dem, was der Fall ist, besteht.
+
+### [Ts-202](/ts-202/#3r.3) <span class="fac">[3r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r3}
+
+<span class="series-number">2.025</span> Sie ist Form und Inhalt.
+
+### [Ts-202](/ts-202/#3r.4) <span class="fac">[3r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r4}
+
+<span class="series-number">2.0251</span> Raum, Zeit und Farbe (Färbigkeit) sind Formen der Gegenstände.
+
+### [Ts-202](/ts-202/#3r.5) <span class="fac">[3r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r5}
+
+<span class="series-number">2.026</span> Nur wenn es Gegenstände gibt, kann es eine feste Form der Welt geben.
+
+### [Ts-202](/ts-202/#3r.6) <span class="fac">[3r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r6}
+
+<span class="series-number">2.027</span> Das Feste, das Bestehende und der Gegenstand sind Eins.
+
+### [Ts-202](/ts-202/#3r.7) <span class="fac">[3r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r7}
+
+<span class="series-number">2.0271</span> Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige.
+
+### [Ts-202](/ts-202/#3r.8) <span class="fac">[3r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r8}
+
+<span class="series-number">2.0272</span> Die Konfiguration der Gegenstände bildet den Sachverhalt.
+
+### [Ts-202](/ts-202/#3r.9) <span class="fac">[3r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r9}
+
+<span class="series-number">2.03</span> Im Sachverhalt hängen die Gegenstände ineinander, wie die Glieder einer Kette.
+
+### [Ts-202](/ts-202/#3r.10) <span class="fac">[3r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r10}
+
+<span class="series-number">2.031</span> Im Sachverhalt verhalten sich die Gegenstände in bestimmter Art und Weise zu einander.
+
+### [Ts-202](/ts-202/#3r.11) <span class="fac">[3r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r11}
+
+<span class="series-number">2.032</span> Die Art und Weise, wie die Gegenstände im Sachverhalt zusammenhängen, ist die Struktur des Sachverhaltes.
+
+### [Ts-202](/ts-202/#3r.12) <span class="fac">[3r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r12}
+
+<span class="series-number">2.033</span> Die Form ist die Möglichkeit der Struktur.
+
+### [Ts-202](/ts-202/#3r.13) <span class="fac">[3r\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r13}
+
+<span class="series-number">2.034</span> Die Struktur der Tatsache besteht aus den Strukturen der Sachverhalte.
+
+### [Ts-202](/ts-202/#3r.14) <span class="fac">[3r\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r14}
+
+<span class="series-number">2.04</span> Die Gesamtheit der bestehenden Sachverhalte ist die Welt.
+
+### [Ts-202](/ts-202/#3r.15) <span class="fac">[3r\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r15}
+
+<span class="series-number">2.05</span> Die Gesamtheit der bestehenden Sachverhalte bestimmt auch, welche Sachverhalte nicht bestehen.
+
+### [Ts-202](/ts-202/#3r.16) <span class="fac">[3r\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r16}
+
+<span class="series-number">2.06</span> Das Bestehen und Nichtbestehen von Sachverhalten ist die Wirklichkeit.
+
+(Das Bestehen von Sachverhalten nennen wir auch eine positive-, das Nichtbestehen, eine negative Tatsache.)
+
+### [Ts-202](/ts-202/#3r.17) <span class="fac">[3r\[17\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r17}
+
+<span class="series-number">2.061</span> Die Sachverhalte sind von einander unabhängig.
+
+### [Ts-202](/ts-202/#3r.18) <span class="fac">[3r\[18\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r18}
+
+<span class="series-number">2.062</span> Aus dem Bestehen oder Nichtbestehen eines Sachverhaltes, kann nicht auf das Bestehen oder Nichtbestehen eines anderen geschlossen werden.
+
+### [Ts-202](/ts-202/#3r.19) <span class="fac">[3r\[19\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r19}
+
+<span class="series-number">2.063</span> Die gesamte Wirklichkeit ist die Welt.
+
+### [Ts-202](/ts-202/#3r.20) <span class="fac">[3r\[20\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r20}
+
+<span class="series-number">2.1</span> Wir machen uns Bilder der Tatsachen.
+
+### [Ts-202](/ts-202/#3r.21) <span class="fac">[3r\[21\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r21}
+
+<span class="series-number">2.11</span> Das Bild stellt die Sachlage im logischen Raume, das Bestehen und Nichtbestehen von Sachverhalten vor.
+
+### [Ts-202](/ts-202/#3r.22) <span class="fac">[3r\[22\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r22}
+
+<span class="series-number">2.12</span> Das Bild ist ein Modell der Wirklichkeit.
+
+### [Ts-202](/ts-202/#3r.23) <span class="fac">[3r\[23\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r23}
+
+<span class="series-number">2.13</span> Den Gegenständen entsprechen im Bilde die Elemente des Bildes.
+
+### [Ts-202](/ts-202/#3r.24) <span class="fac">[3r\[24\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r24}
+
+<span class="series-number">2.131</span> Die Elemente des Bildes vertreten im Bild die Gegenstände.
+
+### [Ts-202](/ts-202/#3r.25) <span class="fac">[3r\[25\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r25}
+
+<span class="series-number">2.14</span> Das Bild besteht darin, daß sich seine Elemente in bestimmter Art und Weise zu einander verhalten.
+
+### [Ts-202](/ts-202/#3r.26) <span class="fac">[3r\[26\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/3r.webp)</span> {#ts-202-3r26}
+
+<span class="series-number">2.141</span> Das Bild ist eine Tatsache.
+
+### [Ts-202](/ts-202/#4r.1) <span class="fac">[4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r1}
+
+<span class="series-number">2.15</span> Daß sich die Elemente des Bildes in bestimmter Art und Weise zu einander verhalten stellt vor, daß sich die Sachen so zu einander verhalten.
+
+Dieser Zusammenhang der Elemente des Bildes heißt seine Struktur und ihre Möglichkeit seine Form der Abbildung.
+
+### [Ts-202](/ts-202/#4r.2) <span class="fac">[4r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r2}
+
+<span class="series-number">2.151</span> Die Form der Abbildung ist die Möglichkeit, daß sich die Dinge so zu einander verhalten, wie die Elemente des Bildes.
+
+### [Ts-202](/ts-202/#4r.3) <span class="fac">[4r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r3}
+
+<span class="series-number">2.1511</span> Das Bild ist _so_ mit der Wirklichkeit verknüpft; es reicht bis zu ihr.
+
+### [Ts-202](/ts-202/#4r.4) <span class="fac">[4r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r4}
+
+<span class="series-number">2.1512</span> Es ist wie ein Maßstab an die Wirklichkeit angelegt.
+
+### [Ts-202](/ts-202/#4r.5) <span class="fac">[4r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r5}
+
+<span class="series-number">2.15121</span> Nur die äußersten Punkte der Teilstriche _berühren_ den zu messenden Gegenstand.
+
+### [Ts-202](/ts-202/#4r.6) <span class="fac">[4r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r6}
+
+<span class="series-number">2.1513</span> Nach dieser Auffassung gehört also zum Bilde auch noch die abbildende Beziehung, die es zum Bild macht.
+
+### [Ts-202](/ts-202/#4r.7) <span class="fac">[4r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r7}
+
+<span class="series-number">2.1514</span> Die abbildende Beziehung besteht aus den Zuordnungen der Elemente des Bildes und der Sachen.
+
+### [Ts-202](/ts-202/#4r.8) <span class="fac">[4r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r8}
+
+<span class="series-number">2.1515</span> Diese Zuordnungen sind gleichsam die Fühler der Bildelemente, mit denen das Bild die Wirklichkeit berührt.
+
+### [Ts-202](/ts-202/#4r.9) <span class="fac">[4r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r9}
+
+<span class="series-number">2.16</span> Die Tatsache muß um Bild zu sein, etwas mit dem Abgebildeten gemeinsam haben.
+
+### [Ts-202](/ts-202/#4r.10) <span class="fac">[4r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r10}
+
+<span class="series-number">2.161</span> In Bild und Abgebildetem muß etwas identisch sein, damit das eine überhaupt ein Bild des anderen sein kann.
+
+### [Ts-202](/ts-202/#4r.11) <span class="fac">[4r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r11}
+
+<span class="series-number">2.17</span> Was das Bild mit der Wirklichkeit gemein haben muß, um sie auf seine Art und Weise – richtig oder falsch – abbilden zu können, ist seine Form der Abbildung.
+
+### [Ts-202](/ts-202/#4r.12) <span class="fac">[4r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r12}
+
+<span class="series-number">2.171</span> Das Bild kann jede Wirklichkeit abbilden, deren Form es hat. Das räumliche Bild alles Räumliche, das farbige alles Farbige, etc.
+
+### [Ts-202](/ts-202/#4r.13) <span class="fac">[4r\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r13}
+
+<span class="series-number">2.172</span> Seine Form der Abbildung aber, kann das Bild nicht abbilden; es weist sie auf.
+
+### [Ts-202](/ts-202/#4r.14) <span class="fac">[4r\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r14}
+
+<span class="series-number">2.173</span> Das Bild stellt sein Objekt von außerhalb dar (sein Standpunkt ist seine Form der Darstellung), darum stellt das Bild sein Objekt richtig oder falsch dar.
+
+### [Ts-202](/ts-202/#4r.15) <span class="fac">[4r\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r15}
+
+<span class="series-number">2.174</span> Das Bild kann sich aber nicht außerhalb seiner Form der Darstellung stellen.
+
+### [Ts-202](/ts-202/#4r.16) <span class="fac">[4r\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r16}
+
+<span class="series-number">2.18</span> Was jedes Bild, welcher Form immer, mit der Wirklichkeit gemein haben muß, um sie überhaupt – richtig oder falsch – abbilden zu können, ist die logische Form, das ist die Form der Wirklichkeit.
+
+### [Ts-202](/ts-202/#4r.17) <span class="fac">[4r\[17\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r17}
+
+<span class="series-number">2.181</span> Ist die Form der Abbildung die logische Form, so heißt das Bild das logische Bild.
+
+### [Ts-202](/ts-202/#4r.18) <span class="fac">[4r\[18\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r18}
+
+<span class="series-number">2.182</span> Jedes Bild ist _auch_ ein logisches. (Dagegen ist z.B. nicht jedes Bild ein räumliches.)
+
+### [Ts-202](/ts-202/#4r.19) <span class="fac">[4r\[19\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/4r.webp)</span> {#ts-202-4r19}
+
+<span class="series-number">2.19</span> Das logische Bild kann die Welt abbilden.
+
+### [Ts-202](/ts-202/#5r.1) <span class="fac">[5r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r1}
+
+<span class="series-number">2.2</span> Das Bild hat mit dem Abgebildeten die logische Form der Abbildung gemein.
+
+### [Ts-202](/ts-202/#5r.2) <span class="fac">[5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r2}
+
+<span class="series-number">2.201</span> Das Bild bildet die Wirklichkeit ab, indem es eine Möglichkeit des Bestehens und Nichtbestehens von Sachverhalten darstellt.
+
+### [Ts-202](/ts-202/#5r.3) <span class="fac">[5r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r3}
+
+<span class="series-number">2.202</span> Das Bild stellt eine mögliche Sachlage im logischen Raume dar.
+
+### [Ts-202](/ts-202/#5r.4) <span class="fac">[5r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r4}
+
+<span class="series-number">2.203</span> Das Bild enthält die Möglichkeit der Sachlage, die es darstellt.
+
+### [Ts-202](/ts-202/#5r.5) <span class="fac">[5r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r5}
+
+<span class="series-number">2.21</span> Das Bild stimmt mit der Wirklichkeit überein oder nicht; es ist richtig oder unrichtig, wahr oder falsch.
+
+### [Ts-202](/ts-202/#5r.6) <span class="fac">[5r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r6}
+
+<span class="series-number">2.22</span> Das Bild stellt dar, was es darstellt, unabhängig von seiner Wahr- oder Falschheit, durch die Form der Abbildung.
+
+### [Ts-202](/ts-202/#5r.7) <span class="fac">[5r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r7}
+
+<span class="series-number">2.221</span> Was das Bild darstellt, ist sein Sinn.
+
+### [Ts-202](/ts-202/#5r.8) <span class="fac">[5r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r8}
+
+<span class="series-number">2.222</span> In der Übereinstimmung oder Nichtübereinstimmung seines Sinnes mit der Wirklichkeit, besteht seine Wahrheit oder Falschheit.
+
+### [Ts-202](/ts-202/#5r.9) <span class="fac">[5r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r9}
+
+<span class="series-number">2.223</span> Um zu erkennen, ob das Bild wahr oder falsch ist, müssen wir es mit der Wirklichkeit vergleichen.
+
+### [Ts-202](/ts-202/#5r.10) <span class="fac">[5r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r10}
+
+<span class="series-number">2.224</span> Aus dem Bild allein ist nicht zu erkennen, ob es wahr oder falsch ist.
+
+### [Ts-202](/ts-202/#5r.11) <span class="fac">[5r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r11}
+
+<span class="series-number">2.225</span> Ein a priori wahres Bild gibt es nicht.
+
+### [Ts-202](/ts-202/#5r.12) <span class="fac">[5r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r12}
+
+<span class="series-number">3</span> Das logische Bild der Tatsachen ist der Gedanke.
+
+### [Ts-202](/ts-202/#5r.13) <span class="fac">[5r\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r13}
+
+<span class="series-number">3.001</span> „Ein Sachverhalt ist denkbar” heißt: Wir können uns ein Bild von ihm machen.
+
+### [Ts-202](/ts-202/#5r.14) <span class="fac">[5r\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r14}
+
+<span class="series-number">3.01</span> Die Gesamtheit der wahren Gedanken sind ein Bild der Welt.
+
+### [Ts-202](/ts-202/#5r.15) <span class="fac">[5r\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r15}
+
+<span class="series-number">3.02</span> Der Gedanke enthält die Möglichkeit der Sachlage die er denkt. Was denkbar ist, ist auch möglich.
+
+### [Ts-202](/ts-202/#5r.16) <span class="fac">[5r\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r16}
+
+<span class="series-number">3.03</span> Wir können nichts Unlogisches denken, weil wir sonst unlogisch denken müßten.
+
+### [Ts-202](/ts-202/#5r.17) <span class="fac">[5r\[17\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r17}
+
+<span class="series-number">3.031</span> Man sagte einmal, daß Gott alles schaffen könne, nur nichts, was den logischen Gesetzen zuwider wäre. – Wir könnten nämlich von einer „unlogischen” Welt nicht _sagen_, wie sie aussähe.
+
+### [Ts-202](/ts-202/#5r.18) <span class="fac">[5r\[18\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r18}
+
+<span class="series-number">3.032</span> Etwas „der Logik widersprechendes” in der Sprache darstellen, kann man ebensowenig, wie in der Geometrie eine den Gesetzen des Raumes widersprechende Figur durch ihre Koordinaten darstellen; oder die Koordinaten eines Punktes angeben, welcher nicht existiert.
+
+### [Ts-202](/ts-202/#5r.19) <span class="fac">[5r\[19\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r19}
+
+<span class="series-number">3.0321</span> Wohl können wir einen Sachverhalt räumlich darstellen, welcher den Gesetzen der Physik, aber keinen, der den Gesetzen der Geometrie zuwiderliefe.
+
+### [Ts-202](/ts-202/#5r.20) <span class="fac">[5r\[20\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r20}
+
+<span class="series-number">3.04</span> Ein a priori richtiger Gedanke wäre ein solcher, dessen Möglichkeit seine Wahrheit bedingte.
+
+### [Ts-202](/ts-202/#5r.21) <span class="fac">[5r\[21\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/5r.webp)</span> {#ts-202-5r21}
+
+<span class="series-number">3.05</span> Nur so könnten wir a priori wissen, daß ein Gedanke wahr ist, wenn aus dem Gedanken selbst (ohne Vergleichsobjekt) seine Wahrheit zu erkennen wäre.
+
+### [Ts-202](/ts-202/#6r.1) <span class="fac">[6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r1}
+
+<span class="series-number">3.1</span> Im Satz drückt sich der Gedanke sinnlich wahrnehmbar aus.
+
+### [Ts-202](/ts-202/#6r.2) <span class="fac">[6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r2}
+
+<span class="series-number">3.11</span> Wir benützen das sinnlich wahrnehmbare Zeichen (Laut- oder Schriftzeichen etc.) des Satzes als Projektion der möglichen Sachlage.
+
+Die Projektionsmethode ist das Denken des Satz-Sinnes.
+
+### [Ts-202](/ts-202/#6r.3) <span class="fac">[6r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r3}
+
+<span class="series-number">3.12</span> Das Zeichen, durch welches wir den Gedanken ausdrücken, nenne ich das Satzzeichen. Und der Satz ist das Satzzeichen in seiner projektiven Beziehung zur Welt.
+
+### [Ts-202](/ts-202/#6r.4) <span class="fac">[6r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r4}
+
+<span class="series-number">3.13</span> Zum Satz gehört alles, was zur Projektion gehört; aber nicht das Projizierte.
+
+Also die Möglichkeit des Projizierten, aber nicht dieses selbst.
+
+Im Satz ist also sein Sinn noch nicht enthalten, wohl aber die Möglichkeit ihn auszudrücken.
+
+(„Der Inhalt des Satzes” heißt der Inhalt des sinnvollen Satzes.)
+
+Im Satz ist die Form seines Sinnes enthalten, aber nicht dessen Inhalt.
+
+### [Ts-202](/ts-202/#6r.5) <span class="fac">[6r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r5}
+
+<span class="series-number">3.14</span> Das Satzzeichen besteht darin, daß sich seine Elemente, die Wörter, in ihm auf bestimmte Art und Weise zu einander verhalten.
+
+Das Satzzeichen ist eine Tatsache.
+
+### [Ts-202](/ts-202/#6r.6) <span class="fac">[6r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r6}
+
+<span class="series-number">3.141</span> Der Satz ist kein Wörtergemisch. – (Wie das musikalische Thema kein Gemisch von Tönen.)
+
+Der Satz ist artikuliert.
+
+3.142 Nur Tatsachen können einen Sinn ausdrücken, eine Klasse von Namen kann es nicht.
+
+### [Ts-202](/ts-202/#6r.7) <span class="fac">[6r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r7}
+
+<span class="series-number">3.143</span> Daß das Satzzeichen eine Tatsache ist, wird durch die gewöhnliche Ausdrucksform der Schrift oder des Druckes verschleiert.
+
+Denn im gedruckten Satz z.B. sieht das Satzzeichen nicht wesentlich verschieden aus vom Wort.
+
+(So war es möglich, daß Frege den Satz einen zusammengesetzten Namen nannte.)
+
+### [Ts-202](/ts-202/#6r.8) <span class="fac">[6r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r8}
+
+<span class="series-number">3.1431</span> Sehr klar wird das Wesen des Satzzeichens, wenn wir es uns, statt aus Schriftzeichen, aus räumlichen Gegenständen (etwa Tischen, Stühlen, Büchern) zusammengesetzt denken.
+
+Die gegenseitige räumliche Lage dieser Dinge drückt dann den Sinn des Satzes aus.
+
+### [Ts-202](/ts-202/#6r.9) <span class="fac">[6r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r9}
+
+<span class="series-number">3.1432</span> Nicht: „Das komplexe Zeichen ‚aRb’ sagt, daß a in der Beziehung R zu b steht”, sondern: _Daß_ „a” in einer gewissen Beziehung zu „b” steht, sagt, _daß_ aRb.
+
+### [Ts-202](/ts-202/#6r.10) <span class="fac">[6r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/6r.webp)</span> {#ts-202-6r10}
+
+<span class="series-number">3.144</span> Sachlagen kann man beschreiben, nicht _benennen_.
+
+(Namen gleichen Punkten, Sätze Pfeilen, sie haben Sinn.)
+
+### [Ts-202](/ts-202/#7r.1) <span class="fac">[7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r1}
+
+<span class="series-number">3.2</span> Im Satze kann der Gedanke so ausgedrückt sein, daß den Gegenständen des Gedankens Elemente des Satzzeichens entsprechen.
+
+### [Ts-202](/ts-202/#7r.2) <span class="fac">[7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r2}
+
+<span class="series-number">3.201</span> Diese Elemente nenne ich „einfache Zeichen” und den Satz „vollständig analysiert”.
+
+### [Ts-202](/ts-202/#7r.3) <span class="fac">[7r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r3}
+
+<span class="series-number">3.202</span> Die im Satze angewandten einfachen Zeichen heißen Namen.
+
+### [Ts-202](/ts-202/#7r.4) <span class="fac">[7r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r4}
+
+<span class="series-number">3.203</span> Der Name bedeutet den Gegenstand. Der Gegenstand ist seine Bedeutung.
+
+(„A” ist dasselbe Zeichen wie „A”.)
+
+### [Ts-202](/ts-202/#7r.5) <span class="fac">[7r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r5}
+
+<span class="series-number">3.21</span> Der Konfiguration der einfachen Zeichen im Satzzeichen entspricht die Konfiguration der Gegenstände in der Sachlage.
+
+### [Ts-202](/ts-202/#7r.6) <span class="fac">[7r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r6}
+
+<span class="series-number">3.22</span> Der Name vertritt im Satz den Gegenstand.
+
+### [Ts-202](/ts-202/#7r.7) <span class="fac">[7r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r7}
+
+<span class="series-number">3.221</span> Die Gegenstände kann ich nur _nennen_. Zeichen vertreten sie. Ich kann nur _von_ ihnen sprechen, _sie aussprechen_ kann ich nicht. Ein Satz kann nur sagen, _wie_ ein Ding ist, nicht _was_ es ist.
+
+### [Ts-202](/ts-202/#7r.8) <span class="fac">[7r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r8}
+
+<span class="series-number">3.23</span> Die Forderung der Möglichkeit der einfachen Zeichen ist die Forderung der Bestimmtheit des Sinnes.
+
+### [Ts-202](/ts-202/#7r.9) <span class="fac">[7r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r9}
+
+<span class="series-number">3.24</span> Der Satz, welcher vom Komplex handelt, steht in interner Beziehung zum Satze, der von dessen Bestandteil handelt.
+
+Der Komplex kann nur durch seine Beschreibung gegeben sein, und diese wird stimmen oder nicht stimmen. Der Satz, in welchem von einem Komplex die Rede ist, wird, wenn dieser nicht existiert nicht unsinnig, sondern einfach falsch sein.
+
+Daß ein Satzelement einen Komplex bezeichnet, kann man aus einer Unbestimmtheit in den Sätzen sehen, worin es vorkommt. Wir _wissen_, durch diesen Satz ist noch nicht alles bestimmt. (Die Allgemeinheitsbezeichnung _enthält_ ja ein Urbild.)
+
+Die Zusammenfassung des Symbols eines Komplexes in ein einfaches Symbol kann durch eine Definition ausgedrückt werden.
+
+### [Ts-202](/ts-202/#7r.10) <span class="fac">[7r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r10}
+
+<span class="series-number">3.25</span> Es gibt eine und nur _eine_ vollständige Analyse des Satzes.
+
+### [Ts-202](/ts-202/#7r.11) <span class="fac">[7r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r11}
+
+<span class="series-number">3.251</span> Der Satz drückt auf bestimmte, klar angebbare Weise aus, was er ausdrückt: Der Satz ist artikuliert.
+
+### [Ts-202](/ts-202/#7r.12) <span class="fac">[7r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp)</span> {#ts-202-7r12}
+
+<span class="series-number">3.26</span> Der Name ist durch keine Definition weiter zu zergliedern: er ist ein Urzeichen.
+
+### [Ts-202](/ts-202/#7r.13+8r.1) <span class="fac">[7r\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/7r.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-7r138r1}
+
+<span class="series-number">3.261</span> Jedes definierte Zeichen bezeichnet _über_ jene Zeichen, durch welche es definiert wurde; und die Definitionen weisen den Weg.
+
+Zwei Zeichen, ein Urzeichen, und ein durch Urzeichen definiertes, können nicht auf dieselbe Art und Weise bezeichnen. Namen _kann_ man nicht durch Definitionen auseinanderlegen. (Kein Zeichen, welches allein, selbständig eine Bedeutung hat.)
+
+### [Ts-202](/ts-202/#8r.2) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r2}
+
+<span class="series-number">3.262</span> Was in den Zeichen nicht zum Ausdruck kommt, das zeigt ihre Anwendung.
+
+Was die Zeichen verschlucken, das spricht ihre Anwendung aus.
+
+### [Ts-202](/ts-202/#8r.3) <span class="fac">[8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r3}
+
+<span class="series-number">3.263</span> Die Bedeutungen von Urzeichen können durch Erläuterungen erklärt werden.
+
+Erläuterungen sind Sätze, welche die Urzeichen enthalten. Sie können also nur verstanden werden, wenn die Bedeutungen dieser Zeichen bereits bekannt sind.
+
+### [Ts-202](/ts-202/#8r.4) <span class="fac">[8r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r4}
+
+<span class="series-number">3.3</span> Nur der Satz hat Sinn; nur im Zusammenhange des Satzes hat ein Name Bedeutung.
+
+### [Ts-202](/ts-202/#8r.5) <span class="fac">[8r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r5}
+
+<span class="series-number">3.31</span> Jeden Teil des Satzes, der seinen Sinn charakterisiert nenne ich einen Ausdruck (ein Symbol).
+
+(Der Satz selbst ist ein Ausdruck.)
+
+Ausdruck ist alles, für den Sinn des Satzes wesentliche, was Sätze miteinander gemein haben können.
+
+Der Ausdruck kennzeichnet eine Form und einen Inhalt.
+
+### [Ts-202](/ts-202/#8r.6) <span class="fac">[8r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r6}
+
+<span class="series-number">3.311</span> Der Ausdruck setzt die Formen aller Sätze voraus, in welchen er vorkommen kann.
+
+Er ist das gemeinsame charakteristische Merkmal einer Klasse von Sätzen.
+
+### [Ts-202](/ts-202/#8r.7) <span class="fac">[8r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r7}
+
+<span class="series-number">3.312</span> Er wird also dargestellt durch die allgemeine Form der Sätze, die er charakterisiert.
+
+Und zwar wird in dieser Form der Ausdruck _konstant_ und alles übrige _variabel_ sein.
+
+### [Ts-202](/ts-202/#8r.8) <span class="fac">[8r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r8}
+
+<span class="series-number">3.313</span> Der Ausdruck wird also durch eine Variable dargestellt, deren Werte die Sätze sind, die den Ausdruck enthalten.
+
+(Im Grenzfall wird die Variable zur Konstanten, der Ausdruck zum Satz.)
+
+Ich nenne eine solche Variable „Satzvariable”.
+
+### [Ts-202](/ts-202/#8r.9) <span class="fac">[8r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r9}
+
+<span class="series-number">3.314</span> Der Ausdruck hat nur im Satz Bedeutung. Jede Variable läßt sich als Satzvariable auffassen.
+
+(Auch der variable Name.)
+
+### [Ts-202](/ts-202/#8r.10) <span class="fac">[8r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r10}
+
+<span class="series-number">3.315</span> Verwandeln wir einen Bestandteil eines Satzes in eine Variable, so gibt es eine Klasse von Sätzen, welche sämtlich Werte des so entstandenen variablen Satzes sind. Diese Klasse hängt im allgemeinen noch davon ab, was wir, nach willkürlicher Übereinkunft, mit Teilen jenes Satzes meinen. Verwandeln wir aber alle jene Zeichen, deren Bedeutung willkürlich bestimmt wurde, in Variable, so gibt es nun noch immer eine solche Klasse. Diese aber ist nun von keiner Übereinkunft abhängig, sondern nur noch von der Natur des Satzes. Sie entspricht einer logischen Form, – einem logischen Urbild.
+
+### [Ts-202](/ts-202/#8r.11) <span class="fac">[8r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp)</span> {#ts-202-8r11}
+
+<span class="series-number">3.316</span> Welche Werte die Satzvariable annehmen darf, wird festgesetzt.
+
+Die Festsetzung der Werte _ist_ die Variable.
+
+### [Ts-202](/ts-202/#8r.12+9r.1) <span class="fac">[8r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/8r.webp),[9r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-8r129r1}
+
+<span class="series-number">3.317</span> Die Festsetzung der Werte der Satzvariablen ist die _Angabe der Sätze_, deren gemeinsames Merkmal die Variable ist.
+
+Die Festsetzung ist eine Beschreibung dieser Sätze.
+
+Die Festsetzung wird also nur von Symbolen, nicht von deren Bedeutung handeln. Und _nur_ dies ist der Festsetzung wesentlich, _daß sie nur eine Beschreibung von Symbolen ist und nichts über das Bezeichnete aussagt._
+
+Wie die Beschreibung der Sätze geschieht, ist unwesentlich.
+
+### [Ts-202](/ts-202/#9r.2) <span class="fac">[9r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r2}
+
+<span class="series-number">3.318</span> Den Satz fasse ich – wie Frege und Russell – als Funktion der in ihm enthaltenen Ausdrücke auf.
+
+### [Ts-202](/ts-202/#9r.3) <span class="fac">[9r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r3}
+
+<span class="series-number">3.32</span> Das Zeichen ist das sinnlich Wahrnehmbare am Symbol.
+
+### [Ts-202](/ts-202/#9r.4) <span class="fac">[9r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r4}
+
+<span class="series-number">3.321</span> Zwei verschiedene Symbole können also das Zeichen (Schriftzeichen oder Lautzeichen etc.) miteinander gemein haben – sie bezeichnen dann auf verschiedene Art und Weise.
+
+### [Ts-202](/ts-202/#9r.5) <span class="fac">[9r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r5}
+
+<span class="series-number">3.322</span> Es kann nie das gemeinsame Merkmal zweier Gegenstände anzeigen, daß wir sie mit demselben Zeichen, aber durch zwei verschiedene _Bezeichnungsweisen_ bezeichnen. Denn das Zeichen ist ja willkürlich. Man könnte also auch zwei verschiedene Zeichen wählen, und wo bliebe dann das Gemeinsame in der Bezeichnung.
+
+### [Ts-202](/ts-202/#9r.6) <span class="fac">[9r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r6}
+
+<span class="series-number">3.323</span> In der Umgangssprache kommt es ungemein häufig vor, daß dasselbe Wort auf verschiedene Art und Weise bezeichnet – also verschiedenen Symbolen angehört –, oder, daß zwei Wörter, die auf verschiedene Art und Weise bezeichnen, äußerlich in der gleichen Weise im Satze angewandt werden.
+
+So erscheint das Wort „ist” als Kopula, als Gleichheitszeichen und als Ausdruck der Existenz; „existieren” als intransitives Zeitwort wie „gehen”; „identisch” als Eigenschaftswort; wir reden von _Etwas_, aber auch davon, daß _etwas_ geschieht.
+
+(Im Satze „Grün ist grün” – wo das erste Wort ein Personenname, das letzte ein Eigenschaftswort ist – haben diese Worte nicht einfach verschiedene Bedeutung, sondern es sind _verschiedene Symbole_.)
+
+### [Ts-202](/ts-202/#9r.7) <span class="fac">[9r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r7}
+
+<span class="series-number">3.324</span> So entstehen leicht die fundamentalsten Verwechslungen (deren die ganze Philosophie voll ist).
+
+### [Ts-202](/ts-202/#9r.8) <span class="fac">[9r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/9r.webp)</span> {#ts-202-9r8}
+
+<span class="series-number">3.325</span> Um diesen Irrtümern zu entgehen, müssen wir eine Zeichensprache verwenden, welche sie ausschließt, indem sie nicht das gleiche Zeichen in verschiedenen Symbolen, und Zeichen, welche auf verschiedene Art bezeichnen, nicht äußerlich auf die gleiche Art verwendet. Eine Zeichensprache also, die der _logischen_ Grammatik – der logischen Syntax – gehorcht.
+
+(Die Begriffsschrift Frege's und Russell's ist eine solche Sprache, die allerdings noch nicht alle Fehler ausschließt.)
+
+### [Ts-202](/ts-202/#10r.1) <span class="fac">[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r1}
+
+<span class="series-number">3.326</span> Um das Symbol am Zeichen zu erkennen, muß man auf den sinnvollen Gebrauch achten.
+
+### [Ts-202](/ts-202/#10r.2) <span class="fac">[10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r2}
+
+<span class="series-number">3.327</span> Das Zeichen bestimmt erst mit seiner logisch-syntaktischen Verwendung zusammen eine logische Form.
+
+### [Ts-202](/ts-202/#10r.3) <span class="fac">[10r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r3}
+
+<span class="series-number">3.328</span> Wird ein Zeichen _nicht gebraucht_, so ist es bedeutungslos. Das ist der Sinn der Devise Ockhams.
+
+(Wenn sich alles so verhält als hätte ein Zeichen Bedeutung, dann hat es auch Bedeutung.)
+
+### [Ts-202](/ts-202/#10r.4) <span class="fac">[10r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r4}
+
+<span class="series-number">3.33</span> In der logischen Syntax darf nie die Bedeutung eines Zeichens eine Rolle spielen; sie muß sich aufstellen lassen, ohne daß dabei von der _Bedeutung_ eines Zeichens die Rede wäre, sie darf _nur_ die Beschreibung der Ausdrücke voraussetzen.
+
+### [Ts-202](/ts-202/#10r.5) <span class="fac">[10r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r5}
+
+<span class="series-number">3.331</span> Von dieser Bemerkung sehen wir in Russell's „Theory of types” hinüber: Der Irrtum Russell's zeigt sich darin, daß er bei der Aufstellung der Zeichenregeln von der Bedeutung der Zeichen reden mußte.
+
+### [Ts-202](/ts-202/#10r.6) <span class="fac">[10r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r6}
+
+<span class="series-number">3.332</span> Kein Satz kann etwas über sich selbst aussagen, weil das Satzzeichen nicht in sich selbst enthalten sein kann (das ist die ganze „Theory of types”).
+
+### [Ts-202](/ts-202/#10r.7) <span class="fac">[10r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r7}
+
+<span class="series-number">3.333</span> Eine Funktion kann darum nicht ihr eigenes Argument sein, weil das Funktionszeichen bereits das Urbild seines Arguments enthält und es sich nicht selbst enthalten kann.
+
+Nehmen wir nämlich an, die Funktion F (fx) könnte ihr eigenes Argument sein; dann gäbe es also einen Satz: „F(F(fx))” und in diesem müssen die äußere Funktion F und die innere Funktion F verschiedene Bedeutungen haben, denn die innere hat die Form φ(fx), die äußere, die Form ψ(φ(fx)). Gemeinsam ist den beiden Funktionen nur der Buchstabe „F”, der aber allein nichts bezeichnet.
+
+Dies wird sofort klar, wenn wir statt „F(F(u))” schreiben „(∃φ):F(φ u)․φu = Fu”.
+
+Hiermit erledigt sich Russell's Paradox.
+
+### [Ts-202](/ts-202/#10r.8) <span class="fac">[10r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp)</span> {#ts-202-10r8}
+
+<span class="series-number">3.334</span> Die Regeln der logischen Syntax müssen sich von selbst verstehen, wenn man nur weiß, wie ein jedes Zeichen bezeichnet.
+
+### [Ts-202](/ts-202/#10r.9+10ar.1) <span class="fac">[10r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10r.webp),[10ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10r910ar1}
+
+<span class="series-number">3.34</span> Der Satz besitzt wesentliche und zufällige Züge.
+
+Zufällig sind die Züge, die von der besonderen Art der Hervorbringung des Satzzeichens herrühren. Wesentlich diejenigen, welche allein den Satz befähigen, seinen Sinn auszudrücken.
+
+### [Ts-202](/ts-202/#10ar.2) <span class="fac">[10ar\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar2}
+
+<span class="series-number">3.341</span> Das Wesentliche am Satz ist also das, was allen Sätzen, welche den gleichen Sinn ausdrücken können, gemeinsam ist.
+
+Und ebenso ist allgemein das Wesentliche am Symbol das, was alle Symbole, die denselben Zweck erfüllen können, gemeinsam haben.
+
+### [Ts-202](/ts-202/#10ar.3) <span class="fac">[10ar\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar3}
+
+<span class="series-number">3.3411</span> Man könnte also sagen: Der eigentliche Name ist das, was alle Symbole, die den Gegenstand bezeichnen, gemeinsam haben. Es würde sich so sukzessive ergeben, daß keinerlei Zusammensetzung für den Namen wesentlich ist.
+
+### [Ts-202](/ts-202/#10ar.4) <span class="fac">[10ar\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar4}
+
+<span class="series-number">3.342</span> An unseren Notationen ist zwar etwas willkürlich, aber _das_ ist nicht willkürlich: Daß, _wenn_ wir etwas willkürlich bestimmt haben, dann etwas anderes der Fall sein _muß_. (Dies hängt von dem _Wesen_ der Notation ab.)
+
+### [Ts-202](/ts-202/#10ar.5) <span class="fac">[10ar\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar5}
+
+<span class="series-number">3.3421</span> Eine besondere Bezeichnungsweise mag unwichtig sein, aber wichtig ist es immer, daß diese _eine mögliche_ Bezeichnungsweise ist.
+
+Und so verhält es sich in der Philosophie überhaupt: Das Einzelne erweist sich immer wieder als unwichtig, aber die Möglichkeit jedes Einzelnen gibt uns einen Aufschluß über das Wesen der Welt.
+
+### [Ts-202](/ts-202/#10ar.6) <span class="fac">[10ar\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar6}
+
+<span class="series-number">3.343</span> Definitionen sind Regeln der Übersetzung von einer Sprache in eine andere. Jede richtige Zeichensprache muß sich in jede andere nach solchen Regeln übersetzen lassen: _Dies_ ist, was sie alle gemeinsam haben.
+
+### [Ts-202](/ts-202/#10ar.7) <span class="fac">[10ar\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar7}
+
+<span class="series-number">3.344</span> Das was am Symbol bezeichnet, ist das Gemeinsame aller jener Symbole, durch welche das erste den Regeln der logischen Syntax zufolge ersetzt werden kann.
+
+### [Ts-202](/ts-202/#10ar.8) <span class="fac">[10ar\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar8}
+
+<span class="series-number">3.3441</span> Man kann z.B. das Gemeinsame aller Notationen für die Wahrheitsfunktionen so ausdrücken: Es ist ihnen gemeinsam, daß sich alle – z.B. – durch die Notation von „~p” („nicht p”) und „p⌵q” („p oder q”) _ersetzen lassen_.
+
+(Hiermit ist die Art und Weise gekennzeichnet, wie eine spezielle mögliche Notation uns allgemeine Aufschlüsse geben kann.)
+
+### [Ts-202](/ts-202/#10ar.9) <span class="fac">[10ar\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar9}
+
+<span class="series-number">3.3442</span> Das Zeichen des Komplexes löst sich auch bei der Analyse nicht willkürlich auf, so daß etwa seine Auflösung in jedem Satzgefüge eine andere wäre.
+
+### [Ts-202](/ts-202/#10ar.10) <span class="fac">[10ar\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar10}
+
+<span class="series-number">3.4</span> Der Satz bestimmt einen Ort im logischen Raum. Die Existenz dieses logischen Ortes ist durch die Existenz der Bestandteile allein verbürgt, durch die Existenz des sinnvollen Satzes.
+
+### [Ts-202](/ts-202/#10ar.11) <span class="fac">[10ar\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar11}
+
+<span class="series-number">3.41</span> Das Satzzeichen und die logischen Koordinaten: Das ist der logische Ort.
+
+### [Ts-202](/ts-202/#10ar.12) <span class="fac">[10ar\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/10ar.webp)</span> {#ts-202-10ar12}
+
+<span class="series-number">3.411</span> Der geometrische und der logische Ort stimmen darin überein, daß beide die Möglichkeit einer Existenz sind.
+
+### [Ts-203](/ts-203/#12r.12+13r.1) <span class="fac">[12r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/12r.webp),[13r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/13r.webp)</span> {#ts-203-12r1213r1}
+
+<span class="series-number">4.002</span> Der Mensch besitzt die Fähigkeit Sprachen zu bauen, womit sich jeder Sinn ausdrücken läßt, ohne eine Ahnung davon zu haben, wie und was jedes Wort bedeutet. – Wie man spricht ohne zu wissen, wie die einzelnen Laute hervorgebracht werden.
+
+Die Umgangssprache ist ein Teil des menschlichen Organismus, und nicht weniger kompliziert als dieser. Es ist menschenunmöglich, die Sprachlogik aus ihr unmittelbar zu entnehmen.
+
+Die Sprache verkleidet den Gedanken. Und zwar so, daß man nach der äußeren Form des Kleides, nicht auf die Form des bekleideten Gedankens schließen kann; weil die äußere Form des Kleides ganz anderen Zwecken dienen soll, als dem, die Form des Körpers erkennen zu lassen.
+
+Die stillschweigenden Abmachungen zum Verständnis der Umgangssprache sind enorm kompliziert.
+
+### [Ts-202](/ts-202/#11r.1) <span class="fac">[11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r1}
+
+<span class="series-number">3.42</span> Obwohl der Satz nur einen Ort des logischen Raumes bestimmen darf, so muß doch durch ihn schon der ganze logische Raum gegeben sein.
+
+(Sonst würden durch die Verneinung, die logische Summe, das logische Produkt, etc. immer neue Elemente – in Koordination – eingeführt.)
+
+(Das logische Gerüst um das Bild herum bestimmt den logischen Raum. Der Satz durchgreift den ganzen logischen Raum.)
+
+### [Ts-202](/ts-202/#11r.2) <span class="fac">[11r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r2}
+
+<span class="series-number">3.5</span> Das angewandte, gedachte, Satzzeichen ist der Gedanke.
+
+### [Ts-202](/ts-202/#11r.3) <span class="fac">[11r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r3}
+
+<span class="series-number">4</span> Der Gedanke ist der sinnvolle Satz.
+
+### [Ts-202](/ts-202/#11r.4) <span class="fac">[11r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r4}
+
+<span class="series-number">4.001</span> Die Gesamtheit der Sätze ist die Sprache.
+
+### [Ts-202](/ts-202/#11r.5) <span class="fac">[11r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r5}
+
+<span class="series-number">4.002</span> Der Mensch besitzt die Fähigkeit Sprachen zu bauen, womit sich jeder Sinn ausdrücken läßt, ohne eine Ahnung davon zu haben, wie und was jedes Wort bedeutet. – Wie man auch spricht, ohne zu wissen, wie die einzelnen Laute hervorgebracht werden.
+
+Die Umgangssprache ist ein Teil des menschlichen Organismus, und nicht weniger kompliziert als dieser.
+
+Es ist menschenunmöglich, die Sprachlogik aus ihr unmittelbar zu entnehmen.
+
+Die Sprache verkleidet den Gedanken. Und zwar so, daß man nach der äußeren Form des Kleides, nicht auf die Form des bekleideten Gedankens schließen kann; weil die äußere Form des Kleides nach ganz anderen Zwecken gebildet ist, als danach, die Form des Körpers erkennen zu lassen.
+
+Die stillschweigenden Abmachungen zum Verständnis der Umgangssprache sind enorm kompliziert.
+
+### [Ts-202](/ts-202/#11r.6) <span class="fac">[11r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r6}
+
+<span class="series-number">4.003</span> Die meisten Sätze und Fragen, welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. Wir können daher Fragen dieser Art überhaupt nicht beantworten, sondern nur ihre Unsinnigkeit feststellen. Die meisten Fragen und Sätze der Philosophen beruhen darauf, daß wir unsere Sprachlogik nicht verstehen.
+
+(Sie sind von der Art der Frage, ob das Gute mehr oder weniger identisch sei als das Schöne.)
+
+Und es ist nicht verwunderlich, daß die tiefsten Probleme eigentlich _keine_ Probleme sind.
+
+### [Ts-202](/ts-202/#11r.7) <span class="fac">[11r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r7}
+
+<span class="series-number">4.0031</span> Alle Philosophie ist „Sprachkritik”. (Allerdings nicht im Sinne Mauthners.) Russell's Verdienst ist es, gezeigt zu haben, daß die scheinbare logische Form des Satzes nicht seine wirkliche sein muß.
+
+### [Ts-202](/ts-202/#11r.8) <span class="fac">[11r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp)</span> {#ts-202-11r8}
+
+<span class="series-number">4.01</span> Der Satz ist ein Bild der Wirklichkeit.
+
+Der Satz ist ein Modell der Wirklichkeit, so wie wir sie uns denken.
+
+### [Ts-202](/ts-202/#11r.9+11av.1+11br.1+11bv.1+12r.1) <span class="fac">[11r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11r.webp),[11av\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11av.webp),[11br\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11br.webp),[11bv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/11bv.webp),[12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-11r911av111br111bv112r1}
+
+<span class="series-number">4.011</span> Auf den ersten Blick scheint der Satz – wie er etwa auf dem Papier gedruckt steht – kein Bild der Wirklichkeit zu sein, von der er handelt. Aber auch die Notenschrift scheint auf den ersten Blick kein Bild der Musik zu sein, und unsere Lautzeichen- (Buchstaben-)Schrift kein Bild unserer Lautsprache. Und doch erweisen sich diese Zeichensprachen auch im gewöhnlichen Sinne als Bilder dessen, was sie darstellen.
+
+### [Ts-202](/ts-202/#12r.2) <span class="fac">[12r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r2}
+
+<span class="series-number">4.012</span> Offenbar ist, daß wir einen Satz von der Form „aRb” als Bild empfinden. Hier ist das Zeichen offenbar ein Gleichnis des Bezeichneten.
+
+### [Ts-202](/ts-202/#12r.3) <span class="fac">[12r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r3}
+
+<span class="series-number">4.013</span> Und wenn wir in das Wesentliche dieser Bildhaftigkeit eindringen, so sehen wir, daß dieselbe durch _scheinbare Unregelmäßigkeiten_ (wie die Verwendung der # und ♭ in der Notenschrift) _nicht_ gestört wird.
+
+Denn auch diese Unregelmäßigkeiten bilden das ab, was sie ausdrücken sollen; nur auf eine andere Art und Weise.
+
+### [Ts-202](/ts-202/#12r.4) <span class="fac">[12r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r4}
+
+<span class="series-number">4.014</span> Die Grammophonplatte, der musikalische Gedanke, die Notenschrift, die Schallwellen, stehen alle in jener abbildenden internen Beziehung zueinander, die zwischen Sprache und Welt besteht.
+
+Ihnen allen ist der logische Bau gemeinsam.
+
+(Wie im Märchen die zwei Jünglinge, ihre zwei Pferde und ihre Lilien. Sie sind alle in gewissem Sinne Eins.)
+
+### [Ts-203](/ts-203/#14r.7) <span class="fac">[14r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/14r.webp)</span> {#ts-203-14r7}
+
+<span class="series-number">4.023</span> Die Wirklichkeit muß durch den Satz auf ja oder nein fixiert sein. Dazu muß sie durch ihn vollständig beschrieben werden.
+
+Der Satz ist die Beschreibung eines Sachverhaltes.
+
+Wie die Beschreibung einen Gegenstand nach seinen externen Eigenschaften, so beschreibt der Satz die Wirklichkeit nach ihren internen Eigenschaften.
+
+Der Satz konstruiert eine Welt mit Hilfe eines logischen Gerüstes und darum kann man am Satz auch sehen, wie sich alles Logische verhält, _wenn_ er wahr ist. Man kann aus einem falschen Satze _Schlüsse_ _ziehen._
+
+### [Ts-202](/ts-202/#12r.6) <span class="fac">[12r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r6}
+
+<span class="series-number">4.015</span> Die Möglichkeit aller Gleichnisse, der ganzen Bildhaftigkeit unserer Ausdrucksweise, ruht in der Logik der Abbildung.
+
+### [Ts-202](/ts-202/#12r.7) <span class="fac">[12r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r7}
+
+<span class="series-number">4.016</span> Um das Wesen des Satzes zu verstehen, denken wir an die Hieroglyphenschrift, welche die Tatsachen die sie beschreibt abbildet.
+
+Und aus ihr wurde die Buchstabenschrift, ohne das Wesentliche der Abbildung zu verlieren.
+
+### [Ts-202](/ts-202/#12r.8) <span class="fac">[12r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r8}
+
+<span class="series-number">4.02</span> Dies sehen wir daraus, daß wir den Sinn des Satzzeichens verstehen, ohne daß er uns erklärt wurde.
+
+### [Ts-202](/ts-202/#12r.9) <span class="fac">[12r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r9}
+
+<span class="series-number">4.021</span> Der Satz ist ein Bild der Wirklichkeit: Denn ich kenne die von ihm dargestellte Sachlage, wenn ich den Satz verstehe. Und den Satz verstehe ich, ohne daß mir sein Sinn erklärt wurde.
+
+### [Ts-202](/ts-202/#12r.10) <span class="fac">[12r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r10}
+
+<span class="series-number">4.022</span> Der Satz _zeigt_ seinen Sinn.
+
+Der Satz _zeigt_, wie es sich verhält, _wenn_ er wahr ist.
+
+Und er _sagt, daß_ es sich so verhält.
+
+### [Ts-202](/ts-202/#12r.11) <span class="fac">[12r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span> {#ts-202-12r11}
+
+<span class="series-number">4.023</span> Die Wirklichkeit muß durch den Satz auf ja oder nein fixiert sein.
+
+Dazu muß sie durch ihn vollständig beschrieben werden.
+
+Der Satz ist die Beschreibung eines Sachverhaltes.
+
+Wie die Beschreibung einen Gegenstand nach seinen externen Eigenschaften, so beschreibt der Satz die Wirklichkeit nach ihren internen Eigenschaften.
+
+Der Satz konstruiert eine Welt mit Hilfe eines logischen Gerüstes und darum kann man am Satz auch sehen, wie sich alles Logische verhält, _wenn_ er wahr ist. Man kann aus einem falschen Satz _Schlüsse_ _ziehen_.
+
+### [Ts-202](/ts-202/#13r.1) <span class="fac">[13r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r1}
+
+<span class="series-number">4.024</span> Einen Satz verstehen, heißt, wissen was der Fall ist, wenn er wahr ist.
+
+(Man kann ihn also verstehen, ohne zu wissen, ob er wahr ist.)
+
+Man versteht ihn, wenn man seine Bestandteile versteht.
+
+### [Ts-202](/ts-202/#13r.2) <span class="fac">[13r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r2}
+
+<span class="series-number">4.025</span> Die Übersetzung einer Sprache in eine andere geht nicht so vor sich, daß man jeden _Satz_ der einen in einen _Satz_ der anderen übersetzt, sondern nur die Satzbestandteile werden übersetzt.
+
+(Und das Wörterbuch übersetzt nicht nur Substantiva, sondern auch Zeit-, Eigenschafts- und in Bindewörter etc.; und es behandelt sie alle gleich.)
+
+### [Ts-202](/ts-202/#13r.3) <span class="fac">[13r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r3}
+
+<span class="series-number">4.026</span> Die Bedeutungen der einfachen Zeichen (der Wörter) müssen uns erklärt werden, daß wir sie verstehen.
+
+Mit den Sätzen aber verständigen wir uns.
+
+### [Ts-202](/ts-202/#13r.4) <span class="fac">[13r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r4}
+
+<span class="series-number">4.027</span> Es liegt im Wesen des Satzes, daß er uns einen _neuen_ Sinn mitteilen kann.
+
+### [Ts-202](/ts-202/#13r.5) <span class="fac">[13r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r5}
+
+<span class="series-number">4.03</span> Ein Satz muß mit alten Ausdrücken einen neuen Sinn mitteilen.
+
+Der Satz teilt uns eine Sachlage mit, also muß er _wesentlich_ mit der Sachlage zusammenhängen.
+
+Und der Zusammenhang ist eben, daß er ihr logisches Bild ist.
+
+Der Satz sagt nur insoweit etwas aus, als er ein Bild ist.
+
+### [Ts-202](/ts-202/#13r.6) <span class="fac">[13r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r6}
+
+<span class="series-number">4.031</span> Im Satz wird gleichsam eine Sachlage probeweise zusammengestellt.
+
+Man kann geradezu sagen: statt, dieser Satz hat diesen und diesen Sinn; dieser Satz stellt diese und diese Sachlage dar.
+
+### [Ts-202](/ts-202/#13r.7) <span class="fac">[13r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r7}
+
+<span class="series-number">4.0311</span> Ein Name steht für ein Ding, ein anderer für ein anderes Ding _und untereinander sind sie verbunden; so stellt das Ganze – wie ein lebendes Bild – den Sachverhalt vor._
+
+### [Ts-202](/ts-202/#13r.8) <span class="fac">[13r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r8}
+
+<span class="series-number">4.0312</span> Die Möglichkeit des Satzes beruht auf dem Prinzip der Vertretung von Gegenständen durch Zeichen.
+
+Mein Grundgedanke ist, daß die „logischen Konstanten” nicht vertreten. Daß sich die _Logik_ der Tatsachen nicht vertreten läßt.
+
+### [Ts-202](/ts-202/#13r.9) <span class="fac">[13r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r9}
+
+<span class="series-number">4.032</span> Nur insoweit ist der Satz ein Bild einer Sachlage, als er logisch gegliedert ist.
+
+(Auch der Satz „ambulo” ist zusammengesetzt, denn sein Stamm ergibt mit einer anderen Endung, und seine Endung mit einem anderen Stamm, einen anderen Sinn.)
+
+### [Ts-202](/ts-202/#13r.10) <span class="fac">[13r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r10}
+
+<span class="series-number">4.04</span> Am Satz muß gerade soviel zu unterscheiden sein, als an der Sachlage die er darstellt.
+
+Die beiden müssen die gleiche logische (mathematische) Mannigfaltigkeit besitzen. (Vergleiche Hertz' Mechanik, über dynamische Modelle.)
+
+### [Ts-202](/ts-202/#13r.11) <span class="fac">[13r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/13r.webp)</span> {#ts-202-13r11}
+
+<span class="series-number">4.041</span> Diese mathematische Mannigfaltigkeit kann man natürlich nicht selbst wieder abbilden. Aus ihr kann man beim Abbilden nicht heraus.
+
+### [Ts-202](/ts-202/#14r.1) <span class="fac">[14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r1}
+
+<span class="series-number">4.0411</span> Wollten wir z.B. das, was wir durch „(x)․fx” ausdrücken, durch Vorsetzen eines Indexes vor „fx” ausdrücken – etwa so: „Alg.fx”, es würde nicht genügen – wir wüßten nicht, was verallgemeinert wurde.
+
+Wollten wir es durch einen Index „a” anzeigen – etwa so: „<math class="stacked" display="inline"><mtext>f(</mtext><msub><mi>x</mi><mi>a</mi></msub><mo>)</mo></math>” – es würde auch nicht genügen – wir wüßten nicht den Bereich der Allgemeinheitsbezeichnung.
+
+Wollten wir es durch Einführung einer Marke in die Argumentstellen versuchen – etwa so: „(A, A)․F(A, A) – es würde nicht genügen – wir könnten die Identität der Variablen nicht feststellen. U.s.w.
+
+Alle diese Bezeichnungsweisen genügen nicht, weil sie nicht die notwendige mathematische Mannigfaltigkeit haben.
+
+### [Ts-202](/ts-202/#14r.2) <span class="fac">[14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r2}
+
+<span class="series-number">4.0412</span> Aus demselben Grunde genügt die idealistische Erklärung des Sehens der räumlichen Beziehungen durch die „Raumbrille” nicht, weil sie nicht die Mannigfaltigkeit dieser Beziehungen erklären kann.
+
+### [Ts-202](/ts-202/#14r.3) <span class="fac">[14r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r3}
+
+<span class="series-number">4.05</span> Die Wirklichkeit wird mit dem Satz verglichen.
+
+### [Ts-202](/ts-202/#14r.4) <span class="fac">[14r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r4}
+
+<span class="series-number">4.06</span> Nur dadurch kann der Satz wahr oder falsch sein, indem er ein Bild der Wirklichkeit ist.
+
+### [Ts-202](/ts-202/#14r.5) <span class="fac">[14r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r5}
+
+<span class="series-number">4.061</span> Beachtet man nicht, daß der Satz einen von den Tatsachen unabhängigen Sinn hat, so kann man leicht glauben, daß wahr und falsch gleichberechtigte Beziehungen von Zeichen und Bezeichnetem sind.
+
+Man könnte dann z.B. sagen, daß „p” auf die wahre Art bezeichnet, was „~p” auf die falsche Art, etc.
+
+### [Ts-202](/ts-202/#14r.6) <span class="fac">[14r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r6}
+
+<span class="series-number">4.062</span> Kann man sich nicht mit falschen Sätzen, wie bisher mit wahren, verständigen? Solange man nur weiß, daß sie falsch gemeint sind. Nein! Denn, wahr ist ein Satz, wenn es sich so verhält, wie wir es durch ihn sagen; und wenn wir mit „p” ~p meinen, und es sich so verhält wie wir es meinen, so ist „p” in der neuen Auffassung wahr und nicht falsch.
+
+### [Ts-202](/ts-202/#14r.7) <span class="fac">[14r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp)</span> {#ts-202-14r7}
+
+<span class="series-number">4.0621</span> Daß aber die Zeichen „p” und „~p” das Gleiche sagen _können_, ist wichtig. Denn es zeigt, daß dem Zeichen „~” in der Wirklichkeit nichts entspricht.
+
+Daß in einem Satz die Verneinung vorkommt ist noch kein Merkmal seines Sinnes (~~p = p).
+
+Die Sätze „p” und „~p” haben entgegengesetzten Sinn, aber es entspricht ihnen eine und dieselbe Wirklichkeit.
+
+### [Ts-202](/ts-202/#14r.8+15r.1) <span class="fac">[14r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/14r.webp),[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp)</span> {#ts-202-14r815r1}
+
+<span class="series-number">4.063</span> Ein Bild zur Erklärung des Wahrheitsbegriffes: Schwarzer Fleck auf weißem Papier; die Form des Fleckes kann man beschreiben, indem man für jeden Punkt der Fläche angibt, ob er weiß oder schwarz ist. Der Tatsache, daß ein Punkt schwarz ist, entspricht eine positive-, der, daß ein Punkt weiß (nicht schwarz) ist, eine negative Tatsache. Bezeichne ich einen Punkt der Fläche (einen Frege'schen Wahrheitswert), so entspricht dies der Annahme, die zur Beurteilung aufgestellt wird etc. etc.
+
+Um aber sagen zu können, ein Punkt sei schwarz oder weiß, muß ich vorerst wissen, wann man einen Punkt schwarz und wann man ihn weiß nennt; um sagen zu können, „p” ist wahr (oder falsch), muß ich bestimmt haben, unter welchen Umständen ich „p” wahr nenne, und damit bestimme ich den Sinn des Satzes.
+
+Der Punkt an dem das Gleichnis hinkt ist nun der: Wir können auf einen Punkt des Papieres zeigen, auch ohne zu wissen, was weiß und schwarz ist; einem Satz ohne Sinn aber entspricht gar nichts, denn er bezeichnet kein Ding (Wahrheitswert) dessen Eigenschaften etwa „falsch” oder „wahr” hießen; das Verbum eines Satzes ist nicht „ist wahr” oder „ist falsch” – wie Frege glaubte –, sondern das, was „wahr ist” muß das Verbum schon enthalten.
+
+### [Ts-202](/ts-202/#15r.2) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp)</span> {#ts-202-15r2}
+
+<span class="series-number">4.064</span> Jeder Satz muß _schon_ einen Sinn haben; die Bejahung kann ihn ihm nicht geben, denn sie bejaht ja gerade den Sinn. Und dasselbe gilt von der Verneinung etc.
+
+### [Ts-202](/ts-202/#15r.3) <span class="fac">[15r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp)</span> {#ts-202-15r3}
+
+<span class="series-number">4.0641</span> Man könnte sagen: Die Verneinung bezieht sich schon auf den logischen Ort, den der verneinte Satz bestimmt.
+
+Der verneinende Satz bestimmt einen _anderen_ logischen Ort als der verneinte.
+
+Der verneinende Satz bestimmt einen logischen Ort mit Hilfe des logischen Ortes des verneinten Satzes, indem er jenen außerhalb diesem liegend beschreibt.
+
+Daß man den verneinten Satz wieder verneinen kann, zeigt schon, daß das, was verneint wird, schon ein Satz und nicht erst die Vorbereitung zu einem Satze ist.
+
+### [Ts-202](/ts-202/#15r.4) <span class="fac">[15r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp)</span> {#ts-202-15r4}
+
+<span class="series-number">4.1</span> Der Satz stellt das Bestehen und Nichtbestehen der Sachverhalte dar.
+
+### [Ts-202](/ts-202/#15r.5) <span class="fac">[15r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp)</span> {#ts-202-15r5}
+
+<span class="series-number">4.11</span> Die Gesamtheit der wahren Sätze ist die gesamte Naturwissenschaft (oder die Gesamtheit der Naturwissenschaften).
+
+### [Ts-202](/ts-202/#15r.6) <span class="fac">[15r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp)</span> {#ts-202-15r6}
+
+<span class="series-number">4.111</span> Die Philosophie ist keine der Naturwissenschaften.
+
+(Das Wort „Philosophie” muß etwas bedeuten, das über oder unter, aber nicht neben den Naturwissenschaften steht.)
+
+### [Ts-202](/ts-202/#15r.7+15av.1+16r.1) <span class="fac">[15r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15r.webp),[15av\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15av.webp),[16r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-15r715av116r1}
+
+<span class="series-number">4.112</span> Der Zweck der Philosophie ist die logische Klärung der Gedanken.
+
+Die Philosophie ist keine Lehre, sondern eine Tätigkeit.
+
+Ein philosophisches Werk besteht wesentlich aus Erläuterungen. Das Resultat der Philosophie sind nicht „philosophische Sätze”, sondern das Klarwerden von Sätzen.
+
+Die Philosophie soll die Gedanken, die sonst, gleichsam, trübe und verschwommen sind, klar machen und scharf abgrenzen.
+
+### [Ts-202](/ts-202/#16r.2) <span class="fac">[16r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r2}
+
+<span class="series-number">4.1121</span> Die Psychologie ist der Philosophie nicht verwandter als irgend eine andere Naturwissenschaft.
+
+Erkenntnistheorie ist die Philosophie der Psychologie.
+
+Entspricht nicht mein Studium der Zeichensprache dem Studium der Denkprozesse, welches die Philosophen für die Philosophie der Logik für so wesentlich hielten? Nur verwickelten sie sich meistens in unwesentliche psychologische Untersuchungen und eine analoge Gefahr gibt es auch bei meiner Methode.
+
+### [Ts-202](/ts-202/#15av.1-relocated) <span class="fac">[15av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/15av.webp)</span> {#ts-202-15av1-relocated}
+
+<span class="series-number">4.1122</span> Die Darwinsche Theorie hat mit der Philosophie nicht mehr zu schaffen, als irgend eine andere Hypothese der Naturwissenschaft.
+
+### [Ts-202](/ts-202/#16r.3) <span class="fac">[16r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r3}
+
+<span class="series-number">4.113</span> Die Philosophie begrenzt das bestreitbare Gebiet der Naturwissenschaft.
+
+### [Ts-202](/ts-202/#16r.4) <span class="fac">[16r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r4}
+
+<span class="series-number">4.114</span> Sie soll das Denkbare abgrenzen und damit das Undenkbare.
+
+Sie soll das Undenkbare von innen durch das Denkbare begrenzen.
+
+### [Ts-202](/ts-202/#16r.5) <span class="fac">[16r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r5}
+
+<span class="series-number">4.115</span> Sie wird das Unsagbare bedeuten, indem sie das Sagbare klar darstellt.
+
+### [Ts-202](/ts-202/#16r.6) <span class="fac">[16r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r6}
+
+<span class="series-number">4.116</span> Alles was überhaupt gedacht werden kann, kann klar gedacht werden. Alles was sich aussprechen läßt, läßt sich klar aussprechen.
+
+### [Ts-202](/ts-202/#16r.7) <span class="fac">[16r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r7}
+
+<span class="series-number">4.12</span> Der Satz kann die gesamte Wirklichkeit darstellen, aber er kann nicht das darstellen, was er mit der Wirklichkeit gemein haben muß, um sie darstellen zu können – die logische Form.
+
+Um die logische Form darstellen zu können, müßten wir uns mit dem Satze außerhalb der Logik aufstellen können, das heißt außerhalb der Welt.
+
+### [Ts-202](/ts-202/#16r.8) <span class="fac">[16r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r8}
+
+<span class="series-number">4.121</span> Der Satz kann die logische Form nicht darstellen, sie spiegelt sich in ihm.
+
+Was sich in der Sprache spiegelt, kann sie nicht darstellen.
+
+Was _sich_ in der Sprache ausdrückt, können _wir_ nicht durch sie ausdrücken.
+
+Der Satz _zeigt_ die logische Form der Wirklichkeit.
+
+Er weist sie auf.
+
+### [Ts-202](/ts-202/#16r.9) <span class="fac">[16r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r9}
+
+<span class="series-number">4.1211</span> So zeigt ein Satz „fa”, daß in seinem Sinn der Gegenstand a vorkommt, zwei Sätze „fa” und „ga”, daß in ihnen beiden von demselben Gegenstand die Rede ist.
+
+Wenn zwei Sätze einander widersprechen, so zeigt dies ihre Struktur; ebenso, wenn einer aus dem anderen folgt. U.s.w.
+
+### [Ts-202](/ts-202/#16r.10) <span class="fac">[16r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r10}
+
+<span class="series-number">4.1212</span> Was gezeigt werden _kann, kann_ nicht gesagt werden.
+
+### [Ts-202](/ts-202/#16r.11) <span class="fac">[16r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/16r.webp)</span> {#ts-202-16r11}
+
+<span class="series-number">4.1213</span> Jetzt verstehen wir auch unser Gefühl: daß wir im Besitze einer richtigen logischen Auffassung seien, wenn nur einmal alles in unserer Zeichensprache stimmt.
+
+### [Ts-203](/ts-203/#19r.8+20r.1) <span class="fac">[19r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/19r.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/20r.webp)</span> {#ts-203-19r820r1}
+
+<span class="series-number">4.1252</span> Reihen, welche durch _interne_ Relationen geordnet sind, nenne ich Formenreihen.
+
+Die Zahlenreihe ist nicht nach einer externen, sondern nach einer internen Relation geordnet. Ebenso die Reihe der Sätze „aRb”, „(Ex) :aRx.xRb”, „(Ex,y) :aRx.xRy.yRb”, u.s.f.
+
+(Steht b in einer dieser Beziehungen zu a, so nenne ich es einen Nachfolger von a.)
+
+### [Ts-202](/ts-202/#17r.1) <span class="fac">[17r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r1}
+
+<span class="series-number">4.122</span> Wir können in gewissem Sinne von formalen Eigenschaften der Gegenstände und Sachverhalte bezw. von Eigenschaften der Struktur der Tatsachen reden und in demselben Sinne von formalen Relationen und Relationen von Strukturen.
+
+(Statt Eigenschaft der Struktur sage ich auch „interne Eigenschaft”; statt Relation der Strukturen „interne Relation”.
+
+Ich führe diese Ausdrücke ein, um den Grund der, bei den Philosophen sehr verbreiteten Verwechslung zwischen den internen Relationen und den eigentlichen (externen) Relationen zu zeigen.)
+
+Das Bestehen solcher internen Eigenschaften und Relationen kann aber nicht durch Sätze behauptet werden, sondern es zeigt sich in den Sätzen, welche jene Sachverhalte darstellen und von jenen Gegenständen handeln.
+
+### [Ts-202](/ts-202/#17r.2) <span class="fac">[17r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r2}
+
+<span class="series-number">4.1221</span> Eine interne Eigenschaft einer Tatsache können wir auch einen Zug dieser Tatsache nennen. (In dem Sinn, in welchem wir etwa von Gesichtszügen sprechen.)
+
+### [Ts-202](/ts-202/#17r.3) <span class="fac">[17r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r3}
+
+<span class="series-number">4.123</span> Eine Eigenschaft ist intern, wenn es undenkbar ist, daß ihr Gegenstand sie nicht besitzt.
+
+(Diese blaue Farbe und jene stehen in der internen Relation von heller und dunkler eo ipso. Es ist undenkbar, daß _diese_ beiden Gegenstände nicht in dieser Relation stünden.)
+
+(Hier entspricht dem schwankenden Gebrauch der Worte „Eigenschaft” und „Relation” der schwankende Gebrauch des Wortes „Gegenstand”.)
+
+### [Ts-202](/ts-202/#17r.4) <span class="fac">[17r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r4}
+
+<span class="series-number">4.124</span> Das Bestehen einer internen Eigenschaft einer möglichen Sachlage wird nicht durch einen Satz ausgedrückt, sondern es drückt sich in dem sie darstellenden Satz, durch eine interne Eigenschaft dieses Satzes aus.
+
+Es wäre ebenso unsinnig, dem Satze eine formale Eigenschaft zuzusprechen, als sie ihm abzusprechen.
+
+### [Ts-202](/ts-202/#17r.5) <span class="fac">[17r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r5}
+
+<span class="series-number">4.1241</span> Formen kann man nicht dadurch von einander unterscheiden, daß man sagt, die eine habe diese, die andere aber jene Eigenschaft; denn dies setzt voraus, daß es einen Sinn habe, beide Eigenschaften von beiden Formen auszusagen.
+
+### [Ts-202](/ts-202/#17r.6) <span class="fac">[17r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r6}
+
+<span class="series-number">4.125</span> Das Bestehen einer internen Relation zwischen möglichen Sachlagen drückt sich sprachlich durch eine interne Relation zwischen den sie darstellenden Sätzen aus.
+
+### [Ts-202](/ts-202/#17r.7) <span class="fac">[17r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r7}
+
+<span class="series-number">4.1251</span> Hier erledigt sich nun die Streitfrage „ob alle Relationen intern oder extern” seien.
+
+### [Ts-202](/ts-202/#17r.8) <span class="fac">[17r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/17r.webp)</span> {#ts-202-17r8}
+
+<span class="series-number">4.1252</span> Reihen, welche durch _interne_ Relationen geordnet sind, nenne ich Formenreihen.
+
+Die Zahlenreihe ist nicht nach einer externen, sondern nach einer internen Relation geordnet.
+
+Ebenso die Reihe der Sätze „aRb”, „(∃x):aRx.xRb”, „(∃x,y):aRx.xRy.yRb”, u.s.f.
+
+(Steht b in einer dieser Beziehungen zu a, so nenne ich b einen Nachfolger von a.)
+
+### [Ts-202](/ts-202/#18r.1) <span class="fac">[18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/18r.webp)</span> {#ts-202-18r1}
+
+<span class="series-number">4.126</span> In dem Sinne, in welchem wir von formalen Eigenschaften sprechen, können wir nun auch von formalen Begriffen reden.
+
+(Ich führe diesen Ausdruck ein, um den Grund der Verwechslung der formalen Begriffe mit den eigentlichen Begriffen, welche die ganze alte Logik durchzieht, klar zu machen.)
+
+Daß etwas unter einen formalen Begriff als dessen Gegenstand fällt, kann nicht durch einen Satz ausgedrückt werden. Sondern es zeigt sich an dem Zeichen dieses Gegenstandes selbst. (Der Name zeigt, daß er einen Gegenstand bezeichnet, das Zahlzeichen, daß es eine Zahl bezeichnet etc.)
+
+Die formalen Begriffe können ja nicht, wie die eigentlichen Begriffe, durch eine Funktion dargestellt werden.
+
+Denn ihre Merkmale, die formalen Eigenschaften, werden nicht durch Funktionen ausgedrückt.
+
+Der Ausdruck der formalen Eigenschaft ist ein Zug gewisser Symbole. Das Zeichen der Merkmale eines formalen Begriffes ist also ein charakteristischer Zug aller Symbole, deren Bedeutungen unter den Begriff fallen.
+
+Der Ausdruck des formalen Begriffes also, eine Satzvariable, in welcher nur dieser charakteristische Zug konstant ist.
+
+### [Ts-202](/ts-202/#18r.2) <span class="fac">[18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/18r.webp)</span> {#ts-202-18r2}
+
+<span class="series-number">4.127</span> Die Satzvariable bezeichnet den formalen Begriff und ihre Werte die Gegenstände, welche unter diesen Begriff fallen.
+
+### [Ts-202](/ts-202/#18r.3) <span class="fac">[18r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/18r.webp)</span> {#ts-202-18r3}
+
+<span class="series-number">4.1271</span> Jede Variable ist das Zeichen eines formalen Begriffes.
+
+Denn jede Variable stellt eine konstante Form dar, welche alle ihre Werte besitzen, und die als formale Eigenschaft dieser Werte aufgefaßt werden kann.
+
+### [Ts-202](/ts-202/#18r.4+18av.1+19r.1) <span class="fac">[18r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/18r.webp),[18av\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/18av.webp),[19r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-18r418av119r1}
+
+<span class="series-number">4.1272</span> So ist der variable Name „x” das eigentliche Zeichen des Scheinbegriffes _Gegenstand_.
+
+Wo immer das Wort „Gegenstand” („Ding”, „Sache”, etc.) richtig gebraucht wird, wird es in der Begriffsschrift durch den variablen Namen ausgedrückt.
+
+Zum Beispiel in dem Satz „es gibt 2 Gegenstände, welche …” durch „(∃x,y)…”.
+
+Wo immer es anders, also als eigentliches Begriffswort gebraucht wird, entstehen unsinnige Scheinsätze.
+
+So kann man z.B. nicht sagen „Es gibt Gegenstände.”, wie man etwa sagt „Es gibt Bücher.”. Und ebenso wenig „Es gibt 100 Gegenstände.” oder „Es gibt <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math> Gegenstände.”
+
+Und es ist unsinnig, von der _Anzahl aller Gegenstände_ zu sprechen.
+
+<math display="inline"></math> Dasselbe gilt von den Worten „Komplex”, „Tatsache”, „Funktion”, „Zahl”, etc.
+
+Sie alle bezeichnen formale Begriffe und werden in der Begriffsschrift durch Variable, nicht durch Funktionen oder Klassen dargestellt. (Wie Frege und Russell glaubten.)
+
+Ausdrücke wie „1 ist eine Zahl”, „es gibt nur Eine Null” und alle ähnlichen sind unsinnig.
+
+(Es ist ebenso unsinnig zu sagen „es gibt nur eine 1”, als es unsinnig wäre, zu sagen: 2 + 2 ist um 3 Uhr gleich 4.)
+
+### [Ts-202](/ts-202/#18av.1-relocated) <span class="fac">[18av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/18av.webp)</span> {#ts-202-18av1-relocated}
+
+<span class="series-number">4.12721</span> Der formale Begriff ist mit einem Gegenstand, der unter ihn fällt, bereits gegeben. Man kann also nicht Gegenstände eines formalen Begriffs _und_ den formalen Begriff selbst als Grundbegriffe einführen. Man kann also z.B. nicht den Begriff der Funktion, und auch spezielle Funktionen (wie Russell) als Grundbegriffe einführen; oder den Begriff der Zahl und bestimmte Zahlen.
+
+### [Ts-202](/ts-202/#19r.2) <span class="fac">[19r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-19r2}
+
+<span class="series-number">4.1273</span> Wollen wir den allgemeinen Satz: „b ist ein Nachfolger von a” in der Begriffsschrift ausdrücken, so brauchen wir hierzu einen Ausdruck für das allgemeine Glied der Formenreihe: aRb, (∃x):aRx.xRb, (∃x,y):aRx.xRy.yRb, ..... . Das allgemeine Glied einer Formenreihe kann man nur durch eine Variable ausdrücken, denn der Begriff: Glied dieser Formenreihe, ist ein _formaler_ Begriff. (Dies haben Frege und Russell übersehen; die Art und Weise wie sie allgemeine Sätze, wie den obigen, ausdrücken wollen, ist daher falsch; sie enthält einen circulus vitiosus.)
+
+Wir können das allgemeine Glied der Formenreihe bestimmen, indem wir ihr erstes Glied angeben und die allgemeine Form der Operation, welche das folgende Glied aus dem vorhergehenden Satz erzeugt.
+
+### [Ts-202](/ts-202/#19r.3) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-19r3}
+
+<span class="series-number">4.1274</span> Die Frage nach der Existenz eines formalen Begriffes ist unsinnig. Denn kein Satz kann eine solche Frage beantworten.
+
+(Man kann also z.B. nicht fragen: „Gibt es unanalysierbare SubjektPrädikatsätze?”)
+
+### [Ts-202](/ts-202/#19r.4) <span class="fac">[19r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-19r4}
+
+<span class="series-number">4.128</span> Die logischen Formen sind zahl**los**.
+
+Darum gibt es in der Logik keine ausgezeichneten Zahlen und darum gibt es keinen philosophischen Monismus oder Dualismus, etc.
+
+### [Ts-202](/ts-202/#19r.5) <span class="fac">[19r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-19r5}
+
+<span class="series-number">4.2</span> Der Sinn des Satzes ist seine Übereinstimmung, und Nichtübereinstimmung mit den Möglichkeiten des Bestehens und Nichtbestehens der Sachverhalte.
+
+### [Ts-202](/ts-202/#19r.6) <span class="fac">[19r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-19r6}
+
+<span class="series-number">4.21</span> Der einfachste Satz, der Elementarsatz, behauptet das Bestehen eines Sachverhaltes.
+
+### [Ts-202](/ts-202/#19r.7) <span class="fac">[19r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19r.webp)</span> {#ts-202-19r7}
+
+<span class="series-number">4.211</span> Ein Zeichen des Elementarsatzes ist es, daß kein Elementarsatz mit ihm in Widerspruch stehen kann.
+
+### [Ts-202](/ts-202/#19ar.1) <span class="fac">[19ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar1}
+
+<span class="series-number">4.22</span> Der Elementarsatz besteht aus Namen. Er ist ein Zusammenhang, eine Verkettung, von Namen.
+
+### [Ts-202](/ts-202/#19ar.2) <span class="fac">[19ar\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar2}
+
+<span class="series-number">4.221</span> Es ist offenbar, daß wir bei der Analyse der Sätze auf Elementarsätze kommen müssen, die aus Namen in unmittelbarer Verbindung bestehen.
+
+Es frägt sich hier, wie kommt der Satzverband zustande.
+
+### [Ts-202](/ts-202/#19ar.3) <span class="fac">[19ar\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar3}
+
+<span class="series-number">4.2211</span> Auch wenn die Welt unendlich komplex ist, so daß jede Tatsache aus unendlich vielen Sachverhalten besteht und jeder Sachverhalt aus unendlich vielen Gegenständen zusammengesetzt ist, auch dann müßte es Gegenstände und Sachverhalte geben.
+
+### [Ts-202](/ts-202/#19ar.4) <span class="fac">[19ar\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar4}
+
+<span class="series-number">4.23</span> Der Name kommt im Satz nur im Zusammenhange des Elementarsatzes vor.
+
+### [Ts-202](/ts-202/#19ar.5) <span class="fac">[19ar\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar5}
+
+<span class="series-number">4.24</span> Die Namen sind die einfachen Symbole, ich deute sie durch einzelne Buchstaben („x”, „y”, „z”) an.
+
+Den Elementarsatz schreibe ich als Funktion der Namen in der Form: „fx”, „φ(x,y)”, etc.
+
+Oder ich deute ihn durch die Buchstaben p, q, r, an.
+
+### [Ts-202](/ts-202/#19ar.6) <span class="fac">[19ar\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar6}
+
+<span class="series-number">4.241</span> Gebrauche ich zwei Zeichen in ein und derselben Bedeutung, so drücke ich dies aus, indem ich zwischen beide das Zeichen „ = ” setze.
+
+„a = b” heißt also, das Zeichen „a” ist durch das Zeichen „b” ersetzbar.
+
+(Führe ich durch eine Gleichung ein neues Zeichen „b” ein, indem ich bestimme, es solle ein bereits bekanntes Zeichen „a” ersetzen, so schreibe ich die Gleichung – Definition – (wie Russell) in der Form „a = b Def”. Die Definition ist eine Zeichenregel.)
+
+### [Ts-202](/ts-202/#19ar.7) <span class="fac">[19ar\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp)</span> {#ts-202-19ar7}
+
+<span class="series-number">4.242</span> Ausdrücke von der Form „a = b” sind also nur Behelfe der Darstellung; sie sagen nichts über die Bedeutung der Zeichen „a”, „b” aus.
+
+### [Ts-202](/ts-202/#19ar.8+20r.1) <span class="fac">[19ar\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/19ar.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-19ar820r1}
+
+<span class="series-number">4.243</span> Können wir zwei Namen verstehen, ohne zu wissen, ob sie dasselbe Ding oder zwei verschiedene Dinge bezeichnen? – Können wir einen Satz, worin zwei Namen vorkommen, verstehen, ohne zu wissen, ob sie Dasselbe oder Verschiedenes bedeuten?
+
+Kenne ich etwa die Bedeutung eines englischen und eines gleichbedeutenden deutschen Wortes, so ist es unmöglich, daß ich nicht weiß, daß die beiden gleichbedeutend sind; es ist unmöglich, daß ich sie nicht ineinander übersetzen kann.
+
+### [Ts-202](/ts-202/#20r.2) <span class="fac">[20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r2}
+
+Ausdrücke wie „a = a”, oder von diesen abgeleitete, sind weder Elementarsätze, noch sonst sinnvolle Zeichen. (Dies wird sich später zeigen.)
+
+### [Ts-202](/ts-202/#20r.3) <span class="fac">[20r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r3}
+
+<span class="series-number">4.25</span> Ist der Elementarsatz wahr, so besteht der Sachverhalt; ist der Elementarsatz falsch, so besteht der Sachverhalt nicht.
+
+### [Ts-202](/ts-202/#20r.4) <span class="fac">[20r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r4}
+
+<span class="series-number">4.26</span> Die Angabe aller wahren Elementarsätze beschreibt die Welt vollständig. Die Welt ist vollständig beschrieben durch die Angaben aller Elementarsätze plus der Angabe, welche von ihnen wahr und welche falsch sind.
+
+### [Ts-202](/ts-202/#20r.5) <span class="fac">[20r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r5}
+
+<span class="series-number">4.27</span> Bezüglich des Bestehens und Nichtbestehens von n Sachverhalten gibt es <math class="stacked" display="inline"><mspace width="0.3em"/><mi>K</mi><mi>n</mi><mspace width="0.3em"/><mo>=</mo><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mtext>ν</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn></munder></mrow><mi>n</mi></mover><mspace width="0.3em"/><mo>(</mo><mo>[</mo><mtext>nν]</mtext><mo>)</mo></math> Möglichkeiten.
+
+Es können alle Kombinationen der Sachverhalte bestehen, die anderen nicht bestehen.
+
+### [Ts-202](/ts-202/#20r.6) <span class="fac">[20r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r6}
+
+<span class="series-number">4.28</span> Diesen Kombinationen entsprechen ebenso viele Möglichkeiten der Wahrheit – und Falschheit – von n Elementarsätzen.
+
+### [Ts-202](/ts-202/#20r.7) <span class="fac">[20r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r7}
+
+<span class="series-number">4.3</span> Die Wahrheitsmöglichkeiten der Elementarsätze bedeuten die Möglichkeiten des Bestehens und Nichtbestehens der Sachverhalte.
+
+### [Ts-202](/ts-202/#20r.8) <span class="fac">[20r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/20r.webp)</span> {#ts-202-20r8}
+
+<span class="series-number">4.31</span> Die Wahrheitsmöglichkeiten können wir durch Schemata folgender Art darstellen („W” bedeutet „wahr”, „F” „falsch”. Die Reihen der „W” und „F” unter der Reihe der Elementarsätze bedeuten in leichtverständlicher Symbolik deren Wahrheitsmöglichkeiten):
+
+pWFWWFFWF | qWWFWFWFF | rWWWFWFFF | | pWFWF | qWWFF | | pWF
+
+### [Ts-202](/ts-202/#21r.1) <span class="fac">[21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r1}
+
+<span class="series-number">4.4</span> Der Satz ist der Ausdruck der Übereinstimmung und Nichtübereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze.
+
+### [Ts-202](/ts-202/#21r.2) <span class="fac">[21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r2}
+
+<span class="series-number">4.41</span> Die Wahrheitsmöglichkeiten der Elementarsätze sind die Bedingungen der Wahrheit und Falschheit der Sätze.
+
+### [Ts-202](/ts-202/#21r.3) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r3}
+
+<span class="series-number">4.411</span> Es ist von vornherein wahrscheinlich, daß die Einführung der Elementarsätze für das Verständnis aller anderen Satzarten grundlegend ist. Ja, das Verständnis der allgemeinen Sätze hängt _fühlbar_ von dem der Elementarsätze ab.
+
+### [Ts-202](/ts-202/#21r.4) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r4}
+
+<span class="series-number">4.42</span> Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <math class="stacked" display="inline"><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mtext>κ</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn></munder></mrow><mtext>Kn</mtext></mover><mspace width="0.3em"/><mo>(</mo><mo>[</mo><mtext>Knκ]</mtext><mo>)</mo><mspace width="0.3em"/><mo>=</mo><msub><mi>L</mi><mi>n</mi></msub></math> Möglichkeiten.
+
+### [Ts-202](/ts-202/#21r.5) <span class="fac">[21r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r5}
+
+<span class="series-number">4.43</span> Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken, indem wir ihnen im Schema etwa das Abzeichen „W” (wahr) zuordnen.
+
+Das Fehlen dieses Abzeichens bedeutet die Nichtübereinstimmung.
+
+### [Ts-202](/ts-202/#21r.6) <span class="fac">[21r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r6}
+
+<span class="series-number">4.431</span> Der Ausdruck der Übereinstimmung und Nichtübereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze drückt die Wahrheitsbedingungen des Satzes aus.
+
+Der Satz ist der Ausdruck seiner Wahrheitsbedingungen.
+
+(Frege hat sie daher ganz richtig als Erklärung der Zeichen seiner Begriffsschrift vorausgeschickt. Nur ist die Erklärung des Wahrheitsbegriffes bei Frege falsch: Wären „das Wahre” und „das Falsche” wirklich Gegenstände und die Argumente in ~p etc. dann wäre nach Frege's Bestimmung der Sinn von „~p” keineswegs bestimmt.)
+
+### [Ts-202](/ts-202/#21r.7) <span class="fac">[21r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r7}
+
+<span class="series-number">4.44</span> Das Zeichen, welches durch die Zuordnung jener Abzeichen „W” und der Wahrheitsmöglichkeiten entsteht, ist ein Satzzeichen.
+
+### [Ts-202](/ts-202/#21r.8) <span class="fac">[21r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp)</span> {#ts-202-21r8}
+
+<span class="series-number">4.441</span> Es ist klar, daß dem Komplex der Zeichen „F” und „W” kein Gegenstand (oder Komplex von Gegenständen) entspricht; so wenig, wie den horizontalen und vertikalen Strichen oder den Klammern. – „Logische Gegenstände” gibt es nicht.
+
+Analoges gilt natürlich für alle Zeichen, die dasselbe ausdrücken wie die Schemata der „W” und „F”.
+
+### [Ts-202](/ts-202/#21r.9+22r.1) <span class="fac">[21r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/21r.webp),[22r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/22r.webp)</span> {#ts-202-21r922r1}
+
+<span class="series-number">4.442</span> Es ist z.B.: „pWFWF | qWWFF | WWW” ein Satzzeichen. (Frege's „Urteilsstrich” „⊢” ist logisch ganz bedeutungslos; es zeigt bei Frege (und Russell) nur an, daß diese Autoren die so bezeichneten Sätze für wahr halten. „⊢” gehört daher ebenso wenig zum Satzgefüge wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, daß er wahr ist.)
+
+Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombinationsregel ein für allemal festgesetzt, dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen. Schreiben wir diese Kolonne als Reihe hin, so wird das Satzzeichen zu:
+
+„(W W – W) (p, q)” oder deutlicher „(W W F W) (p, q)”
+
+(Die Anzahl der Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.)
+
+### [Ts-202](/ts-202/#22r.2) <span class="fac">[22r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/22r.webp)</span> {#ts-202-22r2}
+
+<span class="series-number">4.45</span> Für n Elementarsätze gibt es L<sub>n</sub> mögliche Gruppen von Wahrheitsbedingungen.
+
+Die Gruppen von Wahrheitsbedingungen, welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören, lassen sich in eine Reihe ordnen.
+
+### [Ts-202](/ts-202/#22r.3) <span class="fac">[22r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/22r.webp)</span> {#ts-202-22r3}
+
+<span class="series-number">4.46</span> Unter den möglichen Gruppen von Wahrheitsbedingungen gibt es zwei extreme Fälle.
+
+In dem einen Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten der Elementarsätze wahr. Wir sagen, die Wahrheitsbedingungen sind _tautologisch_.
+
+Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch: Die Wahrheitsbedingungen sind _kontradiktorisch_.
+
+Im ersten Fall nennen wir den Satz eine Tautologie im zweiten Fall eine Kontradiktion.
+
+### [Ts-202](/ts-202/#22r.4+23r.1) <span class="fac">[22r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/22r.webp),[23r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp)</span> {#ts-202-22r423r1}
+
+<span class="series-number">4.461</span> Der Satz zeigt was er sagt, die Tautologie und die Kontradiktion, daß sie nichts sagen. Die Tautologie hat keine Wahrheitsbedingungen, denn sie ist bedingungslos wahr: und die Kontradiktion ist unter keiner Bedingung wahr.
+
+Tautologie und Kontradiktion sind sinnlos.
+
+(Wie der Punkt von dem zwei Pfeile in entgegengesetzter Richtung auseinandergehen.)
+
+(Ich weiß z.B. nichts über das Wetter, wenn ich weiß, daß es regnet oder nicht regnet.)
+
+### [Ts-202](/ts-202/#23r.2) <span class="fac">[23r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp)</span> {#ts-202-23r2}
+
+<span class="series-number">4.4611</span> Tautologie und Kontradiktion sind aber nicht unsinnig; sie gehören zum Symbolismus und zwar ähnlich wie die „0” zum Symbolismus der Arithmetik.
+
+### [Ts-202](/ts-202/#23r.3) <span class="fac">[23r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp)</span> {#ts-202-23r3}
+
+<span class="series-number">4.462</span> Tautologie und Kontradiktion sind nicht Bilder der Wirklichkeit. Sie stellen keine mögliche Sachlage dar. Denn jene läßt _jede_ mögliche Sachlage zu, diese _keine_.
+
+In der Tautologie heben die Bedingungen der Übereinstimmung mit der Welt – die darstellenden Beziehungen – einander auf, so daß sie in keiner darstellenden Beziehung zur Wirklichkeit steht.
+
+### [Ts-202](/ts-202/#23r.4) <span class="fac">[23r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp)</span> {#ts-202-23r4}
+
+<span class="series-number">4.463</span> Die Wahrheitsbedingungen bestimmen den Spielraum, der den Tatsachen durch den Satz gelassen wird.
+
+(Der Satz, das Bild, das Modell, sind im negativen Sinne wie ein fester Körper, der die Bewegungsfreiheit der anderen beschränkt; im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat.)
+
+Die Tautologie läßt der Wirklichkeit den ganzen – unendlichen – logischen Raum; die Kontradiktion erfüllt den ganzen logischen Raum und läßt der Wirklichkeit keinen Punkt. Keine von beiden kann daher die Wirklichkeit irgendwie bestimmen.
+
+### [Ts-202](/ts-202/#23r.5) <span class="fac">[23r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp)</span> {#ts-202-23r5}
+
+<span class="series-number">4.464</span> Die Wahrheit der Tautologie ist gewiß, des Satzes möglich, der Kontradiktion unmöglich.
+
+(Gewiß, möglich, unmöglich: Hier haben wir das Anzeichen jener Gradation, die wir in der Wahrscheinlichkeitslehre brauchen.)
+
+### [Ts-202](/ts-202/#23r.6) <span class="fac">[23r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp)</span> {#ts-202-23r6}
+
+<span class="series-number">4.465</span> Das logische Produkt einer Tautologie und eines Satzes sagt dasselbe, wie der Satz. Also ist jenes Produkt identisch mit dem Satz. Denn man kann das Wesentliche des Symbols nicht ändern, ohne seinen Sinn zu ändern.
+
+### [Ts-202](/ts-202/#23r.7+23av.1+24r.1) <span class="fac">[23r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23r.webp),[23av\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23av.webp),[24r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-23r723av124r1}
+
+<span class="series-number">4.466</span> Einer bestimmten logischen Verbindung von Zeichen entspricht eine bestimmte logische Verbindung ihrer Bedeutungen; _jede beliebige_ Verbindung entspricht nur den unverbundenen Zeichen.
+
+Das heißt, Sätze die für jede Sachlage wahr sind, können überhaupt keine Zeichenverbindungen sein, denn sonst könnten ihnen nur bestimmte Verbindungen von Gegenständen entsprechen. (Und keiner logischen Verbindung entspricht _keine_ Verbindung der Gegenstände.)
+
+Tautologie und Kontradiktion sind die Grenzfälle der Zeichenverbindung, nämlich ihre Auflösung.
+
+### [Ts-202](/ts-202/#23av.1-relocated) <span class="fac">[23av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/23av.webp)</span> {#ts-202-23av1-relocated}
+
+<span class="series-number">4.4661</span> Freilich sind auch in der Tautologie und Kontradiktion die Zeichen noch mit einander verbunden, d.h. sie stehen in Beziehungen zu einander, aber diese Beziehungen sind bedeutungslos, dem _Symbol_ unwesentlich.
+
+### [Ts-202](/ts-202/#24r.2) <span class="fac">[24r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-24r2}
+
+<span class="series-number">4.5</span> Nun scheint es möglich zu sein, die allgemeinste Satzform anzugeben: das heißt, eine Beschreibung der Sätze _irgend einer_ Zeichensprache zu geben, so daß jeder mögliche Sinn durch ein Symbol, auf welches die Beschreibung paßt, ausgedrückt werden kann, und daß jedes Symbol, worauf die Beschreibung paßt, einen Sinn ausdrücken kann, wenn die Bedeutungen der Namen entsprechend gewählt werden.
+
+Es ist klar, daß bei der Beschreibung der allgemeinsten Satzform _nur_ ihr Wesentliches beschrieben werden darf, – sonst wäre sie nämlich nicht die allgemeinste.
+
+Daß es eine allgemeine Satzform gibt, wird dadurch bewiesen, daß es keinen Satz geben darf, dessen Form man nicht hätte voraussehen (d.h. konstruieren) können. Die allgemeine Form des Satzes ist: Es verhält sich so und so.
+
+### [Ts-202](/ts-202/#24r.3) <span class="fac">[24r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-24r3}
+
+<span class="series-number">4.51</span> Angenommen, mir wären _alle_ Elementarsätze gegeben: Dann läßt sich einfach fragen: welche Sätze kann ich aus ihnen bilden. Und das sind _alle_ Sätze und _so_ sind sie begrenzt.
+
+### [Ts-202](/ts-202/#24r.4) <span class="fac">[24r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-24r4}
+
+<span class="series-number">4.52</span> Die Sätze sind Alles, was aus der Gesamtheit aller Elementarsätze folgt (natürlich auch daraus, daß es die _Gesamtheit aller_ ist). (So könnte man in gewissem Sinne sagen, daß alle Sätze Verallgemeinerungen der Elementarsätze sind.)
+
+### [Ts-202](/ts-202/#24r.5) <span class="fac">[24r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-24r5}
+
+<span class="series-number">4.53</span> Die allgemeine Satzform ist eine Variable.
+
+### [Ts-202](/ts-202/#24r.6) <span class="fac">[24r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-24r6}
+
+<span class="series-number">5</span> Der Satz ist eine Wahrheitsfunktion der Elementarsätze.
+
+(Der Elementarsatz ist eine Wahrheitsfunktion seiner selbst.)
+
+### [Ts-202](/ts-202/#24r.7) <span class="fac">[24r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp)</span> {#ts-202-24r7}
+
+<span class="series-number">5.01</span> Die Elementarsätze sind die Wahrheitsargumente des Satzes.
+
+### [Ts-202](/ts-202/#24r.8+25r.1) <span class="fac">[24r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/24r.webp),[25r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-24r825r1}
+
+<span class="series-number">5.02</span> Es liegt nahe, die Argumente von Funktionen mit den Indizes von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenen Zeichens. In Russell's „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” ist z.B. „c” ein Index, der darauf hinweist, daß das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” auch ein einfaches Zeichen wählen; in „~p” aber ist „p” kein Index, sondern ein Argument: der Sinn von „~p” _kann nicht_ verstanden werden, ohne daß vorher der Sinn von „p” verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius” ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihm anhängen. Z.B. _Der_ Cäsar aus dem Geschlechte der Julier.) Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Frege's von der Bedeutung der Sätze und Funktionen zugrunde.
+
+Für Frege waren die Sätze der Logik Namen, und deren Argumente die Indizes dieser Namen.
+
+### [Ts-202](/ts-202/#25r.2) <span class="fac">[25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r2}
+
+<span class="series-number">5.1</span> Die Wahrheitsfunktionen lassen sich in Reihen ordnen.
+
+Das ist die Grundlage der Wahrscheinlichkeitslehre.
+
+### [Ts-202](/ts-202/#25r.3) <span class="fac">[25r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r3}
+
+<span class="series-number">5.101</span> Die Wahrheitsfunktionen jeder Anzahl von Elementarsätzen lassen sich in einem Schema folgender Art hinschreiben:
+
+(W W W W)(F W W W)(W F W W)(W W F W)(W W W F)(F F W W)(F W F W)(F W W F)(W F F W)(W F W F)(W W F F)(F F F W)(F F W F)(F W F F)(W F F F)(F F F F) | (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) | | Tautologie in Worten: "": "": "": "": "": "": "": "": "": "": "": "": "": Kontradiktion | | | | (Wenn p, so p; und wenn q so q) (p⊃p.q⊃q) Nicht beides: p und q (~(p.q)) Wenn q, so p (q⊃p) Wenn p, so q (p⊃q) p, oder q (p⌵q) Nicht q (~q) Nicht p (~p) p, oder q, aber nicht beide. (p.~q․⌵․q.~p) Wenn p, so q; und wenn q, so p (p≡q) p q Weder p, noch q (~p.~q) oder (p ❘ q) p und nicht q (p.~q) q und nicht p (q.~p) q und p (q.p) (p und nicht p; und q und nicht q) (p.~p.q.~q)
+
+Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz bewahrheiten, will ich seine _Wahrheitsgründe_ nennen.
+
+### [Ts-202](/ts-202/#25r.4) <span class="fac">[25r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r4}
+
+<span class="series-number">5.11</span> Sind die Wahrheitsgründe,die einer Anzahl von Sätzen gemeinsam sind, sämtlich auch Wahrheitsgründe eines bestimmten Satzes, so sagen wir, die Wahrheit dieses Satzes folge aus der Wahrheit jener Sätze.
+
+### [Ts-202](/ts-202/#25r.5) <span class="fac">[25r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r5}
+
+<span class="series-number">5.12</span> Insbesondere folgt die Wahrheit eines Satzes „p” aus der Wahrheit eines anderen „q”, wenn alle Wahrheitsgründe des zweiten Wahrheitsgründe des ersten sind.
+
+### [Ts-202](/ts-202/#25r.6) <span class="fac">[25r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r6}
+
+<span class="series-number">5.121</span> Die Wahrheitsgründe des einen sind in denen des anderen enthalten; p folgt aus q.
+
+### [Ts-202](/ts-202/#25r.7) <span class="fac">[25r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r7}
+
+<span class="series-number">5.122</span> Folgt p aus q, so ist der Sinn von „p” im Sinne von „q” enthalten.
+
+### [Ts-202](/ts-202/#25r.8) <span class="fac">[25r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span> {#ts-202-25r8}
+
+<span class="series-number">5.123</span> Wenn ein Gott eine Welt erschafft, worin gewisse Sätze wahr sind, so schafft er damit auch schon eine Welt, in welcher alle ihre Folgesätze stimmen. Und ähnlich könnte er keine Welt schaffen, worin der Satz „p” wahr ist, ohne seine sämtlichen Gegenstände zu schaffen.
+
+### [Ts-202](/ts-202/#26r.1) <span class="fac">[26r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r1}
+
+<span class="series-number">5.124</span> Der Satz bejaht jeden Satz der aus ihm folgt.
+
+### [Ts-202](/ts-202/#26r.2) <span class="fac">[26r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r2}
+
+<span class="series-number">5.1241</span> „p.q” ist einer der Sätze, welche „p” bejahen und zugleich einer der Sätze, welche „q” bejahen.
+
+Zwei Sätze sind einander entgegengesetzt, wenn es keinen sinnvollen Satz gibt, der sie beide bejaht.
+
+Jeder Satz der einem anderen widerspricht, verneint ihn.
+
+### [Ts-202](/ts-202/#26r.3) <span class="fac">[26r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r3}
+
+<span class="series-number">5.13</span> Daß die Wahrheit eines Satzes aus der Wahrheit anderer Sätze folgt, ersehen wir aus der Struktur der Sätze.
+
+### [Ts-202](/ts-202/#26r.4) <span class="fac">[26r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r4}
+
+<span class="series-number">5.131</span> Folgt die Wahrheit eines Satzes aus der Wahrheit anderer, so drückt sich dies durch Beziehungen aus, in welchen die Formen jener Sätze zu einander stehen; und zwar brauchen wir sie nicht erst in jene Beziehungen zu setzen, indem wir sie in einem Satze miteinander verbinden, sondern diese Beziehungen sind intern und bestehen, sobald, und dadurch daß, jene Sätze bestehen.
+
+### [Ts-202](/ts-202/#26r.5) <span class="fac">[26r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r5}
+
+<span class="series-number">5.1311</span> Wenn wir von p⌵q und ~p auf q schließen, so ist hier durch die Bezeichnungsweise die Beziehung der Satzformen von „p⌵q” und „~p” verhüllt. Schreiben wir aber z.B. statt „p⌵q” „p ❘ q․ ❘ ․p ❘ q” und statt „~p” „p ❘ p” (p ❘ q = weder p, noch q), so wird der innere Zusammenhang offenbar.
+
+(Daß man aus (x)․fx auf fa schließen kann, das zeigt, daß die Allgemeinheit auch im Symbol „(x)․fx” vorhanden ist.)
+
+### [Ts-202](/ts-202/#26r.6) <span class="fac">[26r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r6}
+
+<span class="series-number">5.132</span> Folgt p aus q, so kann ich von q auf p schließen; p aus q folgern.
+
+Die Art des Schlusses ist allein aus den beiden Sätzen zu entnehmen.
+
+Nur sie selbst können den Schluß rechtfertigen.
+
+„Schlußgesetze”, welche – wie bei Frege und Russell – die Schlüsse rechtfertigen sollen, sind sinnlos, und wären überflüssig.
+
+### [Ts-202](/ts-202/#26r.7) <span class="fac">[26r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r7}
+
+<span class="series-number">5.133</span> Alles Folgern geschieht a priori.
+
+### [Ts-202](/ts-202/#26r.8) <span class="fac">[26r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r8}
+
+<span class="series-number">5.134</span> Aus einem Elementarsatz läßt sich kein anderer folgern.
+
+### [Ts-202](/ts-202/#26r.9) <span class="fac">[26r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r9}
+
+<span class="series-number">5.135</span> Auf keine Weise kann aus dem Bestehen irgend einer Sachlage, auf das Bestehen einer, von ihr gänzlich verschiedenen Sachlage geschlossen werden.
+
+### [Ts-202](/ts-202/#26r.10) <span class="fac">[26r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r10}
+
+<span class="series-number">5.136</span> Einen Kausalnexus, der einen solchen Schluß rechtfertigte, gibt es nicht.
+
+### [Ts-202](/ts-202/#26r.11) <span class="fac">[26r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp)</span> {#ts-202-26r11}
+
+<span class="series-number">5.1361</span> Die Ereignisse der Zukunft _können_ wir nicht aus den gegenwärtigen erschließen.
+
+Der Glaube an den Kausalnexus ist der _Aberglaube_.
+
+### [Ts-202](/ts-202/#26r.12+27r.1) <span class="fac">[26r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/26r.webp),[27r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-26r1227r1}
+
+<span class="series-number">5.1362</span> Die Willensfreiheit besteht darin, daß zukünftige Handlungen jetzt nicht gewußt werden können. Nur dann könnten wir sie wissen, wenn die Kausalität eine _innere_ Notwendigkeit wäre, wie die des logischen Schlusses. – Der Zusammenhang von Wissen und Gewußtem ist der der logischen Notwendigkeit. („A weiß, daß p der Fall ist” ist sinnlos, wenn p eine Tautologie ist.)
+
+### [Ts-202](/ts-202/#27r.2) <span class="fac">[27r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r2}
+
+<span class="series-number">5.1363</span> Wenn daraus, daß ein Satz uns einleuchtet, nicht _folgt_, daß er wahr ist, so ist das Einleuchten auch keine Rechtfertigung für unseren Glauben an seine Wahrheit.
+
+### [Ts-202](/ts-202/#27r.3) <span class="fac">[27r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r3}
+
+<span class="series-number">5.14</span> Folgt ein Satz aus einem anderen, so sagt dieser mehr als jener, jener weniger als dieser.
+
+### [Ts-202](/ts-202/#27r.4) <span class="fac">[27r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r4}
+
+<span class="series-number">5.141</span> Folgt p aus q und q aus p, so sind sie ein und derselbe Satz.
+
+### [Ts-202](/ts-202/#27r.5) <span class="fac">[27r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r5}
+
+<span class="series-number">5.142</span> Die Tautologie folgt aus allen Sätzen; sie sagt Nichts.
+
+### [Ts-202](/ts-202/#27r.6) <span class="fac">[27r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r6}
+
+<span class="series-number">5.143</span> Die Kontradiktion ist das Gemeinsame der Sätze, was _kein_ Satz mit einem anderen gemein hat. Die Tautologie ist das Gemeinsame aller Sätze, welche nichts miteinander gemein haben.
+
+Die Kontradiktion verschwindet sozusagen außerhalb, die Tautologie innerhalb aller Sätze.
+
+Die Kontradiktion ist die äußere Grenze der Sätze, die Tautologie ihr substanzloser Mittelpunkt.
+
+### [Ts-202](/ts-202/#27r.7) <span class="fac">[27r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r7}
+
+<span class="series-number">5.15</span> Ist <math class="stacked" display="inline"><msub><mi>W</mi><mi>r</mi></msub></math> die Anzahl der Wahrheitsgründe des Satzes „r”, <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub></math> die Anzahl derjenigen Wahrheitsgründe des Satzes „s”, die zugleich Wahrheitsgründe von „r” sind, dann nennen wir das Verhältnis: <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub><mo>:</mo><msub><mi>W</mi><mi>r</mi></msub></math> das Maß der _Wahrscheinlichkeit_, welche der Satz „r” dem Satz „s” gibt.
+
+### [Ts-202](/ts-202/#27r.8) <span class="fac">[27r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r8}
+
+<span class="series-number">5.151</span> Sei in einem Schema wie dem obigen in [→ № 5.101] <math class="stacked" display="inline"><msub><mi>W</mi><mi>r</mi></msub></math> die Anzahl der „W” im Satze r; <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub></math> die Anzahl derjenigen „W” im Satze s, die in gleichen Kolonnen mit „W” des Satzes r stehen. Der Satz r gibt dann dem Satze s die Wahrscheinlichkeit: <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub><mo>:</mo><msub><mi>W</mi><mi>r</mi></msub></math>.
+
+### [Ts-202](/ts-202/#27r.9) <span class="fac">[27r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r9}
+
+<span class="series-number">5.1511</span> Es gibt keinen besonderen Gegenstand, der den Wahrscheinlichkeitssätzen eigen wäre.
+
+### [Ts-202](/ts-202/#27r.10) <span class="fac">[27r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r10}
+
+<span class="series-number">5.152</span> Sätze, welche keine Wahrheitsgründe mit einander gemein haben, nennen wir von einander unabhängig.
+
+Von einander unabhängige Sätze (z.B. irgend zwei Elementarsätze) geben einander die Wahrscheinlichkeit ½.
+
+Folgt p aus q, so gibt der Satz „q” dem Satz „p” die Wahrscheinlichkeit 1. Die Gewißheit des logischen Schlusses ist ein Grenzfall der Wahrscheinlichkeit.
+
+(Anwendung auf Tautologie und Kontradiktion.)
+
+### [Ts-202](/ts-202/#27r.11) <span class="fac">[27r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp)</span> {#ts-202-27r11}
+
+<span class="series-number">5.153</span> Ein Satz ist an sich weder wahrscheinlich noch unwahrscheinlich. Ein Ereignis trifft ein, oder es trifft nicht ein, ein Mittelding gibt es nicht.
+
+### [Ts-202](/ts-202/#27r.12+28r.1) <span class="fac">[27r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/27r.webp),[28r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-27r1228r1}
+
+<span class="series-number">5.154</span> In einer Urne seien gleichviel weiße und schwarze Kugeln (und keine anderen). Ich ziehe eine Kugel nach der anderen und lege sie wieder in die Urne zurück. Dann kann ich durch den Versuch feststellen, daß sich die Zahlen der gezogenen schwarzen und weißen Kugeln bei fortgesetztem Ziehen einander nähern.
+
+_Das_ ist also kein mathematisches Faktum.
+
+Wenn ich nun sage: Es ist gleich wahrscheinlich, daß ich eine weiße Kugel wie eine schwarze ziehen werde, so heißt das: Alle mir bekannten Umstände (die hypothetisch angenommenen Naturgesetze mitinbegriffen) geben dem Eintreffen des einen Ereignisses nicht _mehr_ Wahrscheinlichkeit als dem Eintreffen des anderen. Das heißt, sie geben – wie aus den obigen Erklärungen leicht zu entnehmen ist – jedem die Wahrscheinlichkeit ½.
+
+Was ich durch den Versuch bestätige ist, daß das Eintreffen der beiden Ereignisse von den Umständen, die ich nicht näher kenne, unabhängig ist.
+
+### [Ts-202](/ts-202/#28r.2) <span class="fac">[28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r2}
+
+<span class="series-number">5.155</span> Die Einheit des Wahrscheinlichkeitssatzes ist: Die Umstände – die ich sonst nicht weiter kenne – geben dem Eintreffen eines bestimmten Ereignisses den und den Grad der Wahrscheinlichkeit.
+
+### [Ts-202](/ts-202/#28r.3) <span class="fac">[28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r3}
+
+<span class="series-number">5.156</span> So ist die Wahrscheinlichkeit eine Verallgemeinerung.
+
+Sie involviert eine allgemeine Beschreibung einer Satzform.
+
+Nur in Ermanglung der Gewißheit gebrauchen wir die Wahrscheinlichkeit. –
+
+Wenn wir zwar eine Tatsache nicht vollkommen kennen, wohl aber _etwas_ über ihre Form wissen.
+
+(Ein Satz kann zwar ein unvollständiges Bild einer gewissen Sachlage sein, aber er ist immer _ein_ vollständiges Bild.)
+
+Der Wahrscheinlichkeitssatz ist gleichsam ein Auszug aus anderen Sätzen.
+
+### [Ts-202](/ts-202/#28r.4) <span class="fac">[28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r4}
+
+<span class="series-number">5.2</span> Die Strukturen der Sätze stehen in internen Beziehungen zu einander.
+
+### [Ts-202](/ts-202/#28r.5) <span class="fac">[28r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r5}
+
+<span class="series-number">5.21</span> Wir können diese internen Beziehungen dadurch in unserer Ausdrucksweise hervorheben, daß wir einen Satz als Resultat einer Operation darstellen, die ihn aus anderen Sätzen (den Basen der Operation) hervorbringt.
+
+### [Ts-202](/ts-202/#28r.6) <span class="fac">[28r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r6}
+
+<span class="series-number">5.22</span> Die Operation ist der Ausdruck einer Beziehung zwischen den Strukturen ihres Resultats und ihrer Basen.
+
+### [Ts-202](/ts-202/#28r.7) <span class="fac">[28r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r7}
+
+<span class="series-number">5.23</span> Die Operation ist das, was mit dem einen Satz geschehen muß, um aus ihm den anderen zu machen.
+
+### [Ts-202](/ts-202/#28r.8) <span class="fac">[28r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r8}
+
+<span class="series-number">5.231</span> Und das wird natürlich von ihren formalen Eigenschaften, von der internen Ähnlichkeit ihrer Formen abhängen.
+
+### [Ts-202](/ts-202/#28r.9) <span class="fac">[28r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r9}
+
+<span class="series-number">5.232</span> Die interne Relation, die eine Reihe ordnet, ist äquivalent mit der Operation, durch welche ein Glied aus dem anderen entsteht.
+
+### [Ts-202](/ts-202/#28r.10) <span class="fac">[28r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28r.webp)</span> {#ts-202-28r10}
+
+<span class="series-number">5.233</span> Die Operation kann erst dort auftreten, wo ein Satz auf logisch bedeutungsvolle Weise aus einem anderen entsteht. Also dort, wo die logische Konstruktion des Satzes anfängt.
+
+### [Ts-203](/ts-203/#33r.2) <span class="fac">[33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/33r.webp)</span> {#ts-203-33r2}
+
+<span class="series-number">5.253</span> Eine Operation kann die Wirkung einer anderen rückgängig machen. Operationen können einander aufheben.
+
+### [Ts-202](/ts-202/#29r.1) <span class="fac">[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r1}
+
+<span class="series-number">5.234</span> Die Wahrheitsfunktionen der Elementarsätze sind Resultate von Operationen, die die Elementarsätze als Basen haben. (Ich nenne diese Operationen Wahrheitsoperationen.)
+
+### [Ts-202](/ts-202/#29r.2) <span class="fac">[29r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r2}
+
+<span class="series-number">5.2341</span> Der Sinn einer Wahrheitsfunktion von p ist eine Funktion des Sinnes von p.
+
+Verneinung, logische Addition, logische Multiplikation, etc., etc. sind Operationen.
+
+(Die Verneinung verkehrt den Sinn des Satzes.)
+
+### [Ts-202](/ts-202/#29r.3) <span class="fac">[29r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r3}
+
+<span class="series-number">5.24</span> Die Operation zeigt sich in einer Variablen; sie zeigt, wie man von einer Form von Sätzen zu einer anderen gelangen kann.
+
+Sie bringt den Unterschied der Formen zum Ausdruck.
+
+(Und das Gemeinsame zwischen den Basen und dem Resultat der Operation sind eben die Basen.)
+
+### [Ts-202](/ts-202/#29r.4) <span class="fac">[29r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r4}
+
+<span class="series-number">5.241</span> Die Operation kennzeichnet keine Form, sondern nur den Unterschied der Formen.
+
+### [Ts-202](/ts-202/#29r.5) <span class="fac">[29r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r5}
+
+<span class="series-number">5.242</span> Dieselbe Operation, die „q” aus „p” macht, macht aus „q” „r”, u.s.f. Dies kann nur darin ausgedrückt sein, daß „p”, „q”, „r”, etc. Variable sind, die gewisse formale Relationen allgemein zum Ausdruck bringen.
+
+### [Ts-202](/ts-202/#29r.6) <span class="fac">[29r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r6}
+
+<span class="series-number">5.25</span> Das Vorkommen der Operation charakterisiert den Sinn des Satzes nicht.
+
+Die Operation sagt ja nichts aus, nur ihr Resultat; und dies hängt von den Basen der Operation ab.
+
+(Operation und Funktion dürfen nicht miteinander verwechselt werden.)
+
+### [Ts-202](/ts-202/#29r.7) <span class="fac">[29r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r7}
+
+<span class="series-number">5.251</span> Eine Funktion kann nicht ihr eigenes Argument sein, wohl aber kann das Resultat einer Operation ihre eigene Basis werden.
+
+### [Ts-202](/ts-202/#29r.8) <span class="fac">[29r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r8}
+
+<span class="series-number">5.252</span> Nur so ist das Fortschreiten von Glied zu Glied in einer Formenreihe (von Type zu Type in den Hierarchien Russells und Whiteheads) möglich. (Russell und Whitehead haben die Möglichkeit dieses Fortschreitens nicht zugegeben, aber immer wieder von ihr Gebrauch gemacht.)
+
+### [Ts-202](/ts-202/#29r.9) <span class="fac">[29r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r9}
+
+<span class="series-number">5.2521</span> Die fortgesetzte Anwendung einer Operation auf ihr eigenes Resultat nenne ich ihre sukzessive Anwendung („O'O'O'a” ist das Resultat der dreimaligen sukzessiven Anwendung von „O'ξ” auf „a”.)
+
+In einem ähnlichen Sinne rede ich von der sukzessiven Anwendung _mehrerer_ Operationen auf eine Anzahl von Sätzen.
+
+### [Ts-202](/ts-202/#29r.10) <span class="fac">[29r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/29r.webp)</span> {#ts-202-29r10}
+
+<span class="series-number">5.2522</span> Das allgemeine Glied einer Formenreihe a, O'a, O'O'a, … schreibe ich daher so: „[a,x,O'x]”. Dieser Klammerausdruck ist eine Variable. Das erste Glied des Klammerausdruckes ist der Anfang der Formenreihe, das zweite die Form eines beliebigen Gliedes x der Reihe und das dritte die Form desjenigen Gliedes der Reihe, welches auf x unmittelbar folgt.
+
+### [Ts-202](/ts-202/#28av.1-relocated) <span class="fac">[28av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/28av.webp)</span> {#ts-202-28av1-relocated}
+
+<span class="series-number">5.2523</span> Der Begriff der sukzessiven Anwendung der Operation ist äquivalent mit dem Begriff „und so weiter”.
+
+### [Ts-202](/ts-202/#30r.1) <span class="fac">[30r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r1}
+
+<span class="series-number">5.253</span> Eine Operation kann die Wirkung einer anderen rückgängig machen. Operationen können einander aufheben.
+
+### [Ts-202](/ts-202/#30r.2) <span class="fac">[30r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r2}
+
+<span class="series-number">5.254</span> Die Operation kann verschwinden (z.B. die Verneinung in „~~p”. ~~p = p).
+
+### [Ts-202](/ts-202/#30r.3) <span class="fac">[30r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r3}
+
+<span class="series-number">5.3</span> Alle Sätze sind Resultate von Wahrheitsoperationen mit den Elementarsätzen.
+
+Die Wahrheitsoperation ist die Art und Weise, wie aus den Elementarsätzen die Wahrheitsfunktion entsteht.
+
+Nach dem Wesen der Wahrheitsoperation wird auf die gleiche Weise, wie aus den Elementarsätzen ihre Wahrheitsfunktion, aus Wahrheitsfunktionen eine Neue. Jede Wahrheitsoperation erzeugt aus Wahrheitsfunktionen von Elementarsätzen wieder eine Wahrheitsfunktion von Elementarsätzen, einen Satz. Das Resultat jeder Wahrheitsoperation mit den Resultaten von Wahrheitsoperationen mit Elementarsätzen ist wieder das Resultat _Einer_ Wahrheitsoperation mit Elementarsätzen.
+
+Jeder Satz ist das Resultat von Wahrheitsoperationen mit Elementarsätzen.
+
+### [Ts-202](/ts-202/#30r.4) <span class="fac">[30r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r4}
+
+<span class="series-number">5.31</span> Die Schemata [→ № 4.31] haben auch dann eine Bedeutung, wenn „p”, „q”, „r”, etc. nicht Elementarsätze sind.
+
+Und es ist leicht zu sehen, daß das Satzzeichen in [→ № 4.42] auch wenn „p” und „q” Wahrheitsfunktionen von Elementarsätzen sind, **E**ine Wahrheitsfunktion von Elementarsätzen ausdrückt.
+
+### [Ts-202](/ts-202/#30r.5) <span class="fac">[30r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r5}
+
+<span class="series-number">5.32</span> Alle Wahrheitsfunktionen sind Resultate der sukzessiven Anwendung einer endlichen Anzahl von Wahrheitsoperationen auf die Elementarsätze.
+
+### [Ts-202](/ts-202/#30r.6) <span class="fac">[30r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r6}
+
+<span class="series-number">5.4</span> Hier zeigt es sich, daß es „logische Gegenstände”, „logische Konstante” (im Sinne Freges und Russells) nicht gibt.
+
+### [Ts-202](/ts-202/#30r.7) <span class="fac">[30r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r7}
+
+<span class="series-number">5.41</span> Denn: Alle Resultate von Wahrheitsoperationen mit Wahrheitsfunktionen sind identisch, welche eine und dieselbe Wahrheitsfunktion von Elementarsätzen sind.
+
+### [Ts-202](/ts-202/#30r.8) <span class="fac">[30r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/30r.webp)</span> {#ts-202-30r8}
+
+<span class="series-number">5.42</span> Daß ⌵, ⊃, etc. nicht Beziehungen im Sinne von rechts und links etc. sind, leuchtet ein.
+
+Die Möglichkeit des kreuzweisen Definierens der logischen „Urzeichen” Freges und Russells zeigt schon, daß dies keine Urzeichen sind, und schon erst recht, daß sie keine Relationen bezeichnen.
+
+Und es ist offenbar, daß das „⊃” welches wir durch „.” und „⌵” definieren, identisch ist mit dem, durch welches wir „⌵” mit „.” definieren und daß dieses „.” mit dem ersten identisch ist. U.s.w.
+
+### [Ts-202](/ts-202/#31r.1) <span class="fac">[31r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/31r.webp)</span> {#ts-202-31r1}
+
+<span class="series-number">5.43</span> Daß aus einer Tatsache p unendlich viele _andere_ folgen sollten, nämlich ~~p, ~~~~p, etc. ist doch von vornherein kaum zu glauben. Und nicht weniger merkwürdig ist, daß die unendliche Anzahl der Sätze der Logik (der Mathematik) aus einem halben Dutzend „Grundgesetzen” folgen.
+
+Alle Sätze der Logik sagen aber dasselbe. Nämlich Nichts.
+
+### [Ts-202](/ts-202/#31r.2) <span class="fac">[31r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/31r.webp)</span> {#ts-202-31r2}
+
+<span class="series-number">5.44</span> Die Wahrheitsfunktionen sind keine materiellen Funktionen.
+
+Wenn man z.B. eine Bejahung durch doppelte Verneinung erzeugen kann, ist dann die Verneinung – in irgend einem Sinn – in der Bejahung enthalten?
+
+Verneint „~~p” ~p, oder bejaht es p; oder beides?
+
+Der Satz „~~p” handelt nicht von der Verneinung wie von einem Gegenstand: wohl aber ist die Möglichkeit der Verneinung in der Bejahung bereits präjudiziert.
+
+Und gäbe es einen Gegenstand, der „~” hieße, so müßte „~~p” etwas anderes sagen als „p”. Denn der eine Satz würde dann eben von ~ handeln, der andere nicht.
+
+### [Ts-202](/ts-202/#31r.3) <span class="fac">[31r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/31r.webp)</span> {#ts-202-31r3}
+
+<span class="series-number">5.441</span> Dieses Verschwinden der scheinbaren logischen Konstanten tritt auch ein, wenn „~(∃x).~fx” dasselbe sagt wie „(x)․fx”, oder „(∃x)․fx.x = a” dasselbe wie „fa”.
+
+### [Ts-202](/ts-202/#31r.4) <span class="fac">[31r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/31r.webp)</span> {#ts-202-31r4}
+
+<span class="series-number">5.442</span> Wenn uns ein Satz gegeben ist, so sind _mit ihm_ auch schon die Resultate aller Wahrheitsoperationen, die ihn zur Basis haben, gegeben.
+
+### [Ts-202](/ts-202/#31r.5) <span class="fac">[31r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/31r.webp)</span> {#ts-202-31r5}
+
+<span class="series-number">5.45</span> Gibt es logische Urzeichen, so muß eine richtige Logik ihre Stellung zueinander klar machen und ihr Dasein rechtfertigen. Der Bau der Logik _aus_ ihren Urzeichen muß klar werden.
+
+### [Ts-202](/ts-202/#31r.6) <span class="fac">[31r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/31r.webp)</span> {#ts-202-31r6}
+
+<span class="series-number">5.451</span> Hat die Logik Grundbegriffe, so müssen sie von einander unabhängig sein. Ist ein Grundbegriff eingeführt, so muß er in allen Verbindungen eingeführt sein, worin er überhaupt vorkommt. Man kann ihn also nicht zuerst für _eine_ Verbindung, dann noch einmal für eine andere einführen. Z.B.: Ist die Verneinung eingeführt, so müssen wir sie jetzt in Sätzen von der Form „~p” ebenso verstehen, wie in Sätzen wie „~(p⌵q)”, „(∃x).~fx” u.a. Wir dürfen sie nicht erst für die eine Klasse von Fällen, dann für die andere einführen, denn es bliebe dann zweifelhaft, ob ihre Bedeutung in beiden Fällen die gleiche wäre und es wäre kein Grund vorhanden, in beiden Fällen dieselbe Art der Zeichenverbindung zu benützen.
+
+(Kurz, für die Einführung der Urzeichen gilt, mutatis mutandis, dasselbe, was Frege (Grundgesetze der Arithmetik) für die Einführung von Zeichen durch Definitionen gesagt hat.)
+
+### [Ts-202](/ts-202/#32r.1) <span class="fac">[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r1}
+
+<span class="series-number">5.452</span> Die Einführung eines neuen Behelfes in den Symbolismus der Logik muß immer ein folgenschweres Ereignis sein. Kein neuer Behelf darf in die Logik – sozusagen, mit ganz unschuldiger Miene – in Klammern oder unter dem Striche eingeführt werden.
+
+(So kommen in den „Principia Mathematica” von Russell und Whitehead Definitionen und Grundgesetze in Worten vor. Warum hier plötzlich Worte? Dies bedürfte einer Rechtfertigung. Sie fehlt und muß fehlen, da das Vorgehen tatsächlich unerlaubt ist.)
+
+Hat sich aber die Einführung eines neuen Behelfes an einer Stelle als nötig erwiesen, so muß man sich nun sofort fragen: Wo muß dieser Behelf nun _immer_ angewandt werden? Seine Stellung in der Logik muß nun erklärt werden.
+
+### [Ts-202](/ts-202/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r2}
+
+<span class="series-number">5.453</span> Alle Zahlen der Logik müssen sich rechtfertigen lassen.
+
+Oder vielmehr: Es muß sich herausstellen, daß es in der Logik keine Zahlen gibt.
+
+Es gibt keine ausgezeichneten Zahlen.
+
+### [Ts-202](/ts-202/#32r.3) <span class="fac">[32r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r3}
+
+<span class="series-number">5.454</span> In der Logik gibt es kein Nebeneinander, kann es keine Klassifikation geben.
+
+In der Logik kann es nicht Allgemeineres und Spezielleres geben.
+
+### [Ts-202](/ts-202/#32r.4) <span class="fac">[32r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r4}
+
+<span class="series-number">5.4541</span> Die Lösungen der logischen Probleme müssen einfach sein, denn sie setzen den Standard der Einfachheit.
+
+Die Menschen haben immer geahnt, daß es ein Gebiet von Fragen geben müsse, deren Antworten – a priori – symmetrisch, und zu einem abgeschlossenen, regelmäßigen Gebilde vereint-liegen.
+
+Ein Gebiet, in dem der Satz gilt: simplex sigillum veri.
+
+### [Ts-202](/ts-202/#32r.5) <span class="fac">[32r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r5}
+
+<span class="series-number">5.46</span> Wenn man die logischen Zeichen richtig einführte, so hätte man damit auch schon den Sinn aller ihrer Kombinationen eingeführt; also nicht nur „p⌵q” sondern auch schon „~(p⌵~q)” etc. etc. Man hätte damit auch schon die Wirkung aller nur möglichen Kombinationen von Klammern eingeführt. Und damit wäre es klar geworden, daß die eigentlichen allgemeinen Urzeichen nicht die „p⌵q”, „(∃x)․fx”, etc. sind, sondern die allgemeinste Form ihrer Kombinationen.
+
+### [Ts-202](/ts-202/#32r.6) <span class="fac">[32r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r6}
+
+<span class="series-number">5.461</span> Bedeutungsvoll ist die scheinbar unwichtige Tatsache, daß die logischen Scheinbeziehungen, wie ⌵ und ⊃, der Klammern bedürfen – im Gegensatz zu den wirklichen Beziehungen.
+
+Die Benützung der Klammern mit jenen scheinbaren Urzeichen deutet ja schon darauf hin, daß diese nicht die wirklichen Urzeichen sind. Und es wird doch wohl niemand glauben, daß die Klammern eine selbständige Bedeutung haben.
+
+### [Ts-202](/ts-202/#32r.7) <span class="fac">[32r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/32r.webp)</span> {#ts-202-32r7}
+
+<span class="series-number">5.4611</span> Die logischen Operationszeichen sind Interpunktionen.
+
+### [Ts-202](/ts-202/#33r.1) <span class="fac">[33r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r1}
+
+<span class="series-number">5.47</span> Es ist klar, daß alles was sich überhaupt _von vornherein_ über die Form aller Sätze sagen läßt, sich _auf einmal_ sagen lassen muß.
+
+Sind ja schon im Elementarsatze alle logischen Operationen enthalten. Denn „fa” sagt dasselbe wie „(∃x)․fx.x = a”.
+
+Wo Zusammengesetztheit ist, da ist Argument und Funktion, und wo diese sind, sind bereits alle logischen Konstanten.
+
+Man könnte sagen: Die Eine logische Konstante ist das, was _alle_ Sätze, ihrer Natur nach, mit einander gemein haben.
+
+Das aber ist die allgemeine Satzform.
+
+### [Ts-202](/ts-202/#33r.2) <span class="fac">[33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r2}
+
+<span class="series-number">5.471</span> Die allgemeine Satzform ist das Wesen des Satzes.
+
+### [Ts-202](/ts-202/#33r.3) <span class="fac">[33r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r3}
+
+<span class="series-number">5.4711</span> Das Wesen des Satzes angeben, heißt, das Wesen aller Beschreibung angeben, also das Wesen der Welt.
+
+### [Ts-202](/ts-202/#33r.4) <span class="fac">[33r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r4}
+
+<span class="series-number">5.472</span> Die Beschreibung der allgemeinsten Satzform ist die Beschreibung des einen und einzigen allgemeinen Urzeichens der Logik.
+
+### [Ts-202](/ts-202/#33r.5) <span class="fac">[33r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r5}
+
+<span class="series-number">5.473</span> Die Logik muß für sich selber sorgen.
+
+Ein _mögliches_ Zeichen muß auch bezeichnen können. Alles was in der Logik möglich ist, ist auch erlaubt. („Sokrates ist identisch” heißt darum nichts, weil es keine Eigenschaft gibt, die „identisch” heißt. Der Satz ist unsinnig, weil wir eine willkürliche Bestimmung nicht getroffen haben, aber nicht darum, weil das Symbol an und für sich unerlaubt wäre.)
+
+Wir können uns, in gewissem Sinne, nicht in der Logik irren.
+
+### [Ts-202](/ts-202/#33r.6) <span class="fac">[33r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r6}
+
+<span class="series-number">5.4731</span> Das Einleuchten, von dem Russell so viel sprach, kann nur dadurch in der Logik entbehrlich werden, daß die Sprache selbst jeden logischen Fehler verhindert. – Daß die Logik a priori ist, besteht darin, daß nicht unlogisch gedacht werden _kann_.
+
+### [Ts-202](/ts-202/#33r.7) <span class="fac">[33r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r7}
+
+<span class="series-number">5.4732</span> Wir können einem Zeichen nicht den unrechten Sinn geben.
+
+### [Ts-202](/ts-202/#33r.8) <span class="fac">[33r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp)</span> {#ts-202-33r8}
+
+<span class="series-number">5.47321</span> Ockhams Devise ist natürlich keine willkürliche, oder durch ihren praktischen Erfolg gerechtfertigte, Regel: Sie besagt, daß _unnötige_ Zeicheneinheiten nichts bedeuten.
+
+Zeichen, die _Einen_ Zweck erfüllen, sind logisch äquivalent, Zeichen, die _keinen_ Zweck erfüllen, logisch bedeutungslos.
+
+### [Ts-202](/ts-202/#33r.9+34r.1) <span class="fac">[33r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/33r.webp),[34r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-33r934r1}
+
+<span class="series-number">5.4733</span> Frege sagt: Jeder rechtmäßig gebildete Satz muß einen Sinn haben; und ich sage: Jeder mögliche Satz ist rechtmäßig gebildet, und wenn er keinen Sinn hat, so kann das nur daran liegen, daß wir einigen seiner Bestandteile keine _Bedeutung_ gegeben haben.
+
+(Wenn wir auch glauben, es getan zu haben.) So sagt „Sokrates ist identisch” darum nichts, weil wir dem Wort „identisch” als _Eigenschaftswort keine_ Bedeutung gegeben haben. Denn, wenn es als Gleichheitszeichen auftritt, so symbolisiert es auf ganz andere Art und Weise – die bezeichnende Beziehung ist ein andere, – also ist auch das Symbol in beiden Fällen ganz verschieden; die beiden Symbole haben nur das Zeichen zufällig miteinander gemein.
+
+### [Ts-202](/ts-202/#34r.2) <span class="fac">[34r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-34r2}
+
+<span class="series-number">5.474</span> Die Anzahl der nötigen Grundoperationen hängt _nur_ von unserer Notation ab.
+
+### [Ts-202](/ts-202/#34r.3) <span class="fac">[34r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-34r3}
+
+<span class="series-number">5.475</span> Es kommt nur darauf an, ein Zeichensystem von einer bestimmten Anzahl von Dimensionen – von einer bestimmten mathematischen Mannigfaltigkeit – zu bilden.
+
+### [Ts-202](/ts-202/#34r.4) <span class="fac">[34r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-34r4}
+
+<span class="series-number">5.476</span> Es ist klar, daß es sich hier nicht um eine _Anzahl von Grundbegriffen_ handelt, die bezeichnet werden müssen, sondern um den Ausdruck einer Regel.
+
+### [Ts-202](/ts-202/#34r.5) <span class="fac">[34r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-34r5}
+
+<span class="series-number">5.5</span> Jede Wahrheitsfunktion ist ein Resultat der sukzessiven Anwendung der Operation (-----W) (ξ, ....) auf Elementarsätze.
+
+Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
+
+### [Ts-202](/ts-202/#34r.6) <span class="fac">[34r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-34r6}
+
+<span class="series-number">5.501</span> Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen der Form „<math class="stacked" display="inline"><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>” an. „ξ” ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, daß sie ihre sämtlichen Werte in der Klammer vertritt.
+
+(Hat also ξ etwa die 3 Werte P, Q, R so ist <math class="stacked" display="inline"><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mo>(</mo><mtext>P,</mtext><mspace width="0.3em"/><mtext>Q,</mtext><mspace width="0.3em"/><mtext>R)</mtext></math>.)
+
+Die Werte der Variablen werden festgesetzt.
+
+Die Festsetzung ist die Beschreibung der Sätze, welche die Variable vertritt.
+
+Wie die Beschreibung der Glieder des Klammerausdruckes geschieht, ist unwesentlich.
+
+Wir _können_ drei Arten der Beschreibung unterscheiden: 1.) Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2.) Die Angabe einer Funktion fx, deren Werte für alle Werte von x die zu beschreibenden Sätze sind. 3.) Die Angabe eines formalen Gesetzes, nach welchem jene Sätze gebildet sind. In diesem Falle sind die Glieder des Klammerausdruckes sämtliche Glieder einer Formenreihe.
+
+### [Ts-202](/ts-202/#34r.7) <span class="fac">[34r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/34r.webp)</span> {#ts-202-34r7}
+
+<span class="series-number">5.502</span> Ich schreibe also statt „(-----W)(ξ, ....)” „<math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>”.
+
+<math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> ist die Negation sämtlicher Werte der Satzvariablen ξ.
+
+### [Ts-202](/ts-202/#35r.1) <span class="fac">[35r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r1}
+
+<span class="series-number">5.503</span> Da sich offenbar leicht ausdrücken läßt, wie mit dieser Operation Sätze gebildet werden können und wie Sätze mit ihr nicht zu bilden sind, so muß dies auch einen exakten Ausdruck finden können.
+
+### [Ts-202](/ts-202/#35r.2) <span class="fac">[35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r2}
+
+<span class="series-number">5.51</span> Hat ξ nur einen Wert, so ist <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mtext>~</mtext><mi>p</mi></math> (nicht p), hat es zwei Werte, so ist <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mtext>~</mtext><mi>p</mi><mn>.</mn><mtext>~</mtext><mi>q</mi></math> (weder p noch q).
+
+### [Ts-202](/ts-202/#35r.3) <span class="fac">[35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r3}
+
+<span class="series-number">5.511</span> Wie kann die allumfassende, weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen? Nur, indem sich alle diese zu einem unendlich feinen Netzwerk, zu dem großen Spiegel, verknüpfen.
+
+### [Ts-202](/ts-202/#35r.4) <span class="fac">[35r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r4}
+
+<span class="series-number">5.512</span> „~p” ist wahr, wenn „p” falsch ist. Also in dem wahren Satz „~p” ist „p” ein falscher Satz. Wie kann ihn nun der Strich „~” mit der Wirklichkeit zum Stimmen bringen?
+
+Das, was in „~p” verneint, ist aber nicht das „~”, sondern dasjenige, was allen Zeichen dieser Notation, welche p verneinen, gemeinsam ist.
+
+Also die gemeinsame Regel, nach welcher „~p”, „~~~p”, „~p⌵~p”, „~p.~p”, etc. etc. (ad inf.) gebildet werden. Und dies Gemeinsame spiegelt die Verneinung wider.
+
+### [Ts-202](/ts-202/#35r.5) <span class="fac">[35r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r5}
+
+<span class="series-number">5.513</span> Man könnte sagen: Das Gemeinsame aller Symbole, die sowohl p als q bejahen, ist der Satz „p.q”. Das Gemeinsame aller Symbole, die entweder p oder q bejahen, ist der Satz „p⌵q”.
+
+Und so kann man sagen: Zwei Sätze sind einander entgegengesetzt, wenn sie nichts miteinander gemein haben, und: Jeder Satz hat nur ein Negativ, weil es nur einen Satz gibt, der ganz außerhalb seiner liegt.
+
+Es zeigt sich so auch in Russells Notation, daß „q:p⌵~p” dasselbe sagt wie „q”. Daß „p⌵~p” nichts sagt.
+
+### [Ts-202](/ts-202/#35r.6) <span class="fac">[35r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r6}
+
+<span class="series-number">5.514</span> Ist eine Notation festgelegt, so gibt es in ihr eine Regel, nach der alle p verneinenden Sätze gebildet werden, eine Regel, nach der alle p bejahenden Sätze gebildet werden, eine Regel, nach der alle p oder q bejahenden Sätze gebildet werden, u.s.f. Diese Regeln sind den Symbolen äquivalent und in ihnen spiegelt sich ihr Sinn wider.
+
+### [Ts-202](/ts-202/#35r.7) <span class="fac">[35r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp)</span> {#ts-202-35r7}
+
+<span class="series-number">5.515</span> Es muß sich an unseren Symbolen zeigen, daß das, was durch „⌵”, „.”, etc. miteinander verbunden ist, Sätze sein müssen.
+
+Und dies ist auch der Fall, denn das Symbol „p” und „q” setzt ja selbst das „⌵”, „~”, etc. voraus. Wenn das Zeichen „p” in „p⌵q” nicht für ein komplexes Zeichen steht, dann kann es allein nicht Sinn haben; dann können aber auch die mit „p” gleichsinnigen Zeichen „p⌵p”, „p.p”, etc. keinen Sinn haben. Wenn aber „p⌵p” keinen Sinn hat, dann kann auch „p⌵q” keinen Sinn haben.
+
+### [Ts-202](/ts-202/#35r.8+36r.1) <span class="fac">[35r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/35r.webp),[36r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-35r836r1}
+
+<span class="series-number">5.5151</span> Muß das Zeichen des negativen Satzes mit dem Zeichen des positiven gebildet werden? Warum sollte man den negativen Satz nicht durch eine negative Tatsache ausdrücken können. (Etwa: Wenn „a” nicht in einer bestimmten Beziehung zu „b” steht, könnte das ausdrücken, daß aRb nicht der Fall ist.)
+
+Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
+
+Der positive _Satz_ muß die Existenz des negativen _Satzes_ voraussetzen, und umgekehrt.
+
+### [Ts-202](/ts-202/#36r.2) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r2}
+
+<span class="series-number">5.52</span> Sind die Werte von ξ sämtliche Werte einer Funktion fx für alle Werte von x, so wird <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mtext>~</mtext><mo>(</mo><mo>∃</mo><mtext>x)</mtext><mtext>․</mtext><mtext>fx</mtext></math>.
+
+### [Ts-202](/ts-202/#36r.3) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r3}
+
+<span class="series-number">5.521</span> Ich trenne den Begriff _Alle_ von der Wahrheitsfunktion.
+
+Frege und Russell haben die Allgemeinheit in Verbindung mit dem logischen Produkt oder der logischen Summe eingeführt. So wurde es schwer, die Sätze „(∃x)․fx” und „(x)․fx”, in welchen beide Ideen beschlossen liegen, zu verstehen.
+
+### [Ts-202](/ts-202/#36r.4) <span class="fac">[36r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r4}
+
+<span class="series-number">5.522</span> Das Eigentümliche der Allgemeinheitsbezeichnung ist erstens, daß sie auf ein logisches Urbild hinweist, und zweitens, daß sie Konstante hervorhebt.
+
+### [Ts-202](/ts-202/#36r.5) <span class="fac">[36r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r5}
+
+<span class="series-number">5.523</span> Die Allgemeinheitsbezeichnung tritt als Argument auf.
+
+### [Ts-202](/ts-202/#36r.6) <span class="fac">[36r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r6}
+
+<span class="series-number">5.524</span> Wenn die Gegenstände gegeben sind, so sind uns damit auch schon _alle_ Gegenstände gegeben.
+
+Wenn die Elementarsätze gegeben sind, so sind damit auch _alle_ Elementarsätze gegeben.
+
+### [Ts-202](/ts-202/#36r.7) <span class="fac">[36r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r7}
+
+<span class="series-number">5.525</span> Es ist unrichtig, den Satz „(∃x)․fx” – wie Russell dies tut – in Worten durch „fx ist _möglich_” wiederzugeben.
+
+Gewißheit, Möglichkeit, oder Unmöglichkeit einer Sachlage wird nicht durch einen Satz ausgedrückt, sondern dadurch, daß ein Ausdruck eine Tautologie, ein sinnvoller Satz, oder eine Kontradiktion ist.
+
+Jener Präzedenzfall, auf den man sich immer berufen möchte, muß schon im Symbol selber liegen.
+
+### [Ts-202](/ts-202/#36r.8) <span class="fac">[36r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r8}
+
+<span class="series-number">5.526</span> Man kann die Welt vollständig durch vollkommen verallgemeinerte Sätze beschreiben, das heißt also, ohne irgend einen Namen von vornherein einem bestimmten Gegenstand zuzuordnen.
+
+Um dann auf die gewöhnliche Ausdrucksweise zu kommen, muß man einfach nach einem Ausdruck „es gibt ein und nur ein x, welches …” sagen: Und dies x ist a.
+
+### [Ts-202](/ts-202/#36r.9) <span class="fac">[36r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/36r.webp)</span> {#ts-202-36r9}
+
+<span class="series-number">5.5261</span> Ein vollkommen verallgemeinerter Satz ist, wie jeder andere Satz zusammengesetzt. (Dies zeigt sich daran, daß wir in „(∃x,φ)․φx” „φ” und „x” getrennt erwähnen müssen.) Beide stehen unabhängig in bezeichnenden Beziehungen zur Welt, wie im unverallgemeinerten Satz.
+
+Kennzeichen des zusammengesetzten Symbols: Es hat etwas mit _anderen_ Symbolen gemeinsam.
+
+### [Ts-203](/ts-203/#41r.9) <span class="fac">[41r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/41r.webp)</span> {#ts-203-41r9}
+
+<span class="series-number">5.5352</span> Ebenso wollte man „Es gibt keine _Dinge_” ausdrücken durch „~(∃x)․ x = x”. Aber selbst wenn dies ein Satz wäre, wäre er nicht auch wahr, wenn es zwar „Dinge gäbe”, aber diese nicht mit sich selbst identisch wären?
+
+### [Ts-202](/ts-202/#37r.2) <span class="fac">[37r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r2}
+
+<span class="series-number">5.5262</span> Es verändert ja die Wahr- oder Falschheit _jedes_ Satzes etwas am allgemeinen Bau der Welt. Und der Spielraum, welcher ihrem Bau durch die Gesamtheit der Elementarsätze gelassen wird, ist eben derjenige, welchen die ganz allgemeinen Sätze begrenzen.
+
+(Wenn ein Elementarsatz wahr ist, so ist damit doch jedenfalls Ein Elementarsatz _mehr_ wahr.)
+
+### [Ts-202](/ts-202/#37r.3) <span class="fac">[37r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r3}
+
+<span class="series-number">5.53</span> Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens aus, und nicht mit Hilfe eines Gleichheitszeichens. Verschiedenheit der Gegenstände durch Verschiedenheit der Zeichen.
+
+### [Ts-202](/ts-202/#37r.4) <span class="fac">[37r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r4}
+
+<span class="series-number">5.5301</span> Daß die Identität keine Relation zwischen Gegenständen ist, leuchtet ein. Dies wird sehr klar, wenn man z.B. den Satz „(x):fx․⊃․x = a” betrachtet. Was dieser Satz sagt, ist einfach, daß _nur_ a der Funktion f genügt, und nicht, daß nur solche Dinge der Funktion f genügen, welche eine gewisse Beziehung zu a haben.
+
+Man könnte nun freilich sagen, daß eben _nur_ a diese Beziehung zu a habe, aber um dies auszudrücken, brauchten wir das Gleichheitszeichen selber.
+
+### [Ts-202](/ts-202/#37r.5) <span class="fac">[37r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r5}
+
+<span class="series-number">5.5302</span> Russells Definition von „ = ” genügt nicht; weil man nach ihr nicht sagen kann, daß zwei Gegenstände alle Eigenschaften gemeinsam haben. (Selbst wenn dieser Satz nie richtig ist, hat er doch _Sinn_.)
+
+### [Ts-202](/ts-202/#37r.6) <span class="fac">[37r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r6}
+
+<span class="series-number">5.5303</span> Beiläufig gesprochen: Von _zwei_ Dingen zu sagen, sie seien identisch, ist ein Unsinn, und von _Einem_ zu sagen, es sei identisch mit sich selbst, sagt gar nichts.
+
+### [Ts-202](/ts-202/#37r.7) <span class="fac">[37r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r7}
+
+<span class="series-number">5.531</span> Ich schreibe also nicht „f(a,b)․a = b”, sondern „f(a,a)” (oder „f(b,b)”). Und nicht „f(a,b)․~a = b”, sondern „f(a,b)”.
+
+### [Ts-202](/ts-202/#37r.8) <span class="fac">[37r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r8}
+
+<span class="series-number">5.532</span> Und analog: Nicht „(∃x,y)․f(x,y)․x = y”, sondern „(∃x).f(x,x)”; und: Nicht „(∃x,y)․f(x,y)․~x = y”, sondern „(∃x,y)․f(x,y)”.
+
+(Also statt des Russell'schen „(∃x,y)․f(x,y)”: „(∃x,y)․f(x,y).⌵.(∃x).f(x,x)”).
+
+### [Ts-202](/ts-202/#37r.9) <span class="fac">[37r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r9}
+
+<span class="series-number">5.5321</span> Statt „(x):fx⊃x = a” schreiben wir also z.B. „fa: ~(∃x,y)․fx.fy”.
+
+Und der Satz „_nur_ Ein x befriedigt f( )” lautet: „(∃x)․fx: ~(∃x,y)․fx.fy”.
+
+### [Ts-202](/ts-202/#37r.10) <span class="fac">[37r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r10}
+
+<span class="series-number">5.533</span> Das Gleichheitszeichen ist also kein wesentlicher Bestandteil der Begriffsschrift.
+
+### [Ts-202](/ts-202/#37r.11) <span class="fac">[37r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp)</span> {#ts-202-37r11}
+
+<span class="series-number">5.534</span> Und nun sehen wir, daß Scheinsätze wie: „a = a”, „a = b.b = c.⊃.a = c”, „(x).x = x”, „(∃x).x = a”, etc. sich in einer richtigen Begriffsschrift gar nicht hinschreiben lassen.
+
+### [Ts-202](/ts-202/#37r.12+38r.1) <span class="fac">[37r\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/37r.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-37r1238r1}
+
+<span class="series-number">5.535</span> Damit erledigen sich auch alle Probleme, die an solche Scheinsätze geknüpft waren.
+
+Alle Probleme, die Russells „Axiom of infinity” mit sich bringt, sind schon hier zu lösen. Das, was das Axiom of infinity sagen soll, würde sich in der Sprache dadurch ausdrücken, daß es unendlich viele Namen mit verschiedener Bedeutung gäbe.
+
+### [Ts-202](/ts-202/#38r.2) <span class="fac">[38r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r2}
+
+<span class="series-number">5.5351</span> Es gibt gewisse Fälle, wo man in Versuchung gerät, Ausdrücke von der Form „a = a” oder „p⊃p” u.dgl. zu benützen. Und zwar geschieht dies, wenn man von dem Urbild: Satz, Ding, etc. reden möchte. So hat Russell in den „Principles of Mathematics” den Unsinn „p ist ein Satz” in Symbolen durch „p⊃p” wiedergegeben und als Hypothese vor gewisse Sätze gestellt, damit deren Argumentstellen nur von Sätzen besetzt werden könnten.
+
+(Es ist schon darum Unsinn, die Hypothese p⊃p vor einen Satz zu stellen, um ihm Argumente der richtigen Form zu sichern, weil die Hypothese für einen Nicht-Satz als Argument nicht falsch, sondern unsinnig wird, und weil der Satz selbst durch die unrichtige Gattung von Argumenten unsinnig wird, also sich selbst ebenso gut, oder so schlecht, vor den unrechten Argumenten bewahrt, wie die zu diesem Zweck angehängte sinnlose Hypothese.)
+
+### [Ts-202](/ts-202/#38r.3) <span class="fac">[38r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r3}
+
+<span class="series-number">5.5352</span> Ebenso wollte man „Es gibt keine _Dinge_” ausdrücken durch „~(∃x)․ x = x”. Aber selbst wenn dies ein Satz wäre, – wäre er nicht auch wahr, wenn es zwar „Dinge gäbe”, aber diese nicht mit sich selbst identisch wären?
+
+### [Ts-202](/ts-202/#38r.4) <span class="fac">[38r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r4}
+
+<span class="series-number">5.54</span> In der allgemeinen Satzform kommt der Satz im Satze nur als Basis der Wahrheitsoperationen vor.
+
+### [Ts-202](/ts-202/#38r.5) <span class="fac">[38r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r5}
+
+<span class="series-number">5.541</span> Auf den ersten Blick scheint es, als könne ein Satz in einem anderen auch auf andere Weise vorkommen.
+
+Besonders in gewissen Satzformen der Psychologie, wie „A glaubt, daß p der Fall ist”, oder „A denkt p”, etc.
+
+Hier scheint es nämlich oberflächlich, als stünde der Satz p zu einem Gegenstand A in einer Art von Relation.
+
+(Und in der modernen Erkenntnistheorie (Russell, Moore etc.) sind jene Sätze auch so aufgefaßt worden.)
+
+### [Ts-202](/ts-202/#38r.6) <span class="fac">[38r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r6}
+
+<span class="series-number">5.542</span> Es ist aber klar, daß „A glaubt, daß p”, „A denkt p”, „A sagt p” von der Form „‚p’ sagt p” sind: Und hier handelt es sich nicht um eine Zuordnung von einer Tatsache und einem Gegenstand, sondern um die Zuordnung von Tatsachen durch Zuordnung ihrer Gegenstände.
+
+### [Ts-202](/ts-202/#38r.7) <span class="fac">[38r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r7}
+
+<span class="series-number">5.5421</span> Dies zeigt auch, daß die Seele – das Subjekt, etc. – wie sie in der heutigen oberflächlichen Psychologie aufgefaßt wird, ein Unding ist.
+
+Eine zusammengesetzte Seele wäre nämlich keine Seele mehr.
+
+### [Ts-202](/ts-202/#38r.8) <span class="fac">[38r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/38r.webp)</span> {#ts-202-38r8}
+
+<span class="series-number">5.5422</span> Die richtige Erklärung der Form des Satzes „A urteilt p” muß zeigen, daß es unmöglich ist, einen Unsinn zu urteilen. (Russells Theorie genügt dieser Bedingung nicht.)
+
+### [Ts-202](/ts-202/#39r.1) <span class="fac">[39r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r1}
+
+<span class="series-number">5.5423</span> Einen Komplex wahrnehmen, heißt, wahrnehmen, daß sich seine Bestandteile so und so zu einander verhalten.
+
+Dies erklärt wohl auch, daß man die Figur
+
+![](../graphics/202,39r.svg)
+
+auf zweierlei Art als _Würfel_ sehen kann; und alle ähnlichen Erscheinungen. Denn wir sehen eben wirklich zwei verschiedene Tatsachen.
+
+(Sehe ich erst auf die Ecken a und nur flüchtig auf b, so erscheint a vorne; und umgekehrt.)
+
+### [Ts-202](/ts-202/#39r.2) <span class="fac">[39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r2}
+
+<span class="series-number">5.55</span> Wir müssen nun die Frage nach allen möglichen Formen der Elementarsätze a priori beantworten.
+
+Der Elementarsatz besteht aus Namen. Da wir aber die Anzahl der Namen von verschiedener Bedeutung nicht angeben können, so können wir auch nicht die Zusammensetzung des Elementarsatzes angeben.
+
+### [Ts-202](/ts-202/#39r.3) <span class="fac">[39r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r3}
+
+<span class="series-number">5.551</span> Unser Grundsatz ist, daß jede Frage, die sich überhaupt durch die Logik entscheiden läßt, sich ohne weiteres entscheiden lassen muß.
+
+(Und wenn wir in die Lage kommen, ein solches Problem durch Ansehen der Welt beantworten zu müssen, so zeigt dies, daß wir auf grundfalscher Fährte sind.)
+
+### [Ts-202](/ts-202/#39r.4) <span class="fac">[39r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r4}
+
+<span class="series-number">5.552</span> Die „Erfahrung”, die wir zum Verstehen der Logik brauchen, ist nicht die, daß sich etwas so und so verhält, sondern, daß etwas _ist_; aber das ist eben _keine_ Erfahrung.
+
+Die Logik ist _vor_ jeder Erfahrung – daß etwas _so_ ist.
+
+Sie ist vor dem Wie, nicht vor dem Was.
+
+### [Ts-202](/ts-202/#39r.5) <span class="fac">[39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r5}
+
+<span class="series-number">5.5521</span> Und wenn dies nicht so wäre, wie könnten wir die Logik anwenden? Man könnte sagen: Wenn es eine Logik gäbe, auch wenn es keine Welt gäbe, wie könnte es dann eine Logik geben, da es eine Welt gibt.
+
+### [Ts-202](/ts-202/#39r.6) <span class="fac">[39r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r6}
+
+<span class="series-number">5.553</span> Russell sagte, es gäbe einfache Relationen zwischen verschiedenen Anzahlen von Dingen (Individuals). Aber zwischen welchen Anzahlen? Und wie soll sich das entscheiden? – Durch die Erfahrung?
+
+(Eine ausgezeichnete Zahl gibt es nicht.)
+
+### [Ts-202](/ts-202/#39r.7) <span class="fac">[39r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r7}
+
+<span class="series-number">5.554</span> Die Angabe jeder speziellen Form wäre vollkommen willkürlich.
+
+### [Ts-202](/ts-202/#39r.8) <span class="fac">[39r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r8}
+
+<span class="series-number">5.5541</span> Es soll sich a priori angeben lassen, ob ich z.B. in die Lage kommen kann, etwas mit dem Zeichen einer 27-stelligen Relation bezeichnen zu müssen.
+
+### [Ts-202](/ts-202/#39r.9) <span class="fac">[39r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp)</span> {#ts-202-39r9}
+
+<span class="series-number">5.5542</span> Dürfen wir denn aber überhaupt so fragen? Können wir eine Zeichenform aufstellen und nicht wissen, ob ihr etwas entsprechen könne?
+
+Hat die Frage einen Sinn: Was muß _sein_, damit etwas der-Fall-sein kann?
+
+### [Ts-202](/ts-202/#39r.10+40r.1) <span class="fac">[39r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/39r.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-39r1040r1}
+
+<span class="series-number">5.555</span> Es ist klar, wir haben vom Elementarsatz einen Begriff, abgesehen von seiner besonderen logischen Form. Wo man aber Symbole nach einem System bilden kann, dort ist dieses System das logisch wichtige und nicht die einzelnen Symbole.
+
+Und wie wäre es auch möglich, daß ich es in der Logik mit Formen zu tun hätte, die ich erfinden kann; sondern mit dem muß ich es zu tun haben, was es mir möglich macht, sie zu erfinden.
+
+### [Ts-202](/ts-202/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r2}
+
+<span class="series-number">5.556</span> Eine Hierarchie der Formen der Elementarsätze kann es nicht geben. Nur was wir selbst konstruieren, können wir voraussehen.
+
+### [Ts-202](/ts-202/#40r.3) <span class="fac">[40r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r3}
+
+<span class="series-number">5.5561</span> Die empirische Realität ist begrenzt durch die Gesamtheit der Gegenstände. Die Grenze zeigt sich wieder in der Gesamtheit der Elementarsätze.
+
+Die Hierarchien sind, und müssen unabhängig von der Realität sein.
+
+### [Ts-202](/ts-202/#40r.4) <span class="fac">[40r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r4}
+
+<span class="series-number">5.5562</span> Wissen wir aus rein logischen Gründen, daß es Elementarsätze geben muß, dann muß es jeder wissen, der die Sätze in ihrer unanalysierten Form versteht.
+
+### [Ts-202](/ts-202/#40r.5) <span class="fac">[40r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r5}
+
+<span class="series-number">5.5563</span> Alle Sätze unserer Umgangssprache sind tatsächlich, so wie sie sind, logisch vollkommen geordnet. – Jenes Einfachste, was wir hier angeben sollen, ist nicht ein Gleichnis der Wahrheit, sondern die volle Wahrheit selbst.
+
+(Unsere Probleme sind nicht abstrakt, sondern vielleicht die konkretesten, die es gibt.)
+
+### [Ts-202](/ts-202/#40r.6) <span class="fac">[40r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r6}
+
+<span class="series-number">5.557</span> Die _Anwendung_ der Logik entscheidet darüber, welche Elementarsätze es gibt.
+
+Was in der Anwendung liegt, kann die Logik nicht vorausnehmen.
+
+Das ist klar: Die Logik darf mit ihrer Anwendung nicht kollidieren.
+
+Aber die Logik muß sich mit ihrer Anwendung berühren.
+
+Also dürfen die Logik und ihre Anwendung einander nicht übergreifen.
+
+### [Ts-202](/ts-202/#40r.7) <span class="fac">[40r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r7}
+
+<span class="series-number">5.5571</span> Wenn ich die Elementarsätze nicht a priori angeben kann, dann muß es zu offenbarem Unsinn führen, sie angeben zu wollen.
+
+### [Ts-202](/ts-202/#40r.8) <span class="fac">[40r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r8}
+
+<span class="series-number">5.6</span> _Die Grenzen meiner Sprache_ bedeuten die Grenzen meiner Welt.
+
+### [Ts-202](/ts-202/#40r.9) <span class="fac">[40r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/40r.webp)</span> {#ts-202-40r9}
+
+<span class="series-number">5.61</span> Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen.
+
+Wir können also in der Logik nicht sagen: Das und das gibt es in der Welt, jenes nicht.
+
+Das würde nämlich scheinbar voraussetzen, daß wir gewisse Möglichkeiten ausschließen und dies kann nicht der Fall sein, da sonst die Logik über die Grenzen der Welt hinaus müßte; wenn sie nämlich diese Grenzen auch von der anderen Seite betrachten könnte.
+
+Was wir nicht denken können, das können wir nicht denken; wir können also auch nicht _sagen_, was wir nicht denken können.
+
+### [Ts-202](/ts-202/#41r.1) <span class="fac">[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r1}
+
+<span class="series-number">5.62</span> Diese Bemerkung gibt den Schlüssel zur Entscheidung der Frage, inwieweit der Solipsismus eine Wahrheit ist.
+
+Was der Solipsismus nämlich _meint_, ist ganz richtig, nur läßt es sich nicht _sagen_, sondern es zeigt sich.
+
+Daß die Welt _meine_ Welt ist, das zeigt sich darin, daß die Grenzen _der_ Sprache (der Sprache, die allein ich verstehe) die Grenzen _meiner_ Welt bedeuten.
+
+### [Ts-202](/ts-202/#41r.2) <span class="fac">[41r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r2}
+
+<span class="series-number">5.621</span> Die Welt und das Leben sind Eins.
+
+### [Ts-202](/ts-202/#41r.3) <span class="fac">[41r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r3}
+
+<span class="series-number">5.63</span> Ich bin meine Welt. (Der Mikrokosmos.)
+
+### [Ts-202](/ts-202/#41r.4) <span class="fac">[41r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r4}
+
+<span class="series-number">5.631</span> Das denkende, vorstellende, Subjekt gibt es nicht.
+
+Wenn ich ein Buch schriebe „Die Welt, wie ich sie vorfand”, so wäre darin auch über meinen Leib zu berichten und zu sagen, welche Glieder meinem Willen unterstehen und welche nicht etc., dies ist nämlich eine Methode, das Subjekt zu isolieren, oder vielmehr zu zeigen, daß es in einem wichtigen Sinne kein Subjekt gibt: Von ihm allein nämlich könnte in diesem Buche _nicht_ die Rede sein. –
+
+### [Ts-202](/ts-202/#41r.5) <span class="fac">[41r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r5}
+
+<span class="series-number">5.632</span> Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt.
+
+### [Ts-202](/ts-202/#41r.6) <span class="fac">[41r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r6}
+
+<span class="series-number">5.633</span> Wo _in_ der Welt ist ein metaphysisches Subjekt zu merken?
+
+Du sagst, es verhält sich hier ganz, wie mit Auge und Gesichtsfeld. Aber das Auge siehst du wirklich _nicht_.
+
+Und nichts _am Gesichtsfeld_ läßt darauf schließen, daß es von einem Auge gesehen wird.
+
+### [Ts-202](/ts-202/#41r.7) <span class="fac">[41r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r7}
+
+<span class="series-number">5.6331</span> Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
+
+![](../graphics/202,41r.svg)
+
+### [Ts-202](/ts-202/#41r.8) <span class="fac">[41r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r8}
+
+<span class="series-number">5.634</span> Das hängt damit zusammen, daß kein Teil unserer Erfahrung auch a priori ist.
+
+Alles, was wir sehen, könnte auch anders sein.
+
+Alles, was wir überhaupt beschreiben können, könnte auch anders sein.
+
+Es gibt keine Ordnung der Dinge a priori.
+
+### [Ts-202](/ts-202/#41r.9) <span class="fac">[41r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp)</span> {#ts-202-41r9}
+
+<span class="series-number">5.64</span> Hier sieht man, daß der Solipsismus, streng durchgeführt, mit dem reinen Realismus zusammenfällt. Das Ich des Solipsismus schrumpft zum ausdehnungslosen Punkt zusammen, und es bleibt die ihm koordinierte Realität.
+
+### [Ts-202](/ts-202/#41r.10+41ar.1+41br.1+42r.1) <span class="fac">[41r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41r.webp),[41ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41ar.webp),[41br\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41br.webp),[42r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-41r1041ar141br142r1}
+
+<span class="series-number">5.641</span> Es gibt also wirklich einen Sinn, in welchem in der Philosophie Nicht-Psychologisch vom Ich die Rede sein kann.
+
+Das Ich tritt in die Philosophie dadurch ein, daß “die Welt meine Welt ist”.
+
+Das philosophische Ich ist nicht der Mensch, nicht der menschliche Körper, oder die menschliche Seele, von der die Psychologie handelt, sondern das metaphysische Subjekt, die Grenze – nicht ein Teil der Welt.
+
+### [Ts-202](/ts-202/#42r.2) <span class="fac">[42r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r2}
+
+<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <math class="stacked" display="inline"><mo>[</mo><mover><mrow><mi>p</mi></mrow><mo>‾</mo></mover><mo>,</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>]</mo></math>
+
+Dies ist die allgemeine Form des Satzes.
+
+### [Ts-202](/ts-202/#41av.1-relocated) <span class="fac">[41av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41av.webp)</span> {#ts-202-41av1-relocated}
+
+<span class="series-number">6.001</span> Dies sagt nichts anderes, als daß jeder Satz ein Resultat der sukzessiven Anwendung der Operation <math class="stacked" display="inline"><mtext>N'</mtext><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> auf die Elementarsätze ist.
+
+### [Ts-202](/ts-202/#41av.2-relocated) <span class="fac">[41av\[2\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41av.webp)</span> {#ts-202-41av2-relocated}
+
+<span class="series-number">6.002</span> Ist die allgemeine Form gegeben, wie ein Satz gebaut ist, so ist damit auch schon die allgemeine Form davon gegeben, wie aus einem Satz durch eine Operation ein anderer erzeugt werden kann.
+
+### [Ts-202](/ts-202/#42r.3) <span class="fac">[42r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r3}
+
+<span class="series-number">6.01</span> Die allgemeine Form der Operation <math class="stacked" display="inline"><mtext>Ω'</mtext><mo>(</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> ist also: <math class="stacked" display="inline"><mo>[</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>]</mo><mtext>'</mtext><mspace width="0.3em"/><mo>(</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>(</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mo>[</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>]</mo><mo>)</mo></math>
+
+Das ist die allgemeinste Form des Überganges von einem Satz zum anderen.
+
+### [Ts-202](/ts-202/#42r.4) <span class="fac">[42r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r4}
+
+<span class="series-number">6.02</span> Und _so_ kommen wir zu den Zahlen: Ich definiere
+
+<math class="stacked" display="inline"><mi>x</mi><mspace width="0.3em"/><mo>=</mo><msup><mtext>Ω</mtext><mn>0</mn></msup><mtext>'</mtext><mi>x</mi><mtext>Def.</mtext></math> und
+
+<math display="block">
+  <mtext>Ω'</mtext>
+  <msup>
+    <mtext>Ω</mtext>
+    <mtext>ν</mtext>
+  </msup>
+  <mtext>'</mtext>
+  <mspace width="0.3em"/>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mtext>ν</mtext>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mtext>Def.</mtext>
+</math>
+
+Nach diesen Zeichenregeln schreiben wir also die Reihe
+
+x, Ω'x, Ω'Ω'x, Ω'Ω'Ω'x,…
+
+so: <math class="stacked" display="inline"><msup><mtext>Ω</mtext><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mn>0</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mn>0</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mn>0</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><mspace width="0.3em"/><mtext>…</mtext></math>
+
+Also schreibe ich statt „[x, ξ, Ω'ξ]”:
+
+„<math class="stacked" display="inline"><mo>[</mo><msup><mtext>Ω</mtext><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mtext>ν</mtext></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mtext>ν</mtext><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x]</mtext></math>”
+
+Und definiere: o + 1 = 1 Def. o + 1 + 1 = 2 Def. o + 1 + 1 + 1 = 3 Def. (u.s.f.)
+
+### [Ts-202](/ts-202/#41av.3-relocated) <span class="fac">[41av\[3\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41av.webp)</span> {#ts-202-41av3-relocated}
+
+<span class="series-number">6.021</span> Die Zahl ist der Exponent einer Operation.
+
+### [Ts-202](/ts-202/#42r.5) <span class="fac">[42r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r5}
+
+<span class="series-number">6.022</span> Der Zahlbegriff ist nichts anderes, als das Gemeinsame aller Zahlen, die allgemeine Form der Zahl.
+
+Der Zahlbegriff ist die variable Zahl.
+
+Und der Begriff der Zahlengleichheit ist die allgemeine Form aller speziellen Zahlengleichheiten.
+
+### [Ts-202](/ts-202/#42r.6) <span class="fac">[42r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r6}
+
+<span class="series-number">6.03</span> Die allgemeine Form der ganzen Zahl ist: [0, ξ, ξ + 1].
+
+### [Ts-202](/ts-202/#42r.7) <span class="fac">[42r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r7}
+
+<span class="series-number">6.031</span> Die Theorie der Klassen ist in der Mathematik ganz überflüssig.
+
+Dies hängt damit zusammen, daß die Allgemeinheit, welche wir in der Mathematik brauchen, nicht die _zufällige_ ist.
+
+### [Ts-202](/ts-202/#42r.8) <span class="fac">[42r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/42r.webp)</span> {#ts-202-42r8}
+
+<span class="series-number">6.1</span> Die Sätze der Logik sind Tautologien.
+
+### [Ts-202](/ts-202/#43r.1) <span class="fac">[43r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r1}
+
+<span class="series-number">6.11</span> Die Sätze der Logik sagen also Nichts. (Sie sind die analytischen Sätze.)
+
+### [Ts-202](/ts-202/#43r.2) <span class="fac">[43r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r2}
+
+<span class="series-number">6.111</span> Theorien, die einen Satz der Logik gehaltvoll erscheinen lassen, sind immer falsch. Man könnte z.B. glauben, daß die Worte „wahr” und „falsch” zwei Eigenschaften unter anderen Eigenschaften bezeichnen, und da erschiene es als eine merkwürdige Tatsache, daß jeder Satz eine dieser Eigenschaften besitzt. Das scheint nun nichts weniger als selbstverständlich zu sein, ebenso wenig selbstverständlich, wie etwa der Satz, „alle Rosen sind entweder gelb oder rot” klänge, auch wenn er wahr wäre. Ja, jener Satz bekommt nun ganz den Charakter eines naturwissenschaftlichen Satzes und dies ist das sichere Anzeichen dafür, daß er falsch aufgefaßt wurde.
+
+### [Ts-202](/ts-202/#43r.3) <span class="fac">[43r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r3}
+
+<span class="series-number">6.112</span> Die richtige Erklärung der logischen Sätze muß ihnen eine einzigartige Stellung unter allen Sätzen geben.
+
+### [Ts-202](/ts-202/#43r.4) <span class="fac">[43r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r4}
+
+<span class="series-number">6.113</span> Es ist das besondere Merkmal der logischen Sätze, daß man am Symbol allein erkennen kann, daß sie wahr sind, und diese Tatsache schließt die ganze Philosophie der Logik in sich. Und so ist es auch eine der wichtigsten Tatsachen, daß sich die Wahrheit oder Falschheit der nichtlogischen Sätze _nicht_ am Satz allein erkennen läßt.
+
+### [Ts-202](/ts-202/#43r.5) <span class="fac">[43r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r5}
+
+<span class="series-number">6.12</span> Daß die Sätze der Logik Tautologien sind, das _zeigt_ die formalen – logischen – Eigenschaften der Sprache, der Welt.
+
+Daß ihre Bestandteile _so_ verknüpft eine Tautologie ergeben, das charakterisiert die Logik ihrer Bestandteile.
+
+Damit Sätze, auf bestimmte Art und Weise verknüpft, eine Tautologie ergeben, dazu müssen sie bestimmte Eigenschaften der Struktur haben. Daß sie _so_ verbunden eine Tautologie ergeben, zeigt also, daß sie diese Eigenschaften der Struktur besitzen.
+
+### [Ts-202](/ts-202/#43r.6) <span class="fac">[43r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r6}
+
+<span class="series-number">6.1201</span> Daß z.B. die Sätze „p” und „~p” in Verbindung „~(p.~p)” eine Tautologie ergeben, zeigt, daß sie einander widersprechen. Daß die Sätze „p⊃q”, „p” und „q” in der Form „(p⊃q).(p) :⊃: (q)” miteinander verbunden eine Tautologie ergeben, zeigt, daß q aus p und p⊃q folgt. Daß „(x)․fx :⊃: fa” eine Tautologie ist, daß fa aus (x)․fx folgt. etc. etc.
+
+### [Ts-202](/ts-202/#43r.7) <span class="fac">[43r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r7}
+
+<span class="series-number">6.1202</span> Es ist klar, daß man zu demselben Zweck statt der Tautologien auch die Kontradiktionen verwenden könnte.
+
+### [Ts-202](/ts-202/#43ar.1+43av.1-relocated) <span class="fac">[43ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43ar.webp),[43av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43av.webp)</span> {#ts-202-43ar143av1-relocated}
+
+<span class="series-number">6.1203</span> Um eine Tautologie als solche zu erkennen, kann man sich, in den Fällen, in welchen in der Tautologie keine Allgemeinheitsbezeichnung vorkommt, folgender anschaulichen Methode bedienen: Ich schreibe statt „p”, „q”, „r” etc., „WpF”, „WqF”, „WrF” etc. Die Wahrheitskombinationen drücke ich durch Klammern aus, z.B.:
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43ar-1.svg)<span class="post-block-punct">”</span>
+
+und die Zuordnung der Wahr- oder Falschheit des ganzen Satzes und der Wahrheitskombinationen der Wahrheitsargumente durch Striche auf folgende Weise
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43ar-2.svg)<span class="post-block-punct">”</span>
+
+Dies Zeichen würde also z.B. den Satz p⊃q darstellen. Nun will ich z.B. den Satz ~(p.~p) ( Gesetz des Widerspruchs) daraufhin untersuchen, ob er eine Tautologie ist. Die Form „~ξ” wird in unserer Notation
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43av-1.svg)<span class="post-block-punct">”</span>
+
+geschrieben; die Form „ξ.η” so:
+
+![](../graphics/202,43av-2.svg)<span class="post-block-punct">.</span>
+
+Daher lautet der Satz ~(p.~q) so:
+
+![](../graphics/202,43av-3.svg)<span class="post-block-punct">.</span>
+
+Setzen wir hier statt „q” „p” ein und untersuchen die Verbindung der äußersten W und F mit den innersten, so ergibt sich, daß die Wahrheit des ganzen Satzes _allen_ Wahrheitskombinationen seines Argumentes, seine Falschheit keiner der Wahrheitskombinationen zugeordnet ist.
+
+### [Ts-202](/ts-202/#43r.8) <span class="fac">[43r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43r.webp)</span> {#ts-202-43r8}
+
+<span class="series-number">6.121</span> Die Sätze der Logik demonstrieren die logischen Eigenschaften der Sätze, indem sie sie zu nichtssagenden Sätzen verbinden.
+
+Diese Methode könnte man auch eine Nullmethode nennen. Im logischen Satz werden Sätze miteinander ins Gleichgewicht gebracht und der Zustand des Gleichgewichts zeigt dann an, wie diese Sätze logisch beschaffen sein müssen.
+
+### [Ts-203](/ts-203/#49r.6) <span class="fac">[49r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/49r.webp)</span> {#ts-203-49r6}
+
+<span class="series-number">6.1265</span> Immer kann man die Logik so auffassen, daß jeder Satz sein eigener Beweis ist.
+
+### [Ts-202](/ts-202/#44r.1) <span class="fac">[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r1}
+
+<span class="series-number">6.122</span> Daraus ergibt sich, daß wir auch ohne die logischen Sätze auskommen können, da wir ja in einer entsprechenden Notation die formalen Eigenschaften der Sätze durch das bloße Ansehen dieser Sätze erkennen können.
+
+### [Ts-202](/ts-202/#44r.2) <span class="fac">[44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r2}
+
+<span class="series-number">6.1221</span> Ergeben z.B. zwei Sätze „p” und „q” in der Verbindung „p⊃q” eine Tautologie, so ist klar, daß q aus p folgt.
+
+Daß z.B. „q” aus „p⊃q.p” folgt, ersehen wir aus diesen beiden Sätzen selbst, aber wir können es auch _so_ zeigen, indem wir sie zu „p⊃q.p :⊃: q” verbinden und nun zeigen, daß dies eine Tautologie ist.
+
+### [Ts-202](/ts-202/#44r.3) <span class="fac">[44r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r3}
+
+<span class="series-number">6.1222</span> Dies wirft ein Licht auf die Frage, warum die logischen Sätze nicht durch die Erfahrung bestätigt werden können, ebenso wenig wie sie durch die Erfahrung widerlegt werden können. Nicht nur muß ein Satz der Logik durch keine mögliche Erfahrung widerlegt werden können, sondern er darf auch nicht durch eine solche bestätigt werden können.
+
+### [Ts-202](/ts-202/#44r.4) <span class="fac">[44r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r4}
+
+<span class="series-number">6.1223</span> Nun wird klar, warum man oft fühlte, als wären die „logischen Wahrheiten” von uns zu „_fordern_”: wir können sie nämlich insofern fordern, als wir eine genügende Notation fordern können.
+
+### [Ts-202](/ts-202/#44r.5) <span class="fac">[44r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r5}
+
+<span class="series-number">6.1224</span> Es wird jetzt auch klar, warum die Logik die Lehre von den Formen und vom Schließen genannt wurde.
+
+### [Ts-202](/ts-202/#44r.6) <span class="fac">[44r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r6}
+
+<span class="series-number">6.123</span> Es ist klar: Die logischen Gesetze dürfen nicht selbst wieder logischen Gesetzen unterstehen.
+
+(Es gibt nicht, wie Russell meinte, für jede „Type” ein eigenes Gesetz des Widerspruches, sondern Eines genügt, da es auf sich selbst nicht angewendet wird.)
+
+### [Ts-202](/ts-202/#44r.7) <span class="fac">[44r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r7}
+
+<span class="series-number">6.1231</span> Das Anzeichen des logischen Satzes ist _nicht_ die Allgemeingültigkeit.
+
+Allgemein sein, heißt ja nur: Zufälligerweise für alle Dinge gelten. Ein unverallgemeinerter Satz kann ja ebensowohl tautologisch sein, als ein verallgemeinerter.
+
+### [Ts-202](/ts-202/#44r.8) <span class="fac">[44r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r8}
+
+<span class="series-number">6.1232</span> Die logische Allgemeingültigkeit könnte man wesentlich nennen, im Gegensatz zu jener zufälligen, etwa des Satzes „alle Menschen sind sterblich”. Sätze, wie Russells „Axiom of reducibility” sind nicht logische Sätze, und dies erklärt unser Gefühl: Daß sie, wenn wahr, so doch nur durch einen günstigen Zufall wahr sein könnten.
+
+### [Ts-202](/ts-202/#44r.9) <span class="fac">[44r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp)</span> {#ts-202-44r9}
+
+<span class="series-number">6.1233</span> Es läßt sich eine Welt denken, in der das Axiom of reducibility nicht gilt. Es ist aber klar, daß die Logik nichts mit der Frage zu schaffen hat, ob unsere Welt wirklich so ist oder nicht.
+
+### [Ts-202](/ts-202/#44r.10+45r.1) <span class="fac">[44r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/44r.webp),[45r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-44r1045r1}
+
+<span class="series-number">6.124</span> Die logischen Sätze beschreiben das Gerüst der Welt, oder vielmehr, sie stellen es dar. Sie „handeln” von nichts. Sie setzen voraus, daß Namen Bedeutung, und Elementarsätze Sinn haben: Und dies ist ihre Verbindung mit der Welt. Es ist klar, daß es etwas über die Welt anzeigen muß, daß gewisse Verbindungen von Symbolen – welche wesentlich einen bestimmten Charakter haben – Tautologien sind. Hierin liegt das Entscheidende. Wir sagten, manches an den Symbolen, die wir gebrauchen, wäre willkürlich, manches nicht. In der Logik drückt nur dieses aus: Das heißt aber, in der Logik drücken nicht _wir_ mit Hilfe der Zeichen aus, was wir wollen, sondern in der Logik sagt die Natur der naturnotwendigen Zeichen selbst aus: Wenn wir die logische Syntax irgend einer Zeichensprache kennen, dann sind bereits alle Sätze der Logik gegeben.
+
+### [Ts-202](/ts-202/#45r.2) <span class="fac">[45r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r2}
+
+<span class="series-number">6.125</span> Es ist möglich, und zwar auch nach der alten Auffassung der Logik, von vornherein eine Beschreibung aller „wahren” logischen Sätze zu geben.
+
+### [Ts-202](/ts-202/#45r.3) <span class="fac">[45r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r3}
+
+<span class="series-number">6.1251</span> Darum kann es in der Logik auch _nie_ Überraschungen geben.
+
+### [Ts-202](/ts-202/#45r.4) <span class="fac">[45r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r4}
+
+<span class="series-number">6.126</span> Ob ein Satz der Logik angehört, kann man berechnen, indem man die logischen Eigenschaften des _Symbols_ berechnet.
+
+Und dies tun wir, wenn wir einen logischen Satz „beweisen”. Denn, ohne uns um einen Sinn und eine Bedeutung zu kümmern, bilden wir den logischen Satz aus anderen nach bloßen _Zeichenregeln_.
+
+Der Beweis der logischen Sätze besteht darin, daß wir sie aus anderen logischen Sätzen durch sukzessive Anwendung gewisser Operationen entstehen lassen, die aus den Ersten immer wieder Tautologien erzeugen. (Und zwar _folgen_ aus einer Tautologie nur Tautologien.)
+
+Natürlich ist diese Art zu zeigen, daß ihre Sätze Tautologien sind, der Logik durchaus unwesentlich. Schon darum, weil die Sätze, von welchen der Beweis ausgeht, ja ohne Beweis zeigen müssen, daß sie Tautologien sind.
+
+### [Ts-202](/ts-202/#45r.5) <span class="fac">[45r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r5}
+
+<span class="series-number">6.1261</span> In der Logik sind Prozeß und Resultat äquivalent. (Darum keine Überraschung.)
+
+### [Ts-202](/ts-202/#45r.6) <span class="fac">[45r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r6}
+
+<span class="series-number">6.1262</span> Der Beweis in der Logik ist nur ein mechanisches Hilfsmittel zum leichteren Erkennen der Tautologie, wo sie kompliziert ist.
+
+### [Ts-202](/ts-202/#45r.7) <span class="fac">[45r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r7}
+
+<span class="series-number">6.1263</span> Es wäre ja auch zu merkwürdig, wenn man einen sinnvollen Satz _logisch_ aus anderen beweisen könnte, und einen logischen Satz _auch_. Es ist von vornherein klar, daß der logische Beweis eines sinnvollen Satzes und der Beweis _in_ der Logik zwei ganz verschiedene Dinge sein müssen.
+
+### [Ts-202](/ts-202/#45r.8) <span class="fac">[45r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r8}
+
+<span class="series-number">6.1264</span> Der sinnvolle Satz sagt etwas aus, und sein Beweis zeigt, daß es so ist; in der Logik ist jeder Satz die Form eines Beweises.
+
+Jeder Satz der Logik ist ein in Zeichen dargestellter modus ponens. (Und den modus ponens kann man nicht durch einen Satz ausdrücken.)
+
+### [Ts-202](/ts-202/#45r.9) <span class="fac">[45r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/45r.webp)</span> {#ts-202-45r9}
+
+<span class="series-number">6.1265</span> Immer kann man die Logik so auffassen, daß jeder Satz sein eigener Beweis ist.
+
+### [Ts-202](/ts-202/#46r.1) <span class="fac">[46r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r1}
+
+<span class="series-number">6.127</span> Alle Sätze der Logik sind gleichberechtigt, es gibt unter ihnen nicht wesentlich Grundgesetze und abgeleitete Sätze.
+
+Jede Tautologie zeigt selbst, daß sie eine Tautologie ist.
+
+### [Ts-202](/ts-202/#46r.2) <span class="fac">[46r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r2}
+
+<span class="series-number">6.1271</span> Es ist klar, daß die Anzahl der „logischen Grundgesetze” willkürlich ist, denn man könnte die Logik ja aus Einem Grundgesetz ableiten, indem man einfach z.B. aus Freges Grundgesetzen das logische Produkt bildet. (Frege würde vielleicht sagen, daß dieses Grundgesetz nun nicht mehr unmittelbar einleuchte. Aber es ist merkwürdig, daß ein so exakter Denker wie Frege sich auf den Grad des Einleuchtens als Kriterium des logischen Satzes berufen hat.)
+
+### [Ts-202](/ts-202/#46r.3) <span class="fac">[46r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r3}
+
+<span class="series-number">6.13</span> Die Logik ist keine Lehre, sondern ein Spiegelbild der Welt.
+
+Die Logik ist transzendental.
+
+### [Ts-202](/ts-202/#46r.4) <span class="fac">[46r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r4}
+
+<span class="series-number">6.2</span> Die Mathematik ist eine logische Methode.
+
+Die Sätze der Mathematik sind Gleichungen oder Ungleichungen, also Scheinsätze.
+
+### [Ts-202](/ts-202/#46r.5) <span class="fac">[46r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r5}
+
+<span class="series-number">6.21</span> Der Satz der Mathematik drückt keinen Gedanken aus.
+
+### [Ts-202](/ts-202/#46r.6) <span class="fac">[46r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r6}
+
+<span class="series-number">6.211</span> Im Leben ist es ja nie der mathematische Satz, den wir brauchen, sondern wir benützen den mathematischen Satz _nur_, um aus Sätzen, welche nicht der Mathematik angehören, auf andere zu schließen, welche gleichfalls nicht der Mathematik angehören.
+
+(In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz” immer wieder zu wertvollen Einsichten.)
+
+### [Ts-202](/ts-202/#46r.7) <span class="fac">[46r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r7}
+
+<span class="series-number">6.22</span> Die Logik der Welt, die die Sätze der Logik in den Tautologien zeigen, zeigt die Mathematik in den Gleichungen.
+
+### [Ts-202](/ts-202/#46r.8) <span class="fac">[46r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r8}
+
+<span class="series-number">6.23</span> Wenn zwei Ausdrücke durch das Gleichheitszeichen verbunden werden, so heißt das, sie sind durch einander ersetzbar. Ob dies aber der Fall ist, muß sich an den beiden Ausdrücken selbst zeigen.
+
+Es charakterisiert die logische Form zweier Ausdrücke, daß sie durch einander ersetzbar sind.
+
+### [Ts-202](/ts-202/#46r.9) <span class="fac">[46r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r9}
+
+<span class="series-number">6.231</span> Es ist eine Eigenschaft der Bejahung, daß man sie als doppelte Verneinung auffassen kann.
+
+Es ist eine Eigenschaft von „1 + 1 + 1 + 1”, daß man es als „(1 + 1) + (1 + 1)” auffassen kann.
+
+### [Ts-202](/ts-202/#46r.10) <span class="fac">[46r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/46r.webp)</span> {#ts-202-46r10}
+
+<span class="series-number">6.232</span> Frege sagt, die beiden Ausdrücke haben dieselbe Bedeutung, aber verschiedenen Sinn.
+
+Das Wesentliche an der Gleichung ist aber, daß sie nicht notwendig ist, um zu zeigen, daß die beiden Ausdrücke, die das Gleichheitszeichen verbindet, dieselbe Bedeutung haben, da sich dies aus den beiden Ausdrücken selbst ersehen läßt.
+
+### [Ts-202](/ts-202/#47r.1) <span class="fac">[47r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r1}
+
+<span class="series-number">6.2321</span> Und, daß die Sätze der Mathematik bewiesen werden können, heißt ja nichts anderes, als daß ihre Richtigkeit einzusehen ist, ohne daß das, was sie ausdrücken, selbst mit den Tatsachen auf seine Richtigkeit hin verglichen werden muß.
+
+### [Ts-202](/ts-202/#47r.2) <span class="fac">[47r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r2}
+
+<span class="series-number">6.2322</span> Die Identität der Bedeutung zweier Ausdrücke läßt sich nicht _behaupten_. Denn um etwas von ihrer Bedeutung behaupten zu können, muß ich ihre Bedeutung kennen: und indem ich ihre Bedeutung kenne, weiß ich, ob sie dasselbe oder verschiedenes bedeuten.
+
+### [Ts-202](/ts-202/#47r.3) <span class="fac">[47r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r3}
+
+<span class="series-number">6.2323</span> Die Gleichung kennzeichnet nur den Standpunkt, von welchem ich die beiden Ausdrücke betrachte, nämlich vom Standpunkte ihrer Bedeutungsgleichheit.
+
+### [Ts-202](/ts-202/#47r.4) <span class="fac">[47r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r4}
+
+<span class="series-number">6.233</span> Die Frage, ob man zur Lösung der mathematischen Probleme die Anschauung brauche, muß dahin beantwortet werden, daß eben die Sprache hier die nötige Anschauung liefert.
+
+### [Ts-202](/ts-202/#47r.5) <span class="fac">[47r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r5}
+
+<span class="series-number">6.2331</span> Der Vorgang des _Rechnens_ vermittelt eben diese Anschauung.
+
+Die Rechnung ist kein Experiment.
+
+### [Ts-202](/ts-202/#47r.6) <span class="fac">[47r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r6}
+
+<span class="series-number">6.234</span> Die Mathematik ist eine Methode der Logik.
+
+### [Ts-202](/ts-202/#47r.7) <span class="fac">[47r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r7}
+
+<span class="series-number">6.2341</span> Das Wesentliche der mathematischen Methode ist es mit Gleichungen zu arbeiten. Auf dieser Methode beruht es nämlich, daß jeder Satz der Mathematik sich von selbst verstehen muß.
+
+### [Ts-202](/ts-202/#47r.8) <span class="fac">[47r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r8}
+
+<span class="series-number">6.24</span> Die Methode der Mathematik, zu ihren Gleichungen zu kommen, ist die Substitutionsmethode.
+
+Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir schreiten von einer Anzahl von Gleichungen zu neuen Gleichungen vor, indem wir den Gleichungen entsprechend, Ausdrücke durch andere ersetzen.
+
+### [Ts-202](/ts-202/#47r.9) <span class="fac">[47r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r9}
+
+<span class="series-number">6.241</span> So lautet der Beweis des Satzes 2 × 2 = 4:
+
+<math display="block">
+  <mo>(</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mtext>ν</mtext>
+  </msup>
+  <msup>
+    <mo>)</mo>
+    <mtext>μ</mtext>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mtext>ν</mtext>
+    <mspace width="0.3em"/>
+    <mo>×</mo>
+    <mspace width="0.3em"/>
+    <mtext>μ</mtext>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mtext>Def.</mtext>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>2</mn>
+    <mspace width="0.3em"/>
+    <mo>×</mo>
+    <mspace width="0.3em"/>
+    <mn>2</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <mspace width="0.3em"/>
+  <mo>(</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>2</mn>
+  </msup>
+  <msup>
+    <mo>)</mo>
+    <mn>2</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <mspace width="0.3em"/>
+  <mo>(</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>2</mn>
+  </msup>
+  <msup>
+    <mo>)</mo>
+    <mn>1</mn>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>2</mn>
+  </msup>
+  <mtext>'</mtext>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>2</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>1</mn>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+  </msup>
+  <mtext>'</mtext>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>1</mn>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <mspace width="0.3em"/>
+  <mo>(</mo>
+  <mtext>Ω'</mtext>
+  <mtext>Ω)</mtext>
+  <mtext>'</mtext>
+  <mo>(</mo>
+  <mtext>Ω'</mtext>
+  <mtext>Ω)</mtext>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <mspace width="0.3em"/>
+  <mtext>Ω'</mtext>
+  <mtext>Ω'</mtext>
+  <mtext>Ω'</mtext>
+  <mtext>Ω'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>1</mn>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+    <mspace width="0.3em"/>
+    <mo>+</mo>
+    <mspace width="0.3em"/>
+    <mn>1</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+  <mspace width="0.3em"/>
+  <mo>=</mo>
+  <msup>
+    <mtext>Ω</mtext>
+    <mn>4</mn>
+  </msup>
+  <mtext>'</mtext>
+  <mi>x</mi>
+</math>
+
+### [Ts-202](/ts-202/#47r.10) <span class="fac">[47r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r10}
+
+<span class="series-number">6.3</span> Die Erforschung der Logik bedeutet die Erforschung _aller Gesetzmäßigkeit_. Und außerhalb der Logik ist alles Zufall.
+
+### [Ts-202](/ts-202/#47r.11) <span class="fac">[47r\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/47r.webp)</span> {#ts-202-47r11}
+
+<span class="series-number">6.31</span> Das sogenannte Gesetz der Induktion kann jedenfalls kein logisches Gesetz sein, denn es ist offenbar ein sinnvoller Satz. – Und darum kann es auch kein Gesetz a priori sein.
+
+### [Ts-202](/ts-202/#48r.1) <span class="fac">[48r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/48r.webp)</span> {#ts-202-48r1}
+
+<span class="series-number">6.32</span> Das Kausalitätsgesetz ist kein Gesetz, sondern die Form eines Gesetzes.
+
+### [Ts-202](/ts-202/#48r.2) <span class="fac">[48r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/48r.webp)</span> {#ts-202-48r2}
+
+<span class="series-number">6.321</span> „Kausalitätsgesetz”, das ist ein Gattungsname. Und wie es in der Mechanik, sagen wir, Minimum-Gesetze gibt, – etwa der kleinsten Wirkung – so gibt es in der Physik Kausalitätsgesetze, Gesetze von der Kausalitätsform.
+
+### [Ts-202](/ts-202/#48r.3) <span class="fac">[48r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/48r.webp)</span> {#ts-202-48r3}
+
+<span class="series-number">6.3211</span> Man hat ja auch davon eine Ahnung gehabt, daß es _ein_ „Gesetz der kleinsten Wirkung” geben müsse, ehe man genau wußte, wie es lautete. (Hier, wie immer, stellt sich das a priori Gewisse als etwas rein Logisches heraus.)
+
+### [Ts-202](/ts-202/#48r.4) <span class="fac">[48r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/48r.webp)</span> {#ts-202-48r4}
+
+<span class="series-number">6.33</span> Wir _glauben_ nicht a priori an ein Erhaltungsgesetz, sondern wir _wissen_ a priori die Möglichkeit einer logischen Form.
+
+### [Ts-202](/ts-202/#48r.5) <span class="fac">[48r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/48r.webp)</span> {#ts-202-48r5}
+
+<span class="series-number">6.34</span> Alle jene Sätze, wie der Satz vom Grunde, von der Kontinuität in der Natur, vom kleinsten Aufwande in der Natur etc. etc., alle diese sind Einsichten a priori über die mögliche Formgebung der Sätze der Wissenschaft.
+
+### [Ts-202](/ts-202/#48r.6) <span class="fac">[48r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/48r.webp)</span> {#ts-202-48r6}
+
+<span class="series-number">6.341</span> Die Newtonsche Mechanik z.B. bringt die Weltbeschreibung auf eine einheitliche Form. Denken wir uns eine weiße Fläche, auf der unregelmäßige schwarze Flecken wären. Wir sagen nun: Was für ein Bild immer hiedurch entsteht, immer kann ich seiner Beschreibung beliebig nahe kommen, indem ich die Fläche mit einem entsprechend feinen quadratischen Netzwerk bedecke und nun von jedem Quadrat sage, daß es weiß oder schwarz ist. Ich werde auf diese Weise die Beschreibung der Fläche auf eine einheitliche Form gebracht haben. Diese Form ist beliebig, denn ich hätte mit dem gleichen Erfolge ein Netz aus dreieckigen oder sechseckigen Maschen verwenden können. Es kann sein, daß die Beschreibung mit Hilfe eines Dreiecks-Netzes einfacher geworden wäre; das heißt, daß wir die Fläche mit einem gröberen Dreiecks-Netz genauer beschreiben könnten, als mit einem feineren quadratischen (oder umgekehrt) u.s.w. Den verschiedenen Netzen entsprechen verschiedene Systeme der Weltbeschreibung. Die Mechanik bestimmt eine Form der Weltbeschreibung, indem sie sagt: Alle Sätze der Weltbeschreibung müssen aus einer Anzahl gegebener Sätze – den mechanischen Axiomen – auf eine gegebene Art und Weise erhalten werden. Hiedurch liefert sie die Bausteine zum Bau des wissenschaftlichen Gebäudes und sagt: Welches Gebäude immer du aufführen willst, jedes mußt du irgendwie mit diesen und nur diesen Bausteinen zusammenbringen.
+
+(Wie man mit dem Zahlensystem jede beliebige Anzahl, so muß man mit dem System der Mechanik jeden beliebigen Satz der Physik hinschreiben können.)
+
+### [Ts-202](/ts-202/#49r.1) <span class="fac">[49r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r1}
+
+<span class="series-number">6.342</span> Und nun sehen wir die gegenseitige Stellung von Logik und Mechanik. (Man könnte das Netz auch aus verschiedenartigen Figuren etwa aus Dreiecken und Sechsecken bestehen lassen.) Daß sich ein Bild, wie das vorhin erwähnte, durch ein Netz von gegebener Form beschreiben läßt, sagt über das Bild _nichts_ aus. (Denn dies gilt für jedes Bild dieser Art.) _Das_ aber charakterisiert das Bild, daß es sich durch ein bestimmtes Netz von _bestimmter_ Feinheit _vollständig_ beschreiben läßt.
+
+So auch sagt es nichts über die Welt aus, daß sie sich durch die Newtonsche Mechanik beschreiben läßt; wohl aber, daß sie sich _so_ durch jene beschreiben läßt, wie dies eben der Fall ist. Auch das sagt etwas über die Welt, daß sie sich durch die eine Mechanik einfacher beschreiben läßt, als durch die andere.
+
+### [Ts-202](/ts-202/#49r.2) <span class="fac">[49r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r2}
+
+<span class="series-number">6.343</span> Die Mechanik ist ein Versuch, alle _wahren_ Sätze, die wir zur Weltbeschreibung brauchen, nach einem Plane zu konstruieren.
+
+### [Ts-202](/ts-202/#49r.3) <span class="fac">[49r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r3}
+
+<span class="series-number">6.3431</span> Durch den ganzen logischen Apparat hindurch sprechen die physikalischen Gesetze doch von den Gegenständen der Welt.
+
+### [Ts-202](/ts-202/#49r.4) <span class="fac">[49r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r4}
+
+<span class="series-number">6.3432</span> Wir dürfen nicht vergessen, daß die Weltbeschreibung durch die Mechanik immer die ganz allgemeine ist. Es ist in ihr z.B. nie von _bestimmten_ materiellen Punkten die Rede, sondern immer nur von _irgend welchen_.
+
+### [Ts-202](/ts-202/#49r.5) <span class="fac">[49r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r5}
+
+<span class="series-number">6.35</span> Obwohl die Flecke in unserem Bild geometrische Figuren sind, so kann doch selbstverständlich die Geometrie gar nichts über ihre tatsächliche Form und Lage sagen. Das Netz aber ist _rein_ geometrisch, alle seine Eigenschaften können a priori angegeben werden.
+
+Gesetze, wie der Satz vom Grunde etc., handeln vom Netz, nicht von dem, was das Netz beschreibt.
+
+### [Ts-202](/ts-202/#49r.6) <span class="fac">[49r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r6}
+
+<span class="series-number">6.36</span> Wenn es ein Kausalitätsgesetz gäbe, so könnte es lauten: „Es gibt Naturgesetze”.
+
+Aber freilich kann man das nicht sagen; es zeigt sich.
+
+### [Ts-202](/ts-202/#49r.7) <span class="fac">[49r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp)</span> {#ts-202-49r7}
+
+<span class="series-number">6.361</span> In der Ausdrucksweise Hertz's könnte man sagen: Nur _gesetzmäßige_ Zusammenhänge sind _denkbar_.
+
+### [Ts-202](/ts-202/#49r.8+50r.1) <span class="fac">[49r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/49r.webp),[50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-49r850r1}
+
+<span class="series-number">6.3611</span> Wir können keinen Vorgang mit dem „Ablauf der Zeit” vergleichen – diesen gibt es nicht –, sondern nur mit einem anderen Vorgang (etwa mit dem Gang des Chronometers).
+
+Daher ist die Beschreibung des zeitlichen Verlaufs nur so möglich, daß wir uns auf einen anderen Vorgang stützen.
+
+Ganz Analoges gilt für den Raum. Wo man z.B. sagt, es könnte keines von zwei Ereignissen (die sich gegenseitig ausschließen) eintreten, weil _keine Ursache_ vorhanden sei, warum das eine eher als das andere eintreten solle, da handelt es sich in Wirklichkeit darum, daß man gar nicht _eines_ der beiden Ereignisse beschreiben kann, wenn nicht irgend eine Asymmetrie vorhanden ist. Und _wenn_ eine solche Asymmetrie vorhanden _ist_, so können wir diese als _Ursache_ des Eintreffens des einen und Nicht-Eintreffens des anderen auffassen.
+
+### [Ts-202](/ts-202/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r2}
+
+<span class="series-number">6.36111</span> Das Kant'sche Problem von der rechten und linken Hand, die man nicht zur Deckung bringen kann, besteht schon in der Ebene, ja im eindimensionalen Raum,
+
+![](../graphics/202,50r.svg)
+
+wo die beiden kongruenten Figuren a und b auch nicht zur Deckung gebracht werden können, ohne aus diesem Raum herausbewegt zu werden. Rechte und linke Hand sind tatsächlich vollkommen kongruent. Und daß man sie nicht zur Deckung bringen kann, hat damit nichts zu tun.
+
+Den rechten Handschuh könnte man an die linke Hand ziehen, wenn man ihn im vierdimensionalen Raum umdrehen könnte.
+
+### [Ts-202](/ts-202/#50r.3) <span class="fac">[50r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r3}
+
+<span class="series-number">6.362</span> Was sich beschreiben läßt, das kann auch geschehen, und was das Kausalitätsgesetz ausschließen soll, das läßt sich auch nicht beschreiben.
+
+### [Ts-202](/ts-202/#50r.4) <span class="fac">[50r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r4}
+
+<span class="series-number">6.363</span> Der Vorgang der Induktion besteht darin, daß wir das _einfachste_ Gesetz annehmen, das mit unseren Erfahrungen in Einklang zu bringen ist.
+
+### [Ts-202](/ts-202/#50r.5) <span class="fac">[50r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r5}
+
+<span class="series-number">6.3631</span> Dieser Vorgang hat aber keine logische, sondern nur eine psychologische Begründung.
+
+Es ist klar, daß kein Grund vorhanden ist, zu glauben, es werde nun auch wirklich der einfachste Fall eintreten.
+
+### [Ts-202](/ts-202/#50r.6) <span class="fac">[50r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r6}
+
+<span class="series-number">6.36311</span> Daß die Sonne morgen aufgehen wird, ist eine Hypothese; und das heißt: wir _wissen_ nicht, ob sie aufgehen wird.
+
+### [Ts-202](/ts-202/#50r.7) <span class="fac">[50r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r7}
+
+<span class="series-number">6.37</span> Einen Zwang, nach dem Eines geschehen müßte, weil etwas anderes geschehen ist, gibt es nicht. Es gibt nur eine _logische_ Notwendigkeit.
+
+### [Ts-202](/ts-202/#50r.8) <span class="fac">[50r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r8}
+
+<span class="series-number">6.371</span> Der ganzen modernen Weltanschauung liegt die Täuschung zugrunde, daß die sogenannten Naturgesetze die Erklärungen der Naturerscheinungen seien.
+
+### [Ts-202](/ts-202/#50r.9) <span class="fac">[50r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/50r.webp)</span> {#ts-202-50r9}
+
+<span class="series-number">6.372</span> So bleiben sie bei den Naturgesetzen als bei etwas Unantastbarem stehen, wie die älteren bei Gott und dem Schicksal.
+
+Und sie haben ja beide Recht, und Unrecht. Die Alten sind allerdings insofern klarer, als sie einen klaren Abschluß anerkennen, während es bei dem neuen System scheinen soll, als sei _alles_ erklärt.
+
+### [Ts-202](/ts-202/#51r.1) <span class="fac">[51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r1}
+
+<span class="series-number">6.373</span> Die Welt ist unabhängig von meinem Willen.
+
+### [Ts-202](/ts-202/#51r.2) <span class="fac">[51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r2}
+
+<span class="series-number">6.374</span> Auch wenn alles, was wir wünschen, geschähe, so wäre dies doch nur, sozusagen, eine Gnade des Schicksals, denn es ist kein _logischer_ Zusammenhang zwischen Willen und Welt, der dies verbürgte, und den angenommenen physikalischen Zusammenhang könnten wir doch nicht selbst wieder wollen.
+
+### [Ts-202](/ts-202/#51r.3) <span class="fac">[51r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r3}
+
+<span class="series-number">6.375</span> Wie es nur eine _logische_ Notwendigkeit gibt, so gibt es auch nur eine _logische_ Unmöglichkeit.
+
+### [Ts-202](/ts-202/#51r.4) <span class="fac">[51r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r4}
+
+<span class="series-number">6.3751</span> Daß z.B. zwei Farben zugleich an einem Ort des Gesichtsfeldes sind, ist unmöglich und zwar logisch unmöglich, denn es ist durch die logische Struktur der Farbe ausgeschlossen.
+
+Denken wir daran, wie sich dieser Widerspruch in der Physik darstellt: Ungefähr so, daß ein Teilchen nicht zu gleicher Zeit zwei Geschwindigkeiten haben kann; das heißt, daß es nicht zu gleicher Zeit an zwei Orten sein kann; das heißt, daß Teilchen an verschiedenen Orten zu Einer Zeit nicht identisch sein können.
+
+(Es ist klar, daß das logische Produkt zweier Elementarsätze weder eine Tautologie noch eine Kontradiktion sein kann. Die Aussage, daß ein Punkt des Gesichtsfeldes zu gleicher Zeit zwei verschiedene Farben hat, ist eine Kontradiktion.)
+
+### [Ts-202](/ts-202/#51r.5) <span class="fac">[51r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r5}
+
+<span class="series-number">6.4</span> Alle Sätze sind gleichwertig.
+
+### [Ts-202](/ts-202/#51r.6) <span class="fac">[51r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r6}
+
+<span class="series-number">6.41</span> Der Sinn der Welt muß außerhalb ihrer liegen. In der Welt ist alles wie es ist und geschieht alles wie es geschieht; es gibt _in_ ihr keinen Wert – und wenn es ihn gäbe, so hätte er keinen Wert.
+
+Wenn es einen Wert gibt, der Wert hat, so muß er außerhalb alles Geschehens und So-Seins liegen. Denn alles Geschehen und So-Sein ist zufällig.
+
+Was es nicht-zufällig macht, kann nicht _in_ der Welt liegen, denn sonst wäre dies wieder zufällig.
+
+Es muß außerhalb der Welt liegen.
+
+### [Ts-202](/ts-202/#51r.7) <span class="fac">[51r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r7}
+
+<span class="series-number">6.42</span> Darum kann es auch keine Sätze der Ethik geben.
+
+Sätze können nichts Höheres ausdrücken.
+
+### [Ts-202](/ts-202/#51r.8) <span class="fac">[51r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp)</span> {#ts-202-51r8}
+
+<span class="series-number">6.421</span> Es ist klar, daß sich die Ethik nicht aussprechen läßt.
+
+Die Ethik ist transzendental.
+
+(Ethik und Ästhetik sind Eins.)
+
+### [Ts-202](/ts-202/#51r.9+51av.1+51av.2+51av.3+52r.1) <span class="fac">[51r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51r.webp),[51av\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51av.webp),[51av\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51av.webp),[51av\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51av.webp),[52r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-51r951av151av251av352r1}
+
+<span class="series-number">6.422</span> Der erste Gedanke bei der Aufstellung eines ethischen Gesetzes von der Form „du sollst …” ist: Und was dann, wenn ich es nicht tue? Es ist aber klar, daß die Ethik nichts mit Strafe und Lohn im gewöhnlichen Sinne zu tun hat. Also muß diese Frage nach den _Folgen_ einer Handlung belanglos sein. – Zum mindesten dürfen diese Folgen nicht Ereignisse sein. Denn etwas muß doch an jener Fragestellung richtig sein. Es muß zwar eine Art von ethischem Lohn und ethischer Strafe geben, aber diese müssen in der Handlung selbst liegen.
+
+(Und das ist auch klar, daß der Lohn etwas Angenehmes, die Strafe etwas Unangenehmes sein muß.)
+
+### [Ts-202](/ts-202/#51av.1-relocated) <span class="fac">[51av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51av.webp)</span> {#ts-202-51av1-relocated}
+
+<span class="series-number">6.423</span> Vom Willen als dem Träger des Ethischen, kann nicht gesprochen werden.
+
+Und der Wille als Phänomen interessiert, nur die Psychologie.
+
+### [Ts-202](/ts-202/#52r.2) <span class="fac">[52r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r2}
+
+<span class="series-number">6.43</span> Wenn das gute oder böse Wollen die Welt ändert, so kann es nur die Grenzen der Welt ändern, nicht die Tatsachen; nicht das, was durch die Sprache ausgedrückt werden kann.
+
+Kurz, die Welt muß dann dadurch überhaupt eine andere werden. Sie muß sozusagen als Ganzes abnehmen oder zunehmen.
+
+Die Welt des Glücklichen ist eine andere als die des Unglücklichen.
+
+### [Ts-202](/ts-202/#52r.3) <span class="fac">[52r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r3}
+
+<span class="series-number">6.431</span> Wie auch beim Tod die Welt sich nicht ändert, sondern aufhört.
+
+### [Ts-202](/ts-202/#52r.4) <span class="fac">[52r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r4}
+
+<span class="series-number">6.4311</span> Der Tod ist kein Ereignis des Lebens. Den Tod erlebt man nicht.
+
+Wenn man unter Ewigkeit nicht unendliche Zeitdauer, sondern Unzeitlichkeit versteht, dann lebt der ewig, der in der Gegenwart lebt.
+
+Unser Leben ist ebenso endlos, wie unser Gesichtsfeld grenzenlos ist.
+
+### [Ts-202](/ts-202/#52r.5) <span class="fac">[52r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r5}
+
+<span class="series-number">6.4312</span> Die zeitliche Unsterblichkeit der Seele des Menschen, das heißt also ihr ewiges Fortleben auch nach dem Tode, ist nicht nur auf keine Weise verbürgt, sondern vor allem leistet diese Annahme gar nicht das, was man immer mit ihr erreichen wollte. Wird denn dadurch ein Rätsel gelöst, daß ich ewig fortlebe? Ist denn dieses ewige Leben dann nicht ebenso rätselhaft wie das gegenwärtige? Die Lösung des Rätsels des Lebens in Raum und Zeit liegt _außerhalb_ von Raum und Zeit.
+
+(Nicht Probleme der Naturwissenschaft sind ja zu lösen.)
+
+### [Ts-202](/ts-202/#52r.6) <span class="fac">[52r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r6}
+
+<span class="series-number">6.432</span> _Wie_ die Welt ist, ist für das Höhere vollkommen gleichgültig. Gott offenbart sich nicht _in_ der Welt.
+
+### [Ts-202](/ts-202/#51av.2-relocated) <span class="fac">[51av\[2\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/51av.webp)</span> {#ts-202-51av2-relocated}
+
+<span class="series-number">6.4321</span> Die Tatsachen gehören alle nur zur Aufgabe, nicht zur Lösung.
+
+### [Ts-202](/ts-202/#52r.7) <span class="fac">[52r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r7}
+
+<span class="series-number">6.44</span> Nicht _wie_ die Welt ist, ist das Mystische, sondern _daß_ sie ist.
+
+### [Ts-202](/ts-202/#52r.8) <span class="fac">[52r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r8}
+
+<span class="series-number">6.45</span> Die Anschauung der Welt sub specie aeterni ist ihre Anschauung als – begrenztes – Ganzes.
+
+Das Gefühl der Welt als begrenztes Ganzes ist das mystische.
+
+### [Ts-202](/ts-202/#52r.9) <span class="fac">[52r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r9}
+
+<span class="series-number">6.5</span> Zu einer Antwort, die man nicht aussprechen kann, kann man auch die Frage nicht aussprechen.
+
+_**Das** Rätsel_ gibt es nicht.
+
+Wenn sich eine Frage überhaupt stellen läßt, so _kann_ sie auch beantwortet werden.
+
+### [Ts-202](/ts-202/#52r.10) <span class="fac">[52r\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/52r.webp)</span> {#ts-202-52r10}
+
+<span class="series-number">6.51</span> Skeptizismus ist _nicht_ unwiderleglich, sondern offenbar unsinnig, wenn er bezweifeln will, wo nicht gefragt werden kann.
+
+Denn Zweifel kann nur bestehen, wo eine Frage besteht; eine Frage nur, wo eine Antwort besteht, und diese nur, wo etwas _gesagt_ werden _kann_.
+
+### [Ts-202](/ts-202/#53r.1) <span class="fac">[53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/53r.webp)</span> {#ts-202-53r1}
+
+<span class="series-number">6.52</span> Wir fühlen, daß selbst, wenn alle _möglichen_ wissenschaftlichen Fragen beantwortet sind, unsere Lebensprobleme noch gar nicht berührt sind. Freilich bleibt dann eben keine Frage mehr; und eben dies ist die Antwort.
+
+### [Ts-202](/ts-202/#53r.2) <span class="fac">[53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/53r.webp)</span> {#ts-202-53r2}
+
+<span class="series-number">6.521</span> Die Lösung des Problems des Lebens merkt man am Verschwinden dieses Problems.
+
+(Ist nicht dies der Grund, warum Menschen, denen der Sinn des Lebens nach langen Zweifeln klar wurde, warum diese dann nicht sagen konnten, worin dieser Sinn bestand.)
+
+### [Ts-202](/ts-202/#53r.3) <span class="fac">[53r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/53r.webp)</span> {#ts-202-53r3}
+
+<span class="series-number">6.522</span> Es gibt allerdings Unaussprechliches. Dies _zeigt_ sich, es ist das Mystische.
+
+### [Ts-202](/ts-202/#53r.4) <span class="fac">[53r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/53r.webp)</span> {#ts-202-53r4}
+
+<span class="series-number">6.53</span> Die richtige Methode der Philosophie wäre eigentlich die: Nichts zu sagen, als was sich sagen läßt, also Sätze der Naturwissenschaften – also etwas, was mit Philosophie nichts zu tun hat –, und dann immer, wenn ein anderer etwas Metaphysisches sagen wollte, ihm nachzuweisen, daß er gewissen Zeichen in seinen Sätzen keine Bedeutung gegeben hat. Diese Methode wäre für den anderen unbefriedigend – er hätte nicht das Gefühl, daß wir ihn Philosophie lehrten – aber _sie_ wäre die einzig streng richtige.
+
+### [Ts-202](/ts-202/#53r.5) <span class="fac">[53r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/53r.webp)</span> {#ts-202-53r5}
+
+<span class="series-number">6.54</span> Meine Sätze erläutern dadurch, daß sie der, welcher mich versteht, am Ende als unsinnig erkennt, wenn er durch sie – auf ihnen – über sie hinausgestiegen ist. (Er muß sozusagen die Leiter wegwerfen, nachdem er auf ihr hinaufgestiegen ist.)
+
+Er muß diese Sätze überwinden, dann sieht er die Welt richtig.
+
+### [Ts-202](/ts-202/#53r.6) <span class="fac">[53r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/53r.webp)</span> {#ts-202-53r6}
+
+<span class="series-number">7</span> Wovon man nicht sprechen kann, darüber muß man schweigen.
+
+### [Ts-204](/ts-204/#53r.6) <span class="fac">[53r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/53r.webp)</span> {#ts-204-53r6}
+
+<span class="series-number">7</span> Wovon man nicht sprechen kann, darüber muß man schweigen.

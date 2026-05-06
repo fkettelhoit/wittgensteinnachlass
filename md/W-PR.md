@@ -2,11 +2,19 @@
 
 <details>
 
-<summary>1930–1933, 1152 remarks, Ts-214a1, Ts-215a, Ts-215b, Ts-209</summary>
+<summary>1930–1933, 1158 remarks, Ts-209, Ts-214a1, Ts-215a, Ts-215b, Ms-109</summary>
 
 <img class="viz" src="/viz/W-PR.svg">
 
 </details>
+
+### [Ts-209](/ts-209/#TP.1) <span class="fac">[TP\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/TP.webp)</span> {#ts-209-tp1}
+
+## Philosophische Bemerkungen
+
+### [Ts-209](/ts-209/#TP.2) <span class="fac">[TP\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/TP.webp)</span> {#ts-209-tp2}
+
+Et multi ante nos vitam istam agentes, praestruxerant aerumnosas vias, per quas transire cogebamur multiplicato labore et dolore filiis Adam. (Augustinus)
 
 ### [Ts-214a1](/ts-214a1/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)</span> {#ts-214a1-11}
 
@@ -167,6 +175,22 @@ Die Grammatik ist nicht unendlich kompliziert, weil sie die endlose Bildung von 
 ### [Ts-215b](/ts-215b/#20.1) <span class="fac">[20\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215b/20.webp)</span> {#ts-215b-201}
 
 Es muß, um die unendliche Möglichkeit _zu erklären_, genug sein, auf die Züge des Zeichens hinzuweisen, die uns eben zur _Annahme_ dieser unendlichen Möglichkeit führen, besser: aus denen wir diese unendliche Möglichkeit ersehen. Das heißt (_nur_), das Tatsächliche des Zeichens muß genügen, und nicht die Möglichkeiten des Zeichens in Betracht kommen, die sich nur wieder in einer Beschreibung von Zeichen zeigen könnten. Es muß also in dem Zeichen “[1, x, x + 1]” – dem Ausdruck der Bildungsregel – schon alles enthalten sein. Ich darf mit der unendlichen Möglichkeit nicht wieder ein mythisches Element in die _Logik_ einführen. Beschreibt man den Vorgang der Division 1˙0 : 3 = 0˙31 , der zu dem Quotienten 0,3 und dem Rest 1 führt, so muß in dieser Beschreibung schon die unendliche Möglichkeit der Fortsetzung mit immer dem gleichen Erfolg liegen, denn etwas Anderes ist uns ja nicht gegeben, wenn wir sehen, “daß es immer so weiter gehen muß”. Und wenn wir die “unendliche Möglichkeit der Fortsetzung sehen”, so können wir doch nichts sehen, was nicht beschrieben ist, wenn wir eben das Zeichen beschreiben, was wir sehen.
+
+### [Ms-109](/ms-109/#211.2) <span class="fac">[211\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-109/211.webp)</span> {#ms-109-2112}
+
+Dieses Buch ist für die geschrieben die dem Geist in dem es geschrieben ist freundlich gegenüberstehen. Dieser Geist ist ein anderer als der des großen Stromes der europäischen & amerikanischen Zivilisation. Dieser äußert sich in einem Fortschritt, im Bauen immer größerer & komplizierterer Strukturen jener andere in einem Streben nach Klarheit & Durchsichtigkeit jeder möglichen Struktur. Dieser will die Peripherie jener das Zentrum der Kugel erfassen. Daher reiht dieser einen Stein an den anderen oder steigt von einer Stufe zur anderen während jener bleibt wo er ist & immer wieder dasselbe zu erfassen trachtet.
+
+### [Ms-109](/ms-109/#211.3) <span class="fac">[211\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-109/211.webp)</span> {#ms-109-2113}
+
+Dieses Buch ist für solche geschrieben die seinem Geist freundlich gegenüberstehen. Dieser Geist ist ein anderer als der des großen Stromes der europäischen & amerikanischen Zivilisation in dem wir alle stehen.
+
+### [Ms-109](/ms-109/#211.4+212.1) <span class="fac">[211\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-109/211.webp),[212\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-109/212.webp)</span> {#ms-109-21142121}
+
+Dieser will die Welt durch ihre Peripherie – in ihrer Mannigfaltigkeit – erfassen, jener in ihrem Zentrum – ihrem Wesen. Daher reiht dieser ein Gebilde an das andere, steigt quasi von Stufe zu Stufe immer weiter, während jener dort bleibt wo er ist & immer dasselbe erfassen will.
+
+### [Ms-109](/ms-109/#212.2) <span class="fac">[212\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-109/212.webp)</span> {#ms-109-2122}
+
+Ich möchte sagen „dies Buch sei zur Ehre Gottes geschrieben”, aber das wäre heute eine Schmockerei d.h. es würde nicht richtig verstanden werden. Es heißt es ist in gutem Willen geschrieben & soweit es nicht mit gutem Willen also aus Eitelkeit etc. geschrieben ist, soweit möchte der Verfasser es verurteilt wissen. Er kann es nicht weiter von diesen Ingredienzien reinigen als er selbst davon rein ist.
 
 ### [Ts-209](/ts-209/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/1.webp)</span> {#ts-209-11}
 

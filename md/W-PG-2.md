@@ -1406,7 +1406,7 @@ Es hat hier übrigens mit den Zahlzeichen (1), ((1) + 1), etc. eine gewisse Schw
 
 Denken wir uns den Fall, es gäbe uns Einer eine Rechenaufgabe in der Strichnotation, etwa: !!!!!!!!!!!∣∣∣∣∣∣∣∣∣∣∣
 
-+ !!!!!!!!!!∣∣∣∣∣∣∣∣∣∣ und während wir rechneten machte er sich den Spaß, Striche, ohne daß wir es bemerkten, wegzuwischen und dazuzugeben. Er würde uns dann immer sagen “die Rechnung stimmt ja nicht” und wir würden sie immer von Neuem durchlaufen, stets zum Narren gehalten. – Ja, streng genommen, ohne den Begriff eines Kriteriums der Richtigkeit der Rechnung. – Hier könnte man nun Fragen aufwerfen, wie die: Ist es nun nur _sehr wahrscheinlich_, daß 464 + 272 = 736 ist? Und ist also nicht auch 2 + 3 = 5 nur sehr wahrscheinlich? Und was ist denn die objektive Wahrheit, der sich diese Wahrscheinlichkeit nähert? D.h., wie bekommen wir denn einen Begriff davon, daß 2 + 3 eine gewisse Zahl wirklich _ist_, abgesehen von dem, was sie uns zu sein _scheint_? –
+\+ !!!!!!!!!!∣∣∣∣∣∣∣∣∣∣ und während wir rechneten machte er sich den Spaß, Striche, ohne daß wir es bemerkten, wegzuwischen und dazuzugeben. Er würde uns dann immer sagen “die Rechnung stimmt ja nicht” und wir würden sie immer von Neuem durchlaufen, stets zum Narren gehalten. – Ja, streng genommen, ohne den Begriff eines Kriteriums der Richtigkeit der Rechnung. – Hier könnte man nun Fragen aufwerfen, wie die: Ist es nun nur _sehr wahrscheinlich_, daß 464 + 272 = 736 ist? Und ist also nicht auch 2 + 3 = 5 nur sehr wahrscheinlich? Und was ist denn die objektive Wahrheit, der sich diese Wahrscheinlichkeit nähert? D.h., wie bekommen wir denn einen Begriff davon, daß 2 + 3 eine gewisse Zahl wirklich _ist_, abgesehen von dem, was sie uns zu sein _scheint_? –
 
 ### [Ts-213](/ts-213/#580r.2) <span class="fac">[580r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/580r.webp)</span> {#ts-213-580r2}
 
@@ -2314,7 +2314,7 @@ Formen wir die linke Seite um in:
 
 [ ( 1
 
-+ n (n + 1) +
+\+ n (n + 1) +
 
 n (n + 2) +
 

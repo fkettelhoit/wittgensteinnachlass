@@ -459,7 +459,7 @@ Sie zeigt doch auch, daß zwei solche Stücke ein Rechteck geben. “Aber das is
 
 ### [Ts-222](/ts-222/#58.2) <span class="fac">[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/58.webp)</span> {#ts-222-582}
 
-<span class="series-number">77.</span> * Aufgaben: Zahl der Töne, die innere Eigenschaft einer Melodie; Zahl der Blätter, – äußere Eigenschaft eines Baumes. Wie hängt das mit der Identität des Begriffes zusammen? *Ramsey
+<span class="series-number">77.</span> \* Aufgaben: Zahl der Töne, die innere Eigenschaft einer Melodie; Zahl der Blätter, – äußere Eigenschaft eines Baumes. Wie hängt das mit der Identität des Begriffes zusammen? *Ramsey
 
 ### [Ts-222](/ts-222/#59.1) <span class="fac">[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/59.webp)</span> {#ts-222-591}
 

@@ -1,0 +1,3741 @@
+# Prototractatus
+
+<details>
+
+<summary>1915–1918, 866 remarks, Ms-104</summary>
+
+<img class="viz" src="/viz/W-PT.svg">
+
+</details>
+
+### [Ms-104](/ms-104/#V.1) <span class="fac">[V\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/V.webp)</span> {#ms-104-v1}
+
+## Logisch-Philosophische Abhandlung
+
+Ludwig Wittgenstein
+
+### [Ms-104](/ms-104/#VI.1) <span class="fac">[VI\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/VI.webp)</span> {#ms-104-vi1}
+
+_Dem Andenken meines Freundes_
+
+_David H. Pinsent_
+
+_gewidmet_
+
+### [Ms-104](/ms-104/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/1.webp)</span> {#ms-104-11}
+
+_Motto: ‥․ und alles was man_
+
+_weiß, nicht bloß rauschen und_
+
+_brausen gehört hat, läßt_
+
+_sich in drei Worten sagen._
+
+_Kürnberger_
+
+### [Ms-104](/ms-104/#3.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-31}
+
+<span class="series-number">1</span> Die Welt ist alles was der Fall ist.
+
+### [Ms-104](/ms-104/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-32}
+
+<span class="series-number">1˙1</span> Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
+
+### [Ms-104](/ms-104/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-33}
+
+<span class="series-number">2</span> Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten.
+
+### [Ms-104](/ms-104/#3.4) <span class="fac">[3\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-34}
+
+<span class="series-number">2˙1</span> Die Tatsachen begreifen wir in Bildern.
+
+### [Ms-104](/ms-104/#3.5) <span class="fac">[3\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-35}
+
+<span class="series-number">2˙2</span> Das Bild hat mit dem Abgebildeten die logische Form der Abbildung gemein.
+
+### [Ms-104](/ms-104/#3.6) <span class="fac">[3\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-36}
+
+<span class="series-number">3</span> Das logische Bild der Tatsachen ist der Gedanke.
+
+### [Ms-104](/ms-104/#3.7) <span class="fac">[3\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-37}
+
+<span class="series-number">3˙1</span> Der sinnliche Ausdruck des Gedankens ist das Satzzeichen.
+
+### [Ms-104](/ms-104/#3.8) <span class="fac">[3\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-38}
+
+<span class="series-number">3˙2</span> Das Satzzeichen mit der Art und Weise seiner Abbildung ist der Satz.
+
+### [Ms-104](/ms-104/#3.9) <span class="fac">[3\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-39}
+
+<span class="series-number">4</span> Der Gedanke ist der sinnvolle Satz.
+
+### [Ms-104](/ms-104/#3.10) <span class="fac">[3\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-310}
+
+<span class="series-number">4˙1</span> Der Satz stellt das Bestehen und nicht Bestehen der Sachverhalte dar.
+
+### [Ms-104](/ms-104/#3.11) <span class="fac">[3\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-311}
+
+<span class="series-number">4˙2</span> Der Sinn des Satzes ist seine Übereinstimmung, und nicht Übereinstimmung, mit den Möglichkeiten des Bestehens und nicht Bestehens der Sachverhalte.
+
+### [Ms-104](/ms-104/#3.12) <span class="fac">[3\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-312}
+
+<span class="series-number">4˙3</span> Die Wahrheitsmöglichkeiten der Elementarsätze bedeuten die Möglichkeiten des Bestehens und nicht Bestehens der Sachverhalte.
+
+### [Ms-104](/ms-104/#3.13) <span class="fac">[3\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-313}
+
+<span class="series-number">4˙4</span> Der Satz ist der Ausdruck der Übereinstimmung und nicht Übereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze.
+
+### [Ms-104](/ms-104/#3.14) <span class="fac">[3\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-314}
+
+<span class="series-number">5</span> Der Satz ist eine Wahrheitsfunktion der Elementarsätze.
+
+### [Ms-104](/ms-104/#3.15) <span class="fac">[3\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-315}
+
+<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <math class="stacked" display="inline"><mtext>❘</mtext><mtext>N(</mtext><msub><mover><mrow><mi>p</mi></mrow><mo>‾</mo></mover><mi>o</mi></msub><mo>)</mo><mo>,</mo><mspace width="0.3em"/><mtext>ᾱ,</mtext><mspace width="0.3em"/><mtext>N(</mtext><mtext>ᾱ)</mtext><mtext>❘</mtext></math>
+
+### [Ms-104](/ms-104/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-41}
+
+<span class="series-number">1˙11</span> Die Welt ist durch die Tatsachen bestimmt und dadurch, daß es _alle_ Tatsachen sind.
+
+### [Ms-104](/ms-104/#4.2) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-42}
+
+_<span class="series-number">1˙12</span>_
+
+### [Ms-104](/ms-104/#4.3) <span class="fac">[4\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-43}
+
+<span class="series-number">1˙13</span> Die Tatsachen im logischen Raum sind die Welt.
+
+### [Ms-104](/ms-104/#4.4) <span class="fac">[4\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-44}
+
+<span class="series-number">2˙01</span> Der Sachverhalt ist eine Verbindung von Gegenständen, Sachen.
+
+### [Ms-104](/ms-104/#4.5) <span class="fac">[4\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-45}
+
+<span class="series-number">2˙02</span> Der Gegenstand ist einfach.
+
+### [Ms-104](/ms-104/#4.6) <span class="fac">[4\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-46}
+
+_<span class="series-number">2˙03-07</span>_
+
+### [Ms-104](/ms-104/#4.7) <span class="fac">[4\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-47}
+
+⋎ 2˙12 Das Bild ist ein Modell der Wirklichkeit.
+
+### [Ms-104](/ms-104/#4.8) <span class="fac">[4\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-48}
+
+<span class="series-number">2˙13</span> Den Gegenständen entsprechen im Bild die Elemente des Bildes.
+
+### [Ms-104](/ms-104/#4.9) <span class="fac">[4\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-49}
+
+_<span class="series-number">2˙14</span>_
+
+### [Ms-104](/ms-104/#4.10) <span class="fac">[4\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-410}
+
+<span class="series-number">2˙15</span> Das Bild ist eine Tatsache.
+
+### [Ms-104](/ms-104/#4.11) <span class="fac">[4\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-411}
+
+<span class="series-number">2˙16</span> Die Tatsache muß, um Bild zu sein, etwas mit dem Abgebildeten gemeinsam haben.
+
+### [Ms-104](/ms-104/#4.12) <span class="fac">[4\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-412}
+
+<span class="series-number">2˙161</span>
+
+### [Ms-104](/ms-104/#4.13) <span class="fac">[4\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-413}
+
+_<span class="series-number">2˙17-182</span>_
+
+### [Ms-104](/ms-104/#4.14) <span class="fac">[4\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-414}
+
+<span class="series-number">2˙21</span> Das Bild stimmt mit der Wirklichkeit überein oder nicht; es ist richtig oder unrichtig, wahr oder falsch.
+
+### [Ms-104](/ms-104/#4.15) <span class="fac">[4\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-415}
+
+⋎ 2˙11 Das Bild stellt die Sachlage im logischen Raum, das Bestehen und nicht Bestehen von Sachverhalten, vor.
+
+### [Ms-104](/ms-104/#4.16) <span class="fac">[4\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-416}
+
+<span class="series-number">2˙22</span> Das Bild stellt dar, was es darstellt, unabhängig von seiner Wahr- oder Falschheit, durch die Form der Abbildung.
+
+### [Ms-104](/ms-104/#5.1) <span class="fac">[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-51}
+
+<span class="series-number">3˙01</span> Die Gesamtheit der wahren Gedanken sind ein Bild der Welt.
+
+### [Ms-104](/ms-104/#5.2) <span class="fac">[5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-52}
+
+_<span class="series-number">3˙02</span>_
+
+### [Ms-104](/ms-104/#5.3) <span class="fac">[5\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-53}
+
+<span class="series-number">3˙11</span> Das Satzzeichen ist eine Projektion des Gedankens.
+
+### [Ms-104](/ms-104/#5.4) <span class="fac">[5\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-54}
+
+<span class="series-number">3˙12</span> Die Projektionsmethode ist die Art und Weise der Anwendung des Satzzeichens.
+
+### [Ms-104](/ms-104/#5.5) <span class="fac">[5\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-55}
+
+<span class="series-number">3˙13</span> Die Anwendung des Satzzeichens ist das Denken seines Sinns.
+
+### [Ms-104](/ms-104/#5.6) <span class="fac">[5\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-56}
+
+<span class="series-number">3˙21</span> Der Satz ist die Projektion nach ihrer Methode.
+
+### [Ms-104](/ms-104/#5.7) <span class="fac">[5\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-57}
+
+<span class="series-number">1˙12</span> Denn die Gesamtheit der Tatsachen bestimmt was der Fall ist und auch was alles nicht der Fall ist.
+
+### [Ms-104](/ms-104/#5.8) <span class="fac">[5\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-58}
+
+<span class="series-number">2˙03</span> Im Sachverhalt hängen die Gegenstände ineinander wie die Glieder einer Kette.
+
+### [Ms-104](/ms-104/#5.9) <span class="fac">[5\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-59}
+
+_<span class="series-number">2˙031</span>_
+
+### [Ms-104](/ms-104/#5.10) <span class="fac">[5\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-510}
+
+<span class="series-number">2˙04</span> Die Gesamtheit der bestehenden Sachverhalte ist die Welt.
+
+### [Ms-104](/ms-104/#5.11) <span class="fac">[5\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-511}
+
+<span class="series-number">2˙05</span> Die Gesamtheit der bestehenden Sachverhalte bestimmt auch, welche Sachverhalte _nicht_ bestehen.
+
+### [Ms-104](/ms-104/#5.12) <span class="fac">[5\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-512}
+
+<span class="series-number">2˙06</span> Das Bestehen und nicht Bestehen von Sachverhalten ist die Wirklichkeit.
+
+### [Ms-104](/ms-104/#5.13) <span class="fac">[5\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-513}
+
+<span class="series-number">2˙07</span> Die gesamte Wirklichkeit ist die Welt.
+
+### [Ms-104](/ms-104/#5.14) <span class="fac">[5\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-514}
+
+<span class="series-number">2˙031</span> Im Sachverhalt verhalten sich die Gegenstände in bestimmter Art und Weise zu einander.
+
+### [Ms-104](/ms-104/#5.15) <span class="fac">[5\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-515}
+
+_<span class="series-number">2˙14</span>_ Das Bild besteht darin, daß sich seine Elemente in bestimmter Art und Weise zu einander verhalten.
+
+### [Ms-104](/ms-104/#5.16) <span class="fac">[5\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-516}
+
+<span class="series-number">2˙161</span> In Bild und Abgebildetem muß etwas identisch sein, damit das eine überhaupt ein Bild des anderen sein kann.
+
+### [Ms-104](/ms-104/#6.1) <span class="fac">[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-61}
+
+<span class="series-number">2˙17</span> Was das Bild mit der Wirklichkeit gemein haben muß um sie auf seine Art und Weise – richtig oder falsch – abbilden zu können ist seine Form der Abbildung.
+
+### [Ms-104](/ms-104/#6.2) <span class="fac">[6\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-62}
+
+<span class="series-number">2˙171</span> Es gibt verschiedene Formen der Abbildung.
+
+### [Ms-104](/ms-104/#6.3) <span class="fac">[6\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-63}
+
+<span class="series-number">2˙18</span> Was jedes Bild welcher Form immer mit der Wirklichkeit gemein haben muß um sie überhaupt – richtig oder falsch – abbilden zu können ist die logische Form, das ist die Struktur der Wirklichkeit.
+
+### [Ms-104](/ms-104/#6.4) <span class="fac">[6\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-64}
+
+<span class="series-number">2˙181</span> Ist die Form der Abbildung die logische Form so heißt das Bild das logische Bild.
+
+### [Ms-104](/ms-104/#6.5) <span class="fac">[6\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-65}
+
+<span class="series-number">2˙182</span> Jedes Bild ist _auch_ ein logisches. (Dagegen ist z.B. nicht jedes Bild ein räumliches.)
+
+### [Ms-104](/ms-104/#6.6) <span class="fac">[6\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-66}
+
+<span class="series-number">2˙201</span> Das Bild bildet die Wirklichkeit ab, indem es eine Möglichkeit des Bestehens und nicht Bestehens von Sachverhalten darstellt.
+
+### [Ms-104](/ms-104/#6.7) <span class="fac">[6\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-67}
+
+<span class="series-number">2˙202</span> Das Bild stellt eine mögliche Sachlage im logischen Raum dar.
+
+### [Ms-104](/ms-104/#6.8) <span class="fac">[6\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-68}
+
+<span class="series-number">2˙203</span> Das Bild enthält die Möglichkeit der Sachlage, die es darstellt.
+
+### [Ms-104](/ms-104/#6.9) <span class="fac">[6\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-69}
+
+<span class="series-number">2˙221</span> Was das Bild darstellt, ist sein Sinn.
+
+### [Ms-104](/ms-104/#6.10) <span class="fac">[6\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-610}
+
+<span class="series-number">2˙222</span> In seiner Übereinstimmung oder nicht Übereinstimmung seines Sinnes mit der Wirklichkeit besteht seine Wahrheit oder Falschheit.
+
+### [Ms-104](/ms-104/#6.11) <span class="fac">[6\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-611}
+
+<span class="series-number">3˙3</span> Das angewandte, gedachte, Satzzeichen ist der Gedanke.
+
+### [Ms-104](/ms-104/#6.12) <span class="fac">[6\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-612}
+
+<span class="series-number">4˙41</span> Die Übereinstimmung mit den Wahrheitsmöglichkeiten können wir dadurch ausdrücken indem wir ihnen im Schema etwa das Abzeichen „W” („Wahr”) zuordnen.
+
+### [Ms-104](/ms-104/#6.13) <span class="fac">[6\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/6.webp)</span> {#ms-104-613}
+
+<span class="series-number">4˙42</span> Das Fehlen dieses Abzeichens bedeutet die nicht-Übereinstimmung.
+
+### [Ms-104](/ms-104/#7.1) <span class="fac">[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-71}
+
+<span class="series-number">4˙43</span> Das Zeichen welches durch die Zuordnung jener Abzeichen und der Wahrheitsmöglichkeiten entsteht ist ein Satzzeichen.
+
+### [Ms-104](/ms-104/#7.2) <span class="fac">[7\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-72}
+
+<span class="series-number">4˙431</span> Also ist z.B. ›‹
+
+ein Satzzeichen.
+
+### [Ms-104](/ms-104/#7.3) <span class="fac">[7\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-73}
+
+<span class="series-number">4˙432</span> Der Deutlichkeit halber schreiben wir dieses Zeichen nun so:
+
+›WWFW‹
+
+Die nach §4˙43 auf diese Weise gebauten Satzzeichen nennen wir Satzzeichen der ersten Art.
+
+### [Ms-104](/ms-104/#7.4) <span class="fac">[7\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-74}
+
+<span class="series-number">4˙44</span> Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombinationsregel ein für allemal festgesetzt dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen.
+
+### [Ms-104](/ms-104/#7.5) <span class="fac">[7\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-75}
+
+<span class="series-number">4˙441</span> Schreiben wir diese Kolonne als Reihe hin so wird das Zeichen in 4˙432 zu:
+
+„(WWFW) (p,q)” oder „(W,W, ,W) (p,q)”
+
+.
+
+### [Ms-104](/ms-104/#7.6) <span class="fac">[7\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-76}
+
+<span class="series-number">3˙02</span> Der Gedanke enthält die Möglichkeit der Sachlage, die er denkt.
+
+Was denkbar ist, ist auch möglich.
+
+### [Ms-104](/ms-104/#7.7) <span class="fac">[7\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-77}
+
+<span class="series-number">3˙111</span> Es ist eine Projektion der Möglichkeit einer Sachlage.
+
+### [Ms-104](/ms-104/#7.8) <span class="fac">[7\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-78}
+
+<span class="series-number">3˙14</span> Im Satzzeichen entsprechen den Gegenständen der Wirklichkeit die einfachen Zeichen.
+
+### [Ms-104](/ms-104/#7.9) <span class="fac">[7\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/7.webp)</span> {#ms-104-79}
+
+<span class="series-number">3˙15</span> Das Satzzeichen besteht darin, daß sich die einfachen Zeichen in ihm auf bestimmte Art und Weise zu einander verhalten.
+
+### [Ms-104](/ms-104/#8.1) <span class="fac">[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-81}
+
+<span class="series-number">3˙16</span> Das Satzzeichen ist eine Tatsache.
+
+### [Ms-104](/ms-104/#8.2) <span class="fac">[8\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-82}
+
+<span class="series-number">4˙01</span> Der Satz ist ein Bild der Wirklichkeit.
+
+### [Ms-104](/ms-104/#8.3) <span class="fac">[8\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-83}
+
+<span class="series-number">4˙08</span> Die Wirklichkeit wird mit dem Satz verglichen.
+
+### [Ms-104](/ms-104/#8.4) <span class="fac">[8\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-84}
+
+<span class="series-number">4˙09</span> Nur dadurch kann der Satz wahr oder falsch sein, indem er ein _Bild_ der Wirklichkeit ist.
+
+### [Ms-104](/ms-104/#8.5) <span class="fac">[8\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-85}
+
+<span class="series-number">4˙02</span> Dies sehen wir daraus, daß wir den Sinn des Satzzeichens verstehen, ohne daß er uns erklärt wurde.
+
+### [Ms-104](/ms-104/#8.6) <span class="fac">[8\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-86}
+
+<span class="series-number">4˙03</span> Die Bedeutungen der einfachen Zeichen, der Wörter, müssen uns erklärt werden damit wir sie verstehen.
+
+### [Ms-104](/ms-104/#8.7) <span class="fac">[8\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-87}
+
+<span class="series-number">4˙04</span> Mit den Sätzen aber verständigen wir uns.
+
+### [Ms-104](/ms-104/#8.8) <span class="fac">[8\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-88}
+
+<span class="series-number">4˙05</span> Es liegt im Wesen des Satzes, daß er uns einen uns _neuen_ Sinn mitteilen kann.
+
+### [Ms-104](/ms-104/#8.9) <span class="fac">[8\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-89}
+
+<span class="series-number">4˙06</span> Der Satz teilt uns eine Sachlage mit, also muß er _wesentlich_ mit dieser Sachlage zusammenhängen.
+
+### [Ms-104](/ms-104/#8.10) <span class="fac">[8\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-810}
+
+<span class="series-number">4˙07</span> Und der Zusammenhang ist eben, daß er ihr logisches Bild ist.
+
+### [Ms-104](/ms-104/#8.11) <span class="fac">[8\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-811}
+
+<span class="series-number">3˙141</span> Das einfache Zeichen bedeutet den Gegenstand. Er ist seine Bedeutung.
+
+### [Ms-104](/ms-104/#8.12) <span class="fac">[8\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-812}
+
+<span class="series-number">3˙201</span> Die im Satze angewandten einfachen Zeichen heißen Namen.
+
+### [Ms-104](/ms-104/#8.13) <span class="fac">[8\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-813}
+
+<span class="series-number">4˙11</span> Der Satz behauptet das Bestehen der Sachlage deren Möglichkeit er darstellt.
+
+### [Ms-104](/ms-104/#8.15) <span class="fac">[8\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-815}
+
+<span class="series-number">4˙21</span> Der einfachste Satz – der Elementarsatz – behauptet das Bestehen eines Sachverhalts.
+
+### [Ms-104](/ms-104/#8.16) <span class="fac">[8\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/8.webp)</span> {#ms-104-816}
+
+<span class="series-number">4˙1001</span> Die Gesamtheit der wahren Sätze ist die Weltbeschreibung.
+
+### [Ms-104](/ms-104/#9.1) <span class="fac">[9\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-91}
+
+<span class="series-number">4˙231</span> Die Angabe aller wahren Elementarsätze beschreibt die Welt vollständig.
+
+### [Ms-104](/ms-104/#9.2) <span class="fac">[9\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-92}
+
+<span class="series-number">4˙232</span> Die Welt ist vollständig beschrieben durch die Angabe aller Elementarsätze plus der Angabe welche von ihnen wahr und welche falsch sind.
+
+### [Ms-104](/ms-104/#9.3) <span class="fac">[9\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-93}
+
+<span class="series-number">4˙22</span> Der Elementarsatz besteht aus Namen. Er ist ein Zusammenhang, eine Verkettung, von Namen.
+
+### [Ms-104](/ms-104/#9.4) <span class="fac">[9\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-94}
+
+<span class="series-number">4˙221</span> Der Name kommt im Satz nur im Zusammenhang des Elementarsatzes vor.
+
+### [Ms-104](/ms-104/#9.5) <span class="fac">[9\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-95}
+
+<span class="series-number">4˙222</span> Ausdrücke wie „a = a”, oder von diesem abgeleitete, welche dem obigen zu widersprechen scheinen sind weder Elementarsätze noch sonst sinnvolle Zeichen wie sich später zeigen wird.
+
+### [Ms-104](/ms-104/#9.6) <span class="fac">[9\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-96}
+
+<span class="series-number">4˙23</span> Ist der Elementarsatz wahr so besteht der Sachverhalt, ist der Elementarsatz falsch, so besteht der Sachverhalt nicht.
+
+### [Ms-104](/ms-104/#9.7) <span class="fac">[9\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-97}
+
+<span class="series-number">4˙24</span> Bezüglich des Bestehens und nicht Bestehens von n Sachverhalten gibt es <math class="stacked" display="inline"><msub><mi>K</mi><mi>n</mi></msub><mspace width="0.3em"/><mo>=</mo><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mn>0</mn></munder></mrow><mi>n</mi></mover><mspace width="0.3em"/><mo>(</mo><mfrac linethickness="0"><mrow><mi>n</mi></mrow><mrow><mtext>ν</mtext></mrow></mfrac><mo>)</mo></math> Möglichkeiten.
+
+### [Ms-104](/ms-104/#9.8) <span class="fac">[9\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-98}
+
+<span class="series-number">4˙25</span> Es können alle möglichen Kombinationen der Sachverhalte bestehen, – die anderen nicht bestehen.
+
+### [Ms-104](/ms-104/#9.9) <span class="fac">[9\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-99}
+
+<span class="series-number">4˙26</span> Diesen Kombinationen entsprechen ebensoviele Möglichkeiten der Wahrheit – und Falschheit – von n Elementarsätzen.
+
+### [Ms-104](/ms-104/#9.10+10.1) <span class="fac">[9\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp),[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-910101}
+
+<span class="series-number">4˙31</span> Die Wahrheitsmöglichkeiten können wir durch ein Schema folgender Art darstellen: („p”, „q”, „r” sind Elementarsätze. „W” bedeutet „wahr”, „F” „falsch” die Reihen der „W” und „F” unter der Reihe der Elementarsätze bedeuten in leicht verständlicher Symbolik deren Wahrheitsmöglichkeiten.)
+
+pWFWWFFWF | qWWFWFWFF | rWWWFWFFF | pWFWF | qWWFF | pWF
+
+Wir nennen dies das Schema I.
+
+### [Ms-104](/ms-104/#10.2) <span class="fac">[10\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-102}
+
+<span class="series-number">5˙1</span> Sind alle Sätze Wahrheitsfunktionen (W-Funktionen) von Elementarsätzen so folgt hieraus daß sie auch Wahrheitsfunktionen von einander sind.
+
+### [Ms-104](/ms-104/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-103}
+
+<span class="series-number">5˙11</span> Die Schemata 4˙31 haben auch dann eine Bedeutung, wenn „p” „q” „r” etc. nicht Elementarsätze sind.
+
+### [Ms-104](/ms-104/#10.4) <span class="fac">[10\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-104}
+
+<span class="series-number">5˙12</span> Und es ist leicht zu sehen, daß das Satzzeichen erster Art, auch wenn p, q etc. W-Funktionen von Elementarsätzen sind, _eine_ W-Funktion von Elementarsätzen ausdrückt.
+
+### [Ms-104](/ms-104/#10.5) <span class="fac">[10\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-105}
+
+<span class="series-number">5˙001</span> Jeder Satz läßt sich auffassen als Resultat einer Operation, welche mit einem anderen Satz (der Basis der Operation) vorgenommen wurde und diesen in jenen verwandelt.
+
+### [Ms-104](/ms-104/#10.6) <span class="fac">[10\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-106}
+
+<span class="series-number">5˙0011</span> Analog kann man von Operationen mit mehreren Basen sprechen. „(F)(p)” ist das Resultat der Operation „F( )” auf die Basis p, (FWWF)(p,q) das Resultat einer Operation auf zwei Basen.
+
+### [Ms-104](/ms-104/#10.7) <span class="fac">[10\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp)</span> {#ms-104-107}
+
+<span class="series-number">5˙0014</span> Fassen wir (F)(p) als Operationsresultat auf, so schreiben wir es „(F)'(p)”; und allgemein eine Operation auf „a” „b” „c” etc. O'(a,b,c, etc.).
+
+### [Ms-104](/ms-104/#10.8+11.1) <span class="fac">[10\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/10.webp),[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-108111}
+
+<span class="series-number">5˙2</span> Jede W-Funktion von W-Funktionen ist eine Funktion von Elementarsätzen, ein Satz.
+
+### [Ms-104](/ms-104/#11.2) <span class="fac">[11\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-112}
+
+<span class="series-number">5˙0016</span> Die fortgesetzte Anwendung einer Operation auf ihr eigenes Resultat, oder ihre eigenen Resultate, heißt ihre sukzessive Anwendung. (O'(O'(O'a)) ist das Resultat der (3-maligen) sukzessiven Anwendung von O'ξ auf a.)
+
+### [Ms-104](/ms-104/#11.3) <span class="fac">[11\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-113}
+
+<span class="series-number">5˙3</span> Es läßt sich zeigen, daß jede Wahrheitsfunktion ein Resultat der sukzessiven Anwendung der Operation (W )'(ᾱ) ist.
+
+### [Ms-104](/ms-104/#11.4) <span class="fac">[11\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-114}
+
+<span class="series-number">5˙0015</span> „O' (a,b,c etc.)” ist das Operationsresultat, die Operation selber bezeichne ich mit „O'(ξ,η,ζ etc.)”, wo die griechischen Buchstaben die Argumentstellen anzeigen.
+
+### [Ms-104](/ms-104/#11.5) <span class="fac">[11\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-115}
+
+<span class="series-number">3˙202</span> Nur der Satz hat Sinn, nur im Zusammenhang des Satzes hat ein Name Bedeutung.
+
+### [Ms-104](/ms-104/#11.6) <span class="fac">[11\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-116}
+
+<span class="series-number">5˙003</span> Jeden Klammerausdruck dessen Glieder Sätze sind schreiben wir in der Form „(ᾱ)”. „ᾱ” ist eine Variable, deren Werte die Glieder des Klammerausdruckes sind. Der Strich über dem „α” bedeutet, daß alle Werte von α in der Klammer stehen.
+
+### [Ms-104](/ms-104/#11.7) <span class="fac">[11\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-117}
+
+<span class="series-number">5˙004</span> Welche Werte α annehmen darf, wird festgesetzt.
+
+### [Ms-104](/ms-104/#11.8) <span class="fac">[11\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-118}
+
+<span class="series-number">5˙0013</span> Eine Operation die aus einer Anzahl von Sätzen eine Wahrheitsfunktion dieser Sätze macht, nennen wir „Wahrheitsoperation” (W-Operation).
+
+### [Ms-104](/ms-104/#11.9) <span class="fac">[11\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-119}
+
+<span class="series-number">5˙02</span> Die Wahrheitsfunktionen einer bestimmten Anzahl von Sätzen lassen sich in einem Schema folgender Art hinschreiben:
+
+Wir nennen es das Schema II.
+
+### [Ms-104](/ms-104/#11.10) <span class="fac">[11\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp)</span> {#ms-104-1110}
+
+<span class="series-number">5˙01</span> Den Elementarsatz können wir als Wahrheitsfunktion seiner selbst auffassen.
+
+### [Ms-104](/ms-104/#11.11+12.1) <span class="fac">[11\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-1111121}
+
+<span class="series-number">4˙423</span> Die Wahrheitsmöglichkeiten der Elementarsätze sind die Wahrheitsbedingungen der Sätze.
+
+### [Ms-104](/ms-104/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-122}
+
+<span class="series-number">5˙011</span> Die Elementarsätze sind die Wahrheitsargumente (W-Argumente) des Satzes.
+
+### [Ms-104](/ms-104/#12.3) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-123}
+
+<span class="series-number">5˙03</span> Diejenigen Wahrheitsmöglichkeiten der W-Argumente, welche den Satz bewahrheiten nenne ich seine Wahrheitsgründe.
+
+### [Ms-104](/ms-104/#12.4) <span class="fac">[12\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-124}
+
+<span class="series-number">5˙04</span> Sind die Wahrheitsgründe einer Anzahl von Sätzen sämtlich auch Wahrheitsgründe eines bestimmten Satzes so sagen wir die Wahrheit dieses Satzes folge aus der Wahrheit der Gesamtheit jener anderen.
+
+### [Ms-104](/ms-104/#12.5) <span class="fac">[12\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-125}
+
+<span class="series-number">5˙041</span> Insbesondere folgt die Wahrheit eines Satzes p aus der Wahrheit eines anderen q wenn alle Wahrheitsgründe des ersten Wahrheitsgründe des zweiten sind.
+
+### [Ms-104](/ms-104/#12.6) <span class="fac">[12\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-126}
+
+<span class="series-number">5˙04101</span> Wir sagen auch die Wahrheitsgründe des einen sind in denen des anderen enthalten, p folge aus q.
+
+### [Ms-104](/ms-104/#12.7) <span class="fac">[12\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-127}
+
+<span class="series-number">5˙042</span> Jeder Satz folgt aus sich selbst.
+
+### [Ms-104](/ms-104/#12.8) <span class="fac">[12\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-128}
+
+<span class="series-number">5˙05</span> Folgt p aus q und q aus p, so sind sie ein und derselbe Satz.
+
+### [Ms-104](/ms-104/#12.9) <span class="fac">[12\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-129}
+
+<span class="series-number">5˙06</span> Folgt ein Satz aus einem anderen, so sagt dieser mehr als jener, jener weniger als dieser.
+
+### [Ms-104](/ms-104/#12.10) <span class="fac">[12\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-1210}
+
+<span class="series-number">5˙07</span> Die Tautologie folgt aus allen Sätzen; sie sagt nichts.
+
+### [Ms-104](/ms-104/#12.11) <span class="fac">[12\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-1211}
+
+<span class="series-number">4˙421</span> Der Ausdruck der Übereinstimmung und nicht Übereinstimmung mit den Wahrheitsmöglichkeiten der Elementarsätze drückt die Wahrheitsbedingungen des Satzes aus.
+
+### [Ms-104](/ms-104/#12.12) <span class="fac">[12\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp)</span> {#ms-104-1212}
+
+<span class="series-number">4˙422</span> Der Satz ist der Ausdruck seiner Wahrheitsbedingungen.
+
+### [Ms-104](/ms-104/#12.13+13.1) <span class="fac">[12\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-1213131}
+
+<span class="series-number">4˙401</span> Bezüglich der Übereinstimmung und nicht Übereinstimung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <math class="stacked" display="inline"><msub><mtext><mi>L</mi></mtext><mi>n</mi></msub><mspace width="0.3em"/><mo>=</mo></math> Möglichkeiten.
+
+### [Ms-104](/ms-104/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-132}
+
+<span class="series-number">4˙442</span> WWFW sind also die Wahrheitsbedingungen dieses Satzes.
+
+### [Ms-104](/ms-104/#13.3) <span class="fac">[13\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-133}
+
+<span class="series-number">4˙444</span> Die Gruppen von Wahrheitsbedingungen welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören lassen sich in einer Reihe ordnen.
+
+### [Ms-104](/ms-104/#13.4) <span class="fac">[13\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-134}
+
+<span class="series-number">4˙445</span> Unter den möglichen Gruppen von Wahrheitsbedingungen gibt es zwei extreme Fälle.
+
+### [Ms-104](/ms-104/#13.5) <span class="fac">[13\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-135}
+
+<span class="series-number">4˙446</span> Im einen Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten der Elementarsätze wahr. Wir sagen die Wahrheitsbedingungen sind tautologisch.
+
+Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch; die Wahrheitsbedingungen sind kontradiktorisch.
+
+### [Ms-104](/ms-104/#13.6) <span class="fac">[13\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-136}
+
+<span class="series-number">4˙443</span> Für n Elementarsätze gibt es <math class="stacked" display="inline"><msub><mi>L</mi><mi>n</mi></msub></math> mögliche Gruppen von Wahrheitsbedingungen.
+
+### [Ms-104](/ms-104/#13.7) <span class="fac">[13\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-137}
+
+<span class="series-number">5˙3001</span> Wir nennen diese Operation die Negation der Werte von ᾱ und schreiben kurz statt (W )(ᾱ): N(ᾱ).
+
+### [Ms-104](/ms-104/#13.8) <span class="fac">[13\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-138}
+
+<span class="series-number">5˙3002</span> N(ᾱ) verneint sämtliche Werte von α.
+
+### [Ms-104](/ms-104/#13.9) <span class="fac">[13\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-139}
+
+<span class="series-number">5˙31</span> Hat α nur einen Wert, p, so ist N(ᾱ) das Russellsche ~p, hat es zwei Werte p und q, ~p ∙ ~q.
+
+### [Ms-104](/ms-104/#13.10) <span class="fac">[13\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-1310}
+
+<span class="series-number">5˙32</span> Sind die Werte von α sämtliche Werte einer Funktion φ(x) für alle Werte von x so bedeutet „N(ᾱ)” ~(∃x) ∙ φ(x).
+
+### [Ms-104](/ms-104/#13.11) <span class="fac">[13\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-1311}
+
+<span class="series-number">4˙4011</span> <math class="stacked" display="inline"><msub><mi>L</mi><mi>n</mi></msub><mspace width="0.3em"/><mo>=</mo><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mn>0</mn></munder></mrow><mtext>Kn</mtext></mover><mspace width="0.3em"/><mo>(</mo><mfrac linethickness="0"><mrow><mtext>Kn</mtext></mrow><mrow><mtext>μ</mtext></mrow></mfrac><mo>)</mo></math>
+
+### [Ms-104](/ms-104/#13.12) <span class="fac">[13\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-1312}
+
+<span class="series-number">2˙032</span> Die Art und Weise, wie die Gegenstände im Sachverhalt zusammenhängen ist die Struktur des Sachverhaltes.
+
+### [Ms-104](/ms-104/#13.13) <span class="fac">[13\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-1313}
+
+<span class="series-number">2˙033</span> Die Struktur der Tatsache besteht aus den Strukturen der Sachverhalte.
+
+### [Ms-104](/ms-104/#14.1) <span class="fac">[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-141}
+
+<span class="series-number">2˙151</span> Daß sich die Elemente des Bildes in bestimmter Art und Weise zu einander verhalten, stellt vor daß sich die Sachen so zu einander verhalten.
+
+### [Ms-104](/ms-104/#14.2) <span class="fac">[14\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-142}
+
+<span class="series-number">2˙1512</span> Das Bild ist so mit der Wirklichkeit verknüpft, es reicht bis zu ihr.
+
+### [Ms-104](/ms-104/#14.3) <span class="fac">[14\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-143}
+
+<span class="series-number">2˙1513</span> Es ist wie ein Maßstab an die Wirklichkeit angelegt.
+
+### [Ms-104](/ms-104/#14.4) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-144}
+
+<span class="series-number">2˙172</span> Das Bild kann jede Wirklichkeit abbilden, deren Form es hat.
+
+Das räumliche Bild alles Räumliche etc.
+
+### [Ms-104](/ms-104/#14.5) <span class="fac">[14\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-145}
+
+<span class="series-number">2˙19</span> Das logische Bild kann die Welt abbilden.
+
+### [Ms-104](/ms-104/#14.6) <span class="fac">[14\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-146}
+
+<span class="series-number">2˙15131</span> Nur die äußersten Punkte der Teilstriche _berühren_ den zu messenden Gegenstand.
+
+### [Ms-104](/ms-104/#14.7) <span class="fac">[14\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-147}
+
+<span class="series-number">2˙15101</span> Dieser Zusammenhang der Elemente des Bildes heißt seine Form der Abbildung.
+
+### [Ms-104](/ms-104/#14.8) <span class="fac">[14\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-148}
+
+<span class="series-number">2˙1514</span> Nach dieser Auffassung gehört also zum Bild auch noch die abbildende Beziehung die es zum Bild macht.
+
+### [Ms-104](/ms-104/#14.9) <span class="fac">[14\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-149}
+
+<span class="series-number">2˙1515</span> Die abbildende Beziehung besteht aus den Zuordnungen der Elemente des Bildes und der Sachen.
+
+### [Ms-104](/ms-104/#14.10) <span class="fac">[14\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-1410}
+
+<span class="series-number">2˙1516</span> Diese Zuordnungen sind gleichsam die Fühler der Bildelemente, mit denen das Bild die Wirklichkeit berührt.
+
+### [Ms-104](/ms-104/#14.11) <span class="fac">[14\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-1411}
+
+<span class="series-number">2˙223</span> Um zu erkennen, ob das Bild wahr oder falsch ist, müssen wir es mit der Wirklichkeit vergleichen.
+
+### [Ms-104](/ms-104/#14.12) <span class="fac">[14\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-1412}
+
+<span class="series-number">2˙224</span> Aus dem Bild allein ist nicht zu erkennen, ob es wahr oder falsch ist.
+
+### [Ms-104](/ms-104/#14.13) <span class="fac">[14\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-1413}
+
+<span class="series-number">2˙225</span> Ein a priori wahres Bild gibt es nicht.
+
+### [Ms-104](/ms-104/#14.14) <span class="fac">[14\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/14.webp)</span> {#ms-104-1414}
+
+<span class="series-number">2˙131</span> Die Elemente des Bildes vertreten im Bild die Gegenstände.
+
+### [Ms-104](/ms-104/#15.1) <span class="fac">[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-151}
+
+<span class="series-number">4˙021</span> Der Satz ist ein Bild der Wirklichkeit; denn ich kenne die von ihm dargestellte Sachlage, wenn ich den Satz verstehe. Und den Satz verstehe ich, ohne daß mir sein Sinn erklärt wurde.
+
+### [Ms-104](/ms-104/#15.2) <span class="fac">[15\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-152}
+
+<span class="series-number">4˙023</span> Der Satz _zeigt_, wie es sich verhält, _wenn_ er wahr ist.
+
+### [Ms-104](/ms-104/#15.3) <span class="fac">[15\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-153}
+
+<span class="series-number">4˙024</span> Und er _sagt_, _daß_ es sich so verhält.
+
+### [Ms-104](/ms-104/#15.4) <span class="fac">[15\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-154}
+
+<span class="series-number">4˙022</span> Der Satz _zeigt_ seinen Sinn.
+
+### [Ms-104](/ms-104/#15.5) <span class="fac">[15\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-155}
+
+<span class="series-number">4˙2212</span> Die Elementarsätze deute ich im Folgenden allgemein durch die Buchstaben p, q, r, s, t, oder (wie Frege) als Funktion ihrer Gegenstände in der Form „φ(x)”, „ψ(x,y)” etc. an.
+
+### [Ms-104](/ms-104/#15.6) <span class="fac">[15\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-156}
+
+<span class="series-number">4˙2211</span> Gegenstandsnamen deute ich im Folgenden durch die Buchstaben x,y,z,u,v,w an.
+
+### [Ms-104](/ms-104/#15.7) <span class="fac">[15\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-157}
+
+<span class="series-number">4˙2213</span> Gebrauche ich zwei Namen in _einer_ und derselben Bedeutung, oder zwei Satzzeichen in _einem_ Sinn, so drücke ich dies aus indem ich zwischen beide das Zeichen „ = ” setze.
+
+### [Ms-104](/ms-104/#15.8) <span class="fac">[15\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-158}
+
+<span class="series-number">4˙2214</span> Ausdrücke von der Form a = b sind also nur Behelfe der Darstellung, sie sagen nichts über die Bedeutung oder den Sinn der Zeichen „a” oder „b” aus.
+
+### [Ms-104](/ms-104/#15.9) <span class="fac">[15\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-159}
+
+<span class="series-number">4˙433</span> Es ist klar daß dem Komplex der Zeichen „F” und „W” kein Gegenstand (oder Komplex von Gegenständen) entspricht, so wenig wie den horizontalen und vertikalen Strichen oder den Klammern. „Logische Gegenstände” gibt es nicht.
+
+### [Ms-104](/ms-104/#15.10) <span class="fac">[15\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-1510}
+
+<span class="series-number">4˙4331</span> Analoges gilt natürlich für alle Zeichen die dasselbe ausdrücken wie die Schemata der „W” und „F”.
+
+### [Ms-104](/ms-104/#15.11) <span class="fac">[15\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/15.webp)</span> {#ms-104-1511}
+
+<span class="series-number">2˙061</span> Die Sachverhalte sind von einander unabhängig.
+
+### [Ms-104](/ms-104/#16.1) <span class="fac">[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-161}
+
+<span class="series-number">2˙062</span> Aus dem Bestehen oder nicht Bestehen des einen kann nicht auf das Bestehen oder nicht Bestehen des anderen geschlossen werden.
+
+### [Ms-104](/ms-104/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-162}
+
+<span class="series-number">5˙0412</span> Folgt p aus q so kann ich aus q auf p schließen, p aus q folgern.
+
+### [Ms-104](/ms-104/#16.3) <span class="fac">[16\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-163}
+
+<span class="series-number">5˙043</span> Aus einem Elementarsatz läßt sich kein anderer folgern.
+
+### [Ms-104](/ms-104/#16.4) <span class="fac">[16\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-164}
+
+<span class="series-number">5˙044</span> Auf keine Weise kann aus dem Bestehen irgend einer Sachlage, auf das Bestehen einer von ihr gänzlich verschiedenen Sachlage geschlossen werden.
+
+### [Ms-104](/ms-104/#16.5) <span class="fac">[16\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-165}
+
+<span class="series-number">5˙0441</span> Einen Kausalnexus der einen solchen Schluß rechtfertigte gibt es nicht.
+
+### [Ms-104](/ms-104/#16.6) <span class="fac">[16\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-166}
+
+<span class="series-number">3˙04</span> Ein a priori richtiger Gedanke wäre ein solcher, dessen Möglichkeit seine Wahrheit bedingte.
+
+### [Ms-104](/ms-104/#16.7) <span class="fac">[16\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-167}
+
+<span class="series-number">3˙05</span> Nur so könnten wir a priori wissen, daß ein Gedanke wahr ist, wenn aus dem Gedanken selbst (ohne Vergleichsobjekt) seine Wahrheit zu erkennen wäre.
+
+### [Ms-104](/ms-104/#16.8) <span class="fac">[16\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-168}
+
+<span class="series-number">5˙0411</span> Daß ein Satz aus einem anderen folgt, ersehen wir aus der Struktur der Sätze.
+
+### [Ms-104](/ms-104/#16.9) <span class="fac">[16\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-169}
+
+<span class="series-number">5˙0415</span> Alles Folgern geschieht a priori.
+
+### [Ms-104](/ms-104/#16.10) <span class="fac">[16\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-1610}
+
+<span class="series-number">5˙0442</span> Die Ereignisse der Zukunft _können_ wir nicht _wissen_.
+
+### [Ms-104](/ms-104/#16.11) <span class="fac">[16\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-1611}
+
+<span class="series-number">5˙0443</span> Der Glaube an den Kausalnexus ist der Aberglaube.
+
+### [Ms-104](/ms-104/#16.12) <span class="fac">[16\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp)</span> {#ms-104-1612}
+
+<span class="series-number">2˙173</span> Seine Form der Abbildung aber kann das Bild nicht abbilden; es weist sie auf.
+
+### [Ms-104](/ms-104/#16.13+17.1) <span class="fac">[16\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/16.webp),[17\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-1613171}
+
+<span class="series-number">4˙101</span> Der Satz kann die gesamte Wirklichkeit darstellen, aber er kann nicht das darstellen, was er mit der Wirklichkeit gemein haben muß um sie darstellen zu können, die logische Form.
+
+### [Ms-104](/ms-104/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-172}
+
+<span class="series-number">4˙102</span> Der Satz kann die logische Form nicht darstellen, sie spiegelt sich in ihm.
+
+### [Ms-104](/ms-104/#17.3) <span class="fac">[17\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-173}
+
+<span class="series-number">4˙103</span> Der Satz stellt die logische Form nicht dar, er weist sie auf; er zeigt sie.
+
+### [Ms-104](/ms-104/#17.4) <span class="fac">[17\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-174}
+
+<span class="series-number">2˙174</span> Das Bild stellt sein Objekt von außerhalb dar, (sein Standpunkt ist seine Form der Darstellung) darum stellt das Bild sein Objekt richtig oder falsch dar.
+
+### [Ms-104](/ms-104/#17.5) <span class="fac">[17\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-175}
+
+<span class="series-number">2˙175</span> Das Bild kann sich aber nicht außerhalb seiner Form der Darstellung stellen.
+
+### [Ms-104](/ms-104/#17.6) <span class="fac">[17\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-176}
+
+<span class="series-number">3˙03</span> Wir können nichts Unlogisches denken, weil wir sonst unlogisch denken müßten.
+
+### [Ms-104](/ms-104/#17.7) <span class="fac">[17\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-177}
+
+<span class="series-number">4˙104</span> Um die logische Form darstellen zu können müßten wir uns mit dem Satz außerhalb der Logik aufstellen können, d.h. außerhalb der Welt.
+
+### [Ms-104](/ms-104/#17.8) <span class="fac">[17\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-178}
+
+<span class="series-number">4˙001</span> Die Gesamtheit der Sätze ist die Sprache.
+
+### [Ms-104](/ms-104/#17.9) <span class="fac">[17\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-179}
+
+<span class="series-number">4˙1021</span> Was sich in der Sprache spiegelt, kann sie nicht darstellen.
+
+### [Ms-104](/ms-104/#17.10) <span class="fac">[17\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-1710}
+
+<span class="series-number">5˙0413</span> Die Art des Schlusses ist allein aus den beiden Sätzen zu entnehmen.
+
+### [Ms-104](/ms-104/#17.11) <span class="fac">[17\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-1711}
+
+<span class="series-number">5˙0414</span> Nur sie selbst können den Schluß rechtfertigen.
+
+### [Ms-104](/ms-104/#17.12) <span class="fac">[17\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-1712}
+
+<span class="series-number">5˙04141</span> „Schlußgesetze” welche – wie bei Frege und Russell – die Schlüsse rechtfertigen sollen sind sinnlos, und wären überflüssig.
+
+### [Ms-104](/ms-104/#17.13) <span class="fac">[17\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/17.webp)</span> {#ms-104-1713}
+
+<span class="series-number">4˙10011</span> Die Gesamtheit der wahren Sätze kann man auch die gesamte Naturwissenschaft nennen (oder die Gesamtheit der Naturwissenschaften).
+
+### [Ms-104](/ms-104/#18.1) <span class="fac">[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-181}
+
+<span class="series-number">4˙10012</span> Die Philosophie ist keine der Naturwissenschaften.
+
+### [Ms-104](/ms-104/#18.2) <span class="fac">[18\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-182}
+
+<span class="series-number">4˙10013</span> Das Wort „Philosophie” muß etwas bedeuten, das über oder unter, aber nicht _neben_ den Naturwissenschaften steht.
+
+### [Ms-104](/ms-104/#18.3) <span class="fac">[18\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-183}
+
+<span class="series-number">4˙10014</span> Der Zweck der Philosophie ist die logische Klärung der Gedanken.
+
+### [Ms-104](/ms-104/#18.4) <span class="fac">[18\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-184}
+
+<span class="series-number">4˙10015</span> Die Philosophie ist keine Lehre sondern eine Tätigkeit.
+
+### [Ms-104](/ms-104/#18.5) <span class="fac">[18\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-185}
+
+<span class="series-number">4˙10016</span> Das Resultat der Philosophie sind nicht „philosophische Sätze” sondern das Klarwerden von Sätzen.
+
+### [Ms-104](/ms-104/#18.6) <span class="fac">[18\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-186}
+
+<span class="series-number">4˙100161</span> Die Philosophie soll die Gedanken, die sonst, gleichsam, trübe und verschwommen sind, klar machen und scharf abgrenzen.
+
+### [Ms-104](/ms-104/#18.7) <span class="fac">[18\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-187}
+
+<span class="series-number">4˙10017</span> Sie wird so das Denkbare abgrenzen und damit das Undenkbare.
+
+### [Ms-104](/ms-104/#18.8) <span class="fac">[18\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-188}
+
+<span class="series-number">4˙100171</span> Sie wird das Undenkbare von innen, durch das Denkbare, begrenzen.
+
+### [Ms-104](/ms-104/#18.9) <span class="fac">[18\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-189}
+
+<span class="series-number">4˙10018</span> Sie wird das Unsagbare bedeuten, indem sie das Sagbare klar darstellt.
+
+### [Ms-104](/ms-104/#18.10) <span class="fac">[18\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-1810}
+
+<span class="series-number">5˙32</span> Gleichheit des Gegenstandes drücke ich durch Gleichheit des Zeichens aus, und nicht mit Hilfe eines Gleichheitszeichens. Verschiedenheit der Gegenstände durch Verschiedenheit der Zeichen.
+
+### [Ms-104](/ms-104/#18.11) <span class="fac">[18\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-1811}
+
+<span class="series-number">5˙331</span> Ich schreibe also nicht „F(a,b) ∙ a = b”, sondern „F(a,a)” [oder „F(b,b)”] und nicht „F(a,b) ∙ a ≠ b”, sondern „F(a,b)”.
+
+### [Ms-104](/ms-104/#18.12) <span class="fac">[18\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp)</span> {#ms-104-1812}
+
+<span class="series-number">5˙332</span> Und analog, nicht „(∃x,y) ∙ F(x,y) ∙ x = y”, sondern „(∃x) ∙ F(x,x)” und nicht „(∃x,y) ∙ F(x,y) ∙ x ≠ y”, sondern „(∃x,y) ∙ F(x,y)”.
+
+(Also statt dem Russellschen „(∃x,y) ∙ F(x,y)”: „(∃x,y) ∙ F(x,y)⌵(∃x) ∙ F(x,x)”.)
+
+### [Ms-104](/ms-104/#18.13+19.1) <span class="fac">[18\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/18.webp),[19\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-1813191}
+
+<span class="series-number">5˙3321</span> Statt „(x) ∙ Fx⊃x = a” schreiben wir also z.B. „Fa: ~(∃x,y) ∙ Fx ∙ Fy”. Und der Satz „_Nur_ ein x befriedigt F(x̂)” lautet: „(∃x) ∙ Fx: ~(∃x,y) ∙ Fx ∙ Fy”.
+
+### [Ms-104](/ms-104/#19.2) <span class="fac">[19\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-192}
+
+<span class="series-number">5˙333</span> Das Gleichheitszeichen ist also kein wesentlicher Bestandteil der Begriffsschrift.
+
+### [Ms-104](/ms-104/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-193}
+
+<span class="series-number">5˙334</span> Und nun sehen wir daß Scheinsätze wie: „a = a”, „a = b ∙ b = c․⊃․a = c”, „(x) ∙ x = x”, „(∃x) ∙ x = a”, etc. sich in einer richtigen Begriffsschrift gar nicht hinschreiben lassen.
+
+### [Ms-104](/ms-104/#19.4) <span class="fac">[19\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-194}
+
+<span class="series-number">5˙3341</span> Damit erledigen sich auch alle Probleme, die an solche Scheinsätze geknüpft waren.
+
+### [Ms-104](/ms-104/#19.5) <span class="fac">[19\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-195}
+
+<span class="series-number">4˙1022</span> Was sich _in_ der Sprache ausdrückt, können _wir_ nicht durch sie ausdrücken.
+
+### [Ms-104](/ms-104/#19.6) <span class="fac">[19\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-196}
+
+<span class="series-number">4˙10221</span> Die logische Struktur der Sachlage spiegelt sich also im Satz –, wir können sie nicht durch die Sprache ausdrücken – der Satz _zeigt_ sie.
+
+### [Ms-104](/ms-104/#19.7) <span class="fac">[19\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-197}
+
+<span class="series-number">4˙102211</span> So zeigt ein Satz „φ(a)” daß in seinem Sinn der Gegenstand a vorkommt, die Sätze „φb” und „ψb” daß in ihren Sinnen derselbe Gegenstand vorkommt.
+
+### [Ms-104](/ms-104/#19.8) <span class="fac">[19\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-198}
+
+<span class="series-number">4˙102212</span> Zwei Sätze, welche einander widersprechen zeigen dies, ebenso zeigt es sich in den Sätzen, wenn einer aus anderen folgt. u.s.w.
+
+### [Ms-104](/ms-104/#19.9) <span class="fac">[19\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-199}
+
+<span class="series-number">4˙10222</span> Wir können in gewissem Sinne von Eigenschaften-der-Struktur der Tatsachen bezw. von Relationen ihrer Strukturen reden.
+
+### [Ms-104](/ms-104/#19.10) <span class="fac">[19\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp)</span> {#ms-104-1910}
+
+<span class="series-number">4˙10223</span> Nur kann das Bestehen solcher Eigenschaften und Relationen nicht durch Sätze behauptet werden, sondern _es zeigt sich in den Sätzen_ welche die Strukturen darstellen.
+
+### [Ms-104](/ms-104/#19.11+20.1) <span class="fac">[19\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/19.webp),[20\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-1911201}
+
+<span class="series-number">4˙10224</span> Das Bestehen einer internen Eigenschaft einer möglichen Sachlage wird nicht _durch_ einen Satz ausgedrückt, sondern es drückt sich _in_ dem sie darstellenden Satz durch eine interne Eigenschaft des Satzes aus.
+
+### [Ms-104](/ms-104/#20.2) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-202}
+
+<span class="series-number">4˙10225</span> Das Bestehen einer internen Relation zwischen möglichen Sachlagen drückt sich sprachlich durch eine interne Relation zwischen den sie darstellenden Sätzen aus.
+
+### [Ms-104](/ms-104/#20.3) <span class="fac">[20\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-203}
+
+<span class="series-number">4˙102231</span> Statt Eigenschaft der Struktur sagen wir auch „interne Eigenschaft”, statt Relation der Strukturen „interne Relation”.
+
+### [Ms-104](/ms-104/#20.4) <span class="fac">[20\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-204}
+
+<span class="series-number">5˙32041</span> Gewißheit, Möglichkeit, oder Unmöglichkeit einer Sachlage wird nicht durch einen Satz ausgedrückt, sondern dadurch, daß eine Tautologie, ein sinnvoller Satz, oder eine Kontradiktion die Sachlage darstellt.
+
+### [Ms-104](/ms-104/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-205}
+
+<span class="series-number">5˙3204</span> Es ist unrichtig den Satz „(∃x) ∙ φx” – wie Russell dies tut – in Worten durch „φx ist _möglich_” wiederzugeben.
+
+### [Ms-104](/ms-104/#20.6) <span class="fac">[20\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-206}
+
+<span class="series-number">5˙005</span> Die Festsetzung der Werte der Satzvariablen ist die _Angabe_ der _Sätze_, welche die Variable vertritt.
+
+### [Ms-104](/ms-104/#20.7) <span class="fac">[20\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-207}
+
+<span class="series-number">5˙00501</span> Die Festsetzung ist eine Beschreibung dieser Sätze.
+
+### [Ms-104](/ms-104/#20.8) <span class="fac">[20\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-208}
+
+<span class="series-number">5˙0051</span> Die Festsetzung wird also nur von Zeichen nicht von deren Bedeutung handeln.
+
+### [Ms-104](/ms-104/#20.9) <span class="fac">[20\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-209}
+
+<span class="series-number">5˙0052</span> Und nur dies ist der Festsetzung wesentlich, daß sie nur eine Beschreibung von Zeichen ist und nichts über das Bezeichnete aussagt.
+
+### [Ms-104](/ms-104/#20.10) <span class="fac">[20\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-2010}
+
+<span class="series-number">5˙0053</span> Wie die Beschreibung der Sätze geschieht ist unwesentlich.
+
+### [Ms-104](/ms-104/#20.11) <span class="fac">[20\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/20.webp)</span> {#ms-104-2011}
+
+<span class="series-number">5˙0041</span> Die Festsetzung der Werte _ist_ die Variable.
+
+### [Ms-104](/ms-104/#21.1) <span class="fac">[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-211}
+
+<span class="series-number">5˙00531</span> Wir können drei Arten der Beschreibung unterscheiden: 1) Die direkte Aufzählung. 2) Die Angabe einer Funktion F(x,y ....) deren sämtliche Werte die zu beschreibenden Sätze sind. 3) Die Angabe von Zügen welche jene Sätze charakterisieren.
+
+### [Ms-104](/ms-104/#21.2) <span class="fac">[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-212}
+
+<span class="series-number">4˙102233</span> Eine interne Eigenschaft einer Tatsache können wir auch einen Zug dieser Tatsache nennen. (In dem Sinn in welchem wir etwa von Gesichtszügen sprechen.)
+
+### [Ms-104](/ms-104/#21.3) <span class="fac">[21\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-213}
+
+<span class="series-number">4˙102234</span> Ein Zug charakterisiert eine Klasse von Tatsachen; wenn sie, und nur sie ihn besitzen.
+
+### [Ms-104](/ms-104/#21.4) <span class="fac">[21\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-214}
+
+<span class="series-number">5˙00532</span> Im ersten Fall können wir statt der Variablen einfach ihre (konstanten) Werte schreiben.
+
+### [Ms-104](/ms-104/#21.5) <span class="fac">[21\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-215}
+
+<span class="series-number">5˙00533</span> Im zweiten Fall ist die Variable ein verallgemeinerter Satz.
+
+### [Ms-104](/ms-104/#21.6) <span class="fac">[21\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-216}
+
+<span class="series-number">5˙00534</span> Im dritten Falle sind die Werte der Variablen alle Sätze welche gewisse _formale_ Eigenschaften besitzen.
+
+### [Ms-104](/ms-104/#21.7) <span class="fac">[21\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-217}
+
+<span class="series-number">5˙005341</span> Diese zweite Art der Verallgemeinerung die man die _formale_ nennen kann ist von Russell und Frege übersehen worden.
+
+### [Ms-104](/ms-104/#21.8) <span class="fac">[21\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-218}
+
+<span class="series-number">5˙005342</span> Alle Sätze – z.B. – der Reihe: aRb,(∃x) ∙ aRx ∙ xRb,(∃x,y) ∙ aRx ∙ xRy ∙ yRb, u.s.w. sind durch eine formale Eigenschaft charakterisiert.
+
+### [Ms-104](/ms-104/#21.9) <span class="fac">[21\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-219}
+
+<span class="series-number">5˙00535</span> Die allgemeine Form dieser Sätze kann _nur_ durch die Form einer Variablen dargestellt werden.
+
+### [Ms-104](/ms-104/#21.10) <span class="fac">[21\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-2110}
+
+<span class="series-number">5˙005351</span> Russells Darstellung ist unrichtig, sie enthält einen Circulus vitiosus.
+
+### [Ms-104](/ms-104/#21.11) <span class="fac">[21\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp)</span> {#ms-104-2111}
+
+<span class="series-number">4˙1022501</span> Hier erledigt sich nun die Streitfrage „ob alle Relationen intern oder extern” seien.
+
+### [Ms-104](/ms-104/#21.12+22.1) <span class="fac">[21\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-2112221}
+
+<span class="series-number">4˙102253</span> In dem Sinne in welchem wir von formalen Eigenschaften sprechen, können wir nun auch von formalen Begriffen reden.
+
+### [Ms-104](/ms-104/#22.2) <span class="fac">[22\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-222}
+
+<span class="series-number">4˙102254</span> Ich führe diesen Ausdruck ein um den Grund der Verwechslung der formalen Begriffe mit den eigentlichen Begriffen, welche die ganze alte Logik durchzieht, klar zu machen.
+
+### [Ms-104](/ms-104/#22.3) <span class="fac">[22\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-223}
+
+<span class="series-number">4˙102232</span> Ich führe diese Ausdrücke ein um den Grund der bei den Philosophen sehr verbreiteten Verwechslung zwischen den Relationen der Struktur und den eigentlichen (externen) Relationen zu zeigen.
+
+### [Ms-104](/ms-104/#22.4) <span class="fac">[22\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-224}
+
+<span class="series-number">4˙102261</span> Die formalen Begriffe können ja nicht wie die eigentlichen Begriffe durch eine Funktion dargestellt werden.
+
+### [Ms-104](/ms-104/#22.5) <span class="fac">[22\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-225}
+
+<span class="series-number">4˙102262</span> Denn ihre Merkmale, die formalen Eigenschaften werden ja nicht durch Funktionen ausgedrückt.
+
+### [Ms-104](/ms-104/#22.6) <span class="fac">[22\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-226}
+
+<span class="series-number">4˙102263</span> Der Ausdruck der formalen Eigenschaft ist ein Zug einer Satzstruktur.
+
+### [Ms-104](/ms-104/#22.7) <span class="fac">[22\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-227}
+
+<span class="series-number">4˙102265</span> Und der Ausdruck des formalen Begriffes also eine Satzvariable in welcher nur dieser charakteristische Zug konstant ist.
+
+### [Ms-104](/ms-104/#22.8) <span class="fac">[22\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-228}
+
+<span class="series-number">4˙102264</span> Das Zeichen des Merkmals eines formalen Begriffes ist also der charakteristische Zug aller Sätze deren Sinne unter den Begriff fallen.
+
+### [Ms-104](/ms-104/#22.9) <span class="fac">[22\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/22.webp)</span> {#ms-104-229}
+
+<span class="series-number">4˙102271</span> In ähnlichem Sinne ist jede Variable das Zeichen eines formalen Begriffes.
+
+### [Ms-104](/ms-104/#23.1) <span class="fac">[23\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-231}
+
+<span class="series-number">4˙1022721</span> So ist der variable Name x das eigentliche Zeichen des Scheinbegriffes: „Gegenstand”.
+
+### [Ms-104](/ms-104/#23.2) <span class="fac">[23\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-232}
+
+<span class="series-number">4˙1022722</span> Wo immer das Wort Gegenstand (oder Ding, Sache etc.) richtig gebraucht wird, wird es in der Begriffsschrift durch den variablen Namen ausgedrückt.
+
+### [Ms-104](/ms-104/#23.3) <span class="fac">[23\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-233}
+
+<span class="series-number">4˙1022723</span> Z.B. in dem Satz „es gibt 2 _Gegenstände_, welche ‥‥․” durch „(∃x,y) .....”.
+
+### [Ms-104](/ms-104/#23.4) <span class="fac">[23\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-234}
+
+<span class="series-number">4˙1022724</span> Wo immer es anders also als eigentliches Begriffswort gebraucht wird entstehen unsinnige Scheinsätze.
+
+### [Ms-104](/ms-104/#23.5) <span class="fac">[23\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-235}
+
+<span class="series-number">4˙1022725</span> So kann man z.B. nicht sagen „Es gibt Gegenstände”, wie man etwa sagt „Es gibt Bücher”. Und ebensowenig: „Es gibt 100 Gegenstände.” oder „Es gibt <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math> Gegenstände.”.
+
+### [Ms-104](/ms-104/#23.6) <span class="fac">[23\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-236}
+
+<span class="series-number">4˙1022726</span> Was vom Wort „Gegenstand” gilt, gilt auch entsprechend von den Worten „Komplex”, „Tatsache”, „Funktion”, „Zahl” etc. etc.
+
+### [Ms-104](/ms-104/#23.7) <span class="fac">[23\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-237}
+
+<span class="series-number">4˙1022727</span> Alle diese Wörter bezeichnen im weiteren Sinne _formale_ Begriffe und sie alle werden in der Begriffsschrift durch _Variable_, nicht durch _Funktionen_ oder _Klassen_, dargestellt.
+
+### [Ms-104](/ms-104/#23.8) <span class="fac">[23\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-238}
+
+<span class="series-number">4˙1022728</span> Ausdrücke wie „1 ist eine Zahl”, „es gibt nur eine 0” und alle ähnlichen sind unsinnig.
+
+### [Ms-104](/ms-104/#23.9+24.1) <span class="fac">[23\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp),[24\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-239241}
+
+<span class="series-number">4˙10226</span> Daß etwas unter einen formalen Begriff als dessen Gegenstand fällt, kann nicht durch einen Satz ausgedrückt werden.
+
+Es zeigt sich an dem Zeichen dieses Gegenstandes selbst.
+
+(Der Name zeigt daß er einen Gegenstand bezeichnet, das Zahlzeichen daß es eine Zahl bezeichnet.)
+
+### [Ms-104](/ms-104/#24.2) <span class="fac">[24\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-242}
+
+<span class="series-number">4˙10227</span> Die Satzvariable bezeichnet also den formalen Begriff und ihre Werte, die Gegenstände welche unter diesen Begriff fallen.
+
+### [Ms-104](/ms-104/#24.3) <span class="fac">[24\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-243}
+
+<span class="series-number">4˙102272</span> Denn jede Variable stellt eine konstante Form dar, welche alle ihre Werte besitzen und die als formale Eigenschaft dieser Werte aufgefaßt werden _kann_.
+
+### [Ms-104](/ms-104/#24.4) <span class="fac">[24\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-244}
+
+<span class="series-number">4˙102273</span> „Gegenstand”, „Komplex”, „Tatsache”, „Zahl”, etc. etc. sind nicht Begriffsnamen – wie Russell glaubte – sondern Variable.
+
+### [Ms-104](/ms-104/#24.5) <span class="fac">[24\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-245}
+
+<span class="series-number">4˙22131</span> Auch die Vertauschbarkeit zweier beliebiger Satzteile drücke ich kurz auf die gleiche Art und Weise aus.
+
+### [Ms-104](/ms-104/#24.6) <span class="fac">[24\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-246}
+
+<span class="series-number">4˙102241</span> Es wäre ebenso unsinnig dem Satz eine formale Eigenschaft zuzusprechen als sie ihm abzusprechen.
+
+### [Ms-104](/ms-104/#24.7) <span class="fac">[24\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-247}
+
+<span class="series-number">4˙10227251</span> Und es ist unsinnig von der „Anzahl aller Gegenstände” zu sprechen.
+
+### [Ms-104](/ms-104/#24.8) <span class="fac">[24\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-248}
+
+<span class="series-number">3˙20121</span> Den Satz sowie jeden Teil eines solchen, nenne ich kurz „Symbol”.
+
+### [Ms-104](/ms-104/#24.9) <span class="fac">[24\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-249}
+
+<span class="series-number">3˙20122</span> Jedes Symbol ist ein Satz oder ein Teil eines Satzes also das was Sätze mit einander gemein haben.
+
+### [Ms-104](/ms-104/#24.10) <span class="fac">[24\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-2410}
+
+<span class="series-number">3˙22</span> Der Satz besitzt wesentliche und zufällige Züge.
+
+### [Ms-104](/ms-104/#24.11) <span class="fac">[24\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/24.webp)</span> {#ms-104-2411}
+
+<span class="series-number">3˙23</span> Zufällig sind die Züge die von der besonderen Art der Hervorbringung des Satzzeichens herrühren.
+
+Wesentlich diejenigen, welche allein den Satz befähigen seinen Sinn auszudrücken.
+
+### [Ms-104](/ms-104/#25.1) <span class="fac">[25\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-251}
+
+<span class="series-number">3˙2016</span> Jedes Zeichen kann als Satzvariable dargestellt werden.
+
+### [Ms-104](/ms-104/#25.2) <span class="fac">[25\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-252}
+
+<span class="series-number">3˙24</span> Das Wesentliche am Satz ist also das, was allen Sätzen, welche den gleichen Sinn ausdrücken können, gemeinsam ist.
+
+### [Ms-104](/ms-104/#25.3) <span class="fac">[25\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-253}
+
+<span class="series-number">3˙213</span> Im Satz ist also sein Sinn noch nicht enthalten, wohl aber die Möglichkeit ihn auszudrücken.
+
+### [Ms-104](/ms-104/#25.4) <span class="fac">[25\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-254}
+
+<span class="series-number">3˙214</span> Im Satz ist die Form seines Sinnes enthalten, aber nicht dessen Inhalt.
+
+### [Ms-104](/ms-104/#25.5) <span class="fac">[25\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-255}
+
+<span class="series-number">3˙211</span> Zum Satz gehört alles, was zur Projektion gehört; aber nicht das Projizierte.
+
+### [Ms-104](/ms-104/#25.6) <span class="fac">[25\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-256}
+
+<span class="series-number">3˙212</span> Also die Möglichkeit des Projizierten, aber nicht dieses selbst.
+
+### [Ms-104](/ms-104/#25.7) <span class="fac">[25\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-257}
+
+<span class="series-number">3˙241</span> Und ebenso ist allgemein das Wesentliche am Zeichen das, was alle Zeichen, die denselben Zweck erfüllen können gemeinsam haben.
+
+### [Ms-104](/ms-104/#25.8) <span class="fac">[25\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-258}
+
+<span class="series-number">3˙2131</span> „Der Inhalt des Satzes” heißt der Inhalt des sinnvollen Satzes.
+
+### [Ms-104](/ms-104/#25.9) <span class="fac">[25\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-259}
+
+<span class="series-number">4˙011</span> Auf den ersten Blick scheint der Satz – wie er etwa auf dem Papier gedruckt steht – kein Bild der Wirklichkeit zu sein, von der er handelt.
+
+### [Ms-104](/ms-104/#25.10) <span class="fac">[25\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-2510}
+
+<span class="series-number">4˙0111</span> Aber auch die Notenschrift scheint auf den ersten Blick kein Bild der Musik zu sein und unsere Lautzeichen- (Buchstaben-) Schrift kein Bild unserer Lautsprache.
+
+### [Ms-104](/ms-104/#25.11) <span class="fac">[25\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp)</span> {#ms-104-2511}
+
+<span class="series-number">4˙0112</span> Und doch erweisen sich diese Zeichensprachen auch im gewöhnlichen Sinne als Bilder dessen was sie darstellen.
+
+### [Ms-104](/ms-104/#25.12+26.1) <span class="fac">[25\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/25.webp),[26\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-2512261}
+
+<span class="series-number">4˙0113</span> Und wenn wir in das Wesentliche dieser Bildhaftigkeit eindringen, so sehen wir, daß dieselbe durch _scheinbare_ _Unregelmäßigkeiten_ (wie die Verwendung der # und ♭ in der Notenschrift) _nicht_ gestört wird.
+
+### [Ms-104](/ms-104/#26.2) <span class="fac">[26\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-262}
+
+<span class="series-number">4˙0114</span> Denn auch diese Unregelmäßigkeiten bilden das ab was sie ausdrücken sollen, nur auf eine andere Art und Weise.
+
+### [Ms-104](/ms-104/#26.3) <span class="fac">[26\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-263}
+
+<span class="series-number">3˙161</span> Daß das Satzzeichen eine Tatsache ist, wird durch die gewöhnliche Ausdrucksform der Schrift oder des Druckes verschleiert.
+
+### [Ms-104](/ms-104/#26.4) <span class="fac">[26\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-264}
+
+<span class="series-number">3˙162</span> Denn im gedruckten Satz z.B. sieht das Satzzeichen nicht wesentlich verschieden aus vom Wort.
+
+### [Ms-104](/ms-104/#26.5) <span class="fac">[26\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-265}
+
+<span class="series-number">3˙1621</span> So war es möglich, daß Frege den Satz einen zusammengesetzten Namen nannte.
+
+### [Ms-104](/ms-104/#26.6) <span class="fac">[26\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-266}
+
+<span class="series-number">3˙163</span> Sehr klar wird das Wesen des Satzzeichens, wenn wir es uns, statt aus Schriftzeichen, aus räumlichen Gegenständen (aus Tischen, Stühlen Büchern etc.) zusammensetzen.
+
+### [Ms-104](/ms-104/#26.7) <span class="fac">[26\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-267}
+
+<span class="series-number">3˙164</span> Die gegenseitige räumliche Lage dieser Dinge drückt dann den Sinn des Satzes aus.
+
+### [Ms-104](/ms-104/#26.8) <span class="fac">[26\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-268}
+
+<span class="series-number">4˙0115</span> Um das Wesen des Satzes zu verstehen, denken wir an die Hieroglyphenschrift, die eingestandenermaßen die Tatsachen, welche sie beschreibt, abbildet.
+
+### [Ms-104](/ms-104/#26.9) <span class="fac">[26\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-269}
+
+<span class="series-number">4˙0116</span> Und aus ihr wurde die Buchstabenschrift, ohne das Wesentliche der Abbildung zu verlieren.
+
+### [Ms-104](/ms-104/#26.10) <span class="fac">[26\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/26.webp)</span> {#ms-104-2610}
+
+<span class="series-number">2˙021</span> Die Gegenstände bilden die Substanz der Welt.
+
+Darum können sie nicht zusammengesetzt sein.
+
+### [Ms-104](/ms-104/#27.1) <span class="fac">[27\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-271}
+
+<span class="series-number">2˙0211</span> Hätte die Welt keine Substanz so würde, ob ein Satz Sinn hat, davon abhängen, ob ein anderer Satz wahr ist.
+
+### [Ms-104](/ms-104/#27.2) <span class="fac">[27\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-272}
+
+<span class="series-number">2˙0212</span> Es wäre dann unmöglich ein Bild der Welt (wahr oder falsch) zu entwerfen.
+
+### [Ms-104](/ms-104/#27.3) <span class="fac">[27\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-273}
+
+<span class="series-number">2˙022</span> Es ist offenbar, daß auch eine von der wirklichen noch so verschieden gedachte Welt, etwas – eine Form – mit der wirklichen gemein haben muß.
+
+### [Ms-104](/ms-104/#27.4) <span class="fac">[27\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-274}
+
+<span class="series-number">2˙023</span> Diese feste Form besteht eben aus den Gegenständen.
+
+### [Ms-104](/ms-104/#27.5) <span class="fac">[27\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-275}
+
+<span class="series-number">2˙0231</span> Die Substanz der Welt _kann_ nur eine _Form_ und keine materiellen Eigenschaften bestimmen. Denn diese werden erst durch die Sätze dargestellt – erst durch die Konfiguration der Gegenstände gebildet.
+
+### [Ms-104](/ms-104/#27.6) <span class="fac">[27\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-276}
+
+<span class="series-number">2˙0232</span> Beiläufig gesprochen: Die Gegenstände sind farblos.
+
+### [Ms-104](/ms-104/#27.7) <span class="fac">[27\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-277}
+
+<span class="series-number">2˙024</span> Die Substanz ist das, was unabhängig von dem, was der Fall ist, besteht.
+
+### [Ms-104](/ms-104/#27.8) <span class="fac">[27\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-278}
+
+<span class="series-number">2˙025</span> Sie ist Form und Inhalt.
+
+### [Ms-104](/ms-104/#27.9) <span class="fac">[27\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-279}
+
+<span class="series-number">2˙0251</span> Raum und Zeit sind Formen der Gegenstände.
+
+### [Ms-104](/ms-104/#27.10) <span class="fac">[27\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-2710}
+
+<span class="series-number">2˙0252</span> Ebenso ist die Farbe (oder Färbigkeit) eine Form der visuellen Gegenstände.
+
+### [Ms-104](/ms-104/#27.11) <span class="fac">[27\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-2711}
+
+<span class="series-number">2˙026</span> Nur wenn es Gegenstände gibt, kann es eine feste Form der Welt geben.
+
+### [Ms-104](/ms-104/#27.12) <span class="fac">[27\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/27.webp)</span> {#ms-104-2712}
+
+<span class="series-number">2˙027</span> Das Feste, das Bestehende und der Gegenstand sind eins.
+
+### [Ms-104](/ms-104/#28.1) <span class="fac">[28\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-281}
+
+<span class="series-number">2˙0271</span> Der Gegenstand ist das Feste, Bestehende; die Konfiguration ist das Wechselnde, Unbeständige.
+
+### [Ms-104](/ms-104/#28.2) <span class="fac">[28\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-282}
+
+<span class="series-number">2˙0272</span> Die Konfiguration der Gegenstände bildet den Sachverhalt.
+
+---
+
+### [Ms-104](/ms-104/#28.3) <span class="fac">[28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-283}
+
+<span class="series-number">4˙09,1</span> Beachtet man nicht daß der Satz einen von den Tatsachen unabhängigen Sinn hat, so kann man leicht glauben daß wahr & falsch gleichberechtigte Beziehungen von Zeichen und Bezeichnetem sind.
+
+### [Ms-104](/ms-104/#28.4) <span class="fac">[28\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-284}
+
+<span class="series-number">4˙09,11</span> (Man könnte dann z.B. sagen, daß „p” auf die wahre Art bezeichnet was „~p” auf die falsche Art, etc.)
+
+### [Ms-104](/ms-104/#28.5) <span class="fac">[28\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-285}
+
+<span class="series-number">4˙09,2</span> „Kann man sich nicht mit falschen Sätzen, wie bisher mit wahren verständigen? solange man nur weiß daß sie falsch gemeint sind.”
+
+4˙092 Nein! Denn wahr ist ein Satz wenn es sich so verhält wie wir es durch ihn sagen; und wenn wir mit „q” ~q meinen und es sich so verhält wie wir es meinen so ist „q” in der neuen Auffassung wahr und nicht falsch.
+
+### [Ms-104](/ms-104/#28.6) <span class="fac">[28\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-286}
+
+<span class="series-number">4˙0921</span> Daß aber die Zeichen „q” und „~q” das gleiche sagen können ist wichtig. Denn es zeigt daß dem Zeichen „~” in der Wirklichkeit nichts entspricht.
+
+### [Ms-104](/ms-104/#28.7) <span class="fac">[28\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-287}
+
+<span class="series-number">4˙0922</span> Daß in einem Satz die Verneinung vorkommt ist noch kein Merkmal seines Sinnes. (~~p = p).
+
+### [Ms-104](/ms-104/#28.8) <span class="fac">[28\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-288}
+
+<span class="series-number">2˙0601</span> Das Bestehen von Sachverhalten nennen wir auch eine positive – , das Nichtbestehen eine negative Tatsache.
+
+### [Ms-104](/ms-104/#29.2) <span class="fac">[29\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/29.webp)</span> {#ms-104-292}
+
+<span class="series-number">3˙2012</span> Es kann nie das gemeinsame Merkmal zweier Gegenstände anzeigen, daß wir sie mit demselben Namen, aber durch zwei verschiedene _Bezeichnungsweisen_ bezeichnen. Denn der Name ist ja willkürlich; man könnte also auch zwei verschiedene Namen wählen, und wo bliebe dann das Gemeinsame in der Bezeichnung.
+
+### [Ms-104](/ms-104/#29.3+30.1) <span class="fac">[29\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/29.webp),[30\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-293301}
+
+<span class="series-number">4˙094</span> Ein Bild zur Erklärung des Wahrheitsbegriffes: Schwarzer Fleck auf weißem Papier. Die Form des Fleckes kann man beschreiben indem man für jeden Punkt der Fläche angibt, ob er weiß oder schwarz ist. Der Tatsache daß ein Punkt schwarz ist entspricht eine positive – der, daß ein Punkt weiß (nicht schwarz) ist eine negative Tatsache. Bezeichne ich einen Punkt der Fläche (einen Fregeschen Wahrheitswert), so entspricht dies der Annahme die zur Beurteilung aufgestellt wird etc. etc.
+
+Um aber sagen zu können ein Punkt sei schwarz oder weiß, muß ich vorerst wissen wann man einen Punkt schwarz und wann man ihn weiß nennt; um sagen zu können „p” ist wahr (oder falsch) muß ich bestimmt haben unter welchen Umständen ich p wahr nenne, und damit bestimme ich den Sinn des Satzes.
+
+Der Punkt an dem das Gleichnis hinkt ist nun der: Wir können auf einen Punkt des Papiers zeigen auch ohne zu wissen was weiß und schwarz ist; einem Satz ohne Sinn aber entspricht gar nichts, denn er bezeichnet kein Ding (Wahrheitswert) dessen Eigenschaften etwa „falsch” oder „wahr” hießen; das Verbum eines Satzes ist nicht „ist wahr” oder „ist falsch” – wie Frege glaubte –, sondern das was „wahr ist” muß das Verbum schon enthalten.
+
+### [Ms-104](/ms-104/#30.2) <span class="fac">[30\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-302}
+
+<span class="series-number">5˙222</span> Daß aus einer Tatsache p unendlich viele _andere_ folgen sollten, nämlich ~~p, ~~~~p, etc. ist doch von vornherein kaum zu glauben.
+
+### [Ms-104](/ms-104/#30.3) <span class="fac">[30\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-303}
+
+<span class="series-number">4˙0011</span> Der Mensch besitzt die Fähigkeit Sprachen zu bauen womit sich jeder Sinn ausdrücken läßt, ohne eine Ahnung davon zu haben wie, und was jedes Wort bedeutet. Wie man spricht ohne zu wissen wie die einzelnen Laute hervorgebracht werden.
+
+### [Ms-104](/ms-104/#30.4) <span class="fac">[30\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-304}
+
+<span class="series-number">2˙0201</span> Jede Aussage über Komplexe läßt sich in eine Aussage über deren Bestandteile und die Sätze zerlegen welche die Komplexe vollständig beschreiben.
+
+### [Ms-104](/ms-104/#30.5) <span class="fac">[30\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-305}
+
+<span class="series-number">5˙2201</span> Daß ⌵, ⊃, etc. nicht Beziehungen im Sinne von Rechts und Links etc. sind, leuchtet dem unbefangenen Geist ein.
+
+### [Ms-104](/ms-104/#30.6) <span class="fac">[30\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-306}
+
+<span class="series-number">5˙221</span> Die Möglichkeit des kreuzweisen Definierens der logischen „Urzeichen” Freges und Russells zeigt schon, daß dies keine Urzeichen sind; und schon erst recht, daß sie keine Relationen bezeichnen.
+
+### [Ms-104](/ms-104/#30.7) <span class="fac">[30\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp)</span> {#ms-104-307}
+
+<span class="series-number">5˙2211</span> Und es ist offenbar daß das „⊃” welches wir durch „ ∙ ” und „⌵” definieren, identisch ist mit dem durch welches wir „⌵” mit „ ∙ ” definieren und daß dieses „ ∙ ” mit dem ersten identisch ist. U.s.w.
+
+### [Ms-104](/ms-104/#30.8+31.1) <span class="fac">[30\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/30.webp),[31\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp)</span> {#ms-104-308311}
+
+<span class="series-number">4˙102274</span> Verwandeln wir einen Bestandteil eines Satzes in eine Variable, so gibt es eine Klasse von Sätzen welche sämtlich Werte des so entstandenen variablen Satzes sind. Diese Klasse hängt im allgemeinen noch davon ab, was wir, nach willkürlicher Übereinkunft mit Teilen jenes Satzes meinen. Verwandeln wir aber alle jene Zeichen in Variable, deren Bedeutung willkürlich bestimmt wurde, so gibt es nun noch immer eine solche Klasse. Diese aber ist nun von keiner Übereinkunft abhängig sondern nur noch von der Natur des Satzes. Sie entspricht einem logischen Urbild – einer logischen Form.
+
+### [Ms-104](/ms-104/#31.2) <span class="fac">[31\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp)</span> {#ms-104-312}
+
+<span class="series-number">4˙1022631</span> Formen kann man nicht dadurch von einander unterscheiden, daß man sagt die eine habe diese, die andere aber jene Eigenschaft; denn dies setzt voraus daß es einen Sinn habe beide Eigenschaften von beiden Formen auszusagen.
+
+### [Ms-104](/ms-104/#31.3) <span class="fac">[31\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp)</span> {#ms-104-313}
+
+<span class="series-number">3˙2011</span> Namen gleichen Punkten, Sätze Pfeilen, sie haben Sinn.
+
+### [Ms-104](/ms-104/#31.4) <span class="fac">[31\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp)</span> {#ms-104-314}
+
+<span class="series-number">3˙201221</span> „A” ist der selbe Buchstabe wie „A”. Dies ist für unsere Sprache von großer Wichtigkeit.
+
+### [Ms-104](/ms-104/#31.5) <span class="fac">[31\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp)</span> {#ms-104-315}
+
+<span class="series-number">5˙041021</span> Wenn ein Gott eine Welt erschafft, worin gewisse Sätze wahr sind, so schafft er damit auch schon eine Welt in welcher alle Folgesätze stimmen. Und ähnlich könnte er keine Welt schaffen worin der Satz p wahr ist ohne seine sämtlichen Gegenstände zu schaffen.
+
+### [Ms-104](/ms-104/#31.6) <span class="fac">[31\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp)</span> {#ms-104-316}
+
+<span class="series-number">4˙4461</span> Tautologien sind sinnlos. (Ich weiß z.B. nichts über das Wetter wenn ich weiß daß es regnet oder nicht regnet.)
+
+### [Ms-104](/ms-104/#31.7+32.1) <span class="fac">[31\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/31.webp),[32\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp)</span> {#ms-104-317321}
+
+<span class="series-number">4˙025</span> Einen Satz verstehen heißt, wissen was der Fall ist, wenn er wahr ist.
+
+### [Ms-104](/ms-104/#32.2) <span class="fac">[32\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp)</span> {#ms-104-322}
+
+<span class="series-number">4˙025</span> Man kann ihn also verstehen ohne zu wissen ob er wahr ist.
+
+### [Ms-104](/ms-104/#32.3) <span class="fac">[32\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp)</span> {#ms-104-323}
+
+<span class="series-number">4˙026</span> Man versteht ihn, wenn man seine Bestandteile versteht.
+
+### [Ms-104](/ms-104/#32.4) <span class="fac">[32\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp)</span> {#ms-104-324}
+
+<span class="series-number">5˙101</span> Der Sinn einer Wahrheitsfunktion von p ist eine Funktion des Sinnes von p.
+
+### [Ms-104](/ms-104/#32.5) <span class="fac">[32\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp)</span> {#ms-104-325}
+
+<span class="series-number">5˙231</span> Wenn man z.B. eine Bejahung durch doppelte Verneinung erzeugen kann, ist dann die Verneinung – in irgend einem Sinn – in der Bejahung enthalten? Verneint ~~p ~p, oder bejaht es p; oder beides?
+
+### [Ms-104](/ms-104/#32.6) <span class="fac">[32\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp)</span> {#ms-104-326}
+
+<span class="series-number">4˙4311</span> Freges Zeichen „⊢” ist logisch ganz bedeutungslos; es zeigt bei Frege (und Russell) nur an daß diese Autoren die so bezeichneten Sätze für wahr halten. „⊢” gehört daher ebensowenig zum Satzgefüge wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen daß er wahr ist.
+
+### [Ms-104](/ms-104/#32.8+33.1) <span class="fac">[32\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/32.webp),[33\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-328331}
+
+<span class="series-number">5˙301</span> Hat die Logik Grundbegriffe, so müssen sie von einander unabhängig sein. Ist ein Grundbegriff eingeführt so muß er in allen Verbindungen eingeführt sein worin er überhaupt vorkommt. Man kann ihn also nicht zuerst für eine Verbindung, dann nocheinmal für eine andere einführen. Z.B.: Ist die Verneinung eingeführt so müssen wir sie jetzt in Sätzen von der Form ~p ebenso verstehen, wie in Sätzen wie ~(p ⌵ q) (oder (Еx).~φx) u.a.. Wir dürfen sie nicht erst für die eine Klasse von Fällen, dann für die andere einführen denn es bliebe dann zweifelhaft ob ihre Bedeutung in beiden Fällen die gleiche wäre und es wäre kein Grund vorhanden in beiden Fällen die selbe Art der Zeichenverbindung zu benützen.
+
+(Kurz, für die Einführung der Urzeichen gilt mutatis mutandis dasselbe was Frege (Grundgesetze der Arithmetik) für die Einführung von Zeichen durch Definitionen gesagt hat.)
+
+### [Ms-104](/ms-104/#33.2) <span class="fac">[33\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-332}
+
+<span class="series-number">4˙4001</span> Es ist von vornherein wahrscheinlich daß die Einführung der Elementarsätze für das Verständnis aller anderen Satzarten grundlegend ist. Ja das Verständnis der allgemeinen Sätze hängt fühlbar von dem der Elementarsätze ab.
+
+### [Ms-104](/ms-104/#33.3) <span class="fac">[33\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-333}
+
+<span class="series-number">3˙1622</span> Nicht: „das komplexe Zeichen „aRb” sagt, daß a in der Beziehung R zu b steht”, sondern: _daß_ „a” in einer gewissen Beziehung zu „b” steht sagt, _daß_ aRb.
+
+### [Ms-104](/ms-104/#33.4) <span class="fac">[33\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-334}
+
+<span class="series-number">4˙00163</span> Russells Verdienst ist es gezeigt zu haben daß die scheinbare logische Form des Satzes nicht seine wirkliche sein muß.
+
+### [Ms-104](/ms-104/#33.5) <span class="fac">[33\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-335}
+
+<span class="series-number">4˙100152</span> Erkenntnistheorie ist die Philosophie der Psychologie.
+
+### [Ms-104](/ms-104/#33.6) <span class="fac">[33\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-336}
+
+<span class="series-number">4˙100153</span> Die Psychologie ist der Philosophie nicht verwandter als irgend eine andere Naturwissenschaft.
+
+### [Ms-104](/ms-104/#33.7) <span class="fac">[33\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/33.webp)</span> {#ms-104-337}
+
+<span class="series-number">4˙100154</span> Die Philosophie begrenzt das bestreitbare Gebiet der Naturwissenschaft.
+
+### [Ms-104](/ms-104/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/34.webp)</span> {#ms-104-341}
+
+<span class="series-number">5˙04442</span> Wenn daraus daß ein Satz uns einleuchtet nicht _folgt_ daß er wahr ist, so ist das Einleuchten auch keine Rechtfertigung für unseren Glauben an seine Wahrheit.
+
+### [Ms-104](/ms-104/#34.3) <span class="fac">[34\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/34.webp)</span> {#ms-104-343}
+
+<span class="series-number">3˙20171</span> Kein Satz kann etwas über sich selbst aussagen, weil das Satzzeichen nicht in sich selbst enthalten sein kann. (Das ist die ganze „Theory of Types”.)
+
+### [Ms-104](/ms-104/#34.4) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/34.webp)</span> {#ms-104-344}
+
+<span class="series-number">5˙321</span> Das Eigentümliche der Allgemeinheitsbezeichnung ist erstens, daß sie auf ein logisches Urbild hinweist und zweitens, daß sie Konstante hervorhebt.
+
+---
+
+### [Ms-104](/ms-104/#34.5) <span class="fac">[34\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/34.webp)</span> {#ms-104-345}
+
+<span class="series-number">5˙3301</span> Daß die Identität keine Relation zwischen Gegenständen ist leuchtet ein.
+
+### [Ms-104](/ms-104/#34.6) <span class="fac">[34\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/34.webp)</span> {#ms-104-346}
+
+<span class="series-number">5˙3302</span> Dies wird sehr klar, wenn man z.B. den Satz (x):φ(x)⊃x = a betrachtet. Was dieser Satz sagt ist einfach, daß _nur_ a der Funktion φ genügt und nicht daß nur solche Dinge φ genügen welche eine gewisse Beziehung zu a haben.
+
+Man könnte nun freilich sagen daß eben _nur a_ diese Beziehung zu a habe, aber um dies auszudrücken brauchten wir das Gleichheitszeichen selber.
+
+### [Ms-104](/ms-104/#34.7+35.1) <span class="fac">[34\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/34.webp),[35\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-347351}
+
+<span class="series-number">5˙3303</span> Russells Definition von „ = ” genügt nicht; weil man nach ihr nicht sagen kann, zwei Gegenstände haben alle Eigenschaften gemeinsam. (Selbst wenn dieser Satz nie richtig ist, hat er doch Sinn.)
+
+### [Ms-104](/ms-104/#35.3) <span class="fac">[35\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-353}
+
+<span class="series-number">5˙3021</span> Alle Zahlen der Logik müssen sich rechtfertigen lassen.
+
+### [Ms-104](/ms-104/#35.4) <span class="fac">[35\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-354}
+
+<span class="series-number">5˙012</span> Es liegt nahe die Argumente von Funktionen mit den Indexen von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenden Zeichens. In Russells „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” ist z.B. „c” ein Index der darauf hinweist daß das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber dies beruht auf einer willkürlichen Übereinkunft und man könnte statt „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” auch ein einfaches Zeichen wählen: in „~p” aber ist „p” nicht ein Index sondern ein Argument; der Sinn von „~p” _kann nicht_ verstanden werden ohne daß vorher der Sinn von p verstanden worden wäre. Im Namen „Julius Cäsar” ist „Julius” ein Index. (Der Index ist immer ein Teil einer Beschreibung des Gegenstandes dessen Namen wir ihm anhängen. (_Der_ Cäsar aus dem Geschlecht der Julier.))
+
+### [Ms-104](/ms-104/#35.5) <span class="fac">[35\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-355}
+
+<span class="series-number">4˙10227252</span> Die Frage nach der Existenz einer Form ist immer unsinnig.
+
+### [Ms-104](/ms-104/#35.6) <span class="fac">[35\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-356}
+
+<span class="series-number">4˙10227253</span> Denn kein Satz kann eine solche Frage beantworten.
+
+### [Ms-104](/ms-104/#35.7) <span class="fac">[35\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-357}
+
+<span class="series-number">4˙10227254</span> Man kann also z.B. nicht fragen: „Gibt es unanalysierbare Subjekt-Prädikat Sätze?”. (oder „2-stellige Relationen” oder „Relationen zwischen Relationen” etc.).
+
+### [Ms-104](/ms-104/#36.1) <span class="fac">[36\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-361}
+
+<span class="series-number">5˙234</span> Wenn uns ein Satz gegeben ist, so sind _mit ihm_ auch schon alle seine Wahrheits-Funktionen gegeben.
+
+### [Ms-104](/ms-104/#36.2) <span class="fac">[36\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-362}
+
+<span class="series-number">4˙44602</span> Analytische Sätze sind Tautologien.
+
+### [Ms-104](/ms-104/#36.3) <span class="fac">[36\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-363}
+
+<span class="series-number">5˙21</span> Hier zeigt es sich daß es logische Gegenstände, logische Konstante, nicht gibt.
+
+### [Ms-104](/ms-104/#36.4) <span class="fac">[36\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-364}
+
+<span class="series-number">5˙22</span> Denn: Alle W-Funktionen von W-Funktionen sind identisch, welche eine und die selbe W-Funktion von Elementarsätzen sind.
+
+### [Ms-104](/ms-104/#36.5) <span class="fac">[36\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-365}
+
+<span class="series-number">3˙2021</span> Namen lassen sich nicht definieren, sie sind Urzeichen.
+
+### [Ms-104](/ms-104/#36.6) <span class="fac">[36\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-366}
+
+<span class="series-number">4˙10018</span> Alles was überhaupt gedacht werden kann, kann klar gedacht werden. Alles was sich aussprechen läßt, läßt sich klar aussprechen.
+
+### [Ms-104](/ms-104/#36.7) <span class="fac">[36\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-367}
+
+<span class="series-number">4˙0012</span> Die Umgangssprache ist ein Teil des menschlichen Organismus und nicht weniger kompliziert als dieser.
+
+### [Ms-104](/ms-104/#36.8) <span class="fac">[36\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-368}
+
+<span class="series-number">4˙0013</span> Es ist menschenunmöglich die Sprachlogik aus ihr unmittelbar zu entnehmen.
+
+### [Ms-104](/ms-104/#36.9) <span class="fac">[36\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-369}
+
+<span class="series-number">4˙0014</span> Sie verkleidet den Gedanken.
+
+### [Ms-104](/ms-104/#36.10) <span class="fac">[36\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-3610}
+
+<span class="series-number">4˙00141</span> Und zwar so daß man nach der äußeren Form des Kleides nicht auf die Form des bekleideten Gedankens schließen kann; weil die äußere Form des Kleides nach ganz anderen Gesichtspunkten gebaut ist als nach dem, die Form des Körpers erkennen zu lassen.
+
+### [Ms-104](/ms-104/#36.11) <span class="fac">[36\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp)</span> {#ms-104-3611}
+
+<span class="series-number">4˙0015</span> So ist nach dem äußeren Schein der Umgangssprache jede Täuschung und Verwechselung möglich.
+
+### [Ms-104](/ms-104/#36.12+37.1) <span class="fac">[36\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/36.webp),[37\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-3612371}
+
+<span class="series-number">4˙00151</span> „Existieren” erscheint als intransitives Verbum wie „gehen”, „er ist” klingt wie „er ißt”, „identisch” ist ein Eigenschaftswort und „Weiß” ein Personenname.
+
+### [Ms-104](/ms-104/#37.2) <span class="fac">[37\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-372}
+
+<span class="series-number">4˙0016</span> Die meisten Sätze und Fragen welche über philosophische Dinge geschrieben worden sind, sind nicht falsch, sondern unsinnig. Wir können daher Fragen dieser Art überhaupt nicht beantworten, sondern nur ihre Unsinnigkeit feststellen. Die meisten Fragen und Sätze der Philosophen beruhen darauf daß wir unsere Sprachlogik nicht verstehen.
+
+### [Ms-104](/ms-104/#37.3) <span class="fac">[37\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-373}
+
+<span class="series-number">4˙00161</span> Sie sind von der Art der Frage ob das Gute mehr oder weniger identisch ist als das Schöne.
+
+### [Ms-104](/ms-104/#37.4) <span class="fac">[37\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-374}
+
+<span class="series-number">4˙00162</span> Alle Philosophie ist „Sprachkritik” (allerdings nicht im Sinne Mauthners).
+
+### [Ms-104](/ms-104/#37.5) <span class="fac">[37\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-375}
+
+<span class="series-number">5˙224</span> Alle Sätze der Logik sagen aber dasselbe. Nämlich nichts.
+
+### [Ms-104](/ms-104/#37.6) <span class="fac">[37\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-376}
+
+<span class="series-number">5˙223</span> Dies ist aber nicht weniger merkwürdig als daß die unendliche Anzahl der Sätze der Logik (der Mathematik) aus einem halben Dutzend „Grundgesetzen” folgen.
+
+### [Ms-104](/ms-104/#37.7) <span class="fac">[37\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-377}
+
+<span class="series-number">5˙04102</span> Folgt p aus q so ist der Sinn von p im Sinne von q enthalten.
+
+### [Ms-104](/ms-104/#37.8) <span class="fac">[37\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-378}
+
+<span class="series-number">4˙0923</span> Die Sätze p und ~p haben entgegengesetzten Sinn aber es entspricht ihnen eine und dieselbe Wirklichkeit.
+
+### [Ms-104](/ms-104/#37.9) <span class="fac">[37\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-379}
+
+<span class="series-number">5˙08</span> Die Kontradiktion ist das Gemeinsame der Sätze, was _kein_ Satz mit einem anderen gemein hat. Die Tautologie ist das Gemeinsame aller Sätze welche nichts mit einander gemein haben.
+
+### [Ms-104](/ms-104/#37.10) <span class="fac">[37\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp)</span> {#ms-104-3710}
+
+<span class="series-number">5˙081</span> Die Kontradiktion verschwindet sozusagen außerhalb, die Tautologie innerhalb aller Sätze.
+
+### [Ms-104](/ms-104/#37.11+38.1) <span class="fac">[37\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/37.webp),[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-3711381}
+
+<span class="series-number">5˙082</span> Die Kontradiktion ist die äußere Grenze der Sätze, die Tautologie ist ihr substanzloser Mittelpunkt.
+
+### [Ms-104](/ms-104/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-382}
+
+<span class="series-number">4˙4481</span> Tautologie und Kontradiktion sind (sinnlos) nicht unsinnig. Sie gehören zum Symbolismus und zwar ähnlich wie die 0 in die Arithmetik.
+
+### [Ms-104](/ms-104/#38.3) <span class="fac">[38\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-383}
+
+<span class="series-number">4˙44601</span> Im ersten Falle nennen wir den Satz eine Tautologie im zweiten Fall eine Kontradiktion.
+
+### [Ms-104](/ms-104/#38.4) <span class="fac">[38\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-384}
+
+<span class="series-number">3˙1601</span> Nur Tatsachen können einen Sinn ausdrücken, eine Klasse von Namen kann es nicht.
+
+### [Ms-104](/ms-104/#38.5) <span class="fac">[38\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-385}
+
+<span class="series-number">3˙1602</span> Der Satz ist kein Wörtergemisch. (Wie die Melodie kein Gemisch von Tönen.)
+
+### [Ms-104](/ms-104/#38.6) <span class="fac">[38\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-386}
+
+<span class="series-number">3˙1603</span> Der Satz ist artikuliert.
+
+### [Ms-104](/ms-104/#38.7) <span class="fac">[38\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-387}
+
+<span class="series-number">5˙23</span> Die W-Funktionen sind keine materiellen Funktionen.
+
+### [Ms-104](/ms-104/#38.8) <span class="fac">[38\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-388}
+
+<span class="series-number">5˙232</span> Der Satz ~~p handelt nicht von der Verneinung wie von einem Gegenstand; wohl aber ist die Möglichkeit der Verneinung in der Bejahung bereits präjudiziert.
+
+### [Ms-104](/ms-104/#38.9) <span class="fac">[38\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/38.webp)</span> {#ms-104-389}
+
+<span class="series-number">5˙302</span> Wenn man die logischen Urzeichen richtig einführte so hätte man damit auch schon den Sinn aller ihrer Kombinationen eingeführt; also nicht nur „p ⌵ q” sondern auch schon „~(p ⌵ ~q)” etc. etc. Man hätte damit auch schon die Wirkung aller nur möglichen Kombinationen von Klammern eingeführt. Und damit wäre es klar geworden, daß die eigentlichen allgemeinen Urzeichen nicht die „p ⌵ q” (Еx) ∙ φx etc. sind sondern die allgemeinste Form ihrer Kombinationen.
+
+### [Ms-104](/ms-104/#39.1) <span class="fac">[39\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/39.webp)</span> {#ms-104-391}
+
+<span class="series-number">5˙3024</span> Die Benützung der Klammern mit jenen scheinbaren Urzeichen deutet ja schon darauf hin, daß diese nicht die wirklichen Urzeichen sind. Und es wird doch wohl niemand glauben, daß die Klammern eine selbständige Bedeutung haben.
+
+### [Ms-104](/ms-104/#39.2) <span class="fac">[39\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/39.webp)</span> {#ms-104-392}
+
+<span class="series-number">5˙3023</span> Wenn es mehr als ein logisches Urzeichen gibt so muß eine richtige Logik deren Stellung zu einander klar machen und ihr Dasein rechtfertigen. Der Bau der Logik _aus_ ihren Urzeichen muß klar werden.
+
+### [Ms-104](/ms-104/#39.3) <span class="fac">[39\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/39.webp)</span> {#ms-104-393}
+
+<span class="series-number">5˙30231</span> Die Einführung eines neuen Behelfs im Symbolismus der Logik muß immer ein folgenschweres Ereignis sein. Kein neuer Behelf darf in die Logik – sozusagen, mit ganz unschuldiger Miene – in Klammern oder unter dem Striche, eingeführt werden. So kommen in den „Principia Mathematica” von Russell & Whitehead Definitionen und Grundgesetze in Worten vor. Warum hier plötzlich Worte? Dies bedürfte einer langen Rechtfertigung. Sie fehlt und muß fehlen da das Vorgehen tatsächlich unerlaubt ist.
+
+### [Ms-104](/ms-104/#39.4) <span class="fac">[39\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/39.webp)</span> {#ms-104-394}
+
+<span class="series-number">5˙013</span> Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Freges von der Bedeutung der Sätze und Funktionen zugrunde. Für Frege waren die Sätze der Logik Namen und deren Argumente die Indexe dieser Namen.
+
+### [Ms-104](/ms-104/#39.5+40.1) <span class="fac">[39\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/39.webp),[40\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/40.webp)</span> {#ms-104-395401}
+
+<span class="series-number">5˙3342</span> Es gibt gewisse Fälle wo man in Versuchung gerät, Ausdrücke von der Form a = a oder p⊃p u. dergl. zu benützen; und zwar geschieht dies, wenn man gerne von dem Urbild Satz, Ding, etc. reden möchte. So hat Russell in den „Principles of Mathematics” den Unsinn „p ist ein Satz” in Symbolen durch „p⊃p” wiedergegeben und als Hypothese vor gewisse Sätze gestellt damit deren Argumentstellen nur von Sätzen besetzt werden könnten.
+
+### [Ms-104](/ms-104/#40.2) <span class="fac">[40\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/40.webp)</span> {#ms-104-402}
+
+<span class="series-number">5˙3343</span> Es ist schon darum Unsinn die Hypothese p⊃p vor einen Satz zu stellen um ihm Argumente der richtigen Form zu sichern, weil die Hypothese für einen Nicht-Satz als Argument nicht falsch sondern unsinnig wird, und weil der Satz selbst durch die unrichtige Gattung von Argumenten unsinnig wird, also sich selbst ebensogut oder so schlecht vor den unrechten Argumenten bewahrt wie die zu diesem Zweck angehängte sinnlose Hypothese.
+
+### [Ms-104](/ms-104/#40.3) <span class="fac">[40\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/40.webp)</span> {#ms-104-403}
+
+<span class="series-number">5˙3022</span> Oder vielmehr es muß sich herausstellen daß es in der Logik keine Zahlen gibt.
+
+### [Ms-104](/ms-104/#40.4) <span class="fac">[40\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/40.webp)</span> {#ms-104-404}
+
+<span class="series-number">5˙3304</span> Beiläufig gesprochen: von _zwei_ Dingen zu sagen sie seien identisch ist ein Unsinn, und von _einem_ zu sagen es sei identisch mit sich selbst, sagt gar nichts.
+
+### [Ms-104](/ms-104/#40.5) <span class="fac">[40\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/40.webp)</span> {#ms-104-405}
+
+<span class="series-number">4˙0951</span> Man könnte sagen: die Verneinung bezieht sich schon auf den logischen Ort, den der verneinte Satz bestimmt. Der verneinende Satz bestimmt einen _anderen_ logischen Ort als der verneinte.
+
+### [Ms-104](/ms-104/#40.6+41.1) <span class="fac">[40\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/40.webp),[41\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-406411}
+
+<span class="series-number">4˙0952</span> Der verneinende Satz bestimmt seinen logischen Ort mit Hilfe des logischen Ortes des verneinten Satzes indem er jenen als außerhalb diesem liegend beschreibt.
+
+### [Ms-104](/ms-104/#41.2) <span class="fac">[41\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-412}
+
+<span class="series-number">4˙0953</span> Daß man den verneinenden Satz wieder verneinen kann zeigt schon, daß das, was verneint wird, schon ein Satz, und nicht erst die Vorbereitung zu einem Satze ist.
+
+### [Ms-104](/ms-104/#41.3) <span class="fac">[41\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-413}
+
+<span class="series-number">4˙1031</span> Was gezeigt werden _kann_, kann nicht gesagt werden.
+
+### [Ms-104](/ms-104/#41.4) <span class="fac">[41\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-414}
+
+<span class="series-number">4˙1001531</span> Entspricht nicht mein Studium der Zeichensprache dem Studium der Denkprozesse, welches die Philosophen für die Philosophie der Logik immer für so wesentlich hielten? Nur verwickelten sie sich meistens in unwesentliche psychologische Untersuchungen und eine analoge Gefahr gibt es auch bei meiner Methode.
+
+### [Ms-104](/ms-104/#41.5) <span class="fac">[41\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-415}
+
+<span class="series-number">4˙4322</span> Der Satz, das Bild, das Modell, sind, im negativen Sinn, wie ein fester Körper der die Bewegungsfreiheit der anderen beschränkt; im positiven Sinne, wie der von fester Substanz begrenzte Raum, worin ein Körper Platz hat.
+
+### [Ms-104](/ms-104/#41.6) <span class="fac">[41\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-416}
+
+<span class="series-number">4˙0102</span> Die Möglichkeit des Satzes basiert auf dem Prinzip der Vertretung von Gegenständen durch Zeichen.
+
+### [Ms-104](/ms-104/#41.7) <span class="fac">[41\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-417}
+
+<span class="series-number">4˙0103</span> Mein Grundgedanke ist, daß die „logischen Konstanten” nicht vertreten. Daß sich die _Logik_ der Tatsachen nicht vertreten läßt.
+
+### [Ms-104](/ms-104/#41.8) <span class="fac">[41\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp)</span> {#ms-104-418}
+
+<span class="series-number">3˙20104</span> Der Satz, welcher vom Komplex handelt steht in interner Beziehung zum Satze, der von dessen Bestandteil handelt.
+
+### [Ms-104](/ms-104/#41.9+42.1) <span class="fac">[41\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/41.webp),[42\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-419421}
+
+<span class="series-number">5˙0444</span> Die Willensfreiheit besteht darin, daß zukünftige Ereignisse jetzt nicht gewußt werden können. Nur dann könnten wir sie wissen, wenn die Kausalität eine _innere_ Notwendigkeit wäre, wie die, des logischen Schlusses. – Der Zusammenhang von Wissen und Gewußtem ist der, der logischen Notwendigkeit.
+
+### [Ms-104](/ms-104/#42.2) <span class="fac">[42\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-422}
+
+<span class="series-number">4˙4484</span> In der Tautologie bildet der Elementarsatz selbstverständlich noch immer ab, aber er ist mit der Wirklichkeit so lose verbunden daß diese _unbeschränkte_ Freiheit hat. Die Kontradiktion setzt solche Schranken, daß keine Wirklichkeit in ihnen existieren kann.
+
+### [Ms-104](/ms-104/#42.3) <span class="fac">[42\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-423}
+
+<span class="series-number">4˙4485</span> Die Tautologie läßt der Wirklichkeit den ganzen – unendlichen – logischen Raum frei; die Kontradiktion erfüllt den ganzen logischen Raum und läßt der Wirklichkeit keinen Punkt. Keine von beiden kann daher die Wirklichkeit irgendwie bestimmen.
+
+### [Ms-104](/ms-104/#42.4) <span class="fac">[42\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-424}
+
+<span class="series-number">4˙44861</span> Gewiß, möglich, unmöglich: hier haben wir das Anzeichen jener Gradation, die wir in der Wahrscheinlichkeitslehre brauchen.
+
+### [Ms-104](/ms-104/#42.5) <span class="fac">[42\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-425}
+
+<span class="series-number">4˙051</span> Ein Satz muß mit alten Ausdrücken einen neuen Sinn mitteilen.
+
+### [Ms-104](/ms-104/#42.6) <span class="fac">[42\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-426}
+
+<span class="series-number">4˙0101</span> Die Möglichkeit aller Gleichnisse, der ganzen Bildhaftigkeit unserer Ausdrucksweise, ruht in der Logik der Abbildung.
+
+### [Ms-104](/ms-104/#42.7) <span class="fac">[42\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-427}
+
+<span class="series-number">3˙001</span> „Ein Sachverhalt ist denkbar” („vorstellbar”) heißt: Wir können uns ein Bild von ihm machen.
+
+### [Ms-104](/ms-104/#42.8) <span class="fac">[42\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp)</span> {#ms-104-428}
+
+<span class="series-number">3˙031</span> Man sagte einst daß Gott alles schaffen könne, nur nichts, was den logischen Gesetzten zuwider wäre. Wir könnten nämlich von einer „unlogischen” Welt nicht _sagen_ wie sie aussähe.
+
+### [Ms-104](/ms-104/#42.9+43.1) <span class="fac">[42\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/42.webp),[43\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-429431}
+
+<span class="series-number">3˙032</span> Etwas „der Logik Widersprechendes” in der Sprache darstellen, kann man ebensowenig, wie in der Geometrie „eine den Gesetzen des Raumes widersprechende Figur” durch ihre Koordinaten darstellen, oder die Koordinaten eines „Punktes angeben welcher nicht existiert”.
+
+### [Ms-104](/ms-104/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-432}
+
+<span class="series-number">3˙0321</span> Wohl können wir einen Sachverhalt räumlich darstellen welcher den Gesetzen der Physik, aber keinen, der den Gesetzen der Geometrie zuwiderliefe.
+
+### [Ms-104](/ms-104/#43.4) <span class="fac">[43\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-434}
+
+<span class="series-number">3˙2101</span> Der Satz bestimmt einen Ort im logischen Raum. Die Existenz dieses logischen Ortes ist durch die Existenz der Bestandteile allein verbürgt, durch die Existenz des sinnvollen Satzes.
+
+### [Ms-104](/ms-104/#43.5) <span class="fac">[43\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-435}
+
+<span class="series-number">3˙2102</span> Das Satzzeichen und die logischen Koordinaten: das ist der logische Ort.
+
+### [Ms-104](/ms-104/#43.6) <span class="fac">[43\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-436}
+
+<span class="series-number">3˙2103</span> Der geometrische und der logische Ort stimmen darin überein, daß beide die Möglichkeit einer Existenz sind.
+
+### [Ms-104](/ms-104/#43.7) <span class="fac">[43\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-437}
+
+<span class="series-number">3˙2104</span> Obwohl der Satz nur einen Ort des logischen Raumes bestimmen darf, so muß doch durch ihn schon der ganze logische Raum gegeben sein.
+
+(Sonst würden durch Verneinung, Disjunktion, etc. immer neue Elemente – in Koordination – eingeführt.)
+
+### [Ms-104](/ms-104/#43.8) <span class="fac">[43\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-438}
+
+<span class="series-number">3˙2141</span> Das logische Gerüst um das Bild herum bestimmt den logischen Raum.
+
+### [Ms-104](/ms-104/#43.9) <span class="fac">[43\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp)</span> {#ms-104-439}
+
+<span class="series-number">3˙2142</span> Der Satz durchgreift den ganzen logischen Raum.
+
+### [Ms-104](/ms-104/#43.10+44.1) <span class="fac">[43\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/43.webp),[44\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-4310441}
+
+<span class="series-number">5˙3344</span> Ebenso wollte man „Es gibt keine _Dinge_” ausdrücken durch „~(Еx) ∙ x = x”. Aber selbst wenn dies ein Satz wäre, wäre nicht auch wahr, wenn es zwar „Dinge gäbe” aber diese nicht mit sich selbst identisch wären?
+
+### [Ms-104](/ms-104/#44.2) <span class="fac">[44\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-442}
+
+<span class="series-number">3˙242</span> An unseren Notationen ist zwar etwas willkürlich, aber _das_ ist nicht willkürlich: daß, _wenn_ wir etwas willkürlich bestimmt haben, dann etwas anderes der Fall sein _muß_. (Dies hängt von dem _Wesen_ der Notation ab.)
+
+### [Ms-104](/ms-104/#44.3) <span class="fac">[44\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-443}
+
+<span class="series-number">3˙2421</span> Eine besondere Bezeichnungsweise mag unwichtig sein, aber wichtig ist es immer daß diese _eine mögliche_ Bezeichnungsweise ist.
+
+### [Ms-104](/ms-104/#44.4) <span class="fac">[44\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-444}
+
+<span class="series-number">3˙24211</span> Und so verhält es sich in der ganzen Philosophie: das Einzelne erweist sich immer wieder als unwichtig aber die Möglichkeit jedes Einzelnen gibt uns einen Aufschluß über das Wesen der Welt.
+
+### [Ms-104](/ms-104/#44.5) <span class="fac">[44\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-445}
+
+<span class="series-number">3˙20101</span> Die Forderung der einfachen Zeichen ist die Forderung der Bestimmtheit des Sinnes.
+
+### [Ms-104](/ms-104/#44.6) <span class="fac">[44\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-446}
+
+<span class="series-number">3˙20102</span> Die Analyse der Zeichen muß einmal zu einem Ende kommen, weil die Zeichen, wenn sie überhaupt etwas ausdrücken sollen, auf eine ein für allemal fertige Weise bedeuten müssen.
+
+### [Ms-104](/ms-104/#44.7) <span class="fac">[44\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-447}
+
+<span class="series-number">3˙20108</span> Es gibt eine und nur eine vollständige Analyse des Satzes.
+
+### [Ms-104](/ms-104/#44.8) <span class="fac">[44\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/44.webp)</span> {#ms-104-448}
+
+<span class="series-number">4˙4483</span> In der Tautologie heben die Bedingungen der Übereinstimmung mit der Welt – die darstellenden Beziehungen – einander auf, so daß sie in keiner darstellenden Beziehung zur Wirklichkeit steht.
+
+### [Ms-104](/ms-104/#45.1) <span class="fac">[45\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-451}
+
+<span class="series-number">4˙4462</span> Der Satz zeigt was er sagt, die Tautologie und Kontradiktion, daß sie nichts sagen.
+
+### [Ms-104](/ms-104/#45.2) <span class="fac">[45\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-452}
+
+<span class="series-number">4˙447</span> Die Tautologie hat keine Wahrheitsbedingungen denn sie ist bedingungslos wahr und die Kontradiktion ist unter keiner Bedingung wahr.
+
+### [Ms-104](/ms-104/#45.3) <span class="fac">[45\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-453}
+
+<span class="series-number">4˙448</span> Tautologie und Kontradiktion sind sinnlos.
+
+### [Ms-104](/ms-104/#45.4) <span class="fac">[45\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-454}
+
+<span class="series-number">4˙44801</span> (Wie der Punkt von dem zwei Pfeile in entgegengesetzter Richtung auseinander gehen)
+
+### [Ms-104](/ms-104/#45.5) <span class="fac">[45\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-455}
+
+<span class="series-number">4˙4482</span> Tautologie und Kontradiktion sind nicht Bilder der Wirklichkeit. Sie stellen keine mögliche Sachlage dar. Denn jene läßt _jede_ mögliche Sachlage zu, diese _keine_.
+
+### [Ms-104](/ms-104/#45.6) <span class="fac">[45\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-456}
+
+<span class="series-number">4˙449</span> Das logische Produkt einer Tautologie und eines Satzes sagt dasselbe wie der Satz. Also ist jenes Produkt identisch mit dem Satz. Denn man kann das Wesentliche des Zeichens nicht ändern ohne seinen Sinn zu ändern.
+
+### [Ms-104](/ms-104/#45.7) <span class="fac">[45\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-457}
+
+<span class="series-number">4˙4321</span> Die Wahrheitsbedingungen bestimmen den Spielraum der den Tatsachen durch den Satz gelassen wird.
+
+### [Ms-104](/ms-104/#45.8) <span class="fac">[45\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-458}
+
+<span class="series-number">4˙4486</span> Die Wahrheit der Tautologie ist gewiß, des Satzes möglich, der Kontradiktion unmöglich.
+
+### [Ms-104](/ms-104/#45.9) <span class="fac">[45\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/45.webp)</span> {#ms-104-459}
+
+<span class="series-number">4˙095</span> Jeder Satz muß _schon_ Sinn haben; die Bejahung kann ihn ihm nicht geben, denn sie bejaht ja gerade den Sinn. Und dasselbe gilt von der Verneinung, etc.
+
+### [Ms-104](/ms-104/#46.1) <span class="fac">[46\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/46.webp)</span> {#ms-104-461}
+
+<span class="series-number">4˙2214</span> Können wir zwei Namen verstehen, ohne zu wissen ob sie dasselbe Ding oder verschiedene Dinge bezeichnen? – Können wir einen Satz, worin zwei Namen vorkommen verstehen ohne zu wissen, ob sie dasselbe oder verschiedenes bedeuten.
+
+### [Ms-104](/ms-104/#46.2) <span class="fac">[46\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/46.webp)</span> {#ms-104-462}
+
+<span class="series-number">4˙22141</span> Kenne ich etwa die Bedeutung eines englischen und eines gleichbedeutenden deutschen Wortes, so ist es unmöglich, daß ich nicht weiß, daß die beiden gleichbedeutend sind; es ist unmöglich daß ich sie nicht ineinander übersetzen kann.
+
+### [Ms-104](/ms-104/#46.3) <span class="fac">[46\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/46.webp)</span> {#ms-104-463}
+
+<span class="series-number">4˙4301</span> Hiernach scheint es nun möglich zu sein die allgemeinste Satzform anzugeben; d.h. eine Beschreibung der Satzzeichen _irgend einer_ Zeichensprache zu geben, so daß jeder mögliche Sinn durch ein Zeichen auf welches die Beschreibung paßt ausgedrückt werden kann, und daß jedes Zeichen worauf die Beschreibung paßt einen Sinn ausdrücken kann, wenn die Bedeutung der einfachen Zeichen entsprechend gewählt wird.
+
+### [Ms-104](/ms-104/#46.4) <span class="fac">[46\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/46.webp)</span> {#ms-104-464}
+
+<span class="series-number">4˙43011</span> Es ist klar, daß bei der Beschreibung der allgemeinsten Satzform _nur_ ihr Wesentliches beschrieben werden darf, – sonst wäre sie nämlich nicht die allgemeinste.
+
+### [Ms-104](/ms-104/#46.5) <span class="fac">[46\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/46.webp)</span> {#ms-104-465}
+
+<span class="series-number">5˙304</span> Die eine logische Konstante ist das, was _alle_ Sätze, ihrer Natur nach, gemeinsam haben.
+
+### [Ms-104](/ms-104/#46.6+47.1) <span class="fac">[46\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/46.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-466471}
+
+<span class="series-number">4˙4303</span> Die allgemeinste Satzform ist: es verhält sich so und so. Diese Form muß in allen Sätzen auf irgend eine Weise enthalten sein.
+
+### [Ms-104](/ms-104/#47.2) <span class="fac">[47\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-472}
+
+<span class="series-number">5˙305</span> Das aber ist die allgemeine Satzform.
+
+### [Ms-104](/ms-104/#47.3) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-473}
+
+<span class="series-number">5˙306</span> Die allgemeine Satzform ist das Wesen des Satzes.
+
+### [Ms-104](/ms-104/#47.4) <span class="fac">[47\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-474}
+
+<span class="series-number">5˙3061</span> Das Wesen des Satzes angeben, heißt, das Wesen aller Beschreibung angeben, also das Wesen der Welt.
+
+### [Ms-104](/ms-104/#47.5) <span class="fac">[47\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-475}
+
+<span class="series-number">5˙303</span> Es ist klar, daß alles was sich überhaupt _von vornherein_ über die Form aller Sätze sagen läßt, sich _auf einmal_ sagen lassen muß.
+
+### [Ms-104](/ms-104/#47.6) <span class="fac">[47\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-476}
+
+<span class="series-number">4˙0231</span> Die Wirklichkeit muß durch den Satz auf ja oder nein fixiert sein; dazu muß sie durch ihn vollständig beschreiben werden.
+
+### [Ms-104](/ms-104/#47.7) <span class="fac">[47\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-477}
+
+<span class="series-number">4˙0232</span> Der Satz ist die Beschreibung eines Sachverhalts.
+
+### [Ms-104](/ms-104/#47.8) <span class="fac">[47\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-478}
+
+<span class="series-number">4˙02321</span> Wie die Beschreibung eines Gegenstandes nach seinen externen Eigenschaften so beschreibt der Satz die Wirklichkeit nach ihren internen Eigenschaften.
+
+### [Ms-104](/ms-104/#47.9) <span class="fac">[47\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-479}
+
+<span class="series-number">4˙02322</span> Der Satz konstruiert eine Welt mit Hilfe seines logischen Gerüstes und darum kann man am Satz auch sehen, wie sich alles Logische verhielte, wenn er wahr wäre. Man kann aus einem falschen Satz _Schlüsse ziehen_.
+
+### [Ms-104](/ms-104/#47.10) <span class="fac">[47\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/47.webp)</span> {#ms-104-4710}
+
+<span class="series-number">5˙30201</span> Von tiefer Bedeutung ist die scheinbar unwichtige Tatsache, daß die logischen Scheinbeziehungen wie ⌵ und ⊃ der Klammern bedürfen; im Gegensatz zu den wirklichen Beziehungen.
+
+### [Ms-104](/ms-104/#48.1) <span class="fac">[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-481}
+
+<span class="series-number">5˙30221</span> Es gibt keine bevorzugten Zahlen.
+
+### [Ms-104](/ms-104/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-482}
+
+<span class="series-number">4˙0711</span> Im Satz wird gleichsam eine Sachlage probeweise zusammengestellt.
+
+### [Ms-104](/ms-104/#48.3) <span class="fac">[48\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-483}
+
+<span class="series-number">4˙071</span> Der Satz sagt nur insoweit etwas aus als er ein Bild ist.
+
+### [Ms-104](/ms-104/#48.4) <span class="fac">[48\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-484}
+
+<span class="series-number">4˙0712</span> Man kann geradezu sagen: statt, dieser Satz hat diesen und diesen Sinn; dieser Satz stellt diese und diese Sachlage dar.
+
+### [Ms-104](/ms-104/#48.5) <span class="fac">[48\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-485}
+
+<span class="series-number">4˙072</span> Nur insoweit ist der Satz ein Bild einer Sachlage als er logisch gegliedert ist.
+
+### [Ms-104](/ms-104/#48.6) <span class="fac">[48\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-486}
+
+<span class="series-number">4˙073</span> Am Satz muß geradesoviel zu unterscheiden sein als an der Sachlage die er darstellt.
+
+### [Ms-104](/ms-104/#48.7) <span class="fac">[48\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-487}
+
+<span class="series-number">4˙074</span> Die beiden müssen die gleiche logische (mathematische) Mannigfaltigkeit besitzen. (Vergl. Hertz' Mechanik)
+
+### [Ms-104](/ms-104/#48.8) <span class="fac">[48\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-488}
+
+<span class="series-number">2˙012</span> In der Logik ist nichts zufällig: Wenn das Ding im Sachverhalt vorkommen kann, so muß die Möglichkeit des Sachverhalts im Ding bereits präjudiziert sein.
+
+### [Ms-104](/ms-104/#48.9) <span class="fac">[48\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp)</span> {#ms-104-489}
+
+<span class="series-number">2˙0121</span> Mag das Ding noch so selbständig sein, was ja nichts heißt als daß es in allen _möglichen_ Sachlagen vorkommen kann, so ist eben diese Form der Selbständigkeit eine Form des Zusammenhangs mit dem Sachverhalt, eine Form der Unselbständigkeit.
+
+### [Ms-104](/ms-104/#48.10+49.1) <span class="fac">[48\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/48.webp),[49\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-4810491}
+
+<span class="series-number">2˙0122</span> Das kommt darauf hinaus, daß, im Falle Namen _in_- und außerhalb des Satzverbandes Bedeutung hätten, es so zu sagen, nicht zu verbürgen wäre, daß sie in beiden Fällen wirklich dasselbe, im selben Sinne des Wortes, bedeuten. Es scheint unmöglich zu sein, daß Worte in zwei verschiedenen Weisen auftreten, allein und im Satz.
+
+### [Ms-104](/ms-104/#49.2) <span class="fac">[49\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-492}
+
+<span class="series-number">2˙0123</span> Es erschiene gleichsam als Zufall wenn dem Ding, das allein für sich besteht, nachträglich eine Sachlage passen würde.
+
+### [Ms-104](/ms-104/#49.3) <span class="fac">[49\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-493}
+
+<span class="series-number">2˙013</span> Wenn ich mir ein Ding _in_ einer Sachlage denken kann, dann kann ich es mir nicht außerhalb der Sachlage denken.
+
+### [Ms-104](/ms-104/#49.4) <span class="fac">[49\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-494}
+
+<span class="series-number">2˙014</span> Jedes Ding ist gleichsam in einem Raume möglicher Sachverhalte. Diesen Raum kann ich mir leer denken, nicht aber das Ding ohne den Raum.
+
+### [Ms-104](/ms-104/#49.5) <span class="fac">[49\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-495}
+
+<span class="series-number">2˙011</span> Es ist dem Ding wesentlich der Bestandteil eines Sachverhalts sein zu können.
+
+### [Ms-104](/ms-104/#49.6) <span class="fac">[49\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-496}
+
+<span class="series-number">4˙0261</span> Wohlgemerkt: Die Übersetzung einer Sprache in eine andere geht nicht so vor sich, daß man jeden _Satz_ der einen in einen der anderen übersetzt, sondern nur die Satzbestandteile werden übersetzt.
+
+### [Ms-104](/ms-104/#49.7) <span class="fac">[49\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-497}
+
+<span class="series-number">5˙30222</span> In der Logik gibt es kein Nebeneinander, kann es keine Klassifikation geben.
+
+### [Ms-104](/ms-104/#49.8) <span class="fac">[49\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/49.webp)</span> {#ms-104-498}
+
+<span class="series-number">4˙100141</span> Ein philosophisches Werk besteht wesentlich aus Erläuterungen.
+
+### [Ms-104](/ms-104/#50.1) <span class="fac">[50\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/50.webp)</span> {#ms-104-501}
+
+<span class="series-number">6˙51</span> Skeptizismus ist _nicht_ unwiderleglich, sondern offenbar unsinnig, wenn er bezweifeln will, wo nicht gefragt werden kann. Denn Zweifel kann nur bestehen, wo eine Frage besteht; eine Frage nur, wo eine Antwort besteht, und diese nur wo etwas _gesagt_ werden _kann_.
+
+### [Ms-104](/ms-104/#50.2) <span class="fac">[50\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/50.webp)</span> {#ms-104-502}
+
+<span class="series-number">5˙3101</span> Muß das Zeichen des negativen Satzes mit dem Zeichen des positiven gebildet werden? Warum sollte man den negativen Satz nicht durch eine negative Tatsache ausdrücken können. (Etwa: Wenn „a” nicht in einer bestimmten Beziehung zu „b” steht, soll das ausdrücken daß nicht aRb der Fall ist.)
+
+### [Ms-104](/ms-104/#50.3) <span class="fac">[50\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/50.webp)</span> {#ms-104-503}
+
+<span class="series-number">5˙3102</span> Aber auch hier ist ja der negative Satz indirekt durch den positiven gebildet.
+
+### [Ms-104](/ms-104/#50.4) <span class="fac">[50\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/50.webp)</span> {#ms-104-504}
+
+<span class="series-number">5˙3103</span> Der positive _Satz_ muß die Existenz des negativen _Satzes_ voraussetzen und umgekehrt.
+
+### [Ms-104](/ms-104/#50.5) <span class="fac">[50\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/50.webp)</span> {#ms-104-505}
+
+<span class="series-number">3˙25</span> Definitionen sind Regeln der Übersetzung von einer Sprache in eine andere.
+
+Jede richtige Zeichensprache muß sich in jede andere nach solchen Regeln übersetzen lassen: _dies_ ist, was sie alle gemeinsam haben.
+
+### [Ms-104](/ms-104/#50.6+51.1) <span class="fac">[50\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/50.webp),[51\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-506511}
+
+<span class="series-number">3˙2511</span> Man kann das Gemeinsame aller Notationen für die Wahrheitsfunktionen so ausdrücken: es ist ihnen gemeinsam daß sie sich alle – z.B. – durch die Notation von ~ξ und ξ⌵η _ersetzen lassen_.
+
+### [Ms-104](/ms-104/#51.2) <span class="fac">[51\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-512}
+
+<span class="series-number">3˙2512</span> Hiermit ist die Art und Weise gekennzeichnet, wie eine spezielle mögliche Notation uns allgemeine Aufschlüsse geben kann.
+
+### [Ms-104](/ms-104/#51.3) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-513}
+
+<span class="series-number">5˙307</span> Die Beschreibung der allgemeinsten Satzform ist die Beschreibung des einen und einzigen allgemeinen Urzeichens der Logik.
+
+---
+
+### [Ms-104](/ms-104/#51.4) <span class="fac">[51\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-514}
+
+<span class="series-number">3˙20211</span> Jedes definierte Zeichen bezeichnet _über_ jene Zeichen durch welche es definiert wurde. Und die Definitionen weisen den Weg. Zwei Zeichen, ein Urzeichen und ein definiertes Zeichen, können nie auf dieselbe Weise bezeichnen. Namen _kann_ man nicht definieren. Man kann überhaupt kein Zeichen definieren, welches allein, selbständig eine Bedeutung hat.
+
+### [Ms-104](/ms-104/#51.5) <span class="fac">[51\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-515}
+
+<span class="series-number">5˙233</span> Und gäbe es einen Gegenstand der „~” hieße so müßte ~~p etwas anderes sagen als p. Denn der eine Satz würde dann eben von ~ handeln der andere nicht.
+
+### [Ms-104](/ms-104/#51.6) <span class="fac">[51\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-516}
+
+<span class="series-number">5˙2331</span> Dieses Verschwinden der scheinbaren logischen Konstanten tritt auch ein, wenn „~(Еx) ∙ ~φx” dasselbe sagt wie „(x).φx” oder „(Еx) ∙ φx ∙ x = a” dasselbe wie „φa”.
+
+---
+
+### [Ms-104](/ms-104/#51.7) <span class="fac">[51\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp)</span> {#ms-104-517}
+
+<span class="series-number">5˙3031</span> [] Sind ja schon im Elementarsatz alle logischen Operationen enthalten. Denn φa = (Еx) ∙ φx ∙ x = a.
+
+### [Ms-104](/ms-104/#51.8+52.1) <span class="fac">[51\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/51.webp),[52\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/52.webp)</span> {#ms-104-518521}
+
+<span class="series-number">4˙4491</span> Einer bestimmten logischen Verbindung von Zeichen entspricht eine bestimmte logische Verbindung ihrer Bedeutungen; _jede_ beliebige Verbindung entspricht nur den unverbundenen Zeichen. Das heißt, Sätze die für jede Sachlage wahr sind können überhaupt keine Zeichenverbindungen sein, denn sonst könnten ihnen nur bestimmte Verbindungen von Gegenständen entsprechen.
+
+(Und keiner logischen Verbindung entspricht _keine_ Verbindung der Gegenstände.)
+
+### [Ms-104](/ms-104/#52.2) <span class="fac">[52\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/52.webp)</span> {#ms-104-522}
+
+<span class="series-number">5˙04111</span> Folgt ein Satz aus anderen, so wird dies durch gewisse Beziehungen ausgedrückt, in welchen die Formen jener Sätze zu einander stehen; und zwar brauchen wir sie nicht erst in diese Beziehung zu setzen, indem wir sie in einem Satz mit einander verbinden, sondern diese Beziehungen sind intern und bestehen, sobald, und dadurch daß, jene Satzzeichen bestehen.
+
+### [Ms-104](/ms-104/#52.3) <span class="fac">[52\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/52.webp)</span> {#ms-104-523}
+
+<span class="series-number">5˙04112</span> Wenn wir von p ⌵ q und ~p auf q schließen, so ist hier durch die Bezeichnungsweise die Beziehung der Satzformen von „p ⌵ q” und „~p” verhüllt. Schreiben wir aber statt „p ⌵ q” „p ❘ q ∙ ❘ ∙ p ❘ q” und statt „~p” „p ❘ p” (p ❘ q = weder p noch q) so wird der innere Zusammenhang offenbar.
+
+### [Ms-104](/ms-104/#52.4) <span class="fac">[52\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/52.webp)</span> {#ms-104-524}
+
+<span class="series-number">5˙04113</span> Daß man aus (x) ∙ φx auf φa schließen kann, das zeigt, wie die Allgemeinheit auch im Zeichen „(x) ∙ φx” vorhanden ist.
+
+---
+
+### [Ms-104](/ms-104/#52.5) <span class="fac">[52\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/52.webp)</span> {#ms-104-525}
+
+<span class="series-number">5˙3062</span> Die Logik muß für sich selber sorgen.
+
+### [Ms-104](/ms-104/#52.6+53.1) <span class="fac">[52\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/52.webp),[53\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/53.webp)</span> {#ms-104-526531}
+
+<span class="series-number">5˙3063</span> Ein _mögliches_ Zeichen muß auch bezeichnen können. Alles was in der Logik möglich ist, ist auch erlaubt. (Der Satz „Sokrates ist Plato” ist unsinnig weil wir eine willkürliche Bestimmung nicht getroffen haben, aber nicht darum, weil das Zeichen an und für sich unerlaubt wäre): Wir können uns in gewissem Sinne nicht in der Logik irren.
+
+### [Ms-104](/ms-104/#53.2) <span class="fac">[53\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/53.webp)</span> {#ms-104-532}
+
+<span class="series-number">5˙30631</span> Das Einleuchten, von dem Russell so viel sprach, kann nur dadurch in der Logik entbehrlich werden, daß die Sprache selbst jeden logischen Fehler verhindert. – Die Apriorizität der Logik besteht darin, daß nicht unlogisch gedacht werden kann.
+
+### [Ms-104](/ms-104/#53.3) <span class="fac">[53\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/53.webp)</span> {#ms-104-533}
+
+<span class="series-number">5˙3064</span> Frege sagt: Jeder rechtmäßig gebildete Satz muß einen Sinn haben; und ich sage: jeder mögliche Satz ist rechtmäßig gebildet, und wenn er keinen Sinn hat so kann das nur daran liegen, daß wir einigen seiner Bestandteile keine _Bedeutung_ gegeben haben. Wenn wir auch glauben es getan zu haben.
+
+### [Ms-104](/ms-104/#53.4) <span class="fac">[53\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/53.webp)</span> {#ms-104-534}
+
+<span class="series-number">5˙30641</span> So sagt „Sokrates ist identisch” darum nichts, weil wir dem Wort „identisch” als _Eigenschaftswort keine_ Bedeutung gegeben haben. Denn, wenn es als Gleichheitszeichen auftritt, symbolisiert es auf ganz andere Art und Weise, die bezeichnende Beziehung ist eine andere, also ist auch das Zeichen in beiden Fällen ganz verschieden; die beiden Zeichen haben nur ihren sichtbaren Teil, zufällig, mit einander gemein.
+
+### [Ms-104](/ms-104/#53.5) <span class="fac">[53\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/53.webp)</span> {#ms-104-535}
+
+<span class="series-number">3˙2013</span> Das Zeichen ist der sinnlich wahrnehmbare Teil des Symbols. Zwei verschiedene Symbole können also das Zeichen (Schriftzeichen oder Lautzeichen etc.) mit einander gemein haben – sie bezeichnen dann auf verschiedene Art und Weise.
+
+### [Ms-104](/ms-104/#54.1) <span class="fac">[54\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/54.webp)</span> {#ms-104-541}
+
+<span class="series-number">3˙2014</span> In der Umgangssprache kommt es ungemein häufig vor daß dasselbe Wort auf verschiedene Art und Weise bezeichnen – also verschiedenen Symbolen angehören – kann oder doch daß zwei Wörter die auf verschiedene Art und Weise bezeichnen äußerlich auf gleiche Art und Weise im Satze angewendet werden.
+
+### [Ms-104](/ms-104/#54.2) <span class="fac">[54\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/54.webp)</span> {#ms-104-542}
+
+<span class="series-number">3˙20141</span> So erscheint das Wort „ist” als Kopula, als Gleichheitszeichen und als Ausdruck der Existenz; das Wort „Grün” als Eigenschaftswort und als Personenname; „Identisch” wird wie ein Eigenschaftswort angewandt etc. etc.. Im Satze „Grün ist Grün” (wo „ist” die Kopula bedeutet) haben das erste und das letzte Wort nicht einfach verschiedene Bedeutung sondern es sind _verschiedene Symbole_.
+
+### [Ms-104](/ms-104/#54.3) <span class="fac">[54\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/54.webp)</span> {#ms-104-543}
+
+<span class="series-number">3˙20142</span> So entstehen leicht die fundamentalsten Verwechslungen (deren die ganze Philosophie voll ist).
+
+### [Ms-104](/ms-104/#54.4) <span class="fac">[54\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/54.webp)</span> {#ms-104-544}
+
+<span class="series-number">3˙2015</span> Um solchen Irrtümern zu entgehen, müssen wir eine Zeichensprache verwenden welche sie ausschließt, indem sie nicht das gleiche Zeichen in verschiedenen Symbolen und Zeichen welche auf verschiedene Art bezeichnen nicht äußerlich auf gleiche Art, verwendet. Eine Zeichensprache also, die der _logischen_ Grammatik – der _logischen_ Syntax – gehorcht.
+
+### [Ms-104](/ms-104/#54.5+55.1) <span class="fac">[54\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/54.webp),[55\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-545551}
+
+<span class="series-number">3˙20151</span> Die Begriffsschrift Freges und Russells ist eine solche Sprache, die allerdings – wie sich zeigen wird – noch nicht alle Fehler ausschließt.
+
+### [Ms-104](/ms-104/#55.2) <span class="fac">[55\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-552}
+
+<span class="series-number">3˙251</span> Das was am Symbol bezeichnet, ist das Gemeinsame aller jener Symbole durch welches das erste den Regeln der logischen Syntax zu folge ersetzt werden kann.
+
+### [Ms-104](/ms-104/#55.3) <span class="fac">[55\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-553}
+
+<span class="series-number">3˙252</span> Um das Symbol im Zeichen zu erkennen muß man auf den Gebrauch achten.
+
+### [Ms-104](/ms-104/#55.4) <span class="fac">[55\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-554}
+
+<span class="series-number">3˙20152</span> In der logischen Syntax darf nie die Bedeutung eines Zeichens eine Rolle spielen; sie muß sich aufstellen lassen, ohne daß hiebei von der _Bedeutung_ eines Zeichens die Rede wäre, sie darf _nur_ die Beschreibung der Symbole voraussetzen. – Von dieser Bemerkung sehen wir in Russells „Theory of Types” hinüber: Der Irrtum Russells zeigt sich darin, daß er bei der Aufstellung der Zeichenregeln die Bedeutungen von Zeichen nennen mußte.
+
+### [Ms-104](/ms-104/#55.5) <span class="fac">[55\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-555}
+
+<span class="series-number">4˙4221</span> Frege hat sie daher ganz richtig als Erklärung der Zeichen seiner Begriffsschrift vorausgeschickt. Nur ist die Erklärung des Wahrheitsbegriffes bei Frege falsch: Wären „das Wahre” und „das Falsche” wirklich Gegenstände und die Argumente in ~p etc. dann wäre nach Freges „Bestimmung” der Sinn von ~p keineswegs bestimmt.
+
+### [Ms-104](/ms-104/#55.6) <span class="fac">[55\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-556}
+
+<span class="series-number">5˙33411</span> Alle Probleme, die Russells Axiom of infinity mit sich bringt sind schon hier zu lösen.
+
+### [Ms-104](/ms-104/#55.7) <span class="fac">[55\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp)</span> {#ms-104-557}
+
+<span class="series-number">3˙1604</span> Tatsachen kann man nicht benennen.
+
+### [Ms-104](/ms-104/#55.8+56.1) <span class="fac">[55\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/55.webp),[56\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-558561}
+
+<span class="series-number">5˙3032</span> Wo Zusammengesetztheit ist, da ist Argument und Funktion, und wo diese sind, sind bereits alle logischen Konstanten.
+
+### [Ms-104](/ms-104/#56.2) <span class="fac">[56\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-562}
+
+<span class="series-number">4˙1011</span> Beiläufig gesprochen: Ein Satz kann nur sagen _wie_ ein Ding ist, nicht _was_ es ist.
+
+### [Ms-104](/ms-104/#56.3) <span class="fac">[56\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-563}
+
+<span class="series-number">4˙01121</span> Offenbar ist, daß wir einen Satz in der Form aRb als Bild empfinden.
+
+### [Ms-104](/ms-104/#56.4) <span class="fac">[56\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-564}
+
+<span class="series-number">5˙34</span> Wir müssen nun die Frage nach allen möglichen Formen der Elementarsätze a priori beantworten.
+
+### [Ms-104](/ms-104/#56.5) <span class="fac">[56\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-565}
+
+<span class="series-number">5˙341</span> Unser Grundsatz ist, daß sich jede Frage die sich überhaupt durch die Logik entscheiden läßt, sich ohne weiteres entscheiden lassen muß. (Und wenn wir in die Lage kommen, ein solches Problem durch Ansehen der Welt beantworten zu müssen so zeigt dies daß wir auf grundfalscher Fährte sind.)
+
+### [Ms-104](/ms-104/#56.6) <span class="fac">[56\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-566}
+
+<span class="series-number">5˙4</span> Der Elementarsatz besteht aus Namen. Da wir aber nicht die Anzahl der Namen von verschiedener Bedeutung zeigen können, so können wir auch nicht die Zusammensetzung des Elementarsatzes zeigen.
+
+### [Ms-104](/ms-104/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-567}
+
+<span class="series-number">5˙401</span> Russell sagte es gäbe einfache Relationen zwischen verschiedenen Anzahlen von Dingen (individuals). Aber zwischen welchen Anzahlen? Und wie soll sich das entscheiden? – Durch die Erfahrung?
+
+### [Ms-104](/ms-104/#56.8) <span class="fac">[56\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/56.webp)</span> {#ms-104-568}
+
+<span class="series-number">5˙402</span> Es muß sich a priori angeben lassen, ob ich z.B. in die Lage kommen kann etwas mit einer 27-stelligen Relation bezeichnen zu müssen.
+
+### [Ms-104](/ms-104/#57.1) <span class="fac">[57\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp)</span> {#ms-104-571}
+
+<span class="series-number">5˙403</span> Dürfen wir denn aber überhaupt so fragen? Können wir eine Zeichenform aufstellen und nicht wissen ob ihr etwas entsprechen könne?
+
+### [Ms-104](/ms-104/#57.2) <span class="fac">[57\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp)</span> {#ms-104-572}
+
+<span class="series-number">5˙404</span> Hat die Frage einen Sinn: Was muß _sein_ damit etwas der-Fallsein kann?
+
+### [Ms-104](/ms-104/#57.3) <span class="fac">[57\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp)</span> {#ms-104-573}
+
+<span class="series-number">5˙414</span> Alle Sätze unserer Umgangssprache sind tatsächlich, so wie sie sind, logisch vollkommen geordnet. – Jenes Einfachste, was wir hier angeben sollen, ist nicht ein Gleichnis der Wahrheit, sondern die volle Wahrheit selbst. (Unsere Probleme sind nicht abstrakt, sondern vielleicht die konkretesten die es gibt.)
+
+### [Ms-104](/ms-104/#57.4) <span class="fac">[57\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp)</span> {#ms-104-574}
+
+<span class="series-number">5˙42</span> Wir können jene Frage offen lassen: die Sprache wird sie von selbst entscheiden.
+
+### [Ms-104](/ms-104/#57.5) <span class="fac">[57\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp)</span> {#ms-104-575}
+
+<span class="series-number">5˙405</span> Wo immer man Zeichen nach einem System bilden kann, dort ist das System das logisch Wichtige und nicht die einzelnen Zeichen.
+
+### [Ms-104](/ms-104/#57.6) <span class="fac">[57\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp)</span> {#ms-104-576}
+
+<span class="series-number">5˙41</span> Ob aber ein Zeichen der Art F(a,b,c ....) analysierbar ist oder nicht, zeigt sich nicht am Zeichen. Sondern wenn es analysierbar ist so zeigt es sich an der bezeichnenden Beziehung. Also daran daß eine analysierende Definition des Zeichens Sinn hat.
+
+### [Ms-104](/ms-104/#57.7+58.1) <span class="fac">[57\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-577581}
+
+<span class="series-number">5˙422</span> Elementarsätze bezeichnen wir mit <math class="stacked" display="inline"><mtext>„</mtext><msub><mi>p</mi><mn>0</mn></msub><mtext>”</mtext><mo>,</mo><mspace width="0.3em"/><mtext>„</mtext><msub><mi>q</mi><mn>0</mn></msub><mtext>”</mtext><mo>,</mo><mspace width="0.3em"/><mtext>„</mtext><msub><mi>r</mi><mn>0</mn></msub><mtext>”</mtext><mo>,</mo></math> etc. oder mit <math class="stacked" display="inline"><msub><mi>f</mi><mn>0</mn></msub><mo>(</mo><mtext>a)</mtext><mo>,</mo><msub><mi>f</mi><mn>0</mn></msub><mo>(</mo><mtext>a,</mtext><mtext>b)</mtext><mo>,</mo></math> etc. wobei wir es dahingestellt sein lassen ob a = b ist oder nicht.
+
+### [Ms-104](/ms-104/#58.2) <span class="fac">[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-582}
+
+<span class="series-number">5˙30632</span> Wir können einem Zeichen nicht den unrechten Sinn geben.
+
+### [Ms-104](/ms-104/#58.3) <span class="fac">[58\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-583}
+
+<span class="series-number">5˙342</span> Die „Erfahrung” die wir zum Verstehen der Logik brauchen ist nicht die daß sich etwas so und so verhält sondern daß etwas ist, aber das ist eben _keine_ Erfahrung.
+
+### [Ms-104](/ms-104/#58.4) <span class="fac">[58\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-584}
+
+<span class="series-number">5˙343</span> Die Logik ist vor jeder Erfahrung – daß etwas _so_ ist.
+
+### [Ms-104](/ms-104/#58.5) <span class="fac">[58\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-585}
+
+<span class="series-number">5˙3431</span> Sie ist vor dem Wie nicht vor dem Was.
+
+### [Ms-104](/ms-104/#58.6) <span class="fac">[58\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-586}
+
+<span class="series-number">5˙3432</span> Und wenn dies nicht so wäre wie könnten wir die Logik anwenden. Man könnte sagen: Wenn es eine Logik gäbe auch wenn es keine Welt gäbe, wie könnte es dann eine Logik geben da es eine Welt gibt.
+
+### [Ms-104](/ms-104/#58.7) <span class="fac">[58\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-587}
+
+<span class="series-number">4˙4492</span> Die Tautologie ist der Grenzfall der Zeichenverbindung nämlich ihre Auflösung.
+
+### [Ms-104](/ms-104/#58.8) <span class="fac">[58\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-588}
+
+<span class="series-number">3˙20105</span> Der Komplex kann nur durch seine Beschreibung gegeben sein, und diese wird stimmen oder nicht stimmen. Der Satz in welchem von einem Komplex die Rede ist, wird, wenn dieser nicht existiert, nicht unsinnig sondern einfach falsch sein.
+
+### [Ms-104](/ms-104/#58.9) <span class="fac">[58\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-589}
+
+<span class="series-number">3˙253</span> Zeichen kennzeichnen die Gemeinsamkeit _einer_ Form und _eines_ Inhalts. – Sie bestimmen erst mit ihrer syntaktischen Verwendung zusammen eine logische Form.
+
+### [Ms-104](/ms-104/#58.10+59.1) <span class="fac">[58\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp),[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-5810591}
+
+<span class="series-number">3˙20106</span> Daß ein einfaches Symbol einen Komplex bezeichnet, kann man aus einer Unbestimmtheit in den Sätzen sehen, worin es vorkommt. Wir _wissen_, durch diesen Satz ist noch nicht alles bestimmt. Die Allgemeinheitsbezeichnung _enthält_ ja ein Urbild.
+
+### [Ms-104](/ms-104/#59.2) <span class="fac">[59\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-592}
+
+<span class="series-number">3˙2531</span> Das Zeichen des Komplexes löst sich auch bei der Analyse nicht willkürlich auf, so daß etwa seine Auflösung in jedem Satzgefüge eine andere wäre.
+
+### [Ms-104](/ms-104/#59.3) <span class="fac">[59\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-593}
+
+<span class="series-number">3˙20107</span> Die Zusammenfassung des Symbols eines Komplexes in ein einfaches Symbol kann durch eine Definition ausgedrückt werden.
+
+### [Ms-104](/ms-104/#59.4) <span class="fac">[59\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-594}
+
+<span class="series-number">3˙2411</span> Man könnte also sagen: Der eigentliche Name ist das, was alle Symbole die den Gegenstand bezeichnen können gemeinsam haben. Es würde sich so sukzessive ergeben daß keinerlei Zusammensetzung für den Namen wesentlich ist.
+
+### [Ms-104](/ms-104/#59.5) <span class="fac">[59\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-595}
+
+<span class="series-number">3˙20212</span> Die Bedeutungen von Urzeichen können durch Erläuterungen erklärt werden. Erläuterungen sind Sätze, welche die Urzeichen enthalten. Sie können also nur verstanden werden, wenn die Bedeutungen dieser Zeichen bereits bekannt sind.
+
+### [Ms-104](/ms-104/#59.6) <span class="fac">[59\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-596}
+
+<span class="series-number">5˙33412</span> Das was das Axiom of infinity sagen soll würde sich in der Sprache dadurch ausdrücken daß es unendlich viele Namen mit verschiedener Bedeutung gäbe.
+
+### [Ms-104](/ms-104/#59.7) <span class="fac">[59\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-597}
+
+<span class="series-number">5˙335</span> _Die Grenzen meiner Sprache_ bedeuten die Grenzen meiner Welt.
+
+### [Ms-104](/ms-104/#59.8) <span class="fac">[59\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/59.webp)</span> {#ms-104-598}
+
+<span class="series-number">5˙3351</span> Diese Bemerkung gibt den Schlüssel zur Entscheidung, inwieweit der Solipsismus eine Wahrheit ist.
+
+### [Ms-104](/ms-104/#60.1) <span class="fac">[60\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-601}
+
+<span class="series-number">5˙3352</span> Was der Solipsismus nämlich _meint_ ist ganz richtig nur läßt es sich nicht _sagen_, sondern es zeigt sich.
+
+### [Ms-104](/ms-104/#60.2) <span class="fac">[60\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-602}
+
+<span class="series-number">5˙3353</span> Daß die Welt _meine_ Welt ist das zeigt sich darin daß die Grenzen _der_ Sprache (der Sprache die _allein_ ich verstehe) die Grenzen _meiner_ Welt bedeuten.
+
+### [Ms-104](/ms-104/#60.3) <span class="fac">[60\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-603}
+
+<span class="series-number">5˙3354</span> Das denkende, vorstellende Subjekt gibt es nicht.
+
+### [Ms-104](/ms-104/#60.4) <span class="fac">[60\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-604}
+
+<span class="series-number">5˙30633</span> Ockhams Devise ist natürlich keine willkürliche, oder durch ihren praktischen Erfolg gerechtfertigte, Regel: Sie besagt, daß _unnötige_ Zeicheneinheiten nichts bedeuten.
+
+### [Ms-104](/ms-104/#60.5) <span class="fac">[60\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-605}
+
+<span class="series-number">5˙30634</span> Zeichen die _Einen_ Zweck erfüllen sind logisch äquivalent. Zeichen die _keinen_ Zweck erfüllen logisch bedeutungslos.
+
+### [Ms-104](/ms-104/#60.6) <span class="fac">[60\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-606}
+
+<span class="series-number">3˙2521</span> Wird ein Zeichen _nicht gebraucht_, so ist es bedeutungslos. Das ist der Sinn der Devise Ockhams.
+
+---
+
+### [Ms-104](/ms-104/#60.7) <span class="fac">[60\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-607}
+
+<span class="series-number">5˙30224</span> Die Lösungen der logischen Probleme müssen einfach sein, denn sie setzen den Standard der Einfachheit.
+
+### [Ms-104](/ms-104/#60.8) <span class="fac">[60\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-608}
+
+<span class="series-number">3˙20103</span> Man könnte die Bestimmtheit auch so fordern: Wenn ein Satz Sinn haben soll, so muß vorerst die syntaktische Verwendung jedes seiner Teile festgelegt sein. – Man kann z.B. nicht erst nachträglich daraufkommen, daß ein Satz aus ihm folgt. Sondern, welche Sätze aus ihm folgen muß vollkommen feststehen, ehe dieser Satz einen Sinn haben kann.
+
+### [Ms-104](/ms-104/#60.9) <span class="fac">[60\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/60.webp)</span> {#ms-104-609}
+
+<span class="series-number">3˙2513</span> Die Regeln der logischen Syntax müssen sich von selbst verstehen, wenn man nur weiß wie ein jedes Zeichen bezeichnet.
+
+### [Ms-104](/ms-104/#61.1) <span class="fac">[61\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-611}
+
+<span class="series-number">4˙1032</span> Jetzt verstehen wir auch, warum man immer fühlte, daß wir im Besitz einer richtigen logischen Auffassung wären, wenn nur alles in unserem Symbolismus stimmte.
+
+### [Ms-104](/ms-104/#61.2) <span class="fac">[61\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-612}
+
+<span class="series-number">5˙04103</span> Der Satz bejaht jeden Satz der aus ihm folgt.
+
+### [Ms-104](/ms-104/#61.3) <span class="fac">[61\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-613}
+
+<span class="series-number">5˙04104</span> Zwei Sätze sind einander entgegengesetzt wenn es keinen sinnvollen Satz gibt der sie beide bejaht.
+
+### [Ms-104](/ms-104/#61.4) <span class="fac">[61\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-614}
+
+<span class="series-number">5˙04105</span> Jeder Satz der einem anderen widerspricht verneint ihn.
+
+### [Ms-104](/ms-104/#61.5) <span class="fac">[61\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-615}
+
+<span class="series-number">5˙311</span> Wie kann die allumfassende weltspiegelnde Logik so spezielle Haken und Manipulationen gebrauchen? Nur indem sich alle diese zu einem unendlich feinen Netzwerk zu dem großen Spiegel verknüpfen.
+
+### [Ms-104](/ms-104/#61.6) <span class="fac">[61\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-616}
+
+<span class="series-number">5˙312</span> „~p” ist wahr wenn „p” falsch ist. Also in dem wahren Satz „~p” ist „p” ein falscher Satz. Wie kann ihn nun der Haken „~” mit der Wirklichkeit zum Stimmen bringen?
+
+### [Ms-104](/ms-104/#61.7) <span class="fac">[61\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-617}
+
+<span class="series-number">5˙313</span> Dasjenige was in „~p” verneint ist aber nicht das „~” sondern dasjenige was allen Zeichen dieser Notation welche „p” verneinen gemeinsam ist.
+
+Also die gemeinsame Regel nach welcher ~p, ~~~p, ~p⌵~p, ~p ∙ ~p, etc. etc. (ad inf.) gebildet werden. Und dies Gemeinsame spiegelt die Verneinung wieder.
+
+### [Ms-104](/ms-104/#61.8) <span class="fac">[61\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp)</span> {#ms-104-618}
+
+<span class="series-number">5˙041031</span> „p ∙ q” ist einer der Sätze welche „p” bejahen und zugleich einer der Sätze welche „q” bejahen.
+
+### [Ms-104](/ms-104/#61.9+62.1) <span class="fac">[61\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/61.webp),[62\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/62.webp)</span> {#ms-104-619621}
+
+<span class="series-number">5˙3131</span> Man könnte sagen: Das Gemeinsame aller Symbole, die sowohl p als auch q bejahen ist der Satz „p ∙ q”. Das Gemeinsame aller Symbole, die entweder p, oder q bejahen ist der Satz „p⌵q”.
+
+### [Ms-104](/ms-104/#62.2) <span class="fac">[62\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/62.webp)</span> {#ms-104-622}
+
+<span class="series-number">5˙3132</span> Und so kann man sagen: Zwei Sätze sind einander entgegengesetzt wenn sie nichts mit einander gemein haben, und: jeder Satz hat nur ein Negativ weil es nur einen Satz gibt der ganz außerhalb ihm liegt.
+
+### [Ms-104](/ms-104/#62.3) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/62.webp)</span> {#ms-104-623}
+
+<span class="series-number">5˙3133</span> Es zeigt sich so auch in der neuen Notation, daß „q:p⌵~p” dasselbe sagt wie „q”. Daß „p⌵~p” nichts sagt.
+
+### [Ms-104](/ms-104/#62.4) <span class="fac">[62\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/62.webp)</span> {#ms-104-624}
+
+<span class="series-number">5˙315</span> Es muß sich an unseren Satzzeichen zeigen, daß das, was durch „⌵” „ ∙ ” etc. mit einander verbunden ist, Satzzeichen sein müssen.
+
+Und dies ist auch der Fall, denn das Symbol „p” und „q” setzt ja selbst das „⌵”, „~”, etc. voraus. Wenn das Zeichen „p” in „p ⌵ q” nicht für ein komplexes Zeichen steht, dann kann es allein nicht Sinn haben; dann können aber auch die mit „p” gleichsinnigen Zeichen „p ⌵ p”, „p ∙ p” etc. keinen Sinn haben. Wenn aber „p ⌵ p” keinen Sinn hat dann kann auch „p ⌵ q” keinen Sinn haben.
+
+### [Ms-104](/ms-104/#62.5) <span class="fac">[62\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/62.webp)</span> {#ms-104-625}
+
+<span class="series-number">5˙323</span> Man kann die Welt vollständig durch vollkommen verallgemeinerte Sätze beschreiben, d.h. also ohne irgend einen Namen von vornherein einem bestimmten Gegenstand zuzuordnen.
+
+### [Ms-104](/ms-104/#63.1) <span class="fac">[63\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-631}
+
+<span class="series-number">5˙324</span> Um dann auf die gewöhnliche Ausdrucksweise zu kommen muß man einfach nach einem Ausdruck „es gibt ein und nur ein x welches ‥․” sagen: und dies x ist A.
+
+### [Ms-104](/ms-104/#63.2) <span class="fac">[63\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-632}
+
+<span class="series-number">5˙325</span> Ein vollkommen verallgemeinerter Satz ist wie jeder andere Satz zusammengesetzt. (Dies zeigt sich daran daß wir in „(Еx,f) ∙ fx” „f” und „x” getrennt erwähnen müssen.) Beide stehen unabhängig in bezeichnenden Beziehungen zur Welt wie im unverallgemeinerten Satz.
+
+### [Ms-104](/ms-104/#63.3) <span class="fac">[63\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-633}
+
+<span class="series-number">5˙3251</span> Kennzeichen des zusammengesetzten Symbols: es hat etwas mit _anderen_ Zeichen gemeinsam.
+
+### [Ms-104](/ms-104/#63.4) <span class="fac">[63\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-634}
+
+<span class="series-number">5˙326</span> Es verändert ja die Wahr- oder Falschheit _jedes_ Satzes etwas am allgemeinen Bau der Welt. Und der Spielraum welcher ihrem Bau durch die Gesamtheit der Elementarsätze gelassen wird, ist eben derjenige, welchen die ganz allgemeinen Sätze begrenzen.
+
+(Denn wenn ein Elementarsatz wahr ist, so ist damit doch jedenfalls _ein_ Elementarsatz _mehr_ wahr.)
+
+### [Ms-104](/ms-104/#63.5) <span class="fac">[63\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-635}
+
+<span class="series-number">5˙322</span> Die Allgemeinheitsbezeichnung tritt als Argument auf.
+
+### [Ms-104](/ms-104/#63.6) <span class="fac">[63\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-636}
+
+<span class="series-number">5˙0012</span> Verneinung, Disjunktion, logische Multiplikation etc. sind Operationen.
+
+### [Ms-104](/ms-104/#63.7) <span class="fac">[63\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/63.webp)</span> {#ms-104-637}
+
+<span class="series-number">5˙002</span> Das Vorkommen einer Operation im Satz kann natürlich allein nichts besagen.
+
+### [Ms-104](/ms-104/#64.1) <span class="fac">[64\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-641}
+
+<span class="series-number">5˙0021</span> Eine Operation sagt ja nicht aus, nur ihr Resultat und dies hängt von ihrer Basis ab.
+
+### [Ms-104](/ms-104/#64.2) <span class="fac">[64\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-642}
+
+<span class="series-number">5˙0022</span> Nur Operationen können verschwinden. (Wie z.B. die Verneinung in ~~p.)
+
+### [Ms-104](/ms-104/#64.3) <span class="fac">[64\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-643}
+
+<span class="series-number">3˙16021</span> Das musikalische Thema ist ein Satz.
+
+---
+
+### [Ms-104](/ms-104/#64.4) <span class="fac">[64\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-644}
+
+<span class="series-number">6˙1</span> Die Sätze der Logik sind die Tautologien.
+
+### [Ms-104](/ms-104/#64.5) <span class="fac">[64\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-645}
+
+<span class="series-number">6˙1001</span> Die Sätze der Logik sagen also nichts. Sie sind die analytischen Sätze.
+
+### [Ms-104](/ms-104/#64.6) <span class="fac">[64\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-646}
+
+<span class="series-number">6˙11</span> Daß _sie_ Tautologien sind, das _zeigt_ die formalen – logischen – Eigenschaften der Sprache, der Welt.
+
+### [Ms-104](/ms-104/#64.7) <span class="fac">[64\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-647}
+
+<span class="series-number">6˙111</span> Daß ihre Bestandteile _so_ verknüpft eine Tautologie ergeben, das charakterisiert die Logik ihrer Bestandteile.
+
+### [Ms-104](/ms-104/#64.8) <span class="fac">[64\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-648}
+
+<span class="series-number">6˙112</span> Damit Sätze auf bestimme Art und Weise verknüpft eine Tautologie ergeben, dazu müssen sie bestimmte Eigenschaften der Struktur haben. Daß sie _so_ verbunden eine Tautologie ergeben zeigt also daß sie diese Eigenschaften der Struktur besitzen.
+
+### [Ms-104](/ms-104/#64.9) <span class="fac">[64\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/64.webp)</span> {#ms-104-649}
+
+<span class="series-number">6˙12</span> Daraus ergiebt sich daß die logischen Sätze nicht unbedingt notwendig sind da wir ja in einer entsprechenden Notation die strukturellen Eigenschaften der Sätze durch das bloße Ansehen dieser Sätze erkennen können.
+
+### [Ms-104](/ms-104/#65.1) <span class="fac">[65\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/65.webp)</span> {#ms-104-651}
+
+<span class="series-number">6˙121</span> Ergeben z.B. zwei Sätze p und q in der Verbindung p ⊃ q eine Tautologie so ist klar daß dann q aus p folgt. Daß z.B. „q” aus „p ⊃ q ∙ p” folgt ersehen wir aus jenen beiden Sätzen selbst aber wir können es auch _so_ zeigen indem wir sie zu „p ⊃ q ∙ p ․⊃․ q” verbinden und nun zeigen daß dies eine Tautologie ist.
+
+### [Ms-104](/ms-104/#65.2) <span class="fac">[65\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/65.webp)</span> {#ms-104-652}
+
+<span class="series-number">6˙1211</span> Die logischen Sätze demonstrieren die logischen Eigenschaften der Sätze indem sie sie zu nichtssagenden Sätzen verbinden.
+
+### [Ms-104](/ms-104/#65.3) <span class="fac">[65\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/65.webp)</span> {#ms-104-653}
+
+<span class="series-number">6˙1212</span> Diese Methode könnte man auch eine Nullmethode nennen. Im logischen Satz werden Sätze mit einander ins Gleichgewicht gebracht und der Zustand des Gleichgewichts zeigt dann an wie diese Sätze logisch beschaffen sein müssen.
+
+### [Ms-104](/ms-104/#65.4) <span class="fac">[65\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/65.webp)</span> {#ms-104-654}
+
+<span class="series-number">6˙122</span> Im Leben ist es ja nie der logische Satz, den wir brauchen, sondern wir benützen den logischen Satz _nur_ um aus Sätzen welche nicht der Logik angehören auf andere zu schließen die gleichfalls nicht der Logik angehören.
+
+### [Ms-104](/ms-104/#65.5) <span class="fac">[65\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/65.webp)</span> {#ms-104-655}
+
+<span class="series-number">6˙1213</span> Der sinnvolle Satz sagt etwas aus, und sein Beweis zeigt daß es so ist; in der Logik ist jeder Satz die Form eines Beweises.
+
+### [Ms-104](/ms-104/#65.6+66.1) <span class="fac">[65\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/65.webp),[66\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp)</span> {#ms-104-656661}
+
+<span class="series-number">6˙101</span> Es ist das besondere Merkmal der logischen Sätze daß man am Symbol allein erkennen kann, daß sie wahr sind, und diese Tatsache schließt die ganze Philosophie der Logik in sich. Und so ist es auch eine der wichtigsten Tatsachen daß sich die Wahrheit oder Falschheit der nicht-logischen Sätze _nicht_ am Satz allein erkennen läßt.
+
+### [Ms-104](/ms-104/#66.2) <span class="fac">[66\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp)</span> {#ms-104-662}
+
+<span class="series-number">6˙13</span> Die Logik ist keine Lehre sondern ein Spiegelbild der Welt.
+
+### [Ms-104](/ms-104/#66.3) <span class="fac">[66\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp)</span> {#ms-104-663}
+
+<span class="series-number">6˙131</span> Die Logik ist transzendental.
+
+### [Ms-104](/ms-104/#66.4) <span class="fac">[66\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp)</span> {#ms-104-664}
+
+<span class="series-number">6˙1214</span> Jeder logische Satz ist ein in Zeichen dargestellter Modus ponens. (Und den Modus ponens kann man nicht durch einen Satz ausdrücken.)
+
+### [Ms-104](/ms-104/#66.5) <span class="fac">[66\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp)</span> {#ms-104-665}
+
+<span class="series-number">6˙1003</span> Die richtige Erklärung der logischen Sätze, muß ihnen eine einzigartige Stellung unter allen Sätzen geben.
+
+### [Ms-104](/ms-104/#66.6) <span class="fac">[66\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp)</span> {#ms-104-666}
+
+<span class="series-number">6˙1002</span> Theorien die einen Satz der Logik sehr gehaltvoll erscheinen lassen, sind immer falsch. Die Worte „Wahr” und „Falsch” z.B. scheinen zwei Eigenschaften unter anderen Eigenschaften zu bezeichnen, und da scheint es eine sehr merkwürdige Tatsache zu sein daß jeder Satz eine dieser Eigenschaften hat. Das scheint nun nichts weniger als selbstverständlich, ebensowenig selbstverständlich wie etwa der Satz „alle Rosen sind entweder gelb oder rot” klänge, auch wenn er wahr wäre. Ja, jener Satz bekommt nun ganz den Charakter eines naturwissenschaftlichen Satzes, und dies ist das sichere Anzeichen dafür, daß er falsch aufgefaßt wurde.
+
+### [Ms-104](/ms-104/#66.7+67.1) <span class="fac">[66\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/66.webp),[67\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/67.webp)</span> {#ms-104-667671}
+
+<span class="series-number">6˙1215</span> Es wird jetzt auch klar warum die Logik die Lehre von den Formen und vom Schließen genannt wurde.
+
+### [Ms-104](/ms-104/#67.2) <span class="fac">[67\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/67.webp)</span> {#ms-104-672}
+
+<span class="series-number">6˙1121</span> Daß z.B. p und ~p einander widersprechen zeigt sich an der Tautologie „~(p ∙ ~p)”.
+
+### [Ms-104](/ms-104/#67.3) <span class="fac">[67\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/67.webp)</span> {#ms-104-673}
+
+<span class="series-number">6˙11211</span> Es ist jetzt klar daß es nicht, wie Russell meinte, für jede „Type” ein eigenes „Gesetz des Widerspruchs” geben müsse, sondern daß _eines_ genügt, da es auf sich selbst nicht angewendet werden braucht.
+
+### [Ms-104](/ms-104/#67.4) <span class="fac">[67\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/67.webp)</span> {#ms-104-674}
+
+<span class="series-number">6˙113</span> Die logischen Sätze beschreiben das Gerüste der Welt, oder vielmehr, sie stellen es dar. Sie „handeln” von nichts. Sie setzen voraus, daß Namen Bedeutung, und Elementarsätze Sinn haben: und dies ist ihre Verbindung mit der Welt. Es ist klar, daß es etwas über die Welt anzeigen muß, daß gewisse Verbindungen von Symbolen – welche notwendigerweise einen bestimmten Charakter haben – Tautologien sind. Hierin liegt das Entscheidende. Wir sagten, manches an den Zeichen die wir gebrauchen wäre willkürlich, manches nicht. In der Logik drückt nur dieses aus: das heißt aber, in der Logik drücken nicht _wir_ mit Hilfe der Zeichen aus, was wir wollen, sondern in der Logik sagt die Natur der naturnotwendigen Zeichen selbst aus: Wenn wir die logische Syntax irgend einer Zeichensprache kennen, dann sind bereits alle logischen Sätze gegeben.
+
+### [Ms-104](/ms-104/#67.5) <span class="fac">[67\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/67.webp)</span> {#ms-104-675}
+
+<span class="series-number">6˙1004</span> Die Erforschung der Logik bedeutet die Erforschung _aller Gesetzmäßigkeit_. Und außerhalb der Logik ist alles Zufall.
+
+### [Ms-104](/ms-104/#68.1) <span class="fac">[68\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-681}
+
+<span class="series-number">6˙102</span> Dürfen denn die Gesetze der Logik selbst wieder logischen Gesetzen unterstehen?
+
+### [Ms-104](/ms-104/#68.2) <span class="fac">[68\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-682}
+
+<span class="series-number">6˙114</span> Das Anzeichen des logischen Satzes ist nicht die Allgemeingültigkeit. Allgemein sein heißt ja nur: zufälligerweise für alle Dinge gelten.
+
+### [Ms-104](/ms-104/#68.3) <span class="fac">[68\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-683}
+
+<span class="series-number">6˙1141</span> Ein unverallgemeinerter Satz kann ja ebensowohl tautologisch sein als ein verallgemeinerter.
+
+### [Ms-104](/ms-104/#68.4) <span class="fac">[68\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-684}
+
+<span class="series-number">6˙12111</span> Dies wirft ein Licht auf die Frage, warum die logischen Sätze nicht durch die Erfahrung bestätigt werden können ebensowenig wie sie durch die Erfahrung widerlegt werden können. Nicht nur muß ein Satz der Logik durch keine mögliche Erfahrung widerlegt werden können, sondern er darf auch nicht durch eine solche bestätigt werden können.
+
+### [Ms-104](/ms-104/#68.5) <span class="fac">[68\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-685}
+
+<span class="series-number">6˙1122</span> Es ist klar daß man zu demselben Zweck statt der Tautologien auch die Kontradiktionen verwenden könnte.
+
+### [Ms-104](/ms-104/#68.6) <span class="fac">[68\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-686}
+
+<span class="series-number">6˙1215</span> Nun wird klar warum man oft fühlte, als wären die „logischen Wahrheiten” von uns zu „_fordern_”: wir können sie nämlich insofern fordern als wir eine genügende Notation fordern können.
+
+### [Ms-104](/ms-104/#68.7) <span class="fac">[68\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-687}
+
+<span class="series-number">6˙1131</span> Es ist möglich, und zwar auch nach der alten Logik, von vornherein eine Beschreibung aller „wahren” logischen Sätze zu geben.
+
+### [Ms-104](/ms-104/#68.8) <span class="fac">[68\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp)</span> {#ms-104-688}
+
+<span class="series-number">6˙1132</span> Darum kann es in der Logik auch _nie_ Überraschungen geben.
+
+### [Ms-104](/ms-104/#68.9+69.1) <span class="fac">[68\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/68.webp),[69\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp)</span> {#ms-104-689691}
+
+<span class="series-number">6˙1133</span> Ob ein Satz der Logik angehört kann man berechnen, indem man die logischen Eigenschaften des _Symbols_ berechnet.
+
+### [Ms-104](/ms-104/#69.2) <span class="fac">[69\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp)</span> {#ms-104-692}
+
+<span class="series-number">6˙1134</span> Und dies tun wir wenn wir einen logischen Satz „beweisen”. Denn ohne uns um einen Sinn oder Bedeutung zu kümmern bilden wir den logischen Satz aus anderen nach bloßen _Zeichenregeln_.
+
+### [Ms-104](/ms-104/#69.3) <span class="fac">[69\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp)</span> {#ms-104-693}
+
+<span class="series-number">6˙1136</span> Immer kann man aber die Logik so auffassen daß jeder Satz sein eigener Beweis ist.
+
+### [Ms-104](/ms-104/#69.4) <span class="fac">[69\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp)</span> {#ms-104-694}
+
+<span class="series-number">6˙1142</span> Die logische Allgemeingültigkeit könnte man wesentlich nennen, im Gegensatz zu jener zufälligen, etwa des Satzes „alle Menschen sind sterblich”. Sätze wie Russells Axiom of reducibility sind nicht logische Sätze, und dies erklärt unser Gefühl, nämlich, daß sie, wenn wahr, so doch nur durch einen günstigen Zufall wahr sein könnten.
+
+### [Ms-104](/ms-104/#69.5) <span class="fac">[69\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp)</span> {#ms-104-695}
+
+<span class="series-number">6˙1143</span> Es läßt sich eine Welt denken, in der das Axiom of reducibility nicht gilt. Es ist aber klar daß die Logik nichts mit der Frage zu schaffen hat ob unsere Welt wirklich so ist oder nicht.
+
+### [Ms-104](/ms-104/#69.6) <span class="fac">[69\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp)</span> {#ms-104-696}
+
+<span class="series-number">6˙1221</span> In der Philosophie führt die Frage „wozu gebrauchen wir eigentlich jenes Wort, jenen Satz” immer wieder zu wertvollen Einsichten.
+
+### [Ms-104](/ms-104/#69.7+70.1) <span class="fac">[69\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/69.webp),[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-697701}
+
+<span class="series-number">6˙11341</span> Der Beweis der logischen Sätze besteht darin, daß wir sie aus anderen logischen Sätzen durch sukzessive Anwendung gewisser Operationen entstehen lassen die aus den ersten immer wieder Tautologien macht.
+
+(Und zwar _folgen_ aus einer Tautologie nur Tautologien.)
+
+### [Ms-104](/ms-104/#70.2) <span class="fac">[70\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-702}
+
+<span class="series-number">6˙11342</span> Natürlich ist diese Art, zu zeigen, daß Sätze Tautologien sind der Logik durchaus unwesentlich. Schon weil die Sätze von welchen der Beweis ausgeht ja ohne Beweis zeigen müssen daß sie Tautologien sind.
+
+### [Ms-104](/ms-104/#70.3) <span class="fac">[70\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-703}
+
+<span class="series-number">6˙1135</span> Alle Sätze der Logik sind gleichberechtigt es gibt unter ihnen nicht wesentlich Grundgesetze und abgeleitete Sätze. Jede Tautologie zeigt selbst daß sie eine Tautologie ist.
+
+### [Ms-104](/ms-104/#70.4) <span class="fac">[70\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-704}
+
+<span class="series-number">6˙11351</span> Der Beweis in der Logik ist nur ein mechanisches Hilfsmittel zum leichteren Erkennen der Tautologie wo sie kompliziert ist.
+
+### [Ms-104](/ms-104/#70.5) <span class="fac">[70\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-705}
+
+<span class="series-number">6˙11352</span> Es wäre ja auch zu merkwürdig wenn man einen sinnvollen Satz _logisch_ aus anderen beweisen könnte und einen logischen Satz auch. Es ist von vornherein klar daß der logische Beweis eines sinnvollen Satzes und der Beweis _in_ der Logik zwei ganz verschiedene Sachen sein müssen.
+
+### [Ms-104](/ms-104/#70.6) <span class="fac">[70\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-706}
+
+<span class="series-number">6˙11343</span> In der Logik sind Prozeß und Resultat äquivalent (darum keine Überraschung).
+
+---
+
+### [Ms-104](/ms-104/#70.7) <span class="fac">[70\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-707}
+
+<span class="series-number">6˙01</span> Die allgemeine Form der Operation ist: <math class="stacked" display="inline"><mtext>❘</mtext><mover><mrow><mtext>σ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>ᾱ,</mtext><mspace width="0.3em"/><mi>N</mi><mspace width="0.3em"/><mo>(</mo><mtext>ᾱ)</mtext><mtext>❘</mtext><mtext>'</mtext><mspace width="0.3em"/><mo>(</mo><mover><mrow><mtext>σ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>.
+
+### [Ms-104](/ms-104/#70.8) <span class="fac">[70\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-708}
+
+<span class="series-number">6˙02</span> Die allgemeine Form der ganzen Zahl ist: ❘O, α, α + 1❘.
+
+### [Ms-104](/ms-104/#71.2) <span class="fac">[71\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-712}
+
+<span class="series-number">6˙4</span> Alle Sätze sind gleichwertig.
+
+### [Ms-104](/ms-104/#71.3) <span class="fac">[71\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-713}
+
+<span class="series-number">7</span> Wovon man nicht sprechen kann, darüber muß man schweigen.
+
+---
+
+### [Ms-104](/ms-104/#71.4) <span class="fac">[71\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-714}
+
+<span class="series-number">6˙12112</span> Das sogenannte Gesetz der Induktion kann jedenfalls kein logisches Gesetz sein, denn es ist offenbar ein sinnvoller Satz. – Und darum kann es auch kein Gesetz a priori sein.
+
+### [Ms-104](/ms-104/#71.5) <span class="fac">[71\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-715}
+
+<span class="series-number">6˙3</span> Das Kausalitätsgesetz ist kein Gesetz sondern die Form eines Gesetzes.
+
+### [Ms-104](/ms-104/#71.6) <span class="fac">[71\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-716}
+
+<span class="series-number">6˙31</span> „Kausalitätsgesetz”, das ist ein Gattungsname. Und wie es in der Mechanik, sagen wir, Minimum-Gesetze gibt, – etwa der kleinsten Wirkung – so gibt es in der Physik _ein_ Kausalitätsgesetz, _ein_ Gesetz von der Kausalitäts-Form.
+
+### [Ms-104](/ms-104/#71.7) <span class="fac">[71\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-717}
+
+<span class="series-number">6˙311</span> Man hat ja auch davon eine Ahnung gehabt daß es _ein_ „Gesetz der kleinsten Wirkung” geben müsse, ehe man genau wußte wie es lautete.
+
+(Hier wie immer stellt sich das Aprioristische als etwas rein Logisches heraus.)
+
+### [Ms-104](/ms-104/#71.8) <span class="fac">[71\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp)</span> {#ms-104-718}
+
+<span class="series-number">6˙32</span> Wir _glauben_ nicht a priori an ein Erhaltungsgesetz sondern wir _wissen_ a priori die Möglichkeit seiner logischen Form.
+
+### [Ms-104](/ms-104/#71.9+72.1) <span class="fac">[71\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/71.webp),[72\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/72.webp)</span> {#ms-104-719721}
+
+<span class="series-number">6˙33</span> Alle jene Sätze wie der Satz vom Grunde, von der Kontinuität in der Natur, vom kleinsten Aufwand in der Natur, etc., etc. alle diese sind Einsichten a priori über die mögliche Formgebung der Sätze der Wissenschaft.
+
+### [Ms-104](/ms-104/#72.2+73.1) <span class="fac">[72\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/72.webp),[73\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/73.webp)</span> {#ms-104-722731}
+
+<span class="series-number">6˙331</span> Die Newtonsche Mechanik z.B. bringt die Weltbeschreibung auf eine einheitliche Form. Denken wir uns eine weiße Fläche, auf der unregelmäßige schwarze Flecken wären. Wir sagen nun: Was immer für ein Bild hiedurch entsteht, immer werde ich seiner Beschreibung beliebig nahe kommen können, indem ich die Fläche mit einem entsprechend feinen quadratischen Netzwerk bedecke und nun von jedem Quadrat sage, daß es weiß oder schwarz ist. Ich werde auf diese Weise die Beschreibung der Fläche auf eine einheitliche Form gebracht haben. Diese Form ist beliebig, denn ich hätte mit dem gleichen Erfolge ein Netz mit dreieckigen oder sechseckigen Maschen verwenden können. Es kann sein daß die Beschreibung mit Hilfe eines Dreiecks-Netzes einfacher geworden wäre; das heißt daß wir die Fläche mit einem gröberen Dreiecksnetz genauer beschreiben könnten als mit einem feineren quadratischen (oder umgekehrt) u.s.w.. Den verschiedenen Netzen entsprechen verschiedene Systeme der Weltbeschreibung. Die Mechanik bestimmt eine Form der Weltbeschreibung indem sie sagt: Alle Sätze der Weltbeschreibung müssen aus einer Anzahl gegebener Sätze – den mechanischen Axiomen – auf eine gegebene Art und Weise erhalten werden. Hierdurch liefert sie die Bausteine zum Bau des wissenschaftlichen Gebäudes und sagt: Welches Gebäude immer Du aufführen willst, jedes mußt du irgendwie mit diesen und nur diesen Bausteinen zusammenbringen.
+
+(Wie man mit dem Zahlensystem jede beliebige Anzahl, so muß ich mit dem System der Mechanik jeden beliebigen Satz der Physik hinschreiben können.)
+
+### [Ms-104](/ms-104/#73.2) <span class="fac">[73\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/73.webp)</span> {#ms-104-732}
+
+<span class="series-number">6˙34</span> Und hier sehen wir nun die gegenseitige Stellung von Logik und Mechanik (man könnte das Netz auch aus verschiedenartigen Figuren bestehen lassen). Daß sich ein Bild, wie das vorhin erwähnte durch ein Netz von gegebener Form beschreiben läßt sagt über das Bild _nichts_ aus (denn dies gilt für jedes Bild dieser Art). Das aber charakterisiert das Bild, daß es sich durch ein bestimmtes Netz von _bestimmter_ Feinheit _vollständig_ beschreiben läßt.
+
+So auch sagt es nichts über die Welt aus, daß sie sich durch die Newtonsche Mechanik beschreiben läßt; wohl aber daß sie sich _so_ durch jene beschreiben läßt, wie dies eben der Fall ist. Auch das sagt etwas über die Welt daß sie sich durch die eine Mechanik einfacher beschreiben läßt als durch die andere.
+
+### [Ms-104](/ms-104/#73.3) <span class="fac">[73\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/73.webp)</span> {#ms-104-733}
+
+<span class="series-number">6˙341</span> Die Mechanik ist ein Versuch alle _wahren_ Sätze die wir zur Weltbeschreibung brauchen, nach einem Plane zu konstruieren.
+
+### [Ms-104](/ms-104/#74.1) <span class="fac">[74\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/74.webp)</span> {#ms-104-741}
+
+<span class="series-number">6˙35</span> Obwohl die Flecke in unserem Bild geometrische Figuren sind, so kann doch selbstverständlich die Geometrie gar nichts über ihre tatsächliche Form und Lage sagen. Das Netz aber ist _rein_ geometrisch, alle seine Eigenschaften können a priori angegeben werden.
+
+### [Ms-104](/ms-104/#74.2) <span class="fac">[74\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/74.webp)</span> {#ms-104-742}
+
+<span class="series-number">6˙36</span> Gesetze wie der Satz vom Grunde etc. handeln vom Netz nicht von dem was das Netz beschreibt.
+
+### [Ms-104](/ms-104/#74.3) <span class="fac">[74\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/74.webp)</span> {#ms-104-743}
+
+<span class="series-number">6˙001</span> In der allgemeinen Satzform kommt der Satz im Satz nur als W-Argument vor.
+
+### [Ms-104](/ms-104/#74.4) <span class="fac">[74\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/74.webp)</span> {#ms-104-744}
+
+<span class="series-number">6˙002</span> Nun scheint es aber auf den ersten Blick als könne ein Satz in einem anderen auch auf andere Weise vorkommen.
+
+### [Ms-104](/ms-104/#74.5) <span class="fac">[74\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/74.webp)</span> {#ms-104-745}
+
+<span class="series-number">6˙003</span> Besonders in gewissen psychologischen Satzformen wie „A glaubt, daß p” oder „A denkt p”, etc. Hier scheint es nämlich oberflächlich als stünde der Satz p zu einem Gegenstand A in einer Art Relation – und in der modernen Erkenntnistheorie (Russell, Moore, etc.) sind jene Sätze auch so aufgefaßt worden.
+
+### [Ms-104](/ms-104/#74.6+75.1) <span class="fac">[74\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/74.webp),[75\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-746751}
+
+<span class="series-number">6˙004</span> Es ist aber klar daß „A glaubt, daß”, „A denkt p” „A sagt p” von der Form „‚p’ sagt p” sind; und hier ist es klar daß es sich nicht um eine Zuordnung von einer Tatsache und einem Gegenstand sondern um die Zuordnung von Tatsachen durch Zuordnung ihrer Gegenstände handelt.
+
+### [Ms-104](/ms-104/#75.2) <span class="fac">[75\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-752}
+
+<span class="series-number">6˙0041</span> Dies zeigt auch daß die Seele – das Subjekt etc. – wie sie in der heutigen oberflächlichen Psychologie aufgefaßt wird ein Unding ist.
+
+### [Ms-104](/ms-104/#75.3) <span class="fac">[75\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-753}
+
+<span class="series-number">6˙0042</span> Eine zusammengesetzte Seele wäre nämlich keine Seele mehr.
+
+### [Ms-104](/ms-104/#75.4) <span class="fac">[75\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-754}
+
+<span class="series-number">6˙0043</span> Die richtige Theorie des Urteiles muß zeigen, daß es unmöglich ist einen Unsinn zu urteilen. (Russells Theorie genügt dieser Bedingung nicht.)
+
+### [Ms-104](/ms-104/#75.5) <span class="fac">[75\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-755}
+
+<span class="series-number">6˙41</span> Der Sinn der Welt muß außerhalb ihr liegen. In der Welt ist alles wie es ist und geschieht alles wie es geschieht, es gibt _in_ ihr keinen Wert – und wenn es ihn gäbe so hätte er keinen Wert.
+
+Wenn es einen Wert gibt der Wert hat, so muß er außerhalb alles Geschehens und So-Seins liegen. Denn alles Geschehen und So-Sein ist zufällig.
+
+Was es nicht-zufällig macht, kann nicht _in_ der Welt liegen, denn sonst wäre dies wieder zufällig. Es muß außerhalb der Welt liegen.
+
+### [Ms-104](/ms-104/#75.6) <span class="fac">[75\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-756}
+
+<span class="series-number">6˙42</span> Darum kann es auch keine Sätze der Ethik geben. Sätze können nichts Höheres ausdrücken.
+
+### [Ms-104](/ms-104/#75.7) <span class="fac">[75\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp)</span> {#ms-104-757}
+
+<span class="series-number">6˙43</span> Es gibt allerdings Unaussprechliches. Dies _zeigt_ sich, es ist das Mystische.
+
+### [Ms-104](/ms-104/#75.8+76.1) <span class="fac">[75\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/75.webp),[76\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/76.webp)</span> {#ms-104-758761}
+
+<span class="series-number">6˙5</span> Zu einer Antwort, die man nicht aussprechen kann, kann man auch die Frage nicht aussprechen. _Das Rätsel_ gibt es nicht.
+
+Wenn sich eine Frage überhaupt stellen läßt so _kann_ sie auch beantwortet werden.
+
+### [Ms-104](/ms-104/#76.2) <span class="fac">[76\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/76.webp)</span> {#ms-104-762}
+
+<span class="series-number">6˙52</span> Wir fühlen daß selbst, wenn alle _möglichen_ wissenschaftlichen Fragen beantwortet sind unsere Lebensprobleme noch gar nicht berührt sind. Freilich bleibt dann eben keine Frage mehr; und eben dies ist die Antwort.
+
+### [Ms-104](/ms-104/#76.3) <span class="fac">[76\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/76.webp)</span> {#ms-104-763}
+
+<span class="series-number">5˙33541</span> Wenn ich ein Buch schriebe „Die Welt, wie ich sie vorfand”, so wäre darin auch über meinen Leib zu berichten und zu sagen, welche Glieder meinem Willen unterstehen etc. dies ist nämlich eine Methode das Subjekt zu isolieren, oder vielmehr, zu zeigen daß es in einem wichtigen Sinne kein Subjekt gibt: von ihm allein nämlich, könnte in diesem Buche _nicht_ die Rede sein. –
+
+### [Ms-104](/ms-104/#76.4) <span class="fac">[76\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/76.webp)</span> {#ms-104-764}
+
+<span class="series-number">5˙30225</span> Die Menschen haben immer geahnt, daß es ein Gebiet von Fragen geben müsse, worin die Antworten – a priori – symmetrisch, und zu einem abgeschlossenen, regelmäßigen Gebilde vereint-liegen.
+
+Ein Gebiet in dem der Satz gilt: simplex sigillum veri.
+
+### [Ms-104](/ms-104/#76.5) <span class="fac">[76\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/76.webp)</span> {#ms-104-765}
+
+<span class="series-number">5˙3221</span> Jener Präzedenzfall auf den man sich immer berufen möchte, muß schon im Symbol selber liegen.
+
+### [Ms-104](/ms-104/#76.6+77.1) <span class="fac">[76\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/76.webp),[77\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-766771}
+
+<span class="series-number">4˙0742</span> Wollten wir das, was wir durch „(x) ∙ fx” ausdrücken, z.B. durch Vorsetzen eines Indexes vor „fx” ausdrücken – etwa so „Alg ∙ fx”, es würde nicht genügen – wir wüßten nicht was verallgemeinert wurde.
+
+Wollten wir es durch einen Index am „x” anzeigen – etwa so <math class="stacked" display="inline"><mtext>„</mtext><mtext>f(</mtext><msub><mi>x</mi><mi>a</mi></msub><mo>)</mo><mtext>”</mtext></math> – es würde auch nicht genügen – wir wüßten nicht den Bereich der Allgemeinheitsbezeichnung.
+
+Wollten wir es durch Einführen einer Marke in die Argumentstellen versuchen – etwa so „(A,A) ∙ F(A,A)” – es würde nicht genügen – wir könnten die Identität der Variablen nicht feststellen. U.s.w.
+
+Alle diese Bezeichnungsweisen genügen nicht, weil sie nicht die notwendige mathematische Mannigfaltigkeit haben.
+
+### [Ms-104](/ms-104/#77.2) <span class="fac">[77\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-772}
+
+<span class="series-number">4˙0743</span> Aus demselben Grund genügt die idealistische Erklärung des Sehens der räumlichen Beziehungen durch die „Raumbrille” nicht, weil sie nicht die Mannigfaltigkeit dieser Beziehungen erklären kann.
+
+### [Ms-104](/ms-104/#77.3) <span class="fac">[77\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-773}
+
+<span class="series-number">5˙021</span> Die Wahrheitsfunktionen lassen sich in Reihen ordnen.
+
+### [Ms-104](/ms-104/#77.4) <span class="fac">[77\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-774}
+
+<span class="series-number">5˙022</span> Das ist die Grundlage der Wahrscheinlichkeitslehre.
+
+### [Ms-104](/ms-104/#77.5) <span class="fac">[77\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-775}
+
+<span class="series-number">5˙023</span> Sei in einem Schema <math class="stacked" display="inline"><mtext>II</mtext><msub><mi>W</mi><mi>r</mi></msub></math> die Anzahl der „W” in der Kolonne des Satzes r; Wrs die Anzahl derjenigen „W” in der Kolonne des Satzes s die in gleichen Reihen mit „W” in der Kolonne von r stehen. Der Satz „r” gibt dann dem Satz s die Wahrscheinlichkeit <math class="stacked" display="inline"><mfrac><mrow><mtext>Wrs</mtext></mrow><mrow><mtext>Wr</mtext></mrow></mfrac></math>.
+
+### [Ms-104](/ms-104/#78.1) <span class="fac">[78\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-781}
+
+<span class="series-number">5˙09</span> Folgt ein Satz aus einem anderen so gibt dieser jenem die Wahrscheinlichkeit 1. Sind zwei Sätze von einander unabhängig, so gibt jeder dem anderen die Wahrscheinlichkeit ½.
+
+### [Ms-104](/ms-104/#78.2) <span class="fac">[78\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-782}
+
+<span class="series-number">5˙091</span> Das Folgen ist ein Grenzfall des Wahrscheinlich gemacht werdens.
+
+### [Ms-104](/ms-104/#78.3) <span class="fac">[78\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-783}
+
+<span class="series-number">5˙092</span> So ist die Wahrscheinlichkeit eine Verallgemeinerung.
+
+### [Ms-104](/ms-104/#78.4) <span class="fac">[78\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-784}
+
+<span class="series-number">5˙093</span> Sie involviert eine allgemeine Beschreibung einer Satzform.
+
+### [Ms-104](/ms-104/#78.5) <span class="fac">[78\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-785}
+
+<span class="series-number">5˙0931</span> Nur in Ermanglung der Gewißheit gebrauchen wir die Wahrscheinlichkeit. Wenn wir zwar eine Tatsache nicht vollkommen kennen aber wohl _etwas_ über ihre Form wissen.
+
+### [Ms-104](/ms-104/#78.6) <span class="fac">[78\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-786}
+
+<span class="series-number">5˙0932</span> Es gibt keine besondere logische Konstante die den Wahrscheinlichkeitssätzen eigen wäre.
+
+### [Ms-104](/ms-104/#78.7) <span class="fac">[78\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-787}
+
+<span class="series-number">5˙0933</span> Der Wahrscheinlichkeitssatz ist gleichsam ein Auszug aus Elementarsätzen.
+
+### [Ms-104](/ms-104/#78.8) <span class="fac">[78\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-788}
+
+<span class="series-number">5˙0934</span> Was sich in den Sätzen über Wahrscheinlichkeit durch das Experiment bestätigen läßt kann nicht Mathematik sein.
+
+### [Ms-104](/ms-104/#78.9) <span class="fac">[78\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-789}
+
+<span class="series-number">1˙2</span> Die Welt zerfällt in Tatsachen.
+
+### [Ms-104](/ms-104/#78.10) <span class="fac">[78\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-7810}
+
+<span class="series-number">1˙21</span> Eines kann der Fall sein oder nicht der Fall sein und alles Übrige gleichbleiben.
+
+---
+
+### [Ms-104](/ms-104/#78.11) <span class="fac">[78\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-7811}
+
+<span class="series-number">4˙43012</span> Daß es eine allgemeine Satzform gibt, wird dadurch bewiesen, daß es keinen Satz geben darf dessen Form man nicht hätte voraussehen (d.h. konstruieren) können.
+
+### [Ms-104](/ms-104/#79.1) <span class="fac">[79\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-791}
+
+<span class="series-number">5˙00</span> Die Theory of Types wird nun klar.
+
+### [Ms-104](/ms-104/#79.2) <span class="fac">[79\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-792}
+
+<span class="series-number">6˙0201</span> Die Theorie der Klassen ist in der Mathematik ganz überflüssig. Dies hängt damit zusammen daß die Allgemeinheit die wir in der Mathematik brauchen nicht die „zufällige” ist.
+
+### [Ms-104](/ms-104/#79.3) <span class="fac">[79\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-793}
+
+<span class="series-number">4˙102252</span> So ist die Zahlenreihe nicht nach einer externen sondern nach einer internen Relation geordnet.
+
+### [Ms-104](/ms-104/#79.5) <span class="fac">[79\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-795}
+
+<span class="series-number">4˙4302</span> Die allgemeine Satzform ist eine Variable.
+
+### [Ms-104](/ms-104/#79.6) <span class="fac">[79\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-796}
+
+<span class="series-number">4˙01122</span> Hier ist die Bezeichnungsweise offenbar ein Gleichnis des Bezeichneten.
+
+### [Ms-104](/ms-104/#79.7) <span class="fac">[79\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-797}
+
+<span class="series-number">3˙201411</span> Wir reden von _etwas_, aber auch davon, daß _etwas_ geschieht.
+
+### [Ms-104](/ms-104/#79.8) <span class="fac">[79\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-798}
+
+<span class="series-number">6˙211</span> Russell, Whitehead, und Frege haben das Wesentliche der mathematischen Methode mit Gleichungen zu arbeiten nicht verstanden. Auf dieser Methode beruht es, daß jeder mathematische Satz sich von selbst versteht oder unsinnig ist.
+
+### [Ms-104](/ms-104/#79.9) <span class="fac">[79\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-799}
+
+<span class="series-number">6˙212</span> Wir bilden nämlich mittelst der Operationen Ausdrücke und behaupten die Identität ihrer Bedeutung.
+
+### [Ms-104](/ms-104/#79.10) <span class="fac">[79\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/79.webp)</span> {#ms-104-7910}
+
+<span class="series-number">6˙23 ‥․</span> Wenn zwei Ausdrücke durch das „ = ” Zeichen verbunden werden so heißt das, sie sind durch einander ersetzbar. Ob dies aber der Fall ist, muß sich an den beiden Ausdrücken selbst zeigen.
+
+### [Ms-104](/ms-104/#80.1) <span class="fac">[80\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-801}
+
+<span class="series-number">2˙0141</span> Das Ding sei der materielle Punkt mit dem unendlichen Raum um sich. Es ist klar daß der materielle Punkt ohne den unendlichen Raum nicht denkbar ist.
+
+### [Ms-104](/ms-104/#80.2) <span class="fac">[80\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-802}
+
+<span class="series-number">2˙0142</span> Der Fleck im Gesichtsfeld muß zwar nicht rot sein aber _eine_ Farbe muß er haben; er hat sozusagen den Farbenraum um sich. Der Ton muß _eine_ Höhe haben der Gegenstand des Tastsinnes _eine_ Härte etc.
+
+### [Ms-104](/ms-104/#80.3) <span class="fac">[80\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-803}
+
+<span class="series-number">2˙01411</span> Der Raumpunkt ist nach dieser Auffassung eine Argumentstelle.
+
+### [Ms-104](/ms-104/#80.4) <span class="fac">[80\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-804}
+
+<span class="series-number">5˙3071</span> Die Anzahl der nötigen Grundoperationen hängt _nur_ von unserer Notation ab.
+
+### [Ms-104](/ms-104/#80.5) <span class="fac">[80\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-805}
+
+<span class="series-number">5˙3072</span> Es handelt sich nur darum ein Zeichensystem von einer bestimmten Anzahl von Dimensionen – von einer bestimmten mathematischen Mannigfaltigkeit – zu bilden.
+
+### [Ms-104](/ms-104/#80.6) <span class="fac">[80\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-806}
+
+<span class="series-number">5˙3073</span> Es ist ja klar daß es sich hier nicht um eine _Anzahl_ _von Grundbegriffen_ handelt die bezeichnet werden müssen, sondern nur um den Ausdruck einer Regel.
+
+### [Ms-104](/ms-104/#80.7) <span class="fac">[80\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp)</span> {#ms-104-807}
+
+<span class="series-number">5˙411</span> Eine Hierarchie der Formen der Elementarsätze kann es nicht geben.
+
+### [Ms-104](/ms-104/#80.8+81.1) <span class="fac">[80\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/80.webp),[81\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-808811}
+
+<span class="series-number">5˙4103</span> Auch wenn die Welt unendlich komplex wäre, so daß jede Tatsache aus unendlich vielen Sachverhalten bestünde und jeder Sachverhalt aus unendlich vielen Gegenständen zusammengesetzt wäre, auch dann müßte es Gegenstände und Sachverhalte geben.
+
+### [Ms-104](/ms-104/#81.2) <span class="fac">[81\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-812}
+
+<span class="series-number">5˙4101</span> Es ist offenbar daß wir bei der Analyse der Sätze auf Elementarsätze kommen müssen die aus Namen in unmittelbarer Verbindung bestehen.
+
+### [Ms-104](/ms-104/#81.3) <span class="fac">[81\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-813}
+
+<span class="series-number">5˙4102</span> Ein Zeichen des Elementarsatzes ist es, daß kein Elementarsatz mit ihm in Widerspruch stehen kann.
+
+### [Ms-104](/ms-104/#81.4) <span class="fac">[81\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-814}
+
+<span class="series-number">3˙2522</span> Wenn sich alles so verhält als hätte ein Zeichen Bedeutung, dann hat es auch Bedeutung.
+
+### [Ms-104](/ms-104/#81.5) <span class="fac">[81\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-815}
+
+<span class="series-number">5˙412</span> Nur was wir selbst konstruieren, können wir voraussehen.
+
+### [Ms-104](/ms-104/#81.6) <span class="fac">[81\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-816}
+
+<span class="series-number">4˙43013</span> Angenommen uns wären _alle_ einfachen Sätze gegeben. Dann läßt sich einfach fragen, welche Sätze kann ich aus ihnen bilden. Und das sind _alle_ Sätze und _so_ sind sie _begrenzt_.
+
+### [Ms-104](/ms-104/#81.7) <span class="fac">[81\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-817}
+
+<span class="series-number">5˙00162</span> So und nur so ist das Fortschreiten in der Hierarchie von einer Type zur anderen möglich.
+
+### [Ms-104](/ms-104/#81.8) <span class="fac">[81\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp)</span> {#ms-104-818}
+
+<span class="series-number">5˙413</span> Die empirische Realität ist begrenzt durch die Gesamtheit der Gegenstände.
+
+Die Grenze zeigt sich wieder in der Gesamtheit der Elementarsätze.
+
+Die Hierarchien sind und müssen unabhängig von der Realität sein.
+
+### [Ms-104](/ms-104/#81.9+82.1) <span class="fac">[81\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/81.webp),[82\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/82.webp)</span> {#ms-104-819821}
+
+<span class="series-number">6˙371</span> Der ganzen modernen Weltanschauung liegt die Täuschung zu Grunde, daß die sogenannten Naturgesetze die Erklärungen der Naturerscheinungen seien.
+
+### [Ms-104](/ms-104/#82.2) <span class="fac">[82\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/82.webp)</span> {#ms-104-822}
+
+<span class="series-number">6˙372</span> So bleiben sie bei den Naturgesetzen als bei etwas Unantastbarem stehen, wie die Älteren bei Gott und dem Schicksal. Und sie haben ja beide, recht und unrecht. Die Alten sind allerdings in so fern klarer als sie einen klaren Abschluß anerkennen, während es bei dem neuen System scheinen soll als sei _alles_ erklärt.
+
+### [Ms-104](/ms-104/#82.3) <span class="fac">[82\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/82.webp)</span> {#ms-104-823}
+
+<span class="series-number">6˙373</span> Die Welt ist unabhängig von meinem Willen.
+
+### [Ms-104](/ms-104/#82.4) <span class="fac">[82\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/82.webp)</span> {#ms-104-824}
+
+<span class="series-number">6˙374</span> Auch wenn alles was wir wünschen geschähe, so wäre dies doch nur, so zu sagen, eine Gnade des Schicksals, denn es ist kein _logischer_ Zusammenhang zwischen Willen und Welt der dies verbürgte und den angenommenen physikalischen könnten wir doch nicht selbst wieder wollen.
+
+### [Ms-104](/ms-104/#82.5) <span class="fac">[82\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/82.webp)</span> {#ms-104-825}
+
+<span class="series-number">6˙44</span> Wenn das gute oder böse Wollen die Welt ändert so kann es nur die Grenzen der Welt ändern nicht die Tatsachen; nicht das was durch die Sprache ausgedrückt werden kann, sondern was die Sprache ausdrückt.
+
+### [Ms-104](/ms-104/#82.6) <span class="fac">[82\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/82.webp)</span> {#ms-104-826}
+
+<span class="series-number">6˙441</span> Kurz die Welt muß dann dadurch überhaupt eine andere werden. Sie muß sozusagen als Ganzes abnehmen oder zunehmen.
+
+### [Ms-104](/ms-104/#83.1) <span class="fac">[83\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-831}
+
+<span class="series-number">6˙442</span> Wie auch beim Tod die Welt sich nicht ändert sondern aufhört.
+
+### [Ms-104](/ms-104/#83.2) <span class="fac">[83\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-832}
+
+<span class="series-number">6˙521</span> Die Lösung des Problems des Lebens merkt man am Verschwinden dieses Problems.
+
+### [Ms-104](/ms-104/#83.3) <span class="fac">[83\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-833}
+
+<span class="series-number">6˙5211</span> Ist nicht dies der Grund, warum Menschen, denen der Sinn des Lebens nach langen Zweifeln klar wurde, warum diese dann nicht sagen konnten worin dieser Sinn bestand.
+
+### [Ms-104](/ms-104/#83.4) <span class="fac">[83\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-834}
+
+<span class="series-number">6˙4421</span> Der Tod ist kein Ereignis des Lebens.
+
+### [Ms-104](/ms-104/#83.5) <span class="fac">[83\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-835}
+
+<span class="series-number">6˙4422</span> Wenn man unter Ewigkeit nicht unendliche Zeitdauer sondern Unzeitlichkeit versteht, dann lebt der ewig der in der Gegenwart lebt.
+
+### [Ms-104](/ms-104/#83.6) <span class="fac">[83\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-836}
+
+<span class="series-number">5˙3203</span> Wenn die Elementarsätze gegeben sind, so sind damit auch _alle_ Elementarsätze gegeben.
+
+### [Ms-104](/ms-104/#83.7) <span class="fac">[83\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-837}
+
+<span class="series-number">5˙3003</span> Da sich offenbar leicht ausdrücken läßt, wie mit dieser Operation sich Sätze bilden lassen und wie Sätze nicht zu bilden sind, so muß dies auch irgendwie exakt auszudrücken sein.
+
+### [Ms-104](/ms-104/#83.8) <span class="fac">[83\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-838}
+
+<span class="series-number">5˙33531</span> Die Welt und das Leben sind eins.
+
+### [Ms-104](/ms-104/#83.9) <span class="fac">[83\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-839}
+
+<span class="series-number">6˙4221</span> Ethik und Ästhetik sind eins.
+
+### [Ms-104](/ms-104/#83.10) <span class="fac">[83\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-8310}
+
+<span class="series-number">6˙421</span> Es ist klar daß sich die Ethik nicht aussprechen läßt.
+
+### [Ms-104](/ms-104/#83.11) <span class="fac">[83\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-8311}
+
+<span class="series-number">6˙422</span> Die Ethik ist transzendental.
+
+### [Ms-104](/ms-104/#83.12) <span class="fac">[83\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/83.webp)</span> {#ms-104-8312}
+
+<span class="series-number">6˙4411</span> Die Welt des Glücklichen ist eine andere als die des Unglücklichen.
+
+### [Ms-104](/ms-104/#84.1) <span class="fac">[84\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/84.webp)</span> {#ms-104-841}
+
+<span class="series-number">6˙4412</span> Der erste Gedanke bei der Aufstellung eines ethischen Gesetzes von der Form „Du sollst ‥‥” ist: „Und was dann, wenn ich es nicht tue”? Es ist aber klar daß die Ethik nichts mit Strafe und Lohn im gewöhnlichen Sinn zu tun hat. Also muß diese Frage nach den _Folgen_ einer Handlung belanglos sein. Zum mindesten dürfen diese Folgen nicht Ereignisse sein. Denn etwas muß doch an jener Fragestellung richtig sein. Es muß zwar eine _Art_ von ethischem Lohn und ethischer Strafe geben, aber diese müssen in der Handlung selbst liegen. (Und das ist auch klar, daß der Lohn etwas Angenehmes, die Strafe etwas Unangenehmes sein muß.)
+
+### [Ms-104](/ms-104/#84.3) <span class="fac">[84\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/84.webp)</span> {#ms-104-843}
+
+<span class="series-number">5˙33542</span> Das Subjekt gehört nicht zur Welt, sondern es ist eine Grenze der Welt.
+
+### [Ms-104](/ms-104/#84.4) <span class="fac">[84\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/84.webp)</span> {#ms-104-844}
+
+<span class="series-number">5˙33543</span> Wo _in_ der Welt ist ein metaphysisches Subjekt zu merken? Du sagst, es verhält sich hier ganz wie bei Auge und Gesichtsfeld. Aber das Auge siehst Du wirklich _nicht_.
+
+Und nichts _am Gesichtsfeld_ läßt darauf schließen daß es von einem Auge gesehen wird.
+
+### [Ms-104](/ms-104/#84.5) <span class="fac">[84\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/84.webp)</span> {#ms-104-845}
+
+<span class="series-number">5˙335431</span> Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
+
+![](../graphics/104,84.svg)
+
+### [Ms-104](/ms-104/#85.1) <span class="fac">[85\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp)</span> {#ms-104-851}
+
+<span class="series-number">5˙33551</span> Es gibt also wirklich einen Sinn in welchem in der Philosophie nicht-psychologisch vom Ich die Rede sein kann.
+
+Das Ich tritt in die Philosophie dadurch ein daß „die Welt meine Welt ist”.
+
+### [Ms-104](/ms-104/#85.2) <span class="fac">[85\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp)</span> {#ms-104-852}
+
+<span class="series-number">5˙33544<sup>a</sup></span> Das hängt damit zusammen daß kein Teil unserer Erfahrung auch a priori ist.
+
+### [Ms-104](/ms-104/#85.3) <span class="fac">[85\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp)</span> {#ms-104-853}
+
+<span class="series-number">5˙33545</span> Alles was wir sehen, könnte auch anders sein.
+
+Alles was wir überhaupt beschreiben können, könnte auch anders sein.
+
+### [Ms-104](/ms-104/#85.4) <span class="fac">[85\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp)</span> {#ms-104-854}
+
+<span class="series-number">5˙3355</span> Hier sieht man daß der Solipsismus streng durchgeführt mit dem reinen Realismus zusammenfällt.
+
+Das Ich des Solipsismus schrumpft zum ausdehnungslosen Punkt zusammen und es bleibt die ihm koordinierte Realität.
+
+### [Ms-104](/ms-104/#85.5) <span class="fac">[85\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp)</span> {#ms-104-855}
+
+<span class="series-number">5˙33532</span> Ich bin meine Welt (der Mikrokosmos).
+
+### [Ms-104](/ms-104/#85.6) <span class="fac">[85\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp)</span> {#ms-104-856}
+
+<span class="series-number">6˙431</span> Die Anschauung der Welt sub specie aeterni ist ihre Anschauung als – begrenztes – _Ganzes_.
+
+### [Ms-104](/ms-104/#85.7+86.1) <span class="fac">[85\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/85.webp),[86\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/86.webp)</span> {#ms-104-857861}
+
+<span class="series-number">6˙53</span> Die richtige Methode der Philosophie wäre eigentlich die: Nichts zu sagen als was sich sagen läßt also Sätze der Naturwissenschaft – also etwas was mit Philosophie nichts zu tun hat –, und dann immer, wenn ein anderer etwas Metaphysisches sagen wollte ihm nachweisen, daß er gewissen Zeichen in seinen Sätzen keine Bedeutung gegeben hat.
+
+### [Ms-104](/ms-104/#86.2) <span class="fac">[86\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/86.webp)</span> {#ms-104-862}
+
+<span class="series-number">6˙531</span> Diese Methode wäre für den anderen unbefriedigend – er hätte nicht das Gefühl daß wir ihn Philosophie lehrten – aber sie wäre die einzig streng richtige.
+
+### [Ms-104](/ms-104/#86.3) <span class="fac">[86\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/86.webp)</span> {#ms-104-863}
+
+<span class="series-number">6˙54</span> Meine Sätze erläutern dadurch daß sie der welcher mich versteht am Ende als unsinnig erkennt wenn er durch sie – auf ihnen – über sie hinausgestiegen ist. (Er muß so zu sagen die Leiter wegwerfen nachdem er auf ihr hinaufgestiegen ist.)
+
+### [Ms-104](/ms-104/#86.4) <span class="fac">[86\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/86.webp)</span> {#ms-104-864}
+
+<span class="series-number">6˙55</span> Er muß diese Sätze überwinden dann kommt er auf der richtigen Stufe zur Welt.
+
+### [Ms-104](/ms-104/#86.6) <span class="fac">[86\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/86.webp)</span> {#ms-104-866}
+
+<span class="series-number">6˙432</span> Das Gefühl der Welt als begrenztes Ganzes ist das Mystische.
+
+### [Ms-104](/ms-104/#86.7) <span class="fac">[86\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/86.webp)</span> {#ms-104-867}
+
+<span class="series-number">5˙3202</span> Wenn die Gegenstände gegeben sind, so sind uns damit auch schon alle Gegenstände gegeben.
+
+### [Ms-104](/ms-104/#87.1) <span class="fac">[87\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp)</span> {#ms-104-871}
+
+<span class="series-number">5˙3201</span> Ich trenne den Begriff „Alle” von der Wahrheitsfunktion.
+
+Frege und Russell haben die Allgemeinheit in Verbindung mit dem logischen Produkt oder der logischen Summe eingeführt. So wurde es schwer die Sätze (Еx) ∙ φx und (x) ∙ φx , in welchen beide Ideen beschlossen liegen, zu verstehen.
+
+### [Ms-104](/ms-104/#87.3) <span class="fac">[87\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp)</span> {#ms-104-873}
+
+<span class="series-number">5˙30223</span> In der Logik kann es nicht Allgemeineres und Spezielleres geben.
+
+### [Ms-104](/ms-104/#87.4) <span class="fac">[87\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp)</span> {#ms-104-874}
+
+<span class="series-number">5˙4051</span> Und wie wäre es auch möglich daß ich es in der Logik mit Formen zu tun hätte, die ich erfinden kann, sondern mit dem muß ich es zu tun haben, was es mir möglich macht sie zu erfinden.
+
+### [Ms-104](/ms-104/#87.5) <span class="fac">[87\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp)</span> {#ms-104-875}
+
+<span class="series-number">5˙314</span> Ist eine Notation festgelegt so gibt es in ihr eine Regel, nach der alle p verneinenden Sätze gebildet werden, eine Regel nach der alle p bejahenden Sätze gebildet werden, eine Regel nach der alle p oder q bejahenden Sätze gebildet werden u.s.f.. Diese Regeln sind den Symbolen äquivalent und in ihnen spiegelt sich ihr Sinn wieder.
+
+### [Ms-104](/ms-104/#87.6) <span class="fac">[87\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp)</span> {#ms-104-876}
+
+<span class="series-number">2˙0126</span> Sind alle Gegenstände gegeben so sind damit auch alle _möglichen_ Sachverhalte gegeben.
+
+### [Ms-104](/ms-104/#87.7) <span class="fac">[87\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp)</span> {#ms-104-877}
+
+<span class="series-number">6˙3411</span> Durch den ganzen logischen Apparat hindurch, sprechen die physikalischen Sätze doch von den Gegenständen der Welt.
+
+### [Ms-104](/ms-104/#87.8+88.1) <span class="fac">[87\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/87.webp),[88\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/88.webp)</span> {#ms-104-878881}
+
+<span class="series-number">6˙375</span> Wie es nur eine _logische_ Notwendigkeit gibt, so gibt es auch nur eine _logische_ Unmöglichkeit.
+
+### [Ms-104](/ms-104/#88.2) <span class="fac">[88\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/88.webp)</span> {#ms-104-882}
+
+<span class="series-number">6˙3751</span> Daß z.B. zwei Farben zugleich an einem Ort des Gesichtsfeldes sind ist unmöglich und zwar logisch unmöglich denn es ist durch die logische Struktur der Farbe bedingt. Denken wir daran wie sich dieser Widerspruch in der Physik darstellt: ungefähr so daß ein Teilchen nicht zu gleicher Zeit zwei Geschwindigkeiten haben kann d.h. daß es nicht zu gleicher Zeit an zwei Orten sein kann d.h. daß Teilchen an verschiedenen Orten zu einer Zeit nicht dasselbe Teilchen sein können.
+
+### [Ms-104](/ms-104/#88.3) <span class="fac">[88\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/88.webp)</span> {#ms-104-883}
+
+<span class="series-number">3˙20172</span> Eine Funktion kann darum nicht ihr eigenes Argument sein weil das Funktionszeichen bereits das Urbild seines Arguments enthält und es sich also nicht selbst enthalten kann.
+
+### [Ms-104](/ms-104/#88.4) <span class="fac">[88\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/88.webp)</span> {#ms-104-884}
+
+<span class="series-number">3˙20173</span> Nehmen wir nämlich an die Funktion F (fξ) könnte ihr eigenes Argument sein, dann gäbe es also einen Satz: „F{F(fξ)}”, und in diesem müßten die äußere Funktion F und die innere F verschiedene Bedeutung haben, denn die innere hat die Form Φ(fξ) die äußere die Form ψ{Φ(fξ)}.
+
+Gemeinsam ist den beiden Funktionen nur der Buchstabe „F”, der aber allein nichts bezeichnet.
+
+### [Ms-104](/ms-104/#90.1) <span class="fac">[90\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/90.webp)</span> {#ms-104-901}
+
+<span class="series-number">3˙202111</span> Obwohl jedes Wort über seine Definitionen bedeutet so heißt das doch nur so viel, daß diese Definitionen nötig sind um in der Zeichensprache darzustellen, wie der Gedanke den das Wort ausdrücken hilft, durch die Sprache vollständig abgebildet wird. Die Definitionen können aber auch verschwiegen werden und das Wort verliert dadurch seine Bedeutung nicht, denn es steht ja trotzdem in derselben Beziehung zu den Gegenständen, die durch die Definition abgebildet wird, nur daß wir diese Beziehung nicht eigens abbilden. Hierdurch wird natürlich die Zeichensprache oft vereinfacht, ihr Verständnis immer erschwert, denn das Maßgebende liegt nun außerhalb der Zeichen in der nicht ausgedrückten Beziehung zu ihren Gegenständen.
+
+### [Ms-104](/ms-104/#90.2) <span class="fac">[90\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/90.webp)</span> {#ms-104-902}
+
+<span class="series-number">3˙201731</span> Dies wird sofort klar wenn wir statt „F{F(fξ)}” schreiben „(Еφ) ∙ F{φη} ∙ φη = Fη”.
+
+### [Ms-104](/ms-104/#90.3) <span class="fac">[90\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/90.webp)</span> {#ms-104-903}
+
+<span class="series-number">5˙40421</span> Was wir nicht denken können, das können wir nicht denken; wir können also auch nicht sagen, was wir nicht denken können.
+
+### [Ms-104](/ms-104/#90.4) <span class="fac">[90\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/90.webp)</span> {#ms-104-904}
+
+<span class="series-number">4˙0262</span> Und das Wörterbuch übersetzt nicht nur Substantiva sondern auch Zeit- und Eigenschafts- und Bindeworte etc.; und es behandelt sie alle gleich.
+
+### [Ms-104](/ms-104/#90.5) <span class="fac">[90\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/90.webp)</span> {#ms-104-905}
+
+<span class="series-number">2˙01201</span> Wenn die Dinge in Tatsachen vorkommen können, so muß dies schon in ihnen liegen.
+
+### [Ms-104](/ms-104/#91.1) <span class="fac">[91\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-911}
+
+<span class="series-number">5˙4041</span> Die Logik erfüllt die Welt; die Grenzen der Welt sind auch ihre Grenzen.
+
+### [Ms-104](/ms-104/#91.2) <span class="fac">[91\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-912}
+
+<span class="series-number">5˙4042</span> Wir können also in der Logik nicht sagen: das und das gibt es in der Welt, jenes nicht.
+
+### [Ms-104](/ms-104/#91.3) <span class="fac">[91\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-913}
+
+<span class="series-number">2˙01202</span> Etwas Logisches kann nicht nur-möglich sein. Die Logik handelt von jeder Möglichkeit und alle Möglichkeiten sind ihre Tatsachen.
+
+### [Ms-104](/ms-104/#91.4) <span class="fac">[91\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-914}
+
+<span class="series-number">2˙01203</span> Wie wir uns räumliche Gegenstände überhaupt nicht außerhalb des Raumes, zeitliche nicht außerhalb der Zeit denken können, so können wir uns _keinen_ Gegenstand außerhalb der _Möglichkeit_ seiner Verbindung mit anderen denken.
+
+### [Ms-104](/ms-104/#91.5) <span class="fac">[91\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-915}
+
+<span class="series-number">2˙01204</span> Wenn ich mir den Gegenstand im Verbande des Sachverhalts denken kann, so kann ich ihn nicht außerhalb der Möglichkeit dieses Verbandes denken.
+
+### [Ms-104](/ms-104/#91.6) <span class="fac">[91\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-916}
+
+<span class="series-number">5˙4043</span> Das würde nämlich scheinbar voraussetzen daß wir gewisse Möglichkeiten ausschließen und dies kann nicht der Fall sein, da sonst die Logik über die Grenzen der Welt hinaus müßte, wenn sie nämlich diese Grenzen auch von der anderen Seite betrachten könnte.
+
+### [Ms-104](/ms-104/#91.7) <span class="fac">[91\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/91.webp)</span> {#ms-104-917}
+
+<span class="series-number">4˙43014</span> Die Sätze sind alles was aus der Gesamtheit aller Elementarsätze folgt. (Natürlich auch daraus daß es die _Gesamtheit aller ist_.)
+
+### [Ms-104](/ms-104/#92.1) <span class="fac">[92\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-921}
+
+<span class="series-number">4˙430141</span> So könnte man in gewissem Sinne sagen daß alle Sätze Verallgemeinerungen aus den Elementarsätzen sind.
+
+### [Ms-104](/ms-104/#92.2) <span class="fac">[92\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-922}
+
+<span class="series-number">5˙33546</span> Es gibt keine Ordnung der Dinge a priori.
+
+### [Ms-104](/ms-104/#92.3) <span class="fac">[92\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-923}
+
+<span class="series-number">4˙01141</span> Die Grammophonplatte, der musikalische Gedanke, die Notenschrift, die Schallwellen, stehen alle in jener abbildenden internen Beziehung zu einander die zwischen Sprache und Welt besteht. Ihnen allen ist der logische Bau gemeinsam.
+
+### [Ms-104](/ms-104/#92.4) <span class="fac">[92\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-924}
+
+<span class="series-number">4˙011411</span> Wie im Märchen die zwei Jünglinge, ihre zwei Pferde und ihre Lilien. Sie sind alle in gewissem Sinne eins.
+
+### [Ms-104](/ms-104/#92.5) <span class="fac">[92\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-925}
+
+Die logischen Operationszeichen sind Interpunktionen.
+
+### [Ms-104](/ms-104/#92.6) <span class="fac">[92\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-926}
+
+<span class="series-number">6˙4423</span> Die zeitliche Unsterblichkeit der Seele des Menschen, das heißt also ihr ewiges Fortleben auch nach dem Tode ist nicht nur auf keine Weise verbürgt sondern vor allem leistet diese Annahme gar nicht das was man immer mit ihr erreichen wollte. Wird denn dadurch ein Rätsel gelöst daß ich ewig fortlebe? Ist denn dieses ewige Leben dann nicht ebenso rätselhaft wie das gegenwärtige? Die Lösung des Rätsels des Lebens in Raum und Zeit liegt _außerhalb_ von Raum und Zeit. (Nicht Probleme der Naturwissenschaft sind ja zu lösen.)
+
+### [Ms-104](/ms-104/#92.7) <span class="fac">[92\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/92.webp)</span> {#ms-104-927}
+
+<span class="series-number">6˙44231</span> _Wie_ die Welt ist, ist hier vollkommen gleichgültig. Gott offenbart sich nicht _in_ der Welt.
+
+### [Ms-104](/ms-104/#93.1) <span class="fac">[93\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/93.webp)</span> {#ms-104-931}
+
+<span class="series-number">6˙44232</span> Nicht _wie_ die Welt ist, ist das Mystische, sondern daß sie ist.
+
+### [Ms-104](/ms-104/#93.3) <span class="fac">[93\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/93.webp)</span> {#ms-104-933}
+
+<span class="series-number">5˙005341</span> Die interne Relation, die die Reihe ordnet ist äquivalent mit der Operation durch die ein Glied aus dem anderen entsteht.
+
+### [Ms-104](/ms-104/#93.4) <span class="fac">[93\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/93.webp)</span> {#ms-104-934}
+
+<span class="series-number">6˙012</span> Der „Zahlbegriff” ist nichts anderes als das Gemeinsame aller Zahlzeichen; er ist die allgemeine Form der Zahl.
+
+Und der Begriff der Zahlengleichheit ist die allgemeine Form aller speziellen Zahlengleichheiten.
+
+### [Ms-104](/ms-104/#93.5) <span class="fac">[93\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/93.webp)</span> {#ms-104-935}
+
+<span class="series-number">4˙0721</span> Auch der Satz „ambulo” ist zusammengesetzt, denn sein Stamm ergiebt mit einer anderen Endung und seine Endung mit einem anderen Stamm einen anderen Sinn.
+
+### [Ms-104](/ms-104/#93.7) <span class="fac">[93\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/93.webp)</span> {#ms-104-937}
+
+<span class="series-number">6˙005</span> Einen Komplex wahrnehmen heißt, wahrnehmen, daß sich seine Bestandteile so und so zu einander verhalten.
+
+### [Ms-104](/ms-104/#93.8) <span class="fac">[93\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/93.webp)</span> {#ms-104-938}
+
+<span class="series-number">6˙0051</span> Dies erklärt wohl auch daß man die Figur
+
+![](../graphics/104,93.svg)
+
+auf zweierlei Art als Würfel sehen kann; und alle ähnlichen Erscheinungen. Denn wir sehen eben wirklich zwei verschiedene Tatsachen. (Sehe ich erst auf die Ecke a und nur flüchtig auf b so erscheint a vorn und umgekehrt.)
+
+### [Ms-104](/ms-104/#94.1) <span class="fac">[94\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp)</span> {#ms-104-941}
+
+<span class="series-number">6˙113501</span> Es ist klar daß die Anzahl der „logischen Grundgesetze” willkürlich ist denn man könnte die Logik ja aus _einem_ Grundgesetz ableiten indem man einfach z.B. aus Freges Grundgesetzen das logische Produkt bildet.
+
+(Frege hätte vielleicht gesagt daß dieses Grundgesetz nun nicht mehr unmittelbar einleuchte. Aber es ist merkwürdig daß ein so exakter Denker wie Frege sich auf den Grad des Einleuchtens als Kriterium des logischen Satzes berufen hat.)
+
+### [Ms-104](/ms-104/#94.2) <span class="fac">[94\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp)</span> {#ms-104-942}
+
+<span class="series-number">5˙04441</span> „A weiß, daß p” ist tautologisch wenn p eine Tautologie ist.
+
+### [Ms-104](/ms-104/#94.3) <span class="fac">[94\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp)</span> {#ms-104-943}
+
+<span class="series-number">5˙41011</span> Es frägt sich hier, wie kommt der Satzverband zustande.
+
+### [Ms-104](/ms-104/#94.4) <span class="fac">[94\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp)</span> {#ms-104-944}
+
+<span class="series-number">5˙09311</span> Ein Satz kann zwar ein unvollständiges Bild einer gewissen Sachlage sein, aber er ist immer _ein_ vollständiges Bild.
+
+### [Ms-104](/ms-104/#94.5) <span class="fac">[94\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp)</span> {#ms-104-945}
+
+<span class="series-number">5˙33552</span> Das philosophische Ich ist nicht der Mensch, nicht der menschliche Körper oder die menschliche Seele von der die Psychologie handelt, sondern das metaphysische Subjekt, die Grenze (nicht ein Teil) der Welt.
+
+### [Ms-104](/ms-104/#94.6) <span class="fac">[94\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp)</span> {#ms-104-946}
+
+<span class="series-number">6˙3752</span> Es ist klar daß das logische Produkt zweier Elementarsätze weder eine Tautologie noch eine Kontradiktion sein kann („A ist grün und A ist rot” ist eine Kontradiktion).
+
+### [Ms-104](/ms-104/#94.7+95.1) <span class="fac">[94\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/94.webp),[95\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/95.webp)</span> {#ms-104-947951}
+
+<span class="series-number">2˙0233</span> Zwei Gegenstände von der gleichen logischen Form sind – abgesehen von ihren externen Eigenschaften – von einander nur dadurch unterschieden daß sie verschieden sind.
+
+### [Ms-104](/ms-104/#95.2) <span class="fac">[95\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/95.webp)</span> {#ms-104-952}
+
+<span class="series-number">2˙0124</span> Wenn ich den Gegenstand kenne so kenne ich auch _sämtliche_ Möglichkeiten seines Vorkommens in Sachverhalten.
+
+Jede solche Möglichkeit muß in der Natur des Gegenstandes liegen.
+
+### [Ms-104](/ms-104/#95.3) <span class="fac">[95\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/95.webp)</span> {#ms-104-953}
+
+<span class="series-number">2˙0125</span> Es kann nicht nachträglich eine neue Möglichkeit gefunden werden.
+
+### [Ms-104](/ms-104/#95.4) <span class="fac">[95\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/95.webp)</span> {#ms-104-954}
+
+<span class="series-number">4˙1022331</span> Eine Eigenschaft ist intern wenn es undenkbar ist, daß ihr Gegenstand sie nicht besitzt.
+
+(Diese blaue Farbe und jene stehen in der internen Relation von heller und dunkler eo ipso. Es ist undenkbar, daß _diese_ beiden Gegenstände nicht in dieser Relation stünden.)
+
+### [Ms-104](/ms-104/#95.5) <span class="fac">[95\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/95.webp)</span> {#ms-104-955}
+
+<span class="series-number">3˙201412</span> Die stillschweigenden Abmachungen zum Verständnis unserer Sprache sind enorm kompliziert; zu jedem Satz wird viel hinzu gedacht, was nicht ausgesprochen wird.
+
+Ist mit „A” ein Mensch gemeint so ist der Satz „A sitzt” zulässig, aber nicht wenn A dieses Buch bezeichnet. – Ist aber ein Satz ganz zerlegt dann müssen, für alles was vom Verständnis seiner Form abhängt die Bedeutungen seiner Teile belanglos sein.
+
+### [Ms-104](/ms-104/#95.6+96.1) <span class="fac">[95\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/95.webp),[96\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-956961}
+
+<span class="series-number">4˙102251</span> Reihen, welche durch _interne_ Relationen geordnet sind nenne ich Formenreihen.
+
+### [Ms-104](/ms-104/#96.2) <span class="fac">[96\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-962}
+
+<span class="series-number">6˙37</span> Einen Zwang nach dem eines geschehen müßte, weil etwas anderes geschehen ist, gibt es nicht. Es gibt nur eine logische Notwendigkeit.
+
+### [Ms-104](/ms-104/#96.3) <span class="fac">[96\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-963}
+
+<span class="series-number">3˙2017</span> Den Satz fasse ich – wie Frege und Russell – als Funktion der in ihm enthaltenen Symbole auf.
+
+### [Ms-104](/ms-104/#96.4) <span class="fac">[96\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-964}
+
+<span class="series-number">5˙4011</span> Eine ausgezeichnete Zahl gibt es nicht.
+
+### [Ms-104](/ms-104/#96.5) <span class="fac">[96\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-965}
+
+<span class="series-number">6˙44221</span> Unser Leben ist eben so endlos wie unser Gesichtsfeld grenzenlos ist.
+
+### [Ms-104](/ms-104/#96.6) <span class="fac">[96\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-966}
+
+<span class="series-number">4˙0741</span> Diese mathematische Mannigfaltigkeit kann man natürlich nicht selbst wieder abbilden, da jedes Bild von ihr diese Mannigfaltigkeit selbst besitzen muß. Aus ihr kann man beim Abbilden nicht heraus.
+
+### [Ms-104](/ms-104/#96.7) <span class="fac">[96\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-967}
+
+<span class="series-number">4˙10227281</span> Es ist ebenso unsinnig zu sagen „Es gibt nur eine 1” als es unsinnig wäre zu sagen: „2 + 2 ist um 3 Uhr gleich 4”.
+
+### [Ms-104](/ms-104/#96.8) <span class="fac">[96\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-968}
+
+<span class="series-number">4˙1022729</span> Die logischen Formen sind zahl**los**.
+
+### [Ms-104](/ms-104/#96.9) <span class="fac">[96\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-969}
+
+<span class="series-number">4˙10227291</span> Darum gibt es in der Logik keine ausgezeichneten Zahlen und darum gibt es keinen philosophischen Monismus, oder Dualismus, etc..
+
+### [Ms-104](/ms-104/#96.10) <span class="fac">[96\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-9610}
+
+<span class="series-number">2˙01241</span> Um einen Gegenstand zu kennen brauche ich zwar nicht seine externen, aber ich muß alle seine internen Eigenschaften kennen.
+
+### [Ms-104](/ms-104/#96.11+97.1) <span class="fac">[96\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp),[97\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-9611971}
+
+<span class="series-number">2˙02331</span> Beiläufig gesprochen: Entweder ein Ding hat Eigenschaften die kein anderes hat, dann kann man es ohne weiteres durch eine Beschreibung aus den anderen herausheben und darauf hinweisen; oder aber es gibt mehrere Dinge, die ihre sämtlichen Eigenschaften gemeinsam haben, dann ist es überhaupt unmöglich auf eines zu zeigen.
+
+Denn ist das Ding durch nichts hervorgehoben, so kann ich es nicht hervorheben, denn sonst ist es eben hervorgehoben.
+
+### [Ms-104](/ms-104/#97.2) <span class="fac">[97\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-972}
+
+<span class="series-number">5˙421</span> Die _Anwendung_ der Logik entscheidet darüber, welche Elementarsätze es gibt.
+
+### [Ms-104](/ms-104/#97.3) <span class="fac">[97\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-973}
+
+<span class="series-number">5˙4211</span> Was in der Anwendung liegt, kann die Logik nicht vorausnehmen.
+
+### [Ms-104](/ms-104/#97.4) <span class="fac">[97\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-974}
+
+<span class="series-number">5˙4212</span> Das ist klar: die Logik darf mit ihrer Anwendung nicht kollidieren.
+
+### [Ms-104](/ms-104/#97.5) <span class="fac">[97\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-975}
+
+<span class="series-number">5˙4213</span> Aber die Logik muß sich mit ihrer Anwendung berühren.
+
+### [Ms-104](/ms-104/#97.6) <span class="fac">[97\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-976}
+
+<span class="series-number">5˙4214</span> Also dürfen die Logik und ihre Anwendung einander nicht übergreifen.
+
+### [Ms-104](/ms-104/#97.7) <span class="fac">[97\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-977}
+
+<span class="series-number">5˙4012</span> Die Angabe jeder speziellen Form wäre vollkommen willkürlich.
+
+### [Ms-104](/ms-104/#97.8) <span class="fac">[97\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-978}
+
+<span class="series-number">5˙4221</span> Es ist klar wir haben vom Elementarsatz einen Begriff abgesehen von seiner besonderen logischen Form.
+
+### [Ms-104](/ms-104/#97.9) <span class="fac">[97\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp)</span> {#ms-104-979}
+
+<span class="series-number">5˙4222</span> Weiß ich aus rein logischen Gründen, – und so ist es – daß es Elementarsätze geben muß, dann muß es auch jeder andere wissen, der die Sätze in ihrer unanalysierten Form sieht.
+
+### [Ms-104](/ms-104/#97.10+98.1) <span class="fac">[97\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/97.webp),[98\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-9710981}
+
+<span class="series-number">5˙4223</span> Wenn ich die Elementarsätze nicht a priori angeben kann, dann muß es zu offenbarem Unsinn führen, sie angeben zu wollen.
+
+### [Ms-104](/ms-104/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-982}
+
+<span class="series-number">5˙0017</span> Die Operation kann erst dort auftreten wo ein Satz auf logisch bedeutungsvolle Weise aus einem anderen entsteht, also schon, und erst, wo die logische Konstruktion des Satzes anfängt.
+
+### [Ms-104](/ms-104/#98.3) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-983}
+
+<span class="series-number">6˙3412</span> Wir dürfen nicht vergessen daß die Weltbeschreibung durch die Mechanik immer die ganz allgemeine ist. Es ist in ihr z.B. nie von _bestimmten_ materiellen Punkten die Rede sondern immer nur von _irgend welchen_.
+
+### [Ms-104](/ms-104/#98.4) <span class="fac">[98\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-984}
+
+<span class="series-number">5˙0054</span> Man muß es der Variablen selber ansehen wofür sie steht. – Es muß eine ganz bestimmte Ähnlichkeit zwischen ihr und ihrem Wert bestehen.
+
+### [Ms-104](/ms-104/#98.5) <span class="fac">[98\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-985}
+
+<span class="series-number">6˙361</span> Wenn es ein Kausalitätsgesetz gäbe, so könnte es lauten: „Es gibt Naturgesetze”.
+
+### [Ms-104](/ms-104/#98.6) <span class="fac">[98\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-986}
+
+<span class="series-number">6˙362</span> Aber freilich kann man das nicht sagen; es zeigt sich.
+
+### [Ms-104](/ms-104/#98.7) <span class="fac">[98\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp)</span> {#ms-104-987}
+
+<span class="series-number">6˙363</span> In der Ausdrucksweise Hertz's könnte man sagen: nur _gesetzmäßige_ Zusammenhänge sind _denkbar_.
+
+### [Ms-104](/ms-104/#98.8+99.1) <span class="fac">[98\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/99.webp)</span> {#ms-104-988991}
+
+<span class="series-number">6˙3631</span> Wir können keinen Vorgang mit dem „Ablauf der Zeit” vergleichen – diesen gibt es nicht –, sondern nur mit einem anderen Vorgang (etwa mit dem Gang des Chronometers). Daher ist die Beschreibung des zeitlichen Verlaufs nur so möglich, daß wir uns auf einen anderen Vorgang stützen.
+
+### [Ms-104](/ms-104/#99.2) <span class="fac">[99\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/99.webp)</span> {#ms-104-992}
+
+<span class="series-number">6˙3632</span> Ganz Analoges gilt für den Raum. Wo man z.B. sagt es könne keines von zwei Ereignissen (die sich gegenseitig ausschließen) eintreten, weil _keine Ursache_ vorhanden sei warum das eine eher als das andere eintreten solle, da handelt es sich in Wirklichkeit darum, daß man gar nicht _eines_ der beiden Ereignisse beschreiben kann, wenn nicht irgend eine Asymmetrie vorhanden ist. Und _wenn_ eine solche Asymmetrie vorhanden _ist_, so können wir diese als _Ursache_ des Eintreffens des einen und nicht-Eintreffens des anderen auffassen.
+
+### [Ms-104](/ms-104/#99.3) <span class="fac">[99\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/99.webp)</span> {#ms-104-993}
+
+<span class="series-number">6˙36321</span> Das Kant'sche Problem von der rechten und linken Hand die man nicht zur Deckung bringen kann, besteht schon in der Ebene, ja im eindimensionalen Raum wo die beiden kongruenten Figuren a & b auch nicht zur Deckung gebracht werden können ohne
+
+![](../graphics/104,99.svg)
+
+aus diesem Raum herausbewegt zu werden.
+
+### [Ms-104](/ms-104/#99.4+100.1) <span class="fac">[99\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/99.webp),[100\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-9941001}
+
+<span class="series-number">6˙36322</span> Rechte und linke Hand sind tatsächlich vollkommen kongruent. Und daß man sie nicht zur Deckung bringen kann hat damit nichts zu tun.
+
+### [Ms-104](/ms-104/#100.2) <span class="fac">[100\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1002}
+
+<span class="series-number">6˙36323</span> Den rechten Handschuh könnte man an die linke Hand ziehen wenn man ihn im vierdimensionalen Raum umdrehen könnte.
+
+### [Ms-104](/ms-104/#100.3) <span class="fac">[100\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1003}
+
+<span class="series-number">6˙364</span> Was sich beschreiben läßt das kann auch geschehen, und was das Kausalitätsgesetz ausschließen soll, das läßt sich auch nicht beschreiben.
+
+### [Ms-104](/ms-104/#100.4) <span class="fac">[100\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1004}
+
+<span class="series-number">6˙231</span> Die Frage ob man zur Lösung der mathematischen Probleme die Anschauung braucht muß dahin beantwortet werden, daß eben die Sprache hier die nötige Anschauung liefert.
+
+### [Ms-104](/ms-104/#100.5) <span class="fac">[100\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1005}
+
+<span class="series-number">6˙232</span> Es ist eine Eigenschaft der Bejahung daß man sie als doppelte Verneinung auffassen kann.
+
+### [Ms-104](/ms-104/#100.6) <span class="fac">[100\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1006}
+
+Es ist eine Eigenschaft von 1 + 1 + 1 + 1 daß man es als (1 + 1) + (1 + 1) auffassen kann.
+
+### [Ms-104](/ms-104/#100.7) <span class="fac">[100\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1007}
+
+<span class="series-number">6˙013</span> Der Zahlbegriff ist die variable Zahl.
+
+### [Ms-104](/ms-104/#100.8) <span class="fac">[100\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/100.webp)</span> {#ms-104-1008}
+
+<span class="series-number">6˙24</span> Die Methode der Mathematik zu ihren Gleichungen zu kommen ist die Substitutionsmethode.
+
+Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir schreiten von einer Anzahl von Gleichungen zu neuen Gleichungen vor indem wir den Gleichungen entsprechend die einen Ausdrücke durch andere ersetzen.
+
+### [Ms-104](/ms-104/#101.1) <span class="fac">[101\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1011}
+
+<span class="series-number">6˙2</span> Die Mathematik ist eine logische Methode.
+
+### [Ms-104](/ms-104/#101.2) <span class="fac">[101\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1012}
+
+<span class="series-number">6˙21</span> Die Logik der Welt, die die logischen Sätze in den Tautologien zeigen, zeigt die Mathematik in den Gleichungen.
+
+### [Ms-104](/ms-104/#101.3) <span class="fac">[101\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1013}
+
+<span class="series-number">6˙22</span> Die Mathematik ist eine Methode der Logik.
+
+### [Ms-104](/ms-104/#101.4) <span class="fac">[101\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1014}
+
+<span class="series-number">6˙365</span> Der Vorgang der Induktion besteht darin, daß wir das _einfachste_ Gesetz annehmen das mit unseren Erfahrungen in Einklang zu bringen ist.
+
+### [Ms-104](/ms-104/#101.5) <span class="fac">[101\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1015}
+
+<span class="series-number">6˙3652</span> Es ist aber klar daß kein Grund vorhanden ist zu glauben es werde nun auch wirklich der einfachste Fall eintreten.
+
+### [Ms-104](/ms-104/#101.6) <span class="fac">[101\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1016}
+
+<span class="series-number">6˙3651</span> Dies hat aber keinen logischen sondern nur einen psychologischen Grund.
+
+### [Ms-104](/ms-104/#101.7) <span class="fac">[101\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp)</span> {#ms-104-1017}
+
+<span class="series-number">6˙36521</span> Daß die Sonne morgen aufgehen wird ist eine Hypothese; und das heißt, wir _wissen nicht_ ob sie aufgehen wird.
+
+### [Ms-104](/ms-104/#101.9+102.1) <span class="fac">[101\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/101.webp),[102\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-10191021}
+
+<span class="series-number">4˙1022511</span> Die Glieder der Formenreihe sind nach einem formalen Gesetz gebildet.
+
+### [Ms-104](/ms-104/#102.2) <span class="fac">[102\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-1022}
+
+<span class="series-number">5˙005351</span> Schreiben wir das allgemeine Glied der Formenreihe _so_: <math class="stacked" display="inline"><mtext>❘</mtext><msub><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mn>0</mn></msub><mo>,</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>O'</mtext><mspace width="0.3em"/><mo>(</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>)</mo><mtext>❘</mtext></math>.
+
+Die <math class="stacked" display="inline"><msub><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mn>0</mn></msub></math> sind die Anfangsglieder der Reihe, die <math class="stacked" display="inline"><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover></math> beliebige ihrer Glieder und <math class="stacked" display="inline"><mtext>O'</mtext><mo>(</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>)</mo></math> dasjenige Glied welches beim Fortschreiten in der Reihe durch die Operation O'(ᾱ) aus den <math class="stacked" display="inline"><mo>(</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>)</mo></math> entsteht.
+
+### [Ms-104](/ms-104/#102.3) <span class="fac">[102\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-1023}
+
+<span class="series-number">6˙011</span> Ich definiere nun: <math class="stacked" display="inline"><mi>x</mi><mspace width="0.3em"/><mo>=</mo><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mi>x</mi><mtext>Def.</mtext></math> und
+
+<math class="stacked" display="inline"><mspace width="0.3em"/><mtext>❘</mtext><mtext>x,</mtext><mspace width="0.3em"/><mtext>ξ,</mtext><mspace width="0.3em"/><mtext>O'</mtext><mtext>ξ❘</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>❘</mtext><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mtext>ν</mtext></msup><mtext>'</mtext><mtext>ξ,</mtext><msup><mi>O</mi><mtext>ν</mtext><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mspace width="0.3em"/><mtext>ξ❘</mtext></math> und O + 1 = 1 Def.
+
+also schreibe ich statt „x, O'x, O'O'x, O'O'O'x etc.”
+
+„<math class="stacked" display="inline"><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><mtext>etc</mtext><mn>.</mn></math>”
+
+1 + 1 = 2 Def. 1 + 1 + 1 = 3 Def. u.s.w.
+
+### [Ms-104](/ms-104/#102.4) <span class="fac">[102\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-1024}
+
+<span class="series-number">4˙22121</span> „a = b” heißt also das Zeichen „a” ist durch das Zeichen „b” ersetzbar.
+
+### [Ms-104](/ms-104/#102.5) <span class="fac">[102\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-1025}
+
+<span class="series-number">4˙22122</span> Führe ich durch eine Gleichung ein neues Zeichen α ein indem ich sage es solle ein bereits bekanntes Zeichen β ersetzen so schreibe ich die Gleichung – Definition – (nach Russell) in der Form α = β Def.
+
+### [Ms-104](/ms-104/#102.6) <span class="fac">[102\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-1026}
+
+<span class="series-number">5˙00161</span> Eine Funktion kann nicht ihr eigenes Argument sein, wohl aber kann das Resultat einer Operation ihre eigene Basis sein.
+
+### [Ms-104](/ms-104/#103.1) <span class="fac">[103\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1031}
+
+<span class="series-number">5˙00163</span> Russell & Whitehead haben die Möglichkeit dieses Fortschreitens nicht zugegeben aber immer wieder von ihr Gebrauch gemacht.
+
+### [Ms-104](/ms-104/#103.2) <span class="fac">[103\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1032}
+
+<span class="series-number">2˙014</span> Die Gegenstände enthalten die Möglichkeit aller Sachlagen.
+
+### [Ms-104](/ms-104/#103.3) <span class="fac">[103\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1033}
+
+<span class="series-number">2˙0141</span> Die Möglichkeit seines Vorkommens in Sachverhalten, ist die Form des Gegenstandes.
+
+### [Ms-104](/ms-104/#103.4) <span class="fac">[103\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1034}
+
+<span class="series-number">2˙033</span> Die Form ist die Möglichkeit der Struktur.
+
+### [Ms-104](/ms-104/#103.5) <span class="fac">[103\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1035}
+
+<span class="series-number">2˙151</span> Die Form der Abbildung ist die Möglichkeit, daß sich die Dinge so zu einander verhalten wie die Elemente des Bildes.
+
+---
+
+### [Ms-104](/ms-104/#103.6) <span class="fac">[103\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1036}
+
+<span class="series-number">3˙1</span> Der Gedanke drückt sich im Satz sinnlich wahrnehmbar aus.
+
+### [Ms-104](/ms-104/#103.7) <span class="fac">[103\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1037}
+
+<span class="series-number">3˙11</span> Wir benützen das sinnlich wahrnehmbare Zeichen (Laut- oder Schriftzeichen etc.) des Satzes als Projektion der möglichen Sachlage.
+
+Die Projektionsmethode ist das Denken des Satzsinnes.
+
+### [Ms-104](/ms-104/#103.8) <span class="fac">[103\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1038}
+
+<span class="series-number">3˙12</span> Das Zeichen, durch welches wir den Gedanken ausdrücken, nenne ich das Satzzeichen. Und der Satz ist das Satzzeichen in seiner projektiven Beziehung zur Welt.
+
+### [Ms-104](/ms-104/#103.9) <span class="fac">[103\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp)</span> {#ms-104-1039}
+
+<span class="series-number">3˙203</span> Der Name bedeutet den Gegenstand. Der Gegenstand ist seine Bedeutung. („A” ist dasselbe Zeichen wie „A”.)
+
+### [Ms-104](/ms-104/#103.10+104.1) <span class="fac">[103\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/103.webp),[104\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-103101041}
+
+<span class="series-number">3˙2</span> Im Satze kann der Gedanke so ausgedrückt sein, daß den Gegenständen des Gedankens Elemente des Satzzeichens entsprechen.
+
+### [Ms-104](/ms-104/#104.2) <span class="fac">[104\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1042}
+
+<span class="series-number">3˙201</span> Diese Elemente nenne ich „einfache Zeichen” und den Satz „vollständig analysiert”.
+
+### [Ms-104](/ms-104/#104.3) <span class="fac">[104\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1043}
+
+<span class="series-number">3˙21</span> Der Konfiguration der einfachen Zeichen im Satzzeichen entspricht die Konfiguration der Gegenstände in der Sachlage.
+
+---
+
+### [Ms-104](/ms-104/#104.4) <span class="fac">[104\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1044}
+
+<span class="series-number">3˙3</span> Nur der Satz hat Sinn; nur im Zusammenhange des Satzes hat ein Name Bedeutung.
+
+### [Ms-104](/ms-104/#104.5) <span class="fac">[104\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1045}
+
+<span class="series-number">3˙25</span> Der Name ist durch keine Definition weiter zu zergliedern, er ist ein Urzeichen.
+
+### [Ms-104](/ms-104/#104.6) <span class="fac">[104\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1046}
+
+<span class="series-number">3˙251</span> Jedes definierte Zeichen bezeichnet _über_ jene Zeichen, durch welche es definiert wurde; und die Definitionen weisen den Weg. Zwei Zeichen, ein Urzeichen und ein durch Urzeichen definiertes können nicht auf dieselbe Art und Weise bezeichnen. Namen _kann_ man nicht durch Definitionen auseinanderlegen (kein Zeichen, welches allein, selbständig, eine Bedeutung hat).
+
+### [Ms-104](/ms-104/#104.7) <span class="fac">[104\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1047}
+
+<span class="series-number">3˙31</span> Jeden Teil des Satzes der seinen Sinn charakterisiert nenne ich einen Ausdruck (ein Symbol). (Der Satz selbst ist ein Ausdruck.) Ausdruck ist alles, für den Sinn des Satzes Wesentliche, was Sätze mit einander gemein haben können.
+
+(Jeder Ausdruck läßt sich als variabler Satz – im Grenzfall als Satz – bezeichnen.) Der Ausdruck kennzeichnet eine Form und einen Inhalt.
+
+### [Ms-104](/ms-104/#104.8) <span class="fac">[104\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/104.webp)</span> {#ms-104-1048}
+
+<span class="series-number">3˙32</span> Das Zeichen ist das sinnlich Wahrnehmbare am Symbol.
+
+### [Ms-104](/ms-104/#105.1) <span class="fac">[105\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/105.webp)</span> {#ms-104-1051}
+
+<span class="series-number">3˙321</span> Zwei verschiedene Symbole können also das Zeichen (Schriftzeichen oder Lautzeichen etc.) mit einander gemein haben – sie bezeichnen dann auf verschiedene Art und Weise.
+
+### [Ms-104](/ms-104/#105.2) <span class="fac">[105\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/105.webp)</span> {#ms-104-1052}
+
+<span class="series-number">3˙323</span> In der Umgangssprache kommt es ungemein häufig vor, daß dasselbe Wort auf verschiedene Art und Weise bezeichnet – also verschiedenen Symbolen angehört –, oder doch, daß zwei Wörter, die auf verschiedene Art und Weise bezeichnen, äußerlich in der gleichen Weise im Satze angewandt werden.
+
+So erscheint das Wort „ist” als Kopula, als Gleichheitszeichen und als Ausdruck der Existenz; „existieren” als intransitives Zeitwort wie „gehen”; „identisch” als Eigenschaftswort; wir reden von _Etwas_ aber auch davon, daß _etwas_ geschieht. (Im Satze „Grün ist grün” – wo das erste Wort ein Personenname das letzte ein Eigenschaftswort ist – haben diese Worte nicht einfach verschiedene Bedeutung, sondern es sind _verschiedene Symbole_.)
+
+### [Ms-104](/ms-104/#105.3+106.1) <span class="fac">[105\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/105.webp),[106\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp)</span> {#ms-104-10531061}
+
+<span class="series-number">3˙322</span> Es kann nie das gemeinsame Merkmal zweier Gegenstände anzeigen, daß wir sie mit demselben Zeichen, aber durch zwei verschiedene _Bezeichnungsweisen_ bezeichnen. Denn das Zeichen ist ja willkürlich. Man könnte also auch zwei verschiedene Zeichen wählen, und wo bliebe dann das Gemeinsame in der Bezeichnung.
+
+---
+
+### [Ms-104](/ms-104/#106.2) <span class="fac">[106\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp)</span> {#ms-104-1062}
+
+<span class="series-number">4˙24</span> Die Namen sind die einfachen Symbole, ich deute sie durch einzelne Buchstaben (x,y,z) an.
+
+Den Elementarsatz schreibe ich als Funktion der Namen in der Form: „f(x)”, „g(x,y)”, etc..
+
+Oder ich deute ihn durch die Buchstaben p, q, r an.
+
+---
+
+### [Ms-104](/ms-104/#106.3) <span class="fac">[106\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp)</span> {#ms-104-1063}
+
+<span class="series-number">5˙15</span> Ist Wr die Anzahl der Wahrheitsgründe des Satzes „r”, Wrs die Anzahl der Wahrheitsgründe des Satzes „s”, die zugleich Wahrheitsgründe von „r” sind, dann nennen wir das Verhältnis: <math class="stacked" display="inline"><mfrac><mrow><mtext>Wrs</mtext></mrow><mrow><mtext>Wr</mtext></mrow></mfrac></math> das Maß der _Wahrscheinlichkeit_, welche der Satz „r” dem Satz „s” gibt.
+
+### [Ms-104](/ms-104/#106.4) <span class="fac">[106\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp)</span> {#ms-104-1064}
+
+<span class="series-number">5˙152</span> Sätze, welche keine Wahrheitsgründe mit einander gemein haben, nennen wir von einander unabhängig.
+
+Von einander unabhängige Sätze (z.B. zwei Elementarsätze) geben einander die Wahrscheinlichkeit ½. Folgt p aus q so gibt der Satz „q” dem Satz „p” die Wahrscheinlichkeit 1.
+
+Die Gewißheit des logischen Schlusses ist ein Grenzfall der Wahrscheinlichkeit.
+
+(Anwendung auf Tautologie und Kontradiktion)
+
+### [Ms-104](/ms-104/#106.5+107.1) <span class="fac">[106\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp),[107\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/107.webp)</span> {#ms-104-10651071}
+
+<span class="series-number">5˙153</span> Ein Satz ist an sich weder wahrscheinlich noch unwahrscheinlich. Ein Ereignis trifft ein oder es trifft nicht ein, ein Mittelding gibt es nicht.
+
+### [Ms-104](/ms-104/#107.2) <span class="fac">[107\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/107.webp)</span> {#ms-104-1072}
+
+<span class="series-number">5˙154</span> In einer Urne seien gleichviel weiße und schwarze Kugeln (und keine anderen). Ich ziehe eine Kugel nach der anderen und lege sie wieder in die Urne zurück. Dann kann ich durch den Versuch feststellen, daß sich die Zahlen der gezogenen schwarzen und weißen Kugeln bei fortgesetztem Ziehen einander nähern.
+
+_Das_ ist also kein mathematisches Faktum.
+
+Wenn ich nun sage: es ist gleich wahrscheinlich, daß ich eine weiße Kugel wie eine schwarze ziehen werde, so heißt das: alle mir bekannten Umstände (die hypothetisch angenommenen Naturgesetze mitinbegriffen) geben dem Eintreffen des einen Ereignisses nicht _mehr_ Wahrscheinlichkeit als dem Eintreffen des anderen. Das heißt sie geben – wie aus den obigen Erklärungen leicht zu entnehmen ist – jedem die Wahrscheinlichkeit ½.
+
+Was ich durch den Versuch bestätige ist, daß das Eintreffen der beiden Ereignisse von den Umständen, die ich nicht näher kenne unabhängig ist.
+
+### [Ms-104](/ms-104/#107.3+108.1) <span class="fac">[107\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/107.webp),[108\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/108.webp)</span> {#ms-104-10731081}
+
+<span class="series-number">5˙155</span> Die Einheit des Wahrscheinlichkeitssatzes ist: Die Umstände – die ich sonst nicht weiter kenne – geben dem Eintreffen eines bestimmten Ereignisses den und den Grad der Wahrscheinlichkeit.
+
+---
+
+### [Ms-104](/ms-104/#108.2) <span class="fac">[108\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/108.webp)</span> {#ms-104-1082}
+
+<span class="series-number">3˙311</span> Der Ausdruck setzt die Formen aller Sätze voraus, in welchen er vorkommen kann.
+
+Er ist das gemeinsame, charakteristische Merkmal einer Klasse von Sätzen.
+
+### [Ms-104](/ms-104/#108.3) <span class="fac">[108\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/108.webp)</span> {#ms-104-1083}
+
+<span class="series-number">3˙312</span> Er wird also dargestellt durch die allgemeine Form der Sätze, die er charakterisiert.
+
+Und zwar wird in dieser Form der Ausdruck _konstant_ und alles Übrige _variabel_ sein.
+
+### [Ms-104](/ms-104/#108.4) <span class="fac">[108\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/108.webp)</span> {#ms-104-1084}
+
+<span class="series-number">3˙313</span> Der Ausdruck wird also durch eine Variable dargestellt, deren Werte die Sätze sind, die den Ausdruck enthalten.
+
+(Im Grenzfall wird die Variable zur Konstanten der Ausdruck zum Satz.)
+
+Ich nenne eine solche Variable „Satzvariable”.
+
+### [Ms-104](/ms-104/#108.5) <span class="fac">[108\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/108.webp)</span> {#ms-104-1085}
+
+<span class="series-number">3˙314</span> Der Ausdruck hat nur im Satz Bedeutung. Jede Variable läßt sich als Satzvariable auffassen.
+
+(Auch der variable Name.)
+
+---
+
+### [Ms-104](/ms-104/#108.6) <span class="fac">[108\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/108.webp)</span> {#ms-104-1086}
+
+<span class="series-number">5˙21</span> Man kann jeden Satz auffassen als das Resultat einer Operation, die mit einer Anzahl von Sätzen – den Basen der Operation – vorgenommen wurde und aus ihnen jenen Satz bildet.
+
+### [Ms-104](/ms-104/#109.1) <span class="fac">[109\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/109.webp)</span> {#ms-104-1091}
+
+Die Operation ist der Ausdruck einer Relation der Formen ihres Resultats und ihrer Basen.
+
+Die Operation bringt diese Relation zum Ausdruck indem sie zeigt, was man mit dem einen Satz machen mußte um den anderen zu erhalten.
+
+### [Ms-104](/ms-104/#109.2) <span class="fac">[109\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/109.webp)</span> {#ms-104-1092}
+
+<span class="series-number">5˙232</span> Die interne Relation, die eine Reihe ordnet, ist äquivalent mit der Operation, durch welche ein Glied aus dem anderen entsteht.
+
+### [Ms-104](/ms-104/#109.3) <span class="fac">[109\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/109.webp)</span> {#ms-104-1093}
+
+Die Operation bringt den Unterschied der Formen zum Ausdruck.
+
+Und das Gemeinsame zwischen den Basen und dem Resultat der Operation sind eben die Basen.
+
+### [Ms-104](/ms-104/#109.4) <span class="fac">[109\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/109.webp)</span> {#ms-104-1094}
+
+Die Operation ist also ein Ausdruck.
+
+Sie wird als Variable dargestellt.
+
+Variabel an ihr sind ihre Basen.
+
+### [Ms-104](/ms-104/#109.5) <span class="fac">[109\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/109.webp)</span> {#ms-104-1095}
+
+Ich deute die Operation allgemein durch ein Zeichen der Form „O'(p, q, ...)” an. „p”, „q”, etc. sind die Basen der Operation O'(ξ, η, ...), O'(p, q, ...) ihr Resultat.
+
+### [Ms-104](/ms-104/#109.6) <span class="fac">[109\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/109.webp)</span> {#ms-104-1096}
+
+Die Wahrheitsfunktionen sind die Resultate von Operationen mit den Elementarsätzen.
+
+### [Ms-104](/ms-104/#110.1) <span class="fac">[110\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1101}
+
+<span class="series-number">5˙2</span> Wir sehen, daß die Strukturen der Sätze in internen Beziehungen zu einander stehen.
+
+### [Ms-104](/ms-104/#110.2) <span class="fac">[110\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1102}
+
+<span class="series-number">5˙21</span> Wir können diese internen Beziehungen dadurch in unserer Ausdrucksweise hervorheben, daß wir einen Satz als Resultat einer Operation darstellen, die ihn aus anderen Sätzen (den Basen der Operation) hervorbringt.
+
+### [Ms-104](/ms-104/#110.3) <span class="fac">[110\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1103}
+
+<span class="series-number">5˙22</span> Die Operation ist der Ausdruck einer Beziehung zwischen den Strukturen ihres Resultats und ihrer Basen.
+
+### [Ms-104](/ms-104/#110.4) <span class="fac">[110\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1104}
+
+<span class="series-number">5˙23</span> Die Operation ist das, was mit dem einen Satz geschehen muß, um aus ihm den anderen zu machen.
+
+### [Ms-104](/ms-104/#110.5) <span class="fac">[110\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1105}
+
+<span class="series-number">5˙231</span> Und das wird natürlich von ihren formalen Eigenschaften, von der internen Ähnlichkeit ihrer Formen abhängen.
+
+### [Ms-104](/ms-104/#110.6) <span class="fac">[110\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1106}
+
+<span class="series-number">5˙24</span> Die Operation zeigt sich in einer Variablen; sie zeigt, wie man von einer Form von Sätzen zu einer anderen gelangen kann.
+
+Sie bringt den Unterschied der Formen zum Ausdruck. (Und das Gemeinsame zwischen den Basen und dem Resultat der Operation sind eben die Basen.)
+
+### [Ms-104](/ms-104/#110.7) <span class="fac">[110\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp)</span> {#ms-104-1107}
+
+<span class="series-number">5˙241</span> Die Operation kennzeichnet keine Form, sondern nur den Unterschied der Formen.
+
+### [Ms-104](/ms-104/#110.8+111.1) <span class="fac">[110\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/110.webp),[111\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/111.webp)</span> {#ms-104-11081111}
+
+<span class="series-number">5˙25</span> Das Vorkommen der Operation charakterisiert den Sinn des Satzes nicht.
+
+Die Operation sagt ja nichts aus, nur ihr Resultat; und dies hängt von den Basen der Operation ab.
+
+(Operation und Funktion dürfen nicht mit einander verwechselt werden.)
+
+### [Ms-104](/ms-104/#111.2) <span class="fac">[111\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/111.webp)</span> {#ms-104-1112}
+
+<span class="series-number">5˙233</span> Die Operation kann erst dort auftreten, wo ein Satz auf logisch bedeutungsvolle Weise aus einem anderen entsteht. Also dort, wo die logische Konstruktion des Satzes anfängt.
+
+### [Ms-104](/ms-104/#111.3) <span class="fac">[111\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/111.webp)</span> {#ms-104-1113}
+
+<span class="series-number">5˙251</span> Eine Funktion kann nicht ihr eigenes Argument sein, wohl aber kann das Resultat einer Operation ihre eigene Basis werden.
+
+### [Ms-104](/ms-104/#111.4) <span class="fac">[111\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/111.webp)</span> {#ms-104-1114}
+
+<span class="series-number">5˙252</span> Nur so ist das Fortschreiten von Glied zu Glied in einer Formenreihe (von Type zu Type in den Hierarchien Russells und Whiteheads) möglich.
+
+(Russell und Whitehead haben die Möglichkeit dieses Fortschreitens nicht zugegeben, aber immer wieder von ihr Gebrauch gemacht.)
+
+### [Ms-104](/ms-104/#111.5) <span class="fac">[111\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/111.webp)</span> {#ms-104-1115}
+
+<span class="series-number">5˙2521</span> Die fortgesetzte Anwendung einer Operation auf ihr eigenes Resultat nenne ich ihre sukzessive Anwendung. („O'O'O'a” ist das Resultat der dreimaligen sukzessiven Anwendung von „O'ξ” auf „a”.)
+
+### [Ms-104](/ms-104/#111.6+112.1) <span class="fac">[111\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/111.webp),[112\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/112.webp)</span> {#ms-104-11161121}
+
+<span class="series-number">5˙253</span> Eine Operation kann die Wirkung einer anderen rückgängig machen. Operationen können einander aufheben.
+
+### [Ms-104](/ms-104/#112.2) <span class="fac">[112\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/112.webp)</span> {#ms-104-1122}
+
+<span class="series-number">5˙254</span> Die Operation kann verschwinden (z.B. die Verneinung in „~~p”; ~~p = p).
+
+### [Ms-104](/ms-104/#112.3) <span class="fac">[112\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/112.webp)</span> {#ms-104-1123}
+
+<span class="series-number">5˙234</span> Die Wahrheitsfunktionen der Elementarsätze sind Resultate von Operationen, die die Elementarsätze als Basen haben. (Ich nenne diese Operationen Wahrheitsoperationen.)
+
+### [Ms-104](/ms-104/#112.4) <span class="fac">[112\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/112.webp)</span> {#ms-104-1124}
+
+<span class="series-number">5˙242</span> Dieselbe Operation, die „q” aus „p” macht, macht aus „q” „r”; etc.
+
+Dies kann nur darin ausgedrückt sein, daß „p”, „q”, „r”, etc. Variable sind, die gewisse formale Relationen allgemein zum Ausdruck bringen.
+
+### [Ms-104](/ms-104/#112.5+113.1) <span class="fac">[112\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/112.webp),[113\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/113.webp)</span> {#ms-104-11251131}
+
+<span class="series-number">5˙3</span> Alle Sätze sind Resultate von Wahrheitsoperationen mit den Elementarsätzen.
+
+Die Wahrheitsoperation ist die Art und Weise, wie aus den Elementarsätzen die Wahrheitsfunktion entsteht.
+
+Nach dem Wesen der Wahrheitsoperation wird auf die gleiche Weise, wie aus den Elementarsätzen ihre Wahrheitsfunktion, aus Wahrheitsfunktionen eine neue. Jede Wahrheitsoperation erzeugt aus Wahrheitsfunktionen von Elementarsätzen wieder eine Wahrheitsfunktion von Elementarsätzen, einen Satz. Das Resultat jeder Wahrheitsoperation mit den Resultaten von Wahrheitsoperationen mit Elementarsätzen ist wieder das Resultat einer Wahrheitsoperation mit Elementarsätzen.
+
+Jeder Satz ist das Resultat von Wahrheitsoperationen mit Elementarsätzen.
+
+### [Ms-104](/ms-104/#113.2) <span class="fac">[113\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/113.webp)</span> {#ms-104-1132}
+
+<span class="series-number">5˙2341</span> Der Sinn einer Wahrheitsfunktion von p ist eine Funktion des Sinnes von p.
+
+(Die Verneinung verkehrt den Sinn des Satzes.) Verneinung, logische Addition, logische Multiplikation, etc., etc. sind Operationen.
+
+### [Ms-104](/ms-104/#113.3) <span class="fac">[113\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/113.webp)</span> {#ms-104-1133}
+
+In einem ähnlichen Sinn rede ich von der sukzessiven Anwendung _mehrerer_ Operationen auf eine Anzahl von Sätzen.
+
+### [Ms-104](/ms-104/#113.4) <span class="fac">[113\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/113.webp)</span> {#ms-104-1134}
+
+<span class="series-number">5˙32</span> Alle Wahrheitsfunktionen sind Resultate der sukzessiven Anwendung einer endlichen Anzahl von Wahrheitsfunktionen auf die Elementarsätze.
+
+### [Ms-104](/ms-104/#113.5+114.1) <span class="fac">[113\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/113.webp),[114\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/114.webp)</span> {#ms-104-11351141}
+
+Hat sich aber die Einführung eines neuen Behelfes an einer Stelle als nötig erwiesen so muß man sich nun sofort fragen: Wo muß dieser Behelf nun _immer_ angewandt werden? Seine Stellung in der Logik muß nun erklärt werden.
+
+### [Ms-104](/ms-104/#114.2+115.1) <span class="fac">[114\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/114.webp),[115\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/115.webp)</span> {#ms-104-11421151}
+
+<span class="series-number">5˙501</span> Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen der Form <math class="stacked" display="inline"><mtext>„</mtext><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mtext>”</mtext></math> an. „ξ” ist eine Variable deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, daß sie ihre sämtlichen Werte in der Klammer vertritt. (Hat also ξ etwa die 3 Werte „P”, „Q”, „R” so ist <math class="stacked" display="inline"><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mo>(</mo><mtext>P,</mtext><mi>Q</mi><mo>,</mo><mspace width="0.3em"/><mtext>R)</mtext></math>.) Die Werte der Variablen werden festgesetzt.
+
+Die Festsetzung ist die Beschreibung der Sätze, welche die Variable vertritt.
+
+Wie die Beschreibung der Glieder des Klammerausdrucks geschieht ist unwesentlich.
+
+Wir _können_ drei Arten der Beschreibung unterscheiden: 1) Die direkte Aufzählung. In diesem Fall können wir statt der Variablen einfach ihre konstanten Werte setzen. 2) Die Angabe einer Funktion f(x), deren Werte für alle Werte von x die zu beschreibenden Sätze sind. 3) Die Angabe eines formalen Gesetzes, nach welchem jene Sätze gebildet sind. In diesem Falle sind die Glieder des Klammerausdrucks sämtliche Glieder einer Formenreihe.
+
+### [Ms-104](/ms-104/#115.2) <span class="fac">[115\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/115.webp)</span> {#ms-104-1152}
+
+<span class="series-number">4˙1273</span> Wollen wir den allgemeinen Satz: „b ist ein Nachfolger von a” in der Begriffsschrift ausdrücken, so brauchen wir hierzu einen Ausdruck für das allgemeine Glied der Formenreihe: aRb, (Еx):aRx ∙ xRb, (Еx,y):aRx ∙ xRy ∙ yRb, ...... Das allgemeine Glied einer Formenreihe kann man nur durch eine Variable ausdrücken, denn der Begriff Glied dieser Formenreihe ist ein formaler Begriff. (Dies haben Frege und Russell übersehen; die Art und Weise wie sie allgemeine Sätze, wie den obigen, ausdrücken wollen, ist daher falsch; sie enthält einen circulus vitiosus.)
+
+Wir können das allgemeine Glied der Formenreihe bestimmen indem wir ihr erstes Glied angeben und die allgemeine Form der Operation welche das folgende Glied aus dem vorhergehenden erzeugt.
+
+### [Ms-104](/ms-104/#115.3) <span class="fac">[115\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/115.webp)</span> {#ms-104-1153}
+
+<span class="series-number">5˙2522</span> Das allgemeine Glied einer Formenreihe a, O'a, O'O'a, ..... schreibe ich daher so: „[a, x, O'x]”. Dieser Klammerausdruck ist eine Variable. Das erste Glied des Klammerausdrucks ist der Anfang der Formenreihe, das zweite die Form eines beliebigen Gliedes x der Reihe und das dritte die Form desjenigen Gliedes der Reihe, welches auf x unmittelbar folgt.
+
+### [Ms-104](/ms-104/#116.1) <span class="fac">[116\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp)</span> {#ms-104-1161}
+
+<span class="series-number">5˙5</span> Jede Wahrheitsfunktion ist ein Resultat der sukzessiven Anwendung der Operation (–W) (ξ, ....) auf Elementarsätze.
+
+Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne sie die Negation dieser Sätze.
+
+### [Ms-104](/ms-104/#116.2) <span class="fac">[116\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp)</span> {#ms-104-1162}
+
+(Die Anzahl der leeren Stellen in der linken Klammer ist durch die Anzahl der Glieder in der rechten bestimmt.)
+
+### [Ms-104](/ms-104/#116.4) <span class="fac">[116\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp)</span> {#ms-104-1164}
+
+<span class="series-number">5˙502</span> Ich schreibe also statt „(–W) (ξ, ....)” „<math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>”. <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> ist die Negation sämtlicher Werte der Satzvariablen ξ.
+
+### [Ms-104](/ms-104/#116.5) <span class="fac">[116\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp)</span> {#ms-104-1165}
+
+<span class="series-number">5˙503</span> Da sich offenbar leicht ausdrücken läßt, wie mit dieser Operation Sätze gebildet werden können und wie Sätze mit ihr nicht zu bilden sind, so muß dies auch leicht einen exakten Ausdruck finden können.
+
+### [Ms-104](/ms-104/#116.7+117.1) <span class="fac">[116\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp),[117\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp)</span> {#ms-104-11671171}
+
+<span class="series-number">6˙1201</span> Daß z.B. die Sätze „p” und „~p” in der Verbindung „~(p ∙ ~p)” eine Tautologie ergeben, zeigt daß sie einander widersprechen. Daß die Sätze „p⊃q”, „p” und „q” in der Form „(p⊃q) ∙ (p):⊃:(q)” mit einander
+
+verbunden eine Tautologie ergeben, zeigt daß q aus p und p⊃q folgt. Daß „(x) ∙ fx:⊃:fa” eine Tautologie ist, zeigt daß fa aus (x) ∙ fx folgt. etc. etc..
+
+### [Ms-104](/ms-104/#117.2) <span class="fac">[117\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp)</span> {#ms-104-1172}
+
+<span class="series-number">6˙123</span> Es ist klar: Die logischen Gesetze dürfen nicht selbst wieder logischen Gesetzen unterstehen.
+
+---
+
+### [Ms-104](/ms-104/#117.3) <span class="fac">[117\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp)</span> {#ms-104-1173}
+
+<span class="series-number">6˙2331</span> Der Vorgang des _Rechnens_ vermittelt eben diese Anschauung.
+
+---
+
+Die Rechnung ist kein Experiment.
+
+---
+
+### [Ms-104](/ms-104/#117.4) <span class="fac">[117\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp)</span> {#ms-104-1174}
+
+Die Sätze der Mathematik sind Gleichungen, also Scheinsätze.
+
+### [Ms-104](/ms-104/#117.5) <span class="fac">[117\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp)</span> {#ms-104-1175}
+
+<span class="series-number">6˙21</span> Der Satz der Mathematik drückt keinen Gedanken aus.
+
+### [Ms-104](/ms-104/#117.6) <span class="fac">[117\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp)</span> {#ms-104-1176}
+
+Es charakterisiert die logische Form zweier Ausdrücke, daß sie durch einander ersetzbar sind.
+
+### [Ms-104](/ms-104/#117.7+118.1) <span class="fac">[117\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/117.webp),[118\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/118.webp)</span> {#ms-104-11771181}
+
+<span class="series-number">6˙232</span> Frege sagt, die beiden Ausdrücke haben dieselbe Bedeutung, aber verschiedenen Sinn.
+
+Das Wesentliche an der Gleichung ist aber, daß sie nicht notwendig ist, um zu zeigen, daß die beiden Ausdrücke die das Gleichheitszeichen verbindet dieselbe Bedeutung haben, da sich dies aus den beiden Ausdrücken selbst ersehen läßt.
+
+### [Ms-104](/ms-104/#118.2) <span class="fac">[118\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/118.webp)</span> {#ms-104-1182}
+
+<span class="series-number">6˙2321</span> Und daß die Sätze der Mathematik bewiesen werden können heißt ja nichts anderes, als daß ihre Richtigkeit einzusehen ist, ohne daß das, was sie ausdrücken selbst mit den Tatsachen auf seine Richtigkeit hin verglichen werden muß.
+
+### [Ms-104](/ms-104/#118.3) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/118.webp)</span> {#ms-104-1183}
+
+<span class="series-number">6˙2322</span> Die Identität der Bedeutung zweier Ausdrücke läßt sich nicht _behaupten_. Denn um etwas von ihrer Bedeutung behaupten zu können, muß ich ihre Bedeutung kennen; und indem ich ihre Bedeutung kenne, weiß ich, ob sie dasselbe oder Verschiedenes bedeuten.
+
+### [Ms-104](/ms-104/#118.4) <span class="fac">[118\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/118.webp)</span> {#ms-104-1184}
+
+<span class="series-number">6˙2323</span> Die Gleichung kennzeichnet nur den Standpunkt, von welchem ich die beiden Ausdrücke betrachte, nämlich vom Standpunkte ihrer Bedeutungsgleichheit.
+
+### [Ms-104](/ms-104/#118.5+118.6) <span class="fac">[118\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/118.webp),[118\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/118.webp)</span> {#ms-104-11851186}
+
+<span class="series-number">6˙241</span> So lautet der Beweis des Satzes 2 × 2 = 4:
+
+Der Begriff der Operation ist äquivalent mit dem Begriff „und so weiter”.
+
+### [Ms-104](/ms-104/#119.1+120.1+121.1) <span class="fac">[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/119.webp),[120\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/120.webp),[121\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/121.webp)</span> {#ms-104-119112011211}
+
+Vorwort
+
+Dieses Buch wird vielleicht nur der verstehen, der die Gedanken, die darin ausgedrückt sind – oder doch ähnliche Gedanken – schon selbst einmal gedacht hat. – Es ist also kein Lehrbuch. – Sein Zweck wäre erreicht wenn es Einem, der es mit Verständnis liest Vergnügen bereitete.
+
+Das Buch behandelt die philosophischen Probleme und zeigt – wie ich glaube – daß die Fragestellung dieser Probleme auf dem Mißverständnis unseren Sprachlogik beruht. Man könnte den ganzen Sinn des Buches etwa in die Worte fassen: Was sich überhaupt sagen läßt, läßt sich klar sagen; und wovon man nicht reden kann, darüber muß man schweigen.
+
+Das Buch will also dem Denken eine Grenze ziehen, oder vielmehr – nicht dem Denken sondern dem Ausdruck der Gedanken: Denn, um dem Denken eine Grenze zu ziehen, müßten wir beide Seiten dieser Grenze denken können (wir müßten also denken können, was sich nicht denken läßt).
+
+Die Grenze wird also nur in der Sprache gezogen werden können und was jenseits der Grenze liegt, wird einfach Unsinn sein. Wieweit meine Bestrebungen mit denen anderer Philosophen zusammenfallen, will ich nicht beurteilen. Ja, was ich hier geschrieben habe macht im Einzelnen überhaupt nicht den Anspruch auf Neuheit; und darum gebe ich auch keine Quellen an, weil es mir gleichgültig ist, ob das was ich gedacht habe, vor mir schon ein Anderer gedacht hat.
+
+Nur das will ich erwähnen, daß ich den großartigen Werken Freges und den Arbeiten meines Freundes Herrn Bertrand Russell einen großen Teil der Anregung zu meinen Gedanken schulde. Wenn diese Arbeit einen Wert hat so besteht er in zweierlei. Erstens darin, daß in ihr Gedanken ausgedrückt sind, und dieser Wert wird umso größer sein, je besser die Gedanken ausgedrückt sind. Je mehr der Nagel auf den Kopf getroffen ist. – Hier bin ich mir bewußt weit hinter dem Möglichen zurückgeblieben zu sein. Einfach darum, weil meine Kraft zur Bewältigung der Aufgabe zu gering ist. – Mögen andere kommen und es besser machen. Dagegen scheint mir die _Wahrheit_ der hier mitgeteilten Gedanken unantastbar und definitiv. Ich bin also der Meinung die Probleme im Wesentlichen endgültig gelöst zu haben. Und wenn ich mich hierin nicht irre, so besteht nun der Wert dieser Arbeit zweitens darin, daß sie zeigt, wie wenig damit getan ist, daß diese Probleme gelöst sind.
+
+Meinem Onkel Herrn Paul Wittgenstein und meinem Freund Herrn Bertrand Russell danke ich für die liebevolle Aufmunterung die sie mir haben zuteil werden lassen.
+
+_L.W._

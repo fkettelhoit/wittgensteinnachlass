@@ -2,11 +2,19 @@
 
 <details>
 
-<summary>1930–1948, 689 remarks, Ts-233a, Ts-233b, Ts-232</summary>
+<summary>1930–1948, 691 remarks, Ts-233b, Ts-233a, Ts-232</summary>
 
 <img class="viz" src="/viz/W-Z.svg">
 
 </details>
+
+### [Ts-233b](/ts-233b/#37.11) <span class="fac">[37\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/37.webp)</span> {#ts-233b-3711}
+
+<span class="series-number">629</span> Wie könntest du erklären, was es heißt “Schmerzen heucheln”, “sich stellen, als habe man Schmerzen”.
+
+### [Ts-233b](/ts-233b/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-567}
+
+<span class="series-number">269.</span> Wie lehrt man jemand, leise für sich selbst lesen? Wie weiß man, wenn er's kann? Wie weiß er selbst, daß er tut, was man von ihm verlangt?
 
 ### [Ts-233a](/ts-233a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-11}
 
