@@ -2,11 +2,19 @@
 
 <details>
 
-<summary>1930–1948, 689 remarks, Ts-233a, Ts-233b, Ts-232</summary>
+<summary>1930–1948, 691 remarks, Ts-233b, Ts-233a, Ts-232</summary>
 
 <img class="viz" src="/viz/W-Z.svg">
 
 </details>
+
+### [Ts-233b](/ts-233b/#37.11) <span class="fac">[37\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/37.webp)</span> {#ts-233b-3711}
+
+<span class="series-number">629</span> How could you explain what it means to “pretend to be in pain,” to “act as if one is in pain”?
+
+### [Ts-233b](/ts-233b/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-567}
+
+<span class="series-number">269.</span> <span class="series-number">269.</span> How does one teach someone to read silently to himself? How does one know if he can do it? How does he himself know that he is doing what is expected of him?
 
 ### [Ts-233a](/ts-233a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-11}
 

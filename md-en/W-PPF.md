@@ -1358,7 +1358,7 @@ One says “I know” where one can also say “I believe” or “I suspect”;
 
 ### [Ms-144](/ms-144/#53r.4) <span class="fac">[53r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp)</span> {#ms-144-53r4}
 
-It’s conceivable that I could convince myself that I have two hands. Normally, however, I can’t. “But you only have to hold them in front of your eyes.” – If I now doubt whether I have two hands, then I also can’t trust my eyes. (Just as well, I could ask my friend.)
+The situation is conceivable in which I _could_ convince myself that I have two hands. Normally, however, I _cannot_. “But you only have to hold them up in front of your eyes.” – If I _now_ doubt whether I have two hands, then I also cannot trust my eyes. (Just as well, I could ask my friend.)
 
 ### [Ms-144](/ms-144/#53r.5+53v.1) <span class="fac">[53r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53r.webp),[53v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/53v.webp)</span> {#ms-144-53r553v1}
 
