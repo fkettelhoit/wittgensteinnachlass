@@ -112,7 +112,7 @@ fn translate_remark(
                 } else {
                     translated
                 };
-                let fixed = fix_asterisk_emphasis(&restored);
+                let fixed = fix_emphasis_markers(&restored, &de_remark.body);
                 best_body = restore_math(&fixed, math_blocks);
 
                 let en_remark = Remark {
@@ -125,7 +125,42 @@ fn translate_remark(
                 if issues.is_empty() {
                     eprintln!(" done");
                     return best_body;
-                } else if attempt < MAX_REMARK_RETRIES {
+                }
+
+                // If emphasis is the only issue and DE has ≥2 emphasized segments,
+                // try segment-by-segment emphasis repair before full retry
+                let only_emphasis = issues.iter().all(|i| i.check == "emphasis");
+                if only_emphasis && count_emphasized_segments(&de_remark.body) >= 2 {
+                    if let Some(repaired) = repair_emphasis_by_segment(
+                        client, ollama_url, model, num_ctx,
+                        &de_remark.body, &best_body, verbose,
+                    ) {
+                        // Re-verify the repaired version
+                        let repaired_remark = Remark {
+                            heading: de_remark.heading.clone(),
+                            body: repaired.clone(),
+                        };
+                        let mut repair_issues = Vec::new();
+                        verify::verify_remark(
+                            filename, idx, remark_id, de_remark,
+                            &repaired_remark, &mut repair_issues, emphasis_tolerance,
+                        );
+                        if repair_issues.is_empty() {
+                            eprintln!(" done (emphasis repaired)");
+                            return repaired;
+                        }
+                        // Use repaired version as best even if not perfect
+                        let repaired_emph_issues = repair_issues.iter()
+                            .filter(|i| i.check == "emphasis").count();
+                        let orig_emph_issues = issues.iter()
+                            .filter(|i| i.check == "emphasis").count();
+                        if repaired_emph_issues < orig_emph_issues {
+                            best_body = repaired;
+                        }
+                    }
+                }
+
+                if attempt < MAX_REMARK_RETRIES {
                     eprint!(
                         " ({} issue(s), retry {}/{})",
                         issues.len(),
@@ -325,7 +360,7 @@ pub struct TranslateArgs {
     pub ollama_url: String,
     pub glossary: Option<PathBuf>,
     pub verbose: bool,
-    pub skip_existing: bool,
+    pub no_verify: bool,
     pub num_ctx: usize,
     pub context_ratio: f64,
     pub emphasis_tolerance: usize,
@@ -441,6 +476,44 @@ pub fn run(args: &TranslateArgs) {
     // Load skip list from the tool directory (where the binary runs from)
     let skip_remarks = load_skip_remarks(Path::new("."));
 
+    // Enforce skip list on existing translations: replace skip-listed remarks
+    // with the German original (they should not have been translated)
+    if !skip_remarks.is_empty() {
+        for entry in &skip_remarks {
+            if let Some((filename, remark_id)) = entry.split_once(':') {
+                let de_path = args.input.join(filename);
+                let en_path = args.output.join(filename);
+                if !de_path.exists() || !en_path.exists() {
+                    continue;
+                }
+                let de_content = fs::read_to_string(&de_path).expect("Failed to read DE");
+                let en_content = fs::read_to_string(&en_path).expect("Failed to read EN");
+                let (_, de_remarks) = parse_document(&de_content);
+                let (en_preamble, mut en_remarks) = parse_document(&en_content);
+
+                let mut changed = false;
+                for (i, de_r) in de_remarks.iter().enumerate() {
+                    let rid = anchor_from_doc_heading(&de_r.heading);
+                    if rid == remark_id && i < en_remarks.len() && en_remarks[i].body != de_r.body {
+                        en_remarks[i] = Remark {
+                            heading: en_remarks[i].heading.clone(),
+                            body: de_r.body.clone(),
+                        };
+                        changed = true;
+                        eprintln!("  {}:{} — replaced with German original (skip list)", filename, remark_id);
+                    }
+                }
+                if changed {
+                    let mut output = en_preamble;
+                    for r in &en_remarks {
+                        output.push_str(&format!("\n{}\n\n{}\n", r.heading, r.body));
+                    }
+                    fs::write(&en_path, &output).expect("Failed to write");
+                }
+            }
+        }
+    }
+
     let glossary = match &args.glossary {
         Some(path) => {
             let content = fs::read_to_string(path).expect("Failed to read glossary");
@@ -452,18 +525,18 @@ pub fn run(args: &TranslateArgs) {
     let system_msg = translation_system_prompt(glossary.general_section());
     let client = reqwest::blocking::Client::new();
 
-    // Parse index.md for file ordering
-    let index_path = args.input.join("index.md");
+    // Parse all.md for file ordering (docs and works)
+    let index_path = args.input.join("all.md");
     let (doc_files, work_files) = if index_path.exists() {
-        let index_content = fs::read_to_string(&index_path).expect("Failed to read index.md");
+        let index_content = fs::read_to_string(&index_path).expect("Failed to read all.md");
         parse_index_order(&index_content)
     } else {
-        eprintln!("No index.md found, using alphabetical order");
+        eprintln!("No all.md found, using alphabetical order");
         let mut docs = Vec::new();
         for entry in fs::read_dir(&args.input).expect("Failed to read input dir") {
             let entry = entry.unwrap();
             let name = entry.file_name().to_string_lossy().to_string();
-            if name.ends_with(".md") && name != "index.md" && !name.starts_with("W-") {
+            if name.ends_with(".md") && name != "all.md" && !name.starts_with("W-") {
                 docs.push(name);
             }
         }
@@ -508,14 +581,14 @@ pub fn run(args: &TranslateArgs) {
     }
 
     // Phase 1: Verify+fix existing translations
-    if args.skip_existing {
-        eprintln!("Skipping verification of existing translations (--skip-existing).\n");
+    if args.no_verify {
+        eprintln!("Skipping verification of existing translations (--no-verify).\n");
     }
     let existing: Vec<&String> = doc_files
         .iter()
         .filter(|f| args.output.join(f).exists())
         .collect();
-    if !existing.is_empty() && !args.skip_existing {
+    if !existing.is_empty() && !args.no_verify {
         eprintln!("Verifying {} existing translation(s)...", existing.len());
         for filename in &existing {
             let de_path = args.input.join(filename);
@@ -556,6 +629,105 @@ pub fn run(args: &TranslateArgs) {
                 );
             } else {
                 eprintln!(" ok");
+            }
+        }
+        eprintln!();
+    }
+
+    // Detect and re-translate changed remarks in existing translations
+    if !existing.is_empty() {
+        // Find the repo root (parent of md/ and md-en/)
+        let repo_dir = args.input.parent().unwrap_or(Path::new("."));
+        let en_rel = args.output.strip_prefix(repo_dir).unwrap_or(&args.output);
+        let de_rel = args.input.strip_prefix(repo_dir).unwrap_or(&args.input);
+
+        eprintln!("Checking for changed remarks...");
+        for filename in &existing {
+            let de_path = args.input.join(filename);
+            let en_path = args.output.join(filename);
+            if !de_path.exists() {
+                continue;
+            }
+
+            let en_file_rel = format!("{}/{}", en_rel.display(), filename);
+            let de_file_rel = format!("{}/{}", de_rel.display(), filename);
+
+            let Some(last_commit) = git_last_commit(repo_dir, &en_file_rel) else {
+                continue; // not yet committed, skip
+            };
+
+            let Some(old_de_content) = git_show(repo_dir, &last_commit, &de_file_rel) else {
+                continue; // German file didn't exist at that commit
+            };
+
+            let current_de_content =
+                fs::read_to_string(&de_path).expect("Failed to read German file");
+            let changed = detect_changed_remarks(&old_de_content, &current_de_content);
+
+            if changed.is_empty() {
+                continue;
+            }
+
+            eprintln!(
+                "  {}: {} remark(s) changed since last translation",
+                filename,
+                changed.len()
+            );
+
+            let (_, current_de_remarks) = parse_document(&current_de_content);
+            let en_content =
+                fs::read_to_string(&en_path).expect("Failed to read English file");
+            let (en_preamble, mut en_remarks) = parse_document(&en_content);
+
+            let mut file_changed = false;
+            for &(idx, ref anchor) in &changed {
+                if idx >= current_de_remarks.len() || idx >= en_remarks.len() {
+                    continue;
+                }
+                if should_skip_remark(&skip_remarks, filename, anchor) {
+                    continue;
+                }
+
+                eprint!("    {}:{}...", filename, anchor);
+
+                let de_remark = &current_de_remarks[idx];
+                let (text_with_placeholders, math_blocks) = extract_math(&de_remark.body);
+                let glossary_section = glossary.filter_for(&de_remark.body);
+                let empty_context: Vec<String> = Vec::new();
+
+                let best_body = translate_remark(
+                    &client,
+                    &args.ollama_url,
+                    &args.model,
+                    &system_msg,
+                    &glossary_section,
+                    &empty_context,
+                    &text_with_placeholders,
+                    &math_blocks,
+                    de_remark,
+                    filename,
+                    idx,
+                    anchor,
+                    args.verbose,
+                    args.num_ctx,
+                    args.emphasis_tolerance,
+                );
+
+                if best_body != en_remarks[idx].body {
+                    en_remarks[idx] = Remark {
+                        heading: de_remark.heading.clone(),
+                        body: best_body,
+                    };
+                    file_changed = true;
+                }
+            }
+
+            if file_changed {
+                let mut output = en_preamble;
+                for r in &en_remarks {
+                    output.push_str(&format!("\n{}\n\n{}\n", r.heading, r.body));
+                }
+                fs::write(&en_path, &output).expect("Failed to write updated file");
             }
         }
         eprintln!();
@@ -873,7 +1045,7 @@ pub fn run(args: &TranslateArgs) {
                             let mut math_idx = 0;
                             for (bi, idx) in (batch_start..batch_end).enumerate() {
                                 let (_, translated) = translated_parts[bi];
-                                let restored_em = fix_asterisk_emphasis(&emphasis_from_html(translated.trim()));
+                                let restored_em = fix_emphasis_markers(&emphasis_from_html(translated.trim()), &remarks[idx].body);
                                 // Restore math with renumbered placeholders
                                 let blocks = &per_remark_math[bi];
                                 let mut restored = restored_em;
@@ -992,7 +1164,7 @@ pub fn run(args: &TranslateArgs) {
         }
 
         // Document-level verify + fix loop
-        if !args.skip_existing {
+        if !args.no_verify {
             verify_and_fix_doc(
                 filename,
                 &path,

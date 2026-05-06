@@ -197,7 +197,7 @@ pub fn run(args: &FixDeeplArgs) {
                     if args.verbose {
                         eprintln!("--- DEEPL RESPONSE ---\n{}\n---", translated);
                     }
-                    let restored_em = fix_asterisk_emphasis(&emphasis_from_html(&translated));
+                    let restored_em = fix_emphasis_markers(&emphasis_from_html(&translated), de_body);
                     let restored = restore_math(&restored_em, &math_blocks);
                     best_body = restored;
 

@@ -71,9 +71,9 @@ enum Command {
         #[arg(long)]
         verbose: bool,
 
-        /// Skip verification and fixing of already-translated documents
+        /// Skip verification and fixing of already-translated documents (still detects changed remarks)
         #[arg(long)]
-        skip_existing: bool,
+        no_verify: bool,
 
         /// Ollama context window size in tokens (default 8192)
         #[arg(long, default_value_t = 8192)]
@@ -159,7 +159,7 @@ fn main() {
             glossary,
             no_glossary,
             verbose,
-            skip_existing,
+            no_verify,
             num_ctx,
             context_ratio,
             emphasis_tolerance,
@@ -171,7 +171,7 @@ fn main() {
                 ollama_url,
                 glossary: resolve_glossary(glossary, no_glossary),
                 verbose,
-                skip_existing,
+                no_verify,
                 num_ctx,
                 context_ratio,
                 emphasis_tolerance,

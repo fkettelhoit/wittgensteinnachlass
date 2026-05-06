@@ -12,7 +12,7 @@ Translate document files and assemble works using Ollama.
 cargo run --release -- translate --glossary ../../../glossary.md
 ```
 
-Translates all untranslated documents listed in `index.md`, verifies each remark inline, and assembles work files from completed translations. Resumes from partial files if interrupted.
+Translates all untranslated documents listed in `index.md`, verifies each remark inline, and assembles work files from completed translations. Resumes from partial files if interrupted. Automatically detects remarks that changed in the German source since the last translation (using git history) and re-translates only those.
 
 Options:
 
@@ -25,7 +25,7 @@ Options:
 - `--num-ctx` -- Ollama context window in tokens (default: `8192`)
 - `--context-ratio` -- fraction of context window for history vs. new remarks (default: `0.5`)
 - `--emphasis-tolerance` -- allowed underscore mismatch before flagging (default: `4`)
-- `--skip-existing` -- skip verification and fixing of already-translated documents
+- `--no-verify` -- skip verification and fixing of existing translations (still detects changed remarks)
 - `--verbose` -- log prompts and translations to stderr
 
 ### verify

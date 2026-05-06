@@ -170,16 +170,162 @@ pub fn emphasis_from_html(text: &str) -> String {
         .replace("</strong>", "**")
 }
 
-/// Convert single-asterisk emphasis *word* to underscore emphasis _word_.
-/// Single asterisks are never correct in our output; they should be underscores.
-/// Double asterisks **word** are left as-is (intra-word bold).
-pub fn fix_asterisk_emphasis(text: &str) -> String {
-    // First protect ** by replacing with a placeholder
+/// Split text into segments at sentence boundaries (. ? ! –) followed by uppercase/quote.
+/// Emphasis never crosses these boundaries in the Wittgenstein corpus.
+pub fn split_segments(text: &str) -> Vec<String> {
+    let mut segments = Vec::new();
+    let mut start = 0;
+    let chars: Vec<char> = text.chars().collect();
+    let len = chars.len();
+
+    for i in 0..len {
+        // Look for sentence-ending punctuation followed by whitespace + uppercase/quote/paren
+        if matches!(chars[i], '.' | '?' | '!' | '\u{2013}') {
+            // Skip whitespace after punctuation
+            let mut j = i + 1;
+            while j < len && chars[j].is_whitespace() {
+                j += 1;
+            }
+            // Check if next non-whitespace char starts a new sentence
+            if j < len
+                && j > i + 1
+                && (chars[j].is_uppercase()
+                    || matches!(chars[j], '\u{201e}' | '\u{201c}' | '('))
+            {
+                let byte_end: usize = chars[..j].iter().map(|c| c.len_utf8()).sum();
+                let byte_start_old: usize = chars[..start].iter().map(|c| c.len_utf8()).sum();
+                segments.push(text[byte_start_old..byte_end].trim().to_string());
+                start = j;
+            }
+        }
+    }
+    // Push the last segment
+    let byte_start: usize = chars[..start].iter().map(|c| c.len_utf8()).sum();
+    let remaining = text[byte_start..].trim();
+    if !remaining.is_empty() {
+        segments.push(remaining.to_string());
+    }
+    if segments.is_empty() {
+        segments.push(text.to_string());
+    }
+    segments
+}
+
+/// Count segments in the German text that contain emphasis markers (_ or **).
+pub fn count_emphasized_segments(german: &str) -> usize {
+    split_segments(german)
+        .iter()
+        .filter(|s| s.contains('_') || s.contains("**"))
+        .count()
+}
+
+/// Attempt segment-by-segment emphasis repair using the LLM.
+/// Returns the repaired English body, or None if repair wasn't possible.
+pub fn repair_emphasis_by_segment(
+    client: &reqwest::blocking::Client,
+    ollama_url: &str,
+    model: &str,
+    num_ctx: usize,
+    german_body: &str,
+    english_body: &str,
+    verbose: bool,
+) -> Option<String> {
+    let de_segs = split_segments(german_body);
+    let en_segs = split_segments(english_body);
+
+    if de_segs.len() != en_segs.len() {
+        return None; // segment count mismatch, can't align
+    }
+
+    let system_msg = "Insert emphasis markers into the English text to match the German original. \
+        Use _underscores_ where the German uses _underscores_, and **double asterisks** where \
+        the German uses **double asterisks** (for intra-word emphasis). Do not change any words — \
+        only add or remove emphasis markers. Output only the modified English text.";
+
+    let mut fixed_segs = en_segs.clone();
+    let mut changed = false;
+
+    for (i, (de_seg, en_seg)) in de_segs.iter().zip(en_segs.iter()).enumerate() {
+        let de_us = de_seg.chars().filter(|&c| c == '_').count();
+        let en_us = en_seg.chars().filter(|&c| c == '_').count();
+        let de_ast = de_seg.chars().filter(|&c| c == '*').count();
+        let en_ast = en_seg.chars().filter(|&c| c == '*').count();
+
+        if de_us == en_us && de_ast == en_ast {
+            continue; // this segment is fine
+        }
+        if de_us == 0 && de_ast == 0 && (en_us > 0 || en_ast > 0) {
+            // EN has spurious emphasis — strip it
+            let stripped = en_seg.replace('_', "");
+            // Also strip ** if DE has none
+            let stripped = Regex::new(r"\*\*([^*]+)\*\*")
+                .unwrap()
+                .replace_all(&stripped, "$1")
+                .to_string();
+            fixed_segs[i] = stripped;
+            changed = true;
+            continue;
+        }
+        if de_us == 0 && de_ast == 0 {
+            continue; // neither has emphasis, fine
+        }
+
+        // DE has emphasis, EN doesn't match — ask the LLM to fix
+        // Strip existing EN emphasis to give the model a clean slate
+        let en_clean = en_seg.replace('_', "");
+        let en_clean = Regex::new(r"\*\*([^*]+)\*\*")
+            .unwrap()
+            .replace_all(&en_clean, "$1")
+            .to_string();
+        let user_msg = format!(
+            "German: {}\nEnglish: {}",
+            de_seg, en_clean
+        );
+
+        if verbose {
+            eprint!(" [seg {}/{}]", i + 1, de_segs.len());
+        }
+
+        match call_ollama(client, ollama_url, model, system_msg, &user_msg, num_ctx) {
+            Ok(result) => {
+                let trimmed = result.trim().to_string();
+                // Verify the fix has the right emphasis counts
+                let result_us = trimmed.chars().filter(|&c| c == '_').count();
+                let result_ast = trimmed.chars().filter(|&c| c == '*').count();
+                if result_us == de_us && result_ast == de_ast {
+                    fixed_segs[i] = trimmed;
+                    changed = true;
+                }
+                // If the model got it wrong, keep the original EN segment
+            }
+            Err(_) => {} // keep original on error
+        }
+    }
+
+    if changed {
+        Some(fixed_segs.join(" "))
+    } else {
+        None
+    }
+}
+
+/// Fix emphasis markers in translated text based on what the German original uses.
+/// - Converts single *word* to _word_ (always wrong in our output)
+/// - Converts **word** to _word_ if the German has no ** (model used bold instead of emphasis)
+pub fn fix_emphasis_markers(translated: &str, german: &str) -> String {
+    let mut text = translated.to_string();
+
+    // If German has no **, convert all **word** to _word_ in English
+    if !german.contains("**") {
+        let bold_re = Regex::new(r"\*\*(.+?)\*\*").unwrap();
+        text = bold_re.replace_all(&text, "_${1}_").into_owned();
+    }
+
+    // Convert remaining single *word* to _word_
+    // Protect any legitimate ** first
     let protected = text.replace("**", "\u{FFFE}BOLD\u{FFFE}");
-    // Now replace remaining *...* with _..._
-    let re = Regex::new(r"\*([^*]+)\*").unwrap();
-    let fixed = re.replace_all(&protected, "_${1}_");
-    // Restore **
+    let single_re = Regex::new(r"\*([^*]+)\*").unwrap();
+    let fixed = single_re.replace_all(&protected, "_${1}_");
     fixed.replace("\u{FFFE}BOLD\u{FFFE}", "**")
 }
 
@@ -571,10 +717,9 @@ pub fn parse_index_order(index_content: &str) -> (Vec<String>, Vec<String>) {
 
     for cap in re.captures_iter(index_content) {
         let filename = cap[1].to_string();
-        if seen.contains(&filename) {
+        if !seen.insert(filename.clone()) {
             continue;
         }
-        seen.insert(filename.clone());
         if filename.starts_with("W-") {
             works.push(filename);
         } else {
@@ -724,6 +869,64 @@ pub fn assemble_work(
 /// Write a single remark to a file (used by translate and fix).
 pub fn write_remark(file: &mut fs::File, heading: &str, body: &str) {
     write!(file, "\n{}\n\n{}\n", heading, body).expect("Failed to write remark");
+}
+
+/// Get the last git commit hash that modified a file.
+pub fn git_last_commit(repo_dir: &Path, file_path: &str) -> Option<String> {
+    let output = std::process::Command::new("git")
+        .args(["-C", &repo_dir.to_string_lossy(), "log", "-1", "--format=%H", "--", file_path])
+        .output()
+        .ok()?;
+    if !output.status.success() {
+        return None;
+    }
+    let hash = String::from_utf8_lossy(&output.stdout).trim().to_string();
+    if hash.is_empty() { None } else { Some(hash) }
+}
+
+/// Get file content at a specific git commit.
+pub fn git_show(repo_dir: &Path, commit: &str, file_path: &str) -> Option<String> {
+    let output = std::process::Command::new("git")
+        .args(["-C", &repo_dir.to_string_lossy(), "show", &format!("{}:{}", commit, file_path)])
+        .output()
+        .ok()?;
+    if !output.status.success() {
+        return None;
+    }
+    Some(String::from_utf8_lossy(&output.stdout).to_string())
+}
+
+/// Detect remarks that changed between the old and current German text.
+/// Returns a list of (remark_index, anchor_id) for remarks that need re-translation.
+pub fn detect_changed_remarks(
+    old_de_content: &str,
+    current_de_content: &str,
+) -> Vec<(usize, String)> {
+    let (_, old_remarks) = parse_document(old_de_content);
+    let (_, current_remarks) = parse_document(current_de_content);
+
+    // Build map: anchor_id → body for old German
+    let mut old_map: HashMap<String, String> = HashMap::new();
+    for r in &old_remarks {
+        let anchor = anchor_from_doc_heading(&r.heading);
+        if !anchor.is_empty() {
+            old_map.insert(anchor, r.body.clone());
+        }
+    }
+
+    // Compare current remarks against old
+    let mut changed = Vec::new();
+    for (i, r) in current_remarks.iter().enumerate() {
+        let anchor = anchor_from_doc_heading(&r.heading);
+        if anchor.is_empty() {
+            continue;
+        }
+        match old_map.get(&anchor) {
+            Some(old_body) if old_body == &r.body => {} // unchanged
+            _ => changed.push((i, anchor)),             // changed or new
+        }
+    }
+    changed
 }
 
 /// Load the skip-remarks list. Returns a set of "filename:remark_id" strings.
