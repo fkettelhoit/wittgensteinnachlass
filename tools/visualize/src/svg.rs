@@ -18,6 +18,7 @@ const LABEL_FONT_SIZE: f64 = 7.0;
 /// Fixed label width for page identifiers (e.g. "100r", "213v").
 const LABEL_WIDTH: f64 = 24.0;
 
+
 /// Extract the page identifier from an anchor string.
 /// E.g. "100r.2" → "100r", "80.2+81.1" → "80", "1.1" → "1"
 fn page_from_anchor(anchor: &str) -> &str {
@@ -406,7 +407,7 @@ pub fn render(
     svg.push_str(&format!(
         r#"<text x="{work_x}" y="{title_y}" class="title">{}</text>
 "#,
-        xml_escape(&work.filename.replace(".md", ""))
+        xml_escape(&work.title)
     ));
 
     // Work remarks (left side) — single filled rectangle
@@ -533,8 +534,8 @@ pub fn render(
         let layout = source_layouts.get(&run.doc_name).unwrap();
         let raw_first_work_y = work_first_y + run.work_start as f64 * REMARK_SPACING;
         let raw_last_work_y = work_first_y + run.work_end as f64 * REMARK_SPACING;
-        let first_source_y = *layout.remark_y_map.get(&run.source_start).unwrap();
-        let last_source_y = *layout.remark_y_map.get(&run.source_end).unwrap();
+        let first_source_y = *layout.remark_y_map.get(&run.source_start).unwrap() - half;
+        let last_source_y = *layout.remark_y_map.get(&run.source_end).unwrap() + half;
 
         // Extend work-side edges to fill gaps between adjacent runs
         let first_work_y = if ri > 0 {
@@ -554,6 +555,197 @@ pub fn render(
 
         svg.push_str(&format!(
             r#"<path d="M {lx},{first_work_y} C {mid_x},{first_work_y} {mid_x},{first_source_y} {rx},{first_source_y} L {rx},{last_source_y} C {mid_x},{last_source_y} {mid_x},{last_work_y} {lx},{last_work_y} Z" class="curve"/>
+"#
+        ));
+    }
+
+    svg.push_str("</svg>\n");
+    svg
+}
+
+/// Render document visualization: works on left, single document on right.
+///
+/// Correspondences use swapped semantics (from `build_doc_correspondence`):
+/// - `work_idx` = document remark index (right side, single column)
+/// - `doc_name` = work filename stem (left side, multi column)
+/// - `source_idx` = work remark index (left side, multi column)
+pub fn render_doc(
+    doc_name: &str,
+    doc: &SourceDoc,
+    work_order: &[String],
+    work_titles: &HashMap<String, String>,
+    work_docs: &HashMap<String, SourceDoc>,
+    correspondences: &[Correspondence],
+    font_base64: &str,
+) -> String {
+    let doc_count = doc.anchors.len();
+    let work_x = 0.0;
+    let source_x = work_x + WORK_SOURCE_GAP;
+
+    // Document column on right (single column)
+    let doc_first_y = remarks_y(MARGIN_TOP);
+    let doc_block_height = TITLE_OFFSET + doc_count as f64 * REMARK_SPACING;
+
+    // Work columns on left (multiple, stacked)
+    let (work_layouts, work_total) = layout_source_docs(work_order, work_docs, correspondences);
+
+    let content_height = doc_block_height.max(work_total - MARGIN_TOP);
+    let svg_height = MARGIN_TOP + content_height + MARGIN_BOTTOM;
+    let label_x = source_x + LINE_LEN + SEP_DASH_LEN + 3.0;
+    let svg_width = label_x + LABEL_WIDTH + MARGIN_H;
+
+    let mid_x = (work_x + LINE_LEN + source_x) / 2.0;
+
+    let mut svg = String::new();
+
+    svg.push_str(&format!(
+        r#"<svg xmlns="http://www.w3.org/2000/svg" width="{svg_width}" height="{svg_height}" viewBox="0 0 {svg_width} {svg_height}">
+<style>
+  @font-face {{
+    font-family: "TeX Gyre Pagella";
+    src: url("data:font/opentype;base64,{font_base64}") format("opentype");
+  }}
+  text {{ font-family: "TeX Gyre Pagella", "Palatino Linotype", "Book Antiqua", Palatino, serif; }}
+  .title {{ font-size: {TITLE_FONT_SIZE}px; font-weight: bold; }}
+  .label {{ font-size: {LABEL_FONT_SIZE}px; }}
+  .fill {{ fill: #000; stroke: none; }}
+  .curve {{ fill: #000; fill-opacity: 0.3; stroke: none; }}
+</style>
+<rect width="100%" height="100%" fill="white"/>
+"#
+    ));
+
+    // Document title (right side)
+    let title_y = MARGIN_TOP + TITLE_FONT_SIZE * 0.8;
+    svg.push_str(&format!(
+        r#"<text x="{source_x}" y="{title_y}" class="title">{}</text>
+"#,
+        xml_escape(doc_name)
+    ));
+
+    // Document remarks (right side) — single filled rectangle
+    if doc_count > 0 {
+        let doc_last_y = doc_first_y + (doc_count - 1) as f64 * REMARK_SPACING;
+        let half = 0.25;
+        svg.push_str(&format!(
+            r#"<rect x="{source_x}" y="{}" width="{LINE_LEN}" height="{}" class="fill"/>
+"#,
+            doc_first_y - half,
+            doc_last_y - doc_first_y + 2.0 * half
+        ));
+
+        // Tick marks and page labels
+        for i in 0..doc_count {
+            let num = i + 1;
+            if num % LABEL_INTERVAL == 0 {
+                let y = doc_first_y + i as f64 * REMARK_SPACING;
+                svg.push_str(&format!(
+                    r#"<line x1="{}" y1="{y}" x2="{}" y2="{y}" stroke="{}" stroke-width="0.5"/>
+"#,
+                    source_x + LINE_LEN,
+                    source_x + LINE_LEN + TICK_EXTEND,
+                    "#000"
+                ));
+                let page = page_from_anchor(&doc.anchors[i]);
+                svg.push_str(&format!(
+                    r#"<text x="{label_x}" y="{y}" class="label" dominant-baseline="middle">{}</text>
+"#,
+                    xml_escape(page)
+                ));
+            }
+        }
+    }
+
+    // Work columns (left side)
+    for work_name in work_order {
+        let Some(layout) = work_layouts.get(work_name) else {
+            continue;
+        };
+        if layout.entry_ys.is_empty() {
+            continue;
+        }
+        let first_y = layout.entry_ys[0];
+
+        // Work title (use German title from work file)
+        let work_title_y = first_y - TITLE_OFFSET + TITLE_FONT_SIZE * 0.8;
+        let display_title = work_titles
+            .get(work_name)
+            .map(|s| s.as_str())
+            .unwrap_or(work_name);
+        svg.push_str(&format!(
+            r#"<text x="{work_x}" y="{work_title_y}" class="title">{}</text>
+"#,
+            xml_escape(display_title)
+        ));
+
+        // Draw filled rectangles for contiguous runs of Show entries
+        let half = 0.25;
+        let mut range_start: Option<f64> = None;
+        let mut range_end: f64 = 0.0;
+        for (ei, entry) in layout.entries.iter().enumerate() {
+            let y = layout.entry_ys[ei];
+            match entry {
+                DisplayEntry::Show(_) => {
+                    if range_start.is_none() {
+                        range_start = Some(y);
+                    }
+                    range_end = y;
+                }
+                DisplayEntry::Truncated(_) => {
+                    if let Some(start) = range_start.take() {
+                        svg.push_str(&format!(
+                            r#"<rect x="{work_x}" y="{}" width="{LINE_LEN}" height="{}" class="fill"/>
+"#,
+                            start - half,
+                            range_end - start + 2.0 * half
+                        ));
+                    }
+                }
+            }
+        }
+        if let Some(start) = range_start {
+            svg.push_str(&format!(
+                r#"<rect x="{work_x}" y="{}" width="{LINE_LEN}" height="{}" class="fill"/>
+"#,
+                start - half,
+                range_end - start + 2.0 * half
+            ));
+        }
+
+        // Truncation markers only (no tick labels for work columns)
+        for (ei, entry) in layout.entries.iter().enumerate() {
+            if let DisplayEntry::Truncated(_) = entry {
+                let y = layout.entry_ys[ei];
+                svg.push_str(&format!(
+                    r#"<text x="{}" y="{y}" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+"#,
+                    work_x + LINE_LEN / 2.0
+                ));
+            }
+        }
+    }
+
+    // Bezier curves — from works (left) to document (right)
+    let runs = detect_runs(correspondences, &work_layouts);
+    let curve_gap = 2.0;
+    let lx = work_x + LINE_LEN + curve_gap;
+    let rx = source_x - curve_gap;
+    let half = 0.25;
+    for run in &runs {
+        let layout = work_layouts.get(&run.doc_name).unwrap();
+
+        // Left side = work positions (multi column)
+        let first_work_y = *layout.remark_y_map.get(&run.source_start).unwrap() - half;
+        let last_work_y = *layout.remark_y_map.get(&run.source_end).unwrap() + half;
+
+        // Right side = document positions (single column)
+        // No gap extension here — unlike work viz, many doc remarks are
+        // unpublished, so gaps between runs should remain visible.
+        let first_doc_y = doc_first_y + run.work_start as f64 * REMARK_SPACING - half;
+        let last_doc_y = doc_first_y + run.work_end as f64 * REMARK_SPACING + half;
+
+        svg.push_str(&format!(
+            r#"<path d="M {lx},{first_work_y} C {mid_x},{first_work_y} {mid_x},{first_doc_y} {rx},{first_doc_y} L {rx},{last_doc_y} C {mid_x},{last_doc_y} {mid_x},{last_work_y} {lx},{last_work_y} Z" class="curve"/>
 "#
         ));
     }

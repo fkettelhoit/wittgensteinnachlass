@@ -11,7 +11,7 @@
   .curve { fill: #000; fill-opacity: 0.3; stroke: none; }
 </style>
 <rect width="100%" height="100%" fill="white"/>
-<text x="0" y="18.8" class="title">W-PG-1-App-6</text>
+<text x="0" y="18.8" class="title">Philosophische Grammatik – I App 6</text>
 <rect x="0" y="21.75" width="8" height="19.700000000000003" class="fill"/>
 <text x="380" y="18.8" class="title">Ts-213</text>
 <rect x="380" y="21.75" width="8" height="15.699999999999989" class="fill"/>
@@ -41,5 +41,5 @@
 <text x="399" y="117.99999999999979" class="label" dominant-baseline="middle">763r</text>
 <line x1="388" y1="125.99999999999976" x2="391" y2="125.99999999999976" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="125.99999999999976" class="label" dominant-baseline="middle">767r</text>
-<path d="M 10,21.75 C 194,21.75 194,65.19999999999993 378,65.19999999999993 L 378,84.39999999999986 C 194,84.39999999999986 194,41.45 10,41.45 Z" class="curve"/>
+<path d="M 10,21.75 C 194,21.75 194,64.94999999999993 378,64.94999999999993 L 378,84.64999999999986 C 194,84.64999999999986 194,41.45 10,41.45 Z" class="curve"/>
 </svg>

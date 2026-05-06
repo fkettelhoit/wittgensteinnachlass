@@ -9,7 +9,7 @@ pub struct WorkRemark {
 }
 
 pub struct Work {
-    pub filename: String,
+    pub title: String,
     pub remarks: Vec<WorkRemark>,
 }
 
@@ -37,11 +37,18 @@ pub struct Correspondence {
 
 /// Compute the anchor ID from a remark heading's page refs.
 /// E.g., heading `### [1\[1\]](url)` → page ref text `1[1]` → anchor `1.1`
+/// Skips work reference links (internal URLs starting with `/`) and only
+/// uses facsimile links (external URLs) for the anchor.
 fn anchor_from_doc_heading(heading: &str) -> String {
-    // Extract the link text portions (page refs) from the heading
-    let link_re = Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\([^)]+\)").unwrap();
+    // Extract link text and URL pairs from the heading
+    let link_re = Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\(([^)]+)\)").unwrap();
     let mut parts = Vec::new();
     for cap in link_re.captures_iter(heading) {
+        let url = &cap[2];
+        // Skip internal links (work references like /w-lw-1/#...)
+        if url.starts_with('/') {
+            continue;
+        }
         let text = cap[1].replace("\\[", "[").replace("\\]", "]");
         parts.push(text);
     }
@@ -61,6 +68,13 @@ pub fn parse_work(path: &Path) -> Work {
     let content = fs::read_to_string(path).expect("Failed to read work file");
     let filename = path.file_name().unwrap().to_string_lossy().to_string();
 
+    // Extract title from first "# " line
+    let title = content
+        .lines()
+        .find(|l| l.starts_with("# "))
+        .map(|l| l[2..].trim().to_string())
+        .unwrap_or_else(|| filename.replace(".md", ""));
+
     // Parse each ### heading to extract source doc and anchor
     let heading_re = Regex::new(r"### \[([^\]]+)\]\(/[^)]+/#([^)]+)\)").unwrap();
     let mut remarks = Vec::new();
@@ -74,7 +88,7 @@ pub fn parse_work(path: &Path) -> Work {
         }
     }
 
-    Work { filename, remarks }
+    Work { title, remarks }
 }
 
 /// Parse a DD.MM.YYYY date string into a day count for comparison.
@@ -178,4 +192,68 @@ pub fn source_doc_order(work: &Work) -> Vec<String> {
         }
     }
     order
+}
+
+/// Extract work URL slugs referenced in a document's remark headings.
+/// Returns unique slugs in order of first appearance.
+/// E.g. a heading `### [LW I](/w-lw-1/#...)` yields slug `"w-lw-1"`.
+pub fn parse_doc_work_slugs(path: &Path) -> Vec<String> {
+    let content = fs::read_to_string(path).expect("Failed to read doc file");
+    let work_ref_re = Regex::new(r"### \[[^\]]+\]\(/([^/)]+)/#[^)]+\)").unwrap();
+    let mut seen = std::collections::HashSet::new();
+    let mut order = Vec::new();
+    for line in content.lines() {
+        if let Some(cap) = work_ref_re.captures(line) {
+            let slug = cap[1].to_string();
+            if seen.insert(slug.clone()) {
+                order.push(slug);
+            }
+        }
+    }
+    order
+}
+
+/// Build correspondences for a document visualization.
+///
+/// The returned correspondences have swapped semantics for use with `render_doc`:
+/// - `work_idx` = document remark index (single column, right side)
+/// - `doc_name` = work filename stem (multi column name, left side)
+/// - `source_idx` = work remark index (multi column position, left side)
+pub fn build_doc_correspondence(
+    doc_name: &str,
+    doc: &SourceDoc,
+    works: &HashMap<String, Work>,
+) -> Vec<Correspondence> {
+    // Build anchor lookup for the target document
+    let mut anchor_map: HashMap<&str, usize> = HashMap::new();
+    for (i, anchor) in doc.anchors.iter().enumerate() {
+        anchor_map.insert(anchor.as_str(), i);
+    }
+
+    let mut all_corrs = Vec::new();
+    for (work_name, work) in works {
+        for (work_idx, remark) in work.remarks.iter().enumerate() {
+            if remark.source_doc != doc_name {
+                continue;
+            }
+            if let Some(&doc_idx) = anchor_map.get(remark.source_anchor.as_str()) {
+                all_corrs.push(Correspondence {
+                    work_idx: doc_idx,           // document remark index
+                    doc_name: work_name.clone(), // work name
+                    source_idx: work_idx,        // work remark index
+                });
+            }
+        }
+    }
+    // Sort by document remark index for detect_runs
+    all_corrs.sort_by_key(|c| c.work_idx);
+    all_corrs
+}
+
+/// Create a SourceDoc representation of a work (for layout in doc visualizations).
+/// Uses 1-based remark numbers as anchors and no breaks.
+pub fn work_as_source_doc(work: &Work) -> SourceDoc {
+    let anchors: Vec<String> = (1..=work.remarks.len()).map(|i| i.to_string()).collect();
+    let breaks = vec![];
+    SourceDoc { anchors, breaks }
 }
