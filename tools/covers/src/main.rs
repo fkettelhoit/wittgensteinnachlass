@@ -1,10 +1,10 @@
 mod parse;
 mod svg;
 
-use base64::Engine;
 use clap::Parser;
 use std::fs;
 use std::path::PathBuf;
+use std::process::Command;
 
 #[derive(Parser)]
 #[command(
@@ -28,17 +28,17 @@ struct Cli {
     #[arg(long)]
     all: bool,
 
-    /// Path to SangBleu Empire Bold woff2
+    /// Path to SangBleu Empire Bold TTF
     #[arg(
         long,
-        default_value = "../../../site/fonts/sangbleu/SangBleuEmpire-Bold-WebS.woff2"
+        default_value = "../../../sangbleu/web files/SangBleuEmpire-Bold-WebS.ttf"
     )]
     font_bold: PathBuf,
 
-    /// Path to SangBleu Empire Regular woff2
+    /// Path to SangBleu Empire Regular TTF
     #[arg(
         long,
-        default_value = "../../../site/fonts/sangbleu/SangBleuEmpire-Regular-WebS.woff2"
+        default_value = "../../../sangbleu/web files/SangBleuEmpire-Regular-WebS.ttf"
     )]
     font_regular: PathBuf,
 }
@@ -48,9 +48,13 @@ fn main() {
 
     let files = discover_files(&cli.input, &cli.file, cli.all);
 
-    // Load and base64-encode fonts
-    let font_bold_b64 = load_font_b64(&cli.font_bold);
-    let font_regular_b64 = load_font_b64(&cli.font_regular);
+    // Resolve font paths to absolute paths for SVG file:// references
+    let font_bold_abs = fs::canonicalize(&cli.font_bold)
+        .unwrap_or_else(|_| panic!("Bold font not found: {}", cli.font_bold.display()));
+    let font_regular_abs = fs::canonicalize(&cli.font_regular)
+        .unwrap_or_else(|_| panic!("Regular font not found: {}", cli.font_regular.display()));
+    let font_bold_str = font_bold_abs.to_string_lossy();
+    let font_regular_str = font_regular_abs.to_string_lossy();
 
     fs::create_dir_all(&cli.output).expect("Failed to create output directory");
 
@@ -89,11 +93,15 @@ fn main() {
             }
         }
 
+        // Generate text-only SVG, convert to paths via Inkscape, then combine with circles
+        let text_paths = convert_text_to_paths(&data.title, &font_bold_str, &font_regular_str, &cli.output);
+
         let total = data.paragraphs.len();
-        let (svg, placed) = svg::render_cover(&data, &font_bold_b64, &font_regular_b64);
+        let (svg_final, placed) = svg::render_cover(&data, &text_paths);
 
         let out_path = cli.output.join(format!("{}.svg", stem));
-        fs::write(&out_path, &svg).expect("Failed to write SVG");
+        fs::write(&out_path, &svg_final).expect("Failed to write SVG");
+
         if placed < total {
             eprintln!(
                 "  {} -> {} ({} paragraphs, WARNING: {} cut off)",
@@ -111,6 +119,95 @@ fn main() {
             );
         }
     }
+}
+
+/// Generate a text-only SVG, run Inkscape to convert text to paths,
+/// and return the extracted path groups.
+fn convert_text_to_paths(title: &str, font_bold: &str, font_regular: &str, output_dir: &PathBuf) -> String {
+    let text_svg = svg::render_text_svg(title, font_bold, font_regular);
+
+    let tmp_path = output_dir.join("_text_tmp.svg");
+    fs::write(&tmp_path, &text_svg).expect("Failed to write temp text SVG");
+
+    let status = Command::new("inkscape")
+        .arg(&tmp_path)
+        .arg("--export-text-to-path")
+        .arg("--export-plain-svg")
+        .arg(format!("--export-filename={}", tmp_path.display()))
+        .stderr(std::process::Stdio::null())
+        .status()
+        .expect("Failed to run inkscape -- is it installed?");
+
+    if !status.success() {
+        eprintln!("  Warning: inkscape text-to-path conversion failed");
+    }
+
+    let inkscape_output = fs::read_to_string(&tmp_path).unwrap_or_default();
+    let _ = fs::remove_file(&tmp_path);
+
+    extract_text_paths(&inkscape_output)
+}
+
+/// Extract <g aria-label="..."><path .../></g> blocks from Inkscape's SVG output.
+/// Inkscape formats elements across multiple lines, so we use position-based parsing.
+fn extract_text_paths(svg: &str) -> String {
+    let mut result = String::new();
+    let mut search_from = 0;
+
+    while let Some(pos) = svg[search_from..].find("aria-label=") {
+        let abs_pos = search_from + pos;
+
+        // Check if this aria-label is on a <g> (not a <path>)
+        let tag_start = match svg[..abs_pos].rfind('<') {
+            Some(i) => i,
+            None => { search_from = abs_pos + 1; continue; }
+        };
+        if !svg[tag_start..abs_pos].contains("<g") {
+            search_from = abs_pos + 1;
+            continue;
+        }
+
+        // Extract the label value
+        let label_start = abs_pos + "aria-label=\"".len();
+        let label_end = label_start + svg[label_start..].find('"').unwrap_or(0);
+        let label = &svg[label_start..label_end];
+
+        // Find the closing </g> for this group
+        let group_end = match svg[label_end..].find("</g>") {
+            Some(i) => label_end + i,
+            None => { search_from = abs_pos + 1; continue; }
+        };
+        let group_content = &svg[label_end..group_end];
+
+        // Find the <path> element within this group, then extract d="..." and style="..."
+        if let Some(path_start) = group_content.find("<path") {
+            let path_region = &group_content[path_start..];
+            // Search for " d=" (space-prefixed) to avoid matching "id="
+            if let Some(d_pos) = path_region.find(" d=\"") {
+                let d_start = d_pos + 4; // skip ' d="'
+                let d_end = d_start + path_region[d_start..].find('"').unwrap_or(0);
+                let d_value = &path_region[d_start..d_end];
+
+                // Extract fill from style attribute if present
+                let fill = path_region.find("style=\"").and_then(|style_pos| {
+                    let s_start = style_pos + 7;
+                    let s_end = s_start + path_region[s_start..].find('"')?;
+                    let style = &path_region[s_start..s_end];
+                    style.split(';')
+                        .find_map(|part| part.trim().strip_prefix("fill:").map(|v| v.trim().to_string()))
+                });
+
+                result.push_str(&format!(r#"<g aria-label="{label}"><path d="{d_value}""#));
+                if let Some(f) = fill {
+                    result.push_str(&format!(r#" fill="{f}""#));
+                }
+                result.push_str("/></g>\n");
+            }
+        }
+
+        search_from = group_end + 4;
+    }
+    result
 }
 
 fn discover_files(input: &PathBuf, file: &Option<String>, all: bool) -> Vec<PathBuf> {
@@ -144,14 +241,4 @@ fn discover_files(input: &PathBuf, file: &Option<String>, all: bool) -> Vec<Path
         std::process::exit(1);
     }
     files
-}
-
-fn load_font_b64(path: &PathBuf) -> String {
-    if path.exists() {
-        let bytes = fs::read(path).expect("Failed to read font file");
-        base64::engine::general_purpose::STANDARD.encode(&bytes)
-    } else {
-        eprintln!("Warning: font not found at {}", path.display());
-        String::new()
-    }
 }

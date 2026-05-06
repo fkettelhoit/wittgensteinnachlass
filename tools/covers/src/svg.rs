@@ -27,12 +27,70 @@ const CIRCLE_STROKE_WIDTH: f64 = 6.0;
 /// Approximate width of a character in SangBleu Empire Bold at title size.
 const CHAR_WIDTH_RATIO: f64 = 0.57;
 
+/// Generate a minimal SVG containing only the text elements and font references.
+/// This SVG is meant to be processed by Inkscape's --export-text-to-path.
+pub fn render_text_svg(
+    title: &str,
+    font_bold_path: &str,
+    font_regular_path: &str,
+) -> String {
+    let clean_title = title
+        .replace(" \u{2013} ", " ")
+        .replace("\u{2013}", "");
+    let words: Vec<&str> = split_title(&clean_title);
+
+    let mut svg = format!(
+        r#"<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
+<style>
+  @font-face {{
+    font-family: "SangBleu Empire";
+    src: url("file://{font_bold_path}") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+  }}
+  @font-face {{
+    font-family: "SangBleu Empire";
+    src: url("file://{font_regular_path}") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+  }}
+</style>
+"#
+    );
+
+    // Title text
+    let x = TITLE_COL as f64 * CELL;
+    let mut y = TITLE_ROW as f64 * CELL + TITLE_FONT_SIZE * 0.85;
+    for word in &words {
+        let escaped = xml_escape(word);
+        svg.push_str(&format!(
+            r#"<g aria-label="{escaped}"><text x="{x}" y="{y:.0}" font-family="SangBleu Empire, serif" font-size="{TITLE_FONT_SIZE}" font-weight="700" fill="{COLOR_HEADING}">{escaped}</text></g>
+"#,
+        ));
+        y += TITLE_LINE_STEP as f64 * CELL;
+    }
+
+    // Branding text
+    let brand_x = TITLE_COL as f64 * CELL;
+    let brand_y = BRANDING_ROW as f64 * CELL + BRANDING_FONT_SIZE * 0.85;
+    svg.push_str(&format!(
+        r#"<g aria-label="Wittgenstein&apos;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&apos;s</text></g>
+"#
+    ));
+    let brand_y2 = brand_y + BRANDING_FONT_SIZE * 1.1;
+    svg.push_str(&format!(
+        r#"<g aria-label="Writings"><text x="{brand_x}" y="{brand_y2:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Writings</text></g>
+"#
+    ));
+
+    svg.push_str("</svg>\n");
+    svg
+}
+
 /// Returns (svg_string, paragraphs_placed).
-pub fn render_cover(
-    data: &CoverData,
-    font_bold_b64: &str,
-    font_regular_b64: &str,
-) -> (String, usize) {
+/// `text_paths` contains pre-rendered <g aria-label="..."><path .../></g> groups
+/// extracted from Inkscape's text-to-path output.
+pub fn render_cover(data: &CoverData, text_paths: &str) -> (String, usize) {
     let mut svg_bg = String::new(); // halos (behind everything)
     let mut svg_fg = String::new(); // circles
 
@@ -82,18 +140,18 @@ pub fn render_cover(
             if row >= start_row {
                 if let Some(para) = para_iter.next() {
                     let r = circle_radius(para.len);
-                    let (fill, stroke, has_halo) = circle_style(para);
+                    let (class, has_halo) = circle_class(para);
 
                     if has_halo {
                         let halo_r = r + 5.0;
                         svg_bg.push_str(&format!(
-                            r#"<circle cx="{cx}" cy="{cy}" r="{halo_r:.1}" fill="{CIRCLE_FILL}" stroke="{CIRCLE_FILL}" stroke-width="6"/>"#
+                            r#"<circle cx="{cx}" cy="{cy}" r="{halo_r:.1}" class="h"/>"#
                         ));
                         svg_bg.push('\n');
                     }
 
                     svg_fg.push_str(&format!(
-                        r#"<circle cx="{cx}" cy="{cy}" r="{r:.1}" fill="{fill}" stroke="{stroke}" stroke-width="{CIRCLE_STROKE_WIDTH}"/>"#
+                        r#"<circle cx="{cx}" cy="{cy}" r="{r:.1}" class="{class}"/>"#
                     ));
                     svg_fg.push('\n');
                     placed += 1;
@@ -102,62 +160,29 @@ pub fn render_cover(
             }
             // Fill remaining positions with border-style circles
             svg_fg.push_str(&format!(
-                    r#"<circle cx="{cx}" cy="{cy}" r="{BORDER_CIRCLE_R}" fill="none" stroke="{COLOR_TEXT}" stroke-width="2"/>"#
+                    r#"<circle cx="{cx}" cy="{cy}" r="{BORDER_CIRCLE_R}" class="b"/>"#
                 ));
             svg_fg.push('\n');
         }
     }
 
     // Assemble SVG
-    let mut svg = String::new();
-    svg.push_str(&format!(
+    let mut svg = format!(
         r#"<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
 <style>
-  @font-face {{
-    font-family: "SangBleu Empire";
-    src: url("data:font/woff2;base64,{font_bold_b64}") format("woff2");
-    font-weight: 700;
-    font-style: normal;
-  }}
-  @font-face {{
-    font-family: "SangBleu Empire";
-    src: url("data:font/woff2;base64,{font_regular_b64}") format("woff2");
-    font-weight: 400;
-    font-style: normal;
-  }}
+.h{{fill:{CIRCLE_FILL};stroke:{CIRCLE_FILL};stroke-width:6}}
+.f{{fill:{CIRCLE_FILL};stroke:{COLOR_TEXT};stroke-width:6}}
+.s{{fill:{COLOR_TEXT};stroke:{COLOR_TEXT};stroke-width:6}}
+.o{{fill:none;stroke:{COLOR_TEXT};stroke-width:{CIRCLE_STROKE_WIDTH}}}
+.b{{fill:none;stroke:{COLOR_TEXT};stroke-width:2}}
 </style>
 <rect width="100%" height="100%" fill="white"/>
 "#
-    ));
+    );
 
     svg.push_str(&svg_bg);
     svg.push_str(&svg_fg);
-
-    // Title text — each word on its own line
-    let x = TITLE_COL as f64 * CELL;
-    let mut y = TITLE_ROW as f64 * CELL + TITLE_FONT_SIZE * 0.85;
-    for word in &words {
-        svg.push_str(&format!(
-            r#"<text x="{x}" y="{y:.0}" font-family="SangBleu Empire, serif" font-size="{TITLE_FONT_SIZE}" font-weight="700" fill="{COLOR_HEADING}">{}</text>"#,
-            xml_escape(word)
-        ));
-        svg.push('\n');
-        y += TITLE_LINE_STEP as f64 * CELL;
-    }
-
-    // Branding text (top-left, aligned with title)
-    let brand_x = TITLE_COL as f64 * CELL;
-    let brand_y = BRANDING_ROW as f64 * CELL + BRANDING_FONT_SIZE * 0.85;
-    svg.push_str(&format!(
-        r#"<text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein’s</text>"#
-    ));
-    svg.push('\n');
-    let brand_y2 = brand_y + BRANDING_FONT_SIZE * 1.1;
-    svg.push_str(&format!(
-        r#"<text x="{brand_x}" y="{brand_y2:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Writings</text>"#
-    ));
-    svg.push('\n');
-
+    svg.push_str(text_paths);
     svg.push_str("</svg>\n");
     (svg, placed)
 }
@@ -251,14 +276,15 @@ fn compute_branding_cells(_has_subtitle: bool) -> HashSet<(usize, usize)> {
     cells
 }
 
-/// Determine circle fill style based on paragraph content.
-fn circle_style(para: &Paragraph) -> (&'static str, &'static str, bool) {
+/// Determine circle CSS class based on paragraph content.
+/// Returns (class_name, has_halo).
+fn circle_class(para: &Paragraph) -> (&'static str, bool) {
     if para.question_marks <= para.periods && para.periods > 0 {
-        (CIRCLE_FILL, COLOR_TEXT, true) // gray fill with halo
+        ("f", true) // filled with halo
     } else if para.has_bold {
-        (COLOR_TEXT, COLOR_TEXT, false) // solid dark
+        ("s", false) // solid dark
     } else {
-        ("none", COLOR_TEXT, false) // hollow
+        ("o", false) // hollow/open
     }
 }
 
