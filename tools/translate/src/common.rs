@@ -813,19 +813,6 @@ pub fn build_remark_url_map(translated_dir: &Path, _input_dir: &Path) -> HashMap
     map
 }
 
-/// Extract the series number span from a work remark body, if present.
-/// Returns (Option<series_number_html>, rest_of_body).
-pub fn split_series_number(body: &str) -> (Option<String>, String) {
-    let re = Regex::new(r#"^(<span class="series-number">\d+\.</span>\s*)"#).unwrap();
-    if let Some(cap) = re.captures(body) {
-        let prefix = cap[1].to_string();
-        let rest = body[cap[0].len()..].to_string();
-        (Some(prefix), rest)
-    } else {
-        (None, body.to_string())
-    }
-}
-
 /// Assemble a translated work file from translated doc remarks.
 pub fn assemble_work(
     work_german_path: &Path,
@@ -846,11 +833,22 @@ pub fn assemble_work(
             .unwrap_or_default();
 
         let translated_body = if let Some(doc_body) = url_map.get(&key) {
-            // Re-attach series number if the work remark has one
-            let (series, _) = split_series_number(&remark.body);
-            match series {
-                Some(prefix) => format!("{}{}", prefix, doc_body),
-                None => doc_body.clone(),
+            // The German work may have series number(s) prepended by the parser.
+            // Use the series number prefix from the German work body, combined
+            // with the content (after stripping series numbers) from the translated doc.
+            let sn_re = Regex::new(
+                r#"^(<span class="series-number">[^<]+</span>\s*)+"#,
+            )
+            .unwrap();
+            let work_prefix = sn_re
+                .find(&remark.body)
+                .map(|m| m.as_str())
+                .unwrap_or("");
+            let doc_content = sn_re.replace(doc_body, "");
+            if work_prefix.is_empty() {
+                doc_body.clone()
+            } else {
+                format!("{}{}", work_prefix, doc_content)
             }
         } else {
             missing += 1;

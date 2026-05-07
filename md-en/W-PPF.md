@@ -10,7 +10,7 @@
 
 ### [Ms-144](/ms-144/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)</span> {#ms-144-1r1}
 
-One can imagine an animal being angry, fearful, sad, joyful, frightened. But hopeful? And why not? The dog believes his master is at the door. But can he also believe that his master will come the day after tomorrow? – And _what_ can he not do? – How am I to do it? – What am I to answer? Can only those who can speak also hope? Only those who master the use of a language. That is, the phenomena of hoping are modifications of this complicated form of life. (If a concept aims at a characteristic of human handwriting, then it has no application to beings that do not write.)
+<span class="series-number">i.</span> One can imagine an animal being angry, fearful, sad, joyful, frightened. But hopeful? And why not? The dog believes his master is at the door. But can he also believe that his master will come the day after tomorrow? – And _what_ can he not do? – How am I to do it? – What am I to answer? Can only those who can speak also hope? Only those who master the use of a language. That is, the phenomena of hoping are modifications of this complicated form of life. (If a concept aims at a characteristic of human handwriting, then it has no application to beings that do not write.)
 
 ### [Ms-144](/ms-144/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)</span> {#ms-144-1r2}
 
@@ -34,7 +34,7 @@ For consider the sensations evoked by the _gestures_ of dread: the words “I am
 
 ### [Ms-144](/ms-144/#4r.1) <span class="fac">[4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)</span> {#ms-144-4r1}
 
-With his words, “When I heard the word, it meant to me…,” he refers to a _point in time_ & to a _way of using words_. (What we do not understand is, of course, this combination.) And the expression “I wanted to say at that time…” refers to a _point in time_ & to an _action_. I am speaking of the essential _references_ of the utterance, in order to distinguish it from other peculiarities of our expression. And the references are essential to the utterance in that they would lead us to translate an otherwise unfamiliar mode of expression into this form that we use.
+<span class="series-number">ii.</span> With his words, “When I heard the word, it meant to me…,” he refers to a _point in time_ & to a _way of using words_. (What we do not understand is, of course, this combination.) And the expression “I wanted to say at that time…” refers to a _point in time_ & to an _action_. I am speaking of the essential _references_ of the utterance, in order to distinguish it from other peculiarities of our expression. And the references are essential to the utterance in that they would lead us to translate an otherwise unfamiliar mode of expression into this form that we use.
 
 ### [Ms-144](/ms-144/#4r.2) <span class="fac">[4r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)</span> {#ms-144-4r2}
 
@@ -78,7 +78,7 @@ If I utter the sentence with the meanings swapped, the sense of the sentence fal
 
 ### [Ms-144](/ms-144/#6r.1) <span class="fac">[6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)</span> {#ms-144-6r1}
 
-What makes my image of him an image of _him_? Not the similarity of the picture. The same question applies to the utterance “I can now vividly see him,” as to the image. What makes my utterance an utterance about _him_? – Nothing that lies in it, or that is simultaneous with it (‘behind it’). If you want to know whom he meant, ask him! (But it may also be that I have a face in mind, yes, that I can draw it, & do not know to which person it belongs, where I saw it.)
+<span class="series-number">iii.</span> What makes my image of him an image of _him_? Not the similarity of the picture. The same question applies to the utterance “I can now vividly see him,” as to the image. What makes my utterance an utterance about _him_? – Nothing that lies in it, or that is simultaneous with it (‘behind it’). If you want to know whom he meant, ask him! (But it may also be that I have a face in mind, yes, that I can draw it, & do not know to which person it belongs, where I saw it.)
 
 ### [Ms-144](/ms-144/#6r.2) <span class="fac">[6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)</span> {#ms-144-6r2}
 
@@ -86,7 +86,7 @@ If, however, someone were to draw while imagining, or instead of imagining; even
 
 ### [Ms-144](/ms-144/#7r.1) <span class="fac">[7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)</span> {#ms-144-7r1}
 
-“I believe that he is suffering.” – – Do I also believe that he is not an automaton? I could only utter that word in these two contexts with reluctance. (Or is it _so_: I believe that he is suffering; I am sure that he is not an automaton? Nonsense!)
+<span class="series-number">iv.</span> “I believe that he is suffering.” – – Do I also believe that he is not an automaton? I could only utter that word in these two contexts with reluctance. (Or is it _so_: I believe that he is suffering; I am sure that he is not an automaton? Nonsense!)
 
 ### [Ms-144](/ms-144/#7r.2) <span class="fac">[7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)</span> {#ms-144-7r2}
 
@@ -118,7 +118,7 @@ But what about such an expression: “When you said it, I understood it in my he
 
 ### [Ms-144](/ms-144/#8r.1) <span class="fac">[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)</span> {#ms-144-8r1}
 
-Imagine we are observing the movement of a point (a point of light on a screen, for example). Important conclusions of various kinds could be drawn from the behavior of this point. But how many different things can be observed about it! The path of the point and certain of its dimensions (e.g., amplitude and wavelength), or the speed and the law according to which it changes, or the number or location of the points at which it changes abruptly, or the curvature of the path at these points, and countless other things. And each of these _features_ of the behavior could be the only one that interests us. For example, everything in this movement might be of no interest to us except the number of oscillations in a certain time. And if not only _one_ such feature interests us, but several, then each of them may give us a particular insight, different in kind from all the others. And so it is with human behavior, with the various characteristics of this behavior that we observe.
+<span class="series-number">v.</span> Imagine we are observing the movement of a point (a point of light on a screen, for example). Important conclusions of various kinds could be drawn from the behavior of this point. But how many different things can be observed about it! The path of the point and certain of its dimensions (e.g., amplitude and wavelength), or the speed and the law according to which it changes, or the number or location of the points at which it changes abruptly, or the curvature of the path at these points, and countless other things. And each of these _features_ of the behavior could be the only one that interests us. For example, everything in this movement might be of no interest to us except the number of oscillations in a certain time. And if not only _one_ such feature interests us, but several, then each of them may give us a particular insight, different in kind from all the others. And so it is with human behavior, with the various characteristics of this behavior that we observe.
 
 ### [Ms-144](/ms-144/#8r.2) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)</span> {#ms-144-8r2}
 
@@ -150,7 +150,7 @@ Here it is like the relationship: physical object & sensory impressions. We have
 
 ### [Ms-144](/ms-144/#10r.1) <span class="fac">[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)</span> {#ms-144-10r1}
 
-Imagine, someone said: every word that is well-known to us, in a book, for example, already has a vague area in our mind, a ‘court’ of weakly indicated uses around it. – As if in a painting, each of the figures is also surrounded by delicate, nebulously drawn scenes, as if in another dimension, and we see the figures here in other contexts. – Let us simply take this assumption seriously! – Then it turns out that it cannot explain the _intention_. For if it is the case that the possibilities of the use of a word float before us in half-tones when speaking or listening – if it is the case, then this is only true for _us_. But we communicate with others without knowing whether they also have these experiences.
+<span class="series-number">vi.</span> Imagine, someone said: every word that is well-known to us, in a book, for example, already has a vague area in our mind, a ‘court’ of weakly indicated uses around it. – As if in a painting, each of the figures is also surrounded by delicate, nebulously drawn scenes, as if in another dimension, and we see the figures here in other contexts. – Let us simply take this assumption seriously! – Then it turns out that it cannot explain the _intention_. For if it is the case that the possibilities of the use of a word float before us in half-tones when speaking or listening – if it is the case, then this is only true for _us_. But we communicate with others without knowing whether they also have these experiences.
 
 ### [Ms-144](/ms-144/#10r.2) <span class="fac">[10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)</span> {#ms-144-10r2}
 
@@ -218,7 +218,7 @@ It could be like this: I hear someone paint a picture of “Beethoven writing th
 
 ### [Ms-144](/ms-144/#14r.1) <span class="fac">[14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)</span> {#ms-144-14r1}
 
-People who, after waking up, tell us about certain events (they were there and there, etc.). We now teach them the expression “I dreamed,” which is followed by the narration. I sometimes ask them, “Did you dream anything last night?” and receive an affirmative or negative answer, sometimes a dream narration, sometimes none. That is the language-game. (I am now assuming that I myself do not dream. But I also never have the feelings of an invisible presence, and others have them, and I can ask them about their experiences.) Must I now make an assumption about whether the people have deceived their memory, or not; whether they really saw these images in front of them during sleep, or whether it only seems that way to them after waking up? And what is the point of this question? – And what is the interest?! Do we ever ask ourselves this when someone tells us their dream? And if not, is it because we are sure that their memory will not deceive them? (And suppose it is a person with a very bad memory. –)
+<span class="series-number">vii.</span> People who, after waking up, tell us about certain events (they were there and there, etc.). We now teach them the expression “I dreamed,” which is followed by the narration. I sometimes ask them, “Did you dream anything last night?” and receive an affirmative or negative answer, sometimes a dream narration, sometimes none. That is the language-game. (I am now assuming that I myself do not dream. But I also never have the feelings of an invisible presence, and others have them, and I can ask them about their experiences.) Must I now make an assumption about whether the people have deceived their memory, or not; whether they really saw these images in front of them during sleep, or whether it only seems that way to them after waking up? And what is the point of this question? – And what is the interest?! Do we ever ask ourselves this when someone tells us their dream? And if not, is it because we are sure that their memory will not deceive them? (And suppose it is a person with a very bad memory. –)
 
 ### [Ms-144](/ms-144/#14r.2) <span class="fac">[14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)</span> {#ms-144-14r2}
 
@@ -234,7 +234,7 @@ The evolution of higher animals and humans and the awakening of consciousness at
 
 ### [Ms-144](/ms-144/#15r.1) <span class="fac">[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)</span> {#ms-144-15r1}
 
-“My kinesthetic sensations inform me about the movements & positions of my limbs.” I let my index finger make a slight, oscillating movement with a small range. I hardly feel it, or not at all. Perhaps a little in the fingertip as a slight tension. (Not at all in the joint.) And does this sensation inform me about the movement? – because I can describe it precisely.
+<span class="series-number">viii.</span> “My kinesthetic sensations inform me about the movements & positions of my limbs.” I let my index finger make a slight, oscillating movement with a small range. I hardly feel it, or not at all. Perhaps a little in the fingertip as a slight tension. (Not at all in the joint.) And does this sensation inform me about the movement? – because I can describe it precisely.
 
 ### [Ms-144](/ms-144/#15r.2) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)</span> {#ms-144-15r2}
 
@@ -278,7 +278,7 @@ A ‘feeling’ has a quite _definite_ interest for us. And this includes, for e
 
 ### [Ms-144](/ms-144/#18r.1) <span class="fac">[18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)</span> {#ms-144-18r1}
 
-Whoever observes his own sorrow, with what senses does he observe it? With a special sense; with one that _feels_ the sorrow? Does he feel it _differently_ when he observes it? And which does he observe; the one that is only there while it is being observed? ‘Observing’ does not create the observed. (This is a conceptual statement.) Or: I do not ‘observe’ _that_ which comes into being through observing. The object of observation is something else.
+<span class="series-number">ix.</span> Whoever observes his own sorrow, with what senses does he observe it? With a special sense; with one that _feels_ the sorrow? Does he feel it _differently_ when he observes it? And which does he observe; the one that is only there while it is being observed? ‘Observing’ does not create the observed. (This is a conceptual statement.) Or: I do not ‘observe’ _that_ which comes into being through observing. The object of observation is something else.
 
 ### [Ms-144](/ms-144/#18r.2) <span class="fac">[18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)</span> {#ms-144-18r2}
 
@@ -350,7 +350,7 @@ But if “I am afraid” is not always, and yet sometimes, something similar to 
 
 ### [Ms-144](/ms-144/#21r.1) <span class="fac">[21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r1}
 
-How did one come to use an expression like “I believe…”? Did one become aware of a phenomenon (of belief)? Did one observe oneself and others and thus discover belief?
+<span class="series-number">x.</span> How did one come to use an expression like “I believe…”? Did one become aware of a phenomenon (of belief)? Did one observe oneself and others and thus discover belief?
 
 ### [Ms-144](/ms-144/#21r.2) <span class="fac">[21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r2}
 
@@ -454,7 +454,7 @@ Do not consider the hesitant assertion as an assertion of hesitancy.
 
 ### [Ms-144](/ms-144/#24r.1) <span class="fac">[24r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r1}
 
-<span class="series-number">a1</span> Two uses of the word “see”. The one: “What do you see there?” – “I see _this_” [a description follows, a drawing, a copy]. The other: “I see a similarity in these two faces” – the person to whom I communicate this may see the faces as clearly as I do. The importance: The categorical difference between the two ‘objects’ of seeing.
+<span class="series-number">xi.</span> <span class="series-number">a1</span> Two uses of the word “see”. The one: “What do you see there?” – “I see _this_” [a description follows, a drawing, a copy]. The other: “I see a similarity in these two faces” – the person to whom I communicate this may see the faces as clearly as I do. The importance: The categorical difference between the two ‘objects’ of seeing.
 
 ### [Ms-144](/ms-144/#24r.2) <span class="fac">[24r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r2}
 
@@ -1574,7 +1574,7 @@ Yes, a case could occur in which we would say: “He _believes_ he is pretending
 
 ### [Ms-144](/ms-144/#50r.1) <span class="fac">[50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)</span> {#ms-144-50r1}
 
-If the formation of concepts can be explained by facts of nature, should we not, instead of grammar, be interested in what underlies it in nature? – We are also interested in the correspondence of concepts with very general facts of nature. (Those that we usually do not notice because of their generality.) But our interest does not now turn back to these possible causes of concept formation; we do not engage in natural science; nor in natural history, since we can also invent natural history for our purposes.
+<span class="series-number">xii.</span> If the formation of concepts can be explained by facts of nature, should we not, instead of grammar, be interested in what underlies it in nature? – We are also interested in the correspondence of concepts with very general facts of nature. (Those that we usually do not notice because of their generality.) But our interest does not now turn back to these possible causes of concept formation; we do not engage in natural science; nor in natural history, since we can also invent natural history for our purposes.
 
 ### [Ms-144](/ms-144/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)</span> {#ms-144-50r2}
 
@@ -1586,7 +1586,7 @@ Compare a concept with a style of painting: Is our style of painting also arbitr
 
 ### [Ms-144](/ms-144/#51r.1) <span class="fac">[51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r1}
 
-If I say “Half an hour ago, he was here” – that is, recalling it from memory – then this is not a description of a present **experience**. Memories are byproducts of the act of remembering.
+<span class="series-number">xiii.</span> If I say “Half an hour ago, he was here” – that is, recalling it from memory – then this is not a description of a present **experience**. Memories are byproducts of the act of remembering.
 
 ### [Ms-144](/ms-144/#51r.2) <span class="fac">[51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r2}
 
@@ -1598,7 +1598,7 @@ Could one imagine this situation: for the first time in his life, someone rememb
 
 ### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
 
-<span class="series-number">a107˙9</span> One could say of someone that they are blind to the _expression_ in a face. But does that mean that their sense of faces is lacking something? But this is, of course, not simply a question of physiology. The physiological here is a symbol for the logical. The confusion & barrenness of psychology cannot be explained by the fact that it is a “young science”; its state cannot be compared with that of physics, for example, in its early days. (Rather, it can be compared with certain branches of mathematics. Set theory.) (For in psychology, there are experimental methods _and conceptual confusion_. (As in the other case, conceptual confusion & methods of proof.) The existence of the experimental method makes us believe that we have the means to get rid of the problems that trouble us; although the problem & the method are running past each other in a crooked way.
+<span class="series-number">xiv.</span> <span class="series-number">a107˙9</span> One could say of someone that they are blind to the _expression_ in a face. But does that mean that their sense of faces is lacking something? But this is, of course, not simply a question of physiology. The physiological here is a symbol for the logical. The confusion & barrenness of psychology cannot be explained by the fact that it is a “young science”; its state cannot be compared with that of physics, for example, in its early days. (Rather, it can be compared with certain branches of mathematics. Set theory.) (For in psychology, there are experimental methods _and conceptual confusion_. (As in the other case, conceptual confusion & methods of proof.) The existence of the experimental method makes us believe that we have the means to get rid of the problems that trouble us; although the problem & the method are running past each other in a crooked way.
 
 ### [Ms-144](/ms-144/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-40r2}
 

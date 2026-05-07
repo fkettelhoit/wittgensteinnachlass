@@ -277,6 +277,7 @@ fn verify_and_fix_doc(
     verbose: bool,
     num_ctx: usize,
     emphasis_tolerance: usize,
+    skip_remarks: &std::collections::HashSet<String>,
 ) {
     let de_content = fs::read_to_string(de_path).expect("Failed to read German file");
     let (_, de_remarks) = parse_document(&de_content);
@@ -289,6 +290,9 @@ fn verify_and_fix_doc(
         let mut broken: Vec<usize> = Vec::new();
         for (i, (de, en)) in de_remarks.iter().zip(en_remarks.iter()).enumerate() {
             let rid = anchor_from_doc_heading(&de.heading);
+            if should_skip_remark(skip_remarks, filename, &rid) {
+                continue;
+            }
             let mut issues = Vec::new();
             verify::verify_remark(filename, i, &rid, de, en, &mut issues, emphasis_tolerance);
             if !issues.is_empty() {
@@ -605,6 +609,9 @@ pub fn run(args: &TranslateArgs) {
             let mut has_issues = false;
             for (i, (de, en)) in de_remarks.iter().zip(en_remarks.iter()).enumerate() {
                 let rid = anchor_from_doc_heading(&de.heading);
+                if should_skip_remark(&skip_remarks, filename, &rid) {
+                    continue;
+                }
                 let mut issues = Vec::new();
                 verify::verify_remark(filename, i, &rid, de, en, &mut issues, args.emphasis_tolerance);
                 if !issues.is_empty() {
@@ -626,6 +633,7 @@ pub fn run(args: &TranslateArgs) {
                     args.verbose,
                     args.num_ctx,
                     args.emphasis_tolerance,
+                    &skip_remarks,
                 );
             } else {
                 eprintln!(" ok");
@@ -1177,6 +1185,7 @@ pub fn run(args: &TranslateArgs) {
                 args.verbose,
                 args.num_ctx,
                 args.emphasis_tolerance,
+                &skip_remarks,
             );
         }
     }

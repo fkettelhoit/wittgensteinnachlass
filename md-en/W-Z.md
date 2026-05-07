@@ -14,7 +14,7 @@
 
 ### [Ts-233b](/ts-233b/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-567}
 
-<span class="series-number">269.</span> <span class="series-number">269.</span> How does one teach someone to read silently to himself? How does one know if he can do it? How does he himself know that he is doing what is expected of him?
+<span class="series-number">269.</span> How does one teach someone to read silently to himself? How does one know if he can do it? How does he himself know that he is doing what is expected of him?
 
 ### [Ts-233a](/ts-233a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-11}
 
@@ -298,7 +298,9 @@ Is _this_ the difference, that the former are voluntary, the latter involuntary 
 
 ### [Ts-233a](/ts-233a/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/13.webp)</span> {#ts-233a-132}
 
-<span class="series-number">68.</span> <span class="series-number">525.</span> The fulfilment of the expectation does not consist in a third thing happening, which one could describe in some other way besides as “the fulfilment of this expectation,” such as, for example, as a feeling of satisfaction, or joy, or whatever. The expectation that something will be the case is the same as the expectation of the fulfilment of that expectation. Expectation of what is not.
+<span class="series-number">68.</span> <span class="series-number">525.</span>
+
+The fulfilment of the expectation does not consist in a third thing happening, which one could describe in some other way besides as “the fulfilment of this expectation,” such as, for example, as a feeling of satisfaction, or joy, or whatever. The expectation that something will be the case is the same as the expectation of the fulfilment of that expectation. Expectation of what is not.
 
 ### [Ts-233a](/ts-233a/#13.3) <span class="fac">[13\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/13.webp)</span> {#ts-233a-133}
 
@@ -334,27 +336,27 @@ If we substitute the word “kill” for the word “imagine” in this argument
 
 ### [Ts-233a](/ts-233a/#17.4) <span class="fac">[17\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-174}
 
-<span class="series-number">78.</span> <span class="series-number">721.</span> Is “I hope…” a description of a state of mind? A state of mind has a duration. “I have hoped all day…” is thus such a description. But if one says to another, “I hope you come” – how, if he asked me, “How long do you hope it?” Is the answer: “I hope, while I say it”? Suppose I had some answer to this question, would it not be quite irrelevant for the purpose of the words “I hope you will come”?
+<span class="series-number">78.</span> <span class="series-number">721</span> Is “I hope…” a description of a state of mind? A state of mind has a duration. “I have hoped all day…” is thus such a description. But if one says to another, “I hope you come” – how, if he asked me, “How long do you hope it?” Is the answer: “I hope, while I say it”? Suppose I had some answer to this question, would it not be quite irrelevant for the purpose of the words “I hope you will come”?
 
 ### [Ts-233a](/ts-233a/#17.5) <span class="fac">[17\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-175}
 
-<span class="series-number">79.</span> <span class="series-number">04.</span> One says “I hope you will come,” but not “I believe: I hope you will come”; but it would be possible to say: “I believe, I still hope he will come.”
+<span class="series-number">79.</span> <span class="series-number">04</span> One says “I hope you will come,” but not “I believe: I hope you will come”; but it would be possible to say: “I believe, I still hope he will come.”
 
 ### [Ts-233a](/ts-233a/#18.1) <span class="fac">[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/18.webp)</span> {#ts-233a-181}
 
-<span class="series-number">80.</span> <span class="series-number">728.</span> What is the past tense of “Not true, you are coming!”?
+<span class="series-number">80.</span> <span class="series-number">728</span> What is the past tense of “Not true, you are coming!”?
 
 ### [Ts-233a](/ts-233a/#18.2) <span class="fac">[18\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/18.webp)</span> {#ts-233a-182}
 
-<span class="series-number">81.</span> <span class="series-number">050.</span> Where there is genuine duration, one can say to another: “Pay attention and give me a sign when the image, the sound, etc., changes. There is, in fact, a paying of attention. Whereas one cannot track the forgetting of what one knows, and so on, with attention. (This is not true, for one cannot track one’s own mental images with attention either.)
+<span class="series-number">81.</span> <span class="series-number">050</span> Where there is genuine duration, one can say to another: “Pay attention and give me a sign when the image, the sound, etc., changes. There is, in fact, a paying of attention. Whereas one cannot track the forgetting of what one knows, and so on, with attention. (This is not true, for one cannot track one’s own mental images with attention either.)
 
 ### [Ts-233a](/ts-233a/#18.3) <span class="fac">[18\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/18.webp)</span> {#ts-233a-183}
 
-<span class="series-number">82.</span> <span class="series-number">051.</span> Think of the language-game: Determine with the stopwatch how long the impression lasts. One could not, however, determine the duration of knowledge, skill, or understanding in this way.
+<span class="series-number">82.</span> <span class="series-number">051</span> Think of the language-game: Determine with the stopwatch how long the impression lasts. One could not, however, determine the duration of knowledge, skill, or understanding in this way.
 
 ### [Ts-233a](/ts-233a/#18.4) <span class="fac">[18\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/18.webp)</span> {#ts-233a-184}
 
-<span class="series-number">83.</span> <span class="series-number">052.</span> “But the difference between knowledge and hearing does not simply lie in such a characteristic as the nature of their duration. They are quite fundamentally different!” Indeed. But one cannot simply say: “_Know_ and _hear_, and you will notice the difference!”
+<span class="series-number">83.</span> <span class="series-number">052</span> “But the difference between knowledge and hearing does not simply lie in such a characteristic as the nature of their duration. They are quite fundamentally different!” Indeed. But one cannot simply say: “_Know_ and _hear_, and you will notice the difference!”
 
 ### [Ts-233a](/ts-233a/#18.5) <span class="fac">[18\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/18.webp)</span> {#ts-233a-185}
 
@@ -374,11 +376,11 @@ If we substitute the word “kill” for the word “imagine” in this argument
 
 ### [Ts-233a](/ts-233a/#19.2) <span class="fac">[19\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-192}
 
-<span class="series-number">88.</span> <span class="series-number">046.</span> This is probably the point at which one says that one can only communicate the form to the _other_, but not the content. – So one is talking to oneself _about the content!_ – – (How do my words relate to the content that is conscious to me? and for what purpose?) It is very curious that the _processes_ in thinking rarely interest us. It is curious, but not strange.
+<span class="series-number">88.</span> <span class="series-number">046</span> This is probably the point at which one says that one can only communicate the form to the _other_, but not the content. – So one is talking to oneself _about the content!_ – – (How do my words relate to the content that is conscious to me? and for what purpose?) It is very curious that the _processes_ in thinking rarely interest us. It is curious, but not strange.
 
 ### [Ts-233a](/ts-233a/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-193}
 
-<span class="series-number">89.</span> <span class="series-number">211.</span> [Thoughts, as if only hints.] Is he not like a calculating machine here? – He has calculated correctly if the correct result comes out. He may not be able to say what was going on in him. And if we heard it, it might seem like a strange _caricature_ of a calculation.
+<span class="series-number">89.</span> <span class="series-number">211</span> [Thoughts, as if only hints.] Is he not like a calculating machine here? – He has calculated correctly if the correct result comes out. He may not be able to say what was going on in him. And if we heard it, it might seem like a strange _caricature_ of a calculation.
 
 ### [Ts-233a](/ts-233a/#19.4) <span class="fac">[19\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-194}
 
@@ -664,11 +666,11 @@ Would it be just as easy to imagine the analogous case for this sentence: “If 
 
 ### [Ts-233a](/ts-233a/#32.3) <span class="fac">[32\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/32.webp)</span> {#ts-233a-323}
 
-<span class="series-number">156.</span> <span class="series-number">35.</span> Is there _one_ kind of meaning that can be explained, and another kind that does not come to light in an explanation?
+<span class="series-number">156.</span> <span class="series-number">35</span> Is there _one_ kind of meaning that can be explained, and another kind that does not come to light in an explanation?
 
 ### [Ts-233a](/ts-233a/#32.4) <span class="fac">[32\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/32.webp)</span> {#ts-233a-324}
 
-<span class="series-number">157.</span> <span class="series-number">694.</span> The soulful expression in music – it cannot be recognized by rules. And why can we not imagine that it is for other beings?
+<span class="series-number">157.</span> <span class="series-number">694</span> The soulful expression in music – it cannot be recognized by rules. And why can we not imagine that it is for other beings?
 
 ### [Ts-233a](/ts-233a/#32.5) <span class="fac">[32\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/32.webp)</span> {#ts-233a-325}
 
@@ -688,31 +690,31 @@ Would it be just as easy to imagine the analogous case for this sentence: “If 
 
 ### [Ts-233a](/ts-233a/#33.1) <span class="fac">[33\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/33.webp)</span> {#ts-233a-331}
 
-<span class="series-number">162.</span> <span class="series-number">465.</span> When I listen to a melody with understanding, is there not something special going on in me – something that does not happen when I listen to it without understanding? And _what_? – There is no answer; or what occurs to me is banal. I can say, “Now I have understood it” and then perhaps talk about it, play it, compare it with others, etc. _Signs_ of understanding may accompany the listening.
+<span class="series-number">162.</span> <span class="series-number">465</span> When I listen to a melody with understanding, is there not something special going on in me – something that does not happen when I listen to it without understanding? And _what_? – There is no answer; or what occurs to me is banal. I can say, “Now I have understood it” and then perhaps talk about it, play it, compare it with others, etc. _Signs_ of understanding may accompany the listening.
 
 ### [Ts-233a](/ts-233a/#33.2) <span class="fac">[33\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/33.webp)</span> {#ts-233a-332}
 
-<span class="series-number">163.</span> <span class="series-number">466.</span> It is wrong to call understanding a process that accompanies listening. (One could also not call the expression of it, the expressive play, an accompaniment of listening.)
+<span class="series-number">163.</span> <span class="series-number">466</span> It is wrong to call understanding a process that accompanies listening. (One could also not call the expression of it, the expressive play, an accompaniment of listening.)
 
 ### [Ts-233a](/ts-233a/#33.3) <span class="fac">[33\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/33.webp)</span> {#ts-233a-333}
 
-<span class="series-number">164.</span> <span class="series-number">467.</span> For how can one explain what “expressive play” is? Certainly not through something that accompanies the play. – So what does it consist of? One might say: a culture. – If someone has been raised in a particular culture, and thus reacts to music in a certain way, then one can teach him the use of the word “expressive play.”
+<span class="series-number">164.</span> <span class="series-number">467</span> For how can one explain what “expressive play” is? Certainly not through something that accompanies the play. – So what does it consist of? One might say: a culture. – If someone has been raised in a particular culture, and thus reacts to music in a certain way, then one can teach him the use of the word “expressive play.”
 
 ### [Ts-233a](/ts-233a/#33.4) <span class="fac">[33\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/33.webp)</span> {#ts-233a-334}
 
-<span class="series-number">165.</span> <span class="series-number">468.</span> Understanding music is neither a sensation nor a sum of sensations. But calling it an experience is nevertheless correct in the sense that _this_ concept of understanding has certain affinities with other concepts of experience. One says, “I experienced this passage quite differently this time.” But nevertheless, this expression ‘describes’ ‘what happened’ only for someone who is familiar with a particular system of concepts. (Analogy: “I won the game.”)
+<span class="series-number">165.</span> <span class="series-number">468</span> Understanding music is neither a sensation nor a sum of sensations. But calling it an experience is nevertheless correct in the sense that _this_ concept of understanding has certain affinities with other concepts of experience. One says, “I experienced this passage quite differently this time.” But nevertheless, this expression ‘describes’ ‘what happened’ only for someone who is familiar with a particular system of concepts. (Analogy: “I won the game.”)
 
 ### [Ts-233a](/ts-233a/#33.5+34.1) <span class="fac">[33\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/33.webp),[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp)</span> {#ts-233a-335341}
 
-<span class="series-number">166.</span> <span class="series-number">469.</span> When reading, _that_ floats before me. So something is happening when reading…? – This question does not lead anywhere.
+<span class="series-number">166.</span> <span class="series-number">469</span> When reading, _that_ floats before me. So something is happening when reading…? – This question does not lead anywhere.
 
 ### [Ts-233a](/ts-233a/#34.2) <span class="fac">[34\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp)</span> {#ts-233a-342}
 
-<span class="series-number">167.</span> <span class="series-number">470.</span> How can that float before me? – Not in the dimensions you are thinking of.
+<span class="series-number">167.</span> <span class="series-number">470</span> How can that float before me? – Not in the dimensions you are thinking of.
 
 ### [Ts-233a](/ts-233a/#34.3) <span class="fac">[34\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp)</span> {#ts-233a-343}
 
-<span class="series-number">168.</span> <span class="series-number">499.</span> How do I know that someone is delighted? How does one learn the linguistic expression of delight? What does it attach to? To the expression of bodily sensations? Do we ask someone what he feels in his chest, in the facial muscles, in order to find out whether he is experiencing pleasure?
+<span class="series-number">168.</span> <span class="series-number">499</span> How do I know that someone is delighted? How does one learn the linguistic expression of delight? What does it attach to? To the expression of bodily sensations? Do we ask someone what he feels in his chest, in the facial muscles, in order to find out whether he is experiencing pleasure?
 
 ### [Ts-233a](/ts-233a/#34.4+35.1) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp),[35\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-344351}
 
@@ -721,11 +723,13 @@ Would it be just as easy to imagine the analogous case for this sentence: “If 
 ### [Ts-233a](/ts-233a/#35.2) <span class="fac">[35\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-352}
 
 <span class="series-number">171.</span> <span class="series-number">501</span>
+
 But doesn’t understanding also show itself, for example, in the way someone reads the poem, sings the melody? Certainly. But what is the experience during reading? One would have to say: the one who enjoys it and understands it, hears it read well, or feels it in the vocal organs.
 
 ### [Ts-233a](/ts-233a/#35.3) <span class="fac">[35\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-353}
 
 <span class="series-number">172.</span> <span class="series-number">502</span>
+
 One can also say that understanding a musical _phrase_ is the same as understanding a _language_.
 
 ### [Ts-233a](/ts-233a/#35.4) <span class="fac">[35\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-354}
@@ -735,6 +739,7 @@ One can also say that understanding a musical _phrase_ is the same as understand
 ### [Ts-233a](/ts-233a/#35.5) <span class="fac">[35\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-355}
 
 <span class="series-number">174.</span> <span class="series-number">504</span>
+
 Not _that_ contains the illusion: “_Now_ I understand it.” – and then perhaps a long explanation of what I understood follows.
 
 ### [Ts-233a](/ts-233a/#36.2) <span class="fac">[36\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/36.webp)</span> {#ts-233a-362}
@@ -912,15 +917,16 @@ This shape that I see – I would like to say – is not simply _one_ shape, but
 ### [Ts-233a](/ts-233a/#45.3) <span class="fac">[45\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/45.webp)</span> {#ts-233a-453}
 
 <span class="series-number">215.</span> <span class="series-number">165.</span>
+
 Imagine someone who, while looking at the sun, suddenly has the _sensation_ that it is not moving, but rather that we are passing by it. Now he wants to say that he has seen a new state of motion in which we find ourselves; and suppose he now shows, through gestures, what motion he means, and that it is not the motion of the sun. – We would be dealing with two different applications of the word “motion.”
 
 ### [Ts-233a](/ts-233a/#45.4) <span class="fac">[45\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/45.webp)</span> {#ts-233a-454}
 
-<span class="series-number">216.</span> <span class="series-number">520.</span> One does not see the change of aspect, but the change of interpretation.
+<span class="series-number">216.</span> <span class="series-number">520</span> One does not see the change of aspect, but the change of interpretation.
 
 ### [Ts-233a](/ts-233a/#45.5) <span class="fac">[45\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/45.webp)</span> {#ts-233a-455}
 
-<span class="series-number">217.</span> <span class="series-number">521.</span> You do not see it according to one interpretation, but according to an interpreting.
+<span class="series-number">217.</span> <span class="series-number">521</span> You do not see it according to one interpretation, but according to an interpreting.
 
 ### [Ts-233a](/ts-233a/#45.7) <span class="fac">[45\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/45.webp)</span> {#ts-233a-457}
 
@@ -2267,6 +2273,7 @@ It is helpful here to consider that it is a primitive behaviour to care for and 
 ### [Ts-233b](/ts-233b/#36.3) <span class="fac">[36\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/36.webp)</span> {#ts-233b-363}
 
 <span class="series-number">554.</span> <span class="series-number">708</span>
+
 We do not see that the evidence only makes the _feeling_ [i.e. the inner state] of the other person probable, but that we consider _this_ as _evidence_ for something important, that we build a statement on _this_ complicated kind of evidence, that _it_ (therefore) has a special importance in our lives and is highlighted by a concept. [The ‘inner’ and ‘outer’, a picture.]
 
 ### [Ts-233b](/ts-233b/#36.4) <span class="fac">[36\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/36.webp)</span> {#ts-233b-364}
@@ -2351,7 +2358,7 @@ We do not see that the evidence only makes the _feeling_ [i.e. the inner state] 
 
 ### [Ts-233b](/ts-233b/#39.2) <span class="fac">[39\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/39.webp)</span> {#ts-233b-392}
 
-<span class="series-number">575.</span> <span class="series-number">1479</span> Can one say: I _infer_ that he will act as _he_ _intends_ to act? (Case of a false gesture)
+<span class="series-number">575.</span> <span class="series-number">1479.</span> Can one say: I _infer_ that he will act as _he_ _intends_ to act? (Case of a false gesture)
 
 ### [Ts-233b](/ts-233b/#39.3) <span class="fac">[39\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/39.webp)</span> {#ts-233b-393}
 
@@ -2395,7 +2402,7 @@ We do not see that the evidence only makes the _feeling_ [i.e. the inner state] 
 
 ### [Ts-233b](/ts-233b/#40.4) <span class="fac">[40\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-404}
 
-<span class="series-number">587.</span> <span class="series-number">268.</span> The child learns to walk, to crawl, to play. It does not learn to play voluntarily and involuntarily. But what makes the movements of play into voluntary movements? – How would it be if they were involuntary? – I could just as well ask what makes these movements into playing? – Their character and their environment.
+<span class="series-number">587.</span> <span class="series-number">268</span> The child learns to walk, to crawl, to play. It does not learn to play voluntarily and involuntarily. But what makes the movements of play into voluntary movements? – How would it be if they were involuntary? – I could just as well ask what makes these movements into playing? – Their character and their environment.
 
 ### [Ts-233b](/ts-233b/#40.5) <span class="fac">[40\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-405}
 
