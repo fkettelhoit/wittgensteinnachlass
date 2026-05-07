@@ -11,8 +11,9 @@ quick: content hugo
 serve: content
 	hugo server -s site
 
-# Deploy to BunnyCDN (full build + production Hugo rebuild + lftp mirror)
-deploy: translate site
+# Deploy to BunnyCDN (rebuild content + production Hugo + lftp mirror)
+# Run `make site` first if you need to regenerate assets (viz, covers, epub, pdf)
+deploy: content
 	hugo -s site -e production
 	./deploy.sh
 
