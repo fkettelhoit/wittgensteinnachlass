@@ -35,12 +35,12 @@
 <text x="399" y="101.2" class="label" dominant-baseline="middle">36v</text>
 <line x1="388" y1="109.2" x2="391" y2="109.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="109.2" class="label" dominant-baseline="middle">40r</text>
-<text x="0" y="18.8" class="title">W-VB</text>
+<text x="0" y="18.8" class="title">Vermischte Bemerkungen</text>
 <rect x="0" y="21.75" width="8" height="15.699999999999989" class="fill"/>
 <rect x="0" y="48.94999999999999" width="8" height="33.29999999999988" class="fill"/>
 <rect x="0" y="93.74999999999987" width="8" height="15.699999999999946" class="fill"/>
 <text x="4" y="43.19999999999999" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
 <text x="4" y="87.99999999999987" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<path d="M 10,64.94999999999993 C 194,64.94999999999993 194,48.150000000000006 378,48.150000000000006 L 378,68.80000000000001 C 194,68.80000000000001 194,65.44999999999993 10,65.44999999999993 Z" class="curve"/>
-<path d="M 10,65.74999999999993 C 194,65.74999999999993 194,68.80000000000001 378,68.80000000000001 L 378,89.45 C 194,89.45 194,66.24999999999993 10,66.24999999999993 Z" class="curve"/>
+<path d="M 10,64.94999999999993 C 194,64.94999999999993 194,48.150000000000006 378,48.150000000000006 L 378,48.650000000000006 C 194,48.650000000000006 194,65.44999999999993 10,65.44999999999993 Z" class="curve"/>
+<path d="M 10,65.74999999999993 C 194,65.74999999999993 194,88.95 378,88.95 L 378,89.45 C 194,89.45 194,66.24999999999993 10,66.24999999999993 Z" class="curve"/>
 </svg>

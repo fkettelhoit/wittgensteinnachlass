@@ -201,10 +201,10 @@
 <text x="399" y="765.2" class="label" dominant-baseline="middle">293</text>
 <line x1="388" y1="773.2" x2="391" y2="773.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="773.2" class="label" dominant-baseline="middle">298</text>
-<text x="0" y="18.8" class="title">W-VB</text>
+<text x="0" y="18.8" class="title">Vermischte Bemerkungen</text>
 <rect x="0" y="21.75" width="8" height="18.09999999999998" class="fill"/>
 <rect x="0" y="51.34999999999998" width="8" height="15.699999999999946" class="fill"/>
 <text x="4" y="45.59999999999998" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<path d="M 10,22.55 C 194,22.55 194,463.35 378,463.35 L 378,582.4000000000001 C 194,582.4000000000001 194,23.05 10,23.05 Z" class="curve"/>
-<path d="M 10,23.35 C 194,23.35 194,582.4000000000001 378,582.4000000000001 L 378,701.45 C 194,701.45 194,23.85 10,23.85 Z" class="curve"/>
+<path d="M 10,22.55 C 194,22.55 194,463.35 378,463.35 L 378,463.85 C 194,463.85 194,23.05 10,23.05 Z" class="curve"/>
+<path d="M 10,23.35 C 194,23.35 194,700.95 378,700.95 L 378,701.45 C 194,701.45 194,23.85 10,23.85 Z" class="curve"/>
 </svg>

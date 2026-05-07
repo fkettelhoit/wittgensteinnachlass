@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="426" height="148" viewBox="0 0 426 148">
+<svg xmlns="http://www.w3.org/2000/svg" width="426" height="240.00000000000068" viewBox="0 0 426 240.00000000000068">
 <style>
   @font-face {
     font-family: "TeX Gyre Pagella";
@@ -42,11 +42,19 @@
 <line x1="388" y1="133.2" x2="391" y2="133.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="133.2" class="label" dominant-baseline="middle">31r</text>
 <text x="0" y="18.8" class="title">Vermischte Bemerkungen</text>
-<rect x="0" y="21.75" width="8" height="2.1000000000000014" class="fill"/>
-<text x="0" y="43.2" class="title">Letzte Schriften über die Philosophie der Psychologie</text>
-<rect x="0" y="46.150000000000006" width="8" height="0.5" class="fill"/>
-<path d="M 10,21.75 C 194,21.75 194,53.75 378,53.75 L 378,54.8 C 194,54.8 194,22.25 10,22.25 Z" class="curve"/>
-<path d="M 10,22.55 C 194,22.55 194,54.8 378,54.8 L 378,57.6 C 194,57.6 194,23.05 10,23.05 Z" class="curve"/>
-<path d="M 10,23.35 C 194,23.35 194,57.6 378,57.6 L 378,65.2 C 194,65.2 194,23.85 10,23.85 Z" class="curve"/>
-<path d="M 10,46.150000000000006 C 194,46.150000000000006 194,65.2 378,65.2 L 378,71.05000000000001 C 194,71.05000000000001 194,46.650000000000006 10,46.650000000000006 Z" class="curve"/>
+<rect x="0" y="21.75" width="8" height="15.699999999999989" class="fill"/>
+<rect x="0" y="48.94999999999999" width="8" height="34.09999999999988" class="fill"/>
+<rect x="0" y="94.54999999999987" width="8" height="15.699999999999946" class="fill"/>
+<text x="4" y="43.19999999999999" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<text x="4" y="88.79999999999987" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<text x="0" y="129.59999999999982" class="title">Letzte Schriften über die Philosophie der Psychologie – I</text>
+<rect x="0" y="132.5499999999998" width="8" height="15.700000000000216" class="fill"/>
+<rect x="0" y="159.75000000000003" width="8" height="32.500000000000455" class="fill"/>
+<rect x="0" y="203.75000000000048" width="8" height="15.700000000000216" class="fill"/>
+<text x="4" y="154.00000000000003" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<text x="4" y="198.00000000000048" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<path d="M 10,64.94999999999993 C 194,64.94999999999993 194,53.75 378,53.75 L 378,54.25 C 194,54.25 194,65.44999999999993 10,65.44999999999993 Z" class="curve"/>
+<path d="M 10,65.74999999999993 C 194,65.74999999999993 194,55.35 378,55.35 L 378,55.85 C 194,55.85 194,66.24999999999993 10,66.24999999999993 Z" class="curve"/>
+<path d="M 10,66.54999999999993 C 194,66.54999999999993 194,59.35 378,59.35 L 378,59.85 C 194,59.85 194,67.04999999999993 10,67.04999999999993 Z" class="curve"/>
+<path d="M 10,175.75000000000026 C 194,175.75000000000026 194,70.55000000000001 378,70.55000000000001 L 378,71.05000000000001 C 194,71.05000000000001 194,176.25000000000026 10,176.25000000000026 Z" class="curve"/>
 </svg>

@@ -33,7 +33,7 @@ verify:
 
 # Visualizations (independent, needs only md/)
 viz:
-	cd tools/visualize && cargo run --release -- --all
+	cd tools/visualize && cargo run --release -- --all --all-docs
 
 # Covers (independent, needs only md/)
 covers:

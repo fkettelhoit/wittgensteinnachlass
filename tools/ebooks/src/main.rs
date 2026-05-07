@@ -58,28 +58,8 @@ fn main() {
     let mut success = 0;
     let mut failed = 0;
 
-    // Collect stems of part files that will be merged into a parent,
-    // so we can skip generating standalone epubs for them.
-    let mut merged_parts: std::collections::HashSet<String> = std::collections::HashSet::new();
-    for path in &files {
-        let raw = fs::read_to_string(path).expect("Failed to read markdown file");
-        if let Some((_title, parts)) = prepare::detect_parent(&raw) {
-            for part in &parts {
-                if let Some(filename) = prepare::slug_to_filename(&part.slug, &cli.input) {
-                    let part_stem = filename.trim_end_matches(".md").to_string();
-                    merged_parts.insert(part_stem);
-                }
-            }
-        }
-    }
-
     for path in &files {
         let stem = path.file_stem().unwrap().to_string_lossy().to_string();
-
-        // Skip part files that will be merged into a parent epub
-        if merged_parts.contains(&stem) {
-            continue;
-        }
 
         let raw = fs::read_to_string(path).expect("Failed to read markdown file");
 
