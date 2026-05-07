@@ -95,8 +95,7 @@ fn main() {
             let mut missing = false;
             for slug in &slugs {
                 if let Some(part_path) = file_map.get(&slug.to_lowercase()) {
-                    let part_raw =
-                        fs::read_to_string(part_path).expect("Failed to read part file");
+                    let part_raw = fs::read_to_string(part_path).expect("Failed to read part file");
                     part_raws.push(part_raw);
                 } else {
                     eprintln!("  WARNING: part not found for slug '{}' in {}", slug, stem);
@@ -145,10 +144,7 @@ fn main() {
         // Check for cover image
         let cover_svg = cli.covers.join(format!("{}.svg", stem));
         let cover_path = if cover_svg.exists() {
-            Some(
-                fs::canonicalize(&cover_svg)
-                    .unwrap_or_else(|_| cover_svg.clone()),
-            )
+            Some(fs::canonicalize(&cover_svg).unwrap_or_else(|_| cover_svg.clone()))
         } else {
             None
         };
@@ -218,8 +214,8 @@ fn run_pandoc_weasyprint(
     // Resource path so pandoc resolves relative image paths from the markdown source dir
     cmd.arg(format!("--resource-path={}", resource_dir.display()));
     // Base URL for weasyprint to resolve relative image paths in the generated HTML
-    let abs_resource_dir = std::fs::canonicalize(resource_dir)
-        .unwrap_or_else(|_| resource_dir.clone());
+    let abs_resource_dir =
+        std::fs::canonicalize(resource_dir).unwrap_or_else(|_| resource_dir.clone());
     cmd.arg(format!(
         "--pdf-engine-opt=--base-url=file://{}",
         abs_resource_dir.display()
@@ -227,16 +223,15 @@ fn run_pandoc_weasyprint(
 
     if let Some(cover_path) = cover {
         // Pass cover image path as a pandoc variable
-        cmd.arg(format!(
-            "--variable=cover-image:{}",
-            cover_path.display()
-        ));
+        cmd.arg(format!("--variable=cover-image:{}", cover_path.display()));
     }
 
     cmd.arg("-o");
     cmd.arg(output);
 
-    let result = cmd.output().map_err(|e| format!("Failed to run pandoc: {}", e))?;
+    let result = cmd
+        .output()
+        .map_err(|e| format!("Failed to run pandoc: {}", e))?;
 
     if result.status.success() {
         Ok(())

@@ -20,11 +20,9 @@ In wiefern beweist die Diagonalmethode, daß es eine Zahl gibt die – sagen wir
 
 Es ist natürlich äußerst leicht zu zeigen ‘daß es Zahlen gibt die keine Quadratwurzeln sind’ – aber wie zeigt es _diese_ Methode?
 
-Haben wir denn einen allgemeinen
-
 _[Ansätze]_
 
-Begriff davon, was es heißt: zeigen daß es eine Zahl gibt die keine dieser unendlichen Menge ist? Denken wir, jemand hätte diese Aufgabe erhalten eine Zahl zu nennen die von allen ²√n verschieden ist; er hätte aber vom Diagonalverfahren nichts gewußt & hätte die Zahl ∛2 als Lösung genannt; & gezeigt daß sie keine ²√n ist. – Oder er hätte gesagt: nimm die √2 = 1˙4142 … & subtrahiere 1 von der ersten Dezimale, im übrigen aber sollen die Stellen mit √2 übereinstimmen 1˙3142 … kann keine √n sein.
+Haben wir denn einen allgemeinen Begriff davon, was es heißt: zeigen daß es eine Zahl gibt die keine dieser unendlichen Menge ist? Denken wir, jemand hätte diese Aufgabe erhalten eine Zahl zu nennen die von allen ²√n verschieden ist; er hätte aber vom Diagonalverfahren nichts gewußt & hätte die Zahl ∛2 als Lösung genannt; & gezeigt daß sie keine ²√n ist. – Oder er hätte gesagt: nimm die √2 = 1˙4142 … & subtrahiere 1 von der ersten Dezimale, im übrigen aber sollen die Stellen mit √2 übereinstimmen 1˙3142 … kann keine √n sein.
 
 ### [Ms-117](/ms-117/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span> {#ms-117-982}
 
@@ -38,11 +36,9 @@ Wenn einem auf die Aufforderung: “Zeige mir eine Zahl die von allen diesen ver
 
 ### [Ms-117](/ms-117/#99.3+100.1) <span class="fac">[99\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/99.webp),[100\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/100.webp)</span> {#ms-117-9931001}
 
-<span class="series-number">4.</span> Ich vergleiche also Methoden des Kalkulierens. – Aber da gibt es ja sehr verschiedene Methoden des Vergleichens. Ich soll aber in irgend einem Sinne
+<span class="series-number">4.</span> _[Ansätze]_
 
-_[Ansätze]_
-
-die _Resultate_ der Methoden mit einander vergleichen. Aber da wird schon alles unklar, denn in _einem_ Sinne haben sie nicht jede _ein_ Resultat, oder es ist nicht von vornherein klar was hier in jedem Falle als _das_ Resultat zu betrachten ist. Ich will sagen es ist hier jede Gelegenheit gegeben die Bedeutungen zu drehen & zu wenden. –
+Ich vergleiche also Methoden des Kalkulierens. – Aber da gibt es ja sehr verschiedene Methoden des Vergleichens. Ich soll aber in irgend einem Sinne die _Resultate_ der Methoden mit einander vergleichen. Aber da wird schon alles unklar, denn in _einem_ Sinne haben sie nicht jede _ein_ Resultat, oder es ist nicht von vornherein klar was hier in jedem Falle als _das_ Resultat zu betrachten ist. Ich will sagen es ist hier jede Gelegenheit gegeben die Bedeutungen zu drehen & zu wenden. –
 
 ### [Ms-117](/ms-117/#100.2) <span class="fac">[100\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/100.webp)</span> {#ms-117-1002}
 
@@ -54,11 +50,9 @@ die _Resultate_ der Methoden mit einander vergleichen. Aber da wird schon alles 
 
 ### [Ms-117](/ms-117/#100.4+101.1) <span class="fac">[100\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/100.webp),[101\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/101.webp)</span> {#ms-117-10041011}
 
-<span class="series-number">7.</span> Das Resultat einer Kalkulation in der Wortsprache ausgedrückt ist mit Mißtrauen zu betrachten. Die _Rechnung_ beleuchtet die Bedeutung des Wortausdrucks. Sie
+<span class="series-number">7.</span> _[Ansätze]_
 
-_[Ansätze]_
-
-ist das _feinere_ Instrument zur Bestimmung der Bedeutung. Willst Du wissen was der Wortausdruck bedeutet, so schau auf die Rechnung; nicht umgekehrt. Der Wortausdruck wirft nur einen matten allgemeinen Schein auf die Rechnung; die Rechnung aber ein grelles Licht auf den Wortausdruck. (Als wolltest Du die Höhen zweier Berge nicht durch Höhenmessung vergleichen sondern durch ihr scheinbares Verhältnis wenn man sie von unten anschaut.)
+Das Resultat einer Kalkulation in der Wortsprache ausgedrückt ist mit Mißtrauen zu betrachten. Die _Rechnung_ beleuchtet die Bedeutung des Wortausdrucks. Sie ist das _feinere_ Instrument zur Bestimmung der Bedeutung. Willst Du wissen was der Wortausdruck bedeutet, so schau auf die Rechnung; nicht umgekehrt. Der Wortausdruck wirft nur einen matten allgemeinen Schein auf die Rechnung; die Rechnung aber ein grelles Licht auf den Wortausdruck. (Als wolltest Du die Höhen zweier Berge nicht durch Höhenmessung vergleichen sondern durch ihr scheinbares Verhältnis wenn man sie von unten anschaut.)
 
 ### [Ms-117](/ms-117/#101.2) <span class="fac">[101\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/101.webp)</span> {#ms-117-1012}
 
@@ -66,23 +60,21 @@ ist das _feinere_ Instrument zur Bestimmung der Bedeutung. Willst Du wissen was 
 
 ### [Ms-117](/ms-117/#101.3+102.1) <span class="fac">[101\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/101.webp),[102\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/102.webp)</span> {#ms-117-10131021}
 
-<span class="series-number">9.</span> Wie wäre es mit dieser Konstruktionsmethode: Die Diagonalzahl wird durch Addition oder Subtraktion von 1 erzeugt, aber
+<span class="series-number">9.</span> _[Ansätze]_
 
-_[Ansätze]_
-
-ob zu addieren oder zu subtrahieren ist erfährt man erst, wenn man die ursprüngliche Reihe um mehrere Stellen fortgesetzt hat. Wie wenn man nun sagte: die Entwicklung der Diagonalreihe holt die Entwicklung der andern Reihen nie ein; – gewiß die Diagonalreihe weicht jeder der Reihen aus wenn sie sie trifft, aber das nützt ihr nichts da die Entwicklung der andern Reihen ihr wieder voraus ist. Ich kann hier doch sagen: es gibt _immer_ eine der Reihen für die nicht bestimmt ist ob sie von der Diagonalreihe verschieden ist oder nicht. Man kann sagen: sie laufen einander ins Unendliche nach aber immer die ursprüngliche Reihe voran. “Aber Deine Regel reicht doch schon in's Unendliche, also weißt Du doch schon genau daß die Diagonal-Reihe von jeder andern verschieden sein wird!”– – –
+Wie wäre es mit dieser Konstruktionsmethode: Die Diagonalzahl wird durch Addition oder Subtraktion von 1 erzeugt, aber ob zu addieren oder zu subtrahieren ist erfährt man erst, wenn man die ursprüngliche Reihe um mehrere Stellen fortgesetzt hat. Wie wenn man nun sagte: die Entwicklung der Diagonalreihe holt die Entwicklung der andern Reihen nie ein; – gewiß die Diagonalreihe weicht jeder der Reihen aus wenn sie sie trifft, aber das nützt ihr nichts da die Entwicklung der andern Reihen ihr wieder voraus ist. Ich kann hier doch sagen: es gibt _immer_ eine der Reihen für die nicht bestimmt ist ob sie von der Diagonalreihe verschieden ist oder nicht. Man kann sagen: sie laufen einander ins Unendliche nach aber immer die ursprüngliche Reihe voran. “Aber Deine Regel reicht doch schon in's Unendliche, also weißt Du doch schon genau daß die Diagonal-Reihe von jeder andern verschieden sein wird!”– – –
 
 ### [Ms-117](/ms-117/#102.2+103.1) <span class="fac">[102\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/102.webp),[103\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/103.webp)</span> {#ms-117-10221031}
 
-<span class="series-number">10.</span> Es heißt nichts zu sagen: “_Also_ sind die X-Zahlen nicht abzählbar”. Man könnte
+<span class="series-number">10.</span> _[Ansätze]_
 
-_[Ansätze]_
-
-etwa sagen: Den Zahlbegriff X nenne ich unabzählbar, wenn festgesetzt ist, daß, welche der unter ihn fallenden Zahlen immer Du in eine Reihe bringst die Diagonalzahl dieser Reihe auch unter ihn fällt.
+Es heißt nichts zu sagen: “_Also_ sind die X-Zahlen nicht abzählbar”. Man könnte etwa sagen: Den Zahlbegriff X nenne ich unabzählbar, wenn festgesetzt ist, daß, welche der unter ihn fallenden Zahlen immer Du in eine Reihe bringst die Diagonalzahl dieser Reihe auch unter ihn fällt.
 
 ### [Ms-117](/ms-117/#103.2+103.3+104.1) <span class="fac">[103\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/103.webp),[103\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/103.webp),[104\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/104.webp)</span> {#ms-117-103210331041}
 
-<span class="series-number">11.</span> Da meine Zeichnung ja doch nur die _Andeutung_ der Unendlichkeit ist, warum muß ich so zeichnen:
+<span class="series-number">11.</span> _[Ansätze]_
+
+Da meine Zeichnung ja doch nur die _Andeutung_ der Unendlichkeit ist, warum muß ich so zeichnen:
 
 ![](../graphics/117,103-1.svg)
 
@@ -90,11 +82,7 @@ etwa sagen: Den Zahlbegriff X nenne ich unabzählbar, wenn festgesetzt ist, daß
 
 ![](../graphics/117,103-2.svg)
 
-Hier haben wir eben verschiedene Bilder; & ihnen entsprechen verschiedene Redeweisen. Aber kommt denn dabei etwas Nützliches heraus, wenn wir über _ihre_
-
-_[Ansätze]_
-
-Berechtigung streiten? Das Wichtige muß doch woanders liegen; wenn auch diese Bilder unsre _Phantasie_ am stärksten erhitzen.
+Hier haben wir eben verschiedene Bilder; & ihnen entsprechen verschiedene Redeweisen. Aber kommt denn dabei etwas Nützliches heraus, wenn wir über _ihre_ Berechtigung streiten? Das Wichtige muß doch woanders liegen; wenn auch diese Bilder unsre _Phantasie_ am stärksten erhitzen.
 
 ### [Ms-117](/ms-117/#104.2) <span class="fac">[104\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/104.webp)</span> {#ms-117-1042}
 

@@ -1,6 +1,6 @@
 SANGBLEU_DIR = site/fonts/sangbleu
 
-.PHONY: all site quick serve viz covers epub pdf content hugo graphics clean check-fonts
+.PHONY: all site quick serve deploy translate viz covers epub pdf content hugo graphics clean check-fonts
 
 all: site
 
@@ -11,6 +11,11 @@ quick: content hugo
 serve: content
 	hugo server -s site
 
+# Deploy to BunnyCDN (full build + production Hugo rebuild + lftp mirror)
+deploy: translate site
+	hugo -s site -e production
+	./deploy.sh
+
 check-fonts:
 	@if [ ! -f "$(SANGBLEU_DIR)/SangBleuEmpire-Regular-WebS.woff2" ]; then \
 		echo "Error: SangBleu fonts not found in $(SANGBLEU_DIR)/"; \
@@ -18,6 +23,13 @@ check-fonts:
 		echo "See $(SANGBLEU_DIR)/README.md for details."; \
 		exit 1; \
 	fi
+
+# Translate changed remarks (uses git history to detect changes, requires Ollama)
+translate:
+	cd tools/translate && cargo run --release -- translate --glossary ../../glossary.md --context-ratio=0.2 --num-ctx=4096
+
+verify:
+	cd tools/translate && cargo run --release -- verify
 
 # Visualizations (independent, needs only md/)
 viz:

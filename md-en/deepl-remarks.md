@@ -24,7 +24,7 @@
 
 **English:**
 
-<span class="series-number">1</span> Can I (not) say: I mean the negation which, when doubled, yields an affirmation? When you spoke of red, did you mean that which one can say is bright, but not that it is green, even if you did not think of this rule nor use it? Did you _not_ use those three that constitute a negation; even if you did not use this rule? Is it a hypothesis that it was not _so_? Can it be doubtful whether it was the same thing, &amp; be confirmed by experience?
+<span class="series-number">1</span> Can I (not) say: I mean the negation which, when doubled, yields an affirmation? When you spoke of red, did you mean that which one can say is bright, but not that it is green, even if you did not think of this rule nor use it? Did you _not_ use those three that constitute a negation; even if you did not use this rule? Is it a hypothesis that it was not _so_? Can it be doubtful whether it was the same thing, & be confirmed by experience?
 
 ---
 
@@ -94,7 +94,7 @@
 
 **English:**
 
-<span class="series-number">11</span> We sometimes call “thinking” the mental process that accompanies a sentence, but we do not call that accompaniment a “thought.” – Speak a sentence &amp; think it; speak it with understanding! – And now do not speak it, &amp; do only that with which you accompanied it while speaking with understanding! – (Sing this song with expression – &amp; now do not sing it, but repeat the expression! – And one _could_ also repeat something here: e.g., bodily vibrations, slower &amp; faster breathing, mental images. –)
+<span class="series-number">11</span> We sometimes call “thinking” the mental process that accompanies a sentence, but we do not call that accompaniment a “thought.” – Speak a sentence & think it; speak it with understanding! – And now do not speak it, & do only that with which you accompanied it while speaking with understanding! – (Sing this song with expression – & now do not sing it, but repeat the expression! – And one _could_ also repeat something here: e.g., bodily vibrations, slower & faster breathing, mental images. –)
 
 ---
 
@@ -206,7 +206,7 @@
 
 **English:**
 
-<span class="series-number">2</span> The cube is then a notation of the rule. – And if we had found such a rule, we really could not note it better than by drawing a cube (&amp; the fact that a _drawing_ suffices here is very significant). But the cube or the drawing of the cube are, after all, only signs; they function only as signs insofar as I now _use_ them in a system of connections with other signs. When I think that the cube already contains the entire geometry of the cube—which cube? The cube with faces, or an iron cube? Or is there an ideal geometric cube?—obviously, the process comes to mind when we derive geometric theorems from a drawing, a model, or an idea. But what role does the model play in this? That of a sign, with a specific mode of use. It is, however, (interesting &amp;) curious how we use a figure (the image of the cube, for example) again &amp; again, with ever-changing elements. And it is this sign (_with the identity of a sign_) that we take for that cube in which the geometric laws already lie.
+<span class="series-number">2</span> The cube is then a notation of the rule. – And if we had found such a rule, we really could not note it better than by drawing a cube (& the fact that a _drawing_ suffices here is very significant). But the cube or the drawing of the cube are, after all, only signs; they function only as signs insofar as I now _use_ them in a system of connections with other signs. When I think that the cube already contains the entire geometry of the cube—which cube? The cube with faces, or an iron cube? Or is there an ideal geometric cube?—obviously, the process comes to mind when we derive geometric theorems from a drawing, a model, or an idea. But what role does the model play in this? That of a sign, with a specific mode of use. It is, however, (interesting &) curious how we use a figure (the image of the cube, for example) again & again, with ever-changing elements. And it is this sign (_with the identity of a sign_) that we take for that cube in which the geometric laws already lie.
 
 ---
 
@@ -220,7 +220,7 @@
 
 **English:**
 
-<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, &amp; how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
+<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, & how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
 
 ---
 
@@ -238,7 +238,7 @@
 
 <span class="series-number">1</span> What is the criterion for my understanding of the word “blue”: that this color comes to mind (that I instinctively direct my gaze toward _it_, and the like); or that other people agree with my use of the word? <s> Suppose that whenever I hear the word “blue,” a certain color has a degree of regularity in that it regularly comes to mind (according to the normal use of words: “not always the same”); could I not say: “I call ‘blue’ the color that comes to mind when I hear the word”?
 
-</s> But why am I talking about mental images?! When asked to point to something blue, I point to an object of a certain color, &amp; if this—judged by some other criteria—is always the same when the word “blue” is used, then saying that an _image_ comes to mind when I hear the word &amp; that I orient myself by _it_ is no _explanation_ for this.
+</s> But why am I talking about mental images?! When asked to point to something blue, I point to an object of a certain color, & if this—judged by some other criteria—is always the same when the word “blue” is used, then saying that an _image_ comes to mind when I hear the word & that I orient myself by _it_ is no _explanation_ for this.
 
 ---
 
@@ -336,7 +336,7 @@
 
 **English:**
 
-<span class="series-number">1</span> I see someone &amp; remember him. Does a ‘memory-image’ of the person always (or even just _often_) come to mind?
+<span class="series-number">1</span> I see someone & remember him. Does a ‘memory-image’ of the person always (or even just _often_) come to mind?
 
 ---
 
@@ -462,7 +462,7 @@
 
 **Old translation:**
 
-<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, &amp; how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
+<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, & how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
 
 **DeepL translation (not used — failed verification):**
 
@@ -746,7 +746,7 @@ One can call the rules of grammar “arbitrary” if it is to be said that the _
 
 **DeepL translation:**
 
-<span class="series-number">2</span> We always want to say: “A memory-image is a memory-image! Whether _he_ has it, or I have it; and however I come to know whether he has one or not.” – I could agree with that. – And if you ask me: “Don’t you know what I mean when I say he has a memory-image?” – then I can answer: “I can picture something when I hear those words; – but in this specific case, the usefulness of those words doesn’t go any further.” And I can also picture something when I hear the words: “It was exactly 5 o’clock in the afternoon on the sun” – namely, a pendulum clock showing 5 o’clock. – Perhaps an even better example would be the application of “up” &amp; “down” in relation to the globe. Here we all have a _very clear_ idea of the meaning of “up” and “down”. I see that I’m up, the Earth is below me! (Don’t laugh at this example. We’re taught in elementary school that it’s silly to say such things. But it’s just much easier to gloss over a problem than to solve it.) And only upon reflection do we realize that we cannot play the usual game with “up” and “down” here, that we must adapt it if we want to use these words. (So that, for example, we can speak of the antipodes as the people “below” our continent, but we must also acknowledge as correct when they make the same expression applicable to us.)
+<span class="series-number">2</span> We always want to say: “A memory-image is a memory-image! Whether _he_ has it, or I have it; and however I come to know whether he has one or not.” – I could agree with that. – And if you ask me: “Don’t you know what I mean when I say he has a memory-image?” – then I can answer: “I can picture something when I hear those words; – but in this specific case, the usefulness of those words doesn’t go any further.” And I can also picture something when I hear the words: “It was exactly 5 o’clock in the afternoon on the sun” – namely, a pendulum clock showing 5 o’clock. – Perhaps an even better example would be the application of “up” & “down” in relation to the globe. Here we all have a _very clear_ idea of the meaning of “up” and “down”. I see that I’m up, the Earth is below me! (Don’t laugh at this example. We’re taught in elementary school that it’s silly to say such things. But it’s just much easier to gloss over a problem than to solve it.) And only upon reflection do we realize that we cannot play the usual game with “up” and “down” here, that we must adapt it if we want to use these words. (So that, for example, we can speak of the antipodes as the people “below” our continent, but we must also acknowledge as correct when they make the same expression applicable to us.)
 
 ---
 
@@ -826,7 +826,7 @@ If I were now to use the word “pain” entirely for what I had previously call
 
 **DeepL translation:**
 
-<span class="series-number">3</span> If I were now to reserve the word “pain” entirely for what I have hitherto called “my pain,” &amp; what others have called “the pain of L.W.,” this would not do the others any injustice, provided only that a notation were provided whereby the omission of the word “pain” in other contexts is somehow replaced. The others would still be pitied, treated by a doctor, etc. Of course, there would be _no_ objection to this way of speaking if one were to say: “But the others have exactly the same thing that you have!” But what would I gain from this new way of speaking? Nothing. But the solipsist does not _want_ any practical advantages when he defends his view!
+<span class="series-number">3</span> If I were now to reserve the word “pain” entirely for what I have hitherto called “my pain,” & what others have called “the pain of L.W.,” this would not do the others any injustice, provided only that a notation were provided whereby the omission of the word “pain” in other contexts is somehow replaced. The others would still be pitied, treated by a doctor, etc. Of course, there would be _no_ objection to this way of speaking if one were to say: “But the others have exactly the same thing that you have!” But what would I gain from this new way of speaking? Nothing. But the solipsist does not _want_ any practical advantages when he defends his view!
 
 ---
 
@@ -906,7 +906,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> I see a red spot &amp; say: “It is _I_, after all, who sees this. –” – But, above all, what does “this” mean here? (And it does not mean: ‘what I _mean_ by it.’) But if I leave the meaning of “this” open, where then is the sense of the sentence?
+<span class="series-number">1</span> I see a red spot & say: “It is _I_, after all, who sees this. –” – But, above all, what does “this” mean here? (And it does not mean: ‘what I _mean_ by it.’) But if I leave the meaning of “this” open, where then is the sense of the sentence?
 
 ---
 
@@ -946,7 +946,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> “But you do use ‘_I_ have’ as opposed to ‘_he_ has’.” – Well, in this case I say “I,” and do not say “he.” And “I” does indeed occupy the same position in the sentence structure as “he” does in other cases. But it is not as if _the_ pointer now points to _me_ (i.e., here: to my body), whereas it otherwise points to someone else. (For it is not the case that _I_ have pain because it is now in _my_ body.) For I am, after all, tempted to say: of the other person I know that he has pain because I observe his behaviour; of myself—because I _feel_ it. But that is precisely senseless, since “I feel pain” means the same as “I have it.” It seems here as if, in one case, _one_ sense helps me find the owner of the pain, and in the other case, the other sense does; just as I can search for an object with my eyes, but also with my ears. And one might well say that in one case the sense of sight leads me to the _location_ of the pain, in the other case the sense of pain; but my sense of pain does not lead me to _the owner_ of the pain. If each of these people “knows” that they are in pain—does each have knowledge of something different? Doesn’t everyone know the same thing, namely: “_I am_ _in_ pain”? – The situation is different with the sentence: “He is in pain” – for “he” refers to a name, a description, or (a) pointing gesture; without such a reference, the expression has no sense. “I” &amp; “he” do not serve the same purposes in our language.
+<span class="series-number">1</span> “But you do use ‘_I_ have’ as opposed to ‘_he_ has’.” – Well, in this case I say “I,” and do not say “he.” And “I” does indeed occupy the same position in the sentence structure as “he” does in other cases. But it is not as if _the_ pointer now points to _me_ (i.e., here: to my body), whereas it otherwise points to someone else. (For it is not the case that _I_ have pain because it is now in _my_ body.) For I am, after all, tempted to say: of the other person I know that he has pain because I observe his behaviour; of myself—because I _feel_ it. But that is precisely senseless, since “I feel pain” means the same as “I have it.” It seems here as if, in one case, _one_ sense helps me find the owner of the pain, and in the other case, the other sense does; just as I can search for an object with my eyes, but also with my ears. And one might well say that in one case the sense of sight leads me to the _location_ of the pain, in the other case the sense of pain; but my sense of pain does not lead me to _the owner_ of the pain. If each of these people “knows” that they are in pain—does each have knowledge of something different? Doesn’t everyone know the same thing, namely: “_I am_ _in_ pain”? – The situation is different with the sentence: “He is in pain” – for “he” refers to a name, a description, or (a) pointing gesture; without such a reference, the expression has no sense. “I” & “he” do not serve the same purposes in our language.
 
 ---
 
@@ -1026,7 +1026,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> “You know, insofar as you know that _you_ have the pain, who has the pain” – seems to be saying something like: “You know, in any case, that the pain is with _you_ now” – just as one says: “I now know where the sack is – because _I_ have it.” – But that means: “Now I am no longer in doubt about who has it—because I have it.” But can one also say: “Now I am no longer in doubt about who is in pain, because I am in pain”? Am I now less in doubt about others, &amp; was I in doubt about myself before?
+<span class="series-number">2</span> “You know, insofar as you know that _you_ have the pain, who has the pain” – seems to be saying something like: “You know, in any case, that the pain is with _you_ now” – just as one says: “I now know where the sack is – because _I_ have it.” – But that means: “Now I am no longer in doubt about who has it—because I have it.” But can one also say: “Now I am no longer in doubt about who is in pain, because I am in pain”? Am I now less in doubt about others, & was I in doubt about myself before?
 
 ---
 
@@ -1046,7 +1046,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> “You don’t doubt whether you have it or the other person has it!” – The sentence “I don’t know whether I, or the other person, is in pain” would be a logical product of which one factor would be: “I don’t know whether I am in pain or not”; &amp; this is not a meaningful German sentence.
+<span class="series-number">1</span> “You don’t doubt whether you have it or the other person has it!” – The sentence “I don’t know whether I, or the other person, is in pain” would be a logical product of which one factor would be: “I don’t know whether I am in pain or not”; & this is not a meaningful German sentence.
 
 ---
 
@@ -1086,7 +1086,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> “I now know who feels the blows; _the one_ over there.” “I now know who feels the blows; _I_.” – One might reply: “Should I take that as an expression of sensation, or have you _observed_ something in yourself?” If that is the signal of sensation (corresponding, for example, to a twitch of the face)—then I know what to make of it; &amp; I do not concern myself with the wording, which seems to suggest a different use.
+<span class="series-number">2</span> “I now know who feels the blows; _the one_ over there.” “I now know who feels the blows; _I_.” – One might reply: “Should I take that as an expression of sensation, or have you _observed_ something in yourself?” If that is the signal of sensation (corresponding, for example, to a twitch of the face)—then I know what to make of it; & I do not concern myself with the wording, which seems to suggest a different use.
 
 ---
 
@@ -1106,7 +1106,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> I would like to say: The reference to _me_ in the statement of the sensation is, so to speak, empty. – But it is _not_ empty insofar as the words “I have” have a function in the sentence; they distinguish this case from the one in which (instead of them) “he has” appears. – I feel that the reference is empty when the statement of pain seems to say: “I express pain”. – How, then, can the _complaint_ say _that_ I am complaining?! Well, it can – – &amp; it cannot insofar as one cannot communicate the fact that one is complaining until the complaint has been uttered, &amp; that one does not call the _communication_ that one has complained “complaint.”
+<span class="series-number">2</span> I would like to say: The reference to _me_ in the statement of the sensation is, so to speak, empty. – But it is _not_ empty insofar as the words “I have” have a function in the sentence; they distinguish this case from the one in which (instead of them) “he has” appears. – I feel that the reference is empty when the statement of pain seems to say: “I express pain”. – How, then, can the _complaint_ say _that_ I am complaining?! Well, it can – – & it cannot insofar as one cannot communicate the fact that one is complaining until the complaint has been uttered, & that one does not call the _communication_ that one has complained “complaint.”
 
 ---
 
@@ -1206,7 +1206,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> Can I doubt whether it was _I_ who, as I recall, sat in the library’s reading room yesterday, or whether it was someone else? – Certainly: by doubting whether I sat there yesterday and whether someone else sat there. – But can you doubt whether the memory you have depicts you or someone else (just as you doubt whether the figure in the photograph is you or someone else)? Well, an image may appear in my memory; I see both of us sitting at the table, but I no longer know whether _I_ was sitting in this seat and you in the other, or whether it was the other way around. Or else: I see myself sitting at this table in my memory. But the image that appears before me is not that of a person—say, in profile—sitting at a table, but rather the image seen by the one who is sitting at the table himself. If I then give this image, as it were, the title: “I, sitting at this table,” it is not because I take a figure in the image to be myself. But that is not how it normally happens at all, that my memory shows me an image, &amp; I judge by the likeness of the portrait whom it depicts. Rather, with the image, or even without one, the words come to me: “I remember having been there &amp; there.” My words are an expression of memory; they are themselves the phenomenon of memory &amp; not merely the description of a memory-image. To doubt whether it is me that my memory shows me means, in this case, to doubt whether this is truly the expression of my memory. One also says: “Do you really remember that …, or only _that_ …?” But what if someone asked: “Are you sure that you remember that it was nice yesterday, and not that it rained?” –
+<span class="series-number">2</span> Can I doubt whether it was _I_ who, as I recall, sat in the library’s reading room yesterday, or whether it was someone else? – Certainly: by doubting whether I sat there yesterday and whether someone else sat there. – But can you doubt whether the memory you have depicts you or someone else (just as you doubt whether the figure in the photograph is you or someone else)? Well, an image may appear in my memory; I see both of us sitting at the table, but I no longer know whether _I_ was sitting in this seat and you in the other, or whether it was the other way around. Or else: I see myself sitting at this table in my memory. But the image that appears before me is not that of a person—say, in profile—sitting at a table, but rather the image seen by the one who is sitting at the table himself. If I then give this image, as it were, the title: “I, sitting at this table,” it is not because I take a figure in the image to be myself. But that is not how it normally happens at all, that my memory shows me an image, & I judge by the likeness of the portrait whom it depicts. Rather, with the image, or even without one, the words come to me: “I remember having been there & there.” My words are an expression of memory; they are themselves the phenomenon of memory & not merely the description of a memory-image. To doubt whether it is me that my memory shows me means, in this case, to doubt whether this is truly the expression of my memory. One also says: “Do you really remember that …, or only _that_ …?” But what if someone asked: “Are you sure that you remember that it was nice yesterday, and not that it rained?” –
 
 ---
 
@@ -1226,7 +1226,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> And what, then, do I point to through the inner activity of listening? To the sound that reaches my ears &amp; to the silence when I hear _nothing_? Listening _seeks_, as it were, an auditory impression &amp; can therefore not point to it, but only to the _place_ where it seeks it.
+<span class="series-number">2</span> And what, then, do I point to through the inner activity of listening? To the sound that reaches my ears & to the silence when I hear _nothing_? Listening _seeks_, as it were, an auditory impression & can therefore not point to it, but only to the _place_ where it seeks it.
 
 ---
 
@@ -1266,7 +1266,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> When I say in the description of an experiment: this and that must take place _for half an hour_, it must be known by what standard the passage of half an hour is to be judged. And when I say that it belongs to a thought that this mental attitude accompanies the word …, it must be known how that is to be judged. The mental attitude does not ‘_accompany_’ the word in the same sense that a gesture accompanies it. (Similarly, just as one can travel _alone_ &amp; yet be accompanied by my wishes, &amp; just as a room can be empty &amp; yet be filled with light.)
+<span class="series-number">1</span> When I say in the description of an experiment: this and that must take place _for half an hour_, it must be known by what standard the passage of half an hour is to be judged. And when I say that it belongs to a thought that this mental attitude accompanies the word …, it must be known how that is to be judged. The mental attitude does not ‘_accompany_’ the word in the same sense that a gesture accompanies it. (Similarly, just as one can travel _alone_ & yet be accompanied by my wishes, & just as a room can be empty & yet be filled with light.)
 
 ---
 
@@ -1322,11 +1322,11 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **Old translation:**
 
-<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, &amp; how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
+<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, & how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
 
 **DeepL translation:**
 
-<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, &amp; how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
+<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, & how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
 
 ---
 
@@ -1446,7 +1446,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> But how do I know that I am it?!—That I am _something_? That I am _me_ means nothing. That I am the person who has this _story_—well, that _is_ what I _say_—that is what I remember. But if the others do not accept this, then the situation could well be just as if I were now suddenly ‘_imagining_’ that I had been someone else, i.e., that I had looked completely different &amp; had a different _story_ than the one I have according to everyone else’s statement.
+<span class="series-number">1</span> But how do I know that I am it?!—That I am _something_? That I am _me_ means nothing. That I am the person who has this _story_—well, that _is_ what I _say_—that is what I remember. But if the others do not accept this, then the situation could well be just as if I were now suddenly ‘_imagining_’ that I had been someone else, i.e., that I had looked completely different & had a different _story_ than the one I have according to everyone else’s statement.
 
 ---
 
@@ -1586,7 +1586,7 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> I listen to a sound &amp; say: “What a wonderful melody!” The other person: “I don’t hear a melody.” – I: “I don’t mean what we’re hearing here, but the song …” (which we had talked about earlier, for example). This only shows, one might say, that _“to mean”_ is not the same as _listening_—but rather a different, specific process. – So whoever says: “I meant the song…” is telling the other person that the particular process called “meaning” (&amp; which, admittedly, no one seems to know all that well) took place in him (the speaker) with regard to this song. But why is he telling him this? Is it of interest to the other person? – I wouldn’t ask that if they had been conducting a psychological experiment. – You also don’t go on to talk about the process of “meaning” but rather about that melody. If my words “I meant …” were a communication about this rather unclear mental process, it seems in any case to have been quite irrelevant to the conversation. As irrelevant, for example, as the statement in a chess game that I just had the peculiar sensation of threatening the opponent’s king.
+<span class="series-number">1</span> I listen to a sound & say: “What a wonderful melody!” The other person: “I don’t hear a melody.” – I: “I don’t mean what we’re hearing here, but the song …” (which we had talked about earlier, for example). This only shows, one might say, that _“to mean”_ is not the same as _listening_—but rather a different, specific process. – So whoever says: “I meant the song…” is telling the other person that the particular process called “meaning” (& which, admittedly, no one seems to know all that well) took place in him (the speaker) with regard to this song. But why is he telling him this? Is it of interest to the other person? – I wouldn’t ask that if they had been conducting a psychological experiment. – You also don’t go on to talk about the process of “meaning” but rather about that melody. If my words “I meant …” were a communication about this rather unclear mental process, it seems in any case to have been quite irrelevant to the conversation. As irrelevant, for example, as the statement in a chess game that I just had the peculiar sensation of threatening the opponent’s king.
 
 ---
 
@@ -1630,9 +1630,9 @@ But how do I know that it is me?! – That I am something? That I am I, means no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> Where does the idea come from that someone has a private image before them? – “Well, because I have one!” – But do you have an _image_ before you? You’re just saying that! And there is as little &amp; as much reason to use this phrase in your case as in that of the other person. “But I do, for example, vividly imagine something, so I see it before me, and the other person standing next to me does not see it, so it belongs to me alone.” – But it is (only) a metaphor to say that you see something “in front of you” or “within you”—the simile of the ‘inner eye.’ And if the other person imagines the same thing, why shouldn’t you say that he has _the same thing_ in front of him? – “But he can’t possibly have the exact same pain that I have!” – Why not? What is the criterion of identity? And how is it: Can he not have it at the same time as you, but can have it once you have put it aside; or can he never have _it_ at all? (Strange, the ideas we come up with!)
+<span class="series-number">2</span> Where does the idea come from that someone has a private image before them? – “Well, because I have one!” – But do you have an _image_ before you? You’re just saying that! And there is as little & as much reason to use this phrase in your case as in that of the other person. “But I do, for example, vividly imagine something, so I see it before me, and the other person standing next to me does not see it, so it belongs to me alone.” – But it is (only) a metaphor to say that you see something “in front of you” or “within you”—the simile of the ‘inner eye.’ And if the other person imagines the same thing, why shouldn’t you say that he has _the same thing_ in front of him? – “But he can’t possibly have the exact same pain that I have!” – Why not? What is the criterion of identity? And how is it: Can he not have it at the same time as you, but can have it once you have put it aside; or can he never have _it_ at all? (Strange, the ideas we come up with!)
 
-“But when I imagine something, or even see real objects, I still _have_ something my neighbor does not have.” – I have understanding for you. You want to look around and say: “Only _I_ have _this_.” – But what’s the point of these words? They’re _useless_. – Yes, couldn’t you also say: “We’re not talking here about ‘_seeing_’ (and therefore also about ‘having’) and about a subject, that is, about the ‘I’”? Couldn’t I say to you: What you’re talking about and saying only you have—in what sense _do_ you _have_ it? Do you possess it? You don’t even _see_ it. Yes, shouldn’t you say of it: no one _has_ it? It’s clear, after all: if you _logically_ rule out that another has something, then it also loses its sense to say that _you_ have it. But what, then, is this thing you’re talking about? I did say: I know within myself what you’re talking about. But that didn’t mean I could point to the object you were speaking of; yet I know how to grasp this object, to see how you intended to designate it, so to speak, through your gaze and gestures. I know in what way one looks in front of and around oneself in this case, and other things. – I believe one can say: You speak (when you are sitting in the room, for example) of the ‘visual room’. That which has no owner is the ‘visual room’. I can no more possess it than I can walk around in it, or look at it, or point to it. It does not belong to me insofar as it cannot belong to anyone else; or: it does not belong to me insofar as I (indeed) want to use the same form of expression for it as (e.g.) for the material room itself in which I am sitting. This can, after all, be described without there being any question of owning the room. And it is quite possible, after all, that the room has no owner. But then the visual room _cannot_ have an owner either. “For it has no master except itself &amp; none within itself”—one might say. Just imagine a landscape, an imaginary landscape, and within it a house—and someone asked: “Who owns the house?” (The answer, by the way, could be: “The farmer sitting on the bench in front of the front door.”—But this farmer cannot, for example, enter his house.)
+“But when I imagine something, or even see real objects, I still _have_ something my neighbor does not have.” – I have understanding for you. You want to look around and say: “Only _I_ have _this_.” – But what’s the point of these words? They’re _useless_. – Yes, couldn’t you also say: “We’re not talking here about ‘_seeing_’ (and therefore also about ‘having’) and about a subject, that is, about the ‘I’”? Couldn’t I say to you: What you’re talking about and saying only you have—in what sense _do_ you _have_ it? Do you possess it? You don’t even _see_ it. Yes, shouldn’t you say of it: no one _has_ it? It’s clear, after all: if you _logically_ rule out that another has something, then it also loses its sense to say that _you_ have it. But what, then, is this thing you’re talking about? I did say: I know within myself what you’re talking about. But that didn’t mean I could point to the object you were speaking of; yet I know how to grasp this object, to see how you intended to designate it, so to speak, through your gaze and gestures. I know in what way one looks in front of and around oneself in this case, and other things. – I believe one can say: You speak (when you are sitting in the room, for example) of the ‘visual room’. That which has no owner is the ‘visual room’. I can no more possess it than I can walk around in it, or look at it, or point to it. It does not belong to me insofar as it cannot belong to anyone else; or: it does not belong to me insofar as I (indeed) want to use the same form of expression for it as (e.g.) for the material room itself in which I am sitting. This can, after all, be described without there being any question of owning the room. And it is quite possible, after all, that the room has no owner. But then the visual room _cannot_ have an owner either. “For it has no master except itself & none within itself”—one might say. Just imagine a landscape, an imaginary landscape, and within it a house—and someone asked: “Who owns the house?” (The answer, by the way, could be: “The farmer sitting on the bench in front of the front door.”—But this farmer cannot, for example, enter his house.)
 
 ---
 
@@ -1692,7 +1692,7 @@ If I am in pain, then there are simply _pains_ there, & there is no talk of a pe
 
 **DeepL translation:**
 
-<span class="series-number">2</span> “When I am in pain, there is simply _pain_, &amp; there is no mention of a person at all.” – So you simply want to say: “Pain!” – this _describes_ – you would say – the whole fact. But, first of all, is that a description? &amp; secondly, what is it good for? You _are_ evidently _conducting a comparison of_ the situation with one in which you have to give a description. The idea is a world that is to be described; like (for example) the Earth as described in a geography book. The description could also be spoken of in terms of a gramophone. – But to what extent is the expression of pain a description of a world; _&amp; what use is this description?_
+<span class="series-number">2</span> “When I am in pain, there is simply _pain_, & there is no mention of a person at all.” – So you simply want to say: “Pain!” – this _describes_ – you would say – the whole fact. But, first of all, is that a description? & secondly, what is it good for? You _are_ evidently _conducting a comparison of_ the situation with one in which you have to give a description. The idea is a world that is to be described; like (for example) the Earth as described in a geography book. The description could also be spoken of in terms of a gramophone. – But to what extent is the expression of pain a description of a world; _& what use is this description?_
 
 ---
 
@@ -1732,7 +1732,7 @@ Or rather, a hundred misleading comparisons seem to come together here: One take
 
 **DeepL translation:**
 
-<span class="series-number">1</span> Or rather, a hundred misleading comparisons seem to converge here: one takes for an ostensive explanation what is not one; &amp; for a description what is not a description; &amp; for a proper name what is not one; &amp; for knowledge what is not knowledge.
+<span class="series-number">1</span> Or rather, a hundred misleading comparisons seem to converge here: one takes for an ostensive explanation what is not one; & for a description what is not a description; & for a proper name what is not one; & for knowledge what is not knowledge.
 
 ---
 
@@ -1792,7 +1792,7 @@ Carefully, as if on thin ice, one must proceed; everywhere ask about the use, no
 
 **DeepL translation:**
 
-<span class="series-number">4</span> What the one who seemed to have _discovered_ the ‘visual room’—what he had found—was a new form of expression, a new comparison; &amp; one could also say, a new sensation.
+<span class="series-number">4</span> What the one who seemed to have _discovered_ the ‘visual room’—what he had found—was a new form of expression, a new comparison; & one could also say, a new sensation.
 
 ---
 
@@ -1832,7 +1832,7 @@ Carefully, as if on thin ice, one must proceed; everywhere ask about the use, no
 
 **DeepL translation:**
 
-<span class="series-number">2</span> How do we go about seeing the ‘visual room’; I mean that which is a world &amp; belongs to no subject? For that is precisely why we think we _have discovered_ it, because we are not always conscious of it. – On the one hand, of course, I see everything there just as usual; I look around, including at my body, _and think_: “I cannot see my eyes”— – But there are surely all sorts of _ways_ to see my surroundings like this. I can, for example, ‘imagine’ that all the objects I see are made of painted paper &amp; physically exist only on the side that is now facing me. And what does it consist of, to see things this way and that way? – Sometimes partly in letting the gaze rest or wander, and in how it wanders; or in being entirely _an eye_, and in what we say—and _do not_ say—in the process; in the gestures we make; and in many other things. We receive some impressions only when we stare at a spot; some only when all objects around us are at rest, not when something is moving; some probably only indoors, when all distances are small; &amp; if people always philosophized outdoors, they would not come up with certain thoughts. One might say: when we philosophize, not only our language celebrates, but also our gaze. For while I am stoking the stove, I see it differently than when I stare at it while philosophizing—I do not think of the ‘visual stove,’ the sense-datum, etc. A philosopher who always closes one eye while philosophizing might be more easily captivated by other perspectives than one who always looks with both.
+<span class="series-number">2</span> How do we go about seeing the ‘visual room’; I mean that which is a world & belongs to no subject? For that is precisely why we think we _have discovered_ it, because we are not always conscious of it. – On the one hand, of course, I see everything there just as usual; I look around, including at my body, _and think_: “I cannot see my eyes”— – But there are surely all sorts of _ways_ to see my surroundings like this. I can, for example, ‘imagine’ that all the objects I see are made of painted paper & physically exist only on the side that is now facing me. And what does it consist of, to see things this way and that way? – Sometimes partly in letting the gaze rest or wander, and in how it wanders; or in being entirely _an eye_, and in what we say—and _do not_ say—in the process; in the gestures we make; and in many other things. We receive some impressions only when we stare at a spot; some only when all objects around us are at rest, not when something is moving; some probably only indoors, when all distances are small; & if people always philosophized outdoors, they would not come up with certain thoughts. One might say: when we philosophize, not only our language celebrates, but also our gaze. For while I am stoking the stove, I see it differently than when I stare at it while philosophizing—I do not think of the ‘visual stove,’ the sense-datum, etc. A philosopher who always closes one eye while philosophizing might be more easily captivated by other perspectives than one who always looks with both.
 
 ---
 
@@ -1852,7 +1852,7 @@ Carefully, as if on thin ice, one must proceed; everywhere ask about the use, no
 
 **DeepL translation:**
 
-<span class="series-number">1</span> When he sees a certain phenomenon in the sky, he makes a cross in his diary. – This is the description of a language-game. Here we imagine certain circumstances; a person whose reliability has been tested in the usual way. Now I disregard these familiar circumstances &amp; consider only the subjective language-game. He now makes a cross in the diary when he ‘thinks he sees’ those phenomena. And _I accept_ this; for I have no further indication that he thinks he sees the phenomenon. But then I assume that something is happening there where no one is looking.
+<span class="series-number">1</span> When he sees a certain phenomenon in the sky, he makes a cross in his diary. – This is the description of a language-game. Here we imagine certain circumstances; a person whose reliability has been tested in the usual way. Now I disregard these familiar circumstances & consider only the subjective language-game. He now makes a cross in the diary when he ‘thinks he sees’ those phenomena. And _I accept_ this; for I have no further indication that he thinks he sees the phenomenon. But then I assume that something is happening there where no one is looking.
 
 ---
 
@@ -1888,7 +1888,7 @@ But this does not get rid of the criteria for being blind. These still determine
 
 **DeepL translation:**
 
-<span class="series-number">1</span> “Blind is the one who does not see; however one may determine this &amp; whether anyone knows it or not.” But that is not how the word “blind” is used! Of course, blind is the one who does not see—i.e., the expressions mean the same thing; they are used in the _same_ way. With the explanation: “‘blind’ is the one who does not see,” one now, as it were, provides a picture of blindness; something like this:
+<span class="series-number">1</span> “Blind is the one who does not see; however one may determine this & whether anyone knows it or not.” But that is not how the word “blind” is used! Of course, blind is the one who does not see—i.e., the expressions mean the same thing; they are used in the _same_ way. With the explanation: “‘blind’ is the one who does not see,” one now, as it were, provides a picture of blindness; something like this:
 
 ![](../graphics/116,232-1.svg)
 
@@ -2116,7 +2116,7 @@ It is as if we had inherited a form of language that presents things as the prod
 
 **DeepL translation:**
 
-<span class="series-number">2</span> It is as if we had inherited a linguistic form that represents things as the products of pouring a material into a form &amp; in which, for example, one speaks of a table in no other way than by saying that the material of the table has taken on the form of a table, so that in the end one believes one must not simply speak of a table, but rather that there is first the material, &amp; then the form into which it enters. The result of philosophy here would be: that one speaks of the table outright &amp; regards this as a form of expression complete in itself.
+<span class="series-number">2</span> It is as if we had inherited a linguistic form that represents things as the products of pouring a material into a form & in which, for example, one speaks of a table in no other way than by saying that the material of the table has taken on the form of a table, so that in the end one believes one must not simply speak of a table, but rather that there is first the material, & then the form into which it enters. The result of philosophy here would be: that one speaks of the table outright & regards this as a form of expression complete in itself.
 
 ---
 
@@ -2196,7 +2196,7 @@ Since in these investigations we always ask: “what would one have to say, if �
 
 **DeepL translation:**
 
-<span class="series-number">2</span> “I’m saying that I’m in pain because that’s really the case.” – Is that supposed to provide an explanation for the use of the expression “I’m in pain”? How can it—it presupposes it! One might say: – I am using the expression ‘I am in pain’ this time because the reality is that it is _actually_ the case &amp; not because …, e.g., because it is in the script I am learning. What one actually wants to say is: “I am saying that I am in pain because _this_ is the case.” – And if one says this and provides a demonstration that the word “this” does indeed require, – then no one will want to contradict this explanation.
+<span class="series-number">2</span> “I’m saying that I’m in pain because that’s really the case.” – Is that supposed to provide an explanation for the use of the expression “I’m in pain”? How can it—it presupposes it! One might say: – I am using the expression ‘I am in pain’ this time because the reality is that it is _actually_ the case & not because …, e.g., because it is in the script I am learning. What one actually wants to say is: “I am saying that I am in pain because _this_ is the case.” – And if one says this and provides a demonstration that the word “this” does indeed require, – then no one will want to contradict this explanation.
 
 ---
 
@@ -2316,7 +2316,7 @@ Suppose, for example, that one wanted to justify the construction of a bridge, w
 
 **DeepL translation:**
 
-<span class="series-number">2</span> [The joke of the concept is lost.] Why can’t my right hand give a gift to my left? – Well, it can be done; my right hand can put it into my left. Yes, my right hand could write a deed of gift &amp; my left a receipt, etc. – But the further practical consequences would not be those of a gift. Once the left hand has taken the money from the right, the receipt is written, etc. – one will ask: “Well, &amp; _then_ what?” And the same can be asked when one has given oneself a private explanation of a word.
+<span class="series-number">2</span> [The joke of the concept is lost.] Why can’t my right hand give a gift to my left? – Well, it can be done; my right hand can put it into my left. Yes, my right hand could write a deed of gift & my left a receipt, etc. – But the further practical consequences would not be those of a gift. Once the left hand has taken the money from the right, the receipt is written, etc. – one will ask: “Well, & _then_ what?” And the same can be asked when one has given oneself a private explanation of a word.
 
 ---
 
@@ -2696,7 +2696,7 @@ Let us imagine a variation of the game of tennis: a rule is added to the rules o
 
 **DeepL translation:**
 
-<span class="series-number">2</span> Let us imagine a variation of the game of tennis: a rule is added to this game stating that the player must _imagine_ this and that at certain moments of the game, such as when serving. (The purpose of this rule would be to make the game more difficult.) – The first objection might be: it would be too easy to cheat in this game; but this is countered by the assumption that the game is played only by thoroughly honest &amp; reliable people. So here we have a game with internal game actions. –
+<span class="series-number">2</span> Let us imagine a variation of the game of tennis: a rule is added to this game stating that the player must _imagine_ this and that at certain moments of the game, such as when serving. (The purpose of this rule would be to make the game more difficult.) – The first objection might be: it would be too easy to cheat in this game; but this is countered by the assumption that the game is played only by thoroughly honest & reliable people. So here we have a game with internal game actions. –
 
 ---
 
@@ -2716,7 +2716,7 @@ Of what kind is the inner game-action, and what does it consist? Well, in the fa
 
 **DeepL translation:**
 
-<span class="series-number">3</span> What kind of inner game action is this, and what does it consist of? Well, in the fact that he—in accordance with the rule of a game—imagines … – But couldn’t one also say: _We do not know_ what kind of inner game action it is that he performs in accordance with the rule; we know only its manifestations? Let the inner game action be an X whose nature we do not know. Or: Perhaps there are only external game actions here as well: the communication of the rule of a game &amp; what is called the ‘manifestation of the internal process.’ – Well, can’t the game be described in all three ways? Even the one involving the ‘unknown’ X is a perfectly possible way of describing it. One says that the so-called ‘internal’ play action is not comparable to a play action in the other sense—another says it _is_ comparable to such an action—a third: it is comparable only to an action that takes place in secret &amp; that no one knows except the actor. What is important for us is that we see the _dangers_ of the expression “inner plot.” It is dangerous because it causes confusion.
+<span class="series-number">3</span> What kind of inner game action is this, and what does it consist of? Well, in the fact that he—in accordance with the rule of a game—imagines … – But couldn’t one also say: _We do not know_ what kind of inner game action it is that he performs in accordance with the rule; we know only its manifestations? Let the inner game action be an X whose nature we do not know. Or: Perhaps there are only external game actions here as well: the communication of the rule of a game & what is called the ‘manifestation of the internal process.’ – Well, can’t the game be described in all three ways? Even the one involving the ‘unknown’ X is a perfectly possible way of describing it. One says that the so-called ‘internal’ play action is not comparable to a play action in the other sense—another says it _is_ comparable to such an action—a third: it is comparable only to an action that takes place in secret & that no one knows except the actor. What is important for us is that we see the _dangers_ of the expression “inner plot.” It is dangerous because it causes confusion.
 
 ---
 
@@ -2860,7 +2860,7 @@ I want to say: the apparatus of our language, of our word-language, is primarily
 
 **DeepL translation:**
 
-<span class="series-number">1</span> I mean to say: The apparatus of our language, our word-language, is _above all_ that which we call language, &amp; then other things by analogy or comparability with it.
+<span class="series-number">1</span> I mean to say: The apparatus of our language, our word-language, is _above all_ that which we call language, & then other things by analogy or comparability with it.
 
 ---
 
@@ -2980,7 +2980,7 @@ There is a command: “Look at that!” Is there also the command: “See that!�
 
 **DeepL translation:**
 
-<span class="series-number">1</span> There is a command: “Look at that!” Is there also the command: “See that!”? But one can say: “Imagine that!” &amp; also “See this figure as a cube!”
+<span class="series-number">1</span> There is a command: “Look at that!” Is there also the command: “See that!”? But one can say: “Imagine that!” & also “See this figure as a cube!”
 
 ---
 
@@ -3000,7 +3000,7 @@ I point with my hand and say “Come here!” A asks “Did you mean me?” I sa
 
 **DeepL translation:**
 
-<span class="series-number">2</span> I point with my hand &amp; say “Come here!”. A asks “Did you mean me?”. I say “No; B.” What was going on when I meant B (since my pointing left it in doubt whom I meant)? – I said these words, made this hand gesture; did anything else have to happen for the language-game to proceed? But didn’t I already know whom I meant while pointing? Did I know? I would have pointed at B, for example, even if A hadn’t been standing nearby. [The meaning develops.]
+<span class="series-number">2</span> I point with my hand & say “Come here!”. A asks “Did you mean me?”. I say “No; B.” What was going on when I meant B (since my pointing left it in doubt whom I meant)? – I said these words, made this hand gesture; did anything else have to happen for the language-game to proceed? But didn’t I already know whom I meant while pointing? Did I know? I would have pointed at B, for example, even if A hadn’t been standing nearby. [The meaning develops.]
 
 ---
 
@@ -3020,7 +3020,7 @@ I would therefore like to say two things: That I mean B lies in the circumstance
 
 **DeepL translation:**
 
-So I would like to say _two things_: That I mean B lies in the circumstances &amp; my thoughts – &amp; on the other hand: it lies in what I say &amp; do later.
+So I would like to say _two things_: That I mean B lies in the circumstances & my thoughts – & on the other hand: it lies in what I say & do later.
 
 ---
 
@@ -3140,7 +3140,7 @@ But isn’t it strange that the case in which I meant A is psychologically diffe
 
 **DeepL translation:**
 
-But isn’t it strange that the case in which I meant A differs psychologically from the one in which I meant B, &amp; that I should nevertheless not be describing precisely this difference with the words “I meant A, not B”? I want to say: If this is so, then it must be _an empirical fact_ that the cases differ psychologically &amp; it would have to be possible that they _did_ _not_ differ in this way.
+But isn’t it strange that the case in which I meant A differs psychologically from the one in which I meant B, & that I should nevertheless not be describing precisely this difference with the words “I meant A, not B”? I want to say: If this is so, then it must be _an empirical fact_ that the cases differ psychologically & it would have to be possible that they _did_ _not_ differ in this way.
 
 ---
 
@@ -6122,7 +6122,7 @@ It would be more correct to say: A proof *can* show us something else important 
 
 **Old translation:**
 
-<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, &amp; how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
+<span class="series-number">1</span> How can one, to test one’s understanding of the word “blue,” conjure up a mental image of blue; for how can the word “blue” show me which color from the palette of my imagination I am to choose, & how can the color that comes to mind show me that _it_ is the right one? _Do_ I therefore _choose_ an image that fits the word “blue”?—And might not the wrong image arise? _And how does that become apparent_?
 
 **DeepL translation:**
 
@@ -6242,11 +6242,11 @@ It would be more correct to say: A proof *can* show us something else important 
 
 **Old translation:**
 
-<span class="series-number">1</span> But how do I know that I am it?!—That I am _something_? That I am _me_ means nothing. That I am the person who has this _story_—well, that _is_ what I _say_—that is what I remember. But if the others do not accept this, then the situation could well be just as if I were now suddenly ‘_imagining_’ that I had been someone else, i.e., that I had looked completely different &amp; had a different _story_ than the one I have according to everyone else’s statement.
+<span class="series-number">1</span> But how do I know that I am it?!—That I am _something_? That I am _me_ means nothing. That I am the person who has this _story_—well, that _is_ what I _say_—that is what I remember. But if the others do not accept this, then the situation could well be just as if I were now suddenly ‘_imagining_’ that I had been someone else, i.e., that I had looked completely different & had a different _story_ than the one I have according to everyone else’s statement.
 
 **DeepL translation:**
 
-<span class="series-number">1</span> But how do I know that I am it?!—That I am _something_? That I am _me_ means nothing. That I am the person who has this _story_—well, that _is_ what I _say_—that is what I remember. But if the others do not accept that, then the situation could well be just as if I were now suddenly ‘_imagining_’ that I had been someone else, i.e., that I had looked completely different &amp; had a different _story_ than the one I have according to everyone else’s statement.
+<span class="series-number">1</span> But how do I know that I am it?!—That I am _something_? That I am _me_ means nothing. That I am the person who has this _story_—well, that _is_ what I _say_—that is what I remember. But if the others do not accept that, then the situation could well be just as if I were now suddenly ‘_imagining_’ that I had been someone else, i.e., that I had looked completely different & had a different _story_ than the one I have according to everyone else’s statement.
 
 ---
 
@@ -6402,11 +6402,11 @@ It would be more correct to say: A proof *can* show us something else important 
 
 **Old translation:**
 
-<span class="series-number">2</span> “When I am in pain, there is simply _pain_, &amp; there is no mention of a person at all.” – So you simply want to say: “Pain!” – this _describes_ – you would say – the whole fact. But, first of all, is that a description? &amp; secondly, what is it good for? You _are_ evidently _conducting a comparison of_ the situation with one in which you have to give a description. The idea is a world that is to be described; like (for example) the Earth as described in a geography book. The description could also be spoken of in terms of a gramophone. – But to what extent is the expression of pain a description of a world; _&amp; what use is this description?_
+<span class="series-number">2</span> “When I am in pain, there is simply _pain_, & there is no mention of a person at all.” – So you simply want to say: “Pain!” – this _describes_ – you would say – the whole fact. But, first of all, is that a description? & secondly, what is it good for? You _are_ evidently _conducting a comparison of_ the situation with one in which you have to give a description. The idea is a world that is to be described; like (for example) the Earth as described in a geography book. The description could also be spoken of in terms of a gramophone. – But to what extent is the expression of pain a description of a world; _& what use is this description?_
 
 **DeepL translation:**
 
-<span class="series-number">2</span> “When I am in pain, there is simply _pain_, &amp; there is no mention of a person at all.” – So you simply want to say: “Pain!” – this _describes_ – you would say – the whole fact. But, first of all, is that a description? &amp; secondly, what is it good for? You _are_ evidently _conducting a comparison of_ the situation with one in which you have to give a description. The idea is a world that is to be described; like (for example) the Earth as described in a geography book. The description could also be spoken of in terms of a gramophone. – But in what sense is the expression of pain a description of a world; _&amp; what use is this description?_
+<span class="series-number">2</span> “When I am in pain, there is simply _pain_, & there is no mention of a person at all.” – So you simply want to say: “Pain!” – this _describes_ – you would say – the whole fact. But, first of all, is that a description? & secondly, what is it good for? You _are_ evidently _conducting a comparison of_ the situation with one in which you have to give a description. The idea is a world that is to be described; like (for example) the Earth as described in a geography book. The description could also be spoken of in terms of a gramophone. – But in what sense is the expression of pain a description of a world; _& what use is this description?_
 
 ---
 
@@ -6522,11 +6522,11 @@ Aber ist es nicht sonderbar, daß der Fall, daß ich A meinte sich psychologisch
 
 **Old translation:**
 
-But isn’t it strange that the case in which I meant A differs psychologically from the one in which I meant B, &amp; that I should nevertheless not be describing precisely this difference with the words “I meant A, not B”? I want to say: If this is so, then it must be _an empirical fact_ that the cases differ psychologically &amp; it would have to be possible that they _did_ _not_ differ in this way.
+But isn’t it strange that the case in which I meant A differs psychologically from the one in which I meant B, & that I should nevertheless not be describing precisely this difference with the words “I meant A, not B”? I want to say: If this is so, then it must be _an empirical fact_ that the cases differ psychologically & it would have to be possible that they _did_ _not_ differ in this way.
 
 **DeepL translation:**
 
-But isn’t it strange that the case in which I meant A differs psychologically from the one in which I meant B, &amp; that I should nevertheless not be describing precisely this difference with the words “I meant A, not B”? I mean to say: If that is the case, then it must be _an empirical fact_ that the cases differ psychologically, &amp; it would have to be possible that they _did_ _not_ differ in this way.
+But isn’t it strange that the case in which I meant A differs psychologically from the one in which I meant B, & that I should nevertheless not be describing precisely this difference with the words “I meant A, not B”? I mean to say: If that is the case, then it must be _an empirical fact_ that the cases differ psychologically, & it would have to be possible that they _did_ _not_ differ in this way.
 
 ---
 
@@ -6570,7 +6570,7 @@ In the first game, one could also ask me: How are you thinking of a card? (And t
 
 **DeepL translation:**
 
-A language-game: guessing thoughts. Playing cards lie on a table. I want the other person to touch one of them. I close my eyes &amp; think of one of these cards; the other person is to guess which one I mean. He then thinks of a card, wishing to guess my opinion, &amp; touches the card. I say: Yes, that was it, or that wasn’t it. A variation of this game would be that I _look_ at a specific card, but in such a way that the other person cannot see the direction of my gaze &amp; must now guess that card. It is important that this is a variation of the first game.
+A language-game: guessing thoughts. Playing cards lie on a table. I want the other person to touch one of them. I close my eyes & think of one of these cards; the other person is to guess which one I mean. He then thinks of a card, wishing to guess my opinion, & touches the card. I say: Yes, that was it, or that wasn’t it. A variation of this game would be that I _look_ at a specific card, but in such a way that the other person cannot see the direction of my gaze & must now guess that card. It is important that this is a variation of the first game.
 
 In the first game, one could also ask me: _What_ card are you thinking of? (And this could be important because it might turn out that, depending on the manner, the guessing would sometimes be more reliable and sometimes less.)
 
@@ -6632,7 +6632,7 @@ If I say “I saw an armchair in this room,” then I can usually only remember 
 
 **DeepL translation:**
 
-When I say “I saw an armchair in this room,” I can usually recall the specific visual image only very casually, &amp; in most cases it has no meaning at all. The way the sentence is used ignores this particular detail. Is this also the case when I say “I meant him”: Does this sentence similarly ignore the particulars of the event? So that one could say: “I meant N; but I no longer know (exactly) _how_ it happened.” – What is it that I _cannot_ remember here?
+When I say “I saw an armchair in this room,” I can usually recall the specific visual image only very casually, & in most cases it has no meaning at all. The way the sentence is used ignores this particular detail. Is this also the case when I say “I meant him”: Does this sentence similarly ignore the particulars of the event? So that one could say: “I meant N; but I no longer know (exactly) _how_ it happened.” – What is it that I _cannot_ remember here?
 
 ---
 
@@ -6812,7 +6812,7 @@ If I am now talking with A about a person named ‘B’, but there are two peopl
 
 **DeepL translation:**
 
-“I meant N” seems to _report_ on a connection &amp; also to _create_ one.
+“I meant N” seems to _report_ on a connection & also to _create_ one.
 
 ---
 
@@ -6832,7 +6832,7 @@ If I am now talking with A about a person named ‘B’, but there are two peopl
 
 **DeepL translation:**
 
-“I did not point to the new upholstery of the armchair, but to the old wood, &amp; spoke _of it_.” – _That_ was my attitude. “If you had asked me for it back then, I would have gladly given it to you!” – That’s how I was back then. – Is this statement of the same kind as: “If you had ordered me to lift this weight back then, I would have been too weak to do so.”?
+“I did not point to the new upholstery of the armchair, but to the old wood, & spoke _of it_.” – _That_ was my attitude. “If you had asked me for it back then, I would have gladly given it to you!” – That’s how I was back then. – Is this statement of the same kind as: “If you had ordered me to lift this weight back then, I would have been too weak to do so.”?
 
 ---
 
@@ -6852,7 +6852,7 @@ If I am now talking with A about a person named ‘B’, but there are two peopl
 
 **DeepL translation:**
 
-“I saw him &amp; waved my finger. I wanted, for a moment, for him to come to me.” Can one say: These words “I wanted …” are a description _of a human_ condition? That is, what was happening there could only be described as _a_ case of typical human behavior. When we see a sketch by an artist, we recognize the tip of a finger standing alone as such; but only because we know that this person is drawing parts of the human body. We would correctly describe the sketch as that of a fingertip.
+“I saw him & waved my finger. I wanted, for a moment, for him to come to me.” Can one say: These words “I wanted …” are a description _of a human_ condition? That is, what was happening there could only be described as _a_ case of typical human behavior. When we see a sketch by an artist, we recognize the tip of a finger standing alone as such; but only because we know that this person is drawing parts of the human body. We would correctly describe the sketch as that of a fingertip.
 
 ---
 
@@ -6872,7 +6872,7 @@ When I recall that I wanted to say this and that for a moment, I mostly remember
 
 **DeepL translation:**
 
-When I recall that I wanted to say this and that for a moment, I usually recall certain ‘details’. These details are not irrelevant in the sense that other circumstances I can also recall are. But the person to whom I say “I wanted to say for a moment…” does not learn these details from this &amp; does not have to guess them. He does not have to know, for example, that I had already opened my mouth to speak &amp; had the image of a certain page of a book in my mind. But he _can_ ‘picture’ the process in this way.
+When I recall that I wanted to say this and that for a moment, I usually recall certain ‘details’. These details are not irrelevant in the sense that other circumstances I can also recall are. But the person to whom I say “I wanted to say for a moment…” does not learn these details from this & does not have to guess them. He does not have to know, for example, that I had already opened my mouth to speak & had the image of a certain page of a book in my mind. But he _can_ ‘picture’ the process in this way.
 
 ---
 
@@ -6952,7 +6952,7 @@ It is obviously true that I can say: under these and those circumstances, I woul
 
 **DeepL translation:**
 
-It is evidently correct that I can say: under those &amp; those circumstances, I would have said that back then. – And what can entitle me to make this assertion? I am, as it were, asserting a state of mind. But not merely as if I were saying, for example, that I _could_ have counted from 1 to 100 yesterday; rather, the state of mind was, as it were, acutely present. And the case is therefore perhaps similar to this: I _could_ have continued the sequence yesterday following your explanation, if nothing had come between us. Is there any verification for this? Under what circumstances would I _believe_ him that he could have done it? For example, if I knew that he had mastered a certain technique.
+It is evidently correct that I can say: under those & those circumstances, I would have said that back then. – And what can entitle me to make this assertion? I am, as it were, asserting a state of mind. But not merely as if I were saying, for example, that I _could_ have counted from 1 to 100 yesterday; rather, the state of mind was, as it were, acutely present. And the case is therefore perhaps similar to this: I _could_ have continued the sequence yesterday following your explanation, if nothing had come between us. Is there any verification for this? Under what circumstances would I _believe_ him that he could have done it? For example, if I knew that he had mastered a certain technique.
 
 ---
 
@@ -6992,7 +6992,7 @@ One can only say something if one has learned to speak: therefore, whoever wants
 
 **DeepL translation:**
 
-One can only say something if one has learned to speak: so whoever _wants_ to say something must also have learned to speak; &amp; yet it is clear that in wanting to speak, one did not have to speak. Just as in wanting to dance, one does not dance. And when one thinks about it, the mind reaches for the _idea_ of dancing, speaking, etc.
+One can only say something if one has learned to speak: so whoever _wants_ to say something must also have learned to speak; & yet it is clear that in wanting to speak, one did not have to speak. Just as in wanting to dance, one does not dance. And when one thinks about it, the mind reaches for the _idea_ of dancing, speaking, etc.
 
 ---
 
@@ -7112,7 +7112,7 @@ If you remember that you wanted to say this or that, you remember neither having
 
 **DeepL translation:**
 
-“I wanted to say” (“I was going to say”) – So I didn’t say anything after all; &amp; I didn’t make any other signs either. What one ‘wanted to say’ had thus _not_ been said _in any form_.
+“I wanted to say” (“I was going to say”) – So I didn’t say anything after all; & I didn’t make any other signs either. What one ‘wanted to say’ had thus _not_ been said _in any form_.
 
 ---
 
@@ -7156,7 +7156,7 @@ But it would also be wrong to say that “alluding” denotes a family of mental
 
 **DeepL translation:**
 
-If I allude to N. with a remark, this may—under certain circumstances—be discernible from my gaze, facial expression, etc. And if I also share my feelings, ideas, etc., with someone during my allusion, these may complete the typical picture of the allusion (or such _a_ picture). But it does not follow that the expression “to allude to N.” has the meaning: behaviour in this way, feeling this, imagining this, etc. And here some will say: “Of course not! We have always seen that. And there must simply be a common thread running through all these phenomena, which, as it were, wrap around this thread &amp; make it hard to find.” And that is not true either.
+If I allude to N. with a remark, this may—under certain circumstances—be discernible from my gaze, facial expression, etc. And if I also share my feelings, ideas, etc., with someone during my allusion, these may complete the typical picture of the allusion (or such _a_ picture). But it does not follow that the expression “to allude to N.” has the meaning: behaviour in this way, feeling this, imagining this, etc. And here some will say: “Of course not! We have always seen that. And there must simply be a common thread running through all these phenomena, which, as it were, wrap around this thread & make it hard to find.” And that is not true either.
 
 But it would also be wrong to say that “allude” is used as a designation for a family of mental and other processes. For one does not ask: “How did you allude to him? Was it with a facial expression, a gesture, a thought?”—as one might well ask: “How did you point to him? With your hand, with a nod of the head?”
 
@@ -7344,7 +7344,7 @@ The feeling of ‘familiarity’ & ‘naturalness’. – It is easier to find a
 
 **DeepL translation:**
 
-The feeling of ‘familiarity’ &amp; ‘naturalness’. – It is easier to find a feeling of unfamiliarity &amp; unnaturalness. Or: _feelings_. For not everything that is unknown to us gives us an impression of unfamiliarity. And here one must consider what we call “unknown.” A fieldstone we see by the path, we recognize as such, but perhaps not as the one we have always seen there. A person, for example, as a person, but not as an acquaintance. There are feelings of familiarity; their expression is sometimes a glance, or the words “The old room!” (in which I lived many years ago &amp; which I now see unchanged). Likewise, there are feelings of strangeness: I pause; see the object, or person, scrutinizingly &amp; suspiciously; say “It is all strange to me.” – But because this feeling of strangeness exists, one cannot say that every object we know well &amp; that does not seem strange to us gives us a feeling of familiarity. We feel, as it were, that the space once occupied by the feeling of strangeness must _somehow_ be filled. The space for this atmosphere exists, &amp; if one does not occupy it, then another does.
+The feeling of ‘familiarity’ & ‘naturalness’. – It is easier to find a feeling of unfamiliarity & unnaturalness. Or: _feelings_. For not everything that is unknown to us gives us an impression of unfamiliarity. And here one must consider what we call “unknown.” A fieldstone we see by the path, we recognize as such, but perhaps not as the one we have always seen there. A person, for example, as a person, but not as an acquaintance. There are feelings of familiarity; their expression is sometimes a glance, or the words “The old room!” (in which I lived many years ago & which I now see unchanged). Likewise, there are feelings of strangeness: I pause; see the object, or person, scrutinizingly & suspiciously; say “It is all strange to me.” – But because this feeling of strangeness exists, one cannot say that every object we know well & that does not seem strange to us gives us a feeling of familiarity. We feel, as it were, that the space once occupied by the feeling of strangeness must _somehow_ be filled. The space for this atmosphere exists, & if one does not occupy it, then another does.
 
 ---
 
@@ -7646,7 +7646,7 @@ If someone says that he believes in God, that is a very unclear communication. �
 
 **DeepL translation:**
 
-When someone communicates that they believe in God, that is a very vague communication. “But ‘believe’ simply means ‘to hold to be true’!” – Yes, it means to hold to be true, &amp; this definition does not provide any explanation that interests us. I believe that the weather will stay nice, that the Earth revolves around the Sun, that my behaviour back then was bad.
+When someone communicates that they believe in God, that is a very vague communication. “But ‘believe’ simply means ‘to hold to be true’!” – Yes, it means to hold to be true, & this definition does not provide any explanation that interests us. I believe that the weather will stay nice, that the Earth revolves around the Sun, that my behaviour back then was bad.
 
 ---
 
@@ -7672,7 +7672,7 @@ But we feel that we are not interested in an explanation of a mechanism. For thi
 
 <span class="series-number">2</span> One might wish to provide an explanation of the _mechanism of meaning_ through memory and association. –
 
-But we feel that an explanation of a mechanism cannot be what matters to us. For that is again a description of phenomena in language. It says, for example: when we hear the word “red,” then the &amp; the idea springs to mind. Well, when that happens—what next? We do not want to hear an explanation of a mechanism, but rather an explanation of a calculus.
+But we feel that an explanation of a mechanism cannot be what matters to us. For that is again a description of phenomena in language. It says, for example: when we hear the word “red,” then the & the idea springs to mind. Well, when that happens—what next? We do not want to hear an explanation of a mechanism, but rather an explanation of a calculus.
 
 ---
 
@@ -7692,7 +7692,7 @@ But we feel that an explanation of a mechanism cannot be what matters to us. For
 
 **DeepL translation:**
 
-<span class="series-number">1</span> When I say that the symbol is what produces this effect, the question arises: how can I speak of this effect if it is not present? And how do I know that it _is the one I meant_ when it occurs? It is therefore no explanation that resolves our difficulties to say: “very simple, we compare the fact with the memory-image”—because comparison presupposes a certain method of comparison, &amp; how is that given to us?
+<span class="series-number">1</span> When I say that the symbol is what produces this effect, the question arises: how can I speak of this effect if it is not present? And how do I know that it _is the one I meant_ when it occurs? It is therefore no explanation that resolves our difficulties to say: “very simple, we compare the fact with the memory-image”—because comparison presupposes a certain method of comparison, & how is that given to us?
 
 ---
 
@@ -7732,7 +7732,7 @@ But we feel that an explanation of a mechanism cannot be what matters to us. For
 
 **DeepL translation:**
 
-<span class="series-number">2</span> The effect of a sentence on the mind is not its sense. That is to say: that is not _how_ the word “sense” is used. The investigation of whether the meaning of a sign is its effect is a grammatical investigation. If we give someone a push so that he goes away &amp; he staggers back, we do not _call_ that the sense of the push.
+<span class="series-number">2</span> The effect of a sentence on the mind is not its sense. That is to say: that is not _how_ the word “sense” is used. The investigation of whether the meaning of a sign is its effect is a grammatical investigation. If we give someone a push so that he goes away & he staggers back, we do not _call_ that the sense of the push.
 
 ---
 
@@ -7772,7 +7772,7 @@ But we feel that an explanation of a mechanism cannot be what matters to us. For
 
 **DeepL translation:**
 
-<span class="series-number">1</span> When reading a sentence in one’s native language, one sees the individual words as they follow one another, each in a different way. We completely forget that “nicht” &amp; “mich” &amp; “sieht,” as spoken or written forms, do not differ _significantly_ from one another. In a language entirely foreign to us, we clearly see the essential uniformity of the words. – Couldn’t one say something quite analogous about the figures of a game? But also, for example, about tools—such as a dentist’s instruments; whoever does not know their purpose sees (only) longer &amp; shorter, sharp &amp; blunt, thick &amp; thin rods. For the one who uses them, each one has its own specific _meaning_ above all else.
+<span class="series-number">1</span> When reading a sentence in one’s native language, one sees the individual words as they follow one another, each in a different way. We completely forget that “nicht” & “mich” & “sieht,” as spoken or written forms, do not differ _significantly_ from one another. In a language entirely foreign to us, we clearly see the essential uniformity of the words. – Couldn’t one say something quite analogous about the figures of a game? But also, for example, about tools—such as a dentist’s instruments; whoever does not know their purpose sees (only) longer & shorter, sharp & blunt, thick & thin rods. For the one who uses them, each one has its own specific _meaning_ above all else.
 
 ---
 
@@ -7792,7 +7792,7 @@ One can use a red tile as a sample for painting a reddish white, or a reddish ye
 
 **DeepL translation:**
 
-<span class="series-number">1</span> One can use a small red panel as a model for painting a _reddish_ white, or a reddish yellow (etc.)—but can one also use it as a model for painting a shade of blue-green (e.g.)?—What if I saw someone, with all the outward signs of exact copying, ‘reproducing’ a red spot as blue-green?—What if I saw someone, with all the outward signs of exact copying, ‘reproducing’ a red spot as blue-green? – I would say: “I don’t know how he does it!”, or also: “I don’t know _what_ he’s doing.” – But suppose he ‘copied’ this shade of red on various occasions into precisely this blue-green, &amp; other shades of red with regularity into other shades of blue-green – should I now say he is copying, or that he is not copying? – No, as you want. But what does it mean that I don’t know ‘what he’s doing’? Don’t I see what he’s doing? But I can’t see _inside him_. – Just not this simile! If I see him copying red into red, what do I know then? Do I know _how_ I do it? Of course, one says: I’m just painting the _same_ color. – But what if _he_ says: “&amp; I’m painting the fifth to this color”? Do I see a specific process of mediation when _I_ paint the ‘same’ color? Suppose I know this person as an honest person; he renders, as I’ve described, a red through a blue-green—but now _not_ always the same shade through the same one, but sometimes through one shade, sometimes through another. Should I say, “I don’t know what he’s doing”? – He’s doing what I see – but _I_ would never _do_ it; I don’t know why he does it; his way of acting ‘is incomprehensible to me’.
+<span class="series-number">1</span> One can use a small red panel as a model for painting a _reddish_ white, or a reddish yellow (etc.)—but can one also use it as a model for painting a shade of blue-green (e.g.)?—What if I saw someone, with all the outward signs of exact copying, ‘reproducing’ a red spot as blue-green?—What if I saw someone, with all the outward signs of exact copying, ‘reproducing’ a red spot as blue-green? – I would say: “I don’t know how he does it!”, or also: “I don’t know _what_ he’s doing.” – But suppose he ‘copied’ this shade of red on various occasions into precisely this blue-green, & other shades of red with regularity into other shades of blue-green – should I now say he is copying, or that he is not copying? – No, as you want. But what does it mean that I don’t know ‘what he’s doing’? Don’t I see what he’s doing? But I can’t see _inside him_. – Just not this simile! If I see him copying red into red, what do I know then? Do I know _how_ I do it? Of course, one says: I’m just painting the _same_ color. – But what if _he_ says: “& I’m painting the fifth to this color”? Do I see a specific process of mediation when _I_ paint the ‘same’ color? Suppose I know this person as an honest person; he renders, as I’ve described, a red through a blue-green—but now _not_ always the same shade through the same one, but sometimes through one shade, sometimes through another. Should I say, “I don’t know what he’s doing”? – He’s doing what I see – but _I_ would never _do_ it; I don’t know why he does it; his way of acting ‘is incomprehensible to me’.
 
 ---
 
@@ -7872,7 +7872,7 @@ The concept of the ‘secondary sign’ is this: a sign is secondary when, in or
 
 **DeepL translation:**
 
-<span class="series-number">2</span> The concept of the ‘secondary sign’ is this: A sign is secondary if, in order to orient myself by it, I need a kind of table that connects it to another (primary) sign, &amp; it is only through this that I can orient myself by the secondary one. The table does not guarantee the uniformity of all the transitions I make, for it does not force me to use it in the same way every time. It is there, like a field through which paths lead, but I can also go cross-country. What, then, is the nature of my statement about the table: that it does not force me to use it this way or that? This explanation brings _to mind_ a use of the table—one I might not have thought of. I could say: “See your theory _this_ way—are you still satisfied with it?”
+<span class="series-number">2</span> The concept of the ‘secondary sign’ is this: A sign is secondary if, in order to orient myself by it, I need a kind of table that connects it to another (primary) sign, & it is only through this that I can orient myself by the secondary one. The table does not guarantee the uniformity of all the transitions I make, for it does not force me to use it in the same way every time. It is there, like a field through which paths lead, but I can also go cross-country. What, then, is the nature of my statement about the table: that it does not force me to use it this way or that? This explanation brings _to mind_ a use of the table—one I might not have thought of. I could say: “See your theory _this_ way—are you still satisfied with it?”
 
 ---
 
@@ -8072,7 +8072,7 @@ This question is fundamental: How, when we become acquainted with a new experien
 
 **DeepL translation:**
 
-<span class="series-number">2</span> When I give someone a command, it is _quite enough_ for me to give them a sign. And I would never say: These are just words, &amp; I must look beyond the words. Likewise, when I have asked someone something &amp; they give me an answer (i.e., a sign), I am satisfied—that was my expectation—&amp; do not object: That is merely an answer.
+<span class="series-number">2</span> When I give someone a command, it is _quite enough_ for me to give them a sign. And I would never say: These are just words, & I must look beyond the words. Likewise, when I have asked someone something & they give me an answer (i.e., a sign), I am satisfied—that was my expectation—& do not object: That is merely an answer.
 
 ---
 
@@ -8152,7 +8152,7 @@ Here we have this nagging problem: how is it even possible to come up with the i
 
 **DeepL translation:**
 
-<span class="series-number">1</span> “How can my (own) thoughts lead me to a place where there is no _path_ for them to go? That would be (indeed) like saying that a locomotive, if it only has fuel, can travel as far as it likes, &amp; forgetting that it cannot travel farther than the tracks extend.”
+<span class="series-number">1</span> “How can my (own) thoughts lead me to a place where there is no _path_ for them to go? That would be (indeed) like saying that a locomotive, if it only has fuel, can travel as far as it likes, & forgetting that it cannot travel farther than the tracks extend.”
 
 ---
 
@@ -8204,7 +8204,7 @@ As if I could, as it were, come at it from behind, and catch a glimpse of someth
 
 _(Nihil est in intellectu …)_
 
-As if I could, in thought, come from behind, so to speak, &amp; catch a glimpse of something I cannot see from the front.” – Against whom am I directing myself there? – If I am not mistaken myself – then against a false, i.e., misleading, _conception_, against false, misleading, images. (The misleading juxtaposition: ‘to recognize something through thinking, to grasp it through the intellect’ – ‘to grasp something through sensory perception.’ The intellect, as a kind of _sense_ for nonsensical things.)
+As if I could, in thought, come from behind, so to speak, & catch a glimpse of something I cannot see from the front.” – Against whom am I directing myself there? – If I am not mistaken myself – then against a false, i.e., misleading, _conception_, against false, misleading, images. (The misleading juxtaposition: ‘to recognize something through thinking, to grasp it through the intellect’ – ‘to grasp something through sensory perception.’ The intellect, as a kind of _sense_ for nonsensical things.)
 
 ---
 
@@ -8244,7 +8244,7 @@ You speak as if the thought – of which you have a vague concept – could achi
 
 **DeepL translation:**
 
-<span class="series-number">1</span> You speak as if the thought—of which you have a vague notion—could accomplish something unheard of; &amp; one must simply acknowledge that—it is, after all, the _thought_. Hardy says in the essay “Mathematical Proof”: “That ‘the finite cannot understand the infinite’ should surely be a theological &amp; not a mathematical war-cry.” It is true, this is a clumsy expression. But what those who use it want to say is: “Surely things must be in order here! Where does this leap from the finite to the infinite come from?” And that way of expressing it is not entirely nonsensical—only that “finite,” which the infinite is not supposed to be able to conceive, is not “man” or “the mind,” but _symbolism_, calculus. And _how_ this “finite” conceives the “infinite”—this is certainly worth investigating. And such an investigation is comparable to the precise examination and clarification of a company’s business conduct by an auditor. The goal is a surveyable representation of all applications, illustrations, and interpretations of calculus. A _comprehensive_ examination. (For any one-sided examination also casts a shadow.) A complete overview of everything that can create ambiguity. And this overview must extend over a wide scope, for the roots of our ideas reach far. Such an investigation is _difficult_. – “The finite does not have the understanding of the infinite” means: It cannot be as you, in your characteristic superficiality, portray it. Thought can, as it were, _fly_; it _need_ not walk. You do not have understanding—that is, you do not grasp—your own actions, and you project, as it were, your lack of understanding into the idea of a medium in which the most astonishing things are possible.
+<span class="series-number">1</span> You speak as if the thought—of which you have a vague notion—could accomplish something unheard of; & one must simply acknowledge that—it is, after all, the _thought_. Hardy says in the essay “Mathematical Proof”: “That ‘the finite cannot understand the infinite’ should surely be a theological & not a mathematical war-cry.” It is true, this is a clumsy expression. But what those who use it want to say is: “Surely things must be in order here! Where does this leap from the finite to the infinite come from?” And that way of expressing it is not entirely nonsensical—only that “finite,” which the infinite is not supposed to be able to conceive, is not “man” or “the mind,” but _symbolism_, calculus. And _how_ this “finite” conceives the “infinite”—this is certainly worth investigating. And such an investigation is comparable to the precise examination and clarification of a company’s business conduct by an auditor. The goal is a surveyable representation of all applications, illustrations, and interpretations of calculus. A _comprehensive_ examination. (For any one-sided examination also casts a shadow.) A complete overview of everything that can create ambiguity. And this overview must extend over a wide scope, for the roots of our ideas reach far. Such an investigation is _difficult_. – “The finite does not have the understanding of the infinite” means: It cannot be as you, in your characteristic superficiality, portray it. Thought can, as it were, _fly_; it _need_ not walk. You do not have understanding—that is, you do not grasp—your own actions, and you project, as it were, your lack of understanding into the idea of a medium in which the most astonishing things are possible.
 
 ---
 
@@ -8264,7 +8264,7 @@ One says: “Is a body located here?” – and the criteria are precisely the s
 
 **DeepL translation:**
 
-<span class="series-number">1</span> One says: “Is there a body here?” – &amp; the criteria are precisely the sensory perceptions. But _this_ is a _new_ construct, a construct of philosophy: “Is there a body behind these sensory perceptions—which were, after all, the criteria for the body’s existence?” –
+<span class="series-number">1</span> One says: “Is there a body here?” – & the criteria are precisely the sensory perceptions. But _this_ is a _new_ construct, a construct of philosophy: “Is there a body behind these sensory perceptions—which were, after all, the criteria for the body’s existence?” –
 
 ---
 
@@ -8372,7 +8372,7 @@ line segment that, in such a representation, extends beyond the boundary circle 
 
 **DeepL translation:**
 
-<span class="series-number">1</span> To say of the hollow cylinder that it is ‘unsatisfied’—what is that supposed to mean! – But I can imagine that _instead_ _of_ the expression “the empty hollow cylinder,” one might use the expression “the unsatisfied hollow cylinder,” &amp; that one _might call_ the solid cylinder that fits into it “its satisfaction.”
+<span class="series-number">1</span> To say of the hollow cylinder that it is ‘unsatisfied’—what is that supposed to mean! – But I can imagine that _instead_ _of_ the expression “the empty hollow cylinder,” one might use the expression “the unsatisfied hollow cylinder,” & that one _might call_ the solid cylinder that fits into it “its satisfaction.”
 
 ---
 
@@ -8432,7 +8432,7 @@ line segment that, in such a representation, extends beyond the boundary circle 
 
 **DeepL translation:**
 
-<span class="series-number">2</span> Even if one regards the sentence as a picture of a possible state of affairs &amp; says that it shows the possibility of the state of affairs, the sentence can at best do what a painted or sculptural image, or a film, does, &amp; it cannot, in any case, present what is not the case. So it depends entirely on our grammar what is called (logically) possible, and what is not—namely, precisely what it permits. But that is arbitrary! – In _a_ sense, _yes_. But I cannot make use of every sentence-like construction; not every game is useful, and when I am tempted to accept something completely useless as a sentence, it usually happens because I have not thought through its application sufficiently. For example, when I speak of an ‘infinitely long row of trees’ and do not ask myself how one might verify that a row of trees is infinitely long.
+<span class="series-number">2</span> Even if one regards the sentence as a picture of a possible state of affairs & says that it shows the possibility of the state of affairs, the sentence can at best do what a painted or sculptural image, or a film, does, & it cannot, in any case, present what is not the case. So it depends entirely on our grammar what is called (logically) possible, and what is not—namely, precisely what it permits. But that is arbitrary! – In _a_ sense, _yes_. But I cannot make use of every sentence-like construction; not every game is useful, and when I am tempted to accept something completely useless as a sentence, it usually happens because I have not thought through its application sufficiently. For example, when I speak of an ‘infinitely long row of trees’ and do not ask myself how one might verify that a row of trees is infinitely long.
 
 ---
 
@@ -8532,7 +8532,7 @@ line segment that, in such a representation, extends beyond the boundary circle 
 
 **DeepL translation:**
 
-<span class="series-number">2</span> What is the difference between these two processes: to wish that something happen &amp; to wish that the same thing _not_ happen? If one wants to represent it figuratively, one will use the image of the event to do something: to cross it out, to strike it through, &amp; the like. But that, it seems to us, is a _crude_ method of expression. In the word-language, we even use the word “not”; this is like a clumsy expedient. One feels: in _thought_, it already happens differently.
+<span class="series-number">2</span> What is the difference between these two processes: to wish that something happen & to wish that the same thing _not_ happen? If one wants to represent it figuratively, one will use the image of the event to do something: to cross it out, to strike it through, & the like. But that, it seems to us, is a _crude_ method of expression. In the word-language, we even use the word “not”; this is like a clumsy expedient. One feels: in _thought_, it already happens differently.
 
 ---
 
@@ -8592,7 +8592,7 @@ line segment that, in such a representation, extends beyond the boundary circle 
 
 **DeepL translation:**
 
-<span class="series-number">1</span> In response to the question: “Can you lift this weight?”, the answer might be: “I don’t know; we’ll see.” The same applies to the question: “Can you still play chess?” But if someone asks me, “Do you have understanding of the word ‘tree’?”—can I say, “We’ll see”? – The answer would be: “You must _know_ whether you have the understanding or not!” But suppose the question had been: “Do you know how a pawn moves in chess?” and he had answered: “We’ll see”—then we would be more inclined to say: “You must know whether you know it or not!” – On the other hand: if he had been asked, “Do you know what ‘clean’ and ‘unclean’ mean in the Jewish dietary laws?” – would it be nonsensical to say, “Let’s see – this and that are called clean; but whether _that_ is also called clean, I don’t know, etc., etc.” One would then also say, “To a certain extent, I have some understanding of the word.” Or the question would be: “Do you understand the word ‘integral’?” – But can’t you also think of cases in which it would be quite natural to say: “Yes, to a certain extent I understand the word ‘tree’; but to what extent, that remains to be seen”? And couldn’t it also happen that you _imagine_ you understand a word (no differently than understanding a method of calculation) &amp; then realize that you haven’t understood it? “I thought I knew what ‘relative’ &amp; ‘absolute motion’ meant, but I see that I don’t.”
+<span class="series-number">1</span> In response to the question: “Can you lift this weight?”, the answer might be: “I don’t know; we’ll see.” The same applies to the question: “Can you still play chess?” But if someone asks me, “Do you have understanding of the word ‘tree’?”—can I say, “We’ll see”? – The answer would be: “You must _know_ whether you have the understanding or not!” But suppose the question had been: “Do you know how a pawn moves in chess?” and he had answered: “We’ll see”—then we would be more inclined to say: “You must know whether you know it or not!” – On the other hand: if he had been asked, “Do you know what ‘clean’ and ‘unclean’ mean in the Jewish dietary laws?” – would it be nonsensical to say, “Let’s see – this and that are called clean; but whether _that_ is also called clean, I don’t know, etc., etc.” One would then also say, “To a certain extent, I have some understanding of the word.” Or the question would be: “Do you understand the word ‘integral’?” – But can’t you also think of cases in which it would be quite natural to say: “Yes, to a certain extent I understand the word ‘tree’; but to what extent, that remains to be seen”? And couldn’t it also happen that you _imagine_ you understand a word (no differently than understanding a method of calculation) & then realize that you haven’t understood it? “I thought I knew what ‘relative’ & ‘absolute motion’ meant, but I see that I don’t.”
 
 ---
 
@@ -8612,7 +8612,7 @@ I imagine this game being played: A list of words of various kinds is created; s
 
 **DeepL translation:**
 
-<span class="series-number">1</span> I imagine playing this game: A list of words of various kinds is compiled; some are very simple nouns, such as “tree,” “bread,” then, for example, also “thing,” rarer ones like “dynamometer,” “continuity,” and other specific color names such as: “sepia,” “ultramarine,” “cobalt blue”; the words “perhaps,” “about,” “the”; also words from foreign languages, more or less unusual; &amp; also senseless sequences of sounds. These words are read aloud to me, and after each one I am to say whether I understand them or not; &amp; to examine what was going on inside me when I had understanding or did not have it. – To the word “tree,” I will answer “yes” without hesitation—an image _may_ or may not come to mind; to a sequence of sounds I have never heard before, I will answer “no” just as readily; for words with a specific designation of color, the answer is often preceded by a mental visualization; for rarer words like “dynamometer,” a moment of thought; for words like the article “das,” perhaps a shrug; I will _sometimes_ translate words from a foreign language into German; if images come to mind, they are sometimes those of the objects the word designates (again, a thousand different cases), sometimes _other_ images. This game could be supplemented by one in which the names of _activities_ are stated &amp; for each one asked: “Can you do that?” – The subject should then explain the reasons for answering the question one way or the other.
+<span class="series-number">1</span> I imagine playing this game: A list of words of various kinds is compiled; some are very simple nouns, such as “tree,” “bread,” then, for example, also “thing,” rarer ones like “dynamometer,” “continuity,” and other specific color names such as: “sepia,” “ultramarine,” “cobalt blue”; the words “perhaps,” “about,” “the”; also words from foreign languages, more or less unusual; & also senseless sequences of sounds. These words are read aloud to me, and after each one I am to say whether I understand them or not; & to examine what was going on inside me when I had understanding or did not have it. – To the word “tree,” I will answer “yes” without hesitation—an image _may_ or may not come to mind; to a sequence of sounds I have never heard before, I will answer “no” just as readily; for words with a specific designation of color, the answer is often preceded by a mental visualization; for rarer words like “dynamometer,” a moment of thought; for words like the article “das,” perhaps a shrug; I will _sometimes_ translate words from a foreign language into German; if images come to mind, they are sometimes those of the objects the word designates (again, a thousand different cases), sometimes _other_ images. This game could be supplemented by one in which the names of _activities_ are stated & for each one asked: “Can you do that?” – The subject should then explain the reasons for answering the question one way or the other.
 
 ---
 
@@ -8652,7 +8652,7 @@ I once wrote: “If I am asked, ‘Do you see a sphere there?’ and another tim
 
 **DeepL translation:**
 
-<span class="series-number">2</span> I once wrote: “If I am asked ‘Do you see a sphere there?’, and another time ‘Do you see the hemisphere there?’, what I see may be the same in both cases, &amp; when I answer ‘Yes, I see it’, I nevertheless distinguish between the two hypotheses. Just as in a game of chess I distinguish between a pawn and the king, even if the current move is one that both could make, and even if a king were to function as a pawn.” In philosophy, one is always in danger of creating a myth of symbolism, or of mental processes. Instead of simply saying what everyone knows and must admit.
+<span class="series-number">2</span> I once wrote: “If I am asked ‘Do you see a sphere there?’, and another time ‘Do you see the hemisphere there?’, what I see may be the same in both cases, & when I answer ‘Yes, I see it’, I nevertheless distinguish between the two hypotheses. Just as in a game of chess I distinguish between a pawn and the king, even if the current move is one that both could make, and even if a king were to function as a pawn.” In philosophy, one is always in danger of creating a myth of symbolism, or of mental processes. Instead of simply saying what everyone knows and must admit.
 
 ---
 
@@ -8772,7 +8772,7 @@ It is a very remarkable fact that, in using language, I do not remember how I le
 
 **DeepL translation:**
 
-<span class="series-number">4</span> It is a very curious fact that, when using language, I do not remember how I learned it. I say: “the glass is in the cupboard”; I do not know how I learned the meaning of “glass” &amp; “cupboard.” My application of words is completely detached from explanations that were once given to me. It is as if I had coined the words myself. And here we are led back to the question: If the grammatical rules governing a word determine its meaning, must I have all these rules in my head for the word to mean anything to me? Or is it here like in a mechanism: the wheel that stands still, the wheel in _a_ position, knows, as it were, not what movement is still permitted to it, the piston does not know what law governs its movement; &amp; yet the wheel &amp; the piston act only through that constraint. Should I therefore say: The grammatical rules act in time? (Like that guidance.) So: The word “glass” functions only in the manner of its application. And one might conceivably ask the strange question: “How can I then know immediately what I mean by ‘glass,’ since I cannot possibly have the entire range of its applications in my head at once?” – And is it not similar in a game? One might say that I have the knowledge of the rules of the game, ‘have them in my head,’ when I play. But isn’t this “having them in my head” really just a hypothesis? Do I not have them in my head only insofar as I apply them in each particular case? – Certainly, this knowledge is merely the hypothetical reservoir from which the water actually seen flows. The understanding of language—quasi of the game—seems like a backdrop against which the individual sentence first gains meaning.
+<span class="series-number">4</span> It is a very curious fact that, when using language, I do not remember how I learned it. I say: “the glass is in the cupboard”; I do not know how I learned the meaning of “glass” & “cupboard.” My application of words is completely detached from explanations that were once given to me. It is as if I had coined the words myself. And here we are led back to the question: If the grammatical rules governing a word determine its meaning, must I have all these rules in my head for the word to mean anything to me? Or is it here like in a mechanism: the wheel that stands still, the wheel in _a_ position, knows, as it were, not what movement is still permitted to it, the piston does not know what law governs its movement; & yet the wheel & the piston act only through that constraint. Should I therefore say: The grammatical rules act in time? (Like that guidance.) So: The word “glass” functions only in the manner of its application. And one might conceivably ask the strange question: “How can I then know immediately what I mean by ‘glass,’ since I cannot possibly have the entire range of its applications in my head at once?” – And is it not similar in a game? One might say that I have the knowledge of the rules of the game, ‘have them in my head,’ when I play. But isn’t this “having them in my head” really just a hypothesis? Do I not have them in my head only insofar as I apply them in each particular case? – Certainly, this knowledge is merely the hypothetical reservoir from which the water actually seen flows. The understanding of language—quasi of the game—seems like a backdrop against which the individual sentence first gains meaning.
 
 ---
 
@@ -8792,7 +8792,7 @@ How odd: it seems as if a physical (mechanical) guidance could fail, allow for t
 
 **DeepL translation:**
 
-<span class="series-number">1</span> How strange: it seems as though a physical (mechanical) guide might fail, allowing for the unforeseen, but a rule cannot! It would be, so to speak, the only reliable guide. But in what does it consist that a guide does not allow a movement, &amp; in what that a rule does not allow it? – How does one know one thing, &amp; how the other?
+<span class="series-number">1</span> How strange: it seems as though a physical (mechanical) guide might fail, allowing for the unforeseen, but a rule cannot! It would be, so to speak, the only reliable guide. But in what does it consist that a guide does not allow a movement, & in what that a rule does not allow it? – How does one know one thing, & how the other?
 
 ---
 
@@ -8857,11 +8857,11 @@ Der Text ist ein anspruchsvolles, aber auch lohnendes Leseerlebnis. Er regt dazu
 
 September 11, 1937
 
-“But are the transitions _not_ determined by the algebraic formula?” – There is a mistake in the question. We use the expression: “the transitions are determined by the formula …”. How do we use it? We can, for example, speak of people being brought, through education (training), to use these formulas in such a way that everyone, when substituting the same number for _x_, always calculates the same number for _y_. Or we can say: “These people are educated in such a way that they all make the same transition at the same stage upon the command ‘+3’.” We could express this as follows: “The command ‘+3’ completely determines every transition from one number to the next for these people.” (In contrast to other people who, upon hearing this command, do not know what to do, or whose reactions to it are certain but differ in nature.) On the other hand, we can contrast different types of formulas &amp; their corresponding different modes of use (different types of training). We then _call_ formulas of a certain type (&amp; their corresponding mode of use) “formulas that determine a number y for a given x” &amp; formulas of another type those “that do not determine the number y for a given x.” (y = x² + 1 would be of the first kind, y &gt; x² + 1, y = x² ± 1, y = x² + z of the other.) The statement “The formula … determines a number y” is then a statement about the form of the formula. And we must now distinguish a statement such as “The formula I have written down determines y” or “Here is a formula that determines y” from a statement such as: “The formula y = x² determines the number y for a given x”. The question: “Is there a formula there that determines y?” then means the same as: “Is there a formula of this type, or of that type?”, but what are we to make of the question: “Is y = x² a formula that determines y for a given x?” is not immediately clear. One might ask this question of a student, for example, to check their understanding of the use of the expression “determine”; or it could be a mathematical problem to determine whether there is only one variable on the right-hand side of the formula, as in the case of y = (x² + z)² ‒ z(2x² + z). One can now say: “How the formula is intended determines which transitions must be made.” What is the criterion for how the formula is intended? Surely the way we constantly use it, the way we were taught to use it. We say, for example, to someone who uses a symbol unknown to us: “If by ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’ you mean x², then you get _this_ value for y; if you mean √x, then _that one_.” – Now ask yourself: How does one use “<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>” _to mean_ one thing or the other? _Thus_, the intended meaning can determine the transitions in advance. “But where, then, lies the peculiar relentlessness of mathematics?” – Is not a good example of this the relentlessness with which 1 is followed by 2, 2 by 3, 3 by 4, and so on? – Surely this means: in the _series_ _of cardinal numbers_, – for in another series, something else follows, does it not? And is _this_ series not _defined_ precisely by this sequence? – “So are you saying that _any_ _way_ _of_ counting is equally correct &amp; that everyone can count however they want?” – We would probably not call it “counting” if everyone _simply_ recited numbers one after another; but of course it is not simply a matter of terminology. For what we call “counting” is, after all, an important part of the practice of our lives. Counting and arithmetic are, for example, not simply a pastime. Counting (and that means: counting _in this way_) is a technique used daily in the most diverse tasks of our lives. And that is why we learn to count the way we do: through endless practice, with relentless precision; that is why we are inexorably urged to say “one,” “two,” “two,” “three,” and so on. – “But is this counting merely an _use_? Does this sequence not also correspond to a truth?” The _truth_ is that counting has proven itself very well. – “So are you saying that ‘to be true’ means to be useful (or practical)?” – No; rather, that one cannot say of the natural number sequence—just as one cannot say of our language—that it is true, but rather: that it is useful &amp;, above all, _that it is used._ “But does it not follow with logical necessity that you get 2 when you add 1 to 1 &amp; 3 when you add 1 to 2, and so on; &amp; is this inevitability not the same as that of logical inference?” – Yes! It is the same. – “But does not logical inference correspond to a truth? Is it not _true_ that this follows from that?” – The sentence: ‘it is true that this follows from that,’ simply means: this follows from that. And how do we use this sentence? – What would happen if we inferred differently—how would we come into conflict with the truth? Here one must make clear what inference actually consists of. One might say, for example, that it consists in the transition from one assertion to another. But what does that mean? Does it mean that inference is something that takes place during the transition from one assertion to another, that is, _before_ the other is uttered—or does it mean that inference consists in letting one assertion follow the other, that is, in uttering it after the other? Misled by the particular usage of the verb “to infer,” we are prone to imagine that inference is a peculiar activity, a process within the mind, as it were a brewing of mists from which the conclusion then emerges. But let us see what actually happens here! On the one hand, there is a transition from one proposition to another via other propositions—that is, through a chain of inference—but we need not speak of this transition, since it presupposes another kind of transition, namely, from one link in the chain to the next. And here, too, there is a process that can be called a transition _between_ links. There is nothing mysterious about this process; it is a derivation of one proposition from another according to a rule, a comparison of the two with some paradigm that represents the schema of the transition, or the like. It can take place on paper, orally, or “in the mind,” that is, in the imagination. However, the conclusion can also be drawn in such a way that one statement is uttered after the other without a process of transition; or the transition consists merely in our saying: “So,” or “It follows that,” or the like. We then call it “concluding” when the concluded sentence _can_ actually be derived from the premise. What does it mean, then, that one proposition _can_ be derived from another by means of a rule? Can’t everything be derived from everything else by means of _some_ rule? – What does it mean when I say, for example: this number can be obtained by multiplying those two? This is obviously a rule that states that you must obtain this number if you multiply _correctly_; &amp; we can obtain this rule by multiplying the two numbers, or in some other way (although any operation that leads to this result can also be called a ‘multiplication’). We say I have multiplied when I have performed the multiplication 165 × 363, but also when I say: “4 times 2 is 8,” even though no calculation led to the product here (though I could have _calculated_ it). And so we also say that a conclusion is drawn where it is not calculated. But the rule of inference must be such that the conclusion _must_ be true if the premise is true. So if I have recognized the premise as true, the conclusion must be such that a discrepancy between the conclusion and reality is ruled out. – And this is only possible because I accept nothing but such a discrepancy if reality corresponds to the premises. “But I may only conclude what truly _follows_!” – Does that mean: only what follows according to the rules of inference, – or does it mean: only what follows according to such rules of inference that correspond to some reality? Here we vaguely envision that this reality is something very abstract, very general, and very rigid. Logic is a kind of ultraphysics, the description of the ‘logical structure’ of the world, which we perceive through a kind of ultra-experience (with the intellect, for example). We might have conclusions in mind here such as this: “The stove is smoking, so the stovepipe is misaligned again.” (And _this_ is _how_ this conclusion is drawn! Not like this: “The stove is smoking, and whenever the stove smokes, the pipe is misaligned; therefore …”.) What we call a ‘logical conclusion’ is nothing but a transformation of expression. The conversion from one unit of measurement to another. On one edge of a ruler, inches are marked; on the other_, centimeters_. I measure the table in inches and then switch to centimeters _on the ruler_. – Or like this: I fill a vessel with water, then I pour the water into a measuring cup (over) and finally I weigh this water to obtain another expression for the vessel’s contents. And of course, there is also right and wrong in the transition from one measure to another; but with what reality does the “right” correspond here? Probably with a _convention_, or the _use_, and perhaps with practical needs. How would we come into conflict with the truth if our measuring rods were made of soft rubber instead of wood and steel? “Well, we wouldn’t know the correct measurement of the table.” – You mean we wouldn’t obtain, or wouldn’t reliably obtain, _the_ measurement we get with our hard rulers. So whoever measures the table with this soft ruler and makes the assertion that it now measures 1.80 m according to our usual method of measurement would be wrong; but if he merely says the table measures 1.80 m according to his method of measurement, then that is correct. – “But that isn’t measuring at all!” – Certainly, it isn’t what we call ‘measuring’; but under certain circumstances it can also fulfil ‘practical purposes.’ A ruler that expands extraordinarily strongly when heated, we would—under ordinary circumstances—therefore call _unusable_. But we could imagine situations in which precisely this would be desirable. I imagine that we perceive the expansion with the naked eye; &amp; assign the same numerical value of length to bodies in spaces of different temperatures when they extend the same distance on the scale—which appears to the eye sometimes longer, sometimes shorter. One can then say: What is meant here by “measure” &amp; “length” &amp; “equal in length” is something different from what we call that. The use of these words here is different from ours; but it is _related_ to ours, and we, too, use these words in _many_ ways. Pliny said that it is a property of numbers that a higher kind begins after every ten. (The Logical Structure of the World. –) “But must not ‘(x)·fx’ follow from ‘fa’ _if_ (ξ)·Φξ is meant as we mean it?” – And how does it manifest itself: _as_ we mean it? Not through the constant practice of its use? &amp; perhaps also through certain _gestures_ – &amp; the like. — But it is as if the word “all,” when _we_ say it, still carries something with it that would be incompatible with any other use; namely, the _meaning_. “‘All’ means, after all: _all_!” we might say, if we were to provide an explanation for it; &amp; in doing so we make a certain gesture &amp; facial expression. Cut down all these trees! ‒ ‒ Yes, don’t you have an understanding of what ‘all’ means? (He had left _one_ standing.) How did he learn what “all” means? Surely through practice. – And of course this practice has not caused him to _do that_ upon command, but it has surrounded the word with a multitude of images (visual and others), one or the other of which appears when we hear and pronounce the word. (And when we are asked to account for what the ‘meaning’ of the word is, we first pick out _an_ image from this mass—and then discard it again as irrelevant when we see that sometimes this, sometimes that appears, and sometimes none.) One could say: One learns the meaning of “all” by learning that (x)․fx implies fa. – That is, the exercises that practice and teach the use of this word always boil down to the fact that no exceptions may be made. “From ‘all,’ if that is _what_ is meant, _this_ must follow.” – If it is meant _that way_? Think about it—how do you mean it? Perhaps an image still floats before your mind—and that is all you have. – No, it doesn’t _have_ _to_—but it _follows_: We _make_ this transition. And we say: If it doesn’t follow, then it simply wasn’t _all_! – – and that only shows how we react with words in such a situation. – We could also put it this way: It seems to us that if, from (x), fx is no longer to follow, then besides the _use_ of the word “all,” something else has changed—something that is directly attached to the word. Isn’t that similar to saying: “If this person acted differently, then his character would also have to be different.” Now, that may mean something in some cases &amp; in others it may not. We say: “the way of acting flows from character” &amp; so use flows from meaning. This shows you—one might say—how firmly certain gestures, images, and reactions are linked to a constantly practiced use. ‘The image imposes itself on us …’ It is very interesting that images can _impose_ themselves on us. What is important is that in our language—in our natural language—“all” is a fundamental concept, and “all but one” is less fundamental; that is, there is no _single_ word for it, nor a characteristic gesture. The whole _point_ of the word “all” is, after all, that it allows for no exception. —Yes, that is the point of its use in our language; but which uses we perceive as ‘the point’ depends on the role this use plays in our entire lives. (This remark is related to that: We sometimes want to say: “There must be a reason why, in a symphony for example, this theme is followed by _that_ one.” As a reason, we would notice a certain relationship between the two themes, a kinship, a contrast, or the like. – But we can, of course, construct such a relationship: so to speak, an operation that generates one from the other; but this serves us only if this relationship is one we are well acquainted with. It is, therefore, as if the sequence of these themes must correspond to a paradigm already present within us. Of a painting depicting two human figures, one might similarly say: “There must be a reason why _these_ two faces in particular make such an impression on us.” We would like—that is to say—to find this impression of the two faces again elsewhere—in another domain. – But can it be found again? One could also ask: Which combination of themes has a _punchline_, and which _does not_? Or: _Why_ does this combination have a punchline and _that one_ does not? That may not be easy to say! Often we can say: “This corresponds to a gesture, this does not.”) This ambiguity is very clearly evident in Russell’s exposition (‘Principia Mathematica’ …) That a proposition ⊢ q follows from a proposition ⊢ p ⊃ q ∙ p is a fundamental logical law here:
+“But are the transitions _not_ determined by the algebraic formula?” – There is a mistake in the question. We use the expression: “the transitions are determined by the formula …”. How do we use it? We can, for example, speak of people being brought, through education (training), to use these formulas in such a way that everyone, when substituting the same number for _x_, always calculates the same number for _y_. Or we can say: “These people are educated in such a way that they all make the same transition at the same stage upon the command ‘+3’.” We could express this as follows: “The command ‘+3’ completely determines every transition from one number to the next for these people.” (In contrast to other people who, upon hearing this command, do not know what to do, or whose reactions to it are certain but differ in nature.) On the other hand, we can contrast different types of formulas & their corresponding different modes of use (different types of training). We then _call_ formulas of a certain type (& their corresponding mode of use) “formulas that determine a number y for a given x” & formulas of another type those “that do not determine the number y for a given x.” (y = x² + 1 would be of the first kind, y &gt; x² + 1, y = x² ± 1, y = x² + z of the other.) The statement “The formula … determines a number y” is then a statement about the form of the formula. And we must now distinguish a statement such as “The formula I have written down determines y” or “Here is a formula that determines y” from a statement such as: “The formula y = x² determines the number y for a given x”. The question: “Is there a formula there that determines y?” then means the same as: “Is there a formula of this type, or of that type?”, but what are we to make of the question: “Is y = x² a formula that determines y for a given x?” is not immediately clear. One might ask this question of a student, for example, to check their understanding of the use of the expression “determine”; or it could be a mathematical problem to determine whether there is only one variable on the right-hand side of the formula, as in the case of y = (x² + z)² ‒ z(2x² + z). One can now say: “How the formula is intended determines which transitions must be made.” What is the criterion for how the formula is intended? Surely the way we constantly use it, the way we were taught to use it. We say, for example, to someone who uses a symbol unknown to us: “If by ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’ you mean x², then you get _this_ value for y; if you mean √x, then _that one_.” – Now ask yourself: How does one use “<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>” _to mean_ one thing or the other? _Thus_, the intended meaning can determine the transitions in advance. “But where, then, lies the peculiar relentlessness of mathematics?” – Is not a good example of this the relentlessness with which 1 is followed by 2, 2 by 3, 3 by 4, and so on? – Surely this means: in the _series_ _of cardinal numbers_, – for in another series, something else follows, does it not? And is _this_ series not _defined_ precisely by this sequence? – “So are you saying that _any_ _way_ _of_ counting is equally correct & that everyone can count however they want?” – We would probably not call it “counting” if everyone _simply_ recited numbers one after another; but of course it is not simply a matter of terminology. For what we call “counting” is, after all, an important part of the practice of our lives. Counting and arithmetic are, for example, not simply a pastime. Counting (and that means: counting _in this way_) is a technique used daily in the most diverse tasks of our lives. And that is why we learn to count the way we do: through endless practice, with relentless precision; that is why we are inexorably urged to say “one,” “two,” “two,” “three,” and so on. – “But is this counting merely an _use_? Does this sequence not also correspond to a truth?” The _truth_ is that counting has proven itself very well. – “So are you saying that ‘to be true’ means to be useful (or practical)?” – No; rather, that one cannot say of the natural number sequence—just as one cannot say of our language—that it is true, but rather: that it is useful &, above all, _that it is used._ “But does it not follow with logical necessity that you get 2 when you add 1 to 1 & 3 when you add 1 to 2, and so on; & is this inevitability not the same as that of logical inference?” – Yes! It is the same. – “But does not logical inference correspond to a truth? Is it not _true_ that this follows from that?” – The sentence: ‘it is true that this follows from that,’ simply means: this follows from that. And how do we use this sentence? – What would happen if we inferred differently—how would we come into conflict with the truth? Here one must make clear what inference actually consists of. One might say, for example, that it consists in the transition from one assertion to another. But what does that mean? Does it mean that inference is something that takes place during the transition from one assertion to another, that is, _before_ the other is uttered—or does it mean that inference consists in letting one assertion follow the other, that is, in uttering it after the other? Misled by the particular usage of the verb “to infer,” we are prone to imagine that inference is a peculiar activity, a process within the mind, as it were a brewing of mists from which the conclusion then emerges. But let us see what actually happens here! On the one hand, there is a transition from one proposition to another via other propositions—that is, through a chain of inference—but we need not speak of this transition, since it presupposes another kind of transition, namely, from one link in the chain to the next. And here, too, there is a process that can be called a transition _between_ links. There is nothing mysterious about this process; it is a derivation of one proposition from another according to a rule, a comparison of the two with some paradigm that represents the schema of the transition, or the like. It can take place on paper, orally, or “in the mind,” that is, in the imagination. However, the conclusion can also be drawn in such a way that one statement is uttered after the other without a process of transition; or the transition consists merely in our saying: “So,” or “It follows that,” or the like. We then call it “concluding” when the concluded sentence _can_ actually be derived from the premise. What does it mean, then, that one proposition _can_ be derived from another by means of a rule? Can’t everything be derived from everything else by means of _some_ rule? – What does it mean when I say, for example: this number can be obtained by multiplying those two? This is obviously a rule that states that you must obtain this number if you multiply _correctly_; & we can obtain this rule by multiplying the two numbers, or in some other way (although any operation that leads to this result can also be called a ‘multiplication’). We say I have multiplied when I have performed the multiplication 165 × 363, but also when I say: “4 times 2 is 8,” even though no calculation led to the product here (though I could have _calculated_ it). And so we also say that a conclusion is drawn where it is not calculated. But the rule of inference must be such that the conclusion _must_ be true if the premise is true. So if I have recognized the premise as true, the conclusion must be such that a discrepancy between the conclusion and reality is ruled out. – And this is only possible because I accept nothing but such a discrepancy if reality corresponds to the premises. “But I may only conclude what truly _follows_!” – Does that mean: only what follows according to the rules of inference, – or does it mean: only what follows according to such rules of inference that correspond to some reality? Here we vaguely envision that this reality is something very abstract, very general, and very rigid. Logic is a kind of ultraphysics, the description of the ‘logical structure’ of the world, which we perceive through a kind of ultra-experience (with the intellect, for example). We might have conclusions in mind here such as this: “The stove is smoking, so the stovepipe is misaligned again.” (And _this_ is _how_ this conclusion is drawn! Not like this: “The stove is smoking, and whenever the stove smokes, the pipe is misaligned; therefore …”.) What we call a ‘logical conclusion’ is nothing but a transformation of expression. The conversion from one unit of measurement to another. On one edge of a ruler, inches are marked; on the other_, centimeters_. I measure the table in inches and then switch to centimeters _on the ruler_. – Or like this: I fill a vessel with water, then I pour the water into a measuring cup (over) and finally I weigh this water to obtain another expression for the vessel’s contents. And of course, there is also right and wrong in the transition from one measure to another; but with what reality does the “right” correspond here? Probably with a _convention_, or the _use_, and perhaps with practical needs. How would we come into conflict with the truth if our measuring rods were made of soft rubber instead of wood and steel? “Well, we wouldn’t know the correct measurement of the table.” – You mean we wouldn’t obtain, or wouldn’t reliably obtain, _the_ measurement we get with our hard rulers. So whoever measures the table with this soft ruler and makes the assertion that it now measures 1.80 m according to our usual method of measurement would be wrong; but if he merely says the table measures 1.80 m according to his method of measurement, then that is correct. – “But that isn’t measuring at all!” – Certainly, it isn’t what we call ‘measuring’; but under certain circumstances it can also fulfil ‘practical purposes.’ A ruler that expands extraordinarily strongly when heated, we would—under ordinary circumstances—therefore call _unusable_. But we could imagine situations in which precisely this would be desirable. I imagine that we perceive the expansion with the naked eye; & assign the same numerical value of length to bodies in spaces of different temperatures when they extend the same distance on the scale—which appears to the eye sometimes longer, sometimes shorter. One can then say: What is meant here by “measure” & “length” & “equal in length” is something different from what we call that. The use of these words here is different from ours; but it is _related_ to ours, and we, too, use these words in _many_ ways. Pliny said that it is a property of numbers that a higher kind begins after every ten. (The Logical Structure of the World. –) “But must not ‘(x)·fx’ follow from ‘fa’ _if_ (ξ)·Φξ is meant as we mean it?” – And how does it manifest itself: _as_ we mean it? Not through the constant practice of its use? & perhaps also through certain _gestures_ – & the like. — But it is as if the word “all,” when _we_ say it, still carries something with it that would be incompatible with any other use; namely, the _meaning_. “‘All’ means, after all: _all_!” we might say, if we were to provide an explanation for it; & in doing so we make a certain gesture & facial expression. Cut down all these trees! ‒ ‒ Yes, don’t you have an understanding of what ‘all’ means? (He had left _one_ standing.) How did he learn what “all” means? Surely through practice. – And of course this practice has not caused him to _do that_ upon command, but it has surrounded the word with a multitude of images (visual and others), one or the other of which appears when we hear and pronounce the word. (And when we are asked to account for what the ‘meaning’ of the word is, we first pick out _an_ image from this mass—and then discard it again as irrelevant when we see that sometimes this, sometimes that appears, and sometimes none.) One could say: One learns the meaning of “all” by learning that (x)․fx implies fa. – That is, the exercises that practice and teach the use of this word always boil down to the fact that no exceptions may be made. “From ‘all,’ if that is _what_ is meant, _this_ must follow.” – If it is meant _that way_? Think about it—how do you mean it? Perhaps an image still floats before your mind—and that is all you have. – No, it doesn’t _have_ _to_—but it _follows_: We _make_ this transition. And we say: If it doesn’t follow, then it simply wasn’t _all_! – – and that only shows how we react with words in such a situation. – We could also put it this way: It seems to us that if, from (x), fx is no longer to follow, then besides the _use_ of the word “all,” something else has changed—something that is directly attached to the word. Isn’t that similar to saying: “If this person acted differently, then his character would also have to be different.” Now, that may mean something in some cases & in others it may not. We say: “the way of acting flows from character” & so use flows from meaning. This shows you—one might say—how firmly certain gestures, images, and reactions are linked to a constantly practiced use. ‘The image imposes itself on us …’ It is very interesting that images can _impose_ themselves on us. What is important is that in our language—in our natural language—“all” is a fundamental concept, and “all but one” is less fundamental; that is, there is no _single_ word for it, nor a characteristic gesture. The whole _point_ of the word “all” is, after all, that it allows for no exception. —Yes, that is the point of its use in our language; but which uses we perceive as ‘the point’ depends on the role this use plays in our entire lives. (This remark is related to that: We sometimes want to say: “There must be a reason why, in a symphony for example, this theme is followed by _that_ one.” As a reason, we would notice a certain relationship between the two themes, a kinship, a contrast, or the like. – But we can, of course, construct such a relationship: so to speak, an operation that generates one from the other; but this serves us only if this relationship is one we are well acquainted with. It is, therefore, as if the sequence of these themes must correspond to a paradigm already present within us. Of a painting depicting two human figures, one might similarly say: “There must be a reason why _these_ two faces in particular make such an impression on us.” We would like—that is to say—to find this impression of the two faces again elsewhere—in another domain. – But can it be found again? One could also ask: Which combination of themes has a _punchline_, and which _does not_? Or: _Why_ does this combination have a punchline and _that one_ does not? That may not be easy to say! Often we can say: “This corresponds to a gesture, this does not.”) This ambiguity is very clearly evident in Russell’s exposition (‘Principia Mathematica’ …) That a proposition ⊢ q follows from a proposition ⊢ p ⊃ q ∙ p is a fundamental logical law here:
 
 ⊢ p ⊃ q ∙ p ․⊃․ ⊢ q.
 
-This, it is said, now entitles us to infer ⊢ q from ⊢ p ⊃ q ∙ p. But what does ‘infer’ consist of, this activity to which we are entitled? Surely in uttering one proposition—in some language-game—after the other as an assertion, writing it down, and the like; and how can that fundamental law entitle me _to do so_? Russell surely wants to say: “This _is how_ I will infer, and this is _correct_.” He thus wants to communicate how he intends to infer: this is done through a _rule_ of inference. What is it? That this proposition implies that one? Well, that in the proofs of this book such a sentence is written after such a one. – : it is supposed to be a fundamental logical law that it is _correct_ to infer in this way! – Then the fundamental logical law would have to read: “It is correct to infer from … to …”; and this fundamental logical law should now seem obvious; but then the rule itself will seem correct, or justified, to us. “But this rule concerns propositions in a book, &amp; that does not belong to logic!” – Quite right; the rule is really only a communication that in this book only _this_ transition from one proposition to the next is used, for the correctness of the transition must (precisely) be evident on the spot; &amp; the expression of the ‘logical law’ is then the _consequence of the propositions_ themselves. Russell seems to be saying, with regard to that fundamental law, of a sentence ⊢ q: “It already follows—I only need to deduce it.” Quite analogously, Frege once states that the straight line connecting any two points is actually already there before we draw it. And so it is also when we say that the transitions of the sequence +2, for example, are actually already made before we make them orally or in writing—as it were, tracing them. To someone who says this, one might reply: You are using an image here: One _can determine_ the transitions that someone is to make in a sequence by demonstrating them to him. For example, by writing out the sequence he is to write in a different notation so that he only has to copy it over, or by writing it out very lightly so that he has to trace it. In the first case, we can also say that we do not write out _the_ sequence he is to write, and thus do not make the transitions of this sequence ourselves; but in the second case we will certainly say that the sequence he is to write is already present. We would say this even if we _dictated_ to him what he is to write down, although we would then produce a sequence of sounds and he a sequence of written characters. In any case, it is a sure way to _determine_ the transitions one must make to, in a sense, demonstrate them to him beforehand. – If, therefore, we determine these transitions in a completely different way, namely by subjecting our student to training, such as our children receive in addition and multiplication, so that all who are trained in this way can now perform any multiplications they did not do during their instruction in the same manner and with consistent results—if, therefore, the transitions which one must make upon the command +2 are determined by training in such a way that we can predict with certainty how it will proceed, even if he has never made _this_ transition before—then it is natural for us to use, as an illustration of this state of affairs, the idea that the transitions have already all been made; we are merely writing them down. “_How do I know_ that, following the sequence +2, I must write
+This, it is said, now entitles us to infer ⊢ q from ⊢ p ⊃ q ∙ p. But what does ‘infer’ consist of, this activity to which we are entitled? Surely in uttering one proposition—in some language-game—after the other as an assertion, writing it down, and the like; and how can that fundamental law entitle me _to do so_? Russell surely wants to say: “This _is how_ I will infer, and this is _correct_.” He thus wants to communicate how he intends to infer: this is done through a _rule_ of inference. What is it? That this proposition implies that one? Well, that in the proofs of this book such a sentence is written after such a one. – : it is supposed to be a fundamental logical law that it is _correct_ to infer in this way! – Then the fundamental logical law would have to read: “It is correct to infer from … to …”; and this fundamental logical law should now seem obvious; but then the rule itself will seem correct, or justified, to us. “But this rule concerns propositions in a book, & that does not belong to logic!” – Quite right; the rule is really only a communication that in this book only _this_ transition from one proposition to the next is used, for the correctness of the transition must (precisely) be evident on the spot; & the expression of the ‘logical law’ is then the _consequence of the propositions_ themselves. Russell seems to be saying, with regard to that fundamental law, of a sentence ⊢ q: “It already follows—I only need to deduce it.” Quite analogously, Frege once states that the straight line connecting any two points is actually already there before we draw it. And so it is also when we say that the transitions of the sequence +2, for example, are actually already made before we make them orally or in writing—as it were, tracing them. To someone who says this, one might reply: You are using an image here: One _can determine_ the transitions that someone is to make in a sequence by demonstrating them to him. For example, by writing out the sequence he is to write in a different notation so that he only has to copy it over, or by writing it out very lightly so that he has to trace it. In the first case, we can also say that we do not write out _the_ sequence he is to write, and thus do not make the transitions of this sequence ourselves; but in the second case we will certainly say that the sequence he is to write is already present. We would say this even if we _dictated_ to him what he is to write down, although we would then produce a sequence of sounds and he a sequence of written characters. In any case, it is a sure way to _determine_ the transitions one must make to, in a sense, demonstrate them to him beforehand. – If, therefore, we determine these transitions in a completely different way, namely by subjecting our student to training, such as our children receive in addition and multiplication, so that all who are trained in this way can now perform any multiplications they did not do during their instruction in the same manner and with consistent results—if, therefore, the transitions which one must make upon the command +2 are determined by training in such a way that we can predict with certainty how it will proceed, even if he has never made _this_ transition before—then it is natural for us to use, as an illustration of this state of affairs, the idea that the transitions have already all been made; we are merely writing them down. “_How do I know_ that, following the sequence +2, I must write
 
 _200004, 200006_
 
@@ -9001,11 +9001,11 @@ of infinity, why must I draw it this way:
 
 ![](../graphics/117,103-1.svg)
 
-&amp; not this way:
+& not this way:
 
 ![](../graphics/117,103-2.svg)
 
-Here we simply have different images; &amp; they correspond to different ways of speaking. But does anything useful come of it when we argue about the
+Here we simply have different images; & they correspond to different ways of speaking. But does anything useful come of it when we argue about the
 
 validity _of their [approaches]_
 
@@ -9421,7 +9421,7 @@ It would have been more accurate to say: A proof _can_ show us something else im
 
 **DeepL translation:**
 
-“Every proof shows not only the proven theorem, but also that it can be proven _in this way_.” – But the latter can also be proven in other ways. – “Yes, but the proof proves it in a certain way &amp; therefore proves that it can be demonstrated in this way.” – But _that_, too, could be shown by another proof. – “Yes, but not in this way.” – That means, in effect: This proof is a mathematical entity that cannot be replaced by any other entity; one can say that it can convince us of something that nothing else can convince us of, &amp; one can therefore assign to it a theorem that one does not assign to any other proof.
+“Every proof shows not only the proven theorem, but also that it can be proven _in this way_.” – But the latter can also be proven in other ways. – “Yes, but the proof proves it in a certain way & therefore proves that it can be demonstrated in this way.” – But _that_, too, could be shown by another proof. – “Yes, but not in this way.” – That means, in effect: This proof is a mathematical entity that cannot be replaced by any other entity; one can say that it can convince us of something that nothing else can convince us of, & one can therefore assign to it a theorem that one does not assign to any other proof.
 
 ---
 
@@ -9691,7 +9691,7 @@ You must always ask yourself: “Does this sentence work, and how does it work?�
 
 **DeepL translation:**
 
-You must always ask yourself: “_Does_ this sentence _work_, &amp; _how_ does it work?”
+You must always ask yourself: “_Does_ this sentence _work_, & _how_ does it work?”
 
 ---
 
@@ -9711,7 +9711,7 @@ The exact correspondence of a correct (convincing) transition in music and in ma
 
 **DeepL translation:**
 
-The _exact_ correspondence of a correct (convincing) transition in music &amp; in mathematics.
+The _exact_ correspondence of a correct (convincing) transition in music & in mathematics.
 
 ---
 
@@ -10001,7 +10001,7 @@ Imagine I gave someone the task: ‘Find a proof of the sentence …’ – the 
 
 **DeepL translation:**
 
-Suppose I gave someone the task: ‘Find a proof of the theorem …’—the answer is, after all, that they present me with certain symbols. All right: _what_ condition must these symbols satisfy? They must be a proof of that theorem—but is that a _geometric_ condition? Or a psychological one? Sometimes one could call it a geometric condition; where the proof elements are already prescribed &amp; only a specific arrangement is sought.
+Suppose I gave someone the task: ‘Find a proof of the theorem …’—the answer is, after all, that they present me with certain symbols. All right: _what_ condition must these symbols satisfy? They must be a proof of that theorem—but is that a _geometric_ condition? Or a psychological one? Sometimes one could call it a geometric condition; where the proof elements are already prescribed & only a specific arrangement is sought.
 
 ---
 
@@ -10431,7 +10431,7 @@ Should I say: “Mathematical proofs are experiments that show us what we are _i
 
 **DeepL translation:**
 
-“A calculation, e.g., a multiplication, is an experiment: _we do not know what the result will be_, &amp; find out only when the multiplication is finished.” – Certainly; when we go for a walk, we also do not know at which point we will be in 5 minutes – but is going for a walk therefore an experiment? – Yes; but in the calculation, I wanted to know from the outset what the result would be; _that_ was what interested me. I am curious about the result. But not as to what I _will_ say, but rather what I _ought to_ say.
+“A calculation, e.g., a multiplication, is an experiment: _we do not know what the result will be_, & find out only when the multiplication is finished.” – Certainly; when we go for a walk, we also do not know at which point we will be in 5 minutes – but is going for a walk therefore an experiment? – Yes; but in the calculation, I wanted to know from the outset what the result would be; _that_ was what interested me. I am curious about the result. But not as to what I _will_ say, but rather what I _ought to_ say.
 
 ---
 
@@ -10451,7 +10451,7 @@ But aren't you interested in this multiplication, how the generality of people w
 
 **DeepL translation:**
 
-But aren’t you interested precisely in this multiplication—in how the general public will calculate? No—at least not usually—even though I too am hurrying toward a common meeting point. But the calculation does show me, experimentally, which of these meeting points it is. I let myself, as it were, run my course, &amp; see where I end up. And the correct multiplication is the image of how we all run our course when we are raised _in this way_.
+But aren’t you interested precisely in this multiplication—in how the general public will calculate? No—at least not usually—even though I too am hurrying toward a common meeting point. But the calculation does show me, experimentally, which of these meeting points it is. I let myself, as it were, run my course, & see where I end up. And the correct multiplication is the image of how we all run our course when we are raised _in this way_.
 
 ---
 
@@ -10491,7 +10491,7 @@ We let ourselves run and obtain the result of the calculation. But now – will 
 
 **DeepL translation:**
 
-We let the process run its course &amp; obtain the result of the calculation. But now—I want to say—we are not interested in the fact that we produced this result under these &amp; those conditions; we are interested in the picture of the process, but not as the result of an experiment, but as a _path_.
+We let the process run its course & obtain the result of the calculation. But now—I want to say—we are not interested in the fact that we produced this result under these & those conditions; we are interested in the picture of the process, but not as the result of an experiment, but as a _path_.
 
 ---
 
@@ -10551,7 +10551,7 @@ I let myself run and the end of the process is the proven sentence. But does the
 
 **DeepL translation:**
 
-I let the process run its course &amp; the end of the process is the proven sentence. But _does_ the sentence then _say_ anything about this process? We conducted an experiment—but in the experiment a _sentence_ was produced (just as, for example, a chemical compound might be). And now there is another sentence that says that that sentence was generated. – But how, if I used precisely that sentence as an expression of this? So that “25 × 25 = 625” is supposed to tell me that people, trained in such and such a way, generally arrive at _this result_. Well, such a statement does exist, after all; it does make good sense. And if that is the case—one might ask—should there really be _two_ propositions: one that expresses this anthropological fact, which is obviously essential to the sense of arithmetic, and another that is supposed to express an arithmetic fact independent of it, namely 25 × 25 = 625? Here the certain nonsense suggests itself: “it depends on how we _mean_ the proposition.” But one can say: it depends on how we use the sentence, what we do with it.
+I let the process run its course & the end of the process is the proven sentence. But _does_ the sentence then _say_ anything about this process? We conducted an experiment—but in the experiment a _sentence_ was produced (just as, for example, a chemical compound might be). And now there is another sentence that says that that sentence was generated. – But how, if I used precisely that sentence as an expression of this? So that “25 × 25 = 625” is supposed to tell me that people, trained in such and such a way, generally arrive at _this result_. Well, such a statement does exist, after all; it does make good sense. And if that is the case—one might ask—should there really be _two_ propositions: one that expresses this anthropological fact, which is obviously essential to the sense of arithmetic, and another that is supposed to express an arithmetic fact independent of it, namely 25 × 25 = 625? Here the certain nonsense suggests itself: “it depends on how we _mean_ the proposition.” But one can say: it depends on how we use the sentence, what we do with it.
 
 ---
 
@@ -10677,7 +10677,7 @@ We can scientifically predict what people will bring out in a calculation by per
 
 **DeepL translation:**
 
-We _can_ scientifically predict what people will come up with in a calculation by doing the calculation ourselves; – &amp; that must be very important.
+We _can_ scientifically predict what people will come up with in a calculation by doing the calculation ourselves; – & that must be very important.
 
 ---
 
@@ -10717,7 +10717,7 @@ But it remains the case that one can, by means of a mathematical proof, make sci
 
 **DeepL translation:**
 
-But the fact remains that, by means of a mathematical proof, one can make scientific predictions about the proofs of other people. – If someone asks me: “What color is this book?” &amp; I answer: “It is green.” – I could just as well have given the answer: “The general public of German speakers calls it ‘green’”? Couldn’t he then ask: “And what do _you_ call it?” Because he wanted to hear my reaction.
+But the fact remains that, by means of a mathematical proof, one can make scientific predictions about the proofs of other people. – If someone asks me: “What color is this book?” & I answer: “It is green.” – I could just as well have given the answer: “The general public of German speakers calls it ‘green’”? Couldn’t he then ask: “And what do _you_ call it?” Because he wanted to hear my reaction.
 
 ---
 
@@ -10757,7 +10757,7 @@ If I calculate the multiplication, is the result: that people will generally agr
 
 **DeepL translation:**
 
-When I calculate the multiplication, – is the result that people will generally agree with it? There is, after all, a science of conditioned computational reflexes; is that mathematics? That science will be based on experiments: &amp; these experiments will be _calculations_. But what if this science were to become quite exact, &amp; ultimately even a ‘mathematical’ science? Is the result of these experiments now that people agree in their calculations, or that they agree in what they call “agreeing”? And so it goes on.
+When I calculate the multiplication, – is the result that people will generally agree with it? There is, after all, a science of conditioned computational reflexes; is that mathematics? That science will be based on experiments: & these experiments will be _calculations_. But what if this science were to become quite exact, & ultimately even a ‘mathematical’ science? Is the result of these experiments now that people agree in their calculations, or that they agree in what they call “agreeing”? And so it goes on.
 
 ---
 
@@ -10923,7 +10923,7 @@ Can I replace a mathematical sentence with the sentence: ‘If I properly train 
 
 **DeepL translation:**
 
-Can I replace a mathematical theorem with the statement: “If I properly set people up &amp; let them proceed from _this_ point, they will almost always arrive at this result.”?
+Can I replace a mathematical theorem with the statement: “If I properly set people up & let them proceed from _this_ point, they will almost always arrive at this result.”?
 
 ---
 
@@ -11043,7 +11043,7 @@ Why should I not call being able to do a multiplication “knowing” “what co
 
 **DeepL translation:**
 
-Why shouldn’t I call being able to calculate a multiplication not “_knowing_” “what the result is”? For if someone asks me: “Do you know what 732 × 345 equals?”, I answer: “Yes; _that_.” &amp; begin to calculate. I can say: I know the result only as the end of the multiplication.
+Why shouldn’t I call being able to calculate a multiplication not “_knowing_” “what the result is”? For if someone asks me: “Do you know what 732 × 345 equals?”, I answer: “Yes; _that_.” & begin to calculate. I can say: I know the result only as the end of the multiplication.
 
 ---
 
@@ -11169,7 +11169,7 @@ And if they now demand a proof of consistency, because otherwise they would be i
 
 **DeepL translation:**
 
-And if they now demand a proof of consistency, because otherwise they would be in danger of falling into the swamp at every step—what are they demanding? Well, they are demanding _order_. But was there _no_ order before?—Well, they are demanding an order that now reassures them.—But are they then like (little) children &amp; do they just need to be lulled to sleep?
+And if they now demand a proof of consistency, because otherwise they would be in danger of falling into the swamp at every step—what are they demanding? Well, they are demanding _order_. But was there _no_ order before?—Well, they are demanding an order that now reassures them.—But are they then like (little) children & do they just need to be lulled to sleep?
 
 ---
 
@@ -11389,7 +11389,7 @@ I ask: – could it not be that, even if consistency has been proven inductively
 
 **DeepL translation:**
 
-I _ask_: – could there not, even if consistency is proven inductively, be a contradiction in the calculus, so to speak, at a higher level? I mean: Can the inductive proof not merely eliminate one form of contradiction; &amp; can one not construct another form that is nevertheless possible? But if this is the case, it does not mean that the proof of consistency is worthless; rather, it means that it has value _where it has practical value_. Like a signpost. (S.d.)
+I _ask_: – could there not, even if consistency is proven inductively, be a contradiction in the calculus, so to speak, at a higher level? I mean: Can the inductive proof not merely eliminate one form of contradiction; & can one not construct another form that is nevertheless possible? But if this is the case, it does not mean that the proof of consistency is worthless; rather, it means that it has value _where it has practical value_. Like a signpost. (S.d.)
 
 ---
 
@@ -11429,7 +11429,7 @@ If I now say: 10 strokes necessarily consist of 3 times 3 strokes & one stroke �
 
 **DeepL translation:**
 
-Now, if I say: 10 lines necessarily consist of 3 times 3 lines &amp; one line—that does not mean: if ten lines are there, then the digits &amp; arcs are always around them!—But if I add them to the lines, I say that I was merely demonstrating the essence of that group of lines. – But are you sure that the group didn’t change when you added those symbols? – “I don’t know; but _a_ certain number of lines was there; &amp; if not 10, then some other number, &amp; then that other number had different properties.” People say: the calculation ‘reveals’ the property of one hundred. What does it actually mean: 100 consists of 50 + 50? One says: the contents of the box consist of 50 apples &amp; 50 pears. But if someone said: “the contents of the box consist of 50 apples &amp; 50 apples” – we wouldn’t know at first what they mean. – If one says: “The contents of the box consist of 2 times 50 apples,” this means either that there are two compartments of 50 apples each; or it refers to a distribution in which everyone is to receive 50 apples, and I now understand that two people can be served from this box. “The 100 apples in the box consist of 50 and 50”—here, the timeless nature of ‘consist’ is important. For it does not mean that they consist of 50 and 50 _now_, or for some time.
+Now, if I say: 10 lines necessarily consist of 3 times 3 lines & one line—that does not mean: if ten lines are there, then the digits & arcs are always around them!—But if I add them to the lines, I say that I was merely demonstrating the essence of that group of lines. – But are you sure that the group didn’t change when you added those symbols? – “I don’t know; but _a_ certain number of lines was there; & if not 10, then some other number, & then that other number had different properties.” People say: the calculation ‘reveals’ the property of one hundred. What does it actually mean: 100 consists of 50 + 50? One says: the contents of the box consist of 50 apples & 50 pears. But if someone said: “the contents of the box consist of 50 apples & 50 apples” – we wouldn’t know at first what they mean. – If one says: “The contents of the box consist of 2 times 50 apples,” this means either that there are two compartments of 50 apples each; or it refers to a distribution in which everyone is to receive 50 apples, and I now understand that two people can be served from this box. “The 100 apples in the box consist of 50 and 50”—here, the timeless nature of ‘consist’ is important. For it does not mean that they consist of 50 and 50 _now_, or for some time.
 
 ---
 
@@ -11549,7 +11549,7 @@ I played a game and followed certain rules: but how I followed them depended on 
 
 **DeepL translation:**
 
-I played a game &amp; followed certain rules in doing so: but _how_ I followed them depended on ⋎ circumstances &amp; this dependence was not laid down in black and white. (This is a somewhat misleading account.) Now I wanted to play this game in such a way that I followed the rules ‘mechanically’ &amp; I ‘formalized’ the game. In doing so, however, I came to points where the game lost _all_ its charm; I therefore wanted to ‘mechanically’ avoid these. – The formalization of logic had not been successfully achieved. But why had it been attempted in the first place? (What was its purpose?) Did this idea not spring from a mistaken conception?
+I played a game & followed certain rules in doing so: but _how_ I followed them depended on ⋎ circumstances & this dependence was not laid down in black and white. (This is a somewhat misleading account.) Now I wanted to play this game in such a way that I followed the rules ‘mechanically’ & I ‘formalized’ the game. In doing so, however, I came to points where the game lost _all_ its charm; I therefore wanted to ‘mechanically’ avoid these. – The formalization of logic had not been successfully achieved. But why had it been attempted in the first place? (What was its purpose?) Did this idea not spring from a mistaken conception?
 
 ---
 
@@ -11675,7 +11675,7 @@ The proof of consistency must give us reason for a prediction; & that is its _pr
 
 **DeepL translation:**
 
-The proof of consistency must give us grounds for a prediction; &amp; that is its _practical purpose_. This does not mean that this proof is a proof from the physics of our computational technique—that is, a proof of applied mathematics—but that the closest application, &amp; the one for which we care about this proof, is that prediction. The prediction is not: “_in this way_, no disorder will arise” (for that is not a prediction, but rather the mathematical theorem) but rather: “no disorder will arise.”
+The proof of consistency must give us grounds for a prediction; & that is its _practical purpose_. This does not mean that this proof is a proof from the physics of our computational technique—that is, a proof of applied mathematics—but that the closest application, & the one for which we care about this proof, is that prediction. The prediction is not: “_in this way_, no disorder will arise” (for that is not a prediction, but rather the mathematical theorem) but rather: “no disorder will arise.”
 
 ---
 
@@ -11821,7 +11821,7 @@ One explains the origin of certain fables as stemming from nature myths, and the
 
 March 18, 1940
 
-One explains the origin of certain fables from natural myths, and the origin of these from the natural impulse to explain the great, ever-recurring phenomena of nature. And one speaks as if nothing were more self-evident than that we provide ourselves with explanations of precisely these natural phenomena, and also that these explanations are of precisely this kind. As if, were it not so, we could not have been sufficiently puzzled. The fact that these natural phenomena play a major role in our lives, and that they recur again and again, seems to make the other facts self-evident to us. Jeans expresses this, very clumsily but very characteristically, as follows: “Primitive man must have found nature singularly puzzling &amp; intricate.” (“_Must_ have”—especially since we have knowledge that every farmer racks his brains over why the sun rises and sets, and why rain falls from the clouds, etc.!)
+One explains the origin of certain fables from natural myths, and the origin of these from the natural impulse to explain the great, ever-recurring phenomena of nature. And one speaks as if nothing were more self-evident than that we provide ourselves with explanations of precisely these natural phenomena, and also that these explanations are of precisely this kind. As if, were it not so, we could not have been sufficiently puzzled. The fact that these natural phenomena play a major role in our lives, and that they recur again and again, seems to make the other facts self-evident to us. Jeans expresses this, very clumsily but very characteristically, as follows: “Primitive man must have found nature singularly puzzling & intricate.” (“_Must_ have”—especially since we have knowledge that every farmer racks his brains over why the sun rises and sets, and why rain falls from the clouds, etc.!)
 
 ---
 
@@ -11887,7 +11887,7 @@ In what sense is an argument a coercion? – “You admit this, and that; then y
 
 **DeepL translation:**
 
-In what sense is an argument a form of coercion? – “You admit _this_, – and _that_; then you must also admit _this_!” That is the way to coerce someone. That is to say, one can, in fact, coerce people into admitting something. – No differently than one can, for example, coerce someone into going there by pointing there imperatively with one’s finger. Suppose, in this case, I point with two fingers at the same time in two different directions &amp; thereby leave it up to the other person to choose which of the two he will go—another time (however) I point in only _one_ direction; so one can also express it this way: my first command did not force him to go in _one_ direction, but the second did. However, this is a statement intended to indicate the nature of my commands; it does not indicate how they work, whether they actually compel him to do this or that, i.e., whether he obeys them.
+In what sense is an argument a form of coercion? – “You admit _this_, – and _that_; then you must also admit _this_!” That is the way to coerce someone. That is to say, one can, in fact, coerce people into admitting something. – No differently than one can, for example, coerce someone into going there by pointing there imperatively with one’s finger. Suppose, in this case, I point with two fingers at the same time in two different directions & thereby leave it up to the other person to choose which of the two he will go—another time (however) I point in only _one_ direction; so one can also express it this way: my first command did not force him to go in _one_ direction, but the second did. However, this is a statement intended to indicate the nature of my commands; it does not indicate how they work, whether they actually compel him to do this or that, i.e., whether he obeys them.
 
 ---
 
@@ -11979,7 +11979,7 @@ What is the case when one says: I need a _calculus_ of this & that kind here? Fo
 
 April 18, 1940
 
-What is the case when one says: I need a calculus of this &amp; that kind here? E.g.: I am looking for a way to calculate whether a number is divisible by 7 that is shorter than the division by 7 itself. – What am I looking for in such a case? Is what I am looking for in any way comparable to the calculus intended to provide an explanation for a physical phenomenon? One could say: ‘I want to use my calculus to predict the result of the division.’
+What is the case when one says: I need a calculus of this & that kind here? E.g.: I am looking for a way to calculate whether a number is divisible by 7 that is shorter than the division by 7 itself. – What am I looking for in such a case? Is what I am looking for in any way comparable to the calculus intended to provide an explanation for a physical phenomenon? One could say: ‘I want to use my calculus to predict the result of the division.’
 
 ---
 
@@ -12005,7 +12005,7 @@ My nerves have been in a _very_ bad _state_ for two months: _Too little sleep_; 
 
 June 7, 1940
 
-My nerves have been in a _very_ bad state for two months: _too little sleep_; &amp; worry &amp; (unnecessary) agitation. _No_ coherent thoughts! What I needed would be a month of complete silence—I mean: not hearing any _people_. The disgusting middle class here and their antics have particularly gotten on my nerves. In a certain sense, I am to blame for this myself, for I have neither the courage nor the strength to stand up to them. Things look bad with my ‘morals.’
+My nerves have been in a _very_ bad state for two months: _too little sleep_; & worry & (unnecessary) agitation. _No_ coherent thoughts! What I needed would be a month of complete silence—I mean: not hearing any _people_. The disgusting middle class here and their antics have particularly gotten on my nerves. In a certain sense, I am to blame for this myself, for I have neither the courage nor the strength to stand up to them. Things look bad with my ‘morals.’
 
 ---
 
@@ -12071,7 +12071,7 @@ Isn’t it like this: as long as one thinks that things cannot be otherwise, one
 
 **DeepL translation:**
 
-Is it not the case that: as long as one thinks it cannot be otherwise, one draws logical conclusions. That presumably means: as long as _the &amp; the – is not called into question at all_. The steps that one does not call into question are logical conclusions. But one does not call them into question precisely because they ‘certainly correspond to the truth’ – or the like – but rather, this is precisely what one calls ‘thinking,’ ‘speaking,’ ‘reasoning,’ ‘arguing.’ This has nothing to do with any correspondence between what is said and reality; rather, logic precedes such a correspondence; namely, in the same sense that the determination of the method of measurement _precedes_ the correctness or incorrectness of a statement of length.
+Is it not the case that: as long as one thinks it cannot be otherwise, one draws logical conclusions. That presumably means: as long as _the & the – is not called into question at all_. The steps that one does not call into question are logical conclusions. But one does not call them into question precisely because they ‘certainly correspond to the truth’ – or the like – but rather, this is precisely what one calls ‘thinking,’ ‘speaking,’ ‘reasoning,’ ‘arguing.’ This has nothing to do with any correspondence between what is said and reality; rather, logic precedes such a correspondence; namely, in the same sense that the determination of the method of measurement _precedes_ the correctness or incorrectness of a statement of length.
 
 ---
 
@@ -12183,9 +12183,9 @@ serves us at the same time as a paradigm of what we understand by “lighter” 
 
 **DeepL translation:**
 
-“But this relation _does_ indeed _exist_”—one might say. But the question is: Does this sentence have a use—and what is it? For at present I know only that an image comes to mind—but this does not guarantee its use—and that the words form a German sentence. But you will notice that the words are used here differently than in the normal case of a useful statement. – Just as a wheelwright might notice that the statements he usually makes about circles and straight lines are of a different kind than those found in Euclid. – For we say: this _object_ is brighter than that one, or, the color of this thing is brighter than the color of that one, &amp; then something is brighter now &amp; may be darker later. Where does the notion that “white is brighter than black” say anything about the _essence_ of the two colors? – But is the question even posed correctly? What do we mean by the ‘essence’ of white or black? We might think of ‘the inner nature,’ ‘the constitution,’ but that makes no sense here. We might also say: “It is inherent in white that it is brighter …”. Is it not the case that the image
+“But this relation _does_ indeed _exist_”—one might say. But the question is: Does this sentence have a use—and what is it? For at present I know only that an image comes to mind—but this does not guarantee its use—and that the words form a German sentence. But you will notice that the words are used here differently than in the normal case of a useful statement. – Just as a wheelwright might notice that the statements he usually makes about circles and straight lines are of a different kind than those found in Euclid. – For we say: this _object_ is brighter than that one, or, the color of this thing is brighter than the color of that one, & then something is brighter now & may be darker later. Where does the notion that “white is brighter than black” say anything about the _essence_ of the two colors? – But is the question even posed correctly? What do we mean by the ‘essence’ of white or black? We might think of ‘the inner nature,’ ‘the constitution,’ but that makes no sense here. We might also say: “It is inherent in white that it is brighter …”. Is it not the case that the image
 
-of a black &amp; a white spot
+of a black & a white spot
 
 ![](../graphics/117,34.svg)
 
@@ -12249,7 +12249,7 @@ But I can make use of the figure in this way: Five people are standing in the pe
 
 **DeepL translation:**
 
-But I can use the figure in this way: Five people are standing in a pentagon; on the wall are rods like the lines in ( ); I see the figure ( ) &amp; say: “I can give each of the people a rod.” I could interpret the figure ( ) as _a_ schematic _representation_ of me giving each of the five people a rod.
+But I can use the figure in this way: Five people are standing in a pentagon; on the wall are rods like the lines in ( ); I see the figure ( ) & say: “I can give each of the people a rod.” I could interpret the figure ( ) as _a_ schematic _representation_ of me giving each of the five people a rod.
 
 ---
 
@@ -12269,7 +12269,7 @@ But I can use the figure in this way: Five people are standing in a pentagon; on
 
 **DeepL translation:**
 
-“But isn’t that merely because we have already assigned H. and D. and seen that they are equal in number?” – Yes, but if they were equal in _one_ instance, how do I know that they will be so again now? – “Because it is precisely in _the nature_ of H. and D. that they are equal in number.” – But how could you deduce _that_ from the assignment? (I thought the counting, or assignment, only shows that these two groups I now have before me are of equal size—or unequal.) – “But if he now has H. things &amp; D. things &amp; he actually assigns them to one another, then it is not _possible_ for him to obtain anything other than that they are equal in number. – And that it is not possible, I see from the proof.” – But _is_ it not possible? If, for example—as someone else might say—he _overlooks_ drawing one of the lines of correspondence. But I admit that in the vast majority of cases he will always obtain the same result, and if he did not, he would consider himself somehow mistaken. And if this were not the case, the entire proof would be undermined. For we have decided to use the proof’s structure _instead_ _of_ assigning the groups; we do _not_ assign them, but instead perform a comparison of the groups with those of the proof (in which, however, two groups are assigned to each other).
+“But isn’t that merely because we have already assigned H. and D. and seen that they are equal in number?” – Yes, but if they were equal in _one_ instance, how do I know that they will be so again now? – “Because it is precisely in _the nature_ of H. and D. that they are equal in number.” – But how could you deduce _that_ from the assignment? (I thought the counting, or assignment, only shows that these two groups I now have before me are of equal size—or unequal.) – “But if he now has H. things & D. things & he actually assigns them to one another, then it is not _possible_ for him to obtain anything other than that they are equal in number. – And that it is not possible, I see from the proof.” – But _is_ it not possible? If, for example—as someone else might say—he _overlooks_ drawing one of the lines of correspondence. But I admit that in the vast majority of cases he will always obtain the same result, and if he did not, he would consider himself somehow mistaken. And if this were not the case, the entire proof would be undermined. For we have decided to use the proof’s structure _instead_ _of_ assigning the groups; we do _not_ assign them, but instead perform a comparison of the groups with those of the proof (in which, however, two groups are assigned to each other).
 
 ---
 
@@ -12373,7 +12373,7 @@ Put 2 apples on the empty tabletop, make sure that no one comes near it and that
 
 **DeepL translation:**
 
-Place 2 apples on the empty tabletop, make sure no one comes near them &amp; the table isn’t shaken; now place 2 more apples on the tabletop; now count the apples lying there. You have conducted an experiment; the result of the count is probably 4. (We would describe the result of the experiment as follows: if, under these circumstances, you first place 2 apples and then another 2 on a table, usually none disappear, nor do any appear.) And very similar experiments can be carried out, with the same result, using all sorts of solid objects—beans, books, sticks, etc. – That is how children learn arithmetic here, for we have them lay down three beans &amp; then three more beans &amp; then count “what is lying there.” If the result were sometimes 5 and sometimes 7 (because, _as we would say now_, sometimes one would be added of its own accord, and sometimes one would be taken away), we would first give an explanation of why beans are unsuitable for arithmetic instruction. But if the same thing happened with sticks, fingers, lines, and most other things, arithmetic with them would come to an end.
+Place 2 apples on the empty tabletop, make sure no one comes near them & the table isn’t shaken; now place 2 more apples on the tabletop; now count the apples lying there. You have conducted an experiment; the result of the count is probably 4. (We would describe the result of the experiment as follows: if, under these circumstances, you first place 2 apples and then another 2 on a table, usually none disappear, nor do any appear.) And very similar experiments can be carried out, with the same result, using all sorts of solid objects—beans, books, sticks, etc. – That is how children learn arithmetic here, for we have them lay down three beans & then three more beans & then count “what is lying there.” If the result were sometimes 5 and sometimes 7 (because, _as we would say now_, sometimes one would be added of its own accord, and sometimes one would be taken away), we would first give an explanation of why beans are unsuitable for arithmetic instruction. But if the same thing happened with sticks, fingers, lines, and most other things, arithmetic with them would come to an end.
 
 “But wouldn’t 2 + 2 still equal 4?” – That little equation would have become useless. –
 
@@ -12451,7 +12451,7 @@ What am I convincing someone of who is watching that scene in the film of the ex
 
 ![](../graphics/117,54.svg)
 
-imprints a process, namely the 1 → 1 correspondence of H. and D.. – “But doesn’t it also _convince_ me that this correspondence is _possible_?” – If that is meant to imply that you can always carry it out, then that need not be true at all. But drawing the projection lines convinces us that there are as many lines at the top as there are corners at the bottom; &amp; it provides a template for (only) thereby assigning such figures to one another. – “But doesn’t it thereby show that it works? In the sense that it wouldn’t work if, instead of ∣∣∣∣∣, the figure ∣∣∣∣∣∣ were there at the top?” – Why? Doesn’t it work there? _For_ example:
+imprints a process, namely the 1 → 1 correspondence of H. and D.. – “But doesn’t it also _convince_ me that this correspondence is _possible_?” – If that is meant to imply that you can always carry it out, then that need not be true at all. But drawing the projection lines convinces us that there are as many lines at the top as there are corners at the bottom; & it provides a template for (only) thereby assigning such figures to one another. – “But doesn’t it thereby show that it works? In the sense that it wouldn’t work if, instead of ∣∣∣∣∣, the figure ∣∣∣∣∣∣ were there at the top?” – Why? Doesn’t it work there? _For_ example:
 
 ![](../graphics/117,55.svg)
 
@@ -12479,7 +12479,7 @@ What was the point back then in suggesting that we assign names to the shapes of
 
 **DeepL translation:**
 
-What was the sense, then, of our suggestion to assign names to the shapes of the five parallel lines and the pentagram? What happened as a result of them being given names? This (presumably) suggests something about the nature of the use of these figures. Namely—that one recognizes them at a glance as the &amp; the; one does not think to count their lines or corners, but recognizes them as types of figures, just as one recognizes a knife and a fork, letters, and numbers. So, upon the command: “Draw an H!” (e.g.), I can immediately reproduce this form. – Now the proof teaches me a correspondence between those two forms. (I would like to say that it is not merely these individual figures that are assigned in the proof, but the _forms themselves_. But that only means that I commit those forms to memory; commit them to memory as paradigms.) Can I now, if I want to assign (the forms) H. &amp; D. to one another in this way, not run into difficulties—for example, by having one corner too many at the bottom, or one line too many at the top? – “But not if you’ve really drawn H. &amp; D. again! – And that can be proven; look at this figure!”
+What was the sense, then, of our suggestion to assign names to the shapes of the five parallel lines and the pentagram? What happened as a result of them being given names? This (presumably) suggests something about the nature of the use of these figures. Namely—that one recognizes them at a glance as the & the; one does not think to count their lines or corners, but recognizes them as types of figures, just as one recognizes a knife and a fork, letters, and numbers. So, upon the command: “Draw an H!” (e.g.), I can immediately reproduce this form. – Now the proof teaches me a correspondence between those two forms. (I would like to say that it is not merely these individual figures that are assigned in the proof, but the _forms themselves_. But that only means that I commit those forms to memory; commit them to memory as paradigms.) Can I now, if I want to assign (the forms) H. & D. to one another in this way, not run into difficulties—for example, by having one corner too many at the bottom, or one line too many at the top? – “But not if you’ve really drawn H. & D. again! – And that can be proven; look at this figure!”
 
 ![](../graphics/117,57-1.svg)
 
@@ -12501,7 +12501,7 @@ Let us imagine that the physical properties of the parts of the patience game ar
 
 **DeepL translation:**
 
-Let us imagine the physical properties of the pieces of the puzzle such that they cannot assume the desired position. I do not mean, however, that one feels resistance when trying to place them in this position, but rather that one simply tries every other arrangement except _this_ _one_—and the pieces do not end up in this position even by chance. It is, as it were, excluded from the space. As if there were a ‘blind spot’ here, perhaps in our brain. – And isn’t that the case when I believe I have tried every _possible_ position &amp; have always missed this one, as if by magic? Can’t one say: the figure that shows you the solution removes a blindness; or also, it changes your geometry? It shows you, as it were, a new dimension of space. (Like showing a fly the way out of a fly trap.)
+Let us imagine the physical properties of the pieces of the puzzle such that they cannot assume the desired position. I do not mean, however, that one feels resistance when trying to place them in this position, but rather that one simply tries every other arrangement except _this_ _one_—and the pieces do not end up in this position even by chance. It is, as it were, excluded from the space. As if there were a ‘blind spot’ here, perhaps in our brain. – And isn’t that the case when I believe I have tried every _possible_ position & have always missed this one, as if by magic? Can’t one say: the figure that shows you the solution removes a blindness; or also, it changes your geometry? It shows you, as it were, a new dimension of space. (Like showing a fly the way out of a fly trap.)
 
 ---
 
@@ -12541,7 +12541,7 @@ You have shown me a path that I had not seen before. – But wasn’t this path 
 
 **DeepL translation:**
 
-You have shown me a path I hadn’t seen before. – But wasn’t that path always there? – That means nothing. The path I’m talking about is a real path – one that now serves as a model for me. – But you used to believe that this path didn’t exist! – That means: I wasn’t able to imagine this path. – But so you tried to imagine it – how did you do that? – I did various things that in this case are called “trying …”. What do I do when I try to assemble the puzzle correctly &amp; don’t get it right? Well, I make various arrangements of these figures. Is there something _wrong_ with these arrangements? – I’m dissatisfied, I destroy them again; I also say, “_This_ is how it has to turn out,” and point to the outline of the finished figure. – If I succeed in matching that outline, then I’m satisfied and say I’ve succeeded. – No, that’s not enough: I’m satisfied when I succeed in arranging _this_—this arrangement of these figures. That means: – _when I arrange them_.
+You have shown me a path I hadn’t seen before. – But wasn’t that path always there? – That means nothing. The path I’m talking about is a real path – one that now serves as a model for me. – But you used to believe that this path didn’t exist! – That means: I wasn’t able to imagine this path. – But so you tried to imagine it – how did you do that? – I did various things that in this case are called “trying …”. What do I do when I try to assemble the puzzle correctly & don’t get it right? Well, I make various arrangements of these figures. Is there something _wrong_ with these arrangements? – I’m dissatisfied, I destroy them again; I also say, “_This_ is how it has to turn out,” and point to the outline of the finished figure. – If I succeed in matching that outline, then I’m satisfied and say I’ve succeeded. – No, that’s not enough: I’m satisfied when I succeed in arranging _this_—this arrangement of these figures. That means: – _when I arrange them_.
 
 ---
 
@@ -12561,7 +12561,7 @@ You have shown me a path I hadn’t seen before. – But wasn’t that path alwa
 
 **DeepL translation:**
 
-“Yes, you convinced me that H. and D. are of the same number.” – _How_ did he convince me? He showed me an image that I hadn’t seen before. – Yes, but in doing so, he convinced you of the possibility of this image, which you hadn’t believed in before. – But here one must ask: what did it mean to ‘not believe in this possibility’? I had, so to speak, ‘tried’ to see it, but had not seen it. And that means, after all: I _had not seen the image_. It would be better to say: he had shown me a possibility that I had not known. – But why am I inclined here to say that he showed me a _possibility_, &amp; not simply ‘an image’? For I could always, whenever someone shows me any image I hadn’t seen before, say: “Yes, you’ve shown me that this is possible.” And yet that wouldn’t occur to anyone. – Although that could simply be the expression used to express that one hasn’t seen it yet. Well, the possibility is surely one that was described earlier, e.g., “to arrange the figures in this way.” And this _task_ is of the same nature as a puzzle. Ask yourself: what is the relationship between the task and the solution? Yes, one could say: the task ‘_describes_’ the solution. Different applications of the word “describe.”
+“Yes, you convinced me that H. and D. are of the same number.” – _How_ did he convince me? He showed me an image that I hadn’t seen before. – Yes, but in doing so, he convinced you of the possibility of this image, which you hadn’t believed in before. – But here one must ask: what did it mean to ‘not believe in this possibility’? I had, so to speak, ‘tried’ to see it, but had not seen it. And that means, after all: I _had not seen the image_. It would be better to say: he had shown me a possibility that I had not known. – But why am I inclined here to say that he showed me a _possibility_, & not simply ‘an image’? For I could always, whenever someone shows me any image I hadn’t seen before, say: “Yes, you’ve shown me that this is possible.” And yet that wouldn’t occur to anyone. – Although that could simply be the expression used to express that one hasn’t seen it yet. Well, the possibility is surely one that was described earlier, e.g., “to arrange the figures in this way.” And this _task_ is of the same nature as a puzzle. Ask yourself: what is the relationship between the task and the solution? Yes, one could say: the task ‘_describes_’ the solution. Different applications of the word “describe.”
 
 ---
 
@@ -12753,7 +12753,7 @@ We are deliberately clinging to this _childish_ difficulty.
 
 **DeepL translation:**
 
-“I did not know that this form consists of these forms.” – That is what the picture taught you. You saw something _new_ – &amp; want to say that you saw that the old is composed in such and such a way.
+“I did not know that this form consists of these forms.” – That is what the picture taught you. You saw something _new_ – & want to say that you saw that the old is composed in such and such a way.
 
 ---
 
@@ -12833,7 +12833,7 @@ But I really do say: “I have convinced myself that the figure can be assembled
 
 **DeepL translation:**
 
-[→ ] You are amazed by what the proof shows you. But are you amazed that these lines can be drawn? No. You are amazed only when you tell yourself that two such pieces _form_ this shape. So when you put yourself in the situation: You had an expectation of something else &amp; now you see the result.
+[→ ] You are amazed by what the proof shows you. But are you amazed that these lines can be drawn? No. You are amazed only when you tell yourself that two such pieces _form_ this shape. So when you put yourself in the situation: You had an expectation of something else & now you see the result.
 
 ---
 
@@ -12873,7 +12873,7 @@ I have read a proof – now I am convinced. – As if I would immediately forget
 
 **DeepL translation:**
 
-I have read a proof—now I am convinced. – What if I were to forget this conviction immediately! For it is a peculiar process that I _go through_ the proof &amp; then accept its result. – I mean: that is simply how we _do_ it. That is our custom, or a fact of our natural history.
+I have read a proof—now I am convinced. – What if I were to forget this conviction immediately! For it is a peculiar process that I _go through_ the proof & then accept its result. – I mean: that is simply how we _do_ it. That is our custom, or a fact of our natural history.
 
 ---
 
@@ -12903,7 +12903,7 @@ And is it also certain that, if it looks *this* way, I can always break it down 
 
 ∣∣∣∣∣. –
 
-And is it also certain that, if it looks _like that_, I can always break it down into _such_ groups? It is a fact that we can play this game: I teach someone what a group of two, three, four, or five looks like, &amp; I teach him to match lines to one another (perhaps using lines) one-to-one; then I have him carry out the command twice each time: “Draw a group of five” – &amp; then the command: “Match the two groups”; &amp; it turns out that, almost _always_, he matches the lines perfectly. Or also: it is a fact that, when matching one-to-one what I draw as groups of five, I almost never run into difficulties.
+And is it also certain that, if it looks _like that_, I can always break it down into _such_ groups? It is a fact that we can play this game: I teach someone what a group of two, three, four, or five looks like, & I teach him to match lines to one another (perhaps using lines) one-to-one; then I have him carry out the command twice each time: “Draw a group of five” – & then the command: “Match the two groups”; & it turns out that, almost _always_, he matches the lines perfectly. Or also: it is a fact that, when matching one-to-one what I draw as groups of five, I almost never run into difficulties.
 
 ---
 
@@ -12951,11 +12951,11 @@ One could also say: You see here that pieces of a continuous visual curve are st
 
 **DeepL translation:**
 
-I once said it was not _an empirical fact_: that the tangent of a visual curve runs along a section of it; &amp; if a figure shows this, then not as the result of an experiment.
+I once said it was not _an empirical fact_: that the tangent of a visual curve runs along a section of it; & if a figure shows this, then not as the result of an experiment.
 
 ![](../graphics/117,86.svg)
 
-One could also say: You see here that segments of a continuous visual curve are straight. – But shouldn’t I say: – “You call that a ‘curve,’ don’t you? – And do you now call this little segment ‘curved’ or ‘straight’? – You call that a ‘straight line,’ &amp; it contains this segment.” But why shouldn’t one use a _new_ word for visual segments of a curve that can also lie on a straight line? “The experiment of drawing these lines has shown that they do not touch at a single _point_.” – That _they_ do not touch at a point? How are ‘they’ defined? Or: can you show me what it is like when they ‘touch at a point’? For why shouldn’t I simply say: the experiment has shown that they—namely a crooked and a straight line—_touch_ one another? For is this _not_ what I call the “contact” of such lines?
+One could also say: You see here that segments of a continuous visual curve are straight. – But shouldn’t I say: – “You call that a ‘curve,’ don’t you? – And do you now call this little segment ‘curved’ or ‘straight’? – You call that a ‘straight line,’ & it contains this segment.” But why shouldn’t one use a _new_ word for visual segments of a curve that can also lie on a straight line? “The experiment of drawing these lines has shown that they do not touch at a single _point_.” – That _they_ do not touch at a point? How are ‘they’ defined? Or: can you show me what it is like when they ‘touch at a point’? For why shouldn’t I simply say: the experiment has shown that they—namely a crooked and a straight line—_touch_ one another? For is this _not_ what I call the “contact” of such lines?
 
 ---
 
@@ -13003,7 +13003,7 @@ aus einer wie B & einer wie C besteht!” – Ich sage auch – d.h., ich drück
 
 ![](../graphics/117,89.svg)
 
-of one like B and one like C!” – I also say—that is, I also express myself this way—that the group you have drawn consists of the two smaller ones; but I do not know whether every group that I would call one of the form of the first will necessarily be composed of two groups of the kind of those smaller ones. ‒ ‒ But I believe it will probably always be so (my experience may have taught me this) &amp; therefore I want to adopt the following rule: I will call a group one of the type A if and only if it can be decomposed into two groups like B &amp; C.
+of one like B and one like C!” – I also say—that is, I also express myself this way—that the group you have drawn consists of the two smaller ones; but I do not know whether every group that I would call one of the form of the first will necessarily be composed of two groups of the kind of those smaller ones. ‒ ‒ But I believe it will probably always be so (my experience may have taught me this) & therefore I want to adopt the following rule: I will call a group one of the type A if and only if it can be decomposed into two groups like B & C.
 
 ---
 
@@ -13023,7 +13023,7 @@ This is connected with the fact that I wrote above: “…that a group consists 
 
 **DeepL translation:**
 
-This is related to what I wrote above: “… that a group _essentially_ consists of …”. When, then, does a group ‘_essentially_’ consist of …? That depends, of course, on the way we use the _designation_ we give to the group. A hand does indeed have 5 fingers, but I would not have said: the fingers of my hand essentially consist of 3 + 2 (fingers). Well, it is essential ‘when it cannot be otherwise’; &amp; it cannot be otherwise if the group, with its division, is to serve as a paradigm. The _essential_ move is a move of the mode of representation.
+This is related to what I wrote above: “… that a group _essentially_ consists of …”. When, then, does a group ‘_essentially_’ consist of …? That depends, of course, on the way we use the _designation_ we give to the group. A hand does indeed have 5 fingers, but I would not have said: the fingers of my hand essentially consist of 3 + 2 (fingers). Well, it is essential ‘when it cannot be otherwise’; & it cannot be otherwise if the group, with its division, is to serve as a paradigm. The _essential_ move is a move of the mode of representation.
 
 ---
 
@@ -13043,7 +13043,7 @@ Look at the sentence: “When does a group consist ‘essentially’ of…?” a
 
 **DeepL translation:**
 
-See the sentence: “When does a group ‘essentially’ consist of …?” &amp; many others that I use time and again. It is meant to say: “When do we _say_: ‘a group essentially consists of …’?” _Thus_, the grammatical sentence is clothed in a non-grammatical form.
+See the sentence: “When does a group ‘essentially’ consist of …?” & many others that I use time and again. It is meant to say: “When do we _say_: ‘a group essentially consists of …’?” _Thus_, the grammatical sentence is clothed in a non-grammatical form.
 
 ---
 
@@ -13063,7 +13063,7 @@ What is your goal in philosophy? – I show the fly the way out of the fly bottl
 
 **DeepL translation:**
 
-What is your goal in philosophy? – I show the fly the way out of the fly bottle. This path is, in one sense, _impossible_ to find, &amp; in another sense, quite easy.
+What is your goal in philosophy? – I show the fly the way out of the fly bottle. This path is, in one sense, _impossible_ to find, & in another sense, quite easy.
 
 ---
 
@@ -13173,7 +13173,7 @@ Do we have a general
 
 _[Approaches]_
 
-concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of ²√n; but they knew nothing of the diagonal method &amp; named the number ∛2 as the solution; &amp; showed that it is not ²√n. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
+concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of ²√n; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not ²√n. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
 
 ---
 
@@ -13513,7 +13513,7 @@ Also: ‘Neither what we say, nor _the fact that_ we say _something_, is justifi
 
 **DeepL translation:**
 
-“The expression of pain is not unjustified after all! It is justified by the pain!” – &amp; at the same time: “The expression of pain is not _justified_ by anything! I cannot grasp &amp; retain anything that justifies it!”
+“The expression of pain is not unjustified after all! It is justified by the pain!” – & at the same time: “The expression of pain is not _justified_ by anything! I cannot grasp & retain anything that justifies it!”
 
 ---
 
@@ -13553,7 +13553,7 @@ I say the word “pain” to myself and imagine a pain; and I say: “There we h
 
 **DeepL translation:**
 
-I say the word “pain” to myself &amp; imagine a pain; &amp; say to myself: “there we have what the word ‘pain’ designates–”. Certainly, _I do that_. But what next; what have I done with it? what was the use of it? (I have drawn up the deed of gift to myself; but what now?)
+I say the word “pain” to myself & imagine a pain; & say to myself: “there we have what the word ‘pain’ designates–”. Certainly, _I do that_. But what next; what have I done with it? what was the use of it? (I have drawn up the deed of gift to myself; but what now?)
 
 ---
 
@@ -13759,7 +13759,7 @@ It is, indeed, a very essential question: What is the application of this (new) 
 
 **DeepL translation:**
 
-For this is a very fundamental question: What, then, is the application of this (new) concept of number _outside_ of mathematics? – For with 1, 2, 3, 4 … I can count not only numbers but also apples, &amp; if a numeral could occur _only_ in mathematical propositions &amp; in no others, or if we do not have the knowledge to know what role it can play outside of mathematical propositions, this points to a very significant lack of clarity on our part. For it is not clear whether we are not merely led astray by a preconception in using the name “number” here.
+For this is a very fundamental question: What, then, is the application of this (new) concept of number _outside_ of mathematics? – For with 1, 2, 3, 4 … I can count not only numbers but also apples, & if a numeral could occur _only_ in mathematical propositions & in no others, or if we do not have the knowledge to know what role it can play outside of mathematical propositions, this points to a very significant lack of clarity on our part. For it is not clear whether we are not merely led astray by a preconception in using the name “number” here.
 
 ---
 
@@ -13789,9 +13789,9 @@ For the time being, it is a piece of mathematical scaffolding that hangs in the 
 
 July 12, 1938
 
-‘_These considerations can lead us to say_ that <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mn>0</mn></msub></msup><mspace width="0.3em"/><mtext>></mtext><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>’. That is to say: we can _allow_ the considerations to lead us there. Or: We can say _this_, &amp; give _this_ as the reason for it. But if we now say it—what are we to do with it next? In what practice is this sentence _anchored_?
+‘_These considerations can lead us to say_ that <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mn>0</mn></msub></msup><mspace width="0.3em"/><mtext>></mtext><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>’. That is to say: we can _allow_ the considerations to lead us there. Or: We can say _this_, & give _this_ as the reason for it. But if we now say it—what are we to do with it next? In what practice is this sentence _anchored_?
 
-For the time being, it is a piece of mathematical scaffolding hanging in the air, looking as if it were, say, an architrave, but supported by nothing &amp; supporting nothing.
+For the time being, it is a piece of mathematical scaffolding hanging in the air, looking as if it were, say, an architrave, but supported by nothing & supporting nothing.
 
 ---
 
@@ -13831,7 +13831,7 @@ An interesting question is: what connection does ℵ<sub>0</sub> have with the c
 
 **DeepL translation:**
 
-An interesting question is: What connection does ℵ<sub>0</sub> have with the cardinal numbers, the number of which it is supposed to be? ℵ<sub>0</sub> would apparently be the _predicate “infinite series_,” in its application to the series of cardinal numbers &amp; similar mathematical constructs. It is important here to grasp the relationship between a series in the non-mathematical sense &amp; one in the mathematical sense. It is, of course, clear that in mathematics we _do not_ use the term “sequence of numbers” in the sense of “a series of numerical symbols,” even though, naturally, there is a connection between the use of one expression and the other. A railroad is not a train; nor is it something similar to a train. A sequence in the mathematical sense is a type of construction for sequences of linguistic expressions. We thus have a grammatical class “infinite sequence” and, equivalent to this expression, a word whose grammar bears (a certain) resemblance to that of a numeral: “infinite,” or “<math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>.” This is related to the fact that among the calculi of mathematics we have a technique that we can, with some justification, call a “1-to-1 correspondence of the terms of two infinite sequences,” because it bears a resemblance to such a mutual correspondence of the terms of so-called “finite” classes. However, the fact that we have a use for a _kind of_ numeral that, as it were, serves as the designation for the number of terms in an infinite series does not imply that it makes any sense to speak of the number of the concept “infinite sequence,” or that we have any use _here_ for something numeral-like. There is simply no grammatical technique that would suggest the use of such a word. For I can certainly form the expression: “class of all classes that are numerically equal to the class ‘infinite sequence’” (as well as: “class of all angels that can fit on the head of a pin”), but this expression is empty as long as there is no use for it. Such a use is not yet to be discovered, but rather: first to _be invented_
+An interesting question is: What connection does ℵ<sub>0</sub> have with the cardinal numbers, the number of which it is supposed to be? ℵ<sub>0</sub> would apparently be the _predicate “infinite series_,” in its application to the series of cardinal numbers & similar mathematical constructs. It is important here to grasp the relationship between a series in the non-mathematical sense & one in the mathematical sense. It is, of course, clear that in mathematics we _do not_ use the term “sequence of numbers” in the sense of “a series of numerical symbols,” even though, naturally, there is a connection between the use of one expression and the other. A railroad is not a train; nor is it something similar to a train. A sequence in the mathematical sense is a type of construction for sequences of linguistic expressions. We thus have a grammatical class “infinite sequence” and, equivalent to this expression, a word whose grammar bears (a certain) resemblance to that of a numeral: “infinite,” or “<math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>.” This is related to the fact that among the calculi of mathematics we have a technique that we can, with some justification, call a “1-to-1 correspondence of the terms of two infinite sequences,” because it bears a resemblance to such a mutual correspondence of the terms of so-called “finite” classes. However, the fact that we have a use for a _kind of_ numeral that, as it were, serves as the designation for the number of terms in an infinite series does not imply that it makes any sense to speak of the number of the concept “infinite sequence,” or that we have any use _here_ for something numeral-like. There is simply no grammatical technique that would suggest the use of such a word. For I can certainly form the expression: “class of all classes that are numerically equal to the class ‘infinite sequence’” (as well as: “class of all angels that can fit on the head of a pin”), but this expression is empty as long as there is no use for it. Such a use is not yet to be discovered, but rather: first to _be invented_
 
 ---
 
@@ -13897,7 +13897,7 @@ What kind of inner move is it, and what does it consist of? Well, in the fact th
 
 **DeepL translation:**
 
-What, then, is the nature of the inner game action, and in what does it consist? Well, in the fact that he—in accordance with the rule of a game—imagines …—But could one not also say: _We do not know_ what the nature of the inner game action is that he, in accordance with the rule, performs; we know only its manifestations? Let the inner game action be X, the nature of which we do not know. Or: Let us assume that this also involves external game actions: the communication of the rule of a game and what is called the ‘manifestations of the inner process.’ Well, can the game not be described in all three ways? Even the one involving the ‘unknown’ X is a perfectly valid mode of description. One says that the so-called ‘internal’ action of the play is not comparable to an action of the play in the other sense—another says it _is_ _comparable_ to such an action—a third: it is comparable only to an action that takes place in secret &amp; that no one knows except the actor. What is important for us is that we see the _dangers_ of the expression “inner plot.” But I must call _this_ expression dangerous, as it subsequently causes confusion.
+What, then, is the nature of the inner game action, and in what does it consist? Well, in the fact that he—in accordance with the rule of a game—imagines …—But could one not also say: _We do not know_ what the nature of the inner game action is that he, in accordance with the rule, performs; we know only its manifestations? Let the inner game action be X, the nature of which we do not know. Or: Let us assume that this also involves external game actions: the communication of the rule of a game and what is called the ‘manifestations of the inner process.’ Well, can the game not be described in all three ways? Even the one involving the ‘unknown’ X is a perfectly valid mode of description. One says that the so-called ‘internal’ action of the play is not comparable to an action of the play in the other sense—another says it _is_ _comparable_ to such an action—a third: it is comparable only to an action that takes place in secret & that no one knows except the actor. What is important for us is that we see the _dangers_ of the expression “inner plot.” But I must call _this_ expression dangerous, as it subsequently causes confusion.
 
 ---
 
@@ -13943,7 +13943,7 @@ One is tempted to ask: ‘How does one think the sentence ‘…’, how does on
 
 **DeepL translation:**
 
-One is tempted to ask: “_How_ does one think the sentence ‘…’, _how_ does one expect that &amp; that to occur?” (how does one do that?). Thinking, expectation, belief, regarded as complicated activities of a mental mechanism; which we do not have sufficient understanding of. The sentence whose content is thought occurs in this mechanism, roughly, like the cards in a pattern loom
+One is tempted to ask: “_How_ does one think the sentence ‘…’, _how_ does one expect that & that to occur?” (how does one do that?). Thinking, expectation, belief, regarded as complicated activities of a mental mechanism; which we do not have sufficient understanding of. The sentence whose content is thought occurs in this mechanism, roughly, like the cards in a pattern loom
 
 ---
 
@@ -14019,7 +14019,7 @@ When do we call one finite series of numbers different from another? There are s
 
 01010101 …
 
-&amp; 01011011101111 …
+& 01011011101111 …
 
 When do we say that an infinite sequence is different from a system of infinite sequences? – Various cases:
 
@@ -14093,7 +14093,7 @@ Have I shown that there is a 5-sided figure there, and was it superfluous? If dr
 
 ![](../graphics/121,52r.svg)
 
-Have I shown that there is a pentagon there, &amp; was it just superfluous? If drawing the diagonals here was an experiment, was the _‘result’_ the same as in the previous case?
+Have I shown that there is a pentagon there, & was it just superfluous? If drawing the diagonals here was an experiment, was the _‘result’_ the same as in the previous case?
 
 ---
 
@@ -14193,7 +14193,7 @@ People say: this classification _makes it clear_ what kind of series of spheres 
 
 **DeepL translation:**
 
-“Unfolding the properties of the series of 100 balls” thus meant here unfolding the mathematical properties of the 100, &amp; that is to say: expanding the _concept_ of ‘100’. For in this way we obtain, for example, a new _criterion_ for the fact that 100 objects are located here. Conducting the experiment—testing whether these parts of the series can be separated—reveals physical properties of the series, but one would not want to call it an “un_folding_” of the properties (any more than a tensile test on an iron rod is an unfolding of its properties).
+“Unfolding the properties of the series of 100 balls” thus meant here unfolding the mathematical properties of the 100, & that is to say: expanding the _concept_ of ‘100’. For in this way we obtain, for example, a new _criterion_ for the fact that 100 objects are located here. Conducting the experiment—testing whether these parts of the series can be separated—reveals physical properties of the series, but one would not want to call it an “un_folding_” of the properties (any more than a tensile test on an iron rod is an unfolding of its properties).
 
 ---
 
@@ -14213,7 +14213,7 @@ People say: this classification _makes it clear_ what kind of series of spheres 
 
 **DeepL translation:**
 
-“_fit_,” similar to _“be able to_,_”_ similar to “_understanding_.” Exercises: 1) When do we say that a cylinder Z fits into a hollow cylinder H? Only as long as Z is inside H? 2) We sometimes say: Z stopped fitting into H around &amp; that time—what criteria do we use in such a case to determine that this happened at that time? 3) What are the criteria for determining that a body’s weight changed at a specific time if it was not on the scale at that time? 4) Yesterday I knew the poem by heart; today I do not know it any longer. – In what kinds of cases does the question have sense: “When did I stop being able to do it?”? 5) Someone asks me, “Can you lift this weight?” I answer, “Yes.” Now he says, “Do it”—but I can’t. Under what circumstances would the justification be accepted: “When I answered ‘yes,’ I _could_ do it then, but now I can’t”?
+“_fit_,” similar to _“be able to_,_”_ similar to “_understanding_.” Exercises: 1) When do we say that a cylinder Z fits into a hollow cylinder H? Only as long as Z is inside H? 2) We sometimes say: Z stopped fitting into H around & that time—what criteria do we use in such a case to determine that this happened at that time? 3) What are the criteria for determining that a body’s weight changed at a specific time if it was not on the scale at that time? 4) Yesterday I knew the poem by heart; today I do not know it any longer. – In what kinds of cases does the question have sense: “When did I stop being able to do it?”? 5) Someone asks me, “Can you lift this weight?” I answer, “Yes.” Now he says, “Do it”—but I can’t. Under what circumstances would the justification be accepted: “When I answered ‘yes,’ I _could_ do it then, but now I can’t”?
 
 ---
 
@@ -14233,7 +14233,7 @@ This is the role that we must understand in order to resolve philosophical parad
 
 **DeepL translation:**
 
-It is this _role_ that we must have understanding of in order to resolve philosophical paradoxes. And that is why a definition is usually not enough; &amp; certainly not the assertion that a word is ‘indefinable’.
+It is this _role_ that we must have understanding of in order to resolve philosophical paradoxes. And that is why a definition is usually not enough; & certainly not the assertion that a word is ‘indefinable’.
 
 ---
 
@@ -14293,7 +14293,7 @@ You say: “I have pain” – how do you know that you are using the word “pa
 
 **DeepL translation:**
 
-You say: “I am in pain”—how do you know that you are applying the word “pain” correctly? You do not _know_; that is, there is no criterion for it; the word imposes itself upon you. You say it, you refuse to use another, you insist, etc., etc. The word imposes itself on you with force; it is as if you _had to_ have a justification for it. – “But I have an inner justification.” – But even if you had what you imagine, it would not be a justification, since the existence of an inner object would not yet be a justification. – But now you always have the idea that I want to say: there are the words, _&amp; nothing else_, the words _alone_. Or, the words, &amp; nothing _real_ outside the words.
+You say: “I am in pain”—how do you know that you are applying the word “pain” correctly? You do not _know_; that is, there is no criterion for it; the word imposes itself upon you. You say it, you refuse to use another, you insist, etc., etc. The word imposes itself on you with force; it is as if you _had to_ have a justification for it. – “But I have an inner justification.” – But even if you had what you imagine, it would not be a justification, since the existence of an inner object would not yet be a justification. – But now you always have the idea that I want to say: there are the words, _& nothing else_, the words _alone_. Or, the words, & nothing _real_ outside the words.
 
 ---
 
@@ -14319,7 +14319,7 @@ December 25, 1938
 
 December 25, 1938
 
-“One cannot order fractions according to their size. – This sounds, above all, very interesting &amp; strange. It sounds interesting in a completely different sense than, say, a theorem from differential calculus. The difference lies, I believe, in the fact that the latter is easily associated with an application to physics, whereas _the_ former, belonging entirely to mathematics, seems to concern the physics of mathematical objects themselves, as it were. One might say of it, for example, that it introduces us to the secrets of the mathematical world. It is _this_ aspect against which I wish to warn.”
+“One cannot order fractions according to their size. – This sounds, above all, very interesting & strange. It sounds interesting in a completely different sense than, say, a theorem from differential calculus. The difference lies, I believe, in the fact that the latter is easily associated with an application to physics, whereas _the_ former, belonging entirely to mathematics, seems to concern the physics of mathematical objects themselves, as it were. One might say of it, for example, that it introduces us to the secrets of the mathematical world. It is _this_ aspect against which I wish to warn.”
 
 ---
 
@@ -14339,7 +14339,7 @@ If one says that the series of cardinal numbers is infinite, this can evoke our 
 
 **DeepL translation:**
 
-If one tells oneself that the series of cardinal numbers is endless, this can arouse our astonishment; for we hear that in this series we have something enormously, indeed more than enormously, long. That, on the other hand, the technique of forming cardinal numbers (for example, by adding 1) has no end, that no end is foreseen in it, is a very easily understandable statement &amp; nothing about which we would be amazed. No one would be tempted to call the technique of counting or multiplying in the unlimited number line an “infinitely long technique.” For what is infinitely long is, after all, _at least_ enormously long.
+If one tells oneself that the series of cardinal numbers is endless, this can arouse our astonishment; for we hear that in this series we have something enormously, indeed more than enormously, long. That, on the other hand, the technique of forming cardinal numbers (for example, by adding 1) has no end, that no end is foreseen in it, is a very easily understandable statement & nothing about which we would be amazed. No one would be tempted to call the technique of counting or multiplying in the unlimited number line an “infinitely long technique.” For what is infinitely long is, after all, _at least_ enormously long.
 
 ---
 
@@ -14379,7 +14379,7 @@ When I picture an infinite series of things in response to the sentence “fract
 
 **DeepL translation:**
 
-“There is no king in checkers”—what does that mean? (It sounds childish.) Does it merely mean that one does not call a checker piece “king”; &amp; if one were to call one that, would there be a king in checkers? But what about _the_ sentence: “In checkers, all pieces are equal, but not in chess”? – To whom am I communicating this? To someone who (already) knows both games, or to someone who does not yet know them. It seems that the former has no need for our communication &amp; the latter gains nothing from it. But what if I said: “Look! In checkers, all pieces are equal…” or even better: “Look! In these games, all pieces are equal; in those, they are not.” But what does such a statement do? It introduces a new _concept_, a new criterion for classification (principle of classification). I teach you to answer the question: Name games of the first kind! etc. Similarly, one could pose questions such as: “Invent a game in which there is a king.”
+“There is no king in checkers”—what does that mean? (It sounds childish.) Does it merely mean that one does not call a checker piece “king”; & if one were to call one that, would there be a king in checkers? But what about _the_ sentence: “In checkers, all pieces are equal, but not in chess”? – To whom am I communicating this? To someone who (already) knows both games, or to someone who does not yet know them. It seems that the former has no need for our communication & the latter gains nothing from it. But what if I said: “Look! In checkers, all pieces are equal…” or even better: “Look! In these games, all pieces are equal; in those, they are not.” But what does such a statement do? It introduces a new _concept_, a new criterion for classification (principle of classification). I teach you to answer the question: Name games of the first kind! etc. Similarly, one could pose questions such as: “Invent a game in which there is a king.”
 
 ---
 
@@ -14523,7 +14523,7 @@ One could regard the Principia Mathematica, not as a continuous communication, b
 
 **DeepL translation:**
 
-One could view the Principia Mathematica not as a continuous communication, but as _a list_, a catalog, of propositions of a certain form (with accompanying analyses of these forms). But one does not reject the contradiction everywhere. There are (indeed) occasions where we accept the proposition where we have use for it: that it is so, &amp; yet not so.
+One could view the Principia Mathematica not as a continuous communication, but as _a list_, a catalog, of propositions of a certain form (with accompanying analyses of these forms). But one does not reject the contradiction everywhere. There are (indeed) occasions where we accept the proposition where we have use for it: that it is so, & yet not so.
 
 ---
 
@@ -14743,7 +14743,7 @@ When I tacitly acknowledge a step, then I acknowledge it _tacitly_; that is, the
 
 **DeepL translation:**
 
-“This sentence is not a tautology.” ‘This sentence cannot be a tautology &amp; it cannot be false, because …’ (See Gödel) Let us reason as follows: Suppose this were a tautology; then there would be a tautology that made a statement of itself that it is _not one_. And then it does not tell the truth after all. “But no one could believe anyway that the sentence is a tautology.” – I suppose someone made a calculation error, &amp; I can assume any arbitrarily silly calculation error. It is incomprehensible, but he has shown that the sentence is a tautology.
+“This sentence is not a tautology.” ‘This sentence cannot be a tautology & it cannot be false, because …’ (See Gödel) Let us reason as follows: Suppose this were a tautology; then there would be a tautology that made a statement of itself that it is _not one_. And then it does not tell the truth after all. “But no one could believe anyway that the sentence is a tautology.” – I suppose someone made a calculation error, & I can assume any arbitrarily silly calculation error. It is incomprehensible, but he has shown that the sentence is a tautology.
 
 ---
 
@@ -14863,7 +14863,7 @@ Let us look behind the scenes of this definition! (I will then calmly sit back i
 
 **DeepL translation:**
 
-I want to take a look behind the scenes of this definition! (I’ll be happy to sit back down in the audience.) The question seems irrelevant—but were you really completely clueless when you gave it, or did you not give it with a specific application in mind? Well, it doesn’t matter if that’s the case. It’s just that your definition (Frege) _is ambiguous_: one can understand it as an unassailable, because arbitrary, fixing of the designation &amp; at the same time as _a statement_ about the nature of numbers. “But what more can one want from a convention of expression than that it proves to be extremely useful in the end?!” But that is precisely where it is difficult not to deceive oneself and others: for is it useful _because_ it feeds our imagination, or in some other way?
+I want to take a look behind the scenes of this definition! (I’ll be happy to sit back down in the audience.) The question seems irrelevant—but were you really completely clueless when you gave it, or did you not give it with a specific application in mind? Well, it doesn’t matter if that’s the case. It’s just that your definition (Frege) _is ambiguous_: one can understand it as an unassailable, because arbitrary, fixing of the designation & at the same time as _a statement_ about the nature of numbers. “But what more can one want from a convention of expression than that it proves to be extremely useful in the end?!” But that is precisely where it is difficult not to deceive oneself and others: for is it useful _because_ it feeds our imagination, or in some other way?
 
 ---
 
@@ -15015,7 +15015,7 @@ In this context, this keeps coming to mind: that in Russell’s logic one can in
 
 **DeepL translation:**
 
-In this context, this thought keeps coming to mind: that although one can _provide a proof for_ the proposition a : b = c in R.’s logic, it does not teach us how to construct a correct proposition of this form, i.e., it does not teach us _how to divide_. The process of division would correspond, for example, to that of _systematically testing_ R.&#x27;s proofs for the purpose of obtaining, say, a proof of a theorem of the form 37 × 15 = x. ‘But the technique of such systematic trial and error is, after all, based on logic. One can, after all, provide a logical proof that this technique must lead to the desired result.’ It is thus similar to when we provide a logical proof in Euclid that &amp; can be constructed in such and such a way.
+In this context, this thought keeps coming to mind: that although one can _provide a proof for_ the proposition a : b = c in R.’s logic, it does not teach us how to construct a correct proposition of this form, i.e., it does not teach us _how to divide_. The process of division would correspond, for example, to that of _systematically testing_ R.&#x27;s proofs for the purpose of obtaining, say, a proof of a theorem of the form 37 × 15 = x. ‘But the technique of such systematic trial and error is, after all, based on logic. One can, after all, provide a logical proof that this technique must lead to the desired result.’ It is thus similar to when we provide a logical proof in Euclid that & can be constructed in such and such a way.
 
 ---
 
@@ -15167,7 +15167,7 @@ Are the (various) calculi of mathematics irreplaceable by Russellian logic simpl
 
 **DeepL translation:**
 
-“The number of Londoners &amp; the number of Dubliners taken together” is, however, synonymous with: “the number of people who are either Londoners or Dubliners” or with: “the number of objects that fall under the concept _of Londoner or Dubliner_” (we will speak later of the idea of these ‘objects’ that have the predicate ‘human’) – but is the expression that uses ‘or’ more fundamental than the other? Or also: must I form the concept of the disjunction of the two concepts if I want to speak of the sum of the two numbers? In most cases, I will not do so but will add the two numbers and speak of the sum of the two numbers. There is, of course, also the other case: one says, for example: “the number of people who live in London, or in the vicinity of London, is …”. Of course, even in the first case—if I were asked, “Which _concept_ belongs to the sum you have formed?”—I could say: the concept of a person who is a Londoner or a Dubliner—but could I not just as well answer: the concept of a barrel of beer that I have to produce (namely, if I wanted to produce a barrel of beer for every Londoner and Dubliner).
+“The number of Londoners & the number of Dubliners taken together” is, however, synonymous with: “the number of people who are either Londoners or Dubliners” or with: “the number of objects that fall under the concept _of Londoner or Dubliner_” (we will speak later of the idea of these ‘objects’ that have the predicate ‘human’) – but is the expression that uses ‘or’ more fundamental than the other? Or also: must I form the concept of the disjunction of the two concepts if I want to speak of the sum of the two numbers? In most cases, I will not do so but will add the two numbers and speak of the sum of the two numbers. There is, of course, also the other case: one says, for example: “the number of people who live in London, or in the vicinity of London, is …”. Of course, even in the first case—if I were asked, “Which _concept_ belongs to the sum you have formed?”—I could say: the concept of a person who is a Londoner or a Dubliner—but could I not just as well answer: the concept of a barrel of beer that I have to produce (namely, if I wanted to produce a barrel of beer for every Londoner and Dubliner).
 
 ---
 
@@ -15494,7 +15494,7 @@ and
   </mrow>
 </math>
 
-is different. That is: I want to interpret the words “sense of a mathematical theorem” in such a way that this sense depends on how the theorem is obtained. Such an interpretation cannot, of course, show that it is _false_ to say that two proofs prove the same thing! (Similarly, one can say that different criteria provide proof that death occurred two hours ago, &amp; yet it may be useful to speak of different meanings of the expression “occurrence of death,” depending on the criterion used.) Rather, it is a particularly important function of our language to determine that different criteria are to be regarded as criteria of the same thing. –
+is different. That is: I want to interpret the words “sense of a mathematical theorem” in such a way that this sense depends on how the theorem is obtained. Such an interpretation cannot, of course, show that it is _false_ to say that two proofs prove the same thing! (Similarly, one can say that different criteria provide proof that death occurred two hours ago, & yet it may be useful to speak of different meanings of the expression “occurrence of death,” depending on the criterion used.) Rather, it is a particularly important function of our language to determine that different criteria are to be regarded as criteria of the same thing. –
 
 ---
 
@@ -15766,7 +15766,7 @@ We extend our ideas of calculations with small numbers to those with large numbe
 
 **DeepL translation:**
 
-We extend our ideas from calculations with small numbers to those with large numbers, much as we imagine that if the distance from here to the sun _could_ be measured with a folding ruler, the result would be exactly what we arrive at today in a completely different way. That is, we are inclined to take the measurement of length with a folding ruler as a model even for measuring the distance between two stars. And people say, for example in school: “If we imagine laying out rulers from here to the Sun, …” &amp; seem to provide an explanation for what we understand by the distance between the Sun and Earth. And the use of such an image is perfectly fine, as long as we realize that we can measure the distance from us to the Sun &amp; that we cannot measure it with rulers.
+We extend our ideas from calculations with small numbers to those with large numbers, much as we imagine that if the distance from here to the sun _could_ be measured with a folding ruler, the result would be exactly what we arrive at today in a completely different way. That is, we are inclined to take the measurement of length with a folding ruler as a model even for measuring the distance between two stars. And people say, for example in school: “If we imagine laying out rulers from here to the Sun, …” & seem to provide an explanation for what we understand by the distance between the Sun and Earth. And the use of such an image is perfectly fine, as long as we realize that we can measure the distance from us to the Sun & that we cannot measure it with rulers.
 
 ---
 
@@ -15796,7 +15796,7 @@ November 1, 1939
 
 The proof that <math class="stacked" display="inline"><msup><mo>(</mo><mn>1</mn></msup><mo>)</mo><msup><mo>(</mo><mn>2</mn></msup><mo>)</mo><mspace width="0.3em"/><mo>⊃</mo><msup><mo>(</mo><mn>3</mn></msup><mo>)</mo></math>
 
-is a tautology consists in always crossing out a term from the third parenthesis for a term from 1 or 2. And there are, of course, many methods of this collation. Or one could also say: there are many ways and means to determine the success of the 1 → 1 correspondence. One way would be, for example, to construct star-shaped patterns—one for the left side and one for the right side of the implication—and to conduct another comparison by forming an ornament out of both. One could therefore give the rule: “If you want to know whether the numbers A &amp; B together really add up to C, write an expression of the form … and match the variables in the parentheses by writing down (or attempting to write down) the proof that the expression is a tautology.” My objection to this, however, is _not_ that it is arbitrary to prescribe precisely this kind of collation, but rather that one cannot determine in this way that 1000 + 1000 = 2000.
+is a tautology consists in always crossing out a term from the third parenthesis for a term from 1 or 2. And there are, of course, many methods of this collation. Or one could also say: there are many ways and means to determine the success of the 1 → 1 correspondence. One way would be, for example, to construct star-shaped patterns—one for the left side and one for the right side of the implication—and to conduct another comparison by forming an ornament out of both. One could therefore give the rule: “If you want to know whether the numbers A & B together really add up to C, write an expression of the form … and match the variables in the parentheses by writing down (or attempting to write down) the proof that the expression is a tautology.” My objection to this, however, is _not_ that it is arbitrary to prescribe precisely this kind of collation, but rather that one cannot determine in this way that 1000 + 1000 = 2000.
 
 ---
 
@@ -15940,7 +15940,7 @@ I want to say: I associate a certain idea with ‘just as much’—something li
 
 ![](../graphics/gen-Ms-122,23v[5]et24r[1],149038.svg)<span class="post-block-punct">;</span>
 
-&amp; now I introduce a new criterion for ‘just as much.’ “Now I call _this_ ‘just as much.’” Of course, because of a connection between the new criterion and the old one.
+& now I introduce a new criterion for ‘just as much.’ “Now I call _this_ ‘just as much.’” Of course, because of a connection between the new criterion and the old one.
 
 ---
 
@@ -16261,7 +16261,7 @@ Can I say: “The proof is an image of what it looks like when 200 and 200 give 
 
 December 6, 1939
 
-Can I say: “The proof is a picture of what it looks like when 200 &amp; 200 give 400”? One could say, for example: there is also a picture of what it looks like when 200 and 200 make 399—because one unit disappears in the process. Or: “If 200 and 200 make 400, this is _how_ it happens.”
+Can I say: “The proof is a picture of what it looks like when 200 & 200 give 400”? One could say, for example: there is also a picture of what it looks like when 200 and 200 make 399—because one unit disappears in the process. Or: “If 200 and 200 make 400, this is _how_ it happens.”
 
 ---
 
@@ -16327,7 +16327,7 @@ To say: “these 200 apples and these 200 apples give 400” – says: if you pu
 
 **DeepL translation:**
 
-To say: “these 200 apples &amp; these 200 apples make 400”—means: When you put them together, none of them disappear, and moreover, they behave _normally_.
+To say: “these 200 apples & these 200 apples make 400”—means: When you put them together, none of them disappear, and moreover, they behave _normally_.
 
 ---
 
@@ -16353,7 +16353,7 @@ To say: “these 200 apples &amp; these 200 apples make 400”—means: When you
 
 December 11, 1939
 
-‘This is the model of the addition of 200 &amp; 200’—not: ‘This is the model of the fact that 200 &amp; 200 add up to 400.’ The process of adding _did_ indeed _yield_ 400, but we now take this result as the criterion of the correct addition—or simply: the addition—of these numbers.
+‘This is the model of the addition of 200 & 200’—not: ‘This is the model of the fact that 200 & 200 add up to 400.’ The process of adding _did_ indeed _yield_ 400, but we now take this result as the criterion of the correct addition—or simply: the addition—of these numbers.
 
 ---
 
@@ -16539,11 +16539,11 @@ They therefore sometimes obtain contradictory results – as we would say. But t
 
 **DeepL translation:**
 
-Suppose, in a tribe, they perform calculations of the four species &amp; here &amp; there they use a transition of the type
+Suppose, in a tribe, they perform calculations of the four species & here & there they use a transition of the type
 
 _(3 ‒ 3) ∙ 4 = (3 ‒ 3) ∙ 5._
 
-They therefore sometimes obtain contradictory results—as we would say. But that does not bother them at all. One could also imagine the case that people use that transition only in certain emergencies; when a calculation does not add up in some sense, &amp; _must_ add up. Such a way of calculating would be similar to certain common modes of reasoning through which some assumption (sometimes of a religious nature) is supported, regardless of whether the facts on which it is based look this way or the other.
+They therefore sometimes obtain contradictory results—as we would say. But that does not bother them at all. One could also imagine the case that people use that transition only in certain emergencies; when a calculation does not add up in some sense, & _must_ add up. Such a way of calculating would be similar to certain common modes of reasoning through which some assumption (sometimes of a religious nature) is supported, regardless of whether the facts on which it is based look this way or the other.
 
 ---
 
@@ -16663,7 +16663,7 @@ I want to say: Through the construction of the pentagon, I create the concept of
 
 **DeepL translation:**
 
-I want to say: Through the construction of the pentagon, I create the _concept_ of this construction, &amp; through the development of the proof of … the concept of this proof.
+I want to say: Through the construction of the pentagon, I create the _concept_ of this construction, & through the development of the proof of … the concept of this proof.
 
 ---
 
@@ -16829,7 +16829,7 @@ I used to present a calculation as part of a technique, e.g. of house building. 
 
 **DeepL translation:**
 
-I have previously presented a calculation as part of a technique, e.g., of house construction. But an _experiment_ with signs could also be part of such a technique: – One pours sulfuric acid over these signs &amp; then proceeds in the manner dictated by what then appears on the paper. – But that is not a calculation. The calculation must be ‘surveyable’. –
+I have previously presented a calculation as part of a technique, e.g., of house construction. But an _experiment_ with signs could also be part of such a technique: – One pours sulfuric acid over these signs & then proceeds in the manner dictated by what then appears on the paper. – But that is not a calculation. The calculation must be ‘surveyable’. –
 
 ---
 
@@ -17332,7 +17332,7 @@ reveal as obvious? That 0.333 + <math class="stacked" display="inline"><mfrac><m
 
 **DeepL translation:**
 
-“Through definitions that correspond to the original definition, we can provide a proof for ‘25 × 25 = 625’ in R.sch logic.” – And can I give an explanation of the ordinary method of proof through R.sch’s? But how can one method of proof _be explained_ by another? How can one explain _the nature_ of another? For if one is an ‘abbreviation’ of the other, it must surely be a _systematic_ abbreviation. After all, proof is required that I can systematically abbreviate the long proofs &amp; thus obtain a system of proofs once again. The long proofs now (at first) always accompany the short ones &amp;, as it were, sanction them. But eventually they can no longer follow the short ones, &amp; these demonstrate their independence.
+“Through definitions that correspond to the original definition, we can provide a proof for ‘25 × 25 = 625’ in R.sch logic.” – And can I give an explanation of the ordinary method of proof through R.sch’s? But how can one method of proof _be explained_ by another? How can one explain _the nature_ of another? For if one is an ‘abbreviation’ of the other, it must surely be a _systematic_ abbreviation. After all, proof is required that I can systematically abbreviate the long proofs & thus obtain a system of proofs once again. The long proofs now (at first) always accompany the short ones &, as it were, sanction them. But eventually they can no longer follow the short ones, & these demonstrate their independence.
 
 ---
 
@@ -17392,7 +17392,7 @@ If I ask: “What is new about the ‘new type of calculation’ of exponentiati
 
 **DeepL translation:**
 
-When I ask, “What is new about the ‘new method of calculation’ of exponentiation?”—it is hard to say. The term ‘new aspect’ is vague. It means we now see the matter differently—but the question is: what is the essential, the _important_, expression of this ‘different view’? First, I want to say: “It would never have been necessary _to notice_ that in certain products all factors are the same”—or: “‘product of identical factors’ is a new concept”—or: “The novelty lies in the fact that we summarize the calculations differently.” In exponentiation, it is apparently essential that we see the _number_ of factors. It is not a given that we have ever paid attention to the number of factors. It may strike us for the first time that there are products with 2, 3, 4, etc., factors, even though we have been calculating such products for a long time. A new aspect—but again: What is its _important_ side? What do I use this new aspect for?—Well, first of all, I might perhaps record it in a notation. So I write, for example, ‘<math class="stacked" display="inline"><msup><mi>a</mi><mn>2</mn></msup></math>’ instead of ‘a × a’. In doing so, I refer to the sequence of numbers (allude to it), which had not happened before. So I am indeed establishing a new connection! – A connection – between which things? Between the technique of counting factors &amp; the technique of multiplying.
+When I ask, “What is new about the ‘new method of calculation’ of exponentiation?”—it is hard to say. The term ‘new aspect’ is vague. It means we now see the matter differently—but the question is: what is the essential, the _important_, expression of this ‘different view’? First, I want to say: “It would never have been necessary _to notice_ that in certain products all factors are the same”—or: “‘product of identical factors’ is a new concept”—or: “The novelty lies in the fact that we summarize the calculations differently.” In exponentiation, it is apparently essential that we see the _number_ of factors. It is not a given that we have ever paid attention to the number of factors. It may strike us for the first time that there are products with 2, 3, 4, etc., factors, even though we have been calculating such products for a long time. A new aspect—but again: What is its _important_ side? What do I use this new aspect for?—Well, first of all, I might perhaps record it in a notation. So I write, for example, ‘<math class="stacked" display="inline"><msup><mi>a</mi><mn>2</mn></msup></math>’ instead of ‘a × a’. In doing so, I refer to the sequence of numbers (allude to it), which had not happened before. So I am indeed establishing a new connection! – A connection – between which things? Between the technique of counting factors & the technique of multiplying.
 
 ---
 
@@ -17570,7 +17570,7 @@ In connection with Dedekind’s theorem: I can calculate the fourth decimal plac
 
 January 15, 1940
 
-In connection with Dedekind’s theorem: I can calculate the fourth decimal place after the third, &amp; not, say, the fifth after the third, while the fourth remains indeterminate for an indefinite duration. Or: if the nth yields the nth &amp; mth, then after a specified number of calculation steps the <math class="stacked" display="inline"><mi>n</mi><mspace width="0.3em"/><mo>+</mo><msup><mn>1</mn><mtext>te</mtext></msup></math> must result. Or: if I calculate one decimal place with each step but it remains undecided how many steps I must take to obtain the <math class="stacked" display="inline"><mi>n</mi><msup><mo>-</mo><mtext>te</mtext></msup></math> place, then I am not calculating a real number.
+In connection with Dedekind’s theorem: I can calculate the fourth decimal place after the third, & not, say, the fifth after the third, while the fourth remains indeterminate for an indefinite duration. Or: if the nth yields the nth & mth, then after a specified number of calculation steps the <math class="stacked" display="inline"><mi>n</mi><mspace width="0.3em"/><mo>+</mo><msup><mn>1</mn><mtext>te</mtext></msup></math> must result. Or: if I calculate one decimal place with each step but it remains undecided how many steps I must take to obtain the <math class="stacked" display="inline"><mi>n</mi><msup><mo>-</mo><mtext>te</mtext></msup></math> place, then I am not calculating a real number.
 
 ---
 
@@ -17590,7 +17590,7 @@ But doesn’t Russell’s explanation show the connection between addition and d
 
 **DeepL translation:**
 
-But does not Russell’s explanation show the connection between addition and disjunction? Does it not show what the essence of addition is, by showing, so to speak, the general scheme of the application of addition; as it were, the general way in which addition relates to things, the nature of its connection with that to which it is applied? So one might, for example—misled by the expression “to add”—imagine that one is combining the inhabitants of London and Manchester in some way when calculating how many inhabitants both cities have _together_; and now R’s explanation tells us that there is no such combination of objects involved. (Related to this is what Frege called the ‘Pfeffernuss view’: the idea that a number is a heap of things.) – So I have taken the two concepts together, not the cities or their inhabitants – – but have I not, in a sense, taken the inhabitants together? namely, by _counting_ them &amp; operating with the symbols I thus obtained.
+But does not Russell’s explanation show the connection between addition and disjunction? Does it not show what the essence of addition is, by showing, so to speak, the general scheme of the application of addition; as it were, the general way in which addition relates to things, the nature of its connection with that to which it is applied? So one might, for example—misled by the expression “to add”—imagine that one is combining the inhabitants of London and Manchester in some way when calculating how many inhabitants both cities have _together_; and now R’s explanation tells us that there is no such combination of objects involved. (Related to this is what Frege called the ‘Pfeffernuss view’: the idea that a number is a heap of things.) – So I have taken the two concepts together, not the cities or their inhabitants – – but have I not, in a sense, taken the inhabitants together? namely, by _counting_ them & operating with the symbols I thus obtained.
 
 ---
 
@@ -18270,7 +18270,7 @@ When we talk about association, this is as if we say: this object occurs to us w
 
 **DeepL translation:**
 
-When we speak of association, it is as if we were saying: this object comes to mind when we look at this drawing. But how does an object come to mind? And is it really the case that it comes to mind when we look at the drawing, that we think of it? Certainly not. For we can even name the object &amp; _try_ to see the drawing as its image.
+When we speak of association, it is as if we were saying: this object comes to mind when we look at this drawing. But how does an object come to mind? And is it really the case that it comes to mind when we look at the drawing, that we think of it? Certainly not. For we can even name the object & _try_ to see the drawing as its image.
 
 ---
 
@@ -18390,7 +18390,7 @@ I call the two impressions ‘A’ & ‘B’. But what do I do with these names 
 
 **DeepL translation:**
 
-I call the two impressions ‘A’ &amp; ‘B’. But what do I do with these names now? – ‘But I already know what they mean.’ – I _don’t_ know, as long as I don’t know how to use them. It certainly seems as though I know what they mean, since I already have their normal usage before me. For what if someone told me that I was merely imagining having two different impressions (since I cannot describe them anyway)—that in reality, what I feel is a kind of glitch in memory.
+I call the two impressions ‘A’ & ‘B’. But what do I do with these names now? – ‘But I already know what they mean.’ – I _don’t_ know, as long as I don’t know how to use them. It certainly seems as though I know what they mean, since I already have their normal usage before me. For what if someone told me that I was merely imagining having two different impressions (since I cannot describe them anyway)—that in reality, what I feel is a kind of glitch in memory.
 
 ---
 
@@ -18510,7 +18510,7 @@ Imagine I explain to someone what seeing and blindness are, with the help of pic
 
 Imagine I were giving an explanation to someone of what seeing and blindness are, using images such as:
 
-![](../graphics/123,36r-1.svg) <span class="post-block-punct">&amp;</span>
+![](../graphics/123,36r-1.svg) <span class="post-block-punct">&</span>
 
 ![](../graphics/123,36r-2.svg)
 
@@ -18540,7 +18540,7 @@ If one gives people a certain training, and then orders them to perform the mult
 
 May 25, 1941
 
-If one gives people a certain training, &amp; then instructs them to perform the multiplication … almost all of them will do _the same calculation_.
+If one gives people a certain training, & then instructs them to perform the multiplication … almost all of them will do _the same calculation_.
 
 ---
 
@@ -18846,7 +18846,7 @@ Let us imagine that a mechanism existed for only a very short period of time and
 
 **DeepL translation:**
 
-Let us imagine: a mechanism existed for only a tiny span of time &amp; during this time it made only a very small movement; it had, say, the form, the outer &amp; inner, of a clock – – Would that be a clock, would that be a mechanism? Let us say there had never been another, lasting one – would our concept correspond to _this_ entity?
+Let us imagine: a mechanism existed for only a tiny span of time & during this time it made only a very small movement; it had, say, the form, the outer & inner, of a clock – – Would that be a clock, would that be a mechanism? Let us say there had never been another, lasting one – would our concept correspond to _this_ entity?
 
 ---
 
@@ -18866,7 +18866,7 @@ As if I said: “25 apples and 25 apples are 50 apples, and that is not supposed
 
 **DeepL translation:**
 
-As if I said: “25 apples &amp; 25 apples are 50 apples &amp; that is not supposed to be a statement about the apples.” The punchline lies in the ‘_that is not supposed to_’.
+As if I said: “25 apples & 25 apples are 50 apples & that is not supposed to be a statement about the apples.” The punchline lies in the ‘_that is not supposed to_’.
 
 ---
 
@@ -18906,7 +18906,7 @@ Therefore – I want to say – following a rule is not an experiment; because I
 
 **DeepL translation:**
 
-Therefore—I want to say—following the rule is not an experiment; because I cannot be eager (to know) _what_ I will now write, if the rule, for example, says I should write a series of identical digits &amp; I have just written a 3. But of course there is a mistake here as well.
+Therefore—I want to say—following the rule is not an experiment; because I cannot be eager (to know) _what_ I will now write, if the rule, for example, says I should write a series of identical digits & I have just written a 3. But of course there is a mistake here as well.
 
 ---
 
@@ -19072,7 +19072,7 @@ Could I also describe the language-game from earlier in this way: someone has be
 
 **DeepL translation:**
 
-Could I also describe the language-game from earlier in this way: – Someone has been trained to proceed according to a rule: &amp; now he conducts experiments by setting himself the task in question &amp; seeing _what_ he considers a solution to the task –? – Is that the language-game from earlier? – Previously, I described not only how he prepared to act according to the rule, but also what he does in each individual case. So if what he does is an _experiment_, I used to say not only what kind of experiments he conducts, but also what the results of these experiments are.
+Could I also describe the language-game from earlier in this way: – Someone has been trained to proceed according to a rule: & now he conducts experiments by setting himself the task in question & seeing _what_ he considers a solution to the task –? – Is that the language-game from earlier? – Previously, I described not only how he prepared to act according to the rule, but also what he does in each individual case. So if what he does is an _experiment_, I used to say not only what kind of experiments he conducts, but also what the results of these experiments are.
 
 ---
 
@@ -19200,9 +19200,9 @@ object one moment and _another_
 
 the next, – can I accept this as evidence that this is a matter of different _seeing_
 
-&amp; not, say, of different _thinking_
+& not, say, of different _thinking_
 
-? And why can’t I? If he is intelligent &amp; has understanding of language, he ought to know! Now, what would he call “mere interpretation”? For example, if he said: “That doesn’t look like a
+? And why can’t I? If he is intelligent & has understanding of language, he ought to know! Now, what would he call “mere interpretation”? For example, if he said: “That doesn’t look like a
 
 ![](../graphics/124,1.svg)
 
@@ -19390,7 +19390,7 @@ But is it then wrong to say: that the essence of mathematics is that it forms co
 
 **DeepL translation:**
 
-But is it not incorrect, then, to say that the _essential nature_ of mathematics is that it forms concepts? – For mathematics is, after all, an anthropological phenomenon. We can thus recognize this as the essential aspect of a large part of mathematics (of what is called ‘mathematics’) &amp; yet say that it plays no role in other areas. This insight alone will, of course, not be without influence on those who now learn to see mathematics in this way. Mathematics is thus a family; but that does not mean that we will be indifferent to everything that is included in it.
+But is it not incorrect, then, to say that the _essential nature_ of mathematics is that it forms concepts? – For mathematics is, after all, an anthropological phenomenon. We can thus recognize this as the essential aspect of a large part of mathematics (of what is called ‘mathematics’) & yet say that it plays no role in other areas. This insight alone will, of course, not be without influence on those who now learn to see mathematics in this way. Mathematics is thus a family; but that does not mean that we will be indifferent to everything that is included in it.
 
 ---
 
@@ -19456,7 +19456,7 @@ What kind of certainty is this, if it is based on the fact that our banks, in ge
 
 March 11, 1944
 
-What kind of security is this, if it rests on the fact that our banks _are_ generally not overrun by all their customers at once; but would go bankrupt if it did happen?! Well, it is a _different_ kind of security than the more primitive one; but it is still a security. I mean: if a contradiction were actually found in arithmetic—well, that would only be a proof that arithmetic with _such_ a contradiction could serve us very well; &amp; it would be better to modify our concept of necessary certainty than to say that it wasn’t really proper arithmetic after all.
+What kind of security is this, if it rests on the fact that our banks _are_ generally not overrun by all their customers at once; but would go bankrupt if it did happen?! Well, it is a _different_ kind of security than the more primitive one; but it is still a security. I mean: if a contradiction were actually found in arithmetic—well, that would only be a proof that arithmetic with _such_ a contradiction could serve us very well; & it would be better to modify our concept of necessary certainty than to say that it wasn’t really proper arithmetic after all.
 
 ---
 
@@ -19694,7 +19694,7 @@ Yes, but isn’t a rule something arbitrary? Something I _lay down_? And could I
 
 **DeepL translation:**
 
-“It is impossible for human beings … to recognize an object as distinct from itself.” Yes, if only I had the slightest idea how to do it, – I would try it right away! – But if it is impossible for us to recognize an object as distinct from itself, then surely it is possible to recognize two objects as distinct from one another? So I have, say, two armchairs in front of me &amp; recognize that there are _two_. But under certain circumstances I might also believe that there is only _one_; &amp; in _this_ sense I might also consider one to be two. – But in doing so I do not recognize the armchair as distinct from itself! True; but then I have not recognized the two as distinct from one another either. Whoever believes he can do this—and plays a sort of psychological game—should translate this into a game of gestures. If he has two objects in front of him, let him point to one of them with each hand; as if he wants to suggest to them that they are autonomous. If he has only one object in front of him, let him point to it with both hands to suggest that no distinction can be made between it and himself. – But why, then, should one not play the game in the opposite way?
+“It is impossible for human beings … to recognize an object as distinct from itself.” Yes, if only I had the slightest idea how to do it, – I would try it right away! – But if it is impossible for us to recognize an object as distinct from itself, then surely it is possible to recognize two objects as distinct from one another? So I have, say, two armchairs in front of me & recognize that there are _two_. But under certain circumstances I might also believe that there is only _one_; & in _this_ sense I might also consider one to be two. – But in doing so I do not recognize the armchair as distinct from itself! True; but then I have not recognized the two as distinct from one another either. Whoever believes he can do this—and plays a sort of psychological game—should translate this into a game of gestures. If he has two objects in front of him, let him point to one of them with each hand; as if he wants to suggest to them that they are autonomous. If he has only one object in front of him, let him point to it with both hands to suggest that no distinction can be made between it and himself. – But why, then, should one not play the game in the opposite way?
 
 ---
 
@@ -19874,7 +19874,7 @@ How can you say that “…625…” & “…25 × 25…” say the same thing? 
 
 **DeepL translation:**
 
-How can you say that “… 625 …” &amp; “…25 × 25 …” mean the same thing? – Only through our arithmetic _do_ they _become one_.
+How can you say that “… 625 …” & “…25 × 25 …” mean the same thing? – Only through our arithmetic _do_ they _become one_.
 
 ---
 
@@ -19936,7 +19936,7 @@ The number is, as Frege says, a property of a concept – but in mathematics, it
 
 **DeepL translation:**
 
-The number is, as Frege says, a property of a concept—but in mathematics it is a characteristic of a mathematical concept. <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mi>o</mi></msub></math> is a _characteristic_ of the concept of cardinal numbers; &amp; the _property_ of a technique. <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mi>o</mi></msub></msup></math> is a feature of the concept of the infinite decimal fraction, but of what is this number a property? That is: of what kind of concept can it be empirically stated?
+The number is, as Frege says, a property of a concept—but in mathematics it is a characteristic of a mathematical concept. <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mi>o</mi></msub></math> is a _characteristic_ of the concept of cardinal numbers; & the _property_ of a technique. <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mi>o</mi></msub></msup></math> is a feature of the concept of the infinite decimal fraction, but of what is this number a property? That is: of what kind of concept can it be empirically stated?
 
 ---
 
@@ -20024,7 +20024,7 @@ But how does the teacher interpret the rule for the student? (Because he certain
 
 **DeepL translation:**
 
-But how, then, does the teacher teach the student the rule? (For surely he must give it a specific interpretation.) – Well, how else but through words &amp; training? And the student has grasped the rule (interpreted _in this way_) when he reacts to it in such and such a way. But _it_ is important that this reaction, which guarantees our understanding, presupposes certain circumstances, certain forms of life &amp; language as its environment. (Just as there is no facial expression without a face.) This is an important train of thought.)
+But how, then, does the teacher teach the student the rule? (For surely he must give it a specific interpretation.) – Well, how else but through words & training? And the student has grasped the rule (interpreted _in this way_) when he reacts to it in such and such a way. But _it_ is important that this reaction, which guarantees our understanding, presupposes certain circumstances, certain forms of life & language as its environment. (Just as there is no facial expression without a face.) This is an important train of thought.)
 
 ---
 
@@ -20204,7 +20204,7 @@ What about this: He does not calculate when, if he gets one result one time and 
 
 **DeepL translation:**
 
-What about _this_: He does not calculate who, when he gets one result one time and another the next &amp; cannot find an error, resigns himself to it &amp; says: it just shows that certain as yet unknown circumstances influence the result.
+What about _this_: He does not calculate who, when he gets one result one time and another the next & cannot find an error, resigns himself to it & says: it just shows that certain as yet unknown circumstances influence the result.
 
 ---
 
@@ -20608,7 +20608,7 @@ Consider a mechanism. For example, this one:
 
 ![](../graphics/124,193.svg)
 
-While point A describes a circle, B describes a figure-eight. We now write this as a kinematic proposition. By operating the mechanism, its movement provides me with a proof of the proposition; just as a construction on paper would do. The proposition corresponds roughly to an image of the mechanism with the paths of points A &amp; B drawn in. It is thus, in a certain sense, an image of that movement. It captures what the _proof_ convinces me of. Or—what it persuades me to believe.
+While point A describes a circle, B describes a figure-eight. We now write this as a kinematic proposition. By operating the mechanism, its movement provides me with a proof of the proposition; just as a construction on paper would do. The proposition corresponds roughly to an image of the mechanism with the paths of points A & B drawn in. It is thus, in a certain sense, an image of that movement. It captures what the _proof_ convinces me of. Or—what it persuades me to believe.
 
 ---
 
@@ -21004,7 +21004,7 @@ One could really say: the _ensouled_ body has pain. And whether a body is ensoul
 
 **DeepL translation:**
 
-I freeze into a stone &amp; my pain persists. – And if I were mistaken &amp; it were no longer _pain_! – But I cannot be mistaken here – it means nothing to doubt whether I am in pain! – That is, if someone said “I don’t know, is what I have pain; or is it something else?”, we would think, for example, that he does not know the meaning of the word “pain,” &amp; we would explain it to him. – How? – Perhaps through gestures, or by pricking him &amp; saying “You see, that is pain.” He might understand this explanation of a word, _like any other_, correctly, incorrectly, or not at all. And whichever he does, he will show it in his use of the word, as is usually the case. – If he were to say, for example, “Oh, I know what ‘pain’ means, but whether what I’m feeling right now is pain, I don’t know”—then we would simply shake our heads and have to regard his words as a strange reaction that we don’t know how to deal with.
+I freeze into a stone & my pain persists. – And if I were mistaken & it were no longer _pain_! – But I cannot be mistaken here – it means nothing to doubt whether I am in pain! – That is, if someone said “I don’t know, is what I have pain; or is it something else?”, we would think, for example, that he does not know the meaning of the word “pain,” & we would explain it to him. – How? – Perhaps through gestures, or by pricking him & saying “You see, that is pain.” He might understand this explanation of a word, _like any other_, correctly, incorrectly, or not at all. And whichever he does, he will show it in his use of the word, as is usually the case. – If he were to say, for example, “Oh, I know what ‘pain’ means, but whether what I’m feeling right now is pain, I don’t know”—then we would simply shake our heads and have to regard his words as a strange reaction that we don’t know how to deal with.
 
 ---
 
@@ -21024,7 +21024,7 @@ An expression of doubt does not belong to this language-game. – But if the exp
 
 **DeepL translation:**
 
-An expression of doubt does not belong to this language-game. – But if the expression of pain, the pain-behaviour, is now _excluded_, then it seems I _may_ doubt again. The sentence “If I were now mistaken &amp; it were not pain at all” is nonsense, because a criterion of the identity of the sensation is pretended that does not exist at all. (Similar to the sentence: “Another person cannot have _this identical_ pain that I am feeling now.”) But the fact that I am tempted here to say that one might take the sensations for something other than what they are stems from this: If I conceive of the language-game as having abolished the expression of sensation, I now need a criterion of identity for it, and if I had that, then the possibility of error would (also) exist.
+An expression of doubt does not belong to this language-game. – But if the expression of pain, the pain-behaviour, is now _excluded_, then it seems I _may_ doubt again. The sentence “If I were now mistaken & it were not pain at all” is nonsense, because a criterion of the identity of the sensation is pretended that does not exist at all. (Similar to the sentence: “Another person cannot have _this identical_ pain that I am feeling now.”) But the fact that I am tempted here to say that one might take the sensations for something other than what they are stems from this: If I conceive of the language-game as having abolished the expression of sensation, I now need a criterion of identity for it, and if I had that, then the possibility of error would (also) exist.
 
 ---
 
@@ -21044,7 +21044,7 @@ There must have been calculation, & calculation has been done. For he knows that
 
 **DeepL translation:**
 
-There had to be a calculation there, &amp; there was a calculation. For he _knows_ that, &amp; how, he calculated, &amp; the correct result could not be explained without the calculation. But what if I said: It _seems to him that_ he calculated, &amp; why should the correct result be explainable? Is it not incomprehensible enough that he could _calculate_ without a word or a written character?
+There had to be a calculation there, & there was a calculation. For he _knows_ that, & how, he calculated, & the correct result could not be explained without the calculation. But what if I said: It _seems to him that_ he calculated, & why should the correct result be explainable? Is it not incomprehensible enough that he could _calculate_ without a word or a written character?
 
 ---
 
@@ -21104,7 +21104,7 @@ Instead of hypostasizing something, determine your inclination to do so & explai
 
 **DeepL translation:**
 
-Instead of hypostatizing something, identify your inclination to do so &amp; _provide_ an explanation.
+Instead of hypostatizing something, identify your inclination to do so & _provide_ an explanation.
 
 ---
 
@@ -21124,7 +21124,7 @@ Is mental calculation less real than calculation done on paper? – One might be
 
 **DeepL translation:**
 
-Is mental arithmetic more unreal than arithmetic on paper? – One might be inclined to say so; but one can also bring oneself to think the opposite by telling oneself that ‘paper,’ ‘ink,’ etc., are merely logical constructs. This is a mistaken conception of the relationship between language and a reality that corresponds to it, &amp; of the function of language. – “I performed the multiplication … in my head.” _Do_ I not _believe_ this statement?! – But was it _really_ a multiplication? – It was _this_ multiplication – _in my head_. – This is the point where I go astray. For I now want to say: It was _a_ multiplication, some mental process _that corresponds_ to multiplying on paper. So that it would make sense to say: “This mental process corresponds to _this_ process on paper.” And it would make sense to speak of a method of projection according to which the concept of “2” represents the written character itself. And here one (now) gets bogged down in the quagmire of the idea of _private_ experiences &amp; the private meaning of our words.
+Is mental arithmetic more unreal than arithmetic on paper? – One might be inclined to say so; but one can also bring oneself to think the opposite by telling oneself that ‘paper,’ ‘ink,’ etc., are merely logical constructs. This is a mistaken conception of the relationship between language and a reality that corresponds to it, & of the function of language. – “I performed the multiplication … in my head.” _Do_ I not _believe_ this statement?! – But was it _really_ a multiplication? – It was _this_ multiplication – _in my head_. – This is the point where I go astray. For I now want to say: It was _a_ multiplication, some mental process _that corresponds_ to multiplying on paper. So that it would make sense to say: “This mental process corresponds to _this_ process on paper.” And it would make sense to speak of a method of projection according to which the concept of “2” represents the written character itself. And here one (now) gets bogged down in the quagmire of the idea of _private_ experiences & the private meaning of our words.
 
 ---
 
@@ -21164,7 +21164,7 @@ If I say that I only know from my own case what the word “pain” means, must 
 
 **DeepL translation:**
 
-If I say of myself that I know only from my own case what the word “pain” means, must I not say _the_ same of everyone else? And how can I generalize _a_ case in such an irresponsible manner? Especially since I have not the slightest _guidance_ to show me _how_ I should generalize it. Well, everyone tells me about themselves that they know only from themselves what pain is! – Suppose everyone had a box containing something we call a “beetle.” No one can _ever_ look into another’s box, &amp; everyone says they know only from the sight _of their_ _own_ beetle what a beetle is. It could well be that everyone has a different thing in their box. Indeed, one could imagine that the thing in a box were constantly changing. – But if the word “beetle” were to have any use for these people at all, – then this use would be quite different from the use of words that perform the designation of generally accessible things. Indeed, the thing in the box does not belong to the language-game at all, not even, in a general sense, as _a thing_: the box could even be empty. No, through this thing in the box, one can “abbreviate”; whatever it is, it is set aside.
+If I say of myself that I know only from my own case what the word “pain” means, must I not say _the_ same of everyone else? And how can I generalize _a_ case in such an irresponsible manner? Especially since I have not the slightest _guidance_ to show me _how_ I should generalize it. Well, everyone tells me about themselves that they know only from themselves what pain is! – Suppose everyone had a box containing something we call a “beetle.” No one can _ever_ look into another’s box, & everyone says they know only from the sight _of their_ _own_ beetle what a beetle is. It could well be that everyone has a different thing in their box. Indeed, one could imagine that the thing in a box were constantly changing. – But if the word “beetle” were to have any use for these people at all, – then this use would be quite different from the use of words that perform the designation of generally accessible things. Indeed, the thing in the box does not belong to the language-game at all, not even, in a general sense, as _a thing_: the box could even be empty. No, through this thing in the box, one can “abbreviate”; whatever it is, it is set aside.
 
 ---
 
@@ -21184,7 +21184,7 @@ That is, in essence (only): If one wants to construct the grammar of the express
 
 **DeepL translation:**
 
-This actually means (only): If one wants to construct the grammar of the expression of sensation according to the pattern of designation &amp; object, then the _object_ falls out of consideration as irrelevant.
+This actually means (only): If one wants to construct the grammar of the expression of sensation according to the pattern of designation & object, then the _object_ falls out of consideration as irrelevant.
 
 ---
 
@@ -21264,7 +21264,7 @@ And what one experiences, people say that it cannot be communicated! And if you 
 
 **DeepL translation:**
 
-And what one experiences—well, one says that it _cannot_ be communicated! And if you say, “I’m just telling myself,” then I ask again what that means, &amp; what the noise has to do with what “happens.” How _does_ one _mean_, with words, what happens?
+And what one experiences—well, one says that it _cannot_ be communicated! And if you say, “I’m just telling myself,” then I ask again what that means, & what the noise has to do with what “happens.” How _does_ one _mean_, with words, what happens?
 
 ---
 
@@ -21424,7 +21424,7 @@ I do not, of course, identify my sensation, but I use the same expression. But t
 
 **DeepL translation:**
 
-I do not, of course, identify my sensation, but I use the same expression. But the language-game _does_ not _end_ there; it (only) begins there. But does it not begin with the sensation—which I describe?—The word “describe” may serve us best here. I say “I describe my state of mind” &amp; “I describe a living space.” Here one must recall the differences between the language-games.
+I do not, of course, identify my sensation, but I use the same expression. But the language-game _does_ not _end_ there; it (only) begins there. But does it not begin with the sensation—which I describe?—The word “describe” may serve us best here. I say “I describe my state of mind” & “I describe a living space.” Here one must recall the differences between the language-games.
 
 ---
 
@@ -21464,7 +21464,7 @@ Could someone who has _never_ felt pain understand the word “pain”?—What k
 
 **DeepL translation:**
 
-“But you must admit that there is a difference between pain-behaviour and pain-behaviour without pain.” – Admit? What difference could be greater! – “And yet you keep coming to the conclusion that pain itself is nothing.” – Not at all! It is not a something, but neither is it a nothing! The conclusion was merely that a nothing would serve the same purpose as a something about which no statement can be made. That is to say, we rejected the grammar that wants to impose itself on us. And the paradox disappears only when we radically break with the idea that language always functions in _one_ way, always serves the same purpose: to convey thoughts—whether these are thoughts about houses, pain, good &amp; evil, or whatever.
+“But you must admit that there is a difference between pain-behaviour and pain-behaviour without pain.” – Admit? What difference could be greater! – “And yet you keep coming to the conclusion that pain itself is nothing.” – Not at all! It is not a something, but neither is it a nothing! The conclusion was merely that a nothing would serve the same purpose as a something about which no statement can be made. That is to say, we rejected the grammar that wants to impose itself on us. And the paradox disappears only when we radically break with the idea that language always functions in _one_ way, always serves the same purpose: to convey thoughts—whether these are thoughts about houses, pain, good & evil, or whatever.
 
 ---
 
@@ -21576,7 +21576,7 @@ If calculation is an experiment and _the conditions are met_, then we must take 
 
 **DeepL translation:**
 
-If the calculation is an experiment &amp; _the conditions are fulfilled_, then we must take as our starting point whatever results; &amp; if the calculation is an experiment, then the proposition that it yields this &amp; that is, after all, the proposition that under such conditions this kind of sign arises. And if, under these conditions, one result arises at one time and another at another, then one must not say “something is wrong here,” or “both calculations cannot be correct,” but one would have to say: this calculation does not always yield the same result (_why_, need not be known). But although the process is now just as interesting, perhaps even more so, we no longer have a calculation. And this, of course, is again a grammatical remark on the use of the word “calculation.” And of course, this grammar has a punchline.
+If the calculation is an experiment & _the conditions are fulfilled_, then we must take as our starting point whatever results; & if the calculation is an experiment, then the proposition that it yields this & that is, after all, the proposition that under such conditions this kind of sign arises. And if, under these conditions, one result arises at one time and another at another, then one must not say “something is wrong here,” or “both calculations cannot be correct,” but one would have to say: this calculation does not always yield the same result (_why_, need not be known). But although the process is now just as interesting, perhaps even more so, we no longer have a calculation. And this, of course, is again a grammatical remark on the use of the word “calculation.” And of course, this grammar has a punchline.
 
 ---
 
@@ -21816,7 +21816,7 @@ But suppose the ‘axioms’ and ‘rules of inference’ are not just any const
 
 **DeepL translation:**
 
-But let us assume that the ‘axioms’ &amp; ‘modi of inference’ are not merely arbitrary methods of construction, but that they also thoroughly convince us of what is constructed! Well, then that means there are cases in which the construction from these building blocks is _not_ convincing. And in fact, the logical axioms are not convincing at all if we substitute into the sentence variables structures that no one originally foresaw as possible values when their truth was (at the outset) unconditionally accepted.
+But let us assume that the ‘axioms’ & ‘modi of inference’ are not merely arbitrary methods of construction, but that they also thoroughly convince us of what is constructed! Well, then that means there are cases in which the construction from these building blocks is _not_ convincing. And in fact, the logical axioms are not convincing at all if we substitute into the sentence variables structures that no one originally foresaw as possible values when their truth was (at the outset) unconditionally accepted.
 
 ---
 
@@ -22066,7 +22066,7 @@ The task of finding the number of ways one can travel along the edges of these w
 
 **DeepL translation:**
 
-The task of finding the number of ways in which one can trace the joints of these walls without stopping &amp; without repetition is recognized
+The task of finding the number of ways in which one can trace the joints of these walls without stopping & without repetition is recognized
 
 ![](../graphics/124,84.svg)
 
@@ -22176,7 +22176,7 @@ Gödel’s theorem, which makes a statement about itself, does not _mention_ its
 
 July 3, 1941
 
-‘Let us assume we have an arithmetic statement stating that a certain number … cannot be obtained from the numbers …, …, …, by means of the &amp; the operations. And let us assume there could be a translation rule according to which this arithmetic theorem could be translated into the digits of that first number—the axioms from which we attempt to provide a proof of it into the digits of those other numbers—and our rules of inference into the operations mentioned in the theorem. – If we had then derived _the arithmetic theorem_ from the axioms according to our rules of inference, we would _thereby_ have demonstrated its derivability, but also provided a proof of a theorem that, according to that translation rule, can be stated as follows: this arithmetic theorem (namely ours) is undecidable. What, then, should be done? I imagine we accept our _construction_ of _the theorem_ _symbol_, that is, the _geometric_ proof. We thus say that this ‘theorem figure’ can be obtained from those in such and such a way. And translated, merely, into another notation, this means: this number can be derived from those by means of these operations. So far, the theorem and its proof have nothing to do with any particular _logic_. Here, that constructed theorem was simply another way of writing the constructed number; it had the _form_ of a theorem, but we did not make a comparison of it with other theorems as a sign that _says_ this or that, that has a _sense_.
+‘Let us assume we have an arithmetic statement stating that a certain number … cannot be obtained from the numbers …, …, …, by means of the & the operations. And let us assume there could be a translation rule according to which this arithmetic theorem could be translated into the digits of that first number—the axioms from which we attempt to provide a proof of it into the digits of those other numbers—and our rules of inference into the operations mentioned in the theorem. – If we had then derived _the arithmetic theorem_ from the axioms according to our rules of inference, we would _thereby_ have demonstrated its derivability, but also provided a proof of a theorem that, according to that translation rule, can be stated as follows: this arithmetic theorem (namely ours) is undecidable. What, then, should be done? I imagine we accept our _construction_ of _the theorem_ _symbol_, that is, the _geometric_ proof. We thus say that this ‘theorem figure’ can be obtained from those in such and such a way. And translated, merely, into another notation, this means: this number can be derived from those by means of these operations. So far, the theorem and its proof have nothing to do with any particular _logic_. Here, that constructed theorem was simply another way of writing the constructed number; it had the _form_ of a theorem, but we did not make a comparison of it with other theorems as a sign that _says_ this or that, that has a _sense_.
 
 ---
 
@@ -22196,7 +22196,7 @@ If we now read the constructed sentence (or the digit) as a sentence of the math
 
 **DeepL translation:**
 
-If we now read the constructed sentence (or the digit) as a sentence of the mathematical language (for example, in German), it expresses the opposite of what we have just regarded as proven. We have thus demonstrated the literal sense of the sentence to be false &amp; at the same time _proven_ it—namely, if we regard its construction from the accepted axioms by means of the accepted rules of inference as a proof.
+If we now read the constructed sentence (or the digit) as a sentence of the mathematical language (for example, in German), it expresses the opposite of what we have just regarded as proven. We have thus demonstrated the literal sense of the sentence to be false & at the same time _proven_ it—namely, if we regard its construction from the accepted axioms by means of the accepted rules of inference as a proof.
 
 ---
 
@@ -22630,7 +22630,7 @@ That poem A extends to the word… of poem B in this way can be a mathematical s
 
 **DeepL translation:**
 
-That poem A extends in this way up to the word ‥‥ of poem B can be a mathematical proposition, &amp; has mathematical certainty if this is understood as an _essential_ property of these poems.
+That poem A extends in this way up to the word ‥‥ of poem B can be a mathematical proposition, & has mathematical certainty if this is understood as an _essential_ property of these poems.
 
 ---
 
@@ -23260,7 +23260,7 @@ If I, (as in the previous figure), always draw a line from one bread roll and co
 
 **DeepL translation:**
 
-If I (as in the previous figure) always draw a line from one roll &amp; thus connect them all with a series of parallel lines &amp; divide them into 2 equal groups, then in this way I can form two groups of rolls that will prove to be of equal number for different purposes. That is a _great_ physical certainty.
+If I (as in the previous figure) always draw a line from one roll & thus connect them all with a series of parallel lines & divide them into 2 equal groups, then in this way I can form two groups of rolls that will prove to be of equal number for different purposes. That is a _great_ physical certainty.
 
 ---
 
@@ -23300,7 +23300,7 @@ What is this for a sentence: ‘If I write a poem twice in a row from memory, an
 
 **DeepL translation:**
 
-What kind of sentence is _this_: ‘If I write down a poem from memory twice in a row, &amp; my memory does not deceive me, &amp; the transcriptions remain unchanged, then I must be able to match them word for word on paper using lines’?!
+What kind of sentence is _this_: ‘If I write down a poem from memory twice in a row, & my memory does not deceive me, & the transcriptions remain unchanged, then I must be able to match them word for word on paper using lines’?!
 
 ---
 
@@ -23684,7 +23684,7 @@ Before there was an airplane, there were dreamed-up airplanes & how the world wo
 
 **DeepL translation:**
 
-Before we had airplanes, we dreamed of airplanes &amp; what the world would look like with them. But, just as reality bore no resemblance whatsoever to this dream, we have absolutely no reason to believe that reality will develop into what we dream. For our dreams are full of trifles, like paper hats &amp; costumes.
+Before we had airplanes, we dreamed of airplanes & what the world would look like with them. But, just as reality bore no resemblance whatsoever to this dream, we have absolutely no reason to believe that reality will develop into what we dream. For our dreams are full of trifles, like paper hats & costumes.
 
 ![](../graphics/125,4v-1.svg)
 
@@ -23832,7 +23832,7 @@ The mathematical sentence does not seem to be about signs or people, & therefore
 
 **DeepL translation:**
 
-The mathematical proposition seems to deal neither with signs nor with people, &amp; therefore it _does_ not.
+The mathematical proposition seems to deal neither with signs nor with people, & therefore it _does_ not.
 
 ---
 
@@ -23872,7 +23872,7 @@ Again: we do not see the mathematical sentence as a sentence that is about signs
 
 **DeepL translation:**
 
-Once again: we do not see the mathematical proposition as a proposition dealing with signs, &amp; therefore it _is_ not one.
+Once again: we do not see the mathematical proposition as a proposition dealing with signs, & therefore it _is_ not one.
 
 ---
 
@@ -24156,7 +24156,7 @@ But if I regard _this_ as the _image_ of the reversal & the reversing, then I ca
 
 **DeepL translation:**
 
-But if I regard _this_ as the image of reversal &amp; of the reversal, then I certainly cannot conceive of any other reversal of the sequence. – But can I regard anything else at all as an image of reversal? Can I, for example, accept _two_ images as reversals of the same word? Certainly in the case of very long words; but what about those that one can overlook?
+But if I regard _this_ as the image of reversal & of the reversal, then I certainly cannot conceive of any other reversal of the sequence. – But can I regard anything else at all as an image of reversal? Can I, for example, accept _two_ images as reversals of the same word? Certainly in the case of very long words; but what about those that one can overlook?
 
 ---
 
@@ -24268,7 +24268,7 @@ If a proof generally proves that there is a root, then everything depends on the
 
 **DeepL translation:**
 
-When a proof generally demonstrates that _there is_ a root, everything depends on the form in which it proves it. What it is that leads here to this verbal expression, which is a mere schema &amp; conceals the _main point_. While it seems to conceal only the secondary point from the logicians.
+When a proof generally demonstrates that _there is_ a root, everything depends on the form in which it proves it. What it is that leads here to this verbal expression, which is a mere schema & conceals the _main point_. While it seems to conceal only the secondary point from the logicians.
 
 ---
 
@@ -24288,7 +24288,7 @@ One proof tells you (as if it were a person) that this occurs. The other tells y
 
 **DeepL translation:**
 
-One proof tells you (as if it were a person) that this occurs. The other tells you where it occurs. – So it seems. And it is as if it no longer matters at all _how_ that proposition was proven. It is enough that it is proven &amp; we now know that it happens. We can then, as it were, pass it on to our children (hand down). And they will know as little as we do. It then sounds more like a fable. And might perhaps play the role of a fable.
+One proof tells you (as if it were a person) that this occurs. The other tells you where it occurs. – So it seems. And it is as if it no longer matters at all _how_ that proposition was proven. It is enough that it is proven & we now know that it happens. We can then, as it were, pass it on to our children (hand down). And they will know as little as we do. It then sounds more like a fable. And might perhaps play the role of a fable.
 
 ---
 
@@ -24406,7 +24406,7 @@ One can always imagine that the proof by reductio ad absurdum is used in an argu
 
 12/11/1942
 
-One can always imagine a proof by reductio ad absurdum being used in an argument against an opponent who makes a mathematically untenable assertion. But I do not mean a _mathematical_ assertion. For example, that he saw how A checkmated B with the &amp; figures—when that is not possible according to the rules.
+One can always imagine a proof by reductio ad absurdum being used in an argument against an opponent who makes a mathematically untenable assertion. But I do not mean a _mathematical_ assertion. For example, that he saw how A checkmated B with the & figures—when that is not possible according to the rules.
 
 ---
 
@@ -24500,7 +24500,7 @@ One can probably get arbitrarily close if one gets closer to 2. It will then be 
 
 **DeepL translation:**
 
-However, <math class="stacked" display="inline"><mfrac><mrow><mtext>p²</mtext></mrow><mrow><mtext>q²</mtext></mrow></mfrac></math> can “approach <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>2q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mi>p</mi><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>q)</mtext><mtext>²</mtext></mrow></mfrac></math> arbitrarily closely” if <math class="stacked" display="inline"><mfrac><mrow><mtext>p²</mtext></mrow><mrow><mtext>q²</mtext></mrow></mfrac></math> approaches 2. It will then be <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>2q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mi>p</mi><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>q)</mtext><mtext>²</mtext></mrow></mfrac></math> a worse approximation than <math class="stacked" display="inline"><mfrac><mrow><mtext>p²</mtext></mrow><mrow><mtext>q²</mtext></mrow></mfrac></math>, &amp; if one continues the process &amp; forms <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>2q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mi>p</mi><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>q)</mtext><mtext>²</mtext></mrow></mfrac></math>
+However, <math class="stacked" display="inline"><mfrac><mrow><mtext>p²</mtext></mrow><mrow><mtext>q²</mtext></mrow></mfrac></math> can “approach <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>2q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mi>p</mi><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>q)</mtext><mtext>²</mtext></mrow></mfrac></math> arbitrarily closely” if <math class="stacked" display="inline"><mfrac><mrow><mtext>p²</mtext></mrow><mrow><mtext>q²</mtext></mrow></mfrac></math> approaches 2. It will then be <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>2q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mi>p</mi><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>q)</mtext><mtext>²</mtext></mrow></mfrac></math> a worse approximation than <math class="stacked" display="inline"><mfrac><mrow><mtext>p²</mtext></mrow><mrow><mtext>q²</mtext></mrow></mfrac></math>, & if one continues the process & forms <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>2q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mi>p</mi><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>q)</mtext><mtext>²</mtext></mrow></mfrac></math>
 
 <math class="stacked" display="inline"><mfrac><mrow><mo>(</mo><mtext>3p</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>4q)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mtext>3q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>2p)</mtext><mtext>²</mtext></mrow></mfrac><mo>,</mo><mfrac><mrow><mo>(</mo><mtext>10q</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>7p)</mtext><mtext>²</mtext></mrow><mrow><mo>(</mo><mtext>5p</mtext><mspace width="0.3em"/><mtext>‒</mtext><mspace width="0.3em"/><mtext>7q)</mtext><mtext>²</mtext></mrow></mfrac></math> etc.
 
@@ -24762,7 +24762,7 @@ Everything depends on the fact that one can choose the curve, the value of the v
 
 **DeepL translation:**
 
-Everything depends on being able to _choose_ the curve, the value of the variable, i.e., to choose arbitrarily from a system prepared for this purpose &amp; not having to discover or invent it.
+Everything depends on being able to _choose_ the curve, the value of the variable, i.e., to choose arbitrarily from a system prepared for this purpose & not having to discover or invent it.
 
 ---
 
@@ -24848,7 +24848,7 @@ If we have two sequences of real numbers, one of which lies entirely below the o
 
 **DeepL translation:**
 
-If we have two sequences of real numbers, one of which lies entirely below the other &amp; whose terms approach one another without limit, then one can construct two sequences of _rational_ numbers that converge to the _same_ point; that is: the lower rational sequence never overtakes the lower real sequence, nor does the upper rational sequence overtake the upper real sequence, &amp; the two rational sequences approach one another without limit.
+If we have two sequences of real numbers, one of which lies entirely below the other & whose terms approach one another without limit, then one can construct two sequences of _rational_ numbers that converge to the _same_ point; that is: the lower rational sequence never overtakes the lower real sequence, nor does the upper rational sequence overtake the upper real sequence, & the two rational sequences approach one another without limit.
 
 ---
 
@@ -25106,7 +25106,7 @@ In other words: Anyone who believes in mathematical _objects_ and their strange 
 
 November 5, 1942
 
-‘Ideal object’. “The sign ‘a’ denotes an ideal object” is apparently meant to make a statement about the meaning, that is, the use of ‘a’. And it naturally means that this use is _in_ a certain respect similar to that of a sign that has an object, &amp; that it (however) does not perform a designation for an object. But it is interesting what the expression ‘ideal object’ makes of this fact.
+‘Ideal object’. “The sign ‘a’ denotes an ideal object” is apparently meant to make a statement about the meaning, that is, the use of ‘a’. And it naturally means that this use is _in_ a certain respect similar to that of a sign that has an object, & that it (however) does not perform a designation for an object. But it is interesting what the expression ‘ideal object’ makes of this fact.
 
 ---
 
@@ -25192,7 +25192,7 @@ Take the construction of the force polygon: isn’t that a piece of applied math
 
 November 6, 1942
 
-Take the construction of the force polygon: isn’t that a piece of applied mathematics? &amp; where is the theorem of _pure_ mathematics that is used in this graphical calculation? Isn’t this a case like that of the tribe, which has a computational technique for the purpose of certain predictions, but no theorems of pure mathematics?
+Take the construction of the force polygon: isn’t that a piece of applied mathematics? & where is the theorem of _pure_ mathematics that is used in this graphical calculation? Isn’t this a case like that of the tribe, which has a computational technique for the purpose of certain predictions, but no theorems of pure mathematics?
 
 ---
 
@@ -25304,7 +25304,7 @@ I mean: it seems as if a basis for decision already exists; and it must first be
 
 November 10, 1942
 
-I want to say: It _seems_ as if a reason for the decision already existed; &amp; it must first be invented.
+I want to say: It _seems_ as if a reason for the decision already existed; & it must first be invented.
 
 ---
 
@@ -25510,7 +25510,7 @@ The symbols “(x)․φx” & “(∃x)․φx” are probably useful in mathemat
 
 **DeepL translation:**
 
-The symbols “(x)․φx” &amp; “(∃x)․φx” are probably useful in mathematics, provided one is familiar with the technique of providing a proof of existence or non-existence to which Russell’s symbols refer _here_. But if this is left open, these concepts of old logic are extremely misleading.
+The symbols “(x)․φx” & “(∃x)․φx” are probably useful in mathematics, provided one is familiar with the technique of providing a proof of existence or non-existence to which Russell’s symbols refer _here_. But if this is left open, these concepts of old logic are extremely misleading.
 
 ---
 
@@ -25576,7 +25576,7 @@ It should not be called ‘countable’—of the rational numbers, for example�
 
 **DeepL translation:**
 
-‘Man kennt sich nicht aus’ does not mean: one does not know where one is going—but rather, one does not know where _this_ direction will lead &amp; where that other one will lead. I mean: someone who has gotten lost in the forest can clearly see the area around them, but they do not know the geography of the forest. That is, they will feel lost, even though they can clearly see their surroundings. In the same way, one does not have the knowledge of the ‘fundamentals’ of mathematics—not because one does not know what one is doing, but because the geography of the larger connections is unknown to us.
+‘Man kennt sich nicht aus’ does not mean: one does not know where one is going—but rather, one does not know where _this_ direction will lead & where that other one will lead. I mean: someone who has gotten lost in the forest can clearly see the area around them, but they do not know the geography of the forest. That is, they will feel lost, even though they can clearly see their surroundings. In the same way, one does not have the knowledge of the ‘fundamentals’ of mathematics—not because one does not know what one is doing, but because the geography of the larger connections is unknown to us.
 
 ---
 
@@ -25766,7 +25766,7 @@ But the line is a *law* of progression.
 
 January 9, 1943
 
-Our difficulty actually begins with the infinite line; although we learn as boys that a line has no end, &amp; I do not know of anyone for whom this idea has ever posed a difficulty. What if a finitist tried to replace this concept with that of a straight line segment of definite length?!
+Our difficulty actually begins with the infinite line; although we learn as boys that a line has no end, & I do not know of anyone for whom this idea has ever posed a difficulty. What if a finitist tried to replace this concept with that of a straight line segment of definite length?!
 
 But the line is a _law_ of progression.*
 
@@ -25900,7 +25900,7 @@ I think you have a paradigm
 
 ![](../graphics/gen-Ms-127,136[2],248240.svg)
 
-&amp; use it to judge surfaces
+& use it to judge surfaces
 
 ![](../graphics/gen-Ms-127,136[2],248465.svg)
 
@@ -25924,7 +25924,7 @@ A series does have a face for us! Yes; but which one? Well, the algebraic one, a
 
 **DeepL translation:**
 
-A series does have _a_ face for us! Probably; but which one? Well, the algebraic one, &amp; a bit of extension. Or does it have another one? But everything is already contained in that one! Probably; but that is not a statement, – – – – –
+A series does have _a_ face for us! Probably; but which one? Well, the algebraic one, & a bit of extension. Or does it have another one? But everything is already contained in that one! Probably; but that is not a statement, – – – – –
 
 ---
 
@@ -26398,7 +26398,7 @@ The word “doch,” one might say, shows that I _am_ merely _reminding_ you of 
 
 **DeepL translation:**
 
-“You do admit _that_; &amp; _that_; etc.” – “Certainly!” – I might say – “if I am _not_ thereby admitting _anything_.”
+“You do admit _that_; & _that_; etc.” – “Certainly!” – I might say – “if I am _not_ thereby admitting _anything_.”
 
 ---
 
@@ -27268,7 +27268,7 @@ If you look into the mouth of this mouse, you will see two long incisors. – Ho
 
 **DeepL translation:**
 
-If you look into this mouse’s mouth, you will see two long incisors. – How do you know that? – I know that all mice have them, so this one does too. (And one does not say: “&amp; this thing is a mouse, so it too has …”) Why is this such an important step? Well, we study, for example, animals, plants, etc., form general judgments, and apply them to individual cases. – But it is still a fact that this mouse possesses the property _if all_ mice have it! This is a stipulation regarding the use of the word “all”: the actual universality lies elsewhere. Namely_, for example,_ in the general prevalence of that method of investigation and its application.
+If you look into this mouse’s mouth, you will see two long incisors. – How do you know that? – I know that all mice have them, so this one does too. (And one does not say: “& this thing is a mouse, so it too has …”) Why is this such an important step? Well, we study, for example, animals, plants, etc., form general judgments, and apply them to individual cases. – But it is still a fact that this mouse possesses the property _if all_ mice have it! This is a stipulation regarding the use of the word “all”: the actual universality lies elsewhere. Namely_, for example,_ in the general prevalence of that method of investigation and its application.
 
 ---
 
@@ -27980,7 +27980,7 @@ If two classes of real numbers are such that one is completely above the other, 
 
 March 8, 1943
 
-If two classes of real numbers are such that one lies entirely above the other, that there is no distance between them, &amp; that they are open toward one another, then a real number lies _between_ them; &amp; there cannot be two real numbers of different magnitudes lying between them. One can express this as follows: there is one &amp; only one real _point_ between them.
+If two classes of real numbers are such that one lies entirely above the other, that there is no distance between them, & that they are open toward one another, then a real number lies _between_ them; & there cannot be two real numbers of different magnitudes lying between them. One can express this as follows: there is one & only one real _point_ between them.
 
 ---
 
@@ -28046,7 +28046,7 @@ The number is, as Frege says, a property of a concept – but in mathematics, it
 
 March 9, 1943
 
-The number is, as Frege says, a property of a concept ‒ ‒ but in mathematics it is a characteristic of a mathematical concept. <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math> is a _characteristic_ of the concept of the cardinal number, – &amp; the _property_ of a technique. <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mn>0</mn></msub></msup></math> is a characteristic of the concept of the infinite decimal fraction; but of what is this number a property? That is to say: of what kind of concept can it be empirically stated?
+The number is, as Frege says, a property of a concept ‒ ‒ but in mathematics it is a characteristic of a mathematical concept. <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math> is a _characteristic_ of the concept of the cardinal number, – & the _property_ of a technique. <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mn>0</mn></msub></msup></math> is a characteristic of the concept of the infinite decimal fraction; but of what is this number a property? That is to say: of what kind of concept can it be empirically stated?
 
 ---
 
@@ -28232,7 +28232,7 @@ Does a line force me to follow it? No; but if I have decided to use it as a temp
 
 **DeepL translation:**
 
-Does a line force me to follow it? No; but once I have decided to use it as a guide, then it forces me. – No; then _I_ force myself to use it that way. I cling to it, as it were. – But what is important here is that I can, so to speak, make the decision once and for all with the general interpretation, &amp; not interpret anew at every step.
+Does a line force me to follow it? No; but once I have decided to use it as a guide, then it forces me. – No; then _I_ force myself to use it that way. I cling to it, as it were. – But what is important here is that I can, so to speak, make the decision once and for all with the general interpretation, & not interpret anew at every step.
 
 ---
 
@@ -28352,7 +28352,7 @@ How do I know that I meant the sentence as a communication? Was the little that 
 
 **DeepL translation:**
 
-“I wanted to deceive you for a moment” – “That is to say, I have a certain feeling, an inner experience; &amp; I remember it.” – And now remember _quite precisely_ – – – there the “inner experience” of wanting seems to vanish again. Instead, one remembers certain thoughts, connections to earlier situations, and other details more or less characteristic of the situation of deception. (It is as if one had changed the setting of the microscope, and what is now in focus was previously outside it.)
+“I wanted to deceive you for a moment” – “That is to say, I have a certain feeling, an inner experience; & I remember it.” – And now remember _quite precisely_ – – – there the “inner experience” of wanting seems to vanish again. Instead, one remembers certain thoughts, connections to earlier situations, and other details more or less characteristic of the situation of deception. (It is as if one had changed the setting of the microscope, and what is now in focus was previously outside it.)
 
 ---
 
@@ -28592,7 +28592,7 @@ I can bring the two cases even closer together externally by experimenting with 
 
 **DeepL translation:**
 
-I can bring the two cases even closer together externally by experimenting with my own body in the second one. (“I will now perform 3 squats; &amp; then my heart will beat rapidly.”) There is no explanation, however, if I say that in the first case I am the agent, while in the second I am merely the observer. Or: in the first case I would see the causal connection from the inside, in the second from the outside, &amp; _many_ similar things.
+I can bring the two cases even closer together externally by experimenting with my own body in the second one. (“I will now perform 3 squats; & then my heart will beat rapidly.”) There is no explanation, however, if I say that in the first case I am the agent, while in the second I am merely the observer. Or: in the first case I would see the causal connection from the inside, in the second from the outside, & _many_ similar things.
 
 ---
 
@@ -28612,7 +28612,7 @@ The fundamental difference lies in the fact that we make the two under completel
 
 **DeepL translation:**
 
-The fundamental difference lies in the fact that we make the two under entirely different circumstances. I had not observed myself &amp; now say “it seems I will now do 3 squats.” The statement “I will” was not based on the observation of a regularity; nor, of course, on the fact that most of the time when I want this, it happens. Nor do I want to say that in this case the prediction is the cause and its fulfilment the effect. (We’ll leave that for physiologists to puzzle over.) Although _there is_ something to that statement: we can indeed often predict people’s actions from their expressions of resolve. An important language-game.
+The fundamental difference lies in the fact that we make the two under entirely different circumstances. I had not observed myself & now say “it seems I will now do 3 squats.” The statement “I will” was not based on the observation of a regularity; nor, of course, on the fact that most of the time when I want this, it happens. Nor do I want to say that in this case the prediction is the cause and its fulfilment the effect. (We’ll leave that for physiologists to puzzle over.) Although _there is_ something to that statement: we can indeed often predict people’s actions from their expressions of resolve. An important language-game.
 
 ---
 
@@ -28852,7 +28852,7 @@ I expect an explosion every moment. I am not able to give my full attention to a
 
 **DeepL translation:**
 
-I have an expectation of an explosion at any moment. I am unable to give my full attention to anything else; I look at a book, but without reading. When asked why I seem distracted or nervous, I say I have an expectation of an explosion at any moment. – So how was it: Did this sentence just describe that behavior? But how, then, does the process of expecting an explosion differ from the process of expecting a completely different event, e.g., a specific signal? And how does the expectation of a signal differ from the expectation of a somewhat different signal? Or was my way of acting merely a side effect of the actual expectation, &amp; was this a mental process? And was this process homogeneous, or structured, like a sentence (with an _internal_ beginning and end)? – But how does the person in whom it takes place know which event the process is the expectation of? For he does not seem to be in the dark about it. It is not as if he were observing a mental or other state and making a conjecture about its cause.
+I have an expectation of an explosion at any moment. I am unable to give my full attention to anything else; I look at a book, but without reading. When asked why I seem distracted or nervous, I say I have an expectation of an explosion at any moment. – So how was it: Did this sentence just describe that behavior? But how, then, does the process of expecting an explosion differ from the process of expecting a completely different event, e.g., a specific signal? And how does the expectation of a signal differ from the expectation of a somewhat different signal? Or was my way of acting merely a side effect of the actual expectation, & was this a mental process? And was this process homogeneous, or structured, like a sentence (with an _internal_ beginning and end)? – But how does the person in whom it takes place know which event the process is the expectation of? For he does not seem to be in the dark about it. It is not as if he were observing a mental or other state and making a conjecture about its cause.
 
 ---
 
@@ -28932,7 +28932,7 @@ The shout “He’s here!” does not have to serve as a communication. And it i
 
 **DeepL translation:**
 
-The cry “He’s here!” need not serve as a communication. Nor is it intended as a communication. And how does one case differ from the other? Not always in the same way. – I am expecting the arrival of a friend. I am standing on the platform among a crowd of strangers. I see my friend &amp; call out “There he is!”; for some strange reason, I want to turn to the strangers around me as I do so. Imagine that scenario! And now this one: My family expects the friend’s arrival with me. I see him first &amp; call out “There he is!” It is hard _not_ to turn to the others as I do so; to isolate myself completely.
+The cry “He’s here!” need not serve as a communication. Nor is it intended as a communication. And how does one case differ from the other? Not always in the same way. – I am expecting the arrival of a friend. I am standing on the platform among a crowd of strangers. I see my friend & call out “There he is!”; for some strange reason, I want to turn to the strangers around me as I do so. Imagine that scenario! And now this one: My family expects the friend’s arrival with me. I see him first & call out “There he is!” It is hard _not_ to turn to the others as I do so; to isolate myself completely.
 
 ---
 
@@ -29052,7 +29052,7 @@ We expect this & are surprised by that; but the chain of reasons has an end.
 
 **DeepL translation:**
 
-We have an expectation of _this_ &amp; are surprised by _it_; but the chain of reasons has an end.
+We have an expectation of _this_ & are surprised by _it_; but the chain of reasons has an end.
 
 ---
 
@@ -29112,7 +29112,7 @@ What is the criterion for the sameness of two images? That is: how are images co
 
 **DeepL translation:**
 
-What is the criterion of equality between two ideas? That is: how are ideas compared? – A logician might think: equal is equal—it is a psychological question: how a person convinces themselves of equality. (Height is height—it belongs to psychology that people sometimes _see_ it, sometimes _hear_ it.) What is the criterion for the equality of two ideas? – What is the criterion for the “redness” of an idea? For me, when the other person has it—what they say &amp; do. For me, when I have it—nothing at all. And what applies to “red” also applies to “equal.”
+What is the criterion of equality between two ideas? That is: how are ideas compared? – A logician might think: equal is equal—it is a psychological question: how a person convinces themselves of equality. (Height is height—it belongs to psychology that people sometimes _see_ it, sometimes _hear_ it.) What is the criterion for the equality of two ideas? – What is the criterion for the “redness” of an idea? For me, when the other person has it—what they say & do. For me, when I have it—nothing at all. And what applies to “red” also applies to “equal.”
 
 ---
 

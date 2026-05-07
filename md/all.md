@@ -4,13 +4,13 @@
 
 - 1949–1951, 689 remarks
 
-### [Remarks on Colour](W-ROC.md)
-
-- 1950, 453 remarks
-
 ### [Last Writings on the Philosophy of Psychology](W-LW.md)
 
 - 1948–1951, 1592 remarks
+
+### [Remarks on Colour](W-ROC.md)
+
+- 1950, 453 remarks
 
 ### [Philosophy of Psychology – A Fragment](W-PPF.md)
 

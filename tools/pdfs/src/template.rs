@@ -3,12 +3,16 @@ use std::path::Path;
 
 /// Build the CSS stylesheet with font references via file:// URLs.
 pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &Path) -> String {
-    let shared_css = fs::read_to_string(transcription_css)
-        .unwrap_or_else(|e| panic!("Failed to read transcription CSS at {}: {}", transcription_css.display(), e));
-    let font_dir = fs::canonicalize(font_dir)
-        .expect("Failed to resolve font directory path");
-    let heading_font_dir = fs::canonicalize(heading_font_dir)
-        .expect("Failed to resolve heading font directory path");
+    let shared_css = fs::read_to_string(transcription_css).unwrap_or_else(|e| {
+        panic!(
+            "Failed to read transcription CSS at {}: {}",
+            transcription_css.display(),
+            e
+        )
+    });
+    let font_dir = fs::canonicalize(font_dir).expect("Failed to resolve font directory path");
+    let heading_font_dir =
+        fs::canonicalize(heading_font_dir).expect("Failed to resolve heading font directory path");
     let font_url = |dir: &Path, name: &str| -> String {
         let p = dir.join(name);
         format!("file://{}", p.display())
@@ -265,7 +269,8 @@ img {{
   height: auto;
 }}
 "#
-    ) + "\n/* Shared transcription styles */\n" + &shared_css
+    ) + "\n/* Shared transcription styles */\n"
+        + &shared_css
 }
 
 /// Build the pandoc HTML template for weasyprint.
@@ -293,4 +298,3 @@ $body$
 "#
     .to_string()
 }
-

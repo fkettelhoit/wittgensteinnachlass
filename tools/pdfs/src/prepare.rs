@@ -42,11 +42,7 @@ pub fn parse_index_parts(raw: &str) -> Vec<String> {
 }
 
 /// Prepare a multi-part book from an index file and its part contents.
-pub fn prepare_book(
-    index_raw: &str,
-    part_raws: &[String],
-    author: &str,
-) -> PreparedMarkdown {
+pub fn prepare_book(index_raw: &str, part_raws: &[String], author: &str) -> PreparedMarkdown {
     let link_re = Regex::new(r#"\[([^\]\\]*(?:\\.[^\]\\]*)*)\]\(([^)]+)\)"#).unwrap();
 
     // Extract title from index file
@@ -119,7 +115,10 @@ pub fn prepare(raw: &str, author: &str) -> PreparedMarkdown {
         }
 
         // Rewrite graphics paths to use bbox-adjusted epub versions
-        body_lines.push(line.replace("../graphics/", "../graphics-cropped/").to_string());
+        body_lines.push(
+            line.replace("../graphics/", "../graphics-cropped/")
+                .to_string(),
+        );
     }
 
     // Remove leading empty lines
@@ -176,7 +175,10 @@ fn extract_part(link_re: &Regex, raw: &str) -> (String, String) {
             continue;
         }
 
-        body_lines.push(line.replace("../graphics/", "../graphics-cropped/").to_string());
+        body_lines.push(
+            line.replace("../graphics/", "../graphics-cropped/")
+                .to_string(),
+        );
     }
 
     // Remove leading empty lines

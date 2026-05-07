@@ -326,7 +326,10 @@ pub fn fix_emphasis_markers(translated: &str, german: &str) -> String {
     let protected = text.replace("**", "\u{FFFE}BOLD\u{FFFE}");
     let single_re = Regex::new(r"\*([^*]+)\*").unwrap();
     let fixed = single_re.replace_all(&protected, "_${1}_");
-    fixed.replace("\u{FFFE}BOLD\u{FFFE}", "**")
+    let result = fixed.replace("\u{FFFE}BOLD\u{FFFE}", "**");
+
+    // Fix HTML-encoded ampersands — the model sometimes outputs &amp; instead of &
+    result.replace("&amp;", "&")
 }
 
 /// Extract all _emphasized_ and **bold** passages from text.

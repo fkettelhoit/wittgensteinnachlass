@@ -5,16 +5,7 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-SITE_DIR="$SCRIPT_DIR/site"
-LOCAL_DIR="$SITE_DIR/public/"
-
-# Full build (generate all assets + Hugo content)
-echo "Running full site build..."
-make -C "$SCRIPT_DIR" site
-
-# Rebuild site in production mode (hides draft translation links)
-echo "Building site in production mode..."
-hugo -s "$SITE_DIR" -e production
+LOCAL_DIR="$SCRIPT_DIR/site/public/"
 
 # Mirror may exit non-zero due to BunnyCDN rmdir failures (expected)
 lftp storage.bunnycdn.com -e "
