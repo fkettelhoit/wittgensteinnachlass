@@ -5,7 +5,11 @@
 <main>
   {{ $c := .Content }}
   {{ $stem := .File.ContentBaseName }}
-  {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
+  {{ $fac := "" }}
+  {{ if ne .Params.doctype "Work" }}
+    {{ $fac = printf `, <a href="https://cdn.wittgensteinnachlass.com/2000px/pdf/%s.pdf">facsimiles</a>` $stem }}
+  {{ end }}
+  {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>%s)` $stem $stem $fac }}
   {{ $bilingual := "" }}
   {{ if and .Params.translation (ne hugo.Environment "production") }}
     {{ $bilingual = printf ` | <a href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
@@ -52,7 +56,11 @@
 {{ else }}
 <main>
   {{ $stem2 := .File.ContentBaseName }}
-  {{ $dl2 := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem2 $stem2 }}
+  {{ $fac2 := "" }}
+  {{ if ne .Params.doctype "Work" }}
+    {{ $fac2 = printf `, <a href="https://cdn.wittgensteinnachlass.com/2000px/pdf/%s.pdf">facsimiles</a>` $stem2 }}
+  {{ end }}
+  {{ $dl2 := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>%s)` $stem2 $stem2 $fac2 }}
   {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s</p>` $dl2 }}
   {{ partial "viz-lightbox.html" (replace .Content "</h1>" $sw2 1) | safeHTML }}
 </main>
