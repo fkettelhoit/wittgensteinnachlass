@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'de'
-title = "Wittgenstein's Writings"
+title = "Wittgenstein\u2019s Writings"
 
 disableKinds = ['taxonomy', 'term']
 

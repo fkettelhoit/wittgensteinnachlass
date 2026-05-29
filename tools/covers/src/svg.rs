@@ -74,7 +74,7 @@ pub fn render_text_svg(
     let brand_x = TITLE_COL as f64 * CELL;
     let brand_y = BRANDING_ROW as f64 * CELL + BRANDING_FONT_SIZE * 0.85;
     svg.push_str(&format!(
-        r#"<g aria-label="Wittgenstein&apos;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&apos;s</text></g>
+        r#"<g aria-label="Wittgenstein&#x2019;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&#x2019;s</text></g>
 "#
     ));
     let brand_y2 = brand_y + BRANDING_FONT_SIZE * 1.1;
@@ -260,7 +260,7 @@ fn compute_branding_cells(_has_subtitle: bool) -> HashSet<(usize, usize)> {
     let start_col = TITLE_COL.saturating_sub(1);
     let r0 = BRANDING_ROW; // first line starts here
 
-    // "Wittgenstein's" text + bottom margin (one extra row above for top padding)
+    // "Wittgenstein\u2019s" text + bottom margin (one extra row above for top padding)
     for r in (r0.saturating_sub(1))..(r0 + 5) {
         for c in start_col..line1_end.min(COLS) {
             cells.insert((r, c));

@@ -25,7 +25,7 @@ for src in "$OUTPUT_DIR"/*.md; do
   if [ "$filename" = "index.md" ]; then
     {
       echo "---"
-      echo "title: \"Wittgenstein's Writings\""
+      echo "title: \"Wittgenstein\u2019s Writings\""
       echo "---"
       echo ""
       # Rewrite relative markdown links to Hugo permalinks:
@@ -88,7 +88,7 @@ for page in docs-by-date docs-by-name; do
     mkdir -p "$CONTENT_DIR/$page"
     {
       echo "---"
-      echo "title: \"Wittgenstein's Writings\""
+      echo "title: \"Wittgenstein\u2019s Writings\""
       echo "layout: gallery"
       echo "---"
       echo ""
@@ -103,7 +103,7 @@ if [ -f "$ALL_SRC" ]; then
   mkdir -p "$CONTENT_DIR/all"
   {
     echo "---"
-    echo "title: \"Wittgenstein's Writings\""
+    echo "title: \"Wittgenstein\u2019s Writings\""
     echo "layout: all"
     echo "---"
     echo ""
