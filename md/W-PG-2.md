@@ -32,7 +32,7 @@ Was ich von dem Wechsel in der Auffassung von α β γ gesagt habe könnte ich j
 
 ### [Ts-213](/ts-213/#293r.1) <span class="fac">[293r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/293r.webp)</span> {#ts-213-293r1}
 
-<span class="series-number">1.</span> _****Logischer Schluß**.**_
+<span class="series-number">1</span> _****Logischer Schluß**.**_
 
 ### [Ts-213](/ts-213/#294r.1) <span class="fac">[294r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/294r.webp)</span> {#ts-213-294r1}
 
@@ -116,7 +116,7 @@ Die Gleichung p & q = p zeigt eigentlich den Zusammenhang des Folgens und der Wa
 
 ### [Ts-213](/ts-213/#299r.1) <span class="fac">[299r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/299r.webp)</span> {#ts-213-299r1}
 
-<span class="series-number">2.</span> _“Wenn p aus q folgt, so muß p in q schon mitgedacht sein”._
+<span class="series-number">2</span> _“Wenn p aus q folgt, so muß p in q schon mitgedacht sein”._
 
 ### [Ts-213](/ts-213/#299r.2) <span class="fac">[299r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/299r.webp)</span> {#ts-213-299r2}
 
@@ -152,7 +152,7 @@ Wenn das Kriterium dafür, daß p aus q folgt, darin besteht, daß man “beim D
 
 ### [Ts-213](/ts-213/#303r.1) <span class="fac">[303r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/303r.webp)</span> {#ts-213-303r1}
 
-<span class="series-number">3.</span> _Der Fall: unendlich viele Sätze folgen aus einem._
+<span class="series-number">3</span> _Der Fall: unendlich viele Sätze folgen aus einem._
 
 ### [Ts-213](/ts-213/#303r.2) <span class="fac">[303r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/303r.webp)</span> {#ts-213-303r2}
 
@@ -218,7 +218,7 @@ Man kann ein bestimmtes Grau ebensowenig als eines der unendlichen vielen Grau z
 
 ### [Ts-213](/ts-213/#308r.1) <span class="fac">[308r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/308r.webp)</span> {#ts-213-308r1}
 
-<span class="series-number">4.</span> _Kann eine Erfahrung lehren, daß dieser Satz aus jenem folgt?_
+<span class="series-number">4</span> _Kann eine Erfahrung lehren, daß dieser Satz aus jenem folgt?_
 
 ### [Ts-213](/ts-213/#308r.2) <span class="fac">[308r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/308r.webp)</span> {#ts-213-308r2}
 
@@ -254,7 +254,7 @@ Aus der Grammatik des Satzes – und aus ihr allein, muß es _hervorgehen_, ob e
 
 ### [Ts-213](/ts-213/#311r.1) <span class="fac">[311r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/311r.webp)</span> {#ts-213-311r1}
 
-<span class="series-number">5.</span> _****Allgemeinheit**.**_
+<span class="series-number">5</span> _****Allgemeinheit**.**_
 
 ### [Ts-213](/ts-213/#312r.1) <span class="fac">[312r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/312r.webp)</span> {#ts-213-312r1}
 
@@ -340,7 +340,7 @@ Es besteht freilich eine logische Ähnlichkeit (_formelle Analogie_) zwischen di
 
 ### [Ts-213](/ts-213/#317r.1) <span class="fac">[317r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/317r.webp)</span> {#ts-213-317r1}
 
-<span class="series-number">6.</span> _Der Satz “der Kreis liegt im Quadrat” keine Disjunktion von Fällen._
+<span class="series-number">6</span> _Der Satz “der Kreis liegt im Quadrat” keine Disjunktion von Fällen._
 
 ### [Ts-213](/ts-213/#317r.2) <span class="fac">[317r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/317r.webp)</span> {#ts-213-317r2}
 
@@ -424,7 +424,7 @@ Er kann nicht durch seine Spezialfälle charakterisiert werden; denn wieviele ma
 
 ### [Ts-213](/ts-213/#322r.1) <span class="fac">[322r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/322r.webp)</span> {#ts-213-322r1}
 
-<span class="series-number">7.</span> _Unzulänglichkeit der Frege- und Russell'schen Allgemeinheitsbezeichnung._
+<span class="series-number">7</span> _Unzulänglichkeit der Frege- und Russell'schen Allgemeinheitsbezeichnung._
 
 ### [Ts-213](/ts-213/#322r.2+323r.1) <span class="fac">[322r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/322r.webp),[323r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/323r.webp)</span> {#ts-213-322r2323r1}
 
@@ -448,7 +448,7 @@ Der _richtige_ Ausdruck dieser Art Allgemeinheit ist also der, der gewöhnlichen
 
 ### [Ts-213](/ts-213/#326r.1) <span class="fac">[326r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/326r.webp)</span> {#ts-213-326r1}
 
-<span class="series-number">8.</span> _Kritik meiner früheren Auffassung der Allgemeinheit._
+<span class="series-number">8</span> _Kritik meiner früheren Auffassung der Allgemeinheit._
 
 ### [Ts-213](/ts-213/#326r.2) <span class="fac">[326r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/326r.webp)</span> {#ts-213-326r2}
 
@@ -484,7 +484,7 @@ Darum nützt es nichts, zur Klärung das Wort “alle” zu gebrauchen, wenn man
 
 ### [Ts-213](/ts-213/#329r.1) <span class="fac">[329r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/329r.webp)</span> {#ts-213-329r1}
 
-<span class="series-number">9.</span> _Erklärung der Allgemeinheit durch Beispiele._
+<span class="series-number">9</span> _Erklärung der Allgemeinheit durch Beispiele._
 
 ### [Ts-213](/ts-213/#329r.2+330r.1) <span class="fac">[329r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/329r.webp),[330r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/330r.webp)</span> {#ts-213-329r2330r1}
 
@@ -592,7 +592,7 @@ Ich sagte “es war möglich, vor jeder Erfahrung zu wissen, daß (∃x)․fx au
 
 ### [Ts-213](/ts-213/#341r.1) <span class="fac">[341r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/341r.webp)</span> {#ts-213-341r1}
 
-<span class="series-number">10.</span> _**Bildungsgesetz einer Reihe.**_
+<span class="series-number">10</span> _**Bildungsgesetz einer Reihe.**_
 
 _**“ **u.s.w.**”**_
 
@@ -772,7 +772,7 @@ Warum sollen wir aber nicht das allgemeine Glied der ersten Reihe _so_ schreiben
 
 ### [Ts-213](/ts-213/#529r.1) <span class="fac">[529r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/529r.webp)</span> {#ts-213-529r1}
 
-<span class="series-number">11.</span> _****Grundlagen der Mathematik**.**_
+<span class="series-number">11</span> _****Grundlagen der Mathematik**.**_
 
 ### [Ts-213](/ts-213/#530r.1) <span class="fac">[530r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/530r.webp)</span> {#ts-213-530r1}
 
@@ -904,7 +904,7 @@ Immer wieder möchte ich sagen: _Ich_ kontrolliere die _Geschäftsbücher_ der M
 
 ### [Ts-213](/ts-213/#539r.1) <span class="fac">[539r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/539r.webp)</span> {#ts-213-539r1}
 
-<span class="series-number">12.</span> _Es gibt keine Metamathematik._
+<span class="series-number">12</span> _Es gibt keine Metamathematik._
 
 ### [Ts-213](/ts-213/#539r.2) <span class="fac">[539r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/539r.webp)</span> {#ts-213-539r2}
 
@@ -960,7 +960,7 @@ p : p⌵q = p etc.
 
 ### [Ts-213](/ts-213/#542r.1) <span class="fac">[542r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/542r.webp)</span> {#ts-213-542r1}
 
-<span class="series-number">13.</span> _**Beweis der Relevanz**_
+<span class="series-number">13</span> _**Beweis der Relevanz**_
 
 ### [Ts-213](/ts-213/#542r.2) <span class="fac">[542r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/542r.webp)</span> {#ts-213-542r2}
 
@@ -996,7 +996,7 @@ Der sogenannte Beweis der Relevanz steigt die Leiter zu _seinem_ Satz nicht hina
 
 ### [Ts-213](/ts-213/#546r.1) <span class="fac">[546r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/546r.webp)</span> {#ts-213-546r1}
 
-<span class="series-number">14.</span> _**Beweis der Widerspruchsfreiheit**_
+<span class="series-number">14</span> _**Beweis der Widerspruchsfreiheit**_
 
 ### [Ts-213](/ts-213/#546r.2) <span class="fac">[546r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/546r.webp)</span> {#ts-213-546r2}
 
@@ -1052,7 +1052,7 @@ Warum dürfen sich Regeln nicht widersprechen? Weil es sonst keine Regeln wären
 
 ### [Ts-213](/ts-213/#550r.1) <span class="fac">[550r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/550r.webp)</span> {#ts-213-550r1}
 
-<span class="series-number">15.</span> _Die Begründung der Arithmetik, in der diese auf ihre Anwendungen vorbereitet wird. (Russell, Ramsey.)_
+<span class="series-number">15</span> _Die Begründung der Arithmetik, in der diese auf ihre Anwendungen vorbereitet wird. (Russell, Ramsey.)_
 
 ### [Ts-213](/ts-213/#550r.2) <span class="fac">[550r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/550r.webp)</span> {#ts-213-550r2}
 
@@ -1180,7 +1180,7 @@ Wenn man in der Logik scheinbar mehrere verschiedene Universen betrachtet (wie R
 
 ### [Ts-213](/ts-213/#562r.1) <span class="fac">[562r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/562r.webp)</span> {#ts-213-562r1}
 
-<span class="series-number">16.</span> _**Ramsey's Theorie der Identität.**_
+<span class="series-number">16</span> _**Ramsey's Theorie der Identität.**_
 
 ### [Ts-213](/ts-213/#562r.2) <span class="fac">[562r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/562r.webp)</span> {#ts-213-562r2}
 
@@ -1222,7 +1222,7 @@ Es besteht eine Versuchung, die Form der Gleichung für die Form von Tautologien
 
 ### [Ts-213](/ts-213/#566r.1) <span class="fac">[566r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/566r.webp)</span> {#ts-213-566r1}
 
-<span class="series-number">17.</span> _Der Begriff der Anwendung der Arithmetik (Mathematik)._
+<span class="series-number">17</span> _Der Begriff der Anwendung der Arithmetik (Mathematik)._
 
 ### [Ts-213](/ts-213/#566r.2) <span class="fac">[566r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/566r.webp)</span> {#ts-213-566r2}
 
@@ -1246,7 +1246,7 @@ Wie ist es mit dem Satz “die Winkelsumme im Dreieck ist 180 Grad”? Dem sieht
 
 ### [Ts-213](/ts-213/#568r.1) <span class="fac">[568r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/568r.webp)</span> {#ts-213-568r1}
 
-<span class="series-number">18.</span> _****Über Kardinalzahlen**.**_
+<span class="series-number">18</span> _****Über Kardinalzahlen**.**_
 
 ### [Ts-213](/ts-213/#569r.1) <span class="fac">[569r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/569r.webp)</span> {#ts-213-569r1}
 
@@ -1422,7 +1422,7 @@ Das Problem der Unterscheidung von 1 + 1 + 1 + 1 + 1 + 1 + 1 und 1 + 1 + 1 + 1 +
 
 ### [Ts-213](/ts-213/#581r.1) <span class="fac">[581r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/581r.webp)</span> {#ts-213-581r1}
 
-<span class="series-number">19.</span> _2 + 2 = 4._
+<span class="series-number">19</span> _2 + 2 = 4._
 
 ### [Ts-213](/ts-213/#581r.2) <span class="fac">[581r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/581r.webp)</span> {#ts-213-581r2}
 
@@ -1678,7 +1678,7 @@ Die Kinder lernen in der Schule wohl 2 × 2 = 4, aber nicht 2 = 2.
 
 ### [Ts-213](/ts-213/#600r.1) <span class="fac">[600r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/600r.webp)</span> {#ts-213-600r1}
 
-<span class="series-number">20.</span> _**Zahlangaben innerhalb der Mathematik.**_
+<span class="series-number">20</span> _**Zahlangaben innerhalb der Mathematik.**_
 
 ### [Ts-213](/ts-213/#600r.2) <span class="fac">[600r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/600r.webp)</span> {#ts-213-600r2}
 
@@ -1740,7 +1740,7 @@ Der Satz “die Relation R verbindet zwei Gegenstände miteinander”, wenn das 
 
 ### [Ts-213](/ts-213/#604r.2+605r.1+606r.1) <span class="fac">[604r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/604r.webp),[605r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/605r.webp),[606r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/606r.webp)</span> {#ts-213-604r2605r1606r1}
 
-<span class="series-number">21.</span> Wie soll man nun den Satz auffassen “diese Hüte haben die gleiche Größe”, oder “diese Stäbe haben die gleiche Länge”, oder “diese Flecke haben die gleiche Farbe”? Soll man sie in der Form schreiben: “(∃L)․ La & Lb”? Aber wenn das in der gewöhnlichen Weise gemeint wird, also mit den gewöhnlichen Regeln gebraucht wird, so müßte es ja dann Sinn haben zu schreiben “(∃L)․ La” also “der Fleck a hat eine Farbe”, “der Stab hat eine Länge”. Ich kann freilich “(∃L)․ La & Lb” für “a und b sind gleichlang” schreiben, wenn ich nur weiß und berücksichtige, daß “(∃L)․ La” sinnlos ist; aber dann wird die Notation irreführend und verwirrend. (“eine Länge haben”, “einen Vater haben”.) – Wir haben hier den Fall, den wir in der gewöhnlichen Sprache oft so ausdrücken: “Wenn a die Länge L hat, so hat b auch L”; aber hier hätte der Satz “a hat die Länge L” gar keinen Sinn, oder doch nicht als Aussage über a; und der Satz lautet richtiger “nennen wir die Länge von a ‘L’, so ist die Länge von b auch L” und ‘L’ ist eben hier wesentlich eine Variable. Der Satz hat übrigens die Form eines Beispiels, eines Satzes, der als Beispiel zum allgemeinen Satz dienen kann und man würde etwa auch fortfahren: “wenn z.B. a 5 m lang ist, so hat b auch 5 m, u.s.w.”. – Zu sagen “die Stäbe a und b haben die gleiche Länge” sagt nämlich gar nichts über die Länge jedes Stabes; denn es sagt auch nicht, “daß jeder der beiden eine Länge hat”. Der Fall hat also gar keine Ähnlichkeit mit dem: “A und B haben den gleichen Vater” und “der Name des Vaters von A und B ist ‘N’”, wo ich einfach für die allgemeine Bezeichnung den Eigennamen einsetze. ‘5 m’ ist aber nicht der Name der _betreffenden_ Länge, von der zuerst nur gesagt wurde, daß a und b sie beide besäßen. Wenn es sich um Längen im Gesichtsfeld handelt, können wir zwar sagen, die beiden Längen seien gleich, aber wir können sie im allgemeinen nicht mit einer Zahl “benennen”. – Der Satz “ist L die Länge von a, so hat auch b die Länge L” schreibt seine Form nur als eine von der Form eines Beispiels derivierte hin. Und man könnte den allgemeinen Satz auch wirklich durch eine _Anführung_ von Beispielen mit einem “u.s.w.” ausdrücken. Und es ist eine Wiederholung desselben Satzes, wenn ich sage: “a und b sind gleichlang; ist die Länge von a L, so ist die Länge von b auch L; ist a 5 m lang, so ist auch b 5 m lang, ist a 7 m, so ist b 7 m, u.s.w.”. Die dritte Fassung zeigt schon, daß in dem Satz nicht das “und” zwischen zwei Formen steht, wie in “(∃x). fx & Fx”, so daß man auch (∃x). fx” und (∃x). Fx” schreiben dürfte. Nehmen wir als Beispiel _auch_ den Satz “in den beiden Kisten sind gleichviel Äpfel”. Wenn man diesen Satz in der Form schreibt” es gibt eine Zahl, die die Zahl der Äpfel in beiden Kisten ist”, so kann man auch hier nicht die Form bilden: “es gibt eine Zahl, die die Zahl der Äpfel in dieser Kiste ist”, oder “die Äpfel in dieser Kiste haben eine Zahl”. Schreibe ich:
+<span class="series-number">21</span> Wie soll man nun den Satz auffassen “diese Hüte haben die gleiche Größe”, oder “diese Stäbe haben die gleiche Länge”, oder “diese Flecke haben die gleiche Farbe”? Soll man sie in der Form schreiben: “(∃L)․ La & Lb”? Aber wenn das in der gewöhnlichen Weise gemeint wird, also mit den gewöhnlichen Regeln gebraucht wird, so müßte es ja dann Sinn haben zu schreiben “(∃L)․ La” also “der Fleck a hat eine Farbe”, “der Stab hat eine Länge”. Ich kann freilich “(∃L)․ La & Lb” für “a und b sind gleichlang” schreiben, wenn ich nur weiß und berücksichtige, daß “(∃L)․ La” sinnlos ist; aber dann wird die Notation irreführend und verwirrend. (“eine Länge haben”, “einen Vater haben”.) – Wir haben hier den Fall, den wir in der gewöhnlichen Sprache oft so ausdrücken: “Wenn a die Länge L hat, so hat b auch L”; aber hier hätte der Satz “a hat die Länge L” gar keinen Sinn, oder doch nicht als Aussage über a; und der Satz lautet richtiger “nennen wir die Länge von a ‘L’, so ist die Länge von b auch L” und ‘L’ ist eben hier wesentlich eine Variable. Der Satz hat übrigens die Form eines Beispiels, eines Satzes, der als Beispiel zum allgemeinen Satz dienen kann und man würde etwa auch fortfahren: “wenn z.B. a 5 m lang ist, so hat b auch 5 m, u.s.w.”. – Zu sagen “die Stäbe a und b haben die gleiche Länge” sagt nämlich gar nichts über die Länge jedes Stabes; denn es sagt auch nicht, “daß jeder der beiden eine Länge hat”. Der Fall hat also gar keine Ähnlichkeit mit dem: “A und B haben den gleichen Vater” und “der Name des Vaters von A und B ist ‘N’”, wo ich einfach für die allgemeine Bezeichnung den Eigennamen einsetze. ‘5 m’ ist aber nicht der Name der _betreffenden_ Länge, von der zuerst nur gesagt wurde, daß a und b sie beide besäßen. Wenn es sich um Längen im Gesichtsfeld handelt, können wir zwar sagen, die beiden Längen seien gleich, aber wir können sie im allgemeinen nicht mit einer Zahl “benennen”. – Der Satz “ist L die Länge von a, so hat auch b die Länge L” schreibt seine Form nur als eine von der Form eines Beispiels derivierte hin. Und man könnte den allgemeinen Satz auch wirklich durch eine _Anführung_ von Beispielen mit einem “u.s.w.” ausdrücken. Und es ist eine Wiederholung desselben Satzes, wenn ich sage: “a und b sind gleichlang; ist die Länge von a L, so ist die Länge von b auch L; ist a 5 m lang, so ist auch b 5 m lang, ist a 7 m, so ist b 7 m, u.s.w.”. Die dritte Fassung zeigt schon, daß in dem Satz nicht das “und” zwischen zwei Formen steht, wie in “(∃x). fx & Fx”, so daß man auch (∃x). fx” und (∃x). Fx” schreiben dürfte. Nehmen wir als Beispiel _auch_ den Satz “in den beiden Kisten sind gleichviel Äpfel”. Wenn man diesen Satz in der Form schreibt” es gibt eine Zahl, die die Zahl der Äpfel in beiden Kisten ist”, so kann man auch hier nicht die Form bilden: “es gibt eine Zahl, die die Zahl der Äpfel in dieser Kiste ist”, oder “die Äpfel in dieser Kiste haben eine Zahl”. Schreibe ich:
 
 <math class="stacked" display="inline"><mo>(</mo><mo>∃</mo><mtext>x)</mtext><mn>.</mn><mspace width="0.3em"/><mtext>fx․</mtext><mspace width="0.3em"/><mtext>&</mtext><mspace width="0.3em"/><mtext>․</mtext><mspace width="0.3em"/><mtext>non</mtext><mspace width="0.3em"/><mo>(</mo><mo>∃</mo><mtext>x,</mtext><mtext>y)</mtext><mtext>․</mtext><mspace width="0.3em"/><mtext>fx</mtext><mspace width="0.3em"/><mtext>&</mtext><mspace width="0.3em"/><mtext>fy</mtext><mspace width="0.3em"/><mtext>․</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mo>(</mo><msub><mo>∃</mo><mi>n</mi></msub><mtext>1x)</mtext><mn>.</mn><mtext>fx</mtext><mspace width="0.3em"/><mtext>․</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mtext>f1</mtext></math> etc., so könnte man den Satz “die Anzahl der Äpfel in den beiden Kisten ist die gleiche” schreiben:
 
@@ -1840,7 +1840,7 @@ Die Regel “aus Π folgt S” also Π & S = Π könnte man auch ganz gut weglas
 
 ### [Ts-213](/ts-213/#614r.1) <span class="fac">[614r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/614r.webp)</span> {#ts-213-614r1}
 
-<span class="series-number">22.</span> _****Mathematischer Beweis**.**_
+<span class="series-number">22</span> _****Mathematischer Beweis**.**_
 
 ### [Ts-213](/ts-213/#615r.1) <span class="fac">[615r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/615r.webp)</span> {#ts-213-615r1}
 
@@ -1962,7 +1962,7 @@ Raum nenne ich das, dessen man beim Suchen _gewiß_ sein kann.
 
 ### [Ts-213](/ts-213/#624r.1) <span class="fac">[624r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/624r.webp)</span> {#ts-213-624r1}
 
-<span class="series-number">23.</span> _Beweis, und Wahrheit und Falschheit eines mathematischen Satzes._
+<span class="series-number">23</span> _Beweis, und Wahrheit und Falschheit eines mathematischen Satzes._
 
 ### [Ts-213](/ts-213/#624r.2) <span class="fac">[624r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/624r.webp)</span> {#ts-213-624r2}
 
@@ -1998,7 +1998,7 @@ Wenn in den Diskussionen über die Beweisbarkeit der mathematischen Sätze gesag
 
 ### [Ts-213](/ts-213/#628r.1) <span class="fac">[628r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/628r.webp)</span> {#ts-213-628r1}
 
-<span class="series-number">24.</span> _Wenn Du wissen willst, **was** bewiesen wurde, schau den Beweis an._
+<span class="series-number">24</span> _Wenn Du wissen willst, **was** bewiesen wurde, schau den Beweis an._
 
 ### [Ts-213](/ts-213/#628r.2) <span class="fac">[628r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/628r.webp)</span> {#ts-213-628r2}
 
@@ -2104,7 +2104,7 @@ Nun liegt es aber im Wesen dessen, _was wir als Satz bezeichnen_, daß es sich v
 
 ### [Ts-213](/ts-213/#638r.1) <span class="fac">[638r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/638r.webp)</span> {#ts-213-638r1}
 
-<span class="series-number">25.</span> _**Das mathematische Problem.**_
+<span class="series-number">25</span> _**Das mathematische Problem.**_
 
 _**Arten der Probleme.**_
 
@@ -2198,7 +2198,7 @@ Den Mathematiker muß es bei meinen mathematischen Ausführungen grausen, denn s
 
 ### [Ts-213](/ts-213/#645r.1) <span class="fac">[645r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/645r.webp)</span> {#ts-213-645r1}
 
-<span class="series-number">26.</span> _**Eulerscher Beweis.**_
+<span class="series-number">26</span> _**Eulerscher Beweis.**_
 
 ### [Ts-213](/ts-213/#645r.2) <span class="fac">[645r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/645r.webp)</span> {#ts-213-645r2}
 
@@ -2362,7 +2362,7 @@ r = oder größer <math class="stacked" display="inline"><mfrac><mrow><mtext>3n�
 
 ### [Ts-213](/ts-213/#650r.1) <span class="fac">[650r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/650r.webp)</span> {#ts-213-650r1}
 
-<span class="series-number">27.</span> _**Dreiteilung des Winkels.**_
+<span class="series-number">27</span> _**Dreiteilung des Winkels.**_
 
 _etc._
 
@@ -2406,7 +2406,7 @@ Statt des Problems der 3-Teilung des Winkels mit Lineal und Zirkel können wir n
 
 ### [Ts-213](/ts-213/#657r.1) <span class="fac">[657r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/657r.webp)</span> {#ts-213-657r1}
 
-<span class="series-number">28.</span> _**Suchen und Versuchen.**_
+<span class="series-number">28</span> _**Suchen und Versuchen.**_
 
 ### [Ts-213](/ts-213/#657r.2) <span class="fac">[657r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/657r.webp)</span> {#ts-213-657r2}
 
@@ -2434,7 +2434,7 @@ Das Wesentliche ist hier, daß dieser Versuch den Charakter desjenigen hat, ein 
 
 ### [Ts-213](/ts-213/#660r.1) <span class="fac">[660r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/660r.webp)</span> {#ts-213-660r1}
 
-<span class="series-number">29.</span> _****Induktionsbeweis**.**_
+<span class="series-number">29</span> _****Induktionsbeweis**.**_
 
 _****Periodizität**.**_
 
@@ -2464,7 +2464,7 @@ Ich könnte ja auch ganz beiläufig (siehe andere Bemerkungen) sagen: “25 × 6
 
 ### [Ts-213](/ts-213/#663r.1) <span class="fac">[663r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/663r.webp)</span> {#ts-213-663r1}
 
-<span class="series-number">30.</span> _Der rekursive Beweis und der Begriff des Satzes. Hat der Beweis einen Satz als wahr erwiesen und einen andern als falsch?_
+<span class="series-number">30</span> _Der rekursive Beweis und der Begriff des Satzes. Hat der Beweis einen Satz als wahr erwiesen und einen andern als falsch?_
 
 ### [Ts-213](/ts-213/#663r.2) <span class="fac">[663r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/663r.webp)</span> {#ts-213-663r2}
 
@@ -2522,7 +2522,7 @@ Man kann auch so sagen: Sofern man die Regel, in irgendeinem Spiel Dezimalbrüch
 
 ### [Ts-213](/ts-213/#667r.1) <span class="fac">[667r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/667r.webp)</span> {#ts-213-667r1}
 
-<span class="series-number">31.</span> _Induktion, (x)․Fx und (∃x)․Fx. Inwiefern erweist die Induktion den allgemeinen Satz als wahr und einen Existentialsatz als falsch?_
+<span class="series-number">31</span> _Induktion, (x)․Fx und (∃x)․Fx. Inwiefern erweist die Induktion den allgemeinen Satz als wahr und einen Existentialsatz als falsch?_
 
 ### [Ts-213](/ts-213/#667r.2+668r.1) <span class="fac">[667r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/667r.webp),[668r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/668r.webp)</span> {#ts-213-667r2668r1}
 
@@ -2560,7 +2560,7 @@ x² + 3x + 1 = 0 ist” ist freilich durch eine Induktion entschieden, – aber 
 
 ### [Ts-213](/ts-213/#673r.1) <span class="fac">[673r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/673r.webp)</span> {#ts-213-673r1}
 
-<span class="series-number">32.</span> _Wird aus der Anschreibung des Rekursionsbeweises **noch ein weiterer Schluß** auf die Allgemeinheit gezogen, sagt das Rekursionsschema nicht schon alles was zu sagen war?_
+<span class="series-number">32</span> _Wird aus der Anschreibung des Rekursionsbeweises **noch ein weiterer Schluß** auf die Allgemeinheit gezogen, sagt das Rekursionsschema nicht schon alles was zu sagen war?_
 
 ### [Ts-213](/ts-213/#673r.2) <span class="fac">[673r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/673r.webp)</span> {#ts-213-673r2}
 
@@ -2622,7 +2622,7 @@ Der Satz, daß A für alle Kardinalzahlen gilt, ist eigentlich der Komplex B. Un
 
 ### [Ts-211](/ts-211/#92.2) <span class="fac">[92\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-211/92.webp)</span> {#ts-211-922}
 
-<span class="series-number">33.</span> Eine Untersuchung Schritt für Schritt dieser Beweise wäre sehr lehrreich. Der erste Übergang in I a + (b + (c + 1)) = a + ((b + c) + 1) wenn er nach R vorsichgehen soll, zeigt, daß die Variablen in R anders gemeint sind, als die in den Gleichungen von I, denn sonst erlaubte R nur a + (b + 1) durch (a + b) + 1 zu ersetzen, aber nicht b + (c + 1) durch (b + c) + 1. Dasselbe zeigen auch die anderen Übergänge dieses Beweises. Wenn ich nun sagte, die beiden Zeilen des Beweises berechtigen mich die Regel a + (b + c) = (a + b) + c zu folgern, so hieße das gar nichts, es sei denn, ich hätte nach einer vorher aufgestellten Regel so geschlossen. Diese Regel aber könnte wohl nur sein:
+<span class="series-number">33</span> Eine Untersuchung Schritt für Schritt dieser Beweise wäre sehr lehrreich. Der erste Übergang in I a + (b + (c + 1)) = a + ((b + c) + 1) wenn er nach R vorsichgehen soll, zeigt, daß die Variablen in R anders gemeint sind, als die in den Gleichungen von I, denn sonst erlaubte R nur a + (b + 1) durch (a + b) + 1 zu ersetzen, aber nicht b + (c + 1) durch (b + c) + 1. Dasselbe zeigen auch die anderen Übergänge dieses Beweises. Wenn ich nun sagte, die beiden Zeilen des Beweises berechtigen mich die Regel a + (b + c) = (a + b) + c zu folgern, so hieße das gar nichts, es sei denn, ich hätte nach einer vorher aufgestellten Regel so geschlossen. Diese Regel aber könnte wohl nur sein:
 
 <math display="block">
   <msub>
@@ -3074,7 +3074,7 @@ zu sehen ist, gleichsam eine bestimmte Astgabelung, – daß aber diese Gebilde 
 
 ### [Ts-213](/ts-213/#696r.1) <span class="fac">[696r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/696r.webp)</span> {#ts-213-696r1}
 
-<span class="series-number">34.</span> _Der rekursive Beweis reduziert die Anzahl der Grundgesetze nicht._
+<span class="series-number">34</span> _Der rekursive Beweis reduziert die Anzahl der Grundgesetze nicht._
 
 ### [Ts-213](/ts-213/#696r.2) <span class="fac">[696r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/696r.webp)</span> {#ts-213-696r2}
 
@@ -3122,7 +3122,7 @@ Der Vergleich des Beweises mit der Kette ist natürlich ein _logischer_ Vergleic
 
 ### [Ts-213](/ts-213/#699r.1) <span class="fac">[699r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/699r.webp)</span> {#ts-213-699r1}
 
-<span class="series-number">35.</span> _**Periodizität**_
+<span class="series-number">35</span> _**Periodizität**_
 
 _1 : 3 = 0.3._
 
@@ -3260,7 +3260,7 @@ Man könnte nun sagen: die Stellen des Quotienten von 1:3 sind _notwendig alle_ 
 
 ### [Ts-213](/ts-213/#702r.1) <span class="fac">[702r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/702r.webp)</span> {#ts-213-702r1}
 
-<span class="series-number">36.</span> _**Der rekursive Beweis als Reihe von Beweisen.**_
+<span class="series-number">36</span> _**Der rekursive Beweis als Reihe von Beweisen.**_
 
 ### [Ts-213](/ts-213/#702r.2) <span class="fac">[702r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/702r.webp)</span> {#ts-213-702r2}
 
@@ -3440,7 +3440,7 @@ Die Periodizität ist nicht das Anzeichen (Symptom) dafür, daß es so weitergeh
 
 ### [Ts-213](/ts-213/#710r.1) <span class="fac">[710r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/710r.webp)</span> {#ts-213-710r1}
 
-<span class="series-number">37.</span> _Ein Zeichen auf bestimmte Weise sehen, auffassen._
+<span class="series-number">37</span> _Ein Zeichen auf bestimmte Weise sehen, auffassen._
 
 _Entdecken eines Aspekts eines mathematischen Ausdrucks._
 
@@ -3869,7 +3869,7 @@ Der, welcher die Periodizität entdeckt, erfindet einen neuen Kalkül. Die Frage
 
 ### [Ts-213](/ts-213/#722r.1) <span class="fac">[722r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/722r.webp)</span> {#ts-213-722r1}
 
-<span class="series-number">38.</span> _**Der Induktionsbeweis, Arithmetik und Algebra.**_
+<span class="series-number">38</span> _**Der Induktionsbeweis, Arithmetik und Algebra.**_
 
 ### [Ts-213](/ts-213/#722r.3) <span class="fac">[722r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/722r.webp)</span> {#ts-213-722r3}
 
@@ -3913,7 +3913,7 @@ A, als Regel für das algebraische Rechnen, kann nicht rekursiv bewiesen werden;
 
 ### [Ts-213](/ts-213/#727r.1) <span class="fac">[727r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/727r.webp)</span> {#ts-213-727r1}
 
-<span class="series-number">39.</span> _**Allgemeinheit in der Arithmetik**_
+<span class="series-number">39</span> _**Allgemeinheit in der Arithmetik**_
 
 ### [Ts-213](/ts-213/#726r.1) <span class="fac">[726r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/726r.webp)</span> {#ts-213-726r1}
 
@@ -4039,7 +4039,7 @@ Wie ein Satz verifiziert wird, das sagt er. Vergleiche die Allgemeinheit in der 
 
 ### [Ts-213](/ts-213/#738r.1) <span class="fac">[738r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/738r.webp)</span> {#ts-213-738r1}
 
-<span class="series-number">40.</span> _**Zur Mengenlehre**_
+<span class="series-number">40</span> _**Zur Mengenlehre**_
 
 ### [Ts-213](/ts-213/#738r.2) <span class="fac">[738r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/738r.webp)</span> {#ts-213-738r2}
 
@@ -4183,7 +4183,7 @@ Die Mengenlehre, wenn sie sich auf die menschliche Unmöglichkeit eines direkten
 
 ### [Ts-213](/ts-213/#751r.1) <span class="fac">[751r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/751r.webp)</span> {#ts-213-751r1}
 
-<span class="series-number">41.</span> _**Extensive Auffassung der reellen Zahlen.**_
+<span class="series-number">41</span> _**Extensive Auffassung der reellen Zahlen.**_
 
 ### [Ts-213](/ts-213/#751r.2) <span class="fac">[751r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/751r.webp)</span> {#ts-213-751r2}
 
@@ -4239,7 +4239,7 @@ Durch die falsche Auffassung des Wortes “unendlich” und der Rolle der “une
 
 ### [Ts-213](/ts-213/#756r.1) <span class="fac">[756r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/756r.webp)</span> {#ts-213-756r1}
 
-<span class="series-number">42.</span> _**Arten irrationaler Zahlen.**_
+<span class="series-number">42</span> _**Arten irrationaler Zahlen.**_
 
 _(π', P, F)_
 
@@ -4325,7 +4325,7 @@ Könnten die Berechnungen eines Ingenieurs ergeben, daß die Stärke eines Masch
 
 ### [Ts-213](/ts-213/#766r.1) <span class="fac">[766r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/766r.webp)</span> {#ts-213-766r1}
 
-<span class="series-number">43.</span> _**Regellose unendliche Dezimalzahl.**_
+<span class="series-number">43</span> _**Regellose unendliche Dezimalzahl.**_
 
 ### [Ts-213](/ts-213/#766r.2) <span class="fac">[766r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/766r.webp)</span> {#ts-213-766r2}
 

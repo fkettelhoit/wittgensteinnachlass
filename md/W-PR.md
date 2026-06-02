@@ -194,7 +194,7 @@ Ich möchte sagen „dies Buch sei zur Ehre Gottes geschrieben”, aber das wär
 
 ### [Ts-209](/ts-209/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/1.webp)</span> {#ts-209-11}
 
-<span class="series-number">1.</span> Der Satz ist vollkommen logisch analysiert, dessen Grammatik vollkommen klargelegt ist. Er mag in welcher Ausdrucksweise immer hingeschrieben oder ausgesprochen sein.
+<span class="series-number">1</span> Der Satz ist vollkommen logisch analysiert, dessen Grammatik vollkommen klargelegt ist. Er mag in welcher Ausdrucksweise immer hingeschrieben oder ausgesprochen sein.
 
 ### [Ts-209](/ts-209/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/1.webp)</span> {#ts-209-12}
 
@@ -230,11 +230,11 @@ Was Mach ein Gedankenexperiment nennt, ist natürlich gar kein Experiment. Im Gr
 
 ### [Ts-209](/ts-209/#1.10) <span class="fac">[1\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/1.webp)</span> {#ts-209-110}
 
-<span class="series-number">2.</span> Warum ist die Philosophie so kompliziert? Sie sollte doch _ganz_ einfach sein. – Die Philosophie löst die Knoten in unserem Denken auf, die wir unsinnigerweise hineingemacht haben; dazu muß sie aber ebenso komplizierte Bewegungen machen, wie diese Knoten sind. Obwohl also das _Resultat_ der Philosophie einfach ist, kann es nicht ihre Methode sein, dazu zu gelangen. Die Komplexität der Philosophie ist nicht die ihrer Materie, sondern, die unseres verknoteten Verstandes.
+<span class="series-number">2</span> Warum ist die Philosophie so kompliziert? Sie sollte doch _ganz_ einfach sein. – Die Philosophie löst die Knoten in unserem Denken auf, die wir unsinnigerweise hineingemacht haben; dazu muß sie aber ebenso komplizierte Bewegungen machen, wie diese Knoten sind. Obwohl also das _Resultat_ der Philosophie einfach ist, kann es nicht ihre Methode sein, dazu zu gelangen. Die Komplexität der Philosophie ist nicht die ihrer Materie, sondern, die unseres verknoteten Verstandes.
 
 ### [Ts-209](/ts-209/#2.1) <span class="fac">[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/2.webp)</span> {#ts-209-21}
 
-<span class="series-number">3.</span> Wie seltsam, wenn sich die Logik mit einer “idealen” Sprache befaßte, und nicht mit _unserer_. Denn was sollte diese ideale Sprache ausdrücken? Doch wohl das, was wir jetzt in unserer gewöhnlichen Sprache ausdrücken; dann muß die Logik also diese untersuchen. Oder etwas anderes: aber wie soll ich dann überhaupt wissen, was das ist. – Die logische Analyse ist die Analyse von etwas was wir haben, nicht von etwas, was wir nicht haben. Sie ist also die Analyse der Sätze _wie sie sind_. (Es wäre seltsam, wenn die menschliche Gesellschaft bis jetzt gesprochen hätte, ohne einen richtigen Satz zusammenzubringen).
+<span class="series-number">3</span> Wie seltsam, wenn sich die Logik mit einer “idealen” Sprache befaßte, und nicht mit _unserer_. Denn was sollte diese ideale Sprache ausdrücken? Doch wohl das, was wir jetzt in unserer gewöhnlichen Sprache ausdrücken; dann muß die Logik also diese untersuchen. Oder etwas anderes: aber wie soll ich dann überhaupt wissen, was das ist. – Die logische Analyse ist die Analyse von etwas was wir haben, nicht von etwas, was wir nicht haben. Sie ist also die Analyse der Sätze _wie sie sind_. (Es wäre seltsam, wenn die menschliche Gesellschaft bis jetzt gesprochen hätte, ohne einen richtigen Satz zusammenzubringen).
 
 ### [Ts-209](/ts-209/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/2.webp)</span> {#ts-209-22}
 
@@ -246,7 +246,7 @@ Die Wörter “Farbe”, “Ton”, “Zahl”, etc. können in den Kapitelüber
 
 ### [Ts-209](/ts-209/#2.4) <span class="fac">[2\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/2.webp)</span> {#ts-209-24}
 
-<span class="series-number">4.</span> Ist nicht die Harmonielehre wenigstens teilweise Phänomenologie, also Grammatik? Die Harmonielehre ist nicht Geschmacksache.
+<span class="series-number">4</span> Ist nicht die Harmonielehre wenigstens teilweise Phänomenologie, also Grammatik? Die Harmonielehre ist nicht Geschmacksache.
 
 ### [Ts-209](/ts-209/#2.5) <span class="fac">[2\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/2.webp)</span> {#ts-209-25}
 
@@ -258,7 +258,7 @@ Daß es unsinnig ist, von einer Farbe zu sagen, sie sei eine Terz höher als ein
 
 ### [Ts-209](/ts-209/#2.7) <span class="fac">[2\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/2.webp)</span> {#ts-209-27}
 
-<span class="series-number">5.</span> Willkürlichkeit des sprachlichen Ausdrucks: Könnte man sagen: Das Kind muß das Sprechen einer bestimmten Sprache zwar lernen, aber nicht das Denken, d.h. es würde von selber denken, auch ohne eine Sprache zu lernen? Ich meine aber, wenn es denkt, so macht es sich eben Bilder und diese sind in einem gewissen Sinne willkürlich, insofern nämlich, als andere Bilder denselben Dienst geleistet hätten. Und andererseits ist ja die Sprache auch natürlich entstanden, d.h., es muß wohl einen ersten Menschen gegeben haben, der einen bestimmten Gedanken zum ersten Mal in gesprochenen Worten ausgedrückt hat. Und übrigens ist das Ganze gleichgültig, weil jedes Kind, das sie Sprache lernt, sie nur in dieser Weise lernt, daß es anfängt in ihr zu denken. Plötzlich anfängt; ich meine: Es gibt kein Vorstadium, in welchem das Kind die Sprache zwar schon gebraucht, sozusagen zur Verständigung gebraucht, aber noch nicht in ihr denkt.
+<span class="series-number">5</span> Willkürlichkeit des sprachlichen Ausdrucks: Könnte man sagen: Das Kind muß das Sprechen einer bestimmten Sprache zwar lernen, aber nicht das Denken, d.h. es würde von selber denken, auch ohne eine Sprache zu lernen? Ich meine aber, wenn es denkt, so macht es sich eben Bilder und diese sind in einem gewissen Sinne willkürlich, insofern nämlich, als andere Bilder denselben Dienst geleistet hätten. Und andererseits ist ja die Sprache auch natürlich entstanden, d.h., es muß wohl einen ersten Menschen gegeben haben, der einen bestimmten Gedanken zum ersten Mal in gesprochenen Worten ausgedrückt hat. Und übrigens ist das Ganze gleichgültig, weil jedes Kind, das sie Sprache lernt, sie nur in dieser Weise lernt, daß es anfängt in ihr zu denken. Plötzlich anfängt; ich meine: Es gibt kein Vorstadium, in welchem das Kind die Sprache zwar schon gebraucht, sozusagen zur Verständigung gebraucht, aber noch nicht in ihr denkt.
 
 ### [Ts-209](/ts-209/#2.8) <span class="fac">[2\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/2.webp)</span> {#ts-209-28}
 
@@ -266,11 +266,11 @@ Gewiß geht das Denken der gewöhnlichen Menschen in einer Mischung von Symbolen
 
 ### [Ts-209](/ts-209/#3.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/3.webp)</span> {#ts-209-31}
 
-<span class="series-number">6.</span> Wenn ich einem Menschen die Bedeutung eines Wortes “A” erkläre, indem ich sage “dies ist A” und auf etwas hinzeige, so kann dieser Ausdruck in zweierlei Weise gemeint sein. Entweder er ist selber schon ein Satz und kann dann erst verstanden werden, wenn die Bedeutung von A bereits bekannt ist. D.h., ich kann es nur dem Schicksal überlassen, ob der Andere den Satz nun so auffaßt, wie ich ihn meine, oder nicht. Oder, der Satz ist eine Definition. Ich hätte jemanden etwa gesagt “A ist krank”, er wüßte aber nicht, wen ich mit A meine und nun zeigte ich auf einen Menschen und sagte “dies ist A”. Nun ist der Ausdruck eine Definition, aber diese kann nur verstanden werden, wenn die Art des Gegenstandes bereits durch den grammatisch verstandenen Satz “A ist krank” bekannt war. D.h. aber, daß jede Art des Verständlichmachens einer Sprache schon eine Sprache voraussetzt. Und die Benützung der Sprache in einem gewissen Sinne nicht zu lehren ist. D.h. nicht durch die Sprache zu lehren, wie man etwa Klavierspielen durch die Sprache lernen kann. – D.h. ja nichts anderes als: Ich kann mit der Sprache nicht aus der Sprache heraus.
+<span class="series-number">6</span> Wenn ich einem Menschen die Bedeutung eines Wortes “A” erkläre, indem ich sage “dies ist A” und auf etwas hinzeige, so kann dieser Ausdruck in zweierlei Weise gemeint sein. Entweder er ist selber schon ein Satz und kann dann erst verstanden werden, wenn die Bedeutung von A bereits bekannt ist. D.h., ich kann es nur dem Schicksal überlassen, ob der Andere den Satz nun so auffaßt, wie ich ihn meine, oder nicht. Oder, der Satz ist eine Definition. Ich hätte jemanden etwa gesagt “A ist krank”, er wüßte aber nicht, wen ich mit A meine und nun zeigte ich auf einen Menschen und sagte “dies ist A”. Nun ist der Ausdruck eine Definition, aber diese kann nur verstanden werden, wenn die Art des Gegenstandes bereits durch den grammatisch verstandenen Satz “A ist krank” bekannt war. D.h. aber, daß jede Art des Verständlichmachens einer Sprache schon eine Sprache voraussetzt. Und die Benützung der Sprache in einem gewissen Sinne nicht zu lehren ist. D.h. nicht durch die Sprache zu lehren, wie man etwa Klavierspielen durch die Sprache lernen kann. – D.h. ja nichts anderes als: Ich kann mit der Sprache nicht aus der Sprache heraus.
 
 ### [Ts-209](/ts-209/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/3.webp)</span> {#ts-209-32}
 
-<span class="series-number">7.</span> Die Grammatik ist eine “theory of logical types”.
+<span class="series-number">7</span> Die Grammatik ist eine “theory of logical types”.
 
 ### [Ts-209](/ts-209/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/3.webp)</span> {#ts-209-33}
 
@@ -286,7 +286,7 @@ Die Möglichkeit der Erklärung dieser Dinge beruht immer darauf, daß der Ander
 
 ### [Ts-209](/ts-209/#3.6) <span class="fac">[3\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/3.webp)</span> {#ts-209-36}
 
-<span class="series-number">8.</span> Kann jemand glauben, es habe Sinn zu sagen: “Das ist kein Lärm, sondern eine Farbe”?
+<span class="series-number">8</span> Kann jemand glauben, es habe Sinn zu sagen: “Das ist kein Lärm, sondern eine Farbe”?
 
 ### [Ts-209](/ts-209/#3.7) <span class="fac">[3\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/3.webp)</span> {#ts-209-37}
 
@@ -294,15 +294,15 @@ Andererseits kann man freilich nicht sagen: “Was mich nervös macht, ist nicht
 
 ### [Ts-209](/ts-209/#3.8) <span class="fac">[3\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/3.webp)</span> {#ts-209-38}
 
-<span class="series-number">9.</span> Auf die Frage, ob die Philosophen bisher immer Unsinn geredet haben, könnte man antworten: nein, sie haben nur nicht gemerkt, daß sie ein Wort in ganz verschiedenen Bedeutungen gebrauchen. In diesem Sinne ist es nicht unbedingt Unsinn zu sagen, ein Ding sei so identisch wie das andere, denn wer das mit Überzeugung sagt, meint in diesem Augenblick etwas mit dem Wort “identisch” (vielleicht “groß”), aber er weiß nicht, daß er hier das Wort in anderer Bedeutung gebraucht als es in 2 + 2 = 4 gebraucht ist.
+<span class="series-number">9</span> Auf die Frage, ob die Philosophen bisher immer Unsinn geredet haben, könnte man antworten: nein, sie haben nur nicht gemerkt, daß sie ein Wort in ganz verschiedenen Bedeutungen gebrauchen. In diesem Sinne ist es nicht unbedingt Unsinn zu sagen, ein Ding sei so identisch wie das andere, denn wer das mit Überzeugung sagt, meint in diesem Augenblick etwas mit dem Wort “identisch” (vielleicht “groß”), aber er weiß nicht, daß er hier das Wort in anderer Bedeutung gebraucht als es in 2 + 2 = 4 gebraucht ist.
 
 ### [Ts-209](/ts-209/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/4.webp)</span> {#ts-209-41}
 
-<span class="series-number">10.</span> Wenn man die Sätze als Vorschriften auffaßt, um Modelle zu bilden, wird ihre Bildhaftigkeit noch deutlicher. Denn, damit das Wort meine Hand lenken kann, _muß_ es die Mannigfaltigkeit der gewünschten Tätigkeit haben. Und das muß auch das Wesen des negativen Satzes erklären. So könnte einer z.B. das Verständnis des Satzes “das Buch ist nicht rot” dadurch zeigen, daß er bei der Anfertigung eines Modells die rote Farbe wegwirft. Das und Ähnliches würde auch zeigen, wie der negative Satz die Mannigfaltigkeit des verneinten Satzes hat und nicht _der_ Sätze, die etwa an dessen Statt wahr sein könnten.
+<span class="series-number">10</span> Wenn man die Sätze als Vorschriften auffaßt, um Modelle zu bilden, wird ihre Bildhaftigkeit noch deutlicher. Denn, damit das Wort meine Hand lenken kann, _muß_ es die Mannigfaltigkeit der gewünschten Tätigkeit haben. Und das muß auch das Wesen des negativen Satzes erklären. So könnte einer z.B. das Verständnis des Satzes “das Buch ist nicht rot” dadurch zeigen, daß er bei der Anfertigung eines Modells die rote Farbe wegwirft. Das und Ähnliches würde auch zeigen, wie der negative Satz die Mannigfaltigkeit des verneinten Satzes hat und nicht _der_ Sätze, die etwa an dessen Statt wahr sein könnten.
 
 ### [Ts-209](/ts-209/#4.2) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/4.webp)</span> {#ts-209-42}
 
-<span class="series-number">11.</span> Was heißt es, zu sagen “ich sehe zwar kein Rot, aber wenn du mir einen Farbenkasten gibst, so kann ich es dir darin zeigen”? Wie kann man _wissen_, daß man es zeigen kann, wenn …; daß man es also erkennen kann, wenn man es sieht? Was hier gemeint ist, könnte zweierlei Art sein: Es könnte die Erwartung ausgesprochen sein, daß ich es erkennen werde, wenn es mir gezeigt wird, in dem Sinne, wie ich erwarte Kopfschmerzen zu bekommen, wenn ich einen Schlag auf den Kopf erhalte; das ist dann sozusagen eine physikalische Erwartung, mit derselben Basis, wie alle Erwartungen, die sich auf das Eintreffen physikalischer Ereignisse beziehen. – Oder aber es handelt sich gar nicht um die Erwartung eines physikalischen Ereignisses, und daher kann dann auch mein Satz durch das eventuelle Ausbleiben dieses Ereignisses nicht falsifiziert werden. Sondern der Satz sagt gleichsam, daß ich ein Urbild besitze, mit dem ich die Farbe jederzeit vergleichen könnte (und diese Möglichkeit ist eine logische Möglichkeit).
+<span class="series-number">11</span> Was heißt es, zu sagen “ich sehe zwar kein Rot, aber wenn du mir einen Farbenkasten gibst, so kann ich es dir darin zeigen”? Wie kann man _wissen_, daß man es zeigen kann, wenn …; daß man es also erkennen kann, wenn man es sieht? Was hier gemeint ist, könnte zweierlei Art sein: Es könnte die Erwartung ausgesprochen sein, daß ich es erkennen werde, wenn es mir gezeigt wird, in dem Sinne, wie ich erwarte Kopfschmerzen zu bekommen, wenn ich einen Schlag auf den Kopf erhalte; das ist dann sozusagen eine physikalische Erwartung, mit derselben Basis, wie alle Erwartungen, die sich auf das Eintreffen physikalischer Ereignisse beziehen. – Oder aber es handelt sich gar nicht um die Erwartung eines physikalischen Ereignisses, und daher kann dann auch mein Satz durch das eventuelle Ausbleiben dieses Ereignisses nicht falsifiziert werden. Sondern der Satz sagt gleichsam, daß ich ein Urbild besitze, mit dem ich die Farbe jederzeit vergleichen könnte (und diese Möglichkeit ist eine logische Möglichkeit).
 
 ### [Ts-209](/ts-209/#4.3) <span class="fac">[4\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/4.webp)</span> {#ts-209-43}
 
@@ -314,7 +314,7 @@ Die Sätze unserer Grammatik haben immer die Art physikalischer Sätze und nicht
 
 ### [Ts-209](/ts-209/#4.7) <span class="fac">[4\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/4.webp)</span> {#ts-209-47}
 
-<span class="series-number">12.</span> Eine naive Auffassung der Bedeutung eines Worts ist es, daß man sich beim Hören oder Lesen des Wortes dessen Bedeutung “vorstellt”. Und für dieses Vorstellen gilt auch wirklich die gleiche Frage, wie für das Bedeuten eines Wortes. Denn wenn man sich z.B. als Farbe himmelblau vorstellt, und das Wiedererkennen und Suchen der Farbe, soll sich auf diese Vorstellung gründen, so muß man doch sagen, daß die Vorstellung von der Farbe nicht identisch ist mit der wirklich gesehenen Farbe; und wie kann nun ein Vergleich vor sich gehen?
+<span class="series-number">12</span> Eine naive Auffassung der Bedeutung eines Worts ist es, daß man sich beim Hören oder Lesen des Wortes dessen Bedeutung “vorstellt”. Und für dieses Vorstellen gilt auch wirklich die gleiche Frage, wie für das Bedeuten eines Wortes. Denn wenn man sich z.B. als Farbe himmelblau vorstellt, und das Wiedererkennen und Suchen der Farbe, soll sich auf diese Vorstellung gründen, so muß man doch sagen, daß die Vorstellung von der Farbe nicht identisch ist mit der wirklich gesehenen Farbe; und wie kann nun ein Vergleich vor sich gehen?
 
 ### [Ts-209](/ts-209/#4.8) <span class="fac">[4\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/4.webp)</span> {#ts-209-48}
 
@@ -326,7 +326,7 @@ Wenn man sagt: Nur im Satzzusammenhang hat ein Wort Bedeutung, so heißt das, da
 
 ### [Ts-209](/ts-209/#5.2) <span class="fac">[5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/5.webp)</span> {#ts-209-52}
 
-<span class="series-number">13.</span> Die Sprache muß von der Mannigfaltigkeit eines Stellwerks sein, das die Handlungen veranlaßt, die ihren Sätzen entsprechen.
+<span class="series-number">13</span> Die Sprache muß von der Mannigfaltigkeit eines Stellwerks sein, das die Handlungen veranlaßt, die ihren Sätzen entsprechen.
 
 ### [Ts-209](/ts-209/#5.3) <span class="fac">[5\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/5.webp)</span> {#ts-209-53}
 
@@ -338,7 +338,7 @@ Wie in einem Stellwerk mit Handgriffen die verschiedensten Dinge ausgeführt wer
 
 ### [Ts-209](/ts-209/#5.7) <span class="fac">[5\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/5.webp)</span> {#ts-209-57}
 
-<span class="series-number">14.</span> Ein Wort hat nur im Satzverband Bedeutung: das ist, wie wenn man sagen würde, ein Stab ist erst in Gebrauch ein Hebel. Erst die Anwendung macht ihn zum Hebel.
+<span class="series-number">14</span> Ein Wort hat nur im Satzverband Bedeutung: das ist, wie wenn man sagen würde, ein Stab ist erst in Gebrauch ein Hebel. Erst die Anwendung macht ihn zum Hebel.
 
 ### [Ts-209](/ts-209/#5.8) <span class="fac">[5\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/5.webp)</span> {#ts-209-58}
 
@@ -346,7 +346,7 @@ Jede Vorschrift kann als Beschreibung, jede Beschreibung als Vorschrift aufgefa�
 
 ### [Ts-209](/ts-209/#5.9) <span class="fac">[5\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/5.webp)</span> {#ts-209-59}
 
-<span class="series-number">15.</span> Was heißt es einen Satz als _ein_ Glied eines Systems von Sätzen zu verstehen? (Es ist, als sollte ich sagen: Die Anwendung eines Wortes geht nicht in einem Moment vor sich, so wenig wie die eines Hebels).
+<span class="series-number">15</span> Was heißt es einen Satz als _ein_ Glied eines Systems von Sätzen zu verstehen? (Es ist, als sollte ich sagen: Die Anwendung eines Wortes geht nicht in einem Moment vor sich, so wenig wie die eines Hebels).
 
 ### [Ts-209](/ts-209/#5.10) <span class="fac">[5\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/5.webp)</span> {#ts-209-510}
 
@@ -362,7 +362,7 @@ Die Logik kann aber nicht die Naturgeschichte des Gebrauchs eines Wortes angehen
 
 ### [Ts-209](/ts-209/#6.3) <span class="fac">[6\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/6.webp)</span> {#ts-209-63}
 
-<span class="series-number">16.</span> Wenn ich ein Ereignis erwarte und es kommt dasjenige, welches meine Erwartung erfüllt, hat es dann einen Sinn zu fragen, ob das wirklich das Ereignis ist, welches ich erwartet habe. D.h., wie würde ein Satz, der das behauptet, verifiziert werden? Es ist klar, daß die _einzige_ Quelle meines Wissens hier der Vergleich des _Ausdrucks_ meiner Erwartung mit dem eingetroffenen Ereignis ist. Wie weiß ich, daß die Farbe dieses Papiers, die ich “weiß” nenne, dieselbe ist, wie die, die ich gestern hier gesehen habe? Dadurch, daß ich sie wiedererkenne; und dieses Wiedererkennen ist meine einzige Quelle für dieses Wissen. Dann _bedeutet_ “daß sie dieselbe ist”, daß ich sie wiedererkenne. Man kann dann auch nicht fragen, ob sie wohl die gleiche ist und ich mich nicht vielleicht täusche (ob sie die gleiche _ist_ und nicht etwa nur _scheint_.)
+<span class="series-number">16</span> Wenn ich ein Ereignis erwarte und es kommt dasjenige, welches meine Erwartung erfüllt, hat es dann einen Sinn zu fragen, ob das wirklich das Ereignis ist, welches ich erwartet habe. D.h., wie würde ein Satz, der das behauptet, verifiziert werden? Es ist klar, daß die _einzige_ Quelle meines Wissens hier der Vergleich des _Ausdrucks_ meiner Erwartung mit dem eingetroffenen Ereignis ist. Wie weiß ich, daß die Farbe dieses Papiers, die ich “weiß” nenne, dieselbe ist, wie die, die ich gestern hier gesehen habe? Dadurch, daß ich sie wiedererkenne; und dieses Wiedererkennen ist meine einzige Quelle für dieses Wissen. Dann _bedeutet_ “daß sie dieselbe ist”, daß ich sie wiedererkenne. Man kann dann auch nicht fragen, ob sie wohl die gleiche ist und ich mich nicht vielleicht täusche (ob sie die gleiche _ist_ und nicht etwa nur _scheint_.)
 
 ### [Ts-209](/ts-209/#6.4) <span class="fac">[6\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/6.webp)</span> {#ts-209-64}
 
@@ -374,11 +374,11 @@ Aus derselben Quelle fließt nur _Eines_.
 
 ### [Ts-209](/ts-209/#6.6) <span class="fac">[6\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/6.webp)</span> {#ts-209-66}
 
-<span class="series-number">17.</span> Ist es ein Einwand gegen meine Auffassung, daß wir oft halb oder gar ganz automatisch sprechen? Wenn mich jemand fragt “ist der Vorhang in diesem Zimmer grün” und ich schaue hin und sage “nein, rot”, so ist es gewiß nicht nötig, daß ich grün halluziniere und es etwa mit dem Vorhang vergleiche. Ja, das Ansehen des Vorhangs kann jene Antwort sehr wohl automatisch hervorbringen und doch interessiert diese Antwort die Logik, dagegen interessiert sie kein Pfiff, den ich etwa auch beim Sehen von Rot automatisch hervorbringe. Ist es nicht so, daß sich die Logik für diese Antwort nur als einen Teil eines Sprachsystems interessiert? Das System in dem unsere Bücher geschrieben sind. Kann man sagen, daß die Logik die Sprache in extenso betrachtet? Also so, wie die Grammatik. Kann man denn sagen, da die Logik mit jener Äußerung, wenn sie bloß automatisch war, eben nichts zu tun hat? Soll sich denn die Logik darum kümmern, ob der Satz auch wirklich gründlich _gedacht_ war? Und welches Kriterium hätte man dafür? Doch nicht gar das lebhafte Spiel der Vorstellungen, die das Aussprechen des Satzes begleiten! Es ist klar, wir sind hier in einem Gebiet, das uns gar nichts angeht und aus dem wir schleunigst requirieren sollen.
+<span class="series-number">17</span> Ist es ein Einwand gegen meine Auffassung, daß wir oft halb oder gar ganz automatisch sprechen? Wenn mich jemand fragt “ist der Vorhang in diesem Zimmer grün” und ich schaue hin und sage “nein, rot”, so ist es gewiß nicht nötig, daß ich grün halluziniere und es etwa mit dem Vorhang vergleiche. Ja, das Ansehen des Vorhangs kann jene Antwort sehr wohl automatisch hervorbringen und doch interessiert diese Antwort die Logik, dagegen interessiert sie kein Pfiff, den ich etwa auch beim Sehen von Rot automatisch hervorbringe. Ist es nicht so, daß sich die Logik für diese Antwort nur als einen Teil eines Sprachsystems interessiert? Das System in dem unsere Bücher geschrieben sind. Kann man sagen, daß die Logik die Sprache in extenso betrachtet? Also so, wie die Grammatik. Kann man denn sagen, da die Logik mit jener Äußerung, wenn sie bloß automatisch war, eben nichts zu tun hat? Soll sich denn die Logik darum kümmern, ob der Satz auch wirklich gründlich _gedacht_ war? Und welches Kriterium hätte man dafür? Doch nicht gar das lebhafte Spiel der Vorstellungen, die das Aussprechen des Satzes begleiten! Es ist klar, wir sind hier in einem Gebiet, das uns gar nichts angeht und aus dem wir schleunigst requirieren sollen.
 
 ### [Ts-209](/ts-209/#6.7) <span class="fac">[6\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/6.webp)</span> {#ts-209-67}
 
-<span class="series-number">18.</span> Hier kommen wir zu der scheinbar trivialen Frage, was die Logik unter einem Wort versteht, ob den Tintenstrich, die Lautfolge, ob es nötig ist, daß jemand damit einen Sinn verbindet, oder verbunden hat, etc. etc. – Und hier muß offenbar die roheste Auffassung die einzig richtige sein. Ich werde also wieder von “_Büchern_” reden; hier haben wir Worte; sollte einmal irgend ein Strich vorkommen, der aussieht wie ein Wort, so werde ich sagen: Das ist kein Wort, es schaut nur so aus, es war offenbar nicht beabsichtigt. Man kann das nur vom Standpunkt des gesunden Menschenverstandes behandeln. (Es ist merkwürdig, daß eben darin ein Wandel der Auffassung liegt.)
+<span class="series-number">18</span> Hier kommen wir zu der scheinbar trivialen Frage, was die Logik unter einem Wort versteht, ob den Tintenstrich, die Lautfolge, ob es nötig ist, daß jemand damit einen Sinn verbindet, oder verbunden hat, etc. etc. – Und hier muß offenbar die roheste Auffassung die einzig richtige sein. Ich werde also wieder von “_Büchern_” reden; hier haben wir Worte; sollte einmal irgend ein Strich vorkommen, der aussieht wie ein Wort, so werde ich sagen: Das ist kein Wort, es schaut nur so aus, es war offenbar nicht beabsichtigt. Man kann das nur vom Standpunkt des gesunden Menschenverstandes behandeln. (Es ist merkwürdig, daß eben darin ein Wandel der Auffassung liegt.)
 
 ### [Ts-209](/ts-209/#7.1) <span class="fac">[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/7.webp)</span> {#ts-209-71}
 
@@ -390,7 +390,7 @@ Die Frage “was ist ein Wort” ist ganz analog der “was ist eine Schachfigur
 
 ### [Ts-209](/ts-209/#7.3) <span class="fac">[7\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/7.webp)</span> {#ts-209-73}
 
-<span class="series-number">19.</span> Ist denn nicht Übereinstimmung und Nicht-Übereinstimmung das Primäre, so wie das Wiedererkennen das Primäre und die Identität das Sekundäre ist? Wenn wir den Satz verifiziert sehen, an welche andere Instanz können wir dann noch appellieren, um zu wissen, ob er nun wirklich wahr ist?
+<span class="series-number">19</span> Ist denn nicht Übereinstimmung und Nicht-Übereinstimmung das Primäre, so wie das Wiedererkennen das Primäre und die Identität das Sekundäre ist? Wenn wir den Satz verifiziert sehen, an welche andere Instanz können wir dann noch appellieren, um zu wissen, ob er nun wirklich wahr ist?
 
 ### [Ts-209](/ts-209/#7.4) <span class="fac">[7\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/7.webp)</span> {#ts-209-74}
 
@@ -406,7 +406,7 @@ Wenn ich zwei Farbenflecke nebeneinander sehe und sage, sie sind von der gleiche
 
 ### [Ts-209](/ts-209/#7.7) <span class="fac">[7\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/7.webp)</span> {#ts-209-77}
 
-<span class="series-number">20.</span> Nach einer Beschreibung kann man einen Plan Zeichnen. Man kann die Beschreibung in den Plan übersetzen. Die Regeln dieser Übersetzung sind nicht wesentlich anders, als die Regeln der Übersetzung aus einer Wortsprache in eine andere.
+<span class="series-number">20</span> Nach einer Beschreibung kann man einen Plan Zeichnen. Man kann die Beschreibung in den Plan übersetzen. Die Regeln dieser Übersetzung sind nicht wesentlich anders, als die Regeln der Übersetzung aus einer Wortsprache in eine andere.
 
 ### [Ts-209](/ts-209/#7.8) <span class="fac">[7\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/7.webp)</span> {#ts-209-78}
 
@@ -418,7 +418,7 @@ Wenn man das Element der Intention aus der Sprache entfernt, so bricht damit ihr
 
 ### [Ts-209](/ts-209/#7.10) <span class="fac">[7\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/7.webp)</span> {#ts-209-710}
 
-<span class="series-number">21.</span> Das Wesentliche an der Intention, an der Absicht ist das Bild. Das Bild des Beabsichtigten.
+<span class="series-number">21</span> Das Wesentliche an der Intention, an der Absicht ist das Bild. Das Bild des Beabsichtigten.
 
 ### [Ts-209](/ts-209/#8.1) <span class="fac">[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/8.webp)</span> {#ts-209-81}
 
@@ -430,7 +430,7 @@ Die Kausalität zwischen Sprache und Handlung ist eine externe Relation, währen
 
 ### [Ts-209](/ts-209/#8.3) <span class="fac">[8\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/8.webp)</span> {#ts-209-83}
 
-<span class="series-number">22.</span> Ich glaube, Russells Theorie käme auf Folgendes hinaus: Wenn ich jemandem einen Befehl gebe und, was er darauf tut, mir Freude macht, so hat er den Befehl ausgeführt. (Wenn ich einen Apfel essen wollte und mir einer einen Schlag auf den Magen versetzt, so daß mir die Lust zu essen vergeht, dann war es dieser Schlag, den ich ursprünglich wünschte.)
+<span class="series-number">22</span> Ich glaube, Russells Theorie käme auf Folgendes hinaus: Wenn ich jemandem einen Befehl gebe und, was er darauf tut, mir Freude macht, so hat er den Befehl ausgeführt. (Wenn ich einen Apfel essen wollte und mir einer einen Schlag auf den Magen versetzt, so daß mir die Lust zu essen vergeht, dann war es dieser Schlag, den ich ursprünglich wünschte.)
 
 ### [Ts-209](/ts-209/#8.4) <span class="fac">[8\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/8.webp)</span> {#ts-209-84}
 
@@ -442,7 +442,7 @@ So könnte ich natürlich nach der Russell'schen Theorie es gar nicht ausdrücke
 
 ### [Ts-209](/ts-209/#8.6) <span class="fac">[8\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/8.webp)</span> {#ts-209-86}
 
-<span class="series-number">23.</span> Wenn man nun sagt: Bilder kämen zwar vor, aber sie seien nicht das Regelmäßige; wie seltsam, wenn sie nun aber einmal da sind und nun ein Widerstreit der beiden Kriterien von wahr und falsch entstünde. Zu wessen Gunsten sollte entschieden werden?
+<span class="series-number">23</span> Wenn man nun sagt: Bilder kämen zwar vor, aber sie seien nicht das Regelmäßige; wie seltsam, wenn sie nun aber einmal da sind und nun ein Widerstreit der beiden Kriterien von wahr und falsch entstünde. Zu wessen Gunsten sollte entschieden werden?
 
 ### [Ts-209](/ts-209/#8.7) <span class="fac">[8\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/8.webp)</span> {#ts-209-87}
 
@@ -462,7 +462,7 @@ Das Vergleichen ist es, was in der Russell'schen Theorie nicht vorkommt. Und das
 
 ### [Ts-209](/ts-209/#9.2) <span class="fac">[9\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/9.webp)</span> {#ts-209-92}
 
-<span class="series-number">24.</span> Wie ist das Bild gemeint? Die Intention liegt nie im Bild selbst, denn, wie immer das Bild beschaffen ist, immer kann es auf verschiedene Weise gemeint sein. Das sagt aber nicht, daß, wie das Bild gemeint ist, sich erst zeigen wird, wenn eine bestimmte Reaktion eingetreten sein wird, denn die Intention drückt sich schon jetzt darin aus, wie ich das Bild _jetzt_ mit der Wirklichkeit vergleiche.
+<span class="series-number">24</span> Wie ist das Bild gemeint? Die Intention liegt nie im Bild selbst, denn, wie immer das Bild beschaffen ist, immer kann es auf verschiedene Weise gemeint sein. Das sagt aber nicht, daß, wie das Bild gemeint ist, sich erst zeigen wird, wenn eine bestimmte Reaktion eingetreten sein wird, denn die Intention drückt sich schon jetzt darin aus, wie ich das Bild _jetzt_ mit der Wirklichkeit vergleiche.
 
 ### [Ts-209](/ts-209/#9.3) <span class="fac">[9\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/9.webp)</span> {#ts-209-93}
 
@@ -478,7 +478,7 @@ Ich erwarte mir, daß der Stab _im selben Sinne_ 2 m hoch sein wird, in dem er j
 
 ### [Ts-209](/ts-209/#9.6) <span class="fac">[9\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/9.webp)</span> {#ts-209-96}
 
-<span class="series-number">25.</span> Die Erfüllung der Erwartung besteht nicht darin, daß ein Drittes geschieht, das man außer eben als “die Erfüllung der Erwartung” auch noch anders beschreiben könnte, also z.B. als ein Gefühl der Befriedigung, oder der Freude, oder wie immer. Denn die Erwartung, daß p der Fall sein wird, muß das Gleiche sein, wie die Erwartung der Erfüllung dieser Erwartung; dagegen wäre, wenn ich unrecht habe, die Erwartung, daß p eintreffen wird, verschieden von der Erwartung, daß die Erfüllung dieser Erwartung eintreffen wird.
+<span class="series-number">25</span> Die Erfüllung der Erwartung besteht nicht darin, daß ein Drittes geschieht, das man außer eben als “die Erfüllung der Erwartung” auch noch anders beschreiben könnte, also z.B. als ein Gefühl der Befriedigung, oder der Freude, oder wie immer. Denn die Erwartung, daß p der Fall sein wird, muß das Gleiche sein, wie die Erwartung der Erfüllung dieser Erwartung; dagegen wäre, wenn ich unrecht habe, die Erwartung, daß p eintreffen wird, verschieden von der Erwartung, daß die Erfüllung dieser Erwartung eintreffen wird.
 
 ### [Ts-209](/ts-209/#9.7) <span class="fac">[9\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/9.webp)</span> {#ts-209-97}
 
@@ -486,7 +486,7 @@ Ist es nicht so, daß meine Theorie ganz darin ausgedrückt ist, daß der Sachve
 
 ### [Ts-209](/ts-209/#9.8) <span class="fac">[9\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/9.webp)</span> {#ts-209-98}
 
-<span class="series-number">26.</span> Ich möchte sagen: Wenn es nur die äußere Verbindung gäbe, so ließe sich gar keine Verbindung beschreiben, denn wir beschreiben die äußere Verbindung nur mit Hilfe der innern. Wenn diese fehlt, so fehlt der Halt, den wir brauchen, um irgend etwas beschreiben zu können. Wie wir nichts mit den Händen bewegen können, wenn wir nicht mit den Füßen feststehen.
+<span class="series-number">26</span> Ich möchte sagen: Wenn es nur die äußere Verbindung gäbe, so ließe sich gar keine Verbindung beschreiben, denn wir beschreiben die äußere Verbindung nur mit Hilfe der innern. Wenn diese fehlt, so fehlt der Halt, den wir brauchen, um irgend etwas beschreiben zu können. Wie wir nichts mit den Händen bewegen können, wenn wir nicht mit den Füßen feststehen.
 
 ### [Ts-209](/ts-209/#9.9) <span class="fac">[9\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/9.webp)</span> {#ts-209-99}
 
@@ -498,7 +498,7 @@ Wenn ich wünsche, daß p der Fall ist, so ist ja nicht p der Fall und in dem Sa
 
 ### [Ts-209](/ts-209/#10.2) <span class="fac">[10\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/10.webp)</span> {#ts-209-102}
 
-<span class="series-number">27.</span> Der Sinn einer Frage ist die Methode ihrer Beantwortung: Was ist darnach der Sinn der Frage “meinen zwei Menschen wirklich dasselbe mit dem Wort ‘weiß’”?
+<span class="series-number">27</span> Der Sinn einer Frage ist die Methode ihrer Beantwortung: Was ist darnach der Sinn der Frage “meinen zwei Menschen wirklich dasselbe mit dem Wort ‘weiß’”?
 
 ### [Ts-209](/ts-209/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/10.webp)</span> {#ts-209-103}
 
@@ -522,7 +522,7 @@ Wenn ich jemandem sage, daß _morgen_ schönes Wetter sein wird, so dokumentiert
 
 ### [Ts-209](/ts-209/#10.8) <span class="fac">[10\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/10.webp)</span> {#ts-209-108}
 
-<span class="series-number">28.</span> Die Erwartung hängt mit dem Suchen zusammen. Das Suchen setzt voraus, daß ich weiß, wonach ich suche, ohne daß, was ich suche wirklich existieren muß. Ich hätte das früher so ausgedrückt, daß das Suchen die Elemente des Komplexes voraussetzt, nicht aber _die_ Kombination, nach der ich suche. Und das ist kein schlechtes Gleichnis. Denn sprachlich drückt sich das so aus, daß der Sinn eines Satzes nur die grammatisch richtige Anwendung gewisser Wörter voraussetzt.
+<span class="series-number">28</span> Die Erwartung hängt mit dem Suchen zusammen. Das Suchen setzt voraus, daß ich weiß, wonach ich suche, ohne daß, was ich suche wirklich existieren muß. Ich hätte das früher so ausgedrückt, daß das Suchen die Elemente des Komplexes voraussetzt, nicht aber _die_ Kombination, nach der ich suche. Und das ist kein schlechtes Gleichnis. Denn sprachlich drückt sich das so aus, daß der Sinn eines Satzes nur die grammatisch richtige Anwendung gewisser Wörter voraussetzt.
 
 ### [Ts-209](/ts-209/#10.9) <span class="fac">[10\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/10.webp)</span> {#ts-209-109}
 
@@ -530,11 +530,11 @@ Wie weiß ich, daß ich _das_ gefunden habe, was ich früher gesucht habe? (Daß
 
 ### [Ts-209](/ts-209/#11.1) <span class="fac">[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/11.webp)</span> {#ts-209-111}
 
-<span class="series-number">29.</span> Das Ereignis, das die Erwartung ersetzt, beantwortet sie; d.h., im Ersetzen besteht die Beantwortung, es kann also keine Frage geben, ob das nun wirklich die Antwort ist. Eine solche Frage, hieße, den _Sinn_ eines Satzes in Frage stellen. “Ich erwarte einen roten Fleck zu sehen” beschreibt – etwa – _meinen gegenwärtigen Geisteszustand_. “Ich sehe einen roten Fleck” beschreibt das erwartete Ereignis; ein ganz anderes Ereignis als das erste. Könnte man nun nicht fragen, ob das Wort “rot” im ersten Fall nicht eine andere Bedeutung hat, als im zweiten? Hat es nicht den Anschein, als wäre der erste Satz eine _Beschreibung_ meines Geisteszustandes mit Zuhilfenahme eines fremden unwesentlichen Ereignisses. Etwa so: Ich befinde mich jetzt in einem erwartenden Zustand, den ich durch die Angabe charakterisiere, daß er durch das Ereignis “ich sehe einen roten Fleck” befriedigt wird. Also, wie wenn ich sagte “Ich habe Hunger und weiß aus Erfahrung, daß ihn der Genuß einer bestimmten Speise stillen wird, oder würde.” So ist es nun aber mit der Erwartung nicht! Die Erwartung ist nicht extern durch die Angabe des Erwarteten beschrieben, wie der Hunger durch die Angabe der ihn stillenden Speise – diese kann ja doch schließlich nur vermutet werden. Sondern die Beschreibung der Erwartung durch das, was sie erwartet, ist eine interne Beschreibung. _So_ wird das Wort “rot” gebraucht, daß es in allen diesen Sätzen fungiert: “ich erwarte, einen roten Fleck zu sehen”, “ich erinnere mich an einen roten Fleck”, “ich fürchte mich vor einem roten Fleck”, etc.
+<span class="series-number">29</span> Das Ereignis, das die Erwartung ersetzt, beantwortet sie; d.h., im Ersetzen besteht die Beantwortung, es kann also keine Frage geben, ob das nun wirklich die Antwort ist. Eine solche Frage, hieße, den _Sinn_ eines Satzes in Frage stellen. “Ich erwarte einen roten Fleck zu sehen” beschreibt – etwa – _meinen gegenwärtigen Geisteszustand_. “Ich sehe einen roten Fleck” beschreibt das erwartete Ereignis; ein ganz anderes Ereignis als das erste. Könnte man nun nicht fragen, ob das Wort “rot” im ersten Fall nicht eine andere Bedeutung hat, als im zweiten? Hat es nicht den Anschein, als wäre der erste Satz eine _Beschreibung_ meines Geisteszustandes mit Zuhilfenahme eines fremden unwesentlichen Ereignisses. Etwa so: Ich befinde mich jetzt in einem erwartenden Zustand, den ich durch die Angabe charakterisiere, daß er durch das Ereignis “ich sehe einen roten Fleck” befriedigt wird. Also, wie wenn ich sagte “Ich habe Hunger und weiß aus Erfahrung, daß ihn der Genuß einer bestimmten Speise stillen wird, oder würde.” So ist es nun aber mit der Erwartung nicht! Die Erwartung ist nicht extern durch die Angabe des Erwarteten beschrieben, wie der Hunger durch die Angabe der ihn stillenden Speise – diese kann ja doch schließlich nur vermutet werden. Sondern die Beschreibung der Erwartung durch das, was sie erwartet, ist eine interne Beschreibung. _So_ wird das Wort “rot” gebraucht, daß es in allen diesen Sätzen fungiert: “ich erwarte, einen roten Fleck zu sehen”, “ich erinnere mich an einen roten Fleck”, “ich fürchte mich vor einem roten Fleck”, etc.
 
 ### [Ts-209](/ts-209/#11.2) <span class="fac">[11\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/11.webp)</span> {#ts-209-112}
 
-<span class="series-number">30.</span> Wenn ich sage “das ist dasselbe Ereignis, welches ich erwartet habe” und “das ist dasselbe Ereignis, was auch an jenem Ort stattgefunden hat”, so bedeutet hier das Wort “dasselbe” jedesmal etwas anderes. (Man würde auch normalerweise nicht sagen “das ist dasselbe, was ich erwartet habe”, sondern “das ist das, was ich erwartet habe”.)
+<span class="series-number">30</span> Wenn ich sage “das ist dasselbe Ereignis, welches ich erwartet habe” und “das ist dasselbe Ereignis, was auch an jenem Ort stattgefunden hat”, so bedeutet hier das Wort “dasselbe” jedesmal etwas anderes. (Man würde auch normalerweise nicht sagen “das ist dasselbe, was ich erwartet habe”, sondern “das ist das, was ich erwartet habe”.)
 
 ### [Ts-209](/ts-209/#11.4) <span class="fac">[11\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/11.webp)</span> {#ts-209-114}
 
@@ -546,7 +546,7 @@ Ist es nicht einfach darum, weil sich die _Erwartung_ desselben Symbols bedient,
 
 ### [Ts-209](/ts-209/#11.6) <span class="fac">[11\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/11.webp)</span> {#ts-209-116}
 
-<span class="series-number">31.</span> Ein anderer psychischer Vorgang, der in unsere Gruppe gehört und mit allen diesen Dingen zusammenhängt, ist die _Absicht_. Man könnte sagen, die Sprache ist wie ein Stellwerk, das mit einer bestimmten _Absicht_ gehandhabt, oder zu einem bestimmten _Zweck_ gebaut ist.
+<span class="series-number">31</span> Ein anderer psychischer Vorgang, der in unsere Gruppe gehört und mit allen diesen Dingen zusammenhängt, ist die _Absicht_. Man könnte sagen, die Sprache ist wie ein Stellwerk, das mit einer bestimmten _Absicht_ gehandhabt, oder zu einem bestimmten _Zweck_ gebaut ist.
 
 ### [Ts-209](/ts-209/#11.7) <span class="fac">[11\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/11.webp)</span> {#ts-209-117}
 
@@ -558,7 +558,7 @@ Wenn eine Vorrichtung als Bremse wirken _soll_, tatsächlich aber aus irgendwelc
 
 ### [Ts-209](/ts-209/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/12.webp)</span> {#ts-209-122}
 
-<span class="series-number">32.</span> Die Erwartung, der Gedanke, der Wunsch, etc. daß p eintreffen wird, nenne ich erst dann so, wenn diese Vorgänge die Multiplizität haben, die sich in p ausdrückt, erst dann also, wenn sie _artikuliert_ sind. Dann aber sind sie das, was ich die Interpretation von Zeichen nenne. Gedanken nenne ich erst den _artikulierten_ Vorgang; man könnte also sagen “erst das, was einen artikulierten Ausdruck hat”. (Die Speichelabsonderung im Mund – auch wenn sie noch so genau gemessen ist – ist _nicht_ das, was ich die Erwartung nenne.)
+<span class="series-number">32</span> Die Erwartung, der Gedanke, der Wunsch, etc. daß p eintreffen wird, nenne ich erst dann so, wenn diese Vorgänge die Multiplizität haben, die sich in p ausdrückt, erst dann also, wenn sie _artikuliert_ sind. Dann aber sind sie das, was ich die Interpretation von Zeichen nenne. Gedanken nenne ich erst den _artikulierten_ Vorgang; man könnte also sagen “erst das, was einen artikulierten Ausdruck hat”. (Die Speichelabsonderung im Mund – auch wenn sie noch so genau gemessen ist – ist _nicht_ das, was ich die Erwartung nenne.)
 
 ### [Ts-209](/ts-209/#12.3) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/12.webp)</span> {#ts-209-123}
 
@@ -566,7 +566,7 @@ Vielleicht muß man sagen, daß der Ausdruck “Interpretation von Symbolen” i
 
 ### [Ts-209](/ts-209/#12.4) <span class="fac">[12\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/12.webp)</span> {#ts-209-124}
 
-<span class="series-number">33.</span> Etwas suchen ist gewiß ein Ausdruck der Erwartung. D.h.: _Wie_ man sucht, drückt irgendwie aus, was man erwartet.
+<span class="series-number">33</span> Etwas suchen ist gewiß ein Ausdruck der Erwartung. D.h.: _Wie_ man sucht, drückt irgendwie aus, was man erwartet.
 
 ### [Ts-209](/ts-209/#12.5) <span class="fac">[12\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/12.webp)</span> {#ts-209-125}
 
@@ -598,7 +598,7 @@ Wäre der Akt der Erwartung nicht mit der Realität verknüpft, so könnte man e
 
 ### [Ts-209](/ts-209/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/13.webp)</span> {#ts-209-132}
 
-<span class="series-number">34.</span> Die Erwartung von p und das Eintreffen von p entsprechen etwa der Hohlform und der Vollform eines Körpers. p entspricht dabei der Gestalt des Volumens und die verschiedenen Arten, wie diese Gestalt gegeben ist, dem Unterschied von Erwartung und Eintreffen.
+<span class="series-number">34</span> Die Erwartung von p und das Eintreffen von p entsprechen etwa der Hohlform und der Vollform eines Körpers. p entspricht dabei der Gestalt des Volumens und die verschiedenen Arten, wie diese Gestalt gegeben ist, dem Unterschied von Erwartung und Eintreffen.
 
 ### [Ts-209](/ts-209/#13.3) <span class="fac">[13\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/13.webp)</span> {#ts-209-133}
 
@@ -610,7 +610,7 @@ Unsere Erwartung antizipiert das Ereignis. Sie macht in diesem Sinne ein Modell 
 
 ### [Ts-209](/ts-209/#13.5) <span class="fac">[13\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/13.webp)</span> {#ts-209-135}
 
-<span class="series-number">35.</span> In der Erwartung ist der Teil, der dem Suchen im Raum entspricht, das Lenken der Aufmerksamkeit.
+<span class="series-number">35</span> In der Erwartung ist der Teil, der dem Suchen im Raum entspricht, das Lenken der Aufmerksamkeit.
 
 ### [Ts-209](/ts-209/#13.6) <span class="fac">[13\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/13.webp)</span> {#ts-209-136}
 
@@ -622,7 +622,7 @@ Könnte man auch sagen: Man kann die Erwartung nicht beschreiben, wenn man die g
 
 ### [Ts-209](/ts-209/#13.8) <span class="fac">[13\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/13.webp)</span> {#ts-209-138}
 
-<span class="series-number">36.</span> Es hat nur dann einen Sinn, die Länge eines Objektes anzugeben, wenn ich eine Methode besitze, dieses Objekt zu finden – denn sonst kann ich den Maßstab nicht anlegen. Das, was ich seinerzeit “Gegenstände” genannt habe, das Einfache, ist einfach das, was ich bezeichnen kann, ohne fürchten zu müssen, daß es vielleicht nicht existiert, d.h. das, wofür es Existenz oder Nicht-Existenz nicht gibt und das heißt das, wovon wir reden können, _was immer der Fall ist_.
+<span class="series-number">36</span> Es hat nur dann einen Sinn, die Länge eines Objektes anzugeben, wenn ich eine Methode besitze, dieses Objekt zu finden – denn sonst kann ich den Maßstab nicht anlegen. Das, was ich seinerzeit “Gegenstände” genannt habe, das Einfache, ist einfach das, was ich bezeichnen kann, ohne fürchten zu müssen, daß es vielleicht nicht existiert, d.h. das, wofür es Existenz oder Nicht-Existenz nicht gibt und das heißt das, wovon wir reden können, _was immer der Fall ist_.
 
 ### [Ts-209](/ts-209/#13.9) <span class="fac">[13\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/13.webp)</span> {#ts-209-139}
 
@@ -634,11 +634,11 @@ Wie, wenn mir jemand sagte “ich erwarte 3 Schläge an die Tür” und ich antw
 
 ### [Ts-209](/ts-209/#14.2) <span class="fac">[14\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/14.webp)</span> {#ts-209-142}
 
-<span class="series-number">37.</span> Ist absolute Stille zu verwechseln mit innerer Taubheit, ich meine der Unbekanntheit mit dem Begriff des Tones? Wenn das der Fall wäre, so könnte man den Mangel des Gehörsinnes nicht von dem Mangel eines andern Sinnes unterscheiden. Ist das aber nicht genau dieselbe Frage wie: Ist der Mann, der jetzt nichts Rotes um sich sieht, in derselben Lage, wie der, der unfähig ist rot zu sehen? Man kann natürlich sagen: Der Eine kann sich rot doch vorstellen, aber das vorgestellte Rot ist ja nicht dasselbe, wie das gesehene.
+<span class="series-number">37</span> Ist absolute Stille zu verwechseln mit innerer Taubheit, ich meine der Unbekanntheit mit dem Begriff des Tones? Wenn das der Fall wäre, so könnte man den Mangel des Gehörsinnes nicht von dem Mangel eines andern Sinnes unterscheiden. Ist das aber nicht genau dieselbe Frage wie: Ist der Mann, der jetzt nichts Rotes um sich sieht, in derselben Lage, wie der, der unfähig ist rot zu sehen? Man kann natürlich sagen: Der Eine kann sich rot doch vorstellen, aber das vorgestellte Rot ist ja nicht dasselbe, wie das gesehene.
 
 ### [Ts-209](/ts-209/#14.3) <span class="fac">[14\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/14.webp)</span> {#ts-209-143}
 
-<span class="series-number">38.</span> Unsere gewöhnliche Sprache hat kein Mittel um einen bestimmten Farbton, etwa das Braun meines Tisches zu beschreiben. Sie ist also unfähig, ein Bild dieser Farbe zu erzeugen. Wenn ich jemandem mitteilen will, welche Farbe ein Stoff haben soll, so schicke ich ein Muster und offenbar gehört dieses Muster zur Sprache, und ebenso gehört dazu das Gedächtnis oder die Vorstellung einer Farbe, die ich durch ein Wort erwecke.
+<span class="series-number">38</span> Unsere gewöhnliche Sprache hat kein Mittel um einen bestimmten Farbton, etwa das Braun meines Tisches zu beschreiben. Sie ist also unfähig, ein Bild dieser Farbe zu erzeugen. Wenn ich jemandem mitteilen will, welche Farbe ein Stoff haben soll, so schicke ich ein Muster und offenbar gehört dieses Muster zur Sprache, und ebenso gehört dazu das Gedächtnis oder die Vorstellung einer Farbe, die ich durch ein Wort erwecke.
 
 ### [Ts-209](/ts-209/#14.4) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/14.webp)</span> {#ts-209-144}
 
@@ -658,7 +658,7 @@ Die Grammatik gibt der Sprache den nötigen Freiheitsgrad.
 
 ### [Ts-209](/ts-209/#14.8) <span class="fac">[14\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/14.webp)</span> {#ts-209-148}
 
-<span class="series-number">39.</span> Das Farbenoktaeder ist Grammatik, denn es sagt, daß wir von einem rötlichen Blau aber nicht von einem rötlichen Grün reden können etc.
+<span class="series-number">39</span> Das Farbenoktaeder ist Grammatik, denn es sagt, daß wir von einem rötlichen Blau aber nicht von einem rötlichen Grün reden können etc.
 
 ### [Ts-209](/ts-209/#14.9) <span class="fac">[14\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/14.webp)</span> {#ts-209-149}
 
@@ -670,7 +670,7 @@ Aber was heißt das? Wie weiß ich, daß es nicht “weich” ist, an dessen Ste
 
 ### [Ts-209](/ts-209/#15.2) <span class="fac">[15\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/15.webp)</span> {#ts-209-152}
 
-<span class="series-number">40.</span> Inwiefern kann man die Farben mit den Punkten einer Skala vergleichen? Kann man sagen, daß die Richtung, die von schwarz zu rot führt, eine andere ist, als die, in welcher man von schwarz nach blau gehen muß? Denn wenn mir schwarz gegeben ist und ich rot erwarte, so ist es anders, als wenn mir schwarz gegeben ist und ich blau erwarte. Und wenn der Vergleich mit dem Maßstab stimmt, es muß mir das Wort blau sozusagen die Richtung angeben, in der ich von schwarz zu blau gelange; sozusagen die Methode, wie ich zu blau gelange. Könnte man nicht auch so sagen: “Der Satz muß den Ort von Blau konstruieren, den Punkt, an den die Tatsache gelangen muß, wenn das und das blau ist. Damit hängt es zusammen, daß ich sagen kann, diese Farbe kommt meiner Erwartung näher als die andere.
+<span class="series-number">40</span> Inwiefern kann man die Farben mit den Punkten einer Skala vergleichen? Kann man sagen, daß die Richtung, die von schwarz zu rot führt, eine andere ist, als die, in welcher man von schwarz nach blau gehen muß? Denn wenn mir schwarz gegeben ist und ich rot erwarte, so ist es anders, als wenn mir schwarz gegeben ist und ich blau erwarte. Und wenn der Vergleich mit dem Maßstab stimmt, es muß mir das Wort blau sozusagen die Richtung angeben, in der ich von schwarz zu blau gelange; sozusagen die Methode, wie ich zu blau gelange. Könnte man nicht auch so sagen: “Der Satz muß den Ort von Blau konstruieren, den Punkt, an den die Tatsache gelangen muß, wenn das und das blau ist. Damit hängt es zusammen, daß ich sagen kann, diese Farbe kommt meiner Erwartung näher als die andere.
 
 ### [Ts-209](/ts-209/#15.3) <span class="fac">[15\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/15.webp)</span> {#ts-209-153}
 
@@ -678,7 +678,7 @@ Wie drücken sich aber diese verschiedenen Richtungen in der Grammatik aus? Ist 
 
 ### [Ts-209](/ts-209/#15.4) <span class="fac">[15\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/15.webp)</span> {#ts-209-154}
 
-<span class="series-number">41.</span> Das Gefühl ist, als müßte non-p um p zu verneinen es erst in gewissem Sinne wahr machen. Man fragt “_was_ ist nicht der Fall”. Dieses muß dargestellt werden, kann aber doch nicht so dargestellt werden, daß p wirklich wahrgemacht wird.
+<span class="series-number">41</span> Das Gefühl ist, als müßte non-p um p zu verneinen es erst in gewissem Sinne wahr machen. Man fragt “_was_ ist nicht der Fall”. Dieses muß dargestellt werden, kann aber doch nicht so dargestellt werden, daß p wirklich wahrgemacht wird.
 
 ### [Ts-209](/ts-209/#15.5) <span class="fac">[15\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/15.webp)</span> {#ts-209-155}
 
@@ -686,7 +686,7 @@ Der rot-grün Blinde hat ein anderes Farbensystem als der Normale. Der rot-grün
 
 ### [Ts-209](/ts-209/#15.6) <span class="fac">[15\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/15.webp)</span> {#ts-209-156}
 
-<span class="series-number">42.</span> Das Grau muß bereits im Raum von dunkler und heller vorgestellt sein, wenn ich davon reden will, daß es dunkler oder heller werden kann. Man könnte also vielleicht auch sagen: Der Maßstab muß schon angelegt sein, ich kann ihn nicht – willkürlich – anlegen, ich kann nur einen Teilstrich darauf hervorheben. Das kommt auf Folgendes hinaus: Wenn es um mich her vollkommen still ist, so kann ich an diese Stille den Gehörsraum nicht willkürlich anbringen (aufbauen) oder nicht anbringen. D.h. es ist für mich entweder still im Gegensatz zu einen Laut, oder das Wort still hat keine Bedeutung für mich. D.h. ich kann nicht _wählen_ zwischen _innerem_ Gehör und innerer Taubheit. Und ebenso kann ich, wenn ich grau sehe, nicht zwischen normalem inneren Sehen, partieller oder vollkommener Farbenblindheit _wählen_.
+<span class="series-number">42</span> Das Grau muß bereits im Raum von dunkler und heller vorgestellt sein, wenn ich davon reden will, daß es dunkler oder heller werden kann. Man könnte also vielleicht auch sagen: Der Maßstab muß schon angelegt sein, ich kann ihn nicht – willkürlich – anlegen, ich kann nur einen Teilstrich darauf hervorheben. Das kommt auf Folgendes hinaus: Wenn es um mich her vollkommen still ist, so kann ich an diese Stille den Gehörsraum nicht willkürlich anbringen (aufbauen) oder nicht anbringen. D.h. es ist für mich entweder still im Gegensatz zu einen Laut, oder das Wort still hat keine Bedeutung für mich. D.h. ich kann nicht _wählen_ zwischen _innerem_ Gehör und innerer Taubheit. Und ebenso kann ich, wenn ich grau sehe, nicht zwischen normalem inneren Sehen, partieller oder vollkommener Farbenblindheit _wählen_.
 
 ### [Ts-209](/ts-209/#16.1) <span class="fac">[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/16.webp)</span> {#ts-209-161}
 
@@ -694,7 +694,7 @@ Angenommen, wir hätten einen Apparat um unsere Sehtätigkeit völlig auszuschal
 
 ### [Ts-209](/ts-209/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/16.webp)</span> {#ts-209-162}
 
-<span class="series-number">43.</span> Ich will sagen: Einer Frage entspricht unmittelbar: eine _Methode_ des Findens. Oder man könnte sagen: Eine Frage _bezeichnet_ eine Methode des Suchens.
+<span class="series-number">43</span> Ich will sagen: Einer Frage entspricht unmittelbar: eine _Methode_ des Findens. Oder man könnte sagen: Eine Frage _bezeichnet_ eine Methode des Suchens.
 
 ### [Ts-209](/ts-209/#16.3) <span class="fac">[16\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/16.webp)</span> {#ts-209-163}
 
@@ -726,7 +726,7 @@ Soll ich konstatieren, ob 2 Punkte eine gewisse Entfernung haben, so muß ich di
 
 ### [Ts-209](/ts-209/#16.10) <span class="fac">[16\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/16.webp)</span> {#ts-209-1610}
 
-<span class="series-number">44.</span> Wie ist eine “formally certified proposition” möglich? Es wäre ein Satz, dem man ansieht, ob er wahr oder falsch ist. Aber wie kann man durch Hinsehen auf den Satz oder den Gedanken herausfinden, daß er wahr ist? Der Gedanke ist doch etwas ganz anderes als der Sachverhalt, den der Satz behauptet.
+<span class="series-number">44</span> Wie ist eine “formally certified proposition” möglich? Es wäre ein Satz, dem man ansieht, ob er wahr oder falsch ist. Aber wie kann man durch Hinsehen auf den Satz oder den Gedanken herausfinden, daß er wahr ist? Der Gedanke ist doch etwas ganz anderes als der Sachverhalt, den der Satz behauptet.
 
 ### [Ts-209](/ts-209/#16.11) <span class="fac">[16\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/16.webp)</span> {#ts-209-1611}
 
@@ -742,7 +742,7 @@ Man kann mir einwenden, der Maßstab mit der Marke in einer bestimmten Höhe kan
 
 ### [Ts-209](/ts-209/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/17.webp)</span> {#ts-209-172}
 
-<span class="series-number">45.</span> Ich werde jede Tatsache, deren Bestehen Voraussetzung für den Sinn eines Satzes ist, als _zur Sprache_ gehörig rechnen.
+<span class="series-number">45</span> Ich werde jede Tatsache, deren Bestehen Voraussetzung für den Sinn eines Satzes ist, als _zur Sprache_ gehörig rechnen.
 
 ### [Ts-209](/ts-209/#17.3) <span class="fac">[17\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/17.webp)</span> {#ts-209-173}
 
@@ -754,7 +754,7 @@ Die schwarze Farbe kann heller aber nicht lauter werden. D.h., daß sie im Hell-
 
 ### [Ts-209](/ts-209/#17.5) <span class="fac">[17\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/17.webp)</span> {#ts-209-175}
 
-<span class="series-number">46.</span> Als ich die Sprache konstruierte, die sich bei der Darstellung des Sachverhaltes im Raum eines Koordinatensystems bedient, da habe ich doch damit einen Bestandteil in die Sprache eingeführt, dessen sie sich sonst nicht bedient. Dieses Mittel ist gewiß erlaubt. Und es zeigt den Zusammenhang zwischen Sprache und Realität. Das geschriebene Zeichen ohne das Koordinatensystem ist sinnlos. Muß nun nicht etwas Ähnliches zur Darstellung der Farben verwendet werden.
+<span class="series-number">46</span> Als ich die Sprache konstruierte, die sich bei der Darstellung des Sachverhaltes im Raum eines Koordinatensystems bedient, da habe ich doch damit einen Bestandteil in die Sprache eingeführt, dessen sie sich sonst nicht bedient. Dieses Mittel ist gewiß erlaubt. Und es zeigt den Zusammenhang zwischen Sprache und Realität. Das geschriebene Zeichen ohne das Koordinatensystem ist sinnlos. Muß nun nicht etwas Ähnliches zur Darstellung der Farben verwendet werden.
 
 ### [Ts-209](/ts-209/#17.6) <span class="fac">[17\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/17.webp)</span> {#ts-209-176}
 
@@ -766,7 +766,7 @@ Ein Befehl ist nur dann vollständig, wenn er Sinn hat, was immer der Fall sein 
 
 ### [Ts-209](/ts-209/#17.8) <span class="fac">[17\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/17.webp)</span> {#ts-209-178}
 
-<span class="series-number">47.</span> Daß uns nichts auffällt, wenn wir uns umsehen, im Raum herumgehen, unseren eigenen Körper fühlen etc. etc. das zeigt, wie natürlich uns eben diese Dinge sind. Wir nehmen nicht wahr, daß wir den Raum perspektivisch sehen oder daß das Gesichtsbild gegen den Rand zu in irgend einem Sinne verschwommen ist. Es fällt uns nie auf und kann uns nie auffallen, weil es _die_ Art der Wahrnehmung ist. Wir denken nie darüber nach, und es ist unmöglich, weil es zu der Form unserer Welt keinen Gegensatz gibt.
+<span class="series-number">47</span> Daß uns nichts auffällt, wenn wir uns umsehen, im Raum herumgehen, unseren eigenen Körper fühlen etc. etc. das zeigt, wie natürlich uns eben diese Dinge sind. Wir nehmen nicht wahr, daß wir den Raum perspektivisch sehen oder daß das Gesichtsbild gegen den Rand zu in irgend einem Sinne verschwommen ist. Es fällt uns nie auf und kann uns nie auffallen, weil es _die_ Art der Wahrnehmung ist. Wir denken nie darüber nach, und es ist unmöglich, weil es zu der Form unserer Welt keinen Gegensatz gibt.
 
 ### [Ts-209](/ts-209/#18.1) <span class="fac">[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/18.webp)</span> {#ts-209-181}
 
@@ -774,7 +774,7 @@ Ich wollte sagen, es ist merkwürdig, daß die, die nur den Dingen, nicht unsere
 
 ### [Ts-209](/ts-209/#18.2) <span class="fac">[18\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/18.webp)</span> {#ts-209-182}
 
-<span class="series-number">48.</span> Wenn die Welt der Daten zeitlos ist, wie kann man dann überhaupt über sie reden?
+<span class="series-number">48</span> Wenn die Welt der Daten zeitlos ist, wie kann man dann überhaupt über sie reden?
 
 ### [Ts-209](/ts-209/#18.3) <span class="fac">[18\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/18.webp)</span> {#ts-209-183}
 
@@ -782,11 +782,11 @@ Der Strom des Lebens, oder der Strom der Welt fließt dahin, und unsere Sätze w
 
 ### [Ts-209](/ts-209/#18.4+19.1) <span class="fac">[18\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/18.webp),[19\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/19.webp)</span> {#ts-209-184191}
 
-<span class="series-number">49.</span> Vielleicht beruht diese ganze Schwierigkeit auf der Übertragung des Zeitbegriffs der physikalischen Zeit, auf dem Verlauf der unmittelbaren Erlebnisse. Es ist eine Verwechslung der Zeit des Filmstreifens mit der Zeit des projizierten Bildes. Denn “die Zeit” hat eine andere Bedeutung, wenn wir das Gedächtnis als die Quelle der Zeit auffassen und wenn wir es als ein aufbewahrtes Bild des vergangenen Ereignisses auffassen. Wenn wir das Gedächtnis als ein Bild auffassen, dann ist es ein Bild eines physikalischen Ereignisses. Das Bild verblaßt und ich merke sein Verblassen, wenn ich es mit andern Zeugnissen des Vergangenen vergleiche. Hier ist das Gedächtnis nicht die Quelle der Zeit, sondern mehr oder weniger gute Aufbewahrerin dessen, was “wirklich” gewesen ist, und dieses war eben etwas, wovon wir auch andere Kunde haben können, ein physikalisches Ereignis. – Ganz anders ist es, wenn wir nun das Gedächtnis als Quelle der Zeit betrachten. Es ist hier kein Bild und kann auch nicht verblassen – in dem Sinne, wie ein Bild verblaßt, sodaß es seinen Gegenstand immer weniger getreu darstellt. Beide Ausdrucksweisen sind in Ordnung und gleichberechtigt, aber nicht miteinander vermischbar. Es ist ja klar, daß die Ausdrucksweise vom Gedächtnis als einem Bild, nur ein Bild ist; genau so, wie die Ausdrucksweise, die die Vorstellungen “Bilder der Gegenstände in unserem Geiste” (oder dergleichen) nennt. Was ein Bild ist, das wissen wir, aber die Vorstellungen sind doch gar keine Bilder. Denn sonst kann ich das Bild sehen und den Gegenstand, dessen Bild es ist; aber hier ist es offenbar ganz anders. Wir haben eben ein Gleichnis gebraucht und nun tyrannisiert uns das Gleichnis. In der Sprache dieses Gleichnisses kann ich mich nicht außerhalb des Gleichnisses bewegen. Es muß zu Unsinn führen, wenn man mit der Sprache dieses Gleichnis über das Gedächtnis als Quelle unserer Erkenntnis, als Verifikation unserer Sätze, reden will. Man kann von gegenwärtigen, vergangenen und zukünftigen Ereignissen in der physikalischen Welt reden, aber nicht von gegenwärtigen, vergangenen und zukünftigen Vorstellungen, wenn man als Vorstellung nicht doch wieder eine Art physikalischen Gegenstand (etwa jetzt ein physikalisches Bild, statt des Körpers) bezeichnet, sondern gerade eben das Gegenwärtige. Man kann also den Zeitbegriff, d.h. die Regeln der Syntax, wie sie von den physikalischen Substantiven gelten, nicht in der Welt der Vorstellung anwenden, d.h. nicht dort, wo man sich einer radikal anderen Ausdrucksweise bedient.
+<span class="series-number">49</span> Vielleicht beruht diese ganze Schwierigkeit auf der Übertragung des Zeitbegriffs der physikalischen Zeit, auf dem Verlauf der unmittelbaren Erlebnisse. Es ist eine Verwechslung der Zeit des Filmstreifens mit der Zeit des projizierten Bildes. Denn “die Zeit” hat eine andere Bedeutung, wenn wir das Gedächtnis als die Quelle der Zeit auffassen und wenn wir es als ein aufbewahrtes Bild des vergangenen Ereignisses auffassen. Wenn wir das Gedächtnis als ein Bild auffassen, dann ist es ein Bild eines physikalischen Ereignisses. Das Bild verblaßt und ich merke sein Verblassen, wenn ich es mit andern Zeugnissen des Vergangenen vergleiche. Hier ist das Gedächtnis nicht die Quelle der Zeit, sondern mehr oder weniger gute Aufbewahrerin dessen, was “wirklich” gewesen ist, und dieses war eben etwas, wovon wir auch andere Kunde haben können, ein physikalisches Ereignis. – Ganz anders ist es, wenn wir nun das Gedächtnis als Quelle der Zeit betrachten. Es ist hier kein Bild und kann auch nicht verblassen – in dem Sinne, wie ein Bild verblaßt, sodaß es seinen Gegenstand immer weniger getreu darstellt. Beide Ausdrucksweisen sind in Ordnung und gleichberechtigt, aber nicht miteinander vermischbar. Es ist ja klar, daß die Ausdrucksweise vom Gedächtnis als einem Bild, nur ein Bild ist; genau so, wie die Ausdrucksweise, die die Vorstellungen “Bilder der Gegenstände in unserem Geiste” (oder dergleichen) nennt. Was ein Bild ist, das wissen wir, aber die Vorstellungen sind doch gar keine Bilder. Denn sonst kann ich das Bild sehen und den Gegenstand, dessen Bild es ist; aber hier ist es offenbar ganz anders. Wir haben eben ein Gleichnis gebraucht und nun tyrannisiert uns das Gleichnis. In der Sprache dieses Gleichnisses kann ich mich nicht außerhalb des Gleichnisses bewegen. Es muß zu Unsinn führen, wenn man mit der Sprache dieses Gleichnis über das Gedächtnis als Quelle unserer Erkenntnis, als Verifikation unserer Sätze, reden will. Man kann von gegenwärtigen, vergangenen und zukünftigen Ereignissen in der physikalischen Welt reden, aber nicht von gegenwärtigen, vergangenen und zukünftigen Vorstellungen, wenn man als Vorstellung nicht doch wieder eine Art physikalischen Gegenstand (etwa jetzt ein physikalisches Bild, statt des Körpers) bezeichnet, sondern gerade eben das Gegenwärtige. Man kann also den Zeitbegriff, d.h. die Regeln der Syntax, wie sie von den physikalischen Substantiven gelten, nicht in der Welt der Vorstellung anwenden, d.h. nicht dort, wo man sich einer radikal anderen Ausdrucksweise bedient.
 
 ### [Ts-209](/ts-209/#19.2) <span class="fac">[19\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/19.webp)</span> {#ts-209-192}
 
-<span class="series-number">50.</span> Wenn die Erinnerung _kein_ Sehen in die Vergangenheit ist, wie wissen wir dann überhaupt, daß sie mit Beziehung auf die Vergangenheit zu deuten ist? Wir könnten uns dann einer Begebenheit erinnern und zweifeln, ob wir in unserem Erinnerungsbild ein Bild der Vergangenheit oder der Zukunft haben. Man kann natürlich sagen: Ich sehe nicht die Vergangenheit, sondern nur ein _Bild_ der Vergangenheit. Aber woher _weiß_ ich, daß es ein Bild der _Vergangenheit_ ist, wenn dies nicht im Wesen des Erinnerungsbildes liegt. Haben wir etwa durch die Erfahrung gelernt, diese Bilder als Bilder der Vergangenheit zu deuten? Aber was hieße hier überhaupt “Vergangenheit”?
+<span class="series-number">50</span> Wenn die Erinnerung _kein_ Sehen in die Vergangenheit ist, wie wissen wir dann überhaupt, daß sie mit Beziehung auf die Vergangenheit zu deuten ist? Wir könnten uns dann einer Begebenheit erinnern und zweifeln, ob wir in unserem Erinnerungsbild ein Bild der Vergangenheit oder der Zukunft haben. Man kann natürlich sagen: Ich sehe nicht die Vergangenheit, sondern nur ein _Bild_ der Vergangenheit. Aber woher _weiß_ ich, daß es ein Bild der _Vergangenheit_ ist, wenn dies nicht im Wesen des Erinnerungsbildes liegt. Haben wir etwa durch die Erfahrung gelernt, diese Bilder als Bilder der Vergangenheit zu deuten? Aber was hieße hier überhaupt “Vergangenheit”?
 
 ### [Ts-209](/ts-209/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/19.webp)</span> {#ts-209-193}
 
@@ -798,11 +798,11 @@ Ist die Zeit in der die Erlebnisse des Gesichtsraums vor sich gehen, ohne Tonerl
 
 ### [Ts-209](/ts-209/#19.6) <span class="fac">[19\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/19.webp)</span> {#ts-209-196}
 
-<span class="series-number">51.</span> Wenn ich die Tatsachen des ersten Systems mit den Bildern auf der Leinwand, _und die Tatsachen im zweiten System_ mit den Bildern auf dem Filmstreifen vergleiche, so gibt es auf dem Filmstreifen ein gegenwärtiges Bild, vergangene und zukünftige Bilder; auf der Leinwand aber ist nur die Gegenwart. Das eine Charakteristische an diesem Gleichnis ist, daß ich darin die Zukunft als präformiert ansehe. Es hat einen Sinn zu sagen, die zukünftigen Ereignisse seien präformiert, wenn es im _Wesen_ der Zeit liegt, nicht abzureißen. Denn dann kann man sagen: Etwas wird geschehen ich weiß nur nicht, was. Und in der Welt der Physik kann man das sagen.
+<span class="series-number">51</span> Wenn ich die Tatsachen des ersten Systems mit den Bildern auf der Leinwand, _und die Tatsachen im zweiten System_ mit den Bildern auf dem Filmstreifen vergleiche, so gibt es auf dem Filmstreifen ein gegenwärtiges Bild, vergangene und zukünftige Bilder; auf der Leinwand aber ist nur die Gegenwart. Das eine Charakteristische an diesem Gleichnis ist, daß ich darin die Zukunft als präformiert ansehe. Es hat einen Sinn zu sagen, die zukünftigen Ereignisse seien präformiert, wenn es im _Wesen_ der Zeit liegt, nicht abzureißen. Denn dann kann man sagen: Etwas wird geschehen ich weiß nur nicht, was. Und in der Welt der Physik kann man das sagen.
 
 ### [Ts-209](/ts-209/#19.7) <span class="fac">[19\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/19.webp)</span> {#ts-209-197}
 
-<span class="series-number">52.</span> Es ist merkwürdig, daß wir das Gefühl, daß das Phänomen uns entschlüpft, den ständigen Fluß der Erscheinung, im gewöhnlichen Leben nie spüren, sondern erst, wenn wir philosophieren. Das deutet darauf hin, daß es sich hier um einen Gedanken handelt, der uns durch eine falsche Verwendung unserer Sprache suggeriert wird.
+<span class="series-number">52</span> Es ist merkwürdig, daß wir das Gefühl, daß das Phänomen uns entschlüpft, den ständigen Fluß der Erscheinung, im gewöhnlichen Leben nie spüren, sondern erst, wenn wir philosophieren. Das deutet darauf hin, daß es sich hier um einen Gedanken handelt, der uns durch eine falsche Verwendung unserer Sprache suggeriert wird.
 
 ### [Ts-209](/ts-209/#20.1) <span class="fac">[20\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/20.webp)</span> {#ts-209-201}
 
@@ -818,11 +818,11 @@ Dabei kommt es uns vor, als wäre die Erinnerung eine etwas sekundäre Art der E
 
 ### [Ts-209](/ts-209/#20.4) <span class="fac">[20\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/20.webp)</span> {#ts-209-204}
 
-<span class="series-number">53.</span> Und warum es nicht dabei sein Bewenden haben lassen? Denn diese Ausdrucksweise sagt ja doch alles, was wir sagen wollen und was sich sagen läßt; und das ist wichtig. Aber wir wollen sagen, daß es sich auch noch _anders_ sagen läßt; und das ist wichtig. In dieser andern Ausdrucksweise wird der Nachdruck gleichsam auf etwas anderes gelegt. Die Worte “scheinen”, “Irrtum”, etc. haben nämlich eine gewisse Gefühlsbetonung, die dem Phänomen nicht wesentlich ist. Sie hängt irgendwie mit dem Willen und nicht bloß mit der Erkenntnis zusammen. Wir reden z.B. von einer optischen Täuschung und verbinden mit diesem Ausdruck die Idee eines Fehlers, obwohl ja nicht wesentlich ein Fehler vorliegt; und wäre im Leben für gewöhnlich das Aussehen wichtiger, als die Resultate der Messung, so würde auch die Sprache zu diesen Phänomenen eine andere Einstellung zeigen. Es gibt nicht – wie ich früher glaubte – eine primäre Sprache im Gegensatz zu unserer gewöhnlichen, der “sekundären”. Aber insofern könnte man im Gegensatz zu unserer Sprache von einer primären reden, als in dieser keine Bevorzugung gewisser Phänomene vor anderen ausgedrückt sein dürfte; sie müßte sozusagen absolut _sachlich_ sein.
+<span class="series-number">53</span> Und warum es nicht dabei sein Bewenden haben lassen? Denn diese Ausdrucksweise sagt ja doch alles, was wir sagen wollen und was sich sagen läßt; und das ist wichtig. Aber wir wollen sagen, daß es sich auch noch _anders_ sagen läßt; und das ist wichtig. In dieser andern Ausdrucksweise wird der Nachdruck gleichsam auf etwas anderes gelegt. Die Worte “scheinen”, “Irrtum”, etc. haben nämlich eine gewisse Gefühlsbetonung, die dem Phänomen nicht wesentlich ist. Sie hängt irgendwie mit dem Willen und nicht bloß mit der Erkenntnis zusammen. Wir reden z.B. von einer optischen Täuschung und verbinden mit diesem Ausdruck die Idee eines Fehlers, obwohl ja nicht wesentlich ein Fehler vorliegt; und wäre im Leben für gewöhnlich das Aussehen wichtiger, als die Resultate der Messung, so würde auch die Sprache zu diesen Phänomenen eine andere Einstellung zeigen. Es gibt nicht – wie ich früher glaubte – eine primäre Sprache im Gegensatz zu unserer gewöhnlichen, der “sekundären”. Aber insofern könnte man im Gegensatz zu unserer Sprache von einer primären reden, als in dieser keine Bevorzugung gewisser Phänomene vor anderen ausgedrückt sein dürfte; sie müßte sozusagen absolut _sachlich_ sein.
 
 ### [Ts-209](/ts-209/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/20.webp)</span> {#ts-209-205}
 
-<span class="series-number">54.</span> Was zum Wesen der Welt gehört, kann die Sprache nicht ausdrücken. Daher kann sie nicht _sagen_, daß alles fließt. Nur was wir uns auch anders vorstellen können, kann die Sprache sagen.
+<span class="series-number">54</span> Was zum Wesen der Welt gehört, kann die Sprache nicht ausdrücken. Daher kann sie nicht _sagen_, daß alles fließt. Nur was wir uns auch anders vorstellen können, kann die Sprache sagen.
 
 ### [Ts-209](/ts-209/#20.6) <span class="fac">[20\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/20.webp)</span> {#ts-209-206}
 
@@ -846,7 +846,7 @@ Die Gegenwart von der wir hier reden, ist nicht das Bild des Filmstreifens, das 
 
 ### [Ts-209](/ts-209/#21.4) <span class="fac">[21\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/21.webp)</span> {#ts-209-214}
 
-<span class="series-number">55.</span> Es gibt allerdings sehr interessante ganz allgemeine Sätze von großer Wichtigkeit, Sätze die also auch eine wirkliche Erfahrung beschreiben, die auch hätte anders sein können, aber nun einmal _so_ ist. Z.B., daß ich nur _einen_ Körper habe. Daß meine Empfindung nie über diesen Körper hinausreicht (außer in Fällen wo einem ein Glied, z.B. ein Arm amputiert wurde und er doch Schmerzen in den Fingern spürt). Das sind merkwürdige und interessante Tatsachen. _Nicht_ in diese Kategorie gehört es aber, wenn man sagt, daß ich die Zukunft nicht erinnern kann. Denn das heißt nichts und ist, wie sein Gegenteil, eine Undenkbarkeit. Daß ich immer, wenn ich wach bin, aus meinen _Augen_ sehe, ist dagegen eine merkwürdige und interessante Tatsache. Ebenso ist es wichtig, daß mein Gesichtsbild beinahe unausgesetzt in Veränderung begriffen ist. “Ich” bedeutet offenbar meinen Körper, denn _ich_ bin in diesem Zimmer; und “ich” ist wesentlich etwas, was an einem Ort ist und an einem Ort desselben Raumes in dem auch die andern Körper sind.
+<span class="series-number">55</span> Es gibt allerdings sehr interessante ganz allgemeine Sätze von großer Wichtigkeit, Sätze die also auch eine wirkliche Erfahrung beschreiben, die auch hätte anders sein können, aber nun einmal _so_ ist. Z.B., daß ich nur _einen_ Körper habe. Daß meine Empfindung nie über diesen Körper hinausreicht (außer in Fällen wo einem ein Glied, z.B. ein Arm amputiert wurde und er doch Schmerzen in den Fingern spürt). Das sind merkwürdige und interessante Tatsachen. _Nicht_ in diese Kategorie gehört es aber, wenn man sagt, daß ich die Zukunft nicht erinnern kann. Denn das heißt nichts und ist, wie sein Gegenteil, eine Undenkbarkeit. Daß ich immer, wenn ich wach bin, aus meinen _Augen_ sehe, ist dagegen eine merkwürdige und interessante Tatsache. Ebenso ist es wichtig, daß mein Gesichtsbild beinahe unausgesetzt in Veränderung begriffen ist. “Ich” bedeutet offenbar meinen Körper, denn _ich_ bin in diesem Zimmer; und “ich” ist wesentlich etwas, was an einem Ort ist und an einem Ort desselben Raumes in dem auch die andern Körper sind.
 
 ### [Ts-209](/ts-209/#21.5) <span class="fac">[21\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/21.webp)</span> {#ts-209-215}
 
@@ -854,7 +854,7 @@ Die Gegenwart von der wir hier reden, ist nicht das Bild des Filmstreifens, das 
 
 ### [Ts-209](/ts-209/#21.6+22.1) <span class="fac">[21\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/22.webp)</span> {#ts-209-216221}
 
-<span class="series-number">56.</span> Wer den Satz, nur die gegenwärtige Erfahrung sei real, bestreiten will (was ebenso falsch ist, wie ihn zu behaupten) wird etwa fragen, ob denn ein Satz, wie “Julius Cäsar ging über die Alpen” nur meinen gegenwärtigen Geisteszustand, der sich mit dieser Sache beschäftigt, beschreibt. Und die Antwort ist natürlich: Nein! Er beschreibt ein Ereignis, das, wie wir glauben, vor ca. 2000 Jahren geschehen ist. Wenn nämlich das Wort “beschreibt” so aufgefaßt wird, wie in dem Satz “der Satz ‘ich schreibe’ _beschreibt_, was ich gegenwärtig tue”. Der Name Julius Cäsar bezeichnet eine Person. Aber was sagt denn das alles? Ich scheine mich ja um die eigentliche philosophische Antwort drücken zu wollen! Sätze, die von Personen handeln, d.h. Personennamen enthalten, können eben auf sehr verschiedene Arten verifiziert werden. Der Satz über Cäsar sagt doch offenbar das, was ich glaube, wenn ich ihn glaube. Und wenn ich wissen will, was ich glaube, so ist es am besten, zu fragen, _warum_ ich es glaube. Denn die Antwort auf dieses Warum wird sich erst auf verschiedene kausale Verbindungen berufen, d.h. auf Verbindungen, die eine frühere Erfahrung als bestehend erwiesen hat, aber endlich wird aus dem Grund, warum ich etwas glaube, das Objekt meines Glaubens. – Daß es denkbar ist, die Leiche Cäsars noch zu finden, hängt unmittelbar mit dem Sinn des Satzes über Cäsar zusammen. Aber auch, daß es möglich ist eine Schrift zu finden, aus der hervorgeht, daß so ein Mann nie gelebt hat und seine Existenz zu bestimmten Zwecken erdichtet worden ist. Die Sätze über Julius Cäsar müssen also einen solchen Sinn haben, daß das möglich ist. Wenn ich den Satz sage: Ich sehe einen roten Fleck über einen grünen dahinziehen, so gibt es hier nicht die Möglichkeiten des Falles “Cäsar zog über die Alpen” und das ist es, was ich meine, wenn ich sage, daß der Satz über Cäsar auf eine indirektere Art Sinn hat, als der erste.
+<span class="series-number">56</span> Wer den Satz, nur die gegenwärtige Erfahrung sei real, bestreiten will (was ebenso falsch ist, wie ihn zu behaupten) wird etwa fragen, ob denn ein Satz, wie “Julius Cäsar ging über die Alpen” nur meinen gegenwärtigen Geisteszustand, der sich mit dieser Sache beschäftigt, beschreibt. Und die Antwort ist natürlich: Nein! Er beschreibt ein Ereignis, das, wie wir glauben, vor ca. 2000 Jahren geschehen ist. Wenn nämlich das Wort “beschreibt” so aufgefaßt wird, wie in dem Satz “der Satz ‘ich schreibe’ _beschreibt_, was ich gegenwärtig tue”. Der Name Julius Cäsar bezeichnet eine Person. Aber was sagt denn das alles? Ich scheine mich ja um die eigentliche philosophische Antwort drücken zu wollen! Sätze, die von Personen handeln, d.h. Personennamen enthalten, können eben auf sehr verschiedene Arten verifiziert werden. Der Satz über Cäsar sagt doch offenbar das, was ich glaube, wenn ich ihn glaube. Und wenn ich wissen will, was ich glaube, so ist es am besten, zu fragen, _warum_ ich es glaube. Denn die Antwort auf dieses Warum wird sich erst auf verschiedene kausale Verbindungen berufen, d.h. auf Verbindungen, die eine frühere Erfahrung als bestehend erwiesen hat, aber endlich wird aus dem Grund, warum ich etwas glaube, das Objekt meines Glaubens. – Daß es denkbar ist, die Leiche Cäsars noch zu finden, hängt unmittelbar mit dem Sinn des Satzes über Cäsar zusammen. Aber auch, daß es möglich ist eine Schrift zu finden, aus der hervorgeht, daß so ein Mann nie gelebt hat und seine Existenz zu bestimmten Zwecken erdichtet worden ist. Die Sätze über Julius Cäsar müssen also einen solchen Sinn haben, daß das möglich ist. Wenn ich den Satz sage: Ich sehe einen roten Fleck über einen grünen dahinziehen, so gibt es hier nicht die Möglichkeiten des Falles “Cäsar zog über die Alpen” und das ist es, was ich meine, wenn ich sage, daß der Satz über Cäsar auf eine indirektere Art Sinn hat, als der erste.
 
 ### [Ts-209](/ts-209/#22.2) <span class="fac">[22\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/22.webp)</span> {#ts-209-222}
 
@@ -874,7 +874,7 @@ Auch unsere gewöhnliche Sprache muß ja für alle Fälle der Unsicherheit vorso
 
 ### [Ts-209](/ts-209/#22.6) <span class="fac">[22\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/22.webp)</span> {#ts-209-226}
 
-<span class="series-number">57.</span> Eine der am meisten irreführenden Darstellungsweisen unserer Sprache ist der Gebrauch des Wortes “ich”, besonders dort, wo sie damit das unmittelbare Erlebnis darstellt, wie in “ich sehe einen roten Fleck”. Es wäre nun lehrreich diese Ausdrucksweise durch eine andere zu ersetzen, in der das unmittelbare Erlebnis nicht mit Hilfe des persönlichen Fürworts dargestellt würde– weil man daraus sehen könnte, daß jene Darstellung den Tatsachen nicht wesentlich ist. Nicht, daß die Darstellung in irgend einem Sinne richtiger wäre, als die alte, sondern sie würde nur den Dienst tun, klar zu zeigen, was das logisch Wesentliche der Darstellung ist. Die ärgsten philosophischen Irrtümer entstehen immer, wenn man unsere gewöhnliche – physikalische – Sprache im Gebiet des unmittelbar Gegebenen anwenden will. Wenn man z.B. frägt “existiert der Kasten noch, wenn ich ihn nicht anschaue”, so wäre die einzig richtige Antwort “gewiß, wenn ihn niemand weggetragen oder zerstört hat”. Natürlich wäre der Philosoph von dieser Antwort nicht befriedigt, aber sie würde ganz richtig seine Fragestellung ad absurdum führen.
+<span class="series-number">57</span> Eine der am meisten irreführenden Darstellungsweisen unserer Sprache ist der Gebrauch des Wortes “ich”, besonders dort, wo sie damit das unmittelbare Erlebnis darstellt, wie in “ich sehe einen roten Fleck”. Es wäre nun lehrreich diese Ausdrucksweise durch eine andere zu ersetzen, in der das unmittelbare Erlebnis nicht mit Hilfe des persönlichen Fürworts dargestellt würde– weil man daraus sehen könnte, daß jene Darstellung den Tatsachen nicht wesentlich ist. Nicht, daß die Darstellung in irgend einem Sinne richtiger wäre, als die alte, sondern sie würde nur den Dienst tun, klar zu zeigen, was das logisch Wesentliche der Darstellung ist. Die ärgsten philosophischen Irrtümer entstehen immer, wenn man unsere gewöhnliche – physikalische – Sprache im Gebiet des unmittelbar Gegebenen anwenden will. Wenn man z.B. frägt “existiert der Kasten noch, wenn ich ihn nicht anschaue”, so wäre die einzig richtige Antwort “gewiß, wenn ihn niemand weggetragen oder zerstört hat”. Natürlich wäre der Philosoph von dieser Antwort nicht befriedigt, aber sie würde ganz richtig seine Fragestellung ad absurdum führen.
 
 ### [Ts-209](/ts-209/#22.7) <span class="fac">[22\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/22.webp)</span> {#ts-209-227}
 
@@ -886,17 +886,17 @@ Die bloße Redensart “ich nehme x wahr” ist schon aus der physikalischen Aus
 
 ### [Ts-209](/ts-209/#23.1) <span class="fac">[23\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/23.webp)</span> {#ts-209-231}
 
-<span class="series-number">58.</span> Man könnte folgende Darstellung adoptieren: Wenn ich L.W. Zahnschmerzen habe, so wird das durch den Satz “es gibt Zahnschmerzen” ausgedrückt. Ist aber das der Fall, was jetzt durch den Satz “A hat Zahnschmerzen” ausgedrückt wird, so wird gesagt: “A benimmt sich wie L.W. wenn es Zahnschmerzen gibt.” Analog wird gesagt “es denkt” und “A benimmt sich wie L.W. wenn es denkt”. (Man könnte sich eine orientalische Despotie denken, in der die Sprache so gebildet ist, daß der Despot ihr Zentrum ist und sein Name an Stelle des L.W. steht.) Es ist klar, daß diese Ausdrucksweise, was ihre Eindeutigkeit und Verständlichkeit anbelangt, mit der Unseren gleichwertig ist. Es ist aber ebenso klar, daß diese Sprache jeden beliebigen als Zentrum haben kann. Von allen den Sprachen nun, die verschiedene Menschen als Zentrum haben und die ich alle verstehe, hat die, welche mich zum Zentrum hat, eine Sonderstellung. Sie ist besonders adäquat. Wie kann ich das ausdrücken? D.h., wie kann ich ihren Vorzug korrekt in Worten darstellen? Das ist nicht möglich. Denn tu ich's in der Sprache, die mich zum Zentrum hat, dann ist die Ausnahmsstellung der Beschreibung dieser Sprache in ihren eigenen Termini kein Wunder, und in der Ausdrucksweise einer andern Sprache nimmt meine Sprache durchaus keine Sonderstellung ein. – Die Sonderstellung liegt in der Anwendung, und wenn ich diese Anwendung beschreibe, so kommt dadurch die Sonderstellung wieder nicht zum Ausdruck, weil die Beschreibung von der Sprache abhängt, in der sie gegeben wird. Und welche Beschreibung nun _das_ meint, was ich im Sinne habe, hängt wieder von ihrer Anwendung ab. Nur die Anwendung unterscheidet wirklich zwischen den Sprachen, aber von ihr abgesehen sind alle Sprachen gleichwertig. – Alle diese Sprachen stellen doch nur ein Einziges, Unvergleichliches dar und _können_ nichts anderes darstellen. (Die beiden Betrachtungsweisen müssen zu demselben führen: Die eine, daß das Dargestellte nicht eines unter mehreren ist, daß es keines Gegensatzes fähig ist; die andere, daß ich den Vorzug _meiner_ Sprache nicht aussprechen kann).
+<span class="series-number">58</span> Man könnte folgende Darstellung adoptieren: Wenn ich L.W. Zahnschmerzen habe, so wird das durch den Satz “es gibt Zahnschmerzen” ausgedrückt. Ist aber das der Fall, was jetzt durch den Satz “A hat Zahnschmerzen” ausgedrückt wird, so wird gesagt: “A benimmt sich wie L.W. wenn es Zahnschmerzen gibt.” Analog wird gesagt “es denkt” und “A benimmt sich wie L.W. wenn es denkt”. (Man könnte sich eine orientalische Despotie denken, in der die Sprache so gebildet ist, daß der Despot ihr Zentrum ist und sein Name an Stelle des L.W. steht.) Es ist klar, daß diese Ausdrucksweise, was ihre Eindeutigkeit und Verständlichkeit anbelangt, mit der Unseren gleichwertig ist. Es ist aber ebenso klar, daß diese Sprache jeden beliebigen als Zentrum haben kann. Von allen den Sprachen nun, die verschiedene Menschen als Zentrum haben und die ich alle verstehe, hat die, welche mich zum Zentrum hat, eine Sonderstellung. Sie ist besonders adäquat. Wie kann ich das ausdrücken? D.h., wie kann ich ihren Vorzug korrekt in Worten darstellen? Das ist nicht möglich. Denn tu ich's in der Sprache, die mich zum Zentrum hat, dann ist die Ausnahmsstellung der Beschreibung dieser Sprache in ihren eigenen Termini kein Wunder, und in der Ausdrucksweise einer andern Sprache nimmt meine Sprache durchaus keine Sonderstellung ein. – Die Sonderstellung liegt in der Anwendung, und wenn ich diese Anwendung beschreibe, so kommt dadurch die Sonderstellung wieder nicht zum Ausdruck, weil die Beschreibung von der Sprache abhängt, in der sie gegeben wird. Und welche Beschreibung nun _das_ meint, was ich im Sinne habe, hängt wieder von ihrer Anwendung ab. Nur die Anwendung unterscheidet wirklich zwischen den Sprachen, aber von ihr abgesehen sind alle Sprachen gleichwertig. – Alle diese Sprachen stellen doch nur ein Einziges, Unvergleichliches dar und _können_ nichts anderes darstellen. (Die beiden Betrachtungsweisen müssen zu demselben führen: Die eine, daß das Dargestellte nicht eines unter mehreren ist, daß es keines Gegensatzes fähig ist; die andere, daß ich den Vorzug _meiner_ Sprache nicht aussprechen kann).
 
 ---
 
 ### [Ts-209](/ts-209/#23.2) <span class="fac">[23\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/23.webp)</span> {#ts-209-232}
 
-<span class="series-number">59.</span> Es ist nicht möglich, etwas zu glauben, was man sich nicht irgendwie verifiziert denken kann. Wenn ich sage, ich glaube, daß jemand traurig ist, so sehe ich gleichsam sein Benehmen durch das Medium der Traurigkeit, unter dem Gesichtspunkt der Traurigkeit. Könnte man aber sagen: “Mir scheint ich bin traurig, ich lasse den Kopf so hängen”?
+<span class="series-number">59</span> Es ist nicht möglich, etwas zu glauben, was man sich nicht irgendwie verifiziert denken kann. Wenn ich sage, ich glaube, daß jemand traurig ist, so sehe ich gleichsam sein Benehmen durch das Medium der Traurigkeit, unter dem Gesichtspunkt der Traurigkeit. Könnte man aber sagen: “Mir scheint ich bin traurig, ich lasse den Kopf so hängen”?
 
 ### [Ts-209](/ts-209/#23.3) <span class="fac">[23\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/23.webp)</span> {#ts-209-233}
 
-<span class="series-number">60.</span> Nicht nur kümmert sich die Erkenntnistheorie nicht um die Wahr- und Falschheit der eigentlichen Sätze, sondern es ist sogar eine philosophische Methode, gerade die Sätze ins Auge zu fassen, deren Inhalt uns physikalisch als der aller unmöglichste erscheint (z.B., daß Einer im Zahn eines Andern Schmerzen hat). Sie betont damit, daß ihr Reich alles auch nur Denkbare umfaßt.
+<span class="series-number">60</span> Nicht nur kümmert sich die Erkenntnistheorie nicht um die Wahr- und Falschheit der eigentlichen Sätze, sondern es ist sogar eine philosophische Methode, gerade die Sätze ins Auge zu fassen, deren Inhalt uns physikalisch als der aller unmöglichste erscheint (z.B., daß Einer im Zahn eines Andern Schmerzen hat). Sie betont damit, daß ihr Reich alles auch nur Denkbare umfaßt.
 
 ### [Ts-209](/ts-209/#23.4) <span class="fac">[23\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/23.webp)</span> {#ts-209-234}
 
@@ -908,7 +908,7 @@ Man könnte sagen: Die Philosophie sammle fortwährend ein Material von Sätzen,
 
 ### [Ts-209](/ts-209/#23.6) <span class="fac">[23\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/23.webp)</span> {#ts-209-236}
 
-<span class="series-number">61.</span> Von Sinnesdaten in dem Sinne dieses Wortes, in dem es undenkbar ist, daß der Andere sie hat, kann man eben aus diesem Grunde auch nicht sagen, daß der Andere sie nicht hat. Und aus eben diesem Grund ist es sinnlos zu sagen, daß _ich_, im Gegensatz zum Anderen, sie _habe_.
+<span class="series-number">61</span> Von Sinnesdaten in dem Sinne dieses Wortes, in dem es undenkbar ist, daß der Andere sie hat, kann man eben aus diesem Grunde auch nicht sagen, daß der Andere sie nicht hat. Und aus eben diesem Grund ist es sinnlos zu sagen, daß _ich_, im Gegensatz zum Anderen, sie _habe_.
 
 ### [Ts-209](/ts-209/#24.1) <span class="fac">[24\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/24.webp)</span> {#ts-209-241}
 
@@ -920,7 +920,7 @@ Wie unterscheiden sich _seine_ Zahnschmerzen von den _meinen_? Wenn das Wort “
 
 ### [Ts-209](/ts-209/#24.3) <span class="fac">[24\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/24.webp)</span> {#ts-209-243}
 
-<span class="series-number">62.</span> Zur Erklärung des Satzes “er hat Zahnschmerzen” sagt man etwa: “ganz einfach, ich weiß, was es heißt, daß _ich_ Zahnschmerzen habe, und wenn ich sage daß er Zahnschmerzen hat so meine ich, daß er jetzt das hat, was ich damals hatte”. Aber was bedeutet “er” und was bedeutet “Zahnschmerzen _haben_”. Ist das eine Relation, die die Zahnschmerzen damals zu mir hatten und jetzt zu ihm? Dann wäre ich mir also jetzt auch der Zahnschmerzen bewußt, und dessen daß er sie jetzt hat, wie ich eine Geldbörse jetzt in seiner Hand sehen kann, die ich früher in meiner gesehen habe. Hat es einen Sinn zu sagen “ich habe Schmerzen, ich merke sie aber nicht”? Denn in diesem Satz könnte ich dann allerdings statt “ich habe” “er hat” einsetzen. Und umgekehrt, wenn die Sätze “er hat Schmerzen” und “ich habe Schmerzen” auf der gleichen logischen Stufe stehen, so muß ich im Satz “er hat Schmerzen, die ich nicht fühle” statt “er hat” “ich habe” setzen können. – Ich könnte auch so sagen: Nur insofern ich Schmerzen haben kann, die ich nicht fühle, kann er Schmerzen haben die ich nicht fühle. Es könnte dann noch immer der Fall sein, daß ich tatsächlich die Schmerzen die ich habe immer fühle, aber es muß Sinn haben das zu verneinen.
+<span class="series-number">62</span> Zur Erklärung des Satzes “er hat Zahnschmerzen” sagt man etwa: “ganz einfach, ich weiß, was es heißt, daß _ich_ Zahnschmerzen habe, und wenn ich sage daß er Zahnschmerzen hat so meine ich, daß er jetzt das hat, was ich damals hatte”. Aber was bedeutet “er” und was bedeutet “Zahnschmerzen _haben_”. Ist das eine Relation, die die Zahnschmerzen damals zu mir hatten und jetzt zu ihm? Dann wäre ich mir also jetzt auch der Zahnschmerzen bewußt, und dessen daß er sie jetzt hat, wie ich eine Geldbörse jetzt in seiner Hand sehen kann, die ich früher in meiner gesehen habe. Hat es einen Sinn zu sagen “ich habe Schmerzen, ich merke sie aber nicht”? Denn in diesem Satz könnte ich dann allerdings statt “ich habe” “er hat” einsetzen. Und umgekehrt, wenn die Sätze “er hat Schmerzen” und “ich habe Schmerzen” auf der gleichen logischen Stufe stehen, so muß ich im Satz “er hat Schmerzen, die ich nicht fühle” statt “er hat” “ich habe” setzen können. – Ich könnte auch so sagen: Nur insofern ich Schmerzen haben kann, die ich nicht fühle, kann er Schmerzen haben die ich nicht fühle. Es könnte dann noch immer der Fall sein, daß ich tatsächlich die Schmerzen die ich habe immer fühle, aber es muß Sinn haben das zu verneinen.
 
 ### [Ts-209](/ts-209/#24.5) <span class="fac">[24\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/24.webp)</span> {#ts-209-245}
 
@@ -928,7 +928,7 @@ Wie unterscheiden sich _seine_ Zahnschmerzen von den _meinen_? Wenn das Wort “
 
 ### [Ts-209](/ts-209/#25.1) <span class="fac">[25\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/25.webp)</span> {#ts-209-251}
 
-<span class="series-number">63.</span> Der Begriff der Zahnschmerzen als eines Gefühlsdatums ist allerdings auf den Zahn des Anderen ebenso anwendbar, wie auf den meinen, aber nur in dem Sinne, in dem es ganz wohl möglich wäre, in dem Zahn in eines andern Menschen Mund Schmerzen zu . Im Einklang mit der gegenwärtigen Ausdrucksweise würde man aber diese Tatsache nicht durch die Worte “ich fühle seinen Zahnschmerz” ausdrücken, sondern durch “ich habe in seinem Zahn Schmerzen”. – Man kann nun sagen: Freilich hast du nicht seinen Zahnschmerz, denn es ist auch dann sehr wohl möglich, daß er sagt “ich fühle in diesem Zahn nichts”. Und sollte ich in diesem Fall sagen “du lügst, ich fühle, wie dein Zahn schmerzt”?
+<span class="series-number">63</span> Der Begriff der Zahnschmerzen als eines Gefühlsdatums ist allerdings auf den Zahn des Anderen ebenso anwendbar, wie auf den meinen, aber nur in dem Sinne, in dem es ganz wohl möglich wäre, in dem Zahn in eines andern Menschen Mund Schmerzen zu . Im Einklang mit der gegenwärtigen Ausdrucksweise würde man aber diese Tatsache nicht durch die Worte “ich fühle seinen Zahnschmerz” ausdrücken, sondern durch “ich habe in seinem Zahn Schmerzen”. – Man kann nun sagen: Freilich hast du nicht seinen Zahnschmerz, denn es ist auch dann sehr wohl möglich, daß er sagt “ich fühle in diesem Zahn nichts”. Und sollte ich in diesem Fall sagen “du lügst, ich fühle, wie dein Zahn schmerzt”?
 
 ### [Ts-209](/ts-209/#25.2) <span class="fac">[25\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/25.webp)</span> {#ts-209-252}
 
@@ -940,7 +940,7 @@ Die Frage ist, ob es Sinn hat, zu sagen: “Nur A kann den Satz ‘A hat Schmerz
 
 ### [Ts-209](/ts-209/#25.4) <span class="fac">[25\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/25.webp)</span> {#ts-209-254}
 
-<span class="series-number">64.</span> “Ich habe Schmerzen” ist, im Falle ich den Satz gebrauche, ein Zeichen ganz anderer Art, als es für mich im Munde eines Anderen ist; und zwar darum, weil es im Munde eines Anderen für mich so lange sinnlos ist, als ich nicht weiß, welcher Mund es ausgesprochen hat. Das Satzzeichen besteht in diesem Falle nicht im Laut allein, sondern in der Tatsache, daß dieser Mund den Laut hervorbringt. Während im Falle ich es sage, oder denke, das Zeichen der Laut allein ist.
+<span class="series-number">64</span> “Ich habe Schmerzen” ist, im Falle ich den Satz gebrauche, ein Zeichen ganz anderer Art, als es für mich im Munde eines Anderen ist; und zwar darum, weil es im Munde eines Anderen für mich so lange sinnlos ist, als ich nicht weiß, welcher Mund es ausgesprochen hat. Das Satzzeichen besteht in diesem Falle nicht im Laut allein, sondern in der Tatsache, daß dieser Mund den Laut hervorbringt. Während im Falle ich es sage, oder denke, das Zeichen der Laut allein ist.
 
 ### [Ts-209](/ts-209/#25.5) <span class="fac">[25\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/25.webp)</span> {#ts-209-255}
 
@@ -960,7 +960,7 @@ Kann ich mir Schmerzen in der Spitze meines Nagels denken, oder in meinen Haaren
 
 ### [Ts-209](/ts-209/#26.1) <span class="fac">[26\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/26.webp)</span> {#ts-209-261}
 
-<span class="series-number">65.</span> Hier ist die Logik unserer Sprache so schwer zu erfassen: Unsere Sprache gebraucht den Ausdruck “meine Schmerzen” und “seine Schmerzen” und auch die Ausdrücke “ich habe (oder fühle) Schmerzen” und “er hat (oder fühlt) Schmerzen”. Ein Ausdruck “ich fühle meine Schmerzen” oder “ich fühle seine Schmerzen” ist Unsinn. Und darauf scheint mir am Ende die ganze Kontroverse über den Behaviourism zu beruhen.
+<span class="series-number">65</span> Hier ist die Logik unserer Sprache so schwer zu erfassen: Unsere Sprache gebraucht den Ausdruck “meine Schmerzen” und “seine Schmerzen” und auch die Ausdrücke “ich habe (oder fühle) Schmerzen” und “er hat (oder fühlt) Schmerzen”. Ein Ausdruck “ich fühle meine Schmerzen” oder “ich fühle seine Schmerzen” ist Unsinn. Und darauf scheint mir am Ende die ganze Kontroverse über den Behaviourism zu beruhen.
 
 ### [Ts-209](/ts-209/#26.2) <span class="fac">[26\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/26.webp)</span> {#ts-209-262}
 
@@ -992,7 +992,7 @@ Zu sagen, daß die Anderen keine Schmerzen haben, setzt aber voraus, daß es Sin
 
 ### [Ts-209](/ts-209/#26.9) <span class="fac">[26\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/26.webp)</span> {#ts-209-269}
 
-<span class="series-number">66.</span> Wie wäre es, wenn ich zwei Körper hätte, d.h. wenn mein Körper aus zwei getrennten Leibern bestünde? Hier sieht man – glaube ich – wieder, wie das Ich nicht auf der selber Stufe mit den Andern steht, denn wenn die Andern je zwei Körper hätten, so könnte ich es nicht erkennen. Kann ich mir denn die Erfahrung mit zwei Leibern denken? Die Gesichtserfahrung gewiß nicht.
+<span class="series-number">66</span> Wie wäre es, wenn ich zwei Körper hätte, d.h. wenn mein Körper aus zwei getrennten Leibern bestünde? Hier sieht man – glaube ich – wieder, wie das Ich nicht auf der selber Stufe mit den Andern steht, denn wenn die Andern je zwei Körper hätten, so könnte ich es nicht erkennen. Kann ich mir denn die Erfahrung mit zwei Leibern denken? Die Gesichtserfahrung gewiß nicht.
 
 ### [Ts-209](/ts-209/#26.10) <span class="fac">[26\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/26.webp)</span> {#ts-209-2610}
 
@@ -1012,7 +1012,7 @@ Wenn man glaubt, sich einen vierdimensionalen Raum vorstellen zu können, warum 
 
 ### [Ts-209](/ts-209/#27.4) <span class="fac">[27\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/27.webp)</span> {#ts-209-274}
 
-<span class="series-number">67.</span> Angenommen ich hätte ein so gutes Gedächtnis, daß ich mich meiner sämtlichen Sinneseindrücke erinnern könnte. Dann spricht nichts dagegen, daß ich sie beschriebe. Es wäre das eine Lebensbeschreibung. Und warum sollte ich nicht alles Hypothetische aus dieser Beschreibung fortlassen können?
+<span class="series-number">67</span> Angenommen ich hätte ein so gutes Gedächtnis, daß ich mich meiner sämtlichen Sinneseindrücke erinnern könnte. Dann spricht nichts dagegen, daß ich sie beschriebe. Es wäre das eine Lebensbeschreibung. Und warum sollte ich nicht alles Hypothetische aus dieser Beschreibung fortlassen können?
 
 ### [Ts-209](/ts-209/#27.5) <span class="fac">[27\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/27.webp)</span> {#ts-209-275}
 
@@ -1028,7 +1028,7 @@ Denken wir uns so eine Darstellung: Die Körper die ich scheinbar sehe werden du
 
 ### [Ts-209](/ts-209/#27.8) <span class="fac">[27\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/27.webp)</span> {#ts-209-278}
 
-<span class="series-number">68.</span> Ist es nicht klar, daß das die unmittelbarste Beschreibung wäre, die sich denken läßt? D.h., daß alles was noch unmittelbarer sein wollte aufhören müßte eine Beschreibung zu sein?
+<span class="series-number">68</span> Ist es nicht klar, daß das die unmittelbarste Beschreibung wäre, die sich denken läßt? D.h., daß alles was noch unmittelbarer sein wollte aufhören müßte eine Beschreibung zu sein?
 
 ### [Ts-209](/ts-209/#27.9) <span class="fac">[27\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/27.webp)</span> {#ts-209-279}
 
@@ -1040,7 +1040,7 @@ Die Sprache selbst gehört zum zweiten System. Wenn ich eine Sprache beschreibe,
 
 ### [Ts-209](/ts-209/#28.1) <span class="fac">[28\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/28.webp)</span> {#ts-209-281}
 
-<span class="series-number">69.</span> Ist es nicht so: Das Phänomen (specious present) enthält die Zeit, ist aber nicht in der Zeit? Seine Form ist die Zeit, aber es hat keinen Platz in der Zeit.
+<span class="series-number">69</span> Ist es nicht so: Das Phänomen (specious present) enthält die Zeit, ist aber nicht in der Zeit? Seine Form ist die Zeit, aber es hat keinen Platz in der Zeit.
 
 ### [Ts-209](/ts-209/#28.2) <span class="fac">[28\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/28.webp)</span> {#ts-209-282}
 
@@ -1064,7 +1064,7 @@ Ich meine: Was ich Zeichen nenne, muß das sein, was man in der Grammatik Zeiche
 
 ### [Ts-209](/ts-209/#28.7) <span class="fac">[28\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/28.webp)</span> {#ts-209-287}
 
-<span class="series-number">70.</span> Wir befinden uns mit unserer Sprache sozusagen nicht im Bereich des projizierten Bildes, sondern im Bereich des Films. Und wenn ich zu dem Vorgang auf der Leinwand Musik machen will, muß das, was sie hervorruft, sich wieder in der Sphäre des Films abspielen.
+<span class="series-number">70</span> Wir befinden uns mit unserer Sprache sozusagen nicht im Bereich des projizierten Bildes, sondern im Bereich des Films. Und wenn ich zu dem Vorgang auf der Leinwand Musik machen will, muß das, was sie hervorruft, sich wieder in der Sphäre des Films abspielen.
 
 ---
 
@@ -1074,7 +1074,7 @@ Andererseits ist es klar, daß wir eine Ausdrucksweise brauchen, in der wir die 
 
 ### [Ts-209](/ts-209/#28.9) <span class="fac">[28\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/28.webp)</span> {#ts-209-289}
 
-<span class="series-number">71.</span> Es könnte z.B. einmal praktisch sein meinen Händen und denen anderer Leute Eigennamen zu geben, um beim Reden von ihnen nicht immer von ihrer Beziehung zu einem Menschen reden zu müssen, welche für die Hände selbst unwesentlich ist und weil die gewöhnliche Ausdrucksweise den Anschein erwecken könnte, als wäre die Beziehung zum Besitzer der Hand etwas, was im Wesen der Hand selbst liegt.
+<span class="series-number">71</span> Es könnte z.B. einmal praktisch sein meinen Händen und denen anderer Leute Eigennamen zu geben, um beim Reden von ihnen nicht immer von ihrer Beziehung zu einem Menschen reden zu müssen, welche für die Hände selbst unwesentlich ist und weil die gewöhnliche Ausdrucksweise den Anschein erwecken könnte, als wäre die Beziehung zum Besitzer der Hand etwas, was im Wesen der Hand selbst liegt.
 
 ### [Ts-209](/ts-209/#28.10) <span class="fac">[28\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/28.webp)</span> {#ts-209-2810}
 
@@ -1094,7 +1094,7 @@ Das Wesentliche ist, daß die Darstellung des Gesichtsraums ein Objekt darstellt
 
 ### [Ts-209](/ts-209/#29.4) <span class="fac">[29\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/29.webp)</span> {#ts-209-294}
 
-<span class="series-number">72.</span> Angenommen alle Teile meines Körpers könnten entfernt werden, bis auf einen Augapfel; dieser würde unbeweglich irgendwo befestigt und behielte die Fähigkeit zu sehen. Wie würde mir die Welt erscheinen? Ich könnte keinen Teil meiner selbst wahrnehmen und angenommen, daß mein Augapfel für mich durchsichtig wäre, könnte ich mich auch im Spiegel nicht sehen. Eine Frage ist nun: Könnte ich mich durch mein Gesichtsbild lokalisieren? Mich lokalisieren heißt hier natürlich nur, eine bestimmte Struktur des Gesichtsraumes feststellen.
+<span class="series-number">72</span> Angenommen alle Teile meines Körpers könnten entfernt werden, bis auf einen Augapfel; dieser würde unbeweglich irgendwo befestigt und behielte die Fähigkeit zu sehen. Wie würde mir die Welt erscheinen? Ich könnte keinen Teil meiner selbst wahrnehmen und angenommen, daß mein Augapfel für mich durchsichtig wäre, könnte ich mich auch im Spiegel nicht sehen. Eine Frage ist nun: Könnte ich mich durch mein Gesichtsbild lokalisieren? Mich lokalisieren heißt hier natürlich nur, eine bestimmte Struktur des Gesichtsraumes feststellen.
 
 ### [Ts-209](/ts-209/#29.5) <span class="fac">[29\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/29.webp)</span> {#ts-209-295}
 
@@ -1114,7 +1114,7 @@ Ja, wenn mein Auge frei an der Spitze eines Astes säße, so könnte man mir sei
 
 ### [Ts-209](/ts-209/#30.2) <span class="fac">[30\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/30.webp)</span> {#ts-209-302}
 
-<span class="series-number">73.</span> Heißt das alles nun aber, daß das Gesichtsbild doch wesentlich ein Subjekt enthält oder voraussetzt? Oder ist es nicht vielmehr so, daß jene Versuche mir nur rein geometrische Aufschlüsse geben. D.h., Aufschlüsse, die immer wieder nur das Objekt betreffen. Objektive Aufschlüsse über die Realität.
+<span class="series-number">73</span> Heißt das alles nun aber, daß das Gesichtsbild doch wesentlich ein Subjekt enthält oder voraussetzt? Oder ist es nicht vielmehr so, daß jene Versuche mir nur rein geometrische Aufschlüsse geben. D.h., Aufschlüsse, die immer wieder nur das Objekt betreffen. Objektive Aufschlüsse über die Realität.
 
 ### [Ts-209](/ts-209/#30.3) <span class="fac">[30\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/30.webp)</span> {#ts-209-303}
 
@@ -1134,7 +1134,7 @@ So hätte das freisitzende unbewegliche Auge nicht die Vorstellung eines es umge
 
 ### [Ts-209](/ts-209/#30.7) <span class="fac">[30\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/30.webp)</span> {#ts-209-307}
 
-<span class="series-number">74.</span> Die unmittelbare Erfahrung kann keinen Widerspruch enthalten. Ist sie jenseits von allem Sprechen und Widersprechen, dann kann auch kein Erklärungsbedürfnis auftreten, das Gefühl, daß sich der Vorgang erklären lassen muß, weil sonst etwas nicht stimmen würde.
+<span class="series-number">74</span> Die unmittelbare Erfahrung kann keinen Widerspruch enthalten. Ist sie jenseits von allem Sprechen und Widersprechen, dann kann auch kein Erklärungsbedürfnis auftreten, das Gefühl, daß sich der Vorgang erklären lassen muß, weil sonst etwas nicht stimmen würde.
 
 ### [Ts-209](/ts-209/#30.8) <span class="fac">[30\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/30.webp)</span> {#ts-209-308}
 
@@ -1146,7 +1146,7 @@ Schon das Wort “Gesichtsraum” ist für unseren Zweck ungeeignet, denn es ent
 
 ### [Ts-209](/ts-209/#31.1) <span class="fac">[31\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/31.webp)</span> {#ts-209-311}
 
-<span class="series-number">75.</span> Wenn nun die phänomenologische Sprache den Gesichtsraum und was in ihm vorgeht von allem Anderen isoliert, was macht sie mit der Zeit? Ist die Zeit der “visuellen” Phänomene die Zeit unserer gewöhnlichen physikalischen Ausdrucksweise?
+<span class="series-number">75</span> Wenn nun die phänomenologische Sprache den Gesichtsraum und was in ihm vorgeht von allem Anderen isoliert, was macht sie mit der Zeit? Ist die Zeit der “visuellen” Phänomene die Zeit unserer gewöhnlichen physikalischen Ausdrucksweise?
 
 ### [Ts-209](/ts-209/#31.2) <span class="fac">[31\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/31.webp)</span> {#ts-209-312}
 
@@ -1172,7 +1172,7 @@ Natürlich ist auch das Wort “Gegenwart” hier nicht am Platz. Denn inwiefern
 
 ### [Ts-209](/ts-209/#31.7+32.1) <span class="fac">[31\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/31.webp),[32\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/32.webp)</span> {#ts-209-317321}
 
-<span class="series-number">76.</span> Der erste Gedanke ist, daß es unverträglich ist, daß zwei Farben an _einem_ Ort zugleich sein sollten. Der nächste ist, daß zwei Farben an _einem_ Ort sich nur zu einer resultierenden Farbe ergänzen. Der dritte aber ist der Einwand: Wie verhält es sich mit Komplementärfarben? Wie ergänzen sich rot und grün? Etwa zu schwarz? Aber sehe ich denn grün in der schwarzen Farbe? – Aber sogar abgesehen davon: Wie ist es mit den Mischfarben, z.B. von rot und blau. Diese enthalten teils mehr teils weniger rot; was heißt das? Was es bedeutet, daß etwas _rot ist_, ist klar, aber, daß es mehr oder weniger rot _enthält_? – Und verschiedene Grade von rot sind miteinander unverträglich. Das könnte man sich etwa so erklärt denken, daß irgendwie kleine Quantitäten von rot addiert einen gewissen Grad von rot ergeben. Was heißt es aber dann zu sagen, daß etwa 5 solcher Quantitäten von rot vorhanden sind? Es kann natürlich nicht ein logisches Produkt sein, daß die Quantität № 1 vorhanden ist und die Quantität № 2 etc. bis 5; denn wie würde sich diese von einander unterscheiden? Es kann also der Satz, daß der Grad 5 von rot vorhanden ist, nicht so zerlegt werden. Und ich kann also auch keinen abschließenden Satz haben, daß das das ganze Rot ist, welches in dieser Farbe vorhanden ist; denn es hat keinen Sinn, zu sagen, daß kein rot mehr dazu kommt, da ich nicht durch das logische “und” Quantitäten von rot addieren konnte. Es heißt auch nichts, zu sagen, daß ein Stab, der 3 m lang ist, auch 2 m lang ist, weil er 2 + 1 m lang ist, denn man kann nicht sagen, er ist 2 m lang und er ist 1 m lang. Die Länge von 3 m ist etwas Neues. Und doch kann ich, wenn ich zwei verschiedene rote Blau sehe, sagen: Es gibt ein noch röteres Blau als das rötere dieser Beiden. D.h. ich kann aus dem Gegebenen das Nichtgegebene konstruieren.
+<span class="series-number">76</span> Der erste Gedanke ist, daß es unverträglich ist, daß zwei Farben an _einem_ Ort zugleich sein sollten. Der nächste ist, daß zwei Farben an _einem_ Ort sich nur zu einer resultierenden Farbe ergänzen. Der dritte aber ist der Einwand: Wie verhält es sich mit Komplementärfarben? Wie ergänzen sich rot und grün? Etwa zu schwarz? Aber sehe ich denn grün in der schwarzen Farbe? – Aber sogar abgesehen davon: Wie ist es mit den Mischfarben, z.B. von rot und blau. Diese enthalten teils mehr teils weniger rot; was heißt das? Was es bedeutet, daß etwas _rot ist_, ist klar, aber, daß es mehr oder weniger rot _enthält_? – Und verschiedene Grade von rot sind miteinander unverträglich. Das könnte man sich etwa so erklärt denken, daß irgendwie kleine Quantitäten von rot addiert einen gewissen Grad von rot ergeben. Was heißt es aber dann zu sagen, daß etwa 5 solcher Quantitäten von rot vorhanden sind? Es kann natürlich nicht ein logisches Produkt sein, daß die Quantität № 1 vorhanden ist und die Quantität № 2 etc. bis 5; denn wie würde sich diese von einander unterscheiden? Es kann also der Satz, daß der Grad 5 von rot vorhanden ist, nicht so zerlegt werden. Und ich kann also auch keinen abschließenden Satz haben, daß das das ganze Rot ist, welches in dieser Farbe vorhanden ist; denn es hat keinen Sinn, zu sagen, daß kein rot mehr dazu kommt, da ich nicht durch das logische “und” Quantitäten von rot addieren konnte. Es heißt auch nichts, zu sagen, daß ein Stab, der 3 m lang ist, auch 2 m lang ist, weil er 2 + 1 m lang ist, denn man kann nicht sagen, er ist 2 m lang und er ist 1 m lang. Die Länge von 3 m ist etwas Neues. Und doch kann ich, wenn ich zwei verschiedene rote Blau sehe, sagen: Es gibt ein noch röteres Blau als das rötere dieser Beiden. D.h. ich kann aus dem Gegebenen das Nichtgegebene konstruieren.
 
 ### [Ts-209](/ts-209/#32.2) <span class="fac">[32\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/32.webp)</span> {#ts-209-322}
 
@@ -1184,7 +1184,7 @@ Das läßt es erscheinen, als könne innerhalb des Elementarsatzes eine Konstruk
 
 ### [Ts-209](/ts-209/#32.4) <span class="fac">[32\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/32.webp)</span> {#ts-209-324}
 
-<span class="series-number">77.</span> Wie ist es möglich, daß fa und fb einander widersprechen, wie es doch der Fall zu sein scheint? Z.B. wenn ich sage “hier ist jetzt rot” und “hier ist jetzt grün”? Es hängt das mit der Idee der _vollständigen Beschreibung_ zusammen: “Der Fleck ist grün” beschreibt den Fleck vollständig und es ist für eine andere Farbe kein Platz mehr.
+<span class="series-number">77</span> Wie ist es möglich, daß fa und fb einander widersprechen, wie es doch der Fall zu sein scheint? Z.B. wenn ich sage “hier ist jetzt rot” und “hier ist jetzt grün”? Es hängt das mit der Idee der _vollständigen Beschreibung_ zusammen: “Der Fleck ist grün” beschreibt den Fleck vollständig und es ist für eine andere Farbe kein Platz mehr.
 
 ### [Ts-209](/ts-209/#32.5) <span class="fac">[32\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/32.webp)</span> {#ts-209-325}
 
@@ -1196,7 +1196,7 @@ Wenn ich z.B. sage, ein Fleck ist zugleich hellrot und dunkelrot, so denke ich d
 
 ### [Ts-209](/ts-209/#32.7) <span class="fac">[32\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/32.webp)</span> {#ts-209-327}
 
-<span class="series-number">78.</span> Wenn f(r) und f(g) einander widersprechen, so liegt das daran, daß r und g das f vollständig ausfüllen und nicht beide darin sein können. Das aber zeigt sich in unseren Zeichen nicht. Es muß sich aber zeigen, wenn wir nicht das Zeichen sondern das Symbol betrachten. Denn da dieses die Form der Gegenstände einbegreift, so muß sich dort, in dieser Form, die Unmöglichkeit von frfg zeigen.
+<span class="series-number">78</span> Wenn f(r) und f(g) einander widersprechen, so liegt das daran, daß r und g das f vollständig ausfüllen und nicht beide darin sein können. Das aber zeigt sich in unseren Zeichen nicht. Es muß sich aber zeigen, wenn wir nicht das Zeichen sondern das Symbol betrachten. Denn da dieses die Form der Gegenstände einbegreift, so muß sich dort, in dieser Form, die Unmöglichkeit von frfg zeigen.
 
 ### [Ts-209](/ts-209/#33.1) <span class="fac">[33\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/33.webp)</span> {#ts-209-331}
 
@@ -1216,7 +1216,7 @@ D.h. natürlich nicht, daß das Folgern nun nicht nur formell sondern auch mater
 
 ### [Ts-209](/ts-209/#33.5) <span class="fac">[33\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/33.webp)</span> {#ts-209-335}
 
-<span class="series-number">79.</span> Das würde aber heißen, daß ich zwei bestimmte Sätze zwar anschreiben darf, aber nicht ihr logisches Produkt.
+<span class="series-number">79</span> Das würde aber heißen, daß ich zwei bestimmte Sätze zwar anschreiben darf, aber nicht ihr logisches Produkt.
 
 ### [Ts-209](/ts-209/#33.6) <span class="fac">[33\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/33.webp)</span> {#ts-209-336}
 
@@ -1228,7 +1228,7 @@ Der Satz f(g) & f(r) ist nicht Unsinn, weil ja nicht _alle_ Wahrheitsmöglichkei
 
 ### [Ts-209](/ts-209/#33.8) <span class="fac">[33\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/33.webp)</span> {#ts-209-338}
 
-<span class="series-number">80.</span> Der gelbliche Stich ist nicht die Farbe Gelb. Ich kann gelb und rot nicht eigentlich _mischen_ d.h. nicht wirklich zugleich sehen, denn wenn ich hier gelb sehen will, so muß das Rot von diesem Platze weg und umgekehrt.
+<span class="series-number">80</span> Der gelbliche Stich ist nicht die Farbe Gelb. Ich kann gelb und rot nicht eigentlich _mischen_ d.h. nicht wirklich zugleich sehen, denn wenn ich hier gelb sehen will, so muß das Rot von diesem Platze weg und umgekehrt.
 
 ### [Ts-209](/ts-209/#33.9) <span class="fac">[33\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/33.webp)</span> {#ts-209-339}
 
@@ -1244,7 +1244,7 @@ Eine Mischfarbe, oder besser, eine Zwischenfarbe von blau und rot ist dies durch
 
 ### [Ts-209](/ts-209/#34.3) <span class="fac">[34\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/34.webp)</span> {#ts-209-343}
 
-<span class="series-number">81.</span> Es verhält sich übrigens mit Farben nicht anders als mit Tönen oder elektrischen Ladungen. Es handelt sich immer um die vollständige Beschreibung eines gewissen Zustandes in _einem_ Punkt oder zur selben Zeit. Könnte es nicht folgendes Schema geben: Die Farbe in einem Punkt ist nicht durch die Zuordnung _einer_ Zahl zu einem Punkt beschrieben, sondern durch die Zuordnung _mehrerer_ Zahlen. Eine Mischung dieser Zahlen macht erst die Farbe und um die vollständige Farbe zu beschreiben brauche ich den Satz, daß _diese_ Mischung nun die komplette Mischung ist, also nichts mehr dazukommen kann. Das wäre so, wie wenn ich den Geschmack eines Gerichtes beschriebe, indem ich die Ingredienzien aufzähle; dann muß ich am Schluß den Zusatz machen, daß das nun _alle_ Ingredienzien sind. So könnte man sagen, ist auch die Farbe erst dann fertig beschrieben, wenn alle ihre Ingredienzien angegeben sind, natürlich also mit dem Zusatz, daß es alle sind. Aber wie ist dieser Zusatz zu machen? Wenn in Form eines _Satzes_, dann müßte auch die unvollständige Beschreibung schon ein Satz sein. Und wenn nicht in Form eines eigenen Satzes, sondern nur durch irgend eine Art der Andeutung im ersten Satz, wie kann ich dann bewirken, daß ein zweiter Satz von derselben Form dem ersten Zwei Elementarsätze können einander ja nicht widersprechen.
+<span class="series-number">81</span> Es verhält sich übrigens mit Farben nicht anders als mit Tönen oder elektrischen Ladungen. Es handelt sich immer um die vollständige Beschreibung eines gewissen Zustandes in _einem_ Punkt oder zur selben Zeit. Könnte es nicht folgendes Schema geben: Die Farbe in einem Punkt ist nicht durch die Zuordnung _einer_ Zahl zu einem Punkt beschrieben, sondern durch die Zuordnung _mehrerer_ Zahlen. Eine Mischung dieser Zahlen macht erst die Farbe und um die vollständige Farbe zu beschreiben brauche ich den Satz, daß _diese_ Mischung nun die komplette Mischung ist, also nichts mehr dazukommen kann. Das wäre so, wie wenn ich den Geschmack eines Gerichtes beschriebe, indem ich die Ingredienzien aufzähle; dann muß ich am Schluß den Zusatz machen, daß das nun _alle_ Ingredienzien sind. So könnte man sagen, ist auch die Farbe erst dann fertig beschrieben, wenn alle ihre Ingredienzien angegeben sind, natürlich also mit dem Zusatz, daß es alle sind. Aber wie ist dieser Zusatz zu machen? Wenn in Form eines _Satzes_, dann müßte auch die unvollständige Beschreibung schon ein Satz sein. Und wenn nicht in Form eines eigenen Satzes, sondern nur durch irgend eine Art der Andeutung im ersten Satz, wie kann ich dann bewirken, daß ein zweiter Satz von derselben Form dem ersten Zwei Elementarsätze können einander ja nicht widersprechen.
 
 ### [Ts-209](/ts-209/#34.4) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/34.webp)</span> {#ts-209-344}
 
@@ -1252,7 +1252,7 @@ Wie verhält es sich aber mit allen scheinbar ähnlichen Aussagen, wie: Ein mate
 
 ### [Ts-209](/ts-209/#34.5) <span class="fac">[34\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/34.webp)</span> {#ts-209-345}
 
-<span class="series-number">82.</span> Es ist so: Die grammatischen Regeln über “und”, “nicht”, “oder” etc. sind eben nicht damit erschöpft, was ich in der Abhandlung gesagt habe, sondern es gibt Regeln über die Wahrheitsfunktionen, die auch von dem elementaren Teil des Satzes handeln.
+<span class="series-number">82</span> Es ist so: Die grammatischen Regeln über “und”, “nicht”, “oder” etc. sind eben nicht damit erschöpft, was ich in der Abhandlung gesagt habe, sondern es gibt Regeln über die Wahrheitsfunktionen, die auch von dem elementaren Teil des Satzes handeln.
 
 ### [Ts-209](/ts-209/#34.6) <span class="fac">[34\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/34.webp)</span> {#ts-209-346}
 
@@ -1276,7 +1276,7 @@ Ich beschreibe einen Sachverhalt doch nicht dadurch, daß ich das erwähne, was 
 
 ### [Ts-209](/ts-209/#35.5) <span class="fac">[35\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/35.webp)</span> {#ts-209-355}
 
-<span class="series-number">83.</span> Der Begriff des “Elementarsatzes” verliert jetzt überhaupt seine frühere Bedeutung.
+<span class="series-number">83</span> Der Begriff des “Elementarsatzes” verliert jetzt überhaupt seine frühere Bedeutung.
 
 ### [Ts-209](/ts-209/#35.6) <span class="fac">[35\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/35.webp)</span> {#ts-209-356}
 
@@ -1300,7 +1300,7 @@ Wenn ich den allgemeinen Standpunkt darstellen wollte, würde ich sagen: “Man 
 
 ### [Ts-209](/ts-209/#36.1) <span class="fac">[36\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/36.webp)</span> {#ts-209-361}
 
-<span class="series-number">84.</span> Es stellt die Sache falsch dar, wenn man sagt, man dürfe einem Gegenstand nicht zwei Attribute beilegen, die miteinander unvereinbar sind. Denn so scheint es, als müsse man in jedem Falle erst untersuchen, ob zwei Bestimmungen miteinander vereinbar seien oder nicht. Die Wahrheit ist, daß _zwei_ Bestimmungen derselben Koordinate unmöglich sind.
+<span class="series-number">84</span> Es stellt die Sache falsch dar, wenn man sagt, man dürfe einem Gegenstand nicht zwei Attribute beilegen, die miteinander unvereinbar sind. Denn so scheint es, als müsse man in jedem Falle erst untersuchen, ob zwei Bestimmungen miteinander vereinbar seien oder nicht. Die Wahrheit ist, daß _zwei_ Bestimmungen derselben Koordinate unmöglich sind.
 
 ### [Ts-209](/ts-209/#36.2) <span class="fac">[36\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/36.webp)</span> {#ts-209-362}
 
@@ -1322,11 +1322,11 @@ Es müssen übrigens nicht Maßstäbe sein. Denn eine Scheibe mit 2 Signalen kan
 
 ### [Ts-209](/ts-209/#36.6) <span class="fac">[36\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/36.webp)</span> {#ts-209-366}
 
-<span class="series-number">85.</span> Daß alle Sätze die Zeit in irgend einer Weise enthalten, scheint uns zufällig, im Vergleich dazu, daß auf alle Sätze die Wahrheitsfunktionen anwendbar sind. Das scheint mit ihrem Wesen als Sätzen zusammenzuhängen, das andere mit dem Wesen der vorgefundenen Realität. Wahr-Falsch und die Wahrheitsfunktionen hängen mit der Darstellung der Wirklichkeit durch Sätze zusammen. Wenn einer sagte: ja woher weißt du, daß die ganze Wirklichkeit durch Sätze darstellbar ist, so ist die Antwort: Ich weiß nur, daß sie durch Sätze darstellbar ist, soweit sie durch Sätze darstellbar ist, und eine Grenze ziehen zwischen einem Teil der, und einem Teil der nicht so darstellbar ist, kann ich in der Sprache nicht. Sprache _heißt_ die Gesamtheit der Sätze. Man könnte sagen: Satz ist das, worauf sich die Wahrheitsfunktionen anwenden lassen. – Die Wahrheitsfunktionen sind der _Sprache_ wesentlich.
+<span class="series-number">85</span> Daß alle Sätze die Zeit in irgend einer Weise enthalten, scheint uns zufällig, im Vergleich dazu, daß auf alle Sätze die Wahrheitsfunktionen anwendbar sind. Das scheint mit ihrem Wesen als Sätzen zusammenzuhängen, das andere mit dem Wesen der vorgefundenen Realität. Wahr-Falsch und die Wahrheitsfunktionen hängen mit der Darstellung der Wirklichkeit durch Sätze zusammen. Wenn einer sagte: ja woher weißt du, daß die ganze Wirklichkeit durch Sätze darstellbar ist, so ist die Antwort: Ich weiß nur, daß sie durch Sätze darstellbar ist, soweit sie durch Sätze darstellbar ist, und eine Grenze ziehen zwischen einem Teil der, und einem Teil der nicht so darstellbar ist, kann ich in der Sprache nicht. Sprache _heißt_ die Gesamtheit der Sätze. Man könnte sagen: Satz ist das, worauf sich die Wahrheitsfunktionen anwenden lassen. – Die Wahrheitsfunktionen sind der _Sprache_ wesentlich.
 
 ### [Ts-209](/ts-209/#36.7) <span class="fac">[36\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/36.webp)</span> {#ts-209-367}
 
-<span class="series-number">86.</span> Die Syntax verbietet eine Bildung wie “A ist grün und A ist rot”. (Das erste Gefühl ist, als geschähe da mit diesem Satz ein Unrecht; als wäre er dadurch in den Rechten des Satzes verkürzt) aber für “A ist grün” ist der Satz “A ist rot” sozusagen gar kein _anderer_ Satz – und das ist es eigentlich, was die Syntax festhält – sondern eine andere Form desselben Satzes. Die Syntax zieht dadurch Sätze zusammen, die _eine_ Bestimmung sind.
+<span class="series-number">86</span> Die Syntax verbietet eine Bildung wie “A ist grün und A ist rot”. (Das erste Gefühl ist, als geschähe da mit diesem Satz ein Unrecht; als wäre er dadurch in den Rechten des Satzes verkürzt) aber für “A ist grün” ist der Satz “A ist rot” sozusagen gar kein _anderer_ Satz – und das ist es eigentlich, was die Syntax festhält – sondern eine andere Form desselben Satzes. Die Syntax zieht dadurch Sätze zusammen, die _eine_ Bestimmung sind.
 
 ### [Ts-209](/ts-209/#36.8) <span class="fac">[36\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/36.webp)</span> {#ts-209-368}
 
@@ -1338,7 +1338,7 @@ Inwiefern enthält der gegenwärtige, schmerzlose, Zustand die Möglichkeit der 
 
 ### [Ts-209](/ts-209/#37.2) <span class="fac">[37\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/37.webp)</span> {#ts-209-372}
 
-<span class="series-number">87.</span> Der allgemeine Satz (ich sehe einen Kreis auf rotem Grund) scheint einfach ein Satz zu sein, der Möglichkeiten offen läßt. Gleichsam ein unvollständiges Bild. Ein Porträt in dem z.B. die Augen nicht gemalt wurden. Was aber hätte diese Allgemeinheit mit einer Gesamtheit von Gegenständen zu tun?
+<span class="series-number">87</span> Der allgemeine Satz (ich sehe einen Kreis auf rotem Grund) scheint einfach ein Satz zu sein, der Möglichkeiten offen läßt. Gleichsam ein unvollständiges Bild. Ein Porträt in dem z.B. die Augen nicht gemalt wurden. Was aber hätte diese Allgemeinheit mit einer Gesamtheit von Gegenständen zu tun?
 
 ### [Ts-209](/ts-209/#37.3) <span class="fac">[37\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/37.webp)</span> {#ts-209-373}
 
@@ -1354,7 +1354,7 @@ Die Allgemeinheit in diesem Sinne tritt also in die Lehre von den Elementarsätz
 
 ### [Ts-209](/ts-209/#37.6) <span class="fac">[37\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/37.webp)</span> {#ts-209-376}
 
-<span class="series-number">88.</span> Wenn ich das Gesichtsfeld nicht vollständig beschreibe sondern nur einen Teil, so ist es offenbar, daß in der Tatsache gleichsam eine Lücke ist. Es ist offenbar etwas ausgelassen. Wenn ich ein Bild dieses Gesichtsbildes malte, so würde ich die Leinwand an gewissen Stellen durchschauen lassen. Aber die Leinwand hat ja auch eine Farbe und füllt den Raum aus. _Nichts_ könnte ich nicht an der Stelle lassen, wo etwas fehlt. Meine Beschreibung muß also unbedingt den ganzen Gesichtsraum, ja selbst seine Färbigkeit enthalten, auch wenn sie nicht sagt, welche Farbe an jedem Ort ist. D.h. sie muß doch sagen, daß eine Farbe an jedem Ort ist. Heißt das, daß die Beschreibung den Raum, soweit sie ihn nicht mit Konstanten erfüllt, mit Variablen erfüllen muß?
+<span class="series-number">88</span> Wenn ich das Gesichtsfeld nicht vollständig beschreibe sondern nur einen Teil, so ist es offenbar, daß in der Tatsache gleichsam eine Lücke ist. Es ist offenbar etwas ausgelassen. Wenn ich ein Bild dieses Gesichtsbildes malte, so würde ich die Leinwand an gewissen Stellen durchschauen lassen. Aber die Leinwand hat ja auch eine Farbe und füllt den Raum aus. _Nichts_ könnte ich nicht an der Stelle lassen, wo etwas fehlt. Meine Beschreibung muß also unbedingt den ganzen Gesichtsraum, ja selbst seine Färbigkeit enthalten, auch wenn sie nicht sagt, welche Farbe an jedem Ort ist. D.h. sie muß doch sagen, daß eine Farbe an jedem Ort ist. Heißt das, daß die Beschreibung den Raum, soweit sie ihn nicht mit Konstanten erfüllt, mit Variablen erfüllen muß?
 
 ### [Ts-209](/ts-209/#37.7) <span class="fac">[37\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/37.webp)</span> {#ts-209-377}
 
@@ -1362,7 +1362,7 @@ Man könnte dagegen einwenden, daß man einen Teil des Gesichtsfeldes überhaupt
 
 ### [Ts-209](/ts-209/#37.8) <span class="fac">[37\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/37.webp)</span> {#ts-209-378}
 
-<span class="series-number">89.</span> Die Frage ist: Kann ich in einem Satz eine Bestimmung offen lassen, _ohne_ zugleich genau anzugeben, was die offengelassenen Möglichkeiten sind?
+<span class="series-number">89</span> Die Frage ist: Kann ich in einem Satz eine Bestimmung offen lassen, _ohne_ zugleich genau anzugeben, was die offengelassenen Möglichkeiten sind?
 
 ### [Ts-209](/ts-209/#38.1) <span class="fac">[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/38.webp)</span> {#ts-209-381}
 
@@ -1370,7 +1370,7 @@ Unterscheidet sich der Fall des allgemeinen Satzes “ein roter Kreis befindet s
 
 ### [Ts-209](/ts-209/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/38.webp)</span> {#ts-209-382}
 
-<span class="series-number">90.</span> Angenommen, ein unvollständiges Bild ist: Ein roter Kreis steht auf einem andersfärbigen Hintergrund von der Farbe x. Es ist klar, daß dieses Bild im positiven Sinne als Satz verwendet werden kann, aber auch im negativen. Im negativen Sinne sagt es, was Russell durch non (∃x)․Fx ausdrückt. Gibt es nun in meiner Auffassung auch ein Analogen zu Russells (∃x)․nonFx? Das hieße: Es gibt ein x wofür es nicht wahr ist, daß ein roter Kreis auf dem Hintergrund von dieser Farbe steht. Oder mit andern Worten: Es gibt eine Farbe des Hintergrundes, auf der kein roter Kreis steht. Und das ist hier Unsinn!
+<span class="series-number">90</span> Angenommen, ein unvollständiges Bild ist: Ein roter Kreis steht auf einem andersfärbigen Hintergrund von der Farbe x. Es ist klar, daß dieses Bild im positiven Sinne als Satz verwendet werden kann, aber auch im negativen. Im negativen Sinne sagt es, was Russell durch non (∃x)․Fx ausdrückt. Gibt es nun in meiner Auffassung auch ein Analogen zu Russells (∃x)․nonFx? Das hieße: Es gibt ein x wofür es nicht wahr ist, daß ein roter Kreis auf dem Hintergrund von dieser Farbe steht. Oder mit andern Worten: Es gibt eine Farbe des Hintergrundes, auf der kein roter Kreis steht. Und das ist hier Unsinn!
 
 ### [Ts-209](/ts-209/#38.3) <span class="fac">[38\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/38.webp)</span> {#ts-209-383}
 
@@ -1382,7 +1382,7 @@ Das hängt damit zusammen, daß es Unsinn ist, einem Kreis einen Namen zu geben.
 
 ### [Ts-209](/ts-209/#38.5) <span class="fac">[38\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/38.webp)</span> {#ts-209-385}
 
-<span class="series-number">91.</span> Wenn sich die Allgemeinheit mit den Wahrheitsfunktionen nicht mehr zu einem homogenen Ganzen verbindet, dann kann keine Negation _unter_ einer Allgemeinheitsbezeichnung stehen. Freilich könnte ich sagen: “Es gibt einen roten Kreis außerhalb des Vierecks” heißt “es ist nicht wahr, daß alle roten Kreise im Viereck sind”. Aber welche _alle_?
+<span class="series-number">91</span> Wenn sich die Allgemeinheit mit den Wahrheitsfunktionen nicht mehr zu einem homogenen Ganzen verbindet, dann kann keine Negation _unter_ einer Allgemeinheitsbezeichnung stehen. Freilich könnte ich sagen: “Es gibt einen roten Kreis außerhalb des Vierecks” heißt “es ist nicht wahr, daß alle roten Kreise im Viereck sind”. Aber welche _alle_?
 
 ### [Ts-209](/ts-209/#38.6) <span class="fac">[38\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/38.webp)</span> {#ts-209-386}
 
@@ -1390,7 +1390,7 @@ Das hängt damit zusammen, daß es Unsinn ist, einem Kreis einen Namen zu geben.
 
 ### [Ts-209](/ts-209/#39.1) <span class="fac">[39\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/39.webp)</span> {#ts-209-391}
 
-<span class="series-number">92.</span> Wenn uns vorgehalten wird, daß die Sprache alles mit Hilfe von Substantiven, Adjektiven und Verben ausdrücken kann, so müssen wir sagen, daß es dann jedenfalls nötig ist, zwischen ganz verschiedenen Arten von Substantiven etc. zu unterscheiden, da verschiedene grammatikalische Regeln von ihnen gelten. Dies zeigt sich darin, daß es nicht erlaubt ist, sie für einander einzusetzen. Es zeigt sich dadurch, daß ihr substantivischer Charakter nur eine Äußerlichkeit war und daß wir es wirklich mit ganz verschiedenen Wortgattungen zu tun haben. Die Wortgattung wird (erst) durch _alle_ grammatischen Regeln bestimmt, die von einem Wort gelten, und so betrachtet, hat unsere Sprache eine Unmenge verschiedener Wortarten.
+<span class="series-number">92</span> Wenn uns vorgehalten wird, daß die Sprache alles mit Hilfe von Substantiven, Adjektiven und Verben ausdrücken kann, so müssen wir sagen, daß es dann jedenfalls nötig ist, zwischen ganz verschiedenen Arten von Substantiven etc. zu unterscheiden, da verschiedene grammatikalische Regeln von ihnen gelten. Dies zeigt sich darin, daß es nicht erlaubt ist, sie für einander einzusetzen. Es zeigt sich dadurch, daß ihr substantivischer Charakter nur eine Äußerlichkeit war und daß wir es wirklich mit ganz verschiedenen Wortgattungen zu tun haben. Die Wortgattung wird (erst) durch _alle_ grammatischen Regeln bestimmt, die von einem Wort gelten, und so betrachtet, hat unsere Sprache eine Unmenge verschiedener Wortarten.
 
 ### [Ts-209](/ts-209/#39.2) <span class="fac">[39\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/39.webp)</span> {#ts-209-392}
 
@@ -1398,7 +1398,7 @@ Wenn man einem Körper einen Namen gibt, so kann man nicht in demselben Sinne se
 
 ### [Ts-209](/ts-209/#39.3) <span class="fac">[39\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/39.webp)</span> {#ts-209-393}
 
-<span class="series-number">93.</span> Denken wir uns zwei Ebenen, auf der Ebene I seien Figuren, die wir auf die Ebene II durch irgendwelche Projektionsmethoden abbilden wollen. Wir haben dann die Möglichkeit eine Projektionsmethode (etwa die der orthogonalen Projektion) festzulegen und dann die Bilder auf der zweiten Ebene dieser Methode der Abbildung entsprechend zu deuten. Wir können aber auch einen ganz andern Weg einschlagen: Wir bestimmen etwa aus irgendwelchen Gründen, daß die Bilder in der zweiten Ebene sämtlich Kreise sein sollen, was immer die Figuren in der ersten Ebene sein mögen. D.h. verschiedene Figuren der ersten Ebene werden durch verschiedene Projektionsmethoden in die zweite Ebene abgebildet. Um dann die Kreise in II als Bilder zu verstehen, werde ich zu jedem Kreis sagen müssen, welche Projektionsmethode zu ihm gehört. Die bloße Tatsache aber, daß sich eine Figur in II als Kreis darstellt, wird noch gar nichts sagen. – So geht es mit der Wirklichkeit, wenn wir sie in Subjekt-Prädikat-Sätze abbilden. Daß wir Subjekt-Prädikat-Sätze gebrauchen, ist nur eine Angelegenheit unserer Zeichengebung. Die Subjekt-Prädikatform ist an sich noch keine logische Form und sie ist Ausdrucksmittel unzähliger grundverschiedener logischer Formen, wie die Kreise auf der Ebene II. Sätze: “Der Teller ist rund”, “der Mann ist groß”, “der Fleck ist rot” haben in ihrer Form nichts gemeinsames.
+<span class="series-number">93</span> Denken wir uns zwei Ebenen, auf der Ebene I seien Figuren, die wir auf die Ebene II durch irgendwelche Projektionsmethoden abbilden wollen. Wir haben dann die Möglichkeit eine Projektionsmethode (etwa die der orthogonalen Projektion) festzulegen und dann die Bilder auf der zweiten Ebene dieser Methode der Abbildung entsprechend zu deuten. Wir können aber auch einen ganz andern Weg einschlagen: Wir bestimmen etwa aus irgendwelchen Gründen, daß die Bilder in der zweiten Ebene sämtlich Kreise sein sollen, was immer die Figuren in der ersten Ebene sein mögen. D.h. verschiedene Figuren der ersten Ebene werden durch verschiedene Projektionsmethoden in die zweite Ebene abgebildet. Um dann die Kreise in II als Bilder zu verstehen, werde ich zu jedem Kreis sagen müssen, welche Projektionsmethode zu ihm gehört. Die bloße Tatsache aber, daß sich eine Figur in II als Kreis darstellt, wird noch gar nichts sagen. – So geht es mit der Wirklichkeit, wenn wir sie in Subjekt-Prädikat-Sätze abbilden. Daß wir Subjekt-Prädikat-Sätze gebrauchen, ist nur eine Angelegenheit unserer Zeichengebung. Die Subjekt-Prädikatform ist an sich noch keine logische Form und sie ist Ausdrucksmittel unzähliger grundverschiedener logischer Formen, wie die Kreise auf der Ebene II. Sätze: “Der Teller ist rund”, “der Mann ist groß”, “der Fleck ist rot” haben in ihrer Form nichts gemeinsames.
 
 ### [Ts-209](/ts-209/#39.4) <span class="fac">[39\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/39.webp)</span> {#ts-209-394}
 
@@ -1406,7 +1406,7 @@ Eine Schwierigkeit der Frege'schen Theorie ist die Allgemeinheit der Worte “Be
 
 ### [Ts-209](/ts-209/#39.5) <span class="fac">[39\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/39.webp)</span> {#ts-209-395}
 
-<span class="series-number">94.</span> Es ist nämlich klar, daß, wenn man einmal mit der Arithmetik angefangen hat, man sich nicht mehr um Funktionen und Gegenstände kümmert. Ja auch wenn man sich entschlossen hat, nur mit Extensionen zu arbeiten, bleibt noch das Sonderbare, daß man auch auf die Form von Gegenständen keinerlei Rücksicht nimmt.
+<span class="series-number">94</span> Es ist nämlich klar, daß, wenn man einmal mit der Arithmetik angefangen hat, man sich nicht mehr um Funktionen und Gegenstände kümmert. Ja auch wenn man sich entschlossen hat, nur mit Extensionen zu arbeiten, bleibt noch das Sonderbare, daß man auch auf die Form von Gegenständen keinerlei Rücksicht nimmt.
 
 ### [Ts-209](/ts-209/#39.6) <span class="fac">[39\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/39.webp)</span> {#ts-209-396}
 
@@ -1414,7 +1414,7 @@ Ein Gegenstand darf sich in gewissem Sinne nicht beschreiben lassen. D.h. die Be
 
 ### [Ts-209](/ts-209/#40.1) <span class="fac">[40\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/40.webp)</span> {#ts-209-401}
 
-<span class="series-number">95.</span> Ich sehe 3 Kreise in bestimmter Lage; ich schließe die Augen, öffne sie wieder und sehe 3 ebenso große Kreise in anderen Lagen. Hat es einen Sinn zu fragen, ob es dieselben sind und welcher welcher ist? Gewiß nicht. Aber jetzt _während_ ich sie sehe, kann ich sie identifizieren. (Sogar wenn sie sich vor meinen Augen bewegen, kann ich die Kreise in neuen Lagen mit denen in den früheren identifizieren). Wenn ich ihnen Eigennamen gebe und schließe die Augen und öffne sie wieder und sehe, daß die Kreise in der gleichen Lage sind, so kann ich jedem wieder seinen Namen geben. (Man kann die Überlegung auch durchführen, wenn sie durch Bewegung ihre Plätze vertauscht haben). Jedenfalls benenne ich immer (direkt oder indirekt) einen _Platz_.
+<span class="series-number">95</span> Ich sehe 3 Kreise in bestimmter Lage; ich schließe die Augen, öffne sie wieder und sehe 3 ebenso große Kreise in anderen Lagen. Hat es einen Sinn zu fragen, ob es dieselben sind und welcher welcher ist? Gewiß nicht. Aber jetzt _während_ ich sie sehe, kann ich sie identifizieren. (Sogar wenn sie sich vor meinen Augen bewegen, kann ich die Kreise in neuen Lagen mit denen in den früheren identifizieren). Wenn ich ihnen Eigennamen gebe und schließe die Augen und öffne sie wieder und sehe, daß die Kreise in der gleichen Lage sind, so kann ich jedem wieder seinen Namen geben. (Man kann die Überlegung auch durchführen, wenn sie durch Bewegung ihre Plätze vertauscht haben). Jedenfalls benenne ich immer (direkt oder indirekt) einen _Platz_.
 
 ### [Ts-209](/ts-209/#40.2) <span class="fac">[40\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/40.webp)</span> {#ts-209-402}
 
@@ -1430,7 +1430,7 @@ Das Charakteristische der Sätze von der Art “dies ist …” ist nur, daß in
 
 ### [Ts-209](/ts-209/#40.5) <span class="fac">[40\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/40.webp)</span> {#ts-209-405}
 
-<span class="series-number">96.</span> Russell und Frege fassen den Begriff gleichsam als Eigenschaft eines Dings auf. Aber es ist sehr unnatürlich, die Worte Mensch, Baum, Abhandlung, Kreis, als Eigenschaften eines Substrats aufzufassen.
+<span class="series-number">96</span> Russell und Frege fassen den Begriff gleichsam als Eigenschaft eines Dings auf. Aber es ist sehr unnatürlich, die Worte Mensch, Baum, Abhandlung, Kreis, als Eigenschaften eines Substrats aufzufassen.
 
 ### [Ts-209](/ts-209/#40.6) <span class="fac">[40\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/40.webp)</span> {#ts-209-406}
 
@@ -1446,7 +1446,7 @@ Wenn ich auf eine Linie zeige und sage “das ist ein Kreis” so kann man einwe
 
 ### [Ts-209](/ts-209/#41.1) <span class="fac">[41\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/41.webp)</span> {#ts-209-411}
 
-<span class="series-number">97.</span> Beiläufig gesprochen ist die Gleichung eines Kreises das Zeichen für den Begriff Kreis, wenn keine bestimmten Werte für die Mittelpunktskoordinaten und den Radius eingesetzt sind, oder auch, wenn diese nur als in gewissen Intervallen liegend gegeben sind. Der Gegenstand, der unter den Begriff fällt, ist dann der nach Lage und Größe bestimmt gegebene Kreis.
+<span class="series-number">97</span> Beiläufig gesprochen ist die Gleichung eines Kreises das Zeichen für den Begriff Kreis, wenn keine bestimmten Werte für die Mittelpunktskoordinaten und den Radius eingesetzt sind, oder auch, wenn diese nur als in gewissen Intervallen liegend gegeben sind. Der Gegenstand, der unter den Begriff fällt, ist dann der nach Lage und Größe bestimmt gegebene Kreis.
 
 ### [Ts-209](/ts-209/#41.2) <span class="fac">[41\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/41.webp)</span> {#ts-209-412}
 
@@ -1454,7 +1454,7 @@ Worin unterscheiden sich 2 gleichgroße rote Kreise? Diese Frage klingt so, als 
 
 ### [Ts-209](/ts-209/#41.3) <span class="fac">[41\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/41.webp)</span> {#ts-209-413}
 
-<span class="series-number">98.</span> Was braucht es zu einer Beschreibung, daß – sagen wir – ein Buch an einer bestimmten Stelle ist? Die interne Beschreibung des Buches, d.i. des Begriffes und die Beschreibung seiner Lage, und die wäre durch Angabe der Koordinaten dreier Punkte möglich. Der Satz “ein solches Buch ist _hier_” würde dann heißen, es hat _diese_ 3 Trippel von Bestimmungskoordinaten. Denn die Angabe des Hier darf eben nicht präjudizieren _was_ hier ist. Ist es nun aber nicht dasselbe, ob ich sage “_dies_ ist ein Buch” und “hier ist ein Buch”? Der Satz würde dann etwa darauf hinauskommen, zu sagen “das sind 3 (bestimmte) Eckpunkte eines solchen Buches”. Man kann ähnlich auch sagen “dieser Kreis ist die Projektion einer Kugel” oder “dies ist die Erscheinung eines Menschen”. Alles was ich sage kommt darauf hinaus, daß F(x) eine _externe_ Beschreibung von x sein muß. Wenn ich nun in diesem Sinne im dreidimensionalen Raum sage “hier ist ein Kreis” und ein andermal “hier ist eine Kugel” sind die beiden _Hier_ von gleicher Art? Beide könnten doch die 3 Koordinaten des betreffenden Mittelpunkts sein. Aber die Lage des Kreises im dreidimensionalen Raum ist ja durch seine Mittelpunktskoordinaten nicht bestimmt.
+<span class="series-number">98</span> Was braucht es zu einer Beschreibung, daß – sagen wir – ein Buch an einer bestimmten Stelle ist? Die interne Beschreibung des Buches, d.i. des Begriffes und die Beschreibung seiner Lage, und die wäre durch Angabe der Koordinaten dreier Punkte möglich. Der Satz “ein solches Buch ist _hier_” würde dann heißen, es hat _diese_ 3 Trippel von Bestimmungskoordinaten. Denn die Angabe des Hier darf eben nicht präjudizieren _was_ hier ist. Ist es nun aber nicht dasselbe, ob ich sage “_dies_ ist ein Buch” und “hier ist ein Buch”? Der Satz würde dann etwa darauf hinauskommen, zu sagen “das sind 3 (bestimmte) Eckpunkte eines solchen Buches”. Man kann ähnlich auch sagen “dieser Kreis ist die Projektion einer Kugel” oder “dies ist die Erscheinung eines Menschen”. Alles was ich sage kommt darauf hinaus, daß F(x) eine _externe_ Beschreibung von x sein muß. Wenn ich nun in diesem Sinne im dreidimensionalen Raum sage “hier ist ein Kreis” und ein andermal “hier ist eine Kugel” sind die beiden _Hier_ von gleicher Art? Beide könnten doch die 3 Koordinaten des betreffenden Mittelpunkts sein. Aber die Lage des Kreises im dreidimensionalen Raum ist ja durch seine Mittelpunktskoordinaten nicht bestimmt.
 
 ### [Ts-209](/ts-209/#41.4) <span class="fac">[41\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/41.webp)</span> {#ts-209-414}
 
@@ -1462,7 +1462,7 @@ Angenommen, mein Gesichtsbild besteht aus zwei gleichgroßen roten Kreisen auf b
 
 ### [Ts-209](/ts-209/#41.5+42.1) <span class="fac">[41\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/41.webp),[42\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/42.webp)</span> {#ts-209-415421}
 
-<span class="series-number">99.</span> Man kann fragen, hat denn die Zahl wesentlich etwas mit einem Begriff zu tun? Ich glaube das kommt darauf hinaus zu fragen, ob es einen Sinn hat, von einer Anzahl von Gegenständen zu reden, die nicht unter einen Begriff gebracht sind. Heißt es z.B. etwas zu sagen: “a und b und c sind 3 Gegenstände”? Ich glaube offenbar, nein. Es ist allerdings ein Gefühl vorhanden, das uns sagt: Wozu von Begriffen reden; die Zahl hängt ja nur vom _Umfang_ des Begriffes ab und wenn der einmal bestimmt ist, so kann der Begriff sozusagen abtreten. Der Begriff ist nur eine Methode um einen Umfang zu bestimmen, der Umfang aber ist selbständig und in seinem Wesen unabhängig vom Begriff; denn es kommt ja auch nicht darauf an durch welchen Begriff wir den Umfang bestimmt haben. Das ist das Argument für die extensionale Auffassung. Dagegen kann man zuerst sagen: Wenn der Begriff wirklich nur ein Hilfsmittel ist, um zum Umfang zu gelangen, dann hat der Begriff in der Arithmetik nichts zu suchen; dann muß man eben die Klasse gänzlich von dem zufällig mit ihr verknüpften Begriff scheiden, im umgekehrten Fall aber ist der vom Begriff unabhängige Umfang nur eine Chimaire und dann ist es besser von ihm überhaupt nicht zu reden, sondern nur vom Begriff.
+<span class="series-number">99</span> Man kann fragen, hat denn die Zahl wesentlich etwas mit einem Begriff zu tun? Ich glaube das kommt darauf hinaus zu fragen, ob es einen Sinn hat, von einer Anzahl von Gegenständen zu reden, die nicht unter einen Begriff gebracht sind. Heißt es z.B. etwas zu sagen: “a und b und c sind 3 Gegenstände”? Ich glaube offenbar, nein. Es ist allerdings ein Gefühl vorhanden, das uns sagt: Wozu von Begriffen reden; die Zahl hängt ja nur vom _Umfang_ des Begriffes ab und wenn der einmal bestimmt ist, so kann der Begriff sozusagen abtreten. Der Begriff ist nur eine Methode um einen Umfang zu bestimmen, der Umfang aber ist selbständig und in seinem Wesen unabhängig vom Begriff; denn es kommt ja auch nicht darauf an durch welchen Begriff wir den Umfang bestimmt haben. Das ist das Argument für die extensionale Auffassung. Dagegen kann man zuerst sagen: Wenn der Begriff wirklich nur ein Hilfsmittel ist, um zum Umfang zu gelangen, dann hat der Begriff in der Arithmetik nichts zu suchen; dann muß man eben die Klasse gänzlich von dem zufällig mit ihr verknüpften Begriff scheiden, im umgekehrten Fall aber ist der vom Begriff unabhängige Umfang nur eine Chimaire und dann ist es besser von ihm überhaupt nicht zu reden, sondern nur vom Begriff.
 
 ### [Ts-209](/ts-209/#42.2) <span class="fac">[42\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/42.webp)</span> {#ts-209-422}
 
@@ -1474,7 +1474,7 @@ Wenn ich zwei Gegenstände habe, so kann ich diese freilich, wenigstens hypothet
 
 ### [Ts-209](/ts-209/#42.4) <span class="fac">[42\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/42.webp)</span> {#ts-209-424}
 
-<span class="series-number">100.</span> Die Zahlen sind Bilder der Begriffsumfänge.
+<span class="series-number">100</span> Die Zahlen sind Bilder der Begriffsumfänge.
 
 ### [Ts-209](/ts-209/#42.5) <span class="fac">[42\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/42.webp)</span> {#ts-209-425}
 
@@ -1498,7 +1498,7 @@ Das Axiom of infinity ist schon darum ein Unsinn, weil die Möglichkeit, es ausz
 
 ### [Ts-209](/ts-209/#42.10) <span class="fac">[42\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/42.webp)</span> {#ts-209-4210}
 
-<span class="series-number">101.</span> (3)xFx & (4)xGx & non (∃x)Fx & Gx ․⊃․ (3 + 4)x․Fx ․⌵․ Gx
+<span class="series-number">101</span> (3)xFx & (4)xGx & non (∃x)Fx & Gx ․⊃․ (3 + 4)x․Fx ․⌵․ Gx
 
 Dieser Ausdruck ist nicht dasselbe wie die Ersetzungsregel 3 + 4 = 7.
 
@@ -1512,7 +1512,7 @@ Hat es einen Sinn zu sagen, daß eine Relation 2 Gegenstände miteinander verbin
 
 ### [Ts-209](/ts-209/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/43.webp)</span> {#ts-209-432}
 
-<span class="series-number">102.</span> Ich will sagen, die Zahlen können nur definiert werden aus Satz**formen** unabhängig davon, welche Sätze wahr oder falsch sind.
+<span class="series-number">102</span> Ich will sagen, die Zahlen können nur definiert werden aus Satz**formen** unabhängig davon, welche Sätze wahr oder falsch sind.
 
 ### [Ts-209](/ts-209/#43.3) <span class="fac">[43\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/43.webp)</span> {#ts-209-433}
 
@@ -1524,7 +1524,7 @@ Wenn ich sage: Wenn 4 Äpfel auf dem Tisch liegen, so liegen 2 + 2 Äpfel auf ih
 
 ### [Ts-209](/ts-209/#43.5) <span class="fac">[43\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/43.webp)</span> {#ts-209-435}
 
-<span class="series-number">103.</span> Wie kann ich wissen, daß ∣∣∣∣∣∣∣∣ und ∣∣∣∣∣∣∣∣ _dasselbe_ Zeichen sind? Es genügt doch nicht, daß sie _ähnlich_ ausschauen. Denn es ist nicht die ungefähre Gleichheit der Gestalt, was die Identität der Zeichen ausmachen darf, sondern gerade eben die Zahlengleichheit.
+<span class="series-number">103</span> Wie kann ich wissen, daß ∣∣∣∣∣∣∣∣ und ∣∣∣∣∣∣∣∣ _dasselbe_ Zeichen sind? Es genügt doch nicht, daß sie _ähnlich_ ausschauen. Denn es ist nicht die ungefähre Gleichheit der Gestalt, was die Identität der Zeichen ausmachen darf, sondern gerade eben die Zahlengleichheit.
 
 ### [Ts-209](/ts-209/#43.6) <span class="fac">[43\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/43.webp)</span> {#ts-209-436}
 
@@ -1548,7 +1548,7 @@ Das Additionstheorem ist also in ihm (unter anderem) zu erkennen, nicht _durch_ 
 
 ### [Ts-209](/ts-209/#44.2) <span class="fac">[44\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/44.webp)</span> {#ts-209-442}
 
-<span class="series-number">104.</span> Darauf könnte man sagen: Was ich am Zeichen A wahrnehme und die Beziehung der Zahlzeichen nenne, ist wieder nur das Zusammenfassen von Begriffsumfängen: Ich vereinige die 5 ersten Striche der rechten Klammer, die in einer 1-1-Beziehung zu den 5 in der einen linken Klammer stehen und die folgenden 7 Striche der rechten Klammer, die in einer 1-1-Beziehung zu den 7 in der anderen linken Klammer stehen, zu 12 Strichen, die das Eine oder das Andere tun. Aber auch, wenn ich diesen Gedankenprozeß durchginge, so bliebe das als fundamentale Einsicht, daß sich die 5 Striche und die 7 _gerade zu_ 12 vereinigen (also etwa zu derselben Struktur, wie auch 4 und 4 und 4). – Was uns das lehrt, ist immer nur die Einsicht in die interne Beziehung der Strukturen und nicht irgend ein Satz oder eine Überlegung der Logik. Und zwar ist für diese Einsicht alles an der Tautologie außer den Zahlstrukturen nur Beiwerk; nur auf diese kommt es für den arithmetischen Satz an. (Alles andere gehört zur _Anwendung_ des arithmetischen Satzes).
+<span class="series-number">104</span> Darauf könnte man sagen: Was ich am Zeichen A wahrnehme und die Beziehung der Zahlzeichen nenne, ist wieder nur das Zusammenfassen von Begriffsumfängen: Ich vereinige die 5 ersten Striche der rechten Klammer, die in einer 1-1-Beziehung zu den 5 in der einen linken Klammer stehen und die folgenden 7 Striche der rechten Klammer, die in einer 1-1-Beziehung zu den 7 in der anderen linken Klammer stehen, zu 12 Strichen, die das Eine oder das Andere tun. Aber auch, wenn ich diesen Gedankenprozeß durchginge, so bliebe das als fundamentale Einsicht, daß sich die 5 Striche und die 7 _gerade zu_ 12 vereinigen (also etwa zu derselben Struktur, wie auch 4 und 4 und 4). – Was uns das lehrt, ist immer nur die Einsicht in die interne Beziehung der Strukturen und nicht irgend ein Satz oder eine Überlegung der Logik. Und zwar ist für diese Einsicht alles an der Tautologie außer den Zahlstrukturen nur Beiwerk; nur auf diese kommt es für den arithmetischen Satz an. (Alles andere gehört zur _Anwendung_ des arithmetischen Satzes).
 
 ### [Ts-209](/ts-209/#44.3) <span class="fac">[44\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/44.webp)</span> {#ts-209-443}
 
@@ -1568,11 +1568,11 @@ Es würde sich also herausstellen, daß, was Frege den “Pfeffernuß-Standpunkt
 
 ### [Ts-209](/ts-209/#44.7) <span class="fac">[44\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/44.webp)</span> {#ts-209-447}
 
-<span class="series-number">105.</span> Und jetzt zeigt sich auch – glaube ich – klar, die Beziehung zwischen der extensiven Auffassung der Klassen und der Auffassung der Zahl als Merkmal einer logischen Struktur: Eine Extension ist eine Charakteristik des Sinnes eines Satzes.
+<span class="series-number">105</span> Und jetzt zeigt sich auch – glaube ich – klar, die Beziehung zwischen der extensiven Auffassung der Klassen und der Auffassung der Zahl als Merkmal einer logischen Struktur: Eine Extension ist eine Charakteristik des Sinnes eines Satzes.
 
 ### [Ts-209](/ts-209/#44.8) <span class="fac">[44\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/44.webp)</span> {#ts-209-448}
 
-<span class="series-number">106.</span> Wenn nun der Übergang in A die einzige Anwendung dieses arithmetischen Schemas wäre, könnte oder müßte man es da nicht eben durch die Tautologie ersetzen, oder definieren?
+<span class="series-number">106</span> Wenn nun der Übergang in A die einzige Anwendung dieses arithmetischen Schemas wäre, könnte oder müßte man es da nicht eben durch die Tautologie ersetzen, oder definieren?
 
 ### [Ts-209](/ts-209/#44.9) <span class="fac">[44\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/44.webp)</span> {#ts-209-449}
 
@@ -1596,7 +1596,7 @@ Das, was A außer dem Schema enthält, darf dann nur das sein, was zur Applikati
 
 ### [Ts-209](/ts-209/#45.4) <span class="fac">[45\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/45.webp)</span> {#ts-209-454}
 
-<span class="series-number">107.</span> Die arithmetischen Sätze dienen, wie Multiplikationstabellen und dergleichen, oder auch wie Definitionen, auf deren beiden Seiten nicht ganze Sätze stehen, zur _Anwendung_ auf die Sätze. Und auf etwas Anderes kann ich sie ja sowieso nicht anwenden. (Ich brauche also nicht erst irgendwelche Beschreibung ihrer Anwendung.)
+<span class="series-number">107</span> Die arithmetischen Sätze dienen, wie Multiplikationstabellen und dergleichen, oder auch wie Definitionen, auf deren beiden Seiten nicht ganze Sätze stehen, zur _Anwendung_ auf die Sätze. Und auf etwas Anderes kann ich sie ja sowieso nicht anwenden. (Ich brauche also nicht erst irgendwelche Beschreibung ihrer Anwendung.)
 
 ### [Ts-209](/ts-209/#45.5) <span class="fac">[45\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/45.webp)</span> {#ts-209-455}
 
@@ -1612,7 +1612,7 @@ Ich meine: Die Zahlen sind das, was ich in meiner Sprache durch die Zahlenschema
 
 ### [Ts-209](/ts-209/#45.8) <span class="fac">[45\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/45.webp)</span> {#ts-209-458}
 
-<span class="series-number">108.</span> Was ich früher über das Wesen der arithmetischen Gleichung gesagt habe und darüber, daß eine Gleichung nicht durch eine Tautologie zu ersetzen ist, erklärt – glaube ich – was Kant meinte, wenn er darauf dringt 5 + 7 = 12 sei kein analytischer Satz sondern synthetisch a priori.
+<span class="series-number">108</span> Was ich früher über das Wesen der arithmetischen Gleichung gesagt habe und darüber, daß eine Gleichung nicht durch eine Tautologie zu ersetzen ist, erklärt – glaube ich – was Kant meinte, wenn er darauf dringt 5 + 7 = 12 sei kein analytischer Satz sondern synthetisch a priori.
 
 ### [Ts-209](/ts-209/#45.9) <span class="fac">[45\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/45.webp)</span> {#ts-209-459}
 
@@ -1624,7 +1624,7 @@ Die Arithmetik ist die Grammatik der Zahlen. Zahlenarten können sich nur durch 
 
 ### [Ts-209](/ts-209/#46.2) <span class="fac">[46\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/46.webp)</span> {#ts-209-462}
 
-<span class="series-number">109.</span> Man empfindet immer eine Scheu, die Arithmetik zu begründen, indem man etwas über ihre Anwendung ausspricht. Sie scheint fest genug in sich selbst begründet zu sein. Und das kommt natürlich daher, daß die Arithmetik ihre eigene Anwendung ist.
+<span class="series-number">109</span> Man empfindet immer eine Scheu, die Arithmetik zu begründen, indem man etwas über ihre Anwendung ausspricht. Sie scheint fest genug in sich selbst begründet zu sein. Und das kommt natürlich daher, daß die Arithmetik ihre eigene Anwendung ist.
 
 ### [Ts-209](/ts-209/#46.3) <span class="fac">[46\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/46.webp)</span> {#ts-209-463}
 
@@ -1664,7 +1664,7 @@ Man könnte sagen: Wozu die Anwendung der Arithmetik einschränken, sie sorgt f�
 
 ### [Ts-209](/ts-209/#47.1) <span class="fac">[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/47.webp)</span> {#ts-209-471}
 
-<span class="series-number">110.</span> ![](../graphics/209,47-1.svg)
+<span class="series-number">110</span> ![](../graphics/209,47-1.svg)
 
 “Siehst du, es kommt tatsächlich immer dasselbe heraus” möchte man sagen. So aufgefaßt, haben wir ein Experiment gemacht. Wir haben die Regeln des Eins-und-Eins angewendet und denen sieht man es nicht unmittelbar an, daß sie in den 3 Fällen zum gleichen Resultat führen. Man wundert sich gleichsam, daß die Ziffern, losgelöst von ihren Definitionen so richtig funktionieren. Oder vielmehr: daß die Ziffernregeln so richtig arbeiten (wenn sie nicht von den Definitionen kontrolliert werden.) Das hängt (seltsamerweise) mit der inneren Widerspruchslosigkeit der Geometrie zusammen. Man kann nämlich sagen, daß die Ziffernregeln die Definitionen immer voraussetzen. Aber in welchem Sinne? Was heißt es, daß ein Zeichen ein anderes voraussetzt; was eigentlich gar nicht da ist? Es setzt seine Möglichkeit voraus; die Möglichkeit im Zeichen-Raum (im grammatischen Raum).
 
@@ -1682,7 +1682,7 @@ Das Charakteristische an der Zahlangabe ist, daß man statt der einen Zahl jede 
 
 ### [Ts-209](/ts-209/#47.5) <span class="fac">[47\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/47.webp)</span> {#ts-209-475}
 
-<span class="series-number">111.</span> Der Sinn der Bemerkung, daß die Arithmetik eine Art Geometrie sei, ist eben, daß die arithmetischen Konstruktionen autonom sind, wie die geometrischen, und daher sozusagen ihre Anwendbarkeit selbst garantieren. Denn auch von der Geometrie muß man sagen können, sie sei ihre eigene Anwendung.
+<span class="series-number">111</span> Der Sinn der Bemerkung, daß die Arithmetik eine Art Geometrie sei, ist eben, daß die arithmetischen Konstruktionen autonom sind, wie die geometrischen, und daher sozusagen ihre Anwendbarkeit selbst garantieren. Denn auch von der Geometrie muß man sagen können, sie sei ihre eigene Anwendung.
 
 ### [Ts-209](/ts-209/#47.6) <span class="fac">[47\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/47.webp)</span> {#ts-209-476}
 
@@ -1696,7 +1696,7 @@ Angenommen, mit dieser Rechnung wollte ich folgende Aufgabe lösen: Wenn ich 11 
 
 ### [Ts-209](/ts-209/#48.1) <span class="fac">[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/48.webp)</span> {#ts-209-481}
 
-<span class="series-number">112.</span> So verschieden Striche und Gerichtsverhandlungen sind, so kann man doch Gerichtsverhandlungen durch Striche in einem Kalender darstellen. Und kann die einen statt der anderen zählen. Es ist nicht so, wenn ich etwa Hutgrößen Zählen will. Drei Hutgrößen durch 3 Striche zu repräsentieren wäre nicht natürlich. Ebenso, wie wenn ich eine Maßzahl, 3 m, durch 3 Striche darstellen wollte. Man kann das ja tun, nur stellt dann “!!!∣∣∣” auf eine andere Weise dar.
+<span class="series-number">112</span> So verschieden Striche und Gerichtsverhandlungen sind, so kann man doch Gerichtsverhandlungen durch Striche in einem Kalender darstellen. Und kann die einen statt der anderen zählen. Es ist nicht so, wenn ich etwa Hutgrößen Zählen will. Drei Hutgrößen durch 3 Striche zu repräsentieren wäre nicht natürlich. Ebenso, wie wenn ich eine Maßzahl, 3 m, durch 3 Striche darstellen wollte. Man kann das ja tun, nur stellt dann “!!!∣∣∣” auf eine andere Weise dar.
 
 ### [Ts-209](/ts-209/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/48.webp)</span> {#ts-209-482}
 
@@ -1708,7 +1708,7 @@ Wovon drei Striche ein Bild sind, als dessen Bild können sie dienen.
 
 ### [Ts-209](/ts-209/#48.4) <span class="fac">[48\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/48.webp)</span> {#ts-209-484}
 
-<span class="series-number">113.</span> Die Anzahlen sind eine in der Wirklichkeit durch die Dinge gegebene Form, so wie die Rationalzahlen durch Ausdehnungen etc. Ich meine, durch wirkliche Formen. So sind die komplexen Zahlen durch wirkliche Mannigfaltigkeiten gegeben. (Die Symbole sind ja wirklich.)
+<span class="series-number">113</span> Die Anzahlen sind eine in der Wirklichkeit durch die Dinge gegebene Form, so wie die Rationalzahlen durch Ausdehnungen etc. Ich meine, durch wirkliche Formen. So sind die komplexen Zahlen durch wirkliche Mannigfaltigkeiten gegeben. (Die Symbole sind ja wirklich.)
 
 ### [Ts-209](/ts-209/#48.5) <span class="fac">[48\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/48.webp)</span> {#ts-209-485}
 
@@ -1720,7 +1720,7 @@ Die Zahlangabe über eine Variable besteht in einer Transformation der Variablen
 
 ### [Ts-209](/ts-209/#48.7) <span class="fac">[48\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/48.webp)</span> {#ts-209-487}
 
-<span class="series-number">114.</span> Welcher Art ist der Satz “zwischen 5 und 8 gibt es eine Primzahl”? Ich würde sagen: “Das _zeigt_ sich”. Und das ist richtig; aber kann man nicht die Aufmerksamkeit auf diesen internen Sachverhalt lenken? Man könnte doch sagen: Untersuche das Intervall von 10 bis 20 auf Primzahlen. Wieviel gibt es? Wäre das nicht eine klare Aufgabe? Und wie wäre ihre Lösung richtig auszudrücken oder darzustellen? Was bedeutet der Satz: “Zwischen 10 und 20 gibt es 4 Primzahlen”? Dieser Satz scheint unsere Aufmerksamkeit auf einen gewissen Aspekt der Sache zu lenken.
+<span class="series-number">114</span> Welcher Art ist der Satz “zwischen 5 und 8 gibt es eine Primzahl”? Ich würde sagen: “Das _zeigt_ sich”. Und das ist richtig; aber kann man nicht die Aufmerksamkeit auf diesen internen Sachverhalt lenken? Man könnte doch sagen: Untersuche das Intervall von 10 bis 20 auf Primzahlen. Wieviel gibt es? Wäre das nicht eine klare Aufgabe? Und wie wäre ihre Lösung richtig auszudrücken oder darzustellen? Was bedeutet der Satz: “Zwischen 10 und 20 gibt es 4 Primzahlen”? Dieser Satz scheint unsere Aufmerksamkeit auf einen gewissen Aspekt der Sache zu lenken.
 
 ### [Ts-209](/ts-209/#48.8) <span class="fac">[48\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/48.webp)</span> {#ts-209-488}
 
@@ -1744,7 +1744,7 @@ Wenn jemand mit uns über die Anzahl der Menschen in diesem Zimmer nicht überei
 
 ### [Ts-209](/ts-209/#49.4) <span class="fac">[49\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/49.webp)</span> {#ts-209-494}
 
-<span class="series-number">115.</span> Die Zahlangabe enthält nicht immer eine Verallgemeinerung oder Unbestimmtheit: “Die Strecke A B ist in zwei (3, 4, etc.) gleiche Teile geteilt”.
+<span class="series-number">115</span> Die Zahlangabe enthält nicht immer eine Verallgemeinerung oder Unbestimmtheit: “Die Strecke A B ist in zwei (3, 4, etc.) gleiche Teile geteilt”.
 
 ### [Ts-209](/ts-209/#49.5) <span class="fac">[49\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/49.webp)</span> {#ts-209-495}
 
@@ -1772,7 +1772,7 @@ Wenn ich sage “in diesem Zimmer sind 4 Menschen”, so scheint allerdings eine
 
 ### [Ts-209](/ts-209/#50.4) <span class="fac">[50\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/50.webp)</span> {#ts-209-504}
 
-<span class="series-number">116.</span> Wenn ich recht habe, so gibt es keinen Begriff “reine Farbe”; der Satz “A hat eine reine Farbe” heißt einfach “A ist rot, oder gelb, oder blau, oder grün”. “Dieser Hut gehört entweder A oder B oder C” ist nicht derselbe Satz wie “dieser Hut gehört einem Menschen in diesem Zimmer”, selbst wenn tatsächlich nur A, B, C im Zimmer sind, denn das muß erst dazugesagt werden. – Auf dieser Fläche sind zwei reine Farben, _heißt_: Auf dieser Fläche sind rot und gelb, oder rot und blau, oder rot und grün, oder etc. Wenn ich nun nicht sagen kann “es gibt 4 reine Farben”, so sind die reinen Farben und die Zahl 4 doch irgendwie miteinander verbunden und das muß sich auch irgendwie ausdrücken. – Z.B. wenn ich sage “auf dieser Fläche sehe ich 4 Farben: gelb, blau, rot, grün”.
+<span class="series-number">116</span> Wenn ich recht habe, so gibt es keinen Begriff “reine Farbe”; der Satz “A hat eine reine Farbe” heißt einfach “A ist rot, oder gelb, oder blau, oder grün”. “Dieser Hut gehört entweder A oder B oder C” ist nicht derselbe Satz wie “dieser Hut gehört einem Menschen in diesem Zimmer”, selbst wenn tatsächlich nur A, B, C im Zimmer sind, denn das muß erst dazugesagt werden. – Auf dieser Fläche sind zwei reine Farben, _heißt_: Auf dieser Fläche sind rot und gelb, oder rot und blau, oder rot und grün, oder etc. Wenn ich nun nicht sagen kann “es gibt 4 reine Farben”, so sind die reinen Farben und die Zahl 4 doch irgendwie miteinander verbunden und das muß sich auch irgendwie ausdrücken. – Z.B. wenn ich sage “auf dieser Fläche sehe ich 4 Farben: gelb, blau, rot, grün”.
 
 ### [Ts-209](/ts-209/#50.5) <span class="fac">[50\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/50.webp)</span> {#ts-209-505}
 
@@ -1784,7 +1784,7 @@ Wenn man sagt, A B lasse 2 Permutationen zu, so klingt das, als mache man eine _
 
 ### [Ts-209](/ts-209/#51.2) <span class="fac">[51\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span> {#ts-209-512}
 
-<span class="series-number">117.</span> Eine Kombinationsrechenmaschine ist denkbar ganz analog der Russischen.
+<span class="series-number">117</span> Eine Kombinationsrechenmaschine ist denkbar ganz analog der Russischen.
 
 ### [Ts-209](/ts-209/#51.3) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span> {#ts-209-513}
 
@@ -1804,7 +1804,7 @@ Wie ich 4 × 3 = 12 durch das Schema beweisen kann: o o o o | o o o o | o o o o,
 
 ### [Ts-209](/ts-209/#51.7) <span class="fac">[51\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span> {#ts-209-517}
 
-<span class="series-number">118.</span> Zu sagen, daß ich so viele Löffel habe, daß sie 1–1 auf ein Dutzend Schalen verteilt werden _können_, was heißt es? Entweder setzt dieser Satz voraus, daß ich 12 Löffel habe, dann kann ich nicht sagen, daß sie den 12 Schalen zugeordnet werden können, denn das Gegenteil wäre unmöglich; oder aber, der Satz setzt nicht voraus, daß ich 12 Löffel habe, dann sagt er, daß ich 12 Löffel haben _kann_ und das ist selbstverständlich und läßt sich wieder nicht sagen. Man könnte auch so fragen: Sagt jener Satz _weniger_, als daß ich 12 Löffel habe? Sagt er etwas, woraus erst mit Hilfe eines weiteren Satzes folgt, daß ich 12 Löffel habe? Wenn p aus q allein folgt, so sagt q bereits p. Ein scheinbarer gedanklicher Prozeß, der den Übergang macht, gilt nicht.
+<span class="series-number">118</span> Zu sagen, daß ich so viele Löffel habe, daß sie 1–1 auf ein Dutzend Schalen verteilt werden _können_, was heißt es? Entweder setzt dieser Satz voraus, daß ich 12 Löffel habe, dann kann ich nicht sagen, daß sie den 12 Schalen zugeordnet werden können, denn das Gegenteil wäre unmöglich; oder aber, der Satz setzt nicht voraus, daß ich 12 Löffel habe, dann sagt er, daß ich 12 Löffel haben _kann_ und das ist selbstverständlich und läßt sich wieder nicht sagen. Man könnte auch so fragen: Sagt jener Satz _weniger_, als daß ich 12 Löffel habe? Sagt er etwas, woraus erst mit Hilfe eines weiteren Satzes folgt, daß ich 12 Löffel habe? Wenn p aus q allein folgt, so sagt q bereits p. Ein scheinbarer gedanklicher Prozeß, der den Übergang macht, gilt nicht.
 
 ### [Ts-209](/ts-209/#51.8) <span class="fac">[51\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span> {#ts-209-518}
 
@@ -1830,7 +1830,7 @@ Die Kardinalzahl ist eine interne Eigenschaft einer Liste.
 
 ### [Ts-209](/ts-209/#52.4) <span class="fac">[52\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/52.webp)</span> {#ts-209-524}
 
-<span class="series-number">119.</span> Wir sondern die Evidenz für das Eintreten eines physikalischen Ereignisses nach den verschiedenen Arten solcher Evidenz in gehörte, gesehene, gemessene etc., und sehen, daß in jeder dieser einzelnen ein formelles Element der Ordnung ist, welches wir Raum nennen können.
+<span class="series-number">119</span> Wir sondern die Evidenz für das Eintreten eines physikalischen Ereignisses nach den verschiedenen Arten solcher Evidenz in gehörte, gesehene, gemessene etc., und sehen, daß in jeder dieser einzelnen ein formelles Element der Ordnung ist, welches wir Raum nennen können.
 
 ### [Ts-209](/ts-209/#52.5) <span class="fac">[52\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/52.webp)</span> {#ts-209-525}
 
@@ -1856,7 +1856,7 @@ Von einer Extension zu sagen, sie habe diese und diese Zahl, ist Unsinn, denn di
 
 ### [Ts-209](/ts-209/#52.9) <span class="fac">[52\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/52.webp)</span> {#ts-209-529}
 
-<span class="series-number">120.</span> Es ist merkwürdig, daß man im Fall der Tautologien und Kontradiktion wirklich von Sinn und Bedeutung im Sinne Freges reden könnte. Wenn man die Bedeutung der Tautologie ihre Eigenschaft eine Tautologie zu sein nennt, dann kann man den Sinn der Tautologie die Art und Weise nennen, wie hier die Tautologie zu Stande kommt. Das gleiche für die Kontradiktion.
+<span class="series-number">120</span> Es ist merkwürdig, daß man im Fall der Tautologien und Kontradiktion wirklich von Sinn und Bedeutung im Sinne Freges reden könnte. Wenn man die Bedeutung der Tautologie ihre Eigenschaft eine Tautologie zu sein nennt, dann kann man den Sinn der Tautologie die Art und Weise nennen, wie hier die Tautologie zu Stande kommt. Das gleiche für die Kontradiktion.
 
 ### [Ts-209](/ts-209/#53.1) <span class="fac">[53\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/53.webp)</span> {#ts-209-531}
 
@@ -1882,7 +1882,7 @@ Die Gleichungen der Mathematik kann man, so scheint es mir, nur mit sinnvollen S
 
 ### [Ts-209](/ts-209/#53.6) <span class="fac">[53\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/53.webp)</span> {#ts-209-536}
 
-<span class="series-number">121.</span> Eine Gleichung ist eine syntaktische Regel.
+<span class="series-number">121</span> Eine Gleichung ist eine syntaktische Regel.
 
 ### [Ts-209](/ts-209/#53.7) <span class="fac">[53\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/53.webp)</span> {#ts-209-537}
 
@@ -1902,7 +1902,7 @@ Weyls Widerspruch “Heterologisch”: nonf(“f”) [unreadable] “f” ist he
 
 ### [Ts-209](/ts-209/#54.3) <span class="fac">[54\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/54.webp)</span> {#ts-209-543}
 
-<span class="series-number">122.</span> Den mathematischen Satz kann man sich vorstellen als ein Lebewesen, das selbst weiß, ob es wahr oder falsch ist. (Zum Unterschied von den eigentlichen Sätzen.) Der mathematische Satz weiß selbst, daß er wahr oder daß er falsch ist. Wenn er von allen Zahlen handelt, so muß er auch schon alle Zahlen übersehen. Wie der Sinn, so muß auch seine Wahrheit oder Falschheit in ihm liegen.
+<span class="series-number">122</span> Den mathematischen Satz kann man sich vorstellen als ein Lebewesen, das selbst weiß, ob es wahr oder falsch ist. (Zum Unterschied von den eigentlichen Sätzen.) Der mathematische Satz weiß selbst, daß er wahr oder daß er falsch ist. Wenn er von allen Zahlen handelt, so muß er auch schon alle Zahlen übersehen. Wie der Sinn, so muß auch seine Wahrheit oder Falschheit in ihm liegen.
 
 ### [Ts-209](/ts-209/#54.4) <span class="fac">[54\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/54.webp)</span> {#ts-209-544}
 
@@ -1930,7 +1930,7 @@ Wenn ein Satz einen bestimmten Sinn haben soll (und sonst ist er unsinnig) so mu
 
 ### [Ts-209](/ts-209/#54.10) <span class="fac">[54\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/54.webp)</span> {#ts-209-5410}
 
-<span class="series-number">123.</span> [unreadable] Wenn ich auf einer endlosen Strecke nur durch Probieren weiterkomme, warum soll es bei einer unendlichen anders sein? Und dann kann ich natürlich nie ans Ziel kommen. Aber wenn ich auf der unendlichen Strecke nur schrittweise weitergehe, so kann ich die unendliche Strecke ja überhaupt nicht erfassen. Ich erfasse sie also auf andere Weise; und wenn ich sie erfaßt habe, so kann der Satz über sie nur so verifiziert werden, wie er sie aufgefaßt hat.
+<span class="series-number">123</span> [unreadable] Wenn ich auf einer endlosen Strecke nur durch Probieren weiterkomme, warum soll es bei einer unendlichen anders sein? Und dann kann ich natürlich nie ans Ziel kommen. Aber wenn ich auf der unendlichen Strecke nur schrittweise weitergehe, so kann ich die unendliche Strecke ja überhaupt nicht erfassen. Ich erfasse sie also auf andere Weise; und wenn ich sie erfaßt habe, so kann der Satz über sie nur so verifiziert werden, wie er sie aufgefaßt hat.
 
 ### [Ts-209](/ts-209/#54.11+55.1) <span class="fac">[54\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/54.webp),[55\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/55.webp)</span> {#ts-209-5411551}
 
@@ -1946,7 +1946,7 @@ Es wäre etwa so: Wir haben eine unendlich lange Baumreihe und ich mache, um sie
 
 ### [Ts-209](/ts-209/#55.4) <span class="fac">[55\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/55.webp)</span> {#ts-209-554}
 
-<span class="series-number">124.</span> Es ist nicht etwa nur “für uns Menschen” unmöglich, alle Zahlen sukzessive zu erfassen, sondern es ist unmöglich, es heißt nichts.
+<span class="series-number">124</span> Es ist nicht etwa nur “für uns Menschen” unmöglich, alle Zahlen sukzessive zu erfassen, sondern es ist unmöglich, es heißt nichts.
 
 ### [Ts-209](/ts-209/#55.5) <span class="fac">[55\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/55.webp)</span> {#ts-209-555}
 
@@ -1958,7 +1958,7 @@ Gegen den Einwand: “Wenn ich die Zahlenreihe durchlaufe, so komme ich entweder
 
 ### [Ts-209](/ts-209/#55.7) <span class="fac">[55\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/55.webp)</span> {#ts-209-557}
 
-<span class="series-number">125.</span> Kann man sagen: Daß 6 ‒ 4 gerade 2 ist, konnte man nicht voraussehen, sondern man kann es nur sehen, wenn man dahin kommt.
+<span class="series-number">125</span> Kann man sagen: Daß 6 ‒ 4 gerade 2 ist, konnte man nicht voraussehen, sondern man kann es nur sehen, wenn man dahin kommt.
 
 ### [Ts-209](/ts-209/#55.8) <span class="fac">[55\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/55.webp)</span> {#ts-209-558}
 
@@ -1986,7 +1986,7 @@ Ein “unendlich kompliziertes Gesetz” heißt, kein Gesetz. Wie könnte man wi
 
 ### [Ts-209](/ts-209/#56.3) <span class="fac">[56\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/56.webp)</span> {#ts-209-563}
 
-<span class="series-number">126.</span> Es scheint jetzt doch, daß die Allgemeinheitsbezeichnung für Zahlen keinen Sinn hat. Ich meine: Man kann nicht sagen “(n)Fn” weil eben “alle natürlichen Zahlen” kein begrenzter Begriff ist. Dann darf man aber auch nicht sagen, daß aus einer Aussage über das Wesen der Zahl eine allgemeine Aussage folgt.
+<span class="series-number">126</span> Es scheint jetzt doch, daß die Allgemeinheitsbezeichnung für Zahlen keinen Sinn hat. Ich meine: Man kann nicht sagen “(n)Fn” weil eben “alle natürlichen Zahlen” kein begrenzter Begriff ist. Dann darf man aber auch nicht sagen, daß aus einer Aussage über das Wesen der Zahl eine allgemeine Aussage folgt.
 
 ### [Ts-209](/ts-209/#56.4) <span class="fac">[56\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/56.webp)</span> {#ts-209-564}
 
@@ -1998,7 +1998,7 @@ Es geht sozusagen die Logik nichts an, wieviel Äpfel vorhanden sind, wenn von _
 
 ### [Ts-209](/ts-209/#56.6) <span class="fac">[56\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/56.webp)</span> {#ts-209-566}
 
-<span class="series-number">127.</span> Was bedeutet ein mathematischer Satz von der Art “(∃n)․4 + n = 7”? Es wäre eine Disjunktion 4 + 0 = 7 ․⌵․ 4 + 1 = 7 ․⌵․ etc. ad inf.. Was aber bedeutet das? Ich kann einen Satz verstehen, der einen Anfang und ein Ende hat. Kann man aber auch einen Satz verstehen, der kein Ende hat? Ich verstehe auch, daß man eine unendliche Regel angeben kann, nach der unendlich viele endliche Sätze gebildet werden können. Was aber bedeutet ein endloser Satz?
+<span class="series-number">127</span> Was bedeutet ein mathematischer Satz von der Art “(∃n)․4 + n = 7”? Es wäre eine Disjunktion 4 + 0 = 7 ․⌵․ 4 + 1 = 7 ․⌵․ etc. ad inf.. Was aber bedeutet das? Ich kann einen Satz verstehen, der einen Anfang und ein Ende hat. Kann man aber auch einen Satz verstehen, der kein Ende hat? Ich verstehe auch, daß man eine unendliche Regel angeben kann, nach der unendlich viele endliche Sätze gebildet werden können. Was aber bedeutet ein endloser Satz?
 
 ### [Ts-209](/ts-209/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/56.webp)</span> {#ts-209-567}
 
@@ -2006,7 +2006,7 @@ Wenn der Satz durch kein endliches Produkt wahr gemacht wird, so heißt das: Er 
 
 ### [Ts-209](/ts-209/#56.8) <span class="fac">[56\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/56.webp)</span> {#ts-209-568}
 
-<span class="series-number">128.</span> Aber kann ich denn nicht von einer Gleichung sagen: “Ich weiß, sie stimmt für einige – ich erinnere mich nicht mehr, welche – Substitutionen nicht; ob sie aber allgemein nicht stimmt, weiß ich nicht”? Hat das nicht einen guten Sinn, und ist es nicht mit der Allgemeinheit der Ungleichung verträglich?
+<span class="series-number">128</span> Aber kann ich denn nicht von einer Gleichung sagen: “Ich weiß, sie stimmt für einige – ich erinnere mich nicht mehr, welche – Substitutionen nicht; ob sie aber allgemein nicht stimmt, weiß ich nicht”? Hat das nicht einen guten Sinn, und ist es nicht mit der Allgemeinheit der Ungleichung verträglich?
 
 ### [Ts-209](/ts-209/#57.1) <span class="fac">[57\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/57.webp)</span> {#ts-209-571}
 
@@ -2026,7 +2026,7 @@ Es wäre eine gute Frage für die Scholastiker gewesen: “Kann Gott alle Stelle
 
 ### [Ts-209](/ts-209/#57.5) <span class="fac">[57\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/57.webp)</span> {#ts-209-575}
 
-<span class="series-number">129.</span> Ein Satz, der von allen Sätzen, oder allen Funktionen handelt, ist von vorn herein eine Unmöglichkeit: Was durch einen solchen ausgedrückt werden sollte, müßte durch eine Induktion gezeigt werden. (Z.B. daß _alle_ Sätze <math class="stacked" display="inline"><mtext>no</mtext><msup><mi>n</mi><mi>n</mi></msup><mi>p</mi></math> dasselbe sagen.) Diese Induktion ist selbst kein Satz und deshalb ist ein circulus vitiosus ausgeschlossen.
+<span class="series-number">129</span> Ein Satz, der von allen Sätzen, oder allen Funktionen handelt, ist von vorn herein eine Unmöglichkeit: Was durch einen solchen ausgedrückt werden sollte, müßte durch eine Induktion gezeigt werden. (Z.B. daß _alle_ Sätze <math class="stacked" display="inline"><mtext>no</mtext><msup><mi>n</mi><mi>n</mi></msup><mi>p</mi></math> dasselbe sagen.) Diese Induktion ist selbst kein Satz und deshalb ist ein circulus vitiosus ausgeschlossen.
 
 ### [Ts-209](/ts-209/#57.6) <span class="fac">[57\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/57.webp)</span> {#ts-209-576}
 
@@ -2046,7 +2046,7 @@ Ich habe immer gesagt: Von _allen_ Zahlen könne man nicht reden, weil es _alle_
 
 ### [Ts-209](/ts-209/#57.10) <span class="fac">[57\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/57.webp)</span> {#ts-209-5710}
 
-<span class="series-number">130.</span> Es ist schwer sich von der extensiven Auffassung ganz frei zu machen: So denkt man immer: “Ja, aber es muß doch eine interne Beziehung zwischen x³ + y³ und z³ bestehen, da doch die Extension, wenn ich sie nur kennte, das Resultat einer solchen Beziehung darstellen müßte”. Etwa: “Es müssen doch entweder _wesentlich alle_ n die Eigenschaft haben oder nicht, da doch _alle_ n die Eigenschaft haben oder nicht, wenn ich das auch nicht wissen kann.”
+<span class="series-number">130</span> Es ist schwer sich von der extensiven Auffassung ganz frei zu machen: So denkt man immer: “Ja, aber es muß doch eine interne Beziehung zwischen x³ + y³ und z³ bestehen, da doch die Extension, wenn ich sie nur kennte, das Resultat einer solchen Beziehung darstellen müßte”. Etwa: “Es müssen doch entweder _wesentlich alle_ n die Eigenschaft haben oder nicht, da doch _alle_ n die Eigenschaft haben oder nicht, wenn ich das auch nicht wissen kann.”
 
 ### [Ts-209](/ts-209/#58.1) <span class="fac">[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/58.webp)</span> {#ts-209-581}
 
@@ -2062,7 +2062,7 @@ Was heißt es: Man kann eine gerade Strecke beliebig verlängern? Gibt es hier n
 
 ### [Ts-209](/ts-209/#58.4) <span class="fac">[58\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/58.webp)</span> {#ts-209-584}
 
-<span class="series-number">131.</span> Allgemeinheit der euklidischen Beweise. Man sagt, die Demonstration wird an _einem_ Dreieck durchgeführt, der Beweis gilt aber für alle Dreiecke – oder für jedes beliebige Dreieck. Erstens ist es sonderbar, daß, was für ein Dreieck gilt, darum für alle andern gelten sollte. Es wäre doch nicht möglich, daß ein Arzt _einen_ Menschen untersucht und nun schließt, daß, was er bei diesem konstatiert, auch für alle andern wahr sein muß. Und wenn ich nun die Winkel in einem Dreieck messe und addiere, so kann ich auch wirklich nicht schließen, daß sie nun bei jedem andern Dreieck eben so groß sein wird. Es ist ja klar, daß der euklidische Beweis nichts über eine Gesamtheit von Dreiecken aussagen kann. Ein Beweis kann nicht über sich selbst hinausgehen. Die Konstruktion des Beweises ist aber wieder kein Experiment, und wäre sie es, so könnte das Resultat nichts für andere Fälle beweisen. Es ist darum auch gar nicht nötig, die Konstruktion mit Papier und Bleistift wirklich auszuführen, sondern die Beschreibung der Konstruktion muß genügen, um aus ihr alles Wesentliche zu ersehen. (Die Beschreibung eines Experiments genügt nicht, um aus ihr das Resultat des Experiments zu entnehmen, sondern das Experiment muß wirklich ausgeführt werden.) Die Konstruktion im euklidischen Beweis ist genau analog dem Beweise, daß 2 + 2 = 4 mittels der russischen Rechenmaschine.
+<span class="series-number">131</span> Allgemeinheit der euklidischen Beweise. Man sagt, die Demonstration wird an _einem_ Dreieck durchgeführt, der Beweis gilt aber für alle Dreiecke – oder für jedes beliebige Dreieck. Erstens ist es sonderbar, daß, was für ein Dreieck gilt, darum für alle andern gelten sollte. Es wäre doch nicht möglich, daß ein Arzt _einen_ Menschen untersucht und nun schließt, daß, was er bei diesem konstatiert, auch für alle andern wahr sein muß. Und wenn ich nun die Winkel in einem Dreieck messe und addiere, so kann ich auch wirklich nicht schließen, daß sie nun bei jedem andern Dreieck eben so groß sein wird. Es ist ja klar, daß der euklidische Beweis nichts über eine Gesamtheit von Dreiecken aussagen kann. Ein Beweis kann nicht über sich selbst hinausgehen. Die Konstruktion des Beweises ist aber wieder kein Experiment, und wäre sie es, so könnte das Resultat nichts für andere Fälle beweisen. Es ist darum auch gar nicht nötig, die Konstruktion mit Papier und Bleistift wirklich auszuführen, sondern die Beschreibung der Konstruktion muß genügen, um aus ihr alles Wesentliche zu ersehen. (Die Beschreibung eines Experiments genügt nicht, um aus ihr das Resultat des Experiments zu entnehmen, sondern das Experiment muß wirklich ausgeführt werden.) Die Konstruktion im euklidischen Beweis ist genau analog dem Beweise, daß 2 + 2 = 4 mittels der russischen Rechenmaschine.
 
 ### [Ts-209](/ts-209/#58.5) <span class="fac">[58\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/58.webp)</span> {#ts-209-585}
 
@@ -2074,7 +2074,7 @@ Das Wesentliche ist in allen diesen Fällen, daß, was demonstriert wird, nicht 
 
 ### [Ts-209](/ts-209/#59.1) <span class="fac">[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/59.webp)</span> {#ts-209-591}
 
-<span class="series-number">132.</span> Wenn ich sage “_einmal_ wird die Welt untergehen” so sagt das gar nichts, wenn dabei die Zeit unbegrenzt offen gelassen ist. Denn mit dieser Angabe ist es verträglich, daß sie an jedem angegebenen Tag noch existiert. – _Unendlich_ ist die _Möglichkeit_ der Zahlen in den Sätzen von der Form “in n Tagen wird die Welt untergehen”.
+<span class="series-number">132</span> Wenn ich sage “_einmal_ wird die Welt untergehen” so sagt das gar nichts, wenn dabei die Zeit unbegrenzt offen gelassen ist. Denn mit dieser Angabe ist es verträglich, daß sie an jedem angegebenen Tag noch existiert. – _Unendlich_ ist die _Möglichkeit_ der Zahlen in den Sätzen von der Form “in n Tagen wird die Welt untergehen”.
 
 ### [Ts-209](/ts-209/#59.2) <span class="fac">[59\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/59.webp)</span> {#ts-209-592}
 
@@ -2086,11 +2086,11 @@ Frage ich, wieviele 9 folgen unmittelbar nacheinander auf 3,1415 in der Entwickl
 
 ### [Ts-209](/ts-209/#59.4) <span class="fac">[59\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/59.webp)</span> {#ts-209-594}
 
-<span class="series-number">133.</span> Es handelt sich in der Philosophie immer um die Anwendung einer Reihe äußerst einfacher Grundsätze, die jedes Kind weiß, und die – enorme – Schwierigkeit ist nur, sie in der Verwirrung, die unsere Sprache schafft, anzuwenden. Es handelt sich nie um die neuesten Ergebnisse der Experimente mit exotischen Fischen, oder der Mathematik. Die Schwierigkeit aber, die einfachen Grundsätze anzuwenden, macht einen an diesen Grundsätzen selbst irre.
+<span class="series-number">133</span> Es handelt sich in der Philosophie immer um die Anwendung einer Reihe äußerst einfacher Grundsätze, die jedes Kind weiß, und die – enorme – Schwierigkeit ist nur, sie in der Verwirrung, die unsere Sprache schafft, anzuwenden. Es handelt sich nie um die neuesten Ergebnisse der Experimente mit exotischen Fischen, oder der Mathematik. Die Schwierigkeit aber, die einfachen Grundsätze anzuwenden, macht einen an diesen Grundsätzen selbst irre.
 
 ### [Ts-209](/ts-209/#59.5) <span class="fac">[59\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/59.webp)</span> {#ts-209-595}
 
-<span class="series-number">134.</span> Was für eine Art Satz ist: “Auf diesem Streifen sind alle Schattierungen von Grau zwischen Schwarz und Weiß zu sehen”? Hier scheint es auf den ersten Blick, daß von unendlich vielen Schattierungen die Rede ist. Ja wir haben hier scheinbar das Paradox, daß wir zwar nur endlich viele Schattierungen von einander unterscheiden können und der Unterschied zwischen ihnen natürlich nicht ein unendlich kleiner ist und wir dennoch einen kontinuierlichen Übergang sehen.
+<span class="series-number">134</span> Was für eine Art Satz ist: “Auf diesem Streifen sind alle Schattierungen von Grau zwischen Schwarz und Weiß zu sehen”? Hier scheint es auf den ersten Blick, daß von unendlich vielen Schattierungen die Rede ist. Ja wir haben hier scheinbar das Paradox, daß wir zwar nur endlich viele Schattierungen von einander unterscheiden können und der Unterschied zwischen ihnen natürlich nicht ein unendlich kleiner ist und wir dennoch einen kontinuierlichen Übergang sehen.
 
 ### [Ts-209](/ts-209/#59.6+60.1) <span class="fac">[59\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/59.webp),[60\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/60.webp)</span> {#ts-209-596601}
 
@@ -2102,7 +2102,7 @@ Man kann ein bestimmtes Grau ebensowenig als eines der unendlich vielen Grau zwi
 
 ### [Ts-209](/ts-209/#60.2) <span class="fac">[60\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/60.webp)</span> {#ts-209-602}
 
-<span class="series-number">135.</span> Ramsey schlug vor, den Satz, daß unendlich viele Gegenstände eine Funktion befriedigen dadurch auszudrücken, daß er alle Sätze verneint von der Form:
+<span class="series-number">135</span> Ramsey schlug vor, den Satz, daß unendlich viele Gegenstände eine Funktion befriedigen dadurch auszudrücken, daß er alle Sätze verneint von der Form:
 
 non (∃x)fx
 
@@ -2116,7 +2116,7 @@ Aber nehmen wir nun an, daß es nur drei Gegenstände gibt, d.h. daß nur drei N
 
 ### [Ts-209](/ts-209/#60.4) <span class="fac">[60\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/60.webp)</span> {#ts-209-604}
 
-<span class="series-number">136.</span> Inwiefern setzt eine Notation für das Unendliche den unendlichen Raum oder die unendliche Zeit voraus? Ein unendlich großes Stück Papier wird natürlich nicht vorausgesetzt. Wohl aber seine Möglichkeit?
+<span class="series-number">136</span> Inwiefern setzt eine Notation für das Unendliche den unendlichen Raum oder die unendliche Zeit voraus? Ein unendlich großes Stück Papier wird natürlich nicht vorausgesetzt. Wohl aber seine Möglichkeit?
 
 ### [Ts-209](/ts-209/#60.5) <span class="fac">[60\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/60.webp)</span> {#ts-209-605}
 
@@ -2128,7 +2128,7 @@ Es ist doch gewiß unmöglich, daß die Mathematik von einer Hypothese über den
 
 ### [Ts-209](/ts-209/#60.7) <span class="fac">[60\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/60.webp)</span> {#ts-209-607}
 
-<span class="series-number">137.</span> Wenn ich eine Reihe von Flecken habe, die abwechselnd schwarz und weiß sind, wie die Figur zeigt
+<span class="series-number">137</span> Wenn ich eine Reihe von Flecken habe, die abwechselnd schwarz und weiß sind, wie die Figur zeigt
 
 ![](../graphics/209,60.svg)
 
@@ -2144,7 +2144,7 @@ Die Kontinuität in unserm Gesichtsfeld besteht darin, daß wir keine Diskontinu
 
 ### [Ts-209](/ts-209/#61.3) <span class="fac">[61\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/61.webp)</span> {#ts-209-613}
 
-<span class="series-number">138.</span> Aber wenn ich immer nur endlich viele Dinge, Teilungen, Farben, etc. sehe, dann gibt es eben überhaupt keine Unendlichkeit; in keinem Sinne. Das Gefühl ist hier: Wenn ich immer nur so wenige sehe, so gibt es überhaupt nicht mehr. Wie wenn der Fall der wäre: Wenn ich nur 4 sehe, so gibt es eben nicht 100. Aber die Unendlichkeit hat nicht den Platz einer Zahl. Es ist ganz richtig: Wenn ich nur 4 sehe, so gibt es nicht 100 und auch nicht 5. Aber es gibt die unendliche Möglichkeit, die von einer kleinen Zahl ebensowenig ausgefüllt wird, wie von einer großen. Und zwar tatsächlich darum, weil sie selbst _keine_ Größe ist.
+<span class="series-number">138</span> Aber wenn ich immer nur endlich viele Dinge, Teilungen, Farben, etc. sehe, dann gibt es eben überhaupt keine Unendlichkeit; in keinem Sinne. Das Gefühl ist hier: Wenn ich immer nur so wenige sehe, so gibt es überhaupt nicht mehr. Wie wenn der Fall der wäre: Wenn ich nur 4 sehe, so gibt es eben nicht 100. Aber die Unendlichkeit hat nicht den Platz einer Zahl. Es ist ganz richtig: Wenn ich nur 4 sehe, so gibt es nicht 100 und auch nicht 5. Aber es gibt die unendliche Möglichkeit, die von einer kleinen Zahl ebensowenig ausgefüllt wird, wie von einer großen. Und zwar tatsächlich darum, weil sie selbst _keine_ Größe ist.
 
 ### [Ts-209](/ts-209/#61.4) <span class="fac">[61\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/61.webp)</span> {#ts-209-614}
 
@@ -2156,7 +2156,7 @@ Der Raum hat keine Ausdehnung, nur die räumlichen Gegenstände sind ausgedehnt,
 
 ### [Ts-209](/ts-209/#62.1) <span class="fac">[62\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/62.webp)</span> {#ts-209-621}
 
-<span class="series-number">139.</span> Wie ist es mit der unendlichen Teilbarkeit? Denken wir daran, daß es einen Sinn hat, zu sagen, daß _jede_ endliche Zahl von Teilen denkbar ist, aber keine unendliche; daß aber eben darin die unendliche Teilbarkeit besteht. Hier aber heißt nun “jede” nicht, daß die _Gesamtheit aller_ Teilungen denkbar ist, (die ist es nicht, denn die gibt es nicht). Sondern die _Variable_ “Teilbarkeit” (d.i. den Begriff der Teilbarkeit) gibt es, die der wirklichen Teilbarkeit _keine Grenzen zieht_; und darin besteht ihre Unendlichkeit.
+<span class="series-number">139</span> Wie ist es mit der unendlichen Teilbarkeit? Denken wir daran, daß es einen Sinn hat, zu sagen, daß _jede_ endliche Zahl von Teilen denkbar ist, aber keine unendliche; daß aber eben darin die unendliche Teilbarkeit besteht. Hier aber heißt nun “jede” nicht, daß die _Gesamtheit aller_ Teilungen denkbar ist, (die ist es nicht, denn die gibt es nicht). Sondern die _Variable_ “Teilbarkeit” (d.i. den Begriff der Teilbarkeit) gibt es, die der wirklichen Teilbarkeit _keine Grenzen zieht_; und darin besteht ihre Unendlichkeit.
 
 ### [Ts-209](/ts-209/#62.2) <span class="fac">[62\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/62.webp)</span> {#ts-209-622}
 
@@ -2180,7 +2180,7 @@ Und darum steht in der ersten Klammer bloß _ein_ Buchstabe. Offenbar nur eine G
 
 ### [Ts-209](/ts-209/#63.2) <span class="fac">[63\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/63.webp)</span> {#ts-209-632}
 
-<span class="series-number">140.</span> Ist die primäre Zeit unendlich? D.h. ist sie eine unendliche Möglichkeit? Auch wenn sie nur so weit erfüllt ist, als die Erinnerung reicht, so sagt das keineswegs, daß sie endlich ist. Sie ist in demselben Sinne unendlich, in dem der dreidimensionale Gesichtsraum es ist, auch wenn ich tatsächlich nur bis zu den Wänden meines Zimmers sehen kann. Denn was ich sehe, präsupponiert die Möglichkeit eines Sehens in größere Entfernung. D.h., ich könnte, was ich sehe, korrekt nur durch eine unendliche Form darstellen. Ist es möglich sich die Zeit mit einem Ende zu denken oder mit zwei Enden?
+<span class="series-number">140</span> Ist die primäre Zeit unendlich? D.h. ist sie eine unendliche Möglichkeit? Auch wenn sie nur so weit erfüllt ist, als die Erinnerung reicht, so sagt das keineswegs, daß sie endlich ist. Sie ist in demselben Sinne unendlich, in dem der dreidimensionale Gesichtsraum es ist, auch wenn ich tatsächlich nur bis zu den Wänden meines Zimmers sehen kann. Denn was ich sehe, präsupponiert die Möglichkeit eines Sehens in größere Entfernung. D.h., ich könnte, was ich sehe, korrekt nur durch eine unendliche Form darstellen. Ist es möglich sich die Zeit mit einem Ende zu denken oder mit zwei Enden?
 
 ### [Ts-209](/ts-209/#63.3) <span class="fac">[63\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/63.webp)</span> {#ts-209-633}
 
@@ -2192,7 +2192,7 @@ Der menschliche Bewegungsraum ist unendlich, wie die Zeit.
 
 ### [Ts-209](/ts-209/#63.5) <span class="fac">[63\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/63.webp)</span> {#ts-209-635}
 
-<span class="series-number">141.</span> Die Regeln über das Zahlensystem – etwa das Dezimalsystem – enthalten alles, was an den Zahlen unendlich ist. Daß _diese Regeln_ z.B. die Zahlzeichen nach rechts und links nicht beschränken, _darin_ liegt die Unendlichkeit ausgedrückt. Man könnte vielleicht sagen: Ja, aber die Zahlzeichen sind doch durch den Gebrauch von Papier und Schreibmaterial und andere Umstände beschränkt. Wohl, aber das ist nicht in den _Regeln_ über ihren Gebrauch ausgedrückt und nur in diesen liegt ihr eigentliches Wesen ausgesprochen.
+<span class="series-number">141</span> Die Regeln über das Zahlensystem – etwa das Dezimalsystem – enthalten alles, was an den Zahlen unendlich ist. Daß _diese Regeln_ z.B. die Zahlzeichen nach rechts und links nicht beschränken, _darin_ liegt die Unendlichkeit ausgedrückt. Man könnte vielleicht sagen: Ja, aber die Zahlzeichen sind doch durch den Gebrauch von Papier und Schreibmaterial und andere Umstände beschränkt. Wohl, aber das ist nicht in den _Regeln_ über ihren Gebrauch ausgedrückt und nur in diesen liegt ihr eigentliches Wesen ausgesprochen.
 
 ### [Ts-209](/ts-209/#63.6) <span class="fac">[63\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/63.webp)</span> {#ts-209-636}
 
@@ -2216,7 +2216,7 @@ m = 2n weist der Zahlenreihe entlang und wenn wir dazusetzen “ins Unendliche�
 
 ### [Ts-209](/ts-209/#64.4) <span class="fac">[64\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/64.webp)</span> {#ts-209-644}
 
-<span class="series-number">142.</span> Die unendliche Zahlenreihe selbst ist nur eine solche Möglichkeit – wie klar aus dem einzigen Symbol für sie “(1, x, x + 1)” hervorgeht. Dieses Symbol selbst ist ein Pfeil, und es ist die erste “1” die Feder des Pfeiles und “x + 1” seine Spitze, und das Charakteristische, daß, wie die Länge eines Pfeiles unwesentlich ist, hier das variable x anzeigt, daß es gleichgültig ist, in welcher Entfernung von der Feder die Pfeilspitze liegt.
+<span class="series-number">142</span> Die unendliche Zahlenreihe selbst ist nur eine solche Möglichkeit – wie klar aus dem einzigen Symbol für sie “(1, x, x + 1)” hervorgeht. Dieses Symbol selbst ist ein Pfeil, und es ist die erste “1” die Feder des Pfeiles und “x + 1” seine Spitze, und das Charakteristische, daß, wie die Länge eines Pfeiles unwesentlich ist, hier das variable x anzeigt, daß es gleichgültig ist, in welcher Entfernung von der Feder die Pfeilspitze liegt.
 
 ### [Ts-209](/ts-209/#64.5) <span class="fac">[64\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/64.webp)</span> {#ts-209-645}
 
@@ -2256,7 +2256,7 @@ Der Pfeil bezeichnet gleichsam die Möglichkeit der Lage in seiner Richtung.
 
 ### [Ts-209](/ts-209/#65.4) <span class="fac">[65\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/65.webp)</span> {#ts-209-654}
 
-<span class="series-number">143.</span> Inwiefern ist die endlose Zeit eine Möglichkeit und keine Realität? Denn man könnte gegen mich einwenden, daß doch die Zeit ebenso eine Realität sein muß, wie etwa die Farbe.
+<span class="series-number">143</span> Inwiefern ist die endlose Zeit eine Möglichkeit und keine Realität? Denn man könnte gegen mich einwenden, daß doch die Zeit ebenso eine Realität sein muß, wie etwa die Farbe.
 
 ### [Ts-209](/ts-209/#65.5) <span class="fac">[65\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/65.webp)</span> {#ts-209-655}
 
@@ -2280,7 +2280,7 @@ Es geht uns mit der Zeit tatsächlich wie mit dem Raum. Die erfüllte Zeit, die 
 
 ### [Ts-209](/ts-209/#66.1) <span class="fac">[66\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/66.webp)</span> {#ts-209-661}
 
-<span class="series-number">144.</span> Die unendliche Zahlenreihe ist nur die unendliche Möglichkeit von endlichen Zahlenreihen. Es ist sinnlos von der _ganzen_ unendlichen Zahlenreihe zu reden, als wäre auch sie eine Extension.
+<span class="series-number">144</span> Die unendliche Zahlenreihe ist nur die unendliche Möglichkeit von endlichen Zahlenreihen. Es ist sinnlos von der _ganzen_ unendlichen Zahlenreihe zu reden, als wäre auch sie eine Extension.
 
 ### [Ts-209](/ts-209/#66.2) <span class="fac">[66\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/66.webp)</span> {#ts-209-662}
 
@@ -2316,7 +2316,7 @@ Wir sehen einen kontinuierlichen Farbübergang und eine kontinuierliche Bewegung
 
 ### [Ts-209](/ts-209/#66.10) <span class="fac">[66\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/66.webp)</span> {#ts-209-6610}
 
-<span class="series-number">145.</span> Was ist eine regellose unendliche Dezimalzahl? Kann man eine unendliche Ziffernfolge statt durch ein Gesetz auch durch eine nichtmathematische – also äußere – Beschreibung geben? (Sehr seltsam, daß es eine doppelte Art des Erfassens geben soll).
+<span class="series-number">145</span> Was ist eine regellose unendliche Dezimalzahl? Kann man eine unendliche Ziffernfolge statt durch ein Gesetz auch durch eine nichtmathematische – also äußere – Beschreibung geben? (Sehr seltsam, daß es eine doppelte Art des Erfassens geben soll).
 
 ### [Ts-209](/ts-209/#66.11) <span class="fac">[66\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/66.webp)</span> {#ts-209-6611}
 
@@ -2344,7 +2344,7 @@ Nun könnte ich ja sagen: Es ist mir das Gesetz bekannt, daß jeder Baum eine an
 
 ### [Ts-209](/ts-209/#67.6) <span class="fac">[67\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/67.webp)</span> {#ts-209-676}
 
-<span class="series-number">146.</span> Woher bezieht das mult. ax. seine Wahrscheinlichkeit? Doch daher, daß man im Falle einer endlichen Klasse von Klassen eine Selektion tatsächlich herstellen kann. Wie ist es aber bei unendlich vielen Teilklassen? Es ist offenbar, daß ich hier nur das Gesetz der Bildung einer Selektion kennen kann. Aus einer endlichen Klasse von Klassen kann ich nun etwas wie eine _willkürliche_ Selektion bilden. Ist das bei einer unendlichen Klasse von Klassen _denkbar_? Es scheint mir unsinnig zu sein.
+<span class="series-number">146</span> Woher bezieht das mult. ax. seine Wahrscheinlichkeit? Doch daher, daß man im Falle einer endlichen Klasse von Klassen eine Selektion tatsächlich herstellen kann. Wie ist es aber bei unendlich vielen Teilklassen? Es ist offenbar, daß ich hier nur das Gesetz der Bildung einer Selektion kennen kann. Aus einer endlichen Klasse von Klassen kann ich nun etwas wie eine _willkürliche_ Selektion bilden. Ist das bei einer unendlichen Klasse von Klassen _denkbar_? Es scheint mir unsinnig zu sein.
 
 ### [Ts-209](/ts-209/#67.7) <span class="fac">[67\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/67.webp)</span> {#ts-209-677}
 
@@ -2360,7 +2360,7 @@ Angenommen die Hypothese wäre: Es gibt im Raum eine unendliche Reihe roter Kuge
 
 ### [Ts-209](/ts-209/#68.3) <span class="fac">[68\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/68.webp)</span> {#ts-209-683}
 
-<span class="series-number">147.</span> Auf den Einwand: “Wenn es aber doch unendlich viele Dinge gibt”, kann man nur antworten: “Es gibt sie aber nicht”. Und was uns glauben macht, daß es sie vielleicht gibt, ist nur, daß wir die Dinge der Physik mit den Elementen der Erkenntnis verwechseln.
+<span class="series-number">147</span> Auf den Einwand: “Wenn es aber doch unendlich viele Dinge gibt”, kann man nur antworten: “Es gibt sie aber nicht”. Und was uns glauben macht, daß es sie vielleicht gibt, ist nur, daß wir die Dinge der Physik mit den Elementen der Erkenntnis verwechseln.
 
 ### [Ts-209](/ts-209/#68.4) <span class="fac">[68\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/68.webp)</span> {#ts-209-684}
 
@@ -2392,7 +2392,7 @@ Wie ist es also etwa mit einer Reihe von Fixsternen, in der _jeder_ einen Vorgä
 
 ### [Ts-209](/ts-209/#69.3) <span class="fac">[69\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/69.webp)</span> {#ts-209-693}
 
-<span class="series-number">148.</span> Man könnte auch fragen: Wie geht denn jener Prozeß vor sich, wenn wir noch gar keine Ahnung haben, wie ein gewisser Satz zu beweisen ist und nun doch fragen: “Läßt er sich beweisen, oder nicht” und nach dem Beweis für ihn ausschauen. Wenn wir “versuchen ihn zu beweisen”, was tun wir da? Ist es wesentlich ein Suchen ohne jedes innere System, also eigentlich _kein Suchen_, oder kann irgend ein Plan vorhanden sein? Die Antwort auf diese Frage ist ein Fingerzeig dafür, ob der noch unbewiesene – oder noch unbeweisbare – Satz sinnlos ist oder nicht. Denn in einem sehr bedeutungsvollen Sinn muß jeder sinnvolle Satz durch seinen Sinn uns anweisen, wie wir uns davon überzeugen sollen, ob er wahr oder falsch ist. “Jeder Satz sagt, was der Fall ist, wenn er wahr ist”. Und dieses “was der Fall ist” muß sich beim mathematischen Satz auf die Art und Weise seines Beweises beziehen. Dagegen nämlich kann man nicht den _Sinn_, den man nicht kennt, logisch planvoll suchen. Der Sinn müßte einem sozusagen geoffenbart werden und zwar von außen, – da er aus dem Satzzeichen allein nicht zu entnehmen ist – im Gegensatz zur Wahrheit, die uns der Satz selbst suchen und mit ihm vergleichen lehrt.
+<span class="series-number">148</span> Man könnte auch fragen: Wie geht denn jener Prozeß vor sich, wenn wir noch gar keine Ahnung haben, wie ein gewisser Satz zu beweisen ist und nun doch fragen: “Läßt er sich beweisen, oder nicht” und nach dem Beweis für ihn ausschauen. Wenn wir “versuchen ihn zu beweisen”, was tun wir da? Ist es wesentlich ein Suchen ohne jedes innere System, also eigentlich _kein Suchen_, oder kann irgend ein Plan vorhanden sein? Die Antwort auf diese Frage ist ein Fingerzeig dafür, ob der noch unbewiesene – oder noch unbeweisbare – Satz sinnlos ist oder nicht. Denn in einem sehr bedeutungsvollen Sinn muß jeder sinnvolle Satz durch seinen Sinn uns anweisen, wie wir uns davon überzeugen sollen, ob er wahr oder falsch ist. “Jeder Satz sagt, was der Fall ist, wenn er wahr ist”. Und dieses “was der Fall ist” muß sich beim mathematischen Satz auf die Art und Weise seines Beweises beziehen. Dagegen nämlich kann man nicht den _Sinn_, den man nicht kennt, logisch planvoll suchen. Der Sinn müßte einem sozusagen geoffenbart werden und zwar von außen, – da er aus dem Satzzeichen allein nicht zu entnehmen ist – im Gegensatz zur Wahrheit, die uns der Satz selbst suchen und mit ihm vergleichen lehrt.
 
 ### [Ts-209](/ts-209/#69.4) <span class="fac">[69\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/69.webp)</span> {#ts-209-694}
 
@@ -2408,7 +2408,7 @@ Meine Erklärung darf nicht das mathematische Problem aus der Welt schaffen. D.h
 
 ### [Ts-209](/ts-209/#69.7) <span class="fac">[69\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/69.webp)</span> {#ts-209-697}
 
-<span class="series-number">149.</span> Ist es so, daß ich zu jedem Schritt eines Beweises eine frische Intuition brauche? Das hängt mit der Frage der Individualität der Zahlen zusammen. Es wäre etwa so: Angenommen eine gewisse allgemeine Regel, in der also eine Variable vorkommt, so muß ich immer von neuem erkennen, daß diese Regel _hier_ angewendet werden kann. Kein Akt der Voraussicht kann mir diesen Akt der _Einsicht_ ersparen. Denn tatsächlich ist die Form, auf die die Regel angewandt wird, bei jedem Schritte eine andere.
+<span class="series-number">149</span> Ist es so, daß ich zu jedem Schritt eines Beweises eine frische Intuition brauche? Das hängt mit der Frage der Individualität der Zahlen zusammen. Es wäre etwa so: Angenommen eine gewisse allgemeine Regel, in der also eine Variable vorkommt, so muß ich immer von neuem erkennen, daß diese Regel _hier_ angewendet werden kann. Kein Akt der Voraussicht kann mir diesen Akt der _Einsicht_ ersparen. Denn tatsächlich ist die Form, auf die die Regel angewandt wird, bei jedem Schritte eine andere.
 
 ### [Ts-209](/ts-209/#70.1) <span class="fac">[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/70.webp)</span> {#ts-209-701}
 
@@ -2444,7 +2444,7 @@ Man kann auch nicht nach einem neuen Sinn (Sinneswahrnehmung) _suchen_.
 
 ### [Ts-209](/ts-209/#70.10) <span class="fac">[70\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/70.webp)</span> {#ts-209-7010}
 
-<span class="series-number">150.</span> Die Frage taucht wieder auf: Inwiefern kann man einen mathematischen Satz _behaupten_? _Das_ hieße nämlich nichts, daß ich ihn nur dann behaupten kann, wenn er richtig ist. – Sondern behaupten können muß ich auf den Sinn hin, nicht auf die Wahrheit hin. Es scheint mir, wie schon gesagt, klar zu sein, daß ich den allgemeinen Satz so sehr oder so wenig behaupten kann, wie die Gleichung 3 × 3 = 9 oder auch 3 × 3 = 11.
+<span class="series-number">150</span> Die Frage taucht wieder auf: Inwiefern kann man einen mathematischen Satz _behaupten_? _Das_ hieße nämlich nichts, daß ich ihn nur dann behaupten kann, wenn er richtig ist. – Sondern behaupten können muß ich auf den Sinn hin, nicht auf die Wahrheit hin. Es scheint mir, wie schon gesagt, klar zu sein, daß ich den allgemeinen Satz so sehr oder so wenig behaupten kann, wie die Gleichung 3 × 3 = 9 oder auch 3 × 3 = 11.
 
 ### [Ts-209](/ts-209/#71.1) <span class="fac">[71\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/71.webp)</span> {#ts-209-711}
 
@@ -2504,7 +2504,7 @@ Suchen kann man nur in einem System: Also gibt es unbedingt etwas, was man _nich
 
 ### [Ts-209](/ts-209/#72.5) <span class="fac">[72\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/72.webp)</span> {#ts-209-725}
 
-<span class="series-number">151.</span> Nur dort kann man in der Mathematik fragen (oder vermuten) wo die Antwort lautet “Ich muß es ausrechnen”. Kann ich das denn aber nicht auch im Fall <math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> sagen, wenn auch das Resultat keine Extension sondern die Entstehung jener Induktionsbeziehung ist? Wohl aber müssen wir dazu von dieser Induktionsbeziehung eine klare Vorstellung haben, wenn wir sie erwarten wollen. D.h., wir können doch auch hier nicht ins Blaue vermuten oder erwarten.
+<span class="series-number">151</span> Nur dort kann man in der Mathematik fragen (oder vermuten) wo die Antwort lautet “Ich muß es ausrechnen”. Kann ich das denn aber nicht auch im Fall <math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> sagen, wenn auch das Resultat keine Extension sondern die Entstehung jener Induktionsbeziehung ist? Wohl aber müssen wir dazu von dieser Induktionsbeziehung eine klare Vorstellung haben, wenn wir sie erwarten wollen. D.h., wir können doch auch hier nicht ins Blaue vermuten oder erwarten.
 
 ### [Ts-209](/ts-209/#72.6) <span class="fac">[72\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/72.webp)</span> {#ts-209-726}
 
@@ -2548,7 +2548,7 @@ Kenne ich die Regeln der elementaren Trigonometrie, so kann ich den Satz sin 2x 
 
 ### [Ts-209](/ts-209/#73.5) <span class="fac">[73\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/73.webp)</span> {#ts-209-735}
 
-<span class="series-number">152.</span> Ist es nun eine richtige Frage, ob die Dreiteilung des Winkels möglich ist? Und welcher Art ist der Satz und sein Beweis, daß sie mit Zirkel und Lineal nicht möglich ist?
+<span class="series-number">152</span> Ist es nun eine richtige Frage, ob die Dreiteilung des Winkels möglich ist? Und welcher Art ist der Satz und sein Beweis, daß sie mit Zirkel und Lineal nicht möglich ist?
 
 ### [Ts-209](/ts-209/#73.6) <span class="fac">[73\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/73.webp)</span> {#ts-209-736}
 
@@ -2608,7 +2608,7 @@ Angenommen nun, ich habe 2 Systeme, so kann man nicht nach einem System fragen, 
 
 ### [Ts-209](/ts-209/#74.8) <span class="fac">[74\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/74.webp)</span> {#ts-209-748}
 
-<span class="series-number">153.</span> Beweise, die dasselbe beweisen sind ineinander übersetzbar und insofern derselbe Beweis. Das gilt nur für solche Beweise nicht, wie etwa: “Daß er zu Hause ist, ersehe ich aus zwei Tatsachen; erstens hängt sein Rock im Vorzimmer und zweitens höre ich ihn pfeifen”. Hier haben wir zwei unabhängige Quellen der Erkenntnis. Der Beweis bedarf eben von außen kommende Gründe, während ein Beweis der Mathematik die Analyse des mathematischen Satzes ist.
+<span class="series-number">153</span> Beweise, die dasselbe beweisen sind ineinander übersetzbar und insofern derselbe Beweis. Das gilt nur für solche Beweise nicht, wie etwa: “Daß er zu Hause ist, ersehe ich aus zwei Tatsachen; erstens hängt sein Rock im Vorzimmer und zweitens höre ich ihn pfeifen”. Hier haben wir zwei unabhängige Quellen der Erkenntnis. Der Beweis bedarf eben von außen kommende Gründe, während ein Beweis der Mathematik die Analyse des mathematischen Satzes ist.
 
 ### [Ts-209](/ts-209/#74.9) <span class="fac">[74\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/74.webp)</span> {#ts-209-749}
 
@@ -2640,7 +2640,7 @@ Ramsey meinte, daß das, was ich das Erkennen des Systems nenne, weiter nichts i
 
 ### [Ts-209](/ts-209/#75.6) <span class="fac">[75\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/75.webp)</span> {#ts-209-756}
 
-<span class="series-number">154.</span> Ich könnte Zahlengleichungen und Buchstabengleichungen dahin zusammenfassen: Die Transformation der linken Seite nach den Regeln liefert die rechte Seite, oder nicht. Dazu müssen aber die beiden Seiten der Gleichung (N.B. der _allgemeinen_) sozusagen _kommensurabel_ sein.
+<span class="series-number">154</span> Ich könnte Zahlengleichungen und Buchstabengleichungen dahin zusammenfassen: Die Transformation der linken Seite nach den Regeln liefert die rechte Seite, oder nicht. Dazu müssen aber die beiden Seiten der Gleichung (N.B. der _allgemeinen_) sozusagen _kommensurabel_ sein.
 
 ### [Ts-209](/ts-209/#75.8) <span class="fac">[75\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/75.webp)</span> {#ts-209-758}
 
@@ -2672,7 +2672,7 @@ Der Gegensatz zu “es ist notwendig, daß p für alle Zahlen gilt” ist allerd
 
 ### [Ts-209](/ts-209/#76.6) <span class="fac">[76\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/76.webp)</span> {#ts-209-766}
 
-<span class="series-number">155.</span> Welcher Art ist z.B. die Entdeckung Scheffers, daß man die Wahrheitsfunktionen alle auf p ❘ q zurückführen kann? Oder die Entdeckung der Methode, die Kubikwurzel zu ziehen? Wie ist es, wenn man in der Mathematik einen Trick anwenden muß? (Wie beim Lösen einer Gleichung oder beim Integrieren). Hier ist es, wie beim Lösen eines Knotens. Ich kann auf gut Glück den einen oder andern Weg probieren, und es kann sein, daß sich der Knoten noch mehr verknüpft, oder, daß er sich löst. (Jedenfalls ist jede Operation eine erlaubte Operation und führt irgend wohin).
+<span class="series-number">155</span> Welcher Art ist z.B. die Entdeckung Scheffers, daß man die Wahrheitsfunktionen alle auf p ❘ q zurückführen kann? Oder die Entdeckung der Methode, die Kubikwurzel zu ziehen? Wie ist es, wenn man in der Mathematik einen Trick anwenden muß? (Wie beim Lösen einer Gleichung oder beim Integrieren). Hier ist es, wie beim Lösen eines Knotens. Ich kann auf gut Glück den einen oder andern Weg probieren, und es kann sein, daß sich der Knoten noch mehr verknüpft, oder, daß er sich löst. (Jedenfalls ist jede Operation eine erlaubte Operation und führt irgend wohin).
 
 ### [Ts-209](/ts-209/#76.7+77.1) <span class="fac">[76\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/76.webp),[77\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/77.webp)</span> {#ts-209-767771}
 
@@ -2696,7 +2696,7 @@ Es kann nicht zwei unabhängige Beweise eines mathematischen Satzes geben.
 
 ### [Ts-209](/ts-209/#77.6) <span class="fac">[77\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/77.webp)</span> {#ts-209-776}
 
-<span class="series-number">156.</span> Das Knoten-Auflösen in der Mathematik: Kann man _versuchen_ einen Knoten aufzulösen, von dem einmal bewiesen wird, daß er nicht auflösbar ist? Die Auflösung der Gleichung dritten Grades ist gelungen, die Dreiteilung des Winkels mit Lineal und Zirkel _konnte_ nicht gelingen; an beiden hat man sich versucht, lang ehe man die Lösung der einen Aufgabe und die Unlösbarkeit der andern wußte.
+<span class="series-number">156</span> Das Knoten-Auflösen in der Mathematik: Kann man _versuchen_ einen Knoten aufzulösen, von dem einmal bewiesen wird, daß er nicht auflösbar ist? Die Auflösung der Gleichung dritten Grades ist gelungen, die Dreiteilung des Winkels mit Lineal und Zirkel _konnte_ nicht gelingen; an beiden hat man sich versucht, lang ehe man die Lösung der einen Aufgabe und die Unlösbarkeit der andern wußte.
 
 ### [Ts-209](/ts-209/#77.7) <span class="fac">[77\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/77.webp)</span> {#ts-209-777}
 
@@ -2716,7 +2716,7 @@ Es ist eher so, als ob ein Knoten oder Knäuel uns nach und nach gezeigt würde 
 
 ### [Ts-209](/ts-209/#78.3) <span class="fac">[78\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/78.webp)</span> {#ts-209-783}
 
-<span class="series-number">157.</span> Was hat man denn damals gefunden, als man fand, daß es unendlich viele Primzahlen gibt? Was hat man denn gefunden, wie man eingesehen hat, daß es unendlich viele Kardinalzahlen gibt? – Ist es nicht ganz analog der Erkenntnis – wenn es eine ist – daß der euklidische Raum unendlich ist, nachdem wir schon längst Sätze über die Gegenstände in diesem Raum gebildet haben. Was bedeutet denn eine Untersuchung des Raumes? – Denn jede mathematische Untersuchung ist quasi eine Untersuchung des Raumes. Daß man die _Dinge_ im Raum untersuchen kann, ist klar, aber den Raum! (Geometrie und Grammatik entsprechen einander immer.) Erinnern wir uns, daß in der Mathematik die Zeichen selbst Mathematik _machen_, nicht Mathematik beschreiben. Die mathematischen Zeichen sind ja wie die Kugeln einer Rechenmaschine. Und die Kugeln sind im Raum und eine Untersuchung an der Rechenmaschine ist eine Untersuchung des Raumes.
+<span class="series-number">157</span> Was hat man denn damals gefunden, als man fand, daß es unendlich viele Primzahlen gibt? Was hat man denn gefunden, wie man eingesehen hat, daß es unendlich viele Kardinalzahlen gibt? – Ist es nicht ganz analog der Erkenntnis – wenn es eine ist – daß der euklidische Raum unendlich ist, nachdem wir schon längst Sätze über die Gegenstände in diesem Raum gebildet haben. Was bedeutet denn eine Untersuchung des Raumes? – Denn jede mathematische Untersuchung ist quasi eine Untersuchung des Raumes. Daß man die _Dinge_ im Raum untersuchen kann, ist klar, aber den Raum! (Geometrie und Grammatik entsprechen einander immer.) Erinnern wir uns, daß in der Mathematik die Zeichen selbst Mathematik _machen_, nicht Mathematik beschreiben. Die mathematischen Zeichen sind ja wie die Kugeln einer Rechenmaschine. Und die Kugeln sind im Raum und eine Untersuchung an der Rechenmaschine ist eine Untersuchung des Raumes.
 
 ### [Ts-209](/ts-209/#78.4) <span class="fac">[78\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/78.webp)</span> {#ts-209-784}
 
@@ -2732,7 +2732,7 @@ Angenommen, ich wollte ein regelmäßiges Fünfeck konstruieren, wüßte aber ni
 
 ### [Ts-209](/ts-209/#78.7) <span class="fac">[78\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/78.webp)</span> {#ts-209-787}
 
-<span class="series-number">158.</span> Die Entdeckung des Zusammenhangs zweier Systeme war nicht in _einem_ Raum mit jenen beiden Systemen, und wäre sie in demselben Raum gewesen, so wäre es keine Entdeckung gewesen (sondern die Lösung einer Schulaufgabe).
+<span class="series-number">158</span> Die Entdeckung des Zusammenhangs zweier Systeme war nicht in _einem_ Raum mit jenen beiden Systemen, und wäre sie in demselben Raum gewesen, so wäre es keine Entdeckung gewesen (sondern die Lösung einer Schulaufgabe).
 
 ### [Ts-209](/ts-209/#78.8) <span class="fac">[78\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/78.webp)</span> {#ts-209-788}
 
@@ -2756,7 +2756,7 @@ Die Mathematik kann nicht unvollständig sein; wie ein _Sinn_ nicht unvollständ
 
 ### [Ts-209](/ts-209/#79.5) <span class="fac">[79\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/79.webp)</span> {#ts-209-795}
 
-<span class="series-number">159.</span> Muß es aber denn nicht eine Frage sein, ob es eine endliche Zahl aller Primzahlen gibt oder nicht? Wenn man einmal überhaupt zu diesem Begriff gekommen ist. Denn es scheint doch, daß ich, wenn mir der Begriff Primzahl gegeben ist, unmittelbar fragen kann “wieviele Primzahlen gibt es?”. Wie ich, wenn mir der Begriff “Mensch in diesem Zimmer” gegeben ist ohne weiteres die Frage bilden kann “wieviele Menschen sind in diesem Zimmer?”
+<span class="series-number">159</span> Muß es aber denn nicht eine Frage sein, ob es eine endliche Zahl aller Primzahlen gibt oder nicht? Wenn man einmal überhaupt zu diesem Begriff gekommen ist. Denn es scheint doch, daß ich, wenn mir der Begriff Primzahl gegeben ist, unmittelbar fragen kann “wieviele Primzahlen gibt es?”. Wie ich, wenn mir der Begriff “Mensch in diesem Zimmer” gegeben ist ohne weiteres die Frage bilden kann “wieviele Menschen sind in diesem Zimmer?”
 
 ### [Ts-209](/ts-209/#79.6) <span class="fac">[79\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/79.webp)</span> {#ts-209-796}
 
@@ -2776,7 +2776,7 @@ Ich will also sagen: Nur in unserer Wortsprache (die hier zu einem Mißverständ
 
 ### [Ts-209](/ts-209/#80.2) <span class="fac">[80\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/80.webp)</span> {#ts-209-802}
 
-<span class="series-number">160.</span> Es scheint mir, daß die Idee der Widerspruchsfreiheit in den Axiomen der Mathematik, die jetzt so viel in den Köpfen der Mathematiker herumspukt, auf einem Mißverständnis beruht.
+<span class="series-number">160</span> Es scheint mir, daß die Idee der Widerspruchsfreiheit in den Axiomen der Mathematik, die jetzt so viel in den Köpfen der Mathematiker herumspukt, auf einem Mißverständnis beruht.
 
 ### [Ts-209](/ts-209/#80.3) <span class="fac">[80\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/80.webp)</span> {#ts-209-803}
 
@@ -2796,7 +2796,7 @@ Ein Postulat gibt es nur für die Ausdrucksweise. Die “Axiome” sind Postulat
 
 ### [Ts-209](/ts-209/#80.7) <span class="fac">[80\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/80.webp)</span> {#ts-209-807}
 
-<span class="series-number">161.</span> Vergleich zwischen einer mathematischen Expedition und einer Polarexpedition. Diesen Vergleich anzustellen hat Sinn und ist sehr nützlich.
+<span class="series-number">161</span> Vergleich zwischen einer mathematischen Expedition und einer Polarexpedition. Diesen Vergleich anzustellen hat Sinn und ist sehr nützlich.
 
 ### [Ts-209](/ts-209/#80.8) <span class="fac">[80\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/80.webp)</span> {#ts-209-808}
 
@@ -2832,7 +2832,7 @@ Der Begriff “Primzahl” ist die allgemeine Form der Untersuchung einer Zahl a
 
 ### [Ts-209](/ts-209/#81.5) <span class="fac">[81\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/81.webp)</span> {#ts-209-815}
 
-<span class="series-number">162.</span> Welcher Art war Scheffers Entdeckung, daß p․ ⌵ ․q und non-p sich durch p ❘ q ausdrücken lassen? – Man hatte keine Methode nach p ❘ q zu suchen und wenn man heute eine fände, so könnte das keinen Unterschied machen. Was war es, was wir vor der Entdeckung nicht wußten? Es war nichts, was wir nicht wußten, sondern etwas, was wir nicht kannten. Das sieht man sehr deutlich, wenn man sich den Einspruch erhoben denkt, p ❘ p sei gar nicht das, was non-p sagt. Die Antwort ist natürlich, daß es sich nur darum handelt, daß das System p ❘ q etc. die nötige Multiplizität hat. Scheffer hat also ein symbolisches System gefunden, das die nötige Multiplizität hat. Ist es ein Suchen, wenn ich das System Scheffers nicht kenne und sage, ich möchte ein System mit nur _einer_ logischen Konstante konstruieren. Nein! Die Systeme sind ja gar nicht in _einem_ Raum, so daß ich sagen könnte: Es gibt Systeme mit 3 und 2 logischen Konstanten und nun suche ich die Zahl der Konstanten _in der selben Weise_ zu vermindern. Es gibt hier keine _selbe Weise_.
+<span class="series-number">162</span> Welcher Art war Scheffers Entdeckung, daß p․ ⌵ ․q und non-p sich durch p ❘ q ausdrücken lassen? – Man hatte keine Methode nach p ❘ q zu suchen und wenn man heute eine fände, so könnte das keinen Unterschied machen. Was war es, was wir vor der Entdeckung nicht wußten? Es war nichts, was wir nicht wußten, sondern etwas, was wir nicht kannten. Das sieht man sehr deutlich, wenn man sich den Einspruch erhoben denkt, p ❘ p sei gar nicht das, was non-p sagt. Die Antwort ist natürlich, daß es sich nur darum handelt, daß das System p ❘ q etc. die nötige Multiplizität hat. Scheffer hat also ein symbolisches System gefunden, das die nötige Multiplizität hat. Ist es ein Suchen, wenn ich das System Scheffers nicht kenne und sage, ich möchte ein System mit nur _einer_ logischen Konstante konstruieren. Nein! Die Systeme sind ja gar nicht in _einem_ Raum, so daß ich sagen könnte: Es gibt Systeme mit 3 und 2 logischen Konstanten und nun suche ich die Zahl der Konstanten _in der selben Weise_ zu vermindern. Es gibt hier keine _selbe Weise_.
 
 ### [Ts-209](/ts-209/#81.6) <span class="fac">[81\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/81.webp)</span> {#ts-209-816}
 
@@ -2852,7 +2852,7 @@ Der mathematische Satz verhält sich dann zu seinem Beweis wie die eine oberste 
 
 ### [Ts-209](/ts-209/#82.2) <span class="fac">[82\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/82.webp)</span> {#ts-209-822}
 
-<span class="series-number">163.</span> “a + (b + c) = (a + b) + c” … A(c) kann als Grundregel eines Systems aufgefaßt werden, als solche kann man es nur vorschreiben, aber nicht _behaupten_, oder verneinen (also kein Gesetz des ausgeschlossenen Dritten). Nun kann ich den Satz aber scheinbar auch als Resultat eines Beweises ansehen. Hat dieser Beweis eine Frage beantwortet und welche? Hat er eine Behauptung als wahr erwiesen und also ihr Gegenteil als falsch? Da scheint es nun aber, daß ich den Satz, in dem Sinne, in dem er Grundregel eines Systems ist, gar nicht beweisen kann. Ich beweise vielmehr etwas _über_ ihn.
+<span class="series-number">163</span> “a + (b + c) = (a + b) + c” … A(c) kann als Grundregel eines Systems aufgefaßt werden, als solche kann man es nur vorschreiben, aber nicht _behaupten_, oder verneinen (also kein Gesetz des ausgeschlossenen Dritten). Nun kann ich den Satz aber scheinbar auch als Resultat eines Beweises ansehen. Hat dieser Beweis eine Frage beantwortet und welche? Hat er eine Behauptung als wahr erwiesen und also ihr Gegenteil als falsch? Da scheint es nun aber, daß ich den Satz, in dem Sinne, in dem er Grundregel eines Systems ist, gar nicht beweisen kann. Ich beweise vielmehr etwas _über_ ihn.
 
 ### [Ts-209](/ts-209/#82.3) <span class="fac">[82\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/82.webp)</span> {#ts-209-823}
 
@@ -2910,7 +2910,7 @@ Er müßte analog sein einem Beweis dafür, daß durch Addition von Formen (1 + 
 
 ### [Ts-209](/ts-209/#83.5) <span class="fac">[83\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/83.webp)</span> {#ts-209-835}
 
-<span class="series-number">164.</span> Ein rekurrierender Beweis ist nur eine allgemeine Anweisung auf beliebige spezielle Beweise. Ein Wegweiser der alle Sätze einer bestimmten Form auf einem bestimmten Wege heimweist. Er sagt zum Satz 2 + (3 + 4) = (2 + 3) + 4: “Geh in _dieser_ Richtung (durchlaufe diese Spirale) dann kommst du nach Hause.”
+<span class="series-number">164</span> Ein rekurrierender Beweis ist nur eine allgemeine Anweisung auf beliebige spezielle Beweise. Ein Wegweiser der alle Sätze einer bestimmten Form auf einem bestimmten Wege heimweist. Er sagt zum Satz 2 + (3 + 4) = (2 + 3) + 4: “Geh in _dieser_ Richtung (durchlaufe diese Spirale) dann kommst du nach Hause.”
 
 ### [Ts-209](/ts-209/#83.6) <span class="fac">[83\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/83.webp)</span> {#ts-209-836}
 
@@ -3161,7 +3161,7 @@ Wie ist es aber mit einer Definition, wie A(1). Dies ist nicht als Regel zum alg
 
 ### [Ts-209](/ts-209/#84.9) <span class="fac">[84\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/84.webp)</span> {#ts-209-849}
 
-<span class="series-number">165.</span> Der richtige Ausdruck des assoziativen Gesetzes ist kein Satz, sondern gerade sein “Beweis”, der allerdings das Gesetz nicht behauptet sondern zeigt. Und hier wird es klar, daß man dieses Gesetz nun nicht verneinen kann, weil es gar nicht in Form eines Satzes auftritt. Die einzelnen Gleichungen des Beweises könnte man freilich verneinen, aber dadurch wäre das Gesetz nicht verneint. Dieses _entgeht_ der Bejahung und Verneinung.
+<span class="series-number">165</span> Der richtige Ausdruck des assoziativen Gesetzes ist kein Satz, sondern gerade sein “Beweis”, der allerdings das Gesetz nicht behauptet sondern zeigt. Und hier wird es klar, daß man dieses Gesetz nun nicht verneinen kann, weil es gar nicht in Form eines Satzes auftritt. Die einzelnen Gleichungen des Beweises könnte man freilich verneinen, aber dadurch wäre das Gesetz nicht verneint. Dieses _entgeht_ der Bejahung und Verneinung.
 
 ### [Ts-209](/ts-209/#85.1) <span class="fac">[85\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/85.webp)</span> {#ts-209-851}
 
@@ -3173,7 +3173,7 @@ Wenn man den Menschen lehrt, einen Schritt zu machen, so gibt man ihm damit die 
 
 ### [Ts-209](/ts-209/#85.4) <span class="fac">[85\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/85.webp)</span> {#ts-209-854}
 
-<span class="series-number">166.</span> Was das unmittelbare Datum zu einem Satz der gewöhnlichen Sprache ist, den es verifiziert, das ist die gesehene arithmetische Beziehung der Struktur zu der Gleichung, die sie verifiziert. Es ist das Eigentliche, kein Ausdruck eines Andern, der sich auch durch einen andern Ausdruck ersetzen läßt. D.h., nicht ein Symptom von etwas Anderem, sondern die Sache selbst. Denn so (nämlich falsch) wird es gewöhnlich aufgefaßt. Man sagt, die Induktion ist ein Zeichen, daß das und das für alle Zahlen gilt. Aber die Induktion ist kein Zeichen für irgend etwas Anderes als sich selbst. Gäbe es außer der Induktion noch etwas, wofür _sie_ nur ein Zeichen ist, so müßte dieses Etwas seinen spezifischen Ausdruck haben, der nichts anderes wäre, als der vollständige Ausdruck dieses Etwas.
+<span class="series-number">166</span> Was das unmittelbare Datum zu einem Satz der gewöhnlichen Sprache ist, den es verifiziert, das ist die gesehene arithmetische Beziehung der Struktur zu der Gleichung, die sie verifiziert. Es ist das Eigentliche, kein Ausdruck eines Andern, der sich auch durch einen andern Ausdruck ersetzen läßt. D.h., nicht ein Symptom von etwas Anderem, sondern die Sache selbst. Denn so (nämlich falsch) wird es gewöhnlich aufgefaßt. Man sagt, die Induktion ist ein Zeichen, daß das und das für alle Zahlen gilt. Aber die Induktion ist kein Zeichen für irgend etwas Anderes als sich selbst. Gäbe es außer der Induktion noch etwas, wofür _sie_ nur ein Zeichen ist, so müßte dieses Etwas seinen spezifischen Ausdruck haben, der nichts anderes wäre, als der vollständige Ausdruck dieses Etwas.
 
 ### [Ts-209](/ts-209/#85.5) <span class="fac">[85\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/85.webp)</span> {#ts-209-855}
 
@@ -3193,7 +3193,7 @@ Eigentlich hat ja schon Russell durch seine Theorie der Deskriptionen gezeigt, d
 
 ### [Ts-209](/ts-209/#86.1) <span class="fac">[86\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/86.webp)</span> {#ts-209-861}
 
-<span class="series-number">167.</span> Das algebraische Schema erhält seinen Sinn durch die Art seiner Anwendung. Diese muß also immer hinter ihm stehen. Daher aber der Induktionsbeweis, denn der rechtfertigt die Anwendung.
+<span class="series-number">167</span> Das algebraische Schema erhält seinen Sinn durch die Art seiner Anwendung. Diese muß also immer hinter ihm stehen. Daher aber der Induktionsbeweis, denn der rechtfertigt die Anwendung.
 
 ### [Ts-209](/ts-209/#86.2) <span class="fac">[86\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/86.webp)</span> {#ts-209-862}
 
@@ -3241,7 +3241,7 @@ Das System von algebraischen Sätzen entspricht einem _System_ von Induktionen.
 
 ### [Ts-209](/ts-209/#87.1) <span class="fac">[87\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/87.webp)</span> {#ts-209-871}
 
-<span class="series-number">168.</span> Der Induktionsbeweis wäre, wenn er ein Beweis wäre, ein Beweis der Allgemeinheit, nicht ein Beweis einer gewissen Eigenschaft aller Zahlen.
+<span class="series-number">168</span> Der Induktionsbeweis wäre, wenn er ein Beweis wäre, ein Beweis der Allgemeinheit, nicht ein Beweis einer gewissen Eigenschaft aller Zahlen.
 
 ### [Ts-209](/ts-209/#87.2) <span class="fac">[87\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/87.webp)</span> {#ts-209-872}
 
@@ -3273,7 +3273,7 @@ Wenn der Beweis, daß jede Gleichung eine Wurzel hat ein rekursiver Beweis ist, 
 
 ### [Ts-209](/ts-209/#87.9) <span class="fac">[87\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/87.webp)</span> {#ts-209-879}
 
-<span class="series-number">169.</span> Wenn ich wissen will, was “<math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>” heißt, so ist es eine relevante Frage: “Wie kann ich das wissen?” Denn auf dieses “wie” kommt der Beweis zur Antwort, und mehr als dieser zeigt, weiß ich ja nicht.
+<span class="series-number">169</span> Wenn ich wissen will, was “<math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>” heißt, so ist es eine relevante Frage: “Wie kann ich das wissen?” Denn auf dieses “wie” kommt der Beweis zur Antwort, und mehr als dieser zeigt, weiß ich ja nicht.
 
 ### [Ts-209](/ts-209/#88.1) <span class="fac">[88\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/88.webp)</span> {#ts-209-881}
 
@@ -3293,7 +3293,7 @@ Eine Gleichung läßt sich nur beweisen, indem man sie auf Gleichungen zurückf�
 
 ### [Ts-209](/ts-209/#88.5) <span class="fac">[88\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/88.webp)</span> {#ts-209-885}
 
-<span class="series-number">170.</span> Die Theorie der Aggregate sucht das Unendliche auf eine allgemeinere Art zu fassen als die Theorie der Vorschriften. Sie sagt, daß das wirklich Unendliche mit dem arithmetischen Symbolismus überhaupt nicht zu fassen ist und daß es also nur beschrieben und nicht dargestellt werden kann. Die Beschreibung würde es etwa so erfassen, wie man eine Menge Dinge, die man nicht alle in den Händen halten kann, in einer Kiste verpackt trägt. Sie sind dann unsichtbar und doch wissen wir, daß wir sie tragen (sozusagen indirekt). Die Theorie der Aggregate kauft gleichsam die Katze im Sack. Soll sich's das Unendliche in ihrer Kiste einrichten wie es will.
+<span class="series-number">170</span> Die Theorie der Aggregate sucht das Unendliche auf eine allgemeinere Art zu fassen als die Theorie der Vorschriften. Sie sagt, daß das wirklich Unendliche mit dem arithmetischen Symbolismus überhaupt nicht zu fassen ist und daß es also nur beschrieben und nicht dargestellt werden kann. Die Beschreibung würde es etwa so erfassen, wie man eine Menge Dinge, die man nicht alle in den Händen halten kann, in einer Kiste verpackt trägt. Sie sind dann unsichtbar und doch wissen wir, daß wir sie tragen (sozusagen indirekt). Die Theorie der Aggregate kauft gleichsam die Katze im Sack. Soll sich's das Unendliche in ihrer Kiste einrichten wie es will.
 
 ### [Ts-209](/ts-209/#88.6) <span class="fac">[88\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/88.webp)</span> {#ts-209-886}
 
@@ -3313,7 +3313,7 @@ Wenn in der Logik eine Frage 1.) allgemein und 2.) im besondern beantwortet werd
 
 ### [Ts-209](/ts-209/#89.1) <span class="fac">[89\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/89.webp)</span> {#ts-209-891}
 
-<span class="series-number">171.</span> Alle Beweise der Stetigkeit einer Funktion müssen sich auf eine Leiter – ein Zahlensystem – beziehen.
+<span class="series-number">171</span> Alle Beweise der Stetigkeit einer Funktion müssen sich auf eine Leiter – ein Zahlensystem – beziehen.
 
 ### [Ts-209](/ts-209/#89.2) <span class="fac">[89\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/89.webp)</span> {#ts-209-892}
 
@@ -3357,7 +3357,7 @@ Es ist auch die Dedekind'sche Definition einer unendlichen Menge eine solche, di
 
 ### [Ts-209](/ts-209/#89.12) <span class="fac">[89\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/89.webp)</span> {#ts-209-8912}
 
-<span class="series-number">172.</span> “Der höchste Punkt einer Kurve” bedeutet nicht “der höchste Punkt unter allen Punkten der Kurve” – die sehen wir ja nicht, sondern es ist ein bestimmter Punkt, den die Kurve erzeugt. Ebenso ist das Maximum einer Funktion nicht der größte Wert unter allen Werten (das ist Unsinn, außer im Fall endlich vieler, diskreter Punkte) sondern ein, durch ein Gesetz und eine Bedingung erzeugter Punkt; der allerdings höher liegt als jeder andere beliebig herausgegriffene Punkt (_Möglichkeit_, nicht Wirklichkeit). Ebenso ist der Schnittpunkt zweier Linien nicht das gemeinsame Glied zweier Klassen von Punkten, sondern der Durchschnitt zweier Gesetze. Wie es auch in der analytischen Geometrie klar zu Tage liegt.
+<span class="series-number">172</span> “Der höchste Punkt einer Kurve” bedeutet nicht “der höchste Punkt unter allen Punkten der Kurve” – die sehen wir ja nicht, sondern es ist ein bestimmter Punkt, den die Kurve erzeugt. Ebenso ist das Maximum einer Funktion nicht der größte Wert unter allen Werten (das ist Unsinn, außer im Fall endlich vieler, diskreter Punkte) sondern ein, durch ein Gesetz und eine Bedingung erzeugter Punkt; der allerdings höher liegt als jeder andere beliebig herausgegriffene Punkt (_Möglichkeit_, nicht Wirklichkeit). Ebenso ist der Schnittpunkt zweier Linien nicht das gemeinsame Glied zweier Klassen von Punkten, sondern der Durchschnitt zweier Gesetze. Wie es auch in der analytischen Geometrie klar zu Tage liegt.
 
 ### [Ts-209](/ts-209/#90.1) <span class="fac">[90\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/90.webp)</span> {#ts-209-901}
 
@@ -3377,7 +3377,7 @@ Es heißt nicht “unter _allen_ Punkten gibt es nur einen worin sie die Gerade 
 
 ### [Ts-209](/ts-209/#90.5) <span class="fac">[90\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/90.webp)</span> {#ts-209-905}
 
-<span class="series-number">173.</span> Wie ist es dann aber mit einer richtigen – nicht amorphen – Erklärung des <math class="stacked" display="inline"><msub><mi>R</mi><mtext>*</mtext></msub></math>? Hier brauche ich doch “(n) …”. In diesem Falle scheint dieser Ausdruck erlaubt zu sein. Es sagt ja aber “(∃x)․Fx” auch “es gibt eine Anzahl von x die Fx genügen” und doch darf der Ausdruck “(∃x)․Fx” nicht die Gesamtheit der Zahlen voraussetzen.
+<span class="series-number">173</span> Wie ist es dann aber mit einer richtigen – nicht amorphen – Erklärung des <math class="stacked" display="inline"><msub><mi>R</mi><mtext>*</mtext></msub></math>? Hier brauche ich doch “(n) …”. In diesem Falle scheint dieser Ausdruck erlaubt zu sein. Es sagt ja aber “(∃x)․Fx” auch “es gibt eine Anzahl von x die Fx genügen” und doch darf der Ausdruck “(∃x)․Fx” nicht die Gesamtheit der Zahlen voraussetzen.
 
 ### [Ts-209](/ts-209/#90.6) <span class="fac">[90\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/90.webp)</span> {#ts-209-906}
 
@@ -3409,7 +3409,7 @@ Die Erklärung des Dedekind'schen Schnittes tut so, als wäre sie anschaulich, w
 
 ### [Ts-209](/ts-209/#91.5) <span class="fac">[91\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/91.webp)</span> {#ts-209-915}
 
-<span class="series-number">174.</span> Die Mengenlehre ist darum falsch, weil sie scheinbar einen Symbolismus voraussetzt, den es nicht gibt, statt dessen den es gibt (der allein möglich ist). Sie baut auf einem fiktiven Symbolismus auf, also auf Unsinn.
+<span class="series-number">174</span> Die Mengenlehre ist darum falsch, weil sie scheinbar einen Symbolismus voraussetzt, den es nicht gibt, statt dessen den es gibt (der allein möglich ist). Sie baut auf einem fiktiven Symbolismus auf, also auf Unsinn.
 
 ### [Ts-209](/ts-209/#91.6) <span class="fac">[91\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/91.webp)</span> {#ts-209-916}
 
@@ -3457,7 +3457,7 @@ Wäre freilich die Mathematik die Erfahrungswissenschaft von den unendlichen Ext
 
 ### [Ts-209](/ts-209/#92.7) <span class="fac">[92\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/92.webp)</span> {#ts-209-927}
 
-<span class="series-number">175.</span> Hat es einen Sinn zu sagen: “Ich habe so viele Schuhe als eine Wurzel der Gleichung x³ + 2x ‒ 3 = 0 beträgt”? Selbst dann, wenn die Lösung eine positive ganze Zahl ergeben sollte? Nach meiner Auffassung hätten wir hier nämlich eine Notation, der man nicht unmittelbar ansehen kann, ob sie unsinnig ist oder nicht.
+<span class="series-number">175</span> Hat es einen Sinn zu sagen: “Ich habe so viele Schuhe als eine Wurzel der Gleichung x³ + 2x ‒ 3 = 0 beträgt”? Selbst dann, wenn die Lösung eine positive ganze Zahl ergeben sollte? Nach meiner Auffassung hätten wir hier nämlich eine Notation, der man nicht unmittelbar ansehen kann, ob sie unsinnig ist oder nicht.
 
 ### [Ts-209](/ts-209/#92.8) <span class="fac">[92\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/92.webp)</span> {#ts-209-928}
 
@@ -3477,7 +3477,7 @@ Aber das kann ich doch – oder es läßt sich doch – feststellen, wenn man nu
 
 ### [Ts-209](/ts-209/#93.3) <span class="fac">[93\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/93.webp)</span> {#ts-209-933}
 
-<span class="series-number">176.</span> Was Einen an der bloß internen Allgemeinheit zweifeln macht ist die Tatsache, daß sie durch das Vorkommen eines einzelnen Falles (also von etwas Extensionalem) widerlegt werden kann. Aber wie ist hier die Kollision zwischen dem allgemeinen und dem speziellen Satz? Der besondere Fall widerlegt den allgemeinen Satz von innen heraus, nicht auf externe Weise. Er wendet sich gegen den internen Beweis des Satzes und widerlegt ihn, nicht, wie die Existenz eines einäugigen Menschen, den Satz “alle Menschen haben zwei Augen” widerlegt.
+<span class="series-number">176</span> Was Einen an der bloß internen Allgemeinheit zweifeln macht ist die Tatsache, daß sie durch das Vorkommen eines einzelnen Falles (also von etwas Extensionalem) widerlegt werden kann. Aber wie ist hier die Kollision zwischen dem allgemeinen und dem speziellen Satz? Der besondere Fall widerlegt den allgemeinen Satz von innen heraus, nicht auf externe Weise. Er wendet sich gegen den internen Beweis des Satzes und widerlegt ihn, nicht, wie die Existenz eines einäugigen Menschen, den Satz “alle Menschen haben zwei Augen” widerlegt.
 
 ### [Ts-209](/ts-209/#93.4) <span class="fac">[93\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/93.webp)</span> {#ts-209-934}
 
@@ -3501,7 +3501,7 @@ m größer als n kann ich allerdings definieren (∃x)․n + x = m, aber ob nun 
 
 ### [Ts-209](/ts-209/#94.3) <span class="fac">[94\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/94.webp)</span> {#ts-209-943}
 
-<span class="series-number">177.</span> Wie zeigt es sich, daß der Raum keine Kollektion von Punkten, sondern die Realisierung eines Gesetzes ist.
+<span class="series-number">177</span> Wie zeigt es sich, daß der Raum keine Kollektion von Punkten, sondern die Realisierung eines Gesetzes ist.
 
 ### [Ts-209](/ts-209/#94.4) <span class="fac">[94\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/94.webp)</span> {#ts-209-944}
 
@@ -3521,7 +3521,7 @@ Man bekommt sicher die richtige Mannigfaltigkeit der Bezeichnungen, wenn man sic
 
 ### [Ts-209](/ts-209/#94.8) <span class="fac">[94\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/94.webp)</span> {#ts-209-948}
 
-<span class="series-number">178.</span> Die Geometrie des Gesichtsraums ist die Syntax der Sätze, die von den Gegenständen im Gesichtsraum handeln.
+<span class="series-number">178</span> Die Geometrie des Gesichtsraums ist die Syntax der Sätze, die von den Gegenständen im Gesichtsraum handeln.
 
 ### [Ts-209](/ts-209/#94.9) <span class="fac">[94\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/94.webp)</span> {#ts-209-949}
 
@@ -3573,7 +3573,7 @@ Die euklidische Geometrie setzt _keine Meßmethode_ der Winkel und Strecken vora
 
 ### [Ts-209](/ts-209/#96.1) <span class="fac">[96\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/96.webp)</span> {#ts-209-961}
 
-<span class="series-number">179.</span> Denken wir uns, wir würfelten mit einer Münze. Ich will nun durch fortgesetztes Würfeln einen Punkt der Strecke A B bestimmen, indem ich immer diejenige Halbierung vornehme, die der Wurf vorschreibt; wenn etwa Kopf bedeutet, daß ich das rechte, Adler, daß ich das linke Stück halbieren soll.
+<span class="series-number">179</span> Denken wir uns, wir würfelten mit einer Münze. Ich will nun durch fortgesetztes Würfeln einen Punkt der Strecke A B bestimmen, indem ich immer diejenige Halbierung vornehme, die der Wurf vorschreibt; wenn etwa Kopf bedeutet, daß ich das rechte, Adler, daß ich das linke Stück halbieren soll.
 
 ![](../graphics/209,96.svg)
 
@@ -3635,7 +3635,7 @@ Man kann auch nicht sagen: Zwei Gesetze sind dann identisch, wenn sie in jeder S
 
 ### [Ts-209](/ts-209/#97.6) <span class="fac">[97\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/97.webp)</span> {#ts-209-976}
 
-<span class="series-number">180.</span> Wenn eine amorphe Theorie der unendlichen Aggregate möglich ist, so muß sie nur das Amorphe an diesen Aggregaten beschreiben und darstellen. Sie müßte dann wirklich die Gesetze als bloße unwesentliche Mittel der Darstellung eines Aggregats auffassen. Und von diesem Unwesentlichen abstrahieren und nur auf das Wesentliche schauen. Aber worauf? Ist es möglich im Gesetz vom Gesetz zu abstrahieren und die Extension als Wesentliches dargestellt zu sehen?
+<span class="series-number">180</span> Wenn eine amorphe Theorie der unendlichen Aggregate möglich ist, so muß sie nur das Amorphe an diesen Aggregaten beschreiben und darstellen. Sie müßte dann wirklich die Gesetze als bloße unwesentliche Mittel der Darstellung eines Aggregats auffassen. Und von diesem Unwesentlichen abstrahieren und nur auf das Wesentliche schauen. Aber worauf? Ist es möglich im Gesetz vom Gesetz zu abstrahieren und die Extension als Wesentliches dargestellt zu sehen?
 
 ### [Ts-209](/ts-209/#97.7) <span class="fac">[97\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/97.webp)</span> {#ts-209-977}
 
@@ -3667,7 +3667,7 @@ Es ist schon möglich, daß ich bei der Bestimmung eines Maximums auf eine neue 
 
 ### [Ts-209](/ts-209/#98.5) <span class="fac">[98\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/98.webp)</span> {#ts-209-985}
 
-<span class="series-number">181.</span> Die Frage wäre: Welches Kriterium gibt es dafür, daß die irrationalen Zahlen _komplett_ sind?
+<span class="series-number">181</span> Die Frage wäre: Welches Kriterium gibt es dafür, daß die irrationalen Zahlen _komplett_ sind?
 
 ### [Ts-209](/ts-209/#98.6) <span class="fac">[98\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/98.webp)</span> {#ts-209-986}
 
@@ -3703,7 +3703,7 @@ Meine Auffassung aber ist: Man kann überhaupt nur endliche Reihen nebeneinander
 
 ### [Ts-209](/ts-209/#99.6) <span class="fac">[99\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/99.webp)</span> {#ts-209-996}
 
-<span class="series-number">182.</span> <math class="stacked" display="inline"><mover><mrow><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow><mstyle mathsize="small"><mtext>5→</mtext><mn>3</mn></mstyle></mover></math> Man möchte sagen, die einzelnen Ziffern sind immer nur die Resultate, die Rinde des fertigen Baumes. Das worauf es ankommt, oder woraus noch etwas Neues wachsen kann, ist im Innern des Stammes, wo die Triebkräfte sind. Eine Änderung des Äußern ändert den Baum überhaupt nicht. Um ihn zu ändern muß man in den noch lebenden Stamm gehen.
+<span class="series-number">182</span> <math class="stacked" display="inline"><mover><mrow><msqrt><mrow><mn>2</mn></mrow></msqrt></mrow><mstyle mathsize="small"><mtext>5→</mtext><mn>3</mn></mstyle></mover></math> Man möchte sagen, die einzelnen Ziffern sind immer nur die Resultate, die Rinde des fertigen Baumes. Das worauf es ankommt, oder woraus noch etwas Neues wachsen kann, ist im Innern des Stammes, wo die Triebkräfte sind. Eine Änderung des Äußern ändert den Baum überhaupt nicht. Um ihn zu ändern muß man in den noch lebenden Stamm gehen.
 
 ### [Ts-209](/ts-209/#99.7) <span class="fac">[99\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/99.webp)</span> {#ts-209-997}
 
@@ -3719,7 +3719,7 @@ Die Ziffernregeln gehören an den Anfang, als Vorbereitung zum Ausdruck. Zum Bau
 
 ### [Ts-209](/ts-209/#100.1) <span class="fac">[100\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/100.webp)</span> {#ts-209-1001}
 
-<span class="series-number">183.</span> Ich würde also sagen: Wenn √2' überhaupt etwas ist, dann dasselbe, wie die √2, nur ein anderer Ausdruck; der Ausdruck in einem andern System.
+<span class="series-number">183</span> Ich würde also sagen: Wenn √2' überhaupt etwas ist, dann dasselbe, wie die √2, nur ein anderer Ausdruck; der Ausdruck in einem andern System.
 
 ### [Ts-209](/ts-209/#100.2) <span class="fac">[100\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/100.webp)</span> {#ts-209-1002}
 
@@ -3763,7 +3763,7 @@ Nur, was an der Ziffernfolge vorauszusehen ist, ist für die reelle Zahl wesentl
 
 ### [Ts-209](/ts-209/#100.12) <span class="fac">[100\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/100.webp)</span> {#ts-209-10012}
 
-<span class="series-number">184.</span> Daß man das Gesetz anwenden kann, gilt auch von dem Gesetz die Ziffern zu würfeln.
+<span class="series-number">184</span> Daß man das Gesetz anwenden kann, gilt auch von dem Gesetz die Ziffern zu würfeln.
 
 ### [Ts-209](/ts-209/#101.1) <span class="fac">[101\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span> {#ts-209-1011}
 
@@ -3787,7 +3787,7 @@ Wie ist es denn aber mit der Lösbarkeit des Problems, dieses Gesetz zu finden? 
 
 ### [Ts-209](/ts-209/#101.6) <span class="fac">[101\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span> {#ts-209-1016}
 
-<span class="series-number">185.</span> Die reelle Zahl lebt in dem Substrat der Operationen aus dem sie geboren ist.
+<span class="series-number">185</span> Die reelle Zahl lebt in dem Substrat der Operationen aus dem sie geboren ist.
 
 ### [Ts-209](/ts-209/#101.7) <span class="fac">[101\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span> {#ts-209-1017}
 
@@ -3803,7 +3803,7 @@ Die Annäherung von x² an 2 nennen wir die Annäherung von x an √2.
 
 ### [Ts-209](/ts-209/#101.10) <span class="fac">[101\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span> {#ts-209-10110}
 
-<span class="series-number">186.</span> Der Buchstabe π steht für ein Gesetz. Das Zeichen π' heißt nichts, wenn in dem Gesetz des π von keiner 7 die Rede ist, die man durch eine 3 ersetzen kann. Analoges gilt für<msub><mtext>3→</mtext><mn>5</mn></msub><math display="inline"><msqrt><mrow><mn>2</mn></mrow></msqrt></math>. (Dagegen könnte<math class="stacked" display="inline"><msub><mtext>2→</mtext><mn>5</mn></msub><msqrt><mrow><mn>2</mn></mrow></msqrt></math> bedeuten √5.)
+<span class="series-number">186</span> Der Buchstabe π steht für ein Gesetz. Das Zeichen π' heißt nichts, wenn in dem Gesetz des π von keiner 7 die Rede ist, die man durch eine 3 ersetzen kann. Analoges gilt für<msub><mtext>3→</mtext><mn>5</mn></msub><math display="inline"><msqrt><mrow><mn>2</mn></mrow></msqrt></math>. (Dagegen könnte<math class="stacked" display="inline"><msub><mtext>2→</mtext><mn>5</mn></msub><msqrt><mrow><mn>2</mn></mrow></msqrt></math> bedeuten √5.)
 
 ### [Ts-209](/ts-209/#101.11) <span class="fac">[101\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span> {#ts-209-10111}
 
@@ -3847,7 +3847,7 @@ Was ich meine, könnte man so ausdrücken, daß zu einer reellen Zahl eine Konst
 
 ### [Ts-209](/ts-209/#103.1) <span class="fac">[103\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/103.webp)</span> {#ts-209-1031}
 
-<span class="series-number">187.</span> <math display="inline"><mn>10</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0˙</mtext><mn>3</mn><mn>10</mn></math> Daß sich der Kreis schließt, ist, was ich eigentlich sehe und durch <math class="stacked" display="inline"><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> ausdrücke. <math class="stacked" display="inline"><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> heißt nicht “es kommen lauter 3”, sondern “es muß immer wieder eine 3 kommen”.
+<span class="series-number">187</span> <math display="inline"><mn>10</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0˙</mtext><mn>3</mn><mn>10</mn></math> Daß sich der Kreis schließt, ist, was ich eigentlich sehe und durch <math class="stacked" display="inline"><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> ausdrücke. <math class="stacked" display="inline"><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> heißt nicht “es kommen lauter 3”, sondern “es muß immer wieder eine 3 kommen”.
 
 ### [Ts-209](/ts-209/#103.2) <span class="fac">[103\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/103.webp)</span> {#ts-209-1032}
 
@@ -3875,7 +3875,7 @@ Aber sind das denn wirklich zwei _Zahlen_, die miteinander unvergleichbar sind? 
 
 ### [Ts-209](/ts-209/#103.8) <span class="fac">[103\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/103.webp)</span> {#ts-209-1038}
 
-<span class="series-number">188.</span> Es gibt keine Zahl außerhalb eines Systems.
+<span class="series-number">188</span> Es gibt keine Zahl außerhalb eines Systems.
 
 ### [Ts-209](/ts-209/#103.9) <span class="fac">[103\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/103.webp)</span> {#ts-209-1039}
 
@@ -3903,7 +3903,7 @@ Es ist so: Die Zahl π ist im Dezimalsystem dargestellt. Eine Modifikation diese
 
 ### [Ts-209](/ts-209/#104.5) <span class="fac">[104\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/104.webp)</span> {#ts-209-1045}
 
-<span class="series-number">189.</span> Wie ist es aber mit einem Gesetz <math class="stacked" display="inline"><mtext>Σ</mtext><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>10p</mtext></mrow></mfrac></math> (wo p die Reihe der Primzahlen durchläuft) oder wenn p die Reihe der ganzen Zahlen durchläuft, mit Ausnahme deren für die der Fermat'sche Satz nicht gilt. – Bestimmen diese Vorschriften reelle Zahlen?
+<span class="series-number">189</span> Wie ist es aber mit einem Gesetz <math class="stacked" display="inline"><mtext>Σ</mtext><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>10p</mtext></mrow></mfrac></math> (wo p die Reihe der Primzahlen durchläuft) oder wenn p die Reihe der ganzen Zahlen durchläuft, mit Ausnahme deren für die der Fermat'sche Satz nicht gilt. – Bestimmen diese Vorschriften reelle Zahlen?
 
 ### [Ts-209](/ts-209/#104.6) <span class="fac">[104\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/104.webp)</span> {#ts-209-1046}
 
@@ -3939,7 +3939,7 @@ Nur was ich sehe, ist ein Gesetz; nicht was ich _beschreibe_. Ich glaube, nur da
 
 ### [Ts-209](/ts-209/#105.6) <span class="fac">[105\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/105.webp)</span> {#ts-209-1056}
 
-<span class="series-number">190.</span> Es tritt uns hier immer wieder etwas entgegen, was man “arithmetisches Experiment” nennen könnte. Was herauskommt, ist zwar durch das Gegebene bestimmt, aber ich kann nicht erkennen, _wie_ es dadurch bestimmt ist. (Ähnlich, wie es z.B. mit dem Auftreten der 7 in π geht). So kommen auch die Primzahlen bei der Methode sie zu suchen heraus, als Resultate eines Experiments. Ich kann mich zwar davon überzeugen, daß 7 eine Primzahl ist, aber ich sehe den Zusammenhang nicht zwischen ihr und der Bedingung der sie entspricht. – Ich habe sie nur gefunden und nicht erzeugt. Ich suche sie, aber ich erzeuge sie nicht. Ich sehe wohl ein Gesetz in der Vorschrift, die mich lehrt die Primzahlen zu finden, aber nicht in den Zahlen, die dabei herauskommen. Es ist also nicht wie in, <math class="stacked" display="inline"><mspace width="0.3em"/><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>1!</mtext></mrow></mfrac><mo>,</mo><mspace width="0.3em"/><mtext>‒</mtext><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>3!</mtext></mrow></mfrac><mo>,</mo><mspace width="0.3em"/><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>5!</mtext></mrow></mfrac></math>, etc. wo ich ein Gesetz _in den Zahlen_ sehe.
+<span class="series-number">190</span> Es tritt uns hier immer wieder etwas entgegen, was man “arithmetisches Experiment” nennen könnte. Was herauskommt, ist zwar durch das Gegebene bestimmt, aber ich kann nicht erkennen, _wie_ es dadurch bestimmt ist. (Ähnlich, wie es z.B. mit dem Auftreten der 7 in π geht). So kommen auch die Primzahlen bei der Methode sie zu suchen heraus, als Resultate eines Experiments. Ich kann mich zwar davon überzeugen, daß 7 eine Primzahl ist, aber ich sehe den Zusammenhang nicht zwischen ihr und der Bedingung der sie entspricht. – Ich habe sie nur gefunden und nicht erzeugt. Ich suche sie, aber ich erzeuge sie nicht. Ich sehe wohl ein Gesetz in der Vorschrift, die mich lehrt die Primzahlen zu finden, aber nicht in den Zahlen, die dabei herauskommen. Es ist also nicht wie in, <math class="stacked" display="inline"><mspace width="0.3em"/><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>1!</mtext></mrow></mfrac><mo>,</mo><mspace width="0.3em"/><mtext>‒</mtext><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>3!</mtext></mrow></mfrac><mo>,</mo><mspace width="0.3em"/><mo>+</mo><mfrac><mrow><mn>1</mn></mrow><mrow><mtext>5!</mtext></mrow></mfrac></math>, etc. wo ich ein Gesetz _in den Zahlen_ sehe.
 
 ### [Ts-209](/ts-209/#105.7) <span class="fac">[105\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/105.webp)</span> {#ts-209-1057}
 
@@ -3955,7 +3955,7 @@ Kann man denn sagen, daß, wenn ich nicht die geometrische Darstellung von π un
 
 ### [Ts-209](/ts-209/#106.1) <span class="fac">[106\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/106.webp)</span> {#ts-209-1061}
 
-<span class="series-number">191.</span> Die Zahl muß an und für sich messen. Das scheint mir quasi ihr Amt. Tut sie das nicht, überläßt sie das den rationalen Zahlen, so brauchen wir sie nicht.
+<span class="series-number">191</span> Die Zahl muß an und für sich messen. Das scheint mir quasi ihr Amt. Tut sie das nicht, überläßt sie das den rationalen Zahlen, so brauchen wir sie nicht.
 
 ### [Ts-209](/ts-209/#106.2) <span class="fac">[106\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/106.webp)</span> {#ts-209-1062}
 
@@ -3991,11 +3991,11 @@ Die eigentliche Entwicklung ist eben die Methode des Vergleichs mit den Rational
 
 ### [Ts-209](/ts-209/#107.1) <span class="fac">[107\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-1071}
 
-<span class="series-number">192.</span> Die reelle Zahl ist mit der Fiktion einer unendlichen Spirale vergleichbar, Gebilde wie F, P, oder π' dagegen nur mit endlichen Stücken einer Spirale. Denn, daß ich nicht feststellen kann, wie sie an einem Punkt vorbeikommt heißt eben, daß es absurd ist, sie mit einer vollkommenen (ganzen) Spirale zu vergleichen, denn bei der würde ich sehen, wie sie den Punkt liegen läßt. Im Hintergrunde der Gedanken ist nämlich dann immer noch die Idee, daß ich zwar die Spirale nicht ganz kenne, daher nicht weiß, wie sie an dieser Stelle läuft, aber, daß das was ich nicht kenne, doch so oder so tatsächlich der Fall ist.
+<span class="series-number">192</span> Die reelle Zahl ist mit der Fiktion einer unendlichen Spirale vergleichbar, Gebilde wie F, P, oder π' dagegen nur mit endlichen Stücken einer Spirale. Denn, daß ich nicht feststellen kann, wie sie an einem Punkt vorbeikommt heißt eben, daß es absurd ist, sie mit einer vollkommenen (ganzen) Spirale zu vergleichen, denn bei der würde ich sehen, wie sie den Punkt liegen läßt. Im Hintergrunde der Gedanken ist nämlich dann immer noch die Idee, daß ich zwar die Spirale nicht ganz kenne, daher nicht weiß, wie sie an dieser Stelle läuft, aber, daß das was ich nicht kenne, doch so oder so tatsächlich der Fall ist.
 
 ### [Ts-209](/ts-209/#107.2) <span class="fac">[107\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-1072}
 
-<span class="series-number">193.</span> Wenn ich sage <math class="stacked" display="inline"><msub><mo>(</mo><mi>n</mi></msub><msqrt><mrow><mn>2</mn></mrow></msqrt><mo>)</mo><mtext>²</mtext></math> nähert sich der 2 und erreicht also _einmal_ die Zahlen 1,9, 1,99, 1,999 so ist das unsinnig, wenn ich nicht angeben kann, binnen wieviel Schritten diese Werte erreicht werden, denn “_einmal_” heißt nichts.
+<span class="series-number">193</span> Wenn ich sage <math class="stacked" display="inline"><msub><mo>(</mo><mi>n</mi></msub><msqrt><mrow><mn>2</mn></mrow></msqrt><mo>)</mo><mtext>²</mtext></math> nähert sich der 2 und erreicht also _einmal_ die Zahlen 1,9, 1,99, 1,999 so ist das unsinnig, wenn ich nicht angeben kann, binnen wieviel Schritten diese Werte erreicht werden, denn “_einmal_” heißt nichts.
 
 ### [Ts-209](/ts-209/#107.3) <span class="fac">[107\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-1073}
 
@@ -4011,7 +4011,7 @@ Das Dezimalsystem tritt ja endlich als Ganzes zurück und dann bleibt in der Rec
 
 ### [Ts-209](/ts-209/#107.6) <span class="fac">[107\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-1076}
 
-<span class="series-number">194.</span> Ist ein arithmetisches Experiment noch möglich, wo eine Definition durch Rekursion statt hat? Ich glaube offenbar nein; weil durch die Rekursion jede Stufe arithmetisch verständlich wird.
+<span class="series-number">194</span> Ist ein arithmetisches Experiment noch möglich, wo eine Definition durch Rekursion statt hat? Ich glaube offenbar nein; weil durch die Rekursion jede Stufe arithmetisch verständlich wird.
 
 ### [Ts-209](/ts-209/#107.7) <span class="fac">[107\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-1077}
 
@@ -4027,7 +4027,7 @@ Wohl kann ich im Fall χ, F, P die Vorschrift der Untersuchung der Zahlen rekurs
 
 ### [Ts-209](/ts-209/#107.10) <span class="fac">[107\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-10710}
 
-<span class="series-number">195.</span> Ist es möglich, zu beweisen, daß a größer ist als b, ohne beweisen zu können, an welcher Stelle der Unterschied zu Tage treten wird? Ich glaube nicht!
+<span class="series-number">195</span> Ist es möglich, zu beweisen, daß a größer ist als b, ohne beweisen zu können, an welcher Stelle der Unterschied zu Tage treten wird? Ich glaube nicht!
 
 ### [Ts-209](/ts-209/#107.11) <span class="fac">[107\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/107.webp)</span> {#ts-209-10711}
 
@@ -4059,7 +4059,7 @@ Die Dezimalentwicklung ist dann eine Methode des Vergleichs mit Rationalzahlen, 
 
 ### [Ts-209](/ts-209/#108.6) <span class="fac">[108\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/108.webp)</span> {#ts-209-1086}
 
-<span class="series-number">196.</span> Die Zahl, als Resultat eines arithmetischen Experiments, also das Experiment als die _Beschreibung_ einer Zahl ist ein Unding. Das Experiment wäre die Beschreibung, nicht die _Darstellung_ einer Zahl.
+<span class="series-number">196</span> Die Zahl, als Resultat eines arithmetischen Experiments, also das Experiment als die _Beschreibung_ einer Zahl ist ein Unding. Das Experiment wäre die Beschreibung, nicht die _Darstellung_ einer Zahl.
 
 ### [Ts-209](/ts-209/#108.7) <span class="fac">[108\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/108.webp)</span> {#ts-209-1087}
 
@@ -4087,7 +4087,7 @@ Das Charakteristische für das arithmetische Experiment ist, daß etwas daran un
 
 ### [Ts-209](/ts-209/#109.1) <span class="fac">[109\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/109.webp)</span> {#ts-209-1091}
 
-<span class="series-number">197.</span> Der _nachträgliche_ Beweis der Konvergenz kann nicht die Auffassung als Zahl rechtfertigen. Wo sich die Konvergenz _zeigt_, da müßte die Zahl zu suchen sein.
+<span class="series-number">197</span> Der _nachträgliche_ Beweis der Konvergenz kann nicht die Auffassung als Zahl rechtfertigen. Wo sich die Konvergenz _zeigt_, da müßte die Zahl zu suchen sein.
 
 ### [Ts-209](/ts-209/#109.2) <span class="fac">[109\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/109.webp)</span> {#ts-209-1092}
 
@@ -4107,7 +4107,7 @@ Die Frage muß Sinn haben: “Kann diese Zahl π sein?”
 
 ### [Ts-209](/ts-209/#109.6) <span class="fac">[109\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/109.webp)</span> {#ts-209-1096}
 
-<span class="series-number">198.</span> F ist nicht das Intervall <math class="stacked" display="inline"><mn>0</mn><mspace width="0.3em"/><mtext>–</mtext><mspace width="0.3em"/><mtext>0,</mtext><mover><mrow><mn>1</mn></mrow><mtext>˙</mtext></mover></math>, denn eine gewisse Entscheidung kann ich auch innerhalb dieses Intervalls treffen, aber eine Zahl in diesem Intervall ist es nicht, denn die Entscheidungen, die dazu nötig wären, können wir nicht fällen. Könnte man also sagen: F ist wohl ein arithmetisches Gebilde, nur keine Zahl (auch kein Intervall). D.h. ich kann F nicht einem Punkt vergleichen und auch keiner Strecke. Gibt es ein geometrisches Gebilde, dem es entspricht? Das Gesetz d.i. die Vergleichsmethode sagt nur, daß sie entweder die Antworten “kleiner, größer oder gleich” oder “größer” (aber nicht gleich) liefern wird. Ähnlich, wenn ich in einem finstern Raum gehe und sage: Ich kann nur konstatieren ob er niedriger als ich oder gleich – oder – höher ist. Und hier könnte man sagen: Eine Höhe kannst du also nicht konstatieren; was ist es also, was du konstatieren kannst. Der Vergleich hinkt nur darum, weil ich ja im Falle des Anstoßens doch die Höhe bestimmen kann, während ich im Falle des F prinzipiell nicht fragen kann “ist es dieser Punkt”. Ich kenne keine Methode um zu bestimmen, ob es dieser Punkt ist, also ist es kein Punkt. Wenn die Frage nach dem Vergleich von F mit einer Rationalzahl keinen Sinn hat, weil alle Entwicklung uns die Antwort noch nicht gegeben hat, dann hat diese Frage auch keinen Sinn, ehe man aufs Geratewohl die Sache durch die Extension zu entscheiden versucht hat. Wenn es jetzt keinen Sinn hat zu fragen “ist F = 0,11”, dann hatte es auch keinen Sinn, ehe man 100 Stellen der Extension untersucht hatte, also auch, ehe man nur _eine_ untersucht hatte. Dann hätte es aber überhaupt keinen Sinn in diesem Fall zu fragen, ob die Zahl irgend _einer_ Rationalzahl gleich ist. Solange man nämlich keine Methode besitzt, die es unbedingt entscheidet.
+<span class="series-number">198</span> F ist nicht das Intervall <math class="stacked" display="inline"><mn>0</mn><mspace width="0.3em"/><mtext>–</mtext><mspace width="0.3em"/><mtext>0,</mtext><mover><mrow><mn>1</mn></mrow><mtext>˙</mtext></mover></math>, denn eine gewisse Entscheidung kann ich auch innerhalb dieses Intervalls treffen, aber eine Zahl in diesem Intervall ist es nicht, denn die Entscheidungen, die dazu nötig wären, können wir nicht fällen. Könnte man also sagen: F ist wohl ein arithmetisches Gebilde, nur keine Zahl (auch kein Intervall). D.h. ich kann F nicht einem Punkt vergleichen und auch keiner Strecke. Gibt es ein geometrisches Gebilde, dem es entspricht? Das Gesetz d.i. die Vergleichsmethode sagt nur, daß sie entweder die Antworten “kleiner, größer oder gleich” oder “größer” (aber nicht gleich) liefern wird. Ähnlich, wenn ich in einem finstern Raum gehe und sage: Ich kann nur konstatieren ob er niedriger als ich oder gleich – oder – höher ist. Und hier könnte man sagen: Eine Höhe kannst du also nicht konstatieren; was ist es also, was du konstatieren kannst. Der Vergleich hinkt nur darum, weil ich ja im Falle des Anstoßens doch die Höhe bestimmen kann, während ich im Falle des F prinzipiell nicht fragen kann “ist es dieser Punkt”. Ich kenne keine Methode um zu bestimmen, ob es dieser Punkt ist, also ist es kein Punkt. Wenn die Frage nach dem Vergleich von F mit einer Rationalzahl keinen Sinn hat, weil alle Entwicklung uns die Antwort noch nicht gegeben hat, dann hat diese Frage auch keinen Sinn, ehe man aufs Geratewohl die Sache durch die Extension zu entscheiden versucht hat. Wenn es jetzt keinen Sinn hat zu fragen “ist F = 0,11”, dann hatte es auch keinen Sinn, ehe man 100 Stellen der Extension untersucht hatte, also auch, ehe man nur _eine_ untersucht hatte. Dann hätte es aber überhaupt keinen Sinn in diesem Fall zu fragen, ob die Zahl irgend _einer_ Rationalzahl gleich ist. Solange man nämlich keine Methode besitzt, die es unbedingt entscheidet.
 
 ![](../graphics/209,110.svg)
 
@@ -4117,7 +4117,7 @@ Die gegebene Rationalzahl ist entweder gleich, kleiner, oder größer als das bi
 
 ### [Ts-209](/ts-209/#110.1) <span class="fac">[110\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/110.webp)</span> {#ts-209-1101}
 
-<span class="series-number">199.</span> <math class="stacked" display="inline"><mtext>0,</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> ist nicht im selben Sinne ein Resultat von 1 : 3 wie etwa 0,25 von 1 : 4; es deutet auf eine andere arithmetische Tatsache hin.
+<span class="series-number">199</span> <math class="stacked" display="inline"><mtext>0,</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> ist nicht im selben Sinne ein Resultat von 1 : 3 wie etwa 0,25 von 1 : 4; es deutet auf eine andere arithmetische Tatsache hin.
 
 ### [Ts-209](/ts-209/#110.2) <span class="fac">[110\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/110.webp)</span> {#ts-209-1102}
 
@@ -4149,7 +4149,7 @@ Kann man sagen: “e ist nicht diese Zahl” heißt nichts, sondern man muß sag
 
 ### [Ts-209](/ts-209/#111.1) <span class="fac">[111\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/111.webp)</span> {#ts-209-1111}
 
-<span class="series-number">200.</span> Unser Interesse an der Negation in der Arithmetik scheint auf eine eigentümliche Weise beschränkt zu sein. Und zwar scheint es mir so, als sei eine gewisse Allgemeinheit nötig, um uns die Negation interessant zu machen.
+<span class="series-number">200</span> Unser Interesse an der Negation in der Arithmetik scheint auf eine eigentümliche Weise beschränkt zu sein. Und zwar scheint es mir so, als sei eine gewisse Allgemeinheit nötig, um uns die Negation interessant zu machen.
 
 ### [Ts-209](/ts-209/#111.2) <span class="fac">[111\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/111.webp)</span> {#ts-209-1112}
 
@@ -4173,7 +4173,7 @@ Was heißt es “non (5 × 5 = 30)”? Es kommt mir vor, als dürfte man es nich
 
 ### [Ts-209](/ts-209/#111.7) <span class="fac">[111\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/111.webp)</span> {#ts-209-1117}
 
-<span class="series-number">201.</span> Es sträubt sich nun etwas gegen die Anwendung des Satzes vom ausgeschlossenen Dritten in der Mathematik. Freilich ist schon der Name dieses Satzes irreleitend. Denn er klingt immer, als handle es sich in ihm um einen Fall, ähnlich dem: ein Frosch ist entweder braun, oder grün, ein Drittes gibt es nicht.
+<span class="series-number">201</span> Es sträubt sich nun etwas gegen die Anwendung des Satzes vom ausgeschlossenen Dritten in der Mathematik. Freilich ist schon der Name dieses Satzes irreleitend. Denn er klingt immer, als handle es sich in ihm um einen Fall, ähnlich dem: ein Frosch ist entweder braun, oder grün, ein Drittes gibt es nicht.
 
 ### [Ts-209](/ts-209/#111.8) <span class="fac">[111\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/111.webp)</span> {#ts-209-1118}
 
@@ -4205,7 +4205,7 @@ Die Verneinung der Gleichung ist so ähnlich und so verschieden von der Verneinu
 
 ### [Ts-209](/ts-209/#112.5) <span class="fac">[112\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/112.webp)</span> {#ts-209-1125}
 
-<span class="series-number">202.</span> Es ist ganz klar, daß die Negation in der Arithmetik gänzlich verschieden ist von der eigentlichen Negation von Sätzen. Und es ist ja klar, daß dort, wo sie wesentlich – aus den logischen Verhältnissen heraus – einer Disjunktion entspricht, oder einer Ausschließung eines Teiles einer logischen Reihe zu Gunsten eines anderen – daß sie dort eine ganz andere Bedeutung haben muß. Sie muß ja eins sein mit jenen logischen Formen und also nur scheinbar eine Negation. Wenn “nicht-gleich” größer oder kleiner bedeutet, so kann das für das “nicht” nicht, sozusagen, ein Zufall sein.
+<span class="series-number">202</span> Es ist ganz klar, daß die Negation in der Arithmetik gänzlich verschieden ist von der eigentlichen Negation von Sätzen. Und es ist ja klar, daß dort, wo sie wesentlich – aus den logischen Verhältnissen heraus – einer Disjunktion entspricht, oder einer Ausschließung eines Teiles einer logischen Reihe zu Gunsten eines anderen – daß sie dort eine ganz andere Bedeutung haben muß. Sie muß ja eins sein mit jenen logischen Formen und also nur scheinbar eine Negation. Wenn “nicht-gleich” größer oder kleiner bedeutet, so kann das für das “nicht” nicht, sozusagen, ein Zufall sein.
 
 ### [Ts-209](/ts-209/#112.6) <span class="fac">[112\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/112.webp)</span> {#ts-209-1126}
 
@@ -4225,7 +4225,7 @@ Hilft uns hier nicht die Bemerkung, daß die Negation in der Arithmetik immer nu
 
 ### [Ts-209](/ts-209/#112.11) <span class="fac">[112\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/112.webp)</span> {#ts-209-11211}
 
-<span class="series-number">203.</span> (Zu dem vorletzten Satz) Und dadurch wird es möglich, daß Negation und Disjunktion, die im Einzelfall als überflüssige Unbestimmtheiten wirken, im allgemeinen “Satz”, d.h. in der Induktion, der Arithmetik wesentlich werden.
+<span class="series-number">203</span> (Zu dem vorletzten Satz) Und dadurch wird es möglich, daß Negation und Disjunktion, die im Einzelfall als überflüssige Unbestimmtheiten wirken, im allgemeinen “Satz”, d.h. in der Induktion, der Arithmetik wesentlich werden.
 
 ### [Ts-209](/ts-209/#112.10) <span class="fac">[112\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/112.webp)</span> {#ts-209-11210}
 
@@ -4249,7 +4249,7 @@ Die Negation in der Arithmetik kann nicht das Gleiche sein, wie die Negation von
 
 ### [Ts-209](/ts-209/#113.5) <span class="fac">[113\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/113.webp)</span> {#ts-209-1135}
 
-<span class="series-number">204.</span> “ = 5”, “durch 5 teilbar”, “nicht durch 5 teilbar”, “prim” könnte man arithmetische Prädikate nennen und sagen: Die arithmetischen Prädikate entsprechen immer der Anwendung einer bestimmten allgemein definierten Methode. Man kann ein Prädikat auch so definieren (n × 3 = 25) = F(n) Def.
+<span class="series-number">204</span> “ = 5”, “durch 5 teilbar”, “nicht durch 5 teilbar”, “prim” könnte man arithmetische Prädikate nennen und sagen: Die arithmetischen Prädikate entsprechen immer der Anwendung einer bestimmten allgemein definierten Methode. Man kann ein Prädikat auch so definieren (n × 3 = 25) = F(n) Def.
 
 ### [Ts-209](/ts-209/#113.6) <span class="fac">[113\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/113.webp)</span> {#ts-209-1136}
 
@@ -4265,7 +4265,7 @@ Kann man mit Hilfe der Primzahlen eine Irrationalzahl konstruieren? Die Antwort 
 
 ### [Ts-209](/ts-209/#113.9) <span class="fac">[113\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/113.webp)</span> {#ts-209-1139}
 
-<span class="series-number">205.</span> Kann man sagen, daß der kleinere Fleck einfacher ist als der größere? Nehmen wir an sie seien einfärbige Kreise, worin soll die größere Einfachheit des kleineren Kreises bestehen? Man könnte sagen, der größere kann zwar aus dem kleineren und noch einem Teil bestehen, aber nicht vice versa. Aber warum soll ich nicht den kleineren als die Differenz des größeren und des Ringes darstellen? Es scheint mir also, der kleinere Fleck ist nicht einfacher als der größere.
+<span class="series-number">205</span> Kann man sagen, daß der kleinere Fleck einfacher ist als der größere? Nehmen wir an sie seien einfärbige Kreise, worin soll die größere Einfachheit des kleineren Kreises bestehen? Man könnte sagen, der größere kann zwar aus dem kleineren und noch einem Teil bestehen, aber nicht vice versa. Aber warum soll ich nicht den kleineren als die Differenz des größeren und des Ringes darstellen? Es scheint mir also, der kleinere Fleck ist nicht einfacher als der größere.
 
 ### [Ts-209](/ts-209/#113.10) <span class="fac">[113\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/113.webp)</span> {#ts-209-11310}
 
@@ -4277,7 +4277,7 @@ Kann man sagen: Wenn man im Gesichtsfeld eine Figur, etwa ein rotes Dreieck sieh
 
 ### [Ts-209](/ts-209/#114.3) <span class="fac">[114\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/114.webp)</span> {#ts-209-1143}
 
-<span class="series-number">206.</span> Ob es einen Sinn hat zu sagen “dieser Teil einer roten Fläche (der durch keine sichtbare Grenze abgegrenzt ist) ist rot” hängt davon ab, ob es einen absoluten Ort gibt. Denn wenn im Gesichtsraum von einem absoluten Ort die Rede sein kann, dann kann ich auch diesem absoluten Ort eine Farbe zuschreiben, wenn seine Umgebung gleichfärbig ist.
+<span class="series-number">206</span> Ob es einen Sinn hat zu sagen “dieser Teil einer roten Fläche (der durch keine sichtbare Grenze abgegrenzt ist) ist rot” hängt davon ab, ob es einen absoluten Ort gibt. Denn wenn im Gesichtsraum von einem absoluten Ort die Rede sein kann, dann kann ich auch diesem absoluten Ort eine Farbe zuschreiben, wenn seine Umgebung gleichfärbig ist.
 
 ### [Ts-209](/ts-209/#114.4) <span class="fac">[114\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/114.webp)</span> {#ts-209-1144}
 
@@ -4325,7 +4325,7 @@ Ich kann offenbar das Zeichen V einmal als ein v, einmal als ein A, als das Zeic
 
 ### [Ts-209](/ts-209/#116.2) <span class="fac">[116\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/116.webp)</span> {#ts-209-1162}
 
-<span class="series-number">207.</span> Mit der Zusammengesetztheit der räumlichen Gebilde aus ihren kleineren räumlichen Bestandteilen verhält es sich so: Das größere geometrische Gebilde ist nicht aus kleineren _geometrischen_ Gebilden zusammengesetzt, ganz ebensowenig wie man sagen kann, daß 5 aus 3 und 2 zusammengesetzt ist, oder etwa gar 2 aus 5 und ‒ 3. Denn hier bedingt das Größere das Kleinere ganz ebenso, wie das Kleinere das Größere. Das Viereck
+<span class="series-number">207</span> Mit der Zusammengesetztheit der räumlichen Gebilde aus ihren kleineren räumlichen Bestandteilen verhält es sich so: Das größere geometrische Gebilde ist nicht aus kleineren _geometrischen_ Gebilden zusammengesetzt, ganz ebensowenig wie man sagen kann, daß 5 aus 3 und 2 zusammengesetzt ist, oder etwa gar 2 aus 5 und ‒ 3. Denn hier bedingt das Größere das Kleinere ganz ebenso, wie das Kleinere das Größere. Das Viereck
 
 ![](../graphics/209,116-1.svg)
 
@@ -4363,7 +4363,7 @@ Es ist klar, daß es keine Relation des “Sich-Befindens” gibt, die zwischen 
 
 ### [Ts-209](/ts-209/#116.4) <span class="fac">[116\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/116.webp)</span> {#ts-209-1164}
 
-<span class="series-number">208.</span> Es scheint mir, daß der Begriff der Distanz in der Struktur des Gesichtsraumes unmittelbar gegeben ist. Wenn das nicht so wäre und der Begriff der Distanz nur durch eine Korrelation eines distanzlosen Gesichtsraumes mit einer andern distanzhältigen Struktur mit dem Gesichtsraum assoziiert ist, dann ist der Fall denkbar, daß durch eine Änderung dieser Assoziation z.B. die Strecke a größer erscheint als die Strecke b, obwohl wir den Punkt B noch immer zwischen A und C gewahren. (Siehe Figur)
+<span class="series-number">208</span> Es scheint mir, daß der Begriff der Distanz in der Struktur des Gesichtsraumes unmittelbar gegeben ist. Wenn das nicht so wäre und der Begriff der Distanz nur durch eine Korrelation eines distanzlosen Gesichtsraumes mit einer andern distanzhältigen Struktur mit dem Gesichtsraum assoziiert ist, dann ist der Fall denkbar, daß durch eine Änderung dieser Assoziation z.B. die Strecke a größer erscheint als die Strecke b, obwohl wir den Punkt B noch immer zwischen A und C gewahren. (Siehe Figur)
 
 ![](../graphics/209,116-7.svg)
 
@@ -4420,7 +4420,7 @@ Wenn ich a = b und c = d sehe und ein anderer zählt die Teile und findet gleich
 
 ### [Ts-209](/ts-209/#118.3) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/118.webp)</span> {#ts-209-1183}
 
-<span class="series-number">209.</span> Wenn man aber nicht sagen kann, daß in a und b eine bestimmte Anzahl von Teilen ist, wie soll ich das Gesichtsbild dann beschreiben? Es zeigt sich – glaube ich – hier, daß das Gesichtsbild viel komplizierter ist, als es auf den ersten Blick zu sein scheint. Was es so viel komplizierter macht, ist z.B. der Faktor, der die Bewegung des Auges erzeugt. Wenn ich etwa das auf einen Blick Gesehene statt durch die Wortsprache durch ein gemaltes Bild beschreiben sollte, so dürfte ich nicht alle Teile c und d wirklich malen. Statt dessen müßte ich an manchen Stellen etwas “Verschwommenes”, also etwa eine graue Partie malen.
+<span class="series-number">209</span> Wenn man aber nicht sagen kann, daß in a und b eine bestimmte Anzahl von Teilen ist, wie soll ich das Gesichtsbild dann beschreiben? Es zeigt sich – glaube ich – hier, daß das Gesichtsbild viel komplizierter ist, als es auf den ersten Blick zu sein scheint. Was es so viel komplizierter macht, ist z.B. der Faktor, der die Bewegung des Auges erzeugt. Wenn ich etwa das auf einen Blick Gesehene statt durch die Wortsprache durch ein gemaltes Bild beschreiben sollte, so dürfte ich nicht alle Teile c und d wirklich malen. Statt dessen müßte ich an manchen Stellen etwas “Verschwommenes”, also etwa eine graue Partie malen.
 
 ### [Ts-209](/ts-209/#118.4) <span class="fac">[118\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/118.webp)</span> {#ts-209-1184}
 
@@ -4440,7 +4440,7 @@ Erkenne ich 2 Strecken des Gesichtsraums dadurch als gleich, daß ich sie nicht 
 
 ### [Ts-209](/ts-209/#119.2) <span class="fac">[119\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/119.webp)</span> {#ts-209-1192}
 
-<span class="series-number">210.</span> Es kommt darauf an, gewisse Widersprüche zu erklären, wenn wir auf den Gesichtsraum die Schlußweisen des euklidischen Raumes anwenden. Ich meine: Es ist möglich im Gesichtsraum einer Konstruktion (also einer Schlußkette) zu folgen, deren sämtliche Schritte (Übergänge) wir einsehen, deren Resultat aber unsern geometrischen Begriffen widerspricht.
+<span class="series-number">210</span> Es kommt darauf an, gewisse Widersprüche zu erklären, wenn wir auf den Gesichtsraum die Schlußweisen des euklidischen Raumes anwenden. Ich meine: Es ist möglich im Gesichtsraum einer Konstruktion (also einer Schlußkette) zu folgen, deren sämtliche Schritte (Übergänge) wir einsehen, deren Resultat aber unsern geometrischen Begriffen widerspricht.
 
 ### [Ts-209](/ts-209/#119.3) <span class="fac">[119\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/119.webp)</span> {#ts-209-1193}
 
@@ -4464,7 +4464,7 @@ Von der Teilbarkeit im Gesichtsraum zu reden hat einen Sinn, denn es muß sich i
 
 ### [Ts-209](/ts-209/#120.1) <span class="fac">[120\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/120.webp)</span> {#ts-209-1201}
 
-<span class="series-number">211.</span> Sobald man exakte Begriffe der Messung auf die unmittelbare Erfahrung anwenden will, stößt man auf eine eigentümliche Verschwommenheit in dieser Erfahrung. D.h. aber nur eine Verschwommenheit relativ zu jenen Maßbegriffen. Und es scheint mir nun, daß diese Verschwommenheit nicht etwas Vorläufiges ist, das genauere Kenntnis später eliminieren wird, sondern eine charakteristische logische Eigentümlichkeit. Wenn ich z.B. sage, “ich sehe jetzt einen roten Kreis auf blauem Grund und erinnere mich einen vor ein paar Minuten gesehen zu haben, der gleich groß, oder vielleicht etwas kleiner war und ein wenig lichter” so ist _diese_ Erfahrung nicht exakter zu beschreiben. Die Wörter “ungefähr”, “beiläufig”, etc. haben freilich nur relativen Sinn, aber sie sind doch _nötig_ und sie charakterisieren die Natur unserer Erfahrung; nicht als an sich beiläufig, oder verschwommen, aber doch als beiläufig und verschwommen in Relation zu den Mitteln unserer Darstellung.
+<span class="series-number">211</span> Sobald man exakte Begriffe der Messung auf die unmittelbare Erfahrung anwenden will, stößt man auf eine eigentümliche Verschwommenheit in dieser Erfahrung. D.h. aber nur eine Verschwommenheit relativ zu jenen Maßbegriffen. Und es scheint mir nun, daß diese Verschwommenheit nicht etwas Vorläufiges ist, das genauere Kenntnis später eliminieren wird, sondern eine charakteristische logische Eigentümlichkeit. Wenn ich z.B. sage, “ich sehe jetzt einen roten Kreis auf blauem Grund und erinnere mich einen vor ein paar Minuten gesehen zu haben, der gleich groß, oder vielleicht etwas kleiner war und ein wenig lichter” so ist _diese_ Erfahrung nicht exakter zu beschreiben. Die Wörter “ungefähr”, “beiläufig”, etc. haben freilich nur relativen Sinn, aber sie sind doch _nötig_ und sie charakterisieren die Natur unserer Erfahrung; nicht als an sich beiläufig, oder verschwommen, aber doch als beiläufig und verschwommen in Relation zu den Mitteln unserer Darstellung.
 
 ### [Ts-209](/ts-209/#120.2) <span class="fac">[120\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/120.webp)</span> {#ts-209-1202}
 
@@ -4486,7 +4486,7 @@ Etwas zieht zu folgender Erklärung hin: Alles was innerhalb a a ist, erscheint 
 
 ### [Ts-209](/ts-209/#120.5) <span class="fac">[120\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/120.webp)</span> {#ts-209-1205}
 
-<span class="series-number">212.</span> Ist nun nicht die Korrelation zwischen Gesichtsraum und euklidischem Raum die: Welche euklidische Figur immer ich dem Betrachter zeige, so muß er unterscheiden können, ob sie der Gesichtskreis K ist oder nicht. D.h. ich werde durch ständiges Verkleinern des Intervalls zwischen den vorgewiesenen Figuren das unbestimmte Intervall beliebig verkleinern können, mich “einer Grenze zwischen dem was ich als K, und dem was ich nicht als K sehe, beliebig nähern” können. Andererseits aber werde ich eine solche Grenze als Linie im euklidischen Raum nie ziehen können, denn könnte ich sie ziehen, so müßte sie selbst zu einer der beiden Klassen gehören und die letzte dieser Klasse sein, dann müßte ich also doch eine euklidische Linie sehen können.
+<span class="series-number">212</span> Ist nun nicht die Korrelation zwischen Gesichtsraum und euklidischem Raum die: Welche euklidische Figur immer ich dem Betrachter zeige, so muß er unterscheiden können, ob sie der Gesichtskreis K ist oder nicht. D.h. ich werde durch ständiges Verkleinern des Intervalls zwischen den vorgewiesenen Figuren das unbestimmte Intervall beliebig verkleinern können, mich “einer Grenze zwischen dem was ich als K, und dem was ich nicht als K sehe, beliebig nähern” können. Andererseits aber werde ich eine solche Grenze als Linie im euklidischen Raum nie ziehen können, denn könnte ich sie ziehen, so müßte sie selbst zu einer der beiden Klassen gehören und die letzte dieser Klasse sein, dann müßte ich also doch eine euklidische Linie sehen können.
 
 ### [Ts-209](/ts-209/#121.1) <span class="fac">[121\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/121.webp)</span> {#ts-209-1211}
 
@@ -4514,7 +4514,7 @@ Man könnte z.B. im Gesichtsraum sehr wohl definieren: “Gerade ist, was nicht 
 
 ### [Ts-209](/ts-209/#121.7) <span class="fac">[121\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/121.webp)</span> {#ts-209-1217}
 
-<span class="series-number">213.</span> Wir brauchten neue Begriffe und wir nehmen immer wieder die der physikalischen Sprache. Das Wort “Genauigkeit” ist einer jener zweifelhaften Ausdrücke. In der gewöhnlichen Sprache bezieht es sich auf einen _Vergleich_ und da ist es ganz verständlich. Wo ein gewisser Grad der Ungenauigkeit vorhanden ist, dort ist auch vollkommene Genauigkeit möglich. Was soll es aber heißen, wenn ich sage, ich kann nie einen genauen Kreis sehen und dieses Wort jetzt nicht relativ, also absolut, gebrauche?
+<span class="series-number">213</span> Wir brauchten neue Begriffe und wir nehmen immer wieder die der physikalischen Sprache. Das Wort “Genauigkeit” ist einer jener zweifelhaften Ausdrücke. In der gewöhnlichen Sprache bezieht es sich auf einen _Vergleich_ und da ist es ganz verständlich. Wo ein gewisser Grad der Ungenauigkeit vorhanden ist, dort ist auch vollkommene Genauigkeit möglich. Was soll es aber heißen, wenn ich sage, ich kann nie einen genauen Kreis sehen und dieses Wort jetzt nicht relativ, also absolut, gebrauche?
 
 ### [Ts-209](/ts-209/#121.8) <span class="fac">[121\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/121.webp)</span> {#ts-209-1218}
 
@@ -4538,7 +4538,7 @@ Welchen Sinn hat es, zu sagen: Unser Gesichtsbild ist an den Rändern undeutlich
 
 ### [Ts-209](/ts-209/#122.4) <span class="fac">[122\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/122.webp)</span> {#ts-209-1224}
 
-<span class="series-number">214.</span> Es frägt sich, welche Unterschiede gibt es im Gesichtsraum? Kann man darüber aus der Koordination, z.B. des Tastraumes mit dem Gesichtsraum etwas erfahren? Indem man etwa angibt, welche Veränderungen in dem einen Raum keiner Veränderung im anderen entsprechen? Die Tatsache, daß man ein physikalisches Hunderteck als Kreis sieht, es nicht von einem physikalischen Kreis unterscheiden kann, sagt gar nichts über die _Möglichkeit_ ein Hunderteck zu sehen. Daß es mir nicht gelingt einen physikalischen Körper zu finden, der das Gesichtsbild eines Hundertecks gibt, ist nicht von logischer Bedeutung. Es frägt sich: Hat es _Sinn_ von einem Gesichts-Hunderteck zu reden? Oder: Hat es Sinn von _zugleich gesehenen_ 30 Strichen nebeneinander zu reden. Ich glaube, nein. Der Vorgang ist gar nicht so, daß man zuerst ein Dreieck, dann ein Viereck, Fünfeck etc. bis z.B. zum 50-Eck sieht und dann der Kreis kommt; sondern man sieht ein Dreieck, ein Viereck etc. bis vielleicht zum Achteck, dann sieht man nur mehr Viel-Ecke mit mehr oder weniger langen Seiten. Die Seiten werden kleiner, dann beginnt ein Fluktuieren zum Kreis hin und dann kommt der Kreis.
+<span class="series-number">214</span> Es frägt sich, welche Unterschiede gibt es im Gesichtsraum? Kann man darüber aus der Koordination, z.B. des Tastraumes mit dem Gesichtsraum etwas erfahren? Indem man etwa angibt, welche Veränderungen in dem einen Raum keiner Veränderung im anderen entsprechen? Die Tatsache, daß man ein physikalisches Hunderteck als Kreis sieht, es nicht von einem physikalischen Kreis unterscheiden kann, sagt gar nichts über die _Möglichkeit_ ein Hunderteck zu sehen. Daß es mir nicht gelingt einen physikalischen Körper zu finden, der das Gesichtsbild eines Hundertecks gibt, ist nicht von logischer Bedeutung. Es frägt sich: Hat es _Sinn_ von einem Gesichts-Hunderteck zu reden? Oder: Hat es Sinn von _zugleich gesehenen_ 30 Strichen nebeneinander zu reden. Ich glaube, nein. Der Vorgang ist gar nicht so, daß man zuerst ein Dreieck, dann ein Viereck, Fünfeck etc. bis z.B. zum 50-Eck sieht und dann der Kreis kommt; sondern man sieht ein Dreieck, ein Viereck etc. bis vielleicht zum Achteck, dann sieht man nur mehr Viel-Ecke mit mehr oder weniger langen Seiten. Die Seiten werden kleiner, dann beginnt ein Fluktuieren zum Kreis hin und dann kommt der Kreis.
 
 ### [Ts-209](/ts-209/#123.1) <span class="fac">[123\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/123.webp)</span> {#ts-209-1231}
 
@@ -4546,7 +4546,7 @@ Daß eine physikalische Gerade als Tangente an einen Kreis gezogen das Gesichtsb
 
 ### [Ts-209](/ts-209/#123.2) <span class="fac">[123\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/123.webp)</span> {#ts-209-1232}
 
-<span class="series-number">215.</span> Was bedeutet der Satz: “Wir sehen nie einen genauen Kreis”? Was ist das Kriterium der Genauigkeit? Könnte ich nicht auch sehr wohl sagen “ich sehe vielleicht einen genauen Kreis, kann es aber nie wissen”? Das alles hat nur dann Sinn, wenn man festgelegt hat, in welchem Fall man eine Messung genauer nennt, als eine andere. Der Begriff des Kreises setzt nun – glaube ich – einen Begriff der “größeren Genauigkeit” voraus, der eine unendliche Möglichkeit der Steigerung hat. Und man kann sagen, der Begriff des Kreises _ist_ der Begriff der unendlichen Steigerungsmöglichkeit der Genauigkeit. Diese unendliche Steigerungsfähigkeit wäre ein Postulat der Ausdrucksweise. Es muß dann natürlich in jedem Fall klar sein, was ich als eine Vergrößerung der Genauigkeit auffassen würde. Das heißt natürlich nichts, zu sagen, der Kreis sei nur ein Ideal, dem sich die Wirklichkeit nur nähern könnte. Das ist ein irreführendes Gleichnis. Denn nähern kann man sich nur einer Sache, die vorhanden ist; und ist uns der Kreis in irgend einer Form gegeben, so daß wir uns ihm nähern können, dann wäre eben jene Form das für uns Wichtige und die Annäherung einer andern Form an sie nebensächlich. Es kann aber auch so sein, daß wir eine unendliche Möglichkeit selbst den Kreis nennen. Es verhält sich dann mit dem Kreis wie mit einer irrationalen Zahl. Es scheint mir der Applikation der euklidischen Geometrie wesentlich, daß wir von einem _ungenauen_ Kreis, einer _ungenauen_ Kugel etc. sprechen. Und auch, daß diese Ungenauigkeit einer Verkleinerung logisch unbegrenzt fähig sein muß. Um also die Anwendung der euklidischen Geometrie zu verstehen, muß man wissen, was das Wort “_ungenau_” heißt. – Denn etwas anderes ist uns nicht gegeben als das Resultat unserer Messung und der Begriff der Ungenauigkeit. Diese beiden zusammen müssen der euklidischen Geometrie entsprechen.
+<span class="series-number">215</span> Was bedeutet der Satz: “Wir sehen nie einen genauen Kreis”? Was ist das Kriterium der Genauigkeit? Könnte ich nicht auch sehr wohl sagen “ich sehe vielleicht einen genauen Kreis, kann es aber nie wissen”? Das alles hat nur dann Sinn, wenn man festgelegt hat, in welchem Fall man eine Messung genauer nennt, als eine andere. Der Begriff des Kreises setzt nun – glaube ich – einen Begriff der “größeren Genauigkeit” voraus, der eine unendliche Möglichkeit der Steigerung hat. Und man kann sagen, der Begriff des Kreises _ist_ der Begriff der unendlichen Steigerungsmöglichkeit der Genauigkeit. Diese unendliche Steigerungsfähigkeit wäre ein Postulat der Ausdrucksweise. Es muß dann natürlich in jedem Fall klar sein, was ich als eine Vergrößerung der Genauigkeit auffassen würde. Das heißt natürlich nichts, zu sagen, der Kreis sei nur ein Ideal, dem sich die Wirklichkeit nur nähern könnte. Das ist ein irreführendes Gleichnis. Denn nähern kann man sich nur einer Sache, die vorhanden ist; und ist uns der Kreis in irgend einer Form gegeben, so daß wir uns ihm nähern können, dann wäre eben jene Form das für uns Wichtige und die Annäherung einer andern Form an sie nebensächlich. Es kann aber auch so sein, daß wir eine unendliche Möglichkeit selbst den Kreis nennen. Es verhält sich dann mit dem Kreis wie mit einer irrationalen Zahl. Es scheint mir der Applikation der euklidischen Geometrie wesentlich, daß wir von einem _ungenauen_ Kreis, einer _ungenauen_ Kugel etc. sprechen. Und auch, daß diese Ungenauigkeit einer Verkleinerung logisch unbegrenzt fähig sein muß. Um also die Anwendung der euklidischen Geometrie zu verstehen, muß man wissen, was das Wort “_ungenau_” heißt. – Denn etwas anderes ist uns nicht gegeben als das Resultat unserer Messung und der Begriff der Ungenauigkeit. Diese beiden zusammen müssen der euklidischen Geometrie entsprechen.
 
 ### [Ts-209](/ts-209/#123.3) <span class="fac">[123\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/123.webp)</span> {#ts-209-1233}
 
@@ -4564,11 +4564,11 @@ sein und die Strecken a' = a'', a'' = a''' etc. aber _nicht_ a' = a''''' sein. E
 
 ### [Ts-209](/ts-209/#124.1) <span class="fac">[124\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/124.webp)</span> {#ts-209-1241}
 
-<span class="series-number">216.</span> Es ist jetzt an der Zeit Kritik am Worte “Sinnesdatum” zu üben. Sinnesdatum ist die Erscheinung dieses Baumes, ob nun “wirklich ein Baum dasteht” oder eine Attrappe, ein Spiegelbild, eine Halluzination etc. Sinnesdatum ist die Erscheinung des Baumes, und was wir sagen wollen ist, daß diese sprachliche Darstellung nur _eine_ Beschreibung, aber nicht _die_ wesentliche ist. Genau so, wie man von dem Ausdruck “_mein_ Gesichtsbild” sagen kann, daß es nur _eine_ Form der _Beschreibung_, aber nicht etwa die einzig mögliche und richtige ist. Die Ausdrucksform “die Erscheinung dieses Baumes” enthält nämlich die Anschauung, als bestünde ein notwendiger Zusammenhang dessen, was wir diese Erscheinung nennen, mit der “Existenz eines Baumes” und zwar, entweder durch eine wahre Erkenntnis oder einen Irrtum. D.h., wenn von der “Erscheinung eines Baumes” die Rede ist, so hielten wir entweder etwas für einen Baum, was einer ist, oder etwas, was keiner ist. Dieser Zusammenhang aber besteht nicht. Die Idealisten möchten der Sprache vorwerfen, daß sie das Sekundäre als primär und das Primäre als sekundär darstellt. Aber das ist nur in diesen unwesentlichen, und mit der Erkenntnis nicht zusammenhängenden, Wertungen der Fall (“nur” die Erscheinung). Davon abgesehen enthält die gewöhnliche Sprache keine Entscheidung über primär und sekundär. Es ist nicht einzusehen, inwiefern der Ausdruck “die Erscheinung eines Baumes” etwas dem Ausdruck “Baum” Sekundäres darstellt. Der Ausdruck “nur ein Bild” geht auf die Vorstellung zurück, daß wir das Bild eines Apfels nicht essen können.
+<span class="series-number">216</span> Es ist jetzt an der Zeit Kritik am Worte “Sinnesdatum” zu üben. Sinnesdatum ist die Erscheinung dieses Baumes, ob nun “wirklich ein Baum dasteht” oder eine Attrappe, ein Spiegelbild, eine Halluzination etc. Sinnesdatum ist die Erscheinung des Baumes, und was wir sagen wollen ist, daß diese sprachliche Darstellung nur _eine_ Beschreibung, aber nicht _die_ wesentliche ist. Genau so, wie man von dem Ausdruck “_mein_ Gesichtsbild” sagen kann, daß es nur _eine_ Form der _Beschreibung_, aber nicht etwa die einzig mögliche und richtige ist. Die Ausdrucksform “die Erscheinung dieses Baumes” enthält nämlich die Anschauung, als bestünde ein notwendiger Zusammenhang dessen, was wir diese Erscheinung nennen, mit der “Existenz eines Baumes” und zwar, entweder durch eine wahre Erkenntnis oder einen Irrtum. D.h., wenn von der “Erscheinung eines Baumes” die Rede ist, so hielten wir entweder etwas für einen Baum, was einer ist, oder etwas, was keiner ist. Dieser Zusammenhang aber besteht nicht. Die Idealisten möchten der Sprache vorwerfen, daß sie das Sekundäre als primär und das Primäre als sekundär darstellt. Aber das ist nur in diesen unwesentlichen, und mit der Erkenntnis nicht zusammenhängenden, Wertungen der Fall (“nur” die Erscheinung). Davon abgesehen enthält die gewöhnliche Sprache keine Entscheidung über primär und sekundär. Es ist nicht einzusehen, inwiefern der Ausdruck “die Erscheinung eines Baumes” etwas dem Ausdruck “Baum” Sekundäres darstellt. Der Ausdruck “nur ein Bild” geht auf die Vorstellung zurück, daß wir das Bild eines Apfels nicht essen können.
 
 ### [Ts-209](/ts-209/#124.2) <span class="fac">[124\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/124.webp)</span> {#ts-209-1242}
 
-<span class="series-number">217.</span> Man könnte denken, daß das richtige Abbild des Gesichtsraums eine euklidische Zeichenebene mit ihren ideal feinen Konstruktionen wäre, die man zittern läßt, sodaß alle Konstruktionen um ein Gewisses verschwimmen (und zwar zittert die Ebene nach allen in ihr liegenden Richtungen gleichmäßig). Ja man könnte auch so sagen: Sie soll genau so stark zittern, daß wir es noch nicht merken, dann ist ihre physikalische Geometrie ein Bild unserer phänomenologischen.
+<span class="series-number">217</span> Man könnte denken, daß das richtige Abbild des Gesichtsraums eine euklidische Zeichenebene mit ihren ideal feinen Konstruktionen wäre, die man zittern läßt, sodaß alle Konstruktionen um ein Gewisses verschwimmen (und zwar zittert die Ebene nach allen in ihr liegenden Richtungen gleichmäßig). Ja man könnte auch so sagen: Sie soll genau so stark zittern, daß wir es noch nicht merken, dann ist ihre physikalische Geometrie ein Bild unserer phänomenologischen.
 
 ### [Ts-209](/ts-209/#124.3) <span class="fac">[124\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/124.webp)</span> {#ts-209-1243}
 
@@ -4588,7 +4588,7 @@ Ein Gesichts-Kreis und eine Gesichts-Gerade können ein Stück miteinander gemei
 
 ### [Ts-209](/ts-209/#125.2) <span class="fac">[125\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/125.webp)</span> {#ts-209-1252}
 
-<span class="series-number">218.</span> Es scheint einfache Farben zu geben. Einfach als psychologische Erscheinungen. Was ich brauche, ist eine psychologische oder vielmehr phänomenologische Farbenlehre, keine physikalische und ebensowenig eine physiologische. Und zwar muß es eine _rein_ phänomenologische Farbenlehre sein, in der nur von wirklich Wahrnehmbarem die Rede ist und keine hypothetischen Gegenstände, – Wellen, Zellen etc. – vorkommen.
+<span class="series-number">218</span> Es scheint einfache Farben zu geben. Einfach als psychologische Erscheinungen. Was ich brauche, ist eine psychologische oder vielmehr phänomenologische Farbenlehre, keine physikalische und ebensowenig eine physiologische. Und zwar muß es eine _rein_ phänomenologische Farbenlehre sein, in der nur von wirklich Wahrnehmbarem die Rede ist und keine hypothetischen Gegenstände, – Wellen, Zellen etc. – vorkommen.
 
 ### [Ts-209](/ts-209/#125.3) <span class="fac">[125\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/125.webp)</span> {#ts-209-1253}
 
@@ -4596,7 +4596,7 @@ Man kann nun _unmittelbar_ Farben als Mischungen von rot, grün, blau, gelb, sch
 
 ### [Ts-209](/ts-209/#125.4) <span class="fac">[125\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/125.webp)</span> {#ts-209-1254}
 
-<span class="series-number">219.</span> Man könnte sagen, Violett und Orange löschen einander bei der Mischung teilweise aus, nicht aber Rot und Gelb.
+<span class="series-number">219</span> Man könnte sagen, Violett und Orange löschen einander bei der Mischung teilweise aus, nicht aber Rot und Gelb.
 
 ### [Ts-209](/ts-209/#125.5) <span class="fac">[125\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/125.webp)</span> {#ts-209-1255}
 
@@ -4612,7 +4612,7 @@ Ist es also so: Zu sagen, ein Fleck habe eine Mischfarbe von Orange und Violett,
 
 ### [Ts-209](/ts-209/#126.2) <span class="fac">[126\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/126.webp)</span> {#ts-209-1262}
 
-<span class="series-number">220.</span> Die Bedeutung des Ausdrucks “Mischung der Farben A und B” muß mir allgemein bekannt sein, da seine Anwendung nicht auf eine endliche Anzahl von Paaren beschränkt ist. Zeigt man mir also z.B. irgend ein Orange und Weiß, und sagt, die Farbe eines Flecks sei eine Mischung dieser beiden, so muß ich das verstehen und ich kann es verstehen. Wenn man mir sagt, die Farbe eines Flecks liege zwischen Violett und Rot, so verstehe ich das und kann mir ein rötlicheres Violett als das gegebene denken. Sagt man mir nun, die Farbe liege zwischen diesem Violett und einem Orange – wobei mir kein bestimmter kontinuierlicher Übergang in Gestalt eines gemalten Farbenkreises vorliegt – so kann ich mir höchstens denken, es sei auch hier ein rötlicheres Violett gemeint, es könnte aber auch ein rötlicheres Orange gemeint sein, denn eine Farbe, die, abgesehen von einem gegebenen Farbenkreis _in der Mitte_ zwischen den beiden Farben liegt, gibt es nicht und aus eben diesem Grunde kann ich auch nicht sagen, an welchem Punkt das Orange, welches die eine Grenze bildet, schon zu nahe dem Gelb liegt, um noch mit dem Violett gemischt werden zu können; ich kann eben nicht erkennen, welches Orange in einem Farbenkreis 45 Grad vom Violett entfernt liegt. Das Dazwischenliegen der Mischfarbe ist eben hier kein anderes, als das des Rot zwischen Blau und Gelb.
+<span class="series-number">220</span> Die Bedeutung des Ausdrucks “Mischung der Farben A und B” muß mir allgemein bekannt sein, da seine Anwendung nicht auf eine endliche Anzahl von Paaren beschränkt ist. Zeigt man mir also z.B. irgend ein Orange und Weiß, und sagt, die Farbe eines Flecks sei eine Mischung dieser beiden, so muß ich das verstehen und ich kann es verstehen. Wenn man mir sagt, die Farbe eines Flecks liege zwischen Violett und Rot, so verstehe ich das und kann mir ein rötlicheres Violett als das gegebene denken. Sagt man mir nun, die Farbe liege zwischen diesem Violett und einem Orange – wobei mir kein bestimmter kontinuierlicher Übergang in Gestalt eines gemalten Farbenkreises vorliegt – so kann ich mir höchstens denken, es sei auch hier ein rötlicheres Violett gemeint, es könnte aber auch ein rötlicheres Orange gemeint sein, denn eine Farbe, die, abgesehen von einem gegebenen Farbenkreis _in der Mitte_ zwischen den beiden Farben liegt, gibt es nicht und aus eben diesem Grunde kann ich auch nicht sagen, an welchem Punkt das Orange, welches die eine Grenze bildet, schon zu nahe dem Gelb liegt, um noch mit dem Violett gemischt werden zu können; ich kann eben nicht erkennen, welches Orange in einem Farbenkreis 45 Grad vom Violett entfernt liegt. Das Dazwischenliegen der Mischfarbe ist eben hier kein anderes, als das des Rot zwischen Blau und Gelb.
 
 ### [Ts-209](/ts-209/#126.3) <span class="fac">[126\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/126.webp)</span> {#ts-209-1263}
 
@@ -4636,7 +4636,7 @@ Ich kann von zwei verschiedenen Tönen von Orange sagen, daß ich von keinem Gru
 
 ### [Ts-209](/ts-209/#127.3) <span class="fac">[127\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/127.webp)</span> {#ts-209-1273}
 
-<span class="series-number">221.</span> Es ist freilich wahr, daß man von einem Orange sagen kann, es sei beinahe Gelb, also es liege “näher am Gelb als am Rot” und Analoges von einem beinahe roten Orange. Daraus folgt aber nicht, daß es nun auch eine Mitte im Sinne eines Punktes zwischen Rot und Gelb geben müsse. Es ist eben hier ganz wie in der Geometrie des Gesichtsraums, verglichen mit der euklidischen. Es ist hier eine andere Art von Quantitäten als die, welche durch unsere rationalen Zahlen dargestellt werden. Die Begriffe näher und weiter sind eben hier überhaupt nicht zu brauchen, oder sind irreführend, wenn wir diese Worte anwenden.
+<span class="series-number">221</span> Es ist freilich wahr, daß man von einem Orange sagen kann, es sei beinahe Gelb, also es liege “näher am Gelb als am Rot” und Analoges von einem beinahe roten Orange. Daraus folgt aber nicht, daß es nun auch eine Mitte im Sinne eines Punktes zwischen Rot und Gelb geben müsse. Es ist eben hier ganz wie in der Geometrie des Gesichtsraums, verglichen mit der euklidischen. Es ist hier eine andere Art von Quantitäten als die, welche durch unsere rationalen Zahlen dargestellt werden. Die Begriffe näher und weiter sind eben hier überhaupt nicht zu brauchen, oder sind irreführend, wenn wir diese Worte anwenden.
 
 ### [Ts-209](/ts-209/#127.4) <span class="fac">[127\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/127.webp)</span> {#ts-209-1274}
 
@@ -4656,7 +4656,7 @@ In wiefern kann man sagen, daß Grau _im selben Sinne_ eine Mischung von Schwarz
 
 ### [Ts-209](/ts-209/#128.3) <span class="fac">[128\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/128.webp)</span> {#ts-209-1283}
 
-<span class="series-number">222.</span> Nun scheint es merkwürdigerweise von vornherein klar zu sein, daß man nicht in demselben Sinne sagen kann, Rot habe einen orangen Stich, wie, Orange hat einen rötlichen Stich. D.h. es scheint klar zu sein, daß die Ausdrucksweise “x besteht aus (ist ein Gemisch von) y und z” und “x ist der gemeinsame Bestandteil von y und z” hier nicht vertauschbar sind. Wären sie vertauschbar, so genügt die Relation _Zwischen_ zur Darstellung.
+<span class="series-number">222</span> Nun scheint es merkwürdigerweise von vornherein klar zu sein, daß man nicht in demselben Sinne sagen kann, Rot habe einen orangen Stich, wie, Orange hat einen rötlichen Stich. D.h. es scheint klar zu sein, daß die Ausdrucksweise “x besteht aus (ist ein Gemisch von) y und z” und “x ist der gemeinsame Bestandteil von y und z” hier nicht vertauschbar sind. Wären sie vertauschbar, so genügt die Relation _Zwischen_ zur Darstellung.
 
 ### [Ts-209](/ts-209/#128.4) <span class="fac">[128\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/128.webp)</span> {#ts-209-1284}
 
@@ -4672,7 +4672,7 @@ Wenn ich mit meiner Auffassung recht habe, so ist es kein Satz “Rot ist eine r
 
 ### [Ts-209](/ts-209/#128.7) <span class="fac">[128\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/128.webp)</span> {#ts-209-1287}
 
-<span class="series-number">223.</span> Es scheint außer dem Übergang von Farbe zu Farbe auf dem Farbenkreis noch einen bestimmten anderen zu geben, den wir vor uns haben, wenn wir kleine Flecke der einen Farbe mit kleinen Flecken der andern untermischt sehen. Ich meine hier natürlich einen _gesehenen_ Übergang. Und diese Art des Übergangs gibt dem Wort “Mischung” eine neue Bedeutung, die mit der Relation Zwischen auf dem Farbenkreis nicht zusammenfällt. Man könnte es so beschreiben: Einen orangefarbigen Fleck kann ich mir entstanden denken durch Untermischen kleiner roter und gelber Flecke, dagegen einen roten nicht durch Untermischen von violetten und orangefarbigen. – In diesem Sinne ist Grau eine Mischung von Schwarz und Weiß, und Rosa eine von Rot und Weiß, aber Weiß nicht eine Mischung von Rosa und einem weißlichen Grün. Nun meine ich aber nicht, daß es durch ein Experiment der Mischung festgestellt wird, daß gewisse Farben so aus anderen entstehen. Ich könnte das Experiment etwa mit einer rotierenden Farbenscheibe anstellen. Es kann dann gelingen, oder nicht gelingen, aber das zeigt nur, ob der betreffende visuelle Vorgang auf diese physikalische Weise hervorzurufen ist, oder nicht; es zeigt aber nicht, ob er möglich ist. Genau so, wie die physikalische Unterteilung einer Fläche nicht die visuelle Teilbarkeit beweisen oder widerlegen kann. Denn angenommen, ich sehe eine physikalische Unterteilung nicht mehr als visuelle Unterteilung, sehe aber die nicht geteilte Fläche im betrunkenen Zustande geteilt, war dann die visuelle Fläche nicht teilbar?
+<span class="series-number">223</span> Es scheint außer dem Übergang von Farbe zu Farbe auf dem Farbenkreis noch einen bestimmten anderen zu geben, den wir vor uns haben, wenn wir kleine Flecke der einen Farbe mit kleinen Flecken der andern untermischt sehen. Ich meine hier natürlich einen _gesehenen_ Übergang. Und diese Art des Übergangs gibt dem Wort “Mischung” eine neue Bedeutung, die mit der Relation Zwischen auf dem Farbenkreis nicht zusammenfällt. Man könnte es so beschreiben: Einen orangefarbigen Fleck kann ich mir entstanden denken durch Untermischen kleiner roter und gelber Flecke, dagegen einen roten nicht durch Untermischen von violetten und orangefarbigen. – In diesem Sinne ist Grau eine Mischung von Schwarz und Weiß, und Rosa eine von Rot und Weiß, aber Weiß nicht eine Mischung von Rosa und einem weißlichen Grün. Nun meine ich aber nicht, daß es durch ein Experiment der Mischung festgestellt wird, daß gewisse Farben so aus anderen entstehen. Ich könnte das Experiment etwa mit einer rotierenden Farbenscheibe anstellen. Es kann dann gelingen, oder nicht gelingen, aber das zeigt nur, ob der betreffende visuelle Vorgang auf diese physikalische Weise hervorzurufen ist, oder nicht; es zeigt aber nicht, ob er möglich ist. Genau so, wie die physikalische Unterteilung einer Fläche nicht die visuelle Teilbarkeit beweisen oder widerlegen kann. Denn angenommen, ich sehe eine physikalische Unterteilung nicht mehr als visuelle Unterteilung, sehe aber die nicht geteilte Fläche im betrunkenen Zustande geteilt, war dann die visuelle Fläche nicht teilbar?
 
 ### [Ts-209](/ts-209/#129.1) <span class="fac">[129\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/129.webp)</span> {#ts-209-1291}
 
@@ -4688,7 +4688,7 @@ Wenn man frägt, ob die Tonleiter eine unendliche Möglichkeit der Fortsetzung i
 
 ### [Ts-209](/ts-209/#129.3) <span class="fac">[129\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/129.webp)</span> {#ts-209-1293}
 
-<span class="series-number">224.</span> Die Gefahr, die darin liegt Dinge einfacher sehen zu wollen, als sie in Wirklichkeit sind, wird heute oft sehr überschätzt. Diese Gefahr besteht aber tatsächlich im höchsten Grade in der phänomenologischen Untersuchung der Sinneseindrücke. Diese werden immer für _viel_ einfacher gehalten als sie sind.
+<span class="series-number">224</span> Die Gefahr, die darin liegt Dinge einfacher sehen zu wollen, als sie in Wirklichkeit sind, wird heute oft sehr überschätzt. Diese Gefahr besteht aber tatsächlich im höchsten Grade in der phänomenologischen Untersuchung der Sinneseindrücke. Diese werden immer für _viel_ einfacher gehalten als sie sind.
 
 ### [Ts-209](/ts-209/#129.4) <span class="fac">[129\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/129.webp)</span> {#ts-209-1294}
 
@@ -4704,7 +4704,7 @@ Die Grenzenlosigkeit des Gesichtsraumes ist am klarsten, wenn wir nichts sehen, 
 
 ### [Ts-209](/ts-209/#129.7) <span class="fac">[129\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/129.webp)</span> {#ts-209-1297}
 
-<span class="series-number">225.</span> Der Satz, die Hypothese, ist mit der Wirklichkeit gekuppelt und mehr oder weniger lose. Im extremen Fall besteht keine Verbindung mehr, die Wirklichkeit kann tun, was sie will, ohne mit dem Satz in Konflikt zu kommen: dann ist der Satz, die Hypothese, sinnlos! –
+<span class="series-number">225</span> Der Satz, die Hypothese, ist mit der Wirklichkeit gekuppelt und mehr oder weniger lose. Im extremen Fall besteht keine Verbindung mehr, die Wirklichkeit kann tun, was sie will, ohne mit dem Satz in Konflikt zu kommen: dann ist der Satz, die Hypothese, sinnlos! –
 
 ### [Ts-209](/ts-209/#129.8) <span class="fac">[129\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/129.webp)</span> {#ts-209-1298}
 
@@ -4732,7 +4732,7 @@ Das Phänomen ist nicht Symptom für etwas anderes, sondern ist die Realität. D
 
 ### [Ts-209](/ts-209/#130.6) <span class="fac">[130\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/130.webp)</span> {#ts-209-1306}
 
-<span class="series-number">226.</span> Die Hypothese ist ein logisches Gebilde. D.h. ein Symbol, wofür gewisse Regeln der Darstellung gelten.
+<span class="series-number">226</span> Die Hypothese ist ein logisches Gebilde. D.h. ein Symbol, wofür gewisse Regeln der Darstellung gelten.
 
 ### [Ts-209](/ts-209/#130.7) <span class="fac">[130\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/130.webp)</span> {#ts-209-1307}
 
@@ -4754,7 +4754,7 @@ Die Linie ist der tatsächliche Verlauf, soweit er überhaupt beobachtet wurde. 
 
 ### [Ts-209](/ts-209/#131.1) <span class="fac">[131\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/131.webp)</span> {#ts-209-1311}
 
-<span class="series-number">227.</span> Man gibt die Hypothese nur um einen immer höheren Preis auf.
+<span class="series-number">227</span> Man gibt die Hypothese nur um einen immer höheren Preis auf.
 
 ### [Ts-209](/ts-209/#131.2) <span class="fac">[131\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/131.webp)</span> {#ts-209-1312}
 
@@ -4778,7 +4778,7 @@ Eine solche Darstellung gibt ein _Gesetz_. Wie die Gleichung einer Kurve ein Ges
 
 ### [Ts-209](/ts-209/#131.7) <span class="fac">[131\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/131.webp)</span> {#ts-209-1317}
 
-<span class="series-number">228.</span> Das Wesen einer Hypothese ist , glaube ich, daß sie eine Erwartung erzeugt, indem sie eine zukünftige Bestätigung zuläßt. D.h., es ist das Wesen einer Hypothese, daß ihre Bestätigung nie abgeschlossen ist. Wenn ich sage, daß eine Hypothese nicht definitiv verifizierbar ist, so ist damit _nicht_ gemeint, daß es für sie eine Verifikation gibt, der man sich immer mehr nähern kann, ohne sie je zu erreichen. Das ist Unsinn und einer, in den man oft verfällt. Sondern eine Hypothese hat zur Realität eben eine andere formelle Relation, als die der Verifikation. (Daher sind hier natürlich auch die Worte “wahr” und “falsch” nicht anzuwenden oder haben eine andere Bedeutung).
+<span class="series-number">228</span> Das Wesen einer Hypothese ist , glaube ich, daß sie eine Erwartung erzeugt, indem sie eine zukünftige Bestätigung zuläßt. D.h., es ist das Wesen einer Hypothese, daß ihre Bestätigung nie abgeschlossen ist. Wenn ich sage, daß eine Hypothese nicht definitiv verifizierbar ist, so ist damit _nicht_ gemeint, daß es für sie eine Verifikation gibt, der man sich immer mehr nähern kann, ohne sie je zu erreichen. Das ist Unsinn und einer, in den man oft verfällt. Sondern eine Hypothese hat zur Realität eben eine andere formelle Relation, als die der Verifikation. (Daher sind hier natürlich auch die Worte “wahr” und “falsch” nicht anzuwenden oder haben eine andere Bedeutung).
 
 ### [Ts-209](/ts-209/#131.8) <span class="fac">[131\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/131.webp)</span> {#ts-209-1318}
 
@@ -4794,7 +4794,7 @@ Eine Hypothese ist ein Gesetz zur Bildung von Sätzen. Man könnte auch sagen: E
 
 ### [Ts-209](/ts-209/#132.2) <span class="fac">[132\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/132.webp)</span> {#ts-209-1322}
 
-<span class="series-number">229.</span> Die Wahrscheinlichkeit einer Hypothese hat ihr Maß darin, wieviel Evidenz nötig ist, um es vorteilhaft zu machen, sie umzustoßen. Nur in diesem Sinne kann man sagen, daß wiederholte gleichförmige Erfahrung in der Vergangenheit das Andauern dieser Gleichförmigkeit in der Zukunft wahrscheinlich macht. Wenn ich nun in diesem Sinne sage: Ich nehme an, daß morgen die Sonne wieder aufgehen wird, weil das Gegenteil zu unwahrscheinlich ist, so meine ich hier mit “wahrscheinlich” oder “unwahrscheinlich” etwas ganz Anderes, als mit diesen Worten im Satz “es ist gleich wahrscheinlich, daß ich Kopf oder Adler werfe” gemeint ist. Die beiden Bedeutungen des Wortes “wahrscheinlich” stehen zwar in einem gewissen Zusammenhang, aber sie sind nicht identisch.
+<span class="series-number">229</span> Die Wahrscheinlichkeit einer Hypothese hat ihr Maß darin, wieviel Evidenz nötig ist, um es vorteilhaft zu machen, sie umzustoßen. Nur in diesem Sinne kann man sagen, daß wiederholte gleichförmige Erfahrung in der Vergangenheit das Andauern dieser Gleichförmigkeit in der Zukunft wahrscheinlich macht. Wenn ich nun in diesem Sinne sage: Ich nehme an, daß morgen die Sonne wieder aufgehen wird, weil das Gegenteil zu unwahrscheinlich ist, so meine ich hier mit “wahrscheinlich” oder “unwahrscheinlich” etwas ganz Anderes, als mit diesen Worten im Satz “es ist gleich wahrscheinlich, daß ich Kopf oder Adler werfe” gemeint ist. Die beiden Bedeutungen des Wortes “wahrscheinlich” stehen zwar in einem gewissen Zusammenhang, aber sie sind nicht identisch.
 
 ### [Ts-209](/ts-209/#132.3) <span class="fac">[132\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/132.webp)</span> {#ts-209-1323}
 
@@ -4806,7 +4806,7 @@ Zu sagen, ich sehe etwa eine Kugel, heißt nichts anderes als, ich habe einen An
 
 ### [Ts-209](/ts-209/#132.5) <span class="fac">[132\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/132.webp)</span> {#ts-209-1325}
 
-<span class="series-number">230.</span> Die Beschreibung der Phänomene mittels der Hypothese der Körperwelt ist unumgänglich durch ihre Einfachheit, verglichen mit der unfaßbar komplizierten phänomenologischen Beschreibung. Wenn ich verschiedene zerstreute Stücke einer Kreislinie sehe, so ist ihre genaue direkte Beschreibung vielleicht unmöglich, aber die Angabe, daß es die Stücke eines Kreises sind, den ich, aus nicht weiter untersuchten Gründen, nicht ganz sehe, – ist einfach.
+<span class="series-number">230</span> Die Beschreibung der Phänomene mittels der Hypothese der Körperwelt ist unumgänglich durch ihre Einfachheit, verglichen mit der unfaßbar komplizierten phänomenologischen Beschreibung. Wenn ich verschiedene zerstreute Stücke einer Kreislinie sehe, so ist ihre genaue direkte Beschreibung vielleicht unmöglich, aber die Angabe, daß es die Stücke eines Kreises sind, den ich, aus nicht weiter untersuchten Gründen, nicht ganz sehe, – ist einfach.
 
 ### [Ts-209](/ts-209/#132.6) <span class="fac">[132\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/132.webp)</span> {#ts-209-1326}
 
@@ -4863,7 +4863,7 @@ Was man mit einem Satze meinen _kann_, das _darf_ man auch mit ihm meinen. Wenn 
 
 ### [Ts-209](/ts-209/#133.4) <span class="fac">[133\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/133.webp)</span> {#ts-209-1334}
 
-<span class="series-number">231.</span> Man kann einen Teil einer Hypothese vergleichen mit der Bewegung eines Teils eines Getriebes, einer Bewegung, die man festlegen kann, ohne dadurch die bezweckte Bewegung zu präjudizieren. Wohl aber hat man dann das übrige Getriebe auf eine bestimmte Art einzurichten, daß es die gewünschte Bewegung hervorbringt. Ich denke an ein Differentialgetriebe. –
+<span class="series-number">231</span> Man kann einen Teil einer Hypothese vergleichen mit der Bewegung eines Teils eines Getriebes, einer Bewegung, die man festlegen kann, ohne dadurch die bezweckte Bewegung zu präjudizieren. Wohl aber hat man dann das übrige Getriebe auf eine bestimmte Art einzurichten, daß es die gewünschte Bewegung hervorbringt. Ich denke an ein Differentialgetriebe. –
 
 ![](../graphics/209,133.svg)
 
@@ -4875,7 +4875,7 @@ Von einem Maß dieser Wahrscheinlichkeit zu reden, ist nun vorderhand sinnlos. E
 
 ### [Ts-209](/ts-209/#134.1) <span class="fac">[134\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/134.webp)</span> {#ts-209-1341}
 
-<span class="series-number">232.</span> Wir können unser altes Prinzip auf die Sätze, die eine Wahrscheinlichkeit ausdrücken, anwenden und sagen, daß wir ihren Sinn erkennen werden, wenn wir bedenken, was sie verifiziert. Wenn ich sage “das wird wahrscheinlich eintreffen”, wird dieser Satz durch das Eintreffen verifiziert, oder durch das Nichteintreffen falsifiziert? Ich glaube, offenbar nein. Dann sagt er auch nichts darüber aus. Denn, wenn ein Streit darüber entstünde, ob es wahrscheinlich ist oder nicht, so würden immer nur Argumente aus der Vergangenheit herangezogen werden. Und auch dann nur, wenn es bereits bekannt wäre, was eingetroffen ist.
+<span class="series-number">232</span> Wir können unser altes Prinzip auf die Sätze, die eine Wahrscheinlichkeit ausdrücken, anwenden und sagen, daß wir ihren Sinn erkennen werden, wenn wir bedenken, was sie verifiziert. Wenn ich sage “das wird wahrscheinlich eintreffen”, wird dieser Satz durch das Eintreffen verifiziert, oder durch das Nichteintreffen falsifiziert? Ich glaube, offenbar nein. Dann sagt er auch nichts darüber aus. Denn, wenn ein Streit darüber entstünde, ob es wahrscheinlich ist oder nicht, so würden immer nur Argumente aus der Vergangenheit herangezogen werden. Und auch dann nur, wenn es bereits bekannt wäre, was eingetroffen ist.
 
 ### [Ts-209](/ts-209/#134.2) <span class="fac">[134\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/134.webp)</span> {#ts-209-1342}
 
@@ -4895,7 +4895,7 @@ Wenn ich z.B. würfle, so kann ich scheinbar a priori vorhersagen, daß die Ziff
 
 ### [Ts-209](/ts-209/#134.6) <span class="fac">[134\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/134.webp)</span> {#ts-209-1346}
 
-<span class="series-number">233.</span> Dies ist natürlich nur dann ein Naturgesetz, wenn es durch einen bestimmten Versuch bestätigt und auch durch einen bestimmten Versuch widerlegt werden kann. Das ist in der gewöhnlichen Auffassung nicht der Fall, denn, wenn _jedes_ Ereignis durch irgend ein Zeitintervall gerechtfertigt werden kann, so kann _jede beliebige_ Erfahrung mit dem Gesetz in Übereinstimmung gebracht werden. D.h. aber, das Gesetz läuft leer; es ist sinnlos.
+<span class="series-number">233</span> Dies ist natürlich nur dann ein Naturgesetz, wenn es durch einen bestimmten Versuch bestätigt und auch durch einen bestimmten Versuch widerlegt werden kann. Das ist in der gewöhnlichen Auffassung nicht der Fall, denn, wenn _jedes_ Ereignis durch irgend ein Zeitintervall gerechtfertigt werden kann, so kann _jede beliebige_ Erfahrung mit dem Gesetz in Übereinstimmung gebracht werden. D.h. aber, das Gesetz läuft leer; es ist sinnlos.
 
 ### [Ts-209](/ts-209/#134.7) <span class="fac">[134\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/134.webp)</span> {#ts-209-1347}
 
@@ -4915,7 +4915,7 @@ Wenn man das ansieht, was man die aprioristische Wahrscheinlichkeit nennt und da
 
 ### [Ts-209](/ts-209/#135.4) <span class="fac">[135\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/135.webp)</span> {#ts-209-1354}
 
-<span class="series-number">234.</span> Widerspricht folgende Tatsache nicht meiner Auffassung von der Wahrscheinlichkeit: Es ist offenbar denkbar, daß jemand, der täglich würfelt – sagen wir – eine Woche lang nur Einser wirft, und zwar, nicht darum, weil die Würfel schlecht sind, sondern einfach, weil sich die Bewegung seiner Hand, die Lage des Würfels im Becher, die Reibung an der Tischfläche, so zusammenfinden, daß sich immer dieses Resultat ergibt. Der Mann hat den Würfel untersucht, auch gefunden, daß er, wenn ihn andere werfen die normalen Ergebnisse liefert. Hat er nun Grund zu denken, daß hier ein Naturgesetz waltet, das ihn immer Einser werfen läßt; hat er Grund zu glauben, daß das nun wohl so weitergehen wird, oder hat er Grund anzunehmen, daß diese Regelmäßigkeit nicht lange mehr dauern kann? D.h.: hat er Grund das Spiel aufzugeben, da es sich gezeigt hat, daß er nur Einser werfen kann, oder weiterzuspielen, da es nur um so wahrscheinlicher ist, daß er jetzt eine höhere Zahl werfen wird? In Wirklichkeit wird er sich weigern es als ein Naturgesetz anzuerkennen, daß er nur Einser werfen kann. Zum mindesten wird es lange andauern müssen, ehe er diese Möglichkeit in Betracht zieht. Aber warum? Ich glaube, weil so viel frühere Erfahrung im Leben gegen ein solches Naturgesetz spricht, die alle – sozusagen – erst überwunden werden muß, ehe wir eine ganz neue Betrachtungsweise akzeptieren.
+<span class="series-number">234</span> Widerspricht folgende Tatsache nicht meiner Auffassung von der Wahrscheinlichkeit: Es ist offenbar denkbar, daß jemand, der täglich würfelt – sagen wir – eine Woche lang nur Einser wirft, und zwar, nicht darum, weil die Würfel schlecht sind, sondern einfach, weil sich die Bewegung seiner Hand, die Lage des Würfels im Becher, die Reibung an der Tischfläche, so zusammenfinden, daß sich immer dieses Resultat ergibt. Der Mann hat den Würfel untersucht, auch gefunden, daß er, wenn ihn andere werfen die normalen Ergebnisse liefert. Hat er nun Grund zu denken, daß hier ein Naturgesetz waltet, das ihn immer Einser werfen läßt; hat er Grund zu glauben, daß das nun wohl so weitergehen wird, oder hat er Grund anzunehmen, daß diese Regelmäßigkeit nicht lange mehr dauern kann? D.h.: hat er Grund das Spiel aufzugeben, da es sich gezeigt hat, daß er nur Einser werfen kann, oder weiterzuspielen, da es nur um so wahrscheinlicher ist, daß er jetzt eine höhere Zahl werfen wird? In Wirklichkeit wird er sich weigern es als ein Naturgesetz anzuerkennen, daß er nur Einser werfen kann. Zum mindesten wird es lange andauern müssen, ehe er diese Möglichkeit in Betracht zieht. Aber warum? Ich glaube, weil so viel frühere Erfahrung im Leben gegen ein solches Naturgesetz spricht, die alle – sozusagen – erst überwunden werden muß, ehe wir eine ganz neue Betrachtungsweise akzeptieren.
 
 ### [Ts-209](/ts-209/#135.5) <span class="fac">[135\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/135.webp)</span> {#ts-209-1355}
 
@@ -4927,7 +4927,7 @@ Wenn sich der Spieler, oder die Versicherungsgesellschaft, nach der Wahrscheinli
 
 ### [Ts-209](/ts-209/#136.2) <span class="fac">[136\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/136.webp)</span> {#ts-209-1362}
 
-<span class="series-number">235.</span> ![](../graphics/209,136-1.svg)
+<span class="series-number">235</span> ![](../graphics/209,136-1.svg)
 
 Die Gleichung dieser Linie kann man darstellen als Gleichung einer Geraden mit einem variablen Parameter, dessen Verlauf die Abweichungen von der Geraden ausdrückt. Es ist nicht wesentlich, daß diese Abweichungen “gering” seien. Sie können so groß sein, daß die Linie einer Geraden nicht ähnlich sieht. Die “Gerade mit Abweichungen” ist _nur eine Form_ der Beschreibung. Sie macht es mir möglich, einen bestimmten Teil der Beschreibung zu vernachlässigen – wenn ich will. (Die Form der “Regel mit Ausnahmen”).
 
@@ -4945,7 +4945,7 @@ Wenn ich behaupte “das ist die Regel”, so hat das nur so lange Sinn, als ich
 
 ### [Ts-209](/ts-209/#136.6) <span class="fac">[136\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/136.webp)</span> {#ts-209-1366}
 
-<span class="series-number">236.</span> Ich kann von einer Linie sagen, der allgemeine Eindruck ist der einer Geraden, aber nicht von der Linie
+<span class="series-number">236</span> Ich kann von einer Linie sagen, der allgemeine Eindruck ist der einer Geraden, aber nicht von der Linie
 
 ![](../graphics/209,136-2.svg)<span class="post-block-punct">,</span>
 
@@ -4969,7 +4969,7 @@ Ich kann nicht sagen, “Die Linie <math display="inline"><mtext>🖵</mtext></m
 
 ### [Ts-209](/ts-209/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/137.webp)</span> {#ts-209-1372}
 
-<span class="series-number">237.</span> Alle “begründete” Erwartung, ist Erwartung, daß eine bis jetzt beobachtete Regel weiter gelten wird.
+<span class="series-number">237</span> Alle “begründete” Erwartung, ist Erwartung, daß eine bis jetzt beobachtete Regel weiter gelten wird.
 
 ### [Ts-209](/ts-209/#137.3) <span class="fac">[137\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/137.webp)</span> {#ts-209-1373}
 
@@ -4993,7 +4993,7 @@ Es ist wahrscheinlich, daß ein Ereignis eintrifft, heißt: _Es spricht etwas da
 
 ### [Ts-209](/ts-209/#137.8) <span class="fac">[137\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/137.webp)</span> {#ts-209-1378}
 
-<span class="series-number">238.</span> ![](../graphics/209,137-1.svg)
+<span class="series-number">238</span> ![](../graphics/209,137-1.svg)
 
 Von der Lichtquelle Q wird ein Lichtstrahl ausgesendet der die Scheibe AB trifft und dort einen Lichtpunkt erzeugt und dann die Scheibe AB' trifft und auf ihr einen Lichtpunkt erzeugt. Wir haben keinen Grund anzunehmen, daß der Punkt auf AB rechts oder links von M, aber auch keinen Grund, anzunehmen, daß der Punkt auf AB' rechts oder links von m ist; das gibt scheinbar widersprechende Wahrscheinlichkeiten. Aber, angenommen, ich habe eine Annahme über die Wahrscheinlichkeit gemacht, daß der Punkt auf AB in AM liegt, wie wird diese Annahme verifiziert? Doch durch einen Häufigkeitsversuch. Angenommen, dieser bestätigt die eine Auffassung, so ist sie damit als die richtige erkannt und erweist sich so als eine _physikalische_ Hypothese. Die geometrische Konstruktion zeigt nur, daß die Gleichheit der Strecken AM und BM _kein_ Grund zur Annahme gleicher Wahrscheinlichkeit war.
 

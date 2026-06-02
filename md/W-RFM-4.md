@@ -10,7 +10,7 @@
 
 ### [Ms-125](/ms-125/#5v.4) <span class="fac">[5v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/5v.webp)</span> {#ms-125-5v4}
 
-<span class="series-number">1.</span> “Die Axiome eines mathematischen Axiomsystems sollen einleuchtend sein.” Wie leuchten sie denn ein?
+<span class="series-number">1</span> “Die Axiome eines mathematischen Axiomsystems sollen einleuchtend sein.” Wie leuchten sie denn ein?
 
 ### [Ms-125](/ms-125/#6r.1) <span class="fac">[6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/6r.webp)</span> {#ms-125-6r1}
 
@@ -18,7 +18,7 @@ Wie wenn ich sagte: _so_ kann ich mir's am leichtesten vorstellen. Und hier ist 
 
 ### [Ms-125](/ms-125/#6r.2+6v.1) <span class="fac">[6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/6r.webp),[6v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/6v.webp)</span> {#ms-125-6r26v1}
 
-<span class="series-number">2.</span> Was sagen wir, wenn uns so ein Axiom dargeboten wird, z.B. das Parallelenaxiom? Hat Erfahrung uns gezeigt, daß es sich so verhält?
+<span class="series-number">2</span> Was sagen wir, wenn uns so ein Axiom dargeboten wird, z.B. das Parallelenaxiom? Hat Erfahrung uns gezeigt, daß es sich so verhält?
 
 Nun vielleicht; aber _welche_ Erfahrung? Ich meine: Erfahrung spielt eine Rolle; aber nicht die, die man unmittelbar erwarten würde. Denn man hat ja doch nicht Versuche gemacht & gefunden, daß wirklich nur _eine_ Gerade die andre Gerade nicht durch den Punkt schneidet. Und doch leuchtet der Satz ein. – Wenn ich nun sagte: es ist ganz gleichgültig, warum er einleuchtet. Genug: wir nehmen ihn an. Wichtig ist nur, wie wir ihn gebrauchen.
 
@@ -38,7 +38,7 @@ Dies Bild ist uns annehmbar. Wie es uns annehmbar ist, die ungenaue Kenntnis ein
 
 ### [Ms-125](/ms-125/#7r.3+7v.1) <span class="fac">[7r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/7r.webp),[7v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/7v.webp)</span> {#ms-125-7r37v1}
 
-<span class="series-number">3.</span> Ich will sagen: Wenn der Wortlaut des Parallelen-Axioms, z.B., gegeben ist (& wir die Sprache verstehen) so ist die Art der Verwendung dieses Satzes, & also sein Sinn, noch gar nicht bestimmt. Und wenn wir sagen, er leuchtet uns ein, so haben wir damit, ohne es zu wissen, schon eine bestimmte Art der Verwendung des Satzes gewählt. Der Satz ist kein mathematisches Axiom, wenn wir ihn nicht gerade _dazu_ verwenden.
+<span class="series-number">3</span> Ich will sagen: Wenn der Wortlaut des Parallelen-Axioms, z.B., gegeben ist (& wir die Sprache verstehen) so ist die Art der Verwendung dieses Satzes, & also sein Sinn, noch gar nicht bestimmt. Und wenn wir sagen, er leuchtet uns ein, so haben wir damit, ohne es zu wissen, schon eine bestimmte Art der Verwendung des Satzes gewählt. Der Satz ist kein mathematisches Axiom, wenn wir ihn nicht gerade _dazu_ verwenden.
 
 ### [Ms-125](/ms-125/#7v.2+8r.1) <span class="fac">[7v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/7v.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8r.webp)</span> {#ms-125-7v28r1}
 
@@ -50,7 +50,7 @@ Nicht, daß er uns als wahr einleuchtet, sondern daß wir das Einleuchten gelten
 
 ### [Ms-125](/ms-125/#8r.3+8v.1) <span class="fac">[8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8v.webp)</span> {#ms-125-8r38v1}
 
-<span class="series-number">4.</span> Lehrt uns die Erfahrung daß zwischen je 2 Punkten eine Gerade möglich ist? Oder, daß zwei verschiedene Farben nicht an einem Orte sein können? Man könnte sagen: die _Vorstellung_ lehrt es uns. Und darin liegt die Wahrheit; man muß es nur recht verstehen.
+<span class="series-number">4</span> Lehrt uns die Erfahrung daß zwischen je 2 Punkten eine Gerade möglich ist? Oder, daß zwei verschiedene Farben nicht an einem Orte sein können? Man könnte sagen: die _Vorstellung_ lehrt es uns. Und darin liegt die Wahrheit; man muß es nur recht verstehen.
 
 ### [Ms-125](/ms-125/#8v.2) <span class="fac">[8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8v.webp)</span> {#ms-125-8v2}
 
@@ -72,7 +72,7 @@ Der Satz den man sich nicht anders als wahr soll vorstellen können hat eine and
 
 ### [Ms-125](/ms-125/#9v.2) <span class="fac">[9v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/9v.webp)</span> {#ms-125-9v2}
 
-<span class="series-number">5.</span> Die mathem. Axiome funktionieren dergestalt, daß, wenn Erfahrung uns dazu bewegte, ein Axiom aufzugeben, sein Gegenteil damit nicht zum Axiom würde. ‘2 × 2 ≠ 5’ heißt nicht, ‘2 × 2 = 5’ habe sich nicht bewährt.
+<span class="series-number">5</span> Die mathem. Axiome funktionieren dergestalt, daß, wenn Erfahrung uns dazu bewegte, ein Axiom aufzugeben, sein Gegenteil damit nicht zum Axiom würde. ‘2 × 2 ≠ 5’ heißt nicht, ‘2 × 2 = 5’ habe sich nicht bewährt.
 
 ### [Ms-125](/ms-125/#9v.3) <span class="fac">[9v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/9v.webp)</span> {#ms-125-9v3}
 
@@ -92,7 +92,7 @@ Das Axiom ist, möchte ich sagen, ein andrer Redeteil.
 
 ### [Ms-125](/ms-125/#10v.2) <span class="fac">[10v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/10v.webp)</span> {#ms-125-10v2}
 
-<span class="series-number">6.</span> Man nimmt, wenn man das math. Axiom, das & das sei möglich, hört, ohne weiters an, man wisse, was hier ‘möglich sein’ bedeutet; weil die Satzform uns natürlich geläufig ist.
+<span class="series-number">6</span> Man nimmt, wenn man das math. Axiom, das & das sei möglich, hört, ohne weiters an, man wisse, was hier ‘möglich sein’ bedeutet; weil die Satzform uns natürlich geläufig ist.
 
 ### [Ms-125](/ms-125/#10v.3+11r.1) <span class="fac">[10v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/10v.webp),[11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/11r.webp)</span> {#ms-125-10v311r1}
 
@@ -116,11 +116,11 @@ So wie man sich auch nicht fragt, was ein Satz der Form “Es gibt kein …” (
 
 ### [Ms-125](/ms-125/#12r.3+12v.1) <span class="fac">[12r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/12r.webp),[12v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/12v.webp)</span> {#ms-125-12r312v1}
 
-<span class="series-number">7.</span> Der math. Satz steht auf vier Füßen, nicht auf dreien; er ist überbestimmt.
+<span class="series-number">7</span> Der math. Satz steht auf vier Füßen, nicht auf dreien; er ist überbestimmt.
 
 ### [Ms-125](/ms-125/#12v.2) <span class="fac">[12v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/12v.webp)</span> {#ms-125-12v2}
 
-<span class="series-number">8.</span> Wenn wir das Tun eines Menschen, z.B., durch eine Regel beschreiben, so wollen wir, daß der, dem wir die Beschreibung geben, durch Anwendung der Regel wisse, was im besonderen Fall geschieht. Gebe ich ihm nun durch die Regel eine indirekte Beschreibung?
+<span class="series-number">8</span> Wenn wir das Tun eines Menschen, z.B., durch eine Regel beschreiben, so wollen wir, daß der, dem wir die Beschreibung geben, durch Anwendung der Regel wisse, was im besonderen Fall geschieht. Gebe ich ihm nun durch die Regel eine indirekte Beschreibung?
 
 ### [Ms-125](/ms-125/#12v.3+13r.1) <span class="fac">[12v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/12v.webp),[13r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/13r.webp)</span> {#ms-125-12v313r1}
 
@@ -160,7 +160,7 @@ Wer mit einer Regel beschreibt, weiß selbst auch nicht mehr als er sagt. D.h., 
 
 ### [Ms-125](/ms-125/#14v.3+15r.1) <span class="fac">[14v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/14v.webp),[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15r.webp)</span> {#ms-125-14v315r1}
 
-<span class="series-number">9.</span> Wie könnte man Einem erklären, was der zu tun hat, der einer Regel folgen soll?
+<span class="series-number">9</span> Wie könnte man Einem erklären, was der zu tun hat, der einer Regel folgen soll?
 
 ### [Ms-125](/ms-125/#15r.2+15v.1) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15r.webp),[15v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15v.webp)</span> {#ms-125-15r215v1}
 
@@ -168,11 +168,11 @@ Man ist versucht zu erklären: vor allem tu das _Einfachste_ (wenn die Regel z.B
 
 ### [Ms-125](/ms-125/#15v.2+16r.1) <span class="fac">[15v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15v.webp),[16r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/16r.webp)</span> {#ms-125-15v216r1}
 
-<span class="series-number">10.</span> Ist es denn nicht übereilt, einen Satz, den man an Stäbchen & Bohnen erprobt hat, auf Wellenlängen des Lichts anzuwenden? Ich meine: daß 2 × 5000 = 10000 ist. Rechnet man wirklich damit, daß, was sich in so viel Fällen bewahrheitet hat, auch für diese stimmen muß? Oder ist es nicht vielmehr, daß wir uns mit der arithmetischen Annahme noch _gar_ nicht binden?
+<span class="series-number">10</span> Ist es denn nicht übereilt, einen Satz, den man an Stäbchen & Bohnen erprobt hat, auf Wellenlängen des Lichts anzuwenden? Ich meine: daß 2 × 5000 = 10000 ist. Rechnet man wirklich damit, daß, was sich in so viel Fällen bewahrheitet hat, auch für diese stimmen muß? Oder ist es nicht vielmehr, daß wir uns mit der arithmetischen Annahme noch _gar_ nicht binden?
 
 ### [Ms-125](/ms-125/#16r.2) <span class="fac">[16r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/16r.webp)</span> {#ms-125-16r2}
 
-<span class="series-number">11.</span> Die Arithm. als die Naturgeschichte (Mineralogie) der Zahlen. _Wer_ spricht aber so von ihr? Unser ganzes Denken ist von dieser Idee durchsetzt.
+<span class="series-number">11</span> Die Arithm. als die Naturgeschichte (Mineralogie) der Zahlen. _Wer_ spricht aber so von ihr? Unser ganzes Denken ist von dieser Idee durchsetzt.
 
 ### [Ms-125](/ms-125/#16r.3+16v.1+17r.1) <span class="fac">[16r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/16r.webp),[16v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/16v.webp),[17r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp)</span> {#ms-125-16r316v117r1}
 
@@ -180,7 +180,7 @@ Die Zahlen sind Gestalten (ich meine nicht die Zahlzeichen) & die Arithm. teilt 
 
 ### [Ms-125](/ms-125/#17r.2+17r.3) <span class="fac">[17r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp),[17r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp)</span> {#ms-125-17r217r3}
 
-<span class="series-number">12.</span> Wir beurteilen nicht die Bilder, sondern mittels der Bilder. Wir erforschen sie nicht sondern mittels ihrer etwas anderes.
+<span class="series-number">12</span> Wir beurteilen nicht die Bilder, sondern mittels der Bilder. Wir erforschen sie nicht sondern mittels ihrer etwas anderes.
 
 ### [Ms-125](/ms-125/#17r.4+17v.1) <span class="fac">[17r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp),[17v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17v.webp)</span> {#ms-125-17r417v1}
 
@@ -192,7 +192,7 @@ Das Bild des Zusammensetzens _ist_ kein Zusammensetzen; das Bild einer Zerlegung
 
 ### [Ms-125](/ms-125/#18r.1) <span class="fac">[18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/18r.webp)</span> {#ms-125-18r1}
 
-<span class="series-number">13.</span> Wie wäre es, wenn Tiere oder Kristalle so schöne Eigenschaften hätten wie die Zahlen? Es gäbe also z.B. eine Reihe von Gestalten, eine immer um eine Einheit größer als die andere.
+<span class="series-number">13</span> Wie wäre es, wenn Tiere oder Kristalle so schöne Eigenschaften hätten wie die Zahlen? Es gäbe also z.B. eine Reihe von Gestalten, eine immer um eine Einheit größer als die andere.
 
 ### [Ms-125](/ms-125/#18r.2+18v.1) <span class="fac">[18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/18r.webp),[18v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/18v.webp)</span> {#ms-125-18r218v1}
 
@@ -208,7 +208,7 @@ Ein math. Satz wäre es dann (z.B.), daß _diese_ Transformation _diese_ Gestalt
 
 ### [Ms-125](/ms-125/#19r.2+19v.1) <span class="fac">[19r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19r.webp),[19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19v.webp)</span> {#ms-125-19r219v1}
 
-<span class="series-number">14.</span> Wir müssen uns aber dessen erinnern, daß der math. Beweis durch seine Umformungen nicht nur zeichengeometrische Sätze, sondern Sätze des verschiedenartigsten _Inhalts_ beweist.
+<span class="series-number">14</span> Wir müssen uns aber dessen erinnern, daß der math. Beweis durch seine Umformungen nicht nur zeichengeometrische Sätze, sondern Sätze des verschiedenartigsten _Inhalts_ beweist.
 
 ### [Ms-125](/ms-125/#19r.3) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19r.webp)</span> {#ms-125-19r3}
 
@@ -224,7 +224,7 @@ Die R.sche Logik sagt nichts darüber, welcher Art & Verwendung _Sätze_, ich me
 
 ### [Ms-125](/ms-125/#28v.1+29r.1) <span class="fac">[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/29r.webp)</span> {#ms-125-28v129r1}
 
-<span class="series-number">15.</span> Man kann sich denken daß Leute eine angewandte Mathematik haben ohne eine reine Mathematik. Sie können z.B. – nehmen wir an – die Bahn berechnen, welche gewisse sich bewegende Körper beschreiben & deren Ort zu einer gegebenen Zeit vorhersagen. Dazu benüutzen sie ein Koordinatensystem, die Gleichung von Kurven (_eine Form der Beschreibung wirklicher Bewegung_) & die Technik des Rechnens im Dezimalsystem.
+<span class="series-number">15</span> Man kann sich denken daß Leute eine angewandte Mathematik haben ohne eine reine Mathematik. Sie können z.B. – nehmen wir an – die Bahn berechnen, welche gewisse sich bewegende Körper beschreiben & deren Ort zu einer gegebenen Zeit vorhersagen. Dazu benüutzen sie ein Koordinatensystem, die Gleichung von Kurven (_eine Form der Beschreibung wirklicher Bewegung_) & die Technik des Rechnens im Dezimalsystem.
 
 Die Idee eines Satzes der reinen Mathematik kann ihnen ganz fremd sein. Diese Leute haben also Regeln denen gemäß sie die betreffenden Zeichen insbesondere z.B. Zahlzeichen transformieren zum Zweck der Voraussage des Eintreffens gewisser Ereignisse.
 
@@ -242,7 +242,7 @@ Der Schwerpunkt der Mathem. liegt für diese Menschen _ganz_ im _Tun_.
 
 ### [Ms-125](/ms-125/#30r.3) <span class="fac">[30r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/30r.webp)</span> {#ms-125-30r3}
 
-<span class="series-number">16.</span> Ist das aber möglich? Ist es möglich, daß sie das kommutative Gesetz (z.B.) nicht als _Satz_ ansprechen?
+<span class="series-number">16</span> Ist das aber möglich? Ist es möglich, daß sie das kommutative Gesetz (z.B.) nicht als _Satz_ ansprechen?
 
 ### [Ms-125](/ms-125/#30r.4+30v.1) <span class="fac">[30r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/30r.webp),[30v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/30v.webp)</span> {#ms-125-30r430v1}
 
@@ -254,7 +254,7 @@ Frage: Müssen sie mathem. Entdeckungen als Entdeckungen machen? Was geht ihnen 
 
 ### [Ms-125](/ms-125/#31r.2+31v.1) <span class="fac">[31r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/31r.webp),[31v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/31v.webp)</span> {#ms-125-31r231v1}
 
-<span class="series-number">17.</span> Das bloße Bild
+<span class="series-number">17</span> Das bloße Bild
 
 ![](../graphics/gen-Ms-125,31r[2]et31v[1],120918.svg)
 
@@ -272,15 +272,15 @@ Ein Blick auf die Vorlage & die Steine überzeugt ihn, daß er mit ihnen die Fig
 
 ### [Ms-125](/ms-125/#32v.2) <span class="fac">[32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/32v.webp)</span> {#ms-125-32v2}
 
-<span class="series-number">18.</span> Es ist klar, daß die Mathematik als Technik des Umwandelns von Zeichen zum Zweck des Vorhersagens mit (der) Grammatik nichts zu tun hat.
+<span class="series-number">18</span> Es ist klar, daß die Mathematik als Technik des Umwandelns von Zeichen zum Zweck des Vorhersagens mit (der) Grammatik nichts zu tun hat.
 
 ### [Ms-125](/ms-125/#32v.3+33r.1) <span class="fac">[32v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/32v.webp),[33r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/33r.webp)</span> {#ms-125-32v333r1}
 
-<span class="series-number">19.</span> (Jene) Leute, deren Mathematik nur eine solche Technik ist, sollen nun auch Beweise anerkennen, die sie von der Brauchbarkeit einer Zeichentechnik überzeugen.
+<span class="series-number">19</span> (Jene) Leute, deren Mathematik nur eine solche Technik ist, sollen nun auch Beweise anerkennen, die sie von der Brauchbarkeit einer Zeichentechnik überzeugen.
 
 ### [Ms-125](/ms-125/#33r.2+33v.1) <span class="fac">[33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/33r.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/33v.webp)</span> {#ms-125-33r233v1}
 
-<span class="series-number">20.</span> Wenn uns das Rechnen als maschinelle Tätigkeit erscheint, so ist _der Mensch_, der die Rechnung ausführt, die Maschine.
+<span class="series-number">20</span> Wenn uns das Rechnen als maschinelle Tätigkeit erscheint, so ist _der Mensch_, der die Rechnung ausführt, die Maschine.
 
 ### [Ms-125](/ms-125/#33v.2) <span class="fac">[33v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/33v.webp)</span> {#ms-125-33v2}
 
@@ -288,7 +288,7 @@ Die Rechnung wäre dann gleichsam ein Diagramm, das ein Teil der Maschine hinsch
 
 ### [Ms-125](/ms-125/#33v.3) <span class="fac">[33v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/33v.webp)</span> {#ms-125-33v3}
 
-<span class="series-number">21.</span> Und das bringt mich darauf daß ein Bild uns sehr wohl davon überzeugen kann daß ein bestimmter Teil eines Mechanismus sich so & so bewegen werde wenn man den Mechanismus in Gang setzt.
+<span class="series-number">21</span> Und das bringt mich darauf daß ein Bild uns sehr wohl davon überzeugen kann daß ein bestimmter Teil eines Mechanismus sich so & so bewegen werde wenn man den Mechanismus in Gang setzt.
 
 ### [Ms-125](/ms-125/#34r.1) <span class="fac">[34r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/34r.webp)</span> {#ms-125-34r1}
 
@@ -312,11 +312,11 @@ Der Doppelcharakter des math. Satzes – als _Gesetz_ & als _Regel_.
 
 ### [Ms-125](/ms-125/#36r.3+36v.1) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/36r.webp),[36v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/36v.webp)</span> {#ms-125-36r336v1}
 
-<span class="series-number">22.</span> Wie, wenn man statt “Intuition” sagen würde “richtiges Erraten”? Das würde den Wert einer Intuition in einem ganz andern Lichte zeigen. Denn das Phänomen des Ratens ist ein psychologisches, aber nicht das des richtig Ratens.
+<span class="series-number">22</span> Wie, wenn man statt “Intuition” sagen würde “richtiges Erraten”? Das würde den Wert einer Intuition in einem ganz andern Lichte zeigen. Denn das Phänomen des Ratens ist ein psychologisches, aber nicht das des richtig Ratens.
 
 ### [Ms-125](/ms-125/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/36v.webp)</span> {#ms-125-36v2}
 
-<span class="series-number">23.</span> Daß wir die Technik gelernt haben, macht, daß wir sie nun, auf den Anblick dieses Bildes hin, so & so abändern.
+<span class="series-number">23</span> Daß wir die Technik gelernt haben, macht, daß wir sie nun, auf den Anblick dieses Bildes hin, so & so abändern.
 
 ### [Ms-125](/ms-125/#39v.3) <span class="fac">[39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/39v.webp)</span> {#ms-125-39v3}
 
@@ -324,27 +324,27 @@ Der Doppelcharakter des math. Satzes – als _Gesetz_ & als _Regel_.
 
 ### [Ms-125](/ms-125/#39v.4+40r.1) <span class="fac">[39v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/40r.webp)</span> {#ms-125-39v440r1}
 
-<span class="series-number">24.</span> Ja – es scheint: wenn unser Gedächtnis anders funktionierte, daß wir dann nicht so, wie wir's tun, rechnen könnten. Könnten wir aber dann Definitionen geben, wie wir es tun; so reden & schreiben, wie wir es tun? Wie aber können wir die Grundlage unsrer Sprache durch Erfahrungssätze ausdrücken?!
+<span class="series-number">24</span> Ja – es scheint: wenn unser Gedächtnis anders funktionierte, daß wir dann nicht so, wie wir's tun, rechnen könnten. Könnten wir aber dann Definitionen geben, wie wir es tun; so reden & schreiben, wie wir es tun? Wie aber können wir die Grundlage unsrer Sprache durch Erfahrungssätze ausdrücken?!
 
 ### [Ms-125](/ms-125/#40r.2+40v.1) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/40r.webp),[40v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/40v.webp)</span> {#ms-125-40r240v1}
 
-<span class="series-number">25.</span> Angenommen, eine Division wenn wir sie ganz ausführen würde nicht zu demselben Resultat führen wie das Kopieren der Periode. Das könnte z.B. daher kommen, daß wir die Rechengesetzchen ohne uns dessen bewußt zu sein veränderten. (Es könnte aber auch daher kommen, daß wir anders kopieren.)
+<span class="series-number">25</span> Angenommen, eine Division wenn wir sie ganz ausführen würde nicht zu demselben Resultat führen wie das Kopieren der Periode. Das könnte z.B. daher kommen, daß wir die Rechengesetzchen ohne uns dessen bewußt zu sein veränderten. (Es könnte aber auch daher kommen, daß wir anders kopieren.)
 
 ### [Ms-125](/ms-125/#40v.2+41r.1) <span class="fac">[40v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/40v.webp),[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/41r.webp)</span> {#ms-125-40v241r1}
 
-<span class="series-number">26.</span> Was ist der Unterschied zwischen _nicht_ rechnen & _falsch_ rechnen. – Oder: ist eine _scharfe_ Grenze zwischen dem, die Zeit _nicht_ zu messen & sie _falsch_ messen? Keine Zeitmessung zu kennen & eine falsche?
+<span class="series-number">26</span> Was ist der Unterschied zwischen _nicht_ rechnen & _falsch_ rechnen. – Oder: ist eine _scharfe_ Grenze zwischen dem, die Zeit _nicht_ zu messen & sie _falsch_ messen? Keine Zeitmessung zu kennen & eine falsche?
 
 ### [Ms-125](/ms-125/#41r.2) <span class="fac">[41r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/41r.webp)</span> {#ms-125-41r2}
 
-<span class="series-number">27.</span> Gib auf das Geschwätz acht, wodurch wir jemand von der Wahrheit eines math. Satzes überzeugen. Es gibt einen Aufschluß über die Funktion dieser Überzeugung. Ich meine das Geschwätz womit die Intuition wachgerufen wird. Womit also die Maschine einer Technik in Gang gesetzt wird.
+<span class="series-number">27</span> Gib auf das Geschwätz acht, wodurch wir jemand von der Wahrheit eines math. Satzes überzeugen. Es gibt einen Aufschluß über die Funktion dieser Überzeugung. Ich meine das Geschwätz womit die Intuition wachgerufen wird. Womit also die Maschine einer Technik in Gang gesetzt wird.
 
 ### [Ms-125](/ms-125/#41v.1) <span class="fac">[41v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/41v.webp)</span> {#ms-125-41v1}
 
-<span class="series-number">28.</span> Kann man sagen, daß, wer eine Technik lernt, sich dadurch von der Gleichförmigkeit der Resultate überzeugt??
+<span class="series-number">28</span> Kann man sagen, daß, wer eine Technik lernt, sich dadurch von der Gleichförmigkeit der Resultate überzeugt??
 
 ### [Ms-125](/ms-125/#41v.2) <span class="fac">[41v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/41v.webp)</span> {#ms-125-41v2}
 
-<span class="series-number">29.</span> Die Grenze der Empirie – ist die _Begriffsbildung_.
+<span class="series-number">29</span> Die Grenze der Empirie – ist die _Begriffsbildung_.
 
 ### [Ms-125](/ms-125/#41v.3+42r.1) <span class="fac">[41v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/41v.webp),[42r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/42r.webp)</span> {#ms-125-41v342r1}
 
@@ -364,7 +364,7 @@ Oder auch so: Er hat keinen klaren Begriff davon, wie es aussähe, wenn es ander
 
 ### [Ms-125](/ms-125/#43v.2+44r.1) <span class="fac">[43v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/43v.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/44r.webp)</span> {#ms-125-43v244r1}
 
-<span class="series-number">30.</span> Was zwingt uns den Begriff der Gleichheit _so_ zu formen, daß wir etwa sagen: “wenn Du beidemale wirklich das Gleiche tust, muß auch dasselbe herauskommen”? – Was zwingt uns, nach einer Regel vorzugehen, etwas als Regel aufzufassen? Was zwingt uns mit uns selbst in den Formen der von uns gelernten Sprache zu reden
+<span class="series-number">30</span> Was zwingt uns den Begriff der Gleichheit _so_ zu formen, daß wir etwa sagen: “wenn Du beidemale wirklich das Gleiche tust, muß auch dasselbe herauskommen”? – Was zwingt uns, nach einer Regel vorzugehen, etwas als Regel aufzufassen? Was zwingt uns mit uns selbst in den Formen der von uns gelernten Sprache zu reden
 
 ### [Ms-125](/ms-125/#44r.2) <span class="fac">[44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/44r.webp)</span> {#ms-125-44r2}
 
@@ -404,7 +404,7 @@ Unsre Anschauung wird umgemodelt.
 
 ### [Ms-125](/ms-125/#46v.4+47r.1) <span class="fac">[46v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/46v.webp),[47r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/47r.webp)</span> {#ms-125-46v447r1}
 
-<span class="series-number">31.</span> Es muß so sein, heißt nicht, es wird so sein. Im Gegenteil: ‘Es _wird_ so sein, wählt zwischen _einer_ & einer andern Möglichkeit. ‘Es muß so sein’ sieht nur _eine_ Möglichkeit.
+<span class="series-number">31</span> Es muß so sein, heißt nicht, es wird so sein. Im Gegenteil: ‘Es _wird_ so sein, wählt zwischen _einer_ & einer andern Möglichkeit. ‘Es muß so sein’ sieht nur _eine_ Möglichkeit.
 
 ### [Ms-125](/ms-125/#47r.2) <span class="fac">[47r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/47r.webp)</span> {#ms-125-47r2}
 
@@ -428,7 +428,7 @@ Muß man hier nicht zwischen (dem) Denken & dem praktischen Erfolg des Denkens u
 
 ### [Ms-125](/ms-125/#48v.3+49r.1) <span class="fac">[48v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/48v.webp),[49r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/49r.webp)</span> {#ms-125-48v349r1}
 
-<span class="series-number">32.</span> “… die nicht, wie wir, gewisse Wahrheiten unmittelbar einsehen, sondern vielleicht auf den langwierigen Weg der Induktion angewiesen sind”, so sagt Frege. Aber was mich interessiert ist das unmittelbare Einsehen, ob es nun das einer Wahrheit ist, oder einer Falschheit. Ich frage: was ist das charakteristische Benehmen von Menschen, die etwas ‘unmittelbar einsehen’ – was immer der praktische Erfolg dieses Einsehens ist?
+<span class="series-number">32</span> “… die nicht, wie wir, gewisse Wahrheiten unmittelbar einsehen, sondern vielleicht auf den langwierigen Weg der Induktion angewiesen sind”, so sagt Frege. Aber was mich interessiert ist das unmittelbare Einsehen, ob es nun das einer Wahrheit ist, oder einer Falschheit. Ich frage: was ist das charakteristische Benehmen von Menschen, die etwas ‘unmittelbar einsehen’ – was immer der praktische Erfolg dieses Einsehens ist?
 
 ### [Ms-125](/ms-125/#49v.1) <span class="fac">[49v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/49v.webp)</span> {#ms-125-49v1}
 
@@ -436,7 +436,7 @@ Mich interessiert nicht das unmittelbare Einsehen einer Wahrheit, sondern das Ph
 
 ### [Ms-125](/ms-125/#49v.2+50r.1) <span class="fac">[49v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/49v.webp),[50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/50r.webp)</span> {#ms-125-49v250r1}
 
-<span class="series-number">33.</span> Ja; es ist, als ob die Begriffsbildung unsre Erfahrung in bestimmte Kanäle leitete so daß man nun die eine Erfahrung mit der andern auf neue Weise zusammensieht. (Wie ein optisches Instrument Licht von verschiedenen Quellen auf bestimmte Art in einem Bild zusammenkommen läßt.)
+<span class="series-number">33</span> Ja; es ist, als ob die Begriffsbildung unsre Erfahrung in bestimmte Kanäle leitete so daß man nun die eine Erfahrung mit der andern auf neue Weise zusammensieht. (Wie ein optisches Instrument Licht von verschiedenen Quellen auf bestimmte Art in einem Bild zusammenkommen läßt.)
 
 ### [Ms-125](/ms-125/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/50r.webp)</span> {#ms-125-50r2}
 
@@ -464,7 +464,7 @@ Kann man sagen: ein Begriff wird so gebildet daß er einer gewissen Vorhersage a
 
 ### [Ms-125](/ms-125/#53r.2) <span class="fac">[53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53r.webp)</span> {#ms-125-53r2}
 
-<span class="series-number">34.</span> Das philosophische Problem ist: wie können wir die Wahrheit sagen, & dabei diese starken Vorurteile _beruhigen_?
+<span class="series-number">34</span> Das philosophische Problem ist: wie können wir die Wahrheit sagen, & dabei diese starken Vorurteile _beruhigen_?
 
 ### [Ms-125](/ms-125/#53r.3+53v.1) <span class="fac">[53r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53r.webp),[53v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53v.webp)</span> {#ms-125-53r353v1}
 
@@ -472,7 +472,7 @@ Es ist ein Unterschied: ob ich etwas als eine Täuschung meiner Sinne oder als e
 
 ### [Ms-125](/ms-125/#53v.2) <span class="fac">[53v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53v.webp)</span> {#ms-125-53v2}
 
-<span class="series-number">35.</span> Wenn richtig gerechnet wurde, so muß das herauskommen. Muß es dann immer _so_ herauskommen? Natürlich.
+<span class="series-number">35</span> Wenn richtig gerechnet wurde, so muß das herauskommen. Muß es dann immer _so_ herauskommen? Natürlich.
 
 ### [Ms-125](/ms-125/#53v.3) <span class="fac">[53v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53v.webp)</span> {#ms-125-53v3}
 
@@ -500,7 +500,7 @@ Wie ist es, z.B., mit den Grundgesetzen der Mechanik? Wer sie versteht, muß wis
 
 ### [Ms-125](/ms-125/#54v.4+55r.1) <span class="fac">[54v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/55r.webp)</span> {#ms-125-54v455r1}
 
-<span class="series-number">36.</span> Ein Satz kann ein Bild beschreiben & dieses Bild mannigfach in unserer Betrachtungsweise der Dinge, also in unserer Lebens- & Handlungsweise verankert sein.
+<span class="series-number">36</span> Ein Satz kann ein Bild beschreiben & dieses Bild mannigfach in unserer Betrachtungsweise der Dinge, also in unserer Lebens- & Handlungsweise verankert sein.
 
 ### [Ms-125](/ms-125/#55r.3+55v.1) <span class="fac">[55r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/55r.webp),[55v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/55v.webp)</span> {#ms-125-55r355v1}
 
@@ -520,21 +520,21 @@ Man könnte sagen: Die Gründe warum er nun auf eine andere Technik umschaltet, 
 
 ### [Ms-125](/ms-125/#57v.2+58r.1) <span class="fac">[57v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/57v.webp),[58r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58r.webp)</span> {#ms-125-57v258r1}
 
-<span class="series-number">37.</span> 18.05.1942
+<span class="series-number">37</span> 18.05.1942
 
 Ein Mensch ist in einem Zimmer _gefangen_, wenn die Türe unversperrt ist, sich nach innen öffnet; er aber nicht auf die Idee kommt zu _ziehen_, statt gegen sie zu drücken.
 
 ### [Ms-125](/ms-125/#58r.3+58v.1) <span class="fac">[58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58v.webp)</span> {#ms-125-58r358v1}
 
-<span class="series-number">38.</span> Wenn Weiß zu Schwarz wird, sagen manche Menschen “Es ist im wesentlichen noch immer dasselbe”. Und andere, wenn die Farbe um einen Grad dunkler wird, sagen “Es hat sich _ganz_ verändert”.
+<span class="series-number">38</span> Wenn Weiß zu Schwarz wird, sagen manche Menschen “Es ist im wesentlichen noch immer dasselbe”. Und andere, wenn die Farbe um einen Grad dunkler wird, sagen “Es hat sich _ganz_ verändert”.
 
 ### [Ms-125](/ms-125/#59v.2+60r.1) <span class="fac">[59v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/59v.webp),[60r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/60r.webp)</span> {#ms-125-59v260r1}
 
-<span class="series-number">39.</span> Die Sätze “a = a”, “p ⊃ p”, “Das Wort ‘Bismarck’ hat 8 Buchstaben”, “Es gibt kein rötlichgrün”, sind alle einleuchtend & Sätze über das Wesen: was haben sie gemeinsam? Sie sind offenbar jeder von andrer Art & anderem Gebrauch. Der vorletzte ist einem Erfahrungssatz am ähnlichsten. Und es ist verständlich daß man ihn einen synthetischen Satz a priori nennen kann. Man kann sagen: wenn einer die Zahlenreihe mit der Buchstabenreihe nicht _zusammenhält_, kann er nicht wissen, wieviel Buchstaben das Wort hat.
+<span class="series-number">39</span> Die Sätze “a = a”, “p ⊃ p”, “Das Wort ‘Bismarck’ hat 8 Buchstaben”, “Es gibt kein rötlichgrün”, sind alle einleuchtend & Sätze über das Wesen: was haben sie gemeinsam? Sie sind offenbar jeder von andrer Art & anderem Gebrauch. Der vorletzte ist einem Erfahrungssatz am ähnlichsten. Und es ist verständlich daß man ihn einen synthetischen Satz a priori nennen kann. Man kann sagen: wenn einer die Zahlenreihe mit der Buchstabenreihe nicht _zusammenhält_, kann er nicht wissen, wieviel Buchstaben das Wort hat.
 
 ### [Ms-125](/ms-125/#60v.2) <span class="fac">[60v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/60v.webp)</span> {#ms-125-60v2}
 
-<span class="series-number">40.</span> 15.09.1942
+<span class="series-number">40</span> 15.09.1942
 
 Eine Figur aus der andern nach einer Regel abgeleitet. (Etwa die Umkehrung vom Thema.)
 
@@ -544,15 +544,15 @@ Dann das Resultat als Äquivalent der Operation gesetzt.
 
 ### [Ms-125](/ms-125/#60v.4) <span class="fac">[60v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/60v.webp)</span> {#ms-125-60v4}
 
-<span class="series-number">41.</span> Wenn ich schrieb “der Beweis muß übersichtlich sein” so hieß das: _Kausalität_ spielt im Beweis keine Rolle. Oder auch: der Beweis muß sich durch bloßes Kopieren reproduzieren lassen.
+<span class="series-number">41</span> Wenn ich schrieb “der Beweis muß übersichtlich sein” so hieß das: _Kausalität_ spielt im Beweis keine Rolle. Oder auch: der Beweis muß sich durch bloßes Kopieren reproduzieren lassen.
 
 ### [Ms-125](/ms-125/#61r.1) <span class="fac">[61r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/61r.webp)</span> {#ms-125-61r1}
 
-<span class="series-number">42.</span> Daß bei der Fortsetzung der Division von 1 ÷ 3 immer wieder 3 herauskommen muß wird ebenso wenig durch Intuition erkannt, wie, daß die Multiplikation 25 × 25 wenn man sie wiederholt immer wieder dasselbe Produkt liefert.
+<span class="series-number">42</span> Daß bei der Fortsetzung der Division von 1 ÷ 3 immer wieder 3 herauskommen muß wird ebenso wenig durch Intuition erkannt, wie, daß die Multiplikation 25 × 25 wenn man sie wiederholt immer wieder dasselbe Produkt liefert.
 
 ### [Ms-125](/ms-125/#61r.2+61v.1) <span class="fac">[61r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/61r.webp),[61v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/61v.webp)</span> {#ms-125-61r261v1}
 
-<span class="series-number">43.</span> Man könnte vielleicht sagen daß der synthetische Charakter der Sätze der Math. sich am klarsten in der unregelmäßigen Verteilung der Primzahlen zeigt.
+<span class="series-number">43</span> Man könnte vielleicht sagen daß der synthetische Charakter der Sätze der Math. sich am klarsten in der unregelmäßigen Verteilung der Primzahlen zeigt.
 
 ### [Ms-125](/ms-125/#61v.2+62r.1) <span class="fac">[61v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/61v.webp),[62r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/62r.webp)</span> {#ms-125-61v262r1}
 
@@ -564,11 +564,11 @@ Die Verteilung der Primzahlen wäre ein ideales Beispiel für das was man synthe
 
 ### [Ms-125](/ms-125/#62v.1+63r.1+63v.1) <span class="fac">[62v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/62v.webp),[63r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63r.webp),[63v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63v.webp)</span> {#ms-125-62v163r163v1}
 
-<span class="series-number">44.</span> Könnte man nicht wirklich von Intuition in der Math. reden? Nicht so aber, daß eine _mathem._ Wahrheit intuitiv erfaßt würde wohl aber eine physikalische, oder psychologische. So weiß ich mit _großer_ Sicherheit, daß ich jedesmal 625 errechnen werde, wenn ich zehnmal 25 mit 25 multipliziere. D.h. ich weiß die psychologische Tatsache, daß mir immer wieder diese Rechnung als richtig erscheinen wird; so wie ich weiß, wenn ich die Zahlenreihe von 1 bis 20 zehnmal nacheinander aus dem Gedächtnis aufschreibe, die Aufschreibungen sich beim Kollationieren als gleich erweisen werden. – Ist das nun eine Erfahrungstatsache? Freilich – und doch wäre es schwer Experimente anzugeben die mich von ihr überzeugen würden. Man könnte so etwas eine intuitiv erkannte **Erfahrungs**tatsache nennen.
+<span class="series-number">44</span> Könnte man nicht wirklich von Intuition in der Math. reden? Nicht so aber, daß eine _mathem._ Wahrheit intuitiv erfaßt würde wohl aber eine physikalische, oder psychologische. So weiß ich mit _großer_ Sicherheit, daß ich jedesmal 625 errechnen werde, wenn ich zehnmal 25 mit 25 multipliziere. D.h. ich weiß die psychologische Tatsache, daß mir immer wieder diese Rechnung als richtig erscheinen wird; so wie ich weiß, wenn ich die Zahlenreihe von 1 bis 20 zehnmal nacheinander aus dem Gedächtnis aufschreibe, die Aufschreibungen sich beim Kollationieren als gleich erweisen werden. – Ist das nun eine Erfahrungstatsache? Freilich – und doch wäre es schwer Experimente anzugeben die mich von ihr überzeugen würden. Man könnte so etwas eine intuitiv erkannte **Erfahrungs**tatsache nennen.
 
 ### [Ms-125](/ms-125/#63v.3) <span class="fac">[63v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63v.webp)</span> {#ms-125-63v3}
 
-<span class="series-number">45.</span> Du willst sagen, daß jeder Beweis in einer oder der anderen Weise den Begriff des Beweises ändert.
+<span class="series-number">45</span> Du willst sagen, daß jeder Beweis in einer oder der anderen Weise den Begriff des Beweises ändert.
 
 ### [Ms-125](/ms-125/#63v.4) <span class="fac">[63v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63v.webp)</span> {#ms-125-63v4}
 
@@ -576,7 +576,7 @@ Aber nach welchem Prinzip wird denn etwas als neuer Beweis anerkannt? Oder vielm
 
 ### [Ms-125](/ms-125/#65r.2+65v.1) <span class="fac">[65r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/65r.webp),[65v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/65v.webp)</span> {#ms-125-65r265v1}
 
-<span class="series-number">46.</span> Soll ich nun sagen: “wir sind überzeugt, daß immer wieder dasselbe Resultat herauskommen wird”? Nein, das ist nicht genug. Wir sind überzeugt, daß immer dieselbe Rechnung herauskommen, gerechnet werden, wird. Ist _das_ nun eine mathematische Überzeugung? Nein – denn würde nicht immer dasselbe gerechnet so könnten wir nicht folgern, daß die Rechnung einmal ein Resultat das andre mal, ein anderes ergiebt.
+<span class="series-number">46</span> Soll ich nun sagen: “wir sind überzeugt, daß immer wieder dasselbe Resultat herauskommen wird”? Nein, das ist nicht genug. Wir sind überzeugt, daß immer dieselbe Rechnung herauskommen, gerechnet werden, wird. Ist _das_ nun eine mathematische Überzeugung? Nein – denn würde nicht immer dasselbe gerechnet so könnten wir nicht folgern, daß die Rechnung einmal ein Resultat das andre mal, ein anderes ergiebt.
 
 ### [Ms-125](/ms-125/#65v.2) <span class="fac">[65v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/65v.webp)</span> {#ms-125-65v2}
 
@@ -584,7 +584,7 @@ Wir sind _freilich_ auch überzeugt, daß wir beim wiederholten Rechnen das Bild
 
 ### [Ms-125](/ms-125/#69r.2+69v.1) <span class="fac">[69r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69r.webp),[69v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69v.webp)</span> {#ms-125-69r269v1}
 
-<span class="series-number">47.</span> Könnte ich nicht sagen: wer die Multiplikation macht findet jedenfalls nicht das math. Faktum, aber den math. Satz? Denn, was er _findet_ ist das nicht-math. Faktum, & so den math. Satz. Denn der math. Satz ist eine Begriffsbestimmung die auf eine Entdeckung folgt.
+<span class="series-number">47</span> Könnte ich nicht sagen: wer die Multiplikation macht findet jedenfalls nicht das math. Faktum, aber den math. Satz? Denn, was er _findet_ ist das nicht-math. Faktum, & so den math. Satz. Denn der math. Satz ist eine Begriffsbestimmung die auf eine Entdeckung folgt.
 
 ### [Ms-125](/ms-125/#69v.2) <span class="fac">[69v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69v.webp)</span> {#ms-125-69v2}
 
@@ -608,7 +608,7 @@ Und nicht das ist eine Erfahrungstatsache, daß _dieser_ Weg da anfängt & da en
 
 ### [Ms-125](/ms-125/#70v.3) <span class="fac">[70v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/70v.webp)</span> {#ms-125-70v3}
 
-<span class="series-number">48.</span> Aber könnte man nicht sagen, daß die _Regeln_ diesen Weg führen, auch wenn niemand ihn gienge?
+<span class="series-number">48</span> Aber könnte man nicht sagen, daß die _Regeln_ diesen Weg führen, auch wenn niemand ihn gienge?
 
 ### [Ms-125](/ms-125/#71r.1+71v.1) <span class="fac">[71r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/71r.webp),[71v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/71v.webp)</span> {#ms-125-71r171v1}
 
@@ -624,7 +624,7 @@ Die Regel _arbeitet_ nicht, denn, was immer der Regel nach geschieht, ist eine I
 
 ### [Ms-125](/ms-125/#72r.3+72v.1) <span class="fac">[72r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72r.webp),[72v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72v.webp)</span> {#ms-125-72r372v1}
 
-<span class="series-number">49.</span> Nehmen wir an, ich habe die Stadien der Bewegung von
+<span class="series-number">49</span> Nehmen wir an, ich habe die Stadien der Bewegung von
 
 ![](../graphics/125,72r.svg)
 
@@ -648,7 +648,7 @@ Denken wir uns die Konstruktion der Stadien des Mechanismus mit Strichen von wec
 
 ### [Ms-125](/ms-125/#73v.2) <span class="fac">[73v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/73v.webp)</span> {#ms-125-73v2}
 
-<span class="series-number">50.</span> Das umgekehrte Wort hat ein _neues_ Gesicht.
+<span class="series-number">50</span> Das umgekehrte Wort hat ein _neues_ Gesicht.
 
 ### [Ms-126](/ms-126/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/12.webp)</span> {#ms-126-122}
 
@@ -684,7 +684,7 @@ Ich will doch sagen, man könne nicht sagen: wir mögen zwar über die korrekte 
 
 ### [Ms-125](/ms-125/#75r.2) <span class="fac">[75r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/75r.webp)</span> {#ms-125-75r2}
 
-<span class="series-number">51.</span> Denk Dir eine Maschine, die ‘so konstruiert ist’, daß sie eine Buchstabenreihe umkehrt. Und nun den Satz, daß das Resultat im Falle
+<span class="series-number">51</span> Denk Dir eine Maschine, die ‘so konstruiert ist’, daß sie eine Buchstabenreihe umkehrt. Und nun den Satz, daß das Resultat im Falle
 
 ABER
 
@@ -700,7 +700,7 @@ Und das ist verständlich. Denn wird das Resultat der Umkehrung zum Kriterium da
 
 ### [Ms-125](/ms-125/#77r.2) <span class="fac">[77r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/77r.webp)</span> {#ms-125-77r2}
 
-<span class="series-number">52.</span> Kann man nun sagen: daß die Begriffe, die die Math. schafft, eine Bequemlichkeit sind, daß es, wesentlich auch, ohne sie ginge?
+<span class="series-number">52</span> Kann man nun sagen: daß die Begriffe, die die Math. schafft, eine Bequemlichkeit sind, daß es, wesentlich auch, ohne sie ginge?
 
 ### [Ms-125](/ms-125/#77r.3) <span class="fac">[77r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/77r.webp)</span> {#ms-125-77r3}
 
@@ -716,21 +716,21 @@ Und was wir mit Sicherheit erwarten, ist für unser ganzes Leben wesentlich.
 
 ### [Ms-125](/ms-125/#77v.3+78r.1) <span class="fac">[77v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/77v.webp),[78r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/78r.webp)</span> {#ms-125-77v378r1}
 
-<span class="series-number">53.</span> Warum soll ich aber dann nicht sagen, daß die math. Sätze eben jene bestimmten Erwartungen, d.h. also Erfahrungen ausdrücken? Nur weil sie es eben nicht tun. Die Annahme eines Begriffes ist eine Maßregel die ich vielleicht nicht ergreifen würde, wenn ich nicht das Eintreten gewisser Tatsachen mit Bestimmtheit erwartete; aber darum ist die Festsetzung dieses Maßes nicht äquivalent mit dem Aussprechen der Erwartungen.
+<span class="series-number">53</span> Warum soll ich aber dann nicht sagen, daß die math. Sätze eben jene bestimmten Erwartungen, d.h. also Erfahrungen ausdrücken? Nur weil sie es eben nicht tun. Die Annahme eines Begriffes ist eine Maßregel die ich vielleicht nicht ergreifen würde, wenn ich nicht das Eintreten gewisser Tatsachen mit Bestimmtheit erwartete; aber darum ist die Festsetzung dieses Maßes nicht äquivalent mit dem Aussprechen der Erwartungen.
 
 ### [Ms-125](/ms-125/#78r.2+78v.1+79r.1) <span class="fac">[78r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/78r.webp),[78v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/78v.webp),[79r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/79r.webp)</span> {#ms-125-78r278v179r1}
 
-<span class="series-number">54.</span> Es ist schwer den Tatsachenkörper auf die richtige Fläche zu stellen: das Gegebene als gegeben zu betrachten. Es ist schwer den Körper anders aufzustellen als man gewohnt ist, ihn zu sehen. Ein Tisch in einer Rumpelkammer mag immer auf der Tischplatte liegen, aus Gründen der Raumersparnis, etwa So habe ich den Tatsachenkörper immer _so_ aufgestellt gesehen, aus mancherlei Gründen; & nun soll ich etwas anderes als seinen Anfang & etwas anderes als sein Ende ansehen. Das ist schwer. Er will gleichsam nicht so stehen, es sei denn daß man ihn in dieser Lage durch andere Vorrichtungen unterstützt.
+<span class="series-number">54</span> Es ist schwer den Tatsachenkörper auf die richtige Fläche zu stellen: das Gegebene als gegeben zu betrachten. Es ist schwer den Körper anders aufzustellen als man gewohnt ist, ihn zu sehen. Ein Tisch in einer Rumpelkammer mag immer auf der Tischplatte liegen, aus Gründen der Raumersparnis, etwa So habe ich den Tatsachenkörper immer _so_ aufgestellt gesehen, aus mancherlei Gründen; & nun soll ich etwas anderes als seinen Anfang & etwas anderes als sein Ende ansehen. Das ist schwer. Er will gleichsam nicht so stehen, es sei denn daß man ihn in dieser Lage durch andere Vorrichtungen unterstützt.
 
 ![](../graphics/125,79r.svg)
 
 ### [Ms-127](/ms-127/#81.3) <span class="fac">[81\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/81.webp)</span> {#ms-127-813}
 
-<span class="series-number">55.</span> Es ist _eines_ eine mathem. Technik zu gebrauchen, die darin besteht, den Widerspruch zu vermeiden, & ein anderes gegen den Widerspruch in der Mathematik überhaupt zu philosophieren.
+<span class="series-number">55</span> Es ist _eines_ eine mathem. Technik zu gebrauchen, die darin besteht, den Widerspruch zu vermeiden, & ein anderes gegen den Widerspruch in der Mathematik überhaupt zu philosophieren.
 
 ### [Ms-127](/ms-127/#83.2) <span class="fac">[83\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/83.webp)</span> {#ms-127-832}
 
-<span class="series-number">56.</span> Der Widerspruch. Warum grad dieses _eine_ Gespenst? Das ist doch sehr verdächtig.
+<span class="series-number">56</span> Der Widerspruch. Warum grad dieses _eine_ Gespenst? Das ist doch sehr verdächtig.
 
 ### [Ms-127](/ms-127/#83.3) <span class="fac">[83\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/83.webp)</span> {#ms-127-833}
 
@@ -742,7 +742,7 @@ Der Widerspruch könnte als Wink der Götter aufgefaßt werden, daß ich handeln
 
 ### [Ms-127](/ms-127/#80.3+81.1) <span class="fac">[80\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/80.webp),[81\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/81.webp)</span> {#ms-127-803811}
 
-<span class="series-number">57.</span> 04.03.1944
+<span class="series-number">57</span> 04.03.1944
 
 “Warum soll es in der Mathematik keinen Widerspruch geben dürfen?” – Nun, warum darf es in unsern einfachen Sprachspielen keinen geben? (Da besteht doch gewiß ein Zusammenhang.) Ist das also ein Grundgesetz, das alle denkbaren Sprachspiele beherrscht?
 
@@ -752,7 +752,7 @@ Angenommen ein Widerspruch in einem Befehl z.B. bewirkt Staunen & Unentschlossen
 
 ### [Ms-127](/ms-127/#88.2+89.1) <span class="fac">[88\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/88.webp),[89\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/89.webp)</span> {#ms-127-882891}
 
-<span class="series-number">58.</span> Einer kommt zu Leuten & sagt: “Ich lüge immer”. Sie antworten: “Nun, dann können wir dir trauen!”. – Aber konnte _er_ meinen, was er sagte? Und warum nicht? Gibt es nicht ein Gefühl, man sei unfähig etwas wirklich Wahres zu sagen; sei es was immer. –
+<span class="series-number">58</span> Einer kommt zu Leuten & sagt: “Ich lüge immer”. Sie antworten: “Nun, dann können wir dir trauen!”. – Aber konnte _er_ meinen, was er sagte? Und warum nicht? Gibt es nicht ein Gefühl, man sei unfähig etwas wirklich Wahres zu sagen; sei es was immer. –
 
 ### [Ms-127](/ms-127/#89.2) <span class="fac">[89\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/89.webp)</span> {#ms-127-892}
 
@@ -768,7 +768,7 @@ Man kann also sagen: “Wenn er jenen Satz nicht ohne Gedanken aussprach, – so
 
 ### [Ms-125](/ms-125/#67r.2+67v.1) <span class="fac">[67r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/67r.webp),[67v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/67v.webp)</span> {#ms-125-67r267v1}
 
-<span class="series-number">59.</span> Warum sollte man den Russellschen Widerspruch nicht als etwas Überpropositionales auffassen, etwas das über den Sätzen thront & nach beiden Seiten (wie ein Januskopf) schaut. N.B.: der Satz F(F) – in welchem F(ξ) = ~ξ(ξ) – enthält keine Variablen & könnte also als etwas Überlogisches, als etwas Unangreifbares, dessen Verneinung nur wieder es selber aussagt, gelten. Ja könnte man nicht sogar die Logik mit diesem Widerspruch anfangen? Und von ihm gleichsam zu den Sätzen niedersteigen.
+<span class="series-number">59</span> Warum sollte man den Russellschen Widerspruch nicht als etwas Überpropositionales auffassen, etwas das über den Sätzen thront & nach beiden Seiten (wie ein Januskopf) schaut. N.B.: der Satz F(F) – in welchem F(ξ) = ~ξ(ξ) – enthält keine Variablen & könnte also als etwas Überlogisches, als etwas Unangreifbares, dessen Verneinung nur wieder es selber aussagt, gelten. Ja könnte man nicht sogar die Logik mit diesem Widerspruch anfangen? Und von ihm gleichsam zu den Sätzen niedersteigen.
 
 ### [Ms-125](/ms-125/#68r.1) <span class="fac">[68r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/68r.webp)</span> {#ms-125-68r1}
 
@@ -776,4 +776,4 @@ Der sich selbst widersprechende Satz stünde wie ein Denkmal (mit einem Januskop
 
 ### [Ms-121](/ms-121/#74v.2+75r.1) <span class="fac">[74v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/74v.webp),[75r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/75r.webp)</span> {#ms-121-74v275r1}
 
-<span class="series-number">60.</span> Nicht das ist ein Unglück, einen Widerspruch zu erzeugen in der Region, in der weder der widerspruchsfreie noch der widerspruchsvolle Satz eine Arbeit zu leisten hat; wohl aber das, nicht zu wissen, wo man in diese Region eingetreten ist wo der Widerspruch nicht mehr schadet.
+<span class="series-number">60</span> Nicht das ist ein Unglück, einen Widerspruch zu erzeugen in der Region, in der weder der widerspruchsfreie noch der widerspruchsvolle Satz eine Arbeit zu leisten hat; wohl aber das, nicht zu wissen, wo man in diese Region eingetreten ist wo der Widerspruch nicht mehr schadet.

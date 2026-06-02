@@ -10,11 +10,11 @@
 
 ### [Ms-164](/ms-164/#FCv.1) <span class="fac">[FCv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/FCv.webp)</span> {#ms-164-fcv1}
 
-<span class="series-number">1.</span> Die Beweise ordnen die Sätze. Sie geben ihnen Zusammenhang.
+<span class="series-number">1</span> Die Beweise ordnen die Sätze. Sie geben ihnen Zusammenhang.
 
 ### [Ms-164](/ms-164/#FCv.2) <span class="fac">[FCv\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/FCv.webp)</span> {#ms-164-fcv2}
 
-<span class="series-number">2.</span> Der Begriff einer formalen Prüfung setzt den Begriff einer Regel des Umformens & also einer Technik voraus.
+<span class="series-number">2</span> Der Begriff einer formalen Prüfung setzt den Begriff einer Regel des Umformens & also einer Technik voraus.
 
 ### [Ms-164](/ms-164/#FCv.3) <span class="fac">[FCv\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/FCv.webp)</span> {#ms-164-fcv3}
 
@@ -58,7 +58,7 @@ Die Prüfung ist eine formale nur insofern als wir das Ergebnis als einen formal
 
 ### [Ms-164](/ms-164/#5.4+6.1) <span class="fac">[5\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/5.webp),[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/6.webp)</span> {#ms-164-5461}
 
-<span class="series-number">3.</span> Und wenn dieses Bild die Voraussage rechtfertigt – d.h., wenn Du es nur sehen brauchst & überzeugt bist ein Vorgang werde so & so verlaufen – dann rechtfertigt das Bild natürlich auch die Regel. – In diesem Falle steht der Beweis hinter der Regel als Bild, das sie rechtfertigt. ‒ ‒
+<span class="series-number">3</span> Und wenn dieses Bild die Voraussage rechtfertigt – d.h., wenn Du es nur sehen brauchst & überzeugt bist ein Vorgang werde so & so verlaufen – dann rechtfertigt das Bild natürlich auch die Regel. – In diesem Falle steht der Beweis hinter der Regel als Bild, das sie rechtfertigt. ‒ ‒
 
 ### [Ms-164](/ms-164/#6.2) <span class="fac">[6\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/6.webp)</span> {#ms-164-62}
 
@@ -74,7 +74,7 @@ Der Beweis ist also auch eine Anweisung zur Benutzung der Regel.
 
 ### [Ms-164](/ms-164/#7.3) <span class="fac">[7\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/7.webp)</span> {#ms-164-73}
 
-<span class="series-number">4.</span> Wie rechtfertigt der Beweis die Regel? – Er zeigt wie, & daher warum sie benützt werden kann.
+<span class="series-number">4</span> Wie rechtfertigt der Beweis die Regel? – Er zeigt wie, & daher warum sie benützt werden kann.
 
 ### [Ms-164](/ms-164/#7.4+8.1) <span class="fac">[7\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/7.webp),[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/8.webp)</span> {#ms-164-7481}
 
@@ -104,7 +104,7 @@ Hieße es etwas zu sagen: “Ich will Dir zeigen wie 8 × 9 zuerst 72 ergab”?
 
 ### [Ms-164](/ms-164/#10.2+11.1) <span class="fac">[10\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/10.webp),[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/11.webp)</span> {#ms-164-102111}
 
-<span class="series-number">5.</span> Das seltsame ist ja, daß das Bild, nicht die Wirklichkeit, einen Satz soll erweisen können! Als spielte hier das Bild selbst die Rolle der Wirklichkeit. – Aber so ist es doch nicht: denn aus dem Bild leite ich nun eine Regel ab. Und die verhält sich zum Bild nicht so, wie der Erfahrungssatz zur Wirklichkeit. – Das Bild zeigt natürlich nicht, daß das & das geschieht. Es zeigt nur daß, was geschieht _so_ aufgefaßt werden kann.
+<span class="series-number">5</span> Das seltsame ist ja, daß das Bild, nicht die Wirklichkeit, einen Satz soll erweisen können! Als spielte hier das Bild selbst die Rolle der Wirklichkeit. – Aber so ist es doch nicht: denn aus dem Bild leite ich nun eine Regel ab. Und die verhält sich zum Bild nicht so, wie der Erfahrungssatz zur Wirklichkeit. – Das Bild zeigt natürlich nicht, daß das & das geschieht. Es zeigt nur daß, was geschieht _so_ aufgefaßt werden kann.
 
 ### [Ms-164](/ms-164/#11.2) <span class="fac">[11\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/11.webp)</span> {#ms-164-112}
 
@@ -126,7 +126,7 @@ Sieh, so geben 3 und 2 5. Merke Dir diesen Vorgang. “Du merkst Dir dabei die R
 
 ### [Ms-164](/ms-164/#12.2+13.1) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/13.webp)</span> {#ms-164-122131}
 
-<span class="series-number">6.</span> Der Euklidische Beweis der Endlosigkeit der Primzahlenreihe könnte so geführt werden, daß die Untersuchung der Zahlen zwischen p und p! + 1 an einem Beispiel oder mehreren vorgeführt & uns so eine Technik der Untersuchung gelehrt würde. Die Kraft des Beweises läge dann natürlich nicht darin, daß in diesem Beispiel eine Primzahl > p gefunden würde. Und das ist, auf den ersten Blick, seltsam. Man wird nun sagen daß der algebraische Beweis strenger ist als der durch Beispiele, weil er sozusagen der Extrakt des wesentlichen Prinzips dieser Beispiele ist. Aber _eine_ Einkleidung enthält ja der algebraische Beweis auch. _Verstehen_ – könnte ich sagen – muß man beide!
+<span class="series-number">6</span> Der Euklidische Beweis der Endlosigkeit der Primzahlenreihe könnte so geführt werden, daß die Untersuchung der Zahlen zwischen p und p! + 1 an einem Beispiel oder mehreren vorgeführt & uns so eine Technik der Untersuchung gelehrt würde. Die Kraft des Beweises läge dann natürlich nicht darin, daß in diesem Beispiel eine Primzahl > p gefunden würde. Und das ist, auf den ersten Blick, seltsam. Man wird nun sagen daß der algebraische Beweis strenger ist als der durch Beispiele, weil er sozusagen der Extrakt des wesentlichen Prinzips dieser Beispiele ist. Aber _eine_ Einkleidung enthält ja der algebraische Beweis auch. _Verstehen_ – könnte ich sagen – muß man beide!
 
 ### [Ms-164](/ms-164/#13.2+14.1) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/13.webp),[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/14.webp)</span> {#ms-164-132141}
 
@@ -138,7 +138,7 @@ Wäre man nun hier geneigt zu sagen, der Beweis zeige uns _wie_ es eine unendlic
 
 ### [Ms-164](/ms-164/#15.2+16.1) <span class="fac">[15\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/15.webp),[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/16.webp)</span> {#ms-164-152161}
 
-<span class="series-number">7.</span> Der Zuschauer sieht den ganzen, eindrucksvollen Vorgang. Und er wird von etwas überzeugt; denn das ist ja der besondere Eindruck den er erhält. Er geht von dem Schauspiel, überzeugt von etwas. Überzeugt daß er mit andern Zahlen (z.B.) zum selben Ende kommen wird. Er wird bereit sein, das, wovon er überzeugt wurde, so & so auszusprechen. Überzeugt wovon? Von einer psychologischen Tatsache? –
+<span class="series-number">7</span> Der Zuschauer sieht den ganzen, eindrucksvollen Vorgang. Und er wird von etwas überzeugt; denn das ist ja der besondere Eindruck den er erhält. Er geht von dem Schauspiel, überzeugt von etwas. Überzeugt daß er mit andern Zahlen (z.B.) zum selben Ende kommen wird. Er wird bereit sein, das, wovon er überzeugt wurde, so & so auszusprechen. Überzeugt wovon? Von einer psychologischen Tatsache? –
 
 ### [Ms-164](/ms-164/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/16.webp)</span> {#ms-164-162}
 
@@ -182,7 +182,7 @@ Es muß so sein bedeutet, daß der Ausgang als dem Prozeß wesentlich erklärt w
 
 ### [Ms-164](/ms-164/#19.2) <span class="fac">[19\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/19.webp)</span> {#ms-164-192}
 
-<span class="series-number">8.</span> Dieses Muß zeigt daß er einen Begriff angenommen hat.
+<span class="series-number">8</span> Dieses Muß zeigt daß er einen Begriff angenommen hat.
 
 ### [Ms-164](/ms-164/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/19.webp)</span> {#ms-164-193}
 
@@ -196,7 +196,7 @@ Begriff heißt hier Methode. Im Gegensatz zu der Anwendung der Methode.
 
 ### [Ms-164](/ms-164/#20.2) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/20.webp)</span> {#ms-164-202}
 
-<span class="series-number">9.</span> Sieh _so_ gibt 50 und 50 100. Man hat etwa sukzessive fünf mal 10 zu 50 addiert.
+<span class="series-number">9</span> Sieh _so_ gibt 50 und 50 100. Man hat etwa sukzessive fünf mal 10 zu 50 addiert.
 
 Und man verfolgt das Anwachsen der Zahl bis sie zu 100 wird. Hier wird natürlich der beobachtete Vorgang ein Vorgang der Rechnung in irgendeiner Weise (auf dem Abakus, etwa), ein Beweis.
 
@@ -238,7 +238,7 @@ Und wenn das Kind nun zeigt, wie 3 + 2 5 geben, so zeigt es einen Vorgang, der a
 
 ### [Ms-164](/ms-164/#25.3+26.1) <span class="fac">[25\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/25.webp),[26\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/26.webp)</span> {#ms-164-253261}
 
-<span class="series-number">10.</span> Wie aber, wenn man den Schüler fragt: “Zeig mir, wie es unendlich viele Primzahlen gibt” – Hier ist die Grammatik zweifelhaft! Es ginge aber an zu sagen: “Zeig mir, inwiefern man sagen kann, es gäbe unendlich viele Primzahlen”.
+<span class="series-number">10</span> Wie aber, wenn man den Schüler fragt: “Zeig mir, wie es unendlich viele Primzahlen gibt” – Hier ist die Grammatik zweifelhaft! Es ginge aber an zu sagen: “Zeig mir, inwiefern man sagen kann, es gäbe unendlich viele Primzahlen”.
 
 ### [Ms-164](/ms-164/#26.2+27.1) <span class="fac">[26\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/26.webp),[27\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/27.webp)</span> {#ms-164-262271}
 
@@ -262,7 +262,7 @@ Aber ist das nicht so mit jeder Verifikation eines jeden Satzes?
 
 ### [Ms-164](/ms-164/#28.3+29.1+30.1) <span class="fac">[28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/28.webp),[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/29.webp),[30\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/30.webp)</span> {#ms-164-283291301}
 
-<span class="series-number">11.</span> Ich glaube: Nur in einem bestimmten großen Zusammenhang kann man überhaupt sagen es gäbe unendlich viele Primzahlen. D.h.: Es muß dazu schon eine ausgedehnte Technik des Rechnens mit den Kardinalzahlen geben. Nur innerhalb dieser Technik hat dieser Satz Sinn. Ein Beweis des Satzes gibt ihm seinen Platz im ganzen System der Rechnungen. Und dieser Platz kann nun auf mehr als eine Weise beschrieben werden, da ja das ganze komplizierte System im Hintergrund _doch_ vorausgesetzt wird.
+<span class="series-number">11</span> Ich glaube: Nur in einem bestimmten großen Zusammenhang kann man überhaupt sagen es gäbe unendlich viele Primzahlen. D.h.: Es muß dazu schon eine ausgedehnte Technik des Rechnens mit den Kardinalzahlen geben. Nur innerhalb dieser Technik hat dieser Satz Sinn. Ein Beweis des Satzes gibt ihm seinen Platz im ganzen System der Rechnungen. Und dieser Platz kann nun auf mehr als eine Weise beschrieben werden, da ja das ganze komplizierte System im Hintergrund _doch_ vorausgesetzt wird.
 
 ![](../graphics/164,29.svg)
 
@@ -278,11 +278,11 @@ Nimm an ein Erwachsener mit Intelligenz & Erfahrung hat nur die ersten Elemente 
 
 ### [Ms-164](/ms-164/#31.2+32.1) <span class="fac">[31\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/31.webp),[32\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/32.webp)</span> {#ms-164-312321}
 
-<span class="series-number">12.</span> Die Philosophie hat sich mit _der_ Versuchung des Mißverstehens auseinander zu setzen, die auf _dieser_ Stufe des Wissens bestehen. (Auf einer andern Stufe bestehen wieder neue.) Aber das macht das Philosophieren nicht leichter!
+<span class="series-number">12</span> Die Philosophie hat sich mit _der_ Versuchung des Mißverstehens auseinander zu setzen, die auf _dieser_ Stufe des Wissens bestehen. (Auf einer andern Stufe bestehen wieder neue.) Aber das macht das Philosophieren nicht leichter!
 
 ### [Ms-164](/ms-164/#32.2+33.1) <span class="fac">[32\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/32.webp),[33\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/33.webp)</span> {#ms-164-322331}
 
-<span class="series-number">13.</span> Ist es nun nicht absurd zu sagen, man verstehe den Sinn des Fermatschen Satzes nicht? – Nun, man könnte antworten: die Mathematiker stehen ja diesem Satz nicht _ganz_ ratlos gegenüber. Sie versuchen doch jedenfalls gewisse Methoden des Beweisens; und, sofern sie Methoden versuchen, _soweit_ verstehen sie den Satz. – Aber ist das richtig? _Verstehen_ sie ihn nicht so vollständig als man ihn nur verstehen kann?
+<span class="series-number">13</span> Ist es nun nicht absurd zu sagen, man verstehe den Sinn des Fermatschen Satzes nicht? – Nun, man könnte antworten: die Mathematiker stehen ja diesem Satz nicht _ganz_ ratlos gegenüber. Sie versuchen doch jedenfalls gewisse Methoden des Beweisens; und, sofern sie Methoden versuchen, _soweit_ verstehen sie den Satz. – Aber ist das richtig? _Verstehen_ sie ihn nicht so vollständig als man ihn nur verstehen kann?
 
 ### [Ms-164](/ms-164/#33.2) <span class="fac">[33\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/33.webp)</span> {#ms-164-332}
 
@@ -306,7 +306,7 @@ Erstens, es gibt so etwas wie: einen Satz zu verstehen _glauben_. Und ist Verste
 
 ### [Ms-164](/ms-164/#35.2) <span class="fac">[35\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/35.webp)</span> {#ms-164-352}
 
-<span class="series-number">14.</span> Ich werde Dir zeigen, wie es unendlich viele Primzahlen gibt, setzt einen Zustand voraus, in welchem der Satz, daß es unendlich viele Primzahlen gebe für den Andern keine, oder nur die vagste Bedeutung hatte. Es mochte für ihn nur ein Scherz oder ein Paradox sein.
+<span class="series-number">14</span> Ich werde Dir zeigen, wie es unendlich viele Primzahlen gibt, setzt einen Zustand voraus, in welchem der Satz, daß es unendlich viele Primzahlen gebe für den Andern keine, oder nur die vagste Bedeutung hatte. Es mochte für ihn nur ein Scherz oder ein Paradox sein.
 
 ### [Ms-164](/ms-164/#36.1+37.1) <span class="fac">[36\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/36.webp),[37\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/37.webp)</span> {#ms-164-361371}
 
@@ -314,7 +314,7 @@ Wenn dieser Vorgang Dich davon überzeugt dann muß er sehr eindrucksvoll sein. 
 
 ### [Ms-164](/ms-164/#37.2) <span class="fac">[37\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/37.webp)</span> {#ms-164-372}
 
-<span class="series-number">15.</span> ![](../graphics/164,37-1.svg)
+<span class="series-number">15</span> ![](../graphics/164,37-1.svg)
 
 Wir kopieren das Zeichen “2” rechts herum immer von dem zuletzt geschriebenen. Wenn wir richtig kopieren so ist das letzte Zeichen wieder eine Kopie des ersten.
 
@@ -374,7 +374,7 @@ Muß denn A überhaupt einen klaren Begriff davon haben ob seine Voraussage math
 
 ### [Ms-164](/ms-164/#45.2) <span class="fac">[45\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/45.webp)</span> {#ms-164-452}
 
-<span class="series-number">16.</span> – – – Und diese Reihe ist durch eine Regel definiert. Oder auch durch die Abrichtung zum Vorgehen nach der Regel. Und der unerbittliche Satz ist, daß nach dieser Regel diese Zahl auf diese folgt.
+<span class="series-number">16</span> – – – Und diese Reihe ist durch eine Regel definiert. Oder auch durch die Abrichtung zum Vorgehen nach der Regel. Und der unerbittliche Satz ist, daß nach dieser Regel diese Zahl auf diese folgt.
 
 ### [Ms-164](/ms-164/#45.3+46.1) <span class="fac">[45\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/45.webp),[46\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/46.webp)</span> {#ms-164-453461}
 
@@ -404,7 +404,7 @@ Der Satz ruht nun auf einem Fuß mehr, als der Erfahrungssatz der ihm gleich lau
 
 ### [Ms-164](/ms-164/#50.2) <span class="fac">[50\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/50.webp)</span> {#ms-164-502}
 
-<span class="series-number">17.</span> Wie beschreibt man den Vorgang des Lernens einer Regel? – Immer wenn A in die Hände klatscht soll B es auch tun.
+<span class="series-number">17</span> Wie beschreibt man den Vorgang des Lernens einer Regel? – Immer wenn A in die Hände klatscht soll B es auch tun.
 
 ### [Ms-164](/ms-164/#50.3) <span class="fac">[50\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/50.webp)</span> {#ms-164-503}
 
@@ -432,11 +432,11 @@ Ich sage ihm: “So ist es recht” & dieser Ausdruck ist der Träger eines Tone
 
 ### [Ms-164](/ms-164/#52.2) <span class="fac">[52\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/52.webp)</span> {#ms-164-522}
 
-<span class="series-number">18.</span> Heißt, was ich sage, daß ‘einer Regel folgen’ undefinierbar ist. Nein. Ich kann es doch auf unzählige Weisen definieren. Nur nützen _uns_ hier diese Definitionen nichts.
+<span class="series-number">18</span> Heißt, was ich sage, daß ‘einer Regel folgen’ undefinierbar ist. Nein. Ich kann es doch auf unzählige Weisen definieren. Nur nützen _uns_ hier diese Definitionen nichts.
 
 ### [Ms-164](/ms-164/#53.3+54.1) <span class="fac">[53\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/53.webp),[54\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/54.webp)</span> {#ms-164-533541}
 
-<span class="series-number">19.</span> Ich könnte ihn nun auch einen Befehl verstehen lehren von der Form
+<span class="series-number">19</span> Ich könnte ihn nun auch einen Befehl verstehen lehren von der Form
 
 (– · ·) → oder (– · · · –) →
 
@@ -456,7 +456,7 @@ zu folgen. Und wieder weiß ich selbst nicht mehr darüber was ich von ihm will,
 
 ### [Ms-164](/ms-164/#55.2) <span class="fac">[55\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/55.webp)</span> {#ms-164-552}
 
-<span class="series-number">20.</span> So habe ich also Einem etwa das Zählen & Multiplizieren im Dezimalsystem beigebracht. “365 × 428” ist ein Befehl & er befolgt ihn, indem er die Multiplikation ausführt.
+<span class="series-number">20</span> So habe ich also Einem etwa das Zählen & Multiplizieren im Dezimalsystem beigebracht. “365 × 428” ist ein Befehl & er befolgt ihn, indem er die Multiplikation ausführt.
 
 ### [Ms-164](/ms-164/#56.2) <span class="fac">[56\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/56.webp)</span> {#ms-164-562}
 
@@ -472,7 +472,7 @@ Ein weiteres Sprachspiel ist dieses: Er wird gefragt “wieviel ist “365 × 42
 
 ### [Ms-164](/ms-164/#57.2) <span class="fac">[57\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/57.webp)</span> {#ms-164-572}
 
-<span class="series-number">21.</span> Der Begriff ‘einer Regel folgen’ setzt eine Gepflogenheit voraus. Daher wäre es Unsinn, zu sagen: einmal in der Geschichte der Menschheit sei jemand einer Regel gefolgt. (Habe ein Spiel gespielt, einen Satz ausgesprochen oder einen verstanden; u.s.f.)
+<span class="series-number">21</span> Der Begriff ‘einer Regel folgen’ setzt eine Gepflogenheit voraus. Daher wäre es Unsinn, zu sagen: einmal in der Geschichte der Menschheit sei jemand einer Regel gefolgt. (Habe ein Spiel gespielt, einen Satz ausgesprochen oder einen verstanden; u.s.f.)
 
 ### [Ms-164](/ms-164/#57.3+58.1) <span class="fac">[57\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/58.webp)</span> {#ms-164-573581}
 
@@ -502,7 +502,7 @@ Das ist das Gerüst, von dem aus unsere Sprache wirkt (z.B. eine Beschreibung gi
 
 ### [Ms-164](/ms-164/#60.2) <span class="fac">[60\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/60.webp)</span> {#ms-164-602}
 
-<span class="series-number">22.</span> Es sagt nun jemand, daß in der Kardinalzahlenreihe, die der Regel “ + 1” gehorcht, welche Regel uns so & so beigebracht wurde, 450 auf 449 folgt. Das ist nun nicht der Erfahrungssatz, daß wir von 449 zu 450 kommen wenn es uns scheint wir hätten die Operation + 1 auf 449 angewandt. Vielmehr ist es die Bestimmung wir haben diese Operation nur dann angewandt wenn das Resultat 450 ist.
+<span class="series-number">22</span> Es sagt nun jemand, daß in der Kardinalzahlenreihe, die der Regel “ + 1” gehorcht, welche Regel uns so & so beigebracht wurde, 450 auf 449 folgt. Das ist nun nicht der Erfahrungssatz, daß wir von 449 zu 450 kommen wenn es uns scheint wir hätten die Operation + 1 auf 449 angewandt. Vielmehr ist es die Bestimmung wir haben diese Operation nur dann angewandt wenn das Resultat 450 ist.
 
 ### [Ms-164](/ms-164/#61.1) <span class="fac">[61\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/61.webp)</span> {#ms-164-611}
 
@@ -518,7 +518,7 @@ Der arithmetische Satz ist nicht der Erfahrungssatz: “wenn ich _das_ tue, so e
 
 ### [Ms-164](/ms-164/#63.2) <span class="fac">[63\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/63.webp)</span> {#ms-164-632}
 
-<span class="series-number">23.</span> Könnten wir uns nicht denken, daß es beim Multiplizieren hauptsächlich darauf ankäme den Geist in bestimmter Weise zu konzentrieren & daß dann zwar bei dem gleichen Ansatz nicht immer das Gleiche herauskommt aber für die bestimmten praktischen Probleme die wir lösen wollen gerade diese Verschiedenheiten des Resultats vorteilhaft wären.
+<span class="series-number">23</span> Könnten wir uns nicht denken, daß es beim Multiplizieren hauptsächlich darauf ankäme den Geist in bestimmter Weise zu konzentrieren & daß dann zwar bei dem gleichen Ansatz nicht immer das Gleiche herauskommt aber für die bestimmten praktischen Probleme die wir lösen wollen gerade diese Verschiedenheiten des Resultats vorteilhaft wären.
 
 ### [Ms-164](/ms-164/#63.3+64.1) <span class="fac">[63\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/63.webp),[64\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/64.webp)</span> {#ms-164-633641}
 
@@ -542,7 +542,7 @@ Du verstehst von der Regel selbst nicht mehr als Du erklären kannst.
 
 ### [Ms-164](/ms-164/#67.4+68.1) <span class="fac">[67\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/67.webp),[68\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/68.webp)</span> {#ms-164-674681}
 
-<span class="series-number">24.</span> “Ich habe einen bestimmten Begriff von der Regel. Wenn man ihr in diesem Sinne folgt, so kann man von dieser Zahl nur zu dieser kommen.” Das ist eine spontane Entscheidung.
+<span class="series-number">24</span> “Ich habe einen bestimmten Begriff von der Regel. Wenn man ihr in diesem Sinne folgt, so kann man von dieser Zahl nur zu dieser kommen.” Das ist eine spontane Entscheidung.
 
 ### [Ms-164](/ms-164/#68.2) <span class="fac">[68\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/68.webp)</span> {#ms-164-682}
 
@@ -570,7 +570,7 @@ Wir sagen: “Zuerst muß richtig gerechnet sein, dann wird sich zeigen was die 
 
 ### [Ms-164](/ms-164/#72.2+73.1) <span class="fac">[72\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/72.webp),[73\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/73.webp)</span> {#ms-164-722731}
 
-<span class="series-number">25.</span> Es hat einer die Regel des Zählens im Dezimalsystem gelernt. Jetzt vergnügt er sich damit Zahl auf Zahl der “natürlichen Zahlenreihe” hinzuschreiben.
+<span class="series-number">25</span> Es hat einer die Regel des Zählens im Dezimalsystem gelernt. Jetzt vergnügt er sich damit Zahl auf Zahl der “natürlichen Zahlenreihe” hinzuschreiben.
 
 Oder er befolgt den Befehl im Sprachspiel “schreibe den Nachfolger der Zahl … in der Reihe … hin”. – Wie kann ich dieses Sprachspiel jemandem erklären? Nun, ich kann ein Beispiel (oder Beispiele) beschreiben. – Um zu sehen, ob er das Sprachspiel verstanden hat, kann ich ihn Beispiele rechnen lassen.
 
@@ -584,7 +584,7 @@ Wir können die Übereinstimmung in allen Fragen des Rechnens als gegeben annehm
 
 ### [Ms-164](/ms-164/#75.2) <span class="fac">[75\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/75.webp)</span> {#ms-164-752}
 
-<span class="series-number">26.</span> Würden wir denn die Regel 25² = 625 anerkennen wenn wir nicht Alle immer zu diesem Resultat kämen? Nun, warum sollen wir dann nicht den Erfahrungssatz statt der Regel benutzen können? – Ist die Antwort hierauf: weil das Gegenteil des Erfahrungssatzes nicht dem Gegenteil der Regel entspricht.
+<span class="series-number">26</span> Würden wir denn die Regel 25² = 625 anerkennen wenn wir nicht Alle immer zu diesem Resultat kämen? Nun, warum sollen wir dann nicht den Erfahrungssatz statt der Regel benutzen können? – Ist die Antwort hierauf: weil das Gegenteil des Erfahrungssatzes nicht dem Gegenteil der Regel entspricht.
 
 ### [Ms-164](/ms-164/#75.3+76.1) <span class="fac">[75\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/75.webp),[76\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/76.webp)</span> {#ms-164-753761}
 
@@ -608,7 +608,7 @@ Nun ich kann es tun. Ich könnte ihr z.B. abwechselnd eine von zwei Interpretati
 
 ### [Ms-164](/ms-164/#78.3) <span class="fac">[78\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/78.webp)</span> {#ms-164-783}
 
-<span class="series-number">27.</span> Habe ich einmal eine Regel aufgefaßt, so bin ich nun in meinem Fortschreiten _gebunden_. Aber das heißt natürlich nur, ich bin in meinem _Urteilen_ gebunden darüber, was der Regel gemäß ist, & was nicht.
+<span class="series-number">27</span> Habe ich einmal eine Regel aufgefaßt, so bin ich nun in meinem Fortschreiten _gebunden_. Aber das heißt natürlich nur, ich bin in meinem _Urteilen_ gebunden darüber, was der Regel gemäß ist, & was nicht.
 
 ### [Ms-164](/ms-164/#78.4+79.1) <span class="fac">[78\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/78.webp),[79\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/79.webp)</span> {#ms-164-784791}
 
@@ -624,7 +624,7 @@ Wann sage ich denn, ich sehe die Regel – oder eine Regel – in dieser Folge. 
 
 ### [Ms-164](/ms-164/#80.2+81.1) <span class="fac">[80\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/80.webp),[81\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/81.webp)</span> {#ms-164-802811}
 
-<span class="series-number">28.</span> Jemand fragt mich: “was ist die Farbe dieser Blume.” Ich antworte: “rot”. – Bist Du absolut sicher? Ja, absolut sicher! Aber konnte ich mich nicht täuschen & die falsche Farbe “rot” nennen? Nein. Die Sicherheit mit der ich die Farbe “rot” benenne ist die Starrheit des Maßstabs, ist die Starrheit von der ich ausgehe. Sie ist in meiner Beschreibung nicht in Zweifel zu ziehen. Dies charakterisiert eben, was wir beschreiben nennen. (Ich kann natürlich auch hier ein Versprechen annehmen, aber nichts anderes.)
+<span class="series-number">28</span> Jemand fragt mich: “was ist die Farbe dieser Blume.” Ich antworte: “rot”. – Bist Du absolut sicher? Ja, absolut sicher! Aber konnte ich mich nicht täuschen & die falsche Farbe “rot” nennen? Nein. Die Sicherheit mit der ich die Farbe “rot” benenne ist die Starrheit des Maßstabs, ist die Starrheit von der ich ausgehe. Sie ist in meiner Beschreibung nicht in Zweifel zu ziehen. Dies charakterisiert eben, was wir beschreiben nennen. (Ich kann natürlich auch hier ein Versprechen annehmen, aber nichts anderes.)
 
 ### [Ms-164](/ms-164/#81.2) <span class="fac">[81\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/81.webp)</span> {#ms-164-812}
 
@@ -640,7 +640,7 @@ Ist 25² = 625 eine Erfahrungstatsache? Du möchtest sagen: “Nein”. – Waru
 
 ### [Ms-164](/ms-164/#83.1) <span class="fac">[83\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/83.webp)</span> {#ms-164-831}
 
-<span class="series-number">29.</span> Wenn wir die Multiplikation ausführen, so legen wir ein Gesetz nieder. Was ist aber der Unterschied zwischen dem Gesetz & dem Erfahrungssatz: daß wir dieses Gesetz geben?
+<span class="series-number">29</span> Wenn wir die Multiplikation ausführen, so legen wir ein Gesetz nieder. Was ist aber der Unterschied zwischen dem Gesetz & dem Erfahrungssatz: daß wir dieses Gesetz geben?
 
 ### [Ms-164](/ms-164/#83.2+84.1) <span class="fac">[83\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/83.webp),[84\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/84.webp)</span> {#ms-164-832841}
 
@@ -684,7 +684,7 @@ Einer Transformationsregel folgen ist nicht problematischer als der Regel folgen
 
 ### [Ms-164](/ms-164/#86.3+87.1) <span class="fac">[86\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/86.webp),[87\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/87.webp)</span> {#ms-164-863871}
 
-<span class="series-number">30.</span> Man könnte doch fragen: Wenn alle Menschen, die so erzogen sind ohnehin _so_ rechnen, oder sich doch wenigstens auf _diese_ Rechnung als die richtige einigen; wozu braucht man das _Gesetz_?
+<span class="series-number">30</span> Man könnte doch fragen: Wenn alle Menschen, die so erzogen sind ohnehin _so_ rechnen, oder sich doch wenigstens auf _diese_ Rechnung als die richtige einigen; wozu braucht man das _Gesetz_?
 
 ### [Ms-164](/ms-164/#87.2) <span class="fac">[87\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/87.webp)</span> {#ms-164-872}
 
@@ -716,7 +716,7 @@ Angenommen er befiehlt mir der Regel zu folgen & ich fürchte mich ihm nicht zu 
 
 ### [Ms-164](/ms-164/#90.3+91.1+92.1) <span class="fac">[90\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/90.webp),[91\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/91.webp),[92\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/92.webp)</span> {#ms-164-903911921}
 
-<span class="series-number">31.</span> Wie weit kann man die Funktion der Sprache beschreiben? Wer eine Sprache nicht beherrscht, den kann ich zu ihrer Beherrschung abrichten. Wer sie beherrscht, dem kann ich die Art & Weise der Abrichtung in die Erinnerung rufen, oder beschreiben; zu einem besonderen Zweck; indem ich also schon die Technik des Beschreibens verwende. Wie weit kann man die Funktion der Regel beschreiben? Wer noch keine beherrscht den kann ich nur abrichten. Aber wie kann ich mir selbst das Wie der Regel erklären? Das Schwere ist hier nicht bis auf den Grund zu graben, sondern den Grund, der vor uns liegt, als Grund zu erkennen.
+<span class="series-number">31</span> Wie weit kann man die Funktion der Sprache beschreiben? Wer eine Sprache nicht beherrscht, den kann ich zu ihrer Beherrschung abrichten. Wer sie beherrscht, dem kann ich die Art & Weise der Abrichtung in die Erinnerung rufen, oder beschreiben; zu einem besonderen Zweck; indem ich also schon die Technik des Beschreibens verwende. Wie weit kann man die Funktion der Regel beschreiben? Wer noch keine beherrscht den kann ich nur abrichten. Aber wie kann ich mir selbst das Wie der Regel erklären? Das Schwere ist hier nicht bis auf den Grund zu graben, sondern den Grund, der vor uns liegt, als Grund zu erkennen.
 
 ### [Ms-164](/ms-164/#92.2) <span class="fac">[92\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/92.webp)</span> {#ms-164-922}
 
@@ -732,7 +732,7 @@ Unsere Krankheit ist die, erklären zu wollen.
 
 ### [Ms-164](/ms-164/#93.1) <span class="fac">[93\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/93.webp)</span> {#ms-164-931}
 
-<span class="series-number">32.</span> Welche Öffentlichkeit gehört wesentlich dazu, daß ein Spiel existiere, daß ein Spiel erfunden werden kann?
+<span class="series-number">32</span> Welche Öffentlichkeit gehört wesentlich dazu, daß ein Spiel existiere, daß ein Spiel erfunden werden kann?
 
 ### [Ms-164](/ms-164/#93.2) <span class="fac">[93\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/93.webp)</span> {#ms-164-932}
 
@@ -760,7 +760,7 @@ Ein Spiel, eine Sprache, eine Regel, ist eine Institution.
 
 ### [Ms-164](/ms-164/#96.2+97.1+98.1) <span class="fac">[96\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/96.webp),[97\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/97.webp),[98\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp)</span> {#ms-164-962971981}
 
-<span class="series-number">33.</span> Aber könnten wir uns nicht denken, daß jemand ohne jede Abrichtung sich beim Anblick einer Rechenaufgabe in dem Seelenzustand befindet, der normalerweise nur das Resultat von Abrichtung & Übung ist? So daß _er_ also wüßte, er könne rechnen, obwohl er nie gerechnet hat. (Man könnte also scheint es sagen: die Abrichtung wäre nur Geschichte, & nur erfahrungsgemäß zur Hervorbringung des Wissens notwendig.) – Aber wenn er nun im Zustand jener Gewißheit ist und dann falsch multipliziert. Was soll er selbst nun sagen? Und nehmen wir an er multiplizierte dann einmal richtig, einmal wieder ganz falsch. – Die Abrichtung kann freilich als bloße Geschichte vernachlässigt werden wenn er nun stets richtig multipliziert. Aber rechnen _können_ heißt für die Andern sowie auch für ihn selbst: richtig rechnen.
+<span class="series-number">33</span> Aber könnten wir uns nicht denken, daß jemand ohne jede Abrichtung sich beim Anblick einer Rechenaufgabe in dem Seelenzustand befindet, der normalerweise nur das Resultat von Abrichtung & Übung ist? So daß _er_ also wüßte, er könne rechnen, obwohl er nie gerechnet hat. (Man könnte also scheint es sagen: die Abrichtung wäre nur Geschichte, & nur erfahrungsgemäß zur Hervorbringung des Wissens notwendig.) – Aber wenn er nun im Zustand jener Gewißheit ist und dann falsch multipliziert. Was soll er selbst nun sagen? Und nehmen wir an er multiplizierte dann einmal richtig, einmal wieder ganz falsch. – Die Abrichtung kann freilich als bloße Geschichte vernachlässigt werden wenn er nun stets richtig multipliziert. Aber rechnen _können_ heißt für die Andern sowie auch für ihn selbst: richtig rechnen.
 
 ### [Ms-164](/ms-164/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp)</span> {#ms-164-982}
 
@@ -768,7 +768,7 @@ Was wir, in einer komplizierten Umgebung “einer Regel folgen” nennen, würde
 
 ### [Ms-164](/ms-164/#98.3) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp)</span> {#ms-164-983}
 
-<span class="series-number">34.</span> Die Sprache, möchte ich sagen, bezieht sich auf eine Lebens**weise**.
+<span class="series-number">34</span> Die Sprache, möchte ich sagen, bezieht sich auf eine Lebens**weise**.
 
 ### [Ms-164](/ms-164/#98.4+99.1) <span class="fac">[98\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/99.webp)</span> {#ms-164-984991}
 
@@ -792,7 +792,7 @@ Und angenommen, sie täten etwas, was wir geneigt wären “Rechnen” zu nennen
 
 ### [Ms-164](/ms-164/#102.3+103.1) <span class="fac">[102\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/102.webp),[103\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/103.webp)</span> {#ms-164-10231031}
 
-<span class="series-number">35.</span> Wie weiß ich daß die Farbe die ich jetzt sehe “grün” heißt? Nun, zur Bestätigung könnte ich andere Leute fragen; aber wenn sie mit mir nicht übereinstimmten würde ich gänzlich verwirrt sein & vielleicht sie oder mich für verrückt halten. D.h. entweder mich nicht mehr zu urteilen trauen, oder auf das was sie sagen nicht mehr wie auf ein Urteil reagieren. Wenn ich ertrinke & “Hilfe!” rufe, wie weiß ich was das Wort “Hilfe” bedeutet? Nun, so reagiere ich in dieser Situation. – Nun _so_ weiß ich auch was “grün” heißt & auch wie ich die Regel in dem besondern Fall zu befolgen habe.
+<span class="series-number">35</span> Wie weiß ich daß die Farbe die ich jetzt sehe “grün” heißt? Nun, zur Bestätigung könnte ich andere Leute fragen; aber wenn sie mit mir nicht übereinstimmten würde ich gänzlich verwirrt sein & vielleicht sie oder mich für verrückt halten. D.h. entweder mich nicht mehr zu urteilen trauen, oder auf das was sie sagen nicht mehr wie auf ein Urteil reagieren. Wenn ich ertrinke & “Hilfe!” rufe, wie weiß ich was das Wort “Hilfe” bedeutet? Nun, so reagiere ich in dieser Situation. – Nun _so_ weiß ich auch was “grün” heißt & auch wie ich die Regel in dem besondern Fall zu befolgen habe.
 
 ### [Ms-164](/ms-164/#104.1+105.1) <span class="fac">[104\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/104.webp),[105\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/105.webp)</span> {#ms-164-10411051}
 
@@ -812,7 +812,7 @@ parallele Pfeile nenne; & daß es mir nicht auffällt, daß ich eine andere Ansc
 
 ### [Ms-164](/ms-164/#106.1) <span class="fac">[106\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/106.webp)</span> {#ms-164-1061}
 
-<span class="series-number">36.</span> Was ist das für ein Satz: “das Wort ‘OBEN’ hat vier Buchstaben”? Ist es ein Erfahrungssatz?
+<span class="series-number">36</span> Was ist das für ein Satz: “das Wort ‘OBEN’ hat vier Buchstaben”? Ist es ein Erfahrungssatz?
 
 ### [Ms-164](/ms-164/#106.2) <span class="fac">[106\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/106.webp)</span> {#ms-164-1062}
 
@@ -876,7 +876,7 @@ Statt “Das Wort … hat … Laute – im zeitlosen Sinne” könnte man auch s
 
 ### [Ms-164](/ms-164/#113.3) <span class="fac">[113\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/113.webp)</span> {#ms-164-1133}
 
-<span class="series-number">37.</span> p❘p ∙ ❘ ∙ q❘q = p ∙ q
+<span class="series-number">37</span> p❘p ∙ ❘ ∙ q❘q = p ∙ q
 
 p ❘ q ∙ ❘ ∙ p ❘ q = p⌵q
 
@@ -892,7 +892,7 @@ Ich kann z.B. einen Satz beweisen indem ich durch Farben andeute, daß er die Fo
 
 ### [Ms-164](/ms-164/#114.3+115.1) <span class="fac">[114\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/114.webp),[115\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/115.webp)</span> {#ms-164-11431151}
 
-<span class="series-number">38.</span> “Ich weiß, wie ich zu gehen habe” heißt: ich zweifle nicht, wie ich zu gehen habe.
+<span class="series-number">38</span> “Ich weiß, wie ich zu gehen habe” heißt: ich zweifle nicht, wie ich zu gehen habe.
 
 ### [Ms-164](/ms-164/#115.2) <span class="fac">[115\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/115.webp)</span> {#ms-164-1152}
 
@@ -928,7 +928,7 @@ Das Deuten hat ein Ende.
 
 ### [Ms-164](/ms-164/#118.3+119.1) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/118.webp),[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/119.webp)</span> {#ms-164-11831191}
 
-<span class="series-number">39.</span> Es ist wahr alles ließe sich irgendwie rechtfertigen. Aber das Phänomen der Sprache beruht auf der Übereinstimmung im Handeln . Es ist von der größten Wichtigkeit daß wir alle, oder die ungeheure Mehrzahl in gewissen Dingen übereinstimmen. Ich kann z.B. ganz sicher sein, daß die Farbe dieses Gegenstandes von den aller meisten Menschen die ihn sehen ‘grün’ genannt wird.
+<span class="series-number">39</span> Es ist wahr alles ließe sich irgendwie rechtfertigen. Aber das Phänomen der Sprache beruht auf der Übereinstimmung im Handeln . Es ist von der größten Wichtigkeit daß wir alle, oder die ungeheure Mehrzahl in gewissen Dingen übereinstimmen. Ich kann z.B. ganz sicher sein, daß die Farbe dieses Gegenstandes von den aller meisten Menschen die ihn sehen ‘grün’ genannt wird.
 
 ### [Ms-164](/ms-164/#119.2+120.1) <span class="fac">[119\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/119.webp),[120\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/120.webp)</span> {#ms-164-11921201}
 
@@ -940,7 +940,7 @@ Wir sagen, die Menschen um sich miteinander zu verständigen müßten über die 
 
 ### [Ms-164](/ms-164/#121.2+122.1) <span class="fac">[121\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/121.webp),[122\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/122.webp)</span> {#ms-164-12121221}
 
-<span class="series-number">40.</span> Das Sprachspiel (2), wie kann ich es jemandem oder mir selbst erklären? Wenn immer A. “Platte” ruft bringt B. _diese_ Art Gegenstand. – Ich könnte auch fragen wie kann _ich_ es verstehen? Nun, _nur_ sofern ich es erklären kann.
+<span class="series-number">40</span> Das Sprachspiel (2), wie kann ich es jemandem oder mir selbst erklären? Wenn immer A. “Platte” ruft bringt B. _diese_ Art Gegenstand. – Ich könnte auch fragen wie kann _ich_ es verstehen? Nun, _nur_ sofern ich es erklären kann.
 
 ### [Ms-164](/ms-164/#122.2) <span class="fac">[122\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/122.webp)</span> {#ms-164-1222}
 
@@ -948,7 +948,7 @@ Aber es gibt hier eine eigentümliche Versuchung die sich darin ausdrückt, daß
 
 ### [Ms-164](/ms-164/#122.4+123.1) <span class="fac">[122\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/122.webp),[123\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/123.webp)</span> {#ms-164-12241231}
 
-<span class="series-number">41.</span> Das Wort “Übereinstimmung” & das Wort “Regel” sind mit einander _verwandt_, sie sind Vettern. Das Phänomen des Übereinstimmens & des Handelns nach einer Regel hängen zusammen.
+<span class="series-number">41</span> Das Wort “Übereinstimmung” & das Wort “Regel” sind mit einander _verwandt_, sie sind Vettern. Das Phänomen des Übereinstimmens & des Handelns nach einer Regel hängen zusammen.
 
 ### [Ms-164](/ms-164/#123.2+124.1) <span class="fac">[123\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/123.webp),[124\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/124.webp)</span> {#ms-164-12321241}
 
@@ -978,7 +978,7 @@ Wenn eine Drossel in ihrem Gesang die gleiche Phrase stets einige Male wiederhol
 
 ### [Ms-164](/ms-164/#125.3+126.1) <span class="fac">[125\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/125.webp),[126\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/126.webp)</span> {#ms-164-12531261}
 
-<span class="series-number">42.</span> – · ·
+<span class="series-number">42</span> – · ·
 
 Betrachten wir sehr einfache Regeln. Der Regelausdruck sei eine Figur, etwa die:
 
@@ -994,7 +994,7 @@ Wenn von zwei Schimpansen der eine einmal die Figur ∣– –∣ in den Lehmbod
 
 ### [Ms-164](/ms-164/#128.2) <span class="fac">[128\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/128.webp)</span> {#ms-164-1282}
 
-<span class="series-number">43.</span> Wie aber, wenn sich schon beim ersten Male der eine Schimpanse _vorgenommen_ hätte diesen Vorgang zu wiederholen den andern zu unterrichten? Nur in einer bestehenden Technik des Handelns, Sprechens, Denkens, kann Einer sich etwas vornehmen. (Dies ist ein grammatischer Satz.)
+<span class="series-number">43</span> Wie aber, wenn sich schon beim ersten Male der eine Schimpanse _vorgenommen_ hätte diesen Vorgang zu wiederholen den andern zu unterrichten? Nur in einer bestehenden Technik des Handelns, Sprechens, Denkens, kann Einer sich etwas vornehmen. (Dies ist ein grammatischer Satz.)
 
 ### [Ms-164](/ms-164/#128.3+129.1) <span class="fac">[128\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/128.webp),[129\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/129.webp)</span> {#ms-164-12831291}
 
@@ -1022,7 +1022,7 @@ Der Begriff “regelmäßiges Klopfen”, “regelmäßige Figur” wird uns so 
 
 ### [Ms-164](/ms-164/#132.3+133.1) <span class="fac">[132\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/132.webp),[133\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/133.webp)</span> {#ms-164-13231331}
 
-<span class="series-number">44.</span> Aber werden wir nicht von der Regel geführt? Und wie kann sie uns führen da ihr Ausdruck doch von uns so und anders gedeutet werden kann? D.h. da doch verschiedene Regelmäßigkeiten ihm entsprechen. Nun wir sind geneigt zu sagen ein Ausdruck der Regel führe uns, wir sind also geneigt diese Metapher zu gebrauchen.
+<span class="series-number">44</span> Aber werden wir nicht von der Regel geführt? Und wie kann sie uns führen da ihr Ausdruck doch von uns so und anders gedeutet werden kann? D.h. da doch verschiedene Regelmäßigkeiten ihm entsprechen. Nun wir sind geneigt zu sagen ein Ausdruck der Regel führe uns, wir sind also geneigt diese Metapher zu gebrauchen.
 
 ### [Ms-164](/ms-164/#133.2+134.1) <span class="fac">[133\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/133.webp),[134\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/134.webp)</span> {#ms-164-13321341}
 
@@ -1042,7 +1042,7 @@ Nun ich könnte das eine andre Art der Gleichmäßigkeit nennen.
 
 ### [Ms-164](/ms-164/#136.2+137.1) <span class="fac">[136\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/136.webp),[137\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/137.webp)</span> {#ms-164-13621371}
 
-<span class="series-number">45.</span> Wie aber wenn es einen Stamm gäbe dessen Leute scheinbar für eine Art von Regelmäßigkeit Verständnis hätten die ich nicht begreife. Es gäbe nämlich bei diesen auch ein Lernen einen Unterricht ganz analog dem im § …. Sieht man ihnen zu, so würde man sagen, sie folgen Regeln, lernen Regeln folgen. Der Unterricht bewirkt z.B. Übereinstimmung im Handeln der Schüler & Lehrer. Schauen wir aber eine ihrer Figurenreihen an so sehen wir keinerlei Regelmäßigkeit.
+<span class="series-number">45</span> Wie aber wenn es einen Stamm gäbe dessen Leute scheinbar für eine Art von Regelmäßigkeit Verständnis hätten die ich nicht begreife. Es gäbe nämlich bei diesen auch ein Lernen einen Unterricht ganz analog dem im § …. Sieht man ihnen zu, so würde man sagen, sie folgen Regeln, lernen Regeln folgen. Der Unterricht bewirkt z.B. Übereinstimmung im Handeln der Schüler & Lehrer. Schauen wir aber eine ihrer Figurenreihen an so sehen wir keinerlei Regelmäßigkeit.
 
 ### [Ms-164](/ms-164/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/137.webp)</span> {#ms-164-1372}
 
@@ -1082,7 +1082,7 @@ Könnten zwei Menschen miteinander Handel treiben?
 
 ### [Ms-164](/ms-164/#141.1) <span class="fac">[141\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/141.webp)</span> {#ms-164-1411}
 
-<span class="series-number">46.</span> Wenn ich sage: “wenn Du der Regel folgst _muß_ das herauskommen” so heißt das nicht: es muß, weil es immer herausgekommen ist; sondern: daß es herauskommt ist eine meiner _Grundlagen_.
+<span class="series-number">46</span> Wenn ich sage: “wenn Du der Regel folgst _muß_ das herauskommen” so heißt das nicht: es muß, weil es immer herausgekommen ist; sondern: daß es herauskommt ist eine meiner _Grundlagen_.
 
 ### [Ms-164](/ms-164/#141.2) <span class="fac">[141\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/141.webp)</span> {#ms-164-1412}
 
@@ -1094,7 +1094,7 @@ Bei welcher Gelegenheit wird man sagen: “wenn Du der Regel folgst _muß_ das h
 
 ### [Ms-164](/ms-164/#142.2+143.1) <span class="fac">[142\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/142.webp),[143\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/143.webp)</span> {#ms-164-14221431}
 
-<span class="series-number">47.</span> “Ich weiß doch bei jedem Schritt absolut, was ich zu tun habe; was die Regel von mir fordert. Die Regel, wie ich sie auffasse. Ich denke nicht hin & her. Das Bild der Regel macht es klar, wie das Bild der Reihe fortzusetzen ist. Ich weiß doch bei jedem Schritt, was ich zu tun habe. Ich sehe es ganz klar vor mir. Es mag langweilig sein, aber es ist kein Zweifel, was ich zu tun habe.” Woher diese Sicherheit? Aber warum frage ich dies? Ist es nicht genug, daß diese Sicherheit existiert. Wozu brauche ich noch eine Quelle für sie? (Und _Ursachen_ für sie kann ich ja angeben.)
+<span class="series-number">47</span> “Ich weiß doch bei jedem Schritt absolut, was ich zu tun habe; was die Regel von mir fordert. Die Regel, wie ich sie auffasse. Ich denke nicht hin & her. Das Bild der Regel macht es klar, wie das Bild der Reihe fortzusetzen ist. Ich weiß doch bei jedem Schritt, was ich zu tun habe. Ich sehe es ganz klar vor mir. Es mag langweilig sein, aber es ist kein Zweifel, was ich zu tun habe.” Woher diese Sicherheit? Aber warum frage ich dies? Ist es nicht genug, daß diese Sicherheit existiert. Wozu brauche ich noch eine Quelle für sie? (Und _Ursachen_ für sie kann ich ja angeben.)
 
 ### [Ms-164](/ms-164/#144.1) <span class="fac">[144\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/144.webp)</span> {#ms-164-1441}
 
@@ -1118,7 +1118,7 @@ Die Sprache ist eben ein Phänomen des menschlichen Benehmens.
 
 ### [Ms-164](/ms-164/#146.2) <span class="fac">[146\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/146.webp)</span> {#ms-164-1462}
 
-<span class="series-number">48.</span> Der Eine macht eine gebietende Handbewegung, als wollte er sagen “geh!”. Der Andre mit dem Ausdruck der Furcht schleicht sich fort. Könnte ich diesen Vorgang, auch wenn er nur einmal geschähe, nicht “Befehlen und Gehorchen” nennen?
+<span class="series-number">48</span> Der Eine macht eine gebietende Handbewegung, als wollte er sagen “geh!”. Der Andre mit dem Ausdruck der Furcht schleicht sich fort. Könnte ich diesen Vorgang, auch wenn er nur einmal geschähe, nicht “Befehlen und Gehorchen” nennen?
 
 ### [Ms-164](/ms-164/#146.3+147.1) <span class="fac">[146\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/146.webp),[147\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/147.webp)</span> {#ms-164-14631471}
 
@@ -1138,7 +1138,7 @@ Was ist der Unterschied zwischen falsch schließen & nicht schließen; zwischen 
 
 ### [Ms-164](/ms-164/#149.3+150.1) <span class="fac">[149\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/149.webp),[150\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/150.webp)</span> {#ms-164-14931501}
 
-<span class="series-number">49.</span> Was Du sagst scheint darauf hinauszukommen, daß die Logik zur Naturgeschichte des Menschen gehört. Und das ist nicht vereinbar mit der Härte des logischen Muß.
+<span class="series-number">49</span> Was Du sagst scheint darauf hinauszukommen, daß die Logik zur Naturgeschichte des Menschen gehört. Und das ist nicht vereinbar mit der Härte des logischen Muß.
 
 ### [Ms-164](/ms-164/#150.2+151.1) <span class="fac">[150\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/150.webp),[151\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/151.webp)</span> {#ms-164-15021511}
 

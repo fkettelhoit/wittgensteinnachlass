@@ -30,10 +30,8 @@ for src in "$OUTPUT_DIR"/*.md; do
       echo ""
       # Rewrite relative markdown links to Hugo permalinks:
       # (Ms-175.md) → (/ms-175/)
-      # Also escape ordered list patterns (number. ) so remarks aren't turned into lists
       tail -n +2 "$src" \
-        | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge' \
-        | perl -pe 's/^(\d+)\. /$1\\. /'
+        | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge'
     } > "$CONTENT_DIR/_index.md"
     continue
   fi
@@ -76,8 +74,7 @@ for src in "$OUTPUT_DIR"/*.md; do
     fi
     echo "---"
     echo ""
-    # Escape ordered list patterns (number. ) so remarks aren't turned into lists
-    tail -n +0 "$src" | perl -pe 's/^(\d+)\. /$1\\. /'
+    cat "$src"
   } > "$CONTENT_DIR/$filename"
 done
 
@@ -109,8 +106,7 @@ if [ -f "$ALL_SRC" ]; then
     echo ""
     # Rewrite markdown links: (Ms-175.md) → (/ms-175/)
     tail -n +2 "$ALL_SRC" \
-      | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge' \
-      | perl -pe 's/^(\d+)\. /$1\\. /'
+      | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge'
   } > "$CONTENT_DIR/all/_index.md"
 fi
 
@@ -157,8 +153,7 @@ ENINDEX
       echo "layout: bilingual"
       echo "---"
       echo ""
-      python3 "$SCRIPT_DIR/merge_bilingual.py" "$de_src" "$en_src" \
-        | perl -pe 's/^(\d+)\. /$1\\. /'
+      python3 "$SCRIPT_DIR/merge_bilingual.py" "$de_src" "$en_src"
     } > "$EN_CONTENT_DIR/$filename"
 
     en_count=$((en_count + 1))

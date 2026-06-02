@@ -10,7 +10,7 @@
 
 ### [Ms-144](/ms-144/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)</span> {#ms-144-1r1}
 
-<span class="series-number">i.</span> Man kann sich ein Tier zornig, furchtsam, traurig, freudig, erschrocken vorstellen. Aber hoffend? Und warum nicht? Der Hund glaubt, sein Herr sei an der Tür. Aber kann er auch glauben, sein Herr werde übermorgen kommen? – Und _was_ kann er nun nicht? – Wie mache denn ich's? – Was soll ich darauf antworten? Kann nur hoffen, wer sprechen kann? Nur der, der die Verwendung einer Sprache beherrscht. D.h., die Erscheinungen des Hoffens sind Modifikationen dieser komplizierten Lebensform. (Wenn ein Begriff auf einen Charakter der menschlichen Handschrift abzielt, dann hat er keine Anwendung auf Wesen, welche nicht schreiben.)
+<span class="series-number">i</span> Man kann sich ein Tier zornig, furchtsam, traurig, freudig, erschrocken vorstellen. Aber hoffend? Und warum nicht? Der Hund glaubt, sein Herr sei an der Tür. Aber kann er auch glauben, sein Herr werde übermorgen kommen? – Und _was_ kann er nun nicht? – Wie mache denn ich's? – Was soll ich darauf antworten? Kann nur hoffen, wer sprechen kann? Nur der, der die Verwendung einer Sprache beherrscht. D.h., die Erscheinungen des Hoffens sind Modifikationen dieser komplizierten Lebensform. (Wenn ein Begriff auf einen Charakter der menschlichen Handschrift abzielt, dann hat er keine Anwendung auf Wesen, welche nicht schreiben.)
 
 ### [Ms-144](/ms-144/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/1r.webp)</span> {#ms-144-1r2}
 
@@ -34,7 +34,7 @@ Denn denk Dir die Empfindungen hervorgerufen durch die _Gebärden_ des Grauns: d
 
 ### [Ms-144](/ms-144/#4r.1) <span class="fac">[4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)</span> {#ms-144-4r1}
 
-<span class="series-number">ii.</span> Mit seinen Worten “Als ich das Wort hörte, bedeutete es für mich …” bezieht er sich auf einen _Zeitpunkt_ & auf eine _Art der Wortverwendung_. (Was wir nicht begreifen, ist natürlich diese Kombination.) Und der Ausdruck “Ich wollte damals sagen …” bezieht sich auf einen _Zeitpunkt_ & auf eine _Handlung_. Ich rede von den wesentlichen _Bezügen_ der Äußerung, um sie von andern Besonderheiten unsres Ausdrucks abzulösen. Und wesentlich sind der Äußerung die Bezüge, die uns veranlassen würden, eine im übrigen uns fremde Ausdrucksweise in diese bei uns gebräuchliche Form zu übersetzen.
+<span class="series-number">ii</span> Mit seinen Worten “Als ich das Wort hörte, bedeutete es für mich …” bezieht er sich auf einen _Zeitpunkt_ & auf eine _Art der Wortverwendung_. (Was wir nicht begreifen, ist natürlich diese Kombination.) Und der Ausdruck “Ich wollte damals sagen …” bezieht sich auf einen _Zeitpunkt_ & auf eine _Handlung_. Ich rede von den wesentlichen _Bezügen_ der Äußerung, um sie von andern Besonderheiten unsres Ausdrucks abzulösen. Und wesentlich sind der Äußerung die Bezüge, die uns veranlassen würden, eine im übrigen uns fremde Ausdrucksweise in diese bei uns gebräuchliche Form zu übersetzen.
 
 ### [Ms-144](/ms-144/#4r.2) <span class="fac">[4r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/4r.webp)</span> {#ms-144-4r2}
 
@@ -78,7 +78,7 @@ Wenn ich den Satz mit den vertauschten Bedeutungen ausspreche, so zerfällt mir 
 
 ### [Ms-144](/ms-144/#6r.1) <span class="fac">[6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)</span> {#ms-144-6r1}
 
-<span class="series-number">iii.</span> Was macht meine Vorstellung von ihm zu einer Vorstellung von _ihm_? Nicht die Ähnlichkeit des Bildes. Von der Äußerung “Ich sehe ihn jetzt lebhaft vor mir” gilt ja die gleiche Frage, wie von der Vorstellung. Was macht meine Äußerung zu einer Äußerung über _ihn_? – Nichts, was in ihr liegt, oder mit ihr gleichzeitig ist (‘hinter ihr steht’). Wenn Du wissen willst, wen er gemeint hat, frag ihn! (Es kann aber auch sein, daß mir ein Gesicht vorschwebt, ja daß ich es zeichnen kann, & weiß nicht, welcher Person es gehört, wo ich es gesehen habe.)
+<span class="series-number">iii</span> Was macht meine Vorstellung von ihm zu einer Vorstellung von _ihm_? Nicht die Ähnlichkeit des Bildes. Von der Äußerung “Ich sehe ihn jetzt lebhaft vor mir” gilt ja die gleiche Frage, wie von der Vorstellung. Was macht meine Äußerung zu einer Äußerung über _ihn_? – Nichts, was in ihr liegt, oder mit ihr gleichzeitig ist (‘hinter ihr steht’). Wenn Du wissen willst, wen er gemeint hat, frag ihn! (Es kann aber auch sein, daß mir ein Gesicht vorschwebt, ja daß ich es zeichnen kann, & weiß nicht, welcher Person es gehört, wo ich es gesehen habe.)
 
 ### [Ms-144](/ms-144/#6r.2) <span class="fac">[6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/6r.webp)</span> {#ms-144-6r2}
 
@@ -86,7 +86,7 @@ Wenn aber jemand beim Vorstellen, oder statt des Vorstellens zeichnete; wenn auc
 
 ### [Ms-144](/ms-144/#7r.1) <span class="fac">[7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)</span> {#ms-144-7r1}
 
-<span class="series-number">iv.</span> “Ich glaube, daß er leidet.” ‒ ‒ _Glaube_ ich auch, daß er kein Automat ist? Nur mit Widerstreben könnte ich das Wort in diesen beiden Zusammenhängen aussprechen. (Oder ist es _so_: ich glaube, daß er leidet; ich bin sicher daß er kein Automat ist? Unsinn!)
+<span class="series-number">iv</span> “Ich glaube, daß er leidet.” ‒ ‒ _Glaube_ ich auch, daß er kein Automat ist? Nur mit Widerstreben könnte ich das Wort in diesen beiden Zusammenhängen aussprechen. (Oder ist es _so_: ich glaube, daß er leidet; ich bin sicher daß er kein Automat ist? Unsinn!)
 
 ### [Ms-144](/ms-144/#7r.2) <span class="fac">[7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/7r.webp)</span> {#ms-144-7r2}
 
@@ -118,7 +118,7 @@ Wie ist es aber mit so einen Ausdruck: “Als Du es sagtest, verstand ich es in 
 
 ### [Ms-144](/ms-144/#8r.1) <span class="fac">[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)</span> {#ms-144-8r1}
 
-<span class="series-number">v.</span> Denk Dir, wir beobachteten die Bewegung eines Punktes (eines Lichtpunktes auf einem Schirm, z.B.). Wichtige Schlüsse der verschiedensten Art könnten sich aus dem Benehmen dieses Punktes ziehen lassen. Aber wie vielerlei läßt sich an ihm beobachten! – Die Bahn des Punktes & gewisse ihrer Maße (z.B. Amplitude & Wellenlänge), oder die Geschwindigkeit & das Gesetz, wonach sie sich ändert, oder die Anzahl, oder die Lage, der Stellen, an denen sie sich sprungweise ändert, oder die Krümmung der Bahn an diesen Stellen, & unzähliges. – Und jeder dieser _Züge_ des Benehmens könnte der einzige sein, welcher uns interessiert. Es könnte z.B. alles an dieser Bewegung uns gleichgültig sein, außer die Zahl der Schlingen in einer gewissen Zeit. – Und wenn uns nun nicht nur _ein_ solcher Zug interessiert, sondern ihrer mehrere, so mag jeder von ihnen uns einen besondern, seiner Art nach von allen andern verschiedenen Aufschluß geben. Und so ist es mit dem Benehmen des Menschen, mit den verschiedenen Charakteristiken dieses Benehmens, die wir beobachten.
+<span class="series-number">v</span> Denk Dir, wir beobachteten die Bewegung eines Punktes (eines Lichtpunktes auf einem Schirm, z.B.). Wichtige Schlüsse der verschiedensten Art könnten sich aus dem Benehmen dieses Punktes ziehen lassen. Aber wie vielerlei läßt sich an ihm beobachten! – Die Bahn des Punktes & gewisse ihrer Maße (z.B. Amplitude & Wellenlänge), oder die Geschwindigkeit & das Gesetz, wonach sie sich ändert, oder die Anzahl, oder die Lage, der Stellen, an denen sie sich sprungweise ändert, oder die Krümmung der Bahn an diesen Stellen, & unzähliges. – Und jeder dieser _Züge_ des Benehmens könnte der einzige sein, welcher uns interessiert. Es könnte z.B. alles an dieser Bewegung uns gleichgültig sein, außer die Zahl der Schlingen in einer gewissen Zeit. – Und wenn uns nun nicht nur _ein_ solcher Zug interessiert, sondern ihrer mehrere, so mag jeder von ihnen uns einen besondern, seiner Art nach von allen andern verschiedenen Aufschluß geben. Und so ist es mit dem Benehmen des Menschen, mit den verschiedenen Charakteristiken dieses Benehmens, die wir beobachten.
 
 ### [Ms-144](/ms-144/#8r.2) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)</span> {#ms-144-8r2}
 
@@ -150,7 +150,7 @@ Es ist hier wie mit dem Verhältnis: physikalischer Gegenstand & Sinneseindrück
 
 ### [Ms-144](/ms-144/#10r.1) <span class="fac">[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)</span> {#ms-144-10r1}
 
-<span class="series-number">vi.</span> Denk Dir, Einer sagte: jedes uns wohlbekannte Wort, eines Buchs z.B., habe in unserm Geiste schon einen Dunstkreis, einen ‘Hof’ schwach angedeuteter Verwendungen um sich. – So, als wäre auf einem Gemälde jede der Figuren auch von zarten, nebelhaft gezeichneten Szenen, gleichsam in einer andern Dimension, umgeben, und wir sähen die Figuren hier in andern Zusammenhängen. – Machen wir nur Ernst mit dieser Annahme! – Da zeigt es sich, daß sie die _Intention_ nicht zu erklären vermag. Wenn es nämlich so ist, daß die Möglichkeiten der Verwendung eines Wortes beim Sprechen oder Hören uns in Halbtönen vorschweben – wenn es so ist, so gilt das eben für _uns_. Aber wir verständigen uns mit Andern, ohne zu wissen, ob auch sie diese Erlebnisse haben.
+<span class="series-number">vi</span> Denk Dir, Einer sagte: jedes uns wohlbekannte Wort, eines Buchs z.B., habe in unserm Geiste schon einen Dunstkreis, einen ‘Hof’ schwach angedeuteter Verwendungen um sich. – So, als wäre auf einem Gemälde jede der Figuren auch von zarten, nebelhaft gezeichneten Szenen, gleichsam in einer andern Dimension, umgeben, und wir sähen die Figuren hier in andern Zusammenhängen. – Machen wir nur Ernst mit dieser Annahme! – Da zeigt es sich, daß sie die _Intention_ nicht zu erklären vermag. Wenn es nämlich so ist, daß die Möglichkeiten der Verwendung eines Wortes beim Sprechen oder Hören uns in Halbtönen vorschweben – wenn es so ist, so gilt das eben für _uns_. Aber wir verständigen uns mit Andern, ohne zu wissen, ob auch sie diese Erlebnisse haben.
 
 ### [Ms-144](/ms-144/#10r.2) <span class="fac">[10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/10r.webp)</span> {#ms-144-10r2}
 
@@ -218,7 +218,7 @@ Es könnte so sein: Ich höre, es male jemand ein Bild “Beethoven beim Schreib
 
 ### [Ms-144](/ms-144/#14r.1) <span class="fac">[14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)</span> {#ms-144-14r1}
 
-<span class="series-number">vii.</span> Leute, die uns nach dem Erwachen gewisse Begebenheiten erzählen (sie seien dort & dort gewesen, etc.). Wir lehren sie nun den Ausdruck “Mir hat geträumt”, dem die Erzählung folgt. Ich frage sie dann manchmal “Hat Dir heute nacht etwas geträumt?” & erhalte eine bejahende, oder eine verneinende Antwort, manchmal eine Traumerzählung, manchmal keine. Das ist das Sprachspiel. (Ich habe jetzt angenommen, daß ich selbst nicht träume. Aber ich habe ja auch nie Gefühle einer unsichtbaren Gegenwart & Andre haben sie, & ich kann sie über ihre Erfahrungen befragen.) Muß ich nun eine Annahme darüber machen, ob die Leute ihr Gedächtnis getäuscht hat, oder nicht; ob sie wirklich während des Schlafs diese Bilder vor sich gesehen haben, oder ob es ihnen nur nach dem Erwachen so vorkommt? Und welchen Sinn hat diese Frage? – Und welches Interesse?! Fragen wir uns das je, wenn uns Einer seinen Traum erzählt? Und wenn nicht, – ist es, weil wir sicher sind, sein Gedächtnis werde ihn nicht getäuscht haben? (Und angenommen, es wäre ein Mensch mit ganz besonders schlechtem Gedächtnis. –)
+<span class="series-number">vii</span> Leute, die uns nach dem Erwachen gewisse Begebenheiten erzählen (sie seien dort & dort gewesen, etc.). Wir lehren sie nun den Ausdruck “Mir hat geträumt”, dem die Erzählung folgt. Ich frage sie dann manchmal “Hat Dir heute nacht etwas geträumt?” & erhalte eine bejahende, oder eine verneinende Antwort, manchmal eine Traumerzählung, manchmal keine. Das ist das Sprachspiel. (Ich habe jetzt angenommen, daß ich selbst nicht träume. Aber ich habe ja auch nie Gefühle einer unsichtbaren Gegenwart & Andre haben sie, & ich kann sie über ihre Erfahrungen befragen.) Muß ich nun eine Annahme darüber machen, ob die Leute ihr Gedächtnis getäuscht hat, oder nicht; ob sie wirklich während des Schlafs diese Bilder vor sich gesehen haben, oder ob es ihnen nur nach dem Erwachen so vorkommt? Und welchen Sinn hat diese Frage? – Und welches Interesse?! Fragen wir uns das je, wenn uns Einer seinen Traum erzählt? Und wenn nicht, – ist es, weil wir sicher sind, sein Gedächtnis werde ihn nicht getäuscht haben? (Und angenommen, es wäre ein Mensch mit ganz besonders schlechtem Gedächtnis. –)
 
 ### [Ms-144](/ms-144/#14r.2) <span class="fac">[14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/14r.webp)</span> {#ms-144-14r2}
 
@@ -234,7 +234,7 @@ Die Evolution der höheren Tiere & des Menschen & das Erwachen des Bewußtseins 
 
 ### [Ms-144](/ms-144/#15r.1) <span class="fac">[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)</span> {#ms-144-15r1}
 
-<span class="series-number">viii.</span> “Meine kinästhetischen Empfindungen belehren mich über die Bewegungen & Lagen meiner Glieder.” Ich lasse meinen Zeigefinger eine leichte pendelnde Bewegung mit kleinem Ausschlag machen. Ich spüre sie kaum, oder gar nicht. Vielleicht ein wenig in der Fingerspitze als ein leichtes Spannen. (Gar nicht im Gelenk.) Und diese Empfindung belehrt mich über die Bewegung? – denn ich kann sie genau beschreiben.
+<span class="series-number">viii</span> “Meine kinästhetischen Empfindungen belehren mich über die Bewegungen & Lagen meiner Glieder.” Ich lasse meinen Zeigefinger eine leichte pendelnde Bewegung mit kleinem Ausschlag machen. Ich spüre sie kaum, oder gar nicht. Vielleicht ein wenig in der Fingerspitze als ein leichtes Spannen. (Gar nicht im Gelenk.) Und diese Empfindung belehrt mich über die Bewegung? – denn ich kann sie genau beschreiben.
 
 ### [Ms-144](/ms-144/#15r.2) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/15r.webp)</span> {#ms-144-15r2}
 
@@ -278,7 +278,7 @@ Ein ‘Gefühl’ hat für uns ein ganz _bestimmtes_ Interesse. Und dazu gehört
 
 ### [Ms-144](/ms-144/#18r.1) <span class="fac">[18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)</span> {#ms-144-18r1}
 
-<span class="series-number">ix.</span> Wer den eigenen Kummer beobachtet, mit welchen Sinnen beobachtet er ihn? Mit einem besondern Sinn; mit einem, der den Kummer _fühlt_? So fühlt er ihn _anders_, wenn er ihn beobachtet? Und welchen beobachtet er nun; den, welcher nur da ist, während er beobachtet wird? ‘Beobachten’ erzeugt nicht das Beobachtete. (Das ist eine begriffliche Feststellung.) Oder: Ich ‘beobachte’ nicht _das_, was durch's Beobachten erst entsteht. Das Objekt des Beobachtens ist ein Anderes.
+<span class="series-number">ix</span> Wer den eigenen Kummer beobachtet, mit welchen Sinnen beobachtet er ihn? Mit einem besondern Sinn; mit einem, der den Kummer _fühlt_? So fühlt er ihn _anders_, wenn er ihn beobachtet? Und welchen beobachtet er nun; den, welcher nur da ist, während er beobachtet wird? ‘Beobachten’ erzeugt nicht das Beobachtete. (Das ist eine begriffliche Feststellung.) Oder: Ich ‘beobachte’ nicht _das_, was durch's Beobachten erst entsteht. Das Objekt des Beobachtens ist ein Anderes.
 
 ### [Ms-144](/ms-144/#18r.2) <span class="fac">[18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp)</span> {#ms-144-18r2}
 
@@ -350,7 +350,7 @@ Ist aber “Ich fürchte mich” nicht immer, & doch manchmal, etwas der Klage �
 
 ### [Ms-144](/ms-144/#21r.1) <span class="fac">[21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r1}
 
-<span class="series-number">x.</span> Wie ist man je dazugekommen, einen Ausdruck wie “Ich glaube …” zu gebrauchen? Ist man einmal auf ein Phänomen (des Glaubens) aufmerksam geworden? Hatte man sich selbst & die Andern beobachtet & so das Glauben gefunden?
+<span class="series-number">x</span> Wie ist man je dazugekommen, einen Ausdruck wie “Ich glaube …” zu gebrauchen? Ist man einmal auf ein Phänomen (des Glaubens) aufmerksam geworden? Hatte man sich selbst & die Andern beobachtet & so das Glauben gefunden?
 
 ### [Ms-144](/ms-144/#21r.2) <span class="fac">[21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r2}
 
@@ -456,7 +456,7 @@ Betrachte nicht die zaghafte Behauptung als Behauptung der Zaghaftigkeit.
 
 ### [Ms-144](/ms-144/#24r.1) <span class="fac">[24r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r1}
 
-<span class="series-number">xi.</span> <span class="series-number">a1</span> Zwei Verwendungen des Wortes “sehen”. Die eine: “Was siehst Du dort?” – “Ich sehe _dies_” [es folgt eine Beschreibung, eine Zeichnung, eine Kopie]. Die andere: “Ich sehe eine Ähnlichkeit in diesen beiden Gesichtern” – der, dem ich dies mitteile, mag die Gesichter so deutlich sehen, wie ich selbst. Die Wichtigkeit: Der kategorische Unterschied der beiden ‘Objekte’ des Sehens.
+<span class="series-number">xi</span> <span class="series-number">a1</span> Zwei Verwendungen des Wortes “sehen”. Die eine: “Was siehst Du dort?” – “Ich sehe _dies_” [es folgt eine Beschreibung, eine Zeichnung, eine Kopie]. Die andere: “Ich sehe eine Ähnlichkeit in diesen beiden Gesichtern” – der, dem ich dies mitteile, mag die Gesichter so deutlich sehen, wie ich selbst. Die Wichtigkeit: Der kategorische Unterschied der beiden ‘Objekte’ des Sehens.
 
 ### [Ms-144](/ms-144/#24r.2) <span class="fac">[24r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r2}
 
@@ -1576,7 +1576,7 @@ Ja es könnte ein Fall eintreten, in welchem wir sagen würden: “Er _glaubt_, 
 
 ### [Ms-144](/ms-144/#50r.1) <span class="fac">[50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)</span> {#ms-144-50r1}
 
-<span class="series-number">xii.</span> Wenn die Begriffsbildung sich aus Naturtatsachen erklären läßt, sollte uns dann nicht, statt der Grammatik, dasjenige interessieren, was ihr in der Natur zu Grunde liegt? – Uns interessiert wohl auch die Entsprechung von Begriffen mit sehr allgemeinen Naturtatsachen. (Solchen, die uns ihrer Allgemeinheit wegen meist nicht auffallen.) Aber unser Interesse fällt nun nicht auf diese möglichen Ursachen der Begriffsbildung zurück; wir betreiben nicht Naturwissenschaft; auch nicht Naturgeschichte, – da wir ja Naturgeschichtliches für unsre Zwecke auch erdichten können.
+<span class="series-number">xii</span> Wenn die Begriffsbildung sich aus Naturtatsachen erklären läßt, sollte uns dann nicht, statt der Grammatik, dasjenige interessieren, was ihr in der Natur zu Grunde liegt? – Uns interessiert wohl auch die Entsprechung von Begriffen mit sehr allgemeinen Naturtatsachen. (Solchen, die uns ihrer Allgemeinheit wegen meist nicht auffallen.) Aber unser Interesse fällt nun nicht auf diese möglichen Ursachen der Begriffsbildung zurück; wir betreiben nicht Naturwissenschaft; auch nicht Naturgeschichte, – da wir ja Naturgeschichtliches für unsre Zwecke auch erdichten können.
 
 ### [Ms-144](/ms-144/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/50r.webp)</span> {#ms-144-50r2}
 
@@ -1588,7 +1588,7 @@ Vergleiche einen Begriff mit einer Malweise: Ist denn auch nur unsre Malweise wi
 
 ### [Ms-144](/ms-144/#51r.1) <span class="fac">[51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r1}
 
-<span class="series-number">xiii.</span> Wenn ich sage “Vor einer halben Stunde war er da” – nämlich aus der Erinnerung – so ist das nicht die Beschreibung eines gegenwärtigen Erlebnisses. Erinnerungs**erlebnisse** sind Begleiterscheinungen des Erinnerns.
+<span class="series-number">xiii</span> Wenn ich sage “Vor einer halben Stunde war er da” – nämlich aus der Erinnerung – so ist das nicht die Beschreibung eines gegenwärtigen Erlebnisses. Erinnerungs**erlebnisse** sind Begleiterscheinungen des Erinnerns.
 
 ### [Ms-144](/ms-144/#51r.2) <span class="fac">[51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r2}
 
@@ -1600,7 +1600,7 @@ Könnte man sich diese Situation denken: Einer erinnert sich zum erstenmal im Le
 
 ### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
 
-<span class="series-number">xiv.</span> <span class="series-number">a107˙9</span> Man könnte von Einem sagen, er sei für den _Ausdruck_ in einem Gesicht blind. Aber fehlte deshalb seinem Gesichtssinn etwas? Aber das ist natürlich nicht einfach eine Frage der Physiologie. Das Physiologische ist hier ein Symbol für das Logische. Die Verwirrung & Öde der Psychologie ist nicht damit zu erklären, daß sie eine “junge Wissenschaft” sei; ihr Zustand ist mit dem der Physik z.B. in ihrer Frühzeit nicht zu vergleichen. (Eher noch mit dem gewisser Zweige der Mathematik. Mengenlehre.) (Es bestehen nämlich, in der Psychologie, experimentelle Methoden _und Begriffsverwirrung_. (Wie im andern Fall Begriffsverwirrung & Beweismethoden.) Das Bestehen der experimentellen Methode läßt uns glauben, wir hätten das Mittel, die Probleme, die uns beunruhigen, los zu werden; obgleich Problem & Methode windschief an einander vorbei laufen.
+<span class="series-number">xiv</span> <span class="series-number">a107˙9</span> Man könnte von Einem sagen, er sei für den _Ausdruck_ in einem Gesicht blind. Aber fehlte deshalb seinem Gesichtssinn etwas? Aber das ist natürlich nicht einfach eine Frage der Physiologie. Das Physiologische ist hier ein Symbol für das Logische. Die Verwirrung & Öde der Psychologie ist nicht damit zu erklären, daß sie eine “junge Wissenschaft” sei; ihr Zustand ist mit dem der Physik z.B. in ihrer Frühzeit nicht zu vergleichen. (Eher noch mit dem gewisser Zweige der Mathematik. Mengenlehre.) (Es bestehen nämlich, in der Psychologie, experimentelle Methoden _und Begriffsverwirrung_. (Wie im andern Fall Begriffsverwirrung & Beweismethoden.) Das Bestehen der experimentellen Methode läßt uns glauben, wir hätten das Mittel, die Probleme, die uns beunruhigen, los zu werden; obgleich Problem & Methode windschief an einander vorbei laufen.
 
 ### [Ms-144](/ms-144/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-40r2}
 

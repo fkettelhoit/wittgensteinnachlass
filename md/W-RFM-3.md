@@ -10,7 +10,7 @@
 
 ### [Ms-122](/ms-122/#5r.2+5v.1) <span class="fac">[5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/5r.webp),[5v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/5v.webp)</span> {#ms-122-5r25v1}
 
-<span class="series-number">1.</span> 25.10.1939
+<span class="series-number">1</span> 25.10.1939
 
 ‘Ein Mathematischer Beweis muß übersichtlich sein.’ “Beweis” nennen wir nur eine Struktur, deren Reproduktion eine leicht lösbare Aufgabe ist. Es muß sich mit Sicherheit entscheiden lassen, ob wir hier wirklich zweimal den gleichen Beweis vor uns haben, oder nicht. Der Beweis muß ein Bild sein, welches sich mit Sicherheit genau reproduzieren läßt. Oder auch: was dem Beweise wesentlich ist muß sich mit Sicherheit genau reproduzieren lassen. Er kann z.B. in zwei verschiedenen Handschriften oder Farben niedergeschrieben sein. Zur Reproduktion eines Beweises soll nichts gehören was von der Art einer genauen Reproduktion eines Farbtones oder einer Handschrift ist.
 
@@ -24,7 +24,7 @@ Denken wir uns nun einen Russellschen Beweis für einen Additionssatz der Art a 
 
 ### [Ms-122](/ms-122/#6v.3+7r.1) <span class="fac">[6v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/6v.webp),[7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/7r.webp)</span> {#ms-122-6v37r1}
 
-<span class="series-number">2.</span> 27.10.1939
+<span class="series-number">2</span> 27.10.1939
 
 Ich will sagen: Wenn man eine nicht übersichtliche Beweisfigur durch Veränderung der Notation übersehbar macht, dann schafft man erst einen Beweis, wo früher keiner war.
 
@@ -36,7 +36,7 @@ Mit ihrer Hilfe werden Ausdrücke erzeugt, die ohne ihre Hilfe nicht erzeugt wer
 
 ### [Ms-122](/ms-122/#8r.2+8v.1) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/8v.webp)</span> {#ms-122-8r28v1}
 
-<span class="series-number">3.</span> Wie ist es aber damit: “Man kann zwar im R'schen Kalkül nicht 234 mit 537 multiplizieren – im gewöhnlichen Sinn – aber es gibt eine R'sche Rechnung die dieser Multiplikation entspricht”? – Welcher Art ist diese Entsprechung? Es könnte so sein:
+<span class="series-number">3</span> Wie ist es aber damit: “Man kann zwar im R'schen Kalkül nicht 234 mit 537 multiplizieren – im gewöhnlichen Sinn – aber es gibt eine R'sche Rechnung die dieser Multiplikation entspricht”? – Welcher Art ist diese Entsprechung? Es könnte so sein:
 
 Man kann auch im R'schen Kalkül diese Multiplikation ausführen nur in einem andern Symbolismus – wie wir ja auch sagen würden wir könnten sie auch in einem andern Zahlensystem ausführen. Wir könnten dann also z.B. die praktischen Aufgaben, zu deren Lösung man jene Multiplikation benützt auch durch die Rechnung im R'schen Kalkül lösen, nur umständlicher.
 
@@ -50,7 +50,7 @@ Ich frage nun: könnten wir uns von der Wahrheit des Satzes 7034174 + 6594321 = 
 
 ### [Ms-122](/ms-122/#11r.2) <span class="fac">[11r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/11r.webp)</span> {#ms-122-11r2}
 
-<span class="series-number">4.</span> Aber lehrt uns Russell nicht doch _eine_ Art des Addierens?
+<span class="series-number">4</span> Aber lehrt uns Russell nicht doch _eine_ Art des Addierens?
 
 ### [Ms-122](/ms-122/#11r.3+11v.1) <span class="fac">[11r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/11r.webp),[11v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/11v.webp)</span> {#ms-122-11r311v1}
 
@@ -78,7 +78,7 @@ Wir dehnen unsre Ideen von den Rechnungen mit kleinen Zahlen auf die mit großen
 
 ### [Ms-122](/ms-122/#13v.2+14r.1) <span class="fac">[13v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/13v.webp),[14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/14r.webp)</span> {#ms-122-13v214r1}
 
-<span class="series-number">5.</span> 31.10.1939
+<span class="series-number">5</span> 31.10.1939
 
 Wie, wenn jemand sagen würde: “der eigentliche Beweis von 1000 + 1000 = 2000 ist doch erst der Russellsche, der zeigt, daß der Ausdruck … eine Tautologie ist”? Kann ich denn nicht beweisen, daß eine Tautologie herauskommt, wenn ich in den beiden ersten Klammern je 1000 Glieder & in der dritten 2000 habe? Und wenn ich das beweisen kann, so kann ich das als Beweis des arithmetischen Satzes ansehen.
 
@@ -92,7 +92,7 @@ Soll ich also z.B. hier eine _Frage_ setzen statt der Antwort, man könne jenen 
 
 ### [Ms-122](/ms-122/#14v.1+15r.1) <span class="fac">[14v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/14v.webp),[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/15r.webp)</span> {#ms-122-14v115r1}
 
-<span class="series-number">6.</span> 01.11.1939
+<span class="series-number">6</span> 01.11.1939
 
 Der Beweis, daß <math class="stacked" display="inline"><msup><mo>(</mo><mn>1</mn></msup><mo>)</mo><msup><mo>(</mo><mn>2</mn></msup><mo>)</mo><mspace width="0.3em"/><mo>⊃</mo><msup><mo>(</mo><mn>3</mn></msup><mo>)</mo></math>
 
@@ -100,7 +100,7 @@ eine Tautologie ist, besteht darin, daß man immer ein Glied der 3<sup>ten</sup>
 
 ### [Ms-122](/ms-122/#16r.4+16v.1) <span class="fac">[16r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/16r.webp),[16v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/16v.webp)</span> {#ms-122-16r416v1}
 
-<span class="series-number">7.</span> 03.11.1939
+<span class="series-number">7</span> 03.11.1939
 
 Denke, Du hättest eine meilenlange ‘Formel’ angeschrieben, & zeigtest durch Transformation, daß sie tautologisch ist (‘wenn sie sich inzwischen nicht verändert hat’, müßte man sagen). Nun _zählen_ wir die Glieder in den Klammern oder teilen sie ab & machen den Ausdruck übersichtlich & es zeigt sich, daß in der ersten Klammer 7566 in der zweiten 2434 in der dritten 10000 Glieder stehen. Habe ich nun bewiesen, daß 2434 + 7566 = 10000 ist? – Das kommt drauf an – könnte man sagen – ob Du sicher bist, daß das Zählen wirklich die Zahlen der Glieder ergeben hat, die während des Beweises in den Klammern standen.
 
@@ -110,13 +110,13 @@ Könnte man so sagen: “R. lehrt uns in die 3<sup>te</sup> Klammer so viele Zei
 
 ### [Ms-122](/ms-122/#21v.3+22r.1) <span class="fac">[21v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/21v.webp),[22r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/22r.webp)</span> {#ms-122-21v322r1}
 
-<span class="series-number">8.</span> 09.11.1939
+<span class="series-number">8</span> 09.11.1939
 
 Die R'sche Tautologie, die dem Satz a + b = c entspricht, zeigt uns vor allem nicht in welcher Notation die Zahl c zu schreiben ist & es ist kein Grund warum sie nicht in der Form a + b geschrieben werden soll. –Denn R. lehrt uns ja nicht die Technik des Addierens, etwa, im Dezimalsystem. – Aber könnten wir sie vielleicht aus seiner Technik ableiten? Fragen wir einmal so: Kann man die Technik des Dezimalsystems aus der des Systems 1, 1 + 1, (1 + 1) + 1, etc. ableiten? Könnte man diese Frage nicht auch so stellen: Wenn man eine Rechentechnik in dem einen System & eine im andern System hat, – wie zeigt man, daß die beiden äquivalent sind?
 
 ### [Ms-122](/ms-122/#26v.2) <span class="fac">[26v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/26v.webp)</span> {#ms-122-26v2}
 
-<span class="series-number">9.</span> “Ein Beweis soll nicht nur zeigen, daß es so ist, sondern daß es so sein muß.”
+<span class="series-number">9</span> “Ein Beweis soll nicht nur zeigen, daß es so ist, sondern daß es so sein muß.”
 
 ### [Ms-122](/ms-122/#26v.3) <span class="fac">[26v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/26v.webp)</span> {#ms-122-26v3}
 
@@ -132,7 +132,7 @@ Unter welchen Umständen zeigt dies das Zählen?
 
 ### [Ms-122](/ms-122/#27r.2) <span class="fac">[27r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/27r.webp)</span> {#ms-122-27r2}
 
-<span class="series-number">10.</span> Wir machen nicht _Versuche_, an einem Satz, oder Beweis, um seine Eigenschaften festzustellen.
+<span class="series-number">10</span> Wir machen nicht _Versuche_, an einem Satz, oder Beweis, um seine Eigenschaften festzustellen.
 
 ### [Ms-122](/ms-122/#27r.3+27v.1) <span class="fac">[27r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/27r.webp),[27v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/27v.webp)</span> {#ms-122-27r327v1}
 
@@ -148,7 +148,7 @@ Die Ziffer für 1000 im 1 + 1 + 1 + 1… System kann nicht durch ihre _Gestalt_ 
 
 ### [Ms-122](/ms-122/#28r.4+28v.1) <span class="fac">[28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28r.webp),[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28v.webp)</span> {#ms-122-28r428v1}
 
-<span class="series-number">11.</span> <math display="inline"><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext><mo>|</mo></mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext></math>
+<span class="series-number">11</span> <math display="inline"><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext><mo>|</mo></mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext></math>
 
 Ist diese Figur ein Beweis für 27 + 16 = 43: weil man zu “27” kommt, wenn man die Striche der linken Seite zählt, zu “16” auf der rechten Seite, & zu “43” wenn man die ganze Reihe zählt?
 
@@ -164,7 +164,7 @@ Das aber würde man doch einen Beweis von 250 + 3220 = 3470 nennen: man zählt �
 
 ### [Ms-122](/ms-122/#30r.2+30v.1) <span class="fac">[30r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/30r.webp),[30v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/30v.webp)</span> {#ms-122-30r230v1}
 
-<span class="series-number">12.</span> Wie kannst Du sagen, daß Russell den Satz “250 + 3220 = 3470” nicht beweisen kann?! Denk Dir einfach, daß man die Definitionen 1 + 1 = 2, 2 + 1 = 3, etc. nicht _darum_ auswendig weiß, weil sie einem System folgen – man weiß sie eben auswendig. Was ist die Erfindung des Dezimalsystems eigentlich? Die Erfindung eines Systems von Kürzungen – – aber was ist das System der Kürzungen ? ist es bloß das System der neuen Zeichen, oder auch ein System ihrer Anwendungen als Abkürzung? Und ist es das letztere, dann ist es ja eine neue Anschauungsart des alten Zeichensystems.
+<span class="series-number">12</span> Wie kannst Du sagen, daß Russell den Satz “250 + 3220 = 3470” nicht beweisen kann?! Denk Dir einfach, daß man die Definitionen 1 + 1 = 2, 2 + 1 = 3, etc. nicht _darum_ auswendig weiß, weil sie einem System folgen – man weiß sie eben auswendig. Was ist die Erfindung des Dezimalsystems eigentlich? Die Erfindung eines Systems von Kürzungen – – aber was ist das System der Kürzungen ? ist es bloß das System der neuen Zeichen, oder auch ein System ihrer Anwendungen als Abkürzung? Und ist es das letztere, dann ist es ja eine neue Anschauungsart des alten Zeichensystems.
 
 ### [Ms-122](/ms-122/#30v.2) <span class="fac">[30v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/30v.webp)</span> {#ms-122-30v2}
 
@@ -172,7 +172,7 @@ Können wir vom 1 + 1 + 1… System kommend, durch bloße Abkürzungen der Schre
 
 ### [Ms-122](/ms-122/#31v.2+32r.1) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span> {#ms-122-31v232r1}
 
-<span class="series-number">13.</span> Angenommen ich habe nach Russell einen Satz der Form (∃xyz…) (∃uvw…) ⊃ (∃abc…) bewiesen – & nun ‘mache ich ihn übersichtlich’, indem ich über die Variablen Zeichen <math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math> schreibe – soll ich nun sagen, ich habe nach Russell einen arithmetischen Satz im Dezimalsystem bewiesen?
+<span class="series-number">13</span> Angenommen ich habe nach Russell einen Satz der Form (∃xyz…) (∃uvw…) ⊃ (∃abc…) bewiesen – & nun ‘mache ich ihn übersichtlich’, indem ich über die Variablen Zeichen <math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math> schreibe – soll ich nun sagen, ich habe nach Russell einen arithmetischen Satz im Dezimalsystem bewiesen?
 
 ### [Ms-122](/ms-122/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span> {#ms-122-32r2}
 
@@ -190,7 +190,7 @@ Wie, wenn Einer sagte: Die R.sche Arithmetik stimmt mit der gewöhnlichen bis zu
 
 ### [Ms-122](/ms-122/#32v.2+33r.1) <span class="fac">[32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32v.webp),[33r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/33r.webp)</span> {#ms-122-32v233r1}
 
-<span class="series-number">14.</span> 23.11.1939
+<span class="series-number">14</span> 23.11.1939
 
 Liegt denn nicht meine ganze Schwierigkeit darin, einzusehen, wie man, ohne aus R's logischem Kalkül herauszutreten zum Begriff der _Menge von Variablen_ im Ausdruck “(∃ x,y,z etc.)” kommen kann, dort wo dieses Zeichen nicht übersehbar ist? – Nun kann man ihn aber doch übersehbar machen indem man schreibt:
 
@@ -210,7 +210,7 @@ Oder: Etwas hört auf Beweis zu sein, wenn es aufhört Paradigma zu sein, z.B. R
 
 ### [Ms-122](/ms-122/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/36v.webp)</span> {#ms-122-36v2}
 
-<span class="series-number">15.</span> 25.11.1939
+<span class="series-number">15</span> 25.11.1939
 
 Es ist eine Tatsache, daß verschiedene Methoden der Zählung so gut wie immer übereinstimmen.
 
@@ -234,7 +234,7 @@ Soll ich nun sagen: Das macht ja alles nichts – die Logik bleibt doch der Grun
 
 ### [Ms-122](/ms-122/#38v.3) <span class="fac">[38v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/38v.webp)</span> {#ms-122-38v3}
 
-<span class="series-number">16.</span> Es ist nicht die Logik, die mich zwingt – möchte ich sagen – einen Satz von der Form (∃) (∃) ⊃ (∃) anzuerkennen, wenn in den ersten beiden Klammern je eine Million Variable ist & in der dritten zwei Millionen. Ich will sagen: die Logik zwänge mich in diesem Falle gar nicht irgend einen Satz anzuerkennen. Etwas _anderes_ zwingt mich so einen Satz als der Logik gemäß anzuerkennen.
+<span class="series-number">16</span> Es ist nicht die Logik, die mich zwingt – möchte ich sagen – einen Satz von der Form (∃) (∃) ⊃ (∃) anzuerkennen, wenn in den ersten beiden Klammern je eine Million Variable ist & in der dritten zwei Millionen. Ich will sagen: die Logik zwänge mich in diesem Falle gar nicht irgend einen Satz anzuerkennen. Etwas _anderes_ zwingt mich so einen Satz als der Logik gemäß anzuerkennen.
 
 ### [Ms-122](/ms-122/#38v.4+39r.1) <span class="fac">[38v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/38v.webp),[39r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39r.webp)</span> {#ms-122-38v439r1}
 
@@ -248,7 +248,7 @@ Aber es ist doch dem Kalkül mit 1000000 wesentlich, daß sich diese Zahl muß i
 
 ### [Ms-122](/ms-122/#39v.3) <span class="fac">[39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span> {#ms-122-39v3}
 
-<span class="series-number">17.</span> 29.11.1939
+<span class="series-number">17</span> 29.11.1939
 
 Die Notation ‘<math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math>’ macht den Ausdruck ‘(∃…)’ zur Gestalt & damit die R-bewiesene Tautologie.
 
@@ -262,7 +262,7 @@ Nehmen wir an wir nähmen immer 100 Schritte des logischen Kalküls zusammen & e
 
 ### [Ms-122](/ms-122/#41r.1) <span class="fac">[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/41r.webp)</span> {#ms-122-41r1}
 
-<span class="series-number">18.</span> 30.11.1939
+<span class="series-number">18</span> 30.11.1939
 
 Was ich sage kommt doch darauf hinaus: daß ich, z.B., ‘10’ als ‘1 + 1 + 1 + 1…’ definieren kann & ‘100 × 2’ als ‘2 + 2 + 2…’, aber darum nicht notwendig ‘100 × 10’ als ‘10 + 10 + 10…’ oder gar als ‘1 + 1 + 1 + 1…’.
 
@@ -276,7 +276,7 @@ Ein abgekürztes Verfahren lehrt mich, was bei dem unabgekürzten herauskommen _
 
 ### [Ms-122](/ms-122/#41v.1) <span class="fac">[41v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/41v.webp)</span> {#ms-122-41v1}
 
-<span class="series-number">19.</span> 01.12.1939
+<span class="series-number">19</span> 01.12.1939
 
 “Die Rechnung basiert ja doch auf den Einerschritten …” Ja; aber auf andre Weise. Der Beweisvorgang ist eben ein anderer.
 
@@ -292,7 +292,7 @@ Die Gefahr scheint hier zu sein, das gekürzte Verfahren als einen blassen Schat
 
 ### [Ms-122](/ms-122/#42r.2) <span class="fac">[42r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/42r.webp)</span> {#ms-122-42r2}
 
-<span class="series-number">20.</span> 02.12.1939
+<span class="series-number">20</span> 02.12.1939
 
 Worin besteht es 100 Schritte des Kalküls ‘zusammenzunehmen’? Doch darin, daß man nicht die Einerschritte sondern einen andern Schritt als maßgebend ansieht.
 
@@ -306,7 +306,7 @@ Das Rechnen mit Kurven oder mit dem Rechenschieber. Freilich wenn wir die eine A
 
 ### [Ms-122](/ms-122/#44r.2) <span class="fac">[44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/44r.webp)</span> {#ms-122-44r2}
 
-<span class="series-number">21.</span> 04.12.1939
+<span class="series-number">21</span> 04.12.1939
 
 Wo ein Zweifel darüber auftauchen kann, ob _dies_ wirklich das Bild _dieses_ Beweises ist, wo wir bereit sind die Identität eines Beweises anzuzweifeln, dort hat die Ableitung ihre Beweiskraft verloren. Denn der Beweis dient uns ja als Maß.
 
@@ -324,7 +324,7 @@ Man könnte sagen: Wenn man sagen kann: “auch wenn uns ein Dämon betrogen hä
 
 ### [Ms-122](/ms-122/#45r.2) <span class="fac">[45r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/45r.webp)</span> {#ms-122-45r2}
 
-<span class="series-number">22.</span> 05.12.1939
+<span class="series-number">22</span> 05.12.1939
 
 Der Beweis, könnte man sagen, zeigt nicht bloß, _daß_ es so ist, sondern: _wie_ es so ist. Er zeigt, _wie_ 13 + 14 27 ergeben.
 
@@ -356,7 +356,7 @@ Der Beweis(, (das Beweisbild)) zeigt uns das Resultat eines Vorgangs (der Konstr
 
 ### [Ms-122](/ms-122/#47r.3) <span class="fac">[47r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/47r.webp)</span> {#ms-122-47r3}
 
-<span class="series-number">23.</span> 09.12.1939
+<span class="series-number">23</span> 09.12.1939
 
 Mit dem Satz, der Beweis sei ein Vorbild, – dürfen wir natürlich nichts neues sagen.
 
@@ -378,7 +378,7 @@ Zu sagen: “diese 200 Äpfel & diese 200 Äpfel geben 400”– sagt: Wenn man 
 
 ### [Ms-122](/ms-122/#48r.3) <span class="fac">[48r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/48r.webp)</span> {#ms-122-48r3}
 
-<span class="series-number">24.</span> 11.12.1939
+<span class="series-number">24</span> 11.12.1939
 
 ‘Das ist das Vorbild der Addition von 200 & 200’– nicht: ‘ Das ist das Vorbild davon, daß 200 & 200 addiert 400 ergeben’. Der Vorgang des Addierens _er**gab**_ allerdings 400, aber dies Resultat nehmen wir nun zum Kriterium der richtigen Addition – oder einfach: der Addition – dieser Zahlen.
 
@@ -404,7 +404,7 @@ Der Beweis ist unser Vorbild eines bestimmten _Ergebens_,– welches als Verglei
 
 ### [Ms-122](/ms-122/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/50r.webp)</span> {#ms-122-50r2}
 
-<span class="series-number">25.</span> Der Beweis überzeugt uns von etwas – – aber nicht der Gemütszustand der Überzeugung interessiert uns jetzt, sondern die Handlungen die diese Überzeugung belegen.
+<span class="series-number">25</span> Der Beweis überzeugt uns von etwas – – aber nicht der Gemütszustand der Überzeugung interessiert uns jetzt, sondern die Handlungen die diese Überzeugung belegen.
 
 ### [Ms-122](/ms-122/#50r.3) <span class="fac">[50r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/50r.webp)</span> {#ms-122-50r3}
 
@@ -424,7 +424,7 @@ Die Russellschen Zeichen hüllen die wichtigen Formen des Beweises, gleichsam, b
 
 ### [Ms-122](/ms-122/#52r.4+52v.1) <span class="fac">[52r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/52r.webp),[52v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/52v.webp)</span> {#ms-122-52r452v1}
 
-<span class="series-number">26.</span> 18.12.1939
+<span class="series-number">26</span> 18.12.1939
 
 Bedenken wir, wir werden in der Mathematik von _grammatischen_ Sätzen überzeugt; der Ausdruck, das Ergebnis, dieser Überzeugtheit ist also, daß wir eine _Regel annehmen_.
 
@@ -434,7 +434,7 @@ Nichts ist wahrscheinlicher, als daß der Wortausdruck des Resultats eines mathe
 
 ### [Ms-122](/ms-122/#53r.1) <span class="fac">[53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/53r.webp)</span> {#ms-122-53r1}
 
-<span class="series-number">27.</span> Ich will etwa sagen: Wenn auch der bewiesene mathematische Satz hinaus auf eine Realität außerhalb (seiner selbst) zu deuten scheint, (so) ist er doch nur (der) Ausdruck der Anerkennung eines neuen Maßes (der Realität).
+<span class="series-number">27</span> Ich will etwa sagen: Wenn auch der bewiesene mathematische Satz hinaus auf eine Realität außerhalb (seiner selbst) zu deuten scheint, (so) ist er doch nur (der) Ausdruck der Anerkennung eines neuen Maßes (der Realität).
 
 ### [Ms-122](/ms-122/#53r.2) <span class="fac">[53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/53r.webp)</span> {#ms-122-53r2}
 
@@ -458,7 +458,7 @@ Der Beweis stellt diese Entscheidung in ein System von Entscheidungen.
 
 ### [Ms-122](/ms-122/#53v.5) <span class="fac">[53v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/53v.webp)</span> {#ms-122-53v5}
 
-<span class="series-number">28.</span> 20.12.1939
+<span class="series-number">28</span> 20.12.1939
 
 Der durch den Beweis bewiesene Satz dient als Regel, also als Paradigma. Denn nach der Regel _richten_ wir uns.
 
@@ -476,7 +476,7 @@ Der Beweis konstruiert einen Satz; aber es kommt eben drauf an _wie_ er ihn kons
 
 ### [Ms-122](/ms-122/#54v.2) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/54v.webp)</span> {#ms-122-54v2}
 
-<span class="series-number">29.</span> 21.12.1939
+<span class="series-number">29</span> 21.12.1939
 
 Was hat der Zweck einer Euklidischen Konstruktion, etwa der Halbierung der Strecke, mit dem Zweck der Ableitung einer Regel aus Regeln mittels logischer Schlüsse gemein?
 
@@ -502,7 +502,7 @@ Wenn ich auch den Beweis in einem Archiv der Sprache niedergelegt denke, wer sag
 
 ### [Ms-122](/ms-122/#55v.3+56r.1) <span class="fac">[55v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55v.webp),[56r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/56r.webp)</span> {#ms-122-55v356r1}
 
-<span class="series-number">30.</span> 22.12.1939
+<span class="series-number">30</span> 22.12.1939
 
 Der Beweis bringt mich dazu zu sagen, das _müsse_ sich so verhalten. ‒ ‒ Nun, das versteh ich im Fall eines Euklidischen Beweises oder eines Beweises von “25 × 25 = 625”, aber ist es auch so im Fall eines R.schen Beweises etwa von “⊢ p⊃q ∙ p․⊃․q”? Was heißt hier ‘es _müsse_ sich so verhalten’, im Gegensatz zu ‘es verhält sich so’? Soll ich sagen: “nun ich nehme diesen Ausdruck als Paradigma für alle nichtssagenden Sätze dieser Form an”?
 
@@ -516,17 +516,17 @@ Ich will sagen, daß das _Muß_ einem Gleise entspricht, das ich in der Sprache 
 
 ### [Ms-122](/ms-122/#56v.3+57r.1) <span class="fac">[56v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/56v.webp),[57r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/57r.webp)</span> {#ms-122-56v357r1}
 
-<span class="series-number">31.</span> 24.12.1939
+<span class="series-number">31</span> 24.12.1939
 
 Wenn ich sagte, ein Beweis führe einen neuen Begriff ein so meinte ich so etwas wie: der Beweis setze ein neues Paradigma zu den Paradigmen der Sprache; etwa wie wenn man ein besonderes rötlich-blau mischte die besondere Farbmischung irgendwie festlegte, & ihr einen Namen gäbe. Aber wenn wir auch geneigt sind, einen Beweis ein solches neues Paradigma zu nennen – was ist die genaue Ähnlichkeit eines Beweises zu so einem Paradigma? Man möchte sagen: der Beweis ändert die Grammatik unserer Sprache, ändert unsere Begriffe. Er macht neue Zusammenhänge & er schafft den Begriff dieser Zusammenhänge. (Er stellt nicht fest, daß sie da sind, sondern sie bestehen nicht, ehe er sie nicht macht.)
 
 ### [Ms-122](/ms-122/#57v.2) <span class="fac">[57v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/57v.webp)</span> {#ms-122-57v2}
 
-<span class="series-number">32.</span> Welchen Begriff schafft ‘p⊃p’? Und doch ist es mir als könnte man sagen “p⊃p” diene uns als Begriffszeichen. “p⊃p” ist eine Formel. Legt eine Formel einen Begriff fest? Man kann sagen: “daraus folgt nach der Formel … das & das”. Oder auch: “daraus folgt auf die Art (& Weise) … das & das”. Aber ist das ein Satz, wie ich ihn wünsche? Wie ist es aber damit “Zieh' daraus die Konsequenz auf die Art …”?
+<span class="series-number">32</span> Welchen Begriff schafft ‘p⊃p’? Und doch ist es mir als könnte man sagen “p⊃p” diene uns als Begriffszeichen. “p⊃p” ist eine Formel. Legt eine Formel einen Begriff fest? Man kann sagen: “daraus folgt nach der Formel … das & das”. Oder auch: “daraus folgt auf die Art (& Weise) … das & das”. Aber ist das ein Satz, wie ich ihn wünsche? Wie ist es aber damit “Zieh' daraus die Konsequenz auf die Art …”?
 
 ### [Ms-122](/ms-122/#58r.2) <span class="fac">[58r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/58r.webp)</span> {#ms-122-58r2}
 
-<span class="series-number">33.</span> Wenn ich vom Beweis sage, er sei ein Vorbild(, ein Bild,) so muß ich es auch von einer R.schen primitive proposition sagen (als der Eizelle eines Beweises).
+<span class="series-number">33</span> Wenn ich vom Beweis sage, er sei ein Vorbild(, ein Bild,) so muß ich es auch von einer R.schen primitive proposition sagen (als der Eizelle eines Beweises).
 
 ### [Ms-122](/ms-122/#58r.3+58v.1) <span class="fac">[58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/58v.webp)</span> {#ms-122-58r358v1}
 
@@ -538,7 +538,7 @@ Wie ist es aber mit ‘p⊃p’? Ich sehe in ihm einen degenerierten Satz, der a
 
 ### [Ms-122](/ms-122/#61r.3+61v.1) <span class="fac">[61r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/61r.webp),[61v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/61v.webp)</span> {#ms-122-61r361v1}
 
-<span class="series-number">34.</span> 28.12.1939
+<span class="series-number">34</span> 28.12.1939
 
 Die Konstruktion des Beweises beginnt mit irgend welchen Zeichen, & unter diesen müssen einige, die ‘Konstanten’ in der Sprache schon Bedeutung haben. So ist es wesentlich daß “ ⌵ ” & “~” schon eine uns geläufige Anwendung besitzen & die Konstruktion eines Beweises in den Principia Mathematica nimmt ihre Wichtigkeit, ihren Sinn, daher. Die Zeichen aber des Beweises lassen ihre Bedeutung _nicht_ erkennen.
 
@@ -548,11 +548,11 @@ Die ‘Verwendung’ des Beweises hat natürlich mit jener Verwendung seiner Zei
 
 ### [Ms-122](/ms-122/#61v.4+62r.1) <span class="fac">[61v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/61v.webp),[62r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/62r.webp)</span> {#ms-122-61v462r1}
 
-<span class="series-number">35.</span> Wie gesagt, ich bin ja auch schon von den primitive propositions Russell's in gewissem Sinne überzeugt. Die Überzeugung also, die der Beweis hervorbringt kann nicht nur von der Beweiskonstruktion herrühren.
+<span class="series-number">35</span> Wie gesagt, ich bin ja auch schon von den primitive propositions Russell's in gewissem Sinne überzeugt. Die Überzeugung also, die der Beweis hervorbringt kann nicht nur von der Beweiskonstruktion herrühren.
 
 ### [Ms-122](/ms-122/#64v.2) <span class="fac">[64v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/64v.webp)</span> {#ms-122-64v2}
 
-<span class="series-number">36.</span> Wenn ich das Urmeter in Paris sähe, aber die Institution des Messens & ihren Zusammenhang mit dem ‘Urmeter’ nicht kennte – könnte ich sagen, ich kenne den Begriff des Urmeters?
+<span class="series-number">36</span> Wenn ich das Urmeter in Paris sähe, aber die Institution des Messens & ihren Zusammenhang mit dem ‘Urmeter’ nicht kennte – könnte ich sagen, ich kenne den Begriff des Urmeters?
 
 ### [Ms-122](/ms-122/#64v.3) <span class="fac">[64v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/64v.webp)</span> {#ms-122-64v3}
 
@@ -566,11 +566,11 @@ Der Beweis ist ein Instrument – aber warum sage ich: “ein Instrument der Spr
 
 ### [Ms-122](/ms-122/#66r.2) <span class="fac">[66r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/66r.webp)</span> {#ms-122-66r2}
 
-<span class="series-number">37.</span> Was ich immer tue, scheint zu sein, zwischen Sinnbestimmung & Sinnverwendung einen Unterschied hervorzuheben.
+<span class="series-number">37</span> Was ich immer tue, scheint zu sein, zwischen Sinnbestimmung & Sinnverwendung einen Unterschied hervorzuheben.
 
 ### [Ms-122](/ms-122/#68r.4+68v.1) <span class="fac">[68r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/68r.webp),[68v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/68v.webp)</span> {#ms-122-68r468v1}
 
-<span class="series-number">38.</span> Den Beweis anerkennen: Man kann ihn anerkennen als Paradigma der Figur, die entsteht, wenn _diese_ Regeln richtig auf gewisse Figuren angewandt wurden. Man kann ihn anerkennen als die richtige Ableitung einer Schlußregel. Oder als eine richtige Ableitung aus einem richtigen Erfahrungssatz; oder als die richtige Ableitung aus einem falschen Erfahrungssatz; oder einfach als die richtige Ableitung aus einem Erfahrungssatz, von dem wir nicht wissen ob er wahr oder falsch ist.
+<span class="series-number">38</span> Den Beweis anerkennen: Man kann ihn anerkennen als Paradigma der Figur, die entsteht, wenn _diese_ Regeln richtig auf gewisse Figuren angewandt wurden. Man kann ihn anerkennen als die richtige Ableitung einer Schlußregel. Oder als eine richtige Ableitung aus einem richtigen Erfahrungssatz; oder als die richtige Ableitung aus einem falschen Erfahrungssatz; oder einfach als die richtige Ableitung aus einem Erfahrungssatz, von dem wir nicht wissen ob er wahr oder falsch ist.
 
 ### [Ms-122](/ms-122/#69r.2+69v.1) <span class="fac">[69r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/69r.webp),[69v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/69v.webp)</span> {#ms-122-69r269v1}
 
@@ -596,7 +596,7 @@ Ein Beweis könnte doch aus bloß zwei Stufen bestehen: etwa einem Satz ‘(x).f
 
 ### [Ms-122](/ms-122/#72r.3) <span class="fac">[72r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/72r.webp)</span> {#ms-122-72r3}
 
-<span class="series-number">39.</span> 01.01.1940
+<span class="series-number">39</span> 01.01.1940
 
 _Was_ ist unerschütterlich gewiß am Bewiesenen?
 
@@ -640,11 +640,11 @@ Das heißt: es darf keine physikalische Untersuchung des Beweisbildes nötig sei
 
 ### [Ms-122](/ms-122/#75r.3+75v.1) <span class="fac">[75r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/75r.webp),[75v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/75v.webp)</span> {#ms-122-75r375v1}
 
-<span class="series-number">40.</span> Wir sagen von zwei Menschen auf einem Bild nicht _vor allem_: der eine erscheine kleiner als der andre, & _erst dann_, er erscheine weiter weg zu sein. Es ist, kann man sagen, wohl möglich daß uns das kürzer sein gar nicht auffällt sondern _bloß_ das Hintenliegen. (Dies scheint mir mit der Frage der ‘geometrischen’ Auffassung des Beweises zusammen zu hängen.)
+<span class="series-number">40</span> Wir sagen von zwei Menschen auf einem Bild nicht _vor allem_: der eine erscheine kleiner als der andre, & _erst dann_, er erscheine weiter weg zu sein. Es ist, kann man sagen, wohl möglich daß uns das kürzer sein gar nicht auffällt sondern _bloß_ das Hintenliegen. (Dies scheint mir mit der Frage der ‘geometrischen’ Auffassung des Beweises zusammen zu hängen.)
 
 ### [Ms-122](/ms-122/#75v.2) <span class="fac">[75v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/75v.webp)</span> {#ms-122-75v2}
 
-<span class="series-number">41.</span> 03.01.1940
+<span class="series-number">41</span> 03.01.1940
 
 ‘Er ist das Vorbild für das, was man so & so nennt.’
 
@@ -682,7 +682,7 @@ Der Beweis schafft einen neuen Begriff – indem er ein neues Zeichen schafft, o
 
 ### [Ms-122](/ms-122/#79v.2) <span class="fac">[79v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/79v.webp)</span> {#ms-122-79v2}
 
-<span class="series-number">42.</span> Es darf nicht _vorstellbar_ sein, daß _diese_ Substitution in _diesem_ Ausdruck etwas anderes ergibt. Oder: ich muß es für nicht vorstellbar erklären. (Das Ergebnis eines Experiments aber kann man sich _so_ & _so_ vorstellen.)
+<span class="series-number">42</span> Es darf nicht _vorstellbar_ sein, daß _diese_ Substitution in _diesem_ Ausdruck etwas anderes ergibt. Oder: ich muß es für nicht vorstellbar erklären. (Das Ergebnis eines Experiments aber kann man sich _so_ & _so_ vorstellen.)
 
 ### [Ms-122](/ms-122/#79v.3+80r.1) <span class="fac">[79v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/79v.webp),[80r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/80r.webp)</span> {#ms-122-79v380r1}
 
@@ -702,7 +702,7 @@ Nicht etwas hinter dem Beweise, sondern der Beweis beweist.
 
 ### [Ms-122](/ms-122/#82v.3) <span class="fac">[82v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/82v.webp)</span> {#ms-122-82v3}
 
-<span class="series-number">43.</span> 07.01.1940
+<span class="series-number">43</span> 07.01.1940
 
 Wenn ich sage: “es muß vor allem offenbar sein, daß _diese_ Substitution wirklich _diesen_ Ausdruck ergibt” – so könnte ich auch sagen: “ich muß es als unzweifelhaft annehmen” – aber dann müssen dafür gute Gründe vorliegen: Z.B., daß die gleiche Substitution so gut wie immer das gleiche Resultat ergibt etc. Und besteht darin nicht eben die Übersehbarkeit?
 
@@ -730,7 +730,7 @@ Die logische Gewißheit der Beweise – will ich sagen – reicht nicht weiter, 
 
 ### [Ms-122](/ms-122/#84r.4) <span class="fac">[84r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84r.webp)</span> {#ms-122-84r4}
 
-<span class="series-number">44.</span> Wenn nun der Beweis ein Vorbild ist, so muß es darauf ankommen, was als eine richtige Reproduktion des Beweises zu gelten hat.
+<span class="series-number">44</span> Wenn nun der Beweis ein Vorbild ist, so muß es darauf ankommen, was als eine richtige Reproduktion des Beweises zu gelten hat.
 
 ### [Ms-122](/ms-122/#84r.5+84v.1) <span class="fac">[84r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84r.webp),[84v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84v.webp)</span> {#ms-122-84r584v1}
 
@@ -746,7 +746,7 @@ Ich möchte, sozusagen, zeigen, daß wir den logischen Beweisen in der Mathemati
 
 ### [Ms-122](/ms-122/#85r.1+85v.1) <span class="fac">[85r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/85r.webp),[85v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/85v.webp)</span> {#ms-122-85r185v1}
 
-<span class="series-number">45.</span> “Durch entsprechende Definitionen können wir “25 × 25 = 625” in der R.schen Logik beweisen.” – Und kann ich die gewöhnliche Beweistechnik durch die R.sche erklären? Aber wie kann man eine Beweistechnik durch eine andere _erklären_? Wie kann eine _das Wesen_ einer andern erklären? Denn ist die eine eine ‘Abkürzung’ der anderen, so muß sie doch eine _systematische_ Abkürzung sein. Es bedarf doch eines Beweises, daß ich die langen Beweise systematisch abkürzen kann & also wieder ein System von Beweisen erhalte. Die langen Beweise gehen nun (zuerst) immer mit den kurzen einher & geben ihnen gleichsam ihre Sanktion. Aber endlich können sie den kurzen nicht mehr folgen & diese zeigen ihre Selbständigkeit.
+<span class="series-number">45</span> “Durch entsprechende Definitionen können wir “25 × 25 = 625” in der R.schen Logik beweisen.” – Und kann ich die gewöhnliche Beweistechnik durch die R.sche erklären? Aber wie kann man eine Beweistechnik durch eine andere _erklären_? Wie kann eine _das Wesen_ einer andern erklären? Denn ist die eine eine ‘Abkürzung’ der anderen, so muß sie doch eine _systematische_ Abkürzung sein. Es bedarf doch eines Beweises, daß ich die langen Beweise systematisch abkürzen kann & also wieder ein System von Beweisen erhalte. Die langen Beweise gehen nun (zuerst) immer mit den kurzen einher & geben ihnen gleichsam ihre Sanktion. Aber endlich können sie den kurzen nicht mehr folgen & diese zeigen ihre Selbständigkeit.
 
 ### [Ms-122](/ms-122/#85v.2) <span class="fac">[85v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/85v.webp)</span> {#ms-122-85v2}
 
@@ -754,7 +754,7 @@ Das Betrachten der _langen_ unübersehbaren logischen Beweise ist nur ein Mittel
 
 ### [Ms-122](/ms-122/#86r.2) <span class="fac">[86r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/86r.webp)</span> {#ms-122-86r2}
 
-<span class="series-number">46.</span> Ich will sagen: Die Mathematik ist ein _buntes Gemisch_ von Beweistechniken. – – Und darauf beruht ihre mannigfache Anwendbarkeit & ihre Wichtigkeit.
+<span class="series-number">46</span> Ich will sagen: Die Mathematik ist ein _buntes Gemisch_ von Beweistechniken. – – Und darauf beruht ihre mannigfache Anwendbarkeit & ihre Wichtigkeit.
 
 ### [Ms-122](/ms-122/#86r.3) <span class="fac">[86r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/86r.webp)</span> {#ms-122-86r3}
 
@@ -810,7 +810,7 @@ Ich möchte sagen: R.'s Begründung der Mathematik schiebt die Einführung neuer
 
 ### [Ms-122](/ms-122/#90v.2+91r.1) <span class="fac">[90v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/90v.webp),[91r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/91r.webp)</span> {#ms-122-90v291r1}
 
-<span class="series-number">47.</span> 11.01.1940
+<span class="series-number">47</span> 11.01.1940
 
 Kann man nun, was ich sagen will _so_ ausdrücken: “Wenn wir von Anfang an gelernt hätten alle Mathematik in R's System zu schreiben, so wäre natürlich mit dem R'schen Kalkül die Differentialrechnung, z.B., noch nicht erfunden. Wer also diese Rechnungsart _im R'schen Kalkül_ entdeckte – – –.”
 
@@ -948,11 +948,11 @@ Nicht die Einführung der Zahlzeichen als Abkürzungen ist wichtig, sondern der 
 
 ### [Ms-122](/ms-122/#96r.3+96v.1) <span class="fac">[96r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96r.webp),[96v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96v.webp)</span> {#ms-122-96r396v1}
 
-<span class="series-number">48.</span> Ich will die Buntheit der Mathematik erklären.
+<span class="series-number">48</span> Ich will die Buntheit der Mathematik erklären.
 
 ### [Ms-122](/ms-122/#96v.2+97r.1) <span class="fac">[96v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96v.webp),[97r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/97r.webp)</span> {#ms-122-96v297r1}
 
-<span class="series-number">49.</span> ‘Ich kann auch in Russell's System den Beweis führen, daß 127 : 18 = 7˙055 ist.’ Warum nicht. – Aber muß beim R.schen Beweis dasselbe herauskommen, wie bei der gewöhnlichen Division? Die beiden sind freilich durch eine _Rechnung_ (durch Übersetzungsregeln etwa) mit einander verbunden; aber ist es nicht doch gewagt die Division in der ‘sekundären’ Technik zu rechnen?
+<span class="series-number">49</span> ‘Ich kann auch in Russell's System den Beweis führen, daß 127 : 18 = 7˙055 ist.’ Warum nicht. – Aber muß beim R.schen Beweis dasselbe herauskommen, wie bei der gewöhnlichen Division? Die beiden sind freilich durch eine _Rechnung_ (durch Übersetzungsregeln etwa) mit einander verbunden; aber ist es nicht doch gewagt die Division in der ‘sekundären’ Technik zu rechnen?
 
 ### [Ms-122](/ms-122/#97r.2) <span class="fac">[97r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/97r.webp)</span> {#ms-122-97r2}
 
@@ -966,7 +966,7 @@ Aber wenn nun Einer sagte: “Unsinn – solche Bedenken spielen gar keine Rolle
 
 ### [Ms-122](/ms-122/#98v.1) <span class="fac">[98v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/98v.webp)</span> {#ms-122-98v1}
 
-<span class="series-number">50.</span> Die Trigonometrie hat ihre Wichtigkeit ursprünglich in ihrer Verbindung mit Längen- & Winkelmessungen: sie ist ein Stück Mathematik, das zur Anwendung auf Längen- & Winkelmessungen eingerichtet ist. Man könnte die Anwendbarkeit auf dieses Gebiet auch einen ‘Aspekt’ der Trigonometrie nennen.
+<span class="series-number">50</span> Die Trigonometrie hat ihre Wichtigkeit ursprünglich in ihrer Verbindung mit Längen- & Winkelmessungen: sie ist ein Stück Mathematik, das zur Anwendung auf Längen- & Winkelmessungen eingerichtet ist. Man könnte die Anwendbarkeit auf dieses Gebiet auch einen ‘Aspekt’ der Trigonometrie nennen.
 
 ### [Ms-122](/ms-122/#98v.2) <span class="fac">[98v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/98v.webp)</span> {#ms-122-98v2}
 
@@ -986,7 +986,7 @@ Gehören die Figuren (Illustrationen) in der Trigonometrie zur reinen Mathematik
 
 ### [Ms-122](/ms-122/#99v.4) <span class="fac">[99v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/99v.webp)</span> {#ms-122-99v4}
 
-<span class="series-number">51.</span> 16.01.1940
+<span class="series-number">51</span> 16.01.1940
 
 Wenn an dem, was ich sagen will, irgend etwas Wahres ist, so muß, _z.B._, das Rechnen in der Dezimalnotation sein eigenes Leben haben. – Man kann natürlich jede Dezimalzahl darstellen in der Form:
 
@@ -996,11 +996,11 @@ Wenn an dem, was ich sagen will, irgend etwas Wahres ist, so muß, _z.B._, das R
 
 ### [Ms-122](/ms-122/#100r.1) <span class="fac">[100r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/100r.webp)</span> {#ms-122-100r1}
 
-<span class="series-number">52.</span> In diesem Zusammenhang fällt mir immer wieder dies ein: Daß man in R.'s Logik zwar einen Satz a : b = c _beweisen_ kann, daß sie uns aber einen richtigen Satz dieser Form nicht konstruieren lehrt, d.h. daß sie uns nicht _Dividieren_ lehrt. Der Vorgang des Dividierens entspräche z.B. dem eines _systematischen Probierens_ R'scher Beweise zu dem Zwecke etwa den Beweis eines Satzes von der Form 37 × 15 = x zu erhalten. ‘Aber die Technik eines solchen systematischen Probierens gründet sich doch wieder auf Logik. Man kann doch wieder logisch beweisen, daß diese Technik zum Ziel führen muß.’ Es ist also ähnlich, wie wenn wir im Euklid beweisen, daß sich das & das so & so konstruieren läßt.
+<span class="series-number">52</span> In diesem Zusammenhang fällt mir immer wieder dies ein: Daß man in R.'s Logik zwar einen Satz a : b = c _beweisen_ kann, daß sie uns aber einen richtigen Satz dieser Form nicht konstruieren lehrt, d.h. daß sie uns nicht _Dividieren_ lehrt. Der Vorgang des Dividierens entspräche z.B. dem eines _systematischen Probierens_ R'scher Beweise zu dem Zwecke etwa den Beweis eines Satzes von der Form 37 × 15 = x zu erhalten. ‘Aber die Technik eines solchen systematischen Probierens gründet sich doch wieder auf Logik. Man kann doch wieder logisch beweisen, daß diese Technik zum Ziel führen muß.’ Es ist also ähnlich, wie wenn wir im Euklid beweisen, daß sich das & das so & so konstruieren läßt.
 
 ### [Ms-122](/ms-122/#100v.3+101r.1) <span class="fac">[100v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/100v.webp),[101r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/101r.webp)</span> {#ms-122-100v3101r1}
 
-<span class="series-number">53.</span> 17.01.1940
+<span class="series-number">53</span> 17.01.1940
 
 Was will Einer zeigen, der zeigen will, daß Mathematik nicht Logik ist? Er will doch etwas sagen wie: – Wenn man Tische, Stühle, Schränke etc. in genug Papier wickelt, werden sie endlich gewiß alle kugelförmig ausschauen.
 
@@ -1028,7 +1028,7 @@ Und warum nehmen wir den einen an Stelle des andern an? Aus _logischen_ Gründen
 
 ### [Ms-122](/ms-122/#104v.2) <span class="fac">[104v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/104v.webp)</span> {#ms-122-104v2}
 
-<span class="series-number">54.</span> Wie kann der Beweis im Strichsystem beweisen, daß der Beweis im Dezimalsystem ein Beweis ist?
+<span class="series-number">54</span> Wie kann der Beweis im Strichsystem beweisen, daß der Beweis im Dezimalsystem ein Beweis ist?
 
 ### [Ms-122](/ms-122/#104v.3) <span class="fac">[104v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/104v.webp)</span> {#ms-122-104v3}
 
@@ -1044,7 +1044,7 @@ Der rekursive Beweis führt eine neue Zeichentechnik ein. – Er muß also den �
 
 ### [Ms-122](/ms-122/#105v.3+106r.1+106v.1) <span class="fac">[105v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/105v.webp),[106r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/106r.webp),[106v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/106v.webp)</span> {#ms-122-105v3106r1106v1}
 
-<span class="series-number">55.</span> 22.01.1940
+<span class="series-number">55</span> 22.01.1940
 
 Der Beweis zeigt uns, was herauskommen _soll_. – Und da jede Reproduktion des Beweises das nämliche demonstrieren muß, so muß sie einerseits das Resultat automatisch reproduzieren, anderseits aber auch den _Zwang_ es zu erhalten.
 
@@ -1060,7 +1060,7 @@ Wir müssen einerseits den Beweis automatisch ganz reproduzieren können, & ande
 
 ### [Ms-122](/ms-122/#109v.2) <span class="fac">[109v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/109v.webp)</span> {#ms-122-109v2}
 
-<span class="series-number">56.</span> Wann sagen wir: ein Kalkül ‘entspräche’ einem andern, sei nur die abgekürzte Form des ersten? – ‘Nun, wenn man die Resultate dieses, durch entsprechende Definitionen in die Resultate jenes überführen kann.’ Aber ist schon gesagt, wie man mit diesen Definitionen zu rechnen hat? Was macht uns diese Übertragung anerkennen? Ist sie am Ende ein abgekartetes Spiel? Das ist sie, wenn wir entschlossen sind nur die Übertragung anzuerkennen, die zu dem uns gewohnten Resultat führt.
+<span class="series-number">56</span> Wann sagen wir: ein Kalkül ‘entspräche’ einem andern, sei nur die abgekürzte Form des ersten? – ‘Nun, wenn man die Resultate dieses, durch entsprechende Definitionen in die Resultate jenes überführen kann.’ Aber ist schon gesagt, wie man mit diesen Definitionen zu rechnen hat? Was macht uns diese Übertragung anerkennen? Ist sie am Ende ein abgekartetes Spiel? Das ist sie, wenn wir entschlossen sind nur die Übertragung anzuerkennen, die zu dem uns gewohnten Resultat führt.
 
 ### [Ms-122](/ms-122/#110r.2+110v.1) <span class="fac">[110r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/110r.webp),[110v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/110v.webp)</span> {#ms-122-110r2110v1}
 
@@ -1068,7 +1068,7 @@ Warum nennen wir einen Teil des R'schen Kalküls den der Differentialrechnung en
 
 ### [Ms-122](/ms-122/#110v.2+111r.1) <span class="fac">[110v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/110v.webp),[111r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111r.webp)</span> {#ms-122-110v2111r1}
 
-<span class="series-number">57.</span> 26.01.1940
+<span class="series-number">57</span> 26.01.1940
 
 Nun muß klar gesagt werden, daß die Rechnungen in der Strichnotation <math class="stacked" display="inline"><mo>(</mo><msub><mi>S</mi><mi>N</mi></msub><mo>)</mo></math> normalerweise immer mit denen in der Dezimalnotation übereinstimmen werden. Vielleicht werden wir, um sichere Übereinstimmung zu erzielen, an einem Punkt dazu greifen müssen, die Rechnung mit Strichen von _mehreren_ Leuten nachrechnen zu lassen. Und das Gleiche werden wir bei Rechnungen mit noch höheren Zahlen im Dezimalsystem vornehmen. Aber das zeigt freilich schon: daß nicht die Beweise im Strichsystem die Beweise im Dezimalsystem zwingend machen.
 
@@ -1078,7 +1078,7 @@ Nun muß klar gesagt werden, daß die Rechnungen in der Strichnotation <math cla
 
 ### [Ms-122](/ms-122/#111v.3+112r.1) <span class="fac">[111v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111v.webp),[112r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/112r.webp)</span> {#ms-122-111v3112r1}
 
-<span class="series-number">58.</span> 28.01.1940
+<span class="series-number">58</span> 28.01.1940
 
 Es wäre natürlich Unsinn zu sagen, daß _ein_ Satz nicht mehrere Beweise haben kann – denn so sagen wir eben. Aber kann man nicht sagen: _Dieser_ Beweis zeigt daß … herauskommt, wenn man _das_ tut; der andre Beweis zeigt, daß dieser Ausdruck herauskommt, wenn man etwas andres tut. Ist denn z.B. das mathematische Faktum, daß 129 durch 3 teilbar ist, unabhängig davon, daß _dies_ Resultat bei _dieser_ Rechnung herauskommt? Ich meine: ist das Faktum dieser Teilbarkeit unabhängig von dem _Kalkül_ vorhanden, in dem es sich ergibt; oder ist es ein Faktum dieses Kalküls?
 
@@ -1096,11 +1096,11 @@ Man kann mich auf verschiedenen Wegen dazu bringen, diese Regel anzunehmen.
 
 ### [Ms-117](/ms-117/#154.1) <span class="fac">[154\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/154.webp)</span> {#ms-117-1541}
 
-<span class="series-number">59.</span> “Jeder Beweis zeigt nicht nur den bewiesenen Satz, sondern auch, daß er sich _so_ beweisen läßt.” – Aber dies letztere läßt sich ja auch anders beweisen. – “Ja aber der Beweis beweist es auf eine bestimmte Weise & beweist, daher, daß es sich auf diese Weise demonstrieren läßt.” – Aber auch _das_ ließ sich durch einen andern Beweis zeigen. – “Ja aber eben nicht auf diese Weise.” – Das heißt doch etwa: Dieser Beweis ist ein mathematisches Wesen, das sich durch kein andres Wesen ersetzen läßt; man kann sagen, er könne uns von etwas überzeugen wovon uns nichts anderes überzeugen kann, & man kann ihm daher einen Satz zuordnen, den man keinem andern Beweis zuordnet.
+<span class="series-number">59</span> “Jeder Beweis zeigt nicht nur den bewiesenen Satz, sondern auch, daß er sich _so_ beweisen läßt.” – Aber dies letztere läßt sich ja auch anders beweisen. – “Ja aber der Beweis beweist es auf eine bestimmte Weise & beweist, daher, daß es sich auf diese Weise demonstrieren läßt.” – Aber auch _das_ ließ sich durch einen andern Beweis zeigen. – “Ja aber eben nicht auf diese Weise.” – Das heißt doch etwa: Dieser Beweis ist ein mathematisches Wesen, das sich durch kein andres Wesen ersetzen läßt; man kann sagen, er könne uns von etwas überzeugen wovon uns nichts anderes überzeugen kann, & man kann ihm daher einen Satz zuordnen, den man keinem andern Beweis zuordnet.
 
 ### [Ms-117](/ms-117/#155.2) <span class="fac">[155\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/155.webp)</span> {#ms-117-1552}
 
-<span class="series-number">60.</span> Aber mache ich nicht einen groben Fehler? Den Sätzen der Arithmetik & den Sätzen der R.schen Logik ist es ja geradezu wesentlich, daß verschiedene Beweise zu ihnen führen. Ja sogar, daß unendlich viele Beweise zu einem jeden von ihnen führen.
+<span class="series-number">60</span> Aber mache ich nicht einen groben Fehler? Den Sätzen der Arithmetik & den Sätzen der R.schen Logik ist es ja geradezu wesentlich, daß verschiedene Beweise zu ihnen führen. Ja sogar, daß unendlich viele Beweise zu einem jeden von ihnen führen.
 
 ### [Ms-117](/ms-117/#155.3) <span class="fac">[155\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/155.webp)</span> {#ms-117-1553}
 
@@ -1122,7 +1122,7 @@ Was _lernen_ wir, wenn wir den neuen Beweis sehen, außer den Satz, den wir ohne
 
 ### [Ms-117](/ms-117/#158.3) <span class="fac">[158\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/158.webp)</span> {#ms-117-1583}
 
-<span class="series-number">61.</span> Inwiefern hängt die Anwendung eines math. Satzes davon ab, was man als seinen Beweis gelten läßt & was nicht?
+<span class="series-number">61</span> Inwiefern hängt die Anwendung eines math. Satzes davon ab, was man als seinen Beweis gelten läßt & was nicht?
 
 ### [Ms-117](/ms-117/#158.4+159.1) <span class="fac">[158\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/158.webp),[159\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/159.webp)</span> {#ms-117-15841591}
 
@@ -1130,27 +1130,27 @@ Ich kann doch sagen: Wenn der Satz 137 × 373 = 46792 im gewöhnlichen Sinne wah
 
 ### [Ms-117](/ms-117/#161.4) <span class="fac">[161\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/161.webp)</span> {#ms-117-1614}
 
-<span class="series-number">62.</span> 11.02.1940
+<span class="series-number">62</span> 11.02.1940
 
 Bedenken wir, daß es nicht genug ist, daß sich zwei Beweise im selben Satzzeichen treffen! Denn wie wissen wir, daß dies Zeichen beidemale dasselbe sagt? _Dies_ muß aus anderen Zusammenhängen hervorgehen.
 
 ### [Ms-117](/ms-117/#160.7) <span class="fac">[160\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/160.webp)</span> {#ms-117-1607}
 
-<span class="series-number">63.</span> Die _genaue_ Entsprechung eines richtigen (überzeugenden) Übergangs in der Musik & in der Mathematik.
+<span class="series-number">63</span> Die _genaue_ Entsprechung eines richtigen (überzeugenden) Übergangs in der Musik & in der Mathematik.
 
 ### [Ms-117](/ms-117/#164.3) <span class="fac">[164\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/164.webp)</span> {#ms-117-1643}
 
-<span class="series-number">64.</span> Denke, ich gäbe jemand die Aufgabe: ‘Finde einen Beweis des Satzes …’ – die Antwort ist doch, daß er mir gewisse Zeichen vorlegt. Nun gut: _welcher_ Bedingung müssen diese Zeichen genügen? Sie müssen ein Beweis jenes Satzes sein – aber ist das etwa eine _geometrische_ Bedingung? Oder eine psychologische? Manchmal könnte man es eine geometrische Bedingung nennen; dort, wo die Beweismittel schon vorgeschrieben sind & nur noch eine bestimmte Zusammenstellung gesucht wird.
+<span class="series-number">64</span> Denke, ich gäbe jemand die Aufgabe: ‘Finde einen Beweis des Satzes …’ – die Antwort ist doch, daß er mir gewisse Zeichen vorlegt. Nun gut: _welcher_ Bedingung müssen diese Zeichen genügen? Sie müssen ein Beweis jenes Satzes sein – aber ist das etwa eine _geometrische_ Bedingung? Oder eine psychologische? Manchmal könnte man es eine geometrische Bedingung nennen; dort, wo die Beweismittel schon vorgeschrieben sind & nur noch eine bestimmte Zusammenstellung gesucht wird.
 
 ### [Ms-117](/ms-117/#172.2) <span class="fac">[172\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/172.webp)</span> {#ms-117-1722}
 
-<span class="series-number">65.</span> 20.02.1940
+<span class="series-number">65</span> 20.02.1940
 
 Sind die Sätze der Mathematik anthropologische Sätze, die sagen wie wir Menschen schließen & kalkulieren? – Ist ein Gesetzbuch ein Werk über Anthropologie das uns sagt wie die Leute dieses Volkes einen Dieb etc. behandeln? ‒ ‒ Könnte man sagen: “Der Richter schlägt in einem Buch über Anthropologie nach & verurteilt hierauf den Dieb zu einer Gefängnisstrafe.” Nun der Richter _gebraucht_ das Gesetzbuch nicht als Handbuch der Anthropologie. (Gespräch mit Sraffa.)
 
 ### [Ms-117](/ms-117/#173.2) <span class="fac">[173\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/173.webp)</span> {#ms-117-1732}
 
-<span class="series-number">66.</span> Die Prophezeiung lautet _nicht_, daß der Mensch, wenn er bei der Transformation dieser Regel folgt _das_ herausbringen wird– sondern, daß er, wenn wir _sagen_, er folge der Regel, das herausbringen werde.
+<span class="series-number">66</span> Die Prophezeiung lautet _nicht_, daß der Mensch, wenn er bei der Transformation dieser Regel folgt _das_ herausbringen wird– sondern, daß er, wenn wir _sagen_, er folge der Regel, das herausbringen werde.
 
 ### [Ms-117](/ms-117/#173.3+174.1) <span class="fac">[173\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/173.webp),[174\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/174.webp)</span> {#ms-117-17331741}
 
@@ -1158,7 +1158,7 @@ Wie, wenn wir sagten, daß mathematische Sätze, in _diesem_ Sinne, Prophezeiung
 
 ### [Ms-117](/ms-117/#175.3) <span class="fac">[175\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/175.webp)</span> {#ms-117-1753}
 
-<span class="series-number">67.</span> Zum Rechnen gehört, _wesentlich_, dieser Konsensus, das ist sicher. D.h.: zum Phänomen unseres Rechnens gehört dieser Konsensus.
+<span class="series-number">67</span> Zum Rechnen gehört, _wesentlich_, dieser Konsensus, das ist sicher. D.h.: zum Phänomen unseres Rechnens gehört dieser Konsensus.
 
 ### [Ms-117](/ms-117/#175.4) <span class="fac">[175\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/175.webp)</span> {#ms-117-1754}
 
@@ -1182,7 +1182,7 @@ Wenn in der Früh im Ofen Feuer gemacht wird, ist das ein Experiment? Aber es k�
 
 ### [Ms-117](/ms-117/#178.3) <span class="fac">[178\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/178.webp)</span> {#ms-117-1783}
 
-<span class="series-number">68.</span> Wenn eine Rechnung ein Experiment ist; was ist dann ein Fehler in der Rechnung? Ein Fehler im Experiment? Nicht doch; ein Fehler im Experiment wäre es gewesen, wenn ich die _Bedingungen_ des Experiments nicht eingehalten hätte, wenn ich also jemand etwa bei furchtbarem Lärm hätte rechnen lassen.
+<span class="series-number">68</span> Wenn eine Rechnung ein Experiment ist; was ist dann ein Fehler in der Rechnung? Ein Fehler im Experiment? Nicht doch; ein Fehler im Experiment wäre es gewesen, wenn ich die _Bedingungen_ des Experiments nicht eingehalten hätte, wenn ich also jemand etwa bei furchtbarem Lärm hätte rechnen lassen.
 
 ### [Ms-117](/ms-117/#178.4) <span class="fac">[178\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/178.webp)</span> {#ms-117-1784}
 
@@ -1190,7 +1190,7 @@ Aber warum soll ich nicht sagen: Ein Rechenfehler ist zwar kein _Fehler_ im Expe
 
 ### [Ms-117](/ms-117/#180.3) <span class="fac">[180\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/180.webp)</span> {#ms-117-1803}
 
-<span class="series-number">69.</span> “Eine Rechnung, z.B. eine Multiplikation, ist ein Experiment: _wir wissen nicht, was herauskommen wird_, & erfahren es nun, wenn die Multiplikation fertig ist.” – Gewiß; wir wissen auch nicht, wenn wir spazierengehen, an welchem Punkt wir uns in 5 Minuten befinden werden – aber ist Spazierengehen deshalb ein Experiment? – Ja; aber in der Rechnung wollte ich doch, von vornherein, wissen, was herauskommen werde; _das_ war es doch, was mich interessierte. Ich bin doch neugierig auf das Resultat. Aber nicht als auf das, was ich sagen _werde_, sondern, was ich sagen _soll_.
+<span class="series-number">69</span> “Eine Rechnung, z.B. eine Multiplikation, ist ein Experiment: _wir wissen nicht, was herauskommen wird_, & erfahren es nun, wenn die Multiplikation fertig ist.” – Gewiß; wir wissen auch nicht, wenn wir spazierengehen, an welchem Punkt wir uns in 5 Minuten befinden werden – aber ist Spazierengehen deshalb ein Experiment? – Ja; aber in der Rechnung wollte ich doch, von vornherein, wissen, was herauskommen werde; _das_ war es doch, was mich interessierte. Ich bin doch neugierig auf das Resultat. Aber nicht als auf das, was ich sagen _werde_, sondern, was ich sagen _soll_.
 
 ### [Ms-117](/ms-117/#181.3) <span class="fac">[181\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/181.webp)</span> {#ms-117-1813}
 
@@ -1210,7 +1210,7 @@ Wir sagen nicht: “also _so_ gehen wir!”, sondern: “also _so_ geht es!”
 
 ### [Ms-117](/ms-117/#184a.2) <span class="fac">[184a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184a.webp)</span> {#ms-117-184a2}
 
-<span class="series-number">70.</span> Unsre Zustimmung läuft gleich ab, – aber wir bedienen uns dieser Gleichheit des Ablaufs nicht bloß, um Zustimmungsabläufe vorauszusagen. Wie wir uns des Satzes “dies Heft ist rot” nicht nur _dazu bedienen_ um vorherzusagen, daß die meisten Menschen es ‘rot’ nennen werden.
+<span class="series-number">70</span> Unsre Zustimmung läuft gleich ab, – aber wir bedienen uns dieser Gleichheit des Ablaufs nicht bloß, um Zustimmungsabläufe vorauszusagen. Wie wir uns des Satzes “dies Heft ist rot” nicht nur _dazu bedienen_ um vorherzusagen, daß die meisten Menschen es ‘rot’ nennen werden.
 
 ### [Ms-117](/ms-117/#184a.3+184b.1) <span class="fac">[184a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184a.webp),[184b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184b.webp)</span> {#ms-117-184a3184b1}
 
@@ -1224,7 +1224,7 @@ Wir sagen nicht: “also _so_ gehen wir!”, sondern: “also _so_ geht es!”
 
 ### [Ms-117](/ms-117/#184b.4) <span class="fac">[184b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184b.webp)</span> {#ms-117-184b4}
 
-<span class="series-number">71.</span> Man könnte sagen: ein Beweis dient der _Verständigung_. Ein Experiment setzt sie voraus. Oder auch: Ein math. Beweis formt unsere Sprache.
+<span class="series-number">71</span> Man könnte sagen: ein Beweis dient der _Verständigung_. Ein Experiment setzt sie voraus. Oder auch: Ein math. Beweis formt unsere Sprache.
 
 ### [Ms-117](/ms-117/#185.1) <span class="fac">[185\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/185.webp)</span> {#ms-117-1851}
 
@@ -1236,7 +1236,7 @@ _‘**Die Grenzen des Empirismus**’_
 
 ### [Ms-117](/ms-117/#185.3+186.1) <span class="fac">[185\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/185.webp),[186\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/186.webp)</span> {#ms-117-18531861}
 
-<span class="series-number">72.</span> Wenn ich die Multiplikation rechne, – ist das Resultat: daß die Menschen allgemein damit übereinstimmen werden? Es gibt doch eine Wissenschaft von den konditionierten Rechenreflexen; ist das die Mathematik? Jene Wissenschaft wird sich auf Experimente stützen: & diese Experimente werden _Rechnungen_ sein. Aber wie, wenn diese Wissenschaft recht exakt, & am Ende gar eine ‘mathematische’ Wissenschaft würde? Ist das Resultat dieser Experimente nun, daß (die) Menschen in ihren Rechnungen übereinstimmen, oder, daß sie darin übereinstimmen, was sie “übereinstimmen” nennen? Und das geht so weiter.
+<span class="series-number">72</span> Wenn ich die Multiplikation rechne, – ist das Resultat: daß die Menschen allgemein damit übereinstimmen werden? Es gibt doch eine Wissenschaft von den konditionierten Rechenreflexen; ist das die Mathematik? Jene Wissenschaft wird sich auf Experimente stützen: & diese Experimente werden _Rechnungen_ sein. Aber wie, wenn diese Wissenschaft recht exakt, & am Ende gar eine ‘mathematische’ Wissenschaft würde? Ist das Resultat dieser Experimente nun, daß (die) Menschen in ihren Rechnungen übereinstimmen, oder, daß sie darin übereinstimmen, was sie “übereinstimmen” nennen? Und das geht so weiter.
 
 ### [Ms-117](/ms-117/#186.2) <span class="fac">[186\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/186.webp)</span> {#ms-117-1862}
 
@@ -1248,7 +1248,7 @@ Es ist doch klar, daß wir ein mathematisches Werk zum Studium der Anthropologie
 
 ### [Ms-117](/ms-117/#187.4+188.1) <span class="fac">[187\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/187.webp),[188\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/188.webp)</span> {#ms-117-18741881}
 
-<span class="series-number">73.</span> Kann ich, am Ende einer Multiplikation angelangt, sagen: “Also _damit_ stimm' ich überein! –”? – Aber kann ich es bei einem _Schritt_ der Multiplikation sagen? Etwa bei dem Schritt “2 × 3 = 6”? Nicht ebensowenig, wie ich, auf dies Papier sehend, sagen kann: “Also das nenne ich ‘_weiß_’!”?
+<span class="series-number">73</span> Kann ich, am Ende einer Multiplikation angelangt, sagen: “Also _damit_ stimm' ich überein! –”? – Aber kann ich es bei einem _Schritt_ der Multiplikation sagen? Etwa bei dem Schritt “2 × 3 = 6”? Nicht ebensowenig, wie ich, auf dies Papier sehend, sagen kann: “Also das nenne ich ‘_weiß_’!”?
 
 ### [Ms-117](/ms-117/#188.2) <span class="fac">[188\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/188.webp)</span> {#ms-117-1882}
 
@@ -1264,7 +1264,7 @@ Aber ich sage doch anderseits wieder: ‘wie man rechnet– so ist es richtig.�
 
 ### [Ms-117](/ms-117/#189.3+190.1) <span class="fac">[189\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/189.webp),[190\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/190.webp)</span> {#ms-117-18931901}
 
-<span class="series-number">74.</span> 24.02.1940
+<span class="series-number">74</span> 24.02.1940
 
 Wenn ich eine Rechnung mehrmals nachrechne, um sicher zu sein, daß ich richtig gerechnet habe, & wenn ich sie dann als richtig anerkenne, – habe ich da nicht ein Experiment wiederholt um sicher zu sein, daß ich das nächste mal wieder gleich ablaufen werde? – Aber warum soll mich dreimaliges Nachrechnen davon überzeugen, daß ich das vierte Mal ebenso ablaufen werde. – Ich würde sagen: ich habe nachgerechnet um sicher zu sein, ‘daß ich nichts übersehen habe’. Die Gefahr ist hier, glaube ich, eine Rechtfertigung unsres Vorgehens zu geben, wo es eine Rechtfertigung nicht gibt & wir einfach sagen sollten: _so machen wir's_.
 
@@ -1278,7 +1278,7 @@ Wie, wenn ich sagte: “Wenn Einer den Tisch mit dem Zollstock mißt, so macht e
 
 ### [Ms-117](/ms-117/#192.2) <span class="fac">[192\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/192.webp)</span> {#ms-117-1922}
 
-<span class="series-number">75.</span> Das Rechnen verlöre seinen Sinn, wenn _Verwirrung_ einträte. Wie der Gebrauch der Worte “grün” & “blau” seinen Witz verlöre. Und doch scheint es Unsinn zu sein, zu sagen, – daß ein Rechensatz _sage_, es werde keine Verwirrung eintreten. – Ist die Lösung einfach die, daß der Rechensatz nicht _falsch_ werde, sondern nutzlos, wenn Verwirrung einträte? Sowie der Satz dies Zimmer ist 16 Fuß lang dadurch nicht _falsch_ würde, daß Verwirrung in den Maßstäben & im Messen einträte. Sein Sinn, nicht seine Wahrheit basiert auf dem ordnungsgemäßen Ablauf der Messungen. (Sei aber hier nicht dogmatisch. Es gibt Übergänge, die die Betrachtung erschweren.)
+<span class="series-number">75</span> Das Rechnen verlöre seinen Sinn, wenn _Verwirrung_ einträte. Wie der Gebrauch der Worte “grün” & “blau” seinen Witz verlöre. Und doch scheint es Unsinn zu sein, zu sagen, – daß ein Rechensatz _sage_, es werde keine Verwirrung eintreten. – Ist die Lösung einfach die, daß der Rechensatz nicht _falsch_ werde, sondern nutzlos, wenn Verwirrung einträte? Sowie der Satz dies Zimmer ist 16 Fuß lang dadurch nicht _falsch_ würde, daß Verwirrung in den Maßstäben & im Messen einträte. Sein Sinn, nicht seine Wahrheit basiert auf dem ordnungsgemäßen Ablauf der Messungen. (Sei aber hier nicht dogmatisch. Es gibt Übergänge, die die Betrachtung erschweren.)
 
 ### [Ms-117](/ms-117/#192.3+193.1) <span class="fac">[192\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/192.webp),[193\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/193.webp)</span> {#ms-117-19231931}
 
@@ -1306,7 +1306,7 @@ Ich will doch sagen: Die Mathematik ist als solche immer Maß & nicht Gemessenes
 
 ### [Ms-117](/ms-117/#195.3) <span class="fac">[195\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/195.webp)</span> {#ms-117-1953}
 
-<span class="series-number">76.</span> 25.02.1940
+<span class="series-number">76</span> 25.02.1940
 
 Der Begriff des Rechnens schließt _Verwirrung_ aus. – Wie, wenn Einer beim Rechnen einer Multiplikation zu verschiedenen Zeiten Verschiedenes herausbrächte & dies _sähe_, aber in der Ordnung fände? – Aber dann könnte er doch die Multiplikation nicht zu den Zwecken verwenden, wie wir es tun! – Warum nicht? Und es ist auch nicht gesagt, daß er dabei immer übel führe.
 
@@ -1320,7 +1320,7 @@ Es scheint wie Obskurantismus, wenn man sagt, eine Rechnung sei kein Experiment.
 
 ### [Ms-117](/ms-117/#204.1) <span class="fac">[204\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/204.webp)</span> {#ms-117-2041}
 
-<span class="series-number">77.</span> Ich habe ein Spiel erfunden– komme drauf, daß, wer anfängt immer gewinnen muß: Es ist also kein Spiel. Ich ändere es ab; nun ist es in Ordnung.
+<span class="series-number">77</span> Ich habe ein Spiel erfunden– komme drauf, daß, wer anfängt immer gewinnen muß: Es ist also kein Spiel. Ich ändere es ab; nun ist es in Ordnung.
 
 ### [Ms-117](/ms-117/#204.2) <span class="fac">[204\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/204.webp)</span> {#ms-117-2042}
 
@@ -1348,7 +1348,7 @@ Das heißt doch, ich will sagen, man kann es auch so auffassen: daß der Andre u
 
 ### [Ms-117](/ms-117/#206.2) <span class="fac">[206\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/206.webp)</span> {#ms-117-2062}
 
-<span class="series-number">78.</span> Nehmen wir an: die Menschen haben ursprünglich die 4 species in gewöhnlicher Weise gepflogen. Dann fingen sie an mit Klammerausdrücken zu rechnen, & auch mit solchen von der Form (a ‒ a). Sie bemerkten nun, daß, z.B., Multiplikationen vieldeutig wurden. Mußte sie das in Verwirrung stürzen? Mußten sie sagen: “Nun scheint der Grund der Arithmetik zu wanken”?
+<span class="series-number">78</span> Nehmen wir an: die Menschen haben ursprünglich die 4 species in gewöhnlicher Weise gepflogen. Dann fingen sie an mit Klammerausdrücken zu rechnen, & auch mit solchen von der Form (a ‒ a). Sie bemerkten nun, daß, z.B., Multiplikationen vieldeutig wurden. Mußte sie das in Verwirrung stürzen? Mußten sie sagen: “Nun scheint der Grund der Arithmetik zu wanken”?
 
 ### [Ms-117](/ms-117/#206.3+207.1) <span class="fac">[206\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/206.webp),[207\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/207.webp)</span> {#ms-117-20632071}
 
@@ -1400,7 +1400,7 @@ und merkte es nicht. – Dann macht mich jemand darauf aufmerksam. Auf einen Feh
 
 ### [Ms-117](/ms-117/#222.2) <span class="fac">[222\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/222.webp)</span> {#ms-117-2222}
 
-<span class="series-number">79.</span> <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="right center left" columnspacing="0.5em"><mtr><mtd><mrow><mo>~</mo><mi>f</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mo>=</mo></mtd><mtd><mrow><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo><mspace width="1em"/><mtext>Def.</mtext></mrow></mtd></mtr><mtr><mtd><mrow><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mover><mo>=</mo><mo>∴</mo></mover></mtd><mtd><mrow><mo>~</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable><mo stretchy="true" symmetric="true" rspace="0.5em">}</mo></math>
+<span class="series-number">79</span> <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="right center left" columnspacing="0.5em"><mtr><mtd><mrow><mo>~</mo><mi>f</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mo>=</mo></mtd><mtd><mrow><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo><mspace width="1em"/><mtext>Def.</mtext></mrow></mtd></mtr><mtr><mtd><mrow><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mover><mo>=</mo><mo>∴</mo></mover></mtd><mtd><mrow><mo>~</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable><mo stretchy="true" symmetric="true" rspace="0.5em">}</mo></math>
 
 Die Sätze “Φ(Φ)” & “~Φ(Φ)” scheinen uns einmal das Gleiche & einmal Entgegengesetztes zu sagen. _(Jenachdem wir ihn ansehen_ scheint der Satz “Φ(Φ)” einmal zu sagen, ~ Φ(Φ), einmal das Gegenteil davon. Und zwar sehen wir ihn einmal an als das Substitutionsprodukt
 
@@ -1450,7 +1450,7 @@ Sehen wir's vom Standpunkt der Sprachspiele an. – Wir haben ursprünglich das 
 
 ### [Ms-117](/ms-117/#227.2+228.1) <span class="fac">[227\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/227.webp),[228\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/228.webp)</span> {#ms-117-22722281}
 
-<span class="series-number">80.</span> 03.03.1940
+<span class="series-number">80</span> 03.03.1940
 
 Könnte man sich etwa denken, daß, wo ich _blau_ sehe, das bedeutet, daß der Gegenstand, den ich sehe, _nicht_ blau ist – daß die Farbe die mir erscheint immer als die gilt, die _ausgeschlossen_ ist. Ich könnte z.B. glauben, daß Gott mir immer eine Farbe zeigt, um zu sagen: Die _nicht_. Oder geht es so: Die Farbe, die ich sehe, sage mir bloß, daß diese Farbe in der Beschreibung des Gegenstands eine Rolle spielt. Sie entspricht nicht einem Satz, sondern nur dem Wort “_blau_”. Und die Beschreibung des Gegenstands kann also ebensogut heißen: “er ist blau”, als auch “er ist nicht blau”. Man sagt dann: das Auge zeigt mir nur Bläue, aber nicht die Rolle dieser Bläue. – Wir vergleichen das Sehen der Farbe mit dem Hören des Wortes “blau”, wenn wir das _Übrige_ des Satzes nicht gehört haben.
 
@@ -1496,7 +1496,7 @@ Ich möchte etwas fragen, wie: “Gehst Du bei Deinem Kalkül auf Nützlichkeit 
 
 ### [Ms-117](/ms-117/#233.1) <span class="fac">[233\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/233.webp)</span> {#ms-117-2331}
 
-<span class="series-number">81.</span> 05.03.1940
+<span class="series-number">81</span> 05.03.1940
 
 Unsre Aufgabe ist es nicht, Kalküle zu finden, sondern den _gegenwärtigen_ Zustand zu beschreiben.
 
@@ -1534,7 +1534,7 @@ Wir vertrauen, etwa, ‘mechanischen’ Mitteln des Rechnens oder Zählens mehr 
 
 ### [Ms-117](/ms-117/#239.3+240.1) <span class="fac">[239\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/239.webp),[240\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/240.webp)</span> {#ms-117-23932401}
 
-<span class="series-number">82.</span> Mein Ziel ist mir unklar: Das Ziel dieser Bemerkungen (ist mir unklar). Denn ich kann mich doch _nach_ dem Beweis der Widerspruchsfreiheit dort auskennen, wo ich mich vor dem Beweis nicht ausgekannt habe. So wie ich vor dem Beweis der zeigt, daß nur _diese_ regelmäßigen n-Ecke mit Lineal & Zirkel konstruierbar sind, aufs Geratewohl solche Vielecke zu konstruieren versuchte, & es danach aufgab. Vorher war ich nicht sicher, daß unter den Arten des Multiplizierens, die _dieser_ Beschreibung entsprechen, keine ist, die ein anderes Resultat, als das anerkannte, liefert. Nehmen wir aber an, meine Unsicherheit sei eine solche, die erst in einer gewissen Entfernung von den normalen Arten des Rechnens anfing; & nehmen wir an, wir sagten: Da schadet sie nichts, denn rechne ich auf sehr abnormale Weise, so muß ich mir eben alles noch einmal überlegen. Wäre das nicht ganz in Ordnung?
+<span class="series-number">82</span> Mein Ziel ist mir unklar: Das Ziel dieser Bemerkungen (ist mir unklar). Denn ich kann mich doch _nach_ dem Beweis der Widerspruchsfreiheit dort auskennen, wo ich mich vor dem Beweis nicht ausgekannt habe. So wie ich vor dem Beweis der zeigt, daß nur _diese_ regelmäßigen n-Ecke mit Lineal & Zirkel konstruierbar sind, aufs Geratewohl solche Vielecke zu konstruieren versuchte, & es danach aufgab. Vorher war ich nicht sicher, daß unter den Arten des Multiplizierens, die _dieser_ Beschreibung entsprechen, keine ist, die ein anderes Resultat, als das anerkannte, liefert. Nehmen wir aber an, meine Unsicherheit sei eine solche, die erst in einer gewissen Entfernung von den normalen Arten des Rechnens anfing; & nehmen wir an, wir sagten: Da schadet sie nichts, denn rechne ich auf sehr abnormale Weise, so muß ich mir eben alles noch einmal überlegen. Wäre das nicht ganz in Ordnung?
 
 ### [Ms-117](/ms-117/#240.2) <span class="fac">[240\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/240.webp)</span> {#ms-117-2402}
 
@@ -1552,7 +1552,7 @@ Wäre es mir, z.B., daran gelegen, Widersprüche, etwa zu ästhetischen Zwecken 
 
 ### [Ms-117](/ms-117/#242.5+243.1) <span class="fac">[242\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/242.webp),[243\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/243.webp)</span> {#ms-117-24252431}
 
-<span class="series-number">83.</span> Es ist ein guter Ausdruck, zu sagen: “dieser Kalkül kennt diese Ordnung (diese Methode) nicht, dieser Kalkül kennt sie.” Wie, wenn man sagte: “ein Kalkül, der diese Ordnung nicht kennt, ist eigentlich kein Kalkül”? (Ein Kanzleibetrieb, der diese Ordnung nicht kennt, ist eigentlich kein Kanzleibetrieb.)
+<span class="series-number">83</span> Es ist ein guter Ausdruck, zu sagen: “dieser Kalkül kennt diese Ordnung (diese Methode) nicht, dieser Kalkül kennt sie.” Wie, wenn man sagte: “ein Kalkül, der diese Ordnung nicht kennt, ist eigentlich kein Kalkül”? (Ein Kanzleibetrieb, der diese Ordnung nicht kennt, ist eigentlich kein Kanzleibetrieb.)
 
 ### [Ms-117](/ms-117/#243.2) <span class="fac">[243\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/243.webp)</span> {#ms-117-2432}
 
@@ -1568,7 +1568,7 @@ Der Mißbrauch der Idee der _mechanischen_ Sicherung gegen den Widerspruch. Wie 
 
 ### [Ms-117](/ms-117/#243.5) <span class="fac">[243\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/243.webp)</span> {#ms-117-2435}
 
-<span class="series-number">84.</span> 09.03.1940
+<span class="series-number">84</span> 09.03.1940
 
 ‘Der Beweis der Widerspruchsfreiheit erst zeigt mir, daß ich mich dem Kalkül anvertrauen kann.’
 
@@ -1590,7 +1590,7 @@ Die Ordnung überzeugt mich, daß ich mit diesen 8 Möglichkeiten keine überseh
 
 ### [Ms-117](/ms-117/#246.2) <span class="fac">[246\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/246.webp)</span> {#ms-117-2462}
 
-<span class="series-number">85.</span> 10.03.1940
+<span class="series-number">85</span> 10.03.1940
 
 Könnte ich mir denken, daß man sich von einer Möglichkeit der 7-Ecks-Konstruktion ebenso fürchtete, wie vor der Konstruktion eines Widerspruchs, & daß der Beweis daß die 7-Ecks-Konstruktion unmöglich ist eine beruhigende Wirkung hätte, wie der Beweis der Widerspruchsfreiheit?
 
@@ -1628,7 +1628,7 @@ Der Kalkül verleitete mich an gewissen Stellen zur Aufhebung seiner selbst. Ich
 
 ### [Ms-117](/ms-117/#252.2) <span class="fac">[252\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/252.webp)</span> {#ms-117-2522}
 
-<span class="series-number">86.</span> 11.03.1940
+<span class="series-number">86</span> 11.03.1940
 
 Kann man beweisen, daß man nichts übersehen hat? – Gewiß. Und muß man nicht vielleicht später zugeben: “Ja, ich habe etwas übersehen; aber _nicht_ in dem Feld, wofür mein Beweis gegolten hat”?
 
@@ -1642,7 +1642,7 @@ Ich wollte sagen: Der Beweis der Widerspruchsfreiheit kann uns nur dann _beruhig
 
 ### [Ms-117](/ms-117/#253.4) <span class="fac">[253\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/253.webp)</span> {#ms-117-2534}
 
-<span class="series-number">87.</span> 12.03.1940
+<span class="series-number">87</span> 12.03.1940
 
 Wo es mir genügt, daß bewiesen wird, daß ein Widerspruch, oder eine Dreiteilung des Winkels auf _diese_ Weise nicht konstruiert werden kann, dort leistet der induktive Beweis, was man von ihm verlangt. Wenn ich mich aber fürchten müßte, daß irgend etwas, irgendwie, einmal als Konstruktion eines Widerspruchs gedeutet werden könnte, so kann kein Beweis mir diese unbestimmte Furcht nehmen.
 
@@ -1664,7 +1664,7 @@ Wir werden den Widerspruch in einem ganz andern Lichte sehen, wenn wir sein Auft
 
 ### [Ms-117](/ms-117/#258.2) <span class="fac">[258\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/258.webp)</span> {#ms-117-2582}
 
-<span class="series-number">88.</span> Aber halt! ist es nicht klar, daß niemand zu einem Widerspruch gelangen will? Daß also der, dem Du die Möglichkeit eines Widerspruchs vor Augen stellst, alles tun wird, um einen solchen unmöglich zu machen? (Daß also, wer das nicht tut, eine Schlafmütze ist.)
+<span class="series-number">88</span> Aber halt! ist es nicht klar, daß niemand zu einem Widerspruch gelangen will? Daß also der, dem Du die Möglichkeit eines Widerspruchs vor Augen stellst, alles tun wird, um einen solchen unmöglich zu machen? (Daß also, wer das nicht tut, eine Schlafmütze ist.)
 
 ### [Ms-117](/ms-117/#258.3) <span class="fac">[258\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/258.webp)</span> {#ms-117-2583}
 
@@ -1684,10 +1684,10 @@ Weiß ich denn, ob, wenn ich je einen Widerspruch dort sehen sollte, wo ich jetz
 
 ### [Ms-117](/ms-117/#267.2) <span class="fac">[267\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/267.webp)</span> {#ms-117-2672}
 
-<span class="series-number">89.</span> 19.03.1940
+<span class="series-number">89</span> 19.03.1940
 
 ‘Was lehrt mich ein Beweis, abgesehen von seinem Resultat?’ – Was lehrt mich eine neue Melodie? Bin ich nicht in Versuchung zu sagen, sie _lehre_ mich etwas? –
 
 ### [Ms-117](/ms-117/#267.3) <span class="fac">[267\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/267.webp)</span> {#ms-117-2673}
 
-<span class="series-number">90.</span> Die Rolle des Verrechnens habe ich noch nicht klar gemacht. Die Rolle des Satzes: “Ich muß mich verrechnet haben”. Sie ist eigentlich der Schlüssel zum Verständnis der ‘Grundlagen’ der Mathematik.
+<span class="series-number">90</span> Die Rolle des Verrechnens habe ich noch nicht klar gemacht. Die Rolle des Satzes: “Ich muß mich verrechnet haben”. Sie ist eigentlich der Schlüssel zum Verständnis der ‘Grundlagen’ der Mathematik.

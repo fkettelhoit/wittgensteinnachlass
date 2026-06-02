@@ -10,11 +10,11 @@
 
 ### [Ms-126](/ms-126/#28.3) <span class="fac">[28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/28.webp)</span> {#ms-126-283}
 
-<span class="series-number">1.</span> Es ist natürlich klar, daß der Mathematiker, insofern er wirklich ‘ein Spiel spielt’ keine _Schlüsse zieht_. Denn ‘spielen’ muß hier heißen: in Übereinstimmung mit gewissen Regeln _handeln_. Und schon das wäre ein Heraustreten aus dem bloßen Spiel; wenn er den Schluß zöge, daß er hier der allgemeinen Regel gemäß _so_ handeln dürfe.
+<span class="series-number">1</span> Es ist natürlich klar, daß der Mathematiker, insofern er wirklich ‘ein Spiel spielt’ keine _Schlüsse zieht_. Denn ‘spielen’ muß hier heißen: in Übereinstimmung mit gewissen Regeln _handeln_. Und schon das wäre ein Heraustreten aus dem bloßen Spiel; wenn er den Schluß zöge, daß er hier der allgemeinen Regel gemäß _so_ handeln dürfe.
 
 ### [Ms-126](/ms-126/#30.2) <span class="fac">[30\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/30.webp)</span> {#ms-126-302}
 
-<span class="series-number">2.</span> 28.10.1942
+<span class="series-number">2</span> 28.10.1942
 
 _Rechnet_ die Rechenmaschine?
 
@@ -32,7 +32,7 @@ So, wie es ja auch kein logischer Schluß ist, wenn ich ein Gebilde in ein ander
 
 ### [Ms-126](/ms-126/#31.3+32.1) <span class="fac">[31\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/31.webp),[32\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/32.webp)</span> {#ms-126-313321}
 
-<span class="series-number">3.</span> Aber ist nicht das wahr, daß Einer, der keine Ahnung von der Bedeutung der Russellschen Zeichen hätte, R's Beweise _nachrechnen_ könnte? Und also in einem wichtigen Sinne prüfen könnte ob sie richtig seien oder falsch?
+<span class="series-number">3</span> Aber ist nicht das wahr, daß Einer, der keine Ahnung von der Bedeutung der Russellschen Zeichen hätte, R's Beweise _nachrechnen_ könnte? Und also in einem wichtigen Sinne prüfen könnte ob sie richtig seien oder falsch?
 
 ### [Ms-126](/ms-126/#33.4+34.1) <span class="fac">[33\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/33.webp),[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/34.webp)</span> {#ms-126-334341}
 
@@ -46,7 +46,7 @@ Einen Beweis nennen wir etwas, was sich nachrechnen, aber auch kopieren läßt.
 
 ### [Ms-126](/ms-126/#35.1) <span class="fac">[35\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/35.webp)</span> {#ms-126-351}
 
-<span class="series-number">4.</span> Wenn die Math. ein Spiel ist, dann ist ein Spiel spielen Mathematik treiben, & warum dann nicht auch: Tanzen?
+<span class="series-number">4</span> Wenn die Math. ein Spiel ist, dann ist ein Spiel spielen Mathematik treiben, & warum dann nicht auch: Tanzen?
 
 ### [Ms-126](/ms-126/#35.3+36.1) <span class="fac">[35\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/35.webp),[36\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/36.webp)</span> {#ms-126-353361}
 
@@ -78,7 +78,7 @@ Wieweit muß man einen Begriff vom ‘Satz’ haben, um die R'sche mathem. Logik
 
 ### [Ms-126](/ms-126/#39.1) <span class="fac">[39\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/39.webp)</span> {#ms-126-391}
 
-<span class="series-number">5.</span> 01.11.1942
+<span class="series-number">5</span> 01.11.1942
 
 Wenn die intendierte Anwendung der Math. wesentlich ist, wie steht es da mit Teilen der Mathematik, deren Anwendung – wenigstens _das_, was Mathematiker für eine Anwendung hielten, – gänzlich phantastisch ist. So daß man, wie in der Mengenlehre, einen Zweig der Math. treibt, von dessen Anwendung man sich einen ganz falschen Begriff macht. Treibt man nun nicht _doch_ Mathematik?
 
@@ -148,7 +148,7 @@ Mit andern Worten: Wer an die mathematischen _Gegenstände_ glaubt & ihre seltsa
 
 ### [Ms-126](/ms-126/#51.3+52.1) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/51.webp),[52\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/52.webp)</span> {#ms-126-513521}
 
-<span class="series-number">6.</span> Man könnte unter Umständen von einer endlosen Kugelreihe reden. – Denken wir uns eine solche gerade endlose Reihe von Kugeln in gleichen Abständen & wir berechnen die Kraft, die alle diese Kugeln nach einem bestimmten Attraktionsgesetz auf einen bestimmten Körper ausüben. Die Zahl, die diese Rechnung liefert, betrachten wir als das Ideal der Genauigkeit für gewisse Messungen.
+<span class="series-number">6</span> Man könnte unter Umständen von einer endlosen Kugelreihe reden. – Denken wir uns eine solche gerade endlose Reihe von Kugeln in gleichen Abständen & wir berechnen die Kraft, die alle diese Kugeln nach einem bestimmten Attraktionsgesetz auf einen bestimmten Körper ausüben. Die Zahl, die diese Rechnung liefert, betrachten wir als das Ideal der Genauigkeit für gewisse Messungen.
 
 ### [Ms-126](/ms-126/#52.2) <span class="fac">[52\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/52.webp)</span> {#ms-126-522}
 
@@ -176,7 +176,7 @@ Denke Dir unendliche Zahlen in: einem Märchen gebraucht. Die Zwerge haben sovie
 
 ### [Ms-126](/ms-126/#55.2) <span class="fac">[55\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/55.webp)</span> {#ms-126-552}
 
-<span class="series-number">7.</span> Denke Dir die Mengenlehre wäre als eine Art Parodie der Mathematik von einem Satiriker erfunden worden. – Später hätte man dann einen Nutzen in ihr gesehen & sie in die Mathematik einbezogen. (Denn wenn der eine sie als das Paradies der Mathematiker ansehen kann, warum nicht ein andrer als einen Scherz?)
+<span class="series-number">7</span> Denke Dir die Mengenlehre wäre als eine Art Parodie der Mathematik von einem Satiriker erfunden worden. – Später hätte man dann einen Nutzen in ihr gesehen & sie in die Mathematik einbezogen. (Denn wenn der eine sie als das Paradies der Mathematiker ansehen kann, warum nicht ein andrer als einen Scherz?)
 
 ### [Ms-126](/ms-126/#55.3+56.1) <span class="fac">[55\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/55.webp),[56\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/56.webp)</span> {#ms-126-553561}
 
@@ -192,7 +192,7 @@ Werden hier nicht doch offenbar Begriffe gebildet, – auch wenn man sich über 
 
 ### [Ms-126](/ms-126/#56.4+57.1) <span class="fac">[56\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/56.webp),[57\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/57.webp)</span> {#ms-126-564571}
 
-<span class="series-number">8.</span> 06.11.1942
+<span class="series-number">8</span> 06.11.1942
 
 Nimm die Konstruktion des Kräftepolygons: ist das nicht ein Stück angewandte Mathematik? & wo ist der Satz der _reinen_ Mathematik der bei dieser graphischen Berechnung zu Hülfe genommen wird? Ist dies nicht ein Fall wie der des Stammes, welcher eine rechnerische Technik zum Zweck gewisser Vorhersagungen hat, aber keine Sätze der reinen Mathematik?
 
@@ -212,7 +212,7 @@ Wäre es ein Wunder wenn die Technik des Rechnens eine Familie von Anwendungen h
 
 ### [Ms-126](/ms-126/#58.4+59.1) <span class="fac">[58\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/58.webp),[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/59.webp)</span> {#ms-126-584591}
 
-<span class="series-number">9.</span> 08.11.1942
+<span class="series-number">9</span> 08.11.1942
 
 Wie seltsam die Frage ist ob in der unendlichen Entwicklung von π die Figur φ (eine gewisse Anordnung von Ziffern, z.B. ‘770’) vorkommen wird, sieht man erst wenn man die Frage in einer ganz hausbackenen Weise zu stellen versucht: Menschen sind darauf abgerichtet worden nach gewissen Regeln Zeichen zu setzen. Sie verfahren nun dieser Abrichtung gemäß & wir sagen es sei ein Problem, ob sie der gegebenen Regel folgend _jemals_ die Figur φ anschreiben werden.
 
@@ -268,7 +268,7 @@ Und es handelt sich hier natürlich nicht nur um den Fall der Entwicklung einer 
 
 ### [Ms-126](/ms-126/#64.3+65.1) <span class="fac">[64\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/64.webp),[65\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/65.webp)</span> {#ms-126-643651}
 
-<span class="series-number">10.</span> Wenn Einer den Satz vom ausgeschlossenen Dritten uns als größte Wahrheit vorhält, so ist klar, daß mit seiner Frage etwas nicht in Ordnung ist.
+<span class="series-number">10</span> Wenn Einer den Satz vom ausgeschlossenen Dritten uns als größte Wahrheit vorhält, so ist klar, daß mit seiner Frage etwas nicht in Ordnung ist.
 
 ### [Ms-126](/ms-126/#65.2) <span class="fac">[65\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/65.webp)</span> {#ms-126-652}
 
@@ -284,7 +284,7 @@ Wie aber, wenn das Bild in weiter Ferne zu flimmern anfinge?
 
 ### [Ms-126](/ms-126/#66.3) <span class="fac">[66\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/66.webp)</span> {#ms-126-663}
 
-<span class="series-number">11.</span> Von einer unendlichen Reihe zu sagen, sie enthielte eine bestimmte Figur _nicht_, hat nur unter ganz gewissen Bedingungen Sinn.
+<span class="series-number">11</span> Von einer unendlichen Reihe zu sagen, sie enthielte eine bestimmte Figur _nicht_, hat nur unter ganz gewissen Bedingungen Sinn.
 
 ### [Ms-126](/ms-126/#66.4) <span class="fac">[66\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/66.webp)</span> {#ms-126-664}
 
@@ -318,7 +318,7 @@ In einer Arithmetik, in der man nicht weiter als 5 zählt, hat die Frage, wievie
 
 ### [Ms-126](/ms-126/#70.3+71.1) <span class="fac">[70\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/70.webp),[71\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/71.webp)</span> {#ms-126-703711}
 
-<span class="series-number">12.</span> Man meint in dem Satz vom ausgeschlossenen Dritten schon etwas Festes zu haben, was jedenfalls nicht in Zweifel zu ziehen ist. Während in Wahrheit der Sinn dieser Tautologie (wenn man so sagen darf) ebenso schwankend ist wie der der Frage, ob p oder ~p der Fall ist.
+<span class="series-number">12</span> Man meint in dem Satz vom ausgeschlossenen Dritten schon etwas Festes zu haben, was jedenfalls nicht in Zweifel zu ziehen ist. Während in Wahrheit der Sinn dieser Tautologie (wenn man so sagen darf) ebenso schwankend ist wie der der Frage, ob p oder ~p der Fall ist.
 
 ### [Ms-126](/ms-126/#71.2+72.1+73.1) <span class="fac">[71\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/71.webp),[72\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/72.webp),[73\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/73.webp)</span> {#ms-126-712721731}
 
@@ -340,7 +340,7 @@ Könnte man nicht sagen: wenn ich wirklich ein Recht hätte zu sagen, diese Beis
 
 ### [Ms-126](/ms-126/#74.2) <span class="fac">[74\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/74.webp)</span> {#ms-126-742}
 
-<span class="series-number">13.</span> Der allgemeine Satz die Figur kommt in der Entwicklung nicht vor kann nur ein _Gebot_ sein.
+<span class="series-number">13</span> Der allgemeine Satz die Figur kommt in der Entwicklung nicht vor kann nur ein _Gebot_ sein.
 
 ### [Ms-126](/ms-126/#74.3) <span class="fac">[74\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/74.webp)</span> {#ms-126-743}
 
@@ -360,7 +360,7 @@ Das Gegenteil von “es besteht ein Gesetz, daß p” ist nicht: “es besteht e
 
 ### [Ms-126](/ms-126/#76.3+77.1) <span class="fac">[76\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/76.webp),[77\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/77.webp)</span> {#ms-126-763771}
 
-<span class="series-number">14.</span> 13.11.1942
+<span class="series-number">14</span> 13.11.1942
 
 Wie, wenn den Kindern beigebracht wird, die Erde sei eine unendliche Ebene; oder Gott habe eine unendliche Reihe von Sternen geschaffen; oder ein Stern fliege in einer geraden Linie gleichförmig immer weiter & weiter ohne je aufzuhören. Seltsam: wenn man so etwas als selbstverständlich, gleichsam ganz ruhig, aufnimmt, so verliert es alles Paradoxe. Es ist als sagte mir jemand: Beruhige Dich, diese Reihe, oder Bewegung, läuft fort & fort ohne je aufzuhören. Wir sind sozusagen der Mühe überhoben (je) an ein Ende zu denken.
 
@@ -378,7 +378,7 @@ Man könnte auch sagen: ‘für uns ist die Reihe endlos’.
 
 ### [Ms-126](/ms-126/#78.4+79.1) <span class="fac">[78\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/78.webp),[79\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/79.webp)</span> {#ms-126-784791}
 
-<span class="series-number">15.</span> 14.11.1942
+<span class="series-number">15</span> 14.11.1942
 
 Nicht ‘abzählbar’ sollte es heißen – von den rationalen Zahlen etwa – sondern ‘abzählfähig’. Man kann die rationalen Zahlen nicht _abzählen_, weil man sie nicht zählen kann, aber man kann mittels der rationalen Zahlen zählen – so, wie mit den Kardinalzahlen. Die schiefe Ausdrucksweise gehört mit zu dem ganzen System der Vorspiegelung, daß wir mit dem neuen Apparat die unendlichen Mengen mit der selben Sicherheit behandeln, wie bis dahin nur die endlichen.
 
@@ -404,7 +404,7 @@ Wenn diese Leute nun glaubten, die Zahlen wären Geister & durch ihre Rechnungen
 
 ### [Ms-126](/ms-126/#82.3) <span class="fac">[82\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/82.webp)</span> {#ms-126-823}
 
-<span class="series-number">16.</span> Der Vergleich mit der Alchemie liegt nahe. Man könnte von einer Alchemie in der Mathematik reden.
+<span class="series-number">16</span> Der Vergleich mit der Alchemie liegt nahe. Man könnte von einer Alchemie in der Mathematik reden.
 
 ### [Ms-126](/ms-126/#83.2+84.1) <span class="fac">[83\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/83.webp),[84\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/84.webp)</span> {#ms-126-832841}
 
@@ -432,7 +432,7 @@ Man könnte sagen: Was Du siehst schaut freilich mehr wie eine glänzende Lufter
 
 ### [Ms-126](/ms-126/#87.3) <span class="fac">[87\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/87.webp)</span> {#ms-126-873}
 
-<span class="series-number">17.</span> ‘Die Figur ist in der Reihe, oder sie ist nicht in der Reihe’ heißt: entweder schaut die Sache _so_ aus oder sie schaut nicht so aus.
+<span class="series-number">17</span> ‘Die Figur ist in der Reihe, oder sie ist nicht in der Reihe’ heißt: entweder schaut die Sache _so_ aus oder sie schaut nicht so aus.
 
 ### [Ms-126](/ms-126/#87.4+88.1) <span class="fac">[87\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/87.webp),[88\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/88.webp)</span> {#ms-126-874881}
 
@@ -468,7 +468,7 @@ Und wer nun sagt: “Es sei so, oder es sei nicht so”, der spricht nicht den S
 
 ### [Ms-126](/ms-126/#91.2) <span class="fac">[91\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/91.webp)</span> {#ms-126-912}
 
-<span class="series-number">18.</span> 17.11.1942
+<span class="series-number">18</span> 17.11.1942
 
 Aber ist das wirklich ein Ausweg aus der Schwierigkeit? Denn wie verhält es sich dann mit allen anderen mathem. Sätzen, sagen wir 25² = 625, gilt für diese nicht der Satz vom ausgeschlossenen Dritten _innerhalb_ der Mathematik?
 
@@ -510,7 +510,7 @@ Das Seltsame in der Alternative “φ kommt in der unendlichen Reihe vor, oder e
 
 ### [Ms-126](/ms-126/#95.2) <span class="fac">[95\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/95.webp)</span> {#ms-126-952}
 
-<span class="series-number">19.</span> Wie weiß ich, daß der allgemeine Satz “Es gibt …” hier Sinn hat? Nun, wenn er zu einer Mitteilung über die Technik des Entwickelns in einem Sprachspiel verwendet werden kann.
+<span class="series-number">19</span> Wie weiß ich, daß der allgemeine Satz “Es gibt …” hier Sinn hat? Nun, wenn er zu einer Mitteilung über die Technik des Entwickelns in einem Sprachspiel verwendet werden kann.
 
 ### [Ms-126](/ms-126/#95.3+96.1+97.1) <span class="fac">[95\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/95.webp),[96\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/96.webp),[97\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/97.webp)</span> {#ms-126-953961971}
 
@@ -532,7 +532,7 @@ _Das_ sind die Fakten. Und was heißt es nun: “φ kommt entweder in der Entwic
 
 ### [Ms-126](/ms-126/#98.3+99.1) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/99.webp)</span> {#ms-126-983991}
 
-<span class="series-number">20.</span> Aber heißt das nun, daß es kein Problem gibt: “Kommt die Figur φ in dieser Entwickelung vor?”? – Wer das fragt fragt & nach einer Regel das Vorkommen von φ betreffend. Und die Alternative des Existierens oder Nichtexistierens so einer Regel ist jedenfalls keine mathematische.
+<span class="series-number">20</span> Aber heißt das nun, daß es kein Problem gibt: “Kommt die Figur φ in dieser Entwickelung vor?”? – Wer das fragt fragt & nach einer Regel das Vorkommen von φ betreffend. Und die Alternative des Existierens oder Nichtexistierens so einer Regel ist jedenfalls keine mathematische.
 
 ### [Ms-126](/ms-126/#99.2) <span class="fac">[99\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/99.webp)</span> {#ms-126-992}
 
@@ -540,7 +540,7 @@ Erst innerhalb einem, erst zu errichtenden, mathem. Gebäude wird die Frage zur 
 
 ### [Ms-126](/ms-126/#100.1) <span class="fac">[100\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/100.webp)</span> {#ms-126-1001}
 
-<span class="series-number">21.</span> Ist denn das Unendliche nicht wirklich – kann ich nicht sagen: “diese zwei Kanten der Platte schneiden sich im Unendlichen”?
+<span class="series-number">21</span> Ist denn das Unendliche nicht wirklich – kann ich nicht sagen: “diese zwei Kanten der Platte schneiden sich im Unendlichen”?
 
 ### [Ms-126](/ms-126/#100.2) <span class="fac">[100\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/100.webp)</span> {#ms-126-1002}
 
@@ -552,11 +552,11 @@ Es ist wesentlich eine Perspektive; & eine weithergeholte. (Womit kein Tadel aus
 
 ### [Ms-126](/ms-126/#101.2) <span class="fac">[101\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/101.webp)</span> {#ms-126-1012}
 
-<span class="series-number">22.</span> Was heißt das: “der Mathematiker weiß nicht was er tut”, oder “er weiß was er tut”?
+<span class="series-number">22</span> Was heißt das: “der Mathematiker weiß nicht was er tut”, oder “er weiß was er tut”?
 
 ### [Ms-126](/ms-126/#101.3+102.1) <span class="fac">[101\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/101.webp),[102\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/102.webp)</span> {#ms-126-10131021}
 
-<span class="series-number">23.</span> 23.11.1942
+<span class="series-number">23</span> 23.11.1942
 
 Kann man unendliche Vorhersagungen machen? – Nun, warum soll man nicht z.B. das Trägheitsgesetz eine solche nennen? Oder den Satz, daß ein Komet eine Parabel beschreibt? In gewissem Sinne wird freilich ihre Unendlichkeit nicht sehr ernst genommen.
 
@@ -584,7 +584,7 @@ Auch ist wohl nicht so sehr die Frage, ob die Voraussage irgend einen Sinn hat, 
 
 ### [Ms-126](/ms-126/#108.2) <span class="fac">[108\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/108.webp)</span> {#ms-126-1082}
 
-<span class="series-number">24.</span> 28.11.1942
+<span class="series-number">24</span> 28.11.1942
 
 “Der unheilvolle Einbruch” der Logik in die Mathematik.
 
@@ -602,7 +602,7 @@ Es ist beinahe als wollte man sagen, daß das Tischlern im Leimen besteht.
 
 ### [Ms-126](/ms-126/#112.1) <span class="fac">[112\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/112.webp)</span> {#ms-126-1121}
 
-<span class="series-number">25.</span> Der Beweis überzeugt Dich davon daß es eine Wurzel der Gleichung gibt (ohne Dir eine Ahnung zu geben _wo_) – – wie weißt Du, daß Du den Satz verstehst, es gebe eine Wurzel? Wie weißt Du daß Du wirklich von etwas überzeugt bist? Du magst davon überzeugt sein, daß sich die Anwendung des bewiesenen Satzes finden lassen wird. Aber Du verstehst ihn nicht solange Du sie nicht gefunden hast.
+<span class="series-number">25</span> Der Beweis überzeugt Dich davon daß es eine Wurzel der Gleichung gibt (ohne Dir eine Ahnung zu geben _wo_) – – wie weißt Du, daß Du den Satz verstehst, es gebe eine Wurzel? Wie weißt Du daß Du wirklich von etwas überzeugt bist? Du magst davon überzeugt sein, daß sich die Anwendung des bewiesenen Satzes finden lassen wird. Aber Du verstehst ihn nicht solange Du sie nicht gefunden hast.
 
 ### [Ms-126](/ms-126/#113.1) <span class="fac">[113\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/113.webp)</span> {#ms-126-1131}
 
@@ -648,7 +648,7 @@ Die logische Notation verschluckt die Struktur.
 
 ### [Ms-126](/ms-126/#121.3+122.1) <span class="fac">[121\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/121.webp),[122\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/122.webp)</span> {#ms-126-12131221}
 
-<span class="series-number">26.</span> Um zu sehen, wie man etwas ‘Existenzbeweis’ nennen kann, was keine Konstruktion des Existierenden zuläßt, denke an die verschiedenen Bedeutungen des Wortes “wo” (z.B. des topologischen & des metrischen.)
+<span class="series-number">26</span> Um zu sehen, wie man etwas ‘Existenzbeweis’ nennen kann, was keine Konstruktion des Existierenden zuläßt, denke an die verschiedenen Bedeutungen des Wortes “wo” (z.B. des topologischen & des metrischen.)
 
 ### [Ms-126](/ms-126/#122.2) <span class="fac">[122\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/122.webp)</span> {#ms-126-1222}
 
@@ -658,13 +658,13 @@ Es kann ja der Existenzbeweis nicht nur den Ort des ‘Existierenden’ unbestim
 
 ### [Ms-127](/ms-127/#47.4+48.1+49.1) <span class="fac">[47\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/47.webp),[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/48.webp),[49\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/49.webp)</span> {#ms-127-474481491}
 
-<span class="series-number">27.</span> 01.02.1943
+<span class="series-number">27</span> 01.02.1943
 
 Ein Beweis, daß 777 in der Entwicklung von π vorkommt, der nicht zeigt, wo, müßte diese Entwicklung von einem ganz neuen Standpunkt ansehen, sodaß er etwa Eigenschaften von Regionen der Entwickelung zeigte von denen wir nur wüßten, daß sie sehr weit entfernt liegen. Es schwebt mir dabei vor daß man sehr weit draußen in π sozusagen eine dunkle Zone von unbestimmter Länge annehmen müßte, wo unsere Rechenhilfsmittel nicht mehr verläßlich sind & noch weiter draußen dann eine Zone, wo man auf _andere_ Weise wieder etwas sehen kann.
 
 ### [Ms-126](/ms-126/#122.3+123.1+124.1) <span class="fac">[122\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/122.webp),[123\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/123.webp),[124\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/124.webp)</span> {#ms-126-122312311241}
 
-<span class="series-number">28.</span> 11.12.1942
+<span class="series-number">28</span> 11.12.1942
 
 Vom Beweis durch reductio ad absurdum kann man sich immer vorstellen, er werde im Argument mit einem Opponenten gebraucht, der eine mathematisch unhaltbare Behauptung macht. Ich meine aber nicht eine _mathematische_ Behauptung. Etwa, er habe gesehen, wie der A den B mit den & den Figuren matt gesetzt habe – wenn das nach den Regeln nicht möglich ist.
 
@@ -678,7 +678,7 @@ Der indirekte Beweis sagt aber: “wenn Du es _so_ willst, darfst Du _das_ nicht
 
 ### [Ms-126](/ms-126/#131.3+132.1) <span class="fac">[131\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/131.webp),[132\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/132.webp)</span> {#ms-126-13131321}
 
-<span class="series-number">29.</span> 14.12.1942
+<span class="series-number">29</span> 14.12.1942
 
 Die geometrische Illustration der math. Analysis ist allerdings unwesentlich, nicht aber die geometrische Anwendung. Ursprünglich waren die geometrischen Illustrationen _Anwendungen der Analysis_. Wo sie aufhören dies zu sein, können sie leicht gänzlich irreführen. Hier haben wir dann die phantastische Anwendung. Die eingebildete Anwendung.
 
@@ -692,19 +692,19 @@ Nur soweit, als die Illustrationen auch Anwendungen sind, erzeugen sie nicht das
 
 ### [Ms-126](/ms-126/#110.3+111.1) <span class="fac">[110\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/110.webp),[111\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/111.webp)</span> {#ms-126-11031111}
 
-<span class="series-number">30.</span> So könnte man Dedekinds Theorem ableiten wenn, was wir irrationale Zahlen nennen _ganz unbekannt_ wäre, wenn es aber eine Technik gäbe, die Stellen vor Dezimalzahlen zu würfeln. Und dieses Theorem hätte dann seine Anwendung auch wenn es die Mathematik der irrationalen Zahlen nicht gäbe. Es ist nicht, als sähen die Dedekindschen Entwicklungen alle besonderen reellen Zahlen schon voraus. Es _scheint_ nur so, sobald man den Dedekindschen Kalkül mit den Kalkülen der besonderen reellen Zahlen vereinigt.
+<span class="series-number">30</span> So könnte man Dedekinds Theorem ableiten wenn, was wir irrationale Zahlen nennen _ganz unbekannt_ wäre, wenn es aber eine Technik gäbe, die Stellen vor Dezimalzahlen zu würfeln. Und dieses Theorem hätte dann seine Anwendung auch wenn es die Mathematik der irrationalen Zahlen nicht gäbe. Es ist nicht, als sähen die Dedekindschen Entwicklungen alle besonderen reellen Zahlen schon voraus. Es _scheint_ nur so, sobald man den Dedekindschen Kalkül mit den Kalkülen der besonderen reellen Zahlen vereinigt.
 
 ### [Ms-126](/ms-126/#136.3+137.1) <span class="fac">[136\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/136.webp),[137\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/137.webp)</span> {#ms-126-13631371}
 
-<span class="series-number">31.</span> Man könnte fragen: Was könnte ein Kind von 10 Jahren am Beweis des Dedekindschen Satzes _nicht_ verstehen? – Ist denn dieser Beweis nicht viel einfacher, als alle die Rechnungen die das Kind beherrschen muß? – Und wenn nun jemand sagte: den tieferen Inhalt des Satzes kann es nicht verstehen – dann frage ich: wie kommt dieses Gesetz zu einem tiefen Inhalt?
+<span class="series-number">31</span> Man könnte fragen: Was könnte ein Kind von 10 Jahren am Beweis des Dedekindschen Satzes _nicht_ verstehen? – Ist denn dieser Beweis nicht viel einfacher, als alle die Rechnungen die das Kind beherrschen muß? – Und wenn nun jemand sagte: den tieferen Inhalt des Satzes kann es nicht verstehen – dann frage ich: wie kommt dieses Gesetz zu einem tiefen Inhalt?
 
 ### [Ms-126](/ms-126/#138.2) <span class="fac">[138\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/138.webp)</span> {#ms-126-1382}
 
-<span class="series-number">32.</span> Das Bild der Zahlengeraden ist ein absolut natürliches bis zu einem gewissen Punkt: nämlich, soweit man es _nicht_ zu einer allgemeinen Theorie der reellen Zahlen gebraucht.
+<span class="series-number">32</span> Das Bild der Zahlengeraden ist ein absolut natürliches bis zu einem gewissen Punkt: nämlich, soweit man es _nicht_ zu einer allgemeinen Theorie der reellen Zahlen gebraucht.
 
 ### [Ms-126](/ms-126/#148.2+149.1+150.1) <span class="fac">[148\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/148.webp),[149\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/149.webp),[150\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/150.webp)</span> {#ms-126-148214911501}
 
-<span class="series-number">33.</span> Wenn Du die _reellen_ Zahlen in eine höhere & eine niedere Klasse teilen willst, so tu's erst einmal roh durch
+<span class="series-number">33</span> Wenn Du die _reellen_ Zahlen in eine höhere & eine niedere Klasse teilen willst, so tu's erst einmal roh durch
 
 ![](../graphics/126,148.svg)
 
@@ -724,7 +724,7 @@ Ein Prinzip der Teilung siehst Du leicht für eine unendlich fortgesetzte Teilun
 
 ### [Ms-126](/ms-126/#153.2+154.1) <span class="fac">[153\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/153.webp),[154\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/154.webp)</span> {#ms-126-15321541}
 
-<span class="series-number">34.</span> Man könnte auch so fragen: könnte man nicht die Lehre vom Limes, der Funktionen, der reellen Zahlen, mehr, als man es tut, _extensional vorbereiten_? auch wenn dieser vorbereitende Kalkül _sehr_ trivial & an sich nutzlos erscheinen sollte?
+<span class="series-number">34</span> Man könnte auch so fragen: könnte man nicht die Lehre vom Limes, der Funktionen, der reellen Zahlen, mehr, als man es tut, _extensional vorbereiten_? auch wenn dieser vorbereitende Kalkül _sehr_ trivial & an sich nutzlos erscheinen sollte?
 
 ### [Ms-126](/ms-126/#154.2+155.1+156.1+157.1) <span class="fac">[154\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/154.webp),[155\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/155.webp),[156\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/156.webp),[157\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/157.webp)</span> {#ms-126-1542155115611571}
 
@@ -758,13 +758,13 @@ Wenn man nun die Idee eines Schnitts der _reellen_ Zahlen einführt, indem man s
 
 ### [Ms-127](/ms-127/#10.1) <span class="fac">[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/10.webp)</span> {#ms-127-101}
 
-<span class="series-number">35.</span> 08.01.1943
+<span class="series-number">35</span> 08.01.1943
 
 Die extensionalen Erklärungen der Funktionen, der reellen Zahlen, etc. übergehen alles Intensionale – obwohl sie es voraussetzen – & beziehen sich auf die immer wiederkehrende äußere Form.
 
 ### [Ms-127](/ms-127/#12.2+13.1) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/13.webp)</span> {#ms-127-122131}
 
-<span class="series-number">36.</span> 09.01.1943
+<span class="series-number">36</span> 09.01.1943
 
 Unsre Schwierigkeit fängt eigentlich schon mit der unendlichen Geraden an; obwohl wir schon als Knaben lernen, eine Gerade habe kein Ende, & ich weiß nicht, daß diese Idee irgend jemand Schwierigkeiten bereitet hätte. Wie, wenn ein Finitist versuchte diesen Begriff durch den einer geraden Strecke von bestimmter Länge zu ersetzen?!
 
@@ -776,7 +776,7 @@ Der Begriff des Limes & der Stätigkeit, wie sie heute eingeführt werden, häng
 
 ### [Ms-127](/ms-127/#20.2+21.1+21.2+22.1) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/20.webp),[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/22.webp)</span> {#ms-127-202211212221}
 
-<span class="series-number">37.</span> 12.01.1943
+<span class="series-number">37</span> 12.01.1943
 
 Die irreführende Idee in der D'schen extensionalen Auffassung ist, daß die reellen Zahlen in der Zahlenlinie alle ausgebreitet da liegen. – Man kennt sie nicht alle, aber was macht das? Und so braucht man nur zu schneiden, oder in Klassen teilen & hat sie alle geteilt, die bekannten & die unbekannten.
 
@@ -808,11 +808,11 @@ Was ist die _Anwendung_ des Begriffes der Geraden, der ein Punkt fehlt? Die Anwe
 
 ### [Ms-127](/ms-127/#13.3+14.1) <span class="fac">[13\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/13.webp),[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/14.webp)</span> {#ms-127-133141}
 
-<span class="series-number">38.</span> Die Allgemeinheit der Funktionen ist sozusagen eine _ungeordnete_ Allgemeinheit. Und unsere Mathematik ist auf so eine ungeordnete Allgemeinheit aufgebaut.
+<span class="series-number">38</span> Die Allgemeinheit der Funktionen ist sozusagen eine _ungeordnete_ Allgemeinheit. Und unsere Mathematik ist auf so eine ungeordnete Allgemeinheit aufgebaut.
 
 ### [Ms-127](/ms-127/#31.4+32.1) <span class="fac">[31\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/31.webp),[32\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/32.webp)</span> {#ms-127-314321}
 
-<span class="series-number">39.</span> Wenn man sich den allgemeinen Funktionen-Kalkül ohne die Existenz von Beispielen denkt, dann sind eben die vagen Erklärungen durch Wertetafeln & Zeichnungen, wie man sie in den Lehrbüchern findet, am Platz, als _Andeutungen_, wie etwa diesem Kalkül einmal ein Sinn gegeben werden möchte.
+<span class="series-number">39</span> Wenn man sich den allgemeinen Funktionen-Kalkül ohne die Existenz von Beispielen denkt, dann sind eben die vagen Erklärungen durch Wertetafeln & Zeichnungen, wie man sie in den Lehrbüchern findet, am Platz, als _Andeutungen_, wie etwa diesem Kalkül einmal ein Sinn gegeben werden möchte.
 
 ### [Ms-127](/ms-127/#32.2) <span class="fac">[32\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/32.webp)</span> {#ms-127-322}
 
@@ -880,7 +880,7 @@ _es gibt für jedes_ ε ein δ‥‥”
 
 ### [Ms-127](/ms-127/#57.4+58.1+58.2+59.1) <span class="fac">[57\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/58.webp),[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/58.webp),[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/59.webp)</span> {#ms-127-574581582591}
 
-<span class="series-number">40.</span> Dedekind gibt ein allgemeines Schema der Ausdrucksweise; sozusagen eine logische Form des Raisonnements. Eine allgemeine Formulierung des Vorgangs. Der Effekt ist ein ähnlicher, wie der der Einführung des Wortes “Zuordnung” zur allgemeinen Erklärung der Funktionen. Es wird eine allgemeine Redeweise eingeführt, die zur Charakterisierung eines mathem. Vorgangs sehr nützlich ist. (Ähnlich wie in der Aristotelischen Logik). Die Gefahr aber ist, daß man mit dieser allgemeinen Redeweise die vollständige Erklärung der einzelnen Fälle zu besitzen glaubt (die gleiche Gefahr wie in der Logik).
+<span class="series-number">40</span> Dedekind gibt ein allgemeines Schema der Ausdrucksweise; sozusagen eine logische Form des Raisonnements. Eine allgemeine Formulierung des Vorgangs. Der Effekt ist ein ähnlicher, wie der der Einführung des Wortes “Zuordnung” zur allgemeinen Erklärung der Funktionen. Es wird eine allgemeine Redeweise eingeführt, die zur Charakterisierung eines mathem. Vorgangs sehr nützlich ist. (Ähnlich wie in der Aristotelischen Logik). Die Gefahr aber ist, daß man mit dieser allgemeinen Redeweise die vollständige Erklärung der einzelnen Fälle zu besitzen glaubt (die gleiche Gefahr wie in der Logik).
 
 ### [Ms-127](/ms-127/#59.2+60.1) <span class="fac">[59\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/59.webp),[60\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/60.webp)</span> {#ms-127-592601}
 
@@ -898,7 +898,7 @@ D.h.: ist es wahr, daß die ganze Schwierigkeit, die Allgemeinheit des mathem. F
 
 ### [Ms-127](/ms-127/#160.2+161.1) <span class="fac">[160\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/160.webp),[161\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/161.webp)</span> {#ms-127-16021611}
 
-<span class="series-number">42.</span> Würde man von Einem sagen, er verstehe den Satz “563 + 437 = 1000”, der nicht wüßte, wie man ihn beweisen kann? Kannst Du leugnen, daß es ein Zeichen des Verstehens des Satzes ist, wenn Einer weiß, wie er zu beweisen wäre?
+<span class="series-number">42</span> Würde man von Einem sagen, er verstehe den Satz “563 + 437 = 1000”, der nicht wüßte, wie man ihn beweisen kann? Kannst Du leugnen, daß es ein Zeichen des Verstehens des Satzes ist, wenn Einer weiß, wie er zu beweisen wäre?
 
 ### [Ms-127](/ms-127/#161.4) <span class="fac">[161\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/161.webp)</span> {#ms-127-1614}
 
@@ -930,15 +930,15 @@ Fasse ich den Beweis als eine _Bewegung_ von einem Begriff zum andern auf, dann 
 
 ### [Ms-127](/ms-127/#167.1) <span class="fac">[167\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/167.webp)</span> {#ms-127-1671}
 
-<span class="series-number">43.</span> Ich möchte sagen: Wenn wir einmal die eine, einmal die andre Seite der Gleichung verwenden, verwenden wir zwei Seiten desselben Begriffs.
+<span class="series-number">43</span> Ich möchte sagen: Wenn wir einmal die eine, einmal die andre Seite der Gleichung verwenden, verwenden wir zwei Seiten desselben Begriffs.
 
 ### [Ms-127](/ms-127/#168.1) <span class="fac">[168\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/168.webp)</span> {#ms-127-1681}
 
-<span class="series-number">44.</span> Ist der begriffliche Apparat ein Begriff?
+<span class="series-number">44</span> Ist der begriffliche Apparat ein Begriff?
 
 ### [Ms-127](/ms-127/#172.3) <span class="fac">[172\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/172.webp)</span> {#ms-127-1723}
 
-<span class="series-number">45.</span> Wie zeigt denn einer, daß er einen mathematischen Satz versteht? Darin, etwa, daß er ihn anwendet. Also nicht auch darin, daß er ihn beweist?
+<span class="series-number">45</span> Wie zeigt denn einer, daß er einen mathematischen Satz versteht? Darin, etwa, daß er ihn anwendet. Also nicht auch darin, daß er ihn beweist?
 
 ### [Ms-127](/ms-127/#172.4) <span class="fac">[172\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/172.webp)</span> {#ms-127-1724}
 
@@ -970,7 +970,7 @@ Warum soll der (neue) Begriff, einmal gebildet, mir nicht unmittelbar den Überg
 
 ### [Ms-127](/ms-127/#184.3+185.1) <span class="fac">[184\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/184.webp),[185\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/185.webp)</span> {#ms-127-18431851}
 
-<span class="series-number">46.</span> “Einen math. Satz verstehen” das ist ein sehr vager Begriff. Sagst du aber “Auf's Verstehen kommt's überhaupt nicht an. Die math. Sätze sind nur Stellungen in einem Spiel” so ist das auch Unsinn! ‘Mathematik’ ist eben kein scharf umgrenzter Begriff.
+<span class="series-number">46</span> “Einen math. Satz verstehen” das ist ein sehr vager Begriff. Sagst du aber “Auf's Verstehen kommt's überhaupt nicht an. Die math. Sätze sind nur Stellungen in einem Spiel” so ist das auch Unsinn! ‘Mathematik’ ist eben kein scharf umgrenzter Begriff.
 
 ### [Ms-127](/ms-127/#185.2+186.1) <span class="fac">[185\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/185.webp),[186\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/186.webp)</span> {#ms-127-18521861}
 
@@ -978,7 +978,7 @@ Daher der Streit ob ein Existenzbeweis der keine Konstruktion ist ein wirklicher
 
 ### [Ms-127](/ms-127/#187.3+188.1) <span class="fac">[187\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/187.webp),[188\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/188.webp)</span> {#ms-127-18731881}
 
-<span class="series-number">47.</span> Ein Begriff ist nicht wesentlich ein Prädikat. Wir sagen zwar manchmal: “dieses Ding ist keine Flasche” aber es ist dem Sprachspiel mit dem Begriff Flasche gar nicht wesentlich daß solche Urteile darin gefällt werden. Achte eben darauf wie ein Begriffswort (z.B. “Platte”) in einem Sprachspiel gebraucht wird.
+<span class="series-number">47</span> Ein Begriff ist nicht wesentlich ein Prädikat. Wir sagen zwar manchmal: “dieses Ding ist keine Flasche” aber es ist dem Sprachspiel mit dem Begriff Flasche gar nicht wesentlich daß solche Urteile darin gefällt werden. Achte eben darauf wie ein Begriffswort (z.B. “Platte”) in einem Sprachspiel gebraucht wird.
 
 ### [Ms-127](/ms-127/#188.2) <span class="fac">[188\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/188.webp)</span> {#ms-127-1882}
 
@@ -986,15 +986,15 @@ Es brauchte z.B. gar keinen Satz “dies ist eine Platte” geben; sondern etwa 
 
 ### [Ms-127](/ms-127/#188.3+189.1) <span class="fac">[188\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/188.webp),[189\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/189.webp)</span> {#ms-127-18831891}
 
-<span class="series-number">48.</span> Die “mathem. Logik” hat das Denken von Mathematikern & Philosophen gänzlich verbildet, indem sie eine oberflächliche Deutung der Formen unserer Umgangssprache zur Analyse der Strukturen der Tatsachen erklärte. Sie hat hierin freilich nur auf der Aristotelischen Logik weiter gebaut.
+<span class="series-number">48</span> Die “mathem. Logik” hat das Denken von Mathematikern & Philosophen gänzlich verbildet, indem sie eine oberflächliche Deutung der Formen unserer Umgangssprache zur Analyse der Strukturen der Tatsachen erklärte. Sie hat hierin freilich nur auf der Aristotelischen Logik weiter gebaut.
 
 ### [Ms-127](/ms-127/#194.2+195.1) <span class="fac">[194\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/194.webp),[195\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/195.webp)</span> {#ms-127-19421951}
 
-<span class="series-number">49.</span> Es ist schon wahr: das Zahlzeichen gehört zu einem Begriffswort & nur mit diesem ist es, sozusagen, ein Maß.
+<span class="series-number">49</span> Es ist schon wahr: das Zahlzeichen gehört zu einem Begriffswort & nur mit diesem ist es, sozusagen, ein Maß.
 
 ### [Ms-127](/ms-127/#204.1+205.1) <span class="fac">[204\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/204.webp),[205\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/205.webp)</span> {#ms-127-20412051}
 
-<span class="series-number">50.</span> Wenn Du dieser Maus ins Maul schaust wirst du zwei lange Schneidezähne sehen. – Wie weißt du das? – Ich weiß daß alle Mäuse sie haben, also auch diese. (Und man sagt nicht: “& dieses Ding ist eine Maus, also hat auch sie …”) Warum ist das eine so wichtige Bewegung? Nun, wir studieren z.B. Tiere, Pflanzen etc. etc., bilden allgemeine Urteile & wenden sie im einzelnen Fall an. – Es ist aber doch eine Wahrheit daß diese Maus die Eigenschaft hat, _wenn alle_ Mäuse sie haben! Das ist eine Bestimmung über die Anwendung des Wortes “alle”: Die tatsächliche Allgemeinheit liegt wo anders. Nämlich _z.B._ in dem allgemeinen Vorkommen jener Untersuchungsmethode & ihrer Anwendung.
+<span class="series-number">50</span> Wenn Du dieser Maus ins Maul schaust wirst du zwei lange Schneidezähne sehen. – Wie weißt du das? – Ich weiß daß alle Mäuse sie haben, also auch diese. (Und man sagt nicht: “& dieses Ding ist eine Maus, also hat auch sie …”) Warum ist das eine so wichtige Bewegung? Nun, wir studieren z.B. Tiere, Pflanzen etc. etc., bilden allgemeine Urteile & wenden sie im einzelnen Fall an. – Es ist aber doch eine Wahrheit daß diese Maus die Eigenschaft hat, _wenn alle_ Mäuse sie haben! Das ist eine Bestimmung über die Anwendung des Wortes “alle”: Die tatsächliche Allgemeinheit liegt wo anders. Nämlich _z.B._ in dem allgemeinen Vorkommen jener Untersuchungsmethode & ihrer Anwendung.
 
 ### [Ms-127](/ms-127/#205.2) <span class="fac">[205\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/205.webp)</span> {#ms-127-2052}
 
@@ -1014,7 +1014,7 @@ Das interessante Allgemeine am logischen Satz ist nicht die Tatsache, die er aus
 
 ### [Ms-127](/ms-127/#229.4+230.1) <span class="fac">[229\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/229.webp),[230\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/230.webp)</span> {#ms-127-22942301}
 
-<span class="series-number">51.</span> Wenn man vom Beweis sagt, er zeige _wie_ (z.B.) 25 × 25 625 ergeben; so ist das natürlich eine seltsame Redeweise, da das arithmetische Ergeben ja kein zeitlicher Vorgang ist. Aber nun zeigt ja der Beweis auch keinen Vorgang.
+<span class="series-number">51</span> Wenn man vom Beweis sagt, er zeige _wie_ (z.B.) 25 × 25 625 ergeben; so ist das natürlich eine seltsame Redeweise, da das arithmetische Ergeben ja kein zeitlicher Vorgang ist. Aber nun zeigt ja der Beweis auch keinen Vorgang.
 
 ### [Ms-127](/ms-127/#230.2+231.1) <span class="fac">[230\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/230.webp),[231\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/231.webp)</span> {#ms-127-23022311}
 
@@ -1024,7 +1024,7 @@ Denke Dir eine Reihe von Bildern. Sie zeigen, wie zwei Leute nach den & den Rege
 
 ### [Ms-127](/ms-127/#198.3) <span class="fac">[198\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/198.webp)</span> {#ms-127-1983}
 
-<span class="series-number">52.</span> Der Philosoph muß sich so drehen & wenden, daß er an den mathematischen Problemen herumkommt, nicht gegen eines rennt, – das gelöst werden müßte ehe er weitergehen kann.
+<span class="series-number">52</span> Der Philosoph muß sich so drehen & wenden, daß er an den mathematischen Problemen herumkommt, nicht gegen eines rennt, – das gelöst werden müßte ehe er weitergehen kann.
 
 ### [Ms-127](/ms-127/#198.4+199.1) <span class="fac">[198\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/198.webp),[199\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/199.webp)</span> {#ms-127-19841991}
 
@@ -1048,4 +1048,4 @@ Auch vor 500 Jahren konnte es eine Philosophie der Mathematik geben, dessen was 
 
 ### [Ms-127](/ms-127/#219.4+220.1) <span class="fac">[219\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/219.webp),[220\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/220.webp)</span> {#ms-127-21942201}
 
-<span class="series-number">53.</span> Der Philosoph ist der, der in sich viele Krankheiten des Verstandes heilen muß, ehe er zu den Notionen des gesunden Menschenverstandes kommen kann.
+<span class="series-number">53</span> Der Philosoph ist der, der in sich viele Krankheiten des Verstandes heilen muß, ehe er zu den Notionen des gesunden Menschenverstandes kommen kann.

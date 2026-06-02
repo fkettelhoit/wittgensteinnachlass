@@ -68,7 +68,7 @@ Blank lines separate paragraphs. Backslash escapes are used for literal brackets
 
 The following HTML elements appear inline within paragraph text:
 
-- `<span class="series-number">N.</span>` — remark or section numbers. The first one in a remark typically marks the remark's position in a numbered series or published work.
+- `<span class="series-number">N</span>` — remark or section numbers. The first one in a remark typically marks the remark's position in a numbered series or published work.
 - `<math display="inline">...</math>` — inline mathematical expressions in MathML. Uses standard MathML elements: `<mrow>`, `<mi>`, `<mn>`, `<mo>`, `<mtext>`, `<mfrac>`, `<msup>`, `<msub>`, `<msqrt>`, `<mover>`, `<munder>`, `<menclose>`, `<mspace>`, `<mtable>`, `<mtr>`, `<mtd>`. Of these, `<menclose>` is not part of MathML Core and may not render correctly in all browsers. Some expressions carry `class="stacked"` for vertically stacked layouts (e.g. limits).
 - `<math display="block">...</math>` — block-level mathematical expressions, on their own line separated by blank lines.
 - `<sup>text</sup>` and `<sub>text</sub>` — superscripts and subscripts outside of MathML.

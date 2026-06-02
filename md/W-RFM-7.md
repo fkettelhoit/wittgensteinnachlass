@@ -14,7 +14,7 @@ Einer Regel folgen ist ein bestimmtes Sprachspiel. Wie kann man es beschreiben? 
 
 ### [Ms-124](/ms-124/#7.3+8.1) <span class="fac">[7\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/7.webp),[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/8.webp)</span> {#ms-124-7381}
 
-<span class="series-number">1.</span> 08.06.1941
+<span class="series-number">1</span> 08.06.1941
 
 Die Rolle der Sätze, die von den Maßen handeln & nicht ‘Erfahrungssätze’ sind. – Jemand sagt mir: ‘Diese Strecke ist 240 Zoll lang’. Ich sage: ‘Das sind 20 Fuß, also ungefähr 7 Schritte & habe nun einen Begriff von der Länge erhalten. – Die Umformung beruht auf arithmetischen Sätzen & auf dem Satz, daß 12 Zoll = 1 Fuß ist.
 
@@ -32,7 +32,7 @@ Nein. Der Satz _ruht in_ einer Technik. Und, wenn Du willst, in den physikalisch
 
 ### [Ms-124](/ms-124/#9.2) <span class="fac">[9\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/9.webp)</span> {#ms-124-92}
 
-<span class="series-number">2.</span> Der Satz spielt die typische (damit aber nicht _einfache_) Rolle der Regel.
+<span class="series-number">2</span> Der Satz spielt die typische (damit aber nicht _einfache_) Rolle der Regel.
 
 ### [Ms-124](/ms-124/#9.3+10.1) <span class="fac">[9\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/9.webp),[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/10.webp)</span> {#ms-124-93101}
 
@@ -56,7 +56,7 @@ Wer einen math. Satz weiß, soll noch nichts wissen. Ist Verwirrung in unserm Re
 
 ### [Ms-124](/ms-124/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/12.webp)</span> {#ms-124-122}
 
-<span class="series-number">3.</span> Wie kann die bloße Umformung des Ausdrucks von praktischer Konsequenz sein?
+<span class="series-number">3</span> Wie kann die bloße Umformung des Ausdrucks von praktischer Konsequenz sein?
 
 ### [Ms-124](/ms-124/#12.3+13.1) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/13.webp)</span> {#ms-124-123131}
 
@@ -106,7 +106,7 @@ Daß die Arithmetik die beiden Ausdrücke einander gleichsetzt, ist, könnte man
 
 ### [Ms-124](/ms-124/#17.2+18.1) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/17.webp),[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/18.webp)</span> {#ms-124-172181}
 
-<span class="series-number">4.</span> Nimm an, ich habe jemand multiplizieren gelehrt, aber nicht mit Hilfe einer ausgesprochenen allgemeinen Regel, sondern nur dadurch daß er sieht wie ich ihm Beispiele vorrechne. Ich kann ihm dann eine _neue_ Aufgabe anschreiben, & sagen: “mach dasselbe mit _diesen_ beiden Zahlen, was ich mit den früheren getan habe”. Aber ich kann auch sagen: “Wenn Du mit diesen beiden machst, was ich mit den andern gemacht habe, so wirst Du zu der Zahl … kommen”. Was ist das für ein Satz? “Du wirst das & das schreiben” ist eine Vorhersage. ‘Wenn Du das & das schreiben wirst, wirst Du's so gemacht haben, wie ich Dir's gezeigt habe’ bestimmt, was er “seinem Beispiel folgen” nennt.
+<span class="series-number">4</span> Nimm an, ich habe jemand multiplizieren gelehrt, aber nicht mit Hilfe einer ausgesprochenen allgemeinen Regel, sondern nur dadurch daß er sieht wie ich ihm Beispiele vorrechne. Ich kann ihm dann eine _neue_ Aufgabe anschreiben, & sagen: “mach dasselbe mit _diesen_ beiden Zahlen, was ich mit den früheren getan habe”. Aber ich kann auch sagen: “Wenn Du mit diesen beiden machst, was ich mit den andern gemacht habe, so wirst Du zu der Zahl … kommen”. Was ist das für ein Satz? “Du wirst das & das schreiben” ist eine Vorhersage. ‘Wenn Du das & das schreiben wirst, wirst Du's so gemacht haben, wie ich Dir's gezeigt habe’ bestimmt, was er “seinem Beispiel folgen” nennt.
 
 ### [Ms-124](/ms-124/#18.2) <span class="fac">[18\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/18.webp)</span> {#ms-124-182}
 
@@ -148,7 +148,7 @@ Aber wenn nun Einer dennoch am Ende der Rechnung in unserm Sprachspiel sagte: �
 
 ### [Ms-124](/ms-124/#28.3) <span class="fac">[28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/28.webp)</span> {#ms-124-283}
 
-<span class="series-number">5.</span> Ist es nicht die _Anwendung_ der Rechnung die jene Auffassung hervorruft, daß die Rechnung abläuft und nicht wir?
+<span class="series-number">5</span> Ist es nicht die _Anwendung_ der Rechnung die jene Auffassung hervorruft, daß die Rechnung abläuft und nicht wir?
 
 ### [Ms-124](/ms-124/#29.1) <span class="fac">[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/29.webp)</span> {#ms-124-291}
 
@@ -184,7 +184,7 @@ Ist also Berechnen, was Einer durch Rechnung herauskriegen wird, schon angewandt
 
 ### [Ms-124](/ms-124/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/34.webp)</span> {#ms-124-341}
 
-<span class="series-number">6.</span> 13.06.1941
+<span class="series-number">6</span> 13.06.1941
 
 Es ist ja gar kein Zweifel, daß math. Sätze _in gewissen Sprachspielen_ die Rolle von Regeln der Darstellung spielen, im Gegensatz zu Sätzen der Darstellung.
 
@@ -202,7 +202,7 @@ Was der math. Beweis demonstriert wird als interne Relation hingestellt & dem Zw
 
 ### [Ms-124](/ms-124/#36.3+37.1) <span class="fac">[36\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/36.webp),[37\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/37.webp)</span> {#ms-124-363371}
 
-<span class="series-number">7.</span> Was ist einem mathematischen Satz & einem mathematischen Beweis gemein, daß sie beide “mathematisch” heißen? Nicht, daß der math. Satz mathematisch bewiesen sein muß; nicht, daß der math. Beweis einen math. Satz beweisen muß. Was hat der unbewiesene Satz (das Axiom) mathematisches? (&) was hat er gemein mit einem mathematischen _Beweis_?
+<span class="series-number">7</span> Was ist einem mathematischen Satz & einem mathematischen Beweis gemein, daß sie beide “mathematisch” heißen? Nicht, daß der math. Satz mathematisch bewiesen sein muß; nicht, daß der math. Beweis einen math. Satz beweisen muß. Was hat der unbewiesene Satz (das Axiom) mathematisches? (&) was hat er gemein mit einem mathematischen _Beweis_?
 
 ### [Ms-124](/ms-124/#37.2) <span class="fac">[37\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/37.webp)</span> {#ms-124-372}
 
@@ -210,7 +210,7 @@ Soll ich antworten: ‘Die Schlußregeln des math. Beweises sind immer math. Sä
 
 ### [Ms-124](/ms-124/#37.3+38.1) <span class="fac">[37\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/37.webp),[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/38.webp)</span> {#ms-124-373381}
 
-<span class="series-number">8.</span> Der Beweis muß eine interne Relation etablieren, nicht eine äußere. Denn wir könnten uns auch einen Vorgang der Transformation eines Satzes durchs _Experiment_ denken & eine, die zum Vorhersagen des vom transformierten Satz Behaupteten benützt würde. Man könnte sich z.B. (ganz gut) denken, daß Zeichen durch hinzulegen anderer Zeichen sich solchermaßen verschöben, daß sie eine wahre Vorhersage bilden auf der Grundlage der in ihrer Anfangslage ausgedrückten Bedingungen. Ja, wenn Du willst, kannst Du den rechnenden Menschen als einen Apparat dieser Art betrachten.
+<span class="series-number">8</span> Der Beweis muß eine interne Relation etablieren, nicht eine äußere. Denn wir könnten uns auch einen Vorgang der Transformation eines Satzes durchs _Experiment_ denken & eine, die zum Vorhersagen des vom transformierten Satz Behaupteten benützt würde. Man könnte sich z.B. (ganz gut) denken, daß Zeichen durch hinzulegen anderer Zeichen sich solchermaßen verschöben, daß sie eine wahre Vorhersage bilden auf der Grundlage der in ihrer Anfangslage ausgedrückten Bedingungen. Ja, wenn Du willst, kannst Du den rechnenden Menschen als einen Apparat dieser Art betrachten.
 
 ### [Ms-124](/ms-124/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/38.webp)</span> {#ms-124-382}
 
@@ -228,7 +228,7 @@ Wenn wir den Beweis so betrachten, ändert sich, was wir erblicken, gänzlich. D
 
 ### [Ms-124](/ms-124/#39.5+40.1) <span class="fac">[39\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/39.webp),[40\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/40.webp)</span> {#ms-124-395401}
 
-<span class="series-number">9.</span> Wir sagen: der Beweis sei ein Bild. Aber dies Bild bedarf doch der Approbation, die wir ihm (nämlich) beim Nachrechnen erteilen. –
+<span class="series-number">9</span> Wir sagen: der Beweis sei ein Bild. Aber dies Bild bedarf doch der Approbation, die wir ihm (nämlich) beim Nachrechnen erteilen. –
 
 ### [Ms-124](/ms-124/#40.2) <span class="fac">[40\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/40.webp)</span> {#ms-124-402}
 
@@ -252,7 +252,7 @@ Was heißt es, sich über einen Unterschied im Resultat einer Rechnung _verstän
 
 ### [Ms-124](/ms-124/#46.2) <span class="fac">[46\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/46.webp)</span> {#ms-124-462}
 
-<span class="series-number">10.</span> Wie ist es nun, – soll ich sagen: Der gleiche Sinn könne nur _einen_ Beweis haben? Oder: wenn ein Beweis gefunden wird, ändere sich der Sinn? Freilich würden Einige sich dagegen wehren, sagen: ‘So kann man also nie den Beweis eines Satzes finden, denn, hat man ihn gefunden, so ist er nicht mehr Beweis _dieses_ Satzes.’ Aber das sagt noch gar nichts. –
+<span class="series-number">10</span> Wie ist es nun, – soll ich sagen: Der gleiche Sinn könne nur _einen_ Beweis haben? Oder: wenn ein Beweis gefunden wird, ändere sich der Sinn? Freilich würden Einige sich dagegen wehren, sagen: ‘So kann man also nie den Beweis eines Satzes finden, denn, hat man ihn gefunden, so ist er nicht mehr Beweis _dieses_ Satzes.’ Aber das sagt noch gar nichts. –
 
 ### [Ms-124](/ms-124/#47.1) <span class="fac">[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/47.webp)</span> {#ms-124-471}
 
@@ -298,7 +298,7 @@ Wenn zwei Beweise denselben Satz beweisen, so kann man sich allerdings Umstände
 
 ### [Ms-124](/ms-124/#52.2+53.1) <span class="fac">[52\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/52.webp),[53\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/53.webp)</span> {#ms-124-522531}
 
-<span class="series-number">11.</span> Nimm an, man rechnete mit Zahlen & verwendet manchmal auch die Division durch Ausdrücke von der Form (n ‒ n), & erhielte auf diese Weise hie & da andere als die normalen Resultate des Multiplizierens, etc. Das störe aber niemand. – Vergleiche damit: Man legt Listen, Verzeichnisse, von Personen an, aber nicht wie wir es tun, alphabetisch; & so kommt es, daß der gleiche Name in mancher Liste öfters als einmal figuriert. – Aber nun kann man annehmen, daß das niemandem auffällt; oder, daß die Leute es sehen, es ihnen aber weiters nichts macht. Wie man Leute eines Stammes denken könnte, die, wenn sie Münzen zur Erde fallen lassen, es nicht der Mühe Wert halten sie aufzuheben. (Sie haben dann etwa eine Redensart: “Es gehört den Andern” oder dergleichen.)
+<span class="series-number">11</span> Nimm an, man rechnete mit Zahlen & verwendet manchmal auch die Division durch Ausdrücke von der Form (n ‒ n), & erhielte auf diese Weise hie & da andere als die normalen Resultate des Multiplizierens, etc. Das störe aber niemand. – Vergleiche damit: Man legt Listen, Verzeichnisse, von Personen an, aber nicht wie wir es tun, alphabetisch; & so kommt es, daß der gleiche Name in mancher Liste öfters als einmal figuriert. – Aber nun kann man annehmen, daß das niemandem auffällt; oder, daß die Leute es sehen, es ihnen aber weiters nichts macht. Wie man Leute eines Stammes denken könnte, die, wenn sie Münzen zur Erde fallen lassen, es nicht der Mühe Wert halten sie aufzuheben. (Sie haben dann etwa eine Redensart: “Es gehört den Andern” oder dergleichen.)
 
 ### [Ms-124](/ms-124/#53.2) <span class="fac">[53\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/53.webp)</span> {#ms-124-532}
 
@@ -336,7 +336,7 @@ Mit diesem Weg sind wir einverstanden. Und doch ist es hier klar, daß es leicht
 
 ### [Ms-124](/ms-124/#57.3) <span class="fac">[57\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/57.webp)</span> {#ms-124-573}
 
-<span class="series-number">12.</span> Wenn Du zu einem praktischen Zweck einen Widerspruch mechanisch vermeiden willst, wie Dein Kalkül es jetzt nicht kann, so ist das etwa, wie wenn Du nach einer Konstruktion des …-Ecks suchst, das Du bis jetzt nur durch Probieren hast zeichnen können; oder nach einer Lösung der Gleichung 3<sup>ten</sup> Grades, die Du bisher nur approximiert hast. Nicht schlechte Mathematik wird hier verbessert, sondern ein neues Stück Mathematik geschaffen.
+<span class="series-number">12</span> Wenn Du zu einem praktischen Zweck einen Widerspruch mechanisch vermeiden willst, wie Dein Kalkül es jetzt nicht kann, so ist das etwa, wie wenn Du nach einer Konstruktion des …-Ecks suchst, das Du bis jetzt nur durch Probieren hast zeichnen können; oder nach einer Lösung der Gleichung 3<sup>ten</sup> Grades, die Du bisher nur approximiert hast. Nicht schlechte Mathematik wird hier verbessert, sondern ein neues Stück Mathematik geschaffen.
 
 ### [Ms-124](/ms-124/#57.4+58.1) <span class="fac">[57\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/58.webp)</span> {#ms-124-574581}
 
@@ -358,7 +358,7 @@ Die Idee des Mechanisierens der Math.. Die Mode des axiomatischen Systems.
 
 ### [Ms-124](/ms-124/#60.4+61.1) <span class="fac">[60\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/60.webp),[61\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/61.webp)</span> {#ms-124-604611}
 
-<span class="series-number">13.</span> Aber nehmen wir an, die ‘Axiome’ & ‘Schlußweisen’ seien nicht nur irgendwelche Konstruktionsweisen, sondern sie überzeugten uns auch durchaus von dem Konstruierten! Nun, dann heißt das, daß es Fälle gibt, in denen die Konstruktion aus diesen Bausteinen _nicht_ überzeugt. Und tatsächlich sind die logischen Axiome gar nicht überzeugend, wenn wir für die Satzvariablen Strukturen einsetzen, die niemand ursprünglich als mögliche Werte vorhergesehen hat, als man nämlich ihrer Wahrheit (im Anfang) die unbedingte Anerkennung gab.
+<span class="series-number">13</span> Aber nehmen wir an, die ‘Axiome’ & ‘Schlußweisen’ seien nicht nur irgendwelche Konstruktionsweisen, sondern sie überzeugten uns auch durchaus von dem Konstruierten! Nun, dann heißt das, daß es Fälle gibt, in denen die Konstruktion aus diesen Bausteinen _nicht_ überzeugt. Und tatsächlich sind die logischen Axiome gar nicht überzeugend, wenn wir für die Satzvariablen Strukturen einsetzen, die niemand ursprünglich als mögliche Werte vorhergesehen hat, als man nämlich ihrer Wahrheit (im Anfang) die unbedingte Anerkennung gab.
 
 ### [Ms-124](/ms-124/#61.2) <span class="fac">[61\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/61.webp)</span> {#ms-124-612}
 
@@ -374,7 +374,7 @@ Nimm an, ich hätte die Regeln für's Spiel ‘Fuchs & Jäger’ aufgestellt –
 
 ### [Ms-124](/ms-124/#62.2) <span class="fac">[62\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/62.webp)</span> {#ms-124-622}
 
-<span class="series-number">14.</span> 20.06.1941
+<span class="series-number">14</span> 20.06.1941
 
 ‘N. kam darauf, daß man bei den Berechnungen oft durch Ausdrücke der Form ‘(n ‒ n)’ gekürzt hatte. Er wies die dadurch entstehende Diskrepanz der Resultate nach & zeigte, wie Menschenleben durch diese Art des Rechnens verloren worden waren.’
 
@@ -392,7 +392,7 @@ Die Leute haben bisher nur verhältnismäßig selten vom Kürzen durch Ausdrück
 
 ### [Ms-124](/ms-124/#64.4+65.1) <span class="fac">[64\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/64.webp),[65\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/65.webp)</span> {#ms-124-644651}
 
-<span class="series-number">15.</span> Wenn die Rechnung für mich ihren Witz verloren hat, sobald ich weiß, wie ich nun alles Beliebige errechnen kann – hat sie keinen gehabt, solang ich das _nicht_ wußte?
+<span class="series-number">15</span> Wenn die Rechnung für mich ihren Witz verloren hat, sobald ich weiß, wie ich nun alles Beliebige errechnen kann – hat sie keinen gehabt, solang ich das _nicht_ wußte?
 
 ### [Ms-124](/ms-124/#65.2) <span class="fac">[65\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/65.webp)</span> {#ms-124-652}
 
@@ -476,7 +476,7 @@ _Ein_ Fehler ist zu vermeiden: Man denkt, der Widerspruch _muß_ sinnlos sein: d
 
 ### [Ms-124](/ms-124/#71.4+72.1) <span class="fac">[71\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/71.webp),[72\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/72.webp)</span> {#ms-124-714721}
 
-<span class="series-number">16.</span> Wozu braucht die Mathematik eine Grundlegung?! Sie braucht sie, glaube ich, ebenso wenig, wie die Sätze über physikalische Gegenstände oder Sinnesdaten, eine _Analyse_. Wohl aber bedürfen die mathematischen, sowie jene andern Sätze einer Klarlegung ihrer Grammatik.
+<span class="series-number">16</span> Wozu braucht die Mathematik eine Grundlegung?! Sie braucht sie, glaube ich, ebenso wenig, wie die Sätze über physikalische Gegenstände oder Sinnesdaten, eine _Analyse_. Wohl aber bedürfen die mathematischen, sowie jene andern Sätze einer Klarlegung ihrer Grammatik.
 
 ### [Ms-124](/ms-124/#72.2) <span class="fac">[72\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/72.webp)</span> {#ms-124-722}
 
@@ -498,7 +498,7 @@ Man könnte sich sogar denken, daß man die Fregesche Logik einem Wilden als Ins
 
 ### [Ms-124](/ms-124/#73.3+74.1) <span class="fac">[73\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/73.webp),[74\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/74.webp)</span> {#ms-124-733741}
 
-<span class="series-number">17.</span> Man sagt: das Rechnen sei ein Experiment, um dadurch zu zeigen, wie es so praktisch sein kann. Denn vom Experiment weiß man, daß es wirklich praktischen Wert hat. Nur vergißt man, daß es diesen Wert besitzt vermöge einer Technik, die ein naturgeschichtliches Faktum ist, deren Regeln aber nicht die Rolle von Sätzen der Naturgeschichte haben.
+<span class="series-number">17</span> Man sagt: das Rechnen sei ein Experiment, um dadurch zu zeigen, wie es so praktisch sein kann. Denn vom Experiment weiß man, daß es wirklich praktischen Wert hat. Nur vergißt man, daß es diesen Wert besitzt vermöge einer Technik, die ein naturgeschichtliches Faktum ist, deren Regeln aber nicht die Rolle von Sätzen der Naturgeschichte haben.
 
 ### [Ms-124](/ms-124/#74.2) <span class="fac">[74\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/74.webp)</span> {#ms-124-742}
 
@@ -542,7 +542,7 @@ Wenn ich zweifle, ob die Zahlen n und m multipliziert 𝓁 ergeben werden, so bi
 
 ### [Ms-124](/ms-124/#77.2+78.1) <span class="fac">[77\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/77.webp),[78\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/78.webp)</span> {#ms-124-772781}
 
-<span class="series-number">18.</span> “Soll die Rechnung praktisch sein, so muß sie Tatsachen mitteilen. Und das kann nur das Experiment.” Aber welches sind ‘Tatsachen’? Glaubst Du, Du kannst zeigen, welche Tatsache gemeint ist, indem Du etwa mit dem Finger auf sie zeigst? Macht das schon die Rolle klar, welche die ‘Feststellung’ einer Tatsache spielt? – Wenn nun die Mathematik erst den _Charakter_ dessen bestimmte, was Du ‘Tatsache’ nennst! ‘Es ist interessant zu wissen _wieviele_ Schwingungen dieser Ton hat.’ Aber die Arithmetik hat Dich diese Frage erst gelehrt. Sie hat Dich gelehrt, diese Art von Tatsachen zu sehen.
+<span class="series-number">18</span> “Soll die Rechnung praktisch sein, so muß sie Tatsachen mitteilen. Und das kann nur das Experiment.” Aber welches sind ‘Tatsachen’? Glaubst Du, Du kannst zeigen, welche Tatsache gemeint ist, indem Du etwa mit dem Finger auf sie zeigst? Macht das schon die Rolle klar, welche die ‘Feststellung’ einer Tatsache spielt? – Wenn nun die Mathematik erst den _Charakter_ dessen bestimmte, was Du ‘Tatsache’ nennst! ‘Es ist interessant zu wissen _wieviele_ Schwingungen dieser Ton hat.’ Aber die Arithmetik hat Dich diese Frage erst gelehrt. Sie hat Dich gelehrt, diese Art von Tatsachen zu sehen.
 
 ### [Ms-124](/ms-124/#78.2) <span class="fac">[78\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/78.webp)</span> {#ms-124-782}
 
@@ -588,7 +588,7 @@ Erwäge: ‘Unsre Mathematik wandelt Experimente in Definitionen um.’
 
 ### [Ms-124](/ms-124/#81.2) <span class="fac">[81\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/81.webp)</span> {#ms-124-812}
 
-<span class="series-number">19.</span> Aber können wir uns keine menschliche Gesellschaft denken, in der es ebensowenig ein Rechnen, ganz in unserm Sinn, wie ein Messen, ganz in unserm Sinn, gibt? – Doch. – Aber wozu will ich mich dann bemühen, was Mathematik ist, herauszuarbeiten? Weil es bei uns eine Mathematik gibt & eine besondere Auffassung derselben, ein Ideal, gleichsam, ihrer Stellung & Funktion, – & dieses muß klar herausgearbeitet werden.
+<span class="series-number">19</span> Aber können wir uns keine menschliche Gesellschaft denken, in der es ebensowenig ein Rechnen, ganz in unserm Sinn, wie ein Messen, ganz in unserm Sinn, gibt? – Doch. – Aber wozu will ich mich dann bemühen, was Mathematik ist, herauszuarbeiten? Weil es bei uns eine Mathematik gibt & eine besondere Auffassung derselben, ein Ideal, gleichsam, ihrer Stellung & Funktion, – & dieses muß klar herausgearbeitet werden.
 
 ### [Ms-124](/ms-124/#82.1) <span class="fac">[82\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/82.webp)</span> {#ms-124-821}
 
@@ -608,7 +608,7 @@ Meine Aufgabe ist es nicht über den Gödelschen Beweis (z.B.) zu reden; sondern
 
 ### [Ms-124](/ms-124/#84.4+84.5+85.1) <span class="fac">[84\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/84.webp),[84\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/84.webp),[85\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/85.webp)</span> {#ms-124-844845851}
 
-<span class="series-number">20.</span> Die Aufgabe, die Zahl der Wege zu finden, auf denen man den Fugen dieser Mauern ohne abzusetzen & ohne Wiederholung entlangfahren kann, erkennt
+<span class="series-number">20</span> Die Aufgabe, die Zahl der Wege zu finden, auf denen man den Fugen dieser Mauern ohne abzusetzen & ohne Wiederholung entlangfahren kann, erkennt
 
 ![](../graphics/124,84.svg)
 
@@ -636,7 +636,7 @@ Werden aber, etwa, die Prinzipien der Dynamik zu Sätzen der reinen Mathematik d
 
 ### [Ms-124](/ms-124/#87.4+88.1) <span class="fac">[87\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/87.webp),[88\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/88.webp)</span> {#ms-124-874881}
 
-<span class="series-number">21.</span> Vergiß nicht: der Satz, der von sich selbst aussagt, er sei unbeweisbar, ist als _mathematische_ Aussage aufzufassen – – denn das ist nicht _selbstverständlich_. Es ist nicht selbstverständlich, daß der Satz, die & die Struktur sei so & so nicht konstruierbar, als mathematischer Satz aufzufassen sei.
+<span class="series-number">21</span> Vergiß nicht: der Satz, der von sich selbst aussagt, er sei unbeweisbar, ist als _mathematische_ Aussage aufzufassen – – denn das ist nicht _selbstverständlich_. Es ist nicht selbstverständlich, daß der Satz, die & die Struktur sei so & so nicht konstruierbar, als mathematischer Satz aufzufassen sei.
 
 ### [Ms-124](/ms-124/#88.2) <span class="fac">[88\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/88.webp)</span> {#ms-124-882}
 
@@ -664,7 +664,7 @@ Die Grenzen der Empirie sind nicht unverbürgte Annahmen, oder intuitiv als rich
 
 ### [Ms-124](/ms-124/#90.4+91.1+92.1) <span class="fac">[90\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/90.webp),[91\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/91.webp),[92\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/92.webp)</span> {#ms-124-904911921}
 
-<span class="series-number">22.</span> 03.07.1941
+<span class="series-number">22</span> 03.07.1941
 
 ‘Nehmen wir an, wir haben einen arithmetischen Satz, der sagt, eine bestimmte Zahl … könne nicht aus den Zahlen …, …, …, durch die & die Operationen gewonnen werden. Und nehmen wir an, es ließe sich eine Übersetzungsregel geben, nach welcher dieser arithm. Satz in die Ziffer jener ersten Zahl – die Axiome, aus denen wir versuchen ihn zu beweisen, in die Ziffern jener andern Zahlen – & unsere Schlußregeln in die im Satz erwähnten Operationen sich übersetzen ließen. – Hätten wir dann _den arithm Satz_ aus den Axiomen nach unsern Schlußregeln abgeleitet, so hätten wir _dadurch_ seine Ableitbarkeit demonstriert, aber auch einen Satz bewiesen, den man nach jener Übersetzungsregel dahin aussprechen kann: dieser arithm. Satz (nämlich unserer) sei unableitbar. Was wäre nun da zu tun? Ich denke mir, wir schenken unserer _Konstruktion_ des _Satzzeichens_ glauben, also dem _geometrischen_ Beweis. Wir sagen also, diese ‘Satzfigur’ ist aus jenen so & so gewinnbar. Und übertragen, nur, in eine andre Notation heißt das: diese Ziffer ist mittels dieser Operationen aus jenen zu gewinnen. Soweit hat der Satz & sein Beweis nichts mit einer besondern _Logik_ zu tun. Hier war jener konstruierte Satz einfach eine andere Schreibweise der konstruierten Ziffer; sie hatte die _Form_ eines Satzes aber wir verglichen sie nicht mit andern Sätzen als Zeichen, welches dies oder jenes _sagt_, einen _Sinn_ hat.
 
@@ -694,7 +694,7 @@ So seltsam es klingt, so scheint meine Aufgabe das Gödelsche Theorem betreffend
 
 ### [Ms-124](/ms-124/#95.1) <span class="fac">[95\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/95.webp)</span> {#ms-124-951}
 
-<span class="series-number">23.</span> 04.07.1941
+<span class="series-number">23</span> 04.07.1941
 
 Es kommt uns viel zu selbstverständlich vor, daß wir “wieviele?” fragen & darauf zählen & rechnen!
 
@@ -716,7 +716,7 @@ Es wäre also _eine_ Frage: “hat uns die Erfahrung gelehrt, _so_ zu rechnen?�
 
 ### [Ms-124](/ms-124/#96.3+97.1) <span class="fac">[96\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/96.webp),[97\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/97.webp)</span> {#ms-124-963971}
 
-<span class="series-number">24.</span> 05.03.1944
+<span class="series-number">24</span> 05.03.1944
 
 Aber läßt sich nicht alles aus allem nach irgend einer Regel – ja nach _jeder_ Regel mit entsprechender Deutung – ableiten? Was heißt es, wenn ich z.B. sage: Diese Zahl läßt sich durch Multiplikation jener beiden erhalten? Frage Dich: wann gebraucht man diesen Satz? Nun, es ist z.B. kein psychologischer Satz, der sagen soll, was Menschen unter gewissen Bedingungen tun werden, was sie befriedigen wird; es ist auch kein physikalischer das Benehmen von Zeichen auf dem Papier betreffend. Er wird nämlich in einer andern Umgebung, als ein psychologischer, oder physikalischer, angewandt.
 
@@ -734,7 +734,7 @@ Man kann ein Musikstück auswendig lernen, um es richtig spielen zu können; abe
 
 ### [Ms-124](/ms-124/#98.3+99.1) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/99.webp)</span> {#ms-124-983991}
 
-<span class="series-number">25.</span> Ein Sprachspiel: Ich rechne Multiplikationen & sage dem Andern: wenn Du richtig rechnest wird das & das herauskommen; worauf er die Rechnung ausführt und sich der Richtigkeit, & manchmal der Falschheit, meiner Voraussage freut. Was setzt dieses Sprachspiel voraus? Daß ‘Rechenfehler’ leicht zu finden sind & immer Übereinstimmung über Richtigkeit, oder Falschheit der Rechnung rasch erzielt wird.
+<span class="series-number">25</span> Ein Sprachspiel: Ich rechne Multiplikationen & sage dem Andern: wenn Du richtig rechnest wird das & das herauskommen; worauf er die Rechnung ausführt und sich der Richtigkeit, & manchmal der Falschheit, meiner Voraussage freut. Was setzt dieses Sprachspiel voraus? Daß ‘Rechenfehler’ leicht zu finden sind & immer Übereinstimmung über Richtigkeit, oder Falschheit der Rechnung rasch erzielt wird.
 
 ### [Ms-124](/ms-124/#99.2) <span class="fac">[99\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/99.webp)</span> {#ms-124-992}
 
@@ -762,7 +762,7 @@ _Logisch_ wird geschlossen, wenn keine Erfahrung der Konklusion widerstreiten ka
 
 ### [Ms-124](/ms-124/#100.4+101.1) <span class="fac">[100\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/100.webp),[101\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/101.webp)</span> {#ms-124-10041011}
 
-<span class="series-number">26.</span> In einem Sprachspiel werden Sätze gebraucht; Meldungen, Befehle, u. dergl. Und nun werden auch Rechensätze von den Personen verwendet. Sie sagen sie etwa zu sich selbst, zwischen den Befehlen und Meldungen.
+<span class="series-number">26</span> In einem Sprachspiel werden Sätze gebraucht; Meldungen, Befehle, u. dergl. Und nun werden auch Rechensätze von den Personen verwendet. Sie sagen sie etwa zu sich selbst, zwischen den Befehlen und Meldungen.
 
 ### [Ms-124](/ms-124/#101.2+102.1) <span class="fac">[101\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/101.webp),[102\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/102.webp)</span> {#ms-124-10121021}
 
@@ -790,7 +790,7 @@ Kann nun der Schüler aber widersprechen & sagen: ‘Woher weißt Du das? Und is
 
 ### [Ms-124](/ms-124/#104.2) <span class="fac">[104\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/104.webp)</span> {#ms-124-1042}
 
-<span class="series-number">27.</span> Ist es nun denkbar, daß einer der Regel richtig folgt & zu verschiedenen Malen beim Multiplizieren 15 × 13 doch verschiedenes errechnet? Daß kommt darauf an, _welche Kriterien_ er für das richtige Folgen gelten läßt. In der Mathematik ist das Resultat selbst auch ein Kriterium des richtigen Rechnens. So aufgefaßt ist es also undenkbar der Regel richtig zu folgen & verschiedene Rechnungsbilder zu erhalten.
+<span class="series-number">27</span> Ist es nun denkbar, daß einer der Regel richtig folgt & zu verschiedenen Malen beim Multiplizieren 15 × 13 doch verschiedenes errechnet? Daß kommt darauf an, _welche Kriterien_ er für das richtige Folgen gelten läßt. In der Mathematik ist das Resultat selbst auch ein Kriterium des richtigen Rechnens. So aufgefaßt ist es also undenkbar der Regel richtig zu folgen & verschiedene Rechnungsbilder zu erhalten.
 
 ### [Ms-124](/ms-124/#104.3+105.1) <span class="fac">[104\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/104.webp),[105\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/105.webp)</span> {#ms-124-10431051}
 
@@ -826,7 +826,7 @@ Was zwingt mich denn? – Der Ausdruck der Regel? – Ja; wenn ich einmal so erz
 
 ### [Ms-124](/ms-124/#107.4+108.1) <span class="fac">[107\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/107.webp),[108\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/108.webp)</span> {#ms-124-10741081}
 
-<span class="series-number">28.</span> Warum soll man nicht sagen der Widerspruch, z.B. ‘heteronom’ ∊ heteronom ≡ = ~ (‘heteronom’ ∊ heteronom), zeige eine logische Eigenschaft des Begriffs ‘heteronom’?
+<span class="series-number">28</span> Warum soll man nicht sagen der Widerspruch, z.B. ‘heteronom’ ∊ heteronom ≡ = ~ (‘heteronom’ ∊ heteronom), zeige eine logische Eigenschaft des Begriffs ‘heteronom’?
 
 ### [Ms-124](/ms-124/#108.2) <span class="fac">[108\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/108.webp)</span> {#ms-124-1082}
 
@@ -848,7 +848,7 @@ Was zwingt mich denn? – Der Ausdruck der Regel? – Ja; wenn ich einmal so erz
 
 ### [Ms-124](/ms-124/#109.4+110.1) <span class="fac">[109\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/109.webp),[110\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/110.webp)</span> {#ms-124-10941101}
 
-<span class="series-number">29.</span> Ich bestimme ein Spiel & sage: “Machst Du diese Art Zug, so ziehe ich _so_, machst Du jene, so ziehe ich _so_. – Jetzt spiele!” Und nun macht er einen Zug, oder etwas, was ich auch als Zug anerkennen muß, & wenn ich nach meinen Regeln weiterspielen will, so erweist sich, was immer ich tue, als unrichtig. Wie konnte das geschehen? Als ich Regeln aufstellte, da _sagte_ ich etwas. Ich folgte einem gewissen Brauch. Ich sah nicht voraus, was wir weiter tun würden, oder sah nur eine bestimmte Möglichkeit. Es war nicht anders, als hätte ich Einem gesagt: „Mit diesen Figuren kannst Du nicht mattsetzen” & hätte eine bestehende Möglichkeit des Mattsetzens übersehen.
+<span class="series-number">29</span> Ich bestimme ein Spiel & sage: “Machst Du diese Art Zug, so ziehe ich _so_, machst Du jene, so ziehe ich _so_. – Jetzt spiele!” Und nun macht er einen Zug, oder etwas, was ich auch als Zug anerkennen muß, & wenn ich nach meinen Regeln weiterspielen will, so erweist sich, was immer ich tue, als unrichtig. Wie konnte das geschehen? Als ich Regeln aufstellte, da _sagte_ ich etwas. Ich folgte einem gewissen Brauch. Ich sah nicht voraus, was wir weiter tun würden, oder sah nur eine bestimmte Möglichkeit. Es war nicht anders, als hätte ich Einem gesagt: „Mit diesen Figuren kannst Du nicht mattsetzen” & hätte eine bestehende Möglichkeit des Mattsetzens übersehen.
 
 ### [Ms-124](/ms-124/#110.2+111.1) <span class="fac">[110\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/110.webp),[111\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/111.webp)</span> {#ms-124-11021111}
 
@@ -860,7 +860,7 @@ Man gibt jemandem etwa Instruktionen, wie er in dem & dem Fall zu handeln hat; &
 
 ### [Ms-124](/ms-124/#111.3) <span class="fac">[111\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/111.webp)</span> {#ms-124-1113}
 
-<span class="series-number">30.</span> Das logische Schließen ist ein Teil eines Sprachspiels. Und zwar folgt, der im Sprachspiel logische Schlüsse ausführt, gewissen Instruktionen, die beim Lernen des Sprachspiels selber gegeben wurden. Baut der Gehilfe etwa nach gewissen Befehlen ein Haus, so hat er das Herbeitragen der Baustoffe etc. von Zeit zu Zeit zu unterbrechen & gewisse Operationen mit Zeichen auf einem Papier auszuführen; worauf er, dem Resultat entsprechend, wieder zu seiner Bauarbeit zurückkehrt.
+<span class="series-number">30</span> Das logische Schließen ist ein Teil eines Sprachspiels. Und zwar folgt, der im Sprachspiel logische Schlüsse ausführt, gewissen Instruktionen, die beim Lernen des Sprachspiels selber gegeben wurden. Baut der Gehilfe etwa nach gewissen Befehlen ein Haus, so hat er das Herbeitragen der Baustoffe etc. von Zeit zu Zeit zu unterbrechen & gewisse Operationen mit Zeichen auf einem Papier auszuführen; worauf er, dem Resultat entsprechend, wieder zu seiner Bauarbeit zurückkehrt.
 
 ### [Ms-124](/ms-124/#112.1) <span class="fac">[112\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/112.webp)</span> {#ms-124-1121}
 
@@ -894,7 +894,7 @@ Man könnte sagen: Experiment – Rechnung sind Pole, zwischen welchen sich mens
 
 ### [Ms-124](/ms-124/#114.3) <span class="fac">[114\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/114.webp)</span> {#ms-124-1143}
 
-<span class="series-number">31.</span> Wir konditionieren einen Menschen in dieser & dieser Weise; wirken dann auf ihn durch eine Frage ein; & erhalten ein Zahlzeichen. Dieses verwenden wir weiter zu unsern Zwecken & es erweist sich als praktisch. Das ist das Rechnen. – Noch nicht! Dies könnte ein sehr _zweckmäßiger_ Vorgang sein – muß aber nicht sein, was wir ‘rechnen’ nennen. Wie man sich denken könnte, daß zu Zwecken denen heute unsere Sprache dient Laute ausgestoßen würden, die doch keine Sprache bildeten. Zum Rechnen gehört, daß alle die richtig rechnen dasselbe Rechnungsbild produzieren. Und ‘richtig rechnen’ heißt nicht: bei klarem Verstande, oder ungestört rechnen, sondern _so_ rechnen.
+<span class="series-number">31</span> Wir konditionieren einen Menschen in dieser & dieser Weise; wirken dann auf ihn durch eine Frage ein; & erhalten ein Zahlzeichen. Dieses verwenden wir weiter zu unsern Zwecken & es erweist sich als praktisch. Das ist das Rechnen. – Noch nicht! Dies könnte ein sehr _zweckmäßiger_ Vorgang sein – muß aber nicht sein, was wir ‘rechnen’ nennen. Wie man sich denken könnte, daß zu Zwecken denen heute unsere Sprache dient Laute ausgestoßen würden, die doch keine Sprache bildeten. Zum Rechnen gehört, daß alle die richtig rechnen dasselbe Rechnungsbild produzieren. Und ‘richtig rechnen’ heißt nicht: bei klarem Verstande, oder ungestört rechnen, sondern _so_ rechnen.
 
 ### [Ms-124](/ms-124/#115.2) <span class="fac">[115\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/115.webp)</span> {#ms-124-1152}
 
@@ -902,11 +902,11 @@ Jeder math. Beweis stellt das math. Regelgebäude auf einen neuen Fuß.
 
 ### [Ms-124](/ms-124/#115.3) <span class="fac">[115\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/115.webp)</span> {#ms-124-1153}
 
-<span class="series-number">32.</span> Ich habe mich gefragt: Ist Mathematik mit rein phantastischer Anwendung nicht auch wirkliche Mathematik? – Aber es frägt sich: Nennen wir es ‘Mathematik’ nicht etwa nur darum weil es hier Übergänge, Brücken gibt von der phantastischen zur nichtphantastischen Anwendung? D.h.: würden wir sagen, Leute besäßen eine Mathematik, die das Rechnen, Operieren mit Zeichen, _bloß_ zu okkulten Zwecken benützten?
+<span class="series-number">32</span> Ich habe mich gefragt: Ist Mathematik mit rein phantastischer Anwendung nicht auch wirkliche Mathematik? – Aber es frägt sich: Nennen wir es ‘Mathematik’ nicht etwa nur darum weil es hier Übergänge, Brücken gibt von der phantastischen zur nichtphantastischen Anwendung? D.h.: würden wir sagen, Leute besäßen eine Mathematik, die das Rechnen, Operieren mit Zeichen, _bloß_ zu okkulten Zwecken benützten?
 
 ### [Ms-124](/ms-124/#115.4+116.1) <span class="fac">[115\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/115.webp),[116\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/116.webp)</span> {#ms-124-11541161}
 
-<span class="series-number">33.</span> Aber ist es dann doch nicht unrichtig zu sagen: das der Mathematik _Wesentliche_ sei, daß sie Begriffe bilde? – Denn die Mathematik ist doch ein anthropologisches Phänomen. Wir können es also als das Wesentliche in einem großen Teil der Mathematik (dessen was ‘Mathematik’ genannt wird) erkennen & doch sagen, es spiele keine Rolle in anderen Gebieten. Diese Einsicht allein wird freilich nicht ohne Einfluß auf die sein, die die Mathematik nun so sehen lernen. Mathematik ist also eine Familie; aber das sagt nicht daß es uns also gleich sein wird, was alles in sie aufgenommen wird.
+<span class="series-number">33</span> Aber ist es dann doch nicht unrichtig zu sagen: das der Mathematik _Wesentliche_ sei, daß sie Begriffe bilde? – Denn die Mathematik ist doch ein anthropologisches Phänomen. Wir können es also als das Wesentliche in einem großen Teil der Mathematik (dessen was ‘Mathematik’ genannt wird) erkennen & doch sagen, es spiele keine Rolle in anderen Gebieten. Diese Einsicht allein wird freilich nicht ohne Einfluß auf die sein, die die Mathematik nun so sehen lernen. Mathematik ist also eine Familie; aber das sagt nicht daß es uns also gleich sein wird, was alles in sie aufgenommen wird.
 
 ### [Ms-124](/ms-124/#116.2) <span class="fac">[116\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/116.webp)</span> {#ms-124-1162}
 
@@ -914,7 +914,7 @@ Man könnte sagen: verstündest Du _keinen_ mathematischen Satz besser als (Du) 
 
 ### [Ms-124](/ms-124/#117.4+118.1) <span class="fac">[117\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/117.webp),[118\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/118.webp)</span> {#ms-124-11741181}
 
-<span class="series-number">34.</span> – Hier ist ein Widerspruch. Aber wir sehen ihn nicht & ziehen Schlüsse aus ihm. Etwa auf mathematische Sätze; & auf falsche. Aber wir erkennen diese Schlüsse an. – Und bricht nun eine von uns berechnete Brücke zusammen, so finden wir dafür eine andere Ursache, oder sagen, Gott habe es so gewollt. War nun unsre Rechnung falsch; oder war es keine Rechnung? Gewiß, wenn wir als Forschungsreisende nun die Leute betrachten, die es so machen, werden wir vielleicht sagen: diese Leute rechnen überhaupt nicht. Oder: in ihren Rechnungen sei ein Element der Willkür, welches das Wesen ihrer Mathematik von dem der unsern unterscheidet. Und doch würden wir nicht leugnen können daß die Leute eine Mathematik haben.
+<span class="series-number">34</span> – Hier ist ein Widerspruch. Aber wir sehen ihn nicht & ziehen Schlüsse aus ihm. Etwa auf mathematische Sätze; & auf falsche. Aber wir erkennen diese Schlüsse an. – Und bricht nun eine von uns berechnete Brücke zusammen, so finden wir dafür eine andere Ursache, oder sagen, Gott habe es so gewollt. War nun unsre Rechnung falsch; oder war es keine Rechnung? Gewiß, wenn wir als Forschungsreisende nun die Leute betrachten, die es so machen, werden wir vielleicht sagen: diese Leute rechnen überhaupt nicht. Oder: in ihren Rechnungen sei ein Element der Willkür, welches das Wesen ihrer Mathematik von dem der unsern unterscheidet. Und doch würden wir nicht leugnen können daß die Leute eine Mathematik haben.
 
 ### [Ms-124](/ms-124/#118.2+119.1) <span class="fac">[118\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/118.webp),[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/119.webp)</span> {#ms-124-11821191}
 
@@ -930,7 +930,7 @@ Kann man sagen: “Nachdem dies mathematische Problem gelöst war, begannen die 
 
 ### [Ms-124](/ms-124/#119.4+120.1) <span class="fac">[119\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/119.webp),[120\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/120.webp)</span> {#ms-124-11941201}
 
-<span class="series-number">35.</span> 11.03.1944
+<span class="series-number">35</span> 11.03.1944
 
 Was ist das für eine Sicherheit, wenn sie darauf beruht, daß unsre Banken tatsächlich im allgemeinen nicht von allen ihren Kunden auf einmal überrannt _werden_; aber bankrott würden, wenn es doch geschähe?! Nun es ist eine _andere_ Art von Sicherheit als die primitivere; aber es ist doch eine Sicherheit. Ich meine: wenn nun wirklich in der Arithmetik ein Widerspruch gefunden würde – nun so bewiese das nur, daß eine Arithmetik mit einem _solchen_ Widerspruch sehr gute Dienste leisten konnte; & es besser sein wird, wenn wir unsern Begriff der notwendigen Sicherheit modifizieren als zu sagen, das wäre eigentlich noch keine rechte Arithmetik gewesen.
 
@@ -944,7 +944,7 @@ Die Regeln des logischen Schließens sind Regeln des _Sprachspiels_.
 
 ### [Ms-124](/ms-124/#122.1) <span class="fac">[122\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/122.webp)</span> {#ms-124-1221}
 
-<span class="series-number">36.</span> 12.03.1944
+<span class="series-number">36</span> 12.03.1944
 
 Was für eine _Art_ von Satz ist: “Die Klasse der Löwen ist kein Löwe, aber die Klasse der Klassen eine Klasse”. Wie wird er verifiziert? Wie könnte man ihn _verwenden_? – So viel ich sehe, nur als grammatische Aussage. Jemand drauf aufmerksam zu machen, daß der Ausdruck “die Klasse der Löwen” nicht die Bezeichnung eines Löwen ist, daß aber Klassen eine Klasse bilden können.
 
@@ -1000,11 +1000,11 @@ Wäre es aber etwa unmöglich, in so einer Sprache zu zählen & zu rechnen?
 
 ### [Ms-124](/ms-124/#126.3) <span class="fac">[126\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/126.webp)</span> {#ms-124-1263}
 
-<span class="series-number">37.</span> Man könnte sich fragen: Welche Rolle kann ein Satz, wie “Ich lüge immer”, im menschlichen Leben spielen? Und da kann man sich Verschiedenes vorstellen.
+<span class="series-number">37</span> Man könnte sich fragen: Welche Rolle kann ein Satz, wie “Ich lüge immer”, im menschlichen Leben spielen? Und da kann man sich Verschiedenes vorstellen.
 
 ### [Ms-124](/ms-124/#126.4) <span class="fac">[126\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/126.webp)</span> {#ms-124-1264}
 
-<span class="series-number">38.</span> 14.03.1944
+<span class="series-number">38</span> 14.03.1944
 
 Ist die Umrechnung einer Länge von Zoll auf cm ein logischer Schluß? “Der Würfel ist 2 Zoll lang. – Also ist er ungefähr 50 mm lang.” Ist das ein _logischer_ Schluß?
 
@@ -1018,7 +1018,7 @@ Ja aber ist nicht eine Regel etwas willkürliches? Etwas, was ich _festsetze_? U
 
 ### [Ms-124](/ms-124/#129.2+130.1) <span class="fac">[129\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/129.webp),[130\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/130.webp)</span> {#ms-124-12921301}
 
-<span class="series-number">39.</span> 15.03.1944
+<span class="series-number">39</span> 15.03.1944
 
 Die Worte “richtig” & “falsch” werden beim Unterricht im Vorgehen nach der Regel gebraucht. Das Wort “richtig” läßt den Schüler gehen, das Wort “falsch” hält ihn zurück. Könnte man nun dem Schüler diese Worte erklären indem man statt ihrer setzt: “das stimmt mit der Regel überein – das nicht”? Nun, wenn er einen Begriff vom Übereinstimmen hat. Aber wie, wenn dieser eben erst gebildet werden muß? (Es kommt darauf an, wie er auf das Wort “übereinstimmen” reagiert.)
 
@@ -1040,7 +1040,7 @@ Wer verstehen will, was es heißt: “einer Regel folgen”, der muß doch selbs
 
 ### [Ms-124](/ms-124/#131.2+132.1) <span class="fac">[131\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/131.webp),[132\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/132.webp)</span> {#ms-124-13121321}
 
-<span class="series-number">40.</span> Ein Sprachspiel: Etwas _Anderes_ bringen; das _Gleiche_ bringen. Nun wir können uns vorstellen, wie es gespielt wird. – Aber wie kann ich es Einem erklären? Ich kann ihm _diesen_ Unterricht geben. – Aber wie weiß er dann, was er das nächste Mal als ‘Gleiches’ bringen soll – mit welchem Recht kann _ich_ sagen, daß er das richtige, oder falsche, gebracht hat? – Ja, ich weiß freilich, daß (hier) in gewissen Fällen Menschen auf mich einstürmen würden mit den Zeichen der Mißbilligung. Und heißt das nun etwa, die Definition von “Gleich” wäre die: gleich sei, was alle Menschen für gleich hielten? – Freilich nicht.
+<span class="series-number">40</span> Ein Sprachspiel: Etwas _Anderes_ bringen; das _Gleiche_ bringen. Nun wir können uns vorstellen, wie es gespielt wird. – Aber wie kann ich es Einem erklären? Ich kann ihm _diesen_ Unterricht geben. – Aber wie weiß er dann, was er das nächste Mal als ‘Gleiches’ bringen soll – mit welchem Recht kann _ich_ sagen, daß er das richtige, oder falsche, gebracht hat? – Ja, ich weiß freilich, daß (hier) in gewissen Fällen Menschen auf mich einstürmen würden mit den Zeichen der Mißbilligung. Und heißt das nun etwa, die Definition von “Gleich” wäre die: gleich sei, was alle Menschen für gleich hielten? – Freilich nicht.
 
 ### [Ms-124](/ms-124/#132.2) <span class="fac">[132\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/132.webp)</span> {#ms-124-1322}
 
@@ -1068,7 +1068,7 @@ Denk Dir Gleichungen als Ornamente (Tapetenmuster) verwendet; & nun eine Prüfun
 
 ### [Ms-124](/ms-124/#138.3+139.1) <span class="fac">[138\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/138.webp),[139\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/139.webp)</span> {#ms-124-13831391}
 
-<span class="series-number">41.</span> Ein Beweis der zeigt, daß die Figur “777” in der Extension von π vorkommt aber nicht zeigt _wo_. Nun, so bewiesen wäre dieser ‘Existenzsatz’ für gewisse Zwecke _keine Regel_. Aber könnte er nicht z.B. als Mittel der Einteilung von Entwicklungsregeln dienen. Es wäre etwa auf analoge Art bewiesen daß “777” in π² nicht vorkomme, wohl aber in π ∙ e. etc. Die Frage wäre nun: Ist es vernünftig von dem betreffenden Beweis zu sagen: er beweise die Existenz von “777” in dieser Entwicklung. Dies kann einfach irreführend sein. Das ist eben der Fluch der Prosa, & besonders der Russellschen Prosa, in der Mathematik.
+<span class="series-number">41</span> Ein Beweis der zeigt, daß die Figur “777” in der Extension von π vorkommt aber nicht zeigt _wo_. Nun, so bewiesen wäre dieser ‘Existenzsatz’ für gewisse Zwecke _keine Regel_. Aber könnte er nicht z.B. als Mittel der Einteilung von Entwicklungsregeln dienen. Es wäre etwa auf analoge Art bewiesen daß “777” in π² nicht vorkomme, wohl aber in π ∙ e. etc. Die Frage wäre nun: Ist es vernünftig von dem betreffenden Beweis zu sagen: er beweise die Existenz von “777” in dieser Entwicklung. Dies kann einfach irreführend sein. Das ist eben der Fluch der Prosa, & besonders der Russellschen Prosa, in der Mathematik.
 
 ### [Ms-124](/ms-124/#139.2) <span class="fac">[139\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/139.webp)</span> {#ms-124-1392}
 
@@ -1084,7 +1084,7 @@ Man könnte das so sagen: Ist uns die Regel der Entwicklung gegeben, so kann uns
 
 ### [Ms-124](/ms-124/#139.3) <span class="fac">[139\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/139.webp)</span> {#ms-124-1393}
 
-<span class="series-number">42.</span> Wenn ich von der Mathematik sagte, ihre Sätze bestimmen Begriffe, so ist das _vag_; denn “2 + 2 = 4” bildet einen Begriff in anderem Sinne, als “p ⊃ p”, “(x)․fx ⊃ fa”, oder der Dedekindsche Satz. Es gibt hier eben eine Familie von Fällen.
+<span class="series-number">42</span> Wenn ich von der Mathematik sagte, ihre Sätze bestimmen Begriffe, so ist das _vag_; denn “2 + 2 = 4” bildet einen Begriff in anderem Sinne, als “p ⊃ p”, “(x)․fx ⊃ fa”, oder der Dedekindsche Satz. Es gibt hier eben eine Familie von Fällen.
 
 ### [Ms-124](/ms-124/#139.4+140.1) <span class="fac">[139\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/139.webp),[140\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/140.webp)</span> {#ms-124-13941401}
 
@@ -1106,7 +1106,7 @@ Die Zahl ist, wie Frege sagt, eine Eigenschaft eines Begriffs – – aber in de
 
 ### [Ms-124](/ms-124/#141.2) <span class="fac">[141\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/141.webp)</span> {#ms-124-1412}
 
-<span class="series-number">43.</span> Der Beweis des Satzes zeigt mir, was ich auf die Wahrheit des Satzes hin wagen will. Und verschiedene Beweise können mich wohl dazu bringen dasselbe zu wagen.
+<span class="series-number">43</span> Der Beweis des Satzes zeigt mir, was ich auf die Wahrheit des Satzes hin wagen will. Und verschiedene Beweise können mich wohl dazu bringen dasselbe zu wagen.
 
 ### [Ms-124](/ms-124/#141.3) <span class="fac">[141\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/141.webp)</span> {#ms-124-1413}
 
@@ -1122,11 +1122,11 @@ Anderseits ist es nicht klar, daß die allgemeine Übereinstimmung der Rechnende
 
 ### [Ms-124](/ms-124/#144.3+145.1) <span class="fac">[144\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/144.webp),[145\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/145.webp)</span> {#ms-124-14431451}
 
-<span class="series-number">44.</span> Kann man sagen, daß die Mathematik eine experimentelle Forschungsweise, Fragestellung, lehrt? [→ ] Nun kann man nicht sagen, sie lehre mich z.B. zu fragen, ob ein gewisser Körper sich einer Parabelgleichung gemäß bewegt? – Was tut aber die Mathematik in diesem Fall? Ohne sie oder ohne die Mathematiker wären wir freilich nicht zur Definition dieser Kurve gelangt. War aber, diese Kurve definieren schon Mathematik? Bedingte es z.B. Mathematik, wenn Leute die Bewegung von Körpern darauf hin untersuchten, ob ihre Bahn sich durch eine Ellipsenkonstruktion mit einem Faden & zwei Nägeln darstellen lasse? Wer diese Art der Untersuchung erfunden hätte, hätte der Mathematik getrieben? Er hat doch einen neuen _Begriff_ geschaffen. Aber war es auf die Art wie die Mathematik dies tut? War es, wie uns die Multiplikation 18 × 15 = 270 einen neuen Begriff gibt?
+<span class="series-number">44</span> Kann man sagen, daß die Mathematik eine experimentelle Forschungsweise, Fragestellung, lehrt? [→ ] Nun kann man nicht sagen, sie lehre mich z.B. zu fragen, ob ein gewisser Körper sich einer Parabelgleichung gemäß bewegt? – Was tut aber die Mathematik in diesem Fall? Ohne sie oder ohne die Mathematiker wären wir freilich nicht zur Definition dieser Kurve gelangt. War aber, diese Kurve definieren schon Mathematik? Bedingte es z.B. Mathematik, wenn Leute die Bewegung von Körpern darauf hin untersuchten, ob ihre Bahn sich durch eine Ellipsenkonstruktion mit einem Faden & zwei Nägeln darstellen lasse? Wer diese Art der Untersuchung erfunden hätte, hätte der Mathematik getrieben? Er hat doch einen neuen _Begriff_ geschaffen. Aber war es auf die Art wie die Mathematik dies tut? War es, wie uns die Multiplikation 18 × 15 = 270 einen neuen Begriff gibt?
 
 ### [Ms-124](/ms-124/#145.2) <span class="fac">[145\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/145.webp)</span> {#ms-124-1452}
 
-<span class="series-number">45.</span> Kann man also _nicht_ sagen, die Mathematik lehrt uns zählen? Wenn sie uns aber zählen lehrt, warum nicht auch Farben miteinander vergleichen?
+<span class="series-number">45</span> Kann man also _nicht_ sagen, die Mathematik lehrt uns zählen? Wenn sie uns aber zählen lehrt, warum nicht auch Farben miteinander vergleichen?
 
 ### [Ms-124](/ms-124/#145.3+146.1) <span class="fac">[145\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/145.webp),[146\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/146.webp)</span> {#ms-124-14531461}
 
@@ -1176,11 +1176,11 @@ Aber erst der bewiesene, oder als Postulat angenommene mathematische Satz tut da
 
 ### [Ms-124](/ms-124/#148.3+149.1) <span class="fac">[148\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/148.webp),[149\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/149.webp)</span> {#ms-124-14831491}
 
-<span class="series-number">46.</span> Kann man aber nicht doch mathematisch experimentieren? Z.B. versuchen, ob sich aus einem quadratischen Papier ein Katzenkopf falten läßt, wobei die _physikalischen_ Eigenschaften des Papiers, seine Festigkeit, Dehnbarkeit, etc. nicht in Frage gezogen werden? Nun man redet doch hier gewiß von einem Versuchen. Und warum nicht von einem Experimentieren? Dieser Fall ist doch ähnlich dem, Zahlenpaare versuchsweise in die Gleichung x ² + y ² = 25 einzusetzen, um eines zu finden das die Gleichung befriedigt. Und kommt man also endlich auf 3² + 4² = 25, ist dieser Satz nun das Resultat eines Experiments? Warum nannte man den Vorgang denn ein Versuchen? Hätten wir es auch so genannt, wenn Einer immer aufs erste Mal mit völliger Sicherheit (den Zeichen der Sicherheit) aber ohne Rechnung, solche Probleme löste? Worin bestünde hier das Experimentieren? Angenommen, ehe er die Lösung gibt, erscheint sie ihm als Vision. –
+<span class="series-number">46</span> Kann man aber nicht doch mathematisch experimentieren? Z.B. versuchen, ob sich aus einem quadratischen Papier ein Katzenkopf falten läßt, wobei die _physikalischen_ Eigenschaften des Papiers, seine Festigkeit, Dehnbarkeit, etc. nicht in Frage gezogen werden? Nun man redet doch hier gewiß von einem Versuchen. Und warum nicht von einem Experimentieren? Dieser Fall ist doch ähnlich dem, Zahlenpaare versuchsweise in die Gleichung x ² + y ² = 25 einzusetzen, um eines zu finden das die Gleichung befriedigt. Und kommt man also endlich auf 3² + 4² = 25, ist dieser Satz nun das Resultat eines Experiments? Warum nannte man den Vorgang denn ein Versuchen? Hätten wir es auch so genannt, wenn Einer immer aufs erste Mal mit völliger Sicherheit (den Zeichen der Sicherheit) aber ohne Rechnung, solche Probleme löste? Worin bestünde hier das Experimentieren? Angenommen, ehe er die Lösung gibt, erscheint sie ihm als Vision. –
 
 ### [Ms-124](/ms-124/#149.2) <span class="fac">[149\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/149.webp)</span> {#ms-124-1492}
 
-<span class="series-number">47.</span> 18.03.1944
+<span class="series-number">47</span> 18.03.1944
 
 Wenn eine Regel Dich nicht zwingt, so _folgst_ Du keiner Regel.
 
@@ -1202,7 +1202,7 @@ Aber wie deutet denn also der Lehrer dem Schüler die Regel? (Denn der soll ihr 
 
 ### [Ms-124](/ms-124/#151.3+152.1) <span class="fac">[151\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/151.webp),[152\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/152.webp)</span> {#ms-124-15131521}
 
-<span class="series-number">48.</span> Zwingt mich eine Linie dazu ihr nachzufahren? – Nein; aber wenn ich mich dazu entschlossen habe sie _so_ als Vorlage zu gebrauchen, dann zwingt sie mich. – Nein; dann zwinge _ich_ mich sie so zu gebrauchen. Ich halte mich gleichsam an ihr fest. – Aber wichtig ist hier doch, daß ich sozusagen ein für allemal den Entschluß mit der (allgemeinen) Deutung fassen & halten kann, & nicht bei jedem Schritt von frischem _deute_.
+<span class="series-number">48</span> Zwingt mich eine Linie dazu ihr nachzufahren? – Nein; aber wenn ich mich dazu entschlossen habe sie _so_ als Vorlage zu gebrauchen, dann zwingt sie mich. – Nein; dann zwinge _ich_ mich sie so zu gebrauchen. Ich halte mich gleichsam an ihr fest. – Aber wichtig ist hier doch, daß ich sozusagen ein für allemal den Entschluß mit der (allgemeinen) Deutung fassen & halten kann, & nicht bei jedem Schritt von frischem _deute_.
 
 ### [Ms-124](/ms-124/#152.2) <span class="fac">[152\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/152.webp)</span> {#ms-124-1522}
 
@@ -1214,7 +1214,7 @@ Die Linie, könnte man sagen, gibt's mir ein, wie ich gehen soll. Aber das ist n
 
 ### [Ms-124](/ms-124/#152.4+153.1) <span class="fac">[152\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/152.webp),[153\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/153.webp)</span> {#ms-124-15241531}
 
-<span class="series-number">49.</span> Denke dir Einer folgte einer Linie als Regel auf diese Weise: Er hält einen Zirkel, dessen eine Spitze er der Regel entlang führt, während die andre Spitze _die_ Linie zieht, die der Regel folgt. Und wie er so der Regel-Linie entlang geht, öffnet & schließt er den Zirkel, anscheinend mit großer Genauigkeit, wobei er immer auf die Regel schaut, als bestimme _sie_ sein Tun. Wir nun, die wir ihm zusehen, sehen keinerlei Regelmäßigkeit in diesem Öffnen & Schließen. Wir können daher seine Art, der Linie zu folgen, von ihm auch nicht lernen. Wir glauben ihm aber, die Linie habe ihm eingegeben, was er tat.
+<span class="series-number">49</span> Denke dir Einer folgte einer Linie als Regel auf diese Weise: Er hält einen Zirkel, dessen eine Spitze er der Regel entlang führt, während die andre Spitze _die_ Linie zieht, die der Regel folgt. Und wie er so der Regel-Linie entlang geht, öffnet & schließt er den Zirkel, anscheinend mit großer Genauigkeit, wobei er immer auf die Regel schaut, als bestimme _sie_ sein Tun. Wir nun, die wir ihm zusehen, sehen keinerlei Regelmäßigkeit in diesem Öffnen & Schließen. Wir können daher seine Art, der Linie zu folgen, von ihm auch nicht lernen. Wir glauben ihm aber, die Linie habe ihm eingegeben, was er tat.
 
 ### [Ms-124](/ms-124/#153.2) <span class="fac">[153\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/153.webp)</span> {#ms-124-1532}
 
@@ -1222,7 +1222,7 @@ Wir würden hier (vielleicht) wirklich sagen: “Die Vorlage scheint ihm _einzug
 
 ### [Ms-124](/ms-124/#153.3) <span class="fac">[153\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/153.webp)</span> {#ms-124-1533}
 
-<span class="series-number">50.</span> Nimm an einer folgt der Reihe x = 1, 3, 5, 7, … indem er die Reihe der x² + 1 hinschreibt; & er fragte sich: “aber tue ich auch immer das Gleiche, oder jedesmal etwas anderes?” Wer von einem Tag auf den andern verspricht: “morgen werde ich das Rauchen aufgeben”, sagt der jeden Tag das Gleiche; oder jeden Tag etwas anderes?
+<span class="series-number">50</span> Nimm an einer folgt der Reihe x = 1, 3, 5, 7, … indem er die Reihe der x² + 1 hinschreibt; & er fragte sich: “aber tue ich auch immer das Gleiche, oder jedesmal etwas anderes?” Wer von einem Tag auf den andern verspricht: “morgen werde ich das Rauchen aufgeben”, sagt der jeden Tag das Gleiche; oder jeden Tag etwas anderes?
 
 ### [Ms-124](/ms-124/#153.4+154.1) <span class="fac">[153\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/153.webp),[154\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/154.webp)</span> {#ms-124-15341541}
 
@@ -1230,7 +1230,7 @@ Wie ist das zu entscheiden, ob er immer das gleiche tut, wenn ihm die Linie eing
 
 ### [Ms-124](/ms-124/#154.2) <span class="fac">[154\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/154.webp)</span> {#ms-124-1542}
 
-<span class="series-number">51.</span> Wollte ich nicht sagen: Nur das gesamte Bild der Verwendung des Wortes “gleich” in seiner Verwebung mit den Verwendungen der andern Wörter kann entscheiden, ob er das Wort verwendet wie wir?
+<span class="series-number">51</span> Wollte ich nicht sagen: Nur das gesamte Bild der Verwendung des Wortes “gleich” in seiner Verwebung mit den Verwendungen der andern Wörter kann entscheiden, ob er das Wort verwendet wie wir?
 
 ### [Ms-124](/ms-124/#154.3) <span class="fac">[154\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/154.webp)</span> {#ms-124-1543}
 
@@ -1246,7 +1246,7 @@ Hätte es einen Sinn zu sagen: “Wenn er jedesmal etwas _anderes_ täte, würde
 
 ### [Ms-124](/ms-124/#156.2) <span class="fac">[156\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp)</span> {#ms-124-1562}
 
-<span class="series-number">52.</span> “Aber reicht denn nicht das Verständnis weiter, als alle Beispiele?” Ein sehr merkwürdiger Ausdruck, & ganz natürlich.
+<span class="series-number">52</span> “Aber reicht denn nicht das Verständnis weiter, als alle Beispiele?” Ein sehr merkwürdiger Ausdruck, & ganz natürlich.
 
 ### [Ms-124](/ms-124/#156.3) <span class="fac">[156\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp)</span> {#ms-124-1563}
 
@@ -1262,7 +1262,7 @@ Wenn wir den Ausdruck durch eine Geste ersetzen, so könnte es ja sein, daß die
 
 ### [Ms-124](/ms-124/#157.2) <span class="fac">[157\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/157.webp)</span> {#ms-124-1572}
 
-<span class="series-number">53.</span> Nimm an, eine Linie gebe mir ein, wie ich ihr folgen soll; d.h., wenn ich ihr mit den Augen nachgehe, so sagt mir etwa eine innere Stimme: zieh _so_. – Nun, was ist der Unterschied zwischen diesem Vorgang, einer Art Inspiration zu folgen & dem, einer Regel zu folgen? Denn sie sind doch nicht das Gleiche. In dem Fall der Inspiration _warte_ ich auf die Anweisung. Ich werde einen Andern nicht meine ‘Technik’ lehren können, der Linie zu folgen. Es sei denn, ich lehre ihn eine Art des Hinhorchens, der Rezeptivität, etc. Aber dann kann ich natürlich nicht erwarten, daß er der Linie so folgt, wie ich.
+<span class="series-number">53</span> Nimm an, eine Linie gebe mir ein, wie ich ihr folgen soll; d.h., wenn ich ihr mit den Augen nachgehe, so sagt mir etwa eine innere Stimme: zieh _so_. – Nun, was ist der Unterschied zwischen diesem Vorgang, einer Art Inspiration zu folgen & dem, einer Regel zu folgen? Denn sie sind doch nicht das Gleiche. In dem Fall der Inspiration _warte_ ich auf die Anweisung. Ich werde einen Andern nicht meine ‘Technik’ lehren können, der Linie zu folgen. Es sei denn, ich lehre ihn eine Art des Hinhorchens, der Rezeptivität, etc. Aber dann kann ich natürlich nicht erwarten, daß er der Linie so folgt, wie ich.
 
 ### [Ms-124](/ms-124/#157.3+158.1) <span class="fac">[157\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/157.webp),[158\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/158.webp)</span> {#ms-124-15731581}
 
@@ -1274,7 +1274,7 @@ Denn gehört nicht zum Befolgen einer Regel die _Möglichkeit_ einen Andern im F
 
 ### [Ms-124](/ms-124/#158.3) <span class="fac">[158\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/158.webp)</span> {#ms-124-1583}
 
-<span class="series-number">54.</span> Wie folgst Du der Regel? – “Ich mach es _so_: “ … & nun folgen allgemeine Erklärungen & Beispiele. ‒ ‒ Wie folgst Du der Stimme der Linie? – “Ich sehe auf sie hin, schließe alle Gedanken aus, etc. etc.”
+<span class="series-number">54</span> Wie folgst Du der Regel? – “Ich mach es _so_: “ … & nun folgen allgemeine Erklärungen & Beispiele. ‒ ‒ Wie folgst Du der Stimme der Linie? – “Ich sehe auf sie hin, schließe alle Gedanken aus, etc. etc.”
 
 ### [Ms-124](/ms-124/#158.4) <span class="fac">[158\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/158.webp)</span> {#ms-124-1584}
 
@@ -1282,7 +1282,7 @@ Denn gehört nicht zum Befolgen einer Regel die _Möglichkeit_ einen Andern im F
 
 ### [Ms-124](/ms-124/#159.2) <span class="fac">[159\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/159.webp)</span> {#ms-124-1592}
 
-<span class="series-number">55.</span> 19.03.1944
+<span class="series-number">55</span> 19.03.1944
 
 Kannst du Dir absolutes Gehör vorstellen, wenn Du es nicht hast? Kannst Du es Dir vorstellen, _wenn_ Du es hast? – Kann ein Blinder sich das Sehen von rot vorstellen? Kann _ich_ mir es vorstellen? Kann ich mir vorstellen, daß ich so & so spontan reagiere, wenn ich's nicht tue? Kann ich mir's besser vorstellen, wenn ich's tue?
 
@@ -1292,7 +1292,7 @@ Kann ich aber das Sprachspiel spielen, wenn ich nicht so reagiere?
 
 ### [Ms-124](/ms-124/#159.4+160.1) <span class="fac">[159\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/159.webp),[160\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/160.webp)</span> {#ms-124-15941601}
 
-<span class="series-number">56.</span> 20.03.1944
+<span class="series-number">56</span> 20.03.1944
 
 Man fühlt nicht, daß man immer des Winks (der Eingebung) der Regel gewärtig sein muß. Im Gegenteil. Wir sind nicht gespannt darauf, was sie uns jetzt sagen wird, sondern sie sagt uns immer dasselbe, & wir tun, was sie uns sagt. Man könnte sagen: wir sehen, was wir beim Befolgen der Regel tun, unter dem Gesichtspunkt des _immer Gleichen_ an.
 
@@ -1302,7 +1302,7 @@ Man könnte dem, den man abzurichten anfängt, sagen: “Sieh, ich tu immer das 
 
 ### [Ms-124](/ms-124/#160.3) <span class="fac">[160\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/160.webp)</span> {#ms-124-1603}
 
-<span class="series-number">57.</span> Wann sagen wir: “Die Linie gibt mir das _als Regel_ ein – immer das Gleiche.” Und anderseits: “Sie gibt mir immer wieder ein, was ich zu tun habe – sie ist keine Regel.“ Im ersten Fall heißt es: ich habe keine weitere Instanz dafür, was ich zu tun habe. Die Regel tut es ganz allein; ich brauche ihr nur zu folgen (& folgen ist eben _eins_). Ich fühle nicht z.B., es ist seltsam, daß mir die Linie immer etwas sagt. – Der andre Satz sagt: Ich weiß nicht, was ich tun werde; die Linie wird's mir sagen.
+<span class="series-number">57</span> Wann sagen wir: “Die Linie gibt mir das _als Regel_ ein – immer das Gleiche.” Und anderseits: “Sie gibt mir immer wieder ein, was ich zu tun habe – sie ist keine Regel.“ Im ersten Fall heißt es: ich habe keine weitere Instanz dafür, was ich zu tun habe. Die Regel tut es ganz allein; ich brauche ihr nur zu folgen (& folgen ist eben _eins_). Ich fühle nicht z.B., es ist seltsam, daß mir die Linie immer etwas sagt. – Der andre Satz sagt: Ich weiß nicht, was ich tun werde; die Linie wird's mir sagen.
 
 ### [Ms-124](/ms-124/#160.4+161.1) <span class="fac">[160\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/160.webp),[161\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/161.webp)</span> {#ms-124-16041611}
 
@@ -1314,11 +1314,11 @@ Diese Dinge sind feiner gesponnen, als grobe Hände ahnen.
 
 ### [Ms-124](/ms-124/#161.3) <span class="fac">[161\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/161.webp)</span> {#ms-124-1613}
 
-<span class="series-number">58.</span> Kann ich nicht einer Regel zu folgen _glauben_? Gibt es diesen Fall nicht? Und kann ich dann nicht auch _keiner_ Regel zu folgen glauben & doch einer folgen? Würden wir nicht auch etwas _so_ nennen?
+<span class="series-number">58</span> Kann ich nicht einer Regel zu folgen _glauben_? Gibt es diesen Fall nicht? Und kann ich dann nicht auch _keiner_ Regel zu folgen glauben & doch einer folgen? Würden wir nicht auch etwas _so_ nennen?
 
 ### [Ms-124](/ms-124/#161.4+162.1) <span class="fac">[161\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/161.webp),[162\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/162.webp)</span> {#ms-124-16141621}
 
-<span class="series-number">59.</span> Wie kann ich das Wort “gleich” erklären? – Nun, durch Beispiele. – Aber ist das _alles_? gibt es nicht eine noch tiefere Erklärung; oder muß nicht doch das _Verständnis_ der Erklärung tiefer sein? – Ja, hab ich denn selbst ein tieferes Verständnis? _Habe_ ich mehr, als ich in der Erklärung gebe? Woher dann aber das Gefühl, ich hätte mehr, als ich sagen kann? Ist es, daß ich das nicht Begrenzte als Länge deute, die über jede Länge hinausreicht? (Die nicht begrenzte Erlaubnis, als Erlaubnis zu etwas Grenzenlosem.)
+<span class="series-number">59</span> Wie kann ich das Wort “gleich” erklären? – Nun, durch Beispiele. – Aber ist das _alles_? gibt es nicht eine noch tiefere Erklärung; oder muß nicht doch das _Verständnis_ der Erklärung tiefer sein? – Ja, hab ich denn selbst ein tieferes Verständnis? _Habe_ ich mehr, als ich in der Erklärung gebe? Woher dann aber das Gefühl, ich hätte mehr, als ich sagen kann? Ist es, daß ich das nicht Begrenzte als Länge deute, die über jede Länge hinausreicht? (Die nicht begrenzte Erlaubnis, als Erlaubnis zu etwas Grenzenlosem.)
 
 ### [Ms-124](/ms-124/#162.2) <span class="fac">[162\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/162.webp)</span> {#ms-124-1622}
 
@@ -1338,7 +1338,7 @@ Die Verwendung des Wortes “Regel” ist mit der Verwendung des Wortes “gleic
 
 ### [Ms-124](/ms-124/#162.6+163.1) <span class="fac">[162\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/162.webp),[163\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/163.webp)</span> {#ms-124-16261631}
 
-<span class="series-number">60.</span> “Die Linie gibt's mir ein …” Hier ist der Ton auf dem _Ungreifbaren_ dieses Eingebens. Eben darauf, daß _nichts_ meine Handlung von der Regel trennt, daß nichts zwischen ihr & der Handlung steht.
+<span class="series-number">60</span> “Die Linie gibt's mir ein …” Hier ist der Ton auf dem _Ungreifbaren_ dieses Eingebens. Eben darauf, daß _nichts_ meine Handlung von der Regel trennt, daß nichts zwischen ihr & der Handlung steht.
 
 ### [Ms-124](/ms-124/#163.3) <span class="fac">[163\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/163.webp)</span> {#ms-124-1633}
 
@@ -1374,7 +1374,7 @@ Der Forscher könnte sagen: “Sie folgen Regeln, aber es sieht doch ganz anders
 
 ### [Ms-124](/ms-124/#165.3) <span class="fac">[165\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/165.webp)</span> {#ms-124-1653}
 
-<span class="series-number">61.</span> 21.03.1944
+<span class="series-number">61</span> 21.03.1944
 
 Eine Addition von Formen, in der gewisse Glieder verschmelzen spielt in unserm Leben eine sehr geringe Rolle. – Wie wenn
 
@@ -1430,13 +1430,13 @@ Was ich sage, kommt darauf hinaus, die Mathematik sei _normativ_. Aber “Norm�
 
 ### [Ms-124](/ms-124/#171.2) <span class="fac">[171\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/171.webp)</span> {#ms-124-1712}
 
-<span class="series-number">62.</span> 22.03.1944
+<span class="series-number">62</span> 22.03.1944
 
 Die Einführung einer neuen Schlußregel kann man als Übergang zu einem neuen Sprachspiel auffassen. Ich stelle mir eines vor, in welchem etwa eine Person ‘p ⊃ q’ aussagt, eine andere ‘p’, & eine dritte den Schluß zieht.
 
 ### [Ms-124](/ms-124/#171.3) <span class="fac">[171\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/171.webp)</span> {#ms-124-1713}
 
-<span class="series-number">63.</span> Ist es möglich, zu beobachten, daß eine Fläche rot & blau gefärbt ist; & nicht zu beobachten, daß sie rot ist? Denk Dir, man verwende eine Art Farbadjektiv für Dinge, die halb rot halb blau sind: Man sagt sie seien ‘bu’. Könnte nun jemand nicht darauf trainiert sein, zu beobachten, ob etwas bu ist; & nicht darauf, ob es auch rot ist? Dieser würde dann nur zu melden wissen: “bu”, oder “nicht bu”. Und wir würden aus der ersten Meldung den Schluß ziehen, die Fläche enthalte rot.
+<span class="series-number">63</span> Ist es möglich, zu beobachten, daß eine Fläche rot & blau gefärbt ist; & nicht zu beobachten, daß sie rot ist? Denk Dir, man verwende eine Art Farbadjektiv für Dinge, die halb rot halb blau sind: Man sagt sie seien ‘bu’. Könnte nun jemand nicht darauf trainiert sein, zu beobachten, ob etwas bu ist; & nicht darauf, ob es auch rot ist? Dieser würde dann nur zu melden wissen: “bu”, oder “nicht bu”. Und wir würden aus der ersten Meldung den Schluß ziehen, die Fläche enthalte rot.
 
 ### [Ms-124](/ms-124/#172.1) <span class="fac">[172\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/172.webp)</span> {#ms-124-1721}
 
@@ -1454,7 +1454,7 @@ Jemand zählt Äpfel in einer Kiste; er zählt bis 100. Ein Andrer sagt: “also
 
 ### [Ms-124](/ms-124/#172.4+173.1) <span class="fac">[172\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/172.webp),[173\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/173.webp)</span> {#ms-124-17241731}
 
-<span class="series-number">64.</span> Eine Fläche, in eine Anzahl von Streifen geteilt, wird von mehreren Leuten beobachtet. Die Farben der Streifen ändern sich, alle
+<span class="series-number">64</span> Eine Fläche, in eine Anzahl von Streifen geteilt, wird von mehreren Leuten beobachtet. Die Farben der Streifen ändern sich, alle
 
 ![](../graphics/124,172.svg)
 
@@ -1500,7 +1500,7 @@ Erinnere Dich dran, daß ein Rhombus, als Raute angesehen, nicht wie ein Paralle
 
 ### [Ms-124](/ms-124/#177.2) <span class="fac">[177\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/177.webp)</span> {#ms-124-1772}
 
-<span class="series-number">65.</span> Ich könnte mir denken, daß Einer sagt, er sähe einen weiß & gelben Stern aber nichts Gelbes – weil er den Stern gleichsam als eine _Verbindung_ von Farbteilen sieht, die er nicht zu trennen vermag.
+<span class="series-number">65</span> Ich könnte mir denken, daß Einer sagt, er sähe einen weiß & gelben Stern aber nichts Gelbes – weil er den Stern gleichsam als eine _Verbindung_ von Farbteilen sieht, die er nicht zu trennen vermag.
 
 ### [Ms-124](/ms-124/#177.3) <span class="fac">[177\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/177.webp)</span> {#ms-124-1773}
 
@@ -1522,7 +1522,7 @@ Der kann die Geographie einer Landschaft nicht übersehen lernen, der so langsam
 
 ### [Ms-124](/ms-124/#178.3+179.1) <span class="fac">[178\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/178.webp),[179\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/179.webp)</span> {#ms-124-17831791}
 
-<span class="series-number">66.</span> 29.03.1944
+<span class="series-number">66</span> 29.03.1944
 
 Warum rede ich immer vom Zwang durch die Regel; warum nicht davon, daß ich ihr folgen _wollen_ kann? Denn das ist ja ebenso wichtig. Aber ich will auch nicht sagen, die Regel zwinge mich so & so zu handeln, sondern sie mache es mir möglich, mich an ihr anzuhalten & von ihr zwingen zu lassen.
 
@@ -1544,7 +1544,7 @@ Logischer Schluß ist ein Übergang der gerechtfertigt ist, wenn er einem bestim
 
 ### [Ms-124](/ms-124/#180.4) <span class="fac">[180\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/180.webp)</span> {#ms-124-1804}
 
-<span class="series-number">67.</span> Wir sagen: “Wenn ihr beim Multiplizieren wirklich der Regel folgt, _muß_ das Gleiche herauskommen.” Nun, wenn dies nur die etwas hysterische Ausdrucksweise der Universitätssprache ist, so braucht sie uns nicht sehr zu interessieren. Es ist aber der Ausdruck einer Einstellung zu der Technik des Rechnens, die sich überall in unserm Leben zeigt. Die Emphase des Muß entspricht nur der Unerbittlichkeit dieser Einstellung sowohl zur Technik des Rechnens, als auch zu unzähligen verwandten Techniken.
+<span class="series-number">67</span> Wir sagen: “Wenn ihr beim Multiplizieren wirklich der Regel folgt, _muß_ das Gleiche herauskommen.” Nun, wenn dies nur die etwas hysterische Ausdrucksweise der Universitätssprache ist, so braucht sie uns nicht sehr zu interessieren. Es ist aber der Ausdruck einer Einstellung zu der Technik des Rechnens, die sich überall in unserm Leben zeigt. Die Emphase des Muß entspricht nur der Unerbittlichkeit dieser Einstellung sowohl zur Technik des Rechnens, als auch zu unzähligen verwandten Techniken.
 
 ### [Ms-124](/ms-124/#181.1) <span class="fac">[181\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/181.webp)</span> {#ms-124-1811}
 
@@ -1556,7 +1556,7 @@ Die Mathematik bildet ein Netz von Normen.
 
 ### [Ms-124](/ms-124/#181.5+182.1) <span class="fac">[181\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/181.webp),[182\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/182.webp)</span> {#ms-124-18151821}
 
-<span class="series-number">68.</span> Es ist möglich, den Komplex aus A & B sehen, ohne A, oder B, zu sehen. Es ist auch möglich, den Komplex einen “Komplex von A & B” zu nennen & zu denken, diese Benennung deutete nur auf eine Art Verwandtschaft dieses Ganzen mit A & mit B hin. Es ist also möglich, zu sagen, man sehe den Komplex von A & B, aber weder A noch B. Etwa wie man sagen könnte, es sei hier ein rötlich-gelb, aber weder rot noch gelb.
+<span class="series-number">68</span> Es ist möglich, den Komplex aus A & B sehen, ohne A, oder B, zu sehen. Es ist auch möglich, den Komplex einen “Komplex von A & B” zu nennen & zu denken, diese Benennung deutete nur auf eine Art Verwandtschaft dieses Ganzen mit A & mit B hin. Es ist also möglich, zu sagen, man sehe den Komplex von A & B, aber weder A noch B. Etwa wie man sagen könnte, es sei hier ein rötlich-gelb, aber weder rot noch gelb.
 
 ### [Ms-124](/ms-124/#182.2) <span class="fac">[182\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/182.webp)</span> {#ms-124-1822}
 
@@ -1568,7 +1568,7 @@ Sagen wir: es interessiert Einen nur A ∙ B, & er urteilt also, was immer gesch
 
 ### [Ms-124](/ms-124/#183.2) <span class="fac">[183\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/183.webp)</span> {#ms-124-1832}
 
-<span class="series-number">69.</span> 30.03.1944
+<span class="series-number">69</span> 30.03.1944
 
 Aber die Fläche ‘ganz rot sehen’ & ‘ganz blau sehen’ sind doch gewiß ‘echte’ Erfahrungen, & doch sagen wir, Einer könne sie nicht zugleich haben.
 
@@ -1586,7 +1586,7 @@ Ist aber nicht auch bei uns das Verhältnis der Längen des Meters & Fußes expe
 
 ### [Ms-124](/ms-124/#189.2) <span class="fac">[189\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/189.webp)</span> {#ms-124-1892}
 
-<span class="series-number">70.</span> Inwiefern kann man sagen, ein Satz der Arithmetik gebe uns einen Begriff? Nun, denken wir uns ihn nicht als Satz, als Entscheidung einer Frage, sondern als eine, irgendwie anerkannte, Verbindung von Begriffen.
+<span class="series-number">70</span> Inwiefern kann man sagen, ein Satz der Arithmetik gebe uns einen Begriff? Nun, denken wir uns ihn nicht als Satz, als Entscheidung einer Frage, sondern als eine, irgendwie anerkannte, Verbindung von Begriffen.
 
 ### [Ms-124](/ms-124/#191.3) <span class="fac">[191\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/191.webp)</span> {#ms-124-1913}
 
@@ -1606,7 +1606,7 @@ Der Beweis ist eine _Umgebung_ des Satzes.
 
 ### [Ms-124](/ms-124/#192.4) <span class="fac">[192\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/192.webp)</span> {#ms-124-1924}
 
-<span class="series-number">71.</span> Nicht in jedem Sprachspiel gibt es etwas, was man “Begriffe” nennen wird.
+<span class="series-number">71</span> Nicht in jedem Sprachspiel gibt es etwas, was man “Begriffe” nennen wird.
 
 ### [Ms-124](/ms-124/#192.5) <span class="fac">[192\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/192.webp)</span> {#ms-124-1925}
 
@@ -1618,7 +1618,7 @@ Gibt es im Sprachspiel (2) Begriffe? Aber man könnte es leicht so erweitern, da
 
 ### [Ms-124](/ms-124/#193.2+194.1) <span class="fac">[193\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/193.webp),[194\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/194.webp)</span> {#ms-124-19321941}
 
-<span class="series-number">72.</span> Betrachte einen Mechanismus. Etwa den:
+<span class="series-number">72</span> Betrachte einen Mechanismus. Etwa den:
 
 ![](../graphics/124,193.svg)
 
@@ -1660,7 +1660,7 @@ Es ist klar, man kann auch den unbewiesenen math. Satz anwenden; ja auch den fal
 
 ### [Ms-124](/ms-124/#196.5) <span class="fac">[196\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/196.webp)</span> {#ms-124-1965}
 
-<span class="series-number">73.</span> “Wenn uns der Beweis überzeugt, dann müssen wir auch von den Axiomen überzeugt sein“. Nicht als von empirischen Sätzen; das ist ihre Rolle nicht. Sie sind im Sprachspiel von der Verifikation durch die Erfahrung ausgeschlossen. Sind nicht Erfahrungssätze sondern Prinzipien des Urteilens.
+<span class="series-number">73</span> “Wenn uns der Beweis überzeugt, dann müssen wir auch von den Axiomen überzeugt sein“. Nicht als von empirischen Sätzen; das ist ihre Rolle nicht. Sie sind im Sprachspiel von der Verifikation durch die Erfahrung ausgeschlossen. Sind nicht Erfahrungssätze sondern Prinzipien des Urteilens.
 
 ### [Ms-124](/ms-124/#197.2) <span class="fac">[197\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/197.webp)</span> {#ms-124-1972}
 
@@ -1676,7 +1676,7 @@ Der Beweis überzeugt ihn, daß er an dem Satz, an der Technik, die er vorschrei
 
 ### [Ms-124](/ms-124/#198.4) <span class="fac">[198\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/198.webp)</span> {#ms-124-1984}
 
-<span class="series-number">74.</span> Jeder Beweis in der angewandten Mathematik kann aufgefaßt werden als ein Beweis der reinen Mathematik, welcher beweist daß _dieser_ Satz aus _diesen_ Sätzen folgt, oder aus ihnen durch die & die Operationen zu erhalten ist; etc.
+<span class="series-number">74</span> Jeder Beweis in der angewandten Mathematik kann aufgefaßt werden als ein Beweis der reinen Mathematik, welcher beweist daß _dieser_ Satz aus _diesen_ Sätzen folgt, oder aus ihnen durch die & die Operationen zu erhalten ist; etc.
 
 ### [Ms-124](/ms-124/#198.5) <span class="fac">[198\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/198.webp)</span> {#ms-124-1985}
 
