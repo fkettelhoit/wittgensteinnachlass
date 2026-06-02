@@ -930,6 +930,83 @@ pub fn detect_changed_remarks(
     changed
 }
 
+/// Try to auto-fix a translation when only non-word prefixes or suffixes changed
+/// between the old and new German text. If the English translation uses the same
+/// prefix/suffix as the old German, substitute the new one. Returns the updated
+/// English body, or None if the change requires retranslation.
+pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<String> {
+    if old_de == new_de {
+        return None;
+    }
+    // Try prefix fix: find longest common tail, check if head is non-word
+    let tail_len = common_byte_suffix_len(old_de, new_de);
+    if tail_len > 0 {
+        let old_head = &old_de[..old_de.len() - tail_len];
+        let new_head = &new_de[..new_de.len() - tail_len];
+        if is_non_word(old_head) && is_non_word(new_head) {
+            if let Some(en_rest) = old_en.strip_prefix(old_head) {
+                return Some(format!("{new_head}{en_rest}"));
+            }
+        }
+    }
+    // Try suffix fix: find longest common head, check if tail is non-word
+    let head_len = common_byte_prefix_len(old_de, new_de);
+    if head_len > 0 {
+        let old_tail = &old_de[head_len..];
+        let new_tail = &new_de[head_len..];
+        if is_non_word(old_tail) && is_non_word(new_tail) {
+            if let Some(en_start) = old_en.strip_suffix(old_tail) {
+                return Some(format!("{en_start}{new_tail}"));
+            }
+        }
+    }
+    None
+}
+
+/// Check if a string contains no alphabetic characters outside HTML tags.
+fn is_non_word(s: &str) -> bool {
+    let mut in_tag = false;
+    for ch in s.chars() {
+        if ch == '<' {
+            in_tag = true;
+        } else if ch == '>' {
+            in_tag = false;
+        } else if !in_tag && ch.is_alphabetic() {
+            return false;
+        }
+    }
+    true
+}
+
+fn common_byte_suffix_len(a: &str, b: &str) -> usize {
+    let mut len = 0;
+    for (ab, bb) in a.as_bytes().iter().rev().zip(b.as_bytes().iter().rev()) {
+        if ab != bb {
+            break;
+        }
+        len += 1;
+    }
+    // Ensure we land on a UTF-8 char boundary
+    while len > 0 && !a.is_char_boundary(a.len() - len) {
+        len -= 1;
+    }
+    len
+}
+
+fn common_byte_prefix_len(a: &str, b: &str) -> usize {
+    let mut len = 0;
+    for (ab, bb) in a.as_bytes().iter().zip(b.as_bytes().iter()) {
+        if ab != bb {
+            break;
+        }
+        len += 1;
+    }
+    while len > 0 && !a.is_char_boundary(len) {
+        len -= 1;
+    }
+    len
+}
+
 /// Load the skip-remarks list. Returns a set of "filename:remark_id" strings.
 pub fn load_skip_remarks(tool_dir: &Path) -> std::collections::HashSet<String> {
     let path = tool_dir.join("skip-remarks.txt");

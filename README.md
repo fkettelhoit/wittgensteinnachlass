@@ -36,6 +36,23 @@ A small number of generated graphics (filenames starting with `gen-`) are progra
 
 Wittgenstein's writings are in the public domain in most jurisdictions, including the European Union and countries that apply a 70-year post mortem auctoris term (Wittgenstein died in 1951). In jurisdictions where the works remain under copyright, the rights are held by the Trustees of the Estate of the late Ludwig Wittgenstein, managed through Trinity College, Cambridge. Users should verify the copyright status of these works in their own jurisdiction before reproducing or distributing them.
 
+## Building
+
+The `Makefile` orchestrates the build pipeline. All commands assume the markdown source files in `md/` already exist.
+
+- **`make site`** -- full build from scratch: generates visualizations, covers, ebooks, PDFs, then builds the Hugo site. Run this after a fresh checkout or when the source markdown changed.
+- **`make quick`** -- rebuilds only the Hugo content and site (skips covers, ebooks, PDFs, visualizations). Useful for iterating on site templates or CSS.
+- **`make deploy`** -- rebuilds Hugo content, runs a production Hugo build, and deploys via `deploy.sh`. Does *not* regenerate assets -- run `make site` first if covers, ebooks, or PDFs changed.
+- **`make site deploy`** -- full rebuild followed by deployment.
+
+### Translations
+
+Translations require [Ollama](https://ollama.com/) running locally. The translate tool uses git history to detect which German remarks changed since the last translation.
+
+- **`make fix`** -- applies mechanical fixes to existing translations (e.g. updated series number formatting, changed prefixes/suffixes) without calling the LLM. Run this first after parser changes that only affect markup, then commit separately from LLM translations.
+- **`make translate`** -- translates new and changed remarks to English. Automatically applies mechanical fixes first, then sends remaining changes to the LLM. Output goes to `md-en/`.
+- **`make verify`** -- checks existing translations for structural issues (mismatched emphasis, math blocks, paragraph counts, etc.) without modifying any files.
+
 ## Tools
 
 The `tools/` directory contains tools for processing and publishing the Nachlass files. Each tool can be run from its own directory with `cargo run` (Rust tools) or directly (shell/Python scripts). All tools support single-file and batch modes.

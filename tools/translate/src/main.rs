@@ -75,6 +75,10 @@ enum Command {
         #[arg(long)]
         no_verify: bool,
 
+        /// Only apply mechanical fixes (prefix/suffix changes); skip LLM translation
+        #[arg(long)]
+        auto_fix_only: bool,
+
         /// Ollama context window size in tokens (default 8192)
         #[arg(long, default_value_t = 8192)]
         num_ctx: usize,
@@ -160,6 +164,7 @@ fn main() {
             no_glossary,
             verbose,
             no_verify,
+            auto_fix_only,
             num_ctx,
             context_ratio,
             emphasis_tolerance,
@@ -172,6 +177,7 @@ fn main() {
                 glossary: resolve_glossary(glossary, no_glossary),
                 verbose,
                 no_verify,
+                auto_fix_only,
                 num_ctx,
                 context_ratio,
                 emphasis_tolerance,

@@ -368,6 +368,7 @@ pub struct TranslateArgs {
     pub glossary: Option<PathBuf>,
     pub verbose: bool,
     pub no_verify: bool,
+    pub auto_fix_only: bool,
     pub num_ctx: usize,
     pub context_ratio: f64,
     pub emphasis_tolerance: usize,
@@ -596,7 +597,7 @@ pub fn run(args: &TranslateArgs) {
         .iter()
         .filter(|f| args.output.join(f).exists())
         .collect();
-    if !existing.is_empty() && !args.no_verify {
+    if !existing.is_empty() && !args.no_verify && !args.auto_fix_only {
         eprintln!("Verifying {} existing translation(s)...", existing.len());
         for filename in &existing {
             let de_path = args.input.join(filename);
@@ -687,12 +688,15 @@ pub fn run(args: &TranslateArgs) {
                 changed.len()
             );
 
+            let (_, old_de_remarks) = parse_document(&old_de_content);
             let (_, current_de_remarks) = parse_document(&current_de_content);
             let en_content =
                 fs::read_to_string(&en_path).expect("Failed to read English file");
             let (en_preamble, mut en_remarks) = parse_document(&en_content);
 
+            // Phase 1: auto-fix remarks where only non-word prefixes/suffixes changed
             let mut file_changed = false;
+            let mut needs_llm: Vec<(usize, String)> = Vec::new();
             for &(idx, ref anchor) in &changed {
                 if idx >= current_de_remarks.len() || idx >= en_remarks.len() {
                     continue;
@@ -701,39 +705,72 @@ pub fn run(args: &TranslateArgs) {
                     continue;
                 }
 
-                eprint!("    {}:{}...", filename, anchor);
-
                 let de_remark = &current_de_remarks[idx];
-                let (text_with_placeholders, math_blocks) = extract_math(&de_remark.body);
-                let glossary_section = glossary.filter_for(&de_remark.body);
-                let empty_context: Vec<String> = Vec::new();
-
-                let best_body = translate_remark(
-                    &client,
-                    &args.ollama_url,
-                    &args.model,
-                    &system_msg,
-                    &glossary_section,
-                    &empty_context,
-                    &text_with_placeholders,
-                    &math_blocks,
-                    de_remark,
-                    filename,
-                    idx,
-                    anchor,
-                    args.verbose,
-                    args.num_ctx,
-                    args.emphasis_tolerance,
-                    &ignore_words,
-                );
-
-                if best_body != en_remarks[idx].body {
-                    en_remarks[idx] = Remark {
-                        heading: de_remark.heading.clone(),
-                        body: best_body,
-                    };
-                    file_changed = true;
+                let mut auto_fixed = false;
+                if idx < old_de_remarks.len() {
+                    if let Some(fixed) = try_auto_fix_remark(
+                        &old_de_remarks[idx].body,
+                        &de_remark.body,
+                        &en_remarks[idx].body,
+                    ) {
+                        if fixed != en_remarks[idx].body {
+                            eprintln!("    {}:{} auto-fixed", filename, anchor);
+                            en_remarks[idx] = Remark {
+                                heading: de_remark.heading.clone(),
+                                body: fixed,
+                            };
+                            file_changed = true;
+                        }
+                        auto_fixed = true;
+                    }
                 }
+                if !auto_fixed {
+                    needs_llm.push((idx, anchor.clone()));
+                }
+            }
+
+            // Phase 2: LLM-translate remaining changed remarks (skip if --auto-fix-only)
+            if !args.auto_fix_only {
+                for (idx, anchor) in &needs_llm {
+                    let de_remark = &current_de_remarks[*idx];
+                    eprint!("    {}:{}...", filename, anchor);
+
+                    let (text_with_placeholders, math_blocks) = extract_math(&de_remark.body);
+                    let glossary_section = glossary.filter_for(&de_remark.body);
+                    let empty_context: Vec<String> = Vec::new();
+
+                    let best_body = translate_remark(
+                        &client,
+                        &args.ollama_url,
+                        &args.model,
+                        &system_msg,
+                        &glossary_section,
+                        &empty_context,
+                        &text_with_placeholders,
+                        &math_blocks,
+                        de_remark,
+                        filename,
+                        *idx,
+                        anchor,
+                        args.verbose,
+                        args.num_ctx,
+                        args.emphasis_tolerance,
+                        &ignore_words,
+                    );
+
+                    if best_body != en_remarks[*idx].body {
+                        en_remarks[*idx] = Remark {
+                            heading: de_remark.heading.clone(),
+                            body: best_body,
+                        };
+                        file_changed = true;
+                    }
+                }
+            } else if !needs_llm.is_empty() {
+                eprintln!(
+                    "    {} remark(s) need retranslation (skipped, --auto-fix-only)",
+                    needs_llm.len()
+                );
             }
 
             if file_changed {
@@ -745,6 +782,10 @@ pub fn run(args: &TranslateArgs) {
             }
         }
         eprintln!();
+    }
+
+    if args.auto_fix_only {
+        return;
     }
 
     // Phase 2: Translate new docs

@@ -1,6 +1,6 @@
 SANGBLEU_DIR = site/fonts/sangbleu
 
-.PHONY: all site quick serve deploy translate viz covers epub pdf content hugo graphics clean check-fonts
+.PHONY: all site quick serve deploy fix translate viz covers epub pdf content hugo graphics clean check-fonts
 
 all: site
 
@@ -24,6 +24,10 @@ check-fonts:
 		echo "See $(SANGBLEU_DIR)/README.md for details."; \
 		exit 1; \
 	fi
+
+# Apply mechanical fixes to translations (prefix/suffix changes only, no LLM)
+fix:
+	cd tools/translate && cargo run --release -- translate --auto-fix-only --glossary ../../glossary.md
 
 # Translate changed remarks (uses git history to detect changes, requires Ollama)
 translate:
