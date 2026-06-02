@@ -42,6 +42,7 @@ fn translate_remark(
     verbose: bool,
     num_ctx: usize,
     emphasis_tolerance: usize,
+    ignore_words: &std::collections::HashSet<String>,
 ) -> String {
     let mut best_body = de_remark.body.clone();
     let use_em_tags = text_with_placeholders.contains('_') || text_with_placeholders.contains("**");
@@ -67,7 +68,7 @@ fn translate_remark(
                 body: best_body.clone(),
             };
             let mut issues = Vec::new();
-            verify::verify_remark(filename, idx, remark_id, de_remark, &en_remark, &mut issues, emphasis_tolerance);
+            verify::verify_remark(filename, idx, remark_id, de_remark, &en_remark, &mut issues, emphasis_tolerance, ignore_words);
             let issue_refs: Vec<&verify::Issue> = issues.iter().collect();
             let instructions = fix_instructions(&issue_refs, &de_remark.body);
 
@@ -120,7 +121,7 @@ fn translate_remark(
                     body: best_body.clone(),
                 };
                 let mut issues = Vec::new();
-                verify::verify_remark(filename, idx, remark_id, de_remark, &en_remark, &mut issues, emphasis_tolerance);
+                verify::verify_remark(filename, idx, remark_id, de_remark, &en_remark, &mut issues, emphasis_tolerance, ignore_words);
 
                 if issues.is_empty() {
                     eprintln!(" done");
@@ -143,7 +144,7 @@ fn translate_remark(
                         let mut repair_issues = Vec::new();
                         verify::verify_remark(
                             filename, idx, remark_id, de_remark,
-                            &repaired_remark, &mut repair_issues, emphasis_tolerance,
+                            &repaired_remark, &mut repair_issues, emphasis_tolerance, ignore_words,
                         );
                         if repair_issues.is_empty() {
                             eprintln!(" done (emphasis repaired)");
@@ -278,6 +279,7 @@ fn verify_and_fix_doc(
     num_ctx: usize,
     emphasis_tolerance: usize,
     skip_remarks: &std::collections::HashSet<String>,
+    ignore_words: &std::collections::HashSet<String>,
 ) {
     let de_content = fs::read_to_string(de_path).expect("Failed to read German file");
     let (_, de_remarks) = parse_document(&de_content);
@@ -294,7 +296,7 @@ fn verify_and_fix_doc(
                 continue;
             }
             let mut issues = Vec::new();
-            verify::verify_remark(filename, i, &rid, de, en, &mut issues, emphasis_tolerance);
+            verify::verify_remark(filename, i, &rid, de, en, &mut issues, emphasis_tolerance, ignore_words);
             if !issues.is_empty() {
                 broken.push(i);
             }
@@ -334,6 +336,7 @@ fn verify_and_fix_doc(
                 verbose,
                 num_ctx,
                 emphasis_tolerance,
+                ignore_words,
             );
 
             if new_body != en_remarks[i].body {
@@ -477,8 +480,9 @@ pub fn run(args: &TranslateArgs) {
         args.num_ctx, usable_chars, max_context_chars, max_batch_chars
     );
 
-    // Load skip list from the tool directory (where the binary runs from)
+    // Load skip list and ignore-words list from the tool directory
     let skip_remarks = load_skip_remarks(Path::new("."));
+    let ignore_words = crate::verify::load_ignore_words(Path::new("."));
 
     // Enforce skip list on existing translations: replace skip-listed remarks
     // with the German original (they should not have been translated)
@@ -613,7 +617,7 @@ pub fn run(args: &TranslateArgs) {
                     continue;
                 }
                 let mut issues = Vec::new();
-                verify::verify_remark(filename, i, &rid, de, en, &mut issues, args.emphasis_tolerance);
+                verify::verify_remark(filename, i, &rid, de, en, &mut issues, args.emphasis_tolerance, &ignore_words);
                 if !issues.is_empty() {
                     has_issues = true;
                     break;
@@ -634,6 +638,7 @@ pub fn run(args: &TranslateArgs) {
                     args.num_ctx,
                     args.emphasis_tolerance,
                     &skip_remarks,
+                    &ignore_words,
                 );
             } else {
                 eprintln!(" ok");
@@ -719,6 +724,7 @@ pub fn run(args: &TranslateArgs) {
                     args.verbose,
                     args.num_ctx,
                     args.emphasis_tolerance,
+                    &ignore_words,
                 );
 
                 if best_body != en_remarks[idx].body {
@@ -947,6 +953,7 @@ pub fn run(args: &TranslateArgs) {
                     args.verbose,
                     args.num_ctx,
                     args.emphasis_tolerance,
+                    &ignore_words,
                 );
 
                 let elapsed = start.elapsed().as_secs_f64();
@@ -1104,6 +1111,7 @@ pub fn run(args: &TranslateArgs) {
                                     args.verbose,
                                     args.num_ctx,
                                     args.emphasis_tolerance,
+                                    &ignore_words,
                                 );
 
                                 let elapsed = remark_start.elapsed().as_secs_f64();
@@ -1143,6 +1151,7 @@ pub fn run(args: &TranslateArgs) {
                                 args.verbose,
                                 args.num_ctx,
                                 args.emphasis_tolerance,
+                                &ignore_words,
                             );
 
                             estimator.record(0.0);
@@ -1186,6 +1195,7 @@ pub fn run(args: &TranslateArgs) {
                 args.num_ctx,
                 args.emphasis_tolerance,
                 &skip_remarks,
+                &ignore_words,
             );
         }
     }

@@ -1,7 +1,44 @@
 use crate::common::*;
 use std::collections::HashSet;
 use std::fs;
-use std::path::PathBuf;
+use std::path::{Path, PathBuf};
+
+/// Load the ignore-words list (one word per line, # comments, blank lines ok).
+pub fn load_ignore_words(tool_dir: &Path) -> HashSet<String> {
+    let path = tool_dir.join("ignore-words.txt");
+    let mut set = HashSet::new();
+    if let Ok(content) = fs::read_to_string(&path) {
+        for line in content.lines() {
+            let trimmed = line.trim();
+            if !trimmed.is_empty() && !trimmed.starts_with('#') {
+                set.insert(trimmed.to_lowercase());
+            }
+        }
+    }
+    set
+}
+
+/// Extract words from plain text, lowercased, with minimum length.
+fn extract_words(text: &str) -> HashSet<String> {
+    let re = regex::Regex::new(r"[a-zA-ZäöüÄÖÜß]+").unwrap();
+    re.find_iter(text)
+        .map(|m| m.as_str().to_lowercase())
+        .filter(|w| w.len() >= 4)
+        .collect()
+}
+
+/// Check if any words from the German original appear in the English translation.
+fn check_german_words(de_text: &str, en_text: &str, ignored: &HashSet<String>) -> Vec<String> {
+    let de_words = extract_words(de_text);
+    let en_words = extract_words(en_text);
+    let mut found: Vec<String> = de_words
+        .intersection(&en_words)
+        .filter(|w| !ignored.contains(w.as_str()))
+        .cloned()
+        .collect();
+    found.sort();
+    found
+}
 
 pub struct VerifyArgs {
     pub input: PathBuf,
@@ -89,6 +126,7 @@ pub fn verify_remark(
     english: &Remark,
     issues: &mut Vec<Issue>,
     emphasis_tolerance: usize,
+    ignore_words: &HashSet<String>,
 ) {
     let de_body = &german.body;
     let en_body = &english.body;
@@ -231,6 +269,20 @@ pub fn verify_remark(
         });
     }
 
+    // 7. German words in English — flag any German words that appear verbatim
+    let german_words = check_german_words(&de_plain, &en_plain, ignore_words);
+    if !german_words.is_empty() {
+        issues.push(Issue {
+            file: file_name.to_string(),
+            remark_id: remark_id.to_string(),
+            check: "german_words",
+            description: format!(
+                "English contains {} word(s) from German original: {}",
+                german_words.len(),
+                german_words.join(", ")
+            ),
+        });
+    }
 }
 
 pub fn run(args: &VerifyArgs) -> Vec<Issue> {
@@ -304,12 +356,13 @@ pub fn run(args: &VerifyArgs) -> Vec<Issue> {
         eprintln!("Checking {}{}", base_name, suffix);
 
         let skip_remarks = load_skip_remarks(std::path::Path::new("."));
+        let ignore_words = load_ignore_words(Path::new("."));
         for (i, (de, en)) in de_remarks.iter().zip(en_remarks.iter()).enumerate() {
             let remark_id = anchor_from_doc_heading(&de.heading);
             if should_skip_remark(&skip_remarks, base_name, &remark_id) {
                 continue;
             }
-            verify_remark(base_name, i, &remark_id, de, en, &mut all_issues, args.emphasis_tolerance);
+            verify_remark(base_name, i, &remark_id, de, en, &mut all_issues, args.emphasis_tolerance, &ignore_words);
         }
     }
 
