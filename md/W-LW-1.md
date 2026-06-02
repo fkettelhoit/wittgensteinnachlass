@@ -8,14 +8,6 @@
 
 </details>
 
-### [Ms-137](/ms-137/#98a.3+98b.1) <span class="fac">[98a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98a.webp),[98b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98b.webp)</span> {#ms-137-98a398b1}
-
-Und wie konnte ihnen denn der Unterschied nicht zum Bewußtsein kommen, wenn sie einmal mit Schmerzen klagten & einmal ohne Schmerzen? Aber mußte der Unterschied für sie so wichtig sein, wie für uns? (Mancher erzählt in Gesellschaft unwahre Geschichten, die Andern wissen, daß sie unwahr sind, laßen sie aber gelten, wie die wahren. Sie nehmen von dem Unterschied keine Notiz.)
-
-### [Ms-137](/ms-137/#98b.2+99a.1) <span class="fac">[98b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98b.webp),[99a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99a.webp)</span> {#ms-137-98b299a1}
-
-Ein Stamm, der den Begriff der geheuchelten Schmerzen nicht kennt. Wer bei ihnen Schmerz äußert, wird betreut, bemitleidet. Die mißtrauische Haltung zur Schmerzäußerung kennen sie nicht. Der Reisende, der von uns zu ihnen kommt, denkt oft, daß ein Klagen übertrieben ist, daß es falsch ist & nur berechnet, Mitleid zu erzeugen; die Eingeborenen scheinen nicht so zu denken. In ihrer Sprache ist ein Ausdruck, der, wenigstens einigermaßen, dem unsern: “Schmerzen haben”, entspricht. – Ein Missionar lehrt diese Leute unsre Sprache; er erzieht sie aber auch & bei ihm lernen sie, zwischen echtem & geheucheltem Schmerzausdruck unterscheiden. Denn _er_ mißtraut mancher Äußerung & läßt sie nicht gelten, & lehrt die Leute diese Einstellung. Sie lernen unsern Ausdruck “Schmerzen haben”, auch den “Schmerzen heucheln”, – haben sie einen neuen Schmerzbegriff erhalten? Ich werde doch gewiß nicht sagen, sie wissen jetzt erst, was Schmerzen sind. Denn das hieße, sie hätten früher nie Schmerzen gehabt. Aber sie mußten für den Gebrauch unserer Worte eine neue Abrichtung erhalten. Diese (Abrichtung) war ähnlich, aber nicht gleich der alten.
-
 ### [Ms-137](/ms-137/#76a.6) <span class="fac">[76a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/76a.webp)</span> {#ms-137-76a6}
 
 <span class="series-number">1</span> 22.10.1948
@@ -914,6 +906,10 @@ Wer gegen ein mathematisches Resultat mißtrauisch ist, der wird die _Rechnung_ 
 
 Ein Stamm der den Begriff der geheuchelten Schmerzen nicht kennt. Wer bei ihnen Schmerz äußert, wird bemitleidet. Die mißtrauische Einstellung zu der Schmerzäußerung kennen sie nicht. Der Reisende, der von uns zu ihnen kommt, denkt oft, daß ein Klagen übertrieben ist ja auch daß nur den Zweck hat Mitleid zu erzeugen; die Eingeborenen scheinen nicht so zu denken. (Sie haben in ihrer Sprache einen Ausdruck der beiläufig, unserm “Schmerzen haben” entspricht.) Ein Missionar lehrt die Kinder unsre Sprache; er erzieht sie auch, & bei ihm lernen sie zwischen echtem & geheucheltem Schmerzausdruck unterscheiden. Denn er mißtraut der Schmerzäußerung & stellt sie ab & lehrt die Kinder mißtrauisch sein. – Sie lernen unsern Ausdruck “Schmerzen haben”, auch den “Schmerzen heucheln”, & es ist die Frage: hat man ihnen einen neuen Schmerzbegriff beigebracht? Ich werde doch gewiß nicht sagen, sie wissen jetzt erst, was Schmerzen sind. Denn das hieße, sie hätten früher nie Schmerzen gehabt.
 
+### [Ms-137](/ms-137/#98b.2+99a.1) <span class="fac">[98b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98b.webp),[99a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99a.webp)</span> {#ms-137-98b299a1}
+
+Ein Stamm, der den Begriff der geheuchelten Schmerzen nicht kennt. Wer bei ihnen Schmerz äußert, wird betreut, bemitleidet. Die mißtrauische Haltung zur Schmerzäußerung kennen sie nicht. Der Reisende, der von uns zu ihnen kommt, denkt oft, daß ein Klagen übertrieben ist, daß es falsch ist & nur berechnet, Mitleid zu erzeugen; die Eingeborenen scheinen nicht so zu denken. In ihrer Sprache ist ein Ausdruck, der, wenigstens einigermaßen, dem unsern: “Schmerzen haben”, entspricht. – Ein Missionar lehrt diese Leute unsre Sprache; er erzieht sie aber auch & bei ihm lernen sie, zwischen echtem & geheucheltem Schmerzausdruck unterscheiden. Denn _er_ mißtraut mancher Äußerung & läßt sie nicht gelten, & lehrt die Leute diese Einstellung. Sie lernen unsern Ausdruck “Schmerzen haben”, auch den “Schmerzen heucheln”, – haben sie einen neuen Schmerzbegriff erhalten? Ich werde doch gewiß nicht sagen, sie wissen jetzt erst, was Schmerzen sind. Denn das hieße, sie hätten früher nie Schmerzen gehabt. Aber sie mußten für den Gebrauch unserer Worte eine neue Abrichtung erhalten. Diese (Abrichtung) war ähnlich, aber nicht gleich der alten.
+
 ### [Ms-137](/ms-137/#98a.2) <span class="fac">[98a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98a.webp)</span> {#ms-137-98a2}
 
 <span class="series-number">204</span> Hatten diese Leute etwas übersehen, & hat der Lehrer sie auf etwas aufmerksam gemacht?
@@ -921,6 +917,10 @@ Ein Stamm der den Begriff der geheuchelten Schmerzen nicht kennt. Wer bei ihnen 
 ### [Ms-137](/ms-137/#99a.2) <span class="fac">[99a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99a.webp)</span> {#ms-137-99a2}
 
 <span class="series-number">205</span> Und wie konnte ihnen denn der Unterschied nicht zum Bewußtsein kommen, wenn sie einmal mit Schmerzen & einmal ohne Schmerzen klagten? Soll ich sagen: sie haben immer gedacht, es ist dasselbe? – Gewiß nicht. Oder: es sei ihnen kein Unterschied aufgefallen? – Aber warum nicht: es sei ihnen nicht darauf angekommen?
+
+### [Ms-137](/ms-137/#98a.3+98b.1) <span class="fac">[98a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98a.webp),[98b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98b.webp)</span> {#ms-137-98a398b1}
+
+Und wie konnte ihnen denn der Unterschied nicht zum Bewußtsein kommen, wenn sie einmal mit Schmerzen klagten & einmal ohne Schmerzen? Aber mußte der Unterschied für sie so wichtig sein, wie für uns? (Mancher erzählt in Gesellschaft unwahre Geschichten, die Andern wissen, daß sie unwahr sind, laßen sie aber gelten, wie die wahren. Sie nehmen von dem Unterschied keine Notiz.)
 
 ### [Ms-137](/ms-137/#99a.3) <span class="fac">[99a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99a.webp)</span> {#ms-137-99a3}
 

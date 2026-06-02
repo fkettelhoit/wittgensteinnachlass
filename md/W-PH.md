@@ -14,7 +14,7 @@ _****Philosophie**.**_
 
 ### [Ts-213](/ts-213/#406r.1) <span class="fac">[406r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/406r.webp)</span> {#ts-213-406r1}
 
-_Schwierigkeit der Philosophie, nicht die intellektuelle Schwierigkeit der Wissenschaften, sondern die Schwierigkeit einer Umstellung. Widerstände des **Willens** sind zu überwinden._
+<span class="series-number">86</span> _Schwierigkeit der Philosophie, nicht die intellektuelle Schwierigkeit der Wissenschaften, sondern die Schwierigkeit einer Umstellung. Widerstände des **Willens** sind zu überwinden._
 
 ### [Ts-213](/ts-213/#406r.2) <span class="fac">[406r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/406r.webp)</span> {#ts-213-406r2}
 
@@ -34,7 +34,7 @@ Beiläufig gesprochen, hat es in der alten Auffassung – etwa der, der (großen
 
 ### [Ts-213](/ts-213/#408r.1) <span class="fac">[408r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/408r.webp)</span> {#ts-213-408r1}
 
-_Die Philosophie zeigt die irreführenden Analogien im Gebrauch unsrer Sprache auf._
+<span class="series-number">87</span> _Die Philosophie zeigt die irreführenden Analogien im Gebrauch unsrer Sprache auf._
 
 ### [Ts-213](/ts-213/#408r.2) <span class="fac">[408r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/408r.webp)</span> {#ts-213-408r2}
 
@@ -90,7 +90,7 @@ Was der Andre anerkennt, ist die Analogie die ich ihm darbiete, als Quelle seine
 
 ### [Ts-213](/ts-213/#411r.1) <span class="fac">[411r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/411r.webp)</span> {#ts-213-411r1}
 
-_Woher das Gefühl des Fundamentalen unserer grammatischen Untersuchungen?_
+<span class="series-number">88</span> _Woher das Gefühl des Fundamentalen unserer grammatischen Untersuchungen?_
 
 ### [Ts-213](/ts-213/#411r.2) <span class="fac">[411r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/411r.webp)</span> {#ts-213-411r2}
 
@@ -162,7 +162,7 @@ Man könnte auch ein Wort z.B. ‘rot’ wichtig nennen insofern, als es oft und
 
 ### [Ts-213](/ts-213/#414r.1) <span class="fac">[414r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/414r.webp)</span> {#ts-213-414r1}
 
-_Methode der Philosophie: die übersichtliche Darstellung der grammatischen Tatsachen._
+<span class="series-number">89</span> _Methode der Philosophie: die übersichtliche Darstellung der grammatischen Tatsachen._
 
 _Das Ziel: Durchsichtigkeit der Argumente. Gerechtigkeit._
 
@@ -308,7 +308,7 @@ Die Menschen, welche kein Bedürfnis nach Durchsichtigkeit ihrer Argumentation h
 
 ### [Ts-213](/ts-213/#422r.1) <span class="fac">[422r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/422r.webp)</span> {#ts-213-422r1}
 
-_Philosophie._
+<span class="series-number">90</span> _Philosophie._
 
 _Die Klärung des Sprachgebrauches. Fallen der Sprache._
 
@@ -382,7 +382,7 @@ Die Wilden haben Spiele (oder wir nennen es doch so), für die sie keine geschri
 
 ### [Ts-213](/ts-213/#427r.1) <span class="fac">[427r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/427r.webp)</span> {#ts-213-427r1}
 
-_Die philosophischen Probleme treten uns im praktischen Leben gar nicht entgegen (wie etwa die der Naturlehre), sondern erst, wenn wir uns bei der Bildung unserer Sätze nicht vom praktischen Zweck, sondern von gewissen Analogien in der Sprache leiten lassen._
+<span class="series-number">91</span> _Die philosophischen Probleme treten uns im praktischen Leben gar nicht entgegen (wie etwa die der Naturlehre), sondern erst, wenn wir uns bei der Bildung unserer Sätze nicht vom praktischen Zweck, sondern von gewissen Analogien in der Sprache leiten lassen._
 
 ### [Ts-213](/ts-213/#427r.2) <span class="fac">[427r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/427r.webp)</span> {#ts-213-427r2}
 
@@ -430,7 +430,7 @@ Wenn die Philosophen ein Wort gebrauchen und nach seiner Bedeutung forschen, mu�
 
 ### [Ts-213](/ts-213/#431r.1) <span class="fac">[431r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/431r.webp)</span> {#ts-213-431r1}
 
-_Methode in der Philosophie. Möglichkeit des ruhigen Fortschreitens._
+<span class="series-number">92</span> _Methode in der Philosophie. Möglichkeit des ruhigen Fortschreitens._
 
 ### [Ts-213](/ts-213/#431r.2) <span class="fac">[431r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/431r.webp)</span> {#ts-213-431r2}
 
@@ -458,7 +458,7 @@ Wir müssen die ganze Sprache durchpflügen.
 
 ### [Ts-213](/ts-213/#433r.1) <span class="fac">[433r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/433r.webp)</span> {#ts-213-433r1}
 
-_Die Mythologie in den Formen unserer Sprache. ((Paul Ernst.))_
+<span class="series-number">93</span> _Die Mythologie in den Formen unserer Sprache. ((Paul Ernst.))_
 
 ### [Ts-213](/ts-213/#433r.2) <span class="fac">[433r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/433r.webp)</span> {#ts-213-433r2}
 

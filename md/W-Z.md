@@ -2,19 +2,11 @@
 
 <details>
 
-<summary>1930–1948, 691 remarks, Ts-233b, Ts-233a, Ts-232</summary>
+<summary>1930–1948, 691 remarks, Ts-233a, Ts-233b, Ts-232</summary>
 
 <img class="viz" src="/viz/W-Z.svg">
 
 </details>
-
-### [Ts-233b](/ts-233b/#37.11) <span class="fac">[37\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/37.webp)</span> {#ts-233b-3711}
-
-<span class="series-number">629</span> Wie könntest du erklären, was es heißt “Schmerzen heucheln”, “sich stellen, als habe man Schmerzen”.
-
-### [Ts-233b](/ts-233b/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-567}
-
-<span class="series-number">269</span> Wie lehrt man jemand, leise für sich selbst lesen? Wie weiß man, wenn er's kann? Wie weiß er selbst, daß er tut, was man von ihm verlangt?
 
 ### [Ts-233a](/ts-233a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-11}
 
@@ -2256,9 +2248,13 @@ Er weiß genau, wie stark seine Schmerzen sind? (Ist das nicht ähnlich, als sag
 
 <span class="series-number">565</span> Wir können aber nicht umhin, uns das Bild vom seelischen Vorgang zu machen. Und _nicht_, weil wir ihn von uns her kennen!
 
+### [Ts-233b](/ts-233b/#37.11) <span class="fac">[37\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/37.webp)</span> {#ts-233b-3711}
+
+<span class="series-number">566</span> Wie könntest du erklären, was es heißt “Schmerzen heucheln”, “sich stellen, als habe man Schmerzen”.
+
 ### [Ts-233b](/ts-233b/#37.10) <span class="fac">[37\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/37.webp)</span> {#ts-233b-3710}
 
-<span class="series-number">566</span> Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer Gruppe von Menschen bestehen? So daß ihnen ein Zweifel an Gefühlsäußerungen ganz fremd ist?
+Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer Gruppe von Menschen bestehen? So daß ihnen ein Zweifel an Gefühlsäußerungen ganz fremd ist?
 
 ### [Ts-233b](/ts-233b/#38.1) <span class="fac">[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/38.webp)</span> {#ts-233b-381}
 
@@ -2648,9 +2644,13 @@ Die Sprachspiele mit den beiden Begriffen sind grundverschieden, – hängen zus
 
 <span class="series-number">668</span> Die Bedeutung eines Wortes vergessen – sich wieder an sie erinnern. Was für Vorgänge gibt es da? An was erinnert man sich, was fällt einem da ein, wenn man sich wieder daran erinnert, was das englische Wort “perhaps” bedeutet.
 
+### [Ts-233b](/ts-233b/#56.7) <span class="fac">[56\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-567}
+
+<span class="series-number">669</span> Wie lehrt man jemand, leise für sich selbst lesen? Wie weiß man, wenn er's kann? Wie weiß er selbst, daß er tut, was man von ihm verlangt?
+
 ### [Ts-233b](/ts-233b/#56.6) <span class="fac">[56\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-566}
 
-<span class="series-number">669</span> Wenn man mich fragt: “Weißt du das ABC?” und ich jetzt im Geist das ABC durchgehe, oder in einem besondern Gemütszustand bin, der irgendwie dem Hersagen des ABC äquivalent ist.
+Wenn man mich fragt: “Weißt du das ABC?” und ich jetzt im Geist das ABC durchgehe, oder in einem besondern Gemütszustand bin, der irgendwie dem Hersagen des ABC äquivalent ist.
 
 ### [Ts-233b](/ts-233b/#56.8) <span class="fac">[56\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/56.webp)</span> {#ts-233b-568}
 
