@@ -2,17 +2,13 @@
 
 <details>
 
-<summary>1944–1946, 718 remarks, Ts-227b, Ts-227a</summary>
+<summary>1944–1946, 717 remarks, Ts-227b, Ts-227a</summary>
 
 <img class="viz" src="/viz/W-PI.svg">
 
 </details>
 
 ### [Ts-227b](/ts-227b/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227b/1.webp)</span> {#ts-227b-11}
-
-## Philosophische Untersuchungen.
-
-### [Ts-227a](/ts-227a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/1.webp)</span> {#ts-227a-11}
 
 ## Philosophische Untersuchungen.
 
@@ -40,7 +36,7 @@ Von einem Unterschied der Wortarten spricht Augustinus nicht. Wer das Lernen der
 
 ### [Ts-227a](/ts-227a/#5.2) <span class="fac">[5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/5.webp)</span> {#ts-227a-52}
 
-Nannten die Erwachsenen irgend einen Gegenstand und wandten sie sich dabei ihm zu, so nahm ich das wahr und ich begriff, daß der Gegenstand durch die Laute, die sie aussprachen, bezeichnet wurde, da sie auf _ihn_ hinweisen wollten. Dies aber entnahm ich aus ihren Gebärden, der natürlichen Sprache aller Völker, der Sprache, die durch Mienen- und Augenspiel, durch die Bewegungen der Glieder und den Klang der Stimme die Empfindungen der Seele anzeigt, wenn diese irgend etwas begehrt, oder festhält, oder zurückweist, oder flieht. So lernte ich nach und nach verstehen, welche Dinge die Wörter bezeichneten, die ich wieder & wieder, an ihren bestimmten Stellen in verschiedenen Sätzen, aussprechen hörte. Und ich brachte, als nun mein Mund sich an diese Zeichen gewöhnt hatte, durch sie meine Wünsche zum Ausdruck.
+<span class="series-number">+</span> Nannten die Erwachsenen irgend einen Gegenstand und wandten sie sich dabei ihm zu, so nahm ich das wahr und ich begriff, daß der Gegenstand durch die Laute, die sie aussprachen, bezeichnet wurde, da sie auf _ihn_ hinweisen wollten. Dies aber entnahm ich aus ihren Gebärden, der natürlichen Sprache aller Völker, der Sprache, die durch Mienen- und Augenspiel, durch die Bewegungen der Glieder und den Klang der Stimme die Empfindungen der Seele anzeigt, wenn diese irgend etwas begehrt, oder festhält, oder zurückweist, oder flieht. So lernte ich nach und nach verstehen, welche Dinge die Wörter bezeichneten, die ich wieder & wieder, an ihren bestimmten Stellen in verschiedenen Sätzen, aussprechen hörte. Und ich brachte, als nun mein Mund sich an diese Zeichen gewöhnt hatte, durch sie meine Wünsche zum Ausdruck.
 
 ### [Ts-227a](/ts-227a/#6.2+7.1) <span class="fac">[6\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/6.webp),[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/7.webp)</span> {#ts-227a-6271}
 

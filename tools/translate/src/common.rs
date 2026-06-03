@@ -947,6 +947,13 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
             if let Some(en_rest) = old_en.strip_prefix(old_head) {
                 return Some(format!("{new_head}{en_rest}"));
             }
+            // EN already has the new prefix (or no prefix if new_head is empty)
+            if new_head.is_empty()
+                || old_en.starts_with(new_head)
+                || old_en.starts_with(new_head.trim_end())
+            {
+                return Some(old_en.to_string());
+            }
         }
     }
     // Try suffix fix: find longest common head, check if tail is non-word

@@ -954,7 +954,7 @@ einmal als ein F, einmal als sein Spiegelbild eines F sehen. Nun will ich fragen
 
 ### [Ts-233a](/ts-233a/#49.3) <span class="fac">[49\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/49.webp)</span> {#ts-233a-493}
 
-<span class="series-number">235</span> <span class="series-number"></span> Sehe ich das gedachte Symbol “von außen” an, so kommt es mir zum Bewußtsein, daß es so und so gedeutet werden _könnte_; ist es eine Stufe meines Gedankenweges, so ist es ein mir natürlicher Aufenthalt und es beschäftigt (und beunruhigt) mich seine weitere Deutbarkeit nicht. – Wie ich die Tabelle, den Eisenbahnfahrplan, bei mir habe, ohne daß es mich beschäftigt, daß eine Tabelle auf verschiedene Art deutbar ist.
+<span class="series-number">235</span> Sehe ich das gedachte Symbol “von außen” an, so kommt es mir zum Bewußtsein, daß es so und so gedeutet werden _könnte_; ist es eine Stufe meines Gedankenweges, so ist es ein mir natürlicher Aufenthalt und es beschäftigt (und beunruhigt) mich seine weitere Deutbarkeit nicht. – Wie ich die Tabelle, den Eisenbahnfahrplan, bei mir habe, ohne daß es mich beschäftigt, daß eine Tabelle auf verschiedene Art deutbar ist.
 
 ### [Ts-233a](/ts-233a/#49.4+50.1) <span class="fac">[49\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/49.webp),[50\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/50.webp)</span> {#ts-233a-494501}
 

@@ -2,17 +2,13 @@
 
 <details>
 
-<summary>1913–1914, 135 remarks, Ts-201a1, Ts-201a2</summary>
+<summary>1913–1914, 134 remarks, Ts-201a1, Ts-201a2</summary>
 
 <img class="viz" src="/viz/W-NL.svg">
 
 </details>
 
 ### [Ts-201a1](/ts-201a1/#TP.1) <span class="fac">[TP\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-201a1/TP.webp)</span> {#ts-201a1-tp1}
-
-## Summary
-
-### [Ts-201a1](/ts-201a1/#a1.1) <span class="fac">[a1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-201a1/a1.webp)</span> {#ts-201a1-a11}
 
 ## Summary
 

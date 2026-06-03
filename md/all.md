@@ -26,7 +26,7 @@
 
 ### [Philosophical Investigations](W-PI.md)
 
-- 1944–1946, 718 remarks
+- 1944–1946, 717 remarks
 
 ### [Remarks on the Foundations of Mathematics](W-RFM.md)
 

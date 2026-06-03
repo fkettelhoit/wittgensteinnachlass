@@ -100,7 +100,7 @@ _Kürnberger_
 
 ### [Ms-104](/ms-104/#4.2) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-42}
 
-_<span class="series-number">1˙12</span>_
+<span class="series-number">1˙12</span>
 
 ### [Ms-104](/ms-104/#4.3) <span class="fac">[4\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-43}
 
@@ -116,7 +116,7 @@ _<span class="series-number">1˙12</span>_
 
 ### [Ms-104](/ms-104/#4.6) <span class="fac">[4\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-46}
 
-_<span class="series-number">2˙03-07</span>_
+<span class="series-number">2˙03-07</span>
 
 ### [Ms-104](/ms-104/#4.7) <span class="fac">[4\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-47}
 
@@ -128,7 +128,7 @@ _<span class="series-number">2˙03-07</span>_
 
 ### [Ms-104](/ms-104/#4.9) <span class="fac">[4\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-49}
 
-_<span class="series-number">2˙14</span>_
+<span class="series-number">2˙14</span>
 
 ### [Ms-104](/ms-104/#4.10) <span class="fac">[4\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-410}
 
@@ -144,7 +144,7 @@ _<span class="series-number">2˙14</span>_
 
 ### [Ms-104](/ms-104/#4.13) <span class="fac">[4\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-413}
 
-_<span class="series-number">2˙17-182</span>_
+<span class="series-number">2˙17-182</span>
 
 ### [Ms-104](/ms-104/#4.14) <span class="fac">[4\[14\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-414}
 
@@ -164,7 +164,7 @@ _<span class="series-number">2˙17-182</span>_
 
 ### [Ms-104](/ms-104/#5.2) <span class="fac">[5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-52}
 
-_<span class="series-number">3˙02</span>_
+<span class="series-number">3˙02</span>
 
 ### [Ms-104](/ms-104/#5.3) <span class="fac">[5\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-53}
 
@@ -192,7 +192,7 @@ _<span class="series-number">3˙02</span>_
 
 ### [Ms-104](/ms-104/#5.9) <span class="fac">[5\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-59}
 
-_<span class="series-number">2˙031</span>_
+<span class="series-number">2˙031</span>
 
 ### [Ms-104](/ms-104/#5.10) <span class="fac">[5\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-510}
 
@@ -216,7 +216,7 @@ _<span class="series-number">2˙031</span>_
 
 ### [Ms-104](/ms-104/#5.15) <span class="fac">[5\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-515}
 
-_<span class="series-number">2˙14</span>_ Das Bild besteht darin, daß sich seine Elemente in bestimmter Art und Weise zu einander verhalten.
+<span class="series-number">2˙14</span> Das Bild besteht darin, daß sich seine Elemente in bestimmter Art und Weise zu einander verhalten.
 
 ### [Ms-104](/ms-104/#5.16) <span class="fac">[5\[16\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/5.webp)</span> {#ms-104-516}
 

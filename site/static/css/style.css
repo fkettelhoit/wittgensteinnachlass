@@ -498,7 +498,7 @@ math[display="block"] {
 section > div > p:first-child > .series-number:first-child,
 section > div > .de > p:first-child > .series-number:first-child,
 section > div > .en > p:first-child > .series-number:first-child {
-  padding: 0.2em 0.25em 0px 0.4em;
+  padding: 0.2em 0.35em 0px 0.35em;
   border-radius: 4px;
   margin-right: 0.2em;
 }
