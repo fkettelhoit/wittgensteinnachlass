@@ -1020,6 +1020,10 @@ We speak, make utterances, & only _later_ do we form an image of their life.
 
 <span class="series-number">a107˙8</span> We react differently to the visual impression than someone who does not recognize it as fearful (in the _full_ sense of the word). – Now, I do _not_ want to say that we feel this reaction in the muscles & joints, & that this is the ‘sensation’. – No, here we have a modified concept of **sensation**.
 
+### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
+
+<span class="series-number">a107˙9</span> One could say that someone is blind to the _expression_ in a face. But does that mean that their sense of facial expression is lacking? But, of course, this is not simply a question of physiology. Here, the physiological is a symbol for the logical.
+
 ### [Ms-144](/ms-144/#41r.1) <span class="fac">[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)</span> {#ms-144-41r1}
 
 <span class="series-number">a107˙91</span> When someone experiences the seriousness of a melody, what does he perceive? – Nothing that could be conveyed by reproducing what was heard.
@@ -1596,10 +1600,6 @@ Remembering has no experiential content. – Isn't this still discernible throug
 
 Could one imagine this situation: for the first time in his life, someone remembers something & says: “Yes, now I know what ‘remembering’ is, how remembering _feels_.” – How does he know that this feeling is ‘remembering’? Compare: “Yes, now I know what ‘being electrocuted’ is!” (he received an electric shock for the first time). – Does he know that it is remembering because it was triggered by something from the past? And how does he know what the past is? After all, people learn the concept of the past by remembering. And how will he know in the future how remembering feels? (On the other hand, one could perhaps speak of a feeling of “long, long ago,” because there is a tone, a gesture that belongs to certain stories from past days.)
 
-### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
-
-<span class="series-number">xiv</span> One could say of someone that they are blind to the _expression_ in a face. But does that mean that their sense of faces is lacking something? But this is, of course, not simply a question of physiology. The physiological here is a symbol for the logical. The confusion & barrenness of psychology cannot be explained by the fact that it is a “young science”; its state cannot be compared with that of physics, for example, in its early days. (Rather, it can be compared with certain branches of mathematics. Set theory.) (For in psychology, there are experimental methods _and conceptual confusion_. (As in the other case, conceptual confusion & methods of proof.) The existence of the experimental method makes us believe that we have the means to get rid of the problems that trouble us; although the problem & the method are running past each other in a crooked way.
-
 ### [Ms-144](/ms-144/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-40r2}
 
-For mathematics, an investigation is possible that is quite analogous to our investigation of psychology. It is no more a _mathematical_ one than the other is a psychological one. In it, there is _no_ calculation; it is, therefore, not, for example, logic. It could deserve the name of an investigation of the ‘foundations of mathematics’.
+<span class="series-number">xiv</span> For mathematics, an investigation is possible that is quite analogous to our investigation of psychology. It is no more a _mathematical_ one than the other is a psychological one. In it, there is _no_ calculation; it is, therefore, not, for example, logic. It could deserve the name of an investigation of the ‘foundations of mathematics’.

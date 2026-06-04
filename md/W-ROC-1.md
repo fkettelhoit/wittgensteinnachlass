@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1950, 87 remarks, Ms-176</summary>
+<summary>1950, 88 remarks, Ms-176</summary>
 
 <img class="viz" src="/viz/W-ROC-1.svg">
 
@@ -348,7 +348,11 @@ x steht im ersten & zweiten Satz nicht für den gleichen Begriff, wenn auch viel
 
 ### [Ms-176](/ms-176/#21r.3+21v.1) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21v.webp)</span> {#ms-176-21r321v1}
 
-<span class="series-number">85</span> Die Aussage “Ich sehe einen roten Kreis” & die “Ich sehe (bin nicht blind)” sind logisch nicht gleichartig. Wie prüft man die Wahrheit der ersten, wie die Wahrheit der zweiten? Aber kann ich glauben zu sehen, & blind sein, oder glauben blind zu sein, & sehen?
+<span class="series-number">84</span> Die Aussage “Ich sehe einen roten Kreis” & die “Ich sehe (bin nicht blind)” sind logisch nicht gleichartig. Wie prüft man die Wahrheit der ersten, wie die Wahrheit der zweiten?
+
+### [Ms-176](/ms-176/#21r.3+21v.1.2) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21r.webp),[21v\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21v.webp)</span> {#ms-176-21r321v12}
+
+<span class="series-number">85</span> Aber kann ich glauben zu sehen, & blind sein, oder glauben blind zu sein, & sehen?
 
 ### [Ms-176](/ms-176/#21v.2) <span class="fac">[21v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21v.webp)</span> {#ms-176-21v2}
 

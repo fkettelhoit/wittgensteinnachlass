@@ -331,25 +331,11 @@ pub fn run(args: &VerifyArgs) -> Vec<Issue> {
         let (_, de_remarks) = parse_document(&de_content);
         let (_, en_remarks) = parse_document(&en_content);
 
-        // For partial files, we may have fewer English remarks — only verify what exists
         let is_partial = en_path.to_string_lossy().ends_with(".partial");
-        if !is_partial && de_remarks.len() != en_remarks.len() {
-            all_issues.push(Issue {
-                file: base_name.clone(),
-                remark_id: String::new(),
-                check: "structure",
-                description: format!(
-                    "Remark count mismatch: German has {}, English has {}",
-                    de_remarks.len(),
-                    en_remarks.len()
-                ),
-            });
-            continue;
-        }
-
-        let check_count = en_remarks.len().min(de_remarks.len());
-        let suffix = if is_partial {
-            format!(" (partial, {}/{} remarks)", check_count, de_remarks.len())
+        let suffix = if de_remarks.len() != en_remarks.len() {
+            format!(" ({}/{} remarks)", en_remarks.len(), de_remarks.len())
+        } else if is_partial {
+            format!(" (partial, {}/{} remarks)", en_remarks.len(), de_remarks.len())
         } else {
             String::new()
         };
@@ -357,11 +343,18 @@ pub fn run(args: &VerifyArgs) -> Vec<Issue> {
 
         let skip_remarks = load_skip_remarks(std::path::Path::new("."));
         let ignore_words = load_ignore_words(Path::new("."));
-        for (i, (de, en)) in de_remarks.iter().zip(en_remarks.iter()).enumerate() {
+        let en_by_anchor: std::collections::HashMap<String, &Remark> = en_remarks
+            .iter()
+            .map(|r| (anchor_from_doc_heading(&r.heading), r))
+            .collect();
+        for (i, de) in de_remarks.iter().enumerate() {
             let remark_id = anchor_from_doc_heading(&de.heading);
             if should_skip_remark(&skip_remarks, base_name, &remark_id) {
                 continue;
             }
+            let Some(en) = en_by_anchor.get(&remark_id) else {
+                continue; // New remark not yet translated
+            };
             verify_remark(base_name, i, &remark_id, de, en, &mut all_issues, args.emphasis_tolerance, &ignore_words);
         }
     }

@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1948–1949, 993 remarks, Ms-137, Ms-167, Ms-138</summary>
+<summary>1948–1949, 998 remarks, Ms-137, Ms-167, Ms-138</summary>
 
 <img class="viz" src="/viz/W-LW-1.svg">
 
@@ -1016,7 +1016,11 @@ Und wie konnte ihnen denn der Unterschied nicht zum Bewußtsein kommen, wenn sie
 
 ### [Ms-137](/ms-137/#101b.8+102a.1) <span class="fac">[101b\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101b.webp),[102a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/102a.webp)</span> {#ms-137-101b8102a1}
 
-<span class="series-number">230</span> “Man kann dem Menschen nicht in das Herz schauen.” Dabei ist eigentlich angenommen, daß er selbst es kann. – Ist es Erfahrung, die uns das lehrt? Ja & nein – möchte ich antworten. Und das muß einen Grund haben.
+<span class="series-number">229</span> “Man kann dem Menschen nicht in das Herz schauen.” Dabei ist eigentlich angenommen, daß er selbst es kann. – Ist es Erfahrung, die uns das lehrt? Ja & nein – möchte ich antworten.
+
+### [Ms-137](/ms-137/#101b.8+102a.1.2) <span class="fac">[101b\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101b.webp),[102a\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/102a.webp)</span> {#ms-137-101b8102a12}
+
+<span class="series-number">230</span> Und das muß einen Grund haben.
 
 ### [Ms-137](/ms-137/#102a.2) <span class="fac">[102a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/102a.webp)</span> {#ms-137-102a2}
 
@@ -1402,7 +1406,11 @@ Was macht dies Bild zu _seinem_ Portrait? – Es ist im Katalog als das bezeichn
 
 ### [Ms-137](/ms-137/#110a.7+110b.1) <span class="fac">[110a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110a.webp),[110b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp)</span> {#ms-137-110a7110b1}
 
-<span class="series-number">319</span> Wenn aber jemand beim Vorstellen, oder statt des Vorstellens zeichnete, wenn auch nur mit dem Finger in der Luft. (Man könnte das “motorische Vorstellung” nennen.) Da könnte man ihn fragen “Wen stellt das vor?” Und seine Antwort entscheidet. Sie würde uns eine Intention mitteilen. Die Linie die ich zeichnete, war wie eine Beschreibung.
+<span class="series-number">318</span> Wenn aber jemand beim Vorstellen, oder statt des Vorstellens zeichnete, wenn auch nur mit dem Finger in der Luft. (Man könnte das “motorische Vorstellung” nennen.) Da könnte man ihn fragen “Wen stellt das vor?” Und seine Antwort entscheidet. Sie würde uns eine Intention mitteilen.
+
+### [Ms-137](/ms-137/#110a.7+110b.1.2) <span class="fac">[110a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110a.webp),[110b\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp)</span> {#ms-137-110a7110b12}
+
+<span class="series-number">319</span> Die Linie die ich zeichnete, war wie eine Beschreibung.
 
 ### [Ms-137](/ms-137/#110b.2) <span class="fac">[110b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp)</span> {#ms-137-110b2}
 
@@ -1980,7 +1988,11 @@ Zwei Verwendungen von “_sehen_”. Die eine: “Ich sehe _dies_” – wobei i
 
 ### [Ms-137](/ms-137/#122b.3) <span class="fac">[122b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp)</span> {#ms-137-122b3}
 
-<span class="series-number">450</span> ‘Farbe’ & ‘Form’ muß objektiv gelernt werden. Der Ausdruck des Aspekts folgt dann dem Ausdruck der Wahrnehmung, wie der der _Vorstellung_ dem der Wahrnehmung. Aber hier muß man sich daran erinnern, daß die visuelle Vorstellung sich nicht immer durch die Beschreibung eines Gesichtseindrucks darstellen läßt. Ich stelle mir z.B. eine geschlossene Schachtel vor, aber das _Bild_ der geschlossenen Schachtel könnte manches Andere auch darstellen. (Dies erinnert an den Ausdruck in der Traumerzählung: “Und ich wußte, daß ‥‥․”)
+<span class="series-number">449</span> ‘Farbe’ & ‘Form’ muß objektiv gelernt werden.
+
+### [Ms-137](/ms-137/#122b.3.2) <span class="fac">[122b\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp)</span> {#ms-137-122b32}
+
+<span class="series-number">450</span> Der Ausdruck des Aspekts folgt dann dem Ausdruck der Wahrnehmung, wie der der _Vorstellung_ dem der Wahrnehmung. Aber hier muß man sich daran erinnern, daß die visuelle Vorstellung sich nicht immer durch die Beschreibung eines Gesichtseindrucks darstellen läßt. Ich stelle mir z.B. eine geschlossene Schachtel vor, aber das _Bild_ der geschlossenen Schachtel könnte manches Andere auch darstellen. (Dies erinnert an den Ausdruck in der Traumerzählung: “Und ich wußte, daß ‥‥․”)
 
 ### [Ms-137](/ms-137/#122b.4+123a.1) <span class="fac">[122b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp),[123a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/123a.webp)</span> {#ms-137-122b4123a1}
 
@@ -2180,7 +2192,11 @@ Einmal heißt es: “Was ich vor mir habe, ist _das_ [Kopie]. Ich kann es auch a
 
 ### [Ms-137](/ms-137/#126a.5+126b.1) <span class="fac">[126a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/126a.webp),[126b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/126b.webp)</span> {#ms-137-126a5126b1}
 
-<span class="series-number">496</span> Die Kopie beschreibt die Wahrnehmung _gänzlich_ . Das Modell, worauf ich auch noch deute, eine Art _meiner_ Anschauung; man könnte also auch sagen: das Seherlebnis. – Als eine Meldung der Wahrnehmung ist die Kopie dann genauer. Wenn aber der Aspekt _aufleuchtet_, dann ist der Ausdruck davon (das Zeigen aufs Modell z.B.) _wesentlich_ der Ausdruck einer neuen Wahrnehmung. So also, als müßte diesem Ausdruck jetzt eine neue Kopie entsprechen. Was aber nicht der Fall ist.
+<span class="series-number">495</span> Die Kopie beschreibt die Wahrnehmung _gänzlich_ . Das Modell, worauf ich auch noch deute, eine Art _meiner_ Anschauung; man könnte also auch sagen: das Seherlebnis. – Als eine Meldung der Wahrnehmung ist die Kopie dann genauer. Wenn aber der Aspekt _aufleuchtet_, dann ist der Ausdruck davon (das Zeigen aufs Modell z.B.) _wesentlich_ der Ausdruck einer neuen Wahrnehmung.
+
+### [Ms-137](/ms-137/#126a.5+126b.1.2) <span class="fac">[126a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/126a.webp),[126b\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/126b.webp)</span> {#ms-137-126a5126b12}
+
+<span class="series-number">496</span> So also, als müßte diesem Ausdruck jetzt eine neue Kopie entsprechen. Was aber nicht der Fall ist.
 
 ### [Ms-137](/ms-137/#126b.2) <span class="fac">[126b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/126b.webp)</span> {#ms-137-126b2}
 
@@ -2416,7 +2432,11 @@ Ich schaue auf ein Tier im Käfig. Man fragt mich: “Was siehst Du?” Ich antw
 
 ### [Ms-137](/ms-137/#132a.1) <span class="fac">[132a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132a.webp)</span> {#ms-137-132a1}
 
-<span class="series-number">552</span> Ein anderer Ausruf wäre gewesen: “Was war das?!” Aber ist es auch das gleiche Erlebnis, dessen Ausdruck der unartikulierte Laut, dessen Ausdruck der Ausruf “Ein Hase!”, war? Wie soll ich's beurteilen? (_Ich_ meinte nicht das gleiche.)
+<span class="series-number">551</span> Ein anderer Ausruf wäre gewesen: “Was war das?!”
+
+### [Ms-137](/ms-137/#132a.1.2) <span class="fac">[132a\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132a.webp)</span> {#ms-137-132a12}
+
+<span class="series-number">552</span> Aber ist es auch das gleiche Erlebnis, dessen Ausdruck der unartikulierte Laut, dessen Ausdruck der Ausruf “Ein Hase!”, war? Wie soll ich's beurteilen? (_Ich_ meinte nicht das gleiche.)
 
 ### [Ms-137](/ms-137/#132a.2) <span class="fac">[132a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132a.webp)</span> {#ms-137-132a2}
 

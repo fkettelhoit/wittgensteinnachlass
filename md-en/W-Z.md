@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1930–1948, 691 remarks, Ts-233a, Ts-233b, Ts-232</summary>
+<summary>1930–1948, 725 remarks, Ts-233a, Ts-233b, Ts-232</summary>
 
 <img class="viz" src="/viz/W-Z.svg">
 
@@ -10,7 +10,11 @@
 
 ### [Ts-233a](/ts-233a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-11}
 
-<span class="series-number">2</span> W. James: the thought is already complete at the beginning of the sentence. How can one know that? But the _intention_ to express it can already exist before the first word is said. For if one asks someone “do you know what you want to say?”, he will often answer in the affirmative. I say to someone “I will now whistle the theme … to you,” I have the intention to whistle it, & I already know what I will whistle. I have the intention to whistle this theme: does that mean that I have, in some sense, perhaps in thought, already whistled it?
+<span class="series-number">1</span> W. James: the thought is already complete at the beginning of the sentence. How can one know this? But the _intention_ to express it can already exist before the first word is said. For if one asks someone “do you know what you want to say?”, he will often answer in the affirmative.
+
+### [Ts-233a](/ts-233a/#1.1.2) <span class="fac">[1\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-112}
+
+<span class="series-number">2</span> I say to someone, “I will now whistle the tune…”, I have the intention to whistle it, & I already know what I will whistle. I have the intention to whistle this tune: does this mean that I have already whistled it in some sense, perhaps in thought?
 
 ### [Ts-233a](/ts-233a/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-12}
 
@@ -310,7 +314,11 @@ If we substitute the word “kill” for the word “imagine” in this argument
 
 ### [Ts-233a](/ts-233a/#17.1) <span class="fac">[17\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-171}
 
-<span class="series-number">74</span> One has to read some sentences more often in order to understand them as sentences. Let a sentence be given to me in a cipher and also its key; then, of course, in one respect everything is given to me for the understanding of the sentence. And yet I would answer the question “Do you understand this sentence?”: No, not yet; I must first decipher it. And only when I have, for example, translated it into German, would I say “Now I understand it.” If one now asks the question “At what moment in the translation do I _understand_ the sentence?”, one would gain insight into the nature of what we call “understanding.”
+<span class="series-number">73</span> One must read some sentences more than once in order to understand them as sentences.
+
+### [Ts-233a](/ts-233a/#17.1.2) <span class="fac">[17\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-1712}
+
+<span class="series-number">74</span> Let a sentence be given to me in code, along with its key; then, in a certain respect, everything necessary for understanding the sentence is naturally given to me. And yet, if asked “Do you understand this sentence?”, I would answer: No, not yet; I must first decipher it. And only when I have, for example, translated it into German, would I say “Now I understand it.” If one were to ask “At what moment in the translation do I now _understand_ the sentence?”, one would gain insight into the essence of what we call “understanding.”
 
 ### [Ts-233a](/ts-233a/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-172}
 
@@ -318,7 +326,11 @@ If we substitute the word “kill” for the word “imagine” in this argument
 
 ### [Ts-233a](/ts-233a/#17.3) <span class="fac">[17\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-173}
 
-<span class="series-number">77</span> One can determine the duration of a phenomenon by continuous observation, or by taking samples. The observation of the duration can be continuous, or interrupted. How do you observe your knowledge, your opinions? And, on the other hand, an afterimage, a pain? Is there a continuous observation of my ability to perform the multiplication…?
+<span class="series-number">76</span> One can determine the persistence of a phenomenon through uninterrupted observation, or through sampling. The observation of duration can be either uninterrupted or intermittent.
+
+### [Ts-233a](/ts-233a/#17.3.2) <span class="fac">[17\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-1732}
+
+<span class="series-number">77</span> How do you observe your knowledge, your opinions? And on the other hand, an image, a pain? Is there an uninterrupted observation of my ability to perform multiplication?
 
 ### [Ts-233a](/ts-233a/#17.4) <span class="fac">[17\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-174}
 
@@ -362,7 +374,11 @@ If we substitute the word “kill” for the word “imagine” in this argument
 
 ### [Ts-233a](/ts-233a/#19.2) <span class="fac">[19\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-192}
 
-<span class="series-number">88</span> This is probably the point at which one says that one can only communicate the form to the _other_, but not the content. – So one is talking to oneself _about the content!_ – – (How do my words relate to the content that is conscious to me? and for what purpose?) It is very curious that the _processes_ in thinking rarely interest us. It is curious, but not strange.
+<span class="series-number">87</span> This is probably the point at which one says that one can only communicate the form to the _other_, but not the content. – So one is essentially talking to oneself _about the content!_ – – (But how do my words relate to the content of which I am conscious, & for what purpose?)
+
+### [Ts-233a](/ts-233a/#19.2.2) <span class="fac">[19\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-1922}
+
+<span class="series-number">88</span> It is very remarkable that the _processes_ involved in thinking rarely interest us. It is remarkable, but not odd.
 
 ### [Ts-233a](/ts-233a/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-193}
 
@@ -390,9 +406,11 @@ If we substitute the word “kill” for the word “imagine” in this argument
 
 ### [Ts-233a](/ts-233a/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/20.webp)</span> {#ts-233a-205}
 
-<span class="series-number">96</span> The question of whether one is _thinking_ or not only arises under very specific circumstances.
+<span class="series-number">95</span> Only under quite specific circumstances does the question arise as to whether one has spoken in a way that involves _thinking_, or not.
 
-Yes, if one speaks of an _experience_ of thinking, then the experience of speaking is as good as any other. But the concept of ‘thinking’ is not a concept of experience, because one does not compare thoughts in the same way that one compares experiences.
+### [Ts-233a](/ts-233a/#20.5.2) <span class="fac">[20\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/20.webp)</span> {#ts-233a-2052}
+
+<span class="series-number">96</span> Yes, if one speaks of an _experience_ of thinking, then the experience of speaking is as good as any other. But the concept ‘thinking’ is not a concept of experience. For one does not compare thoughts as one compares experiences.
 
 ### [Ts-233a](/ts-233a/#20.6) <span class="fac">[20\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/20.webp)</span> {#ts-233a-206}
 
@@ -612,9 +630,11 @@ Yes, if one speaks of an _experience_ of thinking, then the experience of speaki
 
 ### [Ts-233a](/ts-233a/#31.5) <span class="fac">[31\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/31.webp)</span> {#ts-233a-315}
 
-<span class="series-number">152</span> I had deliberately chosen an example in which a human being expresses a sensation. For in this case, one says that sounds, which do not belong to any language, are full of meaning.
+<span class="series-number">151</span> I had intentionally chosen an example in which a person gives expression to a sensation. For in this case, one says that sounds, which do not belong to any language, are full of meaning.
 
-Would it be just as easy to imagine the analogous case for this sentence: “If the train does not arrive on time at 5 o’clock, it will miss the connection”? What would it mean in this case to guess the sense?
+### [Ts-233a](/ts-233a/#31.5.2) <span class="fac">[31\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/31.webp)</span> {#ts-233a-3152}
+
+<span class="series-number">152</span> Would it be equally easy to imagine the analogous case for this sentence: “If the train does not arrive on time at 5 o’clock, it will miss its connection”? What, for example, would it mean in this case to guess at the sense?
 
 ### [Ts-233a](/ts-233a/#31.6) <span class="fac">[31\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/31.webp)</span> {#ts-233a-316}
 
@@ -682,7 +702,11 @@ Would it be just as easy to imagine the analogous case for this sentence: “If 
 
 ### [Ts-233a](/ts-233a/#34.4+35.1) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp),[35\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-344351}
 
-<span class="series-number">170</span> Does that mean there aren’t sensations that often recur when enjoying music? Certainly not. A poem makes an impression on us when we read it. “Do you feel the same while reading it as when you read something indifferent?” – How have I learned to answer this question? I might say: “Of course not!” – which is to say that _this_ affects me, and the other does not. “I experience something different.” – And what is the nature of this? – I can’t give a satisfying answer. Because what I state is nothing significant. – “But didn’t you enjoy it _while_ reading?” Indeed – – because the opposite answer would mean that I enjoyed it earlier or later; and that is not what I want to say. But now you do remember sensations and images while reading, and ones that are connected with enjoyment, with the impression – But, they only obtained their importance through their surroundings: through the reading of the poem, through my _familiarity_ with the language, the meter, and _countless_ other connections. You must ask yourself, how did we learn the expression “Isn’t that wonderful!”? – No one explained it to us by referring to sensations, images, or thoughts that accompany listening! Yes, we would not doubt that he enjoyed it if he could not indicate such experiences; but we would, if it became clear that he did not understand certain connections.
+<span class="series-number">169</span> Does that mean there aren’t sensations that often recur when enjoying music? Not at all.
+
+### [Ts-233a](/ts-233a/#34.4+35.1.2) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp),[35\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-3443512}
+
+<span class="series-number">170</span> A poem makes an _impression_ on us while we are reading it. “Do you feel the same thing while reading it as when you read something indifferent?” – How have I learned to answer this question? I will perhaps say: “Of course not!” – which means something like: this affects me, and the other does not. “I experience something different in the process.” – And what is the nature of this? – I cannot give a satisfactory answer. For what I state is nothing important. – “But did you not enjoy it _during_ the reading?” Certainly – – For the opposite answer would mean: I enjoyed it earlier, or later; and that is not what I want to say. But now you do remember sensations and images while reading, and indeed such ones that are connected with enjoyment, with the impression – But, they only obtained their importance through their context: through the reading of the poem, through my _familiarity_ with the language, the meter and _countless_ other connections. You must ask yourself, how did we ever learn the expression “Isn’t that wonderful!”? – No one explained it to us by referring to sensations, images, or thoughts that accompany the listening! Yes, we would not doubt that he enjoyed it if he could not name such experiences; but we would doubt it if it became apparent that he does not understand certain connections.
 
 ### [Ts-233a](/ts-233a/#35.2) <span class="fac">[35\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-352}
 
@@ -1374,13 +1398,15 @@ and not how he should continue now?
 
 ### [Ts-233a](/ts-233a/#69.5+70.1) <span class="fac">[69\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp),[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span> {#ts-233a-695701}
 
-<span class="series-number">337</span> If I now also have two signs at my disposal, the expression “red circle” and the colored image, or the mental image, of the red circle, then the question would be: How is the one word then assigned to the color, the other to the shape? For one seems to be able to say that the one word directs attention to the color, the other to the shape. But what does that mean? How can one translate these words into this image?
+<span class="series-number">336</span> If I now also have two signs at my disposal, the expression “red circle” & the colored image, or the image of the red circle, then the question would be: how is the one word assigned to the color, the other to the shape? For one seems to be able to say that the one word directs attention to the color, the other to the shape. But what does that mean? How can one translate these words into this image?
 
-Or also: If the word ‘red’ brings a color to my mind, then it must be connected with a shape; how can I then abstract from the shape?
+Or also: if the word ‘red’ brings a color to my memory, then it must be connected with a shape; how can I then abstract from the shape?
 
-The important question is never: how does he know what he should abstract from? but: how is that even possible? or: what does that mean?
+The important question here is never: how does he know what he should abstract from? but: how is that even possible? or: what does it mean?
 
-Perhaps it will become clearer if one compares _the_ two languages, in one of which a red square and one with a circle on it (e.g., a black one on a white background) replace the words “red circle”; and in the other, a red circle is drawn instead. How does the translation proceed here? He looks first at the red square and chooses a red pen, then at the circle, and now makes a circle with this pen. It would be learned first that the first square always determines the choice of the pencil, the second, what we should draw with it. The two squares therefore belong to different parts of speech (e.g., noun and verb). But in the other language, there would be nothing that one could call _here_ two words.
+### [Ts-233a](/ts-233a/#69.5+70.1.2) <span class="fac">[69\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp),[70\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span> {#ts-233a-6957012}
+
+<span class="series-number">337</span> Perhaps it will become clearer if one compares the two languages in which, in one, a red square and one with a circle on it (something like a black one on a white background) replace the words “red circle”; and in the other, instead, a red circle is painted. How does the translation proceed here? One looks, for example, first at the red square and chooses a red pen, then at the circle, and now makes a circle with this pen. It would be as if one first learned that the first square always determines the choice of the pencil, the second, what we are supposed to draw with it. The two squares thus belong to different parts of speech (something like a noun and a verb). But in the other language, there would be nothing that one could call two words _here_.
 
 ### [Ts-233a](/ts-233a/#70.2) <span class="fac">[70\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span> {#ts-233a-702}
 
@@ -1500,7 +1526,11 @@ Perhaps it will become clearer if one compares _the_ two languages, in one of wh
 
 ### [Ts-233b](/ts-233b/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span> {#ts-233b-32}
 
-<span class="series-number">368</span> But couldn’t we also play a language-game in this ‘confusion’? – But is it still the same one as before? – (This refers to what Frege, and occasionally Ramsey, said about recognition being a condition of symbolizing. What is the criterion for me having correctly recognized the color? Something like the experience of joy when recognizing it?) Let’s imagine people who express an intermediate color, such as one between red and yellow, in a way with a sort of binary decimal fraction _like this_: R, LLRL, etc., where yellow is on the right side, and red on the left. – These people learn in kindergarten to describe color tones in this way, to select colors according to these descriptions, to mix them, etc. Their behaviour towards us is approximately the same as that of people with perfect pitch towards people who lack it. _They can do_ what we cannot. Questionable.
+<span class="series-number">367</span> But couldn't we also play a language-game in this ‘confusion’? – But is it still the earlier one? – (This refers to what Frege, and occasionally Ramsey, said about recognition as a condition of symbolization. What is the criterion for me having correctly recognized the color? Something like the experience of pleasure upon recognition?)
+
+### [Ts-233b](/ts-233b/#3.2.2) <span class="fac">[3\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span> {#ts-233b-322}
+
+<span class="series-number">368</span> Let us imagine people who express an intermediate color, such as a shade between red & yellow, through a kind of binary decimal fraction, like this: R, LLRL, etc., where, for example, yellow is on the right side & red on the left. – These people would learn, even in kindergarten, to describe color shades in this way, to select colors according to these descriptions, to mix them, etc. They would relate to us in much the same way as people with perfect pitch relate to people who lack it. _They can do_ what we cannot do. Questionable.
 
 ### [Ts-233b](/ts-233b/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span> {#ts-233b-33}
 
@@ -1532,9 +1562,11 @@ Perhaps it will become clearer if one compares _the_ two languages, in one of wh
 
 ### [Ts-233b](/ts-233b/#4a.1) <span class="fac">[4a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a1}
 
-<span class="series-number">377</span> There, for example, where there is a type only rarely, the concept of this type is not formed. People do not perceive this syndrome as a unit.
+<span class="series-number">376</span> There, for example, where there is only rarely a type, the concept of this type is not formed. People do not recognize this syndrome as a unity.
 
-They do not form an image of it and recognize it from case to case.
+### [Ts-233b](/ts-233b/#4a.1.2) <span class="fac">[4a\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a12}
+
+<span class="series-number">377</span> They do not form a picture of it & recognize it from case to case.
 
 ### [Ts-233b](/ts-233b/#4.6) <span class="fac">[4\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4.webp)</span> {#ts-233b-46}
 
@@ -1566,7 +1598,11 @@ They do not form an image of it and recognize it from case to case.
 
 ### [Ts-233b](/ts-233b/#6a.1) <span class="fac">[6a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6a.webp)</span> {#ts-233b-6a1}
 
-<span class="series-number">386</span> Complaining is already so bad that it makes the worse of pretending no longer possible. They can no longer see the one shame behind the other.
+<span class="series-number">385</span> Complaining is already so bad that it eclipses the even worse act of _pretending_.
+
+### [Ts-233b](/ts-233b/#6a.1.2) <span class="fac">[6a\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6a.webp)</span> {#ts-233b-6a12}
+
+<span class="series-number">386</span> One can no longer see one disgrace behind the other.
 
 ### [Ts-233b](/ts-233b/#5.5) <span class="fac">[5\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/5.webp)</span> {#ts-233b-55}
 
@@ -1586,7 +1622,11 @@ They do not form an image of it and recognize it from case to case.
 
 ### [Ts-233b](/ts-233b/#6.3) <span class="fac">[6\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6.webp)</span> {#ts-233b-63}
 
-<span class="series-number">392</span> I want (actually) to say that the mental scruples begin in instinct (have their roots there). Or also like this: the language-game does not originate in _reflection_. Reflection is part of the language-game. And the concept is therefore at home in the language-game. ‘Sand heap’ is a vaguely defined concept – – but why doesn’t one use a sharply defined one instead? – Does the reason lie in the nature of the heaps? What phenomenon is it whose nature determines our concept?
+<span class="series-number">391</span> I want (actually) to say that the mental scruples originate in instinct (have their roots there). Or also: the language-game does not originate in _reflection._ Reflection is part of the language-game. And the concept is therefore at home in the language-game.
+
+### [Ts-233b](/ts-233b/#6.3.2) <span class="fac">[6\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6.webp)</span> {#ts-233b-632}
+
+<span class="series-number">392</span> ‘A heap of sand’ is a term with an imprecise boundary – but why doesn’t one use a term with a precise boundary instead? – Is the reason to be found in the nature of heaps? What phenomenon is it whose nature determines our concept?
 
 ### [Ts-233b](/ts-233b/#6.4) <span class="fac">[6\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6.webp)</span> {#ts-233b-64}
 
@@ -1638,7 +1678,11 @@ They do not form an image of it and recognize it from case to case.
 
 ### [Ts-233b](/ts-233b/#8.5) <span class="fac">[8\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/8.webp)</span> {#ts-233b-85}
 
-<span class="series-number">406</span> No one except a philosopher would say, “I know that I have two hands”; but one can say: “I am not in a position to doubt that I have two hands.” But “knowledge” is not usually used in this sense. “I know how much 97 × 78 is.” “I know that 97 × 78 is 432.” In the first case, I tell someone that I can possess something; in the second, I simply assert that 97 × 78 is 432. Does “97 × 78 is definitely 432!” not mean, _I know_ it is so? The first sentence is not an arithmetical one, nor can an arithmetical sentence replace it; instead of the second, one could use an arithmetical sentence.
+<span class="series-number">405</span> No one but a philosopher would say “I know that I have two hands”; but one can say: I am not in a position to doubt that I have two hands.
+
+### [Ts-233b](/ts-233b/#8.5.2) <span class="fac">[8\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/8.webp)</span> {#ts-233b-852}
+
+<span class="series-number">406</span> “Knowledge,” however, is not usually used in this sense. “I know how much 97 × 78 is.” “I know that 97 × 78 is 432.” In the first case, I tell someone that I can do something, that I possess something; in the second, I simply assert that 97 × 78 is 432. Doesn’t the sentence “97 × 78 is definitely 432!” not mean, _I know_ that it is so? The first sentence is not an arithmetical one, nor can an arithmetical sentence replace it; in place of the second, one could use an arithmetical sentence.
 
 ### [Ts-233b](/ts-233b/#8.6) <span class="fac">[8\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/8.webp)</span> {#ts-233b-86}
 
@@ -1672,13 +1716,17 @@ They do not form an image of it and recognize it from case to case.
 
 <span class="series-number">414</span> But the idealist will still teach the children the word “chair,” because he wants to teach them to do certain things, e.g., to fetch a chair. Where, then, will what the idealistically raised children say differ from what the realistically raised children say? Will the difference not just be that of battle cries?
 
+### [Ts-233b](/ts-233b/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-103}
+
+<span class="series-number">415</span> Doesn’t the “game” of “that is probably a…” begin with disappointment? And could the initial attitude be one of potential disappointment?
+
 ### [Ts-233b](/ts-233b/#10.4) <span class="fac">[10\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-104}
 
 <span class="series-number">416</span> “So, must one first teach him a false sense of certainty?” In their language-game, it is not yet a question of certainty or uncertainty. Remember, they are learning to _do_ something.
 
-### [Ts-233b](/ts-233b/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-103}
+### [Ts-233b](/ts-233b/#10.3.2) <span class="fac">[10\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-1032}
 
-<span class="series-number">417</span> Doesn’t the language-game “This is probably a…” begin with disappointment? And could the initial attitude be one of possible disappointment? The language-game “What is that?” – “A chair.” – is not the same as: “What do you think that is?” – “It is probably a chair.”
+<span class="series-number">417</span> The language-game “What is that?” – “A chair.” – is not the same as: “What do you think that is?” – “It is probably a chair.”
 
 ### [Ts-233b](/ts-233b/#10.5) <span class="fac">[10\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-105}
 
@@ -1766,9 +1814,17 @@ They do not form an image of it and recognize it from case to case.
 
 ### [Ts-233b](/ts-233b/#14.4+15.1) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span> {#ts-233b-144151}
 
-<span class="series-number">441</span> Sufficient evidence gradually fades into insufficient evidence, without any definite boundaries. Should I say that the natural basis of this process of concept formation is the complex nature and diversity of human cases? Then, with a much smaller diversity, a sharply defined concept formation would seem natural. And why does it seem so difficult to imagine the simplified case? How would one think of a complete set of rules for the use of a word? – What does one mean by a complete set of rules for the use of a piece in a game of chess? Could we not always construct cases of doubt in which the normal set of rules does not provide a solution? Consider the question: how is it possible to determine who made the last move if the reliability of the players’ memories is in doubt? The traffic regulations on the roads allow and prohibit certain actions by drivers and pedestrians; but they do not attempt to regulate all of their movements by means of rules. And it would be senseless to speak of an ‘ideal’ set of traffic regulations that would do so; we would not even know what to think of under this ideal. If someone wants to make the traffic regulations stricter in some respects, this does not mean that he wants to bring them closer to such an ideal. Consider also this sentence: “The rules of a game may allow for a certain degree of freedom, but they must _still_ be quite specific.” This is as if one said, “One can allow a person a certain freedom of movement within four walls, but the walls must be completely rigid” – and that is not true. “Now the walls may be elastic, but then they have a quite specific elasticity.” – What does this actually say? It seems to say that one must be able to specify this elasticity, but that is not true either.
+<span class="series-number">439</span> Sufficient evidence gradually fades into insufficient evidence, without having definite boundaries. Should I say that the complicated essence and diversity of human cases form a natural basis for this conceptualization? Thus, with a much smaller diversity, a sharply defined conceptualization would naturally seem possible. And why does it seem so difficult to imagine the simplified case?
 
-“The wall always has _a specific_ elasticity – whether I know it or not”: this is actually a confession of a form of expression. A confession to the _form_ of an ideal of accuracy. As if it were a parameter of the representation.
+### [Ts-233b](/ts-233b/#14.4+15.1.2) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span> {#ts-233b-1441512}
+
+<span class="series-number">440</span> How would one imagine a complete catalog of rules for the use of a word? – What does one understand by a complete catalog of rules for the use of a figure in a game of chess? Couldn't one always construct cases of doubt in which the normal catalog of rules does not decide? Consider a question of this sort: how is it possible to determine who made the last move if the reliability of the players' memories is doubted? The traffic regulations in the streets permit and prohibit certain actions of drivers and pedestrians; but they do not attempt to guide all their movements through regulations. And it would be senseless to speak of an ‘ideal’ traffic code that would do this; we would not even know what to imagine under this ideal. If someone wishes to make the traffic code stricter in certain respects, that does not mean that he wishes to bring it closer to such an ideal.
+
+### [Ts-233b](/ts-233b/#14.4+15.1.3) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span> {#ts-233b-1441513}
+
+<span class="series-number">441</span> Consider this sentence as well: “The rules of a game can probably allow for a certain degree of freedom, but they must _nevertheless_ be quite specific rules.” This is like saying “One can allow a person a certain degree of freedom of movement by means of four walls, but the walls must be completely rigid” – and that is not true. “Now, the walls can probably be elastic, but then they have a very specific elasticity.” – What does that really say? It seems to say that one must be able to specify this elasticity, but that is not true either.
+
+“The wall always has _a specific_ elasticity – whether one knows it or not”: this is essentially an acknowledgement of a form of expression. Of those who make use of the _form_ of an ideal of precision, as if it were a parameter of representation.
 
 ### [Ts-233b](/ts-233b/#16.1) <span class="fac">[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/16.webp)</span> {#ts-233b-161}
 
@@ -1824,7 +1880,11 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/19.webp)</span> {#ts-233b-193}
 
-<span class="series-number">455</span> Plato: “–How? he said, shouldn’t it be useful? For if prudence is indeed the knowledge of knowledge and takes precedence over other forms of knowledge, then it must also take precedence over this form of knowledge related to the good and thus be useful to us. – Does it also make us healthy, he said, or is it the art of healing that does? And so with the other arts; does it perform the tasks of these arts, or rather does each of them perform its own? Or have we not long since agreed that it is only the knowledge of knowledge and ignorance? – Indeed, probably. – So it will not make us healthy? – Probably not. – Because health belongs to another art? – Yes. – So it will not bring us any benefit either. For we have now assigned this task to another art. – Indeed. – How, then, can prudence be useful if it brings us no benefit at all?” (The philosopher is not a citizen of a community of thinkers. That is what makes him a philosopher.)
+<span class="series-number">454</span> Plato: “–How? he said, is it not useful? For if prudence is indeed the knowledge of knowledge, & is superior to other forms of knowledge, then it must also be superior to this knowledge which is concerned with the good, & must therefore be useful to us. –Does it not also make us healthy, & not medicine? And so with the other arts; does it not perform their functions, & not rather each of them its own? Or have we not long since agreed that it is only the knowledge of knowledge & ignorance, & not of any other matter? –Certainly. –Then it will not make us healthy? –No. –Because health belongs to another art? –Yes. –Therefore, it will not bring us any benefit, my friend. For this task has now been assigned to another art. –Of course. –How, then, can prudence be useful, if it brings us no benefit at all?”
+
+### [Ts-233b](/ts-233b/#19.3.2) <span class="fac">[19\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/19.webp)</span> {#ts-233b-1932}
+
+<span class="series-number">455</span> (The philosopher is not a member of a community of thought. That is what makes him a philosopher.)
 
 ### [Ts-233b](/ts-233b/#19.4) <span class="fac">[19\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/19.webp)</span> {#ts-233b-194}
 
@@ -1838,7 +1898,15 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#20.2) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-202}
 
-<span class="series-number">460</span> The essence of metaphysics: that it blurs the distinction between factual and conceptual investigations. The fundamental point expressed grammatically: What is the meaning of the sentence “one cannot step twice into the same river”? One cannot be too careful with philosophical errors, they contain so much truth. “But such disappointments tend to stimulate the powers of thought. How does a thought help one to overcome a disappointment?
+<span class="series-number">458</span> The essence of metaphysics: that it blurs the distinction between factual & conceptual investigations.
+
+### [Ts-233b](/ts-233b/#20.2.2) <span class="fac">[20\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-2022}
+
+<span class="series-number">459</span> The fundamental expressed grammatically: What about the sentence “one cannot step into the same river twice”?
+
+### [Ts-233b](/ts-233b/#20.2.3) <span class="fac">[20\[2\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-2023}
+
+<span class="series-number">460</span> One can, in a certain sense, never be cautious enough in dealing with philosophical errors; they contain so much truth. “However, such annoyances tend to stimulate the powers of thought. How does a thought help one overcome an annoyance?”
 
 ### [Ts-233b](/ts-233b/#20.3) <span class="fac">[20\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-203}
 
@@ -1860,7 +1928,11 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#20.6) <span class="fac">[20\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-206}
 
-<span class="series-number">466</span> The treatment of all these phenomena of mental life is not important to me because I am concerned with completeness. But because each one sheds light on the correct treatment of _all_ of them. And it is not about symptoms here, but about logical criteria. The fact that these are not always sharply separated does not prevent them from being separated.
+<span class="series-number">465</span> It is not because I am concerned with completeness that the treatment of all these phenomena of mental life is important to me. Rather, it is because each of them sheds light on the correct treatment of _all_ of them.
+
+### [Ts-233b](/ts-233b/#20.6.2) <span class="fac">[20\[6\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-2062}
+
+<span class="series-number">466</span> And it is not about symptoms here, but about logical criteria. The fact that these are not always sharply separated does not prevent them from being separated.
 
 ### [Ts-233b](/ts-233b/#21.1) <span class="fac">[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/21.webp)</span> {#ts-233b-211}
 
@@ -1956,7 +2028,11 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#25.3) <span class="fac">[25\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-253}
 
-<span class="series-number">491</span> One could also call the human face such a picture and represent the _course_ of the passion through its changes. In contrast to sensations: they do not teach us about the external world. (Grammatical remark.) Love and hate could be called emotional dispositions: also fear in a certain sense.
+<span class="series-number">490</span> One could also call the human face such a _picture_ & represent the _course_ of passion through its changes.
+
+### [Ts-233b](/ts-233b/#25.3.2) <span class="fac">[25\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-2532}
+
+<span class="series-number">491</span> Unlike sensations: they do not instruct us about the external world. (A grammatical observation.) One might call love & hate dispositions of the mind: also fear, in a certain sense.
 
 ### [Ts-233b](/ts-233b/#25.4) <span class="fac">[25\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-254}
 
@@ -1964,7 +2040,11 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#25.5) <span class="fac">[25\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-255}
 
-<span class="series-number">494</span> There are frightening thoughts, hopeful, joyful, angry, etc. Emotions are expressed in thoughts. One speaks angrily, fearfully, sadly, joyfully, etc.; not cross-painfully. A thought evokes in me emotions of fear, sadness, etc., not bodily pain.
+<span class="series-number">493</span> There are terrible thoughts, hopeful ones, joyful ones, angry ones, etc.
+
+### [Ts-233b](/ts-233b/#25.5.2) <span class="fac">[25\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-2552}
+
+<span class="series-number">494</span> Emotions are expressed in thoughts. One speaks angrily, fearfully, sadly, joyfully, etc.; not with physical pain. A thought instills in one emotions of fear, sadness, etc., not bodily pain.
 
 ### [Ts-233b](/ts-233b/#25.6) <span class="fac">[25\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-256}
 
@@ -2028,7 +2108,11 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#28.2) <span class="fac">[28\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span> {#ts-233b-282}
 
-<span class="series-number">511</span> But the thought here is: “You _feel_ the sorrow – so you must feel it _somewhere_; otherwise, it would be a chimera.” But if you want to think that, recall the difference between seeing & pain. I feel the pain in my hand – & the color in my eye? Just as we want to use a schema here, instead of simply noting what is really in common, we see everything in a falsely simplified way. If one wanted to find an analogy to the location of pain, it would, of course, not be the mind (just as the location of bodily pain is not the body), but the _object_ of remorse.
+<span class="series-number">510</span> But the thought here is: “You _feel_ the grief – so you must feel it _somewhere_; otherwise it would be a chimera.” But if you want to think that, recall the difference between seeing & pain. I feel the pain in my hand – & the color in my eye? Just as we want to use a scheme here instead of simply noting what is actually in common, we see everything in a falsely simplified way.
+
+### [Ts-233b](/ts-233b/#28.2.2) <span class="fac">[28\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span> {#ts-233b-2822}
+
+<span class="series-number">511</span> If one were to look for an analogy to the location of pain, it would naturally not be the mind (just as the location of physical pain is not the body), but rather the _object_ of remorse.
 
 ### [Ts-233b](/ts-233b/#28.3) <span class="fac">[28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span> {#ts-233b-283}
 
@@ -2112,7 +2196,11 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#32b.1) <span class="fac">[32b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/32b.webp)</span> {#ts-233b-32b1}
 
-<span class="series-number">533</span> The concept of pain is characterized by a certain function in our life. Pain lies _like this_ in our life, has _such_ connections. (That is, only what lies _like this_ in life, has _such_ connections, do we call “pain.”)
+<span class="series-number">532</span> The concept of pain is characterized by a specific function in our lives.
+
+### [Ts-233b](/ts-233b/#32b.1.2) <span class="fac">[32b\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/32b.webp)</span> {#ts-233b-32b12}
+
+<span class="series-number">533</span> Pain is present _in this way_ in our lives; it has _these_ connections. (That is, we call “pain” only what is present _in this way_ in life and has _these_ connections.)
 
 ### [Ts-233b](/ts-233b/#32.3) <span class="fac">[32\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/32.webp)</span> {#ts-233b-323}
 
@@ -2328,7 +2416,11 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#40.3) <span class="fac">[40\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-403}
 
-<span class="series-number">586</span> The experience: learning to know new experiences. For example, when writing. When does one say that one has learned to know a new experience? How is such a sentence used? Writing is certainly a voluntary movement, and yet it is automatic. That is, one feels something, but could not possibly break down the feeling. The hand writes; it does not write because one wills it, but one wills what it writes. One does not watch it write with astonishment or interest; one does not think, “What will it write now.” But not because one wishes it to write that. For the fact that it writes what I wish could make me even more astonished.
+<span class="series-number">585</span> Experience: to learn to know new experiences. For example, when writing. When does one say that one has learned to know a new experience? How is such a sentence used?
+
+### [Ts-233b](/ts-233b/#40.3.2) <span class="fac">[40\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-4032}
+
+<span class="series-number">586</span> Writing is certainly an arbitrary movement, and yet an automatic one. That is to say, one feels something, but one could not possibly dissect the feeling. The hand writes; it does not write because one wills it, but one wills what it writes. One does not look at it in amazement or with interest as it writes; one does not think, “What will it now write?” But not because one wishes that it should write that. For the fact that it writes what I wish could all the more put me in amazement.
 
 ### [Ts-233b](/ts-233b/#40.4) <span class="fac">[40\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-404}
 
@@ -2444,7 +2536,15 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#46.4) <span class="fac">[46\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span> {#ts-233b-464}
 
-<span class="series-number">617</span> (I have never read a remark about the fact that, if one closes one eye and “sees with only one eye,” one does not simultaneously see the darkness (blackness) with the closed eye.) The limitlessness of the visual field is most evident when we see nothing, in complete darkness. What about the blind; can a part of _language_ not be explained to him? Or rather, not _described_ to him?
+<span class="series-number">615</span> (I have never read an observation about the fact that if one closes one eye & “sees only with one eye”, one does not see the darkness (blackness) at the same time with the closed eye.)
+
+### [Ts-233b](/ts-233b/#46.4.2) <span class="fac">[46\[4\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span> {#ts-233b-4642}
+
+<span class="series-number">616</span> The boundlessness of the field of vision is most evident when we see nothing, in complete darkness.
+
+### [Ts-233b](/ts-233b/#46.4.3) <span class="fac">[46\[4\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span> {#ts-233b-4643}
+
+<span class="series-number">617</span> How is it with the blind; can a part of _language_ not be explained to him? Or rather, not be _described_ to him?
 
 ### [Ts-233b](/ts-233b/#47.1) <span class="fac">[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/47.webp)</span> {#ts-233b-471}
 
@@ -2456,7 +2556,11 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#47.3+48.1) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/47.webp),[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-473481}
 
-<span class="series-number">621</span> You give someone a signal when you imagine something; you use different signals for different images. – How do you agree on what each signal should mean? Auditory image, visual image, how do they differ from sensations? Not by “vividness.” Images do not inform us about the external world, neither correctly nor incorrectly. (Images are not hallucinations, nor are they delusions.) While I see an object, I cannot imagine it. Difference of language-games: “Look at the figure!” and “Imagine the figure!” Imagination is subject to the will. Imagination is not a picture. I do not derive what object I imagine from the similarity of the mental image with it. To the question “What are you imagining?” one can answer with a picture.
+<span class="series-number">620</span> One gives someone a signal when one imagines something; one uses different signals for different images. – How do you agree on what each signal is supposed to mean?
+
+### [Ts-233b](/ts-233b/#47.3+48.1.2) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/47.webp),[48\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-4734812}
+
+<span class="series-number">621</span> Auditory image, visual image – how do they differ from sensations? Not through “vividness.” Images do not instruct us about the external world, neither correctly nor incorrectly. (Images are not hallucinations, nor are they delusions.) While I am seeing an object, I cannot imagine it. Difference of language-games: “Look at the figure!” & “Imagine the figure!” Image subject to the will. Image is not a picture. Which object I imagine, I do not determine from the similarity of the mental image with it. To the question “What are you imagining?” one can answer with a picture.
 
 ### [Ts-233b](/ts-233b/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-482}
 
@@ -2496,7 +2600,11 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#49.2) <span class="fac">[49\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/49.webp)</span> {#ts-233b-492}
 
-<span class="series-number">631</span> Tell yourself again, if someone insists that what he calls “visual image” is similar to the visual impression: that he might be _wrong_! Or: How, if he were wrong in that? That is: What do you know about the similarity of his visual impression and his visual image?! (I am talking about the other, because what applies to him also applies to me.) So what do you know about this similarity? It is expressed only in the expressions that he is inclined to use; not in what he says with these expressions. “There is absolutely no doubt: the visual image and the visual impression are of the same kind!” You must know this from your own experience; and then it is something that may be true for you and not for others. (And this, of course, also applies to me, if _I_ say it.)
+<span class="series-number">630</span> Tell yourself again that if someone insists that what he calls a “visual image” is similar to a visual impression: that he might be _mistaken_! Or: what if he is mistaken in this? That is to say: what do you know about the similarity between his visual impression & his visual image?! (I am talking about the other one because what applies to him also applies to me.) So, what do you know about this similarity? It manifests itself only in the expressions that he is inclined to use; not in what he says with these expressions.
+
+### [Ts-233b](/ts-233b/#49.2.2) <span class="fac">[49\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/49.webp)</span> {#ts-233b-4922}
+
+<span class="series-number">631</span> “There is absolutely no doubt: the visual image & the visual impression are of the same kind!” One must know this from one’s own experience; & then it is something that may be true for oneself & not for others. (And this naturally also applies to me, if _I_ say it.)
 
 ### [Ts-233b](/ts-233b/#49.3) <span class="fac">[49\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/49.webp)</span> {#ts-233b-493}
 
@@ -2540,7 +2648,11 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#51.2) <span class="fac">[51\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/51.webp)</span> {#ts-233b-512}
 
-<span class="series-number">643</span> So, if one were to say: “Images are inner pictures, similar to, or exactly like, my visual sensations, except that they are subject only to my will” – then, for the time being, that would still not make sense. For if someone has learned to report what he sees there, or what _appears_ to him to be there, it is still not clear what the command would mean if he were now to see _that_ there, or if _that_ were now to appear to him to be there. “To move by sheer will” – what does that mean? Does it mean that the mental images always follow my will exactly, whereas my drawing hand, my pencil, does not? At any rate, it would then be possible to say: “Usually, I imagine quite exactly what I want; today, it turned out differently.” Is there such a thing as a ‘failure of imagination’?
+<span class="series-number">642</span> So, one might say: “Images are internal pictures, similar to, or exactly like, my visual sensations, and subject only to my will” – but this would not yet make sense. For if one has learned to report what one sees there, or what _seems_ to be the case there, then it is not clear what the command means, that one should now see _that_ there, or that _that_ should now seem to be the case there.
+
+### [Ts-233b](/ts-233b/#51.2.2) <span class="fac">[51\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/51.webp)</span> {#ts-233b-5122}
+
+<span class="series-number">643</span> “To move [something] merely through will”—what does that mean? Does it mean that mental images always precisely follow my will, while my drawing hand, my pencil, does not? After all, it would still be possible to say: “Usually, I have a very clear mental image of what I want; today, it turned out differently.” Is there such a thing as a ‘failure of the mental image’?
 
 ### [Ts-233b](/ts-233b/#51.3) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/51.webp)</span> {#ts-233b-513}
 
@@ -2778,7 +2890,19 @@ Someone observing them would find it difficult to guess what they are doing. And
 
 ### [Ts-233b](/ts-233b/#62.3+63.1) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-623631}
 
-<span class="series-number">703</span> Why do we count? Has it proven to be practical? Do we have our concepts, e.g., the psychological ones, because it is advantageous? – And yet we have _certain_ concepts precisely for this reason; we have introduced them for this reason. By the way, the difference between what one calls sentences of mathematics and sentences of experience becomes apparent when one considers whether it makes sense to say: “I wish 2 × 2 were 5!” If one considers that the equation 2 + 2 = 4 is a proof of the proposition “there are even numbers,” one sees how loosely the word “proof” is used here. The equation 2 + 2 = 4 is supposed to yield the proposition “there are even numbers”? – And what is the proof of the existence of prime numbers? – The method of decomposition into prime factors. But in this method, _no talking_ takes place at all, not even about “prime numbers.” “In order to understand the arithmetic of elementary school, the children would have to be significant philosophers; failing that, they need practice.” When we read an explanation, for example, of logical consequence, we stick to what he writes. We stick to the words; to the signs.
+<span class="series-number">700</span> Why do we count? Has it proven to be practical? Do we have our concepts, e.g., the psychological ones, because it is advantageous? – And yet we have _certain_ concepts precisely for that reason; we have introduced them for that reason.
+
+### [Ts-233b](/ts-233b/#62.3+63.1.2) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-6236312}
+
+<span class="series-number">701</span> By the way, the difference between what one calls sentences of mathematics & sentences about experience becomes apparent when one considers whether it makes sense to say: “I wish that 2 × 2 were 5!”
+
+### [Ts-233b](/ts-233b/#62.3+63.1.3) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-6236313}
+
+<span class="series-number">702</span> If one considers that the equation 2 + 2 = 4 is a proof of the sentence “there are even numbers”, then one can see how loosely the word “proof” is used here. Is the sentence “there are even numbers” supposed to follow from the equation 2 + 2 = 4?! – And what is the proof of the existence of prime numbers? – The method of decomposition into prime factors. But in this method, nothing is said at all, not even about “prime numbers”.
+
+### [Ts-233b](/ts-233b/#62.3+63.1.4) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\].4](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-6236314}
+
+<span class="series-number">703</span> “For children to understand the arithmetic of elementary school, they would have to be significant philosophers; lacking that, they need practice.” When we read an explanation, for instance, of logical consequence, we adhere to what he writes. We adhere to the words; to the signs.
 
 ### [Ts-233b](/ts-233b/#63.2) <span class="fac">[63\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-632}
 
@@ -2806,7 +2930,11 @@ Someone observing them would find it difficult to guess what they are doing. And
 
 ### [Ts-233b](/ts-233b/#63.8+64.1) <span class="fac">[63\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp),[64\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span> {#ts-233b-638641}
 
-<span class="series-number">711</span> One can regard calculation as ornament. A figure in a plane can fit with another or not, and can be combined with others in various ways. If the figure is also colored, then there is also a fitting in relation to the color. (Color is just another dimension.) There is a way of looking at electrical machines and apparatus (dynamos, radio stations, etc., etc.) that, as it were, regards these objects without any preconceived understanding as a distribution of copper, iron, rubber, etc., in space. And this way of looking could lead to many interesting results. It is quite analogous to a mathematical sentence being regarded as ornament. – It is, of course, a perfectly strict and correct view; and what is characteristic and difficult about it is that it regards the object without any preconceived idea (as it were, from a Martian point of view), or perhaps more correctly: destroys (crosses out) the normal preconceived idea, explanation.
+<span class="series-number">710</span> One can regard the calculation as an ornament. A figure in the plane can fit with another, or it may not; it can be combined with others in various ways. If the figure is also colored, then there is also a fitting in relation to the color. (Color is just another dimension.)
+
+### [Ts-233b](/ts-233b/#63.8+64.1.2) <span class="fac">[63\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp),[64\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span> {#ts-233b-6386412}
+
+<span class="series-number">711</span> There is a way of looking at electrical machines and devices (dynamos, radio stations, etc.) that, as it were, considers these objects as a distribution of copper, iron, rubber, etc., in space, without any preconceived understanding. And this way of looking at things could lead to some interesting results. It is quite analogous to considering a mathematical sentence as an ornament. – It is, of course, a perfectly rigorous and correct view; and what is characteristic and difficult about it is that it considers the object without any preconceived idea (as it were, from a Martian point of view), or perhaps more accurately: it destroys (crosses out) the normal preconceived idea, explanation.
 
 ### [Ts-233b](/ts-233b/#64.2) <span class="fac">[64\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span> {#ts-233b-642}
 

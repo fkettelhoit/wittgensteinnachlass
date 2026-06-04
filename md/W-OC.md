@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1949–1951, 689 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
+<summary>1949–1951, 691 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
 
 <img class="viz" src="/viz/W-OC.svg">
 
@@ -330,7 +330,11 @@ Denn sie ist das, was wir erlernen, wenn das Wort zuerst in unsrer Sprache einve
 
 ### [Ms-174](/ms-174/#16v.3) <span class="fac">[16v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/16v.webp)</span> {#ms-174-16v3}
 
-<span class="series-number">78</span> Ich werde eine Multiplikation zur Sicherheit vielleicht zweimal rechnen, vielleicht sie von einem Andern nachrechnen lassen. Aber werde ich sie zwanzigmal nachrechnen, oder sie von zwanzig Leuten nachrechnen lassen? Und ist _das_ eine gewisse Fahrlässigkeit? Wäre die Sicherheit bei zwanzigfacher Nachprüfung wirklich größer?! Und kann ich dafür einen _Grund_ angeben, daß sie's nicht ist?
+<span class="series-number">77</span> Ich werde eine Multiplikation zur Sicherheit vielleicht zweimal rechnen, vielleicht sie von einem Andern nachrechnen lassen. Aber werde ich sie zwanzigmal nachrechnen, oder sie von zwanzig Leuten nachrechnen lassen? Und ist _das_ eine gewisse Fahrlässigkeit? Wäre die Sicherheit bei zwanzigfacher Nachprüfung wirklich größer?!
+
+### [Ms-174](/ms-174/#16v.3.2) <span class="fac">[16v\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/16v.webp)</span> {#ms-174-16v32}
+
+<span class="series-number">78</span> Und kann ich dafür einen _Grund_ angeben, daß sie's nicht ist?
 
 ### [Ms-174](/ms-174/#17r.1) <span class="fac">[17r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/17r.webp)</span> {#ms-174-17r1}
 
@@ -800,7 +804,11 @@ Ich will sagen: Daß ich nicht auf dem Mond gewesen bin, steht für mich _ebenso
 
 ### [Ms-175](/ms-175/#1r.2+1r.3+1v.1) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1v.webp)</span> {#ms-175-1r21r31v1}
 
-<span class="series-number">195</span> Mit dem Wort “gewiß” drücken wir die vollkommene Überzeugung, die Abwesenheit jedes Zweifels aus, & wir suchen damit den Andern zu überzeugen. Das ist _subjektive_ Gewißheit. Wann aber ist etwas objektiv gewiß? – Wenn ein Irrtum nicht möglich ist. Aber was für eine Möglichkeit ist das. Muß der Irrtum nicht _logisch_ ausgeschlossen sein? Wenn ich glaube, in meinem Zimmer zu sitzen & es ist nicht so, dann wird man nicht sagen, ich habe mich _geirrt_: Aber was ist der wesentliche Unterschied eines Irrtums von diesem Fall?
+<span class="series-number">194</span> Mit dem Wort “gewiß” drücken wir die vollkommene Überzeugung, die Abwesenheit jedes Zweifels aus, & wir suchen damit den Andern zu überzeugen. Das ist _subjektive_ Gewißheit. Wann aber ist etwas objektiv gewiß? – Wenn ein Irrtum nicht möglich ist. Aber was für eine Möglichkeit ist das. Muß der Irrtum nicht _logisch_ ausgeschlossen sein?
+
+### [Ms-175](/ms-175/#1r.2+1r.3+1v.1.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1v\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1v.webp)</span> {#ms-175-1r21r31v12}
+
+<span class="series-number">195</span> Wenn ich glaube, in meinem Zimmer zu sitzen & es ist nicht so, dann wird man nicht sagen, ich habe mich _geirrt_: Aber was ist der wesentliche Unterschied eines Irrtums von diesem Fall?
 
 ### [Ms-175](/ms-175/#1v.3+2r.1) <span class="fac">[1v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1v.webp),[2r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/2r.webp)</span> {#ms-175-1v32r1}
 

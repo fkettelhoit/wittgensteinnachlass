@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1949–1951, 689 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
+<summary>1949–1951, 691 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
 
 <img class="viz" src="/viz/W-OC.svg">
 
@@ -328,7 +328,11 @@ For it is what we learn when the word is first incorporated into our language.
 
 ### [Ms-174](/ms-174/#16v.3) <span class="fac">[16v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/16v.webp)</span> {#ms-174-16v3}
 
-<span class="series-number">78</span> I will perhaps calculate a multiplication twice for certainty, perhaps have it recalculated by another. But will I recalculate it twenty times, or have it recalculated by twenty people? And is _that_ a certain carelessness? Would the certainty really be greater with twentyfold re-examination?! And can I give a _reason_ that it is not?
+<span class="series-number">77</span> I might calculate a multiplication twice, just to be sure, or have someone else check it. But would I check it twenty times, or have twenty people check it? And is _that_ a certain kind of carelessness? Would the certainty really be greater with twentyfold verification?!
+
+### [Ms-174](/ms-174/#16v.3.2) <span class="fac">[16v\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/16v.webp)</span> {#ms-174-16v32}
+
+<span class="series-number">78</span> And can I give a _reason_ for why it isn’t?
 
 ### [Ms-174](/ms-174/#17r.1) <span class="fac">[17r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/17r.webp)</span> {#ms-174-17r1}
 
@@ -798,7 +802,11 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-175](/ms-175/#1r.2+1r.3+1v.1) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1v.webp)</span> {#ms-175-1r21r31v1}
 
-<span class="series-number">195</span> With the word “certain,” we express complete conviction, the absence of all doubt, and we seek to convince others. This is _subjective_ certainty. But when is something objectively certain? – When error is impossible. But what kind of possibility is that? Must error not be _logically_ excluded? If I believe I am sitting in my room and it is not the case, then one would not say that I have _made a mistake_: But what is the essential difference between an error and this case?
+<span class="series-number">194</span> With the word “certain,” we express complete conviction, the absence of all doubt, & we use it to convince others. That is _subjective_ certainty. But when is something objectively certain? – When error is impossible. But what kind of possibility is that? Must not error be _logically_ excluded?
+
+### [Ms-175](/ms-175/#1r.2+1r.3+1v.1.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1r.webp),[1v\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1v.webp)</span> {#ms-175-1r21r31v12}
+
+<span class="series-number">195</span> If I believe I am sitting in my room & it is not the case, then one would not say that I was _mistaken_: But what is the essential difference between a mistake & this case?
 
 ### [Ms-175](/ms-175/#1v.3+2r.1) <span class="fac">[1v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/1v.webp),[2r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/2r.webp)</span> {#ms-175-1v32r1}
 

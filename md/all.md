@@ -2,15 +2,15 @@
 
 ### [On Certainty](W-OC.md)
 
-- 1949–1951, 689 remarks
+- 1949–1951, 691 remarks
 
 ### [Last Writings on the Philosophy of Psychology](W-LW.md)
 
-- 1948–1951, 1592 remarks
+- 1948–1951, 1597 remarks
 
 ### [Remarks on Colour](W-ROC.md)
 
-- 1950, 453 remarks
+- 1950, 459 remarks
 
 ### [Philosophy of Psychology – A Fragment](W-PPF.md)
 
@@ -18,7 +18,7 @@
 
 ### [Zettel](W-Z.md)
 
-- 1930–1948, 691 remarks
+- 1930–1948, 725 remarks
 
 ### [Remarks on the Philosophy of Psychology](W-RPP.md)
 
@@ -45,14 +45,14 @@
 
 ### [Ms-176](Ms-176.md)
 
-- 318 remarks, so-called Notebook no.6.1; 1950-51
+- 319 remarks, so-called Notebook no.6.1; 1950-51
 - published in 'On Certainty'
 - published in 'Remarks on Colour', Part I
 - published in 'Last Writings on the Philosophy of Psychology' vol. 2
 
 ### [Ms-175](Ms-175.md)
 
-- 247 remarks, so-called Notebook no.1; 1950-51
+- 248 remarks, so-called Notebook no.1; 1950-51
 - published in 'On Certainty'
 
 ## 1950
@@ -64,13 +64,13 @@
 
 ### [Ms-173](Ms-173.md)
 
-- 420 remarks, so-called Notebook no.5, source for Ms-176; 1950
+- 425 remarks, so-called Notebook no.5, source for Ms-176; 1950
 - published in 'Remarks on Colour', Part III
 - published in 'Last Writings on the Philosophy of Psychology' vol. 2
 
 ### [Ms-174](Ms-174.md)
 
-- 196 remarks, so-called Notebook no.7; 1950
+- 197 remarks, so-called Notebook no.7; 1950
 - published in 'On Certainty'
 - published in 'Last Writings on the Philosophy of Psychology' vol. 2
 
@@ -94,7 +94,7 @@
 
 ### [Ms-144](Ms-144.md)
 
-- 390 remarks, manuscript version of earlier so-called Part II of the Investigations; 1949
+- 391 remarks, manuscript version of earlier so-called Part II of the Investigations; 1949
 - published in 'Philosophy of Psychology – A Fragment'
 
 ### [Ms-138](Ms-138.md)
@@ -113,7 +113,7 @@
 
 ### [Ms-137](Ms-137.md)
 
-- 1438 remarks, 'R'; 1948-49
+- 1443 remarks, 'R'; 1948-49
 - published in parts in 'Last Writings on the Philosophy of Psychology' vol. 1
 
 ## 1948
@@ -124,12 +124,12 @@
 
 ### [Ts-233a](Ts-233a.md)
 
-- 358 remarks, so-called Zettel I; 1930-48
+- 366 remarks, so-called Zettel I; 1930-48
 - published in 'Zettel'
 
 ### [Ts-233b](Ts-233b.md)
 
-- 353 remarks, so-called Zettel II; 1930-48
+- 379 remarks, so-called Zettel II; 1930-48
 - published in 'Zettel'
 
 ### [Ts-232](Ts-232.md)
@@ -374,17 +374,17 @@
 
 ### [Ts-222](Ts-222.md)
 
-- 203 remarks, cuttings from Ts-221; 1938
+- 204 remarks, cuttings from Ts-221; 1938
 - published in 'Remarks on the Foundations of Mathematics', Part I and Part I App. 1
 
 ### [Ts-223](Ts-223.md)
 
-- 18 remarks, cuttings from Ts-221; 1938
+- 19 remarks, cuttings from Ts-221; 1938
 - published in parts in 'Remarks on the Foundations of Mathematics', Part I App. 3
 
 ### [Ts-224](Ts-224.md)
 
-- 14 remarks, cuttings from Ts-221; 1938
+- 15 remarks, cuttings from Ts-221; 1938
 - published in 'Remarks on the Foundations of Mathematics', Part I App. 2
 
 ### [Ts-226](Ts-226.md)

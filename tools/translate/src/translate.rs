@@ -288,17 +288,27 @@ fn verify_and_fix_doc(
         let en_content = fs::read_to_string(en_path).expect("Failed to read translated file");
         let (en_preamble, mut en_remarks) = parse_document(&en_content);
 
-        // Find remarks with issues
-        let mut broken: Vec<usize> = Vec::new();
-        for (i, (de, en)) in de_remarks.iter().zip(en_remarks.iter()).enumerate() {
+        // Build anchor→index map for English
+        let en_by_anchor: std::collections::HashMap<String, usize> = en_remarks
+            .iter()
+            .enumerate()
+            .map(|(i, r)| (anchor_from_doc_heading(&r.heading), i))
+            .collect();
+
+        // Find remarks with issues (matched by anchor)
+        let mut broken: Vec<(usize, usize)> = Vec::new(); // (de_idx, en_idx)
+        for (di, de) in de_remarks.iter().enumerate() {
             let rid = anchor_from_doc_heading(&de.heading);
             if should_skip_remark(skip_remarks, filename, &rid) {
                 continue;
             }
+            let Some(&ei) = en_by_anchor.get(&rid) else {
+                continue; // New remark not yet translated
+            };
             let mut issues = Vec::new();
-            verify::verify_remark(filename, i, &rid, de, en, &mut issues, emphasis_tolerance, ignore_words);
+            verify::verify_remark(filename, di, &rid, de, &en_remarks[ei], &mut issues, emphasis_tolerance, ignore_words);
             if !issues.is_empty() {
-                broken.push(i);
+                broken.push((di, ei));
             }
         }
 
@@ -312,12 +322,12 @@ fn verify_and_fix_doc(
         );
 
         let mut changed = false;
-        for &i in &broken {
-            let rid = anchor_from_doc_heading(&de_remarks[i].heading);
+        for &(di, ei) in &broken {
+            let rid = anchor_from_doc_heading(&de_remarks[di].heading);
             eprint!("    {}:{}...", filename, rid);
 
-            let (text_with_placeholders, math_blocks) = extract_math(&de_remarks[i].body);
-            let glossary_section = glossary.filter_for(&de_remarks[i].body);
+            let (text_with_placeholders, math_blocks) = extract_math(&de_remarks[di].body);
+            let glossary_section = glossary.filter_for(&de_remarks[di].body);
             let empty_context: Vec<String> = Vec::new();
 
             let new_body = translate_remark(
@@ -329,9 +339,9 @@ fn verify_and_fix_doc(
                 &empty_context,
                 &text_with_placeholders,
                 &math_blocks,
-                &de_remarks[i],
+                &de_remarks[di],
                 filename,
-                i,
+                di,
                 &rid,
                 verbose,
                 num_ctx,
@@ -339,9 +349,9 @@ fn verify_and_fix_doc(
                 ignore_words,
             );
 
-            if new_body != en_remarks[i].body {
-                en_remarks[i] = Remark {
-                    heading: en_remarks[i].heading.clone(),
+            if new_body != en_remarks[ei].body {
+                en_remarks[ei] = Remark {
+                    heading: en_remarks[ei].heading.clone(),
                     body: new_body,
                 };
                 changed = true;
@@ -553,42 +563,6 @@ pub fn run(args: &TranslateArgs) {
         (docs, Vec::new())
     };
 
-    // Pre-flight: assemble works whose source docs are all already translated
-    if !work_files.is_empty() {
-        let mut assembled = 0;
-        let url_map = build_remark_url_map(&args.output, &args.input);
-        for filename in &work_files {
-            let work_path = args.input.join(filename);
-            if !work_path.exists() {
-                continue;
-            }
-            let source_docs = work_source_docs(&work_path);
-            let all_translated = source_docs.iter().all(|doc| {
-                let path = args.output.join(doc);
-                path.exists() && path.extension().map_or(false, |e| e == "md")
-            });
-            if all_translated && !source_docs.is_empty() {
-                let out_path = args.output.join(filename);
-                let missing = assemble_work(&work_path, &url_map, &out_path);
-                assembled += 1;
-                if missing > 0 {
-                    eprintln!(
-                        "  Assembled {} ({} remarks missing translations)",
-                        filename, missing
-                    );
-                } else {
-                    eprintln!("  Assembled {}", filename);
-                }
-            }
-        }
-        if assembled > 0 {
-            eprintln!(
-                "Pre-assembled {} work(s) from existing translations.\n",
-                assembled
-            );
-        }
-    }
-
     // Phase 1: Verify+fix existing translations
     if args.no_verify {
         eprintln!("Skipping verification of existing translations (--no-verify).\n");
@@ -611,12 +585,20 @@ pub fn run(args: &TranslateArgs) {
             let en_content = fs::read_to_string(&en_path).expect("Failed to read English file");
             let (_, de_remarks) = parse_document(&de_content);
             let (_, en_remarks) = parse_document(&en_content);
+            // Build anchor→remark map for English to match by anchor, not index
+            let en_by_anchor: std::collections::HashMap<String, &Remark> = en_remarks
+                .iter()
+                .map(|r| (anchor_from_doc_heading(&r.heading), r))
+                .collect();
             let mut has_issues = false;
-            for (i, (de, en)) in de_remarks.iter().zip(en_remarks.iter()).enumerate() {
+            for (i, de) in de_remarks.iter().enumerate() {
                 let rid = anchor_from_doc_heading(&de.heading);
                 if should_skip_remark(&skip_remarks, filename, &rid) {
                     continue;
                 }
+                let Some(en) = en_by_anchor.get(&rid) else {
+                    continue; // New remark not yet translated, skip verification
+                };
                 let mut issues = Vec::new();
                 verify::verify_remark(filename, i, &rid, de, en, &mut issues, args.emphasis_tolerance, &ignore_words);
                 if !issues.is_empty() {
@@ -649,6 +631,7 @@ pub fn run(args: &TranslateArgs) {
     }
 
     // Detect and re-translate changed remarks in existing translations
+    let mut total_needs_llm: usize = 0;
     if !existing.is_empty() {
         // Find the repo root (parent of md/ and md-en/)
         let repo_dir = args.input.parent().unwrap_or(Path::new("."));
@@ -694,28 +677,40 @@ pub fn run(args: &TranslateArgs) {
                 fs::read_to_string(&en_path).expect("Failed to read English file");
             let (en_preamble, mut en_remarks) = parse_document(&en_content);
 
-            // Phase 1: auto-fix remarks where only non-word prefixes/suffixes changed
+            // Build anchor maps for old German and English
+            let old_de_by_anchor: std::collections::HashMap<String, &Remark> =
+                old_de_remarks.iter()
+                    .map(|r| (anchor_from_doc_heading(&r.heading), r))
+                    .collect();
+            let en_by_anchor: std::collections::HashMap<String, usize> =
+                en_remarks.iter().enumerate()
+                    .map(|(i, r)| (anchor_from_doc_heading(&r.heading), i))
+                    .collect();
+
+            // Phase 1: auto-fix and collect needs_llm, matched by anchor
             let mut file_changed = false;
-            let mut needs_llm: Vec<(usize, String)> = Vec::new();
-            for &(idx, ref anchor) in &changed {
-                if idx >= current_de_remarks.len() || idx >= en_remarks.len() {
+            let mut needs_llm: Vec<(usize, String)> = Vec::new(); // (de_idx, anchor)
+            for &(de_idx, ref anchor) in &changed {
+                if de_idx >= current_de_remarks.len() {
                     continue;
                 }
                 if should_skip_remark(&skip_remarks, filename, anchor) {
                     continue;
                 }
 
-                let de_remark = &current_de_remarks[idx];
+                let de_remark = &current_de_remarks[de_idx];
+                let en_idx = en_by_anchor.get(anchor).copied();
+
                 let mut auto_fixed = false;
-                if idx < old_de_remarks.len() {
+                if let (Some(ei), Some(old_de)) = (en_idx, old_de_by_anchor.get(anchor)) {
                     if let Some(fixed) = try_auto_fix_remark(
-                        &old_de_remarks[idx].body,
+                        &old_de.body,
                         &de_remark.body,
-                        &en_remarks[idx].body,
+                        &en_remarks[ei].body,
                     ) {
-                        if fixed != en_remarks[idx].body {
+                        if fixed != en_remarks[ei].body {
                             eprintln!("    {}:{} auto-fixed", filename, anchor);
-                            en_remarks[idx] = Remark {
+                            en_remarks[ei] = Remark {
                                 heading: de_remark.heading.clone(),
                                 body: fixed,
                             };
@@ -725,14 +720,39 @@ pub fn run(args: &TranslateArgs) {
                     }
                 }
                 if !auto_fixed {
-                    needs_llm.push((idx, anchor.clone()));
+                    needs_llm.push((de_idx, anchor.clone()));
                 }
             }
 
             // Phase 2: LLM-translate remaining changed remarks (skip if --auto-fix-only)
             if !args.auto_fix_only {
-                for (idx, anchor) in &needs_llm {
-                    let de_remark = &current_de_remarks[*idx];
+                // Rebuild en_by_anchor after auto-fix modifications
+                let mut en_anchor_map: std::collections::HashMap<String, usize> =
+                    en_remarks.iter().enumerate()
+                        .map(|(i, r)| (anchor_from_doc_heading(&r.heading), i))
+                        .collect();
+
+                for (de_idx, anchor) in &needs_llm {
+                    let de_remark = &current_de_remarks[*de_idx];
+
+                    // Skip if the existing English already passes verification
+                    if let Some(&ei) = en_anchor_map.get(anchor) {
+                        let mut issues = Vec::new();
+                        verify::verify_remark(
+                            filename, *de_idx, anchor, de_remark,
+                            &en_remarks[ei], &mut issues,
+                            args.emphasis_tolerance, &ignore_words,
+                        );
+                        if issues.is_empty() {
+                            // English is already good, just sync the heading
+                            if en_remarks[ei].heading != de_remark.heading {
+                                en_remarks[ei].heading = de_remark.heading.clone();
+                                file_changed = true;
+                            }
+                            continue;
+                        }
+                    }
+
                     eprint!("    {}:{}...", filename, anchor);
 
                     let (text_with_placeholders, math_blocks) = extract_math(&de_remark.body);
@@ -750,7 +770,7 @@ pub fn run(args: &TranslateArgs) {
                         &math_blocks,
                         de_remark,
                         filename,
-                        *idx,
+                        *de_idx,
                         anchor,
                         args.verbose,
                         args.num_ctx,
@@ -758,15 +778,43 @@ pub fn run(args: &TranslateArgs) {
                         &ignore_words,
                     );
 
-                    if best_body != en_remarks[*idx].body {
-                        en_remarks[*idx] = Remark {
-                            heading: de_remark.heading.clone(),
-                            body: best_body,
-                        };
+                    let new_remark = Remark {
+                        heading: de_remark.heading.clone(),
+                        body: best_body,
+                    };
+
+                    if let Some(&ei) = en_anchor_map.get(anchor) {
+                        // Update existing remark
+                        if new_remark.body != en_remarks[ei].body {
+                            en_remarks[ei] = new_remark;
+                            file_changed = true;
+                        }
+                    } else {
+                        // Insert new remark: find position after nearest preceding
+                        // German remark that has an English counterpart
+                        let mut insert_pos = en_remarks.len();
+                        for prev_di in (0..*de_idx).rev() {
+                            let prev_anchor = anchor_from_doc_heading(
+                                &current_de_remarks[prev_di].heading,
+                            );
+                            if let Some(&prev_ei) = en_anchor_map.get(&prev_anchor) {
+                                insert_pos = prev_ei + 1;
+                                break;
+                            }
+                        }
+                        en_remarks.insert(insert_pos, new_remark);
+                        // Update anchor map: shift indices after insertion
+                        for (_, idx) in en_anchor_map.iter_mut() {
+                            if *idx >= insert_pos {
+                                *idx += 1;
+                            }
+                        }
+                        en_anchor_map.insert(anchor.clone(), insert_pos);
                         file_changed = true;
                     }
                 }
             } else if !needs_llm.is_empty() {
+                total_needs_llm += needs_llm.len();
                 eprintln!(
                     "    {} remark(s) need retranslation (skipped, --auto-fix-only)",
                     needs_llm.len()
@@ -784,7 +832,47 @@ pub fn run(args: &TranslateArgs) {
         eprintln!();
     }
 
+    // Assemble works from current translations
+    if !work_files.is_empty() {
+        let url_map = build_remark_url_map(&args.output, &args.input);
+        let mut assembled = 0;
+        for filename in &work_files {
+            let work_path = args.input.join(filename);
+            if !work_path.exists() {
+                continue;
+            }
+            let source_docs = work_source_docs(&work_path);
+            let all_translated = source_docs.iter().all(|doc| {
+                let path = args.output.join(doc);
+                path.exists() && path.extension().map_or(false, |e| e == "md")
+            });
+            if all_translated && !source_docs.is_empty() {
+                let out_path = args.output.join(filename);
+                let missing = assemble_work(&work_path, &url_map, &out_path);
+                assembled += 1;
+                if missing > 0 {
+                    eprintln!(
+                        "  Assembled {} ({} remarks missing translations)",
+                        filename, missing
+                    );
+                } else {
+                    eprintln!("  Assembled {}", filename);
+                }
+            }
+        }
+        if assembled > 0 {
+            eprintln!("Assembled {} work(s) from translations.\n", assembled);
+        }
+    }
+
     if args.auto_fix_only {
+        let remaining = count_remaining_remarks(&doc_files, &args.input, &args.output);
+        if total_needs_llm > 0 || remaining > 0 {
+            eprintln!(
+                "{} remark(s) need retranslation, {} remarks across untranslated documents.",
+                total_needs_llm, remaining
+            );
+        }
         return;
     }
 

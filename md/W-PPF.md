@@ -1022,6 +1022,10 @@ Und wenn ich antwortete: “Nein, er hört es nicht; er empfindet es nur” – 
 
 Wir reagieren anders auf den Gesichtseindruck, als der, der ihn nicht als furchtsam (im _vollen_ Sinne des Wortes) erkennt. – Nun will ich aber _nicht_ sagen, wir spüren in den Muskeln & Gelenken diese Reaktion, & dies sei die ‘Empfindung’. – Nein, wir haben hier einen modifizierten **Empfindungs**begriff.
 
+### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
+
+Man könnte von Einem sagen, er sei für den _Ausdruck_ in einem Gesicht blind. Aber fehlte deshalb seinem Gesichtssinn etwas? Aber das ist natürlich nicht einfach eine Frage der Physiologie. Das Physiologische ist hier ein Symbol für das Logische.
+
 ### [Ms-144](/ms-144/#41r.1) <span class="fac">[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)</span> {#ms-144-41r1}
 
 Wer den Ernst einer Melodie empfindet, was nimmt der wahr? – Nichts, was sich durch Wiedergabe des Gehörten mitteile ließe.
@@ -1598,10 +1602,6 @@ Erinnern hat keinen Erlebnisinhalt. – Ist das nicht doch durch Introspektion z
 
 Könnte man sich diese Situation denken: Einer erinnert sich zum erstenmal im Leben an etwas & sagt: “Ja, jetzt weiß ich, was ‘Erinnern’ ist, wie erinnern _tut_.” – Wie weiß er, daß dies Gefühl ‘Erinnern’ ist? Vergleiche: “Ja, jetzt weiß ich, was ‘bremseln’ ist!” (er hat etwas zum ersten mal einen elektrischen Schlag gekriegt). – Weiß er, daß es Erinnern ist, weil es durch Vergangenes hervorgerufen wurde? Und wie weiß er, was Vergangenes ist? Den Begriff des Vergangenen lernt ja der Mensch, indem er sich erinnert. Und wie wird er in Zukunft wieder wissen, wie Erinnern tut? (Dagegen könnte man vielleicht von einem Gefühl “Lang, lang ist's her” reden, denn es gibt einen Ton, eine Gebärde, die Gewissen Erzählungen aus vergangenen Tagen angehören.)
 
-### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
-
-<span class="series-number">xiv</span> Man könnte von Einem sagen, er sei für den _Ausdruck_ in einem Gesicht blind. Aber fehlte deshalb seinem Gesichtssinn etwas? Aber das ist natürlich nicht einfach eine Frage der Physiologie. Das Physiologische ist hier ein Symbol für das Logische. Die Verwirrung & Öde der Psychologie ist nicht damit zu erklären, daß sie eine “junge Wissenschaft” sei; ihr Zustand ist mit dem der Physik z.B. in ihrer Frühzeit nicht zu vergleichen. (Eher noch mit dem gewisser Zweige der Mathematik. Mengenlehre.) (Es bestehen nämlich, in der Psychologie, experimentelle Methoden _und Begriffsverwirrung_. (Wie im andern Fall Begriffsverwirrung & Beweismethoden.) Das Bestehen der experimentellen Methode läßt uns glauben, wir hätten das Mittel, die Probleme, die uns beunruhigen, los zu werden; obgleich Problem & Methode windschief an einander vorbei laufen.
-
 ### [Ms-144](/ms-144/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-40r2}
 
-Es ist für die Mathematik eine Untersuchung möglich ganz analog unsrer Untersuchung der Psychologie. Sie ist ebensowenig eine _mathematische_, wie die andre eine psychologische. In ihr wird _nicht_ gerechnet, sie ist also, z.B., nicht Logistik. Sie könnte den Namen einer Untersuchung der ‘Grundlagen der Mathematik’ verdienen.
+<span class="series-number">xiv</span> Es ist für die Mathematik eine Untersuchung möglich ganz analog unsrer Untersuchung der Psychologie. Sie ist ebensowenig eine _mathematische_, wie die andre eine psychologische. In ihr wird _nicht_ gerechnet, sie ist also, z.B., nicht Logistik. Sie könnte den Namen einer Untersuchung der ‘Grundlagen der Mathematik’ verdienen.

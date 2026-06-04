@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1930–1948, 691 remarks, Ts-233a, Ts-233b, Ts-232</summary>
+<summary>1930–1948, 725 remarks, Ts-233a, Ts-233b, Ts-232</summary>
 
 <img class="viz" src="/viz/W-Z.svg">
 
@@ -10,7 +10,11 @@
 
 ### [Ts-233a](/ts-233a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-11}
 
-<span class="series-number">2</span> W. James: der Gedanke sei schon am Anfang des Satzes fertig. Wie kann man das wissen? Aber die _Absicht_, ihn auszusprechen, kann schon bestehen, ehe das erste Wort gesagt ist. Denn fragt man Einen “weißt du, was du sagen willst?” so wird er es oft bejahen. Ich sage Einem “Ich werde dir jetzt das Thema … vorpfeifen”, ich habe die Absicht, es zu pfeifen, & ich weiß schon, was ich pfeifen werde. Ich habe die Absicht, dieses Thema zu pfeifen: habe ich es damit in irgendeinem Sinne, etwa im Gedanken, schon gepfiffen?
+<span class="series-number">1</span> W. James: der Gedanke sei schon am Anfang des Satzes fertig. Wie kann man das wissen? Aber die _Absicht_, ihn auszusprechen, kann schon bestehen, ehe das erste Wort gesagt ist. Denn fragt man Einen “weißt du, was du sagen willst?” so wird er es oft bejahen.
+
+### [Ts-233a](/ts-233a/#1.1.2) <span class="fac">[1\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-112}
+
+<span class="series-number">2</span> Ich sage Einem “Ich werde dir jetzt das Thema … vorpfeifen”, ich habe die Absicht, es zu pfeifen, & ich weiß schon, was ich pfeifen werde. Ich habe die Absicht, dieses Thema zu pfeifen: habe ich es damit in irgendeinem Sinne, etwa im Gedanken, schon gepfiffen?
 
 ### [Ts-233a](/ts-233a/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/1.webp)</span> {#ts-233a-12}
 
@@ -310,7 +314,11 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#17.1) <span class="fac">[17\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-171}
 
-<span class="series-number">74</span> Man muß manchen Satz öfter lesen, um ihn als Satz zu verstehen. Ein Satz sei mir in einer Chiffre gegeben und auch ihr Schlüssel; dann ist mir natürlich in einer Beziehung alles zum Verständnis des Satzes gegeben. Und doch würde ich auf die Frage “Verstehst du diesen Satz?” antworten: Nein, noch nicht; ich muß ihn erst entziffern. Und erst, wenn ich ihn, z.B., ins Deutsche übertragen hätte, würde ich sagen “Jetzt verstehe ich ihn”. Wenn man nun die Frage stellt “In welchem Moment der Übertragung _verstehe_ ich nun den Satz?”, würde man einen Einblick in das Wesen dessen erhalten, was wir “verstehen” nennen.
+<span class="series-number">73</span> Man muß manchen Satz öfter lesen, um ihn als Satz zu verstehen.
+
+### [Ts-233a](/ts-233a/#17.1.2) <span class="fac">[17\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-1712}
+
+<span class="series-number">74</span> Ein Satz sei mir in einer Chiffre gegeben und auch ihr Schlüssel; dann ist mir natürlich in einer Beziehung alles zum Verständnis des Satzes gegeben. Und doch würde ich auf die Frage “Verstehst du diesen Satz?” antworten: Nein, noch nicht; ich muß ihn erst entziffern. Und erst, wenn ich ihn, z.B., ins Deutsche übertragen hätte, würde ich sagen “Jetzt verstehe ich ihn”. Wenn man nun die Frage stellt “In welchem Moment der Übertragung _verstehe_ ich nun den Satz?”, würde man einen Einblick in das Wesen dessen erhalten, was wir “verstehen” nennen.
 
 ### [Ts-233a](/ts-233a/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-172}
 
@@ -318,7 +326,11 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#17.3) <span class="fac">[17\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-173}
 
-<span class="series-number">77</span> Man kann die Fortdauer einer Erscheinung durch ununterbrochene Beobachtung feststellen, oder durch Proben. Das Beobachten der Dauer kann ununterbrochen, oder unterbrochen sein. Wie beobachtest Du Dein Wissen, Deine Meinungen? Und andererseits, ein Nachbild, einen Schmerz? Gibt es ein ununterbrochenes Beobachten meiner Fähigkeit, die Multiplikation … auszuführen?
+<span class="series-number">76</span> Man kann die Fortdauer einer Erscheinung durch ununterbrochene Beobachtung feststellen, oder durch Proben. Das Beobachten der Dauer kann ununterbrochen, oder unterbrochen sein.
+
+### [Ts-233a](/ts-233a/#17.3.2) <span class="fac">[17\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-1732}
+
+<span class="series-number">77</span> Wie beobachtest Du Dein Wissen, Deine Meinungen? Und andererseits, ein Nachbild, einen Schmerz? Gibt es ein ununterbrochenes Beobachten meiner Fähigkeit, die Multiplikation … auszuführen?
 
 ### [Ts-233a](/ts-233a/#17.4) <span class="fac">[17\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/17.webp)</span> {#ts-233a-174}
 
@@ -362,7 +374,11 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#19.2) <span class="fac">[19\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-192}
 
-<span class="series-number">88</span> Das ist wohl der Punkt, an dem man sagt, man könne dem _Andern_ eben nur die Form mitteilen, nicht aber den Inhalt. – So redet man also zu sich selbst _über den Inhalt!_ – – (Wie ‘beziehen’ sich aber meine Worte auf den mir bewußten Inhalt? und zu welchem Zweck?) Es ist sehr merkwürdig, daß die _Vorgänge_ beim Denken uns so gut wie nie interessieren. Es ist merkwürdig, aber nicht seltsam.
+<span class="series-number">87</span> Das ist wohl der Punkt, an dem man sagt, man könne dem _Andern_ eben nur die Form mitteilen, nicht aber den Inhalt. – So redet man also zu sich selbst _über den Inhalt!_ – – (Wie ‘beziehen’ sich aber meine Worte auf den mir bewußten Inhalt? und zu welchem Zweck?)
+
+### [Ts-233a](/ts-233a/#19.2.2) <span class="fac">[19\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-1922}
+
+<span class="series-number">88</span> Es ist sehr merkwürdig, daß die _Vorgänge_ beim Denken uns so gut wie nie interessieren. Es ist merkwürdig, aber nicht seltsam.
 
 ### [Ts-233a](/ts-233a/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/19.webp)</span> {#ts-233a-193}
 
@@ -390,9 +406,11 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/20.webp)</span> {#ts-233a-205}
 
-<span class="series-number">96</span> Nur unter ganz speziellen Umständen tritt die Frage auf, ob _denkend_ geredet wurde, oder nicht.
+<span class="series-number">95</span> Nur unter ganz speziellen Umständen tritt die Frage auf, ob _denkend_ geredet wurde, oder nicht.
 
-Ja, wenn man von einer _Erfahrung_ des Denkens spricht, so ist die Erfahrung des Redens so gut wie jede Andere. Aber der Begriff ‘denken’ ist kein Erfahrungsbegriff. Denn man vergleicht Gedanken nicht, wie man Erfahrungen vergleicht.
+### [Ts-233a](/ts-233a/#20.5.2) <span class="fac">[20\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/20.webp)</span> {#ts-233a-2052}
+
+<span class="series-number">96</span> Ja, wenn man von einer _Erfahrung_ des Denkens spricht, so ist die Erfahrung des Redens so gut wie jede Andere. Aber der Begriff ‘denken’ ist kein Erfahrungsbegriff. Denn man vergleicht Gedanken nicht, wie man Erfahrungen vergleicht.
 
 ### [Ts-233a](/ts-233a/#20.6) <span class="fac">[20\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/20.webp)</span> {#ts-233a-206}
 
@@ -612,9 +630,11 @@ Ja, wenn man von einer _Erfahrung_ des Denkens spricht, so ist die Erfahrung des
 
 ### [Ts-233a](/ts-233a/#31.5) <span class="fac">[31\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/31.webp)</span> {#ts-233a-315}
 
-<span class="series-number">152</span> Ich hatte mit Absicht ein Beispiel gewählt, in dem der Mensch einer Empfindung Ausdruck gibt. Denn in diesem Fall sagt man, Laute, die keiner Sprache angehören, seien voll von Bedeutung.
+<span class="series-number">151</span> Ich hatte mit Absicht ein Beispiel gewählt, in dem der Mensch einer Empfindung Ausdruck gibt. Denn in diesem Fall sagt man, Laute, die keiner Sprache angehören, seien voll von Bedeutung.
 
-Wäre es ebenso leicht, sich den analogen Fall zu denken für diesen Satz: “Wenn der Zug nicht pünktlich um 5 Uhr ankommt, wird er den Anschluß versäumen”? Was hieße es etwa in diesem Falle: den Sinn erraten?
+### [Ts-233a](/ts-233a/#31.5.2) <span class="fac">[31\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/31.webp)</span> {#ts-233a-3152}
+
+<span class="series-number">152</span> Wäre es ebenso leicht, sich den analogen Fall zu denken für diesen Satz: “Wenn der Zug nicht pünktlich um 5 Uhr ankommt, wird er den Anschluß versäumen”? Was hieße es etwa in diesem Falle: den Sinn erraten?
 
 ### [Ts-233a](/ts-233a/#31.6) <span class="fac">[31\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/31.webp)</span> {#ts-233a-316}
 
@@ -682,7 +702,11 @@ Wäre es ebenso leicht, sich den analogen Fall zu denken für diesen Satz: “We
 
 ### [Ts-233a](/ts-233a/#34.4+35.1) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp),[35\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-344351}
 
-<span class="series-number">170</span> Heißt das aber, es gäbe nicht Empfindungen, die oft beim Genießen der Musik wiederkehren? Durchaus nicht. Ein Gedicht macht uns beim Lesen einen Eindruck. “Fühlst du dasselbe, während du es liest, wie wenn du etwas Gleichgültiges liest?” – Wie habe ich auf diese Frage antworten gelernt? Ich werde vielleicht sagen: “Natürlich nicht!” – was soviel heißt wie: mich ergreift _dies_, und das andere nicht. “Ich erlebe dabei etwas anderes.” – Und welcher Art ist dies? – Ich kann nichts Befriedigendes antworten. Denn, was ich angebe, ist nichts Wichtiges. –“Hast du aber nicht _während_ des Lesens genossen?” Freilich – – Denn die entgegengesetzte Antwort hieße: ich hätte es früher, oder später genossen; und das will ich nicht sagen. Aber nun erinnerst du dich ja doch an Empfindungen und Vorstellungen beim Lesen, und zwar solche, die mit dem Genießen, mit dem Eindruck zusammenhängen– Aber, die hatten ihre Wichtigkeit nur durch ihre Umgebung erhalten: durch das Lesen des Gedichts, durch meine _Vertrautheit_ mit der Sprache, dem Metrum und _unzähligen_ anderen Zusammenhängen Du mußt dich doch fragen, wie haben wir den Ausdruck “Ist das nicht herrlich!” überhaupt gelernt? – Niemand erklärte ihn uns, indem er sich auf Empfindungen, Vorstellungen, oder Gedanken bezog, die das Hören begleiten! Ja, wir würden nicht bezweifeln, daß er's genossen hat, wenn er keine solchen Erlebnisse anzugeben wüßte; wohl aber, wenn es sich zeigte, daß er gewisse Zusammenhänge nicht versteht.
+<span class="series-number">169</span> Heißt das aber, es gäbe nicht Empfindungen, die oft beim Genießen der Musik wiederkehren? Durchaus nicht.
+
+### [Ts-233a](/ts-233a/#34.4+35.1.2) <span class="fac">[34\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/34.webp),[35\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-3443512}
+
+<span class="series-number">170</span> Ein Gedicht macht uns beim Lesen einen Eindruck. “Fühlst du dasselbe, während du es liest, wie wenn du etwas Gleichgültiges liest?” – Wie habe ich auf diese Frage antworten gelernt? Ich werde vielleicht sagen: “Natürlich nicht!” – was soviel heißt wie: mich ergreift _dies_, und das andere nicht. “Ich erlebe dabei etwas anderes.” – Und welcher Art ist dies? – Ich kann nichts Befriedigendes antworten. Denn, was ich angebe, ist nichts Wichtiges. –“Hast du aber nicht _während_ des Lesens genossen?” Freilich – – Denn die entgegengesetzte Antwort hieße: ich hätte es früher, oder später genossen; und das will ich nicht sagen. Aber nun erinnerst du dich ja doch an Empfindungen und Vorstellungen beim Lesen, und zwar solche, die mit dem Genießen, mit dem Eindruck zusammenhängen– Aber, die hatten ihre Wichtigkeit nur durch ihre Umgebung erhalten: durch das Lesen des Gedichts, durch meine _Vertrautheit_ mit der Sprache, dem Metrum und _unzähligen_ anderen Zusammenhängen Du mußt dich doch fragen, wie haben wir den Ausdruck “Ist das nicht herrlich!” überhaupt gelernt? – Niemand erklärte ihn uns, indem er sich auf Empfindungen, Vorstellungen, oder Gedanken bezog, die das Hören begleiten! Ja, wir würden nicht bezweifeln, daß er's genossen hat, wenn er keine solchen Erlebnisse anzugeben wüßte; wohl aber, wenn es sich zeigte, daß er gewisse Zusammenhänge nicht versteht.
 
 ### [Ts-233a](/ts-233a/#35.2) <span class="fac">[35\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/35.webp)</span> {#ts-233a-352}
 
@@ -1376,13 +1400,15 @@ könnte doch nur heißen: ihre _Anwendung_ erraten. Und das kann nun nicht heiß
 
 ### [Ts-233a](/ts-233a/#69.5+70.1) <span class="fac">[69\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp),[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span> {#ts-233a-695701}
 
-<span class="series-number">337</span> Wenn ich nun auch zwei Zeichen bei mir habe, den Ausdruck “roter Kreis” und das farbige Bild, oder die Vorstellung, des roten Kreises, so wäre doch die Frage: Wie ist denn dann das eine Wort der Farbe, das andere der Form zugeordnet? Denn man scheint sagen zu können, das eine Wort lenke die Aufmerksamkeit auf die Farbe, das andere die Form. Aber was heißt das? Wie kann man diese Wörter in dieses Bild übersetzen?
+<span class="series-number">336</span> Wenn ich nun auch zwei Zeichen bei mir habe, den Ausdruck “roter Kreis” und das farbige Bild, oder die Vorstellung, des roten Kreises, so wäre doch die Frage: Wie ist denn dann das eine Wort der Farbe, das andere der Form zugeordnet? Denn man scheint sagen zu können, das eine Wort lenke die Aufmerksamkeit auf die Farbe, das andere die Form. Aber was heißt das? Wie kann man diese Wörter in dieses Bild übersetzen?
 
 Oder auch: Wenn mir das Wort ‘rot’ eine Farbe ins Gedächtnis ruft, so muß sie doch mit einer Form verbunden sein; wie kann ich denn dann von der Form abstrahieren?
 
 Die wichtige Frage ist dabei nie: wie weiß er, wovon er abstrahieren soll? sondern: wie ist das überhaupt möglich? oder: was heißt es?
 
-Vielleicht wird es klarer, wenn man _die_ beiden Sprachen vergleicht in deren einer ein rotes Täfelchen und eines mit Kreis darauf (etwa einem schwarzen auf weißem Grund) die Worte “roter Kreis” ersetzen; und in der andren statt dessen ein roter Kreis gemalt wird. Wie geht denn hier die Übersetzung vor sich? Er schaut etwa zuerst auf das rote Täfelchen und wählt einen roten Stift, dann auf den Kreis, und macht nun mit diesem Stift einen Kreis. Es würde etwa zuerst gelernt, daß das erst Täfelchen immer die Wahl des Bleistiftes bestimmt, das zweite, was wir mit ihm zeichnen sollen. Die beiden Täfelchen gehören also verschiedenen Wortarten an (etwa Hauptwort und Tätigkeitswort). In der anderen Sprache aber gäbe es nichts, was man _hier_ zwei Wörter nennen könnte.
+### [Ts-233a](/ts-233a/#69.5+70.1.2) <span class="fac">[69\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp),[70\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span> {#ts-233a-6957012}
+
+<span class="series-number">337</span> Vielleicht wird es klarer, wenn man _die_ beiden Sprachen vergleicht in deren einer ein rotes Täfelchen und eines mit Kreis darauf (etwa einem schwarzen auf weißem Grund) die Worte “roter Kreis” ersetzen; und in der andren statt dessen ein roter Kreis gemalt wird. Wie geht denn hier die Übersetzung vor sich? Er schaut etwa zuerst auf das rote Täfelchen und wählt einen roten Stift, dann auf den Kreis, und macht nun mit diesem Stift einen Kreis. Es würde etwa zuerst gelernt, daß das erst Täfelchen immer die Wahl des Bleistiftes bestimmt, das zweite, was wir mit ihm zeichnen sollen. Die beiden Täfelchen gehören also verschiedenen Wortarten an (etwa Hauptwort und Tätigkeitswort). In der anderen Sprache aber gäbe es nichts, was man _hier_ zwei Wörter nennen könnte.
 
 ### [Ts-233a](/ts-233a/#70.2) <span class="fac">[70\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span> {#ts-233a-702}
 
@@ -1502,7 +1528,11 @@ Vielleicht wird es klarer, wenn man _die_ beiden Sprachen vergleicht in deren ei
 
 ### [Ts-233b](/ts-233b/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span> {#ts-233b-32}
 
-<span class="series-number">368</span> Aber könnten wir nicht auch in dieser ‘Verwirrung’ ein Sprachspiel spielen? – Aber ist es noch das Frühere? – (Bezieht sich auf das, was Frege, und gelegentlich Ramsey, vom Wiedererkennen als einer Bedingung des Symbolisierens sagten. Was ist das Kriterium dafür, daß ich die Farbe richtig wiedererkannt habe? Etwa so etwas wie das Erlebnis der Freude beim Wiedererkennen?) Denken wir uns Menschen, die eine Zwischenfarbe, von Rot und Gelb z.B., durch eine Art binären Dezimalbruch _so_ ausdrücken: R,LLRL u. dergl., wo auf der rechten Seite z.B. Gelb steht, auf der linken Rot. – Diese Leute lernen schon im Kindergarten, Farbtöne in dieser Weise beschreiben, nach solchen Beschreibungen Farben auszuwählen, zu mischen, etc. Sie verhielten sich zu uns ungefähr, wie Leute mit absolutem Gehör zu Leuten, denen dies fehlt. _Sie können tun_, was wir nicht können. Fraglich
+<span class="series-number">367</span> Aber könnten wir nicht auch in dieser ‘Verwirrung’ ein Sprachspiel spielen? – Aber ist es noch das Frühere? – (Bezieht sich auf das, was Frege, und gelegentlich Ramsey, vom Wiedererkennen als einer Bedingung des Symbolisierens sagten. Was ist das Kriterium dafür, daß ich die Farbe richtig wiedererkannt habe? Etwa so etwas wie das Erlebnis der Freude beim Wiedererkennen?)
+
+### [Ts-233b](/ts-233b/#3.2.2) <span class="fac">[3\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span> {#ts-233b-322}
+
+<span class="series-number">368</span> Denken wir uns Menschen, die eine Zwischenfarbe, von Rot und Gelb z.B., durch eine Art binären Dezimalbruch _so_ ausdrücken: R,LLRL u. dergl., wo auf der rechten Seite z.B. Gelb steht, auf der linken Rot. – Diese Leute lernen schon im Kindergarten, Farbtöne in dieser Weise beschreiben, nach solchen Beschreibungen Farben auszuwählen, zu mischen, etc. Sie verhielten sich zu uns ungefähr, wie Leute mit absolutem Gehör zu Leuten, denen dies fehlt. _Sie können tun_, was wir nicht können. Fraglich
 
 ### [Ts-233b](/ts-233b/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span> {#ts-233b-33}
 
@@ -1534,9 +1564,11 @@ Vielleicht wird es klarer, wenn man _die_ beiden Sprachen vergleicht in deren ei
 
 ### [Ts-233b](/ts-233b/#4a.1) <span class="fac">[4a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a1}
 
-<span class="series-number">377</span> Dort z.B., wo es einen Typus nur selten gibt, wird der Begriff dieses Typus nicht gebildet. Den Leuten fällt dieses Syndrom nicht als eine Einheit auf.
+<span class="series-number">376</span> Dort z.B., wo es einen Typus nur selten gibt, wird der Begriff dieses Typus nicht gebildet. Den Leuten fällt dieses Syndrom nicht als eine Einheit auf.
 
-Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
+### [Ts-233b](/ts-233b/#4a.1.2) <span class="fac">[4a\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a12}
+
+<span class="series-number">377</span> Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
 
 ### [Ts-233b](/ts-233b/#4.6) <span class="fac">[4\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4.webp)</span> {#ts-233b-46}
 
@@ -1568,7 +1600,11 @@ Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
 
 ### [Ts-233b](/ts-233b/#6a.1) <span class="fac">[6a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6a.webp)</span> {#ts-233b-6a1}
 
-<span class="series-number">386</span> Klagen ist schon so schlimm, daß es das Schlimmere der Verstellung gar nicht mehr gibt. Sie können hinter der einen Schande die andere nicht mehr sehen.
+<span class="series-number">385</span> Klagen ist schon so schlimm, daß es das Schlimmere der Verstellung gar nicht mehr gibt.
+
+### [Ts-233b](/ts-233b/#6a.1.2) <span class="fac">[6a\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6a.webp)</span> {#ts-233b-6a12}
+
+<span class="series-number">386</span> Sie können hinter der einen Schande die andere nicht mehr sehen.
 
 ### [Ts-233b](/ts-233b/#5.5) <span class="fac">[5\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/5.webp)</span> {#ts-233b-55}
 
@@ -1588,7 +1624,11 @@ Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
 
 ### [Ts-233b](/ts-233b/#6.3) <span class="fac">[6\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6.webp)</span> {#ts-233b-63}
 
-<span class="series-number">392</span> Ich will (eigentlich) sagen, daß die gedanklichen Skrupel im Instinkt anfangen (ihre Wurzeln haben). Oder auch so: das Sprachspiel hat seinen Ursprung nicht in der _Überlegung._ Überlegung ist ein Teil des Sprachspiels. Und der Begriff ist daher im Sprachspiel zu Hause. ‘Sandhaufen’ ist ein unscharf begrenzter Begriff – – aber warum verwendet man statt seiner nicht einen scharf begrenzten? – Liegt der Grund in der Natur der Haufen? Welche Erscheinung ist es, deren Natur unsern Begriff bestimmt?
+<span class="series-number">391</span> Ich will (eigentlich) sagen, daß die gedanklichen Skrupel im Instinkt anfangen (ihre Wurzeln haben). Oder auch so: das Sprachspiel hat seinen Ursprung nicht in der _Überlegung._ Überlegung ist ein Teil des Sprachspiels. Und der Begriff ist daher im Sprachspiel zu Hause.
+
+### [Ts-233b](/ts-233b/#6.3.2) <span class="fac">[6\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6.webp)</span> {#ts-233b-632}
+
+<span class="series-number">392</span> ‘Sandhaufen’ ist ein unscharf begrenzter Begriff – – aber warum verwendet man statt seiner nicht einen scharf begrenzten? – Liegt der Grund in der Natur der Haufen? Welche Erscheinung ist es, deren Natur unsern Begriff bestimmt?
 
 ### [Ts-233b](/ts-233b/#6.4) <span class="fac">[6\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/6.webp)</span> {#ts-233b-64}
 
@@ -1640,7 +1680,11 @@ Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
 
 ### [Ts-233b](/ts-233b/#8.5) <span class="fac">[8\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/8.webp)</span> {#ts-233b-85}
 
-<span class="series-number">406</span> Niemand außer ein Philosoph, würde sagen “Ich weiß, daß ich zwei Hände habe”; wohl aber kann man sagen: Ich bin nicht im Stande, zu bezweifeln, daß ich zwei Hände habe”. “Wissen” aber wird gewöhnlich nicht in diesem Sinn gebraucht. “Ich weiß, wieviel 97 × 78 ist” “Ich weiß, daß 97 × 78 432 ist.” Im ersten Falle teile ich jemand mit, ich könne etwas besitze etwas; im zweiten versichere ich einfach, 97 × 78 sei 432. Sagt denn “97 × 78 ist ganz bestimmt 432!” nicht, _ich wisse,_ es sei so? Der erste Satz ist kein arithmetischer, noch kann ihn ein solcher ersetzen; statt des zweiten könnte man einen arithmetischen Satz verwenden.
+<span class="series-number">405</span> Niemand außer ein Philosoph, würde sagen “Ich weiß, daß ich zwei Hände habe”; wohl aber kann man sagen: Ich bin nicht im Stande, zu bezweifeln, daß ich zwei Hände habe”.
+
+### [Ts-233b](/ts-233b/#8.5.2) <span class="fac">[8\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/8.webp)</span> {#ts-233b-852}
+
+<span class="series-number">406</span> “Wissen” aber wird gewöhnlich nicht in diesem Sinn gebraucht. “Ich weiß, wieviel 97 × 78 ist” “Ich weiß, daß 97 × 78 432 ist.” Im ersten Falle teile ich jemand mit, ich könne etwas besitze etwas; im zweiten versichere ich einfach, 97 × 78 sei 432. Sagt denn “97 × 78 ist ganz bestimmt 432!” nicht, _ich wisse,_ es sei so? Der erste Satz ist kein arithmetischer, noch kann ihn ein solcher ersetzen; statt des zweiten könnte man einen arithmetischen Satz verwenden.
 
 ### [Ts-233b](/ts-233b/#8.6) <span class="fac">[8\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/8.webp)</span> {#ts-233b-86}
 
@@ -1674,13 +1718,17 @@ Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
 
 <span class="series-number">414</span> Aber der Idealist wird den Kindern doch das Wort “Sessel” beibringen, denn er will sie ja lehren, gewisses zu tun, z.B. einen Sessel zu holen. Wo wird sich also, was die idealistisch erzogenen Kinder sagen, von dem, was die realistischen sagen, unterscheiden? Wird der Unterschied nicht nur der der Schlachtrufe sein?
 
+### [Ts-233b](/ts-233b/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-103}
+
+<span class="series-number">415</span> Fängt denn nicht das Spiel “Das ist wahrscheinlich ein …” mit der Enttäuschung an? Und kann die erste Einstellung auf die mögliche Enttäuschung sein?
+
 ### [Ts-233b](/ts-233b/#10.4) <span class="fac">[10\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-104}
 
 <span class="series-number">416</span> “So muß man ihm also zuerst eine falsche Sicherheit beibringen?” Es ist bei ihrem Sprachspiel von Sicherheit oder von Unsicherheit noch nicht die Rede. Erinnere dich: sie lernen ja etwas _tun_.
 
-### [Ts-233b](/ts-233b/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-103}
+### [Ts-233b](/ts-233b/#10.3.2) <span class="fac">[10\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-1032}
 
-<span class="series-number">417</span> Fängt denn nicht das Spiel “Das ist wahrscheinlich ein …” mit der Enttäuschung an? Und kann die erste Einstellung auf die mögliche Enttäuschung sein? Das Sprachspiel “Was ist das?” – “Ein Sessel.” – ist nicht das Gleiche wie: “Wofür hältst du das?” – “Es dürfte ein Sessel sein.”
+<span class="series-number">417</span> Das Sprachspiel “Was ist das?” – “Ein Sessel.” – ist nicht das Gleiche wie: “Wofür hältst du das?” – “Es dürfte ein Sessel sein.”
 
 ### [Ts-233b](/ts-233b/#10.5) <span class="fac">[10\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/10.webp)</span> {#ts-233b-105}
 
@@ -1768,7 +1816,15 @@ Sie machen davon nicht ein Bild & erkennen es von Fall zu Fall wieder.
 
 ### [Ts-233b](/ts-233b/#14.4+15.1) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span> {#ts-233b-144151}
 
-<span class="series-number">441</span> Die zureichende Evidenz geht, ohne bestimmte Grenzen zu haben, in die unzureichende über. Soll ich sagen, eine natürliche Grundlage dieser Begriffsbildung sei das komplizierte Wesen und die Mannigfaltigkeit der menschlichen Fälle? So müßte also bei einer weit geringeren Mannigfaltigkeit eine scharf begrenzte Begriffsbildung natürlich erscheinen. Und warum scheint es so schwer, sich den vereinfachten Fall vorzustellen? Wie hätten wir uns ein komplettes Regelverzeichnis für die Verwendung eines Worts zu denken? – Was versteht man unter einem kompletten Regelverzeichnis für die Verwendung einer Figur im Schachspiel? Könnten wir uns nicht immer Zweifelsfälle konstruieren, in denen das normale Regelverzeichnis nicht entscheidet? Denke etwas an so eine Frage: wie ist es festzustellen, wer zuletzt gezogen hat, wenn die Zuverlässigkeit des Gedächtnisses der Spieler angezweifelt wird? Die Verkehrsregelung in den Straßen erlaubt und verbietet gewisse Handlungen der Fahrer und Fußgänger; aber sie versucht nicht, ihre sämtlichen Bewegungen durch Vorschriften zu leiten. Und es wäre sinnlos, von einer ‘idealen’ Verkehrsordnung zu reden, die das täte; wir wüßten zunächst gar nicht, was wir uns unter diesem Ideal zu denken hätten. Wünscht Einer die Verkehrsordnung in irgendwelchen Punkten strenger zu gestalten, so bedeutet das nicht, er wünsche sie so einem Ideal anzunähern. Betrachte auch diesen Satz: “Die Regeln eines Spiels können wohl eine gewisse Freiheit lassen, aber sie müssen _doch_ ganz bestimmte Regeln sein.” Das ist, als sagte “Du kannst zwar einem Menschen durch vier Wände eine gewisse Bewegungsfreiheit lassen, aber die Wände müssen vollkommen starr sein” – und das ist nicht wahr. “Nun die Wände können wohl elastisch sein, aber dann haben sie eine ganz bestimmte Elastizität.” – Was sagt das nun doch? Es scheint zu sagen, daß man diese Elastizität muß angeben können, aber das ist wieder nicht wahr.
+<span class="series-number">439</span> Die zureichende Evidenz geht, ohne bestimmte Grenzen zu haben, in die unzureichende über. Soll ich sagen, eine natürliche Grundlage dieser Begriffsbildung sei das komplizierte Wesen und die Mannigfaltigkeit der menschlichen Fälle? So müßte also bei einer weit geringeren Mannigfaltigkeit eine scharf begrenzte Begriffsbildung natürlich erscheinen. Und warum scheint es so schwer, sich den vereinfachten Fall vorzustellen?
+
+### [Ts-233b](/ts-233b/#14.4+15.1.2) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span> {#ts-233b-1441512}
+
+<span class="series-number">440</span> Wie hätten wir uns ein komplettes Regelverzeichnis für die Verwendung eines Worts zu denken? – Was versteht man unter einem kompletten Regelverzeichnis für die Verwendung einer Figur im Schachspiel? Könnten wir uns nicht immer Zweifelsfälle konstruieren, in denen das normale Regelverzeichnis nicht entscheidet? Denke etwas an so eine Frage: wie ist es festzustellen, wer zuletzt gezogen hat, wenn die Zuverlässigkeit des Gedächtnisses der Spieler angezweifelt wird? Die Verkehrsregelung in den Straßen erlaubt und verbietet gewisse Handlungen der Fahrer und Fußgänger; aber sie versucht nicht, ihre sämtlichen Bewegungen durch Vorschriften zu leiten. Und es wäre sinnlos, von einer ‘idealen’ Verkehrsordnung zu reden, die das täte; wir wüßten zunächst gar nicht, was wir uns unter diesem Ideal zu denken hätten. Wünscht Einer die Verkehrsordnung in irgendwelchen Punkten strenger zu gestalten, so bedeutet das nicht, er wünsche sie so einem Ideal anzunähern.
+
+### [Ts-233b](/ts-233b/#14.4+15.1.3) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span> {#ts-233b-1441513}
+
+<span class="series-number">441</span> Betrachte auch diesen Satz: “Die Regeln eines Spiels können wohl eine gewisse Freiheit lassen, aber sie müssen _doch_ ganz bestimmte Regeln sein.” Das ist, als sagte “Du kannst zwar einem Menschen durch vier Wände eine gewisse Bewegungsfreiheit lassen, aber die Wände müssen vollkommen starr sein” – und das ist nicht wahr. “Nun die Wände können wohl elastisch sein, aber dann haben sie eine ganz bestimmte Elastizität.” – Was sagt das nun doch? Es scheint zu sagen, daß man diese Elastizität muß angeben können, aber das ist wieder nicht wahr.
 
 “Die Wand hat immer _eine bestimmte_ Elastizität – ob ich sie weiß, oder nicht ”: das ist eigentlich das Bekenntnis zu einer Ausdrucksform. Derjenigen, die sich der _Form_ eines Ideals der Genauigkeit bedient. Gleichsam als eines Parameters der Darstellung.
 
@@ -1826,7 +1882,11 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#19.3) <span class="fac">[19\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/19.webp)</span> {#ts-233b-193}
 
-<span class="series-number">455</span> Plato: “–Wie? sagte er, die sollte nicht nutzen? Denn wenn doch einmal die Besonnenheit die Erkenntnis der Erkenntnisse ist und den andern Erkenntnissen vorsteht, so muß sie ja auch dieser sich auf das Gute beziehenden Erkenntnis vorstehen und uns so doch nutzen. – Macht auch sie uns, sprach ich, etwa gesund und nicht die Heilkunde? Und so auch mit den andern Künsten; verrichtet sie die Geschäfte derselben und nicht vielmehr jede von ihnen das Ihrige? Oder haben wir nicht lange schon eingestanden, daß sie nur der Erkenntnisse und Unkenntnisse Erkenntnis wäre und keiner anderen Sache? – Allerdings wohl. –Sie also wird uns nicht die Gesundheit bewirken? – Wohl nicht. – Weil nämlich die Gesundheit für eine andere Kunst gehört? – Ja. – Also auch nicht den Nutzen, Freund, wird sie uns bewirken. Denn auch dieses Geschäft haben wir jetzt einer andern Kunst beigelegt. – Freilich. – Wie kann also die Besonnenheit nützlich sein, wenn sie uns gar keinen Nutzen bringt?” (Der Philosoph ist nicht Bürger einer Denkgemeinde. Das ist was ihn zum Philosophen macht.)
+<span class="series-number">454</span> Plato: “–Wie? sagte er, die sollte nicht nutzen? Denn wenn doch einmal die Besonnenheit die Erkenntnis der Erkenntnisse ist und den andern Erkenntnissen vorsteht, so muß sie ja auch dieser sich auf das Gute beziehenden Erkenntnis vorstehen und uns so doch nutzen. – Macht auch sie uns, sprach ich, etwa gesund und nicht die Heilkunde? Und so auch mit den andern Künsten; verrichtet sie die Geschäfte derselben und nicht vielmehr jede von ihnen das Ihrige? Oder haben wir nicht lange schon eingestanden, daß sie nur der Erkenntnisse und Unkenntnisse Erkenntnis wäre und keiner anderen Sache? – Allerdings wohl. –Sie also wird uns nicht die Gesundheit bewirken? – Wohl nicht. – Weil nämlich die Gesundheit für eine andere Kunst gehört? – Ja. – Also auch nicht den Nutzen, Freund, wird sie uns bewirken. Denn auch dieses Geschäft haben wir jetzt einer andern Kunst beigelegt. – Freilich. – Wie kann also die Besonnenheit nützlich sein, wenn sie uns gar keinen Nutzen bringt?”
+
+### [Ts-233b](/ts-233b/#19.3.2) <span class="fac">[19\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/19.webp)</span> {#ts-233b-1932}
+
+<span class="series-number">455</span> (Der Philosoph ist nicht Bürger einer Denkgemeinde. Das ist was ihn zum Philosophen macht.)
 
 ### [Ts-233b](/ts-233b/#19.4) <span class="fac">[19\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/19.webp)</span> {#ts-233b-194}
 
@@ -1840,7 +1900,15 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#20.2) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-202}
 
-<span class="series-number">460</span> Das Wesentliche der Metaphysik: daß sie den Unterschied zwischen sachlichen und begrifflichen Untersuchungen verwischt. Das Fundamentale grammatisch ausgedrückt: Wie ist es mit dem Satz “man kann nicht zweimal in den gleichen Fluß steigen”? Man kann in gewissem Sinn mit philosophischen Irrtümern nicht vorsichtig genug umgehn, sie enthalten so viel Wahrheit. “Doch solcherlei Verdrüsse pflegen die Denkungskräfte anzuregen. Wie hilft der Gedanke einem Verdruß ab?
+<span class="series-number">458</span> Das Wesentliche der Metaphysik: daß sie den Unterschied zwischen sachlichen und begrifflichen Untersuchungen verwischt.
+
+### [Ts-233b](/ts-233b/#20.2.2) <span class="fac">[20\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-2022}
+
+<span class="series-number">459</span> Das Fundamentale grammatisch ausgedrückt: Wie ist es mit dem Satz “man kann nicht zweimal in den gleichen Fluß steigen”?
+
+### [Ts-233b](/ts-233b/#20.2.3) <span class="fac">[20\[2\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-2023}
+
+<span class="series-number">460</span> Man kann in gewissem Sinn mit philosophischen Irrtümern nicht vorsichtig genug umgehn, sie enthalten so viel Wahrheit. “Doch solcherlei Verdrüsse pflegen die Denkungskräfte anzuregen. Wie hilft der Gedanke einem Verdruß ab?
 
 ### [Ts-233b](/ts-233b/#20.3) <span class="fac">[20\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-203}
 
@@ -1862,7 +1930,11 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#20.6) <span class="fac">[20\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-206}
 
-<span class="series-number">466</span> Die Behandlung aller dieser Erscheinungen des Seelenlebens ist mir nicht darum wichtig, weil's mir auf Vollständigkeit ankommt. Sondern, weil jede für mich auf die richtige Behandlung _aller_ ein Licht wirft. Und nicht um Symptome handelt sich's hier, sondern um logische Kriterien. Daß diese nicht immer scharf getrennt sind, hindert nicht, daß sie getrennt sind.
+<span class="series-number">465</span> Die Behandlung aller dieser Erscheinungen des Seelenlebens ist mir nicht darum wichtig, weil's mir auf Vollständigkeit ankommt. Sondern, weil jede für mich auf die richtige Behandlung _aller_ ein Licht wirft.
+
+### [Ts-233b](/ts-233b/#20.6.2) <span class="fac">[20\[6\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-2062}
+
+<span class="series-number">466</span> Und nicht um Symptome handelt sich's hier, sondern um logische Kriterien. Daß diese nicht immer scharf getrennt sind, hindert nicht, daß sie getrennt sind.
 
 ### [Ts-233b](/ts-233b/#21.1) <span class="fac">[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/21.webp)</span> {#ts-233b-211}
 
@@ -1958,7 +2030,11 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#25.3) <span class="fac">[25\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-253}
 
-<span class="series-number">491</span> Man könnte auch das menschliche Gesicht ein solches Bild nennen und den _Verlauf_ der Leidenschaft durch seine Veränderungen darstellen. Zum Unterschied von den Empfindungen: sie unterrichten uns nicht über die Außenwelt. (Grammatische Bemerkung.) Liebe und Haß könnte man Gemütsdispositionen nennen: auch Furcht in einem bestimmten Sinne.
+<span class="series-number">490</span> Man könnte auch das menschliche Gesicht ein solches Bild nennen und den _Verlauf_ der Leidenschaft durch seine Veränderungen darstellen.
+
+### [Ts-233b](/ts-233b/#25.3.2) <span class="fac">[25\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-2532}
+
+<span class="series-number">491</span> Zum Unterschied von den Empfindungen: sie unterrichten uns nicht über die Außenwelt. (Grammatische Bemerkung.) Liebe und Haß könnte man Gemütsdispositionen nennen: auch Furcht in einem bestimmten Sinne.
 
 ### [Ts-233b](/ts-233b/#25.4) <span class="fac">[25\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-254}
 
@@ -1966,7 +2042,11 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#25.5) <span class="fac">[25\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-255}
 
-<span class="series-number">494</span> Es gibt furchtvolle Gedanken, hoffnungsvolle, freudige, zornige, etc. Gemütsbewegungen drücken sich in Gedanken aus. Einer redet zornig, furchtsam, traurig, freudig, etc.; nicht kreuzschmerzlich. Ein Gedanke flößt mir Gemütsbewegungen Furcht, Trauer etc. ein, nicht Körperschmerz.
+<span class="series-number">493</span> Es gibt furchtvolle Gedanken, hoffnungsvolle, freudige, zornige, etc.
+
+### [Ts-233b](/ts-233b/#25.5.2) <span class="fac">[25\[5\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-2552}
+
+<span class="series-number">494</span> Gemütsbewegungen drücken sich in Gedanken aus. Einer redet zornig, furchtsam, traurig, freudig, etc.; nicht kreuzschmerzlich. Ein Gedanke flößt mir Gemütsbewegungen Furcht, Trauer etc. ein, nicht Körperschmerz.
 
 ### [Ts-233b](/ts-233b/#25.6) <span class="fac">[25\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/25.webp)</span> {#ts-233b-256}
 
@@ -2030,7 +2110,11 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#28.2) <span class="fac">[28\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span> {#ts-233b-282}
 
-<span class="series-number">511</span> Aber der Gedanke ist hier: “Du _fühlst_ doch die Trauer- also mußt Du sie _irgendwo_ fühlen; sonst wäre sie eine Chimäre.” Aber wenn du das denken willst, rufe Dir die Verschiedenheit von Sehen und Schmerz ins Gedächtnis. Ich fühle den Schmerz in der Hand – – und die Farbe im Auge? So wie wir hier ein Schema verwenden wollen, statt bloß das wirklich Gemeinsame zu notieren, sehen wir alles falsch vereinfacht. Wollte man aber ein Analogon zum Ort des Schmerzes finden, so wäre es natürlich nicht die Seele (wie ja der Ort des Körperschmerzes nicht der Körper ist), sondern der _Gegenstand_ der Reue.
+<span class="series-number">510</span> Aber der Gedanke ist hier: “Du _fühlst_ doch die Trauer- also mußt Du sie _irgendwo_ fühlen; sonst wäre sie eine Chimäre.” Aber wenn du das denken willst, rufe Dir die Verschiedenheit von Sehen und Schmerz ins Gedächtnis. Ich fühle den Schmerz in der Hand – – und die Farbe im Auge? So wie wir hier ein Schema verwenden wollen, statt bloß das wirklich Gemeinsame zu notieren, sehen wir alles falsch vereinfacht.
+
+### [Ts-233b](/ts-233b/#28.2.2) <span class="fac">[28\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span> {#ts-233b-2822}
+
+<span class="series-number">511</span> Wollte man aber ein Analogon zum Ort des Schmerzes finden, so wäre es natürlich nicht die Seele (wie ja der Ort des Körperschmerzes nicht der Körper ist), sondern der _Gegenstand_ der Reue.
 
 ### [Ts-233b](/ts-233b/#28.3) <span class="fac">[28\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span> {#ts-233b-283}
 
@@ -2114,7 +2198,11 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 ### [Ts-233b](/ts-233b/#32b.1) <span class="fac">[32b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/32b.webp)</span> {#ts-233b-32b1}
 
-<span class="series-number">533</span> Der Schmerzbegriff ist charakterisiert durch eine bestimmte Funktion in unserem Leben. Schmerz liegt _so_ in unserem Leben, hat _solche_ Zusammenhänge. (D.h.: nur was _so_ im Leben drinliegt, _solche_ Zusammenhänge hat, nennen wir “Schmerz.”)
+<span class="series-number">532</span> Der Schmerzbegriff ist charakterisiert durch eine bestimmte Funktion in unserem Leben.
+
+### [Ts-233b](/ts-233b/#32b.1.2) <span class="fac">[32b\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/32b.webp)</span> {#ts-233b-32b12}
+
+<span class="series-number">533</span> Schmerz liegt _so_ in unserem Leben, hat _solche_ Zusammenhänge. (D.h.: nur was _so_ im Leben drinliegt, _solche_ Zusammenhänge hat, nennen wir “Schmerz.”)
 
 ### [Ts-233b](/ts-233b/#32.3) <span class="fac">[32\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/32.webp)</span> {#ts-233b-323}
 
@@ -2330,7 +2418,11 @@ Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer
 
 ### [Ts-233b](/ts-233b/#40.3) <span class="fac">[40\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-403}
 
-<span class="series-number">586</span> Die Erfahrung: neue Erfahrungen kennen zu lernen. Etwa beim Schreiben. Wann sagt man, man habe eine neue Erfahrung kennen gelernt? Wie gebraucht man so einen Satz? Das Schreiben ist gewiß eine willkürliche Bewegung, und doch eine automatische. D.h. man fühlt etwas, aber könnte das Gefühl unmöglich zergliedern. Die Hand schreibt; sie schreibt nicht, weil man will, sondern man will, was sie schreibt. Man sieht ihr nicht erstaunt oder mit Interesse beim Schreiben zu; denkt nicht “Was wird sie nun schreiben”. Aber nicht, weil man eben wünschte, sie solle das schreiben. Denn, daß sie schreibt, was ich wünsche, könnte mich ja erst recht in Erstaunen versetzen.
+<span class="series-number">585</span> Die Erfahrung: neue Erfahrungen kennen zu lernen. Etwa beim Schreiben. Wann sagt man, man habe eine neue Erfahrung kennen gelernt? Wie gebraucht man so einen Satz?
+
+### [Ts-233b](/ts-233b/#40.3.2) <span class="fac">[40\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-4032}
+
+<span class="series-number">586</span> Das Schreiben ist gewiß eine willkürliche Bewegung, und doch eine automatische. D.h. man fühlt etwas, aber könnte das Gefühl unmöglich zergliedern. Die Hand schreibt; sie schreibt nicht, weil man will, sondern man will, was sie schreibt. Man sieht ihr nicht erstaunt oder mit Interesse beim Schreiben zu; denkt nicht “Was wird sie nun schreiben”. Aber nicht, weil man eben wünschte, sie solle das schreiben. Denn, daß sie schreibt, was ich wünsche, könnte mich ja erst recht in Erstaunen versetzen.
 
 ### [Ts-233b](/ts-233b/#40.4) <span class="fac">[40\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/40.webp)</span> {#ts-233b-404}
 
@@ -2446,7 +2538,15 @@ Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer
 
 ### [Ts-233b](/ts-233b/#46.4) <span class="fac">[46\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span> {#ts-233b-464}
 
-<span class="series-number">617</span> (Ich habe noch nie eine Bemerkung darüber gelesen, daß, wenn man eine Auge schließt und “nur mit einem Auge sieht”, man die Finsternis (Schwärze) nicht zugleich mit dem geschlossenen sieht.) Die Grenzenlosigkeit des Gesichtsraumes ist am klarsten, wenn wir nichts sehn, bei vollständiger Dunkelheit. Wie verhält es sich mit dem Blinden; kann ihm ein Teil der _Sprache_ nicht erklärt werden? Oder vielmehr, nicht _beschrieben_ werden?
+<span class="series-number">615</span> (Ich habe noch nie eine Bemerkung darüber gelesen, daß, wenn man eine Auge schließt und “nur mit einem Auge sieht”, man die Finsternis (Schwärze) nicht zugleich mit dem geschlossenen sieht.)
+
+### [Ts-233b](/ts-233b/#46.4.2) <span class="fac">[46\[4\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span> {#ts-233b-4642}
+
+<span class="series-number">616</span> Die Grenzenlosigkeit des Gesichtsraumes ist am klarsten, wenn wir nichts sehn, bei vollständiger Dunkelheit.
+
+### [Ts-233b](/ts-233b/#46.4.3) <span class="fac">[46\[4\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span> {#ts-233b-4643}
+
+<span class="series-number">617</span> Wie verhält es sich mit dem Blinden; kann ihm ein Teil der _Sprache_ nicht erklärt werden? Oder vielmehr, nicht _beschrieben_ werden?
 
 ### [Ts-233b](/ts-233b/#47.1) <span class="fac">[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/47.webp)</span> {#ts-233b-471}
 
@@ -2458,7 +2558,11 @@ Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer
 
 ### [Ts-233b](/ts-233b/#47.3+48.1) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/47.webp),[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-473481}
 
-<span class="series-number">621</span> Du gibst jemanden ein Signal, wenn du dir etwas vorstellst; du benützt verschiedene Signale für verschiedene Vorstellungen. – Wie vereinbart ihr, was jedes Signal bedeuten soll? Gehörsvorstellung, Gesichtsvorstellung, wie unterscheiden sie sich von den Empfindungen? Nicht durch “Lebhaftigkeit”. Vorstellungen [unreadable] belehren uns nicht über die Außenwelt, weder richtig noch falsch. (Vorstellungen sind nicht Halluzinationen, auch nicht Einbildungen.) Während ich einen Gegenstand sehe, kann ich ihn mir nicht vorstellen. Verschiedenheit der Sprachspiele: “Schau die Figur an!” und “Stell dir die Figur vor!” Vorstellung dem Willen unterworfen. Vorstellung nicht Bild. Welchen Gegenstand ich mir vorstelle, ersehe ich nicht aus der Ähnlichkeit des Vorstellungsbildes mit ihm. Auf die Frage “Was stellst du dir vor” kann man mit einem Bild antworten
+<span class="series-number">620</span> Du gibst jemanden ein Signal, wenn du dir etwas vorstellst; du benützt verschiedene Signale für verschiedene Vorstellungen. – Wie vereinbart ihr, was jedes Signal bedeuten soll?
+
+### [Ts-233b](/ts-233b/#47.3+48.1.2) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/47.webp),[48\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-4734812}
+
+<span class="series-number">621</span> Gehörsvorstellung, Gesichtsvorstellung, wie unterscheiden sie sich von den Empfindungen? Nicht durch “Lebhaftigkeit”. Vorstellungen [unreadable] belehren uns nicht über die Außenwelt, weder richtig noch falsch. (Vorstellungen sind nicht Halluzinationen, auch nicht Einbildungen.) Während ich einen Gegenstand sehe, kann ich ihn mir nicht vorstellen. Verschiedenheit der Sprachspiele: “Schau die Figur an!” und “Stell dir die Figur vor!” Vorstellung dem Willen unterworfen. Vorstellung nicht Bild. Welchen Gegenstand ich mir vorstelle, ersehe ich nicht aus der Ähnlichkeit des Vorstellungsbildes mit ihm. Auf die Frage “Was stellst du dir vor” kann man mit einem Bild antworten
 
 ### [Ts-233b](/ts-233b/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-482}
 
@@ -2498,7 +2602,11 @@ Die Sprachspiele mit den beiden Begriffen sind grundverschieden, – hängen zus
 
 ### [Ts-233b](/ts-233b/#49.2) <span class="fac">[49\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/49.webp)</span> {#ts-233b-492}
 
-<span class="series-number">631</span> Sag dir wieder, wenn Einer darauf besteht, was er “Gesichtsvorstellung” nennt, sei ähnlich dem Gesichtseindruck: daß er sich vielleicht _irrt_! Oder: Wie, wenn er sich darin irrte? Das heißt: Was weißt du von der Ähnlichkeit seines Gesichtseindrucks und seiner Gesichtsvorstellung?! (Ich rede vom Andern, weil, was von ihm gilt, auch von mir gilt.) Was weißt du also von dieser Ähnlichkeit? Sie äußert sich nur in den Ausdrücken, die er zu gebrauchen geneigt ist; nicht in dem, was er mit diesen Ausdrücken sagt. “Es ist gar kein Zweifel: die Gesichtsvorstellung und der Gesichtseindruck sind von derselben Art!” Das mußt du aus deiner eigenen Erfahrung wissen; und dann ist es also etwas, was für dich stimmen mag und für Andere nicht. (Und das gilt natürlich auch für mich, wenn _ich_ es sage.)
+<span class="series-number">630</span> Sag dir wieder, wenn Einer darauf besteht, was er “Gesichtsvorstellung” nennt, sei ähnlich dem Gesichtseindruck: daß er sich vielleicht _irrt_! Oder: Wie, wenn er sich darin irrte? Das heißt: Was weißt du von der Ähnlichkeit seines Gesichtseindrucks und seiner Gesichtsvorstellung?! (Ich rede vom Andern, weil, was von ihm gilt, auch von mir gilt.) Was weißt du also von dieser Ähnlichkeit? Sie äußert sich nur in den Ausdrücken, die er zu gebrauchen geneigt ist; nicht in dem, was er mit diesen Ausdrücken sagt.
+
+### [Ts-233b](/ts-233b/#49.2.2) <span class="fac">[49\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/49.webp)</span> {#ts-233b-4922}
+
+<span class="series-number">631</span> “Es ist gar kein Zweifel: die Gesichtsvorstellung und der Gesichtseindruck sind von derselben Art!” Das mußt du aus deiner eigenen Erfahrung wissen; und dann ist es also etwas, was für dich stimmen mag und für Andere nicht. (Und das gilt natürlich auch für mich, wenn _ich_ es sage.)
 
 ### [Ts-233b](/ts-233b/#49.3) <span class="fac">[49\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/49.webp)</span> {#ts-233b-493}
 
@@ -2542,7 +2650,11 @@ Die Sprachspiele mit den beiden Begriffen sind grundverschieden, – hängen zus
 
 ### [Ts-233b](/ts-233b/#51.2) <span class="fac">[51\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/51.webp)</span> {#ts-233b-512}
 
-<span class="series-number">643</span> Sagte man also: “Vorstellungen sind innere Bilder, ähnlich, oder ganz so, wie meine Gesichtsempfindungen nur meinem Willen untertan” – so hätte das vorerst noch keinen Sinn. Denn wenn Einer zu berichten gelernt hat, was er dort sieht, oder was ihm dort zu sein _scheint_, so ist es doch nicht klar, was der Befehl bedeute, er solle jetzt _das_ dort sehen, oder es solle ihm jetzt _das_ dort zu sein scheinen. “Durch den bloßen Willen bewegen” was heißt es? Etwa, daß die Vorstellungsbilder meinem Willen immer genau folgen, während meine zeichnende Hand, mein Bleistift, das nicht tut? Immerhin wäre es ja dann doch möglich zu sagen: “Für gewöhnlich stelle ich mir ganz genau vor, was ich will; heute ist es anders ausgefallen.” Gibt es denn ein ‘Mißlingen der Vorstellung’?
+<span class="series-number">642</span> Sagte man also: “Vorstellungen sind innere Bilder, ähnlich, oder ganz so, wie meine Gesichtsempfindungen nur meinem Willen untertan” – so hätte das vorerst noch keinen Sinn. Denn wenn Einer zu berichten gelernt hat, was er dort sieht, oder was ihm dort zu sein _scheint_, so ist es doch nicht klar, was der Befehl bedeute, er solle jetzt _das_ dort sehen, oder es solle ihm jetzt _das_ dort zu sein scheinen.
+
+### [Ts-233b](/ts-233b/#51.2.2) <span class="fac">[51\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/51.webp)</span> {#ts-233b-5122}
+
+<span class="series-number">643</span> “Durch den bloßen Willen bewegen” was heißt es? Etwa, daß die Vorstellungsbilder meinem Willen immer genau folgen, während meine zeichnende Hand, mein Bleistift, das nicht tut? Immerhin wäre es ja dann doch möglich zu sagen: “Für gewöhnlich stelle ich mir ganz genau vor, was ich will; heute ist es anders ausgefallen.” Gibt es denn ein ‘Mißlingen der Vorstellung’?
 
 ### [Ts-233b](/ts-233b/#51.3) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/51.webp)</span> {#ts-233b-513}
 
@@ -2780,7 +2892,19 @@ Wer ihnen zusähe, fände es schwer, zu erraten, was sie tun. Und sie könnten e
 
 ### [Ts-233b](/ts-233b/#62.3+63.1) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-623631}
 
-<span class="series-number">703</span> Warum zählen wir? Hat es sich als praktisch erwiesen? Haben wir unsere Begriffe, z.B. die psychologischen, weil es vorteilhaft ist? – Und doch haben wir _gewisse_ Begriffe eben deswegen, haben sie deswegen eingeführt. Übrigens tritt der Unterschied zwischen dem, was man Sätze der Mathematik nennt und Erfahrungssätzen zu Tage, wenn man bedenkt, ob es Sinn hat zu sagen: “ich wünschte 2 × 2 wäre 5!” Wenn man bedenkt, daß die Gleichung 2 + 2 = 4 ein Beweis des Satzes ist “es gibt gerade Zahlen”, so sieht man wie lose hier das Wort “Beweis” gebraucht ist. Aus der Gleichung 2 + 2 = 4 soll der Satz “es gibt gerade Zahlen” hervorgehen?! – Und was ist der Beweis der Existenz von Primzahlen? – Die Methode der Zerlegung in Primfaktoren. Aber in dieser Methode wird ja _überhaupt nicht geredet_, auch nicht von “Primzahlen”. “Die Kinder müßten, um das Rechnen der Volksschule zu verstehen, bedeutende Philosophen sein, in Ermanglung dessen brauchen sie die Übung.” Wenn wir eine Erklärung, etwa des logischen Folgens, lesen, so halten wir uns an das, was Er schreibt. Wir halten uns an die Worte; an die Zeichen
+<span class="series-number">700</span> Warum zählen wir? Hat es sich als praktisch erwiesen? Haben wir unsere Begriffe, z.B. die psychologischen, weil es vorteilhaft ist? – Und doch haben wir _gewisse_ Begriffe eben deswegen, haben sie deswegen eingeführt.
+
+### [Ts-233b](/ts-233b/#62.3+63.1.2) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-6236312}
+
+<span class="series-number">701</span> Übrigens tritt der Unterschied zwischen dem, was man Sätze der Mathematik nennt und Erfahrungssätzen zu Tage, wenn man bedenkt, ob es Sinn hat zu sagen: “ich wünschte 2 × 2 wäre 5!”
+
+### [Ts-233b](/ts-233b/#62.3+63.1.3) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-6236313}
+
+<span class="series-number">702</span> Wenn man bedenkt, daß die Gleichung 2 + 2 = 4 ein Beweis des Satzes ist “es gibt gerade Zahlen”, so sieht man wie lose hier das Wort “Beweis” gebraucht ist. Aus der Gleichung 2 + 2 = 4 soll der Satz “es gibt gerade Zahlen” hervorgehen?! – Und was ist der Beweis der Existenz von Primzahlen? – Die Methode der Zerlegung in Primfaktoren. Aber in dieser Methode wird ja _überhaupt nicht geredet_, auch nicht von “Primzahlen”.
+
+### [Ts-233b](/ts-233b/#62.3+63.1.4) <span class="fac">[62\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/62.webp),[63\[1\].4](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-6236314}
+
+<span class="series-number">703</span> “Die Kinder müßten, um das Rechnen der Volksschule zu verstehen, bedeutende Philosophen sein, in Ermanglung dessen brauchen sie die Übung.” Wenn wir eine Erklärung, etwa des logischen Folgens, lesen, so halten wir uns an das, was Er schreibt. Wir halten uns an die Worte; an die Zeichen
 
 ### [Ts-233b](/ts-233b/#63.2) <span class="fac">[63\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp)</span> {#ts-233b-632}
 
@@ -2808,7 +2932,11 @@ Wer ihnen zusähe, fände es schwer, zu erraten, was sie tun. Und sie könnten e
 
 ### [Ts-233b](/ts-233b/#63.8+64.1) <span class="fac">[63\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp),[64\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span> {#ts-233b-638641}
 
-<span class="series-number">711</span> Man kann die Rechnung als Ornament betrachten. Eine Figur in der Ebene kann an eine andere passen oder nicht, mit anderen in verschiedener Weise zusammengefaßt werden. Wenn die Figur noch gefärbt ist, so gibt es dann noch ein Passen in Bezug auf die Farbe. (Die Farbe ist nur eine weitere Dimension.) Es gibt eine Betrachtungsweise der elektrischen Maschinen und Apparate (Dynamos, Radiostationen, etc. etc.), die sozusagen ohne vorgefaßtes Verständnis diese Gegenstände als eine Verteilung von Kupfer, Eisen, Gummi, etc. im Raum ansieht. Und diese Betrachtungsweise könnte zu manchem interessanten Resultat führen. Sie ist ganz analog der eines mathematischen Satzes als Ornament. – Es ist natürlich eine durchaus strenge und korrekte Auffassung; und das Charakteristische und Schwierige an ihr ist, daß sie den Gegenstand ohne jede vorgefaßte Idee betrachtet (sozusagen von einem Marsstandpunkt), oder vielleicht richtiger: die normale vorgefaßte Idee, Erklärung, zerstört (durchkreuzt).
+<span class="series-number">710</span> Man kann die Rechnung als Ornament betrachten. Eine Figur in der Ebene kann an eine andere passen oder nicht, mit anderen in verschiedener Weise zusammengefaßt werden. Wenn die Figur noch gefärbt ist, so gibt es dann noch ein Passen in Bezug auf die Farbe. (Die Farbe ist nur eine weitere Dimension.)
+
+### [Ts-233b](/ts-233b/#63.8+64.1.2) <span class="fac">[63\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp),[64\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span> {#ts-233b-6386412}
+
+<span class="series-number">711</span> Es gibt eine Betrachtungsweise der elektrischen Maschinen und Apparate (Dynamos, Radiostationen, etc. etc.), die sozusagen ohne vorgefaßtes Verständnis diese Gegenstände als eine Verteilung von Kupfer, Eisen, Gummi, etc. im Raum ansieht. Und diese Betrachtungsweise könnte zu manchem interessanten Resultat führen. Sie ist ganz analog der eines mathematischen Satzes als Ornament. – Es ist natürlich eine durchaus strenge und korrekte Auffassung; und das Charakteristische und Schwierige an ihr ist, daß sie den Gegenstand ohne jede vorgefaßte Idee betrachtet (sozusagen von einem Marsstandpunkt), oder vielleicht richtiger: die normale vorgefaßte Idee, Erklärung, zerstört (durchkreuzt).
 
 ### [Ts-233b](/ts-233b/#64.2) <span class="fac">[64\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span> {#ts-233b-642}
 
