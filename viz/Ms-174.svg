@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="426" height="374.00000000000233" viewBox="0 0 426 374.00000000000233">
+<svg xmlns="http://www.w3.org/2000/svg" width="426" height="374.80000000000234" viewBox="0 0 426 374.80000000000234">
 <style>
   @font-face {
     font-family: "TeX Gyre Pagella";
@@ -12,7 +12,7 @@
 </style>
 <rect width="100%" height="100%" fill="white"/>
 <text x="380" y="18.8" class="title">Ms-174</text>
-<rect x="380" y="21.75" width="8" height="156.5" class="fill"/>
+<rect x="380" y="21.75" width="8" height="157.3" class="fill"/>
 <line x1="388" y1="29.2" x2="391" y2="29.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="29.2" class="label" dominant-baseline="middle">2v</text>
 <line x1="388" y1="37.2" x2="391" y2="37.2" stroke="#000" stroke-width="0.5"/>
@@ -30,13 +30,13 @@
 <line x1="388" y1="85.2" x2="391" y2="85.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="85.2" class="label" dominant-baseline="middle">16r</text>
 <line x1="388" y1="93.2" x2="391" y2="93.2" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="93.2" class="label" dominant-baseline="middle">18v</text>
+<text x="399" y="93.2" class="label" dominant-baseline="middle">18r</text>
 <line x1="388" y1="101.2" x2="391" y2="101.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="101.2" class="label" dominant-baseline="middle">21v</text>
 <line x1="388" y1="109.2" x2="391" y2="109.2" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="109.2" class="label" dominant-baseline="middle">23v</text>
+<text x="399" y="109.2" class="label" dominant-baseline="middle">23r</text>
 <line x1="388" y1="117.2" x2="391" y2="117.2" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="117.2" class="label" dominant-baseline="middle">26r</text>
+<text x="399" y="117.2" class="label" dominant-baseline="middle">25v</text>
 <line x1="388" y1="125.2" x2="391" y2="125.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="125.2" class="label" dominant-baseline="middle">27r</text>
 <line x1="388" y1="133.2" x2="391" y2="133.2" stroke="#000" stroke-width="0.5"/>
@@ -44,13 +44,13 @@
 <line x1="388" y1="141.2" x2="391" y2="141.2" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="141.2" class="label" dominant-baseline="middle">31v</text>
 <line x1="388" y1="149.2" x2="391" y2="149.2" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="149.2" class="label" dominant-baseline="middle">34r</text>
+<text x="399" y="149.2" class="label" dominant-baseline="middle">33v</text>
 <line x1="388" y1="157.20000000000002" x2="391" y2="157.20000000000002" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="157.20000000000002" class="label" dominant-baseline="middle">35v</text>
 <line x1="388" y1="165.20000000000002" x2="391" y2="165.20000000000002" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="165.20000000000002" class="label" dominant-baseline="middle">37v</text>
 <line x1="388" y1="173.20000000000002" x2="391" y2="173.20000000000002" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="173.20000000000002" class="label" dominant-baseline="middle">39r</text>
+<text x="399" y="173.20000000000002" class="label" dominant-baseline="middle">38v</text>
 <text x="0" y="18.8" class="title">Letzte Schriften über die Philosophie der Psychologie – II MS 174</text>
 <rect x="0" y="21.75" width="8" height="48.49999999999987" class="fill"/>
 <text x="0" y="89.59999999999987" class="title">Vermischte Bemerkungen</text>
@@ -59,10 +59,10 @@
 <text x="4" y="113.99999999999982" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
 <text x="0" y="163.60000000000002" class="title">Über Gewißheit</text>
 <rect x="0" y="166.55" width="8" height="15.700000000000216" class="fill"/>
-<rect x="0" y="193.75000000000023" width="8" height="132.50000000000188" class="fill"/>
-<rect x="0" y="337.7500000000021" width="8" height="15.700000000000216" class="fill"/>
+<rect x="0" y="193.75000000000023" width="8" height="133.3000000000019" class="fill"/>
+<rect x="0" y="338.5500000000021" width="8" height="15.700000000000216" class="fill"/>
 <text x="4" y="188.00000000000023" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<text x="4" y="332.0000000000021" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<text x="4" y="332.8000000000021" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
 <path d="M 10,21.75 C 194,21.75 194,21.75 378,21.75 L 378,24.65 C 194,24.65 194,24.650000000000002 10,24.650000000000002 Z" class="curve"/>
 <path d="M 10,135.7499999999999 C 194,135.7499999999999 194,25.75 378,25.75 L 378,27.05 C 194,27.05 194,137.0499999999999 10,137.0499999999999 Z" class="curve"/>
 <path d="M 10,24.950000000000003 C 194,24.950000000000003 194,27.35 378,27.35 L 378,40.650000000000006 C 194,40.650000000000006 194,38.249999999999986 10,38.249999999999986 Z" class="curve"/>
@@ -76,5 +76,5 @@
 <path d="M 10,48.14999999999995 C 194,48.14999999999995 194,54.550000000000004 378,54.550000000000004 L 378,60.650000000000006 C 194,60.650000000000006 194,54.24999999999993 10,54.24999999999993 Z" class="curve"/>
 <path d="M 10,141.34999999999997 C 194,141.34999999999997 194,60.95 378,60.95 L 378,61.45 C 194,61.45 194,141.84999999999997 10,141.84999999999997 Z" class="curve"/>
 <path d="M 10,54.549999999999926 C 194,54.549999999999926 194,61.75 378,61.75 L 378,77.45 C 194,77.45 194,70.24999999999987 10,70.24999999999987 Z" class="curve"/>
-<path d="M 10,209.75000000000045 C 194,209.75000000000045 194,77.75 378,77.75 L 378,178.25 C 194,178.25 194,310.2500000000019 10,310.2500000000019 Z" class="curve"/>
+<path d="M 10,209.75000000000045 C 194,209.75000000000045 194,77.75 378,77.75 L 378,179.05 C 194,179.05 194,311.0500000000019 10,311.0500000000019 Z" class="curve"/>
 </svg>

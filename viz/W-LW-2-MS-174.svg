@@ -34,12 +34,12 @@
 <line x1="388" y1="85.19999999999982" x2="391" y2="85.19999999999982" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="85.19999999999982" class="label" dominant-baseline="middle">16r</text>
 <line x1="388" y1="93.19999999999979" x2="391" y2="93.19999999999979" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="93.19999999999979" class="label" dominant-baseline="middle">18v</text>
+<text x="399" y="93.19999999999979" class="label" dominant-baseline="middle">18r</text>
 <text x="384" y="99.19999999999979" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<line x1="388" y1="107.59999999999978" x2="391" y2="107.59999999999978" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="107.59999999999978" class="label" dominant-baseline="middle">37v</text>
-<line x1="388" y1="115.59999999999975" x2="391" y2="115.59999999999975" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="115.59999999999975" class="label" dominant-baseline="middle">39r</text>
+<line x1="388" y1="106.79999999999978" x2="391" y2="106.79999999999978" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="106.79999999999978" class="label" dominant-baseline="middle">37v</text>
+<line x1="388" y1="114.79999999999976" x2="391" y2="114.79999999999976" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="114.79999999999976" class="label" dominant-baseline="middle">38v</text>
 <path d="M 10,21.75 C 194,21.75 194,21.75 378,21.75 L 378,24.650000000000002 C 194,24.650000000000002 194,24.799999999999997 10,24.799999999999997 Z" class="curve"/>
 <path d="M 10,24.799999999999997 C 194,24.799999999999997 194,27.350000000000005 378,27.350000000000005 L 378,40.64999999999998 C 194,40.64999999999998 194,38.4 10,38.4 Z" class="curve"/>
 <path d="M 10,38.4 C 194,38.4 194,42.54999999999997 378,42.54999999999997 L 378,43.849999999999966 C 194,43.849999999999966 194,40 10,40 Z" class="curve"/>

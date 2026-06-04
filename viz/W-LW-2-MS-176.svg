@@ -22,24 +22,24 @@
 <line x1="388" y1="37.19999999999999" x2="391" y2="37.19999999999999" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="37.19999999999999" class="label" dominant-baseline="middle">6v</text>
 <text x="384" y="43.19999999999999" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<line x1="388" y1="50.79999999999998" x2="391" y2="50.79999999999998" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="50.79999999999998" class="label" dominant-baseline="middle">42r</text>
-<line x1="388" y1="58.799999999999955" x2="391" y2="58.799999999999955" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="58.799999999999955" class="label" dominant-baseline="middle">44r</text>
+<line x1="388" y1="49.999999999999986" x2="391" y2="49.999999999999986" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="49.999999999999986" class="label" dominant-baseline="middle">42r</text>
+<line x1="388" y1="57.99999999999996" x2="391" y2="57.99999999999996" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="57.99999999999996" class="label" dominant-baseline="middle">44r</text>
 <line x1="372" y1="65.19999999999993" x2="396" y2="65.19999999999993" stroke="#000" stroke-width="0.5" stroke-dasharray="1,1"/>
-<line x1="388" y1="66.79999999999993" x2="391" y2="66.79999999999993" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="66.79999999999993" class="label" dominant-baseline="middle">47r</text>
-<line x1="388" y1="74.7999999999999" x2="391" y2="74.7999999999999" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="74.7999999999999" class="label" dominant-baseline="middle">50r</text>
+<line x1="388" y1="65.99999999999993" x2="391" y2="65.99999999999993" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="65.99999999999993" class="label" dominant-baseline="middle">47r</text>
+<line x1="388" y1="73.9999999999999" x2="391" y2="73.9999999999999" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="73.9999999999999" class="label" dominant-baseline="middle">50r</text>
 <line x1="372" y1="76.39999999999989" x2="396" y2="76.39999999999989" stroke="#000" stroke-width="0.5" stroke-dasharray="1,1"/>
-<line x1="388" y1="82.79999999999987" x2="391" y2="82.79999999999987" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="82.79999999999987" class="label" dominant-baseline="middle">54v</text>
-<line x1="388" y1="90.79999999999984" x2="391" y2="90.79999999999984" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="90.79999999999984" class="label" dominant-baseline="middle">56v</text>
+<line x1="388" y1="81.99999999999987" x2="391" y2="81.99999999999987" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="81.99999999999987" class="label" dominant-baseline="middle">54v</text>
+<line x1="388" y1="89.99999999999984" x2="391" y2="89.99999999999984" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="89.99999999999984" class="label" dominant-baseline="middle">56r</text>
 <text x="384" y="97.59999999999984" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<line x1="388" y1="104.39999999999984" x2="391" y2="104.39999999999984" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="104.39999999999984" class="label" dominant-baseline="middle">76r</text>
-<line x1="388" y1="112.3999999999998" x2="391" y2="112.3999999999998" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="112.3999999999998" class="label" dominant-baseline="middle">79r</text>
+<line x1="388" y1="103.59999999999984" x2="391" y2="103.59999999999984" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="103.59999999999984" class="label" dominant-baseline="middle">76r</text>
+<line x1="388" y1="111.59999999999981" x2="391" y2="111.59999999999981" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="111.59999999999981" class="label" dominant-baseline="middle">78v</text>
 <path d="M 10,21.75 C 194,21.75 194,64.94999999999993 378,64.94999999999993 L 378,75.8499999999999 C 194,75.8499999999999 194,32.65 10,32.65 Z" class="curve"/>
 </svg>

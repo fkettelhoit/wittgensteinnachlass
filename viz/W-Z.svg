@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="426" height="741.9999999999955" viewBox="0 0 426 741.9999999999955">
+<svg xmlns="http://www.w3.org/2000/svg" width="426" height="769.1999999999939" viewBox="0 0 426 769.1999999999939">
 <style>
   @font-face {
     font-family: "TeX Gyre Pagella";
@@ -12,9 +12,9 @@
 </style>
 <rect width="100%" height="100%" fill="white"/>
 <text x="0" y="18.8" class="title">Zettel</text>
-<rect x="0" y="21.75" width="8" height="552.5" class="fill"/>
+<rect x="0" y="21.75" width="8" height="579.7" class="fill"/>
 <text x="380" y="18.8" class="title">Ts-233a</text>
-<rect x="380" y="21.75" width="8" height="286.1000000000022" class="fill"/>
+<rect x="380" y="21.75" width="8" height="292.5000000000023" class="fill"/>
 <line x1="388" y1="29.200000000000006" x2="391" y2="29.200000000000006" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="29.200000000000006" class="label" dominant-baseline="middle">3</text>
 <line x1="388" y1="37.19999999999999" x2="391" y2="37.19999999999999" stroke="#000" stroke-width="0.5"/>
@@ -30,216 +30,222 @@
 <line x1="388" y1="77.19999999999985" x2="391" y2="77.19999999999985" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="77.19999999999985" class="label" dominant-baseline="middle">15</text>
 <line x1="388" y1="85.19999999999982" x2="391" y2="85.19999999999982" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="85.19999999999982" class="label" dominant-baseline="middle">17</text>
+<text x="399" y="85.19999999999982" class="label" dominant-baseline="middle">17.1</text>
 <line x1="388" y1="93.19999999999979" x2="391" y2="93.19999999999979" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="93.19999999999979" class="label" dominant-baseline="middle">19</text>
+<text x="399" y="93.19999999999979" class="label" dominant-baseline="middle">18</text>
 <line x1="388" y1="101.19999999999976" x2="391" y2="101.19999999999976" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="101.19999999999976" class="label" dominant-baseline="middle">20</text>
 <line x1="388" y1="109.19999999999973" x2="391" y2="109.19999999999973" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="109.19999999999973" class="label" dominant-baseline="middle">23</text>
+<text x="399" y="109.19999999999973" class="label" dominant-baseline="middle">22</text>
 <line x1="388" y1="117.1999999999997" x2="391" y2="117.1999999999997" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="117.1999999999997" class="label" dominant-baseline="middle">25</text>
+<text x="399" y="117.1999999999997" class="label" dominant-baseline="middle">24</text>
 <line x1="388" y1="125.19999999999968" x2="391" y2="125.19999999999968" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="125.19999999999968" class="label" dominant-baseline="middle">27</text>
+<text x="399" y="125.19999999999968" class="label" dominant-baseline="middle">26</text>
 <line x1="388" y1="133.19999999999973" x2="391" y2="133.19999999999973" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="133.19999999999973" class="label" dominant-baseline="middle">29</text>
+<text x="399" y="133.19999999999973" class="label" dominant-baseline="middle">27</text>
 <line x1="388" y1="141.19999999999985" x2="391" y2="141.19999999999985" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="141.19999999999985" class="label" dominant-baseline="middle">31</text>
+<text x="399" y="141.19999999999985" class="label" dominant-baseline="middle">30</text>
 <line x1="388" y1="149.19999999999996" x2="391" y2="149.19999999999996" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="149.19999999999996" class="label" dominant-baseline="middle">33</text>
+<text x="399" y="149.19999999999996" class="label" dominant-baseline="middle">31</text>
 <line x1="388" y1="157.20000000000007" x2="391" y2="157.20000000000007" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="157.20000000000007" class="label" dominant-baseline="middle">35</text>
+<text x="399" y="157.20000000000007" class="label" dominant-baseline="middle">33</text>
 <line x1="388" y1="165.2000000000002" x2="391" y2="165.2000000000002" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="165.2000000000002" class="label" dominant-baseline="middle">37</text>
+<text x="399" y="165.2000000000002" class="label" dominant-baseline="middle">35</text>
 <line x1="388" y1="173.2000000000003" x2="391" y2="173.2000000000003" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="173.2000000000003" class="label" dominant-baseline="middle">38</text>
+<text x="399" y="173.2000000000003" class="label" dominant-baseline="middle">37</text>
 <line x1="388" y1="181.20000000000041" x2="391" y2="181.20000000000041" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="181.20000000000041" class="label" dominant-baseline="middle">41</text>
+<text x="399" y="181.20000000000041" class="label" dominant-baseline="middle">38</text>
 <line x1="388" y1="189.20000000000053" x2="391" y2="189.20000000000053" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="189.20000000000053" class="label" dominant-baseline="middle">44</text>
+<text x="399" y="189.20000000000053" class="label" dominant-baseline="middle">42</text>
 <line x1="388" y1="197.20000000000064" x2="391" y2="197.20000000000064" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="197.20000000000064" class="label" dominant-baseline="middle">45</text>
 <line x1="388" y1="205.20000000000076" x2="391" y2="205.20000000000076" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="205.20000000000076" class="label" dominant-baseline="middle">47</text>
+<text x="399" y="205.20000000000076" class="label" dominant-baseline="middle">46</text>
 <line x1="388" y1="213.20000000000087" x2="391" y2="213.20000000000087" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="213.20000000000087" class="label" dominant-baseline="middle">50</text>
+<text x="399" y="213.20000000000087" class="label" dominant-baseline="middle">48</text>
 <line x1="388" y1="221.20000000000098" x2="391" y2="221.20000000000098" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="221.20000000000098" class="label" dominant-baseline="middle">52</text>
+<text x="399" y="221.20000000000098" class="label" dominant-baseline="middle">51</text>
 <line x1="388" y1="229.2000000000011" x2="391" y2="229.2000000000011" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="229.2000000000011" class="label" dominant-baseline="middle">54</text>
+<text x="399" y="229.2000000000011" class="label" dominant-baseline="middle">53</text>
 <line x1="388" y1="237.2000000000012" x2="391" y2="237.2000000000012" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="237.2000000000012" class="label" dominant-baseline="middle">55</text>
+<text x="399" y="237.2000000000012" class="label" dominant-baseline="middle">54</text>
 <line x1="388" y1="245.20000000000132" x2="391" y2="245.20000000000132" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="245.20000000000132" class="label" dominant-baseline="middle">57</text>
+<text x="399" y="245.20000000000132" class="label" dominant-baseline="middle">55</text>
 <line x1="388" y1="253.20000000000144" x2="391" y2="253.20000000000144" stroke="#000" stroke-width="0.5"/>
 <text x="399" y="253.20000000000144" class="label" dominant-baseline="middle">58</text>
 <line x1="388" y1="261.2000000000015" x2="391" y2="261.2000000000015" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="261.2000000000015" class="label" dominant-baseline="middle">60</text>
+<text x="399" y="261.2000000000015" class="label" dominant-baseline="middle">59</text>
 <line x1="388" y1="269.20000000000164" x2="391" y2="269.20000000000164" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="269.20000000000164" class="label" dominant-baseline="middle">62</text>
+<text x="399" y="269.20000000000164" class="label" dominant-baseline="middle">61</text>
 <line x1="388" y1="277.20000000000175" x2="391" y2="277.20000000000175" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="277.20000000000175" class="label" dominant-baseline="middle">65</text>
+<text x="399" y="277.20000000000175" class="label" dominant-baseline="middle">63</text>
 <line x1="388" y1="285.20000000000186" x2="391" y2="285.20000000000186" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="285.20000000000186" class="label" dominant-baseline="middle">67</text>
+<text x="399" y="285.20000000000186" class="label" dominant-baseline="middle">65</text>
 <line x1="388" y1="293.200000000002" x2="391" y2="293.200000000002" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="293.200000000002" class="label" dominant-baseline="middle">69</text>
+<text x="399" y="293.200000000002" class="label" dominant-baseline="middle">67</text>
 <line x1="388" y1="301.2000000000021" x2="391" y2="301.2000000000021" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="301.2000000000021" class="label" dominant-baseline="middle">71</text>
-<text x="380" y="327.2000000000022" class="title">Ts-233b</text>
-<rect x="380" y="330.1500000000022" width="8" height="282.0999999999969" class="fill"/>
-<line x1="388" y1="337.6000000000023" x2="391" y2="337.6000000000023" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="337.6000000000023" class="label" dominant-baseline="middle">2</text>
-<line x1="388" y1="345.6000000000024" x2="391" y2="345.6000000000024" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="345.6000000000024" class="label" dominant-baseline="middle">4</text>
-<line x1="388" y1="353.6000000000025" x2="391" y2="353.6000000000025" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="353.6000000000025" class="label" dominant-baseline="middle">5</text>
-<line x1="388" y1="361.60000000000264" x2="391" y2="361.60000000000264" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="361.60000000000264" class="label" dominant-baseline="middle">7</text>
-<line x1="388" y1="369.60000000000275" x2="391" y2="369.60000000000275" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="369.60000000000275" class="label" dominant-baseline="middle">8</text>
-<line x1="388" y1="377.60000000000286" x2="391" y2="377.60000000000286" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="377.60000000000286" class="label" dominant-baseline="middle">10</text>
-<line x1="388" y1="385.600000000003" x2="391" y2="385.600000000003" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="385.600000000003" class="label" dominant-baseline="middle">12</text>
-<line x1="388" y1="393.6000000000031" x2="391" y2="393.6000000000031" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="393.6000000000031" class="label" dominant-baseline="middle">13</text>
-<line x1="388" y1="401.6000000000032" x2="391" y2="401.6000000000032" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="401.6000000000032" class="label" dominant-baseline="middle">18</text>
-<line x1="388" y1="409.6000000000033" x2="391" y2="409.6000000000033" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="409.6000000000033" class="label" dominant-baseline="middle">20</text>
-<line x1="388" y1="417.60000000000343" x2="391" y2="417.60000000000343" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="417.60000000000343" class="label" dominant-baseline="middle">21</text>
-<line x1="388" y1="425.60000000000355" x2="391" y2="425.60000000000355" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="425.60000000000355" class="label" dominant-baseline="middle">23</text>
-<line x1="388" y1="433.60000000000366" x2="391" y2="433.60000000000366" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="433.60000000000366" class="label" dominant-baseline="middle">25</text>
-<line x1="388" y1="441.6000000000038" x2="391" y2="441.6000000000038" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="441.6000000000038" class="label" dominant-baseline="middle">26</text>
-<line x1="388" y1="449.6000000000039" x2="391" y2="449.6000000000039" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="449.6000000000039" class="label" dominant-baseline="middle">28</text>
-<line x1="388" y1="457.600000000004" x2="391" y2="457.600000000004" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="457.600000000004" class="label" dominant-baseline="middle">30</text>
-<line x1="388" y1="465.6000000000041" x2="391" y2="465.6000000000041" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="465.6000000000041" class="label" dominant-baseline="middle">32</text>
-<line x1="388" y1="473.60000000000423" x2="391" y2="473.60000000000423" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="473.60000000000423" class="label" dominant-baseline="middle">33</text>
-<line x1="388" y1="481.60000000000434" x2="391" y2="481.60000000000434" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="481.60000000000434" class="label" dominant-baseline="middle">36</text>
-<line x1="388" y1="489.60000000000446" x2="391" y2="489.60000000000446" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="489.60000000000446" class="label" dominant-baseline="middle">37</text>
-<line x1="388" y1="497.60000000000457" x2="391" y2="497.60000000000457" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="497.60000000000457" class="label" dominant-baseline="middle">38</text>
-<line x1="388" y1="505.6000000000047" x2="391" y2="505.6000000000047" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="505.6000000000047" class="label" dominant-baseline="middle">40</text>
-<line x1="388" y1="513.6000000000047" x2="391" y2="513.6000000000047" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="513.6000000000047" class="label" dominant-baseline="middle">41</text>
-<line x1="388" y1="521.6000000000042" x2="391" y2="521.6000000000042" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="521.6000000000042" class="label" dominant-baseline="middle">44</text>
-<line x1="388" y1="529.6000000000038" x2="391" y2="529.6000000000038" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="529.6000000000038" class="label" dominant-baseline="middle">46</text>
-<line x1="388" y1="537.6000000000033" x2="391" y2="537.6000000000033" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="537.6000000000033" class="label" dominant-baseline="middle">48</text>
-<line x1="388" y1="545.6000000000029" x2="391" y2="545.6000000000029" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="545.6000000000029" class="label" dominant-baseline="middle">50</text>
-<line x1="388" y1="553.6000000000024" x2="391" y2="553.6000000000024" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="553.6000000000024" class="label" dominant-baseline="middle">52</text>
-<line x1="388" y1="561.600000000002" x2="391" y2="561.600000000002" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="561.600000000002" class="label" dominant-baseline="middle">54</text>
-<line x1="388" y1="569.6000000000015" x2="391" y2="569.6000000000015" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="569.6000000000015" class="label" dominant-baseline="middle">56</text>
-<line x1="388" y1="577.600000000001" x2="391" y2="577.600000000001" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="577.600000000001" class="label" dominant-baseline="middle">58</text>
-<line x1="388" y1="585.6000000000006" x2="391" y2="585.6000000000006" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="585.6000000000006" class="label" dominant-baseline="middle">60</text>
-<line x1="388" y1="593.6000000000001" x2="391" y2="593.6000000000001" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="593.6000000000001" class="label" dominant-baseline="middle">61</text>
-<line x1="388" y1="601.5999999999997" x2="391" y2="601.5999999999997" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="601.5999999999997" class="label" dominant-baseline="middle">63</text>
-<line x1="388" y1="609.5999999999992" x2="391" y2="609.5999999999992" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="609.5999999999992" class="label" dominant-baseline="middle">IIIv</text>
-<text x="380" y="631.599999999999" class="title">Ts-232</text>
-<rect x="380" y="634.549999999999" width="8" height="15.699999999999136" class="fill"/>
-<rect x="380" y="661.7499999999982" width="8" height="32.49999999999818" class="fill"/>
-<rect x="380" y="705.7499999999964" width="8" height="15.699999999999136" class="fill"/>
-<line x1="388" y1="641.9999999999986" x2="391" y2="641.9999999999986" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="641.9999999999986" class="label" dominant-baseline="middle">602</text>
-<line x1="388" y1="649.9999999999982" x2="391" y2="649.9999999999982" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="649.9999999999982" class="label" dominant-baseline="middle">605</text>
-<text x="384" y="655.9999999999982" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<line x1="388" y1="666.7999999999979" x2="391" y2="666.7999999999979" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="666.7999999999979" class="label" dominant-baseline="middle">709</text>
-<line x1="388" y1="674.7999999999975" x2="391" y2="674.7999999999975" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="674.7999999999975" class="label" dominant-baseline="middle">712</text>
-<line x1="388" y1="682.799999999997" x2="391" y2="682.799999999997" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="682.799999999997" class="label" dominant-baseline="middle">714</text>
-<line x1="388" y1="690.7999999999965" x2="391" y2="690.7999999999965" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="690.7999999999965" class="label" dominant-baseline="middle">716</text>
-<text x="384" y="699.9999999999964" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
-<line x1="388" y1="706.7999999999963" x2="391" y2="706.7999999999963" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="706.7999999999963" class="label" dominant-baseline="middle">770</text>
-<line x1="388" y1="714.7999999999959" x2="391" y2="714.7999999999959" stroke="#000" stroke-width="0.5"/>
-<text x="399" y="714.7999999999959" class="label" dominant-baseline="middle">771</text>
-<path d="M 10,21.75 C 194,21.75 194,21.75 378,21.75 L 378,46.24999999999996 C 194,46.24999999999996 194,46.4 10,46.4 Z" class="curve"/>
-<path d="M 10,46.4 C 194,46.4 194,47.34999999999995 378,47.34999999999995 L 378,47.84999999999995 C 194,47.84999999999995 194,47.2 10,47.2 Z" class="curve"/>
-<path d="M 10,47.2 C 194,47.2 194,46.549999999999955 378,46.549999999999955 L 378,47.049999999999955 C 194,47.049999999999955 194,48 10,48 Z" class="curve"/>
-<path d="M 10,48 C 194,48 194,48.14999999999995 378,48.14999999999995 L 378,49.449999999999946 C 194,49.449999999999946 194,49.6 10,49.6 Z" class="curve"/>
-<path d="M 10,49.6 C 194,49.6 194,50.54999999999994 378,50.54999999999994 L 378,55.049999999999926 C 194,55.049999999999926 194,54.400000000000006 10,54.400000000000006 Z" class="curve"/>
-<path d="M 10,54.400000000000006 C 194,54.400000000000006 194,70.54999999999987 378,70.54999999999987 L 378,71.04999999999987 C 194,71.04999999999987 194,55.2 10,55.2 Z" class="curve"/>
-<path d="M 10,55.2 C 194,55.2 194,72.14999999999986 378,72.14999999999986 L 378,76.64999999999985 C 194,76.64999999999985 194,60 10,60 Z" class="curve"/>
-<path d="M 10,60 C 194,60 194,78.54999999999984 378,78.54999999999984 L 378,81.44999999999983 C 194,81.44999999999983 194,63.2 10,63.2 Z" class="curve"/>
-<path d="M 10,63.2 C 194,63.2 194,55.34999999999992 378,55.34999999999992 L 378,70.24999999999987 C 194,70.24999999999987 194,78.4 10,78.4 Z" class="curve"/>
-<path d="M 10,78.4 C 194,78.4 194,81.74999999999983 378,81.74999999999983 L 378,91.8499999999998 C 194,91.8499999999998 194,88.80000000000001 10,88.80000000000001 Z" class="curve"/>
-<path d="M 10,88.80000000000001 C 194,88.80000000000001 194,100.94999999999976 378,100.94999999999976 L 378,101.44999999999976 C 194,101.44999999999976 194,89.6 10,89.6 Z" class="curve"/>
-<path d="M 10,89.6 C 194,89.6 194,92.14999999999979 378,92.14999999999979 L 378,100.64999999999976 C 194,100.64999999999976 194,98.4 10,98.4 Z" class="curve"/>
-<path d="M 10,98.4 C 194,98.4 194,101.74999999999976 378,101.74999999999976 L 378,113.44999999999972 C 194,113.44999999999972 194,110.4 10,110.4 Z" class="curve"/>
-<path d="M 10,110.4 C 194,110.4 194,115.34999999999971 378,115.34999999999971 L 378,115.84999999999971 C 194,115.84999999999971 194,111.20000000000002 10,111.20000000000002 Z" class="curve"/>
-<path d="M 10,111.20000000000002 C 194,111.20000000000002 194,113.74999999999972 378,113.74999999999972 L 378,115.04999999999971 C 194,115.04999999999971 194,112.80000000000001 10,112.80000000000001 Z" class="curve"/>
-<path d="M 10,112.80000000000001 C 194,112.80000000000001 194,116.14999999999971 378,116.14999999999971 L 378,139.0499999999998 C 194,139.0499999999998 194,136 10,136 Z" class="curve"/>
-<path d="M 10,136 C 194,136 194,140.14999999999984 378,140.14999999999984 L 378,140.64999999999984 C 194,140.64999999999984 194,136.8 10,136.8 Z" class="curve"/>
-<path d="M 10,136.8 C 194,136.8 194,139.34999999999982 378,139.34999999999982 L 378,139.84999999999982 C 194,139.84999999999982 194,137.6 10,137.6 Z" class="curve"/>
-<path d="M 10,137.6 C 194,137.6 194,140.94999999999985 378,140.94999999999985 L 378,148.64999999999995 C 194,148.64999999999995 194,145.6 10,145.6 Z" class="curve"/>
-<path d="M 10,145.6 C 194,145.6 194,158.5500000000001 378,158.5500000000001 L 378,160.65000000000012 C 194,160.65000000000012 194,148 10,148 Z" class="curve"/>
-<path d="M 10,148 C 194,148 194,148.94999999999996 378,148.94999999999996 L 378,158.25000000000009 C 194,158.25000000000009 194,157.60000000000002 10,157.60000000000002 Z" class="curve"/>
-<path d="M 10,157.60000000000002 C 194,157.60000000000002 194,160.95000000000013 378,160.95000000000013 L 378,195.0500000000006 C 194,195.0500000000006 194,192 10,192 Z" class="curve"/>
-<path d="M 10,192 C 194,192 194,196.15000000000063 378,196.15000000000063 L 378,239.85000000000124 C 194,239.85000000000124 194,236 10,236 Z" class="curve"/>
-<path d="M 10,236 C 194,236 194,240.95000000000127 378,240.95000000000127 L 378,241.45000000000127 C 194,241.45000000000127 194,236.8 10,236.8 Z" class="curve"/>
-<path d="M 10,236.8 C 194,236.8 194,242.5500000000013 378,242.5500000000013 L 378,263.85000000000156 C 194,263.85000000000156 194,258.4 10,258.4 Z" class="curve"/>
-<path d="M 10,258.4 C 194,258.4 194,266.5500000000016 378,266.5500000000016 L 378,307.8500000000022 C 194,307.8500000000022 194,300 10,300 Z" class="curve"/>
-<path d="M 10,300 C 194,300 194,330.1500000000022 378,330.1500000000022 L 378,330.6500000000022 C 194,330.6500000000022 194,300.8 10,300.8 Z" class="curve"/>
-<path d="M 10,300.8 C 194,300.8 194,677.7499999999973 378,677.7499999999973 L 378,678.2499999999973 C 194,678.2499999999973 194,301.6 10,301.6 Z" class="curve"/>
-<path d="M 10,301.6 C 194,301.6 194,330.9500000000022 378,330.9500000000022 L 378,346.6500000000024 C 194,346.6500000000024 194,317.6 10,317.6 Z" class="curve"/>
-<path d="M 10,317.6 C 194,317.6 194,348.55000000000246 378,348.55000000000246 L 378,349.05000000000246 C 194,349.05000000000246 194,318.4 10,318.4 Z" class="curve"/>
-<path d="M 10,318.4 C 194,318.4 194,346.95000000000243 378,346.95000000000243 L 378,348.25000000000244 C 194,348.25000000000244 194,320 10,320 Z" class="curve"/>
-<path d="M 10,320 C 194,320 194,349.35000000000247 378,349.35000000000247 L 378,350.6500000000025 C 194,350.6500000000025 194,321.6 10,321.6 Z" class="curve"/>
-<path d="M 10,321.6 C 194,321.6 194,351.7500000000025 378,351.7500000000025 L 378,353.8500000000025 C 194,353.8500000000025 194,324 10,324 Z" class="curve"/>
-<path d="M 10,324 C 194,324 194,358.9500000000026 378,358.9500000000026 L 378,359.4500000000026 C 194,359.4500000000026 194,324.8 10,324.8 Z" class="curve"/>
-<path d="M 10,324.8 C 194,324.8 194,354.15000000000254 378,354.15000000000254 L 378,358.6500000000026 C 194,358.6500000000026 194,329.6 10,329.6 Z" class="curve"/>
-<path d="M 10,329.6 C 194,329.6 194,365.3500000000027 378,365.3500000000027 L 378,366.6500000000027 C 194,366.6500000000027 194,331.20000000000005 10,331.20000000000005 Z" class="curve"/>
-<path d="M 10,331.20000000000005 C 194,331.20000000000005 194,360.5500000000026 378,360.5500000000026 L 378,363.45000000000266 C 194,363.45000000000266 194,334.4 10,334.4 Z" class="curve"/>
-<path d="M 10,334.4 C 194,334.4 194,359.7500000000026 378,359.7500000000026 L 378,360.2500000000026 C 194,360.2500000000026 194,335.20000000000005 10,335.20000000000005 Z" class="curve"/>
-<path d="M 10,335.20000000000005 C 194,335.20000000000005 194,363.7500000000027 378,363.7500000000027 L 378,365.0500000000027 C 194,365.0500000000027 194,336.80000000000007 10,336.80000000000007 Z" class="curve"/>
-<path d="M 10,336.80000000000007 C 194,336.80000000000007 194,366.9500000000027 378,366.9500000000027 L 378,375.45000000000283 C 194,375.45000000000283 194,345.6 10,345.6 Z" class="curve"/>
-<path d="M 10,345.6 C 194,345.6 194,376.55000000000285 378,376.55000000000285 L 378,377.05000000000285 C 194,377.05000000000285 194,346.4 10,346.4 Z" class="curve"/>
-<path d="M 10,346.4 C 194,346.4 194,375.75000000000284 378,375.75000000000284 L 378,376.25000000000284 C 194,376.25000000000284 194,347.20000000000005 10,347.20000000000005 Z" class="curve"/>
-<path d="M 10,347.20000000000005 C 194,347.20000000000005 194,377.35000000000286 378,377.35000000000286 L 378,392.25000000000307 C 194,392.25000000000307 194,362.4 10,362.4 Z" class="curve"/>
-<path d="M 10,362.4 C 194,362.4 194,394.1500000000031 378,394.1500000000031 L 378,409.8500000000033 C 194,409.8500000000033 194,378.4 10,378.4 Z" class="curve"/>
-<path d="M 10,378.4 C 194,378.4 194,410.95000000000334 378,410.95000000000334 L 378,411.45000000000334 C 194,411.45000000000334 194,379.20000000000005 10,379.20000000000005 Z" class="curve"/>
-<path d="M 10,379.20000000000005 C 194,379.20000000000005 194,410.15000000000333 378,410.15000000000333 L 378,410.65000000000333 C 194,410.65000000000333 194,380 10,380 Z" class="curve"/>
-<path d="M 10,380 C 194,380 194,411.75000000000335 378,411.75000000000335 L 378,460.25000000000404 C 194,460.25000000000404 194,428.80000000000007 10,428.80000000000007 Z" class="curve"/>
-<path d="M 10,428.80000000000007 C 194,428.80000000000007 194,461.35000000000406 378,461.35000000000406 L 378,463.4500000000041 C 194,463.4500000000041 194,431.20000000000005 10,431.20000000000005 Z" class="curve"/>
-<path d="M 10,431.20000000000005 C 194,431.20000000000005 194,466.95000000000414 378,466.95000000000414 L 378,467.45000000000414 C 194,467.45000000000414 194,432 10,432 Z" class="curve"/>
-<path d="M 10,432 C 194,432 194,463.7500000000041 378,463.7500000000041 L 378,465.8500000000041 C 194,465.8500000000041 194,434.4 10,434.4 Z" class="curve"/>
-<path d="M 10,434.4 C 194,434.4 194,467.75000000000415 378,467.75000000000415 L 378,491.4500000000045 C 194,491.4500000000045 194,458.4 10,458.4 Z" class="curve"/>
-<path d="M 10,458.4 C 194,458.4 194,492.5500000000045 378,492.5500000000045 L 378,493.0500000000045 C 194,493.0500000000045 194,459.20000000000005 10,459.20000000000005 Z" class="curve"/>
-<path d="M 10,459.20000000000005 C 194,459.20000000000005 194,491.7500000000045 378,491.7500000000045 L 378,492.2500000000045 C 194,492.2500000000045 194,460 10,460 Z" class="curve"/>
-<path d="M 10,460 C 194,460 194,493.3500000000045 378,493.3500000000045 L 378,503.45000000000465 C 194,503.45000000000465 194,470.4 10,470.4 Z" class="curve"/>
-<path d="M 10,470.4 C 194,470.4 194,510.15000000000475 378,510.15000000000475 L 378,510.65000000000475 C 194,510.65000000000475 194,471.20000000000005 10,471.20000000000005 Z" class="curve"/>
-<path d="M 10,471.20000000000005 C 194,471.20000000000005 194,503.75000000000466 378,503.75000000000466 L 378,509.85000000000474 C 194,509.85000000000474 194,477.6 10,477.6 Z" class="curve"/>
-<path d="M 10,477.6 C 194,477.6 194,510.95000000000476 378,510.95000000000476 L 378,553.8500000000024 C 194,553.8500000000024 194,520.8000000000001 10,520.8000000000001 Z" class="curve"/>
-<path d="M 10,520.8000000000001 C 194,520.8000000000001 194,609.3499999999992 378,609.3499999999992 L 378,609.8499999999992 C 194,609.8499999999992 194,521.6 10,521.6 Z" class="curve"/>
-<path d="M 10,521.6 C 194,521.6 194,554.1500000000024 378,554.1500000000024 L 378,569.8500000000015 C 194,569.8500000000015 194,537.6 10,537.6 Z" class="curve"/>
-<path d="M 10,537.6 C 194,537.6 194,570.9500000000014 378,570.9500000000014 L 378,571.4500000000014 C 194,571.4500000000014 194,538.4000000000001 10,538.4000000000001 Z" class="curve"/>
-<path d="M 10,538.4000000000001 C 194,538.4000000000001 194,570.1500000000015 378,570.1500000000015 L 378,570.6500000000015 C 194,570.6500000000015 194,539.2 10,539.2 Z" class="curve"/>
-<path d="M 10,539.2 C 194,539.2 194,571.7500000000014 378,571.7500000000014 L 378,605.8499999999995 C 194,605.8499999999995 194,573.6 10,573.6 Z" class="curve"/>
-<path d="M 10,573.6 C 194,573.6 194,607.7499999999993 378,607.7499999999993 L 378,608.2499999999993 C 194,608.2499999999993 194,574.25 10,574.25 Z" class="curve"/>
+<text x="399" y="301.2000000000021" class="label" dominant-baseline="middle">69</text>
+<line x1="388" y1="309.2000000000022" x2="391" y2="309.2000000000022" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="309.2000000000022" class="label" dominant-baseline="middle">71</text>
+<text x="380" y="333.6000000000023" class="title">Ts-233b</text>
+<rect x="380" y="336.5500000000023" width="8" height="302.89999999999526" class="fill"/>
+<line x1="388" y1="344.0000000000024" x2="391" y2="344.0000000000024" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="344.0000000000024" class="label" dominant-baseline="middle">2</text>
+<line x1="388" y1="352.0000000000025" x2="391" y2="352.0000000000025" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="352.0000000000025" class="label" dominant-baseline="middle">4</text>
+<line x1="388" y1="360.0000000000026" x2="391" y2="360.0000000000026" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="360.0000000000026" class="label" dominant-baseline="middle">5</text>
+<line x1="388" y1="368.00000000000273" x2="391" y2="368.00000000000273" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="368.00000000000273" class="label" dominant-baseline="middle">6a</text>
+<line x1="388" y1="376.00000000000284" x2="391" y2="376.00000000000284" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="376.00000000000284" class="label" dominant-baseline="middle">8a</text>
+<line x1="388" y1="384.00000000000296" x2="391" y2="384.00000000000296" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="384.00000000000296" class="label" dominant-baseline="middle">9</text>
+<line x1="388" y1="392.00000000000307" x2="391" y2="392.00000000000307" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="392.00000000000307" class="label" dominant-baseline="middle">11</text>
+<line x1="388" y1="400.0000000000032" x2="391" y2="400.0000000000032" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="400.0000000000032" class="label" dominant-baseline="middle">12</text>
+<line x1="388" y1="408.0000000000033" x2="391" y2="408.0000000000033" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="408.0000000000033" class="label" dominant-baseline="middle">14</text>
+<line x1="388" y1="416.0000000000034" x2="391" y2="416.0000000000034" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="416.0000000000034" class="label" dominant-baseline="middle">18</text>
+<line x1="388" y1="424.0000000000035" x2="391" y2="424.0000000000035" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="424.0000000000035" class="label" dominant-baseline="middle">20.2</text>
+<line x1="388" y1="432.00000000000364" x2="391" y2="432.00000000000364" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="432.00000000000364" class="label" dominant-baseline="middle">21</text>
+<line x1="388" y1="440.00000000000375" x2="391" y2="440.00000000000375" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="440.00000000000375" class="label" dominant-baseline="middle">22</text>
+<line x1="388" y1="448.00000000000387" x2="391" y2="448.00000000000387" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="448.00000000000387" class="label" dominant-baseline="middle">25</text>
+<line x1="388" y1="456.000000000004" x2="391" y2="456.000000000004" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="456.000000000004" class="label" dominant-baseline="middle">26</text>
+<line x1="388" y1="464.0000000000041" x2="391" y2="464.0000000000041" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="464.0000000000041" class="label" dominant-baseline="middle">28</text>
+<line x1="388" y1="472.0000000000042" x2="391" y2="472.0000000000042" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="472.0000000000042" class="label" dominant-baseline="middle">29</text>
+<line x1="388" y1="480.0000000000043" x2="391" y2="480.0000000000043" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="480.0000000000043" class="label" dominant-baseline="middle">31</text>
+<line x1="388" y1="488.00000000000443" x2="391" y2="488.00000000000443" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="488.00000000000443" class="label" dominant-baseline="middle">33</text>
+<line x1="388" y1="496.00000000000455" x2="391" y2="496.00000000000455" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="496.00000000000455" class="label" dominant-baseline="middle">35</text>
+<line x1="388" y1="504.00000000000466" x2="391" y2="504.00000000000466" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="504.00000000000466" class="label" dominant-baseline="middle">36</text>
+<line x1="388" y1="512.0000000000048" x2="391" y2="512.0000000000048" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="512.0000000000048" class="label" dominant-baseline="middle">37</text>
+<line x1="388" y1="520.0000000000043" x2="391" y2="520.0000000000043" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="520.0000000000043" class="label" dominant-baseline="middle">39</text>
+<line x1="388" y1="528.0000000000039" x2="391" y2="528.0000000000039" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="528.0000000000039" class="label" dominant-baseline="middle">40</text>
+<line x1="388" y1="536.0000000000034" x2="391" y2="536.0000000000034" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="536.0000000000034" class="label" dominant-baseline="middle">42</text>
+<line x1="388" y1="544.000000000003" x2="391" y2="544.000000000003" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="544.000000000003" class="label" dominant-baseline="middle">44</text>
+<line x1="388" y1="552.0000000000025" x2="391" y2="552.0000000000025" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="552.0000000000025" class="label" dominant-baseline="middle">46.4</text>
+<line x1="388" y1="560.000000000002" x2="391" y2="560.000000000002" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="560.000000000002" class="label" dominant-baseline="middle">48</text>
+<line x1="388" y1="568.0000000000016" x2="391" y2="568.0000000000016" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="568.0000000000016" class="label" dominant-baseline="middle">50</text>
+<line x1="388" y1="576.0000000000011" x2="391" y2="576.0000000000011" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="576.0000000000011" class="label" dominant-baseline="middle">51</text>
+<line x1="388" y1="584.0000000000007" x2="391" y2="584.0000000000007" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="584.0000000000007" class="label" dominant-baseline="middle">54</text>
+<line x1="388" y1="592.0000000000002" x2="391" y2="592.0000000000002" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="592.0000000000002" class="label" dominant-baseline="middle">56</text>
+<line x1="388" y1="599.9999999999998" x2="391" y2="599.9999999999998" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="599.9999999999998" class="label" dominant-baseline="middle">57</text>
+<line x1="388" y1="607.9999999999993" x2="391" y2="607.9999999999993" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="607.9999999999993" class="label" dominant-baseline="middle">60</text>
+<line x1="388" y1="615.9999999999989" x2="391" y2="615.9999999999989" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="615.9999999999989" class="label" dominant-baseline="middle">61</text>
+<line x1="388" y1="623.9999999999984" x2="391" y2="623.9999999999984" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="623.9999999999984" class="label" dominant-baseline="middle">63</text>
+<line x1="388" y1="631.999999999998" x2="391" y2="631.999999999998" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="631.999999999998" class="label" dominant-baseline="middle">65</text>
+<text x="380" y="658.7999999999975" class="title">Ts-232</text>
+<rect x="380" y="661.7499999999975" width="8" height="15.699999999999136" class="fill"/>
+<rect x="380" y="688.9499999999966" width="8" height="32.49999999999818" class="fill"/>
+<rect x="380" y="732.9499999999948" width="8" height="15.699999999999136" class="fill"/>
+<line x1="388" y1="669.1999999999971" x2="391" y2="669.1999999999971" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="669.1999999999971" class="label" dominant-baseline="middle">602</text>
+<line x1="388" y1="677.1999999999966" x2="391" y2="677.1999999999966" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="677.1999999999966" class="label" dominant-baseline="middle">605</text>
+<text x="384" y="683.1999999999966" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<line x1="388" y1="693.9999999999964" x2="391" y2="693.9999999999964" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="693.9999999999964" class="label" dominant-baseline="middle">709</text>
+<line x1="388" y1="701.9999999999959" x2="391" y2="701.9999999999959" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="701.9999999999959" class="label" dominant-baseline="middle">712</text>
+<line x1="388" y1="709.9999999999955" x2="391" y2="709.9999999999955" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="709.9999999999955" class="label" dominant-baseline="middle">714</text>
+<line x1="388" y1="717.999999999995" x2="391" y2="717.999999999995" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="717.999999999995" class="label" dominant-baseline="middle">716</text>
+<text x="384" y="727.1999999999948" class="label" text-anchor="middle" dominant-baseline="middle">⋮</text>
+<line x1="388" y1="733.9999999999948" x2="391" y2="733.9999999999948" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="733.9999999999948" class="label" dominant-baseline="middle">770</text>
+<line x1="388" y1="741.9999999999943" x2="391" y2="741.9999999999943" stroke="#000" stroke-width="0.5"/>
+<text x="399" y="741.9999999999943" class="label" dominant-baseline="middle">771</text>
+<path d="M 10,21.75 C 194,21.75 194,21.75 378,21.75 L 378,47.049999999999955 C 194,47.049999999999955 194,47.2 10,47.2 Z" class="curve"/>
+<path d="M 10,47.2 C 194,47.2 194,48.14999999999995 378,48.14999999999995 L 378,48.64999999999995 C 194,48.64999999999995 194,48 10,48 Z" class="curve"/>
+<path d="M 10,48 C 194,48 194,47.34999999999995 378,47.34999999999995 L 378,47.84999999999995 C 194,47.84999999999995 194,48.800000000000004 10,48.800000000000004 Z" class="curve"/>
+<path d="M 10,48.800000000000004 C 194,48.800000000000004 194,48.949999999999946 378,48.949999999999946 L 378,50.24999999999994 C 194,50.24999999999994 194,50.4 10,50.4 Z" class="curve"/>
+<path d="M 10,50.4 C 194,50.4 194,51.34999999999994 378,51.34999999999994 L 378,55.84999999999992 C 194,55.84999999999992 194,55.2 10,55.2 Z" class="curve"/>
+<path d="M 10,55.2 C 194,55.2 194,71.34999999999987 378,71.34999999999987 L 378,71.84999999999987 C 194,71.84999999999987 194,56 10,56 Z" class="curve"/>
+<path d="M 10,56 C 194,56 194,72.94999999999986 378,72.94999999999986 L 378,77.44999999999985 C 194,77.44999999999985 194,60.800000000000004 10,60.800000000000004 Z" class="curve"/>
+<path d="M 10,60.800000000000004 C 194,60.800000000000004 194,79.34999999999984 378,79.34999999999984 L 378,82.24999999999983 C 194,82.24999999999983 194,64 10,64 Z" class="curve"/>
+<path d="M 10,64 C 194,64 194,56.14999999999992 378,56.14999999999992 L 378,71.04999999999987 C 194,71.04999999999987 194,79.2 10,79.2 Z" class="curve"/>
+<path d="M 10,79.2 C 194,79.2 194,82.54999999999983 378,82.54999999999983 L 378,94.24999999999979 C 194,94.24999999999979 194,91.2 10,91.2 Z" class="curve"/>
+<path d="M 10,91.2 C 194,91.2 194,104.94999999999975 378,104.94999999999975 L 378,105.44999999999975 C 194,105.44999999999975 194,92 10,92 Z" class="curve"/>
+<path d="M 10,92 C 194,92 194,94.54999999999978 378,94.54999999999978 L 378,104.64999999999975 C 194,104.64999999999975 194,102.4 10,102.4 Z" class="curve"/>
+<path d="M 10,102.4 C 194,102.4 194,105.74999999999974 378,105.74999999999974 L 378,117.4499999999997 C 194,117.4499999999997 194,114.4 10,114.4 Z" class="curve"/>
+<path d="M 10,114.4 C 194,114.4 194,119.3499999999997 378,119.3499999999997 L 378,119.8499999999997 C 194,119.8499999999997 194,115.20000000000002 10,115.20000000000002 Z" class="curve"/>
+<path d="M 10,115.20000000000002 C 194,115.20000000000002 194,117.7499999999997 378,117.7499999999997 L 378,119.0499999999997 C 194,119.0499999999997 194,116.80000000000001 10,116.80000000000001 Z" class="curve"/>
+<path d="M 10,116.80000000000001 C 194,116.80000000000001 194,120.1499999999997 378,120.1499999999997 L 378,143.04999999999987 C 194,143.04999999999987 194,140 10,140 Z" class="curve"/>
+<path d="M 10,140 C 194,140 194,144.1499999999999 378,144.1499999999999 L 378,144.6499999999999 C 194,144.6499999999999 194,140.8 10,140.8 Z" class="curve"/>
+<path d="M 10,140.8 C 194,140.8 194,143.34999999999988 378,143.34999999999988 L 378,143.84999999999988 C 194,143.84999999999988 194,141.6 10,141.6 Z" class="curve"/>
+<path d="M 10,141.6 C 194,141.6 194,144.9499999999999 378,144.9499999999999 L 378,153.45000000000002 C 194,153.45000000000002 194,150.4 10,150.4 Z" class="curve"/>
+<path d="M 10,150.4 C 194,150.4 194,164.15000000000018 378,164.15000000000018 L 378,166.2500000000002 C 194,166.2500000000002 194,152.8 10,152.8 Z" class="curve"/>
+<path d="M 10,152.8 C 194,152.8 194,153.75000000000003 378,153.75000000000003 L 378,163.85000000000016 C 194,163.85000000000016 194,163.2 10,163.2 Z" class="curve"/>
+<path d="M 10,163.2 C 194,163.2 194,166.5500000000002 378,166.5500000000002 L 378,200.6500000000007 C 194,200.6500000000007 194,197.60000000000002 10,197.60000000000002 Z" class="curve"/>
+<path d="M 10,197.60000000000002 C 194,197.60000000000002 194,201.7500000000007 378,201.7500000000007 L 378,245.45000000000132 C 194,245.45000000000132 194,241.60000000000002 10,241.60000000000002 Z" class="curve"/>
+<path d="M 10,241.60000000000002 C 194,241.60000000000002 194,246.55000000000135 378,246.55000000000135 L 378,247.05000000000135 C 194,247.05000000000135 194,242.4 10,242.4 Z" class="curve"/>
+<path d="M 10,242.4 C 194,242.4 194,248.15000000000137 378,248.15000000000137 L 378,269.45000000000164 C 194,269.45000000000164 194,264 10,264 Z" class="curve"/>
+<path d="M 10,264 C 194,264 194,272.1500000000017 378,272.1500000000017 L 378,314.2500000000023 C 194,314.2500000000023 194,306.4 10,306.4 Z" class="curve"/>
+<path d="M 10,306.4 C 194,306.4 194,336.5500000000023 378,336.5500000000023 L 378,337.0500000000023 C 194,337.0500000000023 194,307.20000000000005 10,307.20000000000005 Z" class="curve"/>
+<path d="M 10,307.20000000000005 C 194,307.20000000000005 194,704.9499999999957 378,704.9499999999957 L 378,705.4499999999957 C 194,705.4499999999957 194,308 10,308 Z" class="curve"/>
+<path d="M 10,308 C 194,308 194,337.3500000000023 378,337.3500000000023 L 378,353.8500000000025 C 194,353.8500000000025 194,324.8 10,324.8 Z" class="curve"/>
+<path d="M 10,324.8 C 194,324.8 194,355.75000000000256 378,355.75000000000256 L 378,357.05000000000257 C 194,357.05000000000257 194,326.4 10,326.4 Z" class="curve"/>
+<path d="M 10,326.4 C 194,326.4 194,354.15000000000254 378,354.15000000000254 L 378,355.45000000000255 C 194,355.45000000000255 194,328 10,328 Z" class="curve"/>
+<path d="M 10,328 C 194,328 194,357.3500000000026 378,357.3500000000026 L 378,358.6500000000026 C 194,358.6500000000026 194,329.6 10,329.6 Z" class="curve"/>
+<path d="M 10,329.6 C 194,329.6 194,359.7500000000026 378,359.7500000000026 L 378,361.85000000000264 C 194,361.85000000000264 194,332 10,332 Z" class="curve"/>
+<path d="M 10,332 C 194,332 194,367.75000000000273 378,367.75000000000273 L 378,369.05000000000274 C 194,369.05000000000274 194,333.6 10,333.6 Z" class="curve"/>
+<path d="M 10,333.6 C 194,333.6 194,362.15000000000265 378,362.15000000000265 L 378,367.4500000000027 C 194,367.4500000000027 194,339.20000000000005 10,339.20000000000005 Z" class="curve"/>
+<path d="M 10,339.20000000000005 C 194,339.20000000000005 194,374.95000000000283 378,374.95000000000283 L 378,376.25000000000284 C 194,376.25000000000284 194,340.80000000000007 10,340.80000000000007 Z" class="curve"/>
+<path d="M 10,340.80000000000007 C 194,340.80000000000007 194,370.15000000000276 378,370.15000000000276 L 378,373.0500000000028 C 194,373.0500000000028 194,344 10,344 Z" class="curve"/>
+<path d="M 10,344 C 194,344 194,369.35000000000275 378,369.35000000000275 L 378,369.85000000000275 C 194,369.85000000000275 194,344.80000000000007 10,344.80000000000007 Z" class="curve"/>
+<path d="M 10,344.80000000000007 C 194,344.80000000000007 194,373.3500000000028 378,373.3500000000028 L 378,374.6500000000028 C 194,374.6500000000028 194,346.4 10,346.4 Z" class="curve"/>
+<path d="M 10,346.4 C 194,346.4 194,376.55000000000285 378,376.55000000000285 L 378,386.650000000003 C 194,386.650000000003 194,356.80000000000007 10,356.80000000000007 Z" class="curve"/>
+<path d="M 10,356.80000000000007 C 194,356.80000000000007 194,387.750000000003 378,387.750000000003 L 378,388.250000000003 C 194,388.250000000003 194,357.6 10,357.6 Z" class="curve"/>
+<path d="M 10,357.6 C 194,357.6 194,386.950000000003 378,386.950000000003 L 378,387.450000000003 C 194,387.450000000003 194,358.4 10,358.4 Z" class="curve"/>
+<path d="M 10,358.4 C 194,358.4 194,388.550000000003 378,388.550000000003 L 378,403.45000000000323 C 194,403.45000000000323 194,373.6 10,373.6 Z" class="curve"/>
+<path d="M 10,373.6 C 194,373.6 194,405.35000000000326 378,405.35000000000326 L 378,425.05000000000354 C 194,425.05000000000354 194,393.6 10,393.6 Z" class="curve"/>
+<path d="M 10,393.6 C 194,393.6 194,426.15000000000356 378,426.15000000000356 L 378,426.65000000000356 C 194,426.65000000000356 194,394.4 10,394.4 Z" class="curve"/>
+<path d="M 10,394.4 C 194,394.4 194,425.35000000000355 378,425.35000000000355 L 378,425.85000000000355 C 194,425.85000000000355 194,395.20000000000005 10,395.20000000000005 Z" class="curve"/>
+<path d="M 10,395.20000000000005 C 194,395.20000000000005 194,426.95000000000357 378,426.95000000000357 L 378,478.6500000000043 C 194,478.6500000000043 194,447.20000000000005 10,447.20000000000005 Z" class="curve"/>
+<path d="M 10,447.20000000000005 C 194,447.20000000000005 194,479.7500000000043 378,479.7500000000043 L 378,481.85000000000434 C 194,481.85000000000434 194,449.6 10,449.6 Z" class="curve"/>
+<path d="M 10,449.6 C 194,449.6 194,485.3500000000044 378,485.3500000000044 L 378,486.6500000000044 C 194,486.6500000000044 194,451.20000000000005 10,451.20000000000005 Z" class="curve"/>
+<path d="M 10,451.20000000000005 C 194,451.20000000000005 194,482.15000000000435 378,482.15000000000435 L 378,484.2500000000044 C 194,484.2500000000044 194,453.6 10,453.6 Z" class="curve"/>
+<path d="M 10,453.6 C 194,453.6 194,486.9500000000044 378,486.9500000000044 L 378,510.65000000000475 C 194,510.65000000000475 194,477.6 10,477.6 Z" class="curve"/>
+<path d="M 10,477.6 C 194,477.6 194,511.7500000000048 378,511.7500000000048 L 378,512.2500000000048 C 194,512.2500000000048 194,478.4 10,478.4 Z" class="curve"/>
+<path d="M 10,478.4 C 194,478.4 194,510.95000000000476 378,510.95000000000476 L 378,511.45000000000476 C 194,511.45000000000476 194,479.20000000000005 10,479.20000000000005 Z" class="curve"/>
+<path d="M 10,479.20000000000005 C 194,479.20000000000005 194,512.5500000000047 378,512.5500000000047 L 378,522.6500000000042 C 194,522.6500000000042 194,489.6 10,489.6 Z" class="curve"/>
+<path d="M 10,489.6 C 194,489.6 194,530.1500000000037 378,530.1500000000037 L 378,530.6500000000037 C 194,530.6500000000037 194,490.4 10,490.4 Z" class="curve"/>
+<path d="M 10,490.4 C 194,490.4 194,522.9500000000041 378,522.9500000000041 L 378,529.8500000000038 C 194,529.8500000000038 194,497.6 10,497.6 Z" class="curve"/>
+<path d="M 10,497.6 C 194,497.6 194,530.9500000000037 378,530.9500000000037 L 378,577.850000000001 C 194,577.850000000001 194,544.8 10,544.8 Z" class="curve"/>
+<path d="M 10,544.8 C 194,544.8 194,636.5499999999977 378,636.5499999999977 L 378,637.0499999999977 C 194,637.0499999999977 194,545.6 10,545.6 Z" class="curve"/>
+<path d="M 10,545.6 C 194,545.6 194,578.150000000001 378,578.150000000001 L 378,593.8500000000001 C 194,593.8500000000001 194,561.6 10,561.6 Z" class="curve"/>
+<path d="M 10,561.6 C 194,561.6 194,594.95 378,594.95 L 378,595.45 C 194,595.45 194,562.4000000000001 10,562.4000000000001 Z" class="curve"/>
+<path d="M 10,562.4000000000001 C 194,562.4000000000001 194,594.1500000000001 378,594.1500000000001 L 378,594.6500000000001 C 194,594.6500000000001 194,563.2 10,563.2 Z" class="curve"/>
+<path d="M 10,563.2 C 194,563.2 194,595.75 378,595.75 L 378,633.0499999999979 C 194,633.0499999999979 194,600.8 10,600.8 Z" class="curve"/>
+<path d="M 10,600.8 C 194,600.8 194,634.9499999999978 378,634.9499999999978 L 378,635.4499999999978 C 194,635.4499999999978 194,601.45 10,601.45 Z" class="curve"/>
 </svg>
