@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1938, 26 remarks, Ts-222</summary>
+<summary>1938, 27 remarks, Ts-222</summary>
 
 <img class="viz" src="/viz/W-RFM-1-App-1.svg">
 
@@ -41,6 +41,12 @@ Es kommt eben darauf an, wie wir sie addieren
 <span class="series-number">3</span> “Das ist bereits alles, was sich darüber sagen läßt.” –
 
 “non non p” als Verneinung des verneinten Satzes _auffassen_, das ist im besonderen Fall etwa: eine Erklärung der Art “non non p = non (non p)” geben.
+
+### [Ts-222](/ts-222/#137.2+138.1.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/137.webp),[138\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/138.webp)</span> {#ts-222-137213812}
+
+<span class="series-number">4</span> “Wenn ‘ne’ eine Verneinung ist, so muß ‘ne ne p’, wenn es nur entsprechend aufgefaßt wird, gleich p sein.” “Wenn man ‘ne ne p’ als Negation von p nimmt, muß man die Verdoppelung anders auffassen.” Man möchte sagen: “‘Verdoppelung’ _heißt_ dann etwas anderes, _darum_ ergibt sie jetzt eine Verneinung”, also: daß sie jetzt eine Verneinung ergibt ist die Folge ihrer anderen Bedeutung. “Ich meine sie jetzt als Verstärkung”, würde man sagen. Wir setzen statt der Meinung den Ausdruck der Meinung. Richte Deinen Blick auf den Ausdruck der Meinung
+
+[→ Siehe № 60 ]
 
 ### [Ts-222](/ts-222/#138.2) <span class="fac">[138\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/138.webp)</span> {#ts-222-1382}
 

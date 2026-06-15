@@ -1922,7 +1922,7 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 <span class="series-number">463</span> Zur Mathematik
 
-<span class="series-number">44</span> “Du hast einen falschen Begriff. – Aber aufklären läßt sich die Sache nicht dadurch, daß ich gegen deine Worte wettere; sondern nur dadurch, daß ich versuche, deine Aufmerksamkeit von gewissen Ausdrücken, Illustrationen, Vorstellungen weg und auf die Verwendung der Wörter hin zu lenken.”
+“Du hast einen falschen Begriff. – Aber aufklären läßt sich die Sache nicht dadurch, daß ich gegen deine Worte wettere; sondern nur dadurch, daß ich versuche, deine Aufmerksamkeit von gewissen Ausdrücken, Illustrationen, Vorstellungen weg und auf die Verwendung der Wörter hin zu lenken.”
 
 ### [Ts-233b](/ts-233b/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-205}
 

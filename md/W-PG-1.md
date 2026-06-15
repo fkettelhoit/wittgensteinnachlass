@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1933–1934, 591 remarks, Ms-140, Ms-114, Ts-213, Ms-115</summary>
+<summary>1933–1934, 592 remarks, Ms-140, Ms-114, Ts-213, Ms-115</summary>
 
 <img class="viz" src="/viz/W-PG-1.svg">
 
@@ -1950,9 +1950,13 @@ Ein Gedankenexperiment, (das) kommt auf dasselbe hinaus, wie ein Experiment, das
 
 Versuche folgendes: Sage einen Satz, etwa: “das Wetter ist heute sehr schön”; & nun denke den Gedanken dieses Satzes, aber ohne Satz, sondern rein.
 
+### [Ms-114](/ms-114/#143v.3+144r.1) <span class="fac">[143v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/143v.webp),[144r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/144r.webp)</span> {#ms-114-143v3144r1}
+
+<span class="series-number">107</span> “Es scheint als würde man die Intention von außen betrachtet nie als Intention erkennen; als müßte man sie selbst meinen, um sie als Meinung zu verstehen.” Kann man Magenschmerzen, von außen betrachtet, als solche verstehen? Was sind Magenschmerzen von außen betrachtet? Es gibt doch hier gar kein außen & innen! Freilich, sofern das Meinen eine spezifische Erfahrung ist, wird man keine andere “meinen” nennen. Nur erklärt keine Besonderheit der Empfindung die Richtung der Meinung. Und wenn wir sagten “von außen betrachtet kann man die Intention nicht als Intention erkennen etc.”, so wollten wir auch gar nicht sagen, die Meinung sei eine besondere Erfahrung, sondern sie sei nicht etwas was geschähe oder uns geschähe (denn das wäre ja tot) aber etwas was wir tun. (Das Subjekt falle hier nicht aus der Erfahrung heraus, sondern sei so in ihr involviert, daß sich die Erfahrung nicht beschreiben ließe.)
+
 ### [Ms-114](/ms-114/#144r.2) <span class="fac">[144r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/144r.webp)</span> {#ms-114-144r2}
 
-<span class="series-number">107</span> Es ist beinahe als sagte man: wir können uns nicht dorthin gehen sehen, da wir selbst gehen(und also nicht stehen & zuschauen können). Aber hier laborieren wir eben, wie so sehr oft, an einer Ausdrucksweise, die inadäquat ist, die wir abschütteln wollen, aber zugleich gebrauchen, & wir kleiden den Protest gegen unsere eigene Ausdrucksweise in einen Satz, der ihr angehört. Denn, wenn man sagt, “wir sehen uns dorthin gehen”, so meint man eben, daß wir sehen, was man sieht, wenn man selbst geht & nicht was man sieht wenn ein Anderer geht. Und man hat auch eine bestimmte Seherfahrung wenn man selbst geht.
+Es ist beinahe als sagte man: wir können uns nicht dorthin gehen sehen, da wir selbst gehen(und also nicht stehen & zuschauen können). Aber hier laborieren wir eben, wie so sehr oft, an einer Ausdrucksweise, die inadäquat ist, die wir abschütteln wollen, aber zugleich gebrauchen, & wir kleiden den Protest gegen unsere eigene Ausdrucksweise in einen Satz, der ihr angehört. Denn, wenn man sagt, “wir sehen uns dorthin gehen”, so meint man eben, daß wir sehen, was man sieht, wenn man selbst geht & nicht was man sieht wenn ein Anderer geht. Und man hat auch eine bestimmte Seherfahrung wenn man selbst geht.
 
 ### [Ms-114](/ms-114/#144v.1) <span class="fac">[144v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/144v.webp)</span> {#ms-114-144v1}
 

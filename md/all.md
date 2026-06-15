@@ -14,7 +14,7 @@
 
 ### [Philosophy of Psychology – A Fragment](W-PPF.md)
 
-- 1949, 382 remarks
+- 1949, 383 remarks
 
 ### [Zettel](W-Z.md)
 
@@ -30,7 +30,7 @@
 
 ### [Remarks on the Foundations of Mathematics](W-RFM.md)
 
-- 1938–1944, 1724 remarks
+- 1938–1944, 1728 remarks
 
 ### [Cause and Effect](W-CE.md)
 

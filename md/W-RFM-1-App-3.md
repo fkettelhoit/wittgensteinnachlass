@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1938, 19 remarks, Ts-221a, Ts-223</summary>
+<summary>1938, 20 remarks, Ts-221a, Ts-223</summary>
 
 <img class="viz" src="/viz/W-RFM-1-App-3.svg">
 
@@ -67,6 +67,10 @@
 ### [Ts-223](/ts-223/#252.3+253.1) <span class="fac">[252\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-223/252.webp),[253\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-223/253.webp)</span> {#ts-223-25232531}
 
 <span class="series-number">15</span> Ob etwas mit Recht der Satz genannt wird “X ist unbeweisbar”, hängt davon ab, wie wir diesen Satz beweisen. Nur der Beweis zeigt, was als das Kriterium der Unbeweisbarkeit gilt. Der Beweis ist ein Teil des Systems von Operationen, des Spiels, worin der Satz gebraucht wird, und zeigt uns seinen ‘Sinn’. Es ist also die Frage ob der “Beweis der Unbeweisbarkeit’ von p hier ein triftiger Grund ist zur Annahme daß ein Beweis von p nicht gefunden werden wird.
+
+### [Ts-223](/ts-223/#252.3+253.1.2) <span class="fac">[252\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-223/252.webp),[253\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-223/253.webp)</span> {#ts-223-252325312}
+
+<span class="series-number">16</span> Der Satz “p ist unbeweisbar” hat einen andern Sinn, nach dem – als ehe er bewiesen ist. Ist er bewiesen, so ist er die Schlußfigur des Unbeweisbarkeitsbeweises. – Ist er unbewiesen, so ist ja noch nicht _klar_, _was_ als Kriterium seiner Wahrheit zu gelten hat, und sein Sinn ist – kann man sagen – noch verschleiert.
 
 ### [Ts-221a](/ts-221a/#253.2+254.1) <span class="fac">[253\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-221a/253.webp),[254\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-221a/254.webp)</span> {#ts-221a-25322541}
 

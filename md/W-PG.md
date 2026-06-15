@@ -1,7 +1,7 @@
 # Philosophische Grammatik
 
 <details>
-<summary>1931–1938, 1518 remarks, Ms-140, Ms-114, Ts-213, Ms-115, and 7 more</summary>
+<summary>1931–1938, 1519 remarks, Ms-140, Ms-114, Ts-213, Ms-115, and 7 more</summary>
 <img class="viz" src="/viz/W-PG-1.svg">
 <img class="viz" src="/viz/W-PG-1-App-1.svg">
 <img class="viz" src="/viz/W-PG-1-App-2.svg">

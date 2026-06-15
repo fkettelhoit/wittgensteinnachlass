@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1942–1944, 236 remarks, Ms-126, Ms-127</summary>
+<summary>1942–1944, 237 remarks, Ms-126, Ms-127</summary>
 
 <img class="viz" src="/viz/W-RFM-5.svg">
 
@@ -895,6 +895,12 @@ Ist denn nicht die Subjekt-Prädikat-Form in dieser Weise offen & wartet auf die
 ### [Ms-127](/ms-127/#60.3+61.1) <span class="fac">[60\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/60.webp),[61\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/61.webp)</span> {#ms-127-603611}
 
 D.h.: ist es wahr, daß die ganze Schwierigkeit, die Allgemeinheit des mathem. Funktionsbegriffs betreffend, schon in der Aristotelischen Logik auftritt, da die Allgemeinheit der Sätze & Prädikate von uns ebensowenig überblickt werden kann, wie die der mathem. Funktionen?
+
+### [Ms-127](/ms-127/#64.4+65.1) <span class="fac">[64\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/64.webp),[65\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/65.webp)</span> {#ms-127-644651}
+
+<span class="series-number">41</span> 01.03.1943
+
+Begriffe die in ‘notwendigen’ Sätzen vorkommen müssen auch in nicht-notwendigen auftreten & eine Bedeutung haben.
 
 ### [Ms-127](/ms-127/#160.2+161.1) <span class="fac">[160\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/160.webp),[161\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/161.webp)</span> {#ms-127-16021611}
 
