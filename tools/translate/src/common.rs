@@ -848,15 +848,70 @@ pub fn build_remark_url_map(translated_dir: &Path, _input_dir: &Path) -> HashMap
     map
 }
 
+/// Parse the English work titles from `all.md` (e.g. `### [Remarks …](W-RFM.md)`),
+/// keyed by work filename. Used to give the assembled English overview pages an
+/// English title and English part labels.
+pub fn parse_work_titles(index_content: &str) -> HashMap<String, String> {
+    let re = Regex::new(r"\[([^\]]+)\]\((W-[^)]+\.md)\)").unwrap();
+    let mut map = HashMap::new();
+    for cap in re.captures_iter(index_content) {
+        map.entry(cap[2].to_string())
+            .or_insert_with(|| cap[1].to_string());
+    }
+    map
+}
+
+/// Rewrite an overview page's preamble for the English edition: translate the title
+/// and the part-link labels (German base title → English base title, keeping the
+/// structural suffix like " – I App I"), and point the links at the English pages
+/// (`/w-rfm-1/` → `/en/w-rfm-1/`).
+fn rewrite_overview_preamble(preamble: &str, en_title: &str) -> String {
+    let de_title = preamble
+        .lines()
+        .find(|l| l.starts_with("# "))
+        .map(|l| l[2..].trim().to_string())
+        .unwrap_or_default();
+    let link_re = Regex::new(r"^(\s*-\s*)\[([^\]]*)\]\(/([^)]+)/\)\s*$").unwrap();
+    let mut out = String::new();
+    for line in preamble.lines() {
+        if line.starts_with("# ") {
+            out.push_str(&format!("# {}\n", en_title));
+        } else if let Some(cap) = link_re.captures(line) {
+            let (bullet, label, slug) = (&cap[1], &cap[2], &cap[3]);
+            let en_label = if !de_title.is_empty() && label.starts_with(&de_title) {
+                format!("{}{}", en_title, &label[de_title.len()..])
+            } else {
+                label.to_string()
+            };
+            out.push_str(&format!("{}[{}](/en/{}/)\n", bullet, en_label, slug));
+        } else {
+            out.push_str(line);
+            out.push('\n');
+        }
+    }
+    out.trim_end_matches('\n').to_string()
+}
+
 /// Assemble a translated work file from translated doc remarks.
+///
+/// `work_title_en` is the work's English title (from `all.md`); when the work is an
+/// overview page (no remarks, just part links) it is used to produce an English
+/// overview — English title, English part labels, and `/en/…` links.
 pub fn assemble_work(
     work_german_path: &Path,
     url_map: &HashMap<String, String>,
     output_path: &Path,
+    work_title_en: Option<&str>,
 ) -> usize {
     let content = fs::read_to_string(work_german_path).expect("Failed to read work file");
     let (preamble, remarks) = parse_document(&content);
     let stem = work_german_path.file_name().unwrap().to_string_lossy();
+
+    // Overview pages (no remarks) get an English title + English part links.
+    let preamble = match (remarks.is_empty(), work_title_en) {
+        (true, Some(en_title)) => rewrite_overview_preamble(&preamble, en_title),
+        _ => preamble,
+    };
 
     let mut missing = 0;
     let mut file = fs::File::create(output_path).expect("Failed to create work output file");

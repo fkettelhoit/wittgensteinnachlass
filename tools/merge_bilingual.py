@@ -33,6 +33,14 @@ def main():
     de_sections = de_parts[1:] if len(de_parts) > 1 else []
     en_sections = en_parts[1:] if len(en_parts) > 1 else []
 
+    # Overview pages (no ### remark sections) are pure navigation — a table of
+    # contents, with nothing to show side by side. Render the English overview
+    # directly so the /en/ page has an English title and links to the English
+    # part pages (the German /w-…/ page already links to the German parts).
+    if not de_sections and not en_sections:
+        sys.stdout.write(en_text.rstrip("\n") + "\n")
+        return
+
     # Output the German preamble: title line first, then any remaining
     # preamble content (e.g. <details> with viz) wrapped in a .de div
     preamble_lines = de_preamble.rstrip("\n").split("\n")

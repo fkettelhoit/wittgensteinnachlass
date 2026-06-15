@@ -1,5 +1,6 @@
 use crate::common::*;
 use crate::verify;
+use std::collections::HashMap;
 use std::collections::VecDeque;
 use std::fs;
 use std::path::{Path, PathBuf};
@@ -546,9 +547,10 @@ pub fn run(args: &TranslateArgs) {
 
     // Parse all.md for file ordering (docs and works)
     let index_path = args.input.join("all.md");
-    let (doc_files, work_files) = if index_path.exists() {
+    let (doc_files, work_files, work_titles) = if index_path.exists() {
         let index_content = fs::read_to_string(&index_path).expect("Failed to read all.md");
-        parse_index_order(&index_content)
+        let (docs, works) = parse_index_order(&index_content);
+        (docs, works, parse_work_titles(&index_content))
     } else {
         eprintln!("No all.md found, using alphabetical order");
         let mut docs = Vec::new();
@@ -560,7 +562,7 @@ pub fn run(args: &TranslateArgs) {
             }
         }
         docs.sort();
-        (docs, Vec::new())
+        (docs, Vec::new(), HashMap::new())
     };
 
     // all.md links only the top-level work file; works split into parts store their
@@ -851,9 +853,17 @@ pub fn run(args: &TranslateArgs) {
                 let path = args.output.join(doc);
                 path.exists() && path.extension().map_or(false, |e| e == "md")
             });
-            if all_translated && !source_docs.is_empty() {
+            // Assemble when every source doc is translated. Overview pages have no
+            // source docs (all() is vacuously true) and are assembled too — they only
+            // need their preamble (title + part links) rewritten for English.
+            if all_translated {
                 let out_path = args.output.join(filename);
-                let missing = assemble_work(&work_path, &url_map, &out_path);
+                let missing = assemble_work(
+                    &work_path,
+                    &url_map,
+                    &out_path,
+                    work_titles.get(filename).map(|s| s.as_str()),
+                );
                 assembled += 1;
                 if missing > 0 {
                     eprintln!(
@@ -1349,7 +1359,12 @@ pub fn run(args: &TranslateArgs) {
                 continue;
             }
             eprint!("  {}...", filename);
-            let missing = assemble_work(&work_path, &url_map, &out_path);
+            let missing = assemble_work(
+                &work_path,
+                &url_map,
+                &out_path,
+                work_titles.get(filename).map(|s| s.as_str()),
+            );
             if missing > 0 {
                 eprintln!(" done ({} remarks missing translations)", missing);
             } else {

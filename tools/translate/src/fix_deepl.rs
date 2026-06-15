@@ -304,6 +304,9 @@ pub fn run(args: &FixDeeplArgs) {
     // Reassemble works
     eprintln!("\nReassembling work files...");
     let url_map = build_remark_url_map(&args.translated, &args.input);
+    let work_titles = fs::read_to_string(args.input.join("all.md"))
+        .map(|c| parse_work_titles(&c))
+        .unwrap_or_default();
 
     let mut work_files: Vec<_> = fs::read_dir(&args.input)
         .expect("Failed to read input dir")
@@ -320,7 +323,12 @@ pub fn run(args: &FixDeeplArgs) {
         let filename = work_path.file_name().unwrap().to_string_lossy();
         let out_path = args.translated.join(&*filename);
         eprint!("  {}...", filename);
-        let missing = assemble_work(work_path, &url_map, &out_path);
+        let missing = assemble_work(
+            work_path,
+            &url_map,
+            &out_path,
+            work_titles.get(&*filename).map(|s| s.as_str()),
+        );
         if missing > 0 {
             eprintln!(" done ({} remarks missing)", missing);
         } else {

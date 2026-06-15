@@ -1,4 +1,4 @@
-# Letzte Schriften über die Philosophie der Psychologie
+# Last Writings on the Philosophy of Psychology
 
 <details>
 <summary>1948–1951, 1597 remarks, Ms-137, Ms-167, Ms-138, Ms-169, and 5 more</summary>
@@ -11,10 +11,10 @@
 <img class="viz" src="/viz/W-LW-2-MS-176.svg">
 </details>
 
-- [Letzte Schriften über die Philosophie der Psychologie – I](/w-lw-1/)
-- [Letzte Schriften über die Philosophie der Psychologie – II MS 169](/w-lw-2-ms-169/)
-- [Letzte Schriften über die Philosophie der Psychologie – II MS 170](/w-lw-2-ms-170/)
-- [Letzte Schriften über die Philosophie der Psychologie – II MS 171](/w-lw-2-ms-171/)
-- [Letzte Schriften über die Philosophie der Psychologie – II MS 173](/w-lw-2-ms-173/)
-- [Letzte Schriften über die Philosophie der Psychologie – II MS 174](/w-lw-2-ms-174/)
-- [Letzte Schriften über die Philosophie der Psychologie – II MS 176](/w-lw-2-ms-176/)
+- [Last Writings on the Philosophy of Psychology – I](/en/w-lw-1/)
+- [Last Writings on the Philosophy of Psychology – II MS 169](/en/w-lw-2-ms-169/)
+- [Last Writings on the Philosophy of Psychology – II MS 170](/en/w-lw-2-ms-170/)
+- [Last Writings on the Philosophy of Psychology – II MS 171](/en/w-lw-2-ms-171/)
+- [Last Writings on the Philosophy of Psychology – II MS 173](/en/w-lw-2-ms-173/)
+- [Last Writings on the Philosophy of Psychology – II MS 174](/en/w-lw-2-ms-174/)
+- [Last Writings on the Philosophy of Psychology – II MS 176](/en/w-lw-2-ms-176/)

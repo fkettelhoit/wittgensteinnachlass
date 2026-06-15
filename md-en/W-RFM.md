@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik
+# Remarks on the Foundations of Mathematics
 
 <details>
 <summary>1938–1944, 1728 remarks, Ts-222, Ts-224, Ts-221a, Ts-223, and 8 more</summary>
@@ -14,13 +14,13 @@
 <img class="viz" src="/viz/W-RFM-7.svg">
 </details>
 
-- [Bemerkungen über die Grundlagen der Mathematik – I](/w-rfm-1/)
-- [Bemerkungen über die Grundlagen der Mathematik – I App I](/w-rfm-1-app-1/)
-- [Bemerkungen über die Grundlagen der Mathematik – I App II](/w-rfm-1-app-2/)
-- [Bemerkungen über die Grundlagen der Mathematik – I App III](/w-rfm-1-app-3/)
-- [Bemerkungen über die Grundlagen der Mathematik – II](/w-rfm-2/)
-- [Bemerkungen über die Grundlagen der Mathematik – III](/w-rfm-3/)
-- [Bemerkungen über die Grundlagen der Mathematik – IV](/w-rfm-4/)
-- [Bemerkungen über die Grundlagen der Mathematik – V](/w-rfm-5/)
-- [Bemerkungen über die Grundlagen der Mathematik – VI](/w-rfm-6/)
-- [Bemerkungen über die Grundlagen der Mathematik – VII](/w-rfm-7/)
+- [Remarks on the Foundations of Mathematics – I](/en/w-rfm-1/)
+- [Remarks on the Foundations of Mathematics – I App I](/en/w-rfm-1-app-1/)
+- [Remarks on the Foundations of Mathematics – I App II](/en/w-rfm-1-app-2/)
+- [Remarks on the Foundations of Mathematics – I App III](/en/w-rfm-1-app-3/)
+- [Remarks on the Foundations of Mathematics – II](/en/w-rfm-2/)
+- [Remarks on the Foundations of Mathematics – III](/en/w-rfm-3/)
+- [Remarks on the Foundations of Mathematics – IV](/en/w-rfm-4/)
+- [Remarks on the Foundations of Mathematics – V](/en/w-rfm-5/)
+- [Remarks on the Foundations of Mathematics – VI](/en/w-rfm-6/)
+- [Remarks on the Foundations of Mathematics – VII](/en/w-rfm-7/)
