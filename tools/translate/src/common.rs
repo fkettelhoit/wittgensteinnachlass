@@ -732,6 +732,41 @@ pub fn parse_index_order(index_content: &str) -> (Vec<String>, Vec<String>) {
     (docs, works)
 }
 
+/// Expand a list of top-level work files to include their split-work part files.
+///
+/// `all.md` links only the top-level work (e.g. `W-RFM.md`), but works split into
+/// multiple parts keep their remarks in sibling files (`W-RFM-1.md`,
+/// `W-RFM-1-App-1.md`, …). Each part must be assembled in its own right. We discover
+/// them by filename: any `W-<root>-*.md` on disk belongs to the work rooted at
+/// `W-<root>`. The top-level file is kept first (preserving `all.md` order); parts
+/// follow in sorted order. Single-file works (no siblings) are returned unchanged.
+pub fn expand_work_parts(works: &[String], input_dir: &Path) -> Vec<String> {
+    let mut on_disk: Vec<String> = match fs::read_dir(input_dir) {
+        Ok(rd) => rd
+            .filter_map(|e| e.ok())
+            .map(|e| e.file_name().to_string_lossy().to_string())
+            .filter(|n| n.starts_with("W-") && n.ends_with(".md"))
+            .collect(),
+        Err(_) => Vec::new(),
+    };
+    on_disk.sort();
+
+    let mut result = Vec::new();
+    let mut seen = std::collections::HashSet::new();
+    for work in works {
+        let prefix = format!("{}-", work.trim_end_matches(".md"));
+        if seen.insert(work.clone()) {
+            result.push(work.clone());
+        }
+        for name in &on_disk {
+            if name.starts_with(&prefix) && seen.insert(name.clone()) {
+                result.push(name.clone());
+            }
+        }
+    }
+    result
+}
+
 /// Extract the unique source document filenames referenced by a work file.
 /// Work headings look like `### [Ms-172](/ms-172/#...): ...`
 pub fn work_source_docs(work_path: &Path) -> Vec<String> {
@@ -833,23 +868,28 @@ pub fn assemble_work(
             .unwrap_or_default();
 
         let translated_body = if let Some(doc_body) = url_map.get(&key) {
-            // The German work may have series number(s) prepended by the parser.
-            // Use the series number prefix from the German work body, combined
-            // with the content (after stripping series numbers) from the translated doc.
-            let sn_re = Regex::new(
+            // The German work is authoritative for series numbers: take the leading
+            // series-number prefix from the work body, and strip *all* series numbers
+            // from the translated doc body. Docs carry source-local numbering the
+            // published work omits — both a leading prefix (e.g. Ms-144 `a*` paragraph
+            // numbers, PI section numbers the work renumbers) and occasionally a
+            // secondary mid-body number (e.g. Zettel 463 "Zur Mathematik" keeps a doc
+            // paragraph number the work drops). Work remarks never carry a mid-body
+            // series number, so stripping every span from the doc is safe.
+            let lead_re = Regex::new(
                 r#"^(<span class="series-number">[^<]+</span>\s*)+"#,
             )
             .unwrap();
-            let work_prefix = sn_re
+            let any_re = Regex::new(
+                r#"<span class="series-number">[^<]+</span>\s*"#,
+            )
+            .unwrap();
+            let work_prefix = lead_re
                 .find(&remark.body)
                 .map(|m| m.as_str())
                 .unwrap_or("");
-            let doc_content = sn_re.replace(doc_body, "");
-            if work_prefix.is_empty() {
-                doc_body.clone()
-            } else {
-                format!("{}{}", work_prefix, doc_content)
-            }
+            let doc_content = any_re.replace_all(doc_body, "");
+            format!("{}{}", work_prefix, doc_content)
         } else {
             missing += 1;
             eprintln!(

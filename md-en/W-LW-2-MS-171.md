@@ -1,0 +1,157 @@
+# Letzte Schriften über die Philosophie der Psychologie – II MS 171
+
+<details>
+
+<summary>1950, 33 remarks, Ms-171</summary>
+
+<img class="viz" src="/viz/W-LW-2-MS-171.svg">
+
+</details>
+
+### [Ms-171](/ms-171/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/1.webp)</span> {#ms-171-11}
+
+The inner, in which it either looks like this or like that; we do not see it. In my inner, it is either red or blue. I know it, the other does not know it.
+
+### [Ms-171](/ms-171/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/1.webp)</span> {#ms-171-12}
+
+If pretending were not such a complicated pattern, then it would be conceivable that a newborn child pretends.
+
+### [Ms-171](/ms-171/#1.3) <span class="fac">[1\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/1.webp)</span> {#ms-171-13}
+
+So I want to say that there is an original, genuine expression of pain; that the expression of pain is therefore not equally connected with pain & with pretending.
+
+### [Ms-171](/ms-171/#1.4) <span class="fac">[1\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/1.webp)</span> {#ms-171-14}
+
+That is: the expression of pain is not equally connected with pain & with pretending.
+
+### [Ms-171](/ms-171/#2.1) <span class="fac">[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/2.webp)</span> {#ms-171-21}
+
+It is not so much the important aspect for us that the evidence merely makes the other's experience ‘probable’, but that we consider this precisely as evidence for something important.
+
+### [Ms-171](/ms-171/#3.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/3.webp)</span> {#ms-171-31}
+
+But suppose the child comes into the world in such a way that it can pretend, yes, in such a way that its first expression of pain is pretending. We could imagine a distrustful attitude towards the newborn child: but how would we teach it the word “pain” (or “ouch”)? Perhaps in an interrogative tone. We would then consider a consistent behaviour as proof of authenticity.
+
+### [Ms-171](/ms-171/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/3.webp)</span> {#ms-171-32}
+
+Consider that you must teach the child the _concept_. Therefore, you must teach it the evidence (so to speak, the law of evidence).
+
+### [Ms-171](/ms-171/#3.3+4.1) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/3.webp),[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/4.webp)</span> {#ms-171-3341}
+
+Remarkable is the concept to which this game of evidence belongs.
+
+### [Ms-171](/ms-171/#4.2) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/4.webp)</span> {#ms-171-42}
+
+<s>Our concepts, judgments, and reactions never appear merely in connection with a single action, but rather with the entire complex of human actions.</s>
+
+### [Ms-171](/ms-171/#4.3) <span class="fac">[4\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/4.webp)</span> {#ms-171-43}
+
+Only I know my thoughts; is it really the same as: only I _think_ my own thoughts?
+
+### [Ms-171](/ms-171/#4.4+5.1) <span class="fac">[4\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/4.webp),[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/5.webp)</span> {#ms-171-4451}
+
+Can one imagine people who do not know how to pretend and to whom one cannot explain it? Can one imagine people who cannot lie? What else would these people be lacking? We should probably also think that they cannot invent anything and do not understand what is invented.
+
+### [Ms-171](/ms-171/#5.2) <span class="fac">[5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/5.webp)</span> {#ms-171-52}
+
+Whoever could not pretend could not play a role.
+
+### [Ms-171](/ms-171/#5.3) <span class="fac">[5\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/5.webp)</span> {#ms-171-53}
+
+Isn’t the difficulty that the _pretending_ lies in the _intention_? After all, we could precisely _imitate_ pain-behaviour without pretending.
+
+### [Ms-171](/ms-171/#5.4+6.1) <span class="fac">[5\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/5.webp),[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/6.webp)</span> {#ms-171-5461}
+
+Thus, the ability to pretend lies in the ability to imitate, or in the ability to have this intention. But we must assume that the subject can say the words “I am in pain.” It is therefore a matter of the ability to have an intention. Is it, for example, possible to imagine people who cannot lie because lying would be nothing but a dissonance for them. I want to imagine a case in which people are not truthful out of _morality_, but see something _absurd_ in lying.
+
+Whoever lies would be regarded as mentally ill. Better put: Lying or pretending would have to appear to these people as a perversion.
+
+### [Ms-171](/ms-171/#6.2+7.1) <span class="fac">[6\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/6.webp),[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/7.webp)</span> {#ms-171-6271}
+
+Is it right to say that a fixed smile is not really a smile? How does one recognize that it is not one?
+
+### [Ms-171](/ms-171/#7.2) <span class="fac">[7\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/7.webp)</span> {#ms-171-72}
+
+Smiling is a facial expression in a normal game of facial expressions. But is this an arbitrary determination? This is how we learn to use the word.
+
+### [Ms-171](/ms-171/#7.3) <span class="fac">[7\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/7.webp)</span> {#ms-171-73}
+
+It is not the remark that is important to us … but that this complex thing is evidence to us.
+
+### [Ms-171](/ms-171/#7.4+8.1) <span class="fac">[7\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/7.webp),[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/8.webp)</span> {#ms-171-7481}
+
+Someone groans in the anesthesia or in sleep. I am asked, “Is he in pain?” I shrug my shoulders or say “I don't know if he is in pain.” Sometimes I recognize something as a criterion for this, but sometimes not. Well, do I mean nothing by that? Yes: I am making a move in an existing game. But there would be no such game if there were no criteria in other cases. The doubt in the different cases has, as it were, different colours. One could say “different truth values”.
+
+---
+
+### [Ms-171](/ms-171/#8.2) <span class="fac">[8\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/8.webp)</span> {#ms-171-82}
+
+“I happen to know that this is a maple; a maple is an external object, so there are external objects”.
+
+---
+
+### [Ms-171](/ms-171/#8.3+9.1) <span class="fac">[8\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/8.webp),[9\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/9.webp)</span> {#ms-171-8391}
+
+Something turns out to be pain or pretending. And that is essential to the concepts ‘pain’ & ‘pretending’, even if it does not turn out in all their applications.
+
+### [Ms-171](/ms-171/#9.2) <span class="fac">[9\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/9.webp)</span> {#ms-171-92}
+
+“Beyond a reasonable doubt”
+
+### [Ms-171](/ms-171/#9.3) <span class="fac">[9\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/9.webp)</span> {#ms-171-93}
+
+I know … = I am certain that it is so & it is so. I knew … = I was certain that it was so & it was so.
+
+### [Ms-171](/ms-171/#9.4) <span class="fac">[9\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/9.webp)</span> {#ms-171-94}
+
+I know what it’s like = I _can_ tell you what it’s like & it’s just as I say.
+
+### [Ms-171](/ms-171/#9.5) <span class="fac">[9\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/9.webp)</span> {#ms-171-95}
+
+A blind man touches an object & asks me, “What is that?” – I answer, “A table.” – He: “Are you sure?” – I: “I _know_ it.”
+
+---
+
+### [Ms-171](/ms-171/#9.6+10.1) <span class="fac">[9\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/9.webp),[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/10.webp)</span> {#ms-171-96101}
+
+“I know…” = I have the highest degree of certainty. When Moore uses it, it is as if he wants to say:
+
+“The philosophers always say that one can only have the feeling of knowledge in this & that case, but _I_ also have it in this & this & this case.” He looks at his hand, gives himself the feeling of knowledge, & now says that he has it.
+
+### [Ms-171](/ms-171/#10.2) <span class="fac">[10\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/10.webp)</span> {#ms-171-102}
+
+What is the purpose of the statement “He knows” & “I know”? How does it show that someone knows something? For only when that is clear is the concept of knowledge clear.
+
+### [Ms-171](/ms-171/#10.3) <span class="fac">[10\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/10.webp)</span> {#ms-171-103}
+
+If someone says, “Yes, now I know that it is a tree,” and if he also says it at the right time, that is not yet a sign that he uses the word “know” as we do.
+
+### [Ms-171](/ms-171/#11.1+12.1) <span class="fac">[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/12.webp)</span> {#ms-171-111121}
+
+“I know that there is a tree here.” One might say this, for example, when one wants to repeat one’s own words for some reason (as when one is reciting a passage from a book from memory). How do we now know what use you have made of the sentence? You can tell us. It might be this: I am thinking of people who say that it is uncertain that … & now I say “No, it is not uncertain: I _know_ that …”. (As in “I _know_ that he is not deceiving me”.) Whoever says “I know that that is a tree” means: a tree & _not_ that & that.
+
+### [Ms-171](/ms-171/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/12.webp)</span> {#ms-171-122}
+
+It is true that M. knows that this is a tree; this is shown in his entire behaviour. It does not follow that he does not misunderstand the words “I know…” when philosophizing. He demonstrated his misunderstanding by looking at his hands and saying, “I know that these are hands,” instead of simply stating, “I know a great many facts about physical objects.” And these facts are so certain to me that nothing can strengthen or destroy this certainty.
+
+### [Ms-171](/ms-171/#13.1) <span class="fac">[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/13.webp)</span> {#ms-171-131}
+
+It is not this that seems very significant to us, but rather that this is evidence for us.
+
+---
+
+### [Ms-171](/ms-171/#13.2+14.1) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/13.webp),[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/14.webp)</span> {#ms-171-132141}
+
+“Inside, there is either pain or pretending. Outside, there are signs (behaviour) that do not with complete certainty mean one or the other.” But that is not the case. The external signs mean, in an extremely complicated way, sometimes unequivocally, sometimes uncertainly: pain, pretending, and many other things.
+
+---
+
+### [Ms-171](/ms-171/#14.2) <span class="fac">[14\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/14.webp)</span> {#ms-171-142}
+
+“Nothing is more common than the colour reddish-green, for nothing is more common than the transition from the green of the leaf to red.”
+
+---
+
+### [Ms-171](/ms-171/#14.3) <span class="fac">[14\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-171/14.webp)</span> {#ms-171-143}
+
+“Believing, knowing, an experience that, while one is having it, one recognizes as just this.”

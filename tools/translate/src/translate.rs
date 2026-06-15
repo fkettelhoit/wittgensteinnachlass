@@ -563,6 +563,11 @@ pub fn run(args: &TranslateArgs) {
         (docs, Vec::new())
     };
 
+    // all.md links only the top-level work file; works split into parts store their
+    // remarks in sibling files (W-RFM → W-RFM-1, W-RFM-1-App-1, …). Expand the list so
+    // every part is assembled from its already-translated doc remarks (no LLM needed).
+    let work_files = expand_work_parts(&work_files, &args.input);
+
     // Phase 1: Verify+fix existing translations
     if args.no_verify {
         eprintln!("Skipping verification of existing translations (--no-verify).\n");
