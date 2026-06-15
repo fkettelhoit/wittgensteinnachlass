@@ -110,6 +110,21 @@ if [ -f "$ALL_SRC" ]; then
   } > "$CONTENT_DIR/all/_index.md"
 fi
 
+# Create the About page at /about
+ABOUT_SRC="$SCRIPT_DIR/../about.md"
+if [ -f "$ABOUT_SRC" ]; then
+  mkdir -p "$CONTENT_DIR/about"
+  {
+    echo "---"
+    echo "title: \"About Wittgenstein’s (Late) Writings\""
+    echo "layout: about"
+    echo "---"
+    echo ""
+    # Drop the leading "# About" (title comes from the layout's <h1>).
+    tail -n +2 "$ABOUT_SRC"
+  } > "$CONTENT_DIR/about/_index.md"
+fi
+
 # Generate bilingual pages for documents with English translations
 en_count=0
 if [ -d "$EN_DIR" ]; then

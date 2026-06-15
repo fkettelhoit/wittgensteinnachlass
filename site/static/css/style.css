@@ -420,6 +420,26 @@ ul {
   list-style: none;
 }
 
+/* Restore list markers on the prose About page */
+.about ul {
+  padding-left: 1.5rem;
+  list-style: disc;
+}
+
+.about ol {
+  padding-left: 1.5rem;
+  list-style: decimal;
+}
+
+.about ul ul {
+  margin: 0;
+  list-style: circle;
+}
+
+.about li {
+  margin-bottom: 0.5rem;
+}
+
 strong {
   font-weight: 700;
 }
