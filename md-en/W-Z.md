@@ -148,7 +148,7 @@ One does, however, ask: “With which remark did you allude to him?”, “With 
 
 ### [Ts-233a](/ts-233a/#10.2) <span class="fac">[10\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/10.webp)</span> {#ts-233a-102}
 
-<span class="series-number">2)</span> It often seems to us as if the mind makes small movements in understanding the meaning, like someone who is undecided and does not know which way to go – he explores the area of possible applications.
+It often seems to us as if the mind makes small movements in understanding the meaning, like someone who is undecided and does not know which way to go – he explores the area of possible applications.
 
 ### [Ts-233a](/ts-233a/#10.4) <span class="fac">[10\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/10.webp)</span> {#ts-233a-104}
 
@@ -1920,7 +1920,7 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 <span class="series-number">463</span> Regarding mathematics
 
-<span class="series-number">44.</span> “You have a false concept. – But the matter cannot be clarified by me arguing against your words; rather, only by my attempting to direct your attention away from certain expressions, illustrations, images, and toward the use of the words.”
+“You have a false concept. – But the matter cannot be clarified by me arguing against your words; rather, only by my attempting to direct your attention away from certain expressions, illustrations, images, and toward the use of the words.”
 
 ### [Ts-233b](/ts-233b/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-205}
 
@@ -2340,7 +2340,7 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#37.10) <span class="fac">[37\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/37.webp)</span> {#ts-233b-3710}
 
-<span class="series-number">711</span> Could not the behaviour, the conduct, of trust exist quite generally among a group of people? So that doubt about expressions of feeling is completely foreign to them?
+Could not the behaviour, the conduct, of trust exist quite generally among a group of people? So that doubt about expressions of feeling is completely foreign to them?
 
 ### [Ts-233b](/ts-233b/#38.1) <span class="fac">[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/38.webp)</span> {#ts-233b-381}
 
@@ -2580,7 +2580,7 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#48.6) <span class="fac">[48\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-486}
 
-<span class="series-number">071</span> The language-games with the two concepts are fundamentally different, but they are connected.
+The language-games with the two concepts are fundamentally different, but they are connected.
 
 ### [Ts-233b](/ts-233b/#48.7) <span class="fac">[48\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span> {#ts-233b-487}
 

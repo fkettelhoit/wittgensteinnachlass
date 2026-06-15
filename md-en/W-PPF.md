@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1949, 382 remarks, Ms-144</summary>
+<summary>1949, 383 remarks, Ms-144</summary>
 
 <img class="viz" src="/viz/W-PPF.svg">
 
@@ -458,15 +458,15 @@ Do not consider the hesitant assertion as an assertion of hesitancy.
 
 ### [Ms-144](/ms-144/#24r.2) <span class="fac">[24r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r2}
 
-<span class="series-number">a2</span> One person could accurately draw the two faces; the other, in this drawing, notice the similarity that the first did not see.
+One person could accurately draw the two faces; the other, in this drawing, notice the similarity that the first did not see.
 
 ### [Ms-144](/ms-144/#24r.3) <span class="fac">[24r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r3}
 
-<span class="series-number">a3</span> I look at a face, suddenly I notice its similarity to another. I _see_ that it has not changed; & I see it differently. I call this experience “noticing an aspect”.
+I look at a face, suddenly I notice its similarity to another. I _see_ that it has not changed; & I see it differently. I call this experience “noticing an aspect”.
 
 ### [Ms-144](/ms-144/#24r.4) <span class="fac">[24r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r4}
 
-<span class="series-number">a4</span> Its _causes_ interest the psychologist.
+Its _causes_ interest the psychologist.
 
 ### [Ms-144](/ms-144/#24r.5) <span class="fac">[24r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp)</span> {#ms-144-24r5}
 
@@ -474,7 +474,7 @@ We are interested in the concept & its position in the concepts of experience.
 
 ### [Ms-144](/ms-144/#24r.6+24v.1) <span class="fac">[24r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp),[24v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)</span> {#ms-144-24r624v1}
 
-<span class="series-number">a5</span> One could imagine that in several places of a book, e.g. a textbook, the illustration
+One could imagine that in several places of a book, e.g. a textbook, the illustration
 
 ![](../graphics/144,24r.svg)
 
@@ -482,11 +482,11 @@ would be found. In the accompanying text, something different is discussed each 
 
 ### [Ms-144](/ms-144/#24v.2) <span class="fac">[24v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)</span> {#ms-144-24v2}
 
-<span class="series-number">a6</span> Perhaps one might answer: The description of immediate experience, of the act of seeing, by means of an interpretation is an indirect description. “I see the figure as a box” means: I have a certain visual experience, which, according to experience, goes together with interpreting the figure as a box, or with looking at a box. But if that were what it meant, then I would have to know it. I would have to be able to refer directly to the experience, and not just indirectly. (As I don’t necessarily have to talk about red as the color of blood.)
+Perhaps one might answer: The description of immediate experience, of the act of seeing, by means of an interpretation is an indirect description. “I see the figure as a box” means: I have a certain visual experience, which, according to experience, goes together with interpreting the figure as a box, or with looking at a box. But if that were what it meant, then I would have to know it. I would have to be able to refer directly to the experience, and not just indirectly. (As I don’t necessarily have to talk about red as the color of blood.)
 
 ### [Ms-144](/ms-144/#24v.3+25r.1) <span class="fac">[24v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp),[25r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)</span> {#ms-144-24v325r1}
 
-<span class="series-number">a7</span> The following figure, which I have taken from Jastrow, will in my remarks be called the duck-rabbit (H-E head). One can see it as a rabbit’s head, or as a duck’s head.
+The following figure, which I have taken from Jastrow, will in my remarks be called the duck-rabbit (H-E head). One can see it as a rabbit’s head, or as a duck’s head.
 
 ![](../graphics/144,24v.svg)
 
@@ -494,7 +494,7 @@ And I must distinguish between ‘steadily seeing’ an aspect and the ‘lighti
 
 ### [Ms-144](/ms-144/#25r.2) <span class="fac">[25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)</span> {#ms-144-25r2}
 
-<span class="series-number">a8</span> It is useful here to introduce the concept of the picture-object. A ‘picture-face’, for example, would be the figure
+It is useful here to introduce the concept of the picture-object. A ‘picture-face’, for example, would be the figure
 
 ![](../graphics/144,25r.svg)<span class="post-block-punct">.</span>
 
@@ -502,129 +502,129 @@ In some respects, I behave towards it as I do towards a human face. I can study 
 
 ### [Ms-144](/ms-144/#25r.3) <span class="fac">[25r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)</span> {#ms-144-25r3}
 
-<span class="series-number">a9</span> So, I could simply have seen the duck-rabbit from the start as a picture-rabbit. That is: when asked, “What is that?”, or “What do you see there?”, I would have answered: “A picture-rabbit.” If I had been asked further what that was, I would have explained it by pointing to all sorts of pictures of rabbits, even to real rabbits, talked about the life of these animals, or acted them out.
+So, I could simply have seen the duck-rabbit from the start as a picture-rabbit. That is: when asked, “What is that?”, or “What do you see there?”, I would have answered: “A picture-rabbit.” If I had been asked further what that was, I would have explained it by pointing to all sorts of pictures of rabbits, even to real rabbits, talked about the life of these animals, or acted them out.
 
 ### [Ms-144](/ms-144/#25r.4+25v.1) <span class="fac">[25r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp),[25v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)</span> {#ms-144-25r425v1}
 
-<span class="series-number">a10</span> I would not have answered the question “What do you see there?” with: “I am now seeing it as a picture-rabbit.” I would simply have described the perception; not differently than if my words had been “I see a red circle there.” – Nevertheless, another person could have said of me, “He sees the figure as a picture-rabbit.”
+I would not have answered the question “What do you see there?” with: “I am now seeing it as a picture-rabbit.” I would simply have described the perception; not differently than if my words had been “I see a red circle there.” – Nevertheless, another person could have said of me, “He sees the figure as a picture-rabbit.”
 
 ### [Ms-144](/ms-144/#25v.2) <span class="fac">[25v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)</span> {#ms-144-25v2}
 
-<span class="series-number">a11</span> To say “I am now seeing it as…”, would have had as little sense for me as saying, when looking at a knife and fork: “I am now seeing it as a knife and fork.” One would not understand this utterance. – Just as little as this: “This is now a fork for me,” or “This could also be a fork.”
+To say “I am now seeing it as…”, would have had as little sense for me as saying, when looking at a knife and fork: “I am now seeing it as a knife and fork.” One would not understand this utterance. – Just as little as this: “This is now a fork for me,” or “This could also be a fork.”
 
 ### [Ms-144](/ms-144/#25v.3) <span class="fac">[25v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)</span> {#ms-144-25v3}
 
-<span class="series-number">a12</span> One does not consider what one recognizes at the table as cutlery to _be_ cutlery; no more than one, when eating, usually tries to move one’s mouth, or attempts to do so.
+One does not consider what one recognizes at the table as cutlery to _be_ cutlery; no more than one, when eating, usually tries to move one’s mouth, or attempts to do so.
 
 ### [Ms-144](/ms-144/#25v.4) <span class="fac">[25v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)</span> {#ms-144-25v4}
 
-<span class="series-number">a13</span> Whoever says “Now it is a face for me”, can be asked: “What transformation are you referring to?”
+Whoever says “Now it is a face for me”, can be asked: “What transformation are you referring to?”
 
 ### [Ms-144](/ms-144/#25v.5) <span class="fac">[25v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)</span> {#ms-144-25v5}
 
-<span class="series-number">a14</span> I see two pictures; in one, the duck-rabbit is surrounded by rabbits, in the other, by ducks. I don’t notice the sameness. Does it _follow_ from this that I see something different each time? – This gives us a reason to use this _expression_ here.
+I see two pictures; in one, the duck-rabbit is surrounded by rabbits, in the other, by ducks. I don’t notice the sameness. Does it _follow_ from this that I see something different each time? – This gives us a reason to use this _expression_ here.
 
 ### [Ms-144](/ms-144/#25v.6) <span class="fac">[25v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp)</span> {#ms-144-25v6}
 
-<span class="series-number">a15</span> “I saw it quite differently, I would never have recognized it!” Well, that is an exclamation. And it also has a justification.
+“I saw it quite differently, I would never have recognized it!” Well, that is an exclamation. And it also has a justification.
 
 ### [Ms-144](/ms-144/#25v.7+26r.1) <span class="fac">[25v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25v.webp),[26r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)</span> {#ms-144-25v726r1}
 
-<span class="series-number">a16</span> I would never have thought of putting the two heads together like that, of comparing them _in that way_. For they suggest a different way of comparison. The head, _seen in this way_, has no similarity whatsoever with the head, _seen in that way_ – although they are congruent.
+I would never have thought of putting the two heads together like that, of comparing them _in that way_. For they suggest a different way of comparison. The head, _seen in this way_, has no similarity whatsoever with the head, _seen in that way_ – although they are congruent.
 
 ### [Ms-144](/ms-144/#26r.2) <span class="fac">[26r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)</span> {#ms-144-26r2}
 
-<span class="series-number">a17</span> One shows me a picture-rabbit & asks me what it is; I say “That is a rabbit.” Not “That is now a rabbit.” I communicate the perception. – One shows me the duck-rabbit (H-E head) & asks me what it is; then I _can_ say “That is a duck-rabbit (H-E head).” But I can also react to the question in a completely different way. – The answer, that it is the duck-rabbit (H-E head), is again the communication of the perception; the answer “Now it is a rabbit” is not. If I had said “It is a rabbit,” I would have missed the ambiguity, & I would have reported the perception.
+One shows me a picture-rabbit & asks me what it is; I say “That is a rabbit.” Not “That is now a rabbit.” I communicate the perception. – One shows me the duck-rabbit (H-E head) & asks me what it is; then I _can_ say “That is a duck-rabbit (H-E head).” But I can also react to the question in a completely different way. – The answer, that it is the duck-rabbit (H-E head), is again the communication of the perception; the answer “Now it is a rabbit” is not. If I had said “It is a rabbit,” I would have missed the ambiguity, & I would have reported the perception.
 
 ### [Ms-144](/ms-144/#26r.3) <span class="fac">[26r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)</span> {#ms-144-26r3}
 
-<span class="series-number">a18</span> The change of aspect. “Surely you would say that the picture has now changed completely!” But what is different: my impression? my statement? – Can I say it? I _describe_ the change as one would describe a perception; as if the object had changed before my eyes.
+The change of aspect. “Surely you would say that the picture has now changed completely!” But what is different: my impression? my statement? – Can I say it? I _describe_ the change as one would describe a perception; as if the object had changed before my eyes.
 
 ### [Ms-144](/ms-144/#26r.4) <span class="fac">[26r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp)</span> {#ms-144-26r4}
 
-<span class="series-number">a19</span> “I can now see _that_,” I might say (e.g., while pointing to a different picture). It is the form of reporting a new perception.
+“I can now see _that_,” I might say (e.g., while pointing to a different picture). It is the form of reporting a new perception.
 
 ### [Ms-144](/ms-144/#26r.5+26v.1) <span class="fac">[26r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26r.webp),[26v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)</span> {#ms-144-26r526v1}
 
-<span class="series-number">a20</span> The expression of the change of aspect is the expression of a _new_ perception, at the same time as it is the expression of the unchanged perception.
+The expression of the change of aspect is the expression of a _new_ perception, at the same time as it is the expression of the unchanged perception.
 
 ### [Ms-144](/ms-144/#26v.2) <span class="fac">[26v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)</span> {#ms-144-26v2}
 
-<span class="series-number">a21</span> I suddenly see the solution to a puzzle picture. Where before there were branches, there is now a human figure. My visual impression has changed, & I now realize that it had not only color & form, but also a very specific ‘organization’. – My visual impression has changed; – what was it like before; what is it like now? – If I represent it by an exact copy – & is that not a good representation? – then no change is shown.
+I suddenly see the solution to a puzzle picture. Where before there were branches, there is now a human figure. My visual impression has changed, & I now realize that it had not only color & form, but also a very specific ‘organization’. – My visual impression has changed; – what was it like before; what is it like now? – If I represent it by an exact copy – & is that not a good representation? – then no change is shown.
 
 ### [Ms-144](/ms-144/#26v.3) <span class="fac">[26v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)</span> {#ms-144-26v3}
 
-<span class="series-number">a22</span> And don’t you dare say, “My visual impression is not the _drawing_; it is _this_ – – something I cannot show to anyone.” – Of course, it is not the drawing, but also not something of the same category that I carry within me.
+And don’t you dare say, “My visual impression is not the _drawing_; it is _this_ – – something I cannot show to anyone.” – Of course, it is not the drawing, but also not something of the same category that I carry within me.
 
 ### [Ms-144](/ms-144/#26v.4) <span class="fac">[26v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp)</span> {#ms-144-26v4}
 
-<span class="series-number">a23</span> The concept of the ‘inner image’ is misleading, because the model for this concept is the ‘_outer_ image’; & yet the uses of the terms are no more similar to each other than those of “sign for a number” & “number”. (Yes, whoever wanted to call a number the “ideal sign for a number” could create a similar confusion.)
+The concept of the ‘inner image’ is misleading, because the model for this concept is the ‘_outer_ image’; & yet the uses of the terms are no more similar to each other than those of “sign for a number” & “number”. (Yes, whoever wanted to call a number the “ideal sign for a number” could create a similar confusion.)
 
 ### [Ms-144](/ms-144/#26v.5+27r.1) <span class="fac">[26v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/26v.webp),[27r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)</span> {#ms-144-26v527r1}
 
-<span class="series-number">a24</span> Whoever equates the ‘organization’ of the visual impression with colors & forms, proceeds from the visual impression as an inner object. This object thereby becomes something absurd; a strangely fluctuating entity. For the similarity with the picture is now disturbed.
+Whoever equates the ‘organization’ of the visual impression with colors & forms, proceeds from the visual impression as an inner object. This object thereby becomes something absurd; a strangely fluctuating entity. For the similarity with the picture is now disturbed.
 
 ### [Ms-144](/ms-144/#27r.2) <span class="fac">[27r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)</span> {#ms-144-27r2}
 
-<span class="series-number">a25</span> If I know that there are different aspects of the cube schema, I can, in order to find out what the other person sees, produce or have produced a model of what has been seen, in addition to the copy; even if _he_ doesn't know why I am asking for two explanations. But with the change of aspect, things shift. It becomes the only possible expression of experience, which previously, after looking at the copy, may have seemed like a superfluous determination, or perhaps it was.
+If I know that there are different aspects of the cube schema, I can, in order to find out what the other person sees, produce or have produced a model of what has been seen, in addition to the copy; even if _he_ doesn't know why I am asking for two explanations. But with the change of aspect, things shift. It becomes the only possible expression of experience, which previously, after looking at the copy, may have seemed like a superfluous determination, or perhaps it was.
 
 ### [Ms-144](/ms-144/#27r.3) <span class="fac">[27r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)</span> {#ms-144-27r3}
 
-<span class="series-number">a26</span> And that alone dismisses the comparison of the ‘organization’ with color & form in the visual impression.
+And that alone dismisses the comparison of the ‘organization’ with color & form in the visual impression.
 
 ### [Ms-144](/ms-144/#27r.4) <span class="fac">[27r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)</span> {#ms-144-27r4}
 
-<span class="series-number">a27</span> If I saw the duck-rabbit as a rabbit, then I saw: these forms & colors (I reproduce them exactly) – & besides, something else: I then point to a collection of different rabbit pictures. – This shows the difference between the concepts. ‘Seeing as …’ does not belong to the perception.
+If I saw the duck-rabbit as a rabbit, then I saw: these forms & colors (I reproduce them exactly) – & besides, something else: I then point to a collection of different rabbit pictures. – This shows the difference between the concepts. ‘Seeing as …’ does not belong to the perception.
 
 And that is why it is like seeing & yet not like seeing.
 
 ### [Ms-144](/ms-144/#27r.5+27v.1) <span class="fac">[27r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp),[27v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)</span> {#ms-144-27r527v1}
 
-<span class="series-number">a28</span> I look at an animal; someone asks me: “What do you see?” I reply: “A hare.” – I look into the landscape; suddenly a hare runs by. I exclaim “A hare!” Both, the communication & the exclamation, is an expression of the perception & the experience of seeing. But the exclamation is so in a different sense than the communication. It comes from us. – It is related to the experience in a way similar to how a scream is related to pain.
+I look at an animal; someone asks me: “What do you see?” I reply: “A hare.” – I look into the landscape; suddenly a hare runs by. I exclaim “A hare!” Both, the communication & the exclamation, is an expression of the perception & the experience of seeing. But the exclamation is so in a different sense than the communication. It comes from us. – It is related to the experience in a way similar to how a scream is related to pain.
 
 ### [Ms-144](/ms-144/#27v.2) <span class="fac">[27v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)</span> {#ms-144-27v2}
 
-<span class="series-number">a29</span> But since it is a description of a perception, one can also call it an expression of thought. – Whoever looks at the object does not necessarily have to think about it; however, whoever has the experience of seeing, the expression of which is the exclamation, also thinks about what he sees.
+But since it is a description of a perception, one can also call it an expression of thought. – Whoever looks at the object does not necessarily have to think about it; however, whoever has the experience of seeing, the expression of which is the exclamation, also thinks about what he sees.
 
 ### [Ms-144](/ms-144/#27v.3) <span class="fac">[27v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)</span> {#ms-144-27v3}
 
-<span class="series-number">a30</span> And that is why the lighting up of the aspect appears to be half an experience of seeing, half a thought.
+And that is why the lighting up of the aspect appears to be half an experience of seeing, half a thought.
 
 ### [Ms-144](/ms-144/#27v.4) <span class="fac">[27v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)</span> {#ms-144-27v4}
 
-<span class="series-number">a31</span> Someone suddenly sees an appearance in front of him that he does not recognize (it may be an object that is quite familiar to him, but in an unusual position or lighting); this non-recognition may only last for a few seconds. Is it correct: does he have a different experience of seeing than the one who immediately recognized the object?
+Someone suddenly sees an appearance in front of him that he does not recognize (it may be an object that is quite familiar to him, but in an unusual position or lighting); this non-recognition may only last for a few seconds. Is it correct: does he have a different experience of seeing than the one who immediately recognized the object?
 
 ### [Ms-144](/ms-144/#27v.5) <span class="fac">[27v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp)</span> {#ms-144-27v5}
 
-<span class="series-number">a32</span> Couldn’t someone describe the form that appears before him, which is unfamiliar to him, just as _accurately_ as I, to whom it is familiar? And isn’t that the answer? – Of course, in general, it won’t be like that. Also, his description will sound quite different. (For example, I will say “The animal had long ears” – he: “There were two long appendages” & now he draws them.)
+Couldn’t someone describe the form that appears before him, which is unfamiliar to him, just as _accurately_ as I, to whom it is familiar? And isn’t that the answer? – Of course, in general, it won’t be like that. Also, his description will sound quite different. (For example, I will say “The animal had long ears” – he: “There were two long appendages” & now he draws them.)
 
 ### [Ms-144](/ms-144/#27v.6+28r.1) <span class="fac">[27v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27v.webp),[28r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)</span> {#ms-144-27v628r1}
 
-<span class="series-number">a33</span> I meet someone I haven't seen in years; I see him clearly, but I don't recognize him. Suddenly I recognize him, I see his earlier self in his changed face. I think I would now portray him differently if I could paint.
+I meet someone I haven't seen in years; I see him clearly, but I don't recognize him. Suddenly I recognize him, I see his earlier self in his changed face. I think I would now portray him differently if I could paint.
 
 ### [Ms-144](/ms-144/#28r.2) <span class="fac">[28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)</span> {#ms-144-28r2}
 
-<span class="series-number">a34</span> If I now recognize my acquaintance in the crowd, after perhaps having looked in his direction for some time, – is that a special kind of seeing? Is it seeing & thinking? Or is it a merging of the two – as I would almost like to say? The question is: _Why_ does one want to say that?
+If I now recognize my acquaintance in the crowd, after perhaps having looked in his direction for some time, – is that a special kind of seeing? Is it seeing & thinking? Or is it a merging of the two – as I would almost like to say? The question is: _Why_ does one want to say that?
 
 ### [Ms-144](/ms-144/#28r.3) <span class="fac">[28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)</span> {#ms-144-28r3}
 
-<span class="series-number">a35</span> The same expression, which is also a report of what has been seen, is now an exclamation of recognition.
+The same expression, which is also a report of what has been seen, is now an exclamation of recognition.
 
 ### [Ms-144](/ms-144/#28r.4) <span class="fac">[28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)</span> {#ms-144-28r4}
 
-<span class="series-number">a36</span> What is the criterion of the experience of seeing? – What should the criterion be? The representation of ‘what is seen’.
+What is the criterion of the experience of seeing? – What should the criterion be? The representation of ‘what is seen’.
 
 ### [Ms-144](/ms-144/#28r.5) <span class="fac">[28r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)</span> {#ms-144-28r5}
 
-<span class="series-number">a37</span> The concept of the representation of what is seen, as well as that of the copy, is very flexible, & _with it_ the concept of what is seen. The two are closely related. (And that does _not_ mean that they are similar.)
+The concept of the representation of what is seen, as well as that of the copy, is very flexible, & _with it_ the concept of what is seen. The two are closely related. (And that does _not_ mean that they are similar.)
 
 ### [Ms-144](/ms-144/#42r.1) <span class="fac">[42r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)</span> {#ms-144-42r1}
 
-<span class="series-number">a37˙1</span> How does one recognize that people spatially _see_? – I ask someone how the terrain (there) lies, that which he surveys. “Does it lie _like this_?” (I show it with my hand) – “Yes.” – “How do you know that?” – “It is not foggy, I see it quite clearly.” – No reasons are given for the _assumption_. It is uniquely natural for us to represent what is seen spatially; whereas, for the planar representation, whether through drawing or through words, special practice & instruction are required. (The peculiarity of children’s drawings.)
+How does one recognize that people spatially _see_? – I ask someone how the terrain (there) lies, that which he surveys. “Does it lie _like this_?” (I show it with my hand) – “Yes.” – “How do you know that?” – “It is not foggy, I see it quite clearly.” – No reasons are given for the _assumption_. It is uniquely natural for us to represent what is seen spatially; whereas, for the planar representation, whether through drawing or through words, special practice & instruction are required. (The peculiarity of children’s drawings.)
 
 ### [Ms-144](/ms-144/#28r.6) <span class="fac">[28r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28r.webp)</span> {#ms-144-28r6}
 
-<span class="series-number">a38</span> Does someone who sees a smile that he does not recognize as a smile, that he does not understand, see it differently than the one who understands it? – He, for example, copies it differently.
+Does someone who sees a smile that he does not recognize as a smile, that he does not understand, see it differently than the one who understands it? – He, for example, copies it differently.
 
 ### [Ms-144](/ms-144/#30v.1) <span class="fac">[30v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)</span> {#ms-144-30v1}
 
@@ -632,7 +632,7 @@ Hold a drawing of a face upside down & you cannot recognize the expression of th
 
 ### [Ms-144](/ms-144/#28v.1) <span class="fac">[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v1}
 
-<span class="series-number">a40</span> Figure a)
+Figure a)
 
 ![](../graphics/144,28v-1.svg)
 
@@ -652,25 +652,25 @@ But there is a different difference between my impression of c & d – I would l
 
 ### [Ms-144](/ms-144/#28v.2) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v2}
 
-<span class="series-number">a41</span> Imagine the duck-rabbit head hidden in a tangle of lines. Now I notice it in the picture, simply as a rabbit's head. Later I look at the same picture and notice the same line, but as a duck, and I do not yet need to know that it was the same line both times. If I later see the aspect change, can I say that the aspects of H and E are seen quite differently than when I recognized them individually in the tangle of lines? No. But the change evokes a sense of wonder that recognition does not evoke.
+Imagine the duck-rabbit head hidden in a tangle of lines. Now I notice it in the picture, simply as a rabbit's head. Later I look at the same picture and notice the same line, but as a duck, and I do not yet need to know that it was the same line both times. If I later see the aspect change, can I say that the aspects of H and E are seen quite differently than when I recognized them individually in the tangle of lines? No. But the change evokes a sense of wonder that recognition does not evoke.
 
 ### [Ms-144](/ms-144/#28v.3) <span class="fac">[28v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v3}
 
-<span class="series-number">a42</span> He who looks for another (2) in a figure (1), & then finds it, sees (1) in a new way. He can not only give a new description of it, but that noticing was a new experience of seeing.
+He who looks for another (2) in a figure (1), & then finds it, sees (1) in a new way. He can not only give a new description of it, but that noticing was a new experience of seeing.
 
 ### [Ms-144](/ms-144/#28v.4+29r.1) <span class="fac">[28v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)</span> {#ms-144-28v429r1}
 
-<span class="series-number">a43</span> But it does not have to be the case that he wants to say: “The figure (1) now looks completely different; it also has no similarity with the earlier one, although it is congruent with it!”
+But it does not have to be the case that he wants to say: “The figure (1) now looks completely different; it also has no similarity with the earlier one, although it is congruent with it!”
 
 a44
 
 ### [Ms-144](/ms-144/#29v.4) <span class="fac">[29v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)</span> {#ms-144-29v4}
 
-<span class="series-number">a44</span> There are here a large number of related phenomena and possible concepts.
+There are here a large number of related phenomena and possible concepts.
 
 ### [Ms-144](/ms-144/#29r.2) <span class="fac">[29r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)</span> {#ms-144-29r2}
 
-<span class="series-number">a45</span> Is the copy of the figure then an _incomplete_ description of my experience of seeing? No. – It depends on the circumstances whether, and which, further specifications are necessary. – It _can_ be an incomplete description; if a question remains.
+Is the copy of the figure then an _incomplete_ description of my experience of seeing? No. – It depends on the circumstances whether, and which, further specifications are necessary. – It _can_ be an incomplete description; if a question remains.
 
 ### [Ms-144](/ms-144/#29r.3) <span class="fac">[29r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)</span> {#ms-144-29r3}
 
@@ -678,23 +678,23 @@ One can, of course, say: there are certain things that fall under both the conce
 
 ### [Ms-144](/ms-144/#29r.4) <span class="fac">[29r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp)</span> {#ms-144-29r4}
 
-<span class="series-number">a46</span> “What I actually _see_ must be what is brought about in me by the action of the object.” – What is brought about in me is then a kind of depiction, something that one could look at again, have before one; almost like a _materialization_. And this materialization is something spatial and must be described entirely in spatial terms. It can, for example, smile (if it is a face), but the concept of friendliness does not belong to its depiction, but is _foreign_ to this depiction (even if it can serve it).
+“What I actually _see_ must be what is brought about in me by the action of the object.” – What is brought about in me is then a kind of depiction, something that one could look at again, have before one; almost like a _materialization_. And this materialization is something spatial and must be described entirely in spatial terms. It can, for example, smile (if it is a face), but the concept of friendliness does not belong to its depiction, but is _foreign_ to this depiction (even if it can serve it).
 
 ### [Ms-144](/ms-144/#29r.5+29v.1) <span class="fac">[29r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29r.webp),[29v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)</span> {#ms-144-29r529v1}
 
-<span class="series-number">a47</span> If you ask me what I saw, I will perhaps be able to produce a sketch that shows it; but I will in most cases not remember at all how my gaze wandered.
+If you ask me what I saw, I will perhaps be able to produce a sketch that shows it; but I will in most cases not remember at all how my gaze wandered.
 
 ### [Ms-144](/ms-144/#29v.2) <span class="fac">[29v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)</span> {#ms-144-29v2}
 
-<span class="series-number">a48</span> The concept of ‘seeing’ makes a confused impression. Well, that is how it is. – I look at the landscape; my gaze wanders, I see all sorts of clear and unclear movements; _this_ is clearly imprinted on me, _that_ only very vaguely. How completely fragmented what we see can appear! And now look at what “description of what was seen” means! – But that is precisely what one calls a description of what was seen. There is not _one proper_, orderly case of such a description – and the rest is simply still unclear, awaits clarification, or must simply be relegated to the corner as waste.
+The concept of ‘seeing’ makes a confused impression. Well, that is how it is. – I look at the landscape; my gaze wanders, I see all sorts of clear and unclear movements; _this_ is clearly imprinted on me, _that_ only very vaguely. How completely fragmented what we see can appear! And now look at what “description of what was seen” means! – But that is precisely what one calls a description of what was seen. There is not _one proper_, orderly case of such a description – and the rest is simply still unclear, awaits clarification, or must simply be relegated to the corner as waste.
 
 ### [Ms-144](/ms-144/#29v.3) <span class="fac">[29v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)</span> {#ms-144-29v3}
 
-<span class="series-number">a49</span> Here there is a great danger for us: to want to make fine distinctions. – It is similar when one wants to explain the concept of the physical body from ‘what is actually seen’. – Rather, one must _add_ the everyday language-game, and _false_ depictions must be designated as such. The primitive language-game that is taught to the child needs no justification; attempts at justification require rejection.
+Here there is a great danger for us: to want to make fine distinctions. – It is similar when one wants to explain the concept of the physical body from ‘what is actually seen’. – Rather, one must _add_ the everyday language-game, and _false_ depictions must be designated as such. The primitive language-game that is taught to the child needs no justification; attempts at justification require rejection.
 
 ### [Ms-144](/ms-144/#29v.5+30r.1) <span class="fac">[29v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp),[30r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)</span> {#ms-144-29v530r1}
 
-<span class="series-number">a50</span> Consider as an example the aspects of the triangle. The triangle
+Consider as an example the aspects of the triangle. The triangle
 
 ![](../graphics/144,29v.svg)
 
@@ -702,71 +702,71 @@ can be seen: as a triangular hole, as a body, as a geometric drawing; standing o
 
 ### [Ms-144](/ms-144/#30r.2) <span class="fac">[30r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)</span> {#ms-144-30r2}
 
-<span class="series-number">a51</span> “You can think of _this_ one time, _that_ one time, see it as _this_ one time, as _that_ one time, and then you will see it _this_ way one time, _that_ way one time.” – _How_ so? There is no further determination.
+“You can think of _this_ one time, _that_ one time, see it as _this_ one time, as _that_ one time, and then you will see it _this_ way one time, _that_ way one time.” – _How_ so? There is no further determination.
 
 ### [Ms-144](/ms-144/#30r.3) <span class="fac">[30r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)</span> {#ms-144-30r3}
 
-<span class="series-number">a52</span> But how is it possible that one sees a _thing_ according to an _interpretation_? – The question presents it as an odd fact; as if something had been forced into a form that doesn’t actually fit. But here, no forcing or coercion has taken place.
+But how is it possible that one sees a _thing_ according to an _interpretation_? – The question presents it as an odd fact; as if something had been forced into a form that doesn’t actually fit. But here, no forcing or coercion has taken place.
 
 ### [Ms-144](/ms-144/#30r.4) <span class="fac">[30r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)</span> {#ms-144-30r4}
 
-<span class="series-number">a53</span> If it seems as though there is no room for such a logical form, then one must seek it in another dimension. If there is no room here, then it is simply in another dimension. (In this sense, there is also no room for imaginary numbers on the real number line. And this means: the application of an imaginary number sign is more dissimilar to that of the real number than the sight of the _calculations_ reveals. If one descends to the application, then that concept finds, as it were, a quite _unexpectedly_ different place.)
+If it seems as though there is no room for such a logical form, then one must seek it in another dimension. If there is no room here, then it is simply in another dimension. (In this sense, there is also no room for imaginary numbers on the real number line. And this means: the application of an imaginary number sign is more dissimilar to that of the real number than the sight of the _calculations_ reveals. If one descends to the application, then that concept finds, as it were, a quite _unexpectedly_ different place.)
 
 ### [Ms-144](/ms-144/#30v.3) <span class="fac">[30v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)</span> {#ms-144-30v3}
 
-<span class="series-number">a54</span> How would this explanation be: “I can see something as _that_ which it can be a picture of”? Doesn’t that mean: the aspects in the change of aspect are _those_ which the figure could possibly _constantly_ have in a picture?
+How would this explanation be: “I can see something as _that_ which it can be a picture of”? Doesn’t that mean: the aspects in the change of aspect are _those_ which the figure could possibly _constantly_ have in a picture?
 
 ### [Ms-144](/ms-144/#30v.4) <span class="fac">[30v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)</span> {#ms-144-30v4}
 
-<span class="series-number">a55</span> A triangle can indeed actually _be_ in a painting, in another be hanging, in a third depict something that has fallen over. – Thus, that I, the observer, do not say “That can also depict something that has fallen over”, but “The glass has fallen over & lies in shards”. That is how we react to the picture.
+A triangle can indeed actually _be_ in a painting, in another be hanging, in a third depict something that has fallen over. – Thus, that I, the observer, do not say “That can also depict something that has fallen over”, but “The glass has fallen over & lies in shards”. That is how we react to the picture.
 
 ### [Ms-144](/ms-144/#30v.5) <span class="fac">[30v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp)</span> {#ms-144-30v5}
 
-<span class="series-number">a56</span> Could I say how a picture must be in order to bring this about? No. There are, for example, ways of painting that do not communicate anything to me in this immediate way, but do communicate to other people. I believe that habit & education have something to do with it.
+Could I say how a picture must be in order to bring this about? No. There are, for example, ways of painting that do not communicate anything to me in this immediate way, but do communicate to other people. I believe that habit & education have something to do with it.
 
 ### [Ms-144](/ms-144/#30v.6+31r.1) <span class="fac">[30v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30v.webp),[31r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)</span> {#ms-144-30v631r1}
 
-<span class="series-number">a57</span> What does it mean now, that in the picture I ‘_see the sphere floating_’? Does it already lie in the fact that this description is closest to me, self-evident? No; it could be for various reasons. It could, for example, simply be the conventional one. But what is the expression for the fact that I do not just understand the picture in a certain way (know what it is _supposed_ to represent), but _see_ it that way? – Such an expression is: “The sphere seems to float”, “One sees it floating”, or also, in a special tone, “It is floating!” This is therefore the expression of the way one takes it to be. But not used as such.
+What does it mean now, that in the picture I ‘_see the sphere floating_’? Does it already lie in the fact that this description is closest to me, self-evident? No; it could be for various reasons. It could, for example, simply be the conventional one. But what is the expression for the fact that I do not just understand the picture in a certain way (know what it is _supposed_ to represent), but _see_ it that way? – Such an expression is: “The sphere seems to float”, “One sees it floating”, or also, in a special tone, “It is floating!” This is therefore the expression of the way one takes it to be. But not used as such.
 
 ### [Ms-144](/ms-144/#31r.2) <span class="fac">[31r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)</span> {#ms-144-31r2}
 
-<span class="series-number">a58</span> We are not asking here what the causes are & what gives rise to this impression in a particular case.
+We are not asking here what the causes are & what gives rise to this impression in a particular case.
 
 ### [Ms-144](/ms-144/#31r.3) <span class="fac">[31r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)</span> {#ms-144-31r3}
 
-<span class="series-number">a59</span> And is it a special impression? – “I do see something _different_ when I see the sphere floating, as opposed to when I simply see it lying there.” – This actually means: This expression is justified! (Because, taken literally, it is only a repetition.) (And yet my impression is not that of a real floating sphere. There are variations of ‘spatial seeing’. The spatial quality of a photograph & the spatial quality of what we see through a stereoscope.)
+And is it a special impression? – “I do see something _different_ when I see the sphere floating, as opposed to when I simply see it lying there.” – This actually means: This expression is justified! (Because, taken literally, it is only a repetition.) (And yet my impression is not that of a real floating sphere. There are variations of ‘spatial seeing’. The spatial quality of a photograph & the spatial quality of what we see through a stereoscope.)
 
 ### [Ms-144](/ms-144/#31r.4) <span class="fac">[31r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31r.webp)</span> {#ms-144-31r4}
 
-<span class="series-number">a60</span> “And is it really a different impression?” – In order to answer this, I would like to ask myself whether something truly different exists within me. But how can I convince myself of this? ‒ ‒ I _describe_ what I see differently.
+“And is it really a different impression?” – In order to answer this, I would like to ask myself whether something truly different exists within me. But how can I convince myself of this? ‒ ‒ I _describe_ what I see differently.
 
 ### [Ms-144](/ms-144/#31v.1) <span class="fac">[31v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)</span> {#ms-144-31v1}
 
-<span class="series-number">a61</span> Certain drawings one always sees as figures in a plane, others sometimes, or even always, as spatial. One would now like to say: The visual impression of the drawings that are seen as spatial is spatial; it is, for example, a cube for the cube schema. (Because the description of the impression is the description of a cube.)
+Certain drawings one always sees as figures in a plane, others sometimes, or even always, as spatial. One would now like to say: The visual impression of the drawings that are seen as spatial is spatial; it is, for example, a cube for the cube schema. (Because the description of the impression is the description of a cube.)
 
 ### [Ms-144](/ms-144/#31v.2) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)</span> {#ms-144-31v2}
 
-<span class="series-number">a62</span> And it is then remarkable that our impression is, for some drawings, of something flat, and for others, of something spatial. One asks oneself: “Where is this supposed to end?”
+And it is then remarkable that our impression is, for some drawings, of something flat, and for others, of something spatial. One asks oneself: “Where is this supposed to end?”
 
 ### [Ms-144](/ms-144/#31v.3) <span class="fac">[31v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)</span> {#ms-144-31v3}
 
-<span class="series-number">a63</span> When I see the picture of a galloping horse, do I merely know that this kind of movement is meant? Is it superstition that I see it galloping in the picture? – And does my visual impression do the same?
+When I see the picture of a galloping horse, do I merely know that this kind of movement is meant? Is it superstition that I see it galloping in the picture? – And does my visual impression do the same?
 
 ### [Ms-144](/ms-144/#31v.4) <span class="fac">[31v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp)</span> {#ms-144-31v4}
 
-<span class="series-number">a64</span> What does one communicate to me when he says, “I now see it as…”? What are the consequences of this communication? What can I do with it?
+What does one communicate to me when he says, “I now see it as…”? What are the consequences of this communication? What can I do with it?
 
 ### [Ms-144](/ms-144/#31v.5+32r.1) <span class="fac">[31v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)</span> {#ms-144-31v532r1}
 
-<span class="series-number">a65</span> People often associate colors with vowels. It could be that for some, a vowel, when pronounced repeatedly, changes its color. For example, _a_ is ‘now blue – now red’ for him. The utterance “I now see it as…” might not mean anything more to us than: “_a_ is now red for me.” (Coupled with physiological observations, this change could also become important to us.)
+People often associate colors with vowels. It could be that for some, a vowel, when pronounced repeatedly, changes its color. For example, _a_ is ‘now blue – now red’ for him. The utterance “I now see it as…” might not mean anything more to us than: “_a_ is now red for me.” (Coupled with physiological observations, this change could also become important to us.)
 
 ### [Ms-144](/ms-144/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)</span> {#ms-144-32r2}
 
-<span class="series-number">a66</span> It occurs to me that in conversations about aesthetic objects, the words are used: “You must see it _this_ way; that is how it is meant”; “If you see it _this_ way, you will see where the mistake lies”; “You must hear these measures as an introduction”; “You must listen for this key”; “You must phrase it _this_ way” (and this can refer to both hearing and playing).
+It occurs to me that in conversations about aesthetic objects, the words are used: “You must see it _this_ way; that is how it is meant”; “If you see it _this_ way, you will see where the mistake lies”; “You must hear these measures as an introduction”; “You must listen for this key”; “You must phrase it _this_ way” (and this can refer to both hearing and playing).
 
 ### [Ms-144](/ms-144/#32r.3) <span class="fac">[32r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp)</span> {#ms-144-32r3}
 
-<span class="series-number">a67</span> The figure
+The figure
 
 ![](../graphics/144,32r.svg)
 
@@ -774,35 +774,35 @@ is intended to represent a convex step and is used to demonstrate certain spatia
 
 ### [Ms-144](/ms-144/#32r.4+32v.1) <span class="fac">[32r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32r.webp),[32v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)</span> {#ms-144-32r432v1}
 
-<span class="series-number">a68</span> What does it mean when, looking at a drawing in descriptive geometry, I say: “I know that this line will reappear here, but I cannot _see_ it”? Does it simply mean that I lack the familiarity with operating in the drawing, that I am not so familiar with it? Well, this familiarity is certainly one of our criteria. The criterion is a certain _kind_ of ‘being familiar’. Certain gestures, for example, that indicate the spatial relationships: subtle nuances of behaviour.
+What does it mean when, looking at a drawing in descriptive geometry, I say: “I know that this line will reappear here, but I cannot _see_ it”? Does it simply mean that I lack the familiarity with operating in the drawing, that I am not so familiar with it? Well, this familiarity is certainly one of our criteria. The criterion is a certain _kind_ of ‘being familiar’. Certain gestures, for example, that indicate the spatial relationships: subtle nuances of behaviour.
 
 ### [Ms-144](/ms-144/#32v.2) <span class="fac">[32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)</span> {#ms-144-32v2}
 
-<span class="series-number">a69</span> I see that in the picture, the arrow penetrates the animal. It has hit it in the throat & protrudes from the back of its neck. Let the picture be a silhouette. – _Do_ you see the arrow – _do_ you simply know that these two parts are supposed to represent parts of an arrow? (Compare Köhler’s figure of the intersecting hexagons.)
+I see that in the picture, the arrow penetrates the animal. It has hit it in the throat & protrudes from the back of its neck. Let the picture be a silhouette. – _Do_ you see the arrow – _do_ you simply know that these two parts are supposed to represent parts of an arrow? (Compare Köhler’s figure of the intersecting hexagons.)
 
 ### [Ms-144](/ms-144/#32v.4) <span class="fac">[32v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)</span> {#ms-144-32v4}
 
-<span class="series-number">a70</span> “This is not _seeing_!” – “This is seeing!” – Both must be justified conceptually.
+“This is not _seeing_!” – “This is seeing!” – Both must be justified conceptually.
 
 ### [Ms-144](/ms-144/#32v.5) <span class="fac">[32v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)</span> {#ms-144-32v5}
 
-<span class="series-number">a71</span> This is seeing! _In what way_ is it seeing?
+This is seeing! _In what way_ is it seeing?
 
 ### [Ms-144](/ms-144/#32v.3) <span class="fac">[32v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp)</span> {#ms-144-32v3}
 
-<span class="series-number">a72</span> “The phenomenon initially seems strange, but a physiological explanation will certainly be found for it.” Our problem is not a causal one, but a conceptual one.
+“The phenomenon initially seems strange, but a physiological explanation will certainly be found for it.” Our problem is not a causal one, but a conceptual one.
 
 ### [Ms-144](/ms-144/#32v.6+33v.1) <span class="fac">[32v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/32v.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)</span> {#ms-144-32v633v1}
 
-<span class="series-number">a73</span> If I were shown the picture of the pierced animal, or of the intersecting crystals, for only a moment, and then asked to describe it, then _that_ would be the description; if I were to draw it, I would certainly produce a very inaccurate copy, but it would show a kind of animal pierced by an arrow, or two hexagons intersecting. That is, I would _not_ make certain mistakes.
+If I were shown the picture of the pierced animal, or of the intersecting crystals, for only a moment, and then asked to describe it, then _that_ would be the description; if I were to draw it, I would certainly produce a very inaccurate copy, but it would show a kind of animal pierced by an arrow, or two hexagons intersecting. That is, I would _not_ make certain mistakes.
 
 ### [Ms-144](/ms-144/#33r.2) <span class="fac">[33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)</span> {#ms-144-33r2}
 
-<span class="series-number">a76</span> The first thing that strikes me about this picture is: there are two hexagons. Now I look at them and ask myself: “Do I really _see_ them as hexagons?” – and this throughout the time they are before my eyes? (Assuming that their aspect has not changed.) – And I would like to answer: “I don’t think about them as hexagons all the time.”
+The first thing that strikes me about this picture is: there are two hexagons. Now I look at them and ask myself: “Do I really _see_ them as hexagons?” – and this throughout the time they are before my eyes? (Assuming that their aspect has not changed.) – And I would like to answer: “I don’t think about them as hexagons all the time.”
 
 ### [Ms-144](/ms-144/#33r.3) <span class="fac">[33r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)</span> {#ms-144-33r3}
 
-<span class="series-number">a75</span> Someone says to me: “I immediately saw it as two hexagons. Yes, that was _all that_ I saw.” But how am I to understand that? I think that he would have given this description as an answer to the question “What do you see?” right away, and that he would not have treated it as one of several possible answers. In this respect, it is the same as the answer “A face,” if I had shown him the figure
+Someone says to me: “I immediately saw it as two hexagons. Yes, that was _all that_ I saw.” But how am I to understand that? I think that he would have given this description as an answer to the question “What do you see?” right away, and that he would not have treated it as one of several possible answers. In this respect, it is the same as the answer “A face,” if I had shown him the figure
 
 ![](../graphics/144,33r.svg)
 
@@ -818,67 +818,67 @@ Don't try to analyze the experience in yourself!
 
 ### [Ms-144](/ms-144/#33r.4) <span class="fac">[33r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)</span> {#ms-144-33r4}
 
-<span class="series-number">a78</span> It could also have been that I first saw the picture as something else, & then said to myself “Ah, it's two hexagons!” So the aspect would have changed. And does that prove that I actually _saw_ it as something specific?
+It could also have been that I first saw the picture as something else, & then said to myself “Ah, it's two hexagons!” So the aspect would have changed. And does that prove that I actually _saw_ it as something specific?
 
 ### [Ms-144](/ms-144/#33r.5) <span class="fac">[33r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)</span> {#ms-144-33r5}
 
-<span class="series-number">a79</span> “Is it a _real_ experience of seeing?”
+“Is it a _real_ experience of seeing?”
 
 The question is: In what way is it one.
 
 ### [Ms-144](/ms-144/#33r.6+33v.1) <span class="fac">[33r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)</span> {#ms-144-33r633v1}
 
-<span class="series-number">a80</span> It is _difficult_ to see here that it is about definitions. A _concept_ is pressing itself upon us. (Don't forget that.)
+It is _difficult_ to see here that it is about definitions. A _concept_ is pressing itself upon us. (Don't forget that.)
 
 ### [Ms-144](/ms-144/#33v.4) <span class="fac">[33v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)</span> {#ms-144-33v4}
 
-<span class="series-number">a81</span> When would I call it merely knowing, not seeing? – Perhaps, if someone treated the picture like a technical drawing, _reading_ it like a blueprint. (Fine nuances of behaviour. – Why are they _important_? They have important consequences.)
+When would I call it merely knowing, not seeing? – Perhaps, if someone treated the picture like a technical drawing, _reading_ it like a blueprint. (Fine nuances of behaviour. – Why are they _important_? They have important consequences.)
 
 ### [Ms-144](/ms-144/#33v.5) <span class="fac">[33v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)</span> {#ms-144-33v5}
 
-<span class="series-number">a82</span> “It is for me an animal, pierced by the arrow.” I treat it as that; this is my _attitude_ towards the figure. That is one meaning of calling it ‘seeing.’
+“It is for me an animal, pierced by the arrow.” I treat it as that; this is my _attitude_ towards the figure. That is one meaning of calling it ‘seeing.’
 
 ### [Ms-144](/ms-144/#33v.6) <span class="fac">[33v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)</span> {#ms-144-33v6}
 
-<span class="series-number">a83</span> But can I also say in the same sense: “These are for me two hexagons”? Not in the same sense, but in a similar one.
+But can I also say in the same sense: “These are for me two hexagons”? Not in the same sense, but in a similar one.
 
 ### [Ms-144](/ms-144/#33v.7+34r.1) <span class="fac">[33v\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp),[34r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)</span> {#ms-144-33v734r1}
 
-<span class="series-number">a84</span> You must think about the role that pictures play in our lives, in their character as paintings (as opposed to technical drawings). And there is certainly not uniformity here. Compare this: sometimes one hangs sayings on the wall. But not theorems of mechanics. (Our relationship to these two.)
+You must think about the role that pictures play in our lives, in their character as paintings (as opposed to technical drawings). And there is certainly not uniformity here. Compare this: sometimes one hangs sayings on the wall. But not theorems of mechanics. (Our relationship to these two.)
 
 ### [Ms-144](/ms-144/#34r.2) <span class="fac">[34r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)</span> {#ms-144-34r2}
 
-<span class="series-number">a85</span> I would expect something different from the one who sees the drawing as this animal than from the one who only knows what it is supposed to represent.
+I would expect something different from the one who sees the drawing as this animal than from the one who only knows what it is supposed to represent.
 
 ### [Ms-144](/ms-144/#34r.3) <span class="fac">[34r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)</span> {#ms-144-34r3}
 
-<span class="series-number">a86</span> Perhaps, however, this expression would have been better: We _regard_ the photograph, the picture on our wall, as the object itself (person, landscape, etc.) that was depicted.
+Perhaps, however, this expression would have been better: We _regard_ the photograph, the picture on our wall, as the object itself (person, landscape, etc.) that was depicted.
 
 ### [Ms-144](/ms-144/#34r.4) <span class="fac">[34r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)</span> {#ms-144-34r4}
 
-<span class="series-number">a87</span> This does not have to be the case. We could easily imagine people who do not have this relationship to these pictures. People, for example, who would be repelled by photographs because a face without color, or perhaps a face on a reduced scale, seems inhuman to them.
+This does not have to be the case. We could easily imagine people who do not have this relationship to these pictures. People, for example, who would be repelled by photographs because a face without color, or perhaps a face on a reduced scale, seems inhuman to them.
 
 ### [Ms-144](/ms-144/#34r.5) <span class="fac">[34r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp)</span> {#ms-144-34r5}
 
-<span class="series-number">a88</span> If now I say “We regard a portrait as a person,” – when & for how long do we do this? _Always_, when we see it (& not see it as something else)? I could affirm that, & thereby I would define the concept of regarding. – The question is whether another, related concept becomes important to us, that of such a seeing (namely), which only takes place while I am engaged with the picture as the object (that is depicted).
+If now I say “We regard a portrait as a person,” – when & for how long do we do this? _Always_, when we see it (& not see it as something else)? I could affirm that, & thereby I would define the concept of regarding. – The question is whether another, related concept becomes important to us, that of such a seeing (namely), which only takes place while I am engaged with the picture as the object (that is depicted).
 
 ### [Ms-144](/ms-144/#34r.6+34v.1) <span class="fac">[34r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34r.webp),[34v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34r634v1}
 
-<span class="series-number">a89</span> I could say: A picture does not _live_ for me always while I see it. “Your picture smiles at me from the wall.” It doesn’t have to do that every time my gaze falls on it.
+I could say: A picture does not _live_ for me always while I see it. “Your picture smiles at me from the wall.” It doesn’t have to do that every time my gaze falls on it.
 
 a90
 
 ### [Ms-144](/ms-144/#36r.4) <span class="fac">[36r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-36r4}
 
-<span class="series-number">a90</span> The H.-E. head. One wonders: How is it possible that the eye, this _point_, looks in one direction? – “_Look how it looks_!” (And in doing so, one ‘looks’ oneself.) But one does not say and do that constantly while looking at the picture. And what is this “Look how it looks!” – is it the expression of a sensation?
+The H.-E. head. One wonders: How is it possible that the eye, this _point_, looks in one direction? – “_Look how it looks_!” (And in doing so, one ‘looks’ oneself.) But one does not say and do that constantly while looking at the picture. And what is this “Look how it looks!” – is it the expression of a sensation?
 
 ### [Ms-144](/ms-144/#34v.2) <span class="fac">[34v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34v2}
 
-<span class="series-number">a91</span> (I am not striving for completeness with all these examples. Not a classification of the psychological terms. They are only intended to enable the reader to help himself in conceptual uncertainties.)
+(I am not striving for completeness with all these examples. Not a classification of the psychological terms. They are only intended to enable the reader to help himself in conceptual uncertainties.)
 
 ### [Ms-144](/ms-144/#34v.3) <span class="fac">[34v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34v3}
 
-<span class="series-number">a92</span> “I see it now as a…” goes together with “I try to see it as a…” or “I cannot yet see it as a…”. But I cannot try to see the conventional picture of a lion _as_ a lion, just as little as I can see
+“I see it now as a…” goes together with “I try to see it as a…” or “I cannot yet see it as a…”. But I cannot try to see the conventional picture of a lion _as_ a lion, just as little as I can see
 
 ![](../graphics/144,34v-1.svg)
 
@@ -888,11 +888,11 @@ a93
 
 ### [Ms-144](/ms-144/#37r.4) <span class="fac">[37r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r4}
 
-<span class="series-number">a93</span> Now, do not ask yourself “How is it with _me_?” – Ask: “What do I know about the other?”
+Now, do not ask yourself “How is it with _me_?” – Ask: “What do I know about the other?”
 
 ### [Ms-144](/ms-144/#34v.4) <span class="fac">[34v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34v4}
 
-<span class="series-number">a94</span> How does one play the game: “It could also be _that_”? (_That_, which the figure could also be – and that is what it can be seen as – is not simply another figure. Whoever says “I see
+How does one play the game: “It could also be _that_”? (_That_, which the figure could also be – and that is what it can be seen as – is not simply another figure. Whoever says “I see
 
 ![](../graphics/144,34v-2.svg)
 
@@ -904,33 +904,33 @@ might mean something quite different.) Children play this game. They say of a bo
 
 ### [Ms-144](/ms-144/#34v.5) <span class="fac">[34v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34v5}
 
-<span class="series-number">a95</span> And does the child now _see_ the box as a house? “He completely forgets that it is a box; it is actually a house for him.” (There are certain signs of this.) Wouldn’t it also be correct to say that he _sees_ it as a house?
+And does the child now _see_ the box as a house? “He completely forgets that it is a box; it is actually a house for him.” (There are certain signs of this.) Wouldn’t it also be correct to say that he _sees_ it as a house?
 
 ### [Ms-144](/ms-144/#35r.1) <span class="fac">[35r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)</span> {#ms-144-35r1}
 
-<span class="series-number">a96</span> And if someone could play like that, and in a particular situation, with a special expression, exclaimed, “Now it is a house!” – that would express the lighting up of the aspect.
+And if someone could play like that, and in a particular situation, with a special expression, exclaimed, “Now it is a house!” – that would express the lighting up of the aspect.
 
 a96˙1
 
 ### [Ms-144](/ms-144/#37r.5) <span class="fac">[37r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r5}
 
-<span class="series-number">a96˙1</span> If I heard someone talking about the H.-E. picture, and _now_, in a certain way, about the particular expression of this rabbit's face, then I would say that he is now seeing the picture as a rabbit.
+If I heard someone talking about the H.-E. picture, and _now_, in a certain way, about the particular expression of this rabbit's face, then I would say that he is now seeing the picture as a rabbit.
 
 ### [Ms-144](/ms-144/#35r.2) <span class="fac">[35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)</span> {#ms-144-35r2}
 
-<span class="series-number">a97</span> But the expression of the voice and gesture is the same as if the object had changed and had finally _become_ that or the other. I have a theme played to me repeatedly and each time at a slower tempo. Finally, I say “_Now_ it is right”, or “_Now_ it only is a march”, “_Now_ it only is a dance”. – In _this_ tone, the lighting up of the aspect also expresses itself.
+But the expression of the voice and gesture is the same as if the object had changed and had finally _become_ that or the other. I have a theme played to me repeatedly and each time at a slower tempo. Finally, I say “_Now_ it is right”, or “_Now_ it only is a march”, “_Now_ it only is a dance”. – In _this_ tone, the lighting up of the aspect also expresses itself.
 
 ### [Ms-144](/ms-144/#35r.3) <span class="fac">[35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)</span> {#ms-144-35r3}
 
-<span class="series-number">a98</span> ‘Fine nuances of behaviour’ – If my understanding of a theme is expressed in that I whistle it with the correct expression, then that is an example of these fine nuances.
+‘Fine nuances of behaviour’ – If my understanding of a theme is expressed in that I whistle it with the correct expression, then that is an example of these fine nuances.
 
 ### [Ms-144](/ms-144/#35r.4) <span class="fac">[35r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)</span> {#ms-144-35r4}
 
-<span class="series-number">a99</span> The aspects of the triangle: It is as if an _image_ came into contact with the visual impression and remained in contact for a time.
+The aspects of the triangle: It is as if an _image_ came into contact with the visual impression and remained in contact for a time.
 
 ### [Ms-144](/ms-144/#35r.5) <span class="fac">[35r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)</span> {#ms-144-35r5}
 
-<span class="series-number">a100</span> In this, however, these aspects differ from the concave and convex aspect of the step (e.g.). Also from the aspects of the figure
+In this, however, these aspects differ from the concave and convex aspect of the step (e.g.). Also from the aspects of the figure
 
 ![](../graphics/144,35r.svg)
 
@@ -938,11 +938,11 @@ a96˙1
 
 ### [Ms-144](/ms-144/#35r.6+35v.1) <span class="fac">[35r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp),[35v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)</span> {#ms-144-35r635v1}
 
-<span class="series-number">a101</span> You must remember that the description of the alternating aspects is in each case of a different kind.
+You must remember that the description of the alternating aspects is in each case of a different kind.
 
 ### [Ms-144](/ms-144/#36r.3) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-36r3}
 
-<span class="series-number">a102</span> (The temptation to say “I see it _like this_”, by pointing at the same thing when saying “it” & “like this”.)
+(The temptation to say “I see it _like this_”, by pointing at the same thing when saying “it” & “like this”.)
 
 ### [Ms-144](/ms-144/#41v.3) <span class="fac">[41v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)</span> {#ms-144-41v3}
 
@@ -950,43 +950,43 @@ Always eliminate the private object by assuming: it changes constantly; you just
 
 ### [Ms-144](/ms-144/#35v.2) <span class="fac">[35v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)</span> {#ms-144-35v2}
 
-<span class="series-number">a103</span> Those two aspects of the double cross (I will call them the aspects _A_) could, for example, be simply communicated by the observer alternately pointing to a separate white cross and to a separate black cross. Yes, one could imagine that this is a primitive reaction of a child, even before it can speak. (In the communication of the aspects _A_, a part of the double cross figure is therefore pointed out. – The H. & E. aspect could not be described in an analogous way.)
+Those two aspects of the double cross (I will call them the aspects _A_) could, for example, be simply communicated by the observer alternately pointing to a separate white cross and to a separate black cross. Yes, one could imagine that this is a primitive reaction of a child, even before it can speak. (In the communication of the aspects _A_, a part of the double cross figure is therefore pointed out. – The H. & E. aspect could not be described in an analogous way.)
 
 ### [Ms-144](/ms-144/#35v.3) <span class="fac">[35v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)</span> {#ms-144-35v3}
 
-<span class="series-number">a104</span> Only the one who ‘sees the aspects H. & E.’ has the shapes of those two animals in mind. There is no analogous condition for the aspects _A_.
+Only the one who ‘sees the aspects H. & E.’ has the shapes of those two animals in mind. There is no analogous condition for the aspects _A_.
 
 ### [Ms-144](/ms-144/#35v.4) <span class="fac">[35v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp)</span> {#ms-144-35v4}
 
-<span class="series-number">a105</span> Someone can simply take the H-E head to be the picture of a rabbit, the double cross to be the picture of a black cross, but not the mere triangular figure to be the picture of an overturned object. It requires _powers of imagination_ to see this aspect of the triangle.
+Someone can simply take the H-E head to be the picture of a rabbit, the double cross to be the picture of a black cross, but not the mere triangular figure to be the picture of an overturned object. It requires _powers of imagination_ to see this aspect of the triangle.
 
 ### [Ms-144](/ms-144/#35v.5+36r.1) <span class="fac">[35v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35v.webp),[36r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-35v536r1}
 
-<span class="series-number">a106</span> The aspects _A_ are not essentially spatial aspects; a black cross on a white background is not essentially one that has a white area as its background. One could teach someone the concept of a black cross on a differently colored background without ever showing him crosses other than those painted on sheets of paper. The ‘background’ here is simply the surroundings of the cross figure. The aspects _A_ are not connected in the same way with a possible illusion, as are the spatial aspects of the cube drawing, or the steps.
+The aspects _A_ are not essentially spatial aspects; a black cross on a white background is not essentially one that has a white area as its background. One could teach someone the concept of a black cross on a differently colored background without ever showing him crosses other than those painted on sheets of paper. The ‘background’ here is simply the surroundings of the cross figure. The aspects _A_ are not connected in the same way with a possible illusion, as are the spatial aspects of the cube drawing, or the steps.
 
 ### [Ms-144](/ms-144/#38v.2) <span class="fac">[38v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)</span> {#ms-144-38v2}
 
-<span class="series-number">a106˙1</span> I can see the cube diagram as a box; – but also: sometimes as a paper box, sometimes as a metal box? – What should I say if someone assured me that _he_ could do it? – Here I can draw a conceptual boundary. But think of the _expression_ “_felt_” when considering a picture. (“One feels the softness of this material.”) (The _knowledge_ in a dream. “And I _knew_ that in the room there was the …”)
+I can see the cube diagram as a box; – but also: sometimes as a paper box, sometimes as a metal box? – What should I say if someone assured me that _he_ could do it? – Here I can draw a conceptual boundary. But think of the _expression_ “_felt_” when considering a picture. (“One feels the softness of this material.”) (The _knowledge_ in a dream. “And I _knew_ that in the room there was the …”)
 
 ### [Ms-144](/ms-144/#38v.3) <span class="fac">[38v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)</span> {#ms-144-38v3}
 
-<span class="series-number">a107˙01</span> How do you teach a child (perhaps while doing arithmetic) to “Now put _these_ points together!” or “Now _these_ belong together”? Apparently, “putting together” & “belonging together” must have originally had a different meaning for him than simply _seeing_ something in a certain way. – And this is a remark about concepts, not about methods of instruction.
+How do you teach a child (perhaps while doing arithmetic) to “Now put _these_ points together!” or “Now _these_ belong together”? Apparently, “putting together” & “belonging together” must have originally had a different meaning for him than simply _seeing_ something in a certain way. – And this is a remark about concepts, not about methods of instruction.
 
 ### [Ms-144](/ms-144/#37r.6) <span class="fac">[37r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r6}
 
-<span class="series-number">a107</span> One could call one _kind_ of aspect “aspects of organization.” When the aspect changes, parts of the picture that were not previously connected become connected.
+One could call one _kind_ of aspect “aspects of organization.” When the aspect changes, parts of the picture that were not previously connected become connected.
 
 ### [Ms-144](/ms-144/#38r.5) <span class="fac">[38r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)</span> {#ms-144-38r5}
 
-<span class="series-number">a107˙1</span> Now I can see _this_ as the apex, _that_ as the base of the triangle – now _this_ as the apex & _that_ as the base. – It is clear that the words “I now see _this_ as the apex” cannot mean anything to the student who has only just become acquainted with the concepts of apex, base, etc. – But I do not mean this as an empirical proposition. Only of someone who is _capable_ of applying certain techniques to the figure would one say that he now sees it _like this_, now _like that_. The substrate of this experience is the mastery of a technique.
+Now I can see _this_ as the apex, _that_ as the base of the triangle – now _this_ as the apex & _that_ as the base. – It is clear that the words “I now see _this_ as the apex” cannot mean anything to the student who has only just become acquainted with the concepts of apex, base, etc. – But I do not mean this as an empirical proposition. Only of someone who is _capable_ of applying certain techniques to the figure would one say that he now sees it _like this_, now _like that_. The substrate of this experience is the mastery of a technique.
 
 ### [Ms-144](/ms-144/#38v.1) <span class="fac">[38v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp)</span> {#ms-144-38v1}
 
-<span class="series-number">a107˙2</span> How strange, however, that this should be the logical condition for someone to _experience_ this & that! You don’t say that only the one who ‘has toothache’ is capable of doing this & that. – From which it follows that we are not dealing with the same concept of experience here. It is a different one, although related.
+How strange, however, that this should be the logical condition for someone to _experience_ this & that! You don’t say that only the one who ‘has toothache’ is capable of doing this & that. – From which it follows that we are not dealing with the same concept of experience here. It is a different one, although related.
 
 ### [Ms-144](/ms-144/#38v.4+39r.1) <span class="fac">[38v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38v.webp),[39r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)</span> {#ms-144-38v439r1}
 
-<span class="series-number">a107˙3</span> Only someone who has learned & mastered how to _do_ that has any reason to say that he has experienced _it_. And if that sounds absurd, one must consider that the _concept_ of seeing is being modified here. (A similar consideration is often necessary to dispel the feeling of delusion in mathematics.)
+Only someone who has learned & mastered how to _do_ that has any reason to say that he has experienced _it_. And if that sounds absurd, one must consider that the _concept_ of seeing is being modified here. (A similar consideration is often necessary to dispel the feeling of delusion in mathematics.)
 
 ### [Ms-144](/ms-144/#39r.2) <span class="fac">[39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)</span> {#ms-144-39r2}
 
@@ -994,107 +994,107 @@ We speak, make utterances, & only _later_ do we form an image of their life.
 
 ### [Ms-144](/ms-144/#39r.3) <span class="fac">[39r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)</span> {#ms-144-39r3}
 
-<span class="series-number">a107˙4</span> How could I have seen that this posture was hesitant before I knew that it was a posture & not the anatomy of this being? But doesn’t that just mean that I couldn’t apply this concept, which does not refer _only_ to the visual, to describe what I am _seeing_? – Couldn’t I still have a purely visual concept, let’s say, of a fearful face?
+How could I have seen that this posture was hesitant before I knew that it was a posture & not the anatomy of this being? But doesn’t that just mean that I couldn’t apply this concept, which does not refer _only_ to the visual, to describe what I am _seeing_? – Couldn’t I still have a purely visual concept, let’s say, of a fearful face?
 
 ### [Ms-144](/ms-144/#39r.4) <span class="fac">[39r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)</span> {#ms-144-39r4}
 
-<span class="series-number">a107˙5</span> Such a concept could then be compared with the concepts ‘major’ & ‘minor’, which probably have an emotional value, but which can also be used only to describe the perceived structure.
+Such a concept could then be compared with the concepts ‘major’ & ‘minor’, which probably have an emotional value, but which can also be used only to describe the perceived structure.
 
 ### [Ms-144](/ms-144/#39v.3) <span class="fac">[39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)</span> {#ms-144-39v3}
 
-<span class="series-number">a107˙51</span> The epithet “sad” applied to a stick figure, for example, characterizes the grouping of lines in an oval. When applied to a human being, it has a different (although related) meaning. (This, however, does _not_ mean that the sad facial expression is _similar_ to the feeling of sadness!)
+The epithet “sad” applied to a stick figure, for example, characterizes the grouping of lines in an oval. When applied to a human being, it has a different (although related) meaning. (This, however, does _not_ mean that the sad facial expression is _similar_ to the feeling of sadness!)
 
 ### [Ms-144](/ms-144/#39v.4) <span class="fac">[39v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)</span> {#ms-144-39v4}
 
-<span class="series-number">a107˙52</span> Also consider this: I can only see red and green, but not hear them – but sadness, as far as I can see it, I can also hear.
+Also consider this: I can only see red and green, but not hear them – but sadness, as far as I can see it, I can also hear.
 
 ### [Ms-144](/ms-144/#39r.5) <span class="fac">[39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp)</span> {#ms-144-39r5}
 
-<span class="series-number">a107˙6</span> Just think of the expression “I heard a plaintive melody”! And now the question: “Does he _hear_ the lament?”
+Just think of the expression “I heard a plaintive melody”! And now the question: “Does he _hear_ the lament?”
 
 ### [Ms-144](/ms-144/#39r.6+39v.1) <span class="fac">[39r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)</span> {#ms-144-39r639v1}
 
-<span class="series-number">a107˙7</span> And if I replied: “No, he doesn’t hear it; he only _experiences_ it” – what is to be done about that? One cannot even specify a sensory organ for this ‘experience’. Some might now reply: “Of course, I hear it!” – Some: “I don’t actually hear it.” However, conceptual differences can be identified.
+And if I replied: “No, he doesn’t hear it; he only _experiences_ it” – what is to be done about that? One cannot even specify a sensory organ for this ‘experience’. Some might now reply: “Of course, I hear it!” – Some: “I don’t actually hear it.” However, conceptual differences can be identified.
 
 ### [Ms-144](/ms-144/#39v.2) <span class="fac">[39v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)</span> {#ms-144-39v2}
 
-<span class="series-number">a107˙8</span> We react differently to the visual impression than someone who does not recognize it as fearful (in the _full_ sense of the word). – Now, I do _not_ want to say that we feel this reaction in the muscles & joints, & that this is the ‘sensation’. – No, here we have a modified concept of **sensation**.
+We react differently to the visual impression than someone who does not recognize it as fearful (in the _full_ sense of the word). – Now, I do _not_ want to say that we feel this reaction in the muscles & joints, & that this is the ‘sensation’. – No, here we have a modified concept of **sensation**.
 
 ### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r1}
 
-<span class="series-number">a107˙9</span> One could say that someone is blind to the _expression_ in a face. But does that mean that their sense of facial expression is lacking? But, of course, this is not simply a question of physiology. Here, the physiological is a symbol for the logical.
+One could say that someone is blind to the _expression_ in a face. But does that mean that their sense of facial expression is lacking? But, of course, this is not simply a question of physiology. Here, the physiological is a symbol for the logical.
 
 ### [Ms-144](/ms-144/#41r.1) <span class="fac">[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)</span> {#ms-144-41r1}
 
-<span class="series-number">a107˙91</span> When someone experiences the seriousness of a melody, what does he perceive? – Nothing that could be conveyed by reproducing what was heard.
+When someone experiences the seriousness of a melody, what does he perceive? – Nothing that could be conveyed by reproducing what was heard.
 
 ### [Ms-144](/ms-144/#36r.2) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-36r2}
 
-<span class="series-number">a108</span> From any written character – this one, for example <math display="inline"><mtext>𝖄</mtext></math> – I can imagine that it is the strictly correctly written letter of some foreign alphabet. Or, it is a poorly written one; and in this case, poorly written in one way or another: e.g., hastily, or in a typically childishly awkward way, or bureaucratically ornate. It could deviate from the correctly written one in various ways. – And depending on the interpretation with which I surround it, I can see it in different aspects. And here there is a close kinship with ‘experiencing the meaning of a word’.
+From any written character – this one, for example <math display="inline"><mtext>𝖄</mtext></math> – I can imagine that it is the strictly correctly written letter of some foreign alphabet. Or, it is a poorly written one; and in this case, poorly written in one way or another: e.g., hastily, or in a typically childishly awkward way, or bureaucratically ornate. It could deviate from the correctly written one in various ways. – And depending on the interpretation with which I surround it, I can see it in different aspects. And here there is a close kinship with ‘experiencing the meaning of a word’.
 
 ### [Ms-144](/ms-144/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)</span> {#ms-144-36v2}
 
-<span class="series-number">a109</span> I would like to say that what emerges here remains only as long as a certain engagement with the object being considered lasts. (“Look how it looks”) – ‘I would like to say’ – and _is_ it so? – Ask yourself: “How long do I notice something?” – How long is it _new_ to me?
+I would like to say that what emerges here remains only as long as a certain engagement with the object being considered lasts. (“Look how it looks”) – ‘I would like to say’ – and _is_ it so? – Ask yourself: “How long do I notice something?” – How long is it _new_ to me?
 
 ### [Ms-144](/ms-144/#36v.3) <span class="fac">[36v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)</span> {#ms-144-36v3}
 
-<span class="series-number">a110</span> In the aspect, there is a physiognomy present that later fades away. It is almost as if there were a face that I first _imitate_, and then take in, without imitating it. – And is not that essentially enough of an explanation? – But, is it not too much?
+In the aspect, there is a physiognomy present that later fades away. It is almost as if there were a face that I first _imitate_, and then take in, without imitating it. – And is not that essentially enough of an explanation? – But, is it not too much?
 
 ### [Ms-144](/ms-144/#36v.4) <span class="fac">[36v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)</span> {#ms-144-36v4}
 
-<span class="series-number">a111</span> “I noticed the similarity between him & his father for a few minutes, then not anymore.” – One could say this if his face changes and only looks like his father's for a short time. But it can also mean: After a few minutes, I no longer noticed their similarity.
+“I noticed the similarity between him & his father for a few minutes, then not anymore.” – One could say this if his face changes and only looks like his father's for a short time. But it can also mean: After a few minutes, I no longer noticed their similarity.
 
 ### [Ms-144](/ms-144/#38r.3) <span class="fac">[38r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)</span> {#ms-144-38r3}
 
-<span class="series-number">a111˙1</span> “After you noticed the similarity between the two, – how long were you conscious of it?” How could one answer this question? – “I soon stopped thinking about it” or “It kept occurring to me from time to time” or “It occurred to me several times: How similar they are!” “I certainly admired the similarity for a minute.” That is roughly what the answers would look like.
+“After you noticed the similarity between the two, – how long were you conscious of it?” How could one answer this question? – “I soon stopped thinking about it” or “It kept occurring to me from time to time” or “It occurred to me several times: How similar they are!” “I certainly admired the similarity for a minute.” That is roughly what the answers would look like.
 
 ### [Ms-144](/ms-144/#37v.2) <span class="fac">[37v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp)</span> {#ms-144-37v2}
 
-<span class="series-number">a111˙2</span> I would like to ask: “When I see an object (this cupboard, for example), am I _always conscious_ of its spatiality, its depth?” Do I, as it were, _feel_ it all the time? – But pose the question in the third person. – When would one say that he is always conscious of it? When the opposite? – One could ask him, – but how did he learn to answer this question? – He knows what it means to “feel pain continuously”. But that will only confuse him (as it also confuses me). If he now says that he is continuously conscious of the depth, – do I believe him? And if he says that he is only conscious of it from time to time (when he talks about it, for example) – do I believe _that_? It seems to me that these answers are based on a false premise. – But it is different if he says that the object sometimes appears flat to him, sometimes spatial.
+I would like to ask: “When I see an object (this cupboard, for example), am I _always conscious_ of its spatiality, its depth?” Do I, as it were, _feel_ it all the time? – But pose the question in the third person. – When would one say that he is always conscious of it? When the opposite? – One could ask him, – but how did he learn to answer this question? – He knows what it means to “feel pain continuously”. But that will only confuse him (as it also confuses me). If he now says that he is continuously conscious of the depth, – do I believe him? And if he says that he is only conscious of it from time to time (when he talks about it, for example) – do I believe _that_? It seems to me that these answers are based on a false premise. – But it is different if he says that the object sometimes appears flat to him, sometimes spatial.
 
 ### [Ms-144](/ms-144/#37v.3+38r.1) <span class="fac">[37v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)</span> {#ms-144-37v338r1}
 
-<span class="series-number">a111˙3</span> Someone tells me: “I looked at the flower, but I was thinking about something else & I was not conscious of its color.” Do I understand that? – I can think of a meaningful connection with it; it might continue: “Then suddenly I _saw_ it & realized that it was the one which…” Or also: “If I had turned away then, I would not have been able to say what color it was.” “He looked at it without seeing it.” – That happens. But what is the criterion for that? – There are indeed different cases.
+Someone tells me: “I looked at the flower, but I was thinking about something else & I was not conscious of its color.” Do I understand that? – I can think of a meaningful connection with it; it might continue: “Then suddenly I _saw_ it & realized that it was the one which…” Or also: “If I had turned away then, I would not have been able to say what color it was.” “He looked at it without seeing it.” – That happens. But what is the criterion for that? – There are indeed different cases.
 
 ### [Ms-144](/ms-144/#38r.2) <span class="fac">[38r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)</span> {#ms-144-38r2}
 
-<span class="series-number">a112</span> “Now I looked more at the shape than at the color.” Do not let yourself be confused by such turns of phrase. Above all, do not think “What is going on in the eye, or in the brain?”
+“Now I looked more at the shape than at the color.” Do not let yourself be confused by such turns of phrase. Above all, do not think “What is going on in the eye, or in the brain?”
 
 ### [Ms-144](/ms-144/#36v.5+37r.1) <span class="fac">[36v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp),[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-36v537r1}
 
-<span class="series-number">a111˙4</span> The similarity strikes me, and the striking fades away. It only struck me for a few minutes, then not anymore. What happened then? – What can I remember? My own facial expression comes to mind; I could imitate it. If someone who doesn't know me had seen my face, he would have said: “You are now noticing something about his face.” – I also think of what I might say aloud, or only to myself, on such an occasion. And that is all. – And is that the striking? No. These are the phenomena of the striking; but _they_ are ‘what happens’.
+The similarity strikes me, and the striking fades away. It only struck me for a few minutes, then not anymore. What happened then? – What can I remember? My own facial expression comes to mind; I could imitate it. If someone who doesn't know me had seen my face, he would have said: “You are now noticing something about his face.” – I also think of what I might say aloud, or only to myself, on such an occasion. And that is all. – And is that the striking? No. These are the phenomena of the striking; but _they_ are ‘what happens’.
 
 ### [Ms-144](/ms-144/#37r.2) <span class="fac">[37r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r2}
 
-<span class="series-number">a113</span> Is the striking seeing & thinking? No. Many of our concepts _intersect_ here.
+Is the striking seeing & thinking? No. Many of our concepts _intersect_ here.
 
 ### [Ms-144](/ms-144/#37r.3) <span class="fac">[37r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r3}
 
-<span class="series-number">a114</span> (‘Thinking’ & ‘speaking in the imagination’ (I do not say ‘talking to oneself’) are different concepts.)
+(‘Thinking’ & ‘speaking in the imagination’ (I do not say ‘talking to oneself’) are different concepts.)
 
 ### [Ms-144](/ms-144/#37r.7+37v.1) <span class="fac">[37r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp),[37v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp)</span> {#ms-144-37r737v1}
 
-<span class="series-number">a115</span> The color of the object corresponds to the color in the visual impression (this tissue paper seems pink to me, & it is pink) – the shape of the object to the shape in the visual impression (it seems rectangular to me, & it is rectangular) – but what I perceive in the lighting up of the aspect is not a property of the object; it is an internal relation between it & other objects.
+The color of the object corresponds to the color in the visual impression (this tissue paper seems pink to me, & it is pink) – the shape of the object to the shape in the visual impression (it seems rectangular to me, & it is rectangular) – but what I perceive in the lighting up of the aspect is not a property of the object; it is an internal relation between it & other objects.
 
 ### [Ms-144](/ms-144/#41r.2) <span class="fac">[41r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp)</span> {#ms-144-41r2}
 
-<span class="series-number">a108˙1</span> It is almost as if the ‘_seeing_ of the sign in this context’ were an echo of a thought. “A thought echoing in seeing” – one might say.
+It is almost as if the ‘_seeing_ of the sign in this context’ were an echo of a thought. “A thought echoing in seeing” – one might say.
 
 ### [Ms-144](/ms-144/#41r.3+41v.1) <span class="fac">[41r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41r.webp),[41v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)</span> {#ms-144-41r341v1}
 
-<span class="series-number">a108˙2</span> Imagine a physiological explanation for the experience. Let it be this: when looking at the figure, the gaze traces its object again and again along a certain path. The path corresponds to a particular form of oscillation of the eyeballs while looking. It may happen that such a movement jumps to another and the two alternate with each other (aspects _A_). Certain movements are physiologically impossible; therefore, I cannot, for example, see the cube schema as two prisms penetrating each other. And so on. This is the explanation. – “Yes, now I know that it is a kind of _seeing_.” – You have now introduced a new, a physiological criterion of seeing. And this may obscure the old problem, but it does not solve it. – The purpose of this remark, however, was to make us aware of what happens when a physiological explanation is presented to us. The psychological concept hovers over this explanation, untouched. And the nature of our problem becomes clearer.
+Imagine a physiological explanation for the experience. Let it be this: when looking at the figure, the gaze traces its object again and again along a certain path. The path corresponds to a particular form of oscillation of the eyeballs while looking. It may happen that such a movement jumps to another and the two alternate with each other (aspects _A_). Certain movements are physiologically impossible; therefore, I cannot, for example, see the cube schema as two prisms penetrating each other. And so on. This is the explanation. – “Yes, now I know that it is a kind of _seeing_.” – You have now introduced a new, a physiological criterion of seeing. And this may obscure the old problem, but it does not solve it. – The purpose of this remark, however, was to make us aware of what happens when a physiological explanation is presented to us. The psychological concept hovers over this explanation, untouched. And the nature of our problem becomes clearer.
 
 ### [Ms-144](/ms-144/#41v.4) <span class="fac">[41v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)</span> {#ms-144-41v4}
 
-<span class="series-number">a01</span> Do I really see something different each time, or do I just interpret what I see in different ways? I am inclined to say the former. But why? – Interpreting is a thinking, an acting; seeing is a state.
+Do I really see something different each time, or do I just interpret what I see in different ways? I am inclined to say the former. But why? – Interpreting is a thinking, an acting; seeing is a state.
 
 ### [Ms-144](/ms-144/#41v.5) <span class="fac">[41v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)</span> {#ms-144-41v5}
 
-<span class="series-number">a02</span> Now, the cases in which we _interpret_ are easy to recognize. When we interpret, we make hypotheses that may prove to be false. – “I see this figure as a …” can be verified no more (or only in that sense) than “I see a bright red”. There is, therefore, a similarity in the use of “_seeing_” in both contexts.
+Now, the cases in which we _interpret_ are easy to recognize. When we interpret, we make hypotheses that may prove to be false. – “I see this figure as a …” can be verified no more (or only in that sense) than “I see a bright red”. There is, therefore, a similarity in the use of “_seeing_” in both contexts.
 
 ### [Ms-144](/ms-144/#41v.6) <span class="fac">[41v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/41v.webp)</span> {#ms-144-41v6}
 
-<span class="series-number">a03</span> Now, don't think that you know in advance what the “_state_ of seeing” means here! Let the meaning be _taught_ to you by the use.
+Now, don't think that you know in advance what the “_state_ of seeing” means here! Let the meaning be _taught_ to you by the use.
 
 ### [Ms-144](/ms-144/#42r.2) <span class="fac">[42r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/42r.webp)</span> {#ms-144-42r2}
 
@@ -1600,6 +1600,10 @@ Remembering has no experiential content. – Isn't this still discernible throug
 
 Could one imagine this situation: for the first time in his life, someone remembers something & says: “Yes, now I know what ‘remembering’ is, how remembering _feels_.” – How does he know that this feeling is ‘remembering’? Compare: “Yes, now I know what ‘being electrocuted’ is!” (he received an electric shock for the first time). – Does he know that it is remembering because it was triggered by something from the past? And how does he know what the past is? After all, people learn the concept of the past by remembering. And how will he know in the future how remembering feels? (On the other hand, one could perhaps speak of a feeling of “long, long ago,” because there is a tone, a gesture that belongs to certain stories from past days.)
 
+### [Ms-144](/ms-144/#39v.5+40r.1.2) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v540r12}
+
+<span class="series-number">xiv</span> The confusion & desolation of psychology cannot be explained by the fact that it is a “young science”; its state cannot be compared with that of physics, for example, in its early days. (Rather, it is more comparable to certain branches of mathematics, such as set theory.) (In psychology, there are experimental methods _and conceptual confusion_. (As in the other case, conceptual confusion & methods of proof.) The existence of the experimental method leads us to believe that we have the means to get rid of the problems that trouble us; although problem & method run askew, passing each other by.)
+
 ### [Ms-144](/ms-144/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-40r2}
 
-<span class="series-number">xiv</span> For mathematics, an investigation is possible that is quite analogous to our investigation of psychology. It is no more a _mathematical_ one than the other is a psychological one. In it, there is _no_ calculation; it is, therefore, not, for example, logic. It could deserve the name of an investigation of the ‘foundations of mathematics’.
+For mathematics, an investigation is possible that is quite analogous to our investigation of psychology. It is no more a _mathematical_ one than the other is a psychological one. In it, there is _no_ calculation; it is, therefore, not, for example, logic. It could deserve the name of an investigation of the ‘foundations of mathematics’.

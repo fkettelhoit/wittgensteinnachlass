@@ -1,7 +1,7 @@
 # Bemerkungen über die Grundlagen der Mathematik
 
 <details>
-<summary>1938–1944, 1724 remarks, Ts-222, Ts-224, Ts-221a, Ts-223, and 8 more</summary>
+<summary>1938–1944, 1728 remarks, Ts-222, Ts-224, Ts-221a, Ts-223, and 8 more</summary>
 <img class="viz" src="/viz/W-RFM-1.svg">
 <img class="viz" src="/viz/W-RFM-1-App-1.svg">
 <img class="viz" src="/viz/W-RFM-1-App-2.svg">
