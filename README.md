@@ -1,6 +1,6 @@
-# Wittgenstein's Late Writings
+# Wittgenstein's Writings
 
-Markdown transcriptions of Ludwig Wittgenstein's late manuscripts and typescripts. These transcriptions are intended to complement the work of the Wittgenstein Archives at the University of Bergen, whose [Bergen Nachlass Edition](https://wab.uib.no/wab_BEE.page) remains the authoritative scholarly edition of the Nachlass.
+Markdown transcriptions of Ludwig Wittgenstein's manuscripts and typescripts. These transcriptions are intended to complement the work of the Wittgenstein Archives at the University of Bergen, whose [Bergen Nachlass Edition](https://wab.uib.no/wab_BEE.page) remains the authoritative scholarly edition of the Nachlass.
 
 ## Structure
 
@@ -8,7 +8,7 @@ The `md/` directory contains Markdown files for individual documents and publish
 
 **Documents** are named after their manuscript or typescript number (e.g. `Ms-116.md`, `Ts-228.md`). Each file contains the transcribed remarks of one document, with headings linking to facsimile page images. The heading format is `### [page\[remark\]](facsimile-url)`.
 
-**Works** reassemble remarks from across multiple documents in their published order. They are named with a `W-` prefix (e.g. `W-OC.md` for *On Certainty*, `W-PI.md` for *Philosophical Investigations*). Works with multiple parts use numbered suffixes (e.g. `W-RFM-1.md` through `W-RFM-7.md` for the seven parts of *Remarks on the Foundations of Mathematics*), with a table-of-contents page at the base name (`W-RFM.md`). Work headings include the source document name for reference. Each work file begins with a collapsible `<details>/<summary>` block containing metadata (date range, remark count, source documents) and an SVG visualization of the work's source correspondences.
+**Works** reassemble remarks from across multiple documents in their published order. They are named with a `W-` prefix (e.g. `W-OC.md` for _On Certainty_, `W-PI.md` for _Philosophical Investigations_). Works with multiple parts use numbered suffixes (e.g. `W-RFM-1.md` through `W-RFM-7.md` for the seven parts of _Remarks on the Foundations of Mathematics_), with a table-of-contents page at the base name (`W-RFM.md`). Work headings include the source document name for reference. Each work file begins with a collapsible `<details>/<summary>` block containing metadata (date range, remark count, source documents) and an SVG visualization of the work's source correspondences.
 
 **`index.md`** lists all works and documents.
 
@@ -42,7 +42,7 @@ The `Makefile` orchestrates the build pipeline. All commands assume the markdown
 
 - **`make site`** -- full build from scratch: generates visualizations, covers, ebooks, PDFs, then builds the Hugo site. Run this after a fresh checkout or when the source markdown changed.
 - **`make quick`** -- rebuilds only the Hugo content and site (skips covers, ebooks, PDFs, visualizations). Useful for iterating on site templates or CSS.
-- **`make deploy`** -- rebuilds Hugo content, runs a production Hugo build, and deploys via `deploy.sh`. Does *not* regenerate assets -- run `make site` first if covers, ebooks, or PDFs changed.
+- **`make deploy`** -- rebuilds Hugo content, runs a production Hugo build, and deploys via `deploy.sh`. Does _not_ regenerate assets -- run `make site` first if covers, ebooks, or PDFs changed.
 - **`make site deploy`** -- full rebuild followed by deployment.
 
 ### Translations
