@@ -228,89 +228,132 @@ fn wrap_h3_with_next(lines: &[String]) -> Vec<String> {
     out
 }
 
+/// Extract markdown links `[text](url)` from `s`, unescaping `\[`/`\]` in the
+/// link text.
+fn collect_links(link_re: &Regex, s: &str) -> Vec<(String, String)> {
+    link_re
+        .captures_iter(s)
+        .map(|cap| {
+            let text = cap[1].replace("\\[", "[").replace("\\]", "]");
+            let url = cap[2].to_string();
+            (text, url)
+        })
+        .collect()
+}
+
+/// Render facsimile links into `html`, joined by a line break and an ampersand
+/// (so multiple pages read "21[5] & 22[1]").
+fn push_fac_links(html: &mut String, fac_links: &[(String, String)]) {
+    for (i, (text, url)) in fac_links.iter().enumerate() {
+        if i > 0 {
+            html.push_str("<br>");
+        }
+        html.push_str(&format!("<a href=\"{}\">{}</a>", url, text));
+        if i < fac_links.len() - 1 {
+            html.push_str("&nbsp;&amp;");
+        }
+    }
+}
+
 fn convert_h3(link_re: &Regex, line: &str) -> Option<String> {
     if !line.starts_with("### ") {
         return None;
     }
     let rest = &line[4..];
 
-    // Check if there's a "): " separator (source ref : facsimile links)
-    if let Some(colon_pos) = rest.find("): ") {
-        let source_part = &rest[..colon_pos + 1]; // include the closing )
-        let fac_part = &rest[colon_pos + 3..]; // skip "): "
+    // Current format: optional work/doc links, then a facsimile span:
+    //   ### [Ms-172](…) <span class="fac">[21\[1\]](…),[22\[1\]](…)</span> {#…}
+    // The work/doc links precede the span; the comma-joined facsimile links sit
+    // inside it. The trailing "{#…}" heading id (after </span>) is ignored, as
+    // the PDF has no use for these anchors.
+    const SPAN_OPEN: &str = "<span class=\"fac\">";
+    if let Some(span_start) = rest.find(SPAN_OPEN) {
+        let prefix = &rest[..span_start];
+        let after = &rest[span_start + SPAN_OPEN.len()..];
+        let fac_part = match after.find("</span>") {
+            Some(end) => &after[..end],
+            None => after,
+        };
 
-        let source_links: Vec<(String, String)> = link_re
-            .captures_iter(source_part)
-            .map(|cap| {
-                let text = cap[1].replace("\\[", "[").replace("\\]", "]");
-                let url = cap[2].to_string();
-                (text, url)
-            })
-            .collect();
+        let prefix_links = collect_links(link_re, prefix);
+        let fac_links = collect_links(link_re, fac_part);
 
-        let fac_links: Vec<(String, String)> = link_re
-            .captures_iter(fac_part)
-            .map(|cap| {
-                let text = cap[1].replace("\\[", "[").replace("\\]", "]");
-                let url = cap[2].to_string();
-                (text, url)
-            })
-            .collect();
-
-        if source_links.is_empty() && fac_links.is_empty() {
+        if prefix_links.is_empty() && fac_links.is_empty() {
             return None;
         }
 
         let mut html = String::from("<h3>");
-        // Source ref with colon
-        for (text, url) in &source_links {
-            html.push_str(&format!("<a href=\"{}\">{}</a>", url, text));
-        }
-        if !source_links.is_empty() && !fac_links.is_empty() {
-            html.push_str(": ");
-        }
-        // Facsimile links with & separators
-        for (i, (text, url)) in fac_links.iter().enumerate() {
+        // Work/doc links, comma-separated (matching the source markdown).
+        for (i, (text, url)) in prefix_links.iter().enumerate() {
             if i > 0 {
-                html.push_str("<br>");
+                html.push_str(", ");
             }
             html.push_str(&format!("<a href=\"{}\">{}</a>", url, text));
-            if i < fac_links.len() - 1 {
-                html.push_str("&nbsp;&amp;");
-            }
         }
+        // The doc/work title gets its own line above the facsimile pages (a
+        // line break, never an ampersand — ampersands only join pages).
+        if !prefix_links.is_empty() && !fac_links.is_empty() {
+            html.push_str("<br>");
+        }
+        push_fac_links(&mut html, &fac_links);
         html.push_str("</h3>");
         return Some(html);
     }
 
-    // Simple format: just facsimile links (Ms-xxx files)
-    let links: Vec<(String, String)> = link_re
-        .captures_iter(rest)
-        .map(|cap| {
-            let text = cap[1].replace("\\[", "[").replace("\\]", "]");
-            let url = cap[2].to_string();
-            (text, url)
-        })
-        .collect();
-
+    // Fallback: a heading that is just facsimile links, no span.
+    let links = collect_links(link_re, rest);
     if links.is_empty() {
         return None;
     }
 
     let mut html = String::from("<h3>");
-    for (i, (text, url)) in links.iter().enumerate() {
-        if i > 0 {
-            html.push_str("<br>");
-        }
-        html.push_str(&format!("<a href=\"{}\">{}</a>", url, text));
-        if i < links.len() - 1 {
-            html.push_str("&nbsp;&amp;");
-        }
-    }
+    push_fac_links(&mut html, &links);
     html.push_str("</h3>");
     Some(html)
 }
 
 fn yaml_escape(s: &str) -> String {
     s.replace('\\', "\\\\").replace('"', "\\\"")
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn link_re() -> Regex {
+        Regex::new(r#"\[([^\]\\]*(?:\\.[^\]\\]*)*)\]\(([^)]+)\)"#).unwrap()
+    }
+
+    #[test]
+    fn doc_link_and_single_facsimile_have_no_ampersand() {
+        let re = link_re();
+        let line = r#"### [Ms-172](/ms-172/#21.1) <span class="fac">[21\[1\]](https://cdn/Ms-172/21.webp)</span> {#ms-172-211}"#;
+        let html = convert_h3(&re, line).unwrap();
+        assert_eq!(
+            html,
+            r#"<h3><a href="/ms-172/#21.1">Ms-172</a><br><a href="https://cdn/Ms-172/21.webp">21[1]</a></h3>"#
+        );
+        assert!(!html.contains("&amp;"));
+    }
+
+    #[test]
+    fn multiple_facsimiles_are_joined_by_ampersand() {
+        let re = link_re();
+        let line = r#"### [Ms-172](/ms-172/#21.5+22.1) <span class="fac">[21\[5\]](https://cdn/Ms-172/21.webp),[22\[1\]](https://cdn/Ms-172/22.webp)</span> {#ms-172-215221}"#;
+        let html = convert_h3(&re, line).unwrap();
+        // Exactly one ampersand, between the two facsimile pages.
+        assert_eq!(html.matches("&amp;").count(), 1);
+        assert!(html.contains(r#">21[5]</a>&nbsp;&amp;<br><a "#));
+    }
+
+    #[test]
+    fn facsimile_only_heading_has_no_prefix() {
+        let re = link_re();
+        let line = r#"### <span class="fac">[1\[1\]](https://cdn/Ms-172/1.webp)</span> {#11}"#;
+        let html = convert_h3(&re, line).unwrap();
+        assert_eq!(
+            html,
+            r#"<h3><a href="https://cdn/Ms-172/1.webp">1[1]</a></h3>"#
+        );
+    }
 }
