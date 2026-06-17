@@ -33,6 +33,7 @@ pub fn render_text_svg(
     title: &str,
     font_bold_path: &str,
     font_regular_path: &str,
+    embed_font_face: bool,
 ) -> String {
     let clean_title = title
         .replace(" \u{2013} ", " ")
@@ -41,7 +42,17 @@ pub fn render_text_svg(
 
     let mut svg = format!(
         r#"<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
-<style>
+"#
+    );
+
+    // Embed the fonts via @font-face for renderers that honour `src: url(file://…)`
+    // (e.g. macOS Inkscape). On headless Linux, Inkscape rejects this rule ("font face
+    // rule limited support") and resolving by family name via fontconfig is required —
+    // and a failing @font-face for the same family shadows the fontconfig font, so it
+    // must be omitted there (the fonts are registered with fontconfig instead).
+    if embed_font_face {
+        svg.push_str(&format!(
+            r#"<style>
   @font-face {{
     font-family: "SangBleu Empire";
     src: url("file://{font_bold_path}") format("truetype");
@@ -56,7 +67,8 @@ pub fn render_text_svg(
   }}
 </style>
 "#
-    );
+        ));
+    }
 
     // Title text
     let x = TITLE_COL as f64 * CELL;

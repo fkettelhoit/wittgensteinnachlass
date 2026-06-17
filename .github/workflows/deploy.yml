@@ -131,6 +131,9 @@ jobs:
         env:
           # Absolute path so the covers tool (run from tools/covers) finds the TTFs.
           COVERS_FONT_DIR: ${{ github.workspace }}/build/fonts-ttf
+          # Headless Inkscape can't load @font-face file:// fonts; resolve SangBleu via
+          # the fontconfig-registered (renamed) TTFs by family name instead.
+          COVERS_FLAGS: --no-font-face
         run: |
           set -euo pipefail
           make check-fonts

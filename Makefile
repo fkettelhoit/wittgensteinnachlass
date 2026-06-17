@@ -5,6 +5,10 @@ SANGBLEU_DIR = site/fonts/sangbleu
 # build-only dir and overrides this.
 COVERS_FONT_DIR ?= ../../../sangbleu/web files
 
+# Extra flags for the covers tool. CI sets COVERS_FLAGS=--no-font-face so Inkscape
+# resolves SangBleu via fontconfig (headless Linux rejects @font-face file:// rules).
+COVERS_FLAGS ?=
+
 .PHONY: all site quick serve deploy fix translate verify check viz covers epub pdf content hugo graphics clean check-fonts
 
 all: site
@@ -53,7 +57,7 @@ viz:
 
 # Covers (independent, needs only md/)
 covers:
-	cd tools/covers && cargo run --release -- --all \
+	cd tools/covers && cargo run --release -- --all $(COVERS_FLAGS) \
 		--font-bold "$(COVERS_FONT_DIR)/SangBleuEmpire-Bold-WebS.ttf" \
 		--font-regular "$(COVERS_FONT_DIR)/SangBleuEmpire-Regular-WebS.ttf"
 

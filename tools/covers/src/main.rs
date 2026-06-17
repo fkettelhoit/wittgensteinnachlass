@@ -41,6 +41,12 @@ struct Cli {
         default_value = "../../../sangbleu/web files/SangBleuEmpire-Regular-WebS.ttf"
     )]
     font_regular: PathBuf,
+
+    /// Don't embed an @font-face rule in the text SVG; rely on the fonts being installed
+    /// in fontconfig instead. Required on headless Linux/CI, where Inkscape rejects
+    /// @font-face file:// rules and must resolve "SangBleu Empire" by family name.
+    #[arg(long)]
+    no_font_face: bool,
 }
 
 fn main() {
@@ -97,7 +103,7 @@ fn main() {
 
         // Generate text-only SVG, convert to paths via Inkscape, then combine with circles.
         // A failed conversion yields a cover with no/broken title — fail rather than ship it.
-        let (text_paths, paths_ok) = convert_text_to_paths(&data.title, &font_bold_str, &font_regular_str, &cli.output);
+        let (text_paths, paths_ok) = convert_text_to_paths(&data.title, &font_bold_str, &font_regular_str, &cli.output, !cli.no_font_face);
         if !paths_ok {
             eprintln!("  FAILED {} (title-to-path conversion failed)", stem);
             failed += 1;
@@ -138,8 +144,8 @@ fn main() {
 /// extracted path groups along with a success flag. Success requires both that Inkscape
 /// exited cleanly and that at least one path group was extracted (an empty result means
 /// the title would be missing from the cover).
-fn convert_text_to_paths(title: &str, font_bold: &str, font_regular: &str, output_dir: &PathBuf) -> (String, bool) {
-    let text_svg = svg::render_text_svg(title, font_bold, font_regular);
+fn convert_text_to_paths(title: &str, font_bold: &str, font_regular: &str, output_dir: &PathBuf, embed_font_face: bool) -> (String, bool) {
+    let text_svg = svg::render_text_svg(title, font_bold, font_regular, embed_font_face);
 
     let tmp_path = output_dir.join("_text_tmp.svg");
     fs::write(&tmp_path, &text_svg).expect("Failed to write temp text SVG");
