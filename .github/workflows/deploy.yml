@@ -118,24 +118,37 @@ jobs:
           fc-list | grep -i sangbleu || echo "WARNING: no SangBleu family registered in fontconfig"
           fc-list | grep -i pagella || echo "WARNING: no Pagella family registered in fontconfig"
 
-      - name: Build site
+      # Inkscape (covers + graphics) needs a display on headless Linux → run under xvfb.
+      # Generation is parallelized (bounded to the vCPU count) to keep the build fast.
+      - name: Generate cropped graphics
+        run: JOBS="$(nproc)" xvfb-run -a make graphics
+
+      - name: Generate assets (viz, covers, epub, pdf)
         env:
           # Absolute path so the covers tool (run from tools/covers) finds the TTFs.
           COVERS_FONT_DIR: ${{ github.workspace }}/build/fonts-ttf
         run: |
           set -euo pipefail
-          # Inkscape (covers + graphics) needs a display on headless Linux; run under a
-          # virtual framebuffer. graphics-cropped/ is gitignored and consumed by the
-          # epub/pdf tools, so regenerate it first.
-          xvfb-run -a make graphics
-          xvfb-run -a make site
+          make check-fonts
+          # Pre-build the tools sequentially so the parallel run below only executes
+          # binaries — keeps several rustc compiles from contending for memory at once.
+          for t in visualize covers ebooks pdfs; do (cd "tools/$t" && cargo build --release); done
+          # Bounded parallelism (= vCPU count) overlaps the independent asset targets.
+          xvfb-run -a make -j"$(nproc)" viz covers epub pdf
+
+      - name: Build content and Hugo site
+        run: |
+          set -euo pipefail
+          make content
+          hugo -s site -e production
 
       - name: Deploy to Bunny
         env:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
         run: |
           echo "Deploying branch '${GITHUB_REF_NAME}' to the '${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}' environment."
-          make deploy
+          # public/ was just built by the Hugo step above; upload it directly (no second build).
+          tools/deploy_site.sh
 
       # Deploying updates the storage origin, but the CDN edge cache keeps serving the
       # old files until their TTL expires. Purge the whole pull zone so the new version
