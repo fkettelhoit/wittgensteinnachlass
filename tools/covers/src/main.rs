@@ -182,63 +182,132 @@ fn convert_text_to_paths(title: &str, font_bold: &str, font_regular: &str, outpu
     (paths, ok)
 }
 
-/// Extract <g aria-label="..."><path .../></g> blocks from Inkscape's SVG output.
-/// Inkscape formats elements across multiple lines, so we use position-based parsing.
+/// Find the index of the `</g>` that closes a group whose opening `<g …>` ends at `from`,
+/// accounting for nested `<g>` elements.
+fn matching_g_close(svg: &str, from: usize) -> Option<usize> {
+    let mut depth = 1usize;
+    let mut scan = from;
+    loop {
+        let open = svg[scan..].find("<g").map(|i| scan + i);
+        let close = svg[scan..].find("</g>").map(|i| scan + i);
+        match (open, close) {
+            (Some(o), Some(c)) if o < c => {
+                depth += 1;
+                scan = o + 2;
+            }
+            (_, Some(c)) => {
+                depth -= 1;
+                if depth == 0 {
+                    return Some(c);
+                }
+                scan = c + 4;
+            }
+            _ => return None,
+        }
+    }
+}
+
+/// Read an XML attribute value (`name="..."`) from a tag string, tolerant of arbitrary
+/// whitespace between attributes (Inkscape formats them across lines). The attribute name
+/// must be preceded by whitespace or the start, so `d` does not match `id`.
+fn attr(tag: &str, name: &str) -> Option<String> {
+    let bytes = tag.as_bytes();
+    let mut i = 0;
+    while let Some(rel) = tag[i..].find(name) {
+        let pos = i + rel;
+        let preceded_ok = pos == 0 || bytes[pos - 1].is_ascii_whitespace();
+        let rest = &tag[pos + name.len()..];
+        let trimmed = rest.trim_start();
+        if preceded_ok && trimmed.starts_with("=\"") {
+            let v_start = pos + name.len() + (rest.len() - trimmed.len()) + 2;
+            if let Some(e) = tag[v_start..].find('"') {
+                return Some(tag[v_start..v_start + e].to_string());
+            }
+        }
+        i = pos + name.len();
+    }
+    None
+}
+
+/// Determine the fill colour of a tag, from a `style="…;fill:…"` declaration or a `fill="…"`
+/// attribute. Inkscape places this differently across versions.
+fn tag_fill(tag: &str) -> Option<String> {
+    let from_style = attr(tag, "style").and_then(|style| {
+        style
+            .split(';')
+            .find_map(|part| part.trim().strip_prefix("fill:").map(|v| v.trim().to_string()))
+    });
+    from_style
+        .or_else(|| attr(tag, "fill"))
+        .filter(|v| !v.is_empty() && v != "none")
+}
+
+/// Extract the glyph paths from Inkscape's text-to-path output, grouped by their
+/// `aria-label` word.
+///
+/// This must work across Inkscape versions, whose `--export-text-to-path` output differs:
+/// 1.4 emits a single `<path>` per word with `fill` in `style=`; 1.1 (Ubuntu/CI) emits one
+/// `<path>` per glyph and carries `fill` as an attribute. So we collect *every* path in each
+/// group (not just the first) and read the fill from the path or its enclosing `<g>`,
+/// whether in `style=` or a `fill=` attribute.
 fn extract_text_paths(svg: &str) -> String {
     let mut result = String::new();
     let mut search_from = 0;
 
-    while let Some(pos) = svg[search_from..].find("aria-label=") {
-        let abs_pos = search_from + pos;
+    while let Some(rel) = svg[search_from..].find("aria-label=") {
+        let abs_pos = search_from + rel;
 
-        // Check if this aria-label is on a <g> (not a <path>)
+        // Locate the enclosing tag and confirm it's a <g> element.
         let tag_start = match svg[..abs_pos].rfind('<') {
             Some(i) => i,
-            None => { search_from = abs_pos + 1; continue; }
+            None => { search_from = abs_pos + 11; continue; }
         };
-        if !svg[tag_start..abs_pos].contains("<g") {
-            search_from = abs_pos + 1;
+        let open_end = match svg[tag_start..].find('>') {
+            Some(i) => tag_start + i + 1,
+            None => { search_from = abs_pos + 11; continue; }
+        };
+        let g_tag = &svg[tag_start..open_end];
+        let is_g = g_tag.starts_with("<g")
+            && g_tag.as_bytes().get(2).is_some_and(|c| c.is_ascii_whitespace() || *c == b'>');
+        if !is_g {
+            search_from = abs_pos + 11;
             continue;
         }
 
-        // Extract the label value
-        let label_start = abs_pos + "aria-label=\"".len();
-        let label_end = label_start + svg[label_start..].find('"').unwrap_or(0);
-        let label = &svg[label_start..label_end];
-
-        // Find the closing </g> for this group
-        let group_end = match svg[label_end..].find("</g>") {
-            Some(i) => label_end + i,
-            None => { search_from = abs_pos + 1; continue; }
+        let label = attr(g_tag, "aria-label").unwrap_or_default();
+        // Find the </g> that closes THIS group, accounting for nested <g> (some Inkscape
+        // versions wrap each glyph in its own group), so we capture every glyph path.
+        let group_end = match matching_g_close(svg, open_end) {
+            Some(i) => i,
+            None => { search_from = abs_pos + 11; continue; }
         };
-        let group_content = &svg[label_end..group_end];
+        let body = &svg[open_end..group_end];
+        let group_fill = tag_fill(g_tag);
 
-        // Find the <path> element within this group, then extract d="..." and style="..."
-        if let Some(path_start) = group_content.find("<path") {
-            let path_region = &group_content[path_start..];
-            // Search for " d=" (space-prefixed) to avoid matching "id="
-            if let Some(d_pos) = path_region.find(" d=\"") {
-                let d_start = d_pos + 4; // skip ' d="'
-                let d_end = d_start + path_region[d_start..].find('"').unwrap_or(0);
-                let d_value = &path_region[d_start..d_end];
-
-                // Extract fill from style attribute if present
-                let fill = path_region.find("style=\"").and_then(|style_pos| {
-                    let s_start = style_pos + 7;
-                    let s_end = s_start + path_region[s_start..].find('"')?;
-                    let style = &path_region[s_start..s_end];
-                    style.split(';')
-                        .find_map(|part| part.trim().strip_prefix("fill:").map(|v| v.trim().to_string()))
-                });
-
-                result.push_str(&format!(r#"<g aria-label="{label}"><path d="{d_value}""#));
-                if let Some(f) = fill {
-                    result.push_str(&format!(r#" fill="{f}""#));
+        // Collect every <path> in the group (one per glyph on Inkscape 1.1).
+        let mut glyphs = String::new();
+        let mut p = 0;
+        while let Some(prel) = body[p..].find("<path") {
+            let p_start = p + prel;
+            let p_end = match body[p_start..].find('>') {
+                Some(i) => p_start + i + 1,
+                None => break,
+            };
+            let path_tag = &body[p_start..p_end];
+            if let Some(d) = attr(path_tag, "d") {
+                let fill = tag_fill(path_tag).or_else(|| group_fill.clone());
+                glyphs.push_str(&format!(r#"<path d="{d}""#));
+                if let Some(f) = &fill {
+                    glyphs.push_str(&format!(r#" fill="{f}""#));
                 }
-                result.push_str("/></g>\n");
+                glyphs.push_str("/>");
             }
+            p = p_end;
         }
 
+        if !glyphs.is_empty() {
+            result.push_str(&format!("<g aria-label=\"{label}\">{glyphs}</g>\n"));
+        }
         search_from = group_end + 4;
     }
     result
