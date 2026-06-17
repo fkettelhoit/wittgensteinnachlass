@@ -1,3 +1,4 @@
+mod check;
 mod common;
 mod fix_deepl;
 mod translate;
@@ -148,6 +149,22 @@ enum Command {
         #[arg(long, default_value = "../../md-en")]
         translated: PathBuf,
     },
+
+    /// Build-broken gate: fail if English translations are missing, stale, or fail
+    /// quality verification (read-only, no LLM). Requires full git history.
+    Check {
+        /// Input directory containing German markdown files
+        #[arg(long, default_value = "../../md")]
+        input: PathBuf,
+
+        /// Directory containing translated English markdown files
+        #[arg(long, default_value = "../../md-en")]
+        translated: PathBuf,
+
+        /// Allowed emphasis mismatch (number of underscores/asterisks, default 4)
+        #[arg(long, default_value_t = 4)]
+        emphasis_tolerance: usize,
+    },
 }
 
 fn main() {
@@ -209,6 +226,9 @@ fn main() {
         }
         Command::Migrate { input, translated } => {
             migrate_headings(&input, &translated);
+        }
+        Command::Check { input, translated, emphasis_tolerance } => {
+            check::run(&check::CheckArgs { input, translated, emphasis_tolerance });
         }
     }
 }

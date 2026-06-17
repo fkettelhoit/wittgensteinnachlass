@@ -1,0 +1,112 @@
+name: Build and deploy
+
+# Builds the full site from source (md/ + md-en/ + graphics/) and deploys it to the
+# Bunny CDN. Generated artifacts (covers/, viz/, epub/, pdf/, graphics-cropped/,
+# site/content, site/public) are NOT committed — they are regenerated here on every run.
+#
+# The build is gated by `make check`: if any English translation is missing, stale
+# (the German source changed since the translation was last committed), or fails quality
+# verification, the job fails and nothing is deployed.
+#
+# Required repository secrets (Bunny storage zone FTP credentials):
+#   BUNNY_STORAGE_HOST     e.g. storage.bunnycdn.com (or a region host)
+#   BUNNY_STORAGE_USER     the storage zone name
+#   BUNNY_STORAGE_PASSWORD the storage zone password
+#
+# The licensed SangBleu fonts are NOT stored in the repo. They live only on the Bunny
+# CDN (as WOFF2). This workflow pulls them read-only for the build and the deploy
+# explicitly excludes fonts/sangbleu/ so the CDN copy is never overwritten or deleted.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (full history — staleness detection needs it)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache cargo builds
+        uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: |
+            tools/visualize
+            tools/covers
+            tools/ebooks
+            tools/pdfs
+            tools/translate
+
+      # Build-broken gate. Run before installing the heavier toolchain so a broken
+      # translation set fails fast and never reaches a build or deploy.
+      - name: Check translations
+        run: make check
+
+      - name: Install Hugo (extended)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: latest
+          extended: true
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc weasyprint inkscape lftp woff2
+
+      - name: Configure Bunny credentials
+        env:
+          BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
+          BUNNY_STORAGE_USER: ${{ secrets.BUNNY_STORAGE_USER }}
+          BUNNY_STORAGE_PASSWORD: ${{ secrets.BUNNY_STORAGE_PASSWORD }}
+        run: |
+          umask 077
+          cat > "$HOME/.netrc" <<EOF
+          machine ${BUNNY_STORAGE_HOST}
+          login ${BUNNY_STORAGE_USER}
+          password ${BUNNY_STORAGE_PASSWORD}
+          EOF
+
+      - name: Fetch SangBleu fonts from Bunny and derive TTFs
+        env:
+          BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
+        run: |
+          set -euo pipefail
+          mkdir -p site/fonts/sangbleu build/fonts-ttf
+          # Pull the WOFF2 fonts read-only (they live only on the CDN).
+          lftp "${BUNNY_STORAGE_HOST}" -e "
+            mirror --verbose --include-glob '*.woff2' fonts/sangbleu site/fonts/sangbleu
+            bye
+          "
+          # The covers tool drives Inkscape, which needs TTF. Decompress the two Empire
+          # weights it uses into a build-only directory (no TTF is ever stored or deployed).
+          for w in Bold Regular; do
+            woff2_decompress "site/fonts/sangbleu/SangBleuEmpire-${w}-WebS.woff2"
+            mv "site/fonts/sangbleu/SangBleuEmpire-${w}-WebS.ttf" build/fonts-ttf/
+          done
+
+      - name: Build site
+        env:
+          # Absolute path so the covers tool (run from tools/covers) finds the TTFs.
+          COVERS_FONT_DIR: ${{ github.workspace }}/build/fonts-ttf
+        run: |
+          set -euo pipefail
+          # graphics-cropped/ is gitignored and consumed by the epub/pdf tools; regenerate it.
+          make graphics
+          make site
+
+      - name: Deploy to Bunny
+        env:
+          BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
+        run: make deploy

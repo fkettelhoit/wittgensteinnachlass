@@ -9,7 +9,7 @@ Translates German Nachlass markdown files to English using a local LLM (Ollama) 
 Translate document files and assemble works using Ollama.
 
 ```
-cargo run --release -- translate --glossary ../../glossary.md
+cargo run --release -- translate
 ```
 
 Translates all untranslated documents listed in `index.md`, verifies each remark inline, and assembles work files from completed translations. Resumes from partial files if interrupted. Automatically detects remarks that changed in the German source since the last translation (using git history) and re-translates only those.
@@ -20,7 +20,7 @@ Options:
 - `--output` -- English output directory (default: `../../md-en`)
 - `--model` -- Ollama model name (default: `translategemma:27b`)
 - `--ollama-url` -- Ollama API base URL (default: `http://localhost:11434`)
-- `--glossary` -- path to glossary file (default: `glossary.md`)
+- `--glossary` -- path to glossary file (default: `glossary.md`, resolved from this tool's directory)
 - `--no-glossary` -- proceed without a glossary
 - `--num-ctx` -- Ollama context window in tokens (default: `8192`)
 - `--context-ratio` -- fraction of context window for history vs. new remarks (default: `0.5`)
@@ -43,7 +43,7 @@ Reports structural issues (missing math/HTML/images), emphasis mismatches, strai
 Fix broken remarks using the DeepL API. Runs independently of the Ollama-based translate command.
 
 ```
-cargo run --release -- fix-deepl --glossary ../../glossary.md
+cargo run --release -- fix-deepl
 ```
 
 Verifies all translations, re-translates broken remarks via DeepL, and logs every attempt to `deepl-remarks.md` for review. Requires a DeepL API key via `--deepl-key` or the `DEEPL_API_KEY` environment variable (can be set in a `.env` file).

@@ -1133,6 +1133,38 @@ pub fn should_skip_remark(
     skip_set.contains(&format!("{}:{}", filename, remark_id))
 }
 
+/// Load per-remark markdown overrides from a directory, keyed by `(filename, anchor)`.
+///
+/// Reuses the parser's override filename convention: `<DocName>_<anchor-with-et>.md`,
+/// where anchor segments are joined by `et` instead of `+`. For example
+/// `Ms-126_127.2et128.1.md` → file `Ms-126.md`, anchor `127.2+128.1`; a single-segment
+/// `Ms-122_82r.2.md` → file `Ms-122.md`, anchor `82r.2`. The file body (trimmed) is the
+/// verbatim replacement content. Document names never contain `_`, so we split on the
+/// first underscore.
+pub fn load_remark_overrides(dir: &Path) -> HashMap<(String, String), String> {
+    let mut map = HashMap::new();
+    let Ok(entries) = fs::read_dir(dir) else {
+        return map;
+    };
+    for entry in entries.flatten() {
+        let name = entry.file_name().to_string_lossy().to_string();
+        let Some(stem) = name.strip_suffix(".md") else {
+            continue;
+        };
+        let Some((doc, rest)) = stem.split_once('_') else {
+            eprintln!("  Ignoring override {} (no '_' separating doc from anchor)", name);
+            continue;
+        };
+        let filename = format!("{doc}.md");
+        let anchor = rest.replace("et", "+");
+        let Ok(body) = fs::read_to_string(entry.path()) else {
+            continue;
+        };
+        map.insert((filename, anchor), body.trim().to_string());
+    }
+    map
+}
+
 /// Extract content words (>2 chars) from text, stripping HTML tags, markdown emphasis,
 /// and non-alphanumeric characters. Used for fuzzy matching between document variants.
 fn content_words(text: &str) -> Vec<String> {

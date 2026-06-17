@@ -474,6 +474,60 @@ fn count_remaining_remarks(doc_files: &[String], input: &Path, output: &Path) ->
     total
 }
 
+/// Apply hand-authored English overrides verbatim to the translated doc files. The
+/// override body replaces the matching remark (by anchor); it is never re-translated or
+/// auto-fixed. An override whose anchor is not present in the (otherwise translated)
+/// English file is reported and left for `check` to flag as a missing translation.
+fn apply_en_overrides(output_dir: &Path, en_overrides: &HashMap<(String, String), String>) {
+    if en_overrides.is_empty() {
+        return;
+    }
+    let mut by_file: HashMap<&String, Vec<(&String, &String)>> = HashMap::new();
+    for ((filename, anchor), body) in en_overrides {
+        by_file.entry(filename).or_default().push((anchor, body));
+    }
+    eprintln!("\nApplying English overrides...");
+    for (filename, items) in &by_file {
+        let en_path = output_dir.join(filename);
+        if !en_path.exists() {
+            eprintln!(
+                "  {} — not translated yet; {} override(s) deferred (check will flag as missing)",
+                filename,
+                items.len()
+            );
+            continue;
+        }
+        let en_content = fs::read_to_string(&en_path).expect("Failed to read English file");
+        let (en_preamble, mut en_remarks) = parse_document(&en_content);
+        let mut file_changed = false;
+        for (anchor, body) in items {
+            match en_remarks
+                .iter_mut()
+                .find(|r| anchor_from_doc_heading(&r.heading) == **anchor)
+            {
+                Some(r) => {
+                    if &r.body != *body {
+                        r.body = (*body).clone();
+                        file_changed = true;
+                        eprintln!("  {}:{} — applied override", filename, anchor);
+                    }
+                }
+                None => eprintln!(
+                    "  {}:{} — override anchor not found in English file (check will flag as missing)",
+                    filename, anchor
+                ),
+            }
+        }
+        if file_changed {
+            let mut output = en_preamble;
+            for r in &en_remarks {
+                output.push_str(&format!("\n{}\n\n{}\n", r.heading, r.body));
+            }
+            fs::write(&en_path, &output).expect("Failed to write override");
+        }
+    }
+}
+
 pub fn run(args: &TranslateArgs) {
     if !args.input.is_dir() {
         eprintln!("Input directory does not exist: {}", args.input.display());
@@ -495,6 +549,19 @@ pub fn run(args: &TranslateArgs) {
     // Load skip list and ignore-words list from the tool directory
     let skip_remarks = load_skip_remarks(Path::new("."));
     let ignore_words = crate::verify::load_ignore_words(Path::new("."));
+
+    // Load hand-authored English overrides (overrides/en/<DocName>_<anchor>.md), keyed by
+    // (filename, anchor). These replace the generated translation verbatim and must never
+    // be re-translated or auto-fixed. They are applied as a final pass below, before work
+    // assembly, so assembled works inherit them.
+    let repo_root = args.input.parent().unwrap_or(Path::new(".."));
+    let en_overrides = load_remark_overrides(&repo_root.join("overrides/en"));
+    if !en_overrides.is_empty() {
+        eprintln!("Loaded {} English override(s).", en_overrides.len());
+    }
+    let is_overridden = |filename: &str, anchor: &str| {
+        en_overrides.contains_key(&(filename.to_string(), anchor.to_string()))
+    };
 
     // Enforce skip list on existing translations: replace skip-listed remarks
     // with the German original (they should not have been translated)
@@ -600,7 +667,7 @@ pub fn run(args: &TranslateArgs) {
             let mut has_issues = false;
             for (i, de) in de_remarks.iter().enumerate() {
                 let rid = anchor_from_doc_heading(&de.heading);
-                if should_skip_remark(&skip_remarks, filename, &rid) {
+                if should_skip_remark(&skip_remarks, filename, &rid) || is_overridden(filename, &rid) {
                     continue;
                 }
                 let Some(en) = en_by_anchor.get(&rid) else {
@@ -701,7 +768,7 @@ pub fn run(args: &TranslateArgs) {
                 if de_idx >= current_de_remarks.len() {
                     continue;
                 }
-                if should_skip_remark(&skip_remarks, filename, anchor) {
+                if should_skip_remark(&skip_remarks, filename, anchor) || is_overridden(filename, anchor) {
                     continue;
                 }
 
@@ -838,6 +905,10 @@ pub fn run(args: &TranslateArgs) {
         }
         eprintln!();
     }
+
+    // Apply English overrides verbatim before any work assembly, so both the auto-fix
+    // and full-translate paths emit them and assembled works inherit the override bodies.
+    apply_en_overrides(&args.output, &en_overrides);
 
     // Assemble works from current translations
     if !work_files.is_empty() {
