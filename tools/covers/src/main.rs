@@ -58,6 +58,8 @@ fn main() {
 
     fs::create_dir_all(&cli.output).expect("Failed to create output directory");
 
+    let mut failed = 0;
+
     for path in &files {
         let stem = path.file_stem().unwrap().to_string_lossy().to_string();
         let content = fs::read_to_string(path).expect("Failed to read markdown file");
@@ -93,8 +95,14 @@ fn main() {
             }
         }
 
-        // Generate text-only SVG, convert to paths via Inkscape, then combine with circles
-        let text_paths = convert_text_to_paths(&data.title, &font_bold_str, &font_regular_str, &cli.output);
+        // Generate text-only SVG, convert to paths via Inkscape, then combine with circles.
+        // A failed conversion yields a cover with no/broken title — fail rather than ship it.
+        let (text_paths, paths_ok) = convert_text_to_paths(&data.title, &font_bold_str, &font_regular_str, &cli.output);
+        if !paths_ok {
+            eprintln!("  FAILED {} (title-to-path conversion failed)", stem);
+            failed += 1;
+            continue;
+        }
 
         let total = data.paragraphs.len();
         let (svg_final, placed) = svg::render_cover(&data, &text_paths);
@@ -119,33 +127,53 @@ fn main() {
             );
         }
     }
+
+    if failed > 0 {
+        eprintln!("\n{} cover(s) failed — failing the build.", failed);
+        std::process::exit(1);
+    }
 }
 
-/// Generate a text-only SVG, run Inkscape to convert text to paths,
-/// and return the extracted path groups.
-fn convert_text_to_paths(title: &str, font_bold: &str, font_regular: &str, output_dir: &PathBuf) -> String {
+/// Generate a text-only SVG, run Inkscape to convert text to paths, and return the
+/// extracted path groups along with a success flag. Success requires both that Inkscape
+/// exited cleanly and that at least one path group was extracted (an empty result means
+/// the title would be missing from the cover).
+fn convert_text_to_paths(title: &str, font_bold: &str, font_regular: &str, output_dir: &PathBuf) -> (String, bool) {
     let text_svg = svg::render_text_svg(title, font_bold, font_regular);
 
     let tmp_path = output_dir.join("_text_tmp.svg");
     fs::write(&tmp_path, &text_svg).expect("Failed to write temp text SVG");
 
-    let status = Command::new("inkscape")
+    let result = Command::new("inkscape")
         .arg(&tmp_path)
         .arg("--export-text-to-path")
         .arg("--export-plain-svg")
         .arg(format!("--export-filename={}", tmp_path.display()))
-        .stderr(std::process::Stdio::null())
-        .status()
+        .output()
         .expect("Failed to run inkscape -- is it installed?");
 
-    if !status.success() {
-        eprintln!("  Warning: inkscape text-to-path conversion failed");
+    let mut ok = true;
+    if !result.status.success() {
+        // Surface Inkscape's own diagnostics — on headless CI this is usually a missing
+        // display or font, which is otherwise invisible.
+        eprintln!(
+            "  inkscape text-to-path conversion failed (exited {}): {}",
+            result.status,
+            String::from_utf8_lossy(&result.stderr).trim()
+        );
+        ok = false;
     }
 
     let inkscape_output = fs::read_to_string(&tmp_path).unwrap_or_default();
     let _ = fs::remove_file(&tmp_path);
 
-    extract_text_paths(&inkscape_output)
+    let paths = extract_text_paths(&inkscape_output);
+    if paths.trim().is_empty() {
+        eprintln!("  inkscape produced no title paths");
+        ok = false;
+    }
+
+    (paths, ok)
 }
 
 /// Extract <g aria-label="..."><path .../></g> blocks from Inkscape's SVG output.

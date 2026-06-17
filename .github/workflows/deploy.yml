@@ -63,7 +63,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
-            pandoc weasyprint inkscape lftp woff2
+            pandoc weasyprint inkscape lftp woff2 librsvg2-bin xvfb fontconfig
 
       - name: Configure Bunny credentials
         env:
@@ -83,18 +83,22 @@ jobs:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
         run: |
           set -euo pipefail
-          mkdir -p site/fonts/sangbleu build/fonts-ttf
+          mkdir -p site/fonts/sangbleu build/fonts-ttf "$HOME/.local/share/fonts"
           # Pull the WOFF2 fonts read-only (they live only on the CDN).
           lftp "${BUNNY_STORAGE_HOST}" -e "
             mirror --verbose --include-glob '*.woff2' fonts/sangbleu site/fonts/sangbleu
             bye
           "
-          # The covers tool drives Inkscape, which needs TTF. Decompress the two Empire
-          # weights it uses into a build-only directory (no TTF is ever stored or deployed).
-          for w in Bold Regular; do
-            woff2_decompress "site/fonts/sangbleu/SangBleuEmpire-${w}-WebS.woff2"
-            mv "site/fonts/sangbleu/SangBleuEmpire-${w}-WebS.ttf" build/fonts-ttf/
-          done
+          # Inkscape (used by the covers tool) reads fonts via fontconfig, not @font-face,
+          # so decompress every SangBleu WOFF2 to TTF and register them. build/fonts-ttf is
+          # the directory the covers tool reads; ~/.local/share/fonts makes the same fonts
+          # resolvable by family name during Inkscape's text-to-path conversion. No TTF is
+          # deployed (the deploy excludes fonts/sangbleu/ and these dirs aren't part of it).
+          for f in site/fonts/sangbleu/*.woff2; do woff2_decompress "$f"; done
+          mv site/fonts/sangbleu/*.ttf build/fonts-ttf/
+          cp build/fonts-ttf/*.ttf "$HOME/.local/share/fonts/"
+          fc-cache -f
+          fc-list | grep -i sangbleu || echo "WARNING: no SangBleu family registered in fontconfig"
 
       - name: Build site
         env:
@@ -102,9 +106,11 @@ jobs:
           COVERS_FONT_DIR: ${{ github.workspace }}/build/fonts-ttf
         run: |
           set -euo pipefail
-          # graphics-cropped/ is gitignored and consumed by the epub/pdf tools; regenerate it.
-          make graphics
-          make site
+          # Inkscape (covers + graphics) needs a display on headless Linux; run under a
+          # virtual framebuffer. graphics-cropped/ is gitignored and consumed by the
+          # epub/pdf tools, so regenerate it first.
+          xvfb-run -a make graphics
+          xvfb-run -a make site
 
       - name: Deploy to Bunny
         env:
