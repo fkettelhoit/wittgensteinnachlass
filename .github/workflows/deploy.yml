@@ -116,3 +116,18 @@ jobs:
         env:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
         run: make deploy
+
+      # Deploying updates the storage origin, but the CDN edge cache keeps serving the
+      # old files until their TTL expires. Purge the whole pull zone so the new version
+      # goes live immediately. Needs an account API key (Bunny dashboard → Account
+      # Settings → API Key) and the numeric pull zone ID.
+      - name: Purge Bunny CDN cache
+        env:
+          BUNNY_API_KEY: ${{ secrets.BUNNY_API_KEY }}
+          BUNNY_PULLZONE_ID: ${{ secrets.BUNNY_PULLZONE_ID }}
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error \
+            -X POST "https://api.bunny.net/pullzone/${BUNNY_PULLZONE_ID}/purgeCache" \
+            -H "AccessKey: ${BUNNY_API_KEY}"
+          echo "Purged Bunny pull zone ${BUNNY_PULLZONE_ID}."
