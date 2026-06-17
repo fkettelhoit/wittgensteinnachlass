@@ -8,27 +8,41 @@ name: Build and deploy
 # (the German source changed since the translation was last committed), or fails quality
 # verification, the job fails and nothing is deployed.
 #
-# Required repository secrets (Bunny storage zone FTP credentials):
+# Pushes to main deploy to the production Bunny zone; pushes to any other branch deploy to
+# a single shared staging zone. The target is chosen via the job's `environment`
+# (production or staging), so each `secrets.*` reference below resolves to that
+# environment's value with no other changes to the job.
+#
+# Repository secrets (shared by both environments):
 #   BUNNY_STORAGE_HOST     e.g. storage.bunnycdn.com (or a region host)
+#   BUNNY_API_KEY          account-level API key (for the cache purge)
+# Environment secrets (set in BOTH the `production` and `staging` environments, each with
+# that environment's own values):
 #   BUNNY_STORAGE_USER     the storage zone name
 #   BUNNY_STORAGE_PASSWORD the storage zone password
+#   BUNNY_PULLZONE_ID      the pull zone id (for the cache purge)
 #
-# The licensed SangBleu fonts are NOT stored in the repo. They live only on the Bunny
-# CDN (as WOFF2). This workflow pulls them read-only for the build and the deploy
-# explicitly excludes fonts/sangbleu/ so the CDN copy is never overwritten or deleted.
+# The licensed SangBleu fonts are NOT stored in the repo. They live only on the Bunny CDN
+# (as WOFF2), in each zone's own storage; this workflow pulls them read-only for the build
+# and the deploy excludes fonts/sangbleu/ so the CDN copy is never overwritten or deleted.
 
 on:
   push:
-    branches: [main]
+    branches: ['**']
   workflow_dispatch:
 
 concurrency:
-  group: deploy
+  # Serialize deploys per target: all staging branches share one queue (single shared
+  # staging zone), separate from production.
+  group: deploy-${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
   cancel-in-progress: false
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    # main -> production, every other branch -> staging. Drives which environment's
+    # Bunny secrets the steps below resolve.
+    environment: ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
     steps:
       - name: Checkout (full history — staleness detection needs it)
         uses: actions/checkout@v4
@@ -115,7 +129,9 @@ jobs:
       - name: Deploy to Bunny
         env:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
-        run: make deploy
+        run: |
+          echo "Deploying branch '${GITHUB_REF_NAME}' to the '${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}' environment."
+          make deploy
 
       # Deploying updates the storage origin, but the CDN edge cache keeps serving the
       # old files until their TTL expires. Purge the whole pull zone so the new version
