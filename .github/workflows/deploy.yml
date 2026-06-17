@@ -77,7 +77,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
-            pandoc weasyprint inkscape lftp woff2 librsvg2-bin xvfb fontconfig
+            pandoc weasyprint inkscape lftp woff2 librsvg2-bin xvfb fontconfig fonttools
 
       - name: Configure Bunny credentials
         env:
@@ -110,6 +110,10 @@ jobs:
           # deployed (the deploy excludes fonts/sangbleu/ and these dirs aren't part of it).
           for f in site/fonts/sangbleu/*.woff2; do woff2_decompress "$f"; done
           mv site/fonts/sangbleu/*.ttf build/fonts-ttf/
+          # The "WebS" fonts ship with a stripped name table, so fontconfig (and thus
+          # Inkscape, which resolves by family name — it ignores the SVG @font-face
+          # file:// rule) can't find "SangBleu Empire". Restore the family names first.
+          python3 tools/rename-web-fonts.py build/fonts-ttf
           cp build/fonts-ttf/*.ttf "$HOME/.local/share/fonts/"
           # Also register the committed TeX Gyre Pagella so it serves as the Inkscape
           # fallback for covers if SangBleu is ever unavailable (mirrors the CSS fallback).
