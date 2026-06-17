@@ -99,7 +99,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 @page cover {{
-  margin: 1.5mm;
+  margin: 0;
   @bottom-center {{ content: none; }}
 }}
 
@@ -116,19 +116,16 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
   page-break-after: always;
   margin: 0;
   padding: 0;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }}
 
+/* Full-bleed cover, sized with explicit absolute dimensions that match the @page size
+   above (and the cover SVG's 2:3 ratio). WeasyPrint 61.x (Ubuntu/CI) renders SVG <img>
+   sized via max-width/max-height/object-fit blank, so we set width/height directly — this
+   renders identically on 61.x and current WeasyPrint. Keep in sync with @page size. */
 .cover-page img {{
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
   display: block;
-  margin: auto;
+  width: 160mm;
+  height: 240mm;
 }}
 
 .blank-page {{

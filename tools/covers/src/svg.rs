@@ -20,6 +20,18 @@ const COLOR_HEADING: &str = "#000"; // --color-heading
 const COLOR_TEXT: &str = "#444"; // --color-text
 const COLOR_MARGIN: &str = "#bbb"; // --color-margin
 
+/// The intended fill colour for a text group, identified by its `aria-label`. Some Inkscape
+/// versions (e.g. 1.1 on CI) drop the source `fill` during text-to-path, so the covers tool
+/// re-applies it from here. The branding lines (see `render_text_svg`) use the margin colour;
+/// the title uses the heading colour.
+pub fn text_group_fill(aria_label: &str) -> &'static str {
+    if aria_label == "Writings" || aria_label.starts_with("Wittgenstein") {
+        COLOR_MARGIN
+    } else {
+        COLOR_HEADING
+    }
+}
+
 const CIRCLE_FILL: &str = "#fbcba4"; // color for filled circles
 const BORDER_CIRCLE_R: f64 = 4.0;
 const CIRCLE_STROKE_WIDTH: f64 = 6.0;

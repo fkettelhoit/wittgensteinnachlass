@@ -283,6 +283,10 @@ fn extract_text_paths(svg: &str) -> String {
         };
         let body = &svg[open_end..group_end];
         let group_fill = tag_fill(g_tag);
+        // Inkscape 1.1 (CI) drops the source fill during text-to-path, leaving glyph paths
+        // unfilled (→ default black). Re-apply the intended colour by group when neither the
+        // path nor its group carries one.
+        let default_fill = svg::text_group_fill(&label);
 
         // Collect every <path> in the group (one per glyph on Inkscape 1.1).
         let mut glyphs = String::new();
@@ -295,12 +299,10 @@ fn extract_text_paths(svg: &str) -> String {
             };
             let path_tag = &body[p_start..p_end];
             if let Some(d) = attr(path_tag, "d") {
-                let fill = tag_fill(path_tag).or_else(|| group_fill.clone());
-                glyphs.push_str(&format!(r#"<path d="{d}""#));
-                if let Some(f) = &fill {
-                    glyphs.push_str(&format!(r#" fill="{f}""#));
-                }
-                glyphs.push_str("/>");
+                let fill = tag_fill(path_tag)
+                    .or_else(|| group_fill.clone())
+                    .unwrap_or_else(|| default_fill.to_string());
+                glyphs.push_str(&format!(r#"<path d="{d}" fill="{fill}"/>"#));
             }
             p = p_end;
         }
