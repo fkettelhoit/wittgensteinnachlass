@@ -369,7 +369,7 @@ section:hover .fragment-link {
 
 .index section > h2,
 .gallery section > h2 {
-  font-family: "SangBleu Sunrise", serif;
+  font-family: var(--font-heading-margin);
   font-weight: 300;
   font-variant-numeric: oldstyle-nums;
 }
@@ -908,7 +908,7 @@ body.bilingual footer {
 }
 
 .gallery .cover-info > span {
-  font-family: "SangBleu Empire";
+  font-family: var(--font-heading);
   padding: 0.15em 0.3em;
   box-decoration-break: clone;
   color: var(--color-text);

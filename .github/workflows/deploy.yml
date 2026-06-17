@@ -111,8 +111,12 @@ jobs:
           for f in site/fonts/sangbleu/*.woff2; do woff2_decompress "$f"; done
           mv site/fonts/sangbleu/*.ttf build/fonts-ttf/
           cp build/fonts-ttf/*.ttf "$HOME/.local/share/fonts/"
+          # Also register the committed TeX Gyre Pagella so it serves as the Inkscape
+          # fallback for covers if SangBleu is ever unavailable (mirrors the CSS fallback).
+          cp site/fonts/tex-gyre/*.otf "$HOME/.local/share/fonts/"
           fc-cache -f
           fc-list | grep -i sangbleu || echo "WARNING: no SangBleu family registered in fontconfig"
+          fc-list | grep -i pagella || echo "WARNING: no Pagella family registered in fontconfig"
 
       - name: Build site
         env:

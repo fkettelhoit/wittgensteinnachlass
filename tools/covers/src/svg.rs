@@ -64,7 +64,7 @@ pub fn render_text_svg(
     for word in &words {
         let escaped = xml_escape(word);
         svg.push_str(&format!(
-            r#"<g aria-label="{escaped}"><text x="{x}" y="{y:.0}" font-family="SangBleu Empire, serif" font-size="{TITLE_FONT_SIZE}" font-weight="700" fill="{COLOR_HEADING}">{escaped}</text></g>
+            r#"<g aria-label="{escaped}"><text x="{x}" y="{y:.0}" font-family="SangBleu Empire, TeX Gyre Pagella, serif" font-size="{TITLE_FONT_SIZE}" font-weight="700" fill="{COLOR_HEADING}">{escaped}</text></g>
 "#,
         ));
         y += TITLE_LINE_STEP as f64 * CELL;
@@ -74,12 +74,12 @@ pub fn render_text_svg(
     let brand_x = TITLE_COL as f64 * CELL;
     let brand_y = BRANDING_ROW as f64 * CELL + BRANDING_FONT_SIZE * 0.85;
     svg.push_str(&format!(
-        r#"<g aria-label="Wittgenstein&#x2019;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&#x2019;s</text></g>
+        r#"<g aria-label="Wittgenstein&#x2019;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, TeX Gyre Pagella, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&#x2019;s</text></g>
 "#
     ));
     let brand_y2 = brand_y + BRANDING_FONT_SIZE * 1.1;
     svg.push_str(&format!(
-        r#"<g aria-label="Writings"><text x="{brand_x}" y="{brand_y2:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Writings</text></g>
+        r#"<g aria-label="Writings"><text x="{brand_x}" y="{brand_y2:.0}" font-family="SangBleu Empire, TeX Gyre Pagella, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Writings</text></g>
 "#
     ));
 

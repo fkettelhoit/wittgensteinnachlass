@@ -147,7 +147,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 .title-page h1 {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 40pt;
   font-weight: 700;
   text-align: left;
@@ -158,7 +158,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 .title-page .author-first {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 22pt;
   font-weight: 400;
   text-align: left;
@@ -168,7 +168,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 .title-page .author-last {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 22pt;
   font-weight: 400;
   text-align: left;
@@ -197,7 +197,7 @@ body {{
 }}
 
 h1 {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 48pt;
   font-weight: 700;
   text-align: center;
@@ -206,7 +206,7 @@ h1 {{
 }}
 
 h2 {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 18pt;
   font-weight: 400;
   text-align: center;
