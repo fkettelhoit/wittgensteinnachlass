@@ -98,6 +98,18 @@ fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
             with_works += 1;
         }
     }
+
+    // Fail fast (also in --dry-run) if any primary key would be rejected by Meilisearch,
+    // which only accepts ids composed of [a-zA-Z0-9_-].
+    if let Some(r) = records
+        .iter()
+        .find(|r| !r.id.bytes().all(|b| b.is_ascii_alphanumeric() || b == b'-' || b == b'_'))
+    {
+        return Err(format!(
+            "invalid Meilisearch document id {:?} (allowed characters: a-z A-Z 0-9 - _)",
+            r.id
+        ));
+    }
     eprintln!(
         "Extracted {} records ({} with a work association).",
         records.len(),
@@ -132,7 +144,9 @@ fn records_for_dir(
                 .replace("{slug}", &meta.doc_slug)
                 .replace("{frag}", &r.fragment);
             out.push(SearchRecord {
-                id: format!("{language}:{}:{}", meta.doc_slug, r.fragment),
+                // Meilisearch document ids allow only [a-zA-Z0-9_-]. doc_slug, fragment and
+                // language never contain `_`, so it is an unambiguous separator.
+                id: format!("{language}_{}_{}", meta.doc_slug, r.fragment),
                 language: language.to_string(),
                 doc: meta.doc.clone(),
                 doc_slug: meta.doc_slug.clone(),

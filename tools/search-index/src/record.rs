@@ -2,9 +2,10 @@ use serde::Serialize;
 
 /// One Meilisearch document = one remark, in one language.
 ///
-/// `id` is the primary key: `{language}:{doc_slug}:{fragment}` (e.g. `de:ms-116:1321`).
-/// It is stable across rebuilds because it derives only from the immutable page references,
-/// so re-runs update a remark in place rather than creating duplicates.
+/// `id` is the primary key: `{language}_{doc_slug}_{fragment}` (e.g. `de_ms-116_1321`).
+/// `_` is the separator because Meilisearch ids allow only `[a-zA-Z0-9_-]` (no `:`), and no
+/// component ever contains `_`. It is stable across rebuilds because it derives only from the
+/// immutable page references, so re-runs update a remark in place rather than creating dupes.
 #[derive(Serialize, Debug, Clone)]
 pub struct SearchRecord {
     pub id: String,
