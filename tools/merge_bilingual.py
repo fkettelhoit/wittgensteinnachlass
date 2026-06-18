@@ -53,7 +53,7 @@ def main():
     sys.stdout.write("\n".join(preamble_lines[:title_end]) + "\n")
     remaining = "\n".join(preamble_lines[title_end:]).strip()
     if remaining:
-        sys.stdout.write(f'\n<div class="preamble">\n\n{remaining}\n\n</div>\n')
+        sys.stdout.write(f'\n<div class="preamble" lang="de">\n\n{remaining}\n\n</div>\n')
 
     count = max(len(de_sections), len(en_sections))
     for i in range(count):
@@ -69,8 +69,8 @@ def main():
         en_body = en_lines[1].strip() if len(en_lines) > 1 else ""
 
         sys.stdout.write(f"\n{heading}\n\n")
-        sys.stdout.write(f'<div class="de">\n\n{de_body}\n\n</div>\n')
-        sys.stdout.write(f'<div class="en">\n\n{en_body}\n\n</div>\n')
+        sys.stdout.write(f'<div class="de" lang="de">\n\n{de_body}\n\n</div>\n')
+        sys.stdout.write(f'<div class="en" lang="en">\n\n{en_body}\n\n</div>\n')
 
 
 if __name__ == "__main__":
