@@ -99,7 +99,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 @page cover {{
-  margin: 1.5mm;
+  margin: 0;
   @bottom-center {{ content: none; }}
 }}
 
@@ -116,19 +116,16 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
   page-break-after: always;
   margin: 0;
   padding: 0;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }}
 
+/* Full-bleed cover, sized with explicit absolute dimensions that match the @page size
+   above (and the cover SVG's 2:3 ratio). WeasyPrint 61.x (Ubuntu/CI) renders SVG <img>
+   sized via max-width/max-height/object-fit blank, so we set width/height directly — this
+   renders identically on 61.x and current WeasyPrint. Keep in sync with @page size. */
 .cover-page img {{
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
   display: block;
-  margin: auto;
+  width: 160mm;
+  height: 240mm;
 }}
 
 .blank-page {{
@@ -147,7 +144,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 .title-page h1 {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 40pt;
   font-weight: 700;
   text-align: left;
@@ -158,7 +155,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 .title-page .author-first {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 22pt;
   font-weight: 400;
   text-align: left;
@@ -168,7 +165,7 @@ pub fn build_css(font_dir: &Path, heading_font_dir: &Path, transcription_css: &P
 }}
 
 .title-page .author-last {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 22pt;
   font-weight: 400;
   text-align: left;
@@ -197,7 +194,7 @@ body {{
 }}
 
 h1 {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 48pt;
   font-weight: 700;
   text-align: center;
@@ -206,7 +203,7 @@ h1 {{
 }}
 
 h2 {{
-  font-family: "SangBleu Empire", serif;
+  font-family: "SangBleu Empire", "TeX Gyre Pagella", serif;
   font-size: 18pt;
   font-weight: 400;
   text-align: center;

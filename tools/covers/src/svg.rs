@@ -20,6 +20,18 @@ const COLOR_HEADING: &str = "#000"; // --color-heading
 const COLOR_TEXT: &str = "#444"; // --color-text
 const COLOR_MARGIN: &str = "#bbb"; // --color-margin
 
+/// The intended fill colour for a text group, identified by its `aria-label`. Some Inkscape
+/// versions (e.g. 1.1 on CI) drop the source `fill` during text-to-path, so the covers tool
+/// re-applies it from here. The branding lines (see `render_text_svg`) use the margin colour;
+/// the title uses the heading colour.
+pub fn text_group_fill(aria_label: &str) -> &'static str {
+    if aria_label == "Writings" || aria_label.starts_with("Wittgenstein") {
+        COLOR_MARGIN
+    } else {
+        COLOR_HEADING
+    }
+}
+
 const CIRCLE_FILL: &str = "#fbcba4"; // color for filled circles
 const BORDER_CIRCLE_R: f64 = 4.0;
 const CIRCLE_STROKE_WIDTH: f64 = 6.0;
@@ -33,6 +45,7 @@ pub fn render_text_svg(
     title: &str,
     font_bold_path: &str,
     font_regular_path: &str,
+    embed_font_face: bool,
 ) -> String {
     let clean_title = title
         .replace(" \u{2013} ", " ")
@@ -41,7 +54,17 @@ pub fn render_text_svg(
 
     let mut svg = format!(
         r#"<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
-<style>
+"#
+    );
+
+    // Embed the fonts via @font-face for renderers that honour `src: url(file://…)`
+    // (e.g. macOS Inkscape). On headless Linux, Inkscape rejects this rule ("font face
+    // rule limited support") and resolving by family name via fontconfig is required —
+    // and a failing @font-face for the same family shadows the fontconfig font, so it
+    // must be omitted there (the fonts are registered with fontconfig instead).
+    if embed_font_face {
+        svg.push_str(&format!(
+            r#"<style>
   @font-face {{
     font-family: "SangBleu Empire";
     src: url("file://{font_bold_path}") format("truetype");
@@ -56,7 +79,8 @@ pub fn render_text_svg(
   }}
 </style>
 "#
-    );
+        ));
+    }
 
     // Title text
     let x = TITLE_COL as f64 * CELL;
@@ -64,7 +88,7 @@ pub fn render_text_svg(
     for word in &words {
         let escaped = xml_escape(word);
         svg.push_str(&format!(
-            r#"<g aria-label="{escaped}"><text x="{x}" y="{y:.0}" font-family="SangBleu Empire, serif" font-size="{TITLE_FONT_SIZE}" font-weight="700" fill="{COLOR_HEADING}">{escaped}</text></g>
+            r#"<g aria-label="{escaped}"><text x="{x}" y="{y:.0}" font-family="SangBleu Empire, TeX Gyre Pagella, serif" font-size="{TITLE_FONT_SIZE}" font-weight="700" fill="{COLOR_HEADING}">{escaped}</text></g>
 "#,
         ));
         y += TITLE_LINE_STEP as f64 * CELL;
@@ -74,12 +98,12 @@ pub fn render_text_svg(
     let brand_x = TITLE_COL as f64 * CELL;
     let brand_y = BRANDING_ROW as f64 * CELL + BRANDING_FONT_SIZE * 0.85;
     svg.push_str(&format!(
-        r#"<g aria-label="Wittgenstein&#x2019;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&#x2019;s</text></g>
+        r#"<g aria-label="Wittgenstein&#x2019;s"><text x="{brand_x}" y="{brand_y:.0}" font-family="SangBleu Empire, TeX Gyre Pagella, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Wittgenstein&#x2019;s</text></g>
 "#
     ));
     let brand_y2 = brand_y + BRANDING_FONT_SIZE * 1.1;
     svg.push_str(&format!(
-        r#"<g aria-label="Writings"><text x="{brand_x}" y="{brand_y2:.0}" font-family="SangBleu Empire, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Writings</text></g>
+        r#"<g aria-label="Writings"><text x="{brand_x}" y="{brand_y2:.0}" font-family="SangBleu Empire, TeX Gyre Pagella, serif" font-size="{BRANDING_FONT_SIZE}" font-weight="400" fill="{COLOR_MARGIN}">Writings</text></g>
 "#
     ));
 

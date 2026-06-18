@@ -8,27 +8,41 @@ name: Build and deploy
 # (the German source changed since the translation was last committed), or fails quality
 # verification, the job fails and nothing is deployed.
 #
-# Required repository secrets (Bunny storage zone FTP credentials):
+# Pushes to main deploy to the production Bunny zone; pushes to any other branch deploy to
+# a single shared staging zone. The target is chosen via the job's `environment`
+# (production or staging), so each `secrets.*` reference below resolves to that
+# environment's value with no other changes to the job.
+#
+# Repository secrets (shared by both environments):
 #   BUNNY_STORAGE_HOST     e.g. storage.bunnycdn.com (or a region host)
+#   BUNNY_API_KEY          account-level API key (for the cache purge)
+# Environment secrets (set in BOTH the `production` and `staging` environments, each with
+# that environment's own values):
 #   BUNNY_STORAGE_USER     the storage zone name
 #   BUNNY_STORAGE_PASSWORD the storage zone password
+#   BUNNY_PULLZONE_ID      the pull zone id (for the cache purge)
 #
-# The licensed SangBleu fonts are NOT stored in the repo. They live only on the Bunny
-# CDN (as WOFF2). This workflow pulls them read-only for the build and the deploy
-# explicitly excludes fonts/sangbleu/ so the CDN copy is never overwritten or deleted.
+# The licensed SangBleu fonts are NOT stored in the repo. They live only on the Bunny CDN
+# (as WOFF2), in each zone's own storage; this workflow pulls them read-only for the build
+# and the deploy excludes fonts/sangbleu/ so the CDN copy is never overwritten or deleted.
 
 on:
   push:
-    branches: [main]
+    branches: ['**']
   workflow_dispatch:
 
 concurrency:
-  group: deploy
+  # Serialize deploys per target: all staging branches share one queue (single shared
+  # staging zone), separate from production.
+  group: deploy-${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
   cancel-in-progress: false
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    # main -> production, every other branch -> staging. Drives which environment's
+    # Bunny secrets the steps below resolve.
+    environment: ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
     steps:
       - name: Checkout (full history — staleness detection needs it)
         uses: actions/checkout@v4
@@ -63,7 +77,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends \
-            pandoc weasyprint inkscape lftp woff2
+            pandoc weasyprint inkscape lftp woff2 librsvg2-bin xvfb fontconfig fonttools
 
       - name: Configure Bunny credentials
         env:
@@ -83,30 +97,77 @@ jobs:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
         run: |
           set -euo pipefail
-          mkdir -p site/fonts/sangbleu build/fonts-ttf
+          mkdir -p site/fonts/sangbleu build/fonts-ttf "$HOME/.local/share/fonts"
           # Pull the WOFF2 fonts read-only (they live only on the CDN).
           lftp "${BUNNY_STORAGE_HOST}" -e "
             mirror --verbose --include-glob '*.woff2' fonts/sangbleu site/fonts/sangbleu
             bye
           "
-          # The covers tool drives Inkscape, which needs TTF. Decompress the two Empire
-          # weights it uses into a build-only directory (no TTF is ever stored or deployed).
-          for w in Bold Regular; do
-            woff2_decompress "site/fonts/sangbleu/SangBleuEmpire-${w}-WebS.woff2"
-            mv "site/fonts/sangbleu/SangBleuEmpire-${w}-WebS.ttf" build/fonts-ttf/
-          done
+          # Inkscape (used by the covers tool) reads fonts via fontconfig, not @font-face,
+          # so decompress every SangBleu WOFF2 to TTF and register them. build/fonts-ttf is
+          # the directory the covers tool reads; ~/.local/share/fonts makes the same fonts
+          # resolvable by family name during Inkscape's text-to-path conversion. No TTF is
+          # deployed (the deploy excludes fonts/sangbleu/ and these dirs aren't part of it).
+          for f in site/fonts/sangbleu/*.woff2; do woff2_decompress "$f"; done
+          mv site/fonts/sangbleu/*.ttf build/fonts-ttf/
+          # The "WebS" fonts ship with a stripped name table, so fontconfig (and thus
+          # Inkscape, which resolves by family name — it ignores the SVG @font-face
+          # file:// rule) can't find "SangBleu Empire". Restore the family names first.
+          python3 tools/rename-web-fonts.py build/fonts-ttf
+          cp build/fonts-ttf/*.ttf "$HOME/.local/share/fonts/"
+          # Also register the committed TeX Gyre Pagella so it serves as the Inkscape
+          # fallback for covers if SangBleu is ever unavailable (mirrors the CSS fallback).
+          cp site/fonts/tex-gyre/*.otf "$HOME/.local/share/fonts/"
+          fc-cache -f
+          fc-list | grep -i sangbleu || echo "WARNING: no SangBleu family registered in fontconfig"
+          fc-list | grep -i pagella || echo "WARNING: no Pagella family registered in fontconfig"
 
-      - name: Build site
+      # Inkscape (covers + graphics) needs a display on headless Linux → run under xvfb.
+      # Generation is parallelized (bounded to the vCPU count) to keep the build fast.
+      - name: Generate cropped graphics
+        run: JOBS="$(nproc)" xvfb-run -a make graphics
+
+      - name: Generate assets (viz, covers, epub, pdf)
         env:
           # Absolute path so the covers tool (run from tools/covers) finds the TTFs.
           COVERS_FONT_DIR: ${{ github.workspace }}/build/fonts-ttf
+          # Headless Inkscape can't load @font-face file:// fonts; resolve SangBleu via
+          # the fontconfig-registered (renamed) TTFs by family name instead.
+          COVERS_FLAGS: --no-font-face
         run: |
           set -euo pipefail
-          # graphics-cropped/ is gitignored and consumed by the epub/pdf tools; regenerate it.
-          make graphics
-          make site
+          make check-fonts
+          # Pre-build the tools sequentially so the parallel run below only executes
+          # binaries — keeps several rustc compiles from contending for memory at once.
+          for t in visualize covers ebooks pdfs; do (cd "tools/$t" && cargo build --release); done
+          # Bounded parallelism (= vCPU count) overlaps the independent asset targets.
+          xvfb-run -a make -j"$(nproc)" viz covers epub pdf
+
+      - name: Build content and Hugo site
+        run: |
+          set -euo pipefail
+          make content
+          hugo -s site -e production
 
       - name: Deploy to Bunny
         env:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}
-        run: make deploy
+        run: |
+          echo "Deploying branch '${GITHUB_REF_NAME}' to the '${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}' environment."
+          # public/ was just built by the Hugo step above; upload it directly (no second build).
+          tools/deploy_site.sh
+
+      # Deploying updates the storage origin, but the CDN edge cache keeps serving the
+      # old files until their TTL expires. Purge the whole pull zone so the new version
+      # goes live immediately. Needs an account API key (Bunny dashboard → Account
+      # Settings → API Key) and the numeric pull zone ID.
+      - name: Purge Bunny CDN cache
+        env:
+          BUNNY_API_KEY: ${{ secrets.BUNNY_API_KEY }}
+          BUNNY_PULLZONE_ID: ${{ secrets.BUNNY_PULLZONE_ID }}
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error \
+            -X POST "https://api.bunny.net/pullzone/${BUNNY_PULLZONE_ID}/purgeCache" \
+            -H "AccessKey: ${BUNNY_API_KEY}"
+          echo "Purged Bunny pull zone ${BUNNY_PULLZONE_ID}."

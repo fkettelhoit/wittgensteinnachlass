@@ -98,12 +98,14 @@ fn main() {
                     let part_raw = fs::read_to_string(part_path).expect("Failed to read part file");
                     part_raws.push(part_raw);
                 } else {
-                    eprintln!("  WARNING: part not found for slug '{}' in {}", slug, stem);
+                    eprintln!("  part not found for slug '{}' in {}", slug, stem);
                     missing = true;
                 }
             }
-            if missing && part_raws.is_empty() {
-                eprintln!("  Skipping {} (no parts found)", stem);
+            // Any missing part yields an incomplete book — fail rather than ship it.
+            if missing {
+                eprintln!("  FAILED {} (missing parts — incomplete PDF)", stem);
+                failed += 1;
                 continue;
             }
 
@@ -179,6 +181,10 @@ fn main() {
     let _ = fs::remove_file(&tmp_css);
 
     eprintln!("\nDone: {} succeeded, {} failed", success, failed);
+    if failed > 0 {
+        eprintln!("{} PDF(s) failed — failing the build.", failed);
+        std::process::exit(1);
+    }
 }
 
 /// Build a case-insensitive map from lowercase stem to file path.

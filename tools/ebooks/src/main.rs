@@ -80,7 +80,8 @@ fn main() {
                 }
             }
             if !all_found || part_bodies.is_empty() {
-                eprintln!("  Skipping {} (missing parts)", stem);
+                eprintln!("  FAILED {} (missing parts — incomplete ebook)", stem);
+                failed += 1;
                 continue;
             }
             prepare::prepare_merged(&title, &part_bodies, &cli.author)
@@ -97,11 +98,21 @@ fn main() {
         let tmp_md = cli.output.join(format!("_tmp_{}.md", stem));
         fs::write(&tmp_md, &prepared.content).expect("Failed to write temp markdown");
 
-        // Convert cover SVG to PNG if available
+        // Convert the cover SVG to PNG. A cover that exists but fails to convert (e.g.
+        // rsvg-convert missing) would silently yield a coverless ebook — treat that as a
+        // hard failure rather than shipping degraded output. Files with no cover SVG
+        // (e.g. browse pages) legitimately have no cover.
         let cover_svg = cli.covers.join(format!("{}.svg", stem));
         let cover_png = cli.output.join(format!("_tmp_{}_cover.png", stem));
         let has_cover = if cover_svg.exists() {
-            convert_svg_to_png(&cli.rsvg_convert, &cover_svg, &cover_png)
+            if convert_svg_to_png(&cli.rsvg_convert, &cover_svg, &cover_png) {
+                true
+            } else {
+                eprintln!("  FAILED {} (cover conversion failed for {})", stem, cover_svg.display());
+                let _ = fs::remove_file(&tmp_md);
+                failed += 1;
+                continue;
+            }
         } else {
             false
         };
@@ -134,6 +145,10 @@ fn main() {
     }
 
     eprintln!("\nDone: {} succeeded, {} failed", success, failed);
+    if failed > 0 {
+        eprintln!("{} ebook(s) failed — failing the build.", failed);
+        std::process::exit(1);
+    }
 }
 
 fn convert_svg_to_png(rsvg_convert: &str, svg: &PathBuf, png: &PathBuf) -> bool {
@@ -151,11 +166,11 @@ fn convert_svg_to_png(rsvg_convert: &str, svg: &PathBuf, png: &PathBuf) -> bool 
     match status {
         Ok(s) if s.success() => true,
         Ok(s) => {
-            eprintln!("  Warning: rsvg-convert exited with {}", s);
+            eprintln!("  rsvg-convert exited with {}", s);
             false
         }
         Err(e) => {
-            eprintln!("  Warning: rsvg-convert not available ({})", e);
+            eprintln!("  rsvg-convert not available ({})", e);
             false
         }
     }
