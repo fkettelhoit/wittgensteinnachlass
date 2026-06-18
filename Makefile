@@ -17,8 +17,15 @@ site: check-fonts viz covers epub pdf content hugo
 
 quick: content hugo
 
+# Local preview. Loads the git-ignored repo-root .env (the same file `make index` uses) and
+# maps its MEILI_* values onto the HUGO_PARAMS_* names Hugo reads, so the /search page works
+# locally without exporting anything by hand. Only the read-only search key reaches Hugo.
 serve: content
-	hugo server -s site
+	@[ -f .env ] && . ./.env; \
+		HUGO_PARAMS_MEILIHOST="$$MEILI_HOST" \
+		HUGO_PARAMS_MEILISEARCHKEY="$$MEILI_SEARCH_KEY" \
+		HUGO_PARAMS_MEILIINDEX="$$MEILI_INDEX_PREFIX" \
+		hugo server -s site
 
 # Deploy to BunnyCDN (rebuild content + production Hugo + lftp mirror)
 # Run `make site` first if you need to regenerate assets (viz, covers, epub, pdf)
@@ -78,9 +85,9 @@ hugo: content viz covers epub pdf
 	hugo -s site
 
 # Push every remark to Meilisearch (full atomic reindex via index swap). Reads
-# MEILI_HOST / MEILI_ADMIN_KEY / MEILI_INDEX_PREFIX from the environment or from a
-# git-ignored tools/search-index/.env. Add `--dry-run` to preview without a Meili instance,
-# or `-- --verify-public ../../site/public` to cross-check anchors against the rendered site.
+# MEILI_HOST / MEILI_ADMIN_KEY / MEILI_INDEX_PREFIX from the environment or the git-ignored
+# repo-root .env (dotenvy finds it by walking up). Add `--dry-run` to preview without a Meili
+# instance, or `-- --verify-public ../../site/public` to cross-check anchors against the site.
 index:
 	cd tools/search-index && cargo run --release
 

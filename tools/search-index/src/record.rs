@@ -17,6 +17,8 @@ pub struct SearchRecord {
     pub doc_slug: String,
     /// `Ms` or `Ts`.
     pub doctype: String,
+    /// Position in canonical document + page order, for client-side result sorting.
+    pub ord: u32,
     /// Facsimile page references as shown to readers, e.g. `["1[3]", "2[1]"]`.
     pub page_refs: Vec<String>,
     /// Goldmark heading anchor on the rendered page, e.g. `1321`.

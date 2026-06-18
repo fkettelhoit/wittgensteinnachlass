@@ -87,9 +87,12 @@ fn main() {
 fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
     let works = parse::build_works_map(&read_work_files(&cli.md_dir)?, res);
 
+    // A single counter across both passes; each pass walks files in document order and remarks
+    // in page order, so `ord` increases with (document, page) within each language.
+    let mut ord: u32 = 0;
     let mut records = Vec::new();
-    records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res)?);
-    records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res)?);
+    records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res, &mut ord)?);
+    records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res, &mut ord)?);
 
     let mut with_works = 0usize;
     for r in &mut records {
@@ -124,6 +127,7 @@ fn records_for_dir(
     language: &str,
     url_template: &str,
     res: &Res,
+    ord: &mut u32,
 ) -> Result<Vec<SearchRecord>, String> {
     let mut out = Vec::new();
     if !dir.exists() {
@@ -143,6 +147,8 @@ fn records_for_dir(
             let url = url_template
                 .replace("{slug}", &meta.doc_slug)
                 .replace("{frag}", &r.fragment);
+            let this_ord = *ord;
+            *ord += 1;
             out.push(SearchRecord {
                 // Meilisearch document ids allow only [a-zA-Z0-9_-]. doc_slug, fragment and
                 // language never contain `_`, so it is an unambiguous separator.
@@ -151,6 +157,7 @@ fn records_for_dir(
                 doc: meta.doc.clone(),
                 doc_slug: meta.doc_slug.clone(),
                 doctype: meta.doctype.clone(),
+                ord: this_ord,
                 page_refs: r.page_refs,
                 fragment: r.fragment,
                 url,
@@ -185,8 +192,20 @@ fn indexable_files(dir: &Path) -> Result<Vec<PathBuf>, String> {
             name.ends_with(".md") && !name.starts_with("W-") && !skip.contains(&name)
         })
         .collect();
-    files.sort();
+    // Document order, not lexicographic: Ms before Ts, numeric within (Ms-9 before Ms-10),
+    // letter suffixes last (Ts-227a before Ts-227b). This is what `ord` records.
+    files.sort_by(|a, b| doc_order_key(a).cmp(&doc_order_key(b)));
     Ok(files)
+}
+
+/// Sort key for a document file: (prefix, number, suffix), e.g. `Ms-227a` -> ("Ms", 227, "a").
+/// Sorting tuples gives Ms before Ts, numeric order within a prefix, and suffixed docs last.
+fn doc_order_key(path: &Path) -> (String, u64, String) {
+    let stem = path.file_stem().and_then(|s| s.to_str()).unwrap_or("");
+    let (prefix, rest) = stem.split_once('-').unwrap_or((stem, ""));
+    let digits: String = rest.chars().take_while(|c| c.is_ascii_digit()).collect();
+    let num = digits.parse().unwrap_or(0);
+    (prefix.to_string(), num, rest[digits.len()..].to_string())
 }
 
 /// Read the German Work files (`W-*.md`) used to build the work-association map.

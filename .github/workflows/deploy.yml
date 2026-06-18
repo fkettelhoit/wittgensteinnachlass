@@ -18,6 +18,7 @@ name: Build and deploy
 #   BUNNY_API_KEY          account-level API key (for the cache purge)
 #   MEILI_HOST             the (single) Meilisearch instance URL
 #   MEILI_ADMIN_KEY        Meilisearch write key (shared; swap for per-env scoped keys later)
+#   MEILI_SEARCH_KEY       Meilisearch read-only search key, embedded in the /search page
 # Environment secrets (set in BOTH the `production` and `staging` environments, each with
 # that environment's own values):
 #   BUNNY_STORAGE_USER     the storage zone name
@@ -147,6 +148,14 @@ jobs:
           xvfb-run -a make -j"$(nproc)" viz covers epub pdf
 
       - name: Build content and Hugo site
+        # Bake the per-environment search config into the build. Hugo maps HUGO_PARAMS_* env
+        # vars onto .Site.Params (lowercased), so the /search page and /js/search.js get the
+        # instance URL, the read-only search key, and the branch's index — no os.Getenv (and
+        # thus no Hugo security allowlist) needed.
+        env:
+          HUGO_PARAMS_MEILIHOST: ${{ secrets.MEILI_HOST }}
+          HUGO_PARAMS_MEILISEARCHKEY: ${{ secrets.MEILI_SEARCH_KEY }}
+          HUGO_PARAMS_MEILIINDEX: ${{ github.ref == 'refs/heads/main' && 'remarks-production' || 'remarks-staging' }}
         run: |
           set -euo pipefail
           make content
