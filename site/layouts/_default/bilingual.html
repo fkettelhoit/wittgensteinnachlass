@@ -4,12 +4,10 @@
 {{ if $hasRemarks }}
 <main>
   {{ $c := .Content }}
-  {{ if ne hugo.Environment "production" }}
-    {{ $stem := .File.ContentBaseName }}
-    {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
-    {{ $switcher := printf `</h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` (.File.ContentBaseName | urlize) $downloads }}
-    {{ $c = replace $c "</h1>" $switcher 1 }}
-  {{ end }}
+  {{ $stem := .File.ContentBaseName }}
+  {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
+  {{ $switcher := printf `</h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` (.File.ContentBaseName | urlize) $downloads }}
+  {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
   {{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
   {{ $c = replace $c "</div></section><section>" "<section>" 1 }}
@@ -51,7 +49,12 @@
 </main>
 {{ else }}
 <main>
-  {{ partial "viz-lightbox.html" .Content | safeHTML }}
+  {{ $c := .Content }}
+  {{ $stem := .File.ContentBaseName }}
+  {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
+  {{ $switcher := printf `</h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` ($stem | urlize) $downloads }}
+  {{ $c = replace $c "</h1>" $switcher 1 }}
+  {{ partial "viz-lightbox.html" $c | safeHTML }}
 </main>
 {{ end }}
 {{ partial "footer.html" }}
