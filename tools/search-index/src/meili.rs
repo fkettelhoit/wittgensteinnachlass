@@ -163,8 +163,13 @@ fn settings() -> Value {
         // works (`works.code EXISTS`) or a specific work (`works.code = "W-RFM"`); no UI yet.
         "filterableAttributes": ["language", "doctype", "doc", "doc_slug", "date_sort", "works.code"],
         "sortableAttributes": ["date_sort"],
-        // German compounds are long, so keep the two-typo threshold high to avoid noise.
-        "typoTolerance": { "minWordSizeForTypos": { "oneTypo": 5, "twoTypos": 9 } },
+        // Relevance, then document + page order (`ord`) breaks every remaining tie.
+        // `attribute`/`exactness` omitted: both boost the term's position within the remark,
+        // which fights document order. `sort` is an inert hook for a future date sort.
+        "rankingRules": ["words", "typo", "proximity", "sort", "ord:asc"],
+        // Tight: short query words (e.g. surnames like "Gödel") must match exactly, so they
+        // don't fuzzy-match unrelated words ("Gobelin"). Prefix completion still works.
+        "typoTolerance": { "minWordSizeForTypos": { "oneTypo": 8, "twoTypos": 12 } },
         // Conservative stop-word list: function words can be load-bearing in a philosophy
         // corpus ("das Wort 'ist'"), so under-stop rather than over-stop. Tunable later.
         "stopWords": [

@@ -98,37 +98,16 @@
     );
   }
 
-  function escRe(s) {
-    return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-  }
-
-  // Exact = the query occurs as a whole word/phrase (Unicode-aware, so "ich" is not exact
-  // inside "nicht"). Used only to group results, not to filter them.
-  function isExact(hit, q) {
-    var content = hit.content || "";
-    try {
-      return new RegExp("(^|[^\\p{L}\\p{N}])" + escRe(q) + "([^\\p{L}\\p{N}]|$)", "iu").test(
-        content,
-      );
-    } catch (e) {
-      return content.toLowerCase().indexOf(q.toLowerCase()) !== -1;
-    }
-  }
-
   function render(data, q) {
-    var hits = (data.hits || []).slice();
+    // Rendered in Meilisearch relevance order; the index breaks ties by document + page
+    // order (the `ord:asc` ranking rule), so no client-side sorting is needed.
+    var hits = data.hits || [];
     if (!hits.length) {
       status.textContent = "No results for “" + q + "”.";
       results.innerHTML = "";
       lightboxes.innerHTML = "";
       return;
     }
-    // Exact matches first; within each group, document + page order (the indexer's `ord`).
-    for (var i = 0; i < hits.length; i++) hits[i]._exact = isExact(hits[i], q);
-    hits.sort(function (a, b) {
-      if (a._exact !== b._exact) return a._exact ? -1 : 1;
-      return (a.ord || 0) - (b.ord || 0);
-    });
     var total = data.estimatedTotalHits || hits.length;
     status.textContent =
       total > hits.length
