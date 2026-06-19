@@ -46,30 +46,28 @@
     return m ? m[1] + "-" + m[2] : null;
   }
 
-  // Left margin only: the document name links to the remark; the page reference opens the
-  // facsimile as a lightbox overlay on THIS page (the lightbox divs are injected by render()).
+  // Left margin only: the works (if any) and the document name, comma-separated, linked to the
+  // remark on the document page; the page reference opens the facsimile lightbox on THIS page.
   function resultHtml(hit) {
     var url = esc(hit.url);
-    var doc = esc(hit.doc);
+    // Separate links: the document (→ the remark on its page), then each work it was published
+    // in (→ the remark within that work, e.g. /w-rfm-3/#…). Label and URL come from the index
+    // exactly as the document pages show them (e.g. "RFM III"). Joined with " &<nbsp>": the
+    // break can only happen before the "&" (normal space), so "& RFM III" wraps together.
+    var parts = ['<a href="' + url + '">' + esc(hit.doc) + "</a>"];
+    (hit.works || []).forEach(function (w) {
+      if (!w || !w.url) return; // tolerate the pre-reindex format
+      parts.push('<a href="' + esc(w.url) + '">' + esc(w.label || w.code || "") + "</a>");
+    });
     var refs = esc((hit.page_refs || [])[0] || "");
     var fid = facId(hit);
     var facHref = fid ? "#fac-" + esc(fid) : url;
     var snippet = highlight((hit._formatted && hit._formatted.content) || hit.content || "");
     return (
       '<article class="search-result">' +
-      '<h3><a href="' +
-      url +
-      '">' +
-      doc +
-      "</a></h3>" +
-      '<span class="fac"><a href="' +
-      facHref +
-      '">' +
-      refs +
-      "</a></span>" +
-      "<div><p>" +
-      snippet +
-      "</p></div>" +
+      "<h3>" + parts.join(" &amp;&nbsp;") + "</h3>" +
+      '<span class="fac"><a href="' + facHref + '">' + refs + "</a></span>" +
+      "<div><p>" + snippet + "</p></div>" +
       "</article>"
     );
   }

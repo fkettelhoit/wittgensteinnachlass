@@ -159,7 +159,9 @@ fn task_uid(v: &Value) -> Result<u64, String> {
 fn settings() -> Value {
     json!({
         "searchableAttributes": ["content", "page_refs", "doc"],
-        "filterableAttributes": ["language", "doctype", "doc", "doc_slug", "works", "date_sort"],
+        // `works.code` (nested) is filterable so results can later be restricted to published
+        // works (`works.code EXISTS`) or a specific work (`works.code = "W-RFM"`); no UI yet.
+        "filterableAttributes": ["language", "doctype", "doc", "doc_slug", "date_sort", "works.code"],
         "sortableAttributes": ["date_sort"],
         // German compounds are long, so keep the two-typo threshold high to avoid noise.
         "typoTolerance": { "minWordSizeForTypos": { "oneTypo": 5, "twoTypos": 9 } },

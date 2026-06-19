@@ -16,6 +16,7 @@
 //! bilingual page reuses the German heading, so the same fragment slug is correct for both
 //! languages — English records only differ by the `/en/` URL prefix and the content.
 
+use crate::record::WorkLink;
 use crate::slug;
 use regex::Regex;
 use std::collections::HashMap;
@@ -24,7 +25,7 @@ use std::collections::HashMap;
 pub struct Res {
     fac_span: Regex,
     link: Regex,
-    doc_link: Regex,
+    work_link: Regex,
     date: Regex,
     explicit_id: Regex,
     series: Regex,
@@ -46,8 +47,9 @@ impl Res {
             // brackets (`1r\[2\]`); the real closing `]` is the one followed by `(`, which
             // the non-greedy `.*?` finds correctly.
             link: Regex::new(r"\[(.*?)\]\(([^)]*)\)").unwrap(),
-            // A document link in a Work-file heading: `[Ts-227b](/ts-227b/#1.1)`.
-            doc_link: Regex::new(r"\[[^\]]+\]\(/([^/#)]+)/").unwrap(),
+            // A work link in a document heading: `[RFM III](/w-rfm-3/#ms-122-5r.2+5v.1)`.
+            // Captures the display label and the work URL (which starts with `/w-`).
+            work_link: Regex::new(r"\[([^\]]+)\]\((/w-[^)]+)\)").unwrap(),
             // A standalone written-date line, `DD.MM.YYYY`.
             date: Regex::new(r"^(\d{2})\.(\d{2})\.(\d{4})$").unwrap(),
             // Explicit Goldmark heading-ID attribute, e.g. `… </span> {#802811821}`. Present on
@@ -88,6 +90,7 @@ pub struct Remark {
     pub date_sort: Option<u64>,
     pub series_number: Option<String>,
     pub content: String,
+    pub works: Vec<WorkLink>,
 }
 
 /// Read `# Title` from the preamble and derive the document name, slug and type.
@@ -269,50 +272,35 @@ pub fn parse_file(content: &str, res: &Res) -> Option<(DocMeta, Vec<Remark>)> {
             date_sort,
             series_number,
             content,
+            works: parse_works(&heading, res),
         });
     }
 
     Some((meta, remarks))
 }
 
-/// Build the `(doc_slug, fragment) -> work codes` map from the German Work files (`W-*.md`).
-/// Each Work-file heading links back to its source document and carries the same facsimile
-/// references as that document's remark, so we can resolve which work(s) a remark belongs to
-/// without duplicating any text. Returns sorted, de-duplicated work codes per remark.
-pub fn build_works_map(work_files: &[(String, String)], res: &Res) -> HashMap<(String, String), Vec<String>> {
-    let mut map: HashMap<(String, String), Vec<String>> = HashMap::new();
-    for (stem, content) in work_files {
-        let work_id = work_code(stem);
-        for (heading, _) in remark_blocks(content) {
-            let doc_slug = match res.doc_link.captures(&heading) {
-                Some(c) => c[1].to_string(),
-                None => continue,
-            };
-            let (page_refs, _) = parse_fac(&heading, res);
-            if page_refs.is_empty() {
-                continue;
-            }
-            let fragment = slug::github_slug(&page_refs.concat());
-            if fragment.is_empty() {
-                continue;
-            }
-            let entry = map.entry((doc_slug, fragment)).or_default();
-            if !entry.contains(&work_id) {
-                entry.push(work_id.clone());
-            }
-        }
+/// Extract the works a remark is published in straight from its document heading, e.g.
+/// `### [RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">…</span>`. This gives exactly
+/// the label and link the document pages show. The URL's fragment has its `.`/`+` stripped to
+/// match Hugo's rendered anchor (the `single.html`/`bilingual.html` templates do the same).
+fn parse_works(heading: &str, res: &Res) -> Vec<WorkLink> {
+    let mut out = Vec::new();
+    for cap in res.work_link.captures_iter(heading) {
+        let label = cap[1].to_string();
+        let url = cap[2].replace('.', "").replace('+', "");
+        // Work-level code (for filtering) from the part slug, e.g. "/w-rfm-3/…" -> "W-RFM".
+        let slug = url.trim_start_matches('/').split('/').next().unwrap_or("");
+        let code = work_code(&slug.to_uppercase());
+        out.push(WorkLink { code, label, url });
     }
-    for codes in map.values_mut() {
-        codes.sort();
-    }
-    map
+    out
 }
 
-/// Collapse a Work-file stem to its work code: multi-part works like `W-RFM-1`..`W-RFM-7`
-/// belong to the single work `W-RFM`; plain codes like `W-PI` are unchanged.
+/// The base work code for a Work-file stem: the leading `W-<letters>`, dropping any part /
+/// appendix suffix. `W-RFM-3` -> `W-RFM`, `W-PG-1-App-4` -> `W-PG`, `W-PI` -> `W-PI`.
 fn work_code(stem: &str) -> String {
-    let part = Regex::new(r"^(W-[A-Za-z]+)-\d+$").unwrap();
-    match part.captures(stem) {
+    let base = Regex::new(r"^(W-[A-Za-z]+)").unwrap();
+    match base.captures(stem) {
         Some(c) => c[1].to_string(),
         None => stem.to_string(),
     }
@@ -392,16 +380,28 @@ Nach meinem Tod zu senden
     }
 
     #[test]
-    fn works_map_resolves_doc_and_fragment() {
+    fn parse_works_uses_the_doc_heading_label_and_part_link() {
         let res = Res::new();
-        let w = "# Philosophische Untersuchungen\n\n### [Ts-227b](/ts-227b/#1.1) <span class=\"fac\">[1\\[1\\]](https://cdn/webp/Ts-227b/1.webp)</span> {#ts-227b-11}\n\nVorwort\n".to_string();
-        let map = build_works_map(&[("W-PI".to_string(), w)], &res);
-        assert_eq!(map.get(&("ts-227b".to_string(), "11".to_string())), Some(&vec!["W-PI".to_string()]));
+        // A document heading for a remark published in RFM part III.
+        let heading = r#"[RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">[5r\[2\]](u/Ms-122/5r.webp)</span> {#5r25v1}"#;
+        let works = parse_works(heading, &res);
+        assert_eq!(works.len(), 1);
+        assert_eq!(works[0].label, "RFM III"); // exactly as the doc page shows it
+        assert_eq!(works[0].code, "W-RFM"); // collapsed work code, for filtering
+        assert_eq!(works[0].url, "/w-rfm-3/#ms-122-5r25v1"); // part page, dots/plus stripped
+    }
+
+    #[test]
+    fn parse_works_empty_for_unpublished_heading() {
+        let res = Res::new();
+        let heading = r#"<span class="fac">[1r\[1\]](u/Ms-101/1r.webp)</span>"#;
+        assert!(parse_works(heading, &res).is_empty());
     }
 
     #[test]
     fn work_code_collapses_parts() {
         assert_eq!(work_code("W-RFM-7"), "W-RFM");
+        assert_eq!(work_code("W-PG-1-App-4"), "W-PG");
         assert_eq!(work_code("W-PI"), "W-PI");
         assert_eq!(work_code("W-OC"), "W-OC");
     }

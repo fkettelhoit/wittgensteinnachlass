@@ -83,10 +83,9 @@ fn main() {
     }
 }
 
-/// Walk both markdown directories, extract every indexable remark, and stamp work codes.
+/// Walk both markdown directories and extract every indexable remark (works are read from the
+/// document headings as the remarks are parsed).
 fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
-    let works = parse::build_works_map(&read_work_files(&cli.md_dir)?, res);
-
     // A single counter across both passes; each pass walks files in document order and remarks
     // in page order, so `ord` increases with (document, page) within each language.
     let mut ord: u32 = 0;
@@ -94,13 +93,7 @@ fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
     records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res, &mut ord)?);
     records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res, &mut ord)?);
 
-    let mut with_works = 0usize;
-    for r in &mut records {
-        if let Some(codes) = works.get(&(r.doc_slug.clone(), r.fragment.clone())) {
-            r.works = codes.clone();
-            with_works += 1;
-        }
-    }
+    let with_works = records.iter().filter(|r| !r.works.is_empty()).count();
 
     // Fail fast (also in --dry-run) if any primary key would be rejected by Meilisearch,
     // which only accepts ids composed of [a-zA-Z0-9_-].
@@ -166,7 +159,7 @@ fn records_for_dir(
                 date_sort: r.date_sort,
                 series_number: r.series_number,
                 content: r.content,
-                works: Vec::new(),
+                works: r.works,
             });
         }
     }
@@ -206,21 +199,6 @@ fn doc_order_key(path: &Path) -> (String, u64, String) {
     let digits: String = rest.chars().take_while(|c| c.is_ascii_digit()).collect();
     let num = digits.parse().unwrap_or(0);
     (prefix.to_string(), num, rest[digits.len()..].to_string())
-}
-
-/// Read the German Work files (`W-*.md`) used to build the work-association map.
-fn read_work_files(md_dir: &Path) -> Result<Vec<(String, String)>, String> {
-    let mut out = Vec::new();
-    for entry in fs::read_dir(md_dir).map_err(|e| format!("reading dir {}: {e}", md_dir.display()))? {
-        let path = entry.map_err(|e| e.to_string())?.path();
-        let name = path.file_name().and_then(|n| n.to_str()).unwrap_or("").to_string();
-        if name.starts_with("W-") && name.ends_with(".md") {
-            let stem = name.trim_end_matches(".md").to_string();
-            let content = fs::read_to_string(&path).map_err(|e| e.to_string())?;
-            out.push((stem, content));
-        }
-    }
-    Ok(out)
 }
 
 /// Cross-check every record's deep-link anchor against the rendered Hugo page it points at.
