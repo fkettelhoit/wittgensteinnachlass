@@ -1087,6 +1087,15 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
     if old_de == new_de {
         return None;
     }
+    // Markdown-escape-only change: the sanitizer toggled a line-leading `>` to `\>`
+    // (or back) so it no longer renders as a stray blockquote. This is punctuation
+    // `check` flags as stale, so mirror the same toggle on the English. If the
+    // English has no matching line-leading `>` to fix (it dropped or never had it),
+    // return None so the change is retranslated rather than silently passed.
+    if let Some(escape_added) = leading_gt_escape_only_change(old_de, new_de) {
+        let new_en = toggle_leading_gt_escape(old_en, escape_added);
+        return (new_en != old_en).then_some(new_en);
+    }
     // Try prefix fix: find longest common tail, check if head is non-word
     let tail_len = common_byte_suffix_len(old_de, new_de);
     if tail_len > 0 {
@@ -1117,6 +1126,37 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
         }
     }
     None
+}
+
+/// Detect whether the only difference between two German bodies is the escaping of
+/// line-leading `>` markers (`>` ⇄ `\>`). Returns Some(true) if escaping was added,
+/// Some(false) if removed, None if anything else also changed.
+fn leading_gt_escape_only_change(old_de: &str, new_de: &str) -> Option<bool> {
+    if old_de == new_de {
+        return None;
+    }
+    let re = Regex::new(r"(?m)^\\>").unwrap();
+    // Bodies must be identical once leading `\>` is normalized back to `>`.
+    if re.replace_all(old_de, ">") != re.replace_all(new_de, ">") {
+        return None;
+    }
+    let old_n = re.find_iter(old_de).count();
+    let new_n = re.find_iter(new_de).count();
+    match new_n.cmp(&old_n) {
+        std::cmp::Ordering::Greater => Some(true),
+        std::cmp::Ordering::Less => Some(false),
+        std::cmp::Ordering::Equal => None,
+    }
+}
+
+/// Apply the leading-`>` escape toggle to a body: escape every line-leading `>` to
+/// `\>` when `add` is true, or unescape `\>` back to `>` when false.
+fn toggle_leading_gt_escape(body: &str, add: bool) -> String {
+    if add {
+        Regex::new(r"(?m)^>").unwrap().replace_all(body, r"\>").into_owned()
+    } else {
+        Regex::new(r"(?m)^\\>").unwrap().replace_all(body, ">").into_owned()
+    }
 }
 
 /// Check if a string contains no alphabetic characters outside HTML tags.
@@ -1338,4 +1378,51 @@ pub fn build_reuse_map(german_path: &Path, english_path: &Path) -> ReuseMap {
         count += 1;
     }
     ReuseMap { entries, len: count }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    // Ts-222 class: the German `>` was escaped to `\>`; the English still has the
+    // unescaped `>` and must get the same escape (else it renders as a blockquote).
+    #[test]
+    fn auto_fix_escapes_leading_gt_in_english() {
+        let old_de = "Text.\n\n> Bd. XII S. 103/1]";
+        let new_de = "Text.\n\n\\> Bd. XII S. 103/1]";
+        let old_en = "Text.\n\n> Vol. XII p. 103/1]";
+        assert_eq!(
+            try_auto_fix_remark(old_de, new_de, old_en).as_deref(),
+            Some("Text.\n\n\\> Vol. XII p. 103/1]")
+        );
+    }
+
+    // Ms-144 class: the English dropped the standalone `>` line, so there is nothing
+    // to mechanically fix — must fall through to retranslation, not silently pass.
+    #[test]
+    fn auto_fix_declines_when_english_has_no_leading_gt() {
+        let old_de = "Text.\n\n>";
+        let new_de = "Text.\n\n\\>";
+        let old_en = "Text.";
+        assert_eq!(try_auto_fix_remark(old_de, new_de, old_en), None);
+    }
+
+    // Unescaping (the reverse toggle) propagates to the English too.
+    #[test]
+    fn auto_fix_unescapes_leading_gt_in_english() {
+        let old_de = "Text.\n\n\\> ref]";
+        let new_de = "Text.\n\n> ref]";
+        let old_en = "Text.\n\n\\> ref]";
+        assert_eq!(
+            try_auto_fix_remark(old_de, new_de, old_en).as_deref(),
+            Some("Text.\n\n> ref]")
+        );
+    }
+
+    // A change that is not purely leading-`>` escaping is not treated as one.
+    #[test]
+    fn escape_detector_rejects_word_changes() {
+        assert_eq!(leading_gt_escape_only_change("a > x", "a > y"), None);
+        assert_eq!(leading_gt_escape_only_change("\\> a", "\\> b"), None);
+    }
 }
