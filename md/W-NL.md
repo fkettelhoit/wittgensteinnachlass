@@ -456,7 +456,7 @@ When we say “A believes _p_”, this sounds, it is true, as if here we could s
 
 <math display="block">
   <mo>[</mo>
-  <mtext>graphics_</mtext>
+  <mtext>graphics&#95;</mtext>
   <mtext>Zeichen;</mtext>
   <mspace width="0.3em"/>
   <mtext>Struktur]</mtext>
@@ -570,7 +570,7 @@ VI. Types.
 
 <math display="block">
   <mo>[</mo>
-  <mtext>graphics_</mtext>
+  <mtext>graphics&#95;</mtext>
   <mtext>Klammern;</mtext>
   <mspace width="0.3em"/>
   <mtext>Klammernotation</mtext>
@@ -586,7 +586,7 @@ This is the symbol for ~p ⌵ ~q
 
 <math display="block">
   <mo>[</mo>
-  <mtext>graphics_</mtext>
+  <mtext>graphics&#95;</mtext>
   <mtext>Zeichen;</mtext>
   <mspace width="0.3em"/>
   <mtext>Struktur]</mtext>

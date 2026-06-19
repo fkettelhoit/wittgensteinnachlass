@@ -4,9 +4,14 @@ title = "Wittgenstein\u2019s Writings"
 
 disableKinds = ['taxonomy', 'term']
 
+# Transcriptions are plain prose + raw HTML; disable GFM extensions whose syntax
+# (|, bare URLs, [ ]) collides with Wittgenstein's notation. See tools/sanitize_content.py.
 [markup.goldmark.extensions]
 typographer = false
 strikethrough = false
+table = false
+linkify = false
+taskList = false
 
 [markup.goldmark.renderer]
 unsafe = true

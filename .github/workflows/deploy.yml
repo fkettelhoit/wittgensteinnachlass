@@ -161,6 +161,11 @@ jobs:
           make content
           hugo -s site -e production
 
+      # Gate the deploy on rendering quality: fail before publishing if any page
+      # shows truncation, emphasis leaking into <math>, or a stray <blockquote>.
+      - name: Verify rendering
+        run: make check-render
+
       - name: Deploy to Bunny
         env:
           BUNNY_STORAGE_HOST: ${{ secrets.BUNNY_STORAGE_HOST }}

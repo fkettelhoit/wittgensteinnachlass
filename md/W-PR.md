@@ -3377,7 +3377,7 @@ Es heißt nicht “unter _allen_ Punkten gibt es nur einen worin sie die Gerade 
 
 ### [Ts-209](/ts-209/#90.5) <span class="fac">[90\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/90.webp)</span> {#ts-209-905}
 
-<span class="series-number">173</span> Wie ist es dann aber mit einer richtigen – nicht amorphen – Erklärung des <math class="stacked" display="inline"><msub><mi>R</mi><mtext>*</mtext></msub></math>? Hier brauche ich doch “(n) …”. In diesem Falle scheint dieser Ausdruck erlaubt zu sein. Es sagt ja aber “(∃x)․Fx” auch “es gibt eine Anzahl von x die Fx genügen” und doch darf der Ausdruck “(∃x)․Fx” nicht die Gesamtheit der Zahlen voraussetzen.
+<span class="series-number">173</span> Wie ist es dann aber mit einer richtigen – nicht amorphen – Erklärung des <math class="stacked" display="inline"><msub><mi>R</mi><mtext>&#42;</mtext></msub></math>? Hier brauche ich doch “(n) …”. In diesem Falle scheint dieser Ausdruck erlaubt zu sein. Es sagt ja aber “(∃x)․Fx” auch “es gibt eine Anzahl von x die Fx genügen” und doch darf der Ausdruck “(∃x)․Fx” nicht die Gesamtheit der Zahlen voraussetzen.
 
 ### [Ts-209](/ts-209/#90.6) <span class="fac">[90\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/90.webp)</span> {#ts-209-906}
 

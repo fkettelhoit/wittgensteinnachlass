@@ -368,7 +368,7 @@ Ebenso: Die Aussage “Ich glaube, es wird regnen” hat einen ähnlichen Sinn, 
 
 “Im Grunde beschreibe ich mit den Worten ‘Ich glaube …’ den eigenen Geisteszustand, – aber diese Beschreibung ist hier indirekt eine Behauptung des geglaubten Tatbestandes selbst.” – Wie ich, unter Umständen, eine Photographie beschreibe, um das zu beschreiben, wovon sie eine Aufnahme ist. Aber dann muß ich noch sagen können, daß die Photographie eine gute Aufnahme ist. Also auch: “Ich glaube, daß es regnet, & mein Glaube ist verläßlich, also verlasse ich mich auf ihn.” – Dann wäre mein Glaube eine Art Sinneseindruck.
 
->
+\>
 
 ### [Ms-144](/ms-144/#21v.6) <span class="fac">[21v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21v6}
 

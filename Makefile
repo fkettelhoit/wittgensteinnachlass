@@ -9,7 +9,7 @@ COVERS_FONT_DIR ?= ../../../sangbleu/web files
 # resolves SangBleu via fontconfig (headless Linux rejects @font-face file:// rules).
 COVERS_FLAGS ?=
 
-.PHONY: all site quick serve deploy fix translate verify check viz covers epub pdf content hugo graphics index clean check-fonts
+.PHONY: all site quick serve deploy fix translate verify check check-render viz covers epub pdf content hugo graphics index clean check-fonts
 
 all: site
 
@@ -83,6 +83,11 @@ content:
 # Hugo build (needs content + all assets for mounts)
 hugo: content viz covers epub pdf
 	hugo -s site
+
+# Fail the build on any rendering defect (truncation, emphasis leaking into <math>,
+# stray <blockquote>). Reads the built site/public; run after `make hugo`/`quick`.
+check-render:
+	python3 tools/verify_render.py
 
 # Push every remark to Meilisearch (full atomic reindex via index swap). Reads
 # MEILI_HOST / MEILI_ADMIN_KEY / MEILI_INDEX_PREFIX from the environment or the git-ignored
