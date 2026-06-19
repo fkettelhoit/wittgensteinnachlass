@@ -178,6 +178,7 @@
   --color-text: #444;
   --color-link: #000;
   --color-margin: #bbb;
+  --color-translation: #777;
   --color-heading: #000;
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
@@ -745,15 +746,14 @@ body.bilingual .title-row {
   gap: 0 2rem;
 }
 
-/* English title: muted grey both in the two-column header and in the single-column
-   index combined title (German title / line break / grey English title). */
+body.bilingual .en h2,
 .en-title {
-  color: var(--color-margin);
+  color: var(--color-translation);
 }
 
 body.bilingual .en,
 body.bilingual .en a {
-  color: var(--color-margin);
+  color: var(--color-translation);
 }
 
 body.bilingual .en a:hover {
@@ -826,7 +826,7 @@ body.bilingual footer {
 
   body.bilingual section > h3 {
     display: inline;
-    color: var(--color-margin);
+    color: var(--color-translation);
     font-style: italic;
     text-align: left;
   }
@@ -860,7 +860,7 @@ body.bilingual footer {
 
   body.bilingual section > h3 {
     grid-column: 1;
-    color: var(--color-margin);
+    color: var(--color-translation);
     text-align: right;
     align-self: start;
   }
@@ -1027,9 +1027,8 @@ body.bilingual footer {
   margin: 0;
 }
 
-/* English results use the same muted grey as the English column on the bilingual pages. */
 .search-result > div.en > p {
-  color: var(--color-margin);
+  color: var(--color-translation);
 }
 
 /* Matched terms, in the covers' amber. */
