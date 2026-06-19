@@ -6,6 +6,7 @@ mod slug;
 use clap::Parser;
 use parse::Res;
 use record::SearchRecord;
+use std::collections::HashSet;
 use std::fs;
 use std::path::{Path, PathBuf};
 use std::process::exit;
@@ -90,8 +91,11 @@ fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
     // in page order, so `ord` increases with (document, page) within each language.
     let mut ord: u32 = 0;
     let mut records = Vec::new();
-    records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res, &mut ord)?);
-    records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res, &mut ord)?);
+    // Index only the home-page fragment: the documents linked from all.md, which is exactly
+    // what the translate tool processes (mirrors its parse_index_order).
+    let fragment = fragment_docs(&cli.md_dir)?;
+    records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res, &mut ord, fragment.as_ref())?);
+    records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res, &mut ord, fragment.as_ref())?);
 
     let with_works = records.iter().filter(|r| !r.works.is_empty()).count();
 
@@ -114,13 +118,14 @@ fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
     Ok(records)
 }
 
-/// Extract records from every indexable file in a directory.
+/// Extract records from a directory's indexable files, optionally only those named in `only`.
 fn records_for_dir(
     dir: &Path,
     language: &str,
     url_template: &str,
     res: &Res,
     ord: &mut u32,
+    only: Option<&HashSet<String>>,
 ) -> Result<Vec<SearchRecord>, String> {
     let mut out = Vec::new();
     if !dir.exists() {
@@ -128,6 +133,12 @@ fn records_for_dir(
         return Ok(out);
     }
     for path in indexable_files(dir)? {
+        if let Some(only) = only {
+            let name = path.file_name().and_then(|n| n.to_str()).unwrap_or("");
+            if !only.contains(name) {
+                continue;
+            }
+        }
         let content = fs::read_to_string(&path)
             .map_err(|e| format!("reading {}: {e}", path.display()))?;
         let Some((meta, remarks)) = parse::parse_file(&content, res) else {
@@ -164,6 +175,27 @@ fn records_for_dir(
         }
     }
     Ok(out)
+}
+
+/// The document fragment to index: file names linked from `<md_dir>/all.md` (excluding `W-`
+/// works) — the curated set the home page exposes and the translate tool translates. Returns
+/// `None` (index everything) when all.md is absent, mirroring the translate tool's fallback.
+fn fragment_docs(md_dir: &Path) -> Result<Option<HashSet<String>>, String> {
+    let path = md_dir.join("all.md");
+    let Ok(content) = fs::read_to_string(&path) else {
+        eprintln!("warning: {} not found — indexing all documents.", path.display());
+        return Ok(None);
+    };
+    let re = regex::Regex::new(r"\]\(([^)]+\.md)\)").unwrap();
+    let docs: HashSet<String> = re
+        .captures_iter(&content)
+        .map(|c| c[1].to_string())
+        .filter(|f| !f.starts_with("W-"))
+        .collect();
+    if docs.is_empty() {
+        return Err(format!("no document links found in {}", path.display()));
+    }
+    Ok(Some(docs))
 }
 
 /// Indexable document files: `.md`, excluding Work files and the aggregate/navigation pages.
