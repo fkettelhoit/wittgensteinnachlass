@@ -1,4 +1,4 @@
-# Bemerkungen über die Philosophie der Psychologie – I
+# Remarks on the Philosophy of Psychology – I
 
 <details>
 

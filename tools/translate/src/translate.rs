@@ -913,6 +913,7 @@ pub fn run(args: &TranslateArgs) {
     // Assemble works from current translations
     if !work_files.is_empty() {
         let url_map = build_remark_url_map(&args.output, &args.input);
+        let base_titles = build_base_titles(&work_titles, &args.input);
         let mut assembled = 0;
         for filename in &work_files {
             let work_path = args.input.join(filename);
@@ -929,12 +930,7 @@ pub fn run(args: &TranslateArgs) {
             // need their preamble (title + part links) rewritten for English.
             if all_translated {
                 let out_path = args.output.join(filename);
-                let missing = assemble_work(
-                    &work_path,
-                    &url_map,
-                    &out_path,
-                    work_titles.get(filename).map(|s| s.as_str()),
-                );
+                let missing = assemble_work(&work_path, &url_map, &out_path, &base_titles);
                 assembled += 1;
                 if missing > 0 {
                     eprintln!(
@@ -1421,6 +1417,7 @@ pub fn run(args: &TranslateArgs) {
     } else {
         eprintln!("\nAssembling {} work file(s)...", work_files.len());
         let url_map = build_remark_url_map(&args.output, &args.input);
+        let base_titles = build_base_titles(&work_titles, &args.input);
 
         for filename in &work_files {
             let work_path = args.input.join(filename);
@@ -1430,12 +1427,7 @@ pub fn run(args: &TranslateArgs) {
                 continue;
             }
             eprint!("  {}...", filename);
-            let missing = assemble_work(
-                &work_path,
-                &url_map,
-                &out_path,
-                work_titles.get(filename).map(|s| s.as_str()),
-            );
+            let missing = assemble_work(&work_path, &url_map, &out_path, &base_titles);
             if missing > 0 {
                 eprintln!(" done ({} remarks missing translations)", missing);
             } else {

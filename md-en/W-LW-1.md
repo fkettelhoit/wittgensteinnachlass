@@ -1,4 +1,4 @@
-# Letzte Schriften über die Philosophie der Psychologie – I
+# Last Writings on the Philosophy of Psychology – I
 
 <details>
 

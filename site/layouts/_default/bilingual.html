@@ -6,12 +6,17 @@
   {{ $c := .Content }}
   {{ $stem := .File.ContentBaseName }}
   {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
-  {{ $switcher := printf `</h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` (.File.ContentBaseName | urlize) $downloads }}
+  {{ $enTitle := "" }}
+  {{ if and .Params.entitle (ne .Params.entitle .Title) }}
+    {{ $enTitle = printf `<h1 class="en-title" lang="en">%s</h1>` .Params.entitle }}
+  {{ end }}
+  {{ $switcher := printf `</h1>%s</div><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` $enTitle (.File.ContentBaseName | urlize) $downloads }}
+  {{ $c = replace $c `<h1` `<div class="title-row"><h1 class="de-title" lang="de"` 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
   {{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
   {{ $c = replace $c "</div></section><section>" "<section>" 1 }}
-  {{ $disclaimer := `<div class="disclaimer"><p><strong>This translation may contain errors!</strong><br><strong>Do not quote from or cite this translation!</strong><br>The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.</p></div>` }}
+  {{ $disclaimer := `<div class="disclaimer"><div class="disclaimer-note">The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.</div><div class="disclaimer-warning"><strong>This translation may contain errors!</strong><br><strong>Do not quote from or cite this translation!</strong></div></div>` }}
   {{ $c = replace $c "<section>" (printf "%s<section>" $disclaimer) 1 }}
   {{ $c = replaceRE `</a>,<a` ` &amp;</a><br><a` $c }}
   {{/* Rewrite readable fragment IDs (e.g. #1.1, #1r.1+2r.1) in internal links
@@ -52,7 +57,8 @@
   {{ $c := .Content }}
   {{ $stem := .File.ContentBaseName }}
   {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
-  {{ $switcher := printf `</h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` ($stem | urlize) $downloads }}
+  {{ $switcher := printf `</span></h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` ($stem | urlize) $downloads }}
+  {{ $c = replaceRE `(<h1[^>]*>)` (printf `${1}%s<br><span class="en-title">` .Title) $c 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ partial "viz-lightbox.html" $c | safeHTML }}
 </main>

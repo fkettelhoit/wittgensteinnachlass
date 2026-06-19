@@ -1,4 +1,4 @@
-# Bemerkungen über die Farben – I
+# Remarks on Colour – I
 
 <details>
 

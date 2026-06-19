@@ -861,11 +861,53 @@ pub fn parse_work_titles(index_content: &str) -> HashMap<String, String> {
     map
 }
 
-/// Rewrite an overview page's preamble for the English edition: translate the title
-/// and the part-link labels (German base title → English base title, keeping the
-/// structural suffix like " – I App I"), and point the links at the English pages
-/// (`/w-rfm-1/` → `/en/w-rfm-1/`).
-fn rewrite_overview_preamble(preamble: &str, en_title: &str) -> String {
+/// Build (de_base_title, en_base_title) pairs from the English work titles in
+/// `all.md` (keyed by `W-*.md` filename) joined with each base work's own German
+/// `# H1`. Sorted longest German title first so the most specific base wins.
+pub fn build_base_titles(
+    work_titles: &HashMap<String, String>,
+    input_dir: &Path,
+) -> Vec<(String, String)> {
+    let mut pairs: Vec<(String, String)> = work_titles
+        .iter()
+        .filter_map(|(fname, en)| {
+            let de = fs::read_to_string(input_dir.join(fname)).ok()?;
+            let de_title = de
+                .lines()
+                .find(|l| l.starts_with("# "))
+                .map(|l| l[2..].trim().to_string())?;
+            Some((de_title, en.clone()))
+        })
+        .collect();
+    pairs.sort_by(|a, b| b.0.len().cmp(&a.0.len()));
+    pairs
+}
+
+/// Resolve a work's English title from its German title using the (de_base, en_base)
+/// pairs. Matches the longest German base title that is a prefix and swaps it for the
+/// English base, preserving the structural suffix (e.g. " – I", " – II MS 169").
+/// Returns None when no base matches (e.g. Ms/Ts docs, or works without a translation).
+pub fn resolve_work_title_en(
+    german_title: &str,
+    base_titles: &[(String, String)],
+) -> Option<String> {
+    base_titles.iter().find_map(|(de_base, en_base)| {
+        if german_title == de_base {
+            Some(en_base.clone())
+        } else if german_title.starts_with(de_base.as_str()) {
+            Some(format!("{}{}", en_base, &german_title[de_base.len()..]))
+        } else {
+            None
+        }
+    })
+}
+
+/// Rewrite a work's preamble for the English edition: translate the title and, for
+/// overview pages, the part-link labels (German base title → English base title,
+/// keeping the structural suffix like " – I App I") and point the links at the English
+/// pages (`/w-rfm-1/` → `/en/w-rfm-1/`). Content works have no link lines, so only the
+/// title line is rewritten.
+fn rewrite_work_preamble(preamble: &str, en_title: &str) -> String {
     let de_title = preamble
         .lines()
         .find(|l| l.starts_with("# "))
@@ -894,24 +936,36 @@ fn rewrite_overview_preamble(preamble: &str, en_title: &str) -> String {
 
 /// Assemble a translated work file from translated doc remarks.
 ///
-/// `work_title_en` is the work's English title (from `all.md`); when the work is an
-/// overview page (no remarks, just part links) it is used to produce an English
-/// overview — English title, English part labels, and `/en/…` links.
+/// `base_titles` are the (de_base, en_base) pairs (see `build_base_titles`); they are
+/// used to translate the preamble title — both for base works and sub-parts (e.g.
+/// "… – I") — and, for overview pages, the part-link labels and `/en/…` links.
 pub fn assemble_work(
     work_german_path: &Path,
     url_map: &HashMap<String, String>,
     output_path: &Path,
-    work_title_en: Option<&str>,
+    base_titles: &[(String, String)],
 ) -> usize {
     let content = fs::read_to_string(work_german_path).expect("Failed to read work file");
     let (preamble, remarks) = parse_document(&content);
     let stem = work_german_path.file_name().unwrap().to_string_lossy();
 
-    // Overview pages (no remarks) get an English title + English part links.
-    let preamble = match (remarks.is_empty(), work_title_en) {
-        (true, Some(en_title)) => rewrite_overview_preamble(&preamble, en_title),
-        _ => preamble,
+    // Translate the preamble title to English (and, for overview pages, the part
+    // links). The English title is resolved from this work's German `# H1` via the
+    // base-title map, which covers both base works and sub-parts.
+    let de_title = preamble
+        .lines()
+        .find(|l| l.starts_with("# "))
+        .map(|l| l[2..].trim().to_string());
+    let mut preamble = match de_title.as_deref().and_then(|t| resolve_work_title_en(t, base_titles)) {
+        Some(en_title) => rewrite_work_preamble(&preamble, &en_title),
+        None => preamble,
     };
+    // rewrite_work_preamble strips trailing newlines; for content works restore the
+    // single newline so a blank line separates the preamble from the first remark
+    // heading (the remark writer prepends "\n"). Overview pages keep no EOF newline.
+    if !remarks.is_empty() && !preamble.ends_with('\n') {
+        preamble.push('\n');
+    }
 
     let mut missing = 0;
     let mut file = fs::File::create(output_path).expect("Failed to create work output file");

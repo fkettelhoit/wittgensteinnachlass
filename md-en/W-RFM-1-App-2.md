@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik – I App II
+# Remarks on the Foundations of Mathematics – I App II
 
 <details>
 

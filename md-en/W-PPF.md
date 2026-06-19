@@ -1,4 +1,4 @@
-# Philosophie der Psychologie – Ein Fragment
+# Philosophy of Psychology – A Fragment
 
 <details>
 

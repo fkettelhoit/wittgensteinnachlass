@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik – VI
+# Remarks on the Foundations of Mathematics – VI
 
 <details>
 

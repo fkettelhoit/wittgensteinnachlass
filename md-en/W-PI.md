@@ -1,4 +1,4 @@
-# Philosophische Untersuchungen
+# Philosophical Investigations
 
 <details>
 

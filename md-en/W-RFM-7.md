@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik – VII
+# Remarks on the Foundations of Mathematics – VII
 
 <details>
 

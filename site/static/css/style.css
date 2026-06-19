@@ -731,14 +731,24 @@ a.lightbox-next::before {
 
 /* --- Bilingual layout --- */
 
+/* Two-column reading pages. Overview/index pages (works with parts) are NOT given
+   this class — they are plain single-column pages (default body width, single-column
+   footer), so none of the two-column rules below can leak onto them. */
 body.bilingual {
   max-width: 70rem;
 }
 
-body.bilingual section > div {
+body.bilingual section > div,
+body.bilingual .title-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0 2rem;
+}
+
+/* English title: muted grey both in the two-column header and in the single-column
+   index combined title (German title / line break / grey English title). */
+.en-title {
+  color: var(--color-margin);
 }
 
 body.bilingual .en,
@@ -782,12 +792,20 @@ body.bilingual footer {
   gap: 0 2rem;
 }
 
+/* Split disclaimer: explanatory note in the left/German column, the bold warnings
+   in the right/English column (the warnings are about the translation). */
+.disclaimer-note,
+.disclaimer-warning {
+  line-height: 2rem;
+}
+
 @media (width < 60rem) {
   body.bilingual {
     max-width: var(--max-width);
   }
 
   body.bilingual section > div,
+  body.bilingual .title-row,
   body.bilingual .disclaimer,
   body.bilingual .preamble,
   body.bilingual footer {

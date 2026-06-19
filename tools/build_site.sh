@@ -144,6 +144,7 @@ ENINDEX
     [ -f "$de_src" ] || continue
 
     title="$(head -1 "$de_src" | sed 's/^# //')"
+    entitle="$(head -1 "$en_src" | sed 's/^# //')"
 
     kind="$(echo "$filename" | cut -d'-' -f1)"
     if [ "$kind" = "W" ]; then
@@ -163,6 +164,7 @@ ENINDEX
     {
       echo "---"
       echo "title: \"$title\""
+      echo "entitle: \"$entitle\""
       echo "weight: $weight"
       echo "doctype: $doctype"
       echo "layout: bilingual"
