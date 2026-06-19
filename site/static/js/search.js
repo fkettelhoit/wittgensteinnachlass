@@ -63,11 +63,14 @@
     var fid = facId(hit);
     var facHref = fid ? "#fac-" + esc(fid) : url;
     var snippet = highlight((hit._formatted && hit._formatted.content) || hit.content || "");
+    // English results use the same muted grey as the English column on the bilingual
+    // pages. Results are language-filtered, so the active language applies to all of them.
+    var langClass = currentLang() === "en" ? ' class="en"' : "";
     return (
       '<article class="search-result">' +
       "<h3>" + parts.join(" &amp;&nbsp;") + "</h3>" +
       '<span class="fac"><a href="' + facHref + '">' + refs + "</a></span>" +
-      "<div><p>" + snippet + "</p></div>" +
+      "<div" + langClass + "><p>" + snippet + "</p></div>" +
       "</article>"
     );
   }

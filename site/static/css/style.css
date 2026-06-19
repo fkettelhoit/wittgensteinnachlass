@@ -1027,10 +1027,15 @@ body.bilingual footer {
   margin: 0;
 }
 
+/* English results use the same muted grey as the English column on the bilingual pages. */
+.search-result > div.en > p {
+  color: var(--color-margin);
+}
+
 /* Matched terms, in the covers' amber. */
 .search-result mark {
   background-color: #fbcba4;
-  color: inherit;
+  color: var(--color-text);
 }
 
 @media (width < 60rem) {
