@@ -87,10 +87,12 @@ for page in docs-by-date docs-by-name; do
     {
       echo "---"
       echo "title: \"Wittgenstein\u2019s Writings\""
-      echo "layout: gallery"
+      echo "layout: all"
       echo "---"
       echo ""
-      cat "$src"
+      # Rewrite markdown links: (Ms-175.md) → (/ms-175/), then neutralize notation.
+      perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge' "$src" \
+        | python3 "$SCRIPT_DIR/sanitize_content.py"
     } > "$CONTENT_DIR/$page/_index.md"
   fi
 done
@@ -118,7 +120,7 @@ if [ -f "$ABOUT_SRC" ]; then
   mkdir -p "$CONTENT_DIR/about"
   {
     echo "---"
-    echo "title: \"About Wittgenstein’s (Late) Writings\""
+    echo "title: \"What are Wittgenstein’s (Late) Writings?\""
     echo "layout: about"
     echo "---"
     echo ""
