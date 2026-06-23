@@ -9,7 +9,9 @@
      data-index="{{ site.Params.meiliindex }}">
   <input type="search" class="search-input" autocomplete="off" spellcheck="false"
          aria-label="Search Wittgenstein’s writings" placeholder="Search the Nachlass…">
+  {{ if not hugo.IsProduction }}
   <p class="search-langs"><button type="button" data-lang="de" class="lang-active">German</button> | <button type="button" data-lang="en">English</button></p>
+  {{ end }}
   <p class="search-status" aria-live="polite"></p>
   <div class="search-results"></div>
   <div class="search-lightboxes"></div>

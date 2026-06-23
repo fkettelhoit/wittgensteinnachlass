@@ -159,7 +159,7 @@ jobs:
         run: |
           set -euo pipefail
           make content
-          hugo -s site -e production
+          hugo -s site -e ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
 
       # Gate the deploy on rendering quality: fail before publishing if any page
       # shows truncation, emphasis leaking into <math>, or a stray <blockquote>.
