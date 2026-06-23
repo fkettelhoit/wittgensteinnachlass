@@ -893,9 +893,13 @@ body.bilingual footer {
   gap: 1rem;
 }
 
-/* View switcher under the home "Nachlass Documents" heading. */
-.home .view-switcher {
-  margin: -1.5rem 0 2rem 0;
+/* Tight gap under home section headings (and the note above the switcher); the
+   2rem before the cover grid comes from the default paragraph margin. */
+.home h2 {
+  margin-bottom: 0.5rem;
+}
+.home .section-note:has(+ .view-switcher) {
+  margin-bottom: 0.5rem;
 }
 
 @media (width < 60rem) {

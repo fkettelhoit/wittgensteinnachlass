@@ -1,6 +1,8 @@
 # Index
 
-## Edited Books
+## Edited Writings
+
+<p class="section-note">Compiled by Wittgenstein’s literary executors.</p>
 
 <a class="cover" href="/w-oc/"><img src="/covers/W-OC.svg" alt="W-OC"><span class="cover-info"><span>On Certainty</span></span></a>
 <a class="cover" href="/w-lw/"><img src="/covers/W-LW.svg" alt="W-LW"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology</span></span></a>
@@ -14,7 +16,9 @@
 
 ## Nachlass Documents
 
-<p class="view-switcher"><span class="current">Covers</span> | <a href="/docs-by-name/">list by name</a> | <a href="/docs-by-date/">list by date</a></p>
+<p class="section-note">Individual manuscripts and typescripts by Wittgenstein.</p>
+
+<p class="view-switcher"><span class="current">Covers</span> | <a href="/docs-by-name/">List by name</a> | <a href="/docs-by-date/">List by date</a></p>
 
 <a class="cover" href="/ms-116/"><img loading="lazy" src="/covers/Ms-116.svg" alt=""><span class="cover-title">Ms-116</span><span class="cover-info"><span>Philosophical Grammar – I App. 4</span></span></a>
 <a class="cover" href="/ms-117/"><img loading="lazy" src="/covers/Ms-117.svg" alt=""><span class="cover-title">Ms-117</span><span class="cover-info"><span>Remarks on the Foundations of Mathematics, Parts II-III</span></span></a>
