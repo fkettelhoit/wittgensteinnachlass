@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik – IV
+# Remarks on the Foundations of Mathematics – IV
 
 <details>
 

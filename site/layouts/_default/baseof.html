@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="{{ if and .Params.doctype (ne .Params.layout "bilingual") }}de{{ else }}en{{ end }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +8,7 @@
   <link rel="icon" type="image/png" sizes="any" href="/favicon.png" media="(prefers-color-scheme: light)">
   <link rel="icon" type="image/png" sizes="any" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
 </head>
-<body{{ with .Params.layout }}{{ if eq . "bilingual" }} class="bilingual"{{ end }}{{ end }}>
+<body{{ if eq .Params.layout "bilingual" }}{{ if findRE `\.webp\)` .RawContent }} class="bilingual"{{ else }} class="overview"{{ end }}{{ end }}>
   {{ block "main" . }}{{ end }}
 </body>
 </html>

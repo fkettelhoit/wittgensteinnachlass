@@ -1,97 +1,413 @@
 
 ## Ms
 
-<a class="cover" href="/ms-116/"><img src="/covers/Ms-116.svg" alt="Ms-116"><span class="cover-info"><span>Philosophical Grammar – I App. 4</span></span></a>
-<a class="cover" href="/ms-117/"><img src="/covers/Ms-117.svg" alt="Ms-117"><span class="cover-info"><span>Remarks on the Foundations of Mathematics, Parts II-III</span></span></a>
-<a class="cover" href="/ms-118/"><img src="/covers/Ms-118.svg" alt="Ms-118"></a>
-<a class="cover" href="/ms-119/"><img src="/covers/Ms-119.svg" alt="Ms-119"><span class="cover-info"><span>Cause and Effect: Intuitive Awareness</span></span></a>
-<a class="cover" href="/ms-120/"><img src="/covers/Ms-120.svg" alt="Ms-120"></a>
-<a class="cover" href="/ms-121/"><img src="/covers/Ms-121.svg" alt="Ms-121"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – II</span></span></a>
-<a class="cover" href="/ms-122/"><img src="/covers/Ms-122.svg" alt="Ms-122"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – III</span></span></a>
-<a class="cover" href="/ms-123/"><img src="/covers/Ms-123.svg" alt="Ms-123"></a>
-<a class="cover" href="/ms-124/"><img src="/covers/Ms-124.svg" alt="Ms-124"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – VII</span></span></a>
-<a class="cover" href="/ms-125/"><img src="/covers/Ms-125.svg" alt="Ms-125"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – IV</span></span></a>
-<a class="cover" href="/ms-126/"><img src="/covers/Ms-126.svg" alt="Ms-126"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – V</span></span></a>
-<a class="cover" href="/ms-127/"><img src="/covers/Ms-127.svg" alt="Ms-127"><span class="cover-info"><span>Remarks on the Foundations of Mathematics, Parts IV-V</span></span></a>
-<a class="cover" href="/ms-128/"><img src="/covers/Ms-128.svg" alt="Ms-128"></a>
-<a class="cover" href="/ms-129/"><img src="/covers/Ms-129.svg" alt="Ms-129"></a>
-<a class="cover" href="/ms-130/"><img src="/covers/Ms-130.svg" alt="Ms-130"></a>
-<a class="cover" href="/ms-131/"><img src="/covers/Ms-131.svg" alt="Ms-131"></a>
-<a class="cover" href="/ms-132/"><img src="/covers/Ms-132.svg" alt="Ms-132"></a>
-<a class="cover" href="/ms-133/"><img src="/covers/Ms-133.svg" alt="Ms-133"></a>
-<a class="cover" href="/ms-134/"><img src="/covers/Ms-134.svg" alt="Ms-134"></a>
-<a class="cover" href="/ms-135/"><img src="/covers/Ms-135.svg" alt="Ms-135"></a>
-<a class="cover" href="/ms-136/"><img src="/covers/Ms-136.svg" alt="Ms-136"></a>
-<a class="cover" href="/ms-137/"><img src="/covers/Ms-137.svg" alt="Ms-137"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology – I</span></span></a>
-<a class="cover" href="/ms-138/"><img src="/covers/Ms-138.svg" alt="Ms-138"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology – I</span></span></a>
-<a class="cover" href="/ms-142/"><img src="/covers/Ms-142.svg" alt="Ms-142"></a>
-<a class="cover" href="/ms-143/"><img src="/covers/Ms-143.svg" alt="Ms-143"><span class="cover-info"><span>Remarks on Frazer's Golden Bough – II</span></span></a>
-<a class="cover" href="/ms-144/"><img src="/covers/Ms-144.svg" alt="Ms-144"><span class="cover-info"><span>Philosophy of Psychology – A Fragment</span></span></a>
-<a class="cover" href="/ms-157a/"><img src="/covers/Ms-157a.svg" alt="Ms-157a"></a>
-<a class="cover" href="/ms-157b/"><img src="/covers/Ms-157b.svg" alt="Ms-157b"></a>
-<a class="cover" href="/ms-158/"><img src="/covers/Ms-158.svg" alt="Ms-158"></a>
-<a class="cover" href="/ms-159/"><img src="/covers/Ms-159.svg" alt="Ms-159"><span class="cover-info"><span>Cause and Effect: Intuitive Awareness – App. A-C</span></span></a>
-<a class="cover" href="/ms-160/"><img src="/covers/Ms-160.svg" alt="Ms-160"><span class="cover-info"><span>Cause and Effect: Intuitive Awareness – App. B</span></span></a>
-<a class="cover" href="/ms-161/"><img src="/covers/Ms-161.svg" alt="Ms-161"></a>
-<a class="cover" href="/ms-162a/"><img src="/covers/Ms-162a.svg" alt="Ms-162a"></a>
-<a class="cover" href="/ms-162b/"><img src="/covers/Ms-162b.svg" alt="Ms-162b"></a>
-<a class="cover" href="/ms-163/"><img src="/covers/Ms-163.svg" alt="Ms-163"></a>
-<a class="cover" href="/ms-164/"><img src="/covers/Ms-164.svg" alt="Ms-164"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – VI</span></span></a>
-<a class="cover" href="/ms-165/"><img src="/covers/Ms-165.svg" alt="Ms-165"></a>
-<a class="cover" href="/ms-166/"><img src="/covers/Ms-166.svg" alt="Ms-166"><span class="cover-info"><span>Notes for the Philosophical Lecture</span></span></a>
-<a class="cover" href="/ms-167/"><img src="/covers/Ms-167.svg" alt="Ms-167"></a>
-<a class="cover" href="/ms-168/"><img src="/covers/Ms-168.svg" alt="Ms-168"></a>
-<a class="cover" href="/ms-169/"><img src="/covers/Ms-169.svg" alt="Ms-169"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ms-170/"><img src="/covers/Ms-170.svg" alt="Ms-170"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ms-171/"><img src="/covers/Ms-171.svg" alt="Ms-171"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ms-172/"><img src="/covers/Ms-172.svg" alt="Ms-172"><span class="cover-info"><span>On Certainty, Remarks on Colour – II</span></span></a>
-<a class="cover" href="/ms-173/"><img src="/covers/Ms-173.svg" alt="Ms-173"><span class="cover-info"><span>Remarks on Colour – III, Last Writings on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ms-174/"><img src="/covers/Ms-174.svg" alt="Ms-174"><span class="cover-info"><span>On Certainty, Last Writings on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ms-175/"><img src="/covers/Ms-175.svg" alt="Ms-175"><span class="cover-info"><span>On Certainty</span></span></a>
-<a class="cover" href="/ms-176/"><img src="/covers/Ms-176.svg" alt="Ms-176"><span class="cover-info"><span>On Certainty, Remarks on Colour – I, Last Writings on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ms-177/"><img src="/covers/Ms-177.svg" alt="Ms-177"><span class="cover-info"><span>On Certainty</span></span></a>
-<a class="cover" href="/ms-178c/"><img src="/covers/Ms-178c.svg" alt="Ms-178c"></a>
-<a class="cover" href="/ms-178d/"><img src="/covers/Ms-178d.svg" alt="Ms-178d"></a>
-<a class="cover" href="/ms-178e/"><img src="/covers/Ms-178e.svg" alt="Ms-178e"></a>
-<a class="cover" href="/ms-178f/"><img src="/covers/Ms-178f.svg" alt="Ms-178f"></a>
-<a class="cover" href="/ms-178g/"><img src="/covers/Ms-178g.svg" alt="Ms-178g"></a>
-<a class="cover" href="/ms-179/"><img src="/covers/Ms-179.svg" alt="Ms-179"></a>
-<a class="cover" href="/ms-180a/"><img src="/covers/Ms-180a.svg" alt="Ms-180a"></a>
-<a class="cover" href="/ms-180b/"><img src="/covers/Ms-180b.svg" alt="Ms-180b"></a>
-<a class="cover" href="/ms-182/"><img src="/covers/Ms-182.svg" alt="Ms-182"></a>
-<a class="cover" href="/ms-183/"><img src="/covers/Ms-183.svg" alt="Ms-183"><span class="cover-info"><span>Denkbewegungen</span></span></a>
+### [Ms-116](Ms-116.md)
+
+- 720 remarks, 'XII. Philosophische Bemerkungen'; 1937-38 and 1945
+- published in parts in 'Philosophical Grammar', Part I App. 4
+
+### [Ms-117](Ms-117.md)
+
+- 563 remarks, 'XIII. Philosophische Bemerkungen'; 1937-38 and 1940
+- published in parts in 'Remarks on the Foundations of Mathematics', Parts II-III
+
+### [Ms-118](Ms-118.md)
+
+- 334 remarks, 'XIV. Philosophische Bemerkungen'; 1937
+
+### [Ms-119](Ms-119.md)
+
+- 309 remarks, 'XV.'; 1937
+- published in parts in 'Cause and Effect: Intuitive Awareness'
+
+### [Ms-120](Ms-120.md)
+
+- 511 remarks, 'XVI.'; 1937-38
+
+### [Ms-121](Ms-121.md)
+
+- 361 remarks, 'XVII. Philosophische Bemerkungen'; 1938-39
+- published in parts in 'Remarks on the Foundations of Mathematics', Part II
+
+### [Ms-122](Ms-122.md)
+
+- 495 remarks, 'XVIII. Philosophische Bemerkungen'; 1939-40
+- published in parts in 'Remarks on the Foundations of Mathematics', Part III
+
+### [Ms-123](Ms-123.md)
+
+- 264 remarks, 'Philosophische Bemerkungen'; 1940-41
+
+### [Ms-124](Ms-124.md)
+
+- 692 remarks, 1941 and 1944
+- published in parts in 'Remarks on the Foundations of Mathematics', Part VII
+
+### [Ms-125](Ms-125.md)
+
+- 259 remarks, 1941-42
+- published in parts in 'Remarks on the Foundations of Mathematics', Part IV
+
+### [Ms-126](Ms-126.md)
+
+- 282 remarks, 1942-43
+- published in parts in 'Remarks on the Foundations of Mathematics', Part V
+
+### [Ms-127](Ms-127.md)
+
+- 474 remarks, 'F Mathematik und Logik'; 1943-44
+- published in parts in 'Remarks on the Foundations of Mathematics', Parts IV-V
+
+### [Ms-128](Ms-128.md)
+
+- 196 remarks, 1944
+
+### [Ms-129](Ms-129.md)
+
+- 374 remarks, 1944
+
+### [Ms-130](Ms-130.md)
+
+- 680 remarks, 1944? and 1946
+
+### [Ms-131](Ms-131.md)
+
+- 355 remarks, 1946
+
+### [Ms-132](Ms-132.md)
+
+- 389 remarks, 1946
+
+### [Ms-133](Ms-133.md)
+
+- 446 remarks, 1946-47
+
+### [Ms-134](Ms-134.md)
+
+- 432 remarks, 1947
+
+### [Ms-135](Ms-135.md)
+
+- 428 remarks, 1947
+
+### [Ms-136](Ms-136.md)
+
+- 781 remarks, 'Q'; 1947-48
+
+### [Ms-137](Ms-137.md)
+
+- 1443 remarks, 'R'; 1948-49
+- published in parts in 'Last Writings on the Philosophy of Psychology' vol. 1
+
+### [Ms-138](Ms-138.md)
+
+- 336 remarks, 'S'; 1949
+- published in 'Last Writings on the Philosophy of Psychology' vol. 1
+
+### [Ms-142](Ms-142.md)
+
+- 211 remarks, 'Philosophische Untersuchungen'; 1936-37
+
+### [Ms-143](Ms-143.md)
+
+- 27 remarks, notes on Frazer's Golden Bough, second set; 1948?-50?
+- published in 'Remarks on Frazer's Golden Bough', Part II
+
+### [Ms-144](Ms-144.md)
+
+- 391 remarks, manuscript version of earlier so-called Part II of the Investigations; 1949
+- published in 'Philosophy of Psychology – A Fragment'
+
+### [Ms-157a](Ms-157a.md)
+
+- 223 remarks, source for Ms-142; 1934 and 1937
+
+### [Ms-157b](Ms-157b.md)
+
+- 127 remarks, continuation of Ms-157a; source for Ms-142 and Ms-118; 1937
+
+### [Ms-158](Ms-158.md)
+
+- 154 remarks, 1938
+
+### [Ms-159](Ms-159.md)
+
+- 115 remarks, 1937-38
+- published in parts in 'Cause and Effect: Intuitive Awareness', App. A-C
+
+### [Ms-160](Ms-160.md)
+
+- 66 remarks, 1938
+- published in parts in 'Cause and Effect: Intuitive Awareness', App. B
+
+### [Ms-161](Ms-161.md)
+
+- 216 remarks, source for MSS 123-124; 1939 and 1941
+
+### [Ms-162a](Ms-162a.md)
+
+- 130 remarks, 1938-39
+
+### [Ms-162b](Ms-162b.md)
+
+- 249 remarks, continuation of Ms-162a; 1939-40
+
+### [Ms-163](Ms-163.md)
+
+- 240 remarks, 1941
+
+### [Ms-164](Ms-164.md)
+
+- 289 remarks, 1941?-44?
+- published in parts in 'Remarks on the Foundations of Mathematics', Part VI
+
+### [Ms-165](Ms-165.md)
+
+- 309 remarks, 1941?-44?
+
+### [Ms-166](Ms-166.md)
+
+- 68 remarks, 'Notes for the Philosophical Lecture'; 1941?
+- published in 'Notes for the Philosophical Lecture'
+
+### [Ms-167](Ms-167.md)
+
+- 145 remarks, 1947?-48?
+
+### [Ms-168](Ms-168.md)
+
+- 23 remarks, so-called Notebook no.4; 1949
+
+### [Ms-169](Ms-169.md)
+
+- 366 remarks, so-called Notebook no.2; 1948?-49?
+- published in 'Last Writings on the Philosophy of Psychology' vol. 2
+
+### [Ms-170](Ms-170.md)
+
+- 13 remarks, so-called Notebook no.3; 1949?
+- published in 'Last Writings on the Philosophy of Psychology' vol. 2
+
+### [Ms-171](Ms-171.md)
+
+- 33 remarks, 1949?-50?
+- published in 'Last Writings on the Philosophy of Psychology' vol. 2
+
+### [Ms-172](Ms-172.md)
+
+- 89 remarks, 1949?-50?
+- published in 'On Certainty'
+- published in 'Remarks on Colour', Part II
+
+### [Ms-173](Ms-173.md)
+
+- 425 remarks, so-called Notebook no.5, source for Ms-176; 1950
+- published in 'Remarks on Colour', Part III
+- published in 'Last Writings on the Philosophy of Psychology' vol. 2
+
+### [Ms-174](Ms-174.md)
+
+- 197 remarks, so-called Notebook no.7; 1950
+- published in 'On Certainty'
+- published in 'Last Writings on the Philosophy of Psychology' vol. 2
+
+### [Ms-175](Ms-175.md)
+
+- 248 remarks, so-called Notebook no.1; 1950-51
+- published in 'On Certainty'
+
+### [Ms-176](Ms-176.md)
+
+- 319 remarks, so-called Notebook no.6.1; 1950-51
+- published in 'On Certainty'
+- published in 'Remarks on Colour', Part I
+- published in 'Last Writings on the Philosophy of Psychology' vol. 2
+
+### [Ms-177](Ms-177.md)
+
+- 40 remarks, so-called Notebook no.6.2; 1951
+- published in 'On Certainty'
+
+### [Ms-178c](Ms-178c.md)
+
+- 8 remarks, 1939?
+
+### [Ms-178d](Ms-178d.md)
+
+- 9 remarks, 1938?
+
+### [Ms-178e](Ms-178e.md)
+
+- 13 remarks, 1937?
+
+### [Ms-178f](Ms-178f.md)
+
+- 8 remarks, 1940?
+
+### [Ms-178g](Ms-178g.md)
+
+- 2 remarks, 1947?
+
+### [Ms-179](Ms-179.md)
+
+- 119 remarks, so-called Notebooks 1944/45 no.1; 1944
+
+### [Ms-180a](Ms-180a.md)
+
+- 112 remarks, so-called Notebooks 1944/45 no.2; 1944
+
+### [Ms-180b](Ms-180b.md)
+
+- 92 remarks, so-called Notebooks 1944/45 no.3; 1944?-45?
+
+### [Ms-182](Ms-182.md)
+
+- 3 remarks, list of remarks from Ts-228 in final version of Investigations; 1945-46?
+
+### [Ms-183](Ms-183.md)
+
+- 323 remarks, so-called Denkbewegungen; 1930-32 and 1936-37
+- published in 'Denkbewegungen'
+
 
 ## Ts
 
-<a class="cover" href="/ts-220/"><img src="/covers/Ts-220.svg" alt="Ts-220"></a>
-<a class="cover" href="/ts-221a/"><img src="/covers/Ts-221a.svg" alt="Ts-221a"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – I App. 3</span></span></a>
-<a class="cover" href="/ts-222/"><img src="/covers/Ts-222.svg" alt="Ts-222"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – I and Part I App. 1</span></span></a>
-<a class="cover" href="/ts-223/"><img src="/covers/Ts-223.svg" alt="Ts-223"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – I App. 3</span></span></a>
-<a class="cover" href="/ts-224/"><img src="/covers/Ts-224.svg" alt="Ts-224"><span class="cover-info"><span>Remarks on the Foundations of Mathematics – I App. 2</span></span></a>
-<a class="cover" href="/ts-225/"><img src="/covers/Ts-225.svg" alt="Ts-225"></a>
-<a class="cover" href="/ts-226/"><img src="/covers/Ts-226.svg" alt="Ts-226"></a>
-<a class="cover" href="/ts-227a/"><img src="/covers/Ts-227a.svg" alt="Ts-227a"><span class="cover-info"><span>Philosophical Investigations – I</span></span></a>
-<a class="cover" href="/ts-227b/"><img src="/covers/Ts-227b.svg" alt="Ts-227b"></a>
-<a class="cover" href="/ts-228/"><img src="/covers/Ts-228.svg" alt="Ts-228"></a>
-<a class="cover" href="/ts-229/"><img src="/covers/Ts-229.svg" alt="Ts-229"><span class="cover-info"><span>Remarks on the Philosophy of Psychology – I</span></span></a>
-<a class="cover" href="/ts-230a/"><img src="/covers/Ts-230a.svg" alt="Ts-230a"></a>
-<a class="cover" href="/ts-230b/"><img src="/covers/Ts-230b.svg" alt="Ts-230b"></a>
-<a class="cover" href="/ts-230c/"><img src="/covers/Ts-230c.svg" alt="Ts-230c"></a>
-<a class="cover" href="/ts-231/"><img src="/covers/Ts-231.svg" alt="Ts-231"></a>
-<a class="cover" href="/ts-232/"><img src="/covers/Ts-232.svg" alt="Ts-232"><span class="cover-info"><span>Remarks on the Philosophy of Psychology – II</span></span></a>
-<a class="cover" href="/ts-233a/"><img src="/covers/Ts-233a.svg" alt="Ts-233a"><span class="cover-info"><span>Zettel</span></span></a>
-<a class="cover" href="/ts-233b/"><img src="/covers/Ts-233b.svg" alt="Ts-233b"><span class="cover-info"><span>Zettel</span></span></a>
-<a class="cover" href="/ts-235/"><img src="/covers/Ts-235.svg" alt="Ts-235"></a>
-<a class="cover" href="/ts-237/"><img src="/covers/Ts-237.svg" alt="Ts-237"></a>
-<a class="cover" href="/ts-238/"><img src="/covers/Ts-238.svg" alt="Ts-238"></a>
-<a class="cover" href="/ts-239/"><img src="/covers/Ts-239.svg" alt="Ts-239"></a>
-<a class="cover" href="/ts-240/"><img src="/covers/Ts-240.svg" alt="Ts-240"></a>
-<a class="cover" href="/ts-241a/"><img src="/covers/Ts-241a.svg" alt="Ts-241a"></a>
-<a class="cover" href="/ts-241b/"><img src="/covers/Ts-241b.svg" alt="Ts-241b"></a>
-<a class="cover" href="/ts-242a/"><img src="/covers/Ts-242a.svg" alt="Ts-242a"></a>
-<a class="cover" href="/ts-242b/"><img src="/covers/Ts-242b.svg" alt="Ts-242b"></a>
-<a class="cover" href="/ts-243/"><img src="/covers/Ts-243.svg" alt="Ts-243"></a>
-<a class="cover" href="/ts-244/"><img src="/covers/Ts-244.svg" alt="Ts-244"><span class="cover-info"><span>Remarks on the Philosophy of Psychology – I</span></span></a>
-<a class="cover" href="/ts-245/"><img src="/covers/Ts-245.svg" alt="Ts-245"><span class="cover-info"><span>Remarks on the Philosophy of Psychology – I</span></span></a>
-<a class="cover" href="/ts-247/"><img src="/covers/Ts-247.svg" alt="Ts-247"></a>
-<a class="cover" href="/ts-248/"><img src="/covers/Ts-248.svg" alt="Ts-248"></a>
+### [Ts-220](Ts-220.md)
+
+- 168 remarks, approximately first half of Investigations prewar version; 1937
+
+### [Ts-221a](Ts-221a.md)
+
+- 283 remarks, approximately second half of Investigations prewar version; 1938
+- published in parts in 'Remarks on the Foundations of Mathematics', Part I App. 3
+
+### [Ts-222](Ts-222.md)
+
+- 204 remarks, cuttings from Ts-221; 1938
+- published in 'Remarks on the Foundations of Mathematics', Part I and Part I App. 1
+
+### [Ts-223](Ts-223.md)
+
+- 19 remarks, cuttings from Ts-221; 1938
+- published in parts in 'Remarks on the Foundations of Mathematics', Part I App. 3
+
+### [Ts-224](Ts-224.md)
+
+- 15 remarks, cuttings from Ts-221; 1938
+- published in 'Remarks on the Foundations of Mathematics', Part I App. 2
+
+### [Ts-225](Ts-225.md)
+
+- 11 remarks, preface to prewar version of Investigations; 1938
+
+### [Ts-226](Ts-226.md)
+
+- 115 remarks, English translation of part of Investigations prewar version; 1938-39?
+
+### [Ts-227a](Ts-227a.md)
+
+- 713 remarks, 'Philosophische Untersuchungen'; 1944-46
+- published in 'Philosophical Investigations, Part I'
+
+### [Ts-227b](Ts-227b.md)
+
+- 711 remarks, 'Philosophische Untersuchungen'; 1944-46
+
+### [Ts-228](Ts-228.md)
+
+- 699 remarks, 'Bemerkungen I.', based on MSS 129, 130, 114-116, Ts-213 a.o.; 1945
+
+### [Ts-229](Ts-229.md)
+
+- 1141 remarks, continuation of Ts-228; 1947
+- published in 'Remarks on the Philosophy of Psychology' vol. 1
+
+### [Ts-230a](Ts-230a.md)
+
+- 547 remarks, 'Bemerkungen II.'; 1945-46?
+
+### [Ts-230b](Ts-230b.md)
+
+- 547 remarks, 'Bemerkungen II.'; 1945-46?
+
+### [Ts-230c](Ts-230c.md)
+
+- 547 remarks, 'Bemerkungen II.'; 1945-46?
+
+### [Ts-231](Ts-231.md)
+
+- 8 remarks, two lists of corresponding remarks in Bemerkungen I and II; 1945-46?
+
+### [Ts-232](Ts-232.md)
+
+- 738 remarks, based on MSS 135-137; 1948
+- published in 'Remarks on the Philosophy of Psychology' vol. 2
+
+### [Ts-233a](Ts-233a.md)
+
+- 366 remarks, so-called Zettel I; 1930-48
+- published in 'Zettel'
+
+### [Ts-233b](Ts-233b.md)
+
+- 379 remarks, so-called Zettel II; 1930-48
+- published in 'Zettel'
+
+### [Ts-235](Ts-235.md)
+
+- 147 remarks, a table of contents; 1945?
+
+### [Ts-237](Ts-237.md)
+
+- 10 remarks, pages and cuttings from pp. 80-92 of Ts-220; 1937
+
+### [Ts-238](Ts-238.md)
+
+- 28 remarks, pages and cuttings from pp. 77-93 of Ts-220; 1937
+
+### [Ts-239](Ts-239.md)
+
+- 204 remarks, revised version of Ts-220; 1937
+
+### [Ts-240](Ts-240.md)
+
+- 6 remarks, pages and cuttings from pp. 216-218 of Ts-220; 1938
+
+### [Ts-241a](Ts-241a.md)
+
+- 114 remarks, based on Ms-129; 1944-45?
+
+### [Ts-241b](Ts-241b.md)
+
+- 116 remarks, based on Ms-129; 1944-45?
+
+### [Ts-242a](Ts-242a.md)
+
+- 54 remarks, pp. 149-195 of Investigations intermediate version; 1944-45?
+
+### [Ts-242b](Ts-242b.md)
+
+- 54 remarks
+
+### [Ts-243](Ts-243.md)
+
+- 3 remarks, preface to Investigations, dated 'Cambridge im Januar 1945'; 1945
+
+### [Ts-244](Ts-244.md)
+
+- 34 remarks, 1945-47
+- published in parts in 'Remarks on the Philosophy of Psychology' vol. 1
+
+### [Ts-245](Ts-245.md)
+
+- 1120 remarks, 1945-47
+- published in 'Remarks on the Philosophy of Psychology' vol. 1
+
+### [Ts-247](Ts-247.md)
+
+- 11 remarks, English translation of preface to prewar version of PI; 1938-39
+
+### [Ts-248](Ts-248.md)
+
+- 11 remarks, pages and cuttings from Ts-221; 1938
+

@@ -187,6 +187,7 @@
   --color-text: #444;
   --color-link: #000;
   --color-margin: #bbb;
+  --color-translation: #777;
   --color-heading: #000;
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
@@ -740,19 +741,28 @@ a.lightbox-next::before {
 
 /* --- Bilingual layout --- */
 
+/* Two-column reading pages. Overview/index pages (works with parts) are NOT given
+   this class — they are plain single-column pages (default body width, single-column
+   footer), so none of the two-column rules below can leak onto them. */
 body.bilingual {
   max-width: 70rem;
 }
 
-body.bilingual section > div {
+body.bilingual section > div,
+body.bilingual .title-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 0 2rem;
 }
 
+body.bilingual .en h2,
+.en-title {
+  color: var(--color-translation);
+}
+
 body.bilingual .en,
 body.bilingual .en a {
-  color: var(--color-margin);
+  color: var(--color-translation);
 }
 
 body.bilingual .en a:hover {
@@ -763,7 +773,8 @@ body.bilingual .en a:hover {
   margin: -6rem 0 6rem 0;
 }
 
-.lang-switcher .lang-active {
+.lang-switcher .lang-active,
+.home .view-switcher .current {
   color: var(--color-link);
   font-weight: 700;
 }
@@ -791,12 +802,20 @@ body.bilingual footer {
   gap: 0 2rem;
 }
 
+/* Split disclaimer: explanatory note in the left/German column, the bold warnings
+   in the right/English column (the warnings are about the translation). */
+.disclaimer-note,
+.disclaimer-warning {
+  line-height: 2rem;
+}
+
 @media (width < 60rem) {
   body.bilingual {
     max-width: var(--max-width);
   }
 
   body.bilingual section > div,
+  body.bilingual .title-row,
   body.bilingual .disclaimer,
   body.bilingual .preamble,
   body.bilingual footer {
@@ -817,7 +836,7 @@ body.bilingual footer {
 
   body.bilingual section > h3 {
     display: inline;
-    color: var(--color-margin);
+    color: var(--color-translation);
     font-style: italic;
     text-align: left;
   }
@@ -851,7 +870,7 @@ body.bilingual footer {
 
   body.bilingual section > h3 {
     grid-column: 1;
-    color: var(--color-margin);
+    color: var(--color-translation);
     text-align: right;
     align-self: start;
   }
@@ -871,7 +890,16 @@ body.bilingual footer {
 .gallery p:has(.cover) {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1.5rem;
+  gap: 1rem;
+}
+
+/* Tight gap under home section headings (and the note above the switcher); the
+   2rem before the cover grid comes from the default paragraph margin. */
+.home h2 {
+  margin-bottom: 0.5rem;
+}
+.home .section-note:has(+ .view-switcher) {
+  margin-bottom: 0.5rem;
 }
 
 @media (width < 60rem) {
@@ -889,12 +917,12 @@ body.bilingual footer {
 .gallery a.cover img {
   width: 100%;
   height: auto;
+  aspect-ratio: 2 / 3; /* covers are 1600×2400; reserve the box so lazy images don't shift layout */
   display: block;
   outline: 1px solid var(--color-margin);
 }
 
 .gallery a.cover:hover img {
-  filter: brightness(1.05);
   outline: 1px solid var(--color-link);
 }
 
@@ -913,4 +941,173 @@ body.bilingual footer {
   box-decoration-break: clone;
   color: var(--color-text);
   background: white;
+}
+
+/* Real-text copy of the document title, laid over the baked vector-path title but
+   with transparent glyphs: invisible (so it can't ghost against the baked text),
+   yet still real DOM text. Because it sits on top of the image, the browser's
+   find-in-page / selection highlight reappears as a box over the title when matched.
+   Positioned/sized to match the baked title (generator metrics in
+   tools/covers/src/svg.rs: x=96, text-row top=896, font-size=132); the cover is a
+   1600×2400 viewBox scaled to container width, so coordinates map to cqi as px/16. */
+.gallery a.cover .cover-title {
+  position: absolute;
+  left: 6cqi; /* 96/16 */
+  top: 56cqi; /* 896/16 */
+  margin: 0;
+  font-family: var(--font-heading); /* SangBleu Empire */
+  font-weight: 700;
+  font-size: 8.25cqi; /* 132/16 */
+  line-height: 1;
+  color: transparent;
+  white-space: nowrap;
+}
+
+/* --- Search (inline live search on the home and browse pages) --- */
+
+.search-input {
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.4rem 0;
+  margin: 0 0 0.5rem 0;
+  color: var(--color-text);
+  background: transparent;
+  border: none;
+  border-bottom: var(--line-thickness) solid var(--color-text);
+}
+
+.search-input:focus {
+  outline: none;
+  border-bottom-color: var(--color-link);
+}
+
+/* While the search box has text, hide the rest of the page below it (browse links, gallery,
+   …). The results stay (they live inside .search) and the footer stays (it's outside <main>);
+   clearing the text shows everything again. */
+.search:has(.search-input:not(:placeholder-shown)) ~ * {
+  display: none;
+}
+
+/* Drop the browser's native clear (×) button. */
+.search-input::-webkit-search-cancel-button,
+.search-input::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+/* Language toggle, mirroring the bilingual language switcher: the inactive language is a
+   link, the active one is bold. */
+.search-langs {
+  margin: 0 0 2rem 0;
+}
+
+.search-langs button {
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--color-link);
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: var(--color-margin);
+}
+
+.search-langs button:hover {
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-link);
+}
+
+.search-langs button.lang-active {
+  font-weight: 700;
+  text-decoration: none;
+  cursor: default;
+}
+
+.search-status,
+.search-nojs {
+  color: var(--color-margin);
+  font-style: italic;
+}
+
+/* Results reuse the reading layout: reference in the left margin (the only link), cropped
+   text in the main column. */
+.search-result {
+  margin: 0 0 2rem 0;
+}
+
+.search-result > h3 {
+  margin: 0;
+}
+
+.search-result > h3,
+.search-result > h3 a,
+.search-result > .fac,
+.search-result > .fac a {
+  color: var(--color-margin);
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+}
+
+.search-result > h3 a:hover,
+.search-result > .fac a:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 0.1rem;
+}
+
+.search-result > div > p {
+  margin: 0;
+}
+
+.search-result > div.en > p {
+  color: var(--color-translation);
+}
+
+/* Matched terms, in the covers' amber. */
+.search-result mark {
+  background-color: #fbcba4;
+  color: var(--color-text);
+}
+
+@media (width < 60rem) {
+  .search-result > h3 {
+    display: inline;
+  }
+  .search-result > h3::after {
+    content: " ";
+  }
+  .search-result > .fac {
+    display: inline;
+  }
+}
+
+@media (width >= 60rem) {
+  .search-result {
+    display: grid;
+    grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
+    gap: 0 var(--margin-gap);
+    margin-left: calc(-1 * var(--margin-offset));
+    margin-right: 0;
+  }
+  .search-result > h3 {
+    grid-column: 1;
+    text-align: right;
+    align-self: baseline;
+  }
+  .search-result > .fac {
+    grid-column: 2;
+    grid-row: 1;
+    align-self: baseline;
+  }
+  .search-result > div {
+    grid-column: 3;
+    align-self: baseline;
+  }
 }

@@ -74,7 +74,8 @@ for src in "$OUTPUT_DIR"/*.md; do
     fi
     echo "---"
     echo ""
-    cat "$src"
+    # Neutralize Markdown accidentally triggered by transcription notation.
+    python3 "$SCRIPT_DIR/sanitize_content.py" < "$src"
   } > "$CONTENT_DIR/$filename"
 done
 
@@ -86,10 +87,12 @@ for page in docs-by-date docs-by-name; do
     {
       echo "---"
       echo "title: \"Wittgenstein\u2019s Writings\""
-      echo "layout: gallery"
+      echo "layout: all"
       echo "---"
       echo ""
-      cat "$src"
+      # Rewrite markdown links: (Ms-175.md) → (/ms-175/), then neutralize notation.
+      perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge' "$src" \
+        | python3 "$SCRIPT_DIR/sanitize_content.py"
     } > "$CONTENT_DIR/$page/_index.md"
   fi
 done
@@ -106,7 +109,8 @@ if [ -f "$ALL_SRC" ]; then
     echo ""
     # Rewrite markdown links: (Ms-175.md) → (/ms-175/)
     tail -n +2 "$ALL_SRC" \
-      | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge'
+      | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge' \
+      | python3 "$SCRIPT_DIR/sanitize_content.py"
   } > "$CONTENT_DIR/all/_index.md"
 fi
 
@@ -116,7 +120,7 @@ if [ -f "$ABOUT_SRC" ]; then
   mkdir -p "$CONTENT_DIR/about"
   {
     echo "---"
-    echo "title: \"About Wittgenstein’s (Late) Writings\""
+    echo "title: \"What are Wittgenstein’s (Late) Writings?\""
     echo "layout: about"
     echo "---"
     echo ""
@@ -144,6 +148,7 @@ ENINDEX
     [ -f "$de_src" ] || continue
 
     title="$(head -1 "$de_src" | sed 's/^# //')"
+    entitle="$(head -1 "$en_src" | sed 's/^# //')"
 
     kind="$(echo "$filename" | cut -d'-' -f1)"
     if [ "$kind" = "W" ]; then
@@ -163,12 +168,14 @@ ENINDEX
     {
       echo "---"
       echo "title: \"$title\""
+      echo "entitle: \"$entitle\""
       echo "weight: $weight"
       echo "doctype: $doctype"
       echo "layout: bilingual"
       echo "---"
       echo ""
-      python3 "$SCRIPT_DIR/merge_bilingual.py" "$de_src" "$en_src"
+      python3 "$SCRIPT_DIR/merge_bilingual.py" "$de_src" "$en_src" \
+        | python3 "$SCRIPT_DIR/sanitize_content.py"
     } > "$EN_CONTENT_DIR/$filename"
 
     en_count=$((en_count + 1))

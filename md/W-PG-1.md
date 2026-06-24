@@ -1028,7 +1028,7 @@ Die _Beschreibung_ des Psychischen muß sich ja wieder als Symbol verwenden lass
     <mrow>
       <mn>00</mn>
     </mrow>
-    <mo>_</mo>
+    <mo>&#95;</mo>
   </munder>
   <mn>100</mn>
   <mspace width="0.3em"/>
@@ -1043,7 +1043,7 @@ Die _Beschreibung_ des Psychischen muß sich ja wieder als Symbol verwenden lass
     <mrow>
       <mn>11</mn>
     </mrow>
-    <mo>_</mo>
+    <mo>&#95;</mo>
   </munder>
   <mn>121</mn>
   <mspace width="0.3em"/>
@@ -1059,7 +1059,7 @@ Die _Beschreibung_ des Psychischen muß sich ja wieder als Symbol verwenden lass
       <mn>2</mn>
       <mn>4</mn>
     </mrow>
-    <mo>_</mo>
+    <mo>&#95;</mo>
   </munder>
   <mn>14</mn>
   <mn>4</mn>
@@ -1075,7 +1075,7 @@ Die _Beschreibung_ des Psychischen muß sich ja wieder als Symbol verwenden lass
     <mrow>
       <mn>39</mn>
     </mrow>
-    <mo>_</mo>
+    <mo>&#95;</mo>
   </munder>
   <mn>169</mn>
   <mspace width="0.3em"/>
@@ -2039,14 +2039,14 @@ Vom Befehl zu seiner Ausführung ist ein Schritt einer Rechnung. Ja, die Rechnun
       <mspace width="0.3em"/>
       <mn>25</mn>
     </mrow>
-    <mo>_</mo>
+    <mo>&#95;</mo>
   </munder>
   <mn>50</mn>
   <munder>
     <mrow>
       <mn>125</mn>
     </mrow>
-    <mo>_</mo>
+    <mo>&#95;</mo>
   </munder>
 </math>
 

@@ -836,7 +836,7 @@ Nun könnte man diesen Fall etwa mit dem des Tennisspiels vergleichen wollen, in
 
 ### [Ts-213](/ts-213/#533r.2) <span class="fac">[533r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/533r.webp)</span> {#ts-213-533r2}
 
-Es könnte Einer vielleicht sagen: In dem arithmetischen Spiel werden wir zwar multiplizieren <math class="stacked" display="inline"><munder><mrow><mn>21</mn><mspace width="0.3em"/><mo>×</mo><mspace width="0.3em"/><mn>8</mn></mrow><mo>_</mo></munder><mn>168</mn></math>, aber die Gleichung 21 × 8 = 168 wird nicht im Spiel vorkommen. Aber ist das nicht ein äußerlicher Unterschied? und warum sollen wir nicht auch so multiplizieren (und gewiß dividieren), daß die Gleichung als solche angeschrieben wird?
+Es könnte Einer vielleicht sagen: In dem arithmetischen Spiel werden wir zwar multiplizieren <math class="stacked" display="inline"><munder><mrow><mn>21</mn><mspace width="0.3em"/><mo>×</mo><mspace width="0.3em"/><mn>8</mn></mrow><mo>&#95;</mo></munder><mn>168</mn></math>, aber die Gleichung 21 × 8 = 168 wird nicht im Spiel vorkommen. Aber ist das nicht ein äußerlicher Unterschied? und warum sollen wir nicht auch so multiplizieren (und gewiß dividieren), daß die Gleichung als solche angeschrieben wird?
 
 ### [Ts-213](/ts-213/#533r.3) <span class="fac">[533r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/533r.webp)</span> {#ts-213-533r3}
 
@@ -1602,7 +1602,7 @@ Unser Kalkül braucht überhaupt noch nichts von der Bildung einer Reihe ‘(Еx
 
 u.s.w. bis zum z.
 
-Die rechte Seite (rechts vom “⊃”) kann man dann aus der linken durch einen Kalkül der Art finden: <math class="stacked" display="inline"><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mi>c</mi><mspace width="0.3em"/><mi>d</mi><mspace width="0.3em"/><mi>e</mi><mspace width="0.3em"/><mi>f</mi><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mi>z</mi><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mo>-</mo><mspace width="0.3em"/><mo>-</mo><mspace width="0.3em"/><mo>-</mo><munder><mrow><mo>-</mo><mspace width="0.3em"/><mo>-</mo><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mi>c</mi></mrow><mo>_</mo></munder><mtext>B)</mtext><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mi>c</mi><mspace width="0.3em"/><mi>d</mi><mspace width="0.3em"/><mi>e</mi></math>
+Die rechte Seite (rechts vom “⊃”) kann man dann aus der linken durch einen Kalkül der Art finden: <math class="stacked" display="inline"><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mi>c</mi><mspace width="0.3em"/><mi>d</mi><mspace width="0.3em"/><mi>e</mi><mspace width="0.3em"/><mi>f</mi><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mi>z</mi><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mo>-</mo><mspace width="0.3em"/><mo>-</mo><mspace width="0.3em"/><mo>-</mo><munder><mrow><mo>-</mo><mspace width="0.3em"/><mo>-</mo><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mi>c</mi></mrow><mo>&#95;</mo></munder><mtext>B)</mtext><mspace width="0.3em"/><mi>a</mi><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mi>c</mi><mspace width="0.3em"/><mi>d</mi><mspace width="0.3em"/><mi>e</mi></math>
 
 Dieser Kalkül ergäbe sich aus den Regeln zur Bildung der Tautologien als eine Vereinfachung. – Dieses Gesetz der Bildung eines Reihenstückes aus zwei andern vorausgesetzt, kann ich für das erste nun die Bezeichnung “Summe der beiden andern” einführen und also definieren: a + a≝ab
 
@@ -2496,17 +2496,17 @@ Gleichungen u, v und w?” Und dann ist diese Frage durch den rekursiven Beweis 
 
 ### [Ts-213](/ts-213/#665r.2+666r.1) <span class="fac">[665r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/665r.webp),[666r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/666r.webp)</span> {#ts-213-665r2666r1}
 
-Was heißt “<math class="stacked" display="inline"><mtext>1:</mtext><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>”? heißt es dasselbe wie “<math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder></math>”? – Oder ist diese Division der Beweis des ersten Satzes? D.h.: steht sie zu ihm im Verhältnis der Ausrechnung zum Bewiesenen? “<math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>” ist nicht von der Art, wie
+Was heißt “<math class="stacked" display="inline"><mtext>1:</mtext><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>”? heißt es dasselbe wie “<math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder></math>”? – Oder ist diese Division der Beweis des ersten Satzes? D.h.: steht sie zu ihm im Verhältnis der Ausrechnung zum Bewiesenen? “<math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>” ist nicht von der Art, wie
 
 “1 : 2 = 0,5”; vielmehr entspricht
 
-“<math class="stacked" display="inline"><msub><mn>1</mn><mn>0</mn></msub><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>2</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>5</mn></math>” dem “1 : 3 = 0,31” (aber nicht dem “<math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder></math>”.)
+“<math class="stacked" display="inline"><msub><mn>1</mn><mn>0</mn></msub><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>2</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>5</mn></math>” dem “1 : 3 = 0,31” (aber nicht dem “<math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder></math>”.)
 
 Ich will einmal statt der Schreibweise “1 : 4 = 0,25” die gebrauchen:
 
 “1-0 : 4 = 0,25” also z.B. “3--0 : 8 = 0,375”
 
-dann kann ich sagen, diesem Satz entspricht nicht der: <math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>, sondern z.B. der: “1--1 : 3 = 0˙333”. <math class="stacked" display="inline"><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> ist nicht in dem Sinne Resultat (Quotient) der Division, wie 0,375. Denn die Zahl 0,375 war uns vor der Division 3:8 bekannt; was aber bedeutet “<math class="stacked" display="inline"><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>” losgelöst von der periodischen Division? – Die Behauptung, daß die Division a:b als Quotienten <math class="stacked" display="inline"><mn>0</mn><mtext>˙</mtext><mover><mrow><mi>c</mi></mrow><mtext>˙</mtext></mover></math> ergibt, ist dieselbe wie die: die erste Stelle des Quotienten sei c und der erste Rest gleich dem Dividenden. Nun steht B zur Behauptung, A gelte für alle Kardinalzahlen, im selben Verhältnis, wie <math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder></math> zu <math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>.
+dann kann ich sagen, diesem Satz entspricht nicht der: <math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>, sondern z.B. der: “1--1 : 3 = 0˙333”. <math class="stacked" display="inline"><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math> ist nicht in dem Sinne Resultat (Quotient) der Division, wie 0,375. Denn die Zahl 0,375 war uns vor der Division 3:8 bekannt; was aber bedeutet “<math class="stacked" display="inline"><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>” losgelöst von der periodischen Division? – Die Behauptung, daß die Division a:b als Quotienten <math class="stacked" display="inline"><mn>0</mn><mtext>˙</mtext><mover><mrow><mi>c</mi></mrow><mtext>˙</mtext></mover></math> ergibt, ist dieselbe wie die: die erste Stelle des Quotienten sei c und der erste Rest gleich dem Dividenden. Nun steht B zur Behauptung, A gelte für alle Kardinalzahlen, im selben Verhältnis, wie <math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder></math> zu <math class="stacked" display="inline"><mn>1</mn><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn><mtext>˙</mtext><mover><mrow><mn>3</mn></mrow><mtext>˙</mtext></mover></math>.
 
 ### [Ts-213](/ts-213/#666r.2) <span class="fac">[666r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/666r.webp)</span> {#ts-213-666r2}
 
@@ -2556,7 +2556,7 @@ x² + 3x + 1 = 0 ist” ist freilich durch eine Induktion entschieden, – aber 
 
 ### [Ts-213](/ts-213/#671r.2+672r.1) <span class="fac">[671r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/671r.webp),[672r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/672r.webp)</span> {#ts-213-671r2672r1}
 
-<math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>_</mo></munder></math> entscheidet durch ihre Periodizität nichts, was früher offen gelassen war. Wenn vor der Entdeckung der Periodizität Einer vergebens nach einer 4 in der Entwicklung von 1:3 gesucht hätte, so hätte er doch die Frage “gibt es eine 4 in der Entwicklung von 1:3” nicht sinnvoll stellen können, d.h., _abgesehen davon_, daß er tatsächlich zu keiner 4 gekommen war, können wir ihn davon überzeugen, daß er keine Methode besitzt, seine Frage zu entscheiden. Oder wir könnten auch sagen: abgesehen von dem Resultat seiner Tätigkeit könnten wir ihn über die Grammatik seiner Frage und die Natur seines Suchens aufklären (wie einen heutigen Mathematiker über analoge Probleme). “Aber als Folge der Entdeckung der Periodizität hört er nun doch gewiß auf, nach einer 4 zu suchen! Sie überzeugt ihn also, daß er nie eine finden wird”. – Nein. Die Entdeckung der Periodizität bringt ihn vom Suchen ab, _wenn_ er sich nun neu einstellt. Man könnte ihn fragen: “Wie ist es nun, willst Du noch immer nach einer 4 suchen?” (Oder hat Dich, sozusagen, die Periodizität auf andere Gedanken gebracht.) Und die Entdeckung der Periodizität ist in Wirklichkeit die Konstruktion eines neuen Zeichens und Kalküls. Denn es ist irreführend ausgedrückt, wenn wir sagen, sie bestehe darin, daß es uns _aufgefallen_ sei, daß der erste Rest gleich dem Dividenden ist. Denn hätte man Einen, der die periodische Division nicht kannte, gefragt, ist in dieser Division der erste Rest gleich dem Dividenden, so hätte er natürlich “ja” gesagt; es wäre ihm also aufgefallen. Aber damit hätte ihm nicht die Periodizität auffallen brauchen; d.h.: er hätte damit nicht den Kalkül mit den Zeichen <math class="stacked" display="inline"><msub><mi>a</mi><mi>a</mi></msub><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>c</mi></math> gefunden. Ist nicht, was ich hier sage, immer dasselbe, was Kant damit meinte, daß 5 + 7 = 12 nicht analytisch, sondern synthetisch a priori sei?
+<math class="stacked" display="inline"><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mn>3</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>0,</mtext><mn>3</mn><munder><mrow><mn>1</mn></mrow><mo>&#95;</mo></munder></math> entscheidet durch ihre Periodizität nichts, was früher offen gelassen war. Wenn vor der Entdeckung der Periodizität Einer vergebens nach einer 4 in der Entwicklung von 1:3 gesucht hätte, so hätte er doch die Frage “gibt es eine 4 in der Entwicklung von 1:3” nicht sinnvoll stellen können, d.h., _abgesehen davon_, daß er tatsächlich zu keiner 4 gekommen war, können wir ihn davon überzeugen, daß er keine Methode besitzt, seine Frage zu entscheiden. Oder wir könnten auch sagen: abgesehen von dem Resultat seiner Tätigkeit könnten wir ihn über die Grammatik seiner Frage und die Natur seines Suchens aufklären (wie einen heutigen Mathematiker über analoge Probleme). “Aber als Folge der Entdeckung der Periodizität hört er nun doch gewiß auf, nach einer 4 zu suchen! Sie überzeugt ihn also, daß er nie eine finden wird”. – Nein. Die Entdeckung der Periodizität bringt ihn vom Suchen ab, _wenn_ er sich nun neu einstellt. Man könnte ihn fragen: “Wie ist es nun, willst Du noch immer nach einer 4 suchen?” (Oder hat Dich, sozusagen, die Periodizität auf andere Gedanken gebracht.) Und die Entdeckung der Periodizität ist in Wirklichkeit die Konstruktion eines neuen Zeichens und Kalküls. Denn es ist irreführend ausgedrückt, wenn wir sagen, sie bestehe darin, daß es uns _aufgefallen_ sei, daß der erste Rest gleich dem Dividenden ist. Denn hätte man Einen, der die periodische Division nicht kannte, gefragt, ist in dieser Division der erste Rest gleich dem Dividenden, so hätte er natürlich “ja” gesagt; es wäre ihm also aufgefallen. Aber damit hätte ihm nicht die Periodizität auffallen brauchen; d.h.: er hätte damit nicht den Kalkül mit den Zeichen <math class="stacked" display="inline"><msub><mi>a</mi><mi>a</mi></msub><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mi>b</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>c</mi></math> gefunden. Ist nicht, was ich hier sage, immer dasselbe, was Kant damit meinte, daß 5 + 7 = 12 nicht analytisch, sondern synthetisch a priori sei?
 
 ### [Ts-213](/ts-213/#673r.1) <span class="fac">[673r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/673r.webp)</span> {#ts-213-673r1}
 
@@ -3136,13 +3136,13 @@ Man faßt die Periodizität eines Bruches, z.B. ⅓, so auf, als _bestünde_ sie
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3165,13 +3165,13 @@ bewiesen ist, ist _diese_ Regelmäßigkeit im Gegensatz zu einer andern, nicht d
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3194,13 +3194,13 @@ bewiesen ist, ist _diese_ Regelmäßigkeit im Gegensatz zu einer andern, nicht d
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3231,13 +3231,13 @@ Und das Zeichen “[0˙3, 0˙x, 0˙x3]” ist kein Ersatz für eine Extension, s
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3300,13 +3300,13 @@ Man könnte – wie gesagt – den Induktionsbeweis ganz ohne die Benützung von
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3329,13 +3329,13 @@ Man könnte – wie gesagt – den Induktionsbeweis ganz ohne die Benützung von
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3380,13 +3380,13 @@ und verneint. Wenn wir ihn als (x). f(x) auffassen, so ist er ein logisches Prod
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mn>1</mn>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3413,13 +3413,13 @@ Wie wäre es, wenn man außer den Multiplikationsregeln noch” 25 × 25 = 625�
       <mrow>
         <mi>a</mi>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
     <munder>
       <mrow>
         <mi>a</mi>
       </mrow>
-      <mo>_</mo>
+      <mo>&#95;</mo>
     </munder>
   </msub>
   <mspace width="0.3em"/>
@@ -3905,7 +3905,7 @@ D.h. zwischen u und A liegt die Kluft von Arithmetik und Algebra, und wenn B als
 
 ### [Ts-213](/ts-213/#724r.4) <span class="fac">[724r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/724r.webp)</span> {#ts-213-724r4}
 
-Nun ist ganz klar, daß wir Gebrauch von so einer Idee der Übereinstimmung machen, wenn wir uns nur z.B. rasch ein Zahlenbeispiel ausrechnen, um dadurch die Richtigkeit eines algebraischen Satzes zu kontrollieren. Und in diesem Sinne könnte ich z.B. rechnen <math class="stacked" display="inline"><munder><mrow><mn>25</mn><mspace width="0.3em"/><mo>×</mo><mspace width="0.3em"/><mn>16</mn></mrow><mo>_</mo></munder><mn>25</mn><mn>150</mn><mover><mrow><mn>400</mn></mrow><mo>‾</mo></mover><mspace width="0.3em"/><mo>|</mo><mspace width="0.3em"/><mo>|</mo><munder><mrow><mn>16</mn><mspace width="0.3em"/><mo>×</mo><mspace width="0.3em"/><mn>25</mn></mrow><mo>_</mo></munder><mn>32</mn><mn>80</mn><mover><mrow><mn>400</mn></mrow><mo>‾</mo></mover></math> und sagen: “ja, ja, es stimmt, a × b ist gleich b × a” – wenn ich mir vorstelle, daß ich das vergessen hätte.
+Nun ist ganz klar, daß wir Gebrauch von so einer Idee der Übereinstimmung machen, wenn wir uns nur z.B. rasch ein Zahlenbeispiel ausrechnen, um dadurch die Richtigkeit eines algebraischen Satzes zu kontrollieren. Und in diesem Sinne könnte ich z.B. rechnen <math class="stacked" display="inline"><munder><mrow><mn>25</mn><mspace width="0.3em"/><mo>×</mo><mspace width="0.3em"/><mn>16</mn></mrow><mo>&#95;</mo></munder><mn>25</mn><mn>150</mn><mover><mrow><mn>400</mn></mrow><mo>‾</mo></mover><mspace width="0.3em"/><mo>|</mo><mspace width="0.3em"/><mo>|</mo><munder><mrow><mn>16</mn><mspace width="0.3em"/><mo>×</mo><mspace width="0.3em"/><mn>25</mn></mrow><mo>&#95;</mo></munder><mn>32</mn><mn>80</mn><mover><mrow><mn>400</mn></mrow><mo>‾</mo></mover></math> und sagen: “ja, ja, es stimmt, a × b ist gleich b × a” – wenn ich mir vorstelle, daß ich das vergessen hätte.
 
 ### [Ts-213](/ts-213/#724r.5+725r.1) <span class="fac">[724r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/724r.webp),[725r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/725r.webp)</span> {#ts-213-724r5725r1}
 

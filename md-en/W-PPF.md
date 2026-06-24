@@ -1,4 +1,4 @@
-# Philosophie der Psychologie – Ein Fragment
+# Philosophy of Psychology – A Fragment
 
 <details>
 
@@ -367,6 +367,8 @@ Likewise: The statement “I believe it will rain” has a similar sense, i.e., 
 ### [Ms-144](/ms-144/#21r.4+21v.1) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21r421v1}
 
 “In essence, with the words ‘I believe…,’ I describe my own state of mind, but this description is here indirectly an assertion of the believed fact itself.” – As when I describe a photograph in order to describe what it depicts. But then I must also be able to say that the photograph is a good depiction. Also: “I believe that it will rain, and my belief is reliable, so I rely on it.” – Then my belief would be a kind of sense impression.
+
+\>
 
 ### [Ms-144](/ms-144/#21v.6) <span class="fac">[21v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21v6}
 

@@ -16,6 +16,9 @@ name: Build and deploy
 # Repository secrets (shared by both environments):
 #   BUNNY_STORAGE_HOST     e.g. storage.bunnycdn.com (or a region host)
 #   BUNNY_API_KEY          account-level API key (for the cache purge)
+#   MEILI_HOST             the (single) Meilisearch instance URL
+#   MEILI_ADMIN_KEY        Meilisearch write key (shared; swap for per-env scoped keys later)
+#   MEILI_SEARCH_KEY       Meilisearch read-only search key, embedded in the /search page
 # Environment secrets (set in BOTH the `production` and `staging` environments, each with
 # that environment's own values):
 #   BUNNY_STORAGE_USER     the storage zone name
@@ -61,6 +64,7 @@ jobs:
             tools/ebooks
             tools/pdfs
             tools/translate
+            tools/search-index
 
       # Build-broken gate. Run before installing the heavier toolchain so a broken
       # translation set fails fast and never reaches a build or deploy.
@@ -144,10 +148,23 @@ jobs:
           xvfb-run -a make -j"$(nproc)" viz covers epub pdf
 
       - name: Build content and Hugo site
+        # Bake the per-environment search config into the build. Hugo maps HUGO_PARAMS_* env
+        # vars onto .Site.Params (lowercased), so the /search page and /js/search.js get the
+        # instance URL, the read-only search key, and the branch's index — no os.Getenv (and
+        # thus no Hugo security allowlist) needed.
+        env:
+          HUGO_PARAMS_MEILIHOST: ${{ secrets.MEILI_HOST }}
+          HUGO_PARAMS_MEILISEARCHKEY: ${{ secrets.MEILI_SEARCH_KEY }}
+          HUGO_PARAMS_MEILIINDEX: ${{ github.ref == 'refs/heads/main' && 'remarks-production' || 'remarks-staging' }}
         run: |
           set -euo pipefail
           make content
-          hugo -s site -e production
+          hugo -s site -e ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
+
+      # Gate the deploy on rendering quality: fail before publishing if any page
+      # shows truncation, emphasis leaking into <math>, or a stray <blockquote>.
+      - name: Verify rendering
+        run: make check-render
 
       - name: Deploy to Bunny
         env:
@@ -171,3 +188,25 @@ jobs:
             -X POST "https://api.bunny.net/pullzone/${BUNNY_PULLZONE_ID}/purgeCache" \
             -H "AccessKey: ${BUNNY_API_KEY}"
           echo "Purged Bunny pull zone ${BUNNY_PULLZONE_ID}."
+
+      # Push every remark to Meilisearch so the site is searchable. Runs after the deploy and
+      # is non-blocking: search is an enhancement, so a Meilisearch hiccup marks this step red
+      # but never fails an otherwise-good content deploy. The host and key are shared repo
+      # secrets; the target index is derived from the branch (main -> remarks-production, every
+      # other branch -> remarks-staging), mirroring the `environment:` expression above. The
+      # indexer builds a fresh index and atomically swaps it in, so searchers never see a
+      # half-built index.
+      - name: Index remarks into Meilisearch
+        continue-on-error: true
+        env:
+          MEILI_HOST: ${{ secrets.MEILI_HOST }}
+          MEILI_ADMIN_KEY: ${{ secrets.MEILI_ADMIN_KEY }}
+          MEILI_INDEX_PREFIX: ${{ github.ref == 'refs/heads/main' && 'remarks-production' || 'remarks-staging' }}
+        run: |
+          set -euo pipefail
+          cd tools/search-index
+          cargo run --release -- \
+            --md-dir ../../md --en-dir ../../md-en \
+            --meili-host "$MEILI_HOST" \
+            --meili-key "$MEILI_ADMIN_KEY" \
+            --index-prefix "$MEILI_INDEX_PREFIX"

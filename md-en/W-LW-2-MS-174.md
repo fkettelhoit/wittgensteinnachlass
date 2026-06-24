@@ -1,4 +1,4 @@
-# Letzte Schriften über die Philosophie der Psychologie – II MS 174
+# Last Writings on the Philosophy of Psychology – II MS 174
 
 <details>
 

@@ -1,0 +1,21 @@
+{{ if and site.Params.meilihost site.Params.meilisearchkey }}
+{{/* Inline live search, hidden until search.js activates it (so without JS the <noscript>
+     line shows instead). The Meilisearch key is a read-only, search-only key — safe to embed.
+     Uses the global `site` (not `.Site`) because the intro partials are called without a
+     page context. */}}
+<div class="search" hidden
+     data-host="{{ site.Params.meilihost }}"
+     data-key="{{ site.Params.meilisearchkey }}"
+     data-index="{{ site.Params.meiliindex }}">
+  <input type="search" class="search-input" autocomplete="off" spellcheck="false"
+         aria-label="Search Wittgenstein’s writings" placeholder="Search the Nachlass…">
+  {{ if not hugo.IsProduction }}
+  <p class="search-langs"><button type="button" data-lang="de" class="lang-active">German</button> | <button type="button" data-lang="en">English</button></p>
+  {{ end }}
+  <p class="search-status" aria-live="polite"></p>
+  <div class="search-results"></div>
+  <div class="search-lightboxes"></div>
+</div>
+<noscript><p class="search-nojs">Search requires JavaScript.</p></noscript>
+<script defer src="/js/search.js"></script>
+{{ end }}

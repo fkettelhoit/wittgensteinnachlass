@@ -861,11 +861,53 @@ pub fn parse_work_titles(index_content: &str) -> HashMap<String, String> {
     map
 }
 
-/// Rewrite an overview page's preamble for the English edition: translate the title
-/// and the part-link labels (German base title → English base title, keeping the
-/// structural suffix like " – I App I"), and point the links at the English pages
-/// (`/w-rfm-1/` → `/en/w-rfm-1/`).
-fn rewrite_overview_preamble(preamble: &str, en_title: &str) -> String {
+/// Build (de_base_title, en_base_title) pairs from the English work titles in
+/// `all.md` (keyed by `W-*.md` filename) joined with each base work's own German
+/// `# H1`. Sorted longest German title first so the most specific base wins.
+pub fn build_base_titles(
+    work_titles: &HashMap<String, String>,
+    input_dir: &Path,
+) -> Vec<(String, String)> {
+    let mut pairs: Vec<(String, String)> = work_titles
+        .iter()
+        .filter_map(|(fname, en)| {
+            let de = fs::read_to_string(input_dir.join(fname)).ok()?;
+            let de_title = de
+                .lines()
+                .find(|l| l.starts_with("# "))
+                .map(|l| l[2..].trim().to_string())?;
+            Some((de_title, en.clone()))
+        })
+        .collect();
+    pairs.sort_by(|a, b| b.0.len().cmp(&a.0.len()));
+    pairs
+}
+
+/// Resolve a work's English title from its German title using the (de_base, en_base)
+/// pairs. Matches the longest German base title that is a prefix and swaps it for the
+/// English base, preserving the structural suffix (e.g. " – I", " – II MS 169").
+/// Returns None when no base matches (e.g. Ms/Ts docs, or works without a translation).
+pub fn resolve_work_title_en(
+    german_title: &str,
+    base_titles: &[(String, String)],
+) -> Option<String> {
+    base_titles.iter().find_map(|(de_base, en_base)| {
+        if german_title == de_base {
+            Some(en_base.clone())
+        } else if german_title.starts_with(de_base.as_str()) {
+            Some(format!("{}{}", en_base, &german_title[de_base.len()..]))
+        } else {
+            None
+        }
+    })
+}
+
+/// Rewrite a work's preamble for the English edition: translate the title and, for
+/// overview pages, the part-link labels (German base title → English base title,
+/// keeping the structural suffix like " – I App I") and point the links at the English
+/// pages (`/w-rfm-1/` → `/en/w-rfm-1/`). Content works have no link lines, so only the
+/// title line is rewritten.
+fn rewrite_work_preamble(preamble: &str, en_title: &str) -> String {
     let de_title = preamble
         .lines()
         .find(|l| l.starts_with("# "))
@@ -894,24 +936,36 @@ fn rewrite_overview_preamble(preamble: &str, en_title: &str) -> String {
 
 /// Assemble a translated work file from translated doc remarks.
 ///
-/// `work_title_en` is the work's English title (from `all.md`); when the work is an
-/// overview page (no remarks, just part links) it is used to produce an English
-/// overview — English title, English part labels, and `/en/…` links.
+/// `base_titles` are the (de_base, en_base) pairs (see `build_base_titles`); they are
+/// used to translate the preamble title — both for base works and sub-parts (e.g.
+/// "… – I") — and, for overview pages, the part-link labels and `/en/…` links.
 pub fn assemble_work(
     work_german_path: &Path,
     url_map: &HashMap<String, String>,
     output_path: &Path,
-    work_title_en: Option<&str>,
+    base_titles: &[(String, String)],
 ) -> usize {
     let content = fs::read_to_string(work_german_path).expect("Failed to read work file");
     let (preamble, remarks) = parse_document(&content);
     let stem = work_german_path.file_name().unwrap().to_string_lossy();
 
-    // Overview pages (no remarks) get an English title + English part links.
-    let preamble = match (remarks.is_empty(), work_title_en) {
-        (true, Some(en_title)) => rewrite_overview_preamble(&preamble, en_title),
-        _ => preamble,
+    // Translate the preamble title to English (and, for overview pages, the part
+    // links). The English title is resolved from this work's German `# H1` via the
+    // base-title map, which covers both base works and sub-parts.
+    let de_title = preamble
+        .lines()
+        .find(|l| l.starts_with("# "))
+        .map(|l| l[2..].trim().to_string());
+    let mut preamble = match de_title.as_deref().and_then(|t| resolve_work_title_en(t, base_titles)) {
+        Some(en_title) => rewrite_work_preamble(&preamble, &en_title),
+        None => preamble,
     };
+    // rewrite_work_preamble strips trailing newlines; for content works restore the
+    // single newline so a blank line separates the preamble from the first remark
+    // heading (the remark writer prepends "\n"). Overview pages keep no EOF newline.
+    if !remarks.is_empty() && !preamble.ends_with('\n') {
+        preamble.push('\n');
+    }
 
     let mut missing = 0;
     let mut file = fs::File::create(output_path).expect("Failed to create work output file");
@@ -1033,6 +1087,15 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
     if old_de == new_de {
         return None;
     }
+    // Markdown-escape-only change: the sanitizer toggled a line-leading `>` to `\>`
+    // (or back) so it no longer renders as a stray blockquote. This is punctuation
+    // `check` flags as stale, so mirror the same toggle on the English. If the
+    // English has no matching line-leading `>` to fix (it dropped or never had it),
+    // return None so the change is retranslated rather than silently passed.
+    if let Some(escape_added) = leading_gt_escape_only_change(old_de, new_de) {
+        let new_en = toggle_leading_gt_escape(old_en, escape_added);
+        return (new_en != old_en).then_some(new_en);
+    }
     // Try prefix fix: find longest common tail, check if head is non-word
     let tail_len = common_byte_suffix_len(old_de, new_de);
     if tail_len > 0 {
@@ -1063,6 +1126,37 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
         }
     }
     None
+}
+
+/// Detect whether the only difference between two German bodies is the escaping of
+/// line-leading `>` markers (`>` ⇄ `\>`). Returns Some(true) if escaping was added,
+/// Some(false) if removed, None if anything else also changed.
+fn leading_gt_escape_only_change(old_de: &str, new_de: &str) -> Option<bool> {
+    if old_de == new_de {
+        return None;
+    }
+    let re = Regex::new(r"(?m)^\\>").unwrap();
+    // Bodies must be identical once leading `\>` is normalized back to `>`.
+    if re.replace_all(old_de, ">") != re.replace_all(new_de, ">") {
+        return None;
+    }
+    let old_n = re.find_iter(old_de).count();
+    let new_n = re.find_iter(new_de).count();
+    match new_n.cmp(&old_n) {
+        std::cmp::Ordering::Greater => Some(true),
+        std::cmp::Ordering::Less => Some(false),
+        std::cmp::Ordering::Equal => None,
+    }
+}
+
+/// Apply the leading-`>` escape toggle to a body: escape every line-leading `>` to
+/// `\>` when `add` is true, or unescape `\>` back to `>` when false.
+fn toggle_leading_gt_escape(body: &str, add: bool) -> String {
+    if add {
+        Regex::new(r"(?m)^>").unwrap().replace_all(body, r"\>").into_owned()
+    } else {
+        Regex::new(r"(?m)^\\>").unwrap().replace_all(body, ">").into_owned()
+    }
 }
 
 /// Check if a string contains no alphabetic characters outside HTML tags.
@@ -1284,4 +1378,51 @@ pub fn build_reuse_map(german_path: &Path, english_path: &Path) -> ReuseMap {
         count += 1;
     }
     ReuseMap { entries, len: count }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    // Ts-222 class: the German `>` was escaped to `\>`; the English still has the
+    // unescaped `>` and must get the same escape (else it renders as a blockquote).
+    #[test]
+    fn auto_fix_escapes_leading_gt_in_english() {
+        let old_de = "Text.\n\n> Bd. XII S. 103/1]";
+        let new_de = "Text.\n\n\\> Bd. XII S. 103/1]";
+        let old_en = "Text.\n\n> Vol. XII p. 103/1]";
+        assert_eq!(
+            try_auto_fix_remark(old_de, new_de, old_en).as_deref(),
+            Some("Text.\n\n\\> Vol. XII p. 103/1]")
+        );
+    }
+
+    // Ms-144 class: the English dropped the standalone `>` line, so there is nothing
+    // to mechanically fix — must fall through to retranslation, not silently pass.
+    #[test]
+    fn auto_fix_declines_when_english_has_no_leading_gt() {
+        let old_de = "Text.\n\n>";
+        let new_de = "Text.\n\n\\>";
+        let old_en = "Text.";
+        assert_eq!(try_auto_fix_remark(old_de, new_de, old_en), None);
+    }
+
+    // Unescaping (the reverse toggle) propagates to the English too.
+    #[test]
+    fn auto_fix_unescapes_leading_gt_in_english() {
+        let old_de = "Text.\n\n\\> ref]";
+        let new_de = "Text.\n\n> ref]";
+        let old_en = "Text.\n\n\\> ref]";
+        assert_eq!(
+            try_auto_fix_remark(old_de, new_de, old_en).as_deref(),
+            Some("Text.\n\n> ref]")
+        );
+    }
+
+    // A change that is not purely leading-`>` escaping is not treated as one.
+    #[test]
+    fn escape_detector_rejects_word_changes() {
+        assert_eq!(leading_gt_escape_only_change("a > x", "a > y"), None);
+        assert_eq!(leading_gt_escape_only_change("\\> a", "\\> b"), None);
+    }
 }

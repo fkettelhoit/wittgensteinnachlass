@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik – III
+# Remarks on the Foundations of Mathematics – III
 
 <details>
 

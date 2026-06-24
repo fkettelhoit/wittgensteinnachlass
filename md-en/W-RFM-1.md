@@ -1,4 +1,4 @@
-# Bemerkungen über die Grundlagen der Mathematik – I
+# Remarks on the Foundations of Mathematics – I
 
 <details>
 
@@ -631,7 +631,7 @@ However many rules you give me – I give you a rule that justifies _my_ use of 
 
 <span class="series-number">116</span> “After you, anyone could continue the series in any way they want; and thus also conclude it in _some_ way!” We will then not call it “continuing the series” and probably not “concluding” it either. And thinking & concluding (as well as counting) are not defined for us by an arbitrary definition, but by natural limits, corresponding to the body of what we can call the role of thinking & concluding in our lives. Because we agree that closure rules do not force it, like rails force a train, to _say_ or write this or that. And if you say that it can indeed _speak_, but it cannot _think_, then I only say that it does not mean: it could not think it, quasi despite all effort, but it means: for ‘thinking’ to be essential for us, it must – when speaking, writing, etc. – make _such_ transitions. And furthermore, I say that the boundary between what we still call ‘thinking’ and what we no longer call it is as indistinct as the boundary between what is still called “lawfulness” and what we no longer call it. One can still say that the closure rules force us; in the sense, namely, that other laws in human society do. The clerk, who concludes as in (210), _must_ do so; he would have been punished if he had concluded differently. However, whoever concludes differently comes into conflict: e.g., with society; but also with other practical consequences. And there is also something to it, when one says: he cannot _think_ it. One wants to say: He cannot fill it with personal content: he cannot really _go along_ – with his mind, with his person. It is similar to saying: These sequences of notes do not make sense, I cannot sing them with expression. I cannot _resonate_ with them. Or, what amounts to the same thing here: I do not resonate. “If he speaks it – one could say – he can only speak it thoughtlessly.” And it should only be noted that ‘thoughtless’ speaking is also sometimes distinguished from another by what is going on in the speaker, in terms of images, sensations, and other things, during the speaking, but that this accompaniment does not constitute ‘thinking’ and its absence does not yet constitute ‘thoughtlessness’. [→ [See Reading] Experiment
 
-> Vol. XII p. 103/1]
+\> Vol. XII p. 103/1]
 
 ### [Ts-222](/ts-222/#90.1) <span class="fac">[90\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/90.webp)</span> {#ts-222-901}
 
