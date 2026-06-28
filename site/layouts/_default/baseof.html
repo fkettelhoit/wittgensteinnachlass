@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="/css/style.css">
   <link rel="icon" type="image/png" sizes="any" href="/favicon.png" media="(prefers-color-scheme: light)">
   <link rel="icon" type="image/png" sizes="any" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
+  <script data-goatcounter="https://fredkettelhoit.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body{{ if eq .Params.layout "bilingual" }}{{ if findRE `\.webp\)` .RawContent }} class="bilingual"{{ else }} class="overview"{{ end }}{{ end }}>
   {{ block "main" . }}{{ end }}
