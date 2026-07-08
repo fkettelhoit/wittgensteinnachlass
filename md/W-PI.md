@@ -2,13 +2,13 @@
 
 <details>
 
-<summary>1944–1946, 717 remarks, Ts-227b, Ts-227a</summary>
+<summary>1944–1946, 717 remarks, Ts-227a, Ts-227b</summary>
 
 <img class="viz" src="/viz/W-PI.svg">
 
 </details>
 
-### [Ts-227b](/ts-227b/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227b/1.webp)</span> {#ts-227b-11}
+### [Ts-227a](/ts-227a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-227a/1.webp)</span> {#ts-227a-11}
 
 ## Philosophische Untersuchungen.
 
