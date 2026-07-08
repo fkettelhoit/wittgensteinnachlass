@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1941–1944, 391 remarks, Ms-124</summary>
+<summary>1941–1944, 392 remarks, Ms-124</summary>
 
 <img class="viz" src="/viz/W-RFM-7.svg">
 
@@ -567,6 +567,10 @@ Kann man von der Mathematik sagen, sie lehre uns experimentelle _Forschungsweise
 ### [Ms-124](/ms-124/#80.2) <span class="fac">[80\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/80.webp)</span> {#ms-124-802}
 
 In der Rechnung _gibt es keine_ kausalen Zusammenhänge, nur die Zusammenhänge des Bildes.
+
+### [Ms-124](/ms-124/#81.1) <span class="fac">[81\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/81.webp)</span> {#ms-124-811}
+
+Und daran ändert es nichts, daß wir die Beweisfigur nachrechnen, um sie anzuerkennen. Daß wir also versucht sind, zu sagen, wir ließen sie durch ein psychologisches Experiment entstehen. Denn der psychische Ablauf wird beim Rechnen nicht psychologisch untersucht.
 
 ### [Ms-124](/ms-124/#82.4+85.1) <span class="fac">[82\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/82.webp),[85\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/85.webp)</span> {#ms-124-824851}
 

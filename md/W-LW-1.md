@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1948–1949, 998 remarks, Ms-137, Ms-167, Ms-138</summary>
+<summary>1948–1949, 1001 remarks, Ms-137, Ms-167, Ms-138</summary>
 
 <img class="viz" src="/viz/W-LW-1.svg">
 
@@ -249,6 +249,10 @@ Wer schreien kann, der kann damit noch nicht einem etwas im Gespräch mitteilen.
 ### [Ms-137](/ms-137/#82a.6) <span class="fac">[82a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/82a.webp)</span> {#ms-137-82a6}
 
 <span class="series-number">56</span> Aber es bleibt dann die Frage, warum wir bei dem _Spiel_ des Meinens auch von einem _‘meinen’_ reden. – Das ist eine Frage anderer Art. Es ist eben die Erscheinung des Spiels, daß wir hier in einem nur endlichen Sinn von einem ‘Meinen’ reden.
+
+### [Ms-137](/ms-137/#82b.1) <span class="fac">[82b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/82b.webp)</span> {#ms-137-82b1}
+
+Das ist eine Frage von anderer Art ‒ ‒ Es ist (eben) die Erscheinung des Spiels, daß wir in _dieser_ Situation sagen, wir hätten das Wort _so_ gemeint & diesen Ausdruck aus dem andern Sprachspiel herübernehmen. _Es muß eine Frage vorhergegangen sein._ Das ist eine Frage einer fremden Art. Das ist eine ungehörige Frage; gleichsam anderer _Rasse_.
 
 ### [Ms-137](/ms-137/#82b.2) <span class="fac">[82b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/82b.webp)</span> {#ms-137-82b2}
 
@@ -626,6 +630,10 @@ Ich bin bei dem Wort in _dieser_ Richtung gegangen. (Es ist also, als ob man die
 
 “Ich wollte Dir mit dem Zeichen zu verstehen geben Du solltest” … “Dies drückt keine Zeichenregel aus (keine Übereinkunft); sondern den Zweck, jenes Zeichens meiner Handlung.
 
+### [Ms-137](/ms-137/#91a.5) <span class="fac">[91a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/91a.webp)</span> {#ms-137-91a5}
+
+Ich konnte freilich ein für diesen Zweck festgesetztes Zeichen verwenden.
+
 ### [Ms-137](/ms-137/#91a.6) <span class="fac">[91a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/91a.webp)</span> {#ms-137-91a6}
 
 <span class="series-number">139</span> [→ ] “_Diese_ Zahl ist die folgerechte Fortsetzung dieser Reihe” Mittels dieses Ausdrucks kann ich einen dazu bringen, daß er in Zukunft das & das die “folgerechte Fortsetzung” nennt. Was ‘das & das’ ist, kann ich nur an Beispielen zeigen. – D.h., ich kann ihn eine Reihe (Grundreihe) fortsetzen lehren, einen Ausdruck für das Gesetz der Reihe zu verwenden, vielmehr als ein Substrat für die Verwendung algebraischer Regeln, oder was ihnen ähnlich ist.
@@ -725,6 +733,10 @@ Man könnte das so ausdrücken: Es ist nicht so, aber ich _muß_ es glauben.
 ### [Ms-137](/ms-137/#94a.3) <span class="fac">[94a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/94a.webp)</span> {#ms-137-94a3}
 
 <span class="series-number">161</span> Denke, es gäbe eine ästhetische Regel, nach der zwischen Gesichtern auf einem Gemälde eine Ähnlichkeit bestehen muß. Ich zeige nun auf zwei Leute & sage Einem “Nimm diese als Modelle für Dein Bild; sie haben eine Ähnlichkeit.”
+
+### [Ms-137](/ms-137/#94a.4) <span class="fac">[94a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/94a.webp)</span> {#ms-137-94a4}
+
+Der Satz ist unzeitlich, wenn ich für “Sie sahen ein Ähnlichkeit” nicht setzen darf “Sie haben jetzt eine Ähnlichkeit”.
 
 ### [Ms-137](/ms-137/#94a.6) <span class="fac">[94a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/94a.webp)</span> {#ms-137-94a6}
 

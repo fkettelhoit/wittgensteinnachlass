@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1949–1951, 691 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
+<summary>1949–1951, 692 remarks, Ms-172, Ms-174, Ms-175, Ms-176, Ms-177</summary>
 
 <img class="viz" src="/viz/W-OC.svg">
 
@@ -1289,6 +1289,10 @@ Sagt man nicht eben dies? Aber nicht nur ich weiß, oder glaube alles das, sonde
 ### [Ms-175](/ms-175/#36r.3) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/36r.webp)</span> {#ms-175-36r3}
 
 <span class="series-number">306</span> “Ich weiß nicht, ob das eine Hand ist …” Weißt Du aber was das Wort “Hand” bedeutet? Und sag nicht “Ich weiß, was es jetzt für mich bedeutet.”
+
+### [Ms-175](/ms-175/#36v.1) <span class="fac">[36v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/36v.webp)</span> {#ms-175-36v1}
+
+Und ist das nicht eine Erfahrungstatsache, daß _dies_ Wort _so_ gebraucht wird?
 
 ### [Ms-175](/ms-175/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/36v.webp)</span> {#ms-175-36v2}
 

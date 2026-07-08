@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1949, 383 remarks, Ms-144</summary>
+<summary>1949, 384 remarks, Ms-144</summary>
 
 <img class="viz" src="/viz/W-PPF.svg">
 
@@ -362,7 +362,7 @@ Moore's Paradox läßt sich so aussprechen: Die Äußerung “Ich glaube, es ver
 
 ### [Ms-144](/ms-144/#21r.3) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r3}
 
-Ebenso: Die Aussage “Ich glaube, es wird regnen” hat einen ähnlichen Sinn, d.h., ähnliche Verwendung, wie “Es wird regnen”, aber “Ich glaubte damals, es werde regnen” nicht einen ähnlichen, wie “Es hat damals geregnet”. “Aber es muß doch ‘Ich glaubte’ eben _das_ in der Vergangenheit sagen, was “Ich glaubte’ in der Gegenwart!” – Es muß doch √‒1 eben das für ‒ 1 bedeuten, was √1 für 1 bedeutet! Das heißt gar nichts.
+Ebenso: Die Aussage “Ich glaube, es wird regnen” hat einen ähnlichen Sinn, d.h., ähnliche Verwendung, wie “Es wird regnen”, aber “Ich glaubte damals, es werde regnen” nicht einen ähnlichen, wie “Es hat damals geregnet”. “Aber es muß doch ‘Ich glaubte’ eben _das_ in der Vergangenheit sagen, was ‘Ich glaube’ in der Gegenwart!” – Es muß doch √‒1 eben das für ‒ 1 bedeuten, was √1 für 1 bedeutet! Das heißt gar nichts.
 
 ### [Ms-144](/ms-144/#21r.4+21v.1) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21r421v1}
 
@@ -423,6 +423,10 @@ Ich denke so: Glauben ist ein Zustand der Seele. Er dauert an; & unabhängig vom
 Ich habe zu meinen eigenen Worten eine ganz andre Einstellung als die Andern.
 
 ### [Ms-144](/ms-144/#23r.4) <span class="fac">[23r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)</span> {#ms-144-23r4}
+
+Jene Fortsetzung könnte ich finden, wenn ich nur sagen könnte “Ich scheine zu glauben”.
+
+### [Ms-144](/ms-144/#23r.5) <span class="fac">[23r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/23r.webp)</span> {#ms-144-23r5}
 
 Jene Fortsetzung könnte ich finden, wenn ich nur sagen könnte “Ich scheine zu glauben”.
 

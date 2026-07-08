@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1936, 369 remarks, Ms-115</summary>
+<summary>1936, 384 remarks, Ms-115</summary>
 
 <img class="viz" src="/viz/W-EPB.svg">
 
@@ -13,6 +13,12 @@
 25.08.1936
 
 ## Philosophische Untersuchungen. Versuch einer Umarbeitung.
+
+### [Ms-115](/ms-115/#118.2) <span class="fac">[118\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/118.webp)</span> {#ms-115-1182}
+
+Das Lernen der menschlichen Sprache beschreibt Augustinus so: (Confessiones I.8)
+
+“… cum … appellabant rem aliquam et cum secundum eam vocem corpus ad aliquid movebant, videbam et tenebam hoc ab eis vocari rem illam, quod sonabant, cum eam vellent ostendere”.
 
 ### [Ms-115](/ms-115/#118.3) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/118.webp)</span> {#ms-115-1183}
 
@@ -41,6 +47,12 @@ Denken wir uns folgende Fragestellung: “Wenn jemand den Befehl gibt ‘Bring m
 ### [Ms-115](/ms-115/#121.2) <span class="fac">[121\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/121.webp)</span> {#ms-115-1212}
 
 Dem Auswendiglernen der Zahlwörterreihe entspricht nichts im Lernen der Sprache (1), & dies zeigt deutlich, daß wir mit den Zahlwörtern ein gänzlich neues Instrument in die Sprache eingeführt haben. Die Wesensverschiedenheit der Instrumente Zahlwort & Bezeichnung der Bausteinform tritt hier so klar zu Tage, weil wir es nur mit zwei Wortarten zu tun haben & ihren Gebrauch ganz übersehen können.
+
+### [Ms-115](/ms-115/#121.3) <span class="fac">[121\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/121.webp)</span> {#ms-115-1213}
+
+<span class="series-number">3</span> Es ist hier klar, daß die Wortarten nur die äußere Form der Lautreihe mit einander gemein haben. Und die ist unwesentlich, denn wir könnten uns eine Variante von (2) denken,
+
+in der A statt Zahlwörter auszusprechen dem B eine Anzahl von Fingern zeigt.
 
 ### [Ms-115](/ms-115/#121.4+122.1) <span class="fac">[121\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/121.webp),[122\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/122.webp)</span> {#ms-115-12141221}
 
@@ -198,6 +210,10 @@ Ja, wenn Du eine Anzahl solcher Fälle _genau_ besehen hast & ich gebe Dir nun z
 
 “Aber in dem Fall (21) handelt ja B gänzlich automatisch. Wenn wirklich nur das vorgeht, was dort beschrieben ist, weiß er ja nicht, warum er den Stoff gewählt hat, er hat keinen Grund ihn zu wählen. Wenn er den richtigen wählt, so tut er es, wie eine Maschine es tun kann.” – Aber wir sagten ja nicht, daß B in diesem Falle nichts wahrnimmt, daß er die Stoffe nicht sähe, keine Tast- & Muskelempfindungen habe u.s.f. – Und wie sieht denn so ein Grund aus der die Wahl zu einer nicht-automatischen macht; d.h., wie stellen wir uns ihn vor? Ich denke, wir würden sagen, daß das Gegenteil des automatischen Wählens, sozusagen das Ideal des bewußten Wählens, darin bestehe, daß wir ein klares Erinnerungsbild oder das Muster selbst vor Augen hätten und eine spezifische Empfindung nicht zwischen dem Muster & dem gewählten Stoff unterscheiden zu können. Diese bestimmte Empfindung wäre dann der Grund, die Rechtfertigung der Wahl. Diese Empfindung, könnte man sagen, verbindet die beiden Erfahrungen: das Sehen des Musters mit dem Sehen des Stoffes. Aber was verbindet dann die spezifische Empfindung mit jenen beiden Erfahrungen? – Wir läugnen nicht, daß so eine Empfindung vermitteln kann; aber so betrachtet erscheint nun die Unterscheidung ‘automatisch – nicht automatisch’ nicht mehr so scharf & primär wir früher. Das heißt nicht, daß diese Unterscheidung in speziellen Fällen ihren praktischen Wert verliert. So werden wir unter bestimmten Umständen auf die Frage “Hast Du diesen Stoff mechanisch vom Regal genommen, oder hast Du Dir etwas dabei gedacht?” antworten, wir hätten nicht mechanisch gehandelt, denn wir hätten den Stoff genau besehen, uns an das Muster erinnert, Zweifel & Befriedigung geäußert. Das kann in einem besondern Fall der Unterschied zwischen automatisch & nicht-automatisch sein. In einem andern dagegen werden wir vielleicht zwischen automatischem & nicht-automatischem Auftreten des Erinnerungsbildes unterscheiden, u.s.f..
 
+### [Ms-115](/ms-115/#136.2) <span class="fac">[136\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/136.webp)</span> {#ms-115-1362}
+
+“Aber _warum_ hat er in (21) gerade _diesen_ Stoff gebracht, wie hat er ihn als den richtigen erkannt, woran?” – Wenn Du fragst “Warum?” fragst Du nach der Ursache oder nach dem Grund? Wenn nach der Ursache so ist es ja nicht schwer sich eine physiologische oder psychologische Hypothese auszudenken die die Wahl unter den gegebenen Umständen erklären könnte. Es ist die Aufgabe der experimentellen Wissenschaft solche Hypothesen zu prüfen. Wenn Du dagegen nach dem Grund fragst, so ist die Antwort: es muß keinen Grund für die Wahl geben. Ein Grund ist ein Schritt, der dem Schritt der Wahl vorhergeht. Aber warum sollte jedem Schritt ein andrer Schritt vorangehen?
+
 ### [Ms-115](/ms-115/#136.3+137.1) <span class="fac">[136\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/136.webp),[137\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/137.webp)</span> {#ms-115-13631371}
 
 “Aber dann hat B den Stoff nicht wirklich als den richtigen _erkannt_.” – Wenn Du willst so brauchst Du (21) nicht unter die Fälle des ‘Erkennens’ zu zählen. Aber wenn es uns klar wird daß die Vorgänge des Erkennens eine große Familie bilden mit einander übergreifenden Familienähnlichkeiten, werden wir wahrscheinlich nicht abgeneigt sein den Fall (21) zu dieser Familie zu rechnen. – “Aber fehlt denn dem B in diesem Fall nicht das Kriterium wonach er den Stoff als den rechten erkennen kann? In (19) hatte er z.B. das Erinnerungsbild & er erkannte den Stoff durch seine Übereinstimmung mit diesem Bild.” – Aber hatte er auch ein Bild vor sich von dieser Übereinstimmung? Ein Bild mit dem er die Übereinstimmung zwischen Muster & Stoff vergleichen konnte, um zu sehen, ob es die richtige Übereinstimmung sei? Und hätte er andrerseits nicht ein solches Bild haben können? Angenommen etwa, A wollte, daß B sich erinnerte, daß hier ein Stoff von der _gleichen_ Farbe wie das Muster verlangt sei, – im Gegensatz zu anderen Fällen etwa, in denen B einen Stoff von etwas dunklerer Farbe als das Muster bringen mußte. A gibt nun dem B ein Muster von der gewünschten _Übereinstimmung_ mit, nämlich zwei Stücke Stoff von gleicher Farbe. – Ist irgend ein solches Zwischenglied zwischen dem Befehl & der Ausführung notwendig das letzte? – Und wenn Du sagst, daß B in (20) wenigstens das Gefühl der Entspannung hat, woran er erkennen kann, daß der Stoff der richtige ist, – mußte er ein Bild von dieser Entspannung vor sich haben, um danach die Empfindung zu erkennen, nach der er den richtigen Stoff erkennen sollte?
@@ -265,6 +281,10 @@ Der Unterschied zwischen zwei Brettspielen kann z.B. in der Zahl der Spielfigure
 ### [Ms-115](/ms-115/#142.2+143.1) <span class="fac">[142\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/142.webp),[143\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/143.webp)</span> {#ms-115-14221431}
 
 <span class="series-number">25</span> Denke Dir zwei Kartenspiele: Ich will sie das ‘begrenzte’ & das ‘unbegrenzte’ nennen. Die Karten beider tragen Ziffern & die höhere Ziffer sticht die niedrigere. Die Spielregeln sind einander in jeder Beziehung analog; aber das eine Spiel wird mit 32 Karten gespielt das andere mit einer _beliebigen_ Zahl. Angenommen nun wir spielen das unbegrenzte Spiel, & die Zahl der Spielkarten ist 32; wie unterscheidet sich das Spiel vom begrenzten. – Nicht durch die Blätter, nicht durch die Art wie ausgespielt, gestochen wird, etc. Aber vielleicht dadurch: Das begrenzte Spiel wird mit einem Pack gedruckter Karten gespielt, beim unbegrenzten wird jedem Spieler ein Vorrat leerer weißer Karten & ein Bleistift zum Schreiben der Ziffern gegeben; zu Anfang des unbegrenzten Spiels fragt einer: “Wie hoch gehen wir?”; und dergleichen mehr. Es wird also hier über die Grenzen des Spiels eine Entscheidung getroffen & dies kann sich in der mannigfachsten Weise abspielen. Man kann also hier wirklich sagen, was das unbegrenzte Spiel charakterisiere, sei ‘schwer zu fassen’, wenn es auch kein ungreifbarer ‘Geist’ ist. Denke endlich an die Verschiedenheit des Vorgangs der Einübung, des Lernens, der beiden Spiele. Die Partie des unbegrenzten Spiels mit 32 Karten wird sich vielleicht von einer des begrenzten Spieles kaum unterscheiden, oder nur in Dingen, die man ‘unwesentliche Äußerlichkeiten’ nennen möchte.
+
+### [Ms-115](/ms-115/#143.2) <span class="fac">[143\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/143.webp)</span> {#ms-115-1432}
+
+Der verschiedene ‘Geist’ dieser Partien mag nur darin liegen, daß sie verschiedenen Systemen angehören, & dies in den mannigfachen Beziehungen, die sie zu andern Partien & zu verschiedenen andern Vorgängen haben, die außerhalb der beiden Partien selbst liegen. Betrachte die folgenden beiden Spiele:
 
 ### [Ms-115](/ms-115/#143.3+144.1+145.1) <span class="fac">[143\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/143.webp),[144\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/144.webp),[145\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/145.webp)</span> {#ms-115-143314411451}
 
@@ -426,6 +446,10 @@ Er führt den Befehl aus, indem er sich so bewegt:
 
 Hier würden wir sagen, die Regel bilde einen Teil des Befehls.
 
+### [Ms-115](/ms-115/#154.3) <span class="fac">[154\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/154.webp)</span> {#ms-115-1543}
+
+N.B.: Wir sagen nicht ‘was eine Regel ist’, sondern geben nur verschiedene Anwendungen des Wortes ‘Regel’. Und wir tun dies offenbar, indem wir auch Anwendungen des Ausdrucks ‘Ausdruck einer Regel’ angeben.
+
 ### [Ms-115](/ms-115/#154.4+155.1) <span class="fac">[154\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/154.webp),[155\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/155.webp)</span> {#ms-115-15441551}
 
 In (45) könnten wir das ganze Zeichen des Befehls _einen Satz_ nennen. Aber wir _könnten_ auch in ihm zwischen Satz & Tabelle unterscheiden. Was uns die Unterscheidung nahelegt ist hier insbesondre auch die lineare Schreibweise des Zeichens ‘r r t s s’. Obwohl wir den linearen Charakter unserer Sätze von einem bestimmten Standpunkt aus für rein äußerlich & unwesentlich erklären werden, spielt er doch in dem, was wir als Logiker über die Sätze zu sagen geneigt sind, eine große Rolle. (Dies gilt auch von andern ähnlichen Zügen der Sätze unsrer gewöhnlichen Sprache.) Wenn wir also den Befehl in (45) als eine Einheit auffassen, so kann er uns zeigen, wie verschiedenartig Sätze ausschauen können.
@@ -517,6 +541,10 @@ Ehe wir unsere Betrachtungen über den ‘Ausdruck der Möglichkeit’ fortsetze
 ### [Ms-115](/ms-115/#168.2) <span class="fac">[168\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/168.webp)</span> {#ms-115-1682}
 
 “Aber die Zeichen der Aufmunterung des Beifalls, der Mißbilligung, u.s.f., muß ja das Kind doch verstehen ehe es abgerichtet werden kann, _diese_ Sprache kann das Kind _doch_ nicht lernen.” –
+
+### [Ms-115](/ms-115/#168.3) <span class="fac">[168\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/168.webp)</span> {#ms-115-1683}
+
+_Teils_ lernt es sie, teils ‘versteht’ es sie _vor_ jedem Unterricht. Überlege aber was wir hier ‘verstehen’ nennen. Worin besteht das Verstehen? – Mit dieser Frage werden wir uns später beschäftigen müssen.
 
 ### [Ms-115](/ms-115/#168.4) <span class="fac">[168\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/168.webp)</span> {#ms-115-1684}
 
@@ -774,6 +802,10 @@ Versuchen wir diese Erklärung: Jemand liest, wenn er die Reproduktion von der V
 
 Aber warum sagten wir hier, er habe das gesprochene Wort vom geschriebenen mit Hilfe der Regel des Alphabets _abgeleitet_? Wissen wir mehr als, daß wir ihn gelehrt haben, wie jeder Buchstabe auszusprechen sei, & daß er dann die gedruckten Worte laut gelesen habe? Wir möchten antworten, daß er es irgendwie gezeigt haben muß, daß er den Übergang vom Druckbild zum ausgesprochenen Wort mit Hilfe der Regel mache, die wir ihm gegeben haben.
 
+### [Ms-115](/ms-115/#202.2) <span class="fac">[202\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/202.webp)</span> {#ms-115-2022}
+
+<span class="series-number">75</span> Und was wir damit meinen, daß er das _zeigt_, ist klarer zu sehen, wenn wir unser Beispiel dahin abändern, daß er, statt einen gedruckten Text laut zu lesen, ihn abschreibt, z.B. aus der Blockschrift in die Kursivschrift. Denn hier konnten wir ihm die Regel des Alphabets in Form einer Tabelle geben die Block- & Kursivbuchstaben einander zuordnet. Dann können wir uns das _Ableiten_ der Umschrift aus der Vorlage so vorstellen: Er schaut, ehe er einen Buchstaben niederschreibt, oder doch öfters, in der Tabelle nach; er sagt etwa zu sich selbst “Wie schaut ein kleines ‘A’ aus?”, – versucht es sich vorzustellen, ohne in die Tabelle zu schauen, etc.
+
 ### [Ms-115](/ms-115/#202.3+203.1) <span class="fac">[202\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/202.webp),[203\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/203.webp)</span> {#ms-115-20232031}
 
 Aber wie, wenn er das alles täte und dabei
@@ -787,6 +819,10 @@ sondern so:
 ![](../graphics/115,202-2.svg)
 
 Obwohl er beim Nachschauen in der Tabelle gerade von links nach rechts geblickt, oder mit dem Finger gezeigt, hatte.
+
+### [Ms-115](/ms-115/#203.2) <span class="fac">[203\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/203.webp)</span> {#ms-115-2032}
+
+<span class="series-number">77</span> – Aber sagen wir nun, er transkribiere, mit allen normalen Vorgängen des Nachschauens in der Tabelle, ein ‘A’ in ein ‘n’, ein ‘B’ in ein ‘x’, – kurz er transkribiere nicht nach einem Schema, welches, wie wir sagen würden, irgend eine einfache Regelmäßigkeit aufweist: könnten wir dies nicht auch ‘ableiten’ nennen?
 
 ### [Ms-115](/ms-115/#203.3) <span class="fac">[203\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/203.webp)</span> {#ms-115-2033}
 
@@ -805,6 +841,10 @@ _so_ verstanden:
 & _so_ transkribiert habe:
 
 ![](../graphics/115,204.svg)
+
+### [Ms-115](/ms-115/#204.2) <span class="fac">[204\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/204.webp)</span> {#ms-115-2042}
+
+Aber heißt das nun, daß das Wort “ableiten” (oder “auffassen”) nichts Eigentliches bedeute; da es ja scheint, daß sein Sinn, wenn wir ihm nachgehen, in nichts zerfließt?
 
 ### [Ms-115](/ms-115/#204.3) <span class="fac">[204\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/204.webp)</span> {#ms-115-2043}
 
@@ -1014,6 +1054,12 @@ Gibt es _ein_ Gefühl der Vertrautheit & haben wir es also, wenn immer wir vertr
 
 88 A zeigt dem B eine Reihe von Gegenständen; B soll sagen, ob er sie kennt, oder nicht.
 
+### [Ms-115](/ms-115/#223.2) <span class="fac">[223\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/223.webp)</span> {#ms-115-2232}
+
+Vergleiche diese Fälle: A zeigt dem B etwa eine Reihe von Apparaten: ein Thermometer, ein Spektroskop, ein Elektrometer, eine Waage, u.a.; dann aber einen Bleistift, eine Feder, einen Kieselstein.
+
+In einigen dieser Fälle: ein Suchen & Nachdenken: “Was ist das nur?” – Dann wieder sagt er einfach: Natürlich “Eine Waage!” (gleichsam aufatmend). Bei Bleistift & Feder wundert er sich, daß ihm so Wohlbekanntes gezeigt wird, & beim Kieselstein weiß er zuerst nicht, was er sagen soll, weil er auf Gegenstände eingestellt ist, die einen bestimmten Zweck haben. Endlich sagt er mit einem Achselzucken: “Es ist ein gewöhnlicher Kieselstein”. – Bei gewissen Gegenständen: “Ich habe das schon oft gesehen, aber was es ist, weiß ich nicht”, bei andern, “Das schaut so aus, als wäre es irgend ein Werkzeug, aber ich weiß nicht, was für eines”. In einem Fall sagt er, “Das ist ein Bleistift”, in einem andern, “Das ist _Deine_ Feder”.
+
 ### [Ms-115](/ms-115/#223.3) <span class="fac">[223\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/223.webp)</span> {#ms-115-2233}
 
 Was geschieht nun, wenn B einen Bleistift als Bleistift erkennt?
@@ -1054,6 +1100,10 @@ In (93) veränderte sich der Bleistift nicht, & die Worte “Das ist ein Bleisti
 
 Aber als er sich sagte “Das ist ein Bleistift”, – wie wußte er das, wenn er das Ding nicht als irgend etwas erkannte. Das kommt aber darauf hinaus zu fragen: “Wie hat er ‘Bleistift’ als das Wort für dieses Ding erkannt?” Nun, wie hat er es erkannt? – Er hat auf den Anblick des Dinges damit reagiert, daß er diese Worte sagte.
 
+### [Ms-115](/ms-115/#225.5) <span class="fac">[225\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/225.webp)</span> {#ms-115-2255}
+
+94 – Denke Dir, jemand zeigte Dir Farben & Du sollst sie benennen. Du sagst nun, auf eine Farbe weisend, “Das ist rot”. Wenn man Dich nun fragte “Wie weißt Du, daß das rot ist”, was könntest Du antworten?
+
 ### [Ms-115](/ms-115/#225.6+226.1) <span class="fac">[225\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/225.webp),[226\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/226.webp)</span> {#ms-115-22562261}
 
 Es gibt freilich den Fall, in welchem dem B eine allgemeine Erklärung des Begriffs gegeben wurde z.B.: “Wir wollen ‘Bleistift’ alles nennen, was diese Form hat & auf Papier schreibt.” A zeigt nun dem B unter anderm einen Stift, B versucht ihn & sagt “Das ist ein Bleistift”. In diesem Falle könnten wir sagen, findet eine _Ableitung_ statt; in (93) & (94) aber keine.
@@ -1073,6 +1123,10 @@ Aber wie ist es: haben wir nun ein ‘Gedankenexperiment’ gemacht? – Wie wis
 Nun kann man ja wirklich ein Experiment machen, dadurch, daß man sich etwas vorstellt. Nicht ein Experiment _in_ der Vorstellung, d.i., das bloße Vorstellungsbild eines Experiments. (Ein Laboratorium kann man nicht dadurch überflüssig machen, daß man sich Apparate & Versuche einfach vorstellt.)
 
 96 Wenn mich z.B. jemand fragt, “Wie begrüßt Du den N., wie gehst Du auf ihn zu?”, so kann ich, um antworten zu können, mir vorstellen N trete herein & ich mache etwa dabei die Bewegung des Begrüßens. Und dies ist ein Versuch. Er mag mich täuschen, & was wirklich in so einem Fall geschieht mag etwas anderes sein; aber die Erfahrung lehrt vielleicht daß wirklich meist das geschieht, was so ein Versuch zeigt. Hätte also die Frage gelautet, “Lächelt ein Mensch in so einem Fall?”, so hätte ich allerdings den Versuch mit der Vorstellung machen können. – Weiß ich aber nun, daß _man_ lächelt, oder nur, daß _ich_ lächle? Und wenn das erstere, ist dann das Vorstellen nicht ein _Erinnern_? Jedenfalls nicht notwendigerweise ‘das Erinnern an bestimmte Fälle’.
+
+### [Ms-115](/ms-115/#227.2) <span class="fac">[227\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/227.webp)</span> {#ms-115-2272}
+
+97 – Die Aufgabe wäre: “Mache, wie man auf jemand unter den & den Umständen zugeht.” Hier kann das _Erinnern_ die Form der Nachahmung haben; & muß nicht etwa ein visuelles Erinnerungsbild da sein, wonach er sich bei der Nachahmung richtet. Und wenn ich nun mich selbst nachahme, ist das Erinnerung? –
 
 ### [Ms-115](/ms-115/#227.3) <span class="fac">[227\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/227.webp)</span> {#ms-115-2273}
 
@@ -1127,6 +1181,10 @@ Wir haben es hier mit einem von vielen Fällen zu tun, denen wir in dieser Unter
 101
 
 Oder: Ich zeige jemand zwei Haufen von Werkzeugen, & sage: “Das was beiden Haufen gemeinsam ist, heißt ‘Stemmeisen’”. Der Andre hat die Werkzeuge zu sortieren, bis er das findet, was in beiden vorkommt, & dadurch gelangt er, können wir sagen, zur hinweisenden Erklärung.
+
+### [Ms-115](/ms-115/#231.4) <span class="fac">[231\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/231.webp)</span> {#ms-115-2314}
+
+102 Oder ich gebe diese Erklärung: “In diesen zwei Bildern siehst Du verschiedene Farbflecken; der Farbton, der in _beiden_ vorkommt, heißt ‘Karmin’.” – Hier hat es einen klaren Sinn zu sagen: “Wenn er gesehen hat, was beiden gemeinsam ist, kann er mir nun auf meinen Befehl einen Gegenstand von jener Farbe bringen”.
 
 ### [Ms-115](/ms-115/#232.2) <span class="fac">[232\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/232.webp)</span> {#ms-115-2322}
 
@@ -1183,6 +1241,10 @@ Ich höre Variationen über ein Thema & sage: “Ich sehe noch nicht, in wiefern
 “Aber wenn zwei Farben einander ähnlich sind, so sollte doch meine Erfahrung dieser Ähnlichkeit darin bestehen, daß ich _die_ Ähnlichkeit erfasse, welche _da_ ist.” – Aber ist nun ein bläuliches Grün einem gelblichen Grün ähnlich, oder nicht? Unter gewissen Umständen werden wir sagen, sie seien ähnlich, unter andern, sie seien gänzlich unähnlich. Sollen wir sagen, wir haben da zwei verschiedene Relationen wahrgenommen, die zwischen den beiden Farben bestehen?
 
 106 – Nimm an, ich beobachte die allmähliche Veränderung der Farbe einer Substanz: ein bläuliches Grün geht nach & nach in grün, dann in gelbliches grün, in gelb & endlich in orange über.
+
+### [Ms-115](/ms-115/#235.5+236.1) <span class="fac">[235\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/235.webp),[236\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/236.webp)</span> {#ms-115-23552361}
+
+Ich sage Dir: “Es braucht nur eine kurze Zeit vom Bläulichgrünen zum Gelblichgrünen, die sind ähnlich.” – Setzt das nicht eine Erfahrung der Ähnlichkeit schlechtweg von Blaugrün & Gelbgrün voraus? – Die Erfahrung könnte sein, daß ich im Geist einen Farbenstreifen vor mir sehe, in dem Blaugrün & Gelbgrün nah am Grün liegen, & das Orange weiter zur Seite; oder ich sehe ein Grün vor mir, das bald ins Bläuliche bald ins Gelbliche schillert; oder ich sehe nichts vor mir & sage nur was ich sage (Dies wird später klarer werden. Es handelt sich darum, was sind die Paradigmen für die Verwendung des Wortes & welches die Gegenstände auf die es angewandt wird.). – Wenn ich aber über die Ähnlichkeit von Blaugrün & Gelbgrün & die Unähnlichkeit von Blaugrün & Orange nachdenke, empfinde ich jetzt etwa bei der Vorstellung dieses Farbenpaares etwas wie Spannung, ich mache ein Gesicht, gleichsam, als ob es mich ekelte, das Wort ‘Diskrepanz’ kommt mir in den Sinn; & beim ersten Farbenpaar mache ich ein versöhnliches Gesicht & fühle mich entspannt. Und es ist eine wichtige Tatsache, daß ich dabei ja mein Gesicht nicht sehe, sondern nur fühle.
 
 ### [Ms-115](/ms-115/#236.2) <span class="fac">[236\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/236.webp)</span> {#ms-115-2362}
 
@@ -1357,6 +1419,10 @@ Wir konnten nicht entscheiden ob im Beispiel (114) ‘rot’ nur eine, oder zwei
 ### [Ms-115](/ms-115/#250.3+251.1) <span class="fac">[250\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/250.webp),[251\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/251.webp)</span> {#ms-115-25032511}
 
 Wir werden geneigt sein diesen Fall als eine ‘Abnormität’ zu behandeln, & zu sagen: “Er muß ein Organ haben, womit er _sowohl_ färbige Dinge als auch Laute als heller & dunkler empfindet. Und ‘heller’ & ‘dunkler’ haben also für ihn eigentlich eine andere Bedeutung als für uns.” Und wenn wir versuchen, unsere Idee klar zu machen, so sieht sie etwa _so_ aus: Im normalen Menschen zeigt _ein_ Instrument sichtbare Helligkeit & Dunkelheit an & ein anderes die Helligkeit & Dunkelheit von Lauten (in dem Sinne, in welchem wir sagen könnten, Strahlen gewisser Wellenlängen nähmen wir mit den Augen wahr, andere mit unserm Temperatursinn.) In unserm Subjekt (122) aber werden sowohl Farben als auch Laute nach den Ausschlägen _desselben_ Instruments geordnet (wie eine photographische Platte auf einen Bereich von Wellenlängen reagiert, welchen wir nur mit _zwei_ Sinnesorganen wahrnehmen können).
+
+### [Ms-115](/ms-115/#251.2) <span class="fac">[251\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/251.webp)</span> {#ms-115-2512}
+
+Der normale Mensch registriert Helligkeit & Dunkelheit von Farben auf _einem_ Instrument (der Seele, oder des Gehirns) & das, was man ‘Helligkeit & Dunkelheit von Lauten’ nennen kann, auf einem andern (in dem Sinne in welchem wir sagen können, Strahlen zwischen gewissen Wellenlängen nähmen wir mit unsern Augen wahr, andere mit unserm Temperatursinn.) In unserm Subjekt (122) aber werden sowohl Farben als auch Laute nach den Ausschlägen _desselben_ Instruments geordnet (wie etwa eine photographische Platte einen Bereich von Wellenlängen anzeigt zu dessen Wahrnehmung wir _zwei_ Sinnesorgane brauchen.) Das Subjekt in (123) aber, sind wir versucht zu sagen, ordnet Farben & Laute nach den Ausschlägen _desselben_ Instruments (wie eine photographische Platte einen Bereich von Wellenlängen anzeigt zu dessen Wahrnehmung wir _zwei_ Sinnesorgane brauchen.)
 
 ### [Ms-115](/ms-115/#251.3+252.1) <span class="fac">[251\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/251.webp),[252\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/252.webp)</span> {#ms-115-25132521}
 

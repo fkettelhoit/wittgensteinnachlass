@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1914–1917, 997 remarks, Ms-101, Ms-102, Ms-103</summary>
+<summary>1914–1917, 1000 remarks, Ms-101, Ms-102, Ms-103</summary>
 
 <img class="viz" src="/viz/W-NB.svg">
 
@@ -410,6 +410,10 @@ Wenn ein Satz φa gegeben ist so sind mit ihm auch _schon_ alle seine logischen 
 08.10.1914
 
 Vollständige und unvollständige Abbildung eines Sachverhaltes.
+
+### [Ms-101](/ms-101/#35r.2) <span class="fac">[35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/35r.webp)</span> {#ms-101-35r2}
+
+(Funktion und Argument wird durch Funktion und Argument abgebildet.)
 
 ### [Ms-101](/ms-101/#35r.3) <span class="fac">[35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/35r.webp)</span> {#ms-101-35r3}
 
@@ -3071,6 +3075,10 @@ Es hat also den Anschein, daß sich die Existenz der einfachen Gegenstände zu d
 
 Ich empfinde die Möglichkeit dieser Uhr wie sie vor mir liegt einen Namen einfach zuzuordnen. Ich empfinde daß dieser Name auch außerhalb eines Satzes seine Bedeutung haben wird insoweit ich dies _überhaupt je_ empfinde. Und ich empfinde daß jener Name in einem Satze allen Anforderungen an den Namen des einfachen Gegenstandes entsprechen wird.
 
+### [Ms-102](/ms-102/#145r.2+146r.1) <span class="fac">[145r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/145r.webp),[146r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/146r.webp)</span> {#ms-102-145r2146r1}
+
+Es ist ganz klar daß ich tatsächlich dieser Uhr wie sie hier vor mir liegt und geht einen Namen zuordnen kann und daß dieser Name außerhalb jedes Satzes Bedeutung haben wird in demselben Sinne des Wortes wie ich es überhaupt jemals gemeint habe, und ‥‥․
+
 ### [Ms-102](/ms-102/#146r.2) <span class="fac">[146r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/146r.webp)</span> {#ms-102-146r2}
 
 16.06.1915
@@ -3208,6 +3216,10 @@ Man könnte die Bestimmtheit auch so fordern!: Wenn ein Satz Sinn haben soll so 
 ### [Ms-102](/ms-102/#165r.2+166r.1) <span class="fac">[165r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/165r.webp),[166r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/166r.webp)</span> {#ms-102-165r2166r1}
 
 Es scheint mir durchaus möglich daß Flächen in unserem Gesichtsbild einfache Gegenstände sind indem wir nämlich keinen einzigen Punkt dieser Fläche separat wahrnehmen, Gesichtsbilder von Sternen scheinen es sogar sicher zu sein. Wenn ich nämlich z.B. sage diese Uhr liegt nicht in der Lade so braucht daraus durchaus nicht _logisch folgen_ daß ein Rad welches in der Uhr ist nicht in der Lade liegt denn _ich wußte_ vielleicht _gar nicht_ daß das Rad in der Uhr war habe daher auch nicht mit „diese Uhr” einen Komplex meinen können in welchem das Rad vorkommt. Und es ist gewiß daß ich – beiläufig gesprochen – nicht alle Teile meines _theoretischen_ Gesichtsbildes sehe. Wer weiß _ob_ ich unendlich viele Punkte sehe!
+
+### [Ms-102](/ms-102/#167r.1) <span class="fac">[167r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/167r.webp)</span> {#ms-102-167r1}
+
+Nehmen wir nun an wir sähen einen kreisförmigen Fleck: ist die Kreisform seine _Eigenschaft?_ Gewiß nicht. Sie scheint eine strukturelle „Eigenschaft” zu sein. Und wenn ich bemerke daß ein Fleck kreisrund ist, bemerke ich da nicht eine unendlich komplexe strukturelle Eigenschaft? Oder ich bemerke nur daß der Fleck eine endliche Ausdehnung hat, und auch das schon scheint eine unendlich komplexe Struktur _vorauszusetzen_.
 
 ### [Ms-102](/ms-102/#168r.1) <span class="fac">[168r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/168r.webp)</span> {#ms-102-168r1}
 

@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1933–1934, 592 remarks, Ms-140, Ms-114, Ts-213, Ms-115</summary>
+<summary>1933–1934, 594 remarks, Ms-140, Ms-114, Ts-213, Ms-115</summary>
 
 <img class="viz" src="/viz/W-PG-1.svg">
 
@@ -1870,6 +1870,10 @@ Wir fragen: “wünscht eine Hand über einem Tisch?” Und wünscht irgend etwa
 
 Wir betrachten einen Vorgang, den wir den Vorgang des Wunsches nennen würden, daß dieser Tisch höher wäre. Aber in diesem Vorgang ist die Erfüllung _auch nicht scheinbar_ enthalten. Nun sagt man: “Aber dieser Vorgang soll ja ein Schatten gerade der gewünschten Tatsache sein & das sind doch diese Handlungen nicht.” Aber warum sagst Du denn, daß der Wunsch das sein soll?! “Nun, weil er der Wunsch ist, es möge gerade das der Fall sein.” Ja, & das ist die einzige Antwort, die Du darauf geben konntest. Und nun ist jener Vorgang also doch der Schatten, soweit er dem Ausdruck des Wunsches in der Wortsprache systematisch entspricht. Dieser Schatten ist im Wunschvorgang der Wortsprache. (In der Sprache treffen sich Wunsch & Erfüllung.)
 
+### [Ms-114](/ms-114/#139v.1) <span class="fac">[139v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/139v.webp)</span> {#ms-114-139v1}
+
+Bedenke, daß der Ausdruck des Wunsches der Wunsch sein kann & dieser Ausdruck seinen Sinn nicht durch die Anwesenheit eines besonderen Geistes hat!
+
 ### [Ms-114](/ms-114/#139v.2) <span class="fac">[139v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/139v.webp)</span> {#ms-114-139v2}
 
 Denke auch an den dem unsern ganz analogen Fall: “dieser Tisch ist nicht 80 cm hoch”; muß die Tatsache daß er 90 cm, also _nicht_ 80 cm hoch ist, den Schatten der Tatsache enthalten daß er 80 cm hoch ist? Warum macht es diesen Eindruck? Macht etwa der Tisch der 90 cm hoch ist, wenn ich ihn sehe, auch den schattenhaften Eindruck, daß er die Höhe hat, die er nicht hat? Das wäre etwa als mißverstünden wir die Behauptung “⊢~p” dahin, sie enthielte die Behauptung “⊢p”; etwa wie “⊢ p ∙ q” in einem Sinne “⊢p” enthält.
@@ -2655,6 +2659,10 @@ Die Sprache ist für uns ein Kalkül; sie ist durch die _Sprachhandlungen_ chara
 ### [Ms-114](/ms-114/#117v.3) <span class="fac">[117v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/117v.webp)</span> {#ms-114-117v3}
 
 Woher die Bedeutung der Sprache? Kann man sagen: “Ohne Sprache könnten wir uns nicht miteinander verständigen”? Nein. Der Fall ist nicht dem analog: Ohne das Telefon könnten wir nicht von Europa nach Amerika sprechen. Wahr ist es aber: Ohne Sprache könnten wir die Menschen nicht bewegen unsern Willen zu tun, ohne Sprache könnten wir nicht Häuser bauen.
+
+### [Ms-114](/ms-114/#117v.4) <span class="fac">[117v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/117v.webp)</span> {#ms-114-117v4}
+
+Wohl aber kann man sagen: “ohne den Mund könnten sich die Menschen nicht mit einander verständigen”. Der Begriff der Sprache dagegen _liegt_ im Begriff der Verständigung.
 
 ### [Ms-115](/ms-115/#35.4+36.1) <span class="fac">[35\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/35.webp),[36\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/36.webp)</span> {#ms-115-354361}
 

@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1933, 29 remarks, Ts-213</summary>
+<summary>1933, 30 remarks, Ts-213</summary>
 
 <img class="viz" src="/viz/W-PG-1-App-7.svg">
 
@@ -87,6 +87,10 @@ Man sagt, wenn der Würfel ganz gleichmäßig und sich selbst überlassen ist, d
 ### [Ts-213](/ts-213/#129r.3) <span class="fac">[129r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/129r.webp)</span> {#ts-213-129r3}
 
 Stellen wir nun aber die Wurfresultate statt durch die Ziffern 1 bis 6 durch die Worte der Funktion (x ‒ 3)² für die Argumente 1 bis 6 dar, also durch die Ziffern 0, 1, 4, 9. Ist ein Grund vorhanden, warum eine _dieser_ Ziffern öfter in den neuen Wurfresultaten fungieren soll, als eine andere? Dies lehrt uns, daß das Gesetz a priori der Wahrscheinlichkeit eine Form von Gesetzen ist, wie die der Minimumgesetze der Mechanik etc..
+
+### [Ts-213](/ts-213/#130r.1) <span class="fac">[130r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/130r.webp)</span> {#ts-213-130r1}
+
+Hätte man durch Versuche herausgefunden, daß die Verteilung der Würfe 1 bis 6 mit einem regelmäßigen Würfel so ausfällt, daß die Verteilung der Werte (x–3)² eine gleichmäßige wird, so hätte man nun _diese_ Gleichmäßigkeit als die Gleichmäßigkeit a priori erklärt. So machen wir es auch in der kinetischen Gastheorie: wir stellen die Verteilung der Molekülbewegungen in der Form irgend einer gleichförmigen Verteilung dar; _was_ aber gleichförmig verteilt ist – so wie an andrer Stelle _was_ zu einem Minimum wird – wählen wir so, daß unsere Theorie mit der Erfahrung übereinstimmt.
 
 ### [Ts-213](/ts-213/#130r.2) <span class="fac">[130r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/130r.webp)</span> {#ts-213-130r2}
 

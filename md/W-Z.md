@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1930–1948, 725 remarks, Ts-233a, Ts-233b, Ts-232</summary>
+<summary>1930–1948, 729 remarks, Ts-233a, Ts-233b, Ts-232</summary>
 
 <img class="viz" src="/viz/W-Z.svg">
 
@@ -157,6 +157,10 @@ Es scheint uns oft, als mache der Geist beim Verstehen der Bedeutung kleine Bewe
 ### [Ts-233a](/ts-233a/#10.5) <span class="fac">[10\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/10.webp)</span> {#ts-233a-105}
 
 <span class="series-number">35</span> Gedanken erraten. Spielkarten liegen auf einem Tisch. Ich will, daß der Andre eine von ihnen berühren soll. Ich schließe die Augen und denke an eine dieser Karten; der Andre soll erraten, welche ich meine. – Er läßt sich darauf etwa eine Karte einfallen und wünscht dabei, meine Meinung zu treffen. Er berührt die Karte und ich sage “Ja, die war's”, oder sie war's nicht. Eine Variante dieses Spiels wäre es, daß ich auf eine bestimmte Karte _schaue_, so zwar, daß der Andre die Richtung meines Blicks nicht sieht, und daß er nun die Karte erraten muß, auf die ich schaue. Daß dies eine Variante des ersten Spiels ist, ist wichtig. Es kann hier wichtig sein, _wie_ ich an die Karte denke, weil es sich zeigen könnte, daß davon die Zuverlässigkeit des Erratens abhängt. Sage ich aber im gewöhnlichen Leben “Ich dachte soeben an N”, so
+
+### [Ts-233a](/ts-233a/#12.1) <span class="fac">[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/12.webp)</span> {#ts-233a-121}
+
+fragt man nicht “_Wie_ hast du an ihn gedacht?”.
 
 ### [Ts-233a](/ts-233a/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/12.webp)</span> {#ts-233a-122}
 
@@ -1136,6 +1140,10 @@ Wie man ein Gesicht besser sehen lernt, wenn man es zeichnet.
 
 <span class="series-number">272</span> “Es hat Sinn, von einer endlosen Baumreihe zu reden; ich kann mir doch vorstellen, daß eine Baumreihe ohne Ende weiterläuft.” D.h. etwa: wenn es Sinn hat, zu sagen, die Baumreihe komme hier zu Ende, hat es Sinn, zu sagen, sie komme hier nicht zu einem Ende, und also auch, sie komme nirgends zu einem Ende.
 
+### [Ts-233a](/ts-233a/#56.1) <span class="fac">[56\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/56.webp)</span> {#ts-233a-561}
+
+Ramsey pflegte auf solche Fragen zu antworten: es sei _eben doch_ möglich, so etwas zu denken. So etwa, wie man sagt “Die Technik leistet heute eben Dinge, die du dir gar nicht vorstellen kannst.” – Nun, da muß man herausfinden, _was_ du dabei denkst. (Daß du versicherst, diese Phrase ließe sich _denken_ – was kann ich damit machen? Darauf kommt es ja nicht an. Ihr Zweck ist ja nicht der, Nebel in deiner Seele aufsteigen zu lassen.) _Was_ du meinst – wie ist es herauszufinden? Wir müssen geduldig prüfen, wie dieser Satz angewandt werden soll. Wie _rund um ihn_ alles aussieht. Da wird sich sein Sinn zeigen.
+
 ### [Ts-233a](/ts-233a/#56.2) <span class="fac">[56\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/56.webp)</span> {#ts-233a-562}
 
 <span class="series-number">273</span> Hardy: “That ‘the finite cannot understand the infinite’ should surely be a theological and not a mathematical war cry.” Es ist wahr, dieser Ausdruck ist ungeschickt. Aber was Leute damit sagen wollen, ist: “Es muß hier doch mit rechten Dingen zugehen! Woher dieser Sprung vom Endlichen zum Unendlichen? Und so ganz unsinnig ist die Ausdrucksweise auch nicht – nur ist das ‘Endliche’, was das Unendliche nicht soll denken können, nicht ‘der Mensch’, oder ‘unser Verstand’, sondern der Kalkül. Und _**wie**_ dieser das ‘Unendliche’ denkt, dies ist wohl einer Untersuchung wert. Und die ist zu vergleichen der genauen Untersuchung und Klärung der Geschäftsgebarung eines Unternehmens durch einen Chartered Accountant. Das Ziel ist eine übersichtliche vergleichende Darstellung aller Anwendungen, Illustrationen, Auffassungen, des Kalküls. Die vollkommene Übersicht über alles, was Unklarheit schaffen kann. Und diese Übersicht muß sich auf ein weites Gebiet erstrecken, denn die Wurzeln unserer Ideen reichen weit. – “Das Endliche kann nicht das Unendliche verstehen” heißt hier: _So_ kann es nicht zugehen, wie ihr es, in charakteristischer Oberflächlichkeit, darstellt. Der Gedanke kann gleichsam _fliegen,_ er braucht nicht zu gehen. Du verstehst, d.h. übersiehst, deine Transaktionen nicht, und projizierst, quasi, dein Unverständnis in die Idee eines Mediums, in dem das Erstaunlichste möglich ist.
@@ -1585,6 +1593,10 @@ Die wichtige Frage ist dabei nie: wie weiß er, wovon er abstrahieren soll? sond
 ### [Ts-233b](/ts-233b/#4a.9) <span class="fac">[4a\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a9}
 
 <span class="series-number">381</span> Aber übersieht dieser dann nicht etwas, was da ist? – Er nimmt davon keine Notiz; und warum sollte er? – Aber dann ist ja eben sein Begriff grundverschieden von dem unsern. – **Grund**verschieden?
+
+### [Ts-233b](/ts-233b/#5.1) <span class="fac">[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/5.webp)</span> {#ts-233b-51}
+
+Verschieden. – Aber es ist dann doch, als ob sein Wort nicht _dasselbe bezeichnen_ könnte wie unseres. Oder nur einen Teil davon. – Aber so muß es ja auch ausschauen, wenn sein Begriff verschieden ist. Denn die Unbestimmtheit unseres Begriffs kann sich ja für uns in den _Gegenstand_ projizieren, den das Wort bezeichnet. So daß, fehlte die Unbestimmtheit, auch nicht ‘dasselbe gemeint’ wäre. Das Bild, das wir verwenden, versinnbildlicht die Unbestimmtheit.
 
 ### [Ts-233b](/ts-233b/#5.2) <span class="fac">[5\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/5.webp)</span> {#ts-233b-52}
 
@@ -2183,6 +2195,10 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 ### [Ts-233b](/ts-233b/#30.3) <span class="fac">[30\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/30.webp)</span> {#ts-233b-303}
 
 <span class="series-number">528</span> Eine Hilfskonstruktion. Ein Stamm, den wir versklaven wollen. Die Regierung und die Wissenschaft geben aus, daß die Leute dieses
+
+### [Ts-233b](/ts-233b/#31.1) <span class="fac">[31\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/31.webp)</span> {#ts-233b-311}
+
+Stamme keine Seelen haben; man könne sie also zu jedem beliebigen Zweck gebrauchen. Natürlich interessiert uns dennoch ihre Sprache; denn wir wollen ihnen ja z.B. Befehle geben und Berichte von ihnen erhalten. Auch wollen wir wissen, was sie unter einander reden, da dies mit ihrem übrigen Verhalten zusammenhängt. Aber auch, was bei ihnen unsern _**‘psychologischen Äußerungen’**_ entspricht, muß uns interessieren; denn wir wollen sie arbeitsfähig erhalten; darum sind uns ihre Äußerungen des Schmerzes, des Unwohlseins, der Niedergeschlagenheit der Lebenslust, etc. etc. von Wichtigkeit. Ja, wir haben auch gefunden, daß man diese Leute mit gutem Erfolg als Versuchsobjekte in physiologischen und psychologischen Laboratorien verwenden kann, da ihre Reaktionen – auch die Sprachreaktionen – ganz die der seelenbegabten Menschen sind. Man habe auch gefunden, daß man diesen Automaten, durch eine Methode, die sehr ähnlich unserm ‘Unterricht’ ist, unsere Sprache statt der ihrigen beibringen kann.
 
 ### [Ts-233b](/ts-233b/#31.2) <span class="fac">[31\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/31.webp)</span> {#ts-233b-312}
 

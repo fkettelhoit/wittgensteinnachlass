@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1931–1933, 789 remarks, Ms-112, Ts-213, Ms-113, Ts-211</summary>
+<summary>1931–1933, 795 remarks, Ms-112, Ts-213, Ms-113, Ts-211</summary>
 
 <img class="viz" src="/viz/W-PG-2.svg">
 
@@ -458,6 +458,14 @@ Meine Auffassung des allgemeinen Satzes war, daß (∃x)․fx eine logische Summ
 
 Die Erklärung von (∃x)․fx als einer logischen Summe und (x)․fx als logischem Produkt kann natürlich nicht aufrecht erhalten werden. Sie ging mit einer falschen Auffassung der logischen Analyse zusammen, indem ich etwa dachte, das logische Produkt für ein bestimmtes (x)․fx werde sich schon einmal finden. – Es ist natürlich richtig, daß (∃x)․fx irgendwie als logische Summe funktioniert und (x)․fx als Produkt; ja in _einer_ Verwendungsart der Worte “alle” und “einige” ist meine alte Erklärung richtig, nämlich – z.B. – in dem Falle “alle primären Farben finden sich in diesem Bild” oder “alle Töne der C-Dur Tonleiter kommen in diesem Thema vor”. In Fällen aber wie “alle Menschen sterben, ehe sie 200 Jahre alt werden” stimmt meine Erklärung nicht. Daß nun aber (∃x)․fx als logische Summe funktioniert, ist darin ausgedrückt, daß es aus fa und aus fa. ⌵.fb folgt, also in den Regeln: (∃x)․fx ․ & ․ fa = fa und (∃x)․fx : & : fa․⌵․fb = fa․⌵․fb. Aus diesen Regeln ergeben sich dann die Grundgesetze Russells fx ․⊃․ (∃z)․fz und fx․⌵․fy :⊃: (∃z)․fz als Tautologien.
 
+### [Ts-213](/ts-213/#327r.2) <span class="fac">[327r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/327r.webp)</span> {#ts-213-327r2}
+
+Für (∃x)․fx, etc. brauchen wir auch die Regeln: (∃x). fx ⌵ Fx = (∃x)․fx ․⌵․ (∃x).Fx,
+
+(∃x,y)․ fx & Fy ․⌵․ (∃x)․fx ․ & ․ Fx = (∃x)․fx ․ & ․ (∃x).Fx.
+
+Jede solche Regel ist ein Ausdruck der Analogie zwischen (∃x)․fx und einer logischen Summe.
+
 ### [Ts-213](/ts-213/#327r.3) <span class="fac">[327r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/327r.webp)</span> {#ts-213-327r3}
 
 Man könnte übrigens wirklich eine Notation für (∃x)․fx einführen, in der man es durch ein Zeichen “fr ⌵ fs ⌵ ft ⌵ …” ersetzt und dürfte dann damit rechnen, wie mit einer logischen Summe; es müßten aber die Regeln vorgesehen sein, nach denen ich diese Notation immer in die von “(∃x)․fx” zurücknehmen kann und die also das Zeichen “fa ⌵ fb ⌵ fc ⌵ …” von dem einer logischen Summe unterscheiden. Der Zweck dieser Notation wäre nur der, in gewissen Fällen leichter mit (∃x)․fx rechnen zu können.
@@ -537,6 +545,10 @@ Was uns interessiert ist nur die _exakte_ Beziehung des Beispiels zum Folgen
 ### [Ts-213](/ts-213/#333r.3) <span class="fac">[333r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/333r.webp)</span> {#ts-213-333r3}
 
 Es wird aus dem Beispiel heraus wieder kalkuliert.
+
+### [Ts-213](/ts-213/#333r.4) <span class="fac">[333r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/333r.webp)</span> {#ts-213-333r4}
+
+Beispiele sind ordentliche Zeichen, nicht Abfall, nicht Beeinflussung.
 
 ### [Ts-213](/ts-213/#334r.1) <span class="fac">[334r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/334r.webp)</span> {#ts-213-334r1}
 
@@ -1045,6 +1057,10 @@ Zum indirekten Beweis, daß eine Gerade über einen Punkt hinaus nur _eine_ Fort
 ### [Ts-213](/ts-213/#549r.2) <span class="fac">[549r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/549r.webp)</span> {#ts-213-549r2}
 
 Wenn nachträglich ein Widerspruch gefunden wird, so waren vorher die Regeln noch nicht klar und eindeutig. Der Widerspruch macht also nichts, denn er ist dann durch das Aussprechen einer Regel zu entfernen.
+
+### [Ts-213](/ts-213/#549r.3) <span class="fac">[549r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/549r.webp)</span> {#ts-213-549r3}
+
+In einem völlig geklärten System mit klarer Grammatik gibt es keinen versteckten Widerspruch, denn da muß die Regel gegeben sein, nach welcher ein Widerspruch zu finden ist. Versteckt kann der Widerspruch nur in dem Sinn sein, daß er gleichsam im “Kraut-und-Rüben” der Regeln, in dem ungeordneten Teil der Grammatik versteckt ist; das aber macht nichts, da er durch ein Ordnen der Grammatik zu entfernen ist.
 
 ### [Ts-213](/ts-213/#549r.4) <span class="fac">[549r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/549r.webp)</span> {#ts-213-549r4}
 
@@ -2399,6 +2415,10 @@ Ich kann nicht fragen, ob die 4 unter den Kombinationszahlen vorkommt, wenn dies
 Statt des Problems der 3-Teilung des Winkels mit Lineal und Zirkel können wir nun ein ganz entsprechendes, aber viel übersichtlicheres, untersuchen. Es steht uns ja frei, die Möglichkeiten der Konstruktion mit Lineal und Zirkel weiter einzuschränken. So können wir z.B. die Bedingung setzen, daß sich die Öffnung des Zirkels nicht verändern läßt. Und wir können festsetzen, daß die einzige Konstruktion, die wir kennen – oder besser: die unser Kalkül kennt – diejenige ist, die man zur Halbierung einer Strecke AB benützt, nämlich:
 
 🖵
+
+### [Ts-213](/ts-213/#654r.1+655r.1+656r.1) <span class="fac">[654r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/654r.webp),[655r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/655r.webp),[656r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/656r.webp)</span> {#ts-213-654r1655r1656r1}
+
+(Das könnte z.B. tatsächlich die primitive Geometrie eines Volkes sein. Und für sie gälte das, was ich über die Gleichberechtigung der Zahlenreihe “1, 2, 3, 4, 5, viele” mit der Reihe der Kardinalzahlen gesagt habe. Überhaupt ist es für unsere Untersuchungen ein guter _Trick_, sich die Arithmetik oder Geometrie eines primitiven Volks _auszumalen_.) Ich will diese Geometrie das System T nennen und fragen: “ist die 3-Teilung der Strecke im System T möglich?” Welche 3-Teilung ist in dieser Frage gemeint? – denn davon hängt offenbar der Sinn der Frage ab. Ist z.B. die physikalische 3-Teilung gemeint? D.h. die 3-Teilung durch Probieren und Nachmessen. In diesem Falle ist die Frage vielleicht zu bejahen. Oder die optische 3-Teilung? d.h. die Teilung, deren Resultat drei gleichlang aussehende Teile sind? Wenn wir z.B. durch ein verzerrendes Medium sehen, so ist es ganz leicht vorstellbar, daß uns die Teile a, b, und c gleichlang erscheinen. 🖵 Nun könnte man die Resultate der Teilungen im System T nach der Zahl der erzeugten Teile durch die Zahlen 2, 2², 2³, u.s.w. darstellen; und die Frage, ob die 3-Teilung möglich ist, könnte bedeuten: ist eine der Zahlen in dieser Reihe = 3. Diese Frage kann freilich nur gestellt werden, wenn die 2, 2², 2³, etc. in einem andern System (etwa den Kardinalzahlen) eingebettet sind; nicht, wenn sie selbst unser Zahlensystem sind; denn dann kennen wir – oder unser System – eben die 3 nicht. – Aber wenn unsere Frage lautet: ist eine der Zahlen 2, 2², etc. gleich 3, so ist hier eigentlich von einer 3-_Teilung_ der Strecke nicht die Rede. Immerhin kann die Frage nach der Möglichkeit der 3-Teilung so aufgefaßt werden. – Eine andere Auffassung erhalten wir nun, wenn wir dem System T ein System V hinzufügen, worin es die Streckenteilung nach Art dieser Figur 🖵 gibt. Es kann nun gefragt werden: ist die Teilung V in 108 Teile eine Teilung der Art T? Und diese Frage könnte wieder auf die hinauslaufen: ist 108 eine Potenz von 2? aber sie könnte auch auf eine andere Entscheidungsart hinweisen (einen andern Sinn haben), wenn wir die Systeme T und V zu einem geometrischen Konstruktionssystem verbinden; so zwar, daß es sich nun in diesem System beweisen läßt, daß die beiden Konstruktionen die gleichen Teilungspunkte B, C, D “liefern müssen”. Denken wir nun, es hätte Einer im 🖵 System T eine Strecke AB in 8 Teile geteilt, nehme diese nun zu den Strecken a, b, c zusammen und fragte: ist das eine 3-Teilung. 🖵 (Wir könnten uns den Fall übrigens leichter mit einer größeren Anzahl ursprünglicher Teile vorstellen, die es möglich macht, 3 gleichlang aussehende _Gruppen_ von Teilen zu bilden.) Die Antwort auf diese Frage wäre der Beweis, daß 2³ nicht durch 3 teilbar ist; oder der Hinweis darauf, daß sich die Teile a, b, c wie 1:3:4 verhalten. Und nun könnte man fragen: habe ich also im System T nicht doch einen Begriff von der 3-Teilung, nämlich der Teilung, die die Teile a, b, c im Verhältnis 1:1:1 hervorbringt? Gewiß, ich habe nun einen neuen Begriff ‘3-Teilung einer Strecke’ eingeführt; wir könnten ja sehr wohl sagen, daß wir durch die 8-Teilung der Strecke AB die Strecke CB in 3 gleiche Teile geteilt haben, wenn das eben 🖵 _heißen_ soll: wir haben eine Strecke erzeugt, die aus 3 gleichen Teilen besteht. Die _Perplexität_, in der wir uns bezüglich des Problems der 3-Teilung befanden, war etwa die: Wenn die 3-Teilung des Winkels unmöglich ist – logisch unmöglich – wie kann man dann überhaupt nach ihr fragen? Wie kann man das logisch Unmögliche beschreiben und nach seiner Möglichkeit sinnvoll fragen? D.h., wie kann man _logisch_ nicht zusammenpassende Begriffe zusammenstellen (gegen die Grammatik, also unsinnig) und sinnvoll nach der Möglichkeit dieser Zusammenstellung fragen? – Aber dieses Paradox fände sich ja wieder, wenn man fragt: “ist 25 × 25 = 620?” – da es doch _logisch_ unmöglich ist, daß diese Gleichung stimmt; ich kann ja nicht beschreiben, wie es wäre, wenn –. Ja, der Zweifel ob 25 × 25 = 620 (oder der, ob es = 625 ist) hat eben den Sinn, den die Methode der Prüfung ihm gibt. Und die Frage nach der Möglichkeit der 3-Teilung hat den Sinn, den die Methode der Prüfung ihr gibt. Es ist ganz richtig: wir stellen uns hier nicht vor, oder beschreiben, wie es ist, wenn 25 × 25 = 620 ist, und das heißt eben, daß wir es hier mit einer andern (logischen) Art von Frage zu tun haben, als etwa der: “ist diese Straße 620 oder 625 m lang?”
 
 ### [Ts-213](/ts-213/#656r.2) <span class="fac">[656r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/656r.webp)</span> {#ts-213-656r2}
 
@@ -3871,6 +3891,10 @@ Der, welcher die Periodizität entdeckt, erfindet einen neuen Kalkül. Die Frage
 
 <span class="series-number">38</span> _**Der Induktionsbeweis, Arithmetik und Algebra.**_
 
+### [Ts-213](/ts-213/#722r.2) <span class="fac">[722r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/722r.webp)</span> {#ts-213-722r2}
+
+Wozu brauchen wir denn das kommutative Gesetz? Doch nicht, um die Gleichung, 4 + 6 = 6 + 4 anschreiben zu können, denn _diese Gleichung_ wird durch ihren besonderen Beweis gerechtfertigt. Und es kann freilich auch der Beweis des kommutativen Gesetzes als ihr Beweis verwendet werden, aber dann ist er eben (hier) ein spezieller (_arithmetischer_) Beweis. Ich brauche das Gesetz also, um danach mit Buchstaben zu operieren. Und diese Berechtigung kann mir der Induktionsbeweis nicht geben.
+
 ### [Ts-213](/ts-213/#722r.3) <span class="fac">[722r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/722r.webp)</span> {#ts-213-722r3}
 
 Aber eines ist klar: Wenn uns der Rekursionsbeweis das Recht gibt, algebraisch zu rechnen, dann auch der arithmetische Beweis L.
@@ -4100,6 +4124,10 @@ Wenn man wissen will, was der Ausdruck “das Maximum einer Kurve” bedeutet, s
 ### [Ts-213](/ts-213/#742r.1) <span class="fac">[742r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/742r.webp)</span> {#ts-213-742r1}
 
 Es ist der gleiche Fehler unserer Syntax, der den geometrischen Satz “die Strecke läßt sich durch einen Punkt in zwei Teile teilen” als die gleiche Form darstellt, wie den Satz: “die Strecke ist unbegrenzt teilbar”; so daß man scheinbar in beiden Fällen sagen kann: “nehmen wir an, die mögliche Teilung sei ausgeführt”. “In zwei Teile teilbar” und “unbegrenzt teilbar” haben eine gänzlich verschiedene Grammatik. Man operiert fälschlich mit dem Worte “unendlich”, wie mit einem Zahlwort; weil beide in der Umgangssprache auf die Frage “wieviele …” zur Antwort kommen.
+
+### [Ts-213](/ts-213/#742r.2) <span class="fac">[742r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/742r.webp)</span> {#ts-213-742r2}
+
+“Das Maximum ist doch aber höher, als jeder beliebige andre Punkt der Kurve.” Aber die Kurve besteht ja nicht aus Punkten, sondern ist ein Gesetz, dem Punkte gehorchen. Oder auch: ein Gesetz, nach dem Punkte konstruiert werden können. Wenn man nun fragt: “welche Punkte”, – so kann ich nur sagen: “nun, z.B., die Punkte P, Q, R, etc.”. Und es ist einerseits so, daß keine Anzahl von Punkten gegeben werden kann, von denen man sagen könnte, sie seien alle Punkte, die auf der Kurve liegen, daß man anderseits auch nicht von einer solchen Gesamtheit von Punkten reden kann, die nur wir Menschen nicht aufzählen können, die sich aber beschreiben läßt und die man die Gesamtheit aller Punkte der Kurve nennen könnte, – eine Gesamtheit die für uns Menschen zu groß wäre. Es gibt ein Gesetz einerseits und Punkte auf der Kurve anderseits – aber nicht “_alle_ Punkte der Kurve”. Das Maximum liegt höher als irgend welche Punkte der Kurve, die man etwa konstruiert, aber nicht höher als eine Gesamtheit von Punkten; es sei denn, daß das Kriterium hiervon, und also der Sinn dieser Aussage, wieder nur die Konstruktion aus dem Gesetz der Kurve ist.
 
 ### [Ts-213](/ts-213/#742r.3+743r.1) <span class="fac">[742r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/742r.webp),[743r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/743r.webp)</span> {#ts-213-742r3743r1}
 

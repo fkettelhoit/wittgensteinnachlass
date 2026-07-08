@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1930–1933, 1158 remarks, Ts-209, Ts-214a1, Ts-215a, Ts-215b, Ms-109</summary>
+<summary>1930–1933, 1161 remarks, Ts-209, Ts-214a1, Ts-215a, Ts-215b, Ms-109</summary>
 
 <img class="viz" src="/viz/W-PR.svg">
 
@@ -2434,6 +2434,10 @@ Ich sagte: Wo man nicht suchen kann, da kann man auch nicht fragen, und d.h.: Wo
 
 Nur wo eine Methode der Lösung ist, ist ein Problem (d.h. natürlich nicht “nur wo die Lösung gefunden ist, ist ein Problem”).
 
+### [Ts-209](/ts-209/#70.7) <span class="fac">[70\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/70.webp)</span> {#ts-209-707}
+
+D.h. dort wo die Lösung nur von einer Art Offenbarung erwartet werden kann, ist auch kein Problem. Einer Offenbarung entspricht keine Frage.
+
 ### [Ts-209](/ts-209/#70.8) <span class="fac">[70\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/70.webp)</span> {#ts-209-708}
 
 Das ist so, wie wenn man nach den Erfahrungen eines Sinnes fragen wollte, den man noch nicht hat. Uns einen neuen Sinn geben, das würde ich Offenbarung nennen.
@@ -2653,6 +2657,10 @@ Ein mathematischer Satz sagt immer das, was sein Beweis beweist. D.h. er sagt ni
 ### [Ts-209](/ts-209/#75.10) <span class="fac">[75\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/75.webp)</span> {#ts-209-7510}
 
 Hätte ich eine Methode, Gleichungen die eine Lösung haben von solchen zu scheiden, die keine haben, dann hätte mit Bezug auf diese Methode der Ausdruck “(∃x)․x² = 2x” Sinn.
+
+### [Ts-209](/ts-209/#76.1) <span class="fac">[76\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/76.webp)</span> {#ts-209-761}
+
+Ich kann fragen “welche Lösung hat die Gleichung x² = 2x”, aber ich kann nicht fragen “hat sie eine Lösung”. Denn wie würde das aussehen, wenn sie keine hätte? Erst wenn ich weiß, was der Fall ist, wenn ein Satz falsch ist, hat er einen Sinn. – Wenn nun aber jener andere Fall, etwa der der Gleichung “(∃x)․ x² ‒ 2x ‒ x(x ‒ 2) = 0” wäre? Dann hätte der Satz (∃x)․x² = 2x allerdings Sinn und sein Beweis wäre, daß die Regeln es nicht gestatten, die Seiten gegeneinander zu kürzen. Auf die Frage “gibt es eine Lösung der Gleichung <math class="stacked" display="inline"><msup><mi>x</mi><mi>n</mi></msup><mspace width="0.3em"/><mo>+</mo><mtext>axⁿ⁻</mtext><mtext>¹</mtext><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mtext>…</mtext><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mi>z</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn></math>?” kann man immer fragen “im Gegensatz wozu?”.
 
 ### [Ts-209](/ts-209/#76.2) <span class="fac">[76\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/76.webp)</span> {#ts-209-762}
 
@@ -3166,6 +3174,10 @@ Wie ist es aber mit einer Definition, wie A(1). Dies ist nicht als Regel zum alg
 ### [Ts-209](/ts-209/#85.1) <span class="fac">[85\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/85.webp)</span> {#ts-209-851}
 
 Wissen, daß man etwas beweisen kann, ist, es bewiesen haben.
+
+### [Ts-209](/ts-209/#85.2) <span class="fac">[85\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/85.webp)</span> {#ts-209-852}
+
+7 + (8 + 9) = (7 + 8) + 9 Wie weiß ich, daß das so ist ohne es besonders bewiesen zu haben? Und weiß ich es _ebensogut_, als hätte ich es vollständig abgeleitet? Ja! – Dann ist es also wirklich bewiesen. Und zwar kann es dann nicht noch _besser_ bewiesen werden; etwa dadurch, daß ich die Ableitung bis zu diesem Satz selbst führe. Ich muß also nach Durchlaufung einer Spiralwindung sagen können “halt! ich brauche nicht mehr, ich sehe schon, wie es weitergeht” und alles höhere Steigen müßte dann einfach überflüssig sein und nicht doch die Sache deutlicher machen. Wenn ich alle Windungen der Spirale bis zu meinem Punkt zeichne, so kann ich also nicht besser sehen, daß sie zu ihm führt, als wenn ich nur _eine_ Windung zeichne. Nur zeigen beide dasselbe in verschiedener Form. Ich kann sozusagen der vollständig gezeichneten Spirale stupid folgen und komme zu meinem Punkt, während ich die _eine_ gezeichnete Windung auf bestimmte Weise interpretieren muß, um aus ihr zu entnehmen, daß sie verlängert zum Punkte A führt. D.h.: Aus dem vollständig durchgerechneten Beweis für 6 + (7 + 8) = (6 + 7) + 8 kann ich dasselbe entnehmen, wie aus dem, der nur eine “Windung” beschreibt, nur auf andere Weise. Und jedenfalls ist die _eine_ Windung _zusammen mit den Zahlformen_ der gegebenen Gleichung ein vollständiger Beweis dieser Gleichung. Es ist, wie wenn ich sage: “Du willst zum Punkt A kommen? Ja, _den_ kannst du mit _dieser_ Spirale erreichen.”
 
 ### [Ts-209](/ts-209/#85.3) <span class="fac">[85\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/85.webp)</span> {#ts-209-853}
 

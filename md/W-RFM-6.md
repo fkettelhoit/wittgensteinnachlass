@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1944, 261 remarks, Ms-164</summary>
+<summary>1944, 263 remarks, Ms-164</summary>
 
 <img class="viz" src="/viz/W-RFM-6.svg">
 
@@ -946,6 +946,10 @@ Wir sagen, die Menschen um sich miteinander zu verständigen müßten über die 
 
 Aber es gibt hier eine eigentümliche Versuchung die sich darin ausdrückt, daß ich sagen möchte: Ich kann es nicht verstehen, weil die Deutung der Erklärung im Vagen bleibt.
 
+### [Ms-164](/ms-164/#122.3) <span class="fac">[122\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/122.webp)</span> {#ms-164-1223}
+
+D.h. ich kann Dir & mir selbst nur Beispiele der Anwendung geben.
+
 ### [Ms-164](/ms-164/#122.4+123.1) <span class="fac">[122\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/122.webp),[123\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/123.webp)</span> {#ms-164-12241231}
 
 <span class="series-number">41</span> Das Wort “Übereinstimmung” & das Wort “Regel” sind mit einander _verwandt_, sie sind Vettern. Das Phänomen des Übereinstimmens & des Handelns nach einer Regel hängen zusammen.
@@ -987,6 +991,10 @@ Betrachten wir sehr einfache Regeln. Der Regelausdruck sei eine Figur, etwa die:
 & man folgt der Regel indem man eine gerade Reihe solcher Figuren zeichnet (etwa als ein Ornament).
 
 ∣– –∣∣– –∣∣– –∣∣– –∣∣– –∣
+
+### [Ms-164](/ms-164/#126.2) <span class="fac">[126\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/126.webp)</span> {#ms-164-1262}
+
+Unter was für Umständen würden wir sagen: durch das Hinschreiben einer solchen Figur gebe jemand eine Regel? Und unter was für Umständen: Einer folge dieser Regel indem er jene Reihe zeichnet? Es ist schwer das zu beschreiben.
 
 ### [Ms-164](/ms-164/#126.3+127.1+128.1) <span class="fac">[126\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/126.webp),[127\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/127.webp),[128\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/128.webp)</span> {#ms-164-126312711281}
 

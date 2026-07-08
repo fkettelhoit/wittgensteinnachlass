@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1914–1951, 587 remarks, Ms-101, Ms-106, Ms-105, Ms-107, and 53 more</summary>
+<summary>1914–1951, 593 remarks, Ms-101, Ms-106, Ms-105, Ms-107, and 53 more</summary>
 
 <img class="viz" src="/viz/W-VB.svg">
 
@@ -293,6 +293,10 @@ Kompositionen die am Klavier, auf dem Klavier, komponiert sind, solche, die mit 
 ### [Ms-153a](/ms-153a/#128v.1) <span class="fac">[128v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-153a/128v.webp)</span> {#ms-153a-128v1}
 
 Eine Tragödie könnte doch immer anfangen mit den Worten: „Es wäre gar nichts geschehen, wenn nicht ….”
+
+### [Ms-153a](/ms-153a/#128v.2) <span class="fac">[128v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-153a/128v.webp)</span> {#ms-153a-128v2}
+
+(Wenn er nicht mit einem Zipfel seines Kleides in die Maschine geraten wäre?)
 
 ### [Ms-153a](/ms-153a/#128v.3) <span class="fac">[128v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-153a/128v.webp)</span> {#ms-153a-128v3}
 
@@ -736,6 +740,10 @@ Das Licht der Arbeit ist ein schönes Licht, das aber nur dann wirklich schön l
 
 “Ja so ist es,” sagst Du, “denn so _muß_ es sein!”
 
+### [Ms-157b](/ms-157b/#10r.1) <span class="fac">[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-157b/10r.webp)</span> {#ms-157b-10r1}
+
+(Schopenhauer: der Mensch lebt eigentlich 100 Jahre lang.) “Natürlich, so muß es sein!” Es ist da, als habe man die _Absicht_ eines Schöpfers verstanden. Man hat das _System_ verstanden. Man fragt sich nicht: ‘Wie lange leben denn Menschen wirklich’, das erscheint jetzt als etwas Oberflächliches; sondern man hat etwas tiefer liegendes verstanden.
+
 ### [Ms-157b](/ms-157b/#15v.3+16r.1) <span class="fac">[15v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-157b/15v.webp),[16r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-157b/16r.webp)</span> {#ms-157b-15v316r1}
 
 Nur so nämlich können wir der Ungerechtigkeit – oder Leere unserer Behauptungen entgehen, indem wir das Ideal als das was es _ist_, nämlich als Vergleichsobjekt – sozusagen als Maßstab – in unsrer Betrachtung hinstellen, & nicht als das Vorurteil, dem Alles konformieren _muß_. Dies nämlich ist der Dogmatismus.
@@ -1021,6 +1029,10 @@ Ein Lehrer, der während des Unterrichts gute, oder sogar erstaunliche Resultate
 01.02.1940
 
 ‘Zweck der Musik: Gefühle zu vermitteln.’
+
+### [Ms-122](/ms-122/#118v.3) <span class="fac">[118v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/118v.webp)</span> {#ms-122-118v3}
+
+Damit verbunden: Wir mögen mit Recht sagen “er hat jetzt das gleiche Gesicht wie früher” – obwohl die Messung in beiden Fällen Verschiedenes ergab. Wie werden die Worte “der gleiche Gesichtsausdruck” gebraucht? – Wie weiß man, daß Einer diese Worte richtig gebraucht? Aber wie weiß ich, daß _ich_ sie richtig gebrauche?
 
 ### [Ms-117](/ms-117/#151.4) <span class="fac">[151\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/151.webp)</span> {#ms-117-1514}
 
@@ -1329,6 +1341,10 @@ Menschen sind in dem Maße religiös, als sie sich nicht so sehr _unvollkommen_,
 ### [Ms-128](/ms-128/#46.6) <span class="fac">[46\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/46.webp)</span> {#ms-128-466}
 
 Jeder halbwegs anständige Mensch glaubt sich höchst unvollkommen, aber der religiöse glaubt sich _elend_.
+
+### [Ms-128](/ms-128/#47.1) <span class="fac">[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/47.webp)</span> {#ms-128-471}
+
+What's ragged should be left ragged.
 
 ### [Ms-128](/ms-128/#47.2) <span class="fac">[47\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/47.webp)</span> {#ms-128-472}
 
@@ -1714,6 +1730,12 @@ Scheue Dich _ja_ nicht davor, Unsinn zu reden! Nur mußt Du auf Deinen Unsinn la
 
 Die Wunder der Natur. Man könnte sagen: die Kunst _zeige_ uns die Wunder der Natur. Sie basiere auf dem _Begriff_ der Wunder der Natur. (Die sich öffnende Blüte. Was ist an ihr _herrlich_?) Man sagt: “Sieh, wie sie sich öffnet!”
 
+### [Ms-134](/ms-134/#27.2+28.1) <span class="fac">[27\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/27.webp),[28\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/28.webp)</span> {#ms-134-272281}
+
+15.03.1947
+
+Durch einen Zufall nur könnten die Träume eines Menschen von der Zukunft der Philosophie, der Kunst, der Wissenschaft, sich bewahrheiten. Was er sieht, ist eine Fortsetzung seiner Welt im Traum, also _vielleicht_ sein Wunsch (vielleicht auch nicht) aber nicht die Wirklichkeit. Es könnte doch sein, daß die Photographie eines Menschen, z.B., sich mit der Zeit ändere, so etwa als altere der Mensch auf ihr. Aber sie ändert, entwickelt sich, dann nach ihren eigenen Gesetzen & warum sollten die sie parallel führen mit der Entwickelung des wirklichen Menschen?
+
 ### [Ms-134](/ms-134/#28.2) <span class="fac">[28\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/28.webp)</span> {#ms-134-282}
 
 Auch der Mathematiker kann natürlich die Wunder (das Kristall) der Natur anstaunen; aber kann er es, wenn es einmal problematisch geworden ist, _was_ er sieht? Ist es wirklich möglich, solange eine philosophische Trübe das verschleiert, was das Staunenswerte oder Angestaunte ist? Ich könnte mir denken, daß Einer Bäume bewundert, & auch die Schatten, oder Spiegelungen von Bäumen, die er für Bäume hält. Sagt er sich aber einmal, daß dies doch keine Bäume sind & wird es für ihn problematisch, was sie sind, oder was ihre Beziehung zu Bäumen ist, dann hat die Bewunderung einen Riß, der erst der erst zu heilen ist.
@@ -1943,6 +1965,10 @@ Architektur verherrlicht etwas (denn sie dauert). Sie verherrlicht ihren Zweck.
 ### [Ms-167](/ms-167/#10v.4) <span class="fac">[10v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-167/10v.webp)</span> {#ms-167-10v4}
 
 Architektur verewigt & verherrlicht etwas. Darum kann es nicht Architektur geben, wo nichts (zu verewigen &) zu verherrlichen ist.
+
+### [Ms-167](/ms-167/#11r.3) <span class="fac">[11r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-167/11r.webp)</span> {#ms-167-11r3}
+
+Architektur verewigt & verherrlicht etwas. Darum kann es Architektur nicht geben, wo nichts zu verherrlichen ist.
 
 ### [Ms-167](/ms-167/#11r.4) <span class="fac">[11r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-167/11r.webp)</span> {#ms-167-11r4}
 

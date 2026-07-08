@@ -2,11 +2,11 @@
 
 ### [On Certainty](W-OC.md)
 
-- 1949–1951, 691 remarks
+- 1949–1951, 692 remarks
 
 ### [Last Writings on the Philosophy of Psychology](W-LW.md)
 
-- 1948–1951, 1597 remarks
+- 1948–1951, 1600 remarks
 
 ### [Remarks on Colour](W-ROC.md)
 
@@ -14,11 +14,11 @@
 
 ### [Philosophy of Psychology – A Fragment](W-PPF.md)
 
-- 1949, 383 remarks
+- 1949, 384 remarks
 
 ### [Zettel](W-Z.md)
 
-- 1930–1948, 725 remarks
+- 1930–1948, 729 remarks
 
 ### [Remarks on the Philosophy of Psychology](W-RPP.md)
 
@@ -30,7 +30,7 @@
 
 ### [Remarks on the Foundations of Mathematics](W-RFM.md)
 
-- 1938–1944, 1728 remarks
+- 1938–1944, 1734 remarks
 
 ### [Cause and Effect](W-CE.md)
 

@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1942–1944, 237 remarks, Ms-126, Ms-127</summary>
+<summary>1942–1944, 238 remarks, Ms-126, Ms-127</summary>
 
 <img class="viz" src="/viz/W-RFM-5.svg">
 
@@ -857,6 +857,12 @@ Und man wird dann etwa zu einem Verfahren mit bestimmten Intensionen eine bestim
 ### [Ms-127](/ms-127/#41.2) <span class="fac">[41\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/41.webp)</span> {#ms-127-412}
 
 Die Illustration wird hier eben ein _Verfahren_ angeben.
+
+### [Ms-127](/ms-127/#41.4+42.1) <span class="fac">[41\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/41.webp),[42\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/42.webp)</span> {#ms-127-414421}
+
+26.01.1943
+
+Lehre, wie Figuren in einem Bilde (Gemälde) zu _placieren_ sind, – aus allgemeinen ästhetischen Rücksichten etwa – _abgesehen davon_, ob diese Figuren nun kämpfen, oder einander liebkosen, etc..
 
 ### [Ms-127](/ms-127/#42.2) <span class="fac">[42\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/42.webp)</span> {#ms-127-422}
 

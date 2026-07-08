@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1938–1939, 63 remarks, Ms-117, Ms-121</summary>
+<summary>1938–1939, 64 remarks, Ms-117, Ms-121</summary>
 
 <img class="viz" src="/viz/W-RFM-2.svg">
 
@@ -454,3 +454,9 @@ Wenn hier das Interesse an dem Satz haftet der ‘bewiesen wurde’, so haftet e
 ### [Ms-121](/ms-121/#89r.3+89v.1) <span class="fac">[89r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/89r.webp),[89v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/89v.webp)</span> {#ms-121-89r389v1}
 
 <span class="series-number">62</span> Was ich (hier) tue ist nicht Rechnungen als falsch zu erweisen; sondern das _Interesse_ von Rechnungen einer Prüfung zu unterziehen. Ich prüfe etwa die Berechtigung, hier noch das Wort … zu gebrauchen. Eigentlich aber: ich fordere immer wieder zu so einer Untersuchung auf. Zeige, daß es sie gibt, & was da etwa zu untersuchen ist. Ich darf also nicht sagen: “So darf man sich nicht ausdrücken”, oder “Das ist absurd”, oder “Das ist uninteressant”, sondern: “Prüfe diesen Ausdruck in dieser Weise auf seine Berechtigung”; denn man kennt seine Berechtigung, weil seine Verwendung, noch nicht, damit, daß man …
+
+### [Ms-121](/ms-121/#91r.2+91v.1+92r.1+92v.1) <span class="fac">[91r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/91r.webp),[91v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/91v.webp),[92r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/92r.webp),[92v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/92v.webp)</span> {#ms-121-91r291v192r192v1}
+
+05.01.1939
+
+“Denke Dir alle Stellen der Zahl π in einer Reihe aufgeschrieben. – – Du wirst mir doch nicht sagen, Du verstehst nicht, was ich meine!” – So gut, wie ich verstehe, was es heißt, 1000 Seelen gehen in einen cm³. Daß ich Bilder mit einem Ausdruck Bilder verbinde, ist kein Beweis dafür, daß ich über seine Verwendung nicht völlig im Unklaren bin oder seine Berechtigung beurteilen kann. wenn uns die Bilder nämlich nicht den Weg zu seiner Verwendung weisen. [→ [Zu der Bemerkung 4 Seiten früher]]: Ich mache darauf aufmerksam: Man kennt seine Berechtigung – weil seine Verwendung – noch nicht, weil man Bilder mit ihm verbindet.

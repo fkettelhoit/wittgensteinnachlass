@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1939–1940, 356 remarks, Ms-122, Ms-117</summary>
+<summary>1939–1940, 357 remarks, Ms-122, Ms-117</summary>
 
 <img class="viz" src="/viz/W-RFM-3.svg">
 
@@ -1309,6 +1309,10 @@ Ich will doch sagen: Die Mathematik ist als solche immer Maß & nicht Gemessenes
 <span class="series-number">76</span> 25.02.1940
 
 Der Begriff des Rechnens schließt _Verwirrung_ aus. – Wie, wenn Einer beim Rechnen einer Multiplikation zu verschiedenen Zeiten Verschiedenes herausbrächte & dies _sähe_, aber in der Ordnung fände? – Aber dann könnte er doch die Multiplikation nicht zu den Zwecken verwenden, wie wir es tun! – Warum nicht? Und es ist auch nicht gesagt, daß er dabei immer übel führe.
+
+### [Ms-117](/ms-117/#196.1) <span class="fac">[196\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/196.webp)</span> {#ms-117-1961}
+
+Die Auffassung der Rechnung als Experiment kommt uns leicht als die einzig _realistische_ vor.
 
 ### [Ms-117](/ms-117/#196.2) <span class="fac">[196\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/196.webp)</span> {#ms-117-1962}
 
