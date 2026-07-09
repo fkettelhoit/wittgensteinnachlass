@@ -1048,6 +1048,20 @@ pub fn git_show(repo_dir: &Path, commit: &str, file_path: &str) -> Option<String
 
 /// Detect remarks that changed between the old and current German text.
 /// Returns a list of (remark_index, anchor_id) for remarks that need re-translation.
+/// Collapse identical repeated page-refs in an anchor (e.g.
+/// "37.3+37.4+38.1+38.1" → "37.3+37.4+38.1"), mirroring the parser's
+/// dedup_page_refs. Used to match a remark across a heading change that only
+/// removed a duplicate page-ref, so it is not mistaken for a different remark.
+pub fn dedup_anchor(anchor: &str) -> String {
+    let mut out: Vec<&str> = Vec::new();
+    for seg in anchor.split('+') {
+        if !out.contains(&seg) {
+            out.push(seg);
+        }
+    }
+    out.join("+")
+}
+
 pub fn detect_changed_remarks(
     old_de_content: &str,
     current_de_content: &str,
@@ -1055,12 +1069,14 @@ pub fn detect_changed_remarks(
     let (_, old_remarks) = parse_document(old_de_content);
     let (_, current_remarks) = parse_document(current_de_content);
 
-    // Build map: anchor_id → body for old German
+    // Build map: anchor_id → body for old German. Key on the dedup-normalized
+    // anchor so a remark whose only change was a removed duplicate page-ref still
+    // matches its old self (and is judged by body, not by the anchor text).
     let mut old_map: HashMap<String, String> = HashMap::new();
     for r in &old_remarks {
         let anchor = anchor_from_doc_heading(&r.heading);
         if !anchor.is_empty() {
-            old_map.insert(anchor, r.body.clone());
+            old_map.insert(dedup_anchor(&anchor), r.body.clone());
         }
     }
 
@@ -1071,7 +1087,7 @@ pub fn detect_changed_remarks(
         if anchor.is_empty() {
             continue;
         }
-        match old_map.get(&anchor) {
+        match old_map.get(&dedup_anchor(&anchor)) {
             Some(old_body) if old_body == &r.body => {} // unchanged
             _ => changed.push((i, anchor)),             // changed or new
         }
