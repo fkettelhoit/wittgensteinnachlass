@@ -8,35 +8,35 @@
 
 </details>
 
-### [Ms-143](/ms-143/#1.1+2.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/2.webp)</span> {#ms-143-1121}
+### [Ms-143](/ms-143/#1.1+2.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/2.webp)</span> {#ms-143-1-1--2-1}
 
 168
 
 Dies ist natürlich nicht so daß das Volk glaubt, der Herrscher habe diese Kräfte, der Herrscher aber sehr wohl weiß daß er sie nicht hat oder es nur dann nicht weiß wenn er ein Schwachkopf oder Narr ist. Sondern die Notion von seiner Kraft ist natürlich schon so eingerichtet, daß sie mit der Erfahrung – des Volkes & seiner – übereinstimmen kann. Daß dabei irgend eine Heuchelei eine Rolle spielt ist nur wahr, sofern sie überhaupt bei dem meisten was Menschen tun nahe liegt.
 
-### [Ms-143](/ms-143/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/2.webp)</span> {#ms-143-22}
+### [Ms-143](/ms-143/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/2.webp)</span> {#ms-143-2-2}
 
 169
 
 Wenn ein Mensch in unserer (oder doch meiner) Gesellschaft zu viel lacht so presse ich halb unwillkürlich die Lippen zusammen, als glaubte ich die seinen dadurch zusammenhalten zu können.
 
-### [Ms-143](/ms-143/#3.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/3.webp)</span> {#ms-143-31}
+### [Ms-143](/ms-143/#3.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/3.webp)</span> {#ms-143-3-1}
 
 170
 
 Der Unsinn ist hier, daß Frazer es so darstellt als hätten diese Völker eine vollkommen falsche (ja wahnsinnige) Vorstellung vom Laufe der Natur, während sie nur eine merkwürdige Interpretation der Phänomene besitzen. D.h. ihre Naturkenntnis, wenn sie sie niederschrieben würde von der unsern sich nicht _fundamental_ unterscheiden. Nur ihre _Magie_ ist anders.
 
-### [Ms-143](/ms-143/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/4.webp)</span> {#ms-143-41}
+### [Ms-143](/ms-143/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/4.webp)</span> {#ms-143-4-1}
 
 171
 
 „A network of prohibitions & observances of which the intention is not to contribute to his dignity …” Das ist wahr & falsch. Freilich nicht die Würde des Schutzes der Person wohl aber die – sozusagen – natürliche Heiligkeit der Gottheit in ihm.
 
-### [Ms-143](/ms-143/#4.2+5.1) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/4.webp),[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/5.webp)</span> {#ms-143-4251}
+### [Ms-143](/ms-143/#4.2+5.1) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/4.webp),[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/5.webp)</span> {#ms-143-4-2--5-1}
 
 So einfach es klingt: der Unterschied zwischen Magie & Wissenschaft kann dahin ausgedrückt werden, daß es in der Wissenschaft einen Fortschritt gibt, aber nicht in der Magie. Die Magie hat keine Richtung der Entwickelung die in ihr selbst liegt.
 
-### [Ms-143](/ms-143/#6.1) <span class="fac">[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/6.webp)</span> {#ms-143-61}
+### [Ms-143](/ms-143/#6.1) <span class="fac">[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/6.webp)</span> {#ms-143-6-1}
 
 179
 
@@ -44,99 +44,99 @@ Wieviel mehr Wahrheit darin daß der Seele dieselbe Multiplizität gegeben wird 
 
 Frazer merkt nicht daß wir da Platos & Schopenhauers Lehre vor uns haben.
 
-### [Ms-143](/ms-143/#7.1) <span class="fac">[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/7.webp)</span> {#ms-143-71}
+### [Ms-143](/ms-143/#7.1) <span class="fac">[7\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/7.webp)</span> {#ms-143-7-1}
 
 Alle kindlichen (infantilen) Theorien finden wir in der heutigen Philosophie wieder; nur nicht mit dem Gewinnenden des Kindlichen.
 
-### [Ms-143](/ms-143/#8.1) <span class="fac">[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/8.webp)</span> {#ms-143-81}
+### [Ms-143](/ms-143/#8.1) <span class="fac">[8\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/8.webp)</span> {#ms-143-8-1}
 
 614
 
 Das Auffallendste schiene mir außer den Ähnlichkeiten die Verschiedenheit _aller_ dieser Riten zu sein. Es ist eine Mannigfaltigkeit von Gesichtern mit gemeinsamen Zügen die da & dort immer wieder auftauchen. Und was man tun möchte ist Linien ziehen die die gemeinsamen Bestandteile verbinden. Es fehlt dann noch ein Teil der Betrachtung & es ist der, welcher dieses Bild mit unsern eigenen Gefühlen & Gedanken in Verbindung bringt. Dieser Teil gibt der Betrachtung ihre Tiefe.
 
-### [Ms-143](/ms-143/#9.1) <span class="fac">[9\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/9.webp)</span> {#ms-143-91}
+### [Ms-143](/ms-143/#9.1) <span class="fac">[9\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/9.webp)</span> {#ms-143-9-1}
 
 In allen diesen Gebräuchen sieht man allerdings etwas, der Ideenassoziation _Ähnliches_ & mit ihr Verwandtes. Man könnte von einer Assoziation der Gebräuche reden.
 
-### [Ms-143](/ms-143/#10.1) <span class="fac">[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/10.webp)</span> {#ms-143-101}
+### [Ms-143](/ms-143/#10.1) <span class="fac">[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/10.webp)</span> {#ms-143-10-1}
 
 618
 
 Nichts spricht dafür, warum das Feuer mit solchem Nimbus umgeben sein sollte. Und, wie seltsam, was heißt es eigentlich „es schien vom Himmel gekommen zu sein”? von welchem Himmel. Nein, es ist gar nicht selbstverständlich, daß das Feuer so betrachtet wird; – aber es wird eben so betrachtet.
 
-### [Ms-143](/ms-143/#11.1+12.1) <span class="fac">[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/12.webp)</span> {#ms-143-111121}
+### [Ms-143](/ms-143/#11.1+12.1) <span class="fac">[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/12.webp)</span> {#ms-143-11-1--12-1}
 
 618
 
 Hier scheint die Hypothese erst der Sache Tiefe zu geben. Und man kann sich an die Erklärung des seltsamen Verhältnisses von Siegfried & Brunhild im neueren Nibelungenlied erinnern. Nämlich daß Siegfried Brunhilde schon früher einmal gesehen zu haben scheint. Es ist nun klar daß was diesem Gebrauch Tiefe gibt sein _Zusammenhang_ mit dem Verbrennen eines Menschen ist. Wenn es bei irgendeinem Fest Sitte wäre, daß Menschen (wie beim Roß-&-Reiter-Spiel auf einander reiten so würden wir darin nichts sehen als eine Form des Tragens, die an das Reiten des Menschen auf einem Pferd erinnert; – wüßten wir aber daß es unter vielen Völkern Sitte gewesen wäre etwa Sklaven als Reittiere zu benützen & so beritten gewisse Feste zu feiern, so würden wir jetzt in dem harmlosen Gebrauch unserer Zeit etwas Tieferes & weniger Harmloses entdecken. Die Frage ist: haftet dieses – sagen wir – Finstere dem Gebrauch des Beltane Feuers wie er vor 100 Jahren geübt wurde (an sich) an, oder nur dann, wenn die Hypothese seiner Entstehung sich bewahrheiten sollte. Ich glaube es ist offenbar die innere Natur des neuzeitlichen Gebrauchs selbst die uns finster anmutet, & die uns bekannten Tatsachen von Menschenopfern weisen nur die Richtung in der wir den Gebrauch ansehen sollen. Wenn ich von der inneren Natur des Gebrauchs rede meine ich alle Umstände, in denen er geübt wird & die in dem Bericht von so einem Fest nicht enthalten sind da sie nicht sowohl in bestimmten Handlungen bestehen die das Fest charakterisieren als in dem was man den Geist des Festes nennen könnte welcher beschrieben würde indem man z.B. die Art von Leuten beschriebe die daran teilnehmen, ihre übrige Handlungsweise, d.h. ihren Charakter; die Art der Spiele die sie sonst spielen. Und man würde dann sehen daß das Finstere im Charakter dieser Menschen selbst liegt.
 
-### [Ms-143](/ms-143/#13.1+14.1+15.1+16.1) <span class="fac">[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/13.webp),[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/14.webp),[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/15.webp),[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp)</span> {#ms-143-131141151161}
+### [Ms-143](/ms-143/#13.1+14.1+15.1+16.1) <span class="fac">[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/13.webp),[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/14.webp),[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/15.webp),[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp)</span> {#ms-143-13-1--14-1--15-1--16-1}
 
 619
 
 Hier sieht etwas aus wie die Überreste eines Losens. Und durch diesen Aspekt gewinnt es plötzlich Tiefe. Würden wir erfahren, daß der Kuchen mit den Knöpfen in einem bestimmten Fall etwa ursprünglich zu Ehren eines Knopfmachers zu seinem Geburtstag gebacken worden sei & sich der Gebrauch dann in der Gegend erhalten habe, so würde dieser Gebrauch tatsächlich alles „Tiefe” verlieren es sei denn daß es in seiner gegenwärtigen Form an sich liegt. Aber man sagt in so einem Fall oft: „dieser Gebrauch ist _offenbar_ uralt”. Woher weiß man das? Ist es nur weil man historisches Zeugnis über derartige alte Gebräuche hat? Oder hat es noch einen andern Grund, einen den man durch Interpretation gewinnt? Aber auch, wenn die vorzeitliche Herkunft des Gebrauchs & die Abstammung von einem finstern Gebrauch historisch erwiesen ist, so ist es doch möglich daß der Gebrauch heute _gar nichts_ mehr Finsteres an sich hat, daß nichts von dem vorzeitlichen Grauen an ihm hängengeblieben ist. Vielleicht wird er heute nur mehr von Kindern geübt die im Kuchenbacken & Verzieren mit Knöpfen wetteifern. Dann liegt das Tiefe also nur im Gedanken an jene Abstammung. Aber diese kann doch ganz unsicher sein & man möchte sagen: „wozu sich über eine so unsichere Sache Sorgen machen” (wie eine rückwärts schauende Kluge Else). Aber solche Sorgen sind es nicht. – Vor allem: woher die Sicherheit daß ein solcher Gebrauch uralt sein muß (was sind unsre Daten, was ist die Verifikation)? Aber haben wir denn eine Sicherheit, können wir uns nicht darin irren & des Irrtums historisch überführt werden? Gewiß, aber es bleibt dann noch immer etwas, dessen wir sicher sind. Wir würden dann sagen „Gut in diesem _einen_ Fall mag die Herkunft anders sein, aber im allgemeinen ist sie sicher die vorzeitliche”. Was uns dafür _Evidenz_ ist, das muß die Tiefe dieser Annahme enthalten. Und diese Evidenz ist wieder eine nicht-hypothetische psychologische. Wenn ich nämlich sage: das Tiefe in diesem Gebrauch liegt in seiner Herkunft _wenn_ es sich so zugetragen hat. So liegt also entweder das Tiefe in dem Gedanken an so eine Herkunft oder das Tiefe ist selbst nur hypothetisch & man kann nur sagen: _Wenn_ es sich so zugetragen hat so war das eine finstere tiefe Geschichte. Ich will sagen: Das Finstere, Tiefe liegt nicht darin, daß es sich mit der Geschichte _dieses_ Gebrauches so verhalten hat, denn vielleicht hat es sich gar nicht so verhalten; auch nicht darin, daß es sich vielleicht oder wahrscheinlich so verhalten hat, sondern in dem was mir Grund gibt, das anzunehmen. Ja woher überhaupt das Tiefe & Finstere im Menschenopfer. Denn sind es nur die Leiden des Opfers die uns den Eindruck machen? Krankheiten aller Art die mit ebensoviel Leiden verbunden sind, rufen diesen Eindruck _doch_ nicht hervor. Nein, dies Tiefe & Finstere versteht sich nicht von selbst wenn wir nur die Geschichte der äußeren Handlung erfahren, sondern _wir_ tragen es wieder hinein aus einer Erfahrung in unserm Innern. Die Tatsache, daß das Los durch einen Kuchen gezogen wird hat (auch) etwas besonders Schreckliches (beinahe wie der Verrat durch einen Kuß) & daß uns das besonders schrecklich anmutet hat wieder eine wesentliche Bedeutung für die Untersuchung solcher Gebräuche [eines solchen Gebrauchs]. Es ist, wenn ich so einen Gebrauch sehe, von ihm höre, wie wenn ich einen Mann sehe der bei Gelegenheit streng mit einem andern spricht, & aus dem Ton der Stimme & dem Gesicht merke, daß dieser Mann bei gegebenem Anlaß furchtbar sein kann. Der Eindruck den ich hier erhalte, kann ein sehr tiefer & außerordentlich ernster sein.
 
-### [Ms-143](/ms-143/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp)</span> {#ms-143-162}
+### [Ms-143](/ms-143/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp)</span> {#ms-143-16-2}
 
 Die _Umgebung_ einer Handlungsweise.
 
-### [Ms-143](/ms-143/#16.3) <span class="fac">[16\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp)</span> {#ms-143-163}
+### [Ms-143](/ms-143/#16.3) <span class="fac">[16\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp)</span> {#ms-143-16-3}
 
 Eine Überzeugung liegt jedenfalls den Annahmen über den Ursprung des Beltanefestes – z.B. – zu Grunde; die ist daß solche Feste nicht von einem Menschen, sozusagen aufs Geratewohl, erfunden werden, sondern eine unendlich viel breitere Basis brauchen um sich zu erhalten. Wollte ich ein Fest erfinden, so würde es baldigst aussterben oder aber solcher Weise modifiziert werden daß es einem allgemeinen Hang der Leute entspricht.
 
-### [Ms-143](/ms-143/#16.4+17.1) <span class="fac">[16\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp),[17\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/17.webp)</span> {#ms-143-164171}
+### [Ms-143](/ms-143/#16.4+17.1) <span class="fac">[16\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/16.webp),[17\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/17.webp)</span> {#ms-143-16-4--17-1}
 
 Was aber wehrt sich dagegen anzunehmen das Beltanefest sei immer in der gegenwärtigen (oder jüngstvergangenen) Form gefeiert worden? Man möchte sagen: Es ist zu sinnlos um so erfunden worden zu sein. Ist es nicht, wie wenn ich eine Ruine sehe & sage: das muß einmal ein Haus gewesen sein, denn niemand würde einen so beschaffenen Haufen behauener & unregelmäßiger Steine errichten? Und wenn gefragt würde: Woher weißt du das? so könnte ich nur sagen: Meine Erfahrung mit den Menschen lehrt es mich. Ja selbst da wo sie wirklich Ruinen bauen nehmen sie die Formen von eingestürzten Häusern her.
 
-### [Ms-143](/ms-143/#17.2+18.1+19.1+20.1) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/17.webp),[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/18.webp),[19\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/19.webp),[20\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/20.webp)</span> {#ms-143-172181191201}
+### [Ms-143](/ms-143/#17.2+18.1+19.1+20.1) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/17.webp),[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/18.webp),[19\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/19.webp),[20\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/20.webp)</span> {#ms-143-17-2--18-1--19-1--20-1}
 
 Man könnte auch so sagen: Wer uns mit der Erzählung vom Beltanefest einen Eindruck machen wollte brauchte jedenfalls die Hypothese von seiner Herkunft nicht zu äußern, sondern er brauchte uns nur das Material (das zu dieser Hypothese führt) vorlegen & nichts weiter dazu sagen. Nun möchte man vielleicht sagen: „Freilich, weil der Hörer, oder Leser, den Schluß selber ziehen wird!” Aber muß er diesen Schluß explizite ziehen? Also, überhaupt ziehen? Und was ist es denn für ein Schluß? Daß das oder jenes _wahrscheinlich_ ist?! Und wenn er den Schluß selber ziehen kann, wie soll ihm der Schluß einen Eindruck machen? Was ihm den Eindruck macht muß doch das sein was _er_ nicht gemacht hat! Impressioniert ihn also erst die geäußerte Hypothese (ob von ihm oder andern geäußert) oder schon das Material zu ihr? Aber könnte ich da nicht ebensogut fragen: Wenn ich sehe wie einer umgebracht wird, – impressioniert mich da einfach, was ich sehe oder erst die Hypothese daß hier ein Mensch umgebracht wird? Aber es ist ja nicht einfach der Gedanke an die mögliche Herkunft des Beltanefestes welche den Eindruck mit sich führt sondern, was man die ungeheure Wahrscheinlichkeit dieses Gedankens nennen möchte. Als das was vom Material hergenommen ist. So wie das Beltanefest auf uns gekommen ist, ist es ja ein Schauspiel & ähnlich wie wenn Kinder Räuber spielen. Aber doch nicht so. Denn wenn es auch abgekartet ist, daß die Partei die das Opfer rettet gewinnt, so hat doch was geschieht noch immer einen Temperamentszusatz den die bloße schauspielerische Darstellung nicht hat. – Aber auch wenn es sich bloß um eine ganz kühle Darstellung handelte, würden wir uns doch beunruhigt fragen: was soll diese Darstellung, was ist ihr _Sinn_?! Und sie könnte uns abgesehen von jeder Deutung dann durch ihre eigentümliche Sinnlosigkeit beunruhigen. (Was zeigt, welcher Art der Grund so einer Beunruhigung sein kann.) Würde nun etwa eine harmlose Deutung gegeben: Das Los werde einfach geworfen, damit man das Vergnügen hätte jemandem damit drohen zu können ins Feuer geworfen zu werden was nicht angenehm sei; so wird das Beltanefest allerdings viel ähnlicher einem jener Belustigungen wo einer der Gesellschaft gewisse Grausamkeiten zu erdulden hat & die so wie sie sind ein Bedürfnis befriedigen. Und das Beltanefest würde durch so eine Erklärung auch wirklich jedes Geheimnisvolle verlieren, wenn es eben nicht selbst in der Handlung wie in der Stimmung von solchen gewöhnlichen Räuberspielen etc. abwiche. Ebenso, daß Kinder an gewissen Tagen einen Strohmann verbrennen, auch wenn dafür keine Erklärung gegeben würde könnte uns beunruhigen. Seltsam daß _ein Mensch_ festlich von ihnen verbrannt werden sollte! Ich will sagen: die Lösung ist nicht beunruhigender als das Rätsel. Warum soll es aber nicht wirklich nur (oder doch zum Teil) der _Gedanke_ sein der mir den Eindruck gibt? Sind denn Vorstellungen nicht furchtbar? Kann mir bei dem Gedanken daß der Kuchen mit den Knöpfen einmal dazu gedient hat das Todesopfer auszulosen nicht schaurig zumute sein? Hat nicht der _Gedanke_ etwas Furchtbares? – Ja aber das was ich in jenen Erzählungen sehe gewinnen sie doch durch die Evidenz auch durch solche die damit nicht unmittelbar verbunden zu sein scheint, durch den Gedanken an den Menschen & seine Vergangenheit durch all das Seltsame, das ich in mir & dem andern sehe, gesehen & gehört habe.
 
-### [Ms-143](/ms-143/#21.1) <span class="fac">[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/21.webp)</span> {#ms-143-211}
+### [Ms-143](/ms-143/#21.1) <span class="fac">[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/21.webp)</span> {#ms-143-21-1}
 
 640
 
 Das kann man sich sehr gut vorstellen – & als Grund wäre etwa angegeben worden, daß die Schutzheiligen sonst gegeneinander ziehen würden & daß nur einer die Sache dirigieren könne. Aber auch das wohl nur eine (nachträgliche) Ausdeutung des Instinkts.
 
-### [Ms-143](/ms-143/#21.2+22.1) <span class="fac">[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp)</span> {#ms-143-212221}
+### [Ms-143](/ms-143/#21.2+22.1) <span class="fac">[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp)</span> {#ms-143-21-2--22-1}
 
 Alle diese _verschiedenen_ Gebräuche zeigen daß es sich hier nicht um die Abstammung des einen vom andern handelt sondern um einen gemeinsamen Geist. Und man könnte alle diese Zeremonien selber erfinden (erdichten). Und der Geist aus dem man sie erfände wäre eben ihr gemeinsamer Geist.
 
-### [Ms-143](/ms-143/#22.2) <span class="fac">[22\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp)</span> {#ms-143-222}
+### [Ms-143](/ms-143/#22.2) <span class="fac">[22\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp)</span> {#ms-143-22-2}
 
 641
 
 Die Verbindung von Krankheit & Schmutz. „Von einer Krankheit reinigen”.
 
-### [Ms-143](/ms-143/#22.3) <span class="fac">[22\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp)</span> {#ms-143-223}
+### [Ms-143](/ms-143/#22.3) <span class="fac">[22\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp)</span> {#ms-143-22-3}
 
 Es liefert eine einfache kindliche Theorie der Krankheit daß sie ein Schmutz ist der abgewaschen werden kann.
 
-### [Ms-143](/ms-143/#22.4+23.1) <span class="fac">[22\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp),[23\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/23.webp)</span> {#ms-143-224231}
+### [Ms-143](/ms-143/#22.4+23.1) <span class="fac">[22\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/22.webp),[23\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/23.webp)</span> {#ms-143-22-4--23-1}
 
 Wie es „infantile Sexualtheorien gibt” so überhaupt infantile Theorien. Das heißt aber nicht daß alles was ein Kind tut _aus_ einer infantilen Theorie als seinem Grund hervorgegangen ist.
 
-### [Ms-143](/ms-143/#23.2) <span class="fac">[23\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/23.webp)</span> {#ms-143-232}
+### [Ms-143](/ms-143/#23.2) <span class="fac">[23\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/23.webp)</span> {#ms-143-23-2}
 
 Das Richtige & Interessante ist nicht zu sagen das ist aus dem hervorgegangen, sondern: es könnte so hervorgegangen sein.
 
-### [Ms-143](/ms-143/#24.1+25.1) <span class="fac">[24\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/24.webp),[25\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/25.webp)</span> {#ms-143-241251}
+### [Ms-143](/ms-143/#24.1+25.1) <span class="fac">[24\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/24.webp),[25\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/25.webp)</span> {#ms-143-24-1--25-1}
 
 643
 
 Daß das Feuer zur Reinigung gebraucht wurde ist klar. Aber nichts kann wahrscheinlicher sein als daß die denkenden Menschen Reinigungszeremonien auch wo sie ursprünglich nur als solche gedacht gewesen wären später mit der Sonne in Zusammenhang gebracht haben. Wenn sich einem Menschen ein Gedanke aufdrängt (Feuer-Reinigung) (Feuer-Sonne) was kann wahrscheinlicher sein, als daß sich einem Menschen beide Gedanken aufdrängen werden. Die Gelehrten die immer _eine_ Theorie haben möchten!!!
 
-### [Ms-143](/ms-143/#25.2) <span class="fac">[25\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/25.webp)</span> {#ms-143-252}
+### [Ms-143](/ms-143/#25.2) <span class="fac">[25\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/25.webp)</span> {#ms-143-25-2}
 
 Die _gänzliche_ Zerstörung durch das Feuer anders als durch Zerschlagen Zerreißen etc. muß den Menschen aufgefallen sein.
 
-### [Ms-143](/ms-143/#25.3) <span class="fac">[25\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/25.webp)</span> {#ms-143-253}
+### [Ms-143](/ms-143/#25.3) <span class="fac">[25\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/25.webp)</span> {#ms-143-25-3}
 
 Auch wenn man
 
 nichts von einer solchen Verbindung des Reinigung- & Sonne-Gedankens wüßte könnte man annehmen, daß er irgendwo wird aufgetreten sein.
 
-### [Ms-143](/ms-143/#26.1) <span class="fac">[26\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/26.webp)</span> {#ms-143-261}
+### [Ms-143](/ms-143/#26.1) <span class="fac">[26\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/26.webp)</span> {#ms-143-26-1}
 
 680
 
@@ -144,7 +144,7 @@ nichts von einer solchen Verbindung des Reinigung- & Sonne-Gedankens wüßte kö
 
 Da sieht man wie eine solche Hypothese arbeitet.
 
-### [Ms-143](/ms-143/#27.1+28.1) <span class="fac">[27\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/27.webp),[28\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/28.webp)</span> {#ms-143-271281}
+### [Ms-143](/ms-143/#27.1+28.1) <span class="fac">[27\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/27.webp),[28\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-143/28.webp)</span> {#ms-143-27-1--28-1}
 
 681
 

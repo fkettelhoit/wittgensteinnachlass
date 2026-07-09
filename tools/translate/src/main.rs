@@ -278,7 +278,7 @@ fn migrate_headings(input: &std::path::Path, translated: &std::path::Path) {
             let de_anchor = anchor_from_doc_heading(&de.heading);
             let en_anchor = anchor_from_doc_heading(&en.heading);
 
-            if de_anchor == en_anchor {
+            if dedup_anchor(&de_anchor) == dedup_anchor(&en_anchor) {
                 if de.heading != en.heading {
                     new_remarks.push(Remark {
                         heading: de.heading.clone(),

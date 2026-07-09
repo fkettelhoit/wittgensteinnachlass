@@ -1,7 +1,7 @@
 # Letzte Schriften über die Philosophie der Psychologie
 
 <details>
-<summary>1948–1951, 1597 remarks, Ms-137, Ms-167, Ms-138, Ms-169, and 5 more</summary>
+<summary>1948–1951, 1600 remarks, Ms-137, Ms-167, Ms-138, Ms-169, and 5 more</summary>
 <img class="viz" src="/viz/W-LW-1.svg">
 <img class="viz" src="/viz/W-LW-2-MS-169.svg">
 <img class="viz" src="/viz/W-LW-2-MS-170.svg">
