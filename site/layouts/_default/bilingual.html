@@ -19,11 +19,13 @@
   {{ $disclaimer := `<div class="disclaimer"><div class="disclaimer-note">The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.</div><div class="disclaimer-warning"><strong>This translation may contain errors!</strong><br><strong>Do not quote from or cite this translation!</strong></div></div>` }}
   {{ $c = replace $c "<section>" (printf "%s<section>" $disclaimer) 1 }}
   {{ $c = replaceRE `</a>,<a` ` &amp;</a><br><a` $c }}
-  {{/* Rewrite readable fragment IDs (e.g. #1.1, #1r.1+2r.1) in internal links
-       to match Goldmark's auto-generated IDs (strip dots and plus signs).
-       Each pass removes one occurrence; repeat enough for the longest fragments. */}}
-  {{ range seq 5 }}
-    {{ $c = replaceRE `(href="/[^"]*#[^"]*)[.+]([^"]*")` `${1}${2}` $c }}
+  {{/* Rewrite readable fragment IDs (e.g. #1.1, #FCv.1, #1r.1+2r.1) in internal
+       links to match Goldmark's auto-generated heading IDs, which strip dots and
+       plus signs and lowercase. Clean each internal link in full, independent of
+       fragment length. Internal paths are already lowercase, so lowercasing the
+       whole href only affects the fragment. */}}
+  {{ range $frag := findRE `href="/[a-z0-9-]+/#[^"]*"` $c }}
+    {{ $c = replace $c $frag (lower (replaceRE `[.+]` "" $frag)) }}
   {{ end }}
   {{ $c = replaceRE `<a href="([^"]*/)([^/"]+)/([^/"]+)(\.webp)">` `<a href="#fac-$2-$3">` $c }}
   {{ $c = replaceRE `<h3 id="([^"]+)"` `<h3 id="$1"><a class="fragment-link" href="#$1">§</a` $c }}
