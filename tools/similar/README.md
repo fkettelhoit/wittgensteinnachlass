@@ -33,6 +33,6 @@ Pairs with high scores are reliably versions of each other. Below roughly 0.7, p
 
 ## Display
 
-`tools/add_versions.py` (run by `tools/build_site.sh`) turns pairs with a score of at least 0.7 into links in the margin of the German document pages, below the facsimile links. Each remark shows the first entry of its chronology (`←` earlier, `≈` concurrent, `→` later version, labelled with the document number without its Ms-/Ts- prefix), followed by `+N`, which opens the rest.
+`tools/add_versions.py` (run by `tools/build_site.sh`) turns pairs with a score of at least 0.7 into links to the published documents (those linked from `md/all.md`) in the margin of the German document pages, below the facsimile links. Each remark shows the first entry of its chronology (`←` earlier, `≈` concurrent, `→` later version, labelled with the document number without its Ms-/Ts- prefix), followed by `+N`, which opens the rest.
 
 Documents with versions of their remarks in other documents (same threshold) also get a collapsible summary below the document's own one, listing the other documents by the number of the document's remarks with versions in them. Those with at least 10 get a visualization of where in them these versions are (`tools/visualize --all-similar`), the rest follow on one line.

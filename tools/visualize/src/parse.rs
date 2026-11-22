@@ -309,3 +309,14 @@ pub fn load_similar(path: &Path, min_score: f64) -> Vec<(String, String)> {
 pub fn siglum_doc(siglum: &str) -> &str {
     siglum.split(',').next().unwrap_or(siglum)
 }
+
+/// The documents the site exposes: file stems linked from `all.md` in the markdown
+/// directory. None (all documents) if all.md is missing.
+pub fn published_docs(md_dir: &Path) -> Option<std::collections::HashSet<String>> {
+    let Ok(content) = fs::read_to_string(md_dir.join("all.md")) else {
+        eprintln!("Warning: all.md not found, including all documents");
+        return None;
+    };
+    let re = Regex::new(r"\]\(([^)]+)\.md\)").unwrap();
+    Some(re.captures_iter(&content).map(|c| c[1].to_string()).collect())
+}

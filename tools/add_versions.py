@@ -178,6 +178,19 @@ def insert_after_preamble_details(text, block):
     return text[:at] + block + text[at:]
 
 
+def published_docs(md_dir, docs):
+    """The documents the site exposes: those linked from all.md, as in tools/search-index
+    and tools/visualize. The other documents have pages too, but are not listed, so
+    nothing links to them. All documents if all.md is missing."""
+    try:
+        with open(os.path.join(md_dir, "all.md"), encoding="utf-8") as f:
+            linked = set(re.findall(r"\]\(([^)]+)\.md\)", f.read()))
+    except FileNotFoundError:
+        print("warning: all.md not found — linking all documents.", file=sys.stderr)
+        return set(docs)
+    return {d for d in docs if d in linked}
+
+
 def load_dates(path):
     dates = defaultdict(list)
     with open(path, encoding="utf-8") as f:
@@ -253,6 +266,9 @@ def main():
         f[:-3] for f in os.listdir(md_dir) if re.match(r"^(Ms|Ts)-.*\.md$", f)
     )
     remarks = parse_remarks(md_dir, docs)
+    # Only versions in published documents are linked and summarized.
+    published = published_docs(md_dir, docs)
+    linkable = {s: r for s, r in remarks.items() if r["doc"] in published}
     dates = load_dates(os.path.join(md_dir, "dates.tsv"))
     versions = load_versions(similar_path)
 
@@ -289,15 +305,15 @@ def main():
                 # A heading that starts with a link has references in the work column:
                 # works on document pages, the source document on work pages.
                 first_line = not line.startswith("### [")
-                html = nav_html(versions.get(siglum, []), remarks, dates, first_line)
+                html = nav_html(versions.get(siglum, []), linkable, dates, first_line)
                 if html:
                     # Markdown: the heading is followed by a blank line, then the HTML block.
                     out.append("\n" + html + "\n")
                     total += 1
         text = "".join(out)
-        if not is_work:
+        if name in published:
             sigla = [s for s, r in sorted(remarks.items(), key=lambda e: e[1]["pos"]) if r["doc"] == name]
-            block = similar_summary(name, sigla, versions, remarks)
+            block = similar_summary(name, sigla, versions, linkable)
             if block:
                 text = insert_after_preamble_details(text, block)
                 summaries += 1

@@ -388,10 +388,17 @@ fn main() {
 
     // Generate similar-remarks visualizations
     if has_similar_task {
+        // Only documents the site exposes (linked from all.md, as in tools/search-index and
+        // tools/add_versions.py), on both sides of the diagrams.
+        let published = parse::published_docs(&cli.input);
         let mut docs: HashMap<String, parse::SourceDoc> = HashMap::new();
         for entry in fs::read_dir(&cli.input).expect("Failed to read input directory").flatten() {
             let name = entry.file_name().to_string_lossy().to_string();
-            if (name.starts_with("Ms-") || name.starts_with("Ts-")) && name.ends_with(".md") {
+            let stem = name.strip_suffix(".md").unwrap_or(&name);
+            if (name.starts_with("Ms-") || name.starts_with("Ts-"))
+                && name.ends_with(".md")
+                && published.as_ref().is_none_or(|p| p.contains(stem))
+            {
                 let stem = name.strip_suffix(".md").unwrap().to_string();
                 docs.insert(stem, parse::parse_source_doc(&entry.path()));
             }
@@ -411,7 +418,7 @@ fn main() {
         let stems: Vec<String> = if let Some(ref name) = cli.similar {
             let stem = name.strip_suffix(".md").unwrap_or(name).to_string();
             if !docs.contains_key(&stem) {
-                eprintln!("Document file not found: {name}");
+                eprintln!("Document file not found or not published: {name}");
                 std::process::exit(1);
             }
             vec![stem]
