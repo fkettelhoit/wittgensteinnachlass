@@ -533,8 +533,12 @@ details summary {
   font-weight: bold;
   color: var(--color-link);
   list-style: none;
-  margin-bottom: 1rem;
   user-select: none;
+}
+
+/* Closed details in a row read as consecutive lines of text. */
+details:not([open]):has(+ details) {
+  margin-bottom: 0;
 }
 
 details summary:hover {
@@ -550,6 +554,17 @@ details summary::marker {
 details[open] summary::marker {
   content: "▾ ";
   line-height: 0;
+}
+
+/* Similar remarks: one nested entry per other document with a visualization, then a
+   line with the remaining documents, as a compact indented list. */
+details.similar details,
+details.similar p {
+  margin: 0 0 0 1.5rem;
+}
+
+details.similar details[open] {
+  margin-bottom: 1rem;
 }
 
 /* Site-specific overrides for shared transcription styles */

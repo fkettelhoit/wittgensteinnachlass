@@ -1,4 +1,4 @@
-use crate::parse::{Correspondence, RemarkBreak, SourceDoc, Work};
+use crate::parse::{Correspondence, RemarkBreak, SourceDoc};
 use std::collections::{HashMap, HashSet};
 
 const REMARK_SPACING: f64 = 0.8;
@@ -358,14 +358,21 @@ fn layout_source_docs(
     (layouts, block_top)
 }
 
+/// Render a single column on the left (a work, or a document in the similar-remarks
+/// visualization) against stacked documents on the right.
+///
+/// `extend_gaps` widens each curve's left edge to meet its neighbours, for works,
+/// where (nearly) every remark has a correspondence. Correspondences are then expected
+/// in left-column order; without it, any order works.
 pub fn render(
-    work: &Work,
+    title: &str,
+    work_count: usize,
     doc_order: &[String],
     source_docs: &HashMap<String, SourceDoc>,
     correspondences: &[Correspondence],
+    extend_gaps: bool,
     font_base64: &str,
 ) -> String {
-    let work_count = work.remarks.len();
     // Work column starts flush at the left edge
     let work_x = 0.0;
     let source_x = work_x + WORK_SOURCE_GAP;
@@ -407,7 +414,7 @@ pub fn render(
     svg.push_str(&format!(
         r#"<text x="{work_x}" y="{title_y}" class="title">{}</text>
 "#,
-        xml_escape(&work.title)
+        xml_escape(title)
     ));
 
     // Work remarks (left side) — single filled rectangle
@@ -538,14 +545,14 @@ pub fn render(
         let last_source_y = *layout.remark_y_map.get(&run.source_end).unwrap() + half;
 
         // Extend work-side edges to fill gaps between adjacent runs
-        let first_work_y = if ri > 0 {
+        let first_work_y = if extend_gaps && ri > 0 {
             let prev = &runs[ri - 1];
             let prev_last = work_first_y + prev.work_end as f64 * REMARK_SPACING;
             (prev_last + raw_first_work_y) / 2.0
         } else {
             raw_first_work_y - half
         };
-        let last_work_y = if ri + 1 < runs.len() {
+        let last_work_y = if extend_gaps && ri + 1 < runs.len() {
             let next = &runs[ri + 1];
             let next_first = work_first_y + next.work_start as f64 * REMARK_SPACING;
             (raw_last_work_y + next_first) / 2.0

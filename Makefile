@@ -69,9 +69,9 @@ check-fonts:
 		exit 1; \
 	fi
 
-# Visualizations (independent, needs only md/)
+# Visualizations (independent, needs only md/ + similar/similar.tsv)
 viz:
-	cd tools/visualize && cargo run --release -- --all --all-docs
+	cd tools/visualize && cargo run --release -- --all --all-docs --all-similar
 
 # Covers (independent, needs only md/)
 covers:

@@ -37,6 +37,25 @@ struct Cli {
     #[arg(long)]
     all_docs: bool,
 
+    /// Generate the similar-remarks SVGs for a single document file (e.g., Ms-114.md)
+    #[arg(long)]
+    similar: Option<String>,
+
+    /// Generate similar-remarks SVGs for all documents with similar remarks elsewhere
+    #[arg(long)]
+    all_similar: bool,
+
+    /// Similar remarks, as written by tools/similar
+    #[arg(long, default_value = "../../similar/similar.tsv")]
+    similar_tsv: PathBuf,
+
+    /// Font embedded in the similar-remarks SVGs (an ASCII subset of TeX Gyre Pagella)
+    #[arg(
+        long,
+        default_value = "../../site/fonts/tex-gyre/texgyrepagella-regular-ascii.otf"
+    )]
+    similar_font: PathBuf,
+
     /// Path to TeX Gyre Pagella Regular OTF for embedding
     #[arg(
         long,
@@ -74,10 +93,12 @@ fn generate_work_svg(
     );
 
     svg::render(
-        &work,
+        &work.title,
+        work.remarks.len(),
         &doc_order,
         &source_docs,
         &correspondences,
+        true,
         font_base64,
     )
 }
@@ -175,6 +196,79 @@ fn generate_doc_svg(
     ))
 }
 
+/// Minimum score of a similar pair, as in tools/add_versions.py (which writes the
+/// `<details>` summary for these visualizations and must agree on what is shown).
+const SIMILAR_MIN_SCORE: f64 = 0.7;
+
+/// Minimum number of a document's remarks with versions in another document for a
+/// visualization of the pair, as in tools/add_versions.py (MIN_SIMILAR_VIZ).
+const MIN_SIMILAR_VIZ: usize = 10;
+
+/// Similar-remarks visualizations: one per other document with versions of at least
+/// MIN_SIMILAR_VIZ of this document's remarks, with this document on the left and the
+/// other on the right (pairs within the document itself are left out). Returned as
+/// (other document, SVG).
+fn generate_similar_svgs(
+    doc_name: &str,
+    docs: &HashMap<String, parse::SourceDoc>,
+    partners: &HashMap<String, Vec<String>>,
+    sigla_index: &HashMap<String, usize>,
+    font_base64: &str,
+) -> Vec<(String, String)> {
+    let Some(doc) = docs.get(doc_name) else {
+        return vec![];
+    };
+
+    let mut target_order: Vec<String> = Vec::new();
+    let mut by_target: HashMap<String, Vec<parse::Correspondence>> = HashMap::new();
+    for (work_idx, siglum) in doc.sigla.iter().enumerate() {
+        let mut targets: Vec<(String, usize)> = partners
+            .get(siglum)
+            .into_iter()
+            .flatten()
+            .filter_map(|p| {
+                let idx = *sigla_index.get(p)?;
+                Some((parse::siglum_doc(p).to_string(), idx))
+            })
+            .filter(|(target, _)| target != doc_name)
+            .collect();
+        targets.sort();
+        for (target, source_idx) in targets {
+            if !target_order.contains(&target) {
+                target_order.push(target.clone());
+            }
+            by_target.entry(target.clone()).or_default().push(parse::Correspondence {
+                work_idx,
+                doc_name: target,
+                source_idx,
+            });
+        }
+    }
+
+    target_order
+        .into_iter()
+        .filter_map(|target| {
+            let mut corrs = by_target.remove(&target).unwrap();
+            let remarks: std::collections::HashSet<usize> =
+                corrs.iter().map(|c| c.work_idx).collect();
+            if remarks.len() < MIN_SIMILAR_VIZ {
+                return None;
+            }
+            corrs.sort_by_key(|c| (c.work_idx, c.source_idx));
+            let svg = svg::render(
+                doc_name,
+                doc.anchors.len(),
+                std::slice::from_ref(&target),
+                docs,
+                &corrs,
+                false,
+                font_base64,
+            );
+            Some((target, svg))
+        })
+        .collect()
+}
+
 fn main() {
     let cli = Cli::parse();
 
@@ -199,9 +293,12 @@ fn main() {
 
     let has_work_task = cli.work.is_some() || cli.all;
     let has_doc_task = cli.doc.is_some() || cli.all_docs;
+    let has_similar_task = cli.similar.is_some() || cli.all_similar;
 
-    if !has_work_task && !has_doc_task {
-        eprintln!("Specify --work <filename>, --doc <filename>, --all, or --all-docs");
+    if !has_work_task && !has_doc_task && !has_similar_task {
+        eprintln!(
+            "Specify --work <filename>, --doc <filename>, --similar <filename>, --all, --all-docs, or --all-similar"
+        );
         std::process::exit(1);
     }
 
@@ -287,6 +384,67 @@ fn main() {
                 }
             }
         }
+    }
+
+    // Generate similar-remarks visualizations
+    if has_similar_task {
+        let mut docs: HashMap<String, parse::SourceDoc> = HashMap::new();
+        for entry in fs::read_dir(&cli.input).expect("Failed to read input directory").flatten() {
+            let name = entry.file_name().to_string_lossy().to_string();
+            if (name.starts_with("Ms-") || name.starts_with("Ts-")) && name.ends_with(".md") {
+                let stem = name.strip_suffix(".md").unwrap().to_string();
+                docs.insert(stem, parse::parse_source_doc(&entry.path()));
+            }
+        }
+
+        let sigla_index: HashMap<String, usize> = docs
+            .values()
+            .flat_map(|d| d.sigla.iter().enumerate().map(|(i, s)| (s.clone(), i)))
+            .collect();
+
+        let mut partners: HashMap<String, Vec<String>> = HashMap::new();
+        for (a, b) in parse::load_similar(&cli.similar_tsv, SIMILAR_MIN_SCORE) {
+            partners.entry(a.clone()).or_default().push(b.clone());
+            partners.entry(b).or_default().push(a);
+        }
+
+        let stems: Vec<String> = if let Some(ref name) = cli.similar {
+            let stem = name.strip_suffix(".md").unwrap_or(name).to_string();
+            if !docs.contains_key(&stem) {
+                eprintln!("Document file not found: {name}");
+                std::process::exit(1);
+            }
+            vec![stem]
+        } else {
+            let mut stems: Vec<String> = docs.keys().cloned().collect();
+            stems.sort();
+            stems
+        };
+
+        // The labels of these diagrams (sigla, page numbers) are ASCII, so they embed a
+        // small subset of the font: there are thousands of them.
+        let similar_font_base64 = if cli.similar_font.exists() {
+            let font_bytes = fs::read(&cli.similar_font).expect("Failed to read font file");
+            base64::engine::general_purpose::STANDARD.encode(&font_bytes)
+        } else {
+            eprintln!(
+                "Warning: font not found at {}, SVGs will use fallback fonts",
+                cli.similar_font.display()
+            );
+            String::new()
+        };
+
+        let mut total = 0;
+        for stem in &stems {
+            let svgs =
+                generate_similar_svgs(stem, &docs, &partners, &sigla_index, &similar_font_base64);
+            for (target, svg_content) in &svgs {
+                let out_path = cli.output.join(format!("{stem}-similar-{target}.svg"));
+                fs::write(&out_path, svg_content).expect("Failed to write SVG");
+            }
+            total += svgs.len();
+        }
+        eprintln!("Generated {total} similar-remarks visualizations.");
     }
 
     eprintln!("Done.");

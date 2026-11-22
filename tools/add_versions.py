@@ -16,6 +16,17 @@ each group. Labels drop the Ms-/Ts- prefix; a document that occurs more than onc
 a remark's list gets a superscript index. The page template moves the block from the
 remark body into the heading, i.e. the margin column with the work references.
 
+Documents with versions of their remarks in other documents also get a collapsible
+summary right after the document's own `<details>` block, with a nested summary and
+visualization (tools/visualize --all-similar) for each other document with at least
+MIN_SIMILAR_VIZ of them, most first, and the remaining documents on one line:
+
+    <details class="similar"><summary>32 similar remarks, Ts-211, Ts-212, Ts-213</summary>
+    <details><summary>20 in Ts-211</summary><img class="viz" …></details>
+    <details><summary>10 in Ts-212</summary><img class="viz" …></details>
+    <p>and 2 in <a href="/ts-213/">Ts-213</a></p>
+    </details>
+
 The block goes into the body rather than the markdown heading because headings
 without an explicit {#id} get their anchor from the heading text, which must not
 change. The template moves it into the rendered heading after the anchors exist.
@@ -28,6 +39,9 @@ import sys
 from collections import defaultdict
 
 MIN_SCORE = 0.7
+# Minimum number of a document's remarks with versions in another document for a
+# visualization of the pair (tools/visualize: MIN_SIMILAR_VIZ).
+MIN_SIMILAR_VIZ = 10
 
 FAC_SPAN = re.compile(r'<span class="fac">(.*?)</span>')
 FAC_LINK = re.compile(r"\[((?:\\.|[^\]\\])*)\]\((https?://[^)]+)\)")
@@ -105,6 +119,63 @@ def parse_remarks(md_dir, docs):
                 remarks[siglum] = {"doc": doc, "fragment": fragment, "date_key": key, "pos": pos}
                 pos += 1
     return remarks
+
+
+def similar_summary(doc, sigla, versions, remarks):
+    """The `<details>` block for a document's similar remarks, or None.
+
+    The other documents (pairs within the document are left out) are ordered by the
+    number of this document's remarks with versions in them, most first. Each one with
+    at least MIN_SIMILAR_VIZ such remarks gets a nested `<details>` with the
+    visualization of this document against it; the rest follow on a single line.
+    Must agree with generate_similar_svgs in tools/visualize on which pairs get one."""
+    count = 0
+    per_target = {}  # other document → number of this document's remarks
+    for siglum in sigla:
+        docs = {remarks[s]["doc"] for s, _ in versions.get(siglum, []) if s in remarks} - {doc}
+        if not docs:
+            continue
+        count += 1
+        for d in sorted(docs):
+            per_target[d] = per_target.get(d, 0) + 1
+    if not count:
+        return None
+
+    # Most overlap first; ties in order of first appearance (dicts keep insertion order).
+    targets = sorted(per_target.items(), key=lambda e: -e[1])
+    names = [t for t, _ in targets]
+    # Same cutoff as the parser's summaries of works and documents.
+    if len(names) <= 5:
+        listed = ", ".join(names)
+    else:
+        listed = f"{', '.join(names[:4])}, and {len(names) - 4} more"
+    word = "remark" if count == 1 else "remarks"
+
+    # Closed entries must not load their images (there can be dozens): loading="lazy".
+    with_viz = [(t, n) for t, n in targets if n >= MIN_SIMILAR_VIZ]
+    rest = [(t, n) for t, n in targets if n < MIN_SIMILAR_VIZ]
+    html = f'\n<details class="similar">\n<summary>{count} similar {word}, {listed}</summary>\n'
+    for target, n in with_viz:
+        html += (
+            f"<details>\n<summary>{n} in {target}</summary>\n"
+            f'<img class="viz" src="/viz/{doc}-similar-{target}.svg" loading="lazy">\n</details>\n'
+        )
+    if rest:
+        links = ", ".join(f'{n} in <a href="/{t.lower()}/">{t}</a>' for t, n in rest)
+        html += f"<p>{'and ' if with_viz else ''}{links}</p>\n"
+    return html + "</details>\n"
+
+
+def insert_after_preamble_details(text, block):
+    """Insert `block` after the `<details>` block that follows the title, if any,
+    otherwise after the title line."""
+    first_remark = text.find("\n### ")
+    end = text.find("</details>\n")
+    if end != -1 and (first_remark == -1 or end < first_remark):
+        at = end + len("</details>\n")
+    else:
+        at = text.find("\n") + 1
+    return text[:at] + block + text[at:]
 
 
 def load_dates(path):
@@ -189,6 +260,7 @@ def main():
 
     os.makedirs(out_dir, exist_ok=True)
     total = 0
+    summaries = 0
     for name in docs + works:
         is_work = name.startswith("W-")
         seen_sigla = defaultdict(int)
@@ -222,9 +294,16 @@ def main():
                     # Markdown: the heading is followed by a blank line, then the HTML block.
                     out.append("\n" + html + "\n")
                     total += 1
+        text = "".join(out)
+        if not is_work:
+            sigla = [s for s, r in sorted(remarks.items(), key=lambda e: e[1]["pos"]) if r["doc"] == name]
+            block = similar_summary(name, sigla, versions, remarks)
+            if block:
+                text = insert_after_preamble_details(text, block)
+                summaries += 1
         with open(os.path.join(out_dir, name + ".md"), "w", encoding="utf-8") as f:
-            f.write("".join(out))
-    print(f"Added versions to {total} remarks.", file=sys.stderr)
+            f.write(text)
+    print(f"Added versions to {total} remarks, similar summaries to {summaries} documents.", file=sys.stderr)
 
 
 if __name__ == "__main__":
