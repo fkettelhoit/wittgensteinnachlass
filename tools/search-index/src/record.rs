@@ -52,6 +52,6 @@ pub struct WorkLink {
     pub code: String,
     /// Display label exactly as the document pages show it, e.g. `RFM III`, `PI`.
     pub label: String,
-    /// Deep link to the remark within the work, e.g. `/w-rfm-3/#ms-122-5r25v1`.
+    /// Deep link to the remark within the work, e.g. `/w-rfm-3/#ms-122-5r-2--5v-1`.
     pub url: String,
 }
