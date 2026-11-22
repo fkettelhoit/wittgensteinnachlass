@@ -1465,7 +1465,6 @@ body.bilingual .sticky-title {
 .tour-spot {
   position: absolute;
   z-index: 1001;
-  border-radius: 8px; /* matches .tour-cue's outline */
   /* Dims everything else, however far the page is scrolled away from the target. */
   box-shadow: 0 0 0 100000px rgb(0 0 0 / 0.35);
   pointer-events: none;
@@ -1484,11 +1483,10 @@ body.bilingual .sticky-title {
 /* The element to click or type into. */
 .tour-cue {
   /* Ends where the highlight (.tour-spot) ends, 6px (PAD in tour.js) outside the
-     element, with the same rounded corners: an outline's outer corner radius is
-     border-radius + outline-offset + outline width = 2 + 1 + 5 = 8px. */
+     element: outline-offset + outline width = 1 + 5. Square corners, like the
+     highlight. */
   outline: 5px solid var(--color-highlight);
   outline-offset: 1px;
-  border-radius: 2px;
   animation: tour-blink 1.2s ease-in-out infinite;
 }
 
