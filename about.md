@@ -4,6 +4,8 @@ This website aims to provide a reader-friendly electronic edition of the (late) 
 
 It consists of a set of normalised transcriptions whose emphasis is on readability rather than on philological richness: we opted for editorial criteria whereby textual variants are not reproduced and only those features of the originals which have the strongest semantic significance are preserved.
 
+The transcriptions are the result of a process in which both the facsimiles and the transcriptions made available in the [Bergen Nachlass Edition](https://wab.uib.no/wittgensteinonline.page) by the Wittgenstein Archives at the University of Bergen, the Wren Library at Trinity College Cambridge, and the Austrian National Library were used, with manual and automated editing leading to transcriptions that largely correspond to the Bergen Nachlass Edition but are more heavily normalised and, in some cases, rewritten.
+
 The transcriptions are mobile responsive, they are accessible to readers who use assistive tools, and they can be exported as e-books and PDFs.
 
 The scope of this website is currently limited to the manuscripts and typescripts composed by Wittgenstein between 1937 and 1951. In the future, we would like to expand the website to also include materials from the period between 1914 and 1936.
