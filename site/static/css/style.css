@@ -188,7 +188,6 @@
   --color-link: #000;
   --color-margin: #bbb;
   --color-translation: #777;
-  /* Margin links to other pages (works, versions): more notable than facsimile links. */
   --color-margin-link: #777;
   --color-heading: #000;
   --color-series-number-bg: #444;
@@ -251,7 +250,7 @@ h2 {
   margin: 6rem 0 2rem 0;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   h1 {
     font-size: 2.8rem;
     line-height: 3rem;
@@ -289,7 +288,8 @@ h2 {
   }
 }
 
-@media (width >= 60rem) {
+/* Body (44rem + 2rem padding) plus both margin columns (2 × 11rem) and 1rem slack. */
+@media (width >= 68rem) {
   :not(.index, .gallery) > section {
     display: grid;
     grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
@@ -311,9 +311,21 @@ h2 {
     align-self: baseline;
   }
 
-  /* The text ends with a paragraph margin (one blank line) before the next remark.
-     Give the margin columns the same, so a tall column (an opened list of versions,
-     many page references) never runs into the next remark. */
+  /* Divider between the doc and page columns. */
+  :not(.index, .gallery) > section > h3 {
+    position: relative;
+  }
+
+  :not(.index, .gallery) > section > h3:has(> a:not(.fragment-link), > .versions)::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: calc(var(--margin-gap) / -2);
+    border-right: 1px solid var(--color-margin-link);
+  }
+
+  /* Keep tall margin columns from running into the next remark. */
   :not(.index, .gallery) > section > h3,
   :not(.index, .gallery) > section > .fac {
     margin-bottom: 2rem;
@@ -324,8 +336,7 @@ h2 {
     align-self: baseline;
   }
 
-  /* The § link is zero-width and drawn to the left of its position, so it never takes
-     space from the narrow margin column (it only appears on hover). */
+  /* Zero-width, so it takes no space from the margin column. */
   :not(.index, .gallery) > section .fragment-link {
     opacity: 0;
     display: inline-block;
@@ -334,14 +345,10 @@ h2 {
     transform: translateX(-0.4em);
   }
 
-  /* Version links take the first free line of the heading column: the line of the
-     (hidden) § link when there are no work references above them. */
   :not(.index, .gallery) > section .versions.first-line {
     display: inline;
   }
 
-  /* The facsimile column is narrow: truncate the rare long labels (full label in the
-     tooltip) instead of letting them run into the text. */
   :not(.index, .gallery) > section > .fac a {
     display: inline-block;
     max-width: 100%;
@@ -448,16 +455,12 @@ section > .fac a:hover {
   text-decoration-thickness: 0.1rem;
 }
 
-/* Margin links fall into two kinds. Links to other pages (work references and other
-   versions, in the heading) are the exception: underlined like every other link on
-   the site, in a grey between text and margin. Facsimile links (opening the
-   lightbox) are the norm: light and without underline. */
 section > h3 a:not(.fragment-link) {
   color: var(--color-margin-link);
   text-decoration: underline;
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 0.1rem;
-  text-decoration-color: var(--color-margin);
+  text-decoration-color: transparent;
 }
 
 section > h3 a:not(.fragment-link):hover {
@@ -863,7 +866,7 @@ body.bilingual footer {
   line-height: 2rem;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   body.bilingual {
     max-width: var(--max-width);
   }
@@ -881,7 +884,7 @@ body.bilingual footer {
   }
 }
 
-@media (width >= 60rem) and (width < 94rem) {
+@media (width >= 68rem) and (width < 94rem) {
   body.bilingual section {
     display: block;
     margin-left: 0;
@@ -956,7 +959,7 @@ body.bilingual footer {
   margin-bottom: 0.5rem;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   .gallery p:has(.cover) {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -1133,7 +1136,7 @@ body.bilingual footer {
   box-decoration-break: clone;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   .search-result > h3 {
     display: inline;
   }
@@ -1145,7 +1148,7 @@ body.bilingual footer {
   }
 }
 
-@media (width >= 60rem) {
+@media (width >= 68rem) {
   .search-result {
     display: grid;
     grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
@@ -1169,29 +1172,14 @@ body.bilingual footer {
   }
 }
 
-/* Links to other versions of a remark (tools/add_versions.py), at the end of the
-   heading below the work references. The first version is always visible; "+N"
-   opens the rest, one per line. */
+/* Links to other versions of a remark (tools/add_versions.py). */
 .versions {
   display: block;
+  margin-bottom: 0;
 }
 
-/* Each version link is an outlined box, like the (filled) section number boxes. */
 section > h3 > .versions a {
-  color: var(--color-margin-link);
-  text-decoration: none;
   white-space: nowrap;
-  /* Slightly taller than the section number boxes. Padding on an inline box doesn't
-     change the line height. */
-  padding: 0.3em 0.35em 0.1em 0.35em;
-  border: 1px solid var(--color-margin);
-  border-radius: 4px;
-}
-
-/* Like the underline of the other links in the column, the border darkens on hover. */
-section > h3 > .versions a:hover {
-  text-decoration: none;
-  border-color: var(--color-margin-link);
 }
 
 .versions summary {
@@ -1203,7 +1191,6 @@ section > h3 > .versions a:hover {
   display: inline;
 }
 
-/* Undo the global details/summary styling: the toggle looks like margin text. */
 .versions details {
   margin: 0;
   line-height: inherit;
@@ -1232,8 +1219,7 @@ section > h3 > .versions a:hover {
   text-decoration-color: var(--color-margin-link);
 }
 
-/* Browsers wrap the contents of <details> in a block box (::details-content), which
-   would force a line break after the toggle in the narrow, inline layout. */
+/* ::details-content is a block box, which would break the inline layout. */
 .versions details:not([open])::details-content {
   display: none;
 }
@@ -1242,12 +1228,11 @@ section > h3 > .versions a:hover {
   display: contents;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   .versions {
     display: inline;
   }
 
-  /* Versions flow inline after the toggle instead of one per line. */
   .versions br {
     display: none;
   }
@@ -1257,7 +1242,6 @@ section > h3 > .versions a:hover {
     content: " ";
   }
 
-  /* On one line, separate the page links before the facsimile links. */
   section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
     content: "· ";
   }
