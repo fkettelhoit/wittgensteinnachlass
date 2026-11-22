@@ -188,6 +188,8 @@
   --color-link: #000;
   --color-margin: #bbb;
   --color-translation: #777;
+  /* Margin links to other pages (works, versions): more notable than facsimile links. */
+  --color-margin-link: #777;
   --color-heading: #000;
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
@@ -309,14 +311,44 @@ h2 {
     align-self: baseline;
   }
 
+  /* The text ends with a paragraph margin (one blank line) before the next remark.
+     Give the margin columns the same, so a tall column (an opened list of versions,
+     many page references) never runs into the next remark. */
+  :not(.index, .gallery) > section > h3,
+  :not(.index, .gallery) > section > .fac {
+    margin-bottom: 2rem;
+  }
+
   :not(.index, .gallery) > section > div {
     grid-column: 3;
     align-self: baseline;
   }
 
+  /* The § link is zero-width and drawn to the left of its position, so it never takes
+     space from the narrow margin column (it only appears on hover). */
   :not(.index, .gallery) > section .fragment-link {
     opacity: 0;
-    margin-right: 0.4em;
+    display: inline-block;
+    width: 0;
+    direction: rtl;
+    transform: translateX(-0.4em);
+  }
+
+  /* Version links take the first free line of the heading column: the line of the
+     (hidden) § link when there are no work references above them. */
+  :not(.index, .gallery) > section .versions.first-line {
+    display: inline;
+  }
+
+  /* The facsimile column is narrow: truncate the rare long labels (full label in the
+     tooltip) instead of letting them run into the text. */
+  :not(.index, .gallery) > section > .fac a {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: bottom;
   }
 
   .index section,
@@ -414,6 +446,28 @@ section > .fac a:hover {
   text-decoration: underline;
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 0.1rem;
+}
+
+/* Margin links fall into two kinds. Links to other pages (work references and other
+   versions, in the heading) are the exception: underlined like every other link on
+   the site, in a grey between text and margin. Facsimile links (opening the
+   lightbox) are the norm: light and without underline. */
+section > h3 a:not(.fragment-link) {
+  color: var(--color-margin-link);
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: var(--color-margin);
+}
+
+section > h3 a:not(.fragment-link):hover {
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-margin-link);
+}
+
+section > .fac a {
+  cursor: zoom-in;
 }
 
 ul {
@@ -1112,5 +1166,99 @@ body.bilingual footer {
   .search-result > div {
     grid-column: 3;
     align-self: baseline;
+  }
+}
+
+/* Links to other versions of a remark (tools/add_versions.py), at the end of the
+   heading below the work references. The first version is always visible; "+N"
+   opens the rest, one per line. */
+.versions {
+  display: block;
+}
+
+/* Each version link is an outlined box, like the (filled) section number boxes. */
+section > h3 > .versions a {
+  color: var(--color-margin-link);
+  text-decoration: none;
+  white-space: nowrap;
+  /* Slightly taller than the section number boxes. Padding on an inline box doesn't
+     change the line height. */
+  padding: 0.3em 0.35em 0.1em 0.35em;
+  border: 1px solid var(--color-margin);
+  border-radius: 4px;
+}
+
+/* Like the underline of the other links in the column, the border darkens on hover. */
+section > h3 > .versions a:hover {
+  text-decoration: none;
+  border-color: var(--color-margin-link);
+}
+
+.versions summary {
+  white-space: nowrap;
+}
+
+.versions details,
+.versions summary {
+  display: inline;
+}
+
+/* Undo the global details/summary styling: the toggle looks like margin text. */
+.versions details {
+  margin: 0;
+  line-height: inherit;
+}
+
+.versions details summary {
+  margin: 0;
+  font-weight: normal;
+  color: var(--color-margin-link);
+  text-decoration: none;
+}
+
+.versions details summary::-webkit-details-marker {
+  display: none;
+}
+
+.versions details summary::marker,
+.versions details[open] summary::marker {
+  content: "";
+}
+
+.versions details summary:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-margin-link);
+}
+
+/* Browsers wrap the contents of <details> in a block box (::details-content), which
+   would force a line break after the toggle in the narrow, inline layout. */
+.versions details:not([open])::details-content {
+  display: none;
+}
+
+.versions details[open]::details-content {
+  display: contents;
+}
+
+@media (width < 60rem) {
+  .versions {
+    display: inline;
+  }
+
+  /* Versions flow inline after the toggle instead of one per line. */
+  .versions br {
+    display: none;
+  }
+
+  .versions::before,
+  .versions::after {
+    content: " ";
+  }
+
+  /* On one line, separate the page links before the facsimile links. */
+  section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
+    content: "· ";
   }
 }

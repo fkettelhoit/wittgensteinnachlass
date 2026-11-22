@@ -16,7 +16,7 @@ Commit your changes **on a new branch** (not `main`) and push the branch. The co
 
 ## Structure
 
-The `md/` directory contains Markdown files for individual documents and published works.
+The `md/` directory contains Markdown files for individual documents and published works. It also contains `dates.tsv`, the date range of every remark from the Bergen XML.
 
 **Documents** are named after their manuscript or typescript number (e.g. `Ms-116.md`, `Ts-228.md`). Each file contains the transcribed remarks of one document, with headings linking to facsimile page images. The heading format is `### [page\[remark\]](facsimile-url)`.
 
@@ -41,6 +41,7 @@ The site is built for one of two Hugo environments: **production** hides the not
 - **`make serve`** -- live local preview with auto-reload, using the staging environment (translations visible). Add `ENV=production` (`make serve ENV=production`) to preview the production layouts (translations hidden).
 - **`make deploy`** -- rebuilds Hugo content, runs a production Hugo build, and deploys via `tools/deploy_site.sh`. Does _not_ regenerate assets -- run `make production` first if covers, ebooks, or PDFs changed.
 - **`make production deploy`** -- full rebuild followed by deployment.
+- **`make similar`** -- recomputes the textually similar remarks in `similar/similar.tsv` (no LLM, takes a few seconds). Run after the German sources changed and commit the result.
 
 Pushing to `main` triggers `.github/workflows/deploy.yml`, which regenerates everything from source and deploys to the Bunny CDN. Generated artifacts (`covers/`, `viz/`, `epub/`, `pdf/`, `graphics-cropped/`, `site/content`, `site/public`) are not committed. The deploy is gated by `make check` and the licensed SangBleu fonts are pulled read-only from the CDN at build time, never overwritten by the deploy.
 
@@ -62,6 +63,7 @@ The `tools/` directory contains tools for processing and publishing the Nachlass
 - **[graphics](tools/graphics/)** -- crops raw A4-sized SVG drawings to their content bounding box and converts text to paths. Output goes to `graphics-cropped/` and is used by the ebooks and pdfs tools.
 - **[ebooks](tools/ebooks/)** -- generates EPUB ebooks from markdown files using Pandoc. Multi-part works are merged into a single volume with chapter navigation.
 - **[pdfs](tools/pdfs/)** -- generates PDF files from markdown files using Pandoc and WeasyPrint, with embedded TeX Gyre Pagella and SangBleu Empire fonts.
+- **[similar](tools/similar/)** -- finds textually similar remarks (mostly other versions of the same remark) across all manuscripts and typescripts. Output goes to `similar/similar.tsv`, which the site build shows as links to other versions in the margin of each remark.
 - **[translate](tools/translate/)** -- translates German markdown files to English using Ollama (local LLM) or the DeepL API, with glossary support, automatic verification, and sibling document reuse. Output goes to `md-en/`.
 
 ## Format reference

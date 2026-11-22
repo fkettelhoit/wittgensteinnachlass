@@ -13,6 +13,11 @@ CONTENT_DIR="$SITE_DIR/content"
 rm -rf "$CONTENT_DIR" "$SITE_DIR/public"
 mkdir -p "$CONTENT_DIR"
 
+# Document copies with links to other versions of each remark (see add_versions.py).
+VERSIONS_DIR="$(mktemp -d)"
+trap 'rm -rf "$VERSIONS_DIR"' EXIT
+python3 "$SCRIPT_DIR/add_versions.py" "$OUTPUT_DIR" "$SCRIPT_DIR/../similar/similar.tsv" "$VERSIONS_DIR"
+
 for src in "$OUTPUT_DIR"/*.md; do
   filename="$(basename "$src")"
 
@@ -75,7 +80,12 @@ for src in "$OUTPUT_DIR"/*.md; do
     echo "---"
     echo ""
     # Neutralize Markdown accidentally triggered by transcription notation.
-    python3 "$SCRIPT_DIR/sanitize_content.py" < "$src"
+    # Documents are read from their copy with version links, where there is one.
+    body_src="$src"
+    if [ -f "$VERSIONS_DIR/$filename" ]; then
+      body_src="$VERSIONS_DIR/$filename"
+    fi
+    python3 "$SCRIPT_DIR/sanitize_content.py" < "$body_src"
   } > "$CONTENT_DIR/$filename"
 done
 
