@@ -192,6 +192,7 @@
   --color-heading: #000;
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
+  --color-highlight: #fbcba4;
   --line-thickness: 2px;
   --line-thickness-hovered: 4px;
   --max-width: 44rem;
@@ -1171,7 +1172,7 @@ body.bilingual footer {
 
 /* Matched terms, in the covers' amber. */
 .search-result mark {
-  background-color: #fbcba4;
+  background-color: var(--color-highlight);
   color: var(--color-text);
   padding-block: 0.3em;
   -webkit-box-decoration-break: clone;
@@ -1436,5 +1437,196 @@ body.bilingual .sticky-title {
 @media print {
   .sticky-title {
     display: none;
+  }
+}
+
+/* --- Tour (static/js/tour.js) --- */
+
+/* Highlight and popover are positioned in page coordinates (they scroll with the
+   content); they only transition while moving from one step to the next. */
+.tour-spot {
+  position: absolute;
+  z-index: 1001;
+  border-radius: 8px; /* matches .tour-cue's outline */
+  /* Dims everything else, however far the page is scrolled away from the target. */
+  box-shadow: 0 0 0 100000px rgb(0 0 0 / 0.35);
+  pointer-events: none;
+}
+
+.tour-spot-off {
+  opacity: 0;
+}
+
+.tour-animate {
+  transition-property: top, left, width, height, opacity;
+  transition-duration: 0.4s;
+  transition-timing-function: ease-in-out;
+}
+
+/* The element to click or type into. */
+.tour-cue {
+  /* Ends where the highlight (.tour-spot) ends, 6px (PAD in tour.js) outside the
+     element, with the same rounded corners: an outline's outer corner radius is
+     border-radius + outline-offset + outline width = 2 + 1 + 5 = 8px. */
+  outline: 5px solid var(--color-highlight);
+  outline-offset: 1px;
+  border-radius: 2px;
+  animation: tour-blink 1.2s ease-in-out infinite;
+}
+
+@keyframes tour-blink {
+  50% {
+    outline-color: transparent;
+  }
+}
+
+.tour {
+  position: absolute;
+  z-index: 1002;
+  box-sizing: border-box;
+  width: min(22rem, calc(100vw - 2rem));
+  padding: 1rem 1.25rem;
+  background: #fff;
+  color: var(--color-text);
+  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.tour.tour-resume {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.tour p {
+  margin: 0 0 1rem 0;
+  line-height: 1.5rem; /* overrides the site's p { line-height: 2rem } */
+}
+
+/* Same size as the remark headings (h3). */
+.tour h2 {
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  font-weight: bold;
+  line-height: 2rem;
+  margin: 0 0 0.25rem 0;
+  padding-right: 1.5rem;
+}
+
+.tour p.tour-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.tour-count {
+  color: var(--color-margin);
+  font-size: 0.8rem;
+}
+
+.tour button {
+  font: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+.tour .tour-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  color: var(--color-margin);
+}
+
+.tour .tour-close:hover {
+  color: var(--color-text);
+}
+
+/* The call to action: "Next" in the popover, "Take a tour" in the callout. */
+.tour .tour-button,
+.tour-button {
+  display: inline-block;
+  color: #fff;
+  background: var(--color-link);
+  padding: 0.25rem 1rem;
+  white-space: nowrap;
+}
+
+@media (width < 640px) {
+  .tour {
+    position: fixed;
+    top: auto;
+    left: 0.5rem;
+    right: 0.5rem;
+    bottom: 0.5rem;
+    width: auto;
+  }
+}
+
+/* Next to the start of the homepage's second paragraph: in the left margin on wide
+   screens, just above the paragraph otherwise. A white bubble (like the tour's
+   popover) pointing at "This website", holding the call to action. */
+.status:has(.tour-callout) {
+  position: relative;
+}
+
+.tour-callout {
+  position: relative;
+  display: block;
+  width: fit-content;
+  margin-bottom: 1.25rem;
+  padding: 1rem;
+  background: #fff;
+  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+a.tour-callout,
+a.tour-callout:hover {
+  text-decoration: none;
+}
+
+.tour-callout[hidden] {
+  display: none;
+}
+
+/* Small arrow pointing at the paragraph. */
+.tour-callout::before {
+  content: "";
+  position: absolute;
+  bottom: -0.35rem;
+  left: 1.5rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  background: #fff;
+  transform: rotate(45deg);
+}
+
+.tour-callout:hover .tour-button {
+  background: var(--color-text);
+}
+
+@media (width >= 84rem) {
+  .tour-callout {
+    position: absolute;
+    top: -0.25rem;
+    right: calc(100% + 1.5rem);
+    margin: 0;
+  }
+
+  .tour-callout::before {
+    top: calc(50% - 0.35rem);
+    bottom: auto;
+    left: auto;
+    right: -0.35rem;
   }
 }
