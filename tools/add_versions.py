@@ -21,11 +21,14 @@ summary right after the document's own `<details>` block, with a nested summary 
 visualization (tools/visualize --all-similar) for each other document with at least
 MIN_SIMILAR_VIZ of them, most first, and the remaining documents on one line:
 
-    <details class="similar"><summary>32 similar remarks, Ts-211, Ts-212, Ts-213</summary>
-    <details><summary>20 in Ts-211</summary><img class="viz" …></details>
-    <details><summary>10 in Ts-212</summary><img class="viz" …></details>
+    <details class="similar"><summary …>32 similar remarks in <a …>Ts-211</a>, …</summary>
+    <details><summary …>20 similar in <a …>Ts-211</a></summary><img class="viz" …></details>
+    <details><summary …>10 similar in <a …>Ts-212</a></summary><img class="viz" …></details>
     <p>and 2 in <a href="/ts-213/">Ts-213</a></p>
     </details>
+
+The names in these summaries, and in the parser's summary of the document's or work's
+own visualization, are links to the documents and works (see linked_summary).
 
 The block goes into the body rather than the markdown heading because headings
 without an explicit {#id} get their anchor from the heading text, which must not
@@ -143,27 +146,82 @@ def similar_summary(doc, sigla, versions, remarks):
 
     # Most overlap first; ties in order of first appearance (dicts keep insertion order).
     targets = sorted(per_target.items(), key=lambda e: -e[1])
-    names = [t for t, _ in targets]
+    def href(target):
+        return f"/{target.lower()}/"
+
     # Same cutoff as the parser's summaries of works and documents.
-    if len(names) <= 5:
-        listed = ", ".join(names)
-    else:
-        listed = f"{', '.join(names[:4])}, and {len(names) - 4} more"
+    shown = [t for t, _ in targets] if len(targets) <= 5 else [t for t, _ in targets[:4]]
+    more = len(targets) - len(shown)
     word = "remark" if count == 1 else "remarks"
 
     # Closed entries must not load their images (there can be dozens): loading="lazy".
     with_viz = [(t, n) for t, n in targets if n >= MIN_SIMILAR_VIZ]
     rest = [(t, n) for t, n in targets if n < MIN_SIMILAR_VIZ]
-    html = f'\n<details class="similar">\n<summary>{count} similar {word}, {listed}</summary>\n'
+    summary = linked_summary(f"{count} similar {word}", "in", [(t, href(t)) for t in shown], more)
+    html = f'\n<details class="similar">\n{summary}\n'
     for target, n in with_viz:
         html += (
-            f"<details>\n<summary>{n} in {target}</summary>\n"
+            f"<details>\n{linked_summary(f'{n} similar', 'in', [(target, href(target))])}\n"
             f'<img class="viz" src="/viz/{doc}-similar-{target}.svg" loading="lazy">\n</details>\n'
         )
     if rest:
-        links = ", ".join(f'{n} in <a href="/{t.lower()}/">{t}</a>' for t, n in rest)
+        links = ", ".join(f'{n} in <a href="{href(t)}">{t}</a>' for t, n in rest)
         html += f"<p>{'and ' if with_viz else ''}{links}</p>\n"
     return html + "</details>\n"
+
+
+INTERNAL_LINK = re.compile(r"\[([^\]]+)\]\((/[^/)]+/)#")
+PREAMBLE_SUMMARY = re.compile(r"<summary>(.*? remarks?), (.*?)</summary>")
+
+
+def linked_summary(toggle, word, links, more=0):
+    """A `<summary>` whose text `toggle` opens the details, followed by `word` (plain
+    text, e.g. "in") and links to the
+    documents or works, as (label, href or None for plain text), and `and N more`. A link inside a summary is
+    followed instead of toggling the details; only the toggle text is underlined like a
+    summary (CSS: summary.linked)."""
+    items = [f'<a href="{href}">{label}</a>' if href else label for label, href in links]
+    if more:
+        items.append(f"and {more} more")
+    return f'<summary class="linked"><span>{toggle}</span> {word} {", ".join(items)}</summary>'
+
+
+def summary_hrefs(md_dir, names, published):
+    """Label → href for the names in the parser's summaries: work labels as the remark
+    headings of any file link them (`[RPP II](/w-rpp-2/#…)`), documents by their name.
+    Only published documents and works (see published_docs) are included."""
+    hrefs = {}
+    for name in names:
+        with open(os.path.join(md_dir, name + ".md"), encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("### "):
+                    for m in INTERNAL_LINK.finditer(line):
+                        hrefs.setdefault(m.group(1), m.group(2))
+    for name in names:
+        if not name.startswith("W-"):
+            hrefs[name] = f"/{name.lower()}/"
+    slugs = {f"/{name.lower()}/" for name in published}
+    return {label: href for label, href in hrefs.items() if href in slugs}
+
+
+def link_preamble_summary(text, is_work, hrefs):
+    """Turn the names in the summary of the `<details>` block after the title (written
+    by the parser: `360 published remarks, PG I, …, and 5 more` on documents, `1933–1934,
+    594 remarks, Ms-140, …` on works) into links to the works or source documents.
+    Names without a link in `hrefs` (unpublished) stay plain text."""
+    first_remark = text.find("\n### ")
+    m = PREAMBLE_SUMMARY.search(text)
+    if not m or (first_remark != -1 and m.start() > first_remark):
+        return text
+    names = m.group(2).split(", ")
+    more = 0
+    if names and (more_m := re.fullmatch(r"and (\d+) more", names[-1])):
+        more = int(more_m.group(1))
+        names = names[:-1]
+    if not names or any(not re.fullmatch(r"[\w\- ]+", n) for n in names):
+        return text
+    summary = linked_summary(m.group(1), "from" if is_work else "in", [(n, hrefs.get(n)) for n in names], more)
+    return text[: m.start()] + summary + text[m.end() :]
 
 
 def insert_after_preamble_details(text, block):
@@ -179,16 +237,17 @@ def insert_after_preamble_details(text, block):
 
 
 def published_docs(md_dir, docs):
-    """The documents the site exposes: those linked from all.md, as in tools/search-index
-    and tools/visualize. The other documents have pages too, but are not listed, so
-    nothing links to them. All documents if all.md is missing."""
+    """The documents (or works) the site exposes: those linked from all.md, as in
+    tools/search-index and tools/visualize, and the parts of linked works (W-RFM-1 of
+    W-RFM). The others have pages too, but are not listed, so nothing links to them.
+    All of them if all.md is missing."""
     try:
         with open(os.path.join(md_dir, "all.md"), encoding="utf-8") as f:
             linked = set(re.findall(r"\]\(([^)]+)\.md\)", f.read()))
     except FileNotFoundError:
         print("warning: all.md not found — linking all documents.", file=sys.stderr)
         return set(docs)
-    return {d for d in docs if d in linked}
+    return {d for d in docs if d in linked or any(d.startswith(w + "-") for w in linked if w.startswith("W-"))}
 
 
 def load_dates(path):
@@ -274,6 +333,8 @@ def main():
 
     works = sorted(f[:-3] for f in os.listdir(md_dir) if re.match(r"^W-.*\.md$", f))
 
+    hrefs = summary_hrefs(md_dir, docs + works, published | published_docs(md_dir, works))
+
     os.makedirs(out_dir, exist_ok=True)
     total = 0
     summaries = 0
@@ -310,7 +371,7 @@ def main():
                     # Markdown: the heading is followed by a blank line, then the HTML block.
                     out.append("\n" + html + "\n")
                     total += 1
-        text = "".join(out)
+        text = link_preamble_summary("".join(out), is_work, hrefs)
         if name in published:
             sigla = [s for s, r in sorted(remarks.items(), key=lambda e: e[1]["pos"]) if r["doc"] == name]
             block = similar_summary(name, sigla, versions, linkable)

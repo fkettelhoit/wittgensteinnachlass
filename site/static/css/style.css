@@ -536,6 +536,33 @@ details summary {
   user-select: none;
 }
 
+/* Summaries with links to documents/works after their text: only the text toggles the
+   details (a link inside a summary is followed instead), so only it is underlined like
+   a summary, with an ordinary gap before the links. */
+summary.linked {
+  text-decoration: none;
+  cursor: auto;
+  font-weight: normal;
+}
+
+summary.linked > span {
+  font-weight: bold;
+}
+
+summary.linked > span {
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: var(--color-margin);
+}
+
+summary.linked > span:hover {
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-link);
+}
+
 /* Closed details in a row read as consecutive lines of text. */
 details:not([open]):has(+ details) {
   margin-bottom: 0;
