@@ -1494,13 +1494,6 @@ body.bilingual .sticky-title {
   line-height: 1.5rem;
 }
 
-.tour.tour-resume {
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 .tour p {
   margin: 0 0 1rem 0;
   line-height: 1.5rem; /* overrides the site's p { line-height: 2rem } */

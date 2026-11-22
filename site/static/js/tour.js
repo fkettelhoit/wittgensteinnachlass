@@ -2,8 +2,10 @@
 // step, highlighting the element to look at, marking the one to click, and advancing
 // once the reader has done so. Self-contained and inert unless a tour is in progress:
 // it is started by the callout on the homepage (partials/intro.html, a link to
-// "/?tour"), and the current step is kept in localStorage so the tour survives
-// navigating between pages.
+// "/?tour"), and the current step is kept in sessionStorage so the tour survives
+// navigating between pages (and is forgotten when the tab is closed). On a page
+// other than the current step's, the tour stays out of the way: it pauses, and
+// picks up again on returning to that page (e.g. with the back button).
 //
 // The highlight and the popover are positioned in page coordinates, so they scroll
 // with the content. Moving to a step on the same page animates both boxes (CSS
@@ -161,7 +163,7 @@
   const store = {
     get: () => {
       try {
-        const v = localStorage.getItem(KEY);
+        const v = sessionStorage.getItem(KEY);
         return v === null ? null : Number(v);
       } catch {
         return null;
@@ -169,7 +171,7 @@
     },
     set: (i) => {
       try {
-        i === null ? localStorage.removeItem(KEY) : localStorage.setItem(KEY, i);
+        i === null ? sessionStorage.removeItem(KEY) : sessionStorage.setItem(KEY, i);
       } catch {}
     },
   };
@@ -425,14 +427,6 @@
     layout(true);
   };
 
-  // Opened on a page that isn't the current step's: offer to go back to it.
-  const offerResume = (i) => {
-    fill(i, "Continue the tour?", "The tour continues on another page.", "Continue");
-    $(".tour-next").onclick = () => (location.href = steps[i].page);
-    pop.classList.add("tour-resume");
-    document.body.append(pop);
-  };
-
   // --- Events -----------------------------------------------------------------
 
   $(".tour-close").onclick = end;
@@ -478,8 +472,10 @@
     { passive: true },
   );
 
+  // On another page than the current step's, the tour is paused: show nothing but
+  // the start callout (on the homepage), to start over.
   const i = store.get();
   if (!steps[i]) end();
   else if (steps[i].page === location.pathname) go(i);
-  else offerResume(i);
+  else showCallout(true);
 })();
