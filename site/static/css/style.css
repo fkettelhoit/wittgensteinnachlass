@@ -1288,3 +1288,153 @@ section > h3 > .versions a {
     content: "· ";
   }
 }
+
+/* --- Sticky title (shown while scrolling up, see js/sticky-title.js) --- */
+
+/* Same font size and line height as the page's h1. */
+:root {
+  --sticky-title-line: 5rem;
+  --sticky-title-padding: 0.5rem;
+  /* The "Wittgenstein's Writings" link above the title, and the gap below it. */
+  --sticky-title-site-line: 2rem;
+  --sticky-title-site-gap: 1rem;
+  /* How far the dividing line extends beyond the text column on each side. */
+  --sticky-title-extend: 0rem;
+}
+
+/* Margin columns are shown from these widths on (see the section grids above);
+   the line then spans them and, symmetrically, the same width on the right. */
+@media (width >= 68rem) {
+  body {
+    --sticky-title-extend: var(--margin-offset);
+  }
+
+  body.bilingual {
+    --sticky-title-extend: 0rem;
+  }
+}
+
+@media (width >= 94rem) {
+  body.bilingual {
+    --sticky-title-extend: var(--margin-offset);
+  }
+}
+
+@media (width < 68rem) {
+  :root {
+    --sticky-title-line: 3rem;
+  }
+}
+
+/* Jumping to a remark leaves room for the sticky title above it. Long titles
+   wrap, so js/sticky-title.js sets --sticky-title-height to the bar's measured
+   height; the fallback is the height of a one-line title. */
+main [id] {
+  scroll-margin-top: calc(
+    var(
+        --sticky-title-height,
+        var(--sticky-title-site-line) + var(--sticky-title-site-gap) +
+          var(--sticky-title-line) + 2 * var(--sticky-title-padding) +
+          var(--line-thickness)
+      ) + 1rem
+  );
+}
+
+.sticky-title {
+  /* Spans (and covers) only the main text column: the body's content box. */
+  position: fixed;
+  top: 0;
+  left: 1rem;
+  right: 1rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  z-index: 900;
+  padding: var(--sticky-title-padding) 0;
+  background: #fff;
+  /* Reserves the line's space; the line itself is drawn by ::after below. */
+  border-bottom: var(--line-thickness) solid transparent;
+  transform: translateY(-100%);
+  visibility: hidden;
+  transition:
+    transform 0.2s ease,
+    visibility 0s linear 0.2s;
+}
+
+/* White behind the whole top strip, so the margin columns (and anything else
+   beside the text column) don't show through next to the bar. (Negative z-index
+   within the bar's stacking context: above its background, below its content.) */
+.sticky-title::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: calc(-1 * var(--line-thickness));
+  left: calc(50% - 50vw);
+  width: 100vw;
+  z-index: -1;
+  background: #fff;
+}
+
+/* The dividing line: across the text column and the margin columns on the left,
+   extended by the same amount on the right so it stays centered. */
+.sticky-title::after {
+  content: "";
+  position: absolute;
+  bottom: calc(-1 * var(--line-thickness));
+  left: calc(-1 * var(--sticky-title-extend));
+  right: calc(-1 * var(--sticky-title-extend));
+  height: var(--line-thickness);
+  z-index: -1;
+  background: var(--color-text);
+}
+
+.sticky-title.visible {
+  transform: none;
+  visibility: visible;
+  transition: transform 0.2s ease;
+}
+
+/* Appear in place (no slide) when jumping to a remark. */
+.sticky-title.instant {
+  transition: none;
+}
+
+.sticky-title > * {
+  display: block;
+}
+
+.sticky-title-site {
+  line-height: var(--sticky-title-site-line);
+  margin-bottom: var(--sticky-title-site-gap);
+}
+
+.sticky-title-text {
+  font-family: var(--font-heading);
+  font-weight: 400;
+  font-size: 4.4rem;
+  line-height: var(--sticky-title-line);
+  color: var(--color-heading);
+  text-decoration: none;
+  /* Wrap the full title like the h1 does. */
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+
+body.bilingual .sticky-title {
+  max-width: 70rem;
+}
+
+@media (width < 68rem) {
+  .sticky-title-text {
+    font-size: 2.8rem;
+  }
+
+  body.bilingual .sticky-title {
+    max-width: var(--max-width);
+  }
+}
+
+@media print {
+  .sticky-title {
+    display: none;
+  }
+}
