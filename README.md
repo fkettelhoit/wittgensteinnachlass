@@ -1,6 +1,6 @@
 # Wittgenstein's Writings
 
-Markdown transcriptions of Ludwig Wittgenstein's manuscripts and typescripts. These transcriptions are intended to complement the work of the Wittgenstein Archives at the University of Bergen, whose [Bergen Nachlass Edition](https://wab.uib.no/wab_BEE.page) remains the authoritative scholarly edition of the Nachlass.
+Markdown transcriptions of Ludwig Wittgenstein's manuscripts and typescripts. These transcriptions are intended to complement the work of the Wittgenstein Archives at the University of Bergen, whose [Bergen Nachlass Edition](https://wab.uib.no/wittgensteinonline.page) remains the authoritative scholarly edition of the Nachlass.
 
 **Beware the vibes!** This repo was built pretty much exclusively with AI. The code is not exactly great, code quality wasn't and isn't a priority. The main focus is on the output hosted at [wittgensteinnachlass.com](https://www.wittgensteinnachlass.com/).
 
