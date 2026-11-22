@@ -1,24 +1,27 @@
 // Guided tour of the site: a popover that walks through the main features step by
 // step, highlighting the element to look at, marking the one to click, and advancing
 // once the reader has done so. Self-contained and inert unless a tour is in progress:
-// it is started by the callout on the homepage (partials/intro.html, a link to
+// it is started by the button on the homepage (partials/intro.html, a link to
 // "/?tour"), and the current step is kept in sessionStorage so the tour survives
 // navigating between pages (and is forgotten when the tab is closed). On a page
 // other than the current step's, the tour stays out of the way: it pauses, and
 // picks up again on returning to that page (e.g. with the back button).
 //
 // The highlight and the popover are positioned in page coordinates, so they scroll
-// with the content. Moving to a step on the same page animates both boxes (CSS
-// transitions) while a single smooth scroll brings them into view.
+// with the content. The popover always sits right below the highlight, on every
+// screen size. Moving to a step on the same page animates both boxes (CSS
+// transitions) while a single smooth scroll brings them into view; whenever the
+// highlight moves or changes size afterwards (web fonts or images loading, a
+// <details> opening), they are scrolled into view again.
 (() => {
   const KEY = "tour-step";
   const ANIMATION = 400; // ms, matches the transitions in style.css
-  const NARROW = 640; // px; below this the popover is a bottom sheet (style.css)
   const PAD = 6, GAP = 12, MARGIN = 16;
 
   // --- Steps ------------------------------------------------------------------
   // page: pathname the step lives on. target: element(s) to highlight (the highlight
-  // spans the content of all matches, e.g. a remark's margin columns and text).
+  // spans the content of all matches, e.g. a remark's margin columns and text): a
+  // selector, or a function returning the elements.
   // click: advance when this is clicked ("Next" clicks it, if visible). cue:
   // element(s) to mark as the thing to interact with (default: click); a function
   // is re-evaluated whenever the page changes. done: advance once this is true
@@ -26,11 +29,12 @@
   // skip: leave the step out when this is true (checked on its own page).
   // fallback: not counted in "n of m" (it stands in for skipped steps).
   // final: the closing message: not counted, no "n of m", and "Finish"; the start
-  // callout is shown again for it.
+  // button is shown again for it.
   // boxes: target elements measured by their whole box (and ::after) rather than
-  // their content, e.g. the sticky title bar with its dividing line.
-  // fixed: the target includes a fixed element (the sticky title bar): don't scroll,
-  // and follow the target while the page scrolls.
+  // their content, e.g. the sticky title bar with its dividing line, or a bubble.
+  // fixed: the target includes the sticky title bar: keep the bar shown, scroll
+  // only as far down as needed to show the popover, and follow the target while
+  // the page scrolls.
   // text: paragraphs separated by blank lines.
   //
   // The route follows the motto of the Philosophical Investigations, which quotes
@@ -52,8 +56,13 @@
   const steps = [
     {
       page: "/",
-      target:
-        'main > h2:first-of-type, main > h2:first-of-type + .section-note, a.cover[href^="/w-"]:nth-of-type(-n+3)',
+      // The heading and the first row of covers (not all three on narrow screens,
+      // where they wrap, so that the highlight and the popover fit together).
+      target: () => {
+        const covers = [...document.querySelectorAll('a.cover[href^="/w-"]')];
+        const row = covers.filter((el) => el.offsetTop === covers[0]?.offsetTop);
+        return [...document.querySelectorAll("main > h2:first-of-type, main > h2:first-of-type + .section-note"), ...row];
+      },
       title: "Works and documents",
       text: "These are the works compiled by Wittgenstein’s literary executors. Further down are his individual manuscripts and typescripts, which you can also list by name or date.",
     },
@@ -86,7 +95,7 @@
       click: `a.cover[href="${PI}"]`,
       skip: () => !!searchInput(),
       fallback: true,
-      title: "Philosophical Investigations",
+      title: "Works",
       text: "Click <em>Philosophical Investigations</em> to open it.",
     },
     {
@@ -101,7 +110,7 @@
       cue: ".lightbox:target .lightbox-close",
       done: () => !document.querySelector(".lightbox:target"),
       next: () => (location.hash = "_"),
-      title: "Facsimile",
+      title: "Facsimiles",
       text: "The typescript first had a different motto, a quote from Heinrich Hertz. Wittgenstein crossed it out and wrote the Nestroy quote above it by hand. Click the image to zoom in, and use ‹ and › to turn the pages.\n\nClose the page with × to continue.",
     },
     {
@@ -119,7 +128,7 @@
       click: ".sticky-title-text",
       boxes: ".sticky-title",
       fixed: true,
-      title: "Ms-134",
+      title: "Title bar",
       text: "The same motto appears in one of Wittgenstein’s notebooks, where he names its source: Nestroy’s play <em>Der Schützling</em>. It is dated 25 April 1947, after the typescript of the <em>Investigations</em> was made, so he must have added it there by hand later.\n\nThe bar at the top shows where you are. Click <strong>Ms-134</strong> in it to go to the top.",
     },
     {
@@ -129,7 +138,7 @@
       cue: `${SIMILAR} > summary > span`,
       done: () => document.querySelector(SIMILAR)?.open,
       next: () => (document.querySelector(SIMILAR).open = true),
-      title: "Overview",
+      title: "Overviews",
       text: "Every work and document starts with an overview. Many of the remarks in this notebook reappear, reworked, in later typescripts.\n\nClick <strong>189 similar remarks</strong> to see where.",
     },
     {
@@ -151,8 +160,8 @@
     {
       page: "/",
       final: true,
-      target: ".tour-callout",
-      boxes: ".tour-callout",
+      target: ".tour-start, .tour-bubble",
+      boxes: ".tour-bubble",
       title: "That’s the tour!",
       text: "You’re back at the start. You can take the tour again at any time with this button.",
     },
@@ -176,8 +185,8 @@
     },
   };
 
-  // The start callout is hidden without JS and while a tour is running.
-  const showCallout = (on) =>
+  // The start button is hidden without JS and while a tour is running.
+  const showStart = (on) =>
     document.querySelectorAll("[data-tour-start]").forEach((el) => (el.hidden = !on));
 
   const params = new URLSearchParams(location.search);
@@ -187,7 +196,7 @@
     const q = params.toString();
     history.replaceState(null, "", location.pathname + (q ? `?${q}` : "") + location.hash);
   }
-  if (store.get() === null) return showCallout(true);
+  if (store.get() === null) return showStart(true);
 
   // --- Elements ---------------------------------------------------------------
 
@@ -203,7 +212,8 @@
   const $ = (sel) => pop.querySelector(sel);
 
   let current = null; // index of the step shown on this page, or null
-  let side = null; // where the popover goes for the current step: below, above or over the target
+  let placed = null; // where the current step's highlight was when last scrolled into view
+  let arriving = false; // the step was just shown on a page that's still loading
   let animating;
 
   const isCounted = (s) => !s.fallback && !s.final;
@@ -226,16 +236,19 @@
     want.forEach((el) => el.classList.add("tour-cue"));
   };
 
+  const pin = (on) => document.querySelector(".sticky-title")?.classList.toggle("tour-pinned", on);
+
   const hide = () => {
     current = null;
     setCue(null);
+    pin(false);
     spot.remove();
     pop.remove();
   };
   const end = () => {
     store.set(null);
     hide();
-    showCallout(true);
+    showStart(true);
   };
 
   // --- Layout -----------------------------------------------------------------
@@ -291,7 +304,7 @@
   // highlight) ends exactly at the highlight's edge.
   const rectOf = (sel, boxes) => {
     if (!sel) return null;
-    const targets = [...document.querySelectorAll(sel)];
+    const targets = typeof sel === "function" ? sel() : [...document.querySelectorAll(sel)];
     const rects = targets.flatMap((el) => (boxes && el.matches(boxes) ? boxRects(el) : contentRects(el)));
     for (const el of document.querySelectorAll(".tour-cue")) {
       if (visible(el) && targets.some((t) => t.contains(el))) rects.push(el.getBoundingClientRect());
@@ -305,77 +318,83 @@
     return { top: t + scrollY, left: l + scrollX, bottom: b + scrollY, right: r + scrollX };
   };
 
+  // Scroll smoothly, except right after arriving on a page: the browser's jump to
+  // a #fragment and js/sticky-title.js (re-aligning the remark it points to) can
+  // interrupt a smooth scroll while the page loads, but not undo an instant one.
+  const scrollToY = (y) => scrollTo({ top: Math.max(0, y), behavior: arriving ? "instant" : "smooth" });
+
   const px = (el, props) => {
     for (const [k, v] of Object.entries(props)) el.style[k] = `${Math.round(v)}px`;
   };
 
-  // Space taken at the top of the screen by the sticky title bar (work/doc pages).
-  const topInset = () => document.querySelector(".sticky-title")?.offsetHeight ?? 0;
+  // Space taken at the top of the screen by the sticky title bar (work/doc pages),
+  // when scrolling to `y`. The bar slides in while scrolling up and hides while
+  // scrolling down (js/sticky-title.js), so it only takes space when scrolling up,
+  // or (when not scrolling) if it is showing right now.
+  const topInset = (y = scrollY) => {
+    const bar = document.querySelector(".sticky-title");
+    if (!bar) return 0;
+    if (y < scrollY) return bar.offsetHeight;
+    if (y > scrollY) return 0;
+    return Math.max(0, bar.getBoundingClientRect().bottom);
+  };
 
-  // Position spot and popover for the current step. With `scroll`, also decide
-  // where the popover goes and scroll both into view.
+  // Position spot and popover for the current step: the popover right below the
+  // highlight. With `scroll`, also scroll both into view: centered if they fit on
+  // the screen, otherwise the popover at the bottom with as much of the highlight
+  // as fits above it, as long as some of the cued element is in view. Without
+  // `scroll`, they are still scrolled into view if the highlight or the popover
+  // moved or changed size since (e.g. web fonts or images loaded, or a <details>
+  // opened).
   const layout = (scroll) => {
     const step = steps[current];
     const vw = document.documentElement.clientWidth, vh = innerHeight;
-    const narrow = vw < NARROW;
     const r = rectOf(step.target, step.boxes);
     const w = pop.offsetWidth, h = pop.offsetHeight;
 
     spot.classList.toggle("tour-spot-off", !r);
-    if (r) {
-      px(spot, {
-        top: r.top - PAD,
-        left: r.left - PAD,
-        width: r.right - r.left + 2 * PAD,
-        height: r.bottom - r.top + 2 * PAD,
-      });
-    }
-
     if (!r) {
       // Untargeted: at the bottom of the screen (re-run on scroll, see below).
-      if (narrow) return pop.removeAttribute("style");
       return px(pop, { top: scrollY + vh - h - MARGIN, left: scrollX + (vw - w) / 2 });
     }
-
-    const view = { top: (step.fixed ? 0 : topInset()) + MARGIN, bottom: vh - MARGIN };
+    px(spot, {
+      top: r.top - PAD,
+      left: r.left - PAD,
+      width: r.right - r.left + 2 * PAD,
+      height: r.bottom - r.top + 2 * PAD,
+    });
     const target = { top: r.top - PAD, bottom: r.bottom + PAD };
-    if (narrow) {
-      pop.removeAttribute("style");
-      view.bottom = vh - h - 2 * MARGIN; // above the bottom sheet
-    }
-    const room = view.bottom - view.top;
+    const top = target.bottom + GAP;
+    px(pop, { top, left: Math.max(MARGIN, Math.min(r.left - PAD, vw - w - MARGIN)) });
 
-    // Place the popover below the target, above it (near the end of the page), or,
-    // for targets too tall to show together with the popover, over the target's
-    // lower part with the target's top in view. If the target changes size so that
-    // the placement changes (e.g. a <details> inside it opens), move there smoothly.
-    const docH = document.documentElement.scrollHeight;
-    const size = target.bottom - target.top + (narrow ? 0 : GAP + h);
-    const fits = !narrow && size > room ? "over" : narrow || target.bottom + GAP + h + MARGIN <= docH ? "below" : "above";
-    if (side && side !== fits) {
-      animate();
-      scroll = true;
-    }
-    side = fits;
-
-    let block = target;
-    if (!narrow) {
-      let top;
-      if (side === "below") top = target.bottom + GAP;
-      else if (side === "above") top = target.top - GAP - h;
-      else top = target.top + room - h;
-      const left = Math.max(MARGIN, Math.min(r.left - PAD, vw - w - MARGIN));
-      px(pop, { top, left });
-      block = { top: Math.min(target.top, top), bottom: Math.max(target.bottom, top + h) };
+    // (The top of a fixed target, the bar, moves in page coordinates as the page
+    // scrolls, so only its bottom counts.)
+    const where = `${step.fixed ? "" : target.top},${target.bottom},${h}`;
+    if (!scroll && where === placed) return;
+    placed = where;
+    if (step.fixed) {
+      // The bar stays at the top of the screen and the target's other part
+      // (the remark) just below it: only scroll down, as little as needed.
+      const below = top + h - (scrollY + vh - MARGIN);
+      if (below > 0) scrollToY(scrollY + below);
+      return;
     }
 
-    if (!scroll || step.fixed) return;
-    const inView = block.top >= scrollY + view.top && block.bottom <= scrollY + view.bottom;
-    if (inView) return;
-    const blockSize = block.bottom - block.top;
-    // Center the block if it fits; otherwise show its top.
-    const y = blockSize <= room ? block.top - view.top - (room - blockSize) / 2 : block.top - view.top;
-    scrollTo({ top: Math.max(0, y), behavior: "smooth" });
+    const block = { top: target.top, bottom: top + h };
+    const cue = [...document.querySelectorAll(".tour-cue")].find(visible)?.getBoundingClientRect();
+    const scrollFor = (inset) => {
+      const view = { top: inset + MARGIN, bottom: vh - MARGIN };
+      const room = view.bottom - view.top;
+      if (block.bottom - block.top <= room) return block.top - view.top - (room - (block.bottom - block.top)) / 2;
+      const y = block.bottom - view.bottom;
+      // Unless that leaves (almost) nothing of the cued element in view: then
+      // show it from its top, even if the popover doesn't fit below anymore.
+      return cue && cue.bottom + scrollY < y + view.top + 2 * MARGIN ? cue.top + scrollY - PAD - view.top : y;
+    };
+    if (block.top >= scrollY + topInset() + MARGIN && block.bottom <= scrollY + vh - MARGIN) return;
+    let y = Math.max(0, scrollFor(0));
+    if (y < scrollY) y = Math.max(0, scrollFor(topInset(y)));
+    scrollToY(y);
   };
 
   // Let the next position change of both boxes transition.
@@ -412,7 +431,7 @@
     if (step.done?.()) return go(i + 1);
     const moving = pop.isConnected; // already showing a step on this page: animate
     current = i;
-    side = null;
+    placed = null;
     fill(i, step.title, step.text, step.final ? "Finish" : "Next");
     $(".tour-next").onclick = () => {
       const el = step.click && document.querySelector(step.click);
@@ -421,10 +440,30 @@
       else go(i + 1);
     };
     setCue(cueOf(step));
-    showCallout(!!step.final); // the closing message points at it
+    pin(!!step.fixed);
+    showStart(!!step.final); // the closing message points at it
+    arriving = !moving && document.readyState !== "complete";
     if (moving) animate();
-    else document.body.append(spot, pop);
+    else {
+      document.body.append(spot, pop);
+      // On a reload or going back, don't let the browser restore the previous
+      // scroll position after we've scrolled to the step.
+      history.scrollRestoration = "manual";
+    }
     layout(true);
+    // Once the page has loaded, again: by then the browser may have jumped to the
+    // #fragment, and js/sticky-title.js re-aligned the remark it points to.
+    if (document.readyState !== "complete") {
+      addEventListener(
+        "load",
+        () =>
+          requestAnimationFrame(() => {
+            if (current === i) layout(true);
+            arriving = false;
+          }),
+        { once: true },
+      );
+    }
   };
 
   // --- Events -----------------------------------------------------------------
@@ -473,9 +512,9 @@
   );
 
   // On another page than the current step's, the tour is paused: show nothing but
-  // the start callout (on the homepage), to start over.
+  // the start button (on the homepage), to start over.
   const i = store.get();
   if (!steps[i]) end();
   else if (steps[i].page === location.pathname) go(i);
-  else showCallout(true);
+  else showStart(true);
 })();

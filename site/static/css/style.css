@@ -1388,7 +1388,8 @@ main [id] {
   background: var(--color-text);
 }
 
-.sticky-title.visible {
+.sticky-title.visible,
+.sticky-title.tour-pinned /* shown throughout a tour step about it (js/tour.js) */ {
   transform: none;
   visibility: visible;
   transition: transform 0.2s ease;
@@ -1499,10 +1500,11 @@ body.bilingual .sticky-title {
   line-height: 1.5rem; /* overrides the site's p { line-height: 2rem } */
 }
 
-/* Same size as the remark headings (h3). */
+/* Same size and weight as the remark headings (h3); italic like the buttons. */
 .tour h2 {
   font-family: var(--font-body);
   font-size: 1.125rem;
+  font-style: italic;
   font-weight: bold;
   line-height: 2rem;
   margin: 0 0 0.25rem 0;
@@ -1542,84 +1544,76 @@ body.bilingual .sticky-title {
   color: var(--color-text);
 }
 
-/* The call to action: "Next" in the popover, "Take a tour" in the callout. */
+/* The call to action: "Next" in the popover, "Take a short tour" on the homepage. */
 .tour .tour-button,
 .tour-button {
   display: inline-block;
   color: #fff;
   background: var(--color-link);
-  padding: 0.25rem 1rem;
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  /* More room above than below: the labels have no descenders, so equal padding
+     leaves the empty descender space below and the text looks too high. */
+  padding: 0.35rem 1rem 0.15rem;
   white-space: nowrap;
 }
 
-@media (width < 640px) {
-  .tour {
-    position: fixed;
-    top: auto;
-    left: 0.5rem;
-    right: 0.5rem;
-    bottom: 0.5rem;
-    width: auto;
-  }
+/* After the homepage's second paragraph: "New here?" and, in a white bubble
+   pointing back at it, the call to action. It belongs to the paragraph, so the
+   gap before the search (.status) goes below it. */
+.status:has(+ .tour-start:not([hidden])) {
+  /* Less than the usual 2rem: the bubble reaches above the line of "New here?",
+     which would otherwise push it further down than a new paragraph. */
+  margin-bottom: 1.3rem;
 }
 
-/* Next to the start of the homepage's second paragraph: in the left margin on wide
-   screens, just above the paragraph otherwise. A white bubble (like the tour's
-   popover) pointing at "This website", holding the call to action. */
-.status:has(.tour-callout) {
-  position: relative;
+.tour-start {
+  display: flex;
+  align-items: baseline; /* "New here?" on the button label's baseline */
+  gap: 1.25rem;
+  margin-bottom: 6rem;
 }
 
-.tour-callout {
-  position: relative;
-  display: block;
-  width: fit-content;
-  margin-bottom: 1.25rem;
-  padding: 1rem;
-  background: #fff;
-  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
-  font-family: var(--font-body);
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
-a.tour-callout,
-a.tour-callout:hover {
-  text-decoration: none;
-}
-
-.tour-callout[hidden] {
+.tour-start[hidden] {
   display: none;
 }
 
-/* Small arrow pointing at the paragraph. */
-.tour-callout::before {
-  content: "";
-  position: absolute;
-  bottom: -0.35rem;
-  left: 1.5rem;
-  width: 0.7rem;
-  height: 0.7rem;
+.tour-bubble {
+  position: relative;
+  padding: 0.5rem;
   background: #fff;
-  transform: rotate(45deg);
+  /* Like the tour's popover, but on the undimmed page: a hairline sets it off
+     from the white around it. */
+  --bubble-line: 1px solid rgb(0 0 0 / 0.15);
+  border: var(--bubble-line);
+  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  line-height: 1.5rem;
 }
 
-.tour-callout:hover .tour-button {
+a.tour-bubble,
+a.tour-bubble:hover {
+  text-decoration: none;
+}
+
+.tour-bubble:hover .tour-button {
   background: var(--color-text);
 }
 
-@media (width >= 84rem) {
-  .tour-callout {
-    position: absolute;
-    top: -0.25rem;
-    right: calc(100% + 1.5rem);
-    margin: 0;
-  }
-
-  .tour-callout::before {
-    top: calc(50% - 0.35rem);
-    bottom: auto;
-    left: auto;
-    right: -0.35rem;
-  }
+/* Small arrow pointing left, at "New here?": centered on the bubble's outer edge
+   (1px beyond the padding box, which absolute positioning is relative to),
+   continuing the hairline on its two outer sides. */
+.tour-bubble::before {
+  content: "";
+  position: absolute;
+  top: calc(50% - 0.35rem);
+  left: calc(-0.35rem - 1px);
+  box-sizing: border-box;
+  width: 0.7rem;
+  height: 0.7rem;
+  background: #fff;
+  border-left: var(--bubble-line);
+  border-bottom: var(--bubble-line);
+  transform: rotate(45deg);
 }
