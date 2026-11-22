@@ -1074,6 +1074,9 @@ body.bilingual footer {
 .search-result mark {
   background-color: #fbcba4;
   color: var(--color-text);
+  padding-block: 0.3em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
 @media (width < 60rem) {
