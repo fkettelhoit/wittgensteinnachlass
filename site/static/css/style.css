@@ -511,6 +511,12 @@ nav {
   margin-bottom: 2rem;
 }
 
+/* The site title link at the top of every page (not a remark's versions, which
+   are styled with the remark headings). */
+nav:not(.versions) {
+  font-style: italic;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -525,13 +531,16 @@ details {
   margin-bottom: 1rem;
 }
 
+/* Italic marks the site's own interface (toggles, switchers, downloads, the site
+   title, search, the tour), as opposed to the writings and references to them;
+   bold marks only the current state (the active language or view). */
 details summary {
   cursor: pointer;
   text-decoration: underline;
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 0.1rem;
   text-decoration-color: var(--color-margin);
-  font-weight: bold;
+  font-style: italic;
   color: var(--color-link);
   list-style: none;
   user-select: none;
@@ -543,14 +552,11 @@ details summary {
 summary.linked {
   text-decoration: none;
   cursor: auto;
-  font-weight: normal;
+  font-style: normal; /* the links to documents/works */
 }
 
 summary.linked > span {
-  font-weight: bold;
-}
-
-summary.linked > span {
+  font-style: italic;
   cursor: pointer;
   text-decoration: underline;
   text-underline-offset: 0.4rem;
@@ -871,6 +877,11 @@ body.bilingual .en a:hover {
 
 .lang-switcher {
   margin: -6rem 0 6rem 0;
+  font-style: italic;
+}
+
+.home .view-switcher {
+  font-style: italic;
 }
 
 .lang-switcher .lang-active,
@@ -1078,6 +1089,10 @@ body.bilingual footer {
   border-bottom: var(--line-thickness) solid var(--color-text);
 }
 
+.search-input::placeholder {
+  font-style: italic;
+}
+
 .search-input:focus {
   outline: none;
   border-bottom-color: var(--color-link);
@@ -1101,6 +1116,7 @@ body.bilingual footer {
    link, the active one is bold. */
 .search-langs {
   margin: 0 0 2rem 0;
+  font-style: italic;
 }
 
 .search-langs button {
@@ -1405,6 +1421,7 @@ main [id] {
 }
 
 .sticky-title-site {
+  font-style: italic; /* like the nav link it repeats */
   line-height: var(--sticky-title-site-line);
   margin-bottom: var(--sticky-title-site-gap);
 }
@@ -1498,6 +1515,11 @@ body.bilingual .sticky-title {
 .tour p {
   margin: 0 0 1rem 0;
   line-height: 1.5rem; /* overrides the site's p { line-height: 2rem } */
+}
+
+/* Things on the page to click (or type, or look at). */
+.tour-text strong {
+  font-style: italic;
 }
 
 /* Same size and weight as the remark headings (h3); italic like the buttons. */
