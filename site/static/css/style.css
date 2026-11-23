@@ -188,9 +188,11 @@
   --color-link: #000;
   --color-margin: #bbb;
   --color-translation: #777;
+  --color-margin-link: #777;
   --color-heading: #000;
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
+  --color-highlight: #fbcba4;
   --line-thickness: 2px;
   --line-thickness-hovered: 4px;
   --max-width: 44rem;
@@ -249,7 +251,7 @@ h2 {
   margin: 6rem 0 2rem 0;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   h1 {
     font-size: 2.8rem;
     line-height: 3rem;
@@ -287,7 +289,8 @@ h2 {
   }
 }
 
-@media (width >= 60rem) {
+/* Body (44rem + 2rem padding) plus both margin columns (2 × 11rem) and 1rem slack. */
+@media (width >= 68rem) {
   :not(.index, .gallery) > section {
     display: grid;
     grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
@@ -309,14 +312,58 @@ h2 {
     align-self: baseline;
   }
 
+  /* Divider between the doc and page columns. */
+  :not(.index, .gallery) > section > h3 {
+    position: relative;
+  }
+
+  :not(.index, .gallery) > section > h3:has(> a:not(.fragment-link), > .versions)::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: calc(var(--margin-gap) / -2);
+    border-right: 1px solid var(--color-margin-link);
+  }
+
+  /* The document column is right-aligned: let it extend 1rem (the body's
+     padding, so always empty) to the left, so that the widest collapsed versions
+     ("→227a¹ +11") keep their "+N" on the same line. */
+  :not(.index, .gallery) > section > h3 {
+    margin-left: -1rem;
+  }
+
+  /* Keep tall margin columns from running into the next remark. */
+  :not(.index, .gallery) > section > h3,
+  :not(.index, .gallery) > section > .fac {
+    margin-bottom: 2rem;
+  }
+
   :not(.index, .gallery) > section > div {
     grid-column: 3;
     align-self: baseline;
   }
 
+  /* Zero-width, so it takes no space from the margin column. */
   :not(.index, .gallery) > section .fragment-link {
     opacity: 0;
-    margin-right: 0.4em;
+    display: inline-block;
+    width: 0;
+    direction: rtl;
+    transform: translateX(-0.4em);
+  }
+
+  :not(.index, .gallery) > section .versions.first-line {
+    display: inline;
+  }
+
+  :not(.index, .gallery) > section > .fac a {
+    display: inline-block;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: bottom;
   }
 
   .index section,
@@ -416,6 +463,24 @@ section > .fac a:hover {
   text-decoration-thickness: 0.1rem;
 }
 
+section > h3 a:not(.fragment-link) {
+  color: var(--color-margin-link);
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: transparent;
+}
+
+section > h3 a:not(.fragment-link):hover {
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-margin-link);
+}
+
+section > .fac a {
+  cursor: zoom-in;
+}
+
 ul {
   padding-left: 0rem;
   list-style: none;
@@ -453,6 +518,12 @@ nav {
   margin-bottom: 2rem;
 }
 
+/* The site title link at the top of every page (not a remark's versions, which
+   are styled with the remark headings). */
+nav:not(.versions) {
+  font-style: italic;
+}
+
 img {
   max-width: 100%;
   height: auto;
@@ -467,17 +538,48 @@ details {
   margin-bottom: 1rem;
 }
 
+/* Italic marks the site's own interface (toggles, switchers, downloads, the site
+   title, search, the tour), as opposed to the writings and references to them;
+   bold marks only the current state (the active language or view). */
 details summary {
   cursor: pointer;
   text-decoration: underline;
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 0.1rem;
   text-decoration-color: var(--color-margin);
-  font-weight: bold;
+  font-style: italic;
   color: var(--color-link);
   list-style: none;
-  margin-bottom: 1rem;
   user-select: none;
+}
+
+/* Summaries with links to documents/works after their text: only the text toggles the
+   details (a link inside a summary is followed instead), so only it is underlined like
+   a summary, with an ordinary gap before the links. */
+summary.linked {
+  text-decoration: none;
+  cursor: auto;
+  font-style: normal; /* the links to documents/works */
+}
+
+summary.linked > span {
+  font-style: italic;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 0.4rem;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: var(--color-margin);
+}
+
+summary.linked > span:hover {
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-link);
+}
+
+/* Closed details in a row read as consecutive lines of text. */
+details:not([open]):has(+ details) {
+  margin-bottom: 0;
 }
 
 details summary:hover {
@@ -493,6 +595,17 @@ details summary::marker {
 details[open] summary::marker {
   content: "▾ ";
   line-height: 0;
+}
+
+/* Similar remarks: one nested entry per other document with a visualization, then a
+   line with the remaining documents, as a compact indented list. */
+details.similar details,
+details.similar p {
+  margin: 0 0 0 1.5rem;
+}
+
+details.similar details[open] {
+  margin-bottom: 1rem;
 }
 
 /* Site-specific overrides for shared transcription styles */
@@ -771,6 +884,11 @@ body.bilingual .en a:hover {
 
 .lang-switcher {
   margin: -6rem 0 6rem 0;
+  font-style: italic;
+}
+
+.home .view-switcher {
+  font-style: italic;
 }
 
 .lang-switcher .lang-active,
@@ -809,7 +927,7 @@ body.bilingual footer {
   line-height: 2rem;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   body.bilingual {
     max-width: var(--max-width);
   }
@@ -827,7 +945,7 @@ body.bilingual footer {
   }
 }
 
-@media (width >= 60rem) and (width < 94rem) {
+@media (width >= 68rem) and (width < 94rem) {
   body.bilingual section {
     display: block;
     margin-left: 0;
@@ -856,6 +974,16 @@ body.bilingual footer {
 
   body.bilingual section .fragment-link {
     opacity: 1;
+  }
+
+  /* The headings run inline here: no margin columns, so no divider between them
+     and no extra room to their left. */
+  body.bilingual :not(.index, .gallery) > section > h3::after {
+    content: none; /* (as specific as the rule it overrides) */
+  }
+
+  body.bilingual section > h3 {
+    margin-left: 0;
   }
 }
 
@@ -902,7 +1030,7 @@ body.bilingual footer {
   margin-bottom: 0.5rem;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   .gallery p:has(.cover) {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -978,6 +1106,10 @@ body.bilingual footer {
   border-bottom: var(--line-thickness) solid var(--color-text);
 }
 
+.search-input::placeholder {
+  font-style: italic;
+}
+
 .search-input:focus {
   outline: none;
   border-bottom-color: var(--color-link);
@@ -1001,6 +1133,7 @@ body.bilingual footer {
    link, the active one is bold. */
 .search-langs {
   margin: 0 0 2rem 0;
+  font-style: italic;
 }
 
 .search-langs button {
@@ -1072,11 +1205,14 @@ body.bilingual footer {
 
 /* Matched terms, in the covers' amber. */
 .search-result mark {
-  background-color: #fbcba4;
+  background-color: var(--color-highlight);
   color: var(--color-text);
+  padding-block: 0.3em;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
 }
 
-@media (width < 60rem) {
+@media (width < 68rem) {
   .search-result > h3 {
     display: inline;
   }
@@ -1088,7 +1224,7 @@ body.bilingual footer {
   }
 }
 
-@media (width >= 60rem) {
+@media (width >= 68rem) {
   .search-result {
     display: grid;
     grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
@@ -1110,4 +1246,411 @@ body.bilingual footer {
     grid-column: 3;
     align-self: baseline;
   }
+}
+
+/* Links to other versions of a remark (tools/add_versions.py). */
+.versions {
+  display: block;
+  margin-bottom: 0;
+}
+
+section > h3 > .versions a {
+  white-space: nowrap;
+}
+
+.versions summary {
+  white-space: nowrap;
+}
+
+.versions details,
+.versions summary {
+  display: inline;
+}
+
+.versions details {
+  margin: 0;
+  line-height: inherit;
+}
+
+.versions details summary {
+  margin: 0;
+  font-weight: normal;
+  color: var(--color-margin-link);
+  text-decoration: none;
+}
+
+.versions details summary::-webkit-details-marker {
+  display: none;
+}
+
+.versions details summary::marker,
+.versions details[open] summary::marker {
+  content: "";
+}
+
+.versions details summary:hover {
+  text-decoration: underline;
+  text-underline-offset: 0.35rem;
+  text-decoration-thickness: 0.2rem;
+  text-decoration-color: var(--color-margin-link);
+}
+
+/* ::details-content is a block box, which would break the inline layout. */
+.versions details:not([open])::details-content {
+  display: none;
+}
+
+.versions details[open]::details-content {
+  display: contents;
+}
+
+@media (width < 68rem) {
+  .versions {
+    display: inline;
+  }
+
+  .versions br {
+    display: none;
+  }
+
+  .versions::before,
+  .versions::after {
+    content: " ";
+  }
+
+  section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
+    content: "· ";
+  }
+}
+
+/* --- Sticky title (shown while scrolling up, see js/sticky-title.js) --- */
+
+/* Same font size and line height as the page's h1. */
+:root {
+  --sticky-title-line: 5rem;
+  --sticky-title-padding: 0.5rem;
+  /* The "Wittgenstein's Writings" link above the title, and the gap below it. */
+  --sticky-title-site-line: 2rem;
+  --sticky-title-site-gap: 1rem;
+  /* How far the dividing line extends beyond the text column on each side. */
+  --sticky-title-extend: 0rem;
+}
+
+/* Margin columns are shown from these widths on (see the section grids above);
+   the line then spans them and, symmetrically, the same width on the right. */
+@media (width >= 68rem) {
+  body {
+    --sticky-title-extend: var(--margin-offset);
+  }
+
+  body.bilingual {
+    --sticky-title-extend: 0rem;
+  }
+}
+
+@media (width >= 94rem) {
+  body.bilingual {
+    --sticky-title-extend: var(--margin-offset);
+  }
+}
+
+@media (width < 68rem) {
+  :root {
+    --sticky-title-line: 3rem;
+  }
+}
+
+/* Jumping to a remark leaves room for the sticky title above it. Long titles
+   wrap, so js/sticky-title.js sets --sticky-title-height to the bar's measured
+   height; the fallback is the height of a one-line title. */
+main [id] {
+  scroll-margin-top: calc(
+    var(
+        --sticky-title-height,
+        var(--sticky-title-site-line) + var(--sticky-title-site-gap) +
+          var(--sticky-title-line) + 2 * var(--sticky-title-padding) +
+          var(--line-thickness)
+      ) + 1rem
+  );
+}
+
+.sticky-title {
+  /* Spans (and covers) only the main text column: the body's content box. */
+  position: fixed;
+  top: 0;
+  left: 1rem;
+  right: 1rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  z-index: 900;
+  padding: var(--sticky-title-padding) 0;
+  background: #fff;
+  /* Reserves the line's space; the line itself is drawn by ::after below. */
+  border-bottom: var(--line-thickness) solid transparent;
+  transform: translateY(-100%);
+  visibility: hidden;
+  transition:
+    transform 0.2s ease,
+    visibility 0s linear 0.2s;
+}
+
+/* White behind the whole top strip, so the margin columns (and anything else
+   beside the text column) don't show through next to the bar. (Negative z-index
+   within the bar's stacking context: above its background, below its content.) */
+.sticky-title::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: calc(-1 * var(--line-thickness));
+  left: calc(50% - 50vw);
+  width: 100vw;
+  z-index: -1;
+  background: #fff;
+}
+
+/* The dividing line: across the text column and the margin columns on the left,
+   extended by the same amount on the right so it stays centered. */
+.sticky-title::after {
+  content: "";
+  position: absolute;
+  bottom: calc(-1 * var(--line-thickness));
+  left: calc(-1 * var(--sticky-title-extend));
+  right: calc(-1 * var(--sticky-title-extend));
+  height: var(--line-thickness);
+  z-index: -1;
+  background: var(--color-text);
+}
+
+.sticky-title.visible,
+.sticky-title.tour-pinned /* shown throughout a tour step about it (js/tour.js) */ {
+  transform: none;
+  visibility: visible;
+  transition: transform 0.2s ease;
+}
+
+/* Appear in place (no slide) when jumping to a remark. */
+.sticky-title.instant {
+  transition: none;
+}
+
+.sticky-title > * {
+  display: block;
+}
+
+.sticky-title-site {
+  font-style: italic; /* like the nav link it repeats */
+  line-height: var(--sticky-title-site-line);
+  margin-bottom: var(--sticky-title-site-gap);
+}
+
+.sticky-title-text {
+  font-family: var(--font-heading);
+  font-weight: 400;
+  font-size: 4.4rem;
+  line-height: var(--sticky-title-line);
+  color: var(--color-heading);
+  text-decoration: none;
+  /* Wrap the full title like the h1 does. */
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+
+body.bilingual .sticky-title {
+  max-width: 70rem;
+}
+
+@media (width < 68rem) {
+  .sticky-title-text {
+    font-size: 2.8rem;
+  }
+
+  body.bilingual .sticky-title {
+    max-width: var(--max-width);
+  }
+}
+
+@media print {
+  .sticky-title {
+    display: none;
+  }
+}
+
+/* --- Tour (static/js/tour.js) --- */
+
+/* Highlight and popover are positioned in page coordinates (they scroll with the
+   content); they only transition while moving from one step to the next. */
+.tour-spot {
+  position: absolute;
+  z-index: 1001;
+  /* Dims everything else, however far the page is scrolled away from the target. */
+  box-shadow: 0 0 0 100000px rgb(0 0 0 / 0.35);
+  pointer-events: none;
+}
+
+.tour-spot-off {
+  opacity: 0;
+}
+
+.tour-animate {
+  transition-property: top, left, width, height, opacity;
+  transition-duration: 0.4s;
+  transition-timing-function: ease-in-out;
+}
+
+/* The element to click or type into. */
+.tour-cue {
+  /* Ends where the highlight (.tour-spot) ends, 6px (PAD in tour.js) outside the
+     element: outline-offset + outline width = 1 + 5. Square corners, like the
+     highlight. */
+  outline: 5px solid var(--color-highlight);
+  outline-offset: 1px;
+  animation: tour-blink 1.2s ease-in-out infinite;
+}
+
+@keyframes tour-blink {
+  50% {
+    outline-color: transparent;
+  }
+}
+
+.tour {
+  position: absolute;
+  z-index: 1002;
+  box-sizing: border-box;
+  width: min(22rem, calc(100vw - 2rem));
+  padding: 1rem 1.25rem;
+  background: #fff;
+  color: var(--color-text);
+  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.tour p {
+  margin: 0 0 1rem 0;
+  line-height: 1.5rem; /* overrides the site's p { line-height: 2rem } */
+}
+
+/* Things on the page to click (or type, or look at). */
+.tour-text strong {
+  font-style: italic;
+}
+
+/* Same size and weight as the remark headings (h3); italic like the buttons. */
+.tour h2 {
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  font-style: italic;
+  font-weight: bold;
+  line-height: 2rem;
+  margin: 0 0 0.25rem 0;
+  padding-right: 1.5rem;
+}
+
+.tour p.tour-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.tour-count {
+  color: var(--color-margin);
+  font-size: 0.8rem;
+}
+
+.tour button {
+  font: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  padding: 0;
+}
+
+.tour .tour-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  color: var(--color-margin);
+}
+
+.tour .tour-close:hover {
+  color: var(--color-text);
+}
+
+/* The call to action: "Next" in the popover, "Take a short tour" on the homepage. */
+.tour .tour-button,
+.tour-button {
+  display: inline-block;
+  color: #fff;
+  background: var(--color-link);
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  /* More room above than below: the labels have no descenders, so equal padding
+     leaves the empty descender space below and the text looks too high. */
+  padding: 0.35rem 1rem 0.15rem;
+  white-space: nowrap;
+}
+
+/* After the homepage's second paragraph: "New here?" and, in a white bubble
+   pointing back at it, the call to action. It belongs to the paragraph, so the
+   gap before the search (.status) goes below it. */
+.status:has(+ .tour-start:not([hidden])) {
+  /* Less than the usual 2rem: the bubble reaches above the line of "New here?",
+     which would otherwise push it further down than a new paragraph. */
+  margin-bottom: 1.3rem;
+}
+
+.tour-start {
+  display: flex;
+  align-items: baseline; /* "New here?" on the button label's baseline */
+  gap: 1.25rem;
+  margin-bottom: 6rem;
+}
+
+.tour-start[hidden] {
+  display: none;
+}
+
+.tour-bubble {
+  position: relative;
+  padding: 0.5rem;
+  background: #fff;
+  /* Like the tour's popover, but on the undimmed page: a hairline sets it off
+     from the white around it. */
+  --bubble-line: 1px solid rgb(0 0 0 / 0.15);
+  border: var(--bubble-line);
+  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  line-height: 1.5rem;
+}
+
+a.tour-bubble,
+a.tour-bubble:hover {
+  text-decoration: none;
+}
+
+.tour-bubble:hover .tour-button {
+  background: var(--color-text);
+}
+
+/* Small arrow pointing left, at "New here?": centered on the bubble's outer edge
+   (1px beyond the padding box, which absolute positioning is relative to),
+   continuing the hairline on its two outer sides. */
+.tour-bubble::before {
+  content: "";
+  position: absolute;
+  top: calc(50% - 0.35rem);
+  left: calc(-0.35rem - 1px);
+  box-sizing: border-box;
+  width: 0.7rem;
+  height: 0.7rem;
+  background: #fff;
+  border-left: var(--bubble-line);
+  border-bottom: var(--bubble-line);
+  transform: rotate(45deg);
 }

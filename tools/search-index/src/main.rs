@@ -269,6 +269,29 @@ fn verify_public(records: &[SearchRecord], public: &Path) -> Result<(), String> 
         }
     }
 
+    // Work links (`/w-rfm-3/#ms-122-5r-2--5v-1`) deep-link into a different page, whose ids
+    // follow the templates' link-rewriting rules rather than the document's own headings.
+    for w in records.iter().flat_map(|r| &r.works) {
+        let Some((page, frag)) = w.url.trim_start_matches('/').split_once("/#") else {
+            continue;
+        };
+        let path = public.join(format!("{page}/index.html"));
+        let html = cache
+            .entry(path.clone())
+            .or_insert_with(|| fs::read_to_string(&path).ok());
+        let Some(html) = html else {
+            skipped += 1;
+            continue;
+        };
+        checked += 1;
+        let entry = per_doc.entry(page.to_string()).or_insert((0, 0));
+        entry.1 += 1;
+        if !html.contains(&format!("id=\"{frag}\"")) {
+            missing_total += 1;
+            entry.0 += 1;
+        }
+    }
+
     eprintln!("verify: checked {checked} anchors against {}, skipped {skipped} (no rendered page).", public.display());
     if missing_total > 0 {
         eprintln!("verify: {missing_total} anchor(s) not found, in these pages (missing/total — `=` means the rendered page is truncated):");

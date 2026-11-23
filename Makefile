@@ -13,7 +13,7 @@ COVERS_FLAGS ?=
 # visible); set ENV=production to check the production layouts (translations hidden).
 ENV ?= staging
 
-.PHONY: all production staging quick serve deploy content check-fonts viz covers epub pdf graphics fix translate verify check check-render index clean
+.PHONY: all production staging quick serve deploy content check-fonts viz covers epub pdf graphics fix translate verify check check-render index similar clean
 
 # --- Full site builds -------------------------------------------------------
 # Identical asset+content pipeline; only the Hugo environment differs. Production
@@ -69,9 +69,9 @@ check-fonts:
 		exit 1; \
 	fi
 
-# Visualizations (independent, needs only md/)
+# Visualizations (independent, needs only md/ + similar/similar.tsv)
 viz:
-	cd tools/visualize && cargo run --release -- --all --all-docs
+	cd tools/visualize && cargo run --release -- --all --all-docs --all-similar
 
 # Covers (independent, needs only md/)
 covers:
@@ -111,6 +111,12 @@ check:
 	cd tools/translate && cargo run --release -- check
 
 # --- Misc -------------------------------------------------------------------
+
+# Find textually similar remarks across all manuscripts and typescripts and write them
+# to similar/similar.tsv (committed). Run by hand after the German sources changed.
+similar:
+	cd tools/similar && cargo run --release
+
 
 # Fail the build on any rendering defect (truncation, emphasis leaking into <math>,
 # stray <blockquote>). Reads the built site/public; run after `make quick` / `make

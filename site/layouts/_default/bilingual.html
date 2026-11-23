@@ -1,5 +1,7 @@
 {{ define "main" }}
 <nav><a href="/">{{ .Site.Title }}</a></nav>
+<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/" tabindex="-1">{{ .Site.Title }}</a></div><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a></div>
+<script src="/js/sticky-title.js" defer></script>
 {{ $hasRemarks := findRE `\.webp\)` .RawContent }}
 {{ if $hasRemarks }}
 <main>

@@ -2,7 +2,7 @@
      Takes a content string as input, returns modified content with lightbox elements appended. */}}
 {{ $c := . }}
 {{/* Wrap each viz img in a link to its lightbox */}}
-{{ $c = replaceRE `<img class="viz" src="/viz/([^"]+)\.svg">` `<a href="#viz-$1"><img class="viz" src="/viz/$1.svg"></a>` $c }}
+{{ $c = replaceRE `<img class="viz" src="/viz/([^"]+)\.svg"( loading="lazy")?>` `<a href="#viz-${1}"><img class="viz" src="/viz/${1}.svg"${2}></a>` $c }}
 {{/* Collect viz SVG paths */}}
 {{ $vizzes := findRE `/viz/[^"]+\.svg` $c }}
 {{ $vizzes = uniq $vizzes }}

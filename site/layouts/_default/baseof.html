@@ -11,5 +11,6 @@
 </head>
 <body{{ if eq .Params.layout "bilingual" }}{{ if findRE `\.webp\)` .RawContent }} class="bilingual"{{ else }} class="overview"{{ end }}{{ end }}>
   {{ block "main" . }}{{ end }}
+  <script src="/js/tour.js" defer></script>
 </body>
 </html>

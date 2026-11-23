@@ -2,6 +2,13 @@ use regex::Regex;
 use std::collections::HashMap;
 use std::fs;
 use std::path::Path;
+use std::sync::LazyLock;
+
+/// A Markdown link: `[text](url)`, where the text may contain escaped brackets.
+static LINK_RE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\(([^)]+)\)").unwrap());
+static DATE_RE: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r"^(\d{2})\.(\d{2})\.(\d{4})$").unwrap());
 
 pub struct WorkRemark {
     pub source_doc: String,
@@ -25,6 +32,9 @@ pub enum RemarkBreak {
 
 pub struct SourceDoc {
     pub anchors: Vec<String>,
+    /// Bergen-style siglum of each remark (`Ms-115,118[2]et119[1]`), as assigned by
+    /// tools/similar: repeated sigla get `-2`, `-3`, … in document order.
+    pub sigla: Vec<String>,
     /// For each remark (except the first), what kind of break precedes it.
     pub breaks: Vec<RemarkBreak>,
 }
@@ -41,7 +51,7 @@ pub struct Correspondence {
 /// uses facsimile links (external URLs) for the anchor.
 fn anchor_from_doc_heading(heading: &str) -> String {
     // Extract link text and URL pairs from the heading
-    let link_re = Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\(([^)]+)\)").unwrap();
+    let link_re = &*LINK_RE;
     let mut parts = Vec::new();
     for cap in link_re.captures_iter(heading) {
         let url = &cap[2];
@@ -91,10 +101,18 @@ pub fn parse_work(path: &Path) -> Work {
     Work { title, remarks }
 }
 
+/// Facsimile link labels of a remark heading (`118[2]`), skipping internal work links.
+fn fac_labels(heading: &str) -> Vec<String> {
+    LINK_RE
+        .captures_iter(heading)
+        .filter(|cap| !cap[2].starts_with('/'))
+        .map(|cap| cap[1].replace("\\[", "[").replace("\\]", "]"))
+        .collect()
+}
+
 /// Parse a DD.MM.YYYY date string into a day count for comparison.
 fn parse_date(s: &str) -> Option<i64> {
-    let date_re = Regex::new(r"^(\d{2})\.(\d{2})\.(\d{4})$").unwrap();
-    let cap = date_re.captures(s.trim())?;
+    let cap = DATE_RE.captures(s.trim())?;
     let d: i64 = cap[1].parse().ok()?;
     let m: i64 = cap[2].parse().ok()?;
     let y: i64 = cap[3].parse().ok()?;
@@ -105,8 +123,11 @@ fn parse_date(s: &str) -> Option<i64> {
 /// Parse a source document to get remark anchors and inter-remark breaks.
 pub fn parse_source_doc(path: &Path) -> SourceDoc {
     let content = fs::read_to_string(path).expect("Failed to read source doc");
+    let doc_name = path.file_stem().unwrap().to_string_lossy().to_string();
 
     let mut anchors = Vec::new();
+    let mut sigla = Vec::new();
+    let mut seen_sigla: HashMap<String, usize> = HashMap::new();
     let mut breaks = Vec::new();
     let mut current_has_separator = false;
     let mut current_date: Option<i64> = None;
@@ -132,6 +153,10 @@ pub fn parse_source_doc(path: &Path) -> SourceDoc {
                 prev_date = current_date;
             }
             anchors.push(anchor_from_doc_heading(line));
+            let siglum = format!("{doc_name},{}", fac_labels(line).join("et"));
+            let n = seen_sigla.entry(siglum.clone()).or_default();
+            *n += 1;
+            sigla.push(if *n > 1 { format!("{siglum}-{n}") } else { siglum });
             current_has_separator = false;
             current_date = None;
             in_remark = true;
@@ -148,7 +173,11 @@ pub fn parse_source_doc(path: &Path) -> SourceDoc {
         }
     }
 
-    SourceDoc { anchors, breaks }
+    SourceDoc {
+        anchors,
+        sigla,
+        breaks,
+    }
 }
 
 /// Build correspondences between work remarks and source doc remarks.
@@ -254,6 +283,40 @@ pub fn build_doc_correspondence(
 /// Uses 1-based remark numbers as anchors and no breaks.
 pub fn work_as_source_doc(work: &Work) -> SourceDoc {
     let anchors: Vec<String> = (1..=work.remarks.len()).map(|i| i.to_string()).collect();
-    let breaks = vec![];
-    SourceDoc { anchors, breaks }
+    SourceDoc {
+        anchors,
+        sigla: vec![],
+        breaks: vec![],
+    }
+}
+
+/// Load the pairs of similar remarks at or above `min_score` from similar/similar.tsv
+/// (columns: a, b, score, shared, order), as (siglum, siglum) pairs.
+pub fn load_similar(path: &Path, min_score: f64) -> Vec<(String, String)> {
+    let content = fs::read_to_string(path).expect("Failed to read similar.tsv");
+    content
+        .lines()
+        .skip(1)
+        .filter_map(|line| {
+            let cols: Vec<&str> = line.split('\t').collect();
+            let score: f64 = cols.get(2)?.parse().ok()?;
+            (score >= min_score).then(|| (cols[0].to_string(), cols[1].to_string()))
+        })
+        .collect()
+}
+
+/// The document a siglum belongs to (`Ms-115,118[2]` → `Ms-115`).
+pub fn siglum_doc(siglum: &str) -> &str {
+    siglum.split(',').next().unwrap_or(siglum)
+}
+
+/// The documents the site exposes: file stems linked from `all.md` in the markdown
+/// directory. None (all documents) if all.md is missing.
+pub fn published_docs(md_dir: &Path) -> Option<std::collections::HashSet<String>> {
+    let Ok(content) = fs::read_to_string(md_dir.join("all.md")) else {
+        eprintln!("Warning: all.md not found, including all documents");
+        return None;
+    };
+    let re = Regex::new(r"\]\(([^)]+)\.md\)").unwrap();
+    Some(re.captures_iter(&content).map(|c| c[1].to_string()).collect())
 }

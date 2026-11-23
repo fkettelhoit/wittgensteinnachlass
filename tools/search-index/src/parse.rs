@@ -281,13 +281,15 @@ pub fn parse_file(content: &str, res: &Res) -> Option<(DocMeta, Vec<Remark>)> {
 
 /// Extract the works a remark is published in straight from its document heading, e.g.
 /// `### [RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">…</span>`. This gives exactly
-/// the label and link the document pages show. The URL's fragment has its `.`/`+` stripped to
-/// match Hugo's rendered anchor (the `single.html`/`bilingual.html` templates do the same).
+/// the label and link the document pages show. The URL is rewritten exactly like the
+/// `single.html`/`bilingual.html` templates rewrite internal links, so it matches the work
+/// page's canonical heading id: lowercase, `.` → `-`, `+` → `--`
+/// (`#ms-122-5r.2+5v.1` → `#ms-122-5r-2--5v-1`).
 fn parse_works(heading: &str, res: &Res) -> Vec<WorkLink> {
     let mut out = Vec::new();
     for cap in res.work_link.captures_iter(heading) {
         let label = cap[1].to_string();
-        let url = cap[2].replace('.', "").replace('+', "");
+        let url = cap[2].replace('.', "-").replace('+', "--").to_lowercase();
         // Work-level code (for filtering) from the part slug, e.g. "/w-rfm-3/…" -> "W-RFM".
         let slug = url.trim_start_matches('/').split('/').next().unwrap_or("");
         let code = work_code(&slug.to_uppercase());
@@ -383,12 +385,12 @@ Nach meinem Tod zu senden
     fn parse_works_uses_the_doc_heading_label_and_part_link() {
         let res = Res::new();
         // A document heading for a remark published in RFM part III.
-        let heading = r#"[RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">[5r\[2\]](u/Ms-122/5r.webp)</span> {#5r25v1}"#;
+        let heading = r#"[RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">[5r\[2\]](u/Ms-122/5r.webp)</span> {#5r-2--5v-1}"#;
         let works = parse_works(heading, &res);
         assert_eq!(works.len(), 1);
         assert_eq!(works[0].label, "RFM III"); // exactly as the doc page shows it
         assert_eq!(works[0].code, "W-RFM"); // collapsed work code, for filtering
-        assert_eq!(works[0].url, "/w-rfm-3/#ms-122-5r25v1"); // part page, dots/plus stripped
+        assert_eq!(works[0].url, "/w-rfm-3/#ms-122-5r-2--5v-1"); // part page, canonical heading id
     }
 
     #[test]

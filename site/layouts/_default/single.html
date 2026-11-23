@@ -1,5 +1,7 @@
 {{ define "main" }}
 <nav><a href="/">{{ .Site.Title }}</a></nav>
+<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/" tabindex="-1">{{ .Site.Title }}</a></div><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a></div>
+<script src="/js/sticky-title.js" defer></script>
 {{ $hasRemarks := findRE `\.webp\)` .RawContent }}
 {{ if $hasRemarks }}
 <main>
@@ -32,8 +34,14 @@
   {{ end }}
   {{ $c = replaceRE `<a href="([^"]*/)([^/"]+)/([^/"]+)(\.webp)">` `<a href="#fac-$2-$3">` $c }}
   {{ $c = replaceRE `<h3 id="([^"]+)"` `<h3 id="$1"><a class="fragment-link" href="#$1">§</a` $c }}
+  {{/* Full facsimile label as a tooltip: long labels are truncated with an ellipsis. */}}
+  {{ $c = replaceRE `<a href="(#fac-[^"]*)">([^<]*?)( &amp;)?</a>` `<a href="$1" title="$2">$2$3</a>` $c }}
   {{/* Move fac span from inside h3 to between h3 and content div */}}
   {{ $c = replaceRE `(<span class="fac">.*?</span>)(</h3>)<div>` `${2}${1}<div>` $c }}
+  {{/* Move the links to other versions of a remark (tools/add_versions.py) from the
+       start of the remark body to the end of the heading, i.e. into the margin column
+       with the work references. Heading ids are already assigned at this point. */}}
+  {{ $c = replaceRE `</h3>(<span class="fac">(?:[^<]|<a [^>]*>|</a>|<br>)*</span>)<div>\s*<nav class="(versions[^"]*)">(.*?)</nav>` `<nav class="${2}">${3}</nav></h3>${1}<div>` $c }}
   {{ $c = printf "%s</div></section>" $c }}
   {{ $facs := findRE `https?://[^"]+\.webp` .Content }}
   {{ $facs = uniq $facs }}
