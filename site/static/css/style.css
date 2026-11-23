@@ -326,6 +326,13 @@ h2 {
     border-right: 1px solid var(--color-margin-link);
   }
 
+  /* The document column is right-aligned: let it extend 1rem (the body's
+     padding, so always empty) to the left, so that the widest collapsed versions
+     ("→227a¹ +11") keep their "+N" on the same line. */
+  :not(.index, .gallery) > section > h3 {
+    margin-left: -1rem;
+  }
+
   /* Keep tall margin columns from running into the next remark. */
   :not(.index, .gallery) > section > h3,
   :not(.index, .gallery) > section > .fac {
@@ -967,6 +974,16 @@ body.bilingual footer {
 
   body.bilingual section .fragment-link {
     opacity: 1;
+  }
+
+  /* The headings run inline here: no margin columns, so no divider between them
+     and no extra room to their left. */
+  body.bilingual :not(.index, .gallery) > section > h3::after {
+    content: none; /* (as specific as the rule it overrides) */
+  }
+
+  body.bilingual section > h3 {
+    margin-left: 0;
   }
 }
 
