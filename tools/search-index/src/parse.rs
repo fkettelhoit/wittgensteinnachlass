@@ -31,6 +31,8 @@ pub struct Res {
     series: Regex,
     math_inline: Regex,
     em: Regex,
+    intraword_pre: Regex,
+    intraword_post: Regex,
     md_link: Regex,
     variant: Regex,
     strike: Regex,
@@ -61,6 +63,10 @@ impl Res {
             math_inline: Regex::new(r#"(?s)<math\b.*?</math>|<img class="math[^"]*"[^>]*>"#).unwrap(),
             // Markdown emphasis `_word_` (Wittgenstein's underlinings).
             em: Regex::new(r"_([^_]+)_").unwrap(),
+            // Emphasis inside a word, `Empfindungs*begriff*` / `*Bewegungs*möglichkeit`
+            // (the parser writes it with `*`, since `_` doesn't work inside a word).
+            intraword_pre: Regex::new(r"(\w)\*([^*\s]+)\*").unwrap(),
+            intraword_post: Regex::new(r"\*([^*\s]+)\*(\w)").unwrap(),
             // Markdown link `[text](url)` -> keep the text.
             md_link: Regex::new(r"\[([^\]]*)\]\([^)]*\)").unwrap(),
             // `{primary // alternative}` reading variants -> keep the primary.
@@ -155,6 +161,8 @@ fn strip_markup(text: &str, res: &Res) -> String {
     s = res.math_inline.replace_all(&s, "").to_string();
     s = res.tag.replace_all(&s, "").to_string();
     s = s.replace("**", "");
+    s = res.intraword_pre.replace_all(&s, "$1$2").to_string();
+    s = res.intraword_post.replace_all(&s, "$1$2").to_string();
     s = res.em.replace_all(&s, "$1").to_string();
     s = res.md_link.replace_all(&s, "$1").to_string();
     s = res.variant.replace_all(&s, "$1").to_string();

@@ -3038,7 +3038,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#364.3) <span class="fac">[364\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/364.webp)</span> {#ts-229-364-3}
 
-<span class="series-number">754</span> Nun gut: das kinästhetische ist ein an**deres**, ein besonderes Gefühl. – Aber so ist Geruch, Gehör, etc. – Warum macht das einen solchen Unterschied? “Innervationsgefühl” – das drückt aus, was man sagen möchte: Daß es wie ein _Impuls_ ist. Aber ein Gefühl wie ein Impuls?! Was ist denn ein Impuls? Ein physikalisches Bild. Das Bild eines Stoßes.
+<span class="series-number">754</span> Nun gut: das kinästhetische ist ein an*deres*, ein besonderes Gefühl. – Aber so ist Geruch, Gehör, etc. – Warum macht das einen solchen Unterschied? “Innervationsgefühl” – das drückt aus, was man sagen möchte: Daß es wie ein _Impuls_ ist. Aber ein Gefühl wie ein Impuls?! Was ist denn ein Impuls? Ein physikalisches Bild. Das Bild eines Stoßes.
 
 ### [Ts-229](/ts-229/#364.4+365.1) <span class="fac">[364\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/364.webp),[365\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/365.webp)</span> {#ts-229-364-4--365-1}
 
@@ -3154,7 +3154,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#370.6+371.1) <span class="fac">[370\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/370.webp),[371\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/371.webp)</span> {#ts-229-370-6--371-1}
 
-<span class="series-number">783</span> “Der Schmerz, der Ton, der Geschmack, Geruch, hat eine bestimmte Farbe.” Was heißt das? (Qualität. Eigenschaftswort.) Eine Farbe kann grün**lich** sein, oder bläu**lich** – es gibt ein Gemisch von Farben; und so auch ein Gemisch von Gerüchen, Klängen, Geschmäcken; qualitative Zwischenstufen. Wie unterscheidet man qualitative von quantitativen Zwischenstufen, ich meine, von Stufen der ‘Intensität’!? Noch auszuhalten – nicht mehr auszuhalten, das sind z.B. Grade der Intensität. Denke, jemand fragte: “Wie kann ich wissen, was, was ich als verschiedene Grade, der Lautheit z.B., empfinde, der Andere nicht als verschiedene Qualitäten, vergleichbar verschiedenen Farben, empfindet?” – Vergleiche die Reaktion zu einer Änderung der Stärke mit der zu einer Änderung der Qualität.
+<span class="series-number">783</span> “Der Schmerz, der Ton, der Geschmack, Geruch, hat eine bestimmte Farbe.” Was heißt das? (Qualität. Eigenschaftswort.) Eine Farbe kann grün*lich* sein, oder bläu*lich* – es gibt ein Gemisch von Farben; und so auch ein Gemisch von Gerüchen, Klängen, Geschmäcken; qualitative Zwischenstufen. Wie unterscheidet man qualitative von quantitativen Zwischenstufen, ich meine, von Stufen der ‘Intensität’!? Noch auszuhalten – nicht mehr auszuhalten, das sind z.B. Grade der Intensität. Denke, jemand fragte: “Wie kann ich wissen, was, was ich als verschiedene Grade, der Lautheit z.B., empfinde, der Andere nicht als verschiedene Qualitäten, vergleichbar verschiedenen Farben, empfindet?” – Vergleiche die Reaktion zu einer Änderung der Stärke mit der zu einer Änderung der Qualität.
 
 ### [Ts-229](/ts-229/#371.2) <span class="fac">[371\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/371.webp)</span> {#ts-229-371-2}
 
@@ -3262,7 +3262,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#378.4) <span class="fac">[378\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/378.webp)</span> {#ts-229-378-4}
 
-<span class="series-number">810</span> Ist das, wovon er sagt, er habe es, und wovon ich sage, ich habe es, ohne daß wir dies aus irgendeiner Beobachtung erschließen, – ist es dasselbe, wie das, was wir aus der Beobachtung des Benehmens des Andern und aus seiner Überzeugungs**äußerung** entnehmen?
+<span class="series-number">810</span> Ist das, wovon er sagt, er habe es, und wovon ich sage, ich habe es, ohne daß wir dies aus irgendeiner Beobachtung erschließen, – ist es dasselbe, wie das, was wir aus der Beobachtung des Benehmens des Andern und aus seiner Überzeugungs*äußerung* entnehmen?
 
 ### [Ts-229](/ts-229/#379.1) <span class="fac">[379\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/379.webp)</span> {#ts-229-379-1}
 
@@ -3358,7 +3358,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#384.4) <span class="fac">[384\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/384.webp)</span> {#ts-229-384-4}
 
-<span class="series-number">834</span> Es gibt eine Ekel**reaktion**, in mir und im Andern, es gibt auch _Ekelgefühle_. Und darin gleichen sich Ekel, Furcht, Zuneigung, u.a.; aber nicht Hoffnung, Glaube, u.a.
+<span class="series-number">834</span> Es gibt eine Ekel*reaktion*, in mir und im Andern, es gibt auch _Ekelgefühle_. Und darin gleichen sich Ekel, Furcht, Zuneigung, u.a.; aber nicht Hoffnung, Glaube, u.a.
 
 ### [Ts-229](/ts-229/#385.1) <span class="fac">[385\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/385.webp)</span> {#ts-229-385-1}
 
@@ -3730,7 +3730,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#407.5+408.1) <span class="fac">[407\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/407.webp),[408\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/408.webp)</span> {#ts-229-407-5--408-1}
 
-<span class="series-number">927</span> Das Bewußtsein in der Andern Gesicht. Schau ins Gesicht des Andern und sieh das Bewußtsein in ihm und einen bestimmten Bewußtseins**ton**. Du siehst auf ihm, in ihm, Freude, Gleichgültigkeit, Interesse, Rührung, Dumpfheit, usf. Das Licht im Gesicht des Andern. Schaust Du in _Dich_, um den Grimm in _seinem_ Gesicht zu erkennen? Er ist dort so deutlich, wie in Deiner eigenen Brust. (Und was will man nun sagen? Daß das Gesicht des Andern mich zur Nachahmung anregt, und daß ich also kleine Bewegungen und Muskelspannungen im eigenen empfinde, und die Summe dieser _meine_? Unsinn. Unsinn, – denn Du machst Annahmen, statt bloß zu beschreiben. Wem hier Erklärungen im Kopfe spuken, der vernachlässigt es, sich auf die wichtigsten Tatsachen zu besinnen.)
+<span class="series-number">927</span> Das Bewußtsein in der Andern Gesicht. Schau ins Gesicht des Andern und sieh das Bewußtsein in ihm und einen bestimmten Bewußtseins*ton*. Du siehst auf ihm, in ihm, Freude, Gleichgültigkeit, Interesse, Rührung, Dumpfheit, usf. Das Licht im Gesicht des Andern. Schaust Du in _Dich_, um den Grimm in _seinem_ Gesicht zu erkennen? Er ist dort so deutlich, wie in Deiner eigenen Brust. (Und was will man nun sagen? Daß das Gesicht des Andern mich zur Nachahmung anregt, und daß ich also kleine Bewegungen und Muskelspannungen im eigenen empfinde, und die Summe dieser _meine_? Unsinn. Unsinn, – denn Du machst Annahmen, statt bloß zu beschreiben. Wem hier Erklärungen im Kopfe spuken, der vernachlässigt es, sich auf die wichtigsten Tatsachen zu besinnen.)
 
 ### [Ts-229](/ts-229/#408.2) <span class="fac">[408\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/408.webp)</span> {#ts-229-408-2}
 
@@ -4130,7 +4130,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#428.5+429.1) <span class="fac">[428\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/428.webp),[429\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/429.webp)</span> {#ts-229-428-5--429-1}
 
-<span class="series-number">1027</span> In diesem Sinne ist auch auf der Zahlenlinie nicht für imaginäre Zahlen Platz. Und das heißt doch: Die Anwendung eines imaginären Zahlbegriffs ist **grund**verschieden von der einer Anzahl etwa; verschiedener, als die mathematischen Operationen allein es _offenbaren_. Man muß also, um Platz für sie zu gewinnen, zu ihrer Anwendung hinuntersteigen und dann finden sie einen sozusagen _ungeahnt_ verschiedenen Platz.
+<span class="series-number">1027</span> In diesem Sinne ist auch auf der Zahlenlinie nicht für imaginäre Zahlen Platz. Und das heißt doch: Die Anwendung eines imaginären Zahlbegriffs ist *grund*verschieden von der einer Anzahl etwa; verschiedener, als die mathematischen Operationen allein es _offenbaren_. Man muß also, um Platz für sie zu gewinnen, zu ihrer Anwendung hinuntersteigen und dann finden sie einen sozusagen _ungeahnt_ verschiedenen Platz.
 
 ### [Ts-229](/ts-229/#429.2) <span class="fac">[429\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/429.webp)</span> {#ts-229-429-2}
 
@@ -4294,7 +4294,7 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 ### [Ts-229](/ts-229/#439.5) <span class="fac">[439\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/439.webp)</span> {#ts-229-439-5}
 
-<span class="series-number">1068</span> Soll ich nun aber sagen, daß ich die Furchtsamkeit in diesem Benehmen – oder den Gesichts**ausdruck** – eigentlich ‘sehe’? Warum nicht? Aber damit ist ja der Unterschied zweier Begriffe des Wahrgenommenen nicht geleugnet. Ein Bild des Gesichts könnte die Gesichtszüge sehr genau, den Ausdruck aber nicht richtig wiedergeben; es könnte aber auch der Ausdruck ähnlich sein und die Züge nicht gut getroffen. “Ähnlicher Ausdruck” faßt Gesichter ganz anders zusammen, als “ähnliche Anatomie”.
+<span class="series-number">1068</span> Soll ich nun aber sagen, daß ich die Furchtsamkeit in diesem Benehmen – oder den Gesichts*ausdruck* – eigentlich ‘sehe’? Warum nicht? Aber damit ist ja der Unterschied zweier Begriffe des Wahrgenommenen nicht geleugnet. Ein Bild des Gesichts könnte die Gesichtszüge sehr genau, den Ausdruck aber nicht richtig wiedergeben; es könnte aber auch der Ausdruck ähnlich sein und die Züge nicht gut getroffen. “Ähnlicher Ausdruck” faßt Gesichter ganz anders zusammen, als “ähnliche Anatomie”.
 
 ### [Ts-229](/ts-229/#440.1) <span class="fac">[440\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/440.webp)</span> {#ts-229-440-1}
 
@@ -4436,7 +4436,7 @@ aber die Regel zur Bildung der 100sten Stelle von F'(n) wird F(100,100); d.h., s
 
 ### [Ts-229](/ts-229/#450.2+451.1) <span class="fac">[450\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/450.webp),[451\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/451.webp)</span> {#ts-229-450-2--451-1}
 
-<span class="series-number">1102</span> Und wenn Einer sagt “Ich sehe eigentlich nicht das Blicken, sondern nur Formen und Farben”, – widerspricht der der naiven Ausdrucksweise? Sagt er, der war im Unrecht, der sagte, er habe meinen Blick wohl gesehen, gesehen, daß dieses Menschen Augen starren, ins Leere blicken, etc.? Doch gewiß nicht. Was wollte also der Purist tun? Will er sagen, es sei richtiger, hier ein anderes Wort statt des Wortes “sehen” zu gebrauchen? Ich glaube, er will nur auf eine Scheide zwischen Begriffen aufmerksam machen. Wie _stellt_ denn das Wort “sehen” die Wahrnehmungen zusammen? Ich meine: es kann sie zusammen**nehmen** als Wahrnehmungen _mit dem Auge_; denn wir spüren ja das Sehen nicht _im Auge_. Aber eigentlich scheint der, der auf der _Richtigkeit_ unserer normalen Ausdrucksweise besteht, zu sagen: daß im Gesichts**eindruck** das alles enthalten sei; daß das _subjektive Auge_ sowohl Form als Farbe, als Bewegung, als Ausdruck und Blick (Richtung nach außen) habe. Daß man den Blick, sozusagen, nicht _woanders_ spürt. Aber das heißt nicht: ‘woanders als in den Augen’, sondern: woanders als im Gesichtsbild. Aber wie wäre es denn, wenn's anders wäre? Etwa so, daß ich sagte: “Ich sehe in diesem Auge die und die Formen, Farben, Bewegungen, – das heißt, es blickt jetzt freundlich”, als zöge ich also einen Schluß. – Man könnte also sagen: Der Ort des _**wahrgenommenen**_ Blickes ist das _subjektive_ Auge, das Gesichtsbild des Auges, selber.
+<span class="series-number">1102</span> Und wenn Einer sagt “Ich sehe eigentlich nicht das Blicken, sondern nur Formen und Farben”, – widerspricht der der naiven Ausdrucksweise? Sagt er, der war im Unrecht, der sagte, er habe meinen Blick wohl gesehen, gesehen, daß dieses Menschen Augen starren, ins Leere blicken, etc.? Doch gewiß nicht. Was wollte also der Purist tun? Will er sagen, es sei richtiger, hier ein anderes Wort statt des Wortes “sehen” zu gebrauchen? Ich glaube, er will nur auf eine Scheide zwischen Begriffen aufmerksam machen. Wie _stellt_ denn das Wort “sehen” die Wahrnehmungen zusammen? Ich meine: es kann sie zusammen*nehmen* als Wahrnehmungen _mit dem Auge_; denn wir spüren ja das Sehen nicht _im Auge_. Aber eigentlich scheint der, der auf der _Richtigkeit_ unserer normalen Ausdrucksweise besteht, zu sagen: daß im Gesichts*eindruck* das alles enthalten sei; daß das _subjektive Auge_ sowohl Form als Farbe, als Bewegung, als Ausdruck und Blick (Richtung nach außen) habe. Daß man den Blick, sozusagen, nicht _woanders_ spürt. Aber das heißt nicht: ‘woanders als in den Augen’, sondern: woanders als im Gesichtsbild. Aber wie wäre es denn, wenn's anders wäre? Etwa so, daß ich sagte: “Ich sehe in diesem Auge die und die Formen, Farben, Bewegungen, – das heißt, es blickt jetzt freundlich”, als zöge ich also einen Schluß. – Man könnte also sagen: Der Ort des _**wahrgenommenen**_ Blickes ist das _subjektive_ Auge, das Gesichtsbild des Auges, selber.
 
 ### [Ts-229](/ts-229/#451.2) <span class="fac">[451\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/451.webp)</span> {#ts-229-451-2}
 
@@ -4504,7 +4504,7 @@ aber die Regel zur Bildung der 100sten Stelle von F'(n) wird F(100,100); d.h., s
 
 ### [Ts-229](/ts-229/#454.4) <span class="fac">[454\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-4}
 
-<span class="series-number">1119</span> “Aber ich kann doch offenbar im Sehen Elemente (Striche z.B.) _zusammennehmen_!” Aber warum nennt man es “zusammennehmen”? Warum braucht man hier ein Wort – _wesentlich_ – das schon eine andere Bedeutung hat? (Es ist hier natürlich wie im Fall des Wortes “Kopf**rechnen**”.)
+<span class="series-number">1119</span> “Aber ich kann doch offenbar im Sehen Elemente (Striche z.B.) _zusammennehmen_!” Aber warum nennt man es “zusammennehmen”? Warum braucht man hier ein Wort – _wesentlich_ – das schon eine andere Bedeutung hat? (Es ist hier natürlich wie im Fall des Wortes “Kopf*rechnen*”.)
 
 ### [Ts-229](/ts-229/#454.5) <span class="fac">[454\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-5}
 

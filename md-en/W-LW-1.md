@@ -846,7 +846,7 @@ It is not accidental that I use so many interrogative sentences in this book.
 
 ### [Ms-137](/ms-137/#92b.4+93a.1) <span class="fac">[92b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/92b.webp),[93a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93a.webp)</span> {#ms-137-92b-4--93a-1}
 
-Should one now say here that the visual **impression**, the sense-datum, the visual object is something different? This concept does not seem to fit very well here. If one were to imagine seeing similarity or difference as something image-like, one would perhaps imagine it as _emphasized_ in an image; just as, in order to show someone where the difference between two pictures lies, one can strongly emphasize the difference. But whoever sees the emphasized features in both does not yet notice the difference between the pictures. One must look at the game as a whole, then one will see the difference.
+Should one now say here that the visual _impression_, the sense-datum, the visual object is something different? This concept does not seem to fit very well here. If one were to imagine seeing similarity or difference as something image-like, one would perhaps imagine it as _emphasized_ in an image; just as, in order to show someone where the difference between two pictures lies, one can strongly emphasize the difference. But whoever sees the emphasized features in both does not yet notice the difference between the pictures. One must look at the game as a whole, then one will see the difference.
 
 
 ### [Ms-137](/ms-137/#93a.2) <span class="fac">[93a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93a.webp)</span> {#ms-137-93a-2}
@@ -868,7 +868,7 @@ But is it always clear in practical use whether the sentence is meant to be temp
 
 ### [Ms-137](/ms-137/#93b.1) <span class="fac">[93b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93b.webp)</span> {#ms-137-93b-1}
 
-Even if I say “There is a similarity between these (two) faces,” it could matter in different ways. For example, it could mean: There is a similarity between _this_ type of face & _this_ type of face, where the two types are characterized by descriptions. It may not be the faces _of these people_, or these face **shapes**, that are of interest, wherever I encounter them. The difference I have in mind is naturally that between the sense: These two lines have a similar shape – & the sense: Circle, ellipse, parabola & hyperbola have a similarity with one another.
+Even if I say “There is a similarity between these (two) faces,” it could matter in different ways. For example, it could mean: There is a similarity between _this_ type of face & _this_ type of face, where the two types are characterized by descriptions. It may not be the faces _of these people_, or these face _shapes_, that are of interest, wherever I encounter them. The difference I have in mind is naturally that between the sense: These two lines have a similar shape – & the sense: Circle, ellipse, parabola & hyperbola have a similarity with one another.
 
 
 ### [Ms-137](/ms-137/#93b.2) <span class="fac">[93b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93b.webp)</span> {#ms-137-93b-2}
@@ -2804,7 +2804,7 @@ One copies the color & the form. One shows a sample of the color & form. One doe
 
 ### [Ms-137](/ms-137/#127b.8+128a.1) <span class="fac">[127b\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127b.webp),[128a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span> {#ms-137-127b-8--128a-1}
 
-But one could say, for example: “In order to get the impression that I have, you must look at this figure, especially at this part, & in such a way that _this_ strikes you about it.” But one does not do that. One does not call that “describing the visual impression”, just as one does not prescribe for this purpose how the other person's gaze should wander over the object. This shows us that “visual impression” is meant to denote something like “visual **image**”, & this something is related to an image.
+But one could say, for example: “In order to get the impression that I have, you must look at this figure, especially at this part, & in such a way that _this_ strikes you about it.” But one does not do that. One does not call that “describing the visual impression”, just as one does not prescribe for this purpose how the other person's gaze should wander over the object. This shows us that “visual impression” is meant to denote something like “visual _image_”, & this something is related to an image.
 
 
 ### [Ms-137](/ms-137/#128a.2) <span class="fac">[128a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span> {#ms-137-128a-2}
@@ -3447,7 +3447,7 @@ And it is then remarkable that our impression is something flat for some drawing
 
 01/03/1949
 
-“What does this color remind me of?” – Whoever looks at an object & asks himself this, – is he observing the facial **impression**? []
+“What does this color remind me of?” – Whoever looks at an object & asks himself this, – is he observing the facial _impression_? []
 
 _---_
 
@@ -3614,7 +3614,7 @@ _---_
 
 ### [Ms-137](/ms-137/#140b.5) <span class="fac">[140b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span> {#ms-137-140b-5}
 
-When would I call it merely _knowing_? – If one treated the picture as if it were a technical drawing. One would **read** out what it depicts from it. (Subtle nuances of behaviour.)
+When would I call it merely _knowing_? – If one treated the picture as if it were a technical drawing. One would _read_ out what it depicts from it. (Subtle nuances of behaviour.)
 
 
 ### [Ms-137](/ms-137/#140b.6) <span class="fac">[140b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span> {#ms-137-140b-6}
@@ -4082,7 +4082,7 @@ And if I were to answer: “No, he doesn’t hear it; he only experiences it” 
 
 ### [Ms-138](/ms-138/#6b.1) <span class="fac">[6b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/6b.webp)</span> {#ms-138-6b-1}
 
-(One can draw a boundary for a concept. But where does the idea of ‘experiencing’ the common, fearful, etc. come from?) (Now,) we _react_ differently to the hesitant facial expression than to the one who does not recognize it as hesitant (in the _full_ sense of the word). – Now, I do _not_ want to say that we _sense_ this reaction in the muscles & joints. – No, we have here a modified **experience** concept.
+(One can draw a boundary for a concept. But where does the idea of ‘experiencing’ the common, fearful, etc. come from?) (Now,) we _react_ differently to the hesitant facial expression than to the one who does not recognize it as hesitant (in the _full_ sense of the word). – Now, I do _not_ want to say that we _sense_ this reaction in the muscles & joints. – No, we have here a modified _experience_ concept.
 
 
 ### [Ms-138](/ms-138/#6b.2) <span class="fac">[6b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/6b.webp)</span> {#ms-138-6b-2}
@@ -4656,7 +4656,7 @@ I knew right away from the beginning who it was. “I did not know right away fr
 
 10.02.1949
 
-When (normally) I walk, go, eat, talk, look here & there, I am no less performing these _actions_ than when the face of an old friend ‘becomes _familiar_’ to me. But trying, intending, making up one’s mind are the acts of the **will**, that in which the will expresses itself to us; they are what we think of when we speak of the will.
+When (normally) I walk, go, eat, talk, look here & there, I am no less performing these _actions_ than when the face of an old friend ‘becomes _familiar_’ to me. But trying, intending, making up one’s mind are the acts of the _will_, that in which the will expresses itself to us; they are what we think of when we speak of the will.
 
 
 ### [Ms-138](/ms-138/#18a.2) <span class="fac">[18a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/18a.webp)</span> {#ms-138-18a-2}
@@ -4692,7 +4692,7 @@ I should not say “silent speaking to myself,” because one can speak internal
 
 ### [Ms-138](/ms-138/#18b.4) <span class="fac">[18b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/18b.webp)</span> {#ms-138-18b-4}
 
-Imagine _this_ game – I call it “Tennis without a ball”: The players move around on a tennis court just as in tennis, they also have rackets but no ball. Everyone reacts to the other’s stroke as if, or approximately as if, a ball had determined their reaction. (Maneuver) The one who has ‘an eye’ for the game must judge, if necessary, whether a ball went into the net, etc. etc. The game clearly has great similarity with tennis & is nevertheless **fundamentally** different.
+Imagine _this_ game – I call it “Tennis without a ball”: The players move around on a tennis court just as in tennis, they also have rackets but no ball. Everyone reacts to the other’s stroke as if, or approximately as if, a ball had determined their reaction. (Maneuver) The one who has ‘an eye’ for the game must judge, if necessary, whether a ball went into the net, etc. etc. The game clearly has great similarity with tennis & is nevertheless _fundamentally_ different.
 
 
 ### [Ms-138](/ms-138/#19a.1) <span class="fac">[19a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/19a.webp)</span> {#ms-138-19a-1}
@@ -5214,7 +5214,7 @@ Only in a complex _game of expression_ does hypocrisy and its opposite exist. (J
 
 ### [Ms-138](/ms-138/#28b.4) <span class="fac">[28b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/28b.webp)</span> {#ms-138-28b-4}
 
-And if the **expression**-game develops, then of course one can say that a mind, an _inner_ self, develops. But now the inner is no longer the cause of the expression. (Just as little as mathematical thinking generates calculation; the driving force is the calculation itself. And this is a remark about concepts.)
+And if the _expression_-game develops, then of course one can say that a mind, an _inner_ self, develops. But now the inner is no longer the cause of the expression. (Just as little as mathematical thinking generates calculation; the driving force is the calculation itself. And this is a remark about concepts.)
 
 
 ### [Ms-138](/ms-138/#28b.5) <span class="fac">[28b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/28b.webp)</span> {#ms-138-28b-5}

@@ -486,7 +486,7 @@ Das Gemeinsame scheint zu sein, daß ich durch die Konstruktion eines Zeichens d
 
 ### [Ms-122](/ms-122/#54v.4+55r.1) <span class="fac">[54v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp)</span> {#ms-122-54v-4--55r-1}
 
-Könnte man sagen: “Die Mathematik schafft neue _Ausdrücke_, nicht neue Sätze”?? In**so**fern nämlich, als die mathematischen Sätze ein für allemal in die Sprache aufgenommene Instrumente sind – & ihr Beweis die Stelle zeigt, an der sie stehen.
+Könnte man sagen: “Die Mathematik schafft neue _Ausdrücke_, nicht neue Sätze”?? In*so*fern nämlich, als die mathematischen Sätze ein für allemal in die Sprache aufgenommene Instrumente sind – & ihr Beweis die Stelle zeigt, an der sie stehen.
 
 ### [Ms-122](/ms-122/#55r.2) <span class="fac">[55r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp)</span> {#ms-122-55r-2}
 
@@ -1098,7 +1098,7 @@ Wie, wenn wir sagten, daß mathematische Sätze, in _diesem_ Sinne, Prophezeiung
 
 ### [Ms-117](/ms-117/#175.4) <span class="fac">[175\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/175.webp)</span> {#ms-117-175-4}
 
-In einer **Rechen**technik müssen Prophezeiungen möglich sein. Und das macht die Rechentechnik der Technik eines _Spiels_, wie des Schachs, ähnlich.
+In einer *Rechen*technik müssen Prophezeiungen möglich sein. Und das macht die Rechentechnik der Technik eines _Spiels_, wie des Schachs, ähnlich.
 
 ### [Ms-117](/ms-117/#176.1) <span class="fac">[176\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/176.webp)</span> {#ms-117-176-1}
 

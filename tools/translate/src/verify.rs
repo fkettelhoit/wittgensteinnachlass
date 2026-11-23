@@ -89,7 +89,7 @@ fn plain_text(text: &str) -> String {
         .into_owned();
     no_html
         .replace('_', "")
-        .replace("**", "")
+        .replace('*', "")
         .replace("![", "")
         .replace("](", "")
         .replace(')', "")
@@ -186,9 +186,9 @@ pub fn verify_remark(
         });
     }
 
-    // 2. Emphasis marker check — _ and * counts must be within tolerance
-    let de_underscores = de_body.chars().filter(|&c| c == '_').count();
-    let en_underscores = en_body.chars().filter(|&c| c == '_').count();
+    // 2. Emphasis marker check — single (_ or *…*) counts within tolerance, ** exact
+    let (de_underscores, de_asterisks) = crate::common::emphasis_counts(de_body);
+    let (en_underscores, en_asterisks) = crate::common::emphasis_counts(en_body);
     let us_diff = (de_underscores as isize - en_underscores as isize).unsigned_abs();
     if us_diff > emphasis_tolerance {
         issues.push(Issue {
@@ -196,20 +196,18 @@ pub fn verify_remark(
             remark_id: remark_id.to_string(),
             check: "emphasis",
             description: format!(
-                "Underscore count mismatch: DE has {}, EN has {}",
+                "Single emphasis (_/*) count mismatch: DE has {}, EN has {}",
                 de_underscores, en_underscores
             ),
         });
     }
-    let de_asterisks = de_body.chars().filter(|&c| c == '*').count();
-    let en_asterisks = en_body.chars().filter(|&c| c == '*').count();
     if de_asterisks != en_asterisks {
         issues.push(Issue {
             file: file_name.to_string(),
             remark_id: remark_id.to_string(),
             check: "emphasis",
             description: format!(
-                "Asterisk count mismatch: DE has {}, EN has {}",
+                "Bold (**) count mismatch: DE has {}, EN has {}",
                 de_asterisks, en_asterisks
             ),
         });

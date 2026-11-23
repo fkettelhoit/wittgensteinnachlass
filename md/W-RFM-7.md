@@ -56,7 +56,7 @@ Wer einen math. Satz weiß, soll noch nichts wissen. Ist Verwirrung in unserm Re
 
 ### [Ms-124](/ms-124/#12.3+13.1) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/13.webp)</span> {#ms-124-12-3--13-1}
 
-Daß ich 25 × 25 Nüsse habe, läßt sich verifizieren indem ich 625 Nüsse zähle, aber es läßt sich auch auf andre Weise herausfinden, die mit der Zahlangabe ‘25 × 25’ näher verknüpft ist. Und es ist natürlich die Verknüpfung dieser beiden Arten der Zahl**bestimmung**, in der ein Zweck des Multiplizierens ruht.
+Daß ich 25 × 25 Nüsse habe, läßt sich verifizieren indem ich 625 Nüsse zähle, aber es läßt sich auch auf andre Weise herausfinden, die mit der Zahlangabe ‘25 × 25’ näher verknüpft ist. Und es ist natürlich die Verknüpfung dieser beiden Arten der Zahl*bestimmung*, in der ein Zweck des Multiplizierens ruht.
 
 ### [Ms-124](/ms-124/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/13.webp)</span> {#ms-124-13-2}
 

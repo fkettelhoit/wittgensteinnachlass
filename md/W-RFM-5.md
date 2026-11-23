@@ -674,7 +674,7 @@ Die Schwierigkeit, die man beim Beweis durch reductio ad absurdum in der Math. e
 
 ### [Ms-126](/ms-126/#125.2+126.1) <span class="fac">[125\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/125.webp),[126\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/126.webp)</span> {#ms-126-125-2--126-1}
 
-Der indirekte Beweis sagt aber: “wenn Du es _so_ willst, darfst Du _das_ nicht annehmen: denn **da**mit ist nur das Gegenteil dessen vereinbar wovon Du nicht abgehen willst”.
+Der indirekte Beweis sagt aber: “wenn Du es _so_ willst, darfst Du _das_ nicht annehmen: denn *da*mit ist nur das Gegenteil dessen vereinbar wovon Du nicht abgehen willst”.
 
 ### [Ms-126](/ms-126/#131.3+132.1) <span class="fac">[131\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/131.webp),[132\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/132.webp)</span> {#ms-126-131-3--132-1}
 
@@ -870,7 +870,7 @@ Die Lehre von den Funktionen als ein (allgemeines) Schema, in das, einerseits, e
 
 ### [Ms-127](/ms-127/#42.3+43.1) <span class="fac">[42\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/42.webp),[43\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/43.webp)</span> {#ms-127-42-3--43-1}
 
-Das Irreführende der üblichen Darstellung besteht darin, daß es scheint, als ließe sich die allgemeine auch ohne alle Beispiele, ohne einen Gedanken an Intension**en** (im Plural) ganz verstehen, da sich eigentlich alles extensional abmachen ließe, wenn es aus äußeren Gründen nicht unmöglich wäre.
+Das Irreführende der üblichen Darstellung besteht darin, daß es scheint, als ließe sich die allgemeine auch ohne alle Beispiele, ohne einen Gedanken an Intension*en* (im Plural) ganz verstehen, da sich eigentlich alles extensional abmachen ließe, wenn es aus äußeren Gründen nicht unmöglich wäre.
 
 ### [Ms-127](/ms-127/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/43.webp)</span> {#ms-127-43-2}
 

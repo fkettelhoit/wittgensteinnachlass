@@ -1176,7 +1176,7 @@ Wir können das allgemeine Glied der Formenreihe bestimmen, indem wir ihr erstes
 
 ### [Ts-204](/ts-204/#19r.5) <span class="fac">[19r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/19r.webp)</span> {#ts-204-19r-5}
 
-<span class="series-number">4.128</span> Die logischen Formen sind zahl**los**.
+<span class="series-number">4.128</span> Die logischen Formen sind zahl*los*.
 
 Darum gibt es in der Logik keine ausgezeichneten Zahlen und darum gibt es keinen philosophischen Monismus oder Dualismus etc.
 

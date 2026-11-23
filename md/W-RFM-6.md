@@ -120,7 +120,7 @@ Das Bild zeigt mir natürlich nicht daß etwas geschieht, aber daß was immer ge
 
 ### [Ms-164](/ms-164/#11.5+12.1) <span class="fac">[11\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/12.webp)</span> {#ms-164-11-5--12-1}
 
-Wir werden dazu gebracht, diese Technik in diesem Falle zu verwenden. Ich werde dazu gebracht – & in**sofern** von etwas, überzeugt.
+Wir werden dazu gebracht, diese Technik in diesem Falle zu verwenden. Ich werde dazu gebracht – & in*sofern* von etwas, überzeugt.
 
 Sieh, so geben 3 und 2 5. Merke Dir diesen Vorgang. “Du merkst Dir dabei die Regel auch gleich.”
 
@@ -768,7 +768,7 @@ Was wir, in einer komplizierten Umgebung “einer Regel folgen” nennen, würde
 
 ### [Ms-164](/ms-164/#98.3) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp)</span> {#ms-164-98-3}
 
-<span class="series-number">34</span> Die Sprache, möchte ich sagen, bezieht sich auf eine Lebens**weise**.
+<span class="series-number">34</span> Die Sprache, möchte ich sagen, bezieht sich auf eine Lebens*weise*.
 
 ### [Ms-164](/ms-164/#98.4+99.1) <span class="fac">[98\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/99.webp)</span> {#ms-164-98-4--99-1}
 

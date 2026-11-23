@@ -67,7 +67,7 @@ How can the mere transformation of the expression have practical consequences?
 
 ### [Ms-124](/ms-124/#12.3+13.1) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/13.webp)</span> {#ms-124-12-3--13-1}
 
-The fact that I have 25 × 25 nuts can be verified by counting 625 nuts, but it can also be determined in other ways that are more closely related to the numerical statement ‘25 × 25’. And it is, of course, the connection of these two types of number **determination**, in which a purpose of multiplication lies.
+The fact that I have 25 × 25 nuts can be verified by counting 625 nuts, but it can also be determined in other ways that are more closely related to the numerical statement ‘25 × 25’. And it is, of course, the connection of these two types of number _determination_, in which a purpose of multiplication lies.
 
 
 ### [Ms-124](/ms-124/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/13.webp)</span> {#ms-124-13-2}

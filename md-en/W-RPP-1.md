@@ -3795,7 +3795,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#364.3) <span class="fac">[364\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/364.webp)</span> {#ts-229-364-3}
 
-<span class="series-number">1422</span> Very well: the kinesthetic is something different, a special feeling. – But so are smell, hearing, etc. – Why does this make such a difference? “Feeling of innervation” – that expresses what one wants to say: that it is like an _Impuls_. But a feeling like an impulse?! What is an impulse? A physical **picture**. The picture of a shock.
+<span class="series-number">1422</span> Very well: the kinesthetic is something different, a special feeling. – But so are smell, hearing, etc. – Why does this make such a difference? “Feeling of innervation” – that expresses what one wants to say: that it is like an _Impuls_. But a feeling like an impulse?! What is an impulse? A physical _picture_. The picture of a shock.
 
 
 ### [Ts-229](/ts-229/#364.4+365.1) <span class="fac">[364\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/364.webp),[365\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/365.webp)</span> {#ts-229-364-4--365-1}
@@ -3940,7 +3940,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#370.6+371.1) <span class="fac">[370\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/370.webp),[371\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/371.webp)</span> {#ts-229-370-6--371-1}
 
-<span class="series-number">1451</span> “Pain, tone, taste, smell, has a specific color.” What does that mean? (Quality. Adjective.) A color can be green**ish** or blue**ish** – there is a mixture of colors; and so also a mixture of smells, sounds, tastes; qualitative intermediate stages. How does one distinguish qualitative from quantitative intermediate stages, I mean, from stages of ‘intensity’!? Still bearable – no longer bearable, these are, for example, degrees of intensity. Consider, someone asked: “How can I know whether what I experience as different degrees, of loudness for example, the other person experiences as different qualities, comparable to different colors?” – Compare the reaction to a change in intensity with the reaction to a change in quality.
+<span class="series-number">1451</span> “Pain, tone, taste, smell, has a specific color.” What does that mean? (Quality. Adjective.) A color can be green*ish* or blue*ish* – there is a mixture of colors; and so also a mixture of smells, sounds, tastes; qualitative intermediate stages. How does one distinguish qualitative from quantitative intermediate stages, I mean, from stages of ‘intensity’!? Still bearable – no longer bearable, these are, for example, degrees of intensity. Consider, someone asked: “How can I know whether what I experience as different degrees, of loudness for example, the other person experiences as different qualities, comparable to different colors?” – Compare the reaction to a change in intensity with the reaction to a change in quality.
 
 
 ### [Ts-229](/ts-229/#371.2) <span class="fac">[371\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/371.webp)</span> {#ts-229-371-2}
@@ -4075,7 +4075,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#378.4) <span class="fac">[378\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/378.webp)</span> {#ts-229-378-4}
 
-<span class="series-number">1478</span> Is what he says he has, & what I say I have, without our inferring this from any observation, the same as what we infer from observing the other’s **behaviour** & from his expression of conviction?
+<span class="series-number">1478</span> Is what he says he has, & what I say I have, without our inferring this from any observation, the same as what we infer from observing the other’s _behaviour_ & from his expression of conviction?
 
 
 ### [Ts-229](/ts-229/#379.1) <span class="fac">[379\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/379.webp)</span> {#ts-229-379-1}
@@ -4195,7 +4195,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#384.4) <span class="fac">[384\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/384.webp)</span> {#ts-229-384-4}
 
-<span class="series-number">1502</span> There is a disgust **reaction**, in me & in the other; there are also _disgust feelings_. And in this respect, disgust, fear, affection, etc. are similar; but not hope, faith, etc.
+<span class="series-number">1502</span> There is a disgust _reaction_, in me & in the other; there are also _disgust feelings_. And in this respect, disgust, fear, affection, etc. are similar; but not hope, faith, etc.
 
 
 ### [Ts-229](/ts-229/#385.1) <span class="fac">[385\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/385.webp)</span> {#ts-229-385-1}
@@ -4660,7 +4660,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#407.5+408.1) <span class="fac">[407\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/407.webp),[408\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/408.webp)</span> {#ts-229-407-5--408-1}
 
-<span class="series-number">1594</span> Consciousness in the other face. Look at the face of the other and see the consciousness in it and a certain **tone** of consciousness. You see in it, in him, joy, indifference, interest, emotion, dullness, etc. The light in the face of the other. Do you look in _yourself_ to recognize the anger in _his_ face? It is there just as clearly as in your own breast. (And what does one want to say now? That the face of the other stimulates me to imitate, & that I therefore feel small movements & muscle tensions in myself, & that the sum of these is _mine_? Nonsense. Nonsense, – for you are making assumptions instead of merely describing. Whoever has explanations swirling around in his head neglects to focus on the most important facts.)
+<span class="series-number">1594</span> Consciousness in the other face. Look at the face of the other and see the consciousness in it and a certain _tone_ of consciousness. You see in it, in him, joy, indifference, interest, emotion, dullness, etc. The light in the face of the other. Do you look in _yourself_ to recognize the anger in _his_ face? It is there just as clearly as in your own breast. (And what does one want to say now? That the face of the other stimulates me to imitate, & that I therefore feel small movements & muscle tensions in myself, & that the sum of these is _mine_? Nonsense. Nonsense, – for you are making assumptions instead of merely describing. Whoever has explanations swirling around in his head neglects to focus on the most important facts.)
 
 
 ### [Ts-229](/ts-229/#408.2) <span class="fac">[408\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/408.webp)</span> {#ts-229-408-2}
@@ -5160,7 +5160,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#428.5+429.1) <span class="fac">[428\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/428.webp),[429\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/429.webp)</span> {#ts-229-428-5--429-1}
 
-<span class="series-number">1694</span> In this sense, there is also no room for imaginary numbers on the number line. And that means: the _application_ of the concept of an imaginary number is **fundamentally** different from that of a number, for example; more different than the mathematical operations alone would reveal. One must therefore, in order to make room for them, descend to their _application_ and then find that they occupy a kind of _unexpected_ different place.
+<span class="series-number">1694</span> In this sense, there is also no room for imaginary numbers on the number line. And that means: the _application_ of the concept of an imaginary number is _fundamentally_ different from that of a number, for example; more different than the mathematical operations alone would reveal. One must therefore, in order to make room for them, descend to their _application_ and then find that they occupy a kind of _unexpected_ different place.
 
 
 ### [Ts-229](/ts-229/#429.2) <span class="fac">[429\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/429.webp)</span> {#ts-229-429-2}
@@ -5365,7 +5365,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#439.5) <span class="fac">[439\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/439.webp)</span> {#ts-229-439-5}
 
-<span class="series-number">1735</span> Should I now say that I actually ‘see’ the timidity in this behaviour – or in the facial **expression**? Why not? But this does not deny the difference between two concepts of what is perceived. A picture of the face could reproduce the facial features very accurately, but not the expression correctly; but it could also be that the expression is similar and the features are not well captured. “Similar expression” brings faces together in a completely different way than “similar anatomy”.
+<span class="series-number">1735</span> Should I now say that I actually ‘see’ the timidity in this behaviour – or in the facial _expression_? Why not? But this does not deny the difference between two concepts of what is perceived. A picture of the face could reproduce the facial features very accurately, but not the expression correctly; but it could also be that the expression is similar and the features are not well captured. “Similar expression” brings faces together in a completely different way than “similar anatomy”.
 
 
 ### [Ts-229](/ts-229/#440.1) <span class="fac">[440\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/440.webp)</span> {#ts-229-440-1}
@@ -5545,7 +5545,7 @@ We do not see the human eye as a receiver; it does not seem to let something in,
 
 ### [Ts-229](/ts-229/#450.2+451.1) <span class="fac">[450\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/450.webp),[451\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/451.webp)</span> {#ts-229-450-2--451-1}
 
-<span class="series-number">1769</span> And if one says, “I don’t actually see the looking, but only shapes and colors,” – does this contradict the naive way of expressing oneself? Does it say that he was wrong who said that he saw my gaze, saw that this person’s eyes were staring, looking into the void, etc.? But certainly not. So what did the purist want to do? Does he want to say that it would be more correct to use a different word here instead of the word “to see”? I believe he only wants to draw attention to a distinction between concepts. How does the word “to see” combine the perceptions? I mean: it can **combine** them as perceptions _with the eye_; for we do not feel seeing _in the eye_. But actually, the one who insists on the _correctness_ of our normal way of expressing ourselves seems to say: that everything is contained in the visual **impression**; that the _subjective eye_ has both form and color, as well as movement, as expression and gaze (direction outward). That one doesn’t feel the gaze, as it were, _elsewhere_. But that doesn’t mean: ‘elsewhere than in the eyes’, but: elsewhere than in the visual image. But what if it were different? Perhaps like this: that I say: “I see in this eye the and the shapes, colors, movements – that is, it is now looking friendly,” as if I were drawing a conclusion. – One could therefore say: The location of the _**perceived**_ gaze is the _subjective_ eye, the visual image of the eye, itself.
+<span class="series-number">1769</span> And if one says, “I don’t actually see the looking, but only shapes and colors,” – does this contradict the naive way of expressing oneself? Does it say that he was wrong who said that he saw my gaze, saw that this person’s eyes were staring, looking into the void, etc.? But certainly not. So what did the purist want to do? Does he want to say that it would be more correct to use a different word here instead of the word “to see”? I believe he only wants to draw attention to a distinction between concepts. How does the word “to see” combine the perceptions? I mean: it can _combine_ them as perceptions _with the eye_; for we do not feel seeing _in the eye_. But actually, the one who insists on the _correctness_ of our normal way of expressing ourselves seems to say: that everything is contained in the visual _impression_; that the _subjective eye_ has both form and color, as well as movement, as expression and gaze (direction outward). That one doesn’t feel the gaze, as it were, _elsewhere_. But that doesn’t mean: ‘elsewhere than in the eyes’, but: elsewhere than in the visual image. But what if it were different? Perhaps like this: that I say: “I see in this eye the and the shapes, colors, movements – that is, it is now looking friendly,” as if I were drawing a conclusion. – One could therefore say: The location of the _**perceived**_ gaze is the _subjective_ eye, the visual image of the eye, itself.
 
 
 ### [Ts-229](/ts-229/#451.2) <span class="fac">[451\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/451.webp)</span> {#ts-229-451-2}
@@ -5630,7 +5630,7 @@ We do not see the human eye as a receiver; it does not seem to let something in,
 
 ### [Ts-229](/ts-229/#454.4) <span class="fac">[454\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-4}
 
-<span class="series-number">1786</span> “But I can obviously ‘bring together’ elements (strokes, for example) in seeing!” But why does one call it “bringing together”? Why does one need a word here – _essentially_ – that already has a different meaning? (It is, of course, the same as in the case of the word “mental arithmetic**”**.)
+<span class="series-number">1786</span> “But I can obviously ‘bring together’ elements (strokes, for example) in seeing!” But why does one call it “bringing together”? Why does one need a word here – _essentially_ – that already has a different meaning? (It is, of course, the same as in the case of the word “mental arithmetic*”*.)
 
 
 ### [Ts-229](/ts-229/#454.5) <span class="fac">[454\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-5}

@@ -300,7 +300,7 @@ Nur so kann _der Satz_ wahr oder falsch sein: nur dadurch kann er mit der Wirkli
 
 03.10.1914
 
-Nur in**soweit** ist der Satz ein Bild eines Sachverhalts als er logisch gegliedert ist! (Ein einfaches – ungegliedertes – Zeichen kann weder wahr noch falsch sein.)
+Nur in*soweit* ist der Satz ein Bild eines Sachverhalts als er logisch gegliedert ist! (Ein einfaches – ungegliedertes – Zeichen kann weder wahr noch falsch sein.)
 
 ### [Ms-101](/ms-101/#31r.4) <span class="fac">[31r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/31r.webp)</span> {#ms-101-31r-4}
 
@@ -512,7 +512,7 @@ Man kann sagen: die völlig allgemeinen Sätze kann man alle _a priori_ bilden.
 
 15.10.1914
 
-Es scheint doch als könnte die bloße Existenz der in „(∃x,φ)․φx” enthaltenen Formen die Wahr- oder Falschheit dieses Satzes _allein nicht_ bestimmen! Es scheint also nicht **undenk**bar daß, z.B., die Verneinung keines Elementarsatzes wahr sei. Aber würde diese Aussage nicht schon den _Sinn der Verneinung_ betreffen?
+Es scheint doch als könnte die bloße Existenz der in „(∃x,φ)․φx” enthaltenen Formen die Wahr- oder Falschheit dieses Satzes _allein nicht_ bestimmen! Es scheint also nicht *undenk*bar daß, z.B., die Verneinung keines Elementarsatzes wahr sei. Aber würde diese Aussage nicht schon den _Sinn der Verneinung_ betreffen?
 
 ### [Ms-101](/ms-101/#44r.2) <span class="fac">[44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/44r.webp)</span> {#ms-101-44r-2}
 
@@ -652,7 +652,7 @@ Der Satz konstruiert eine Welt mit Hilfe seines logischen Gerüstes und darum ka
 
 ### [Ms-101](/ms-101/#54r.3+55r.1) <span class="fac">[54r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/54r.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/55r.webp)</span> {#ms-101-54r-3--55r-1}
 
-Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt – daß diese zu jenen in **bedeutungs**vollen internen Beziehungen stehen können – zeigt daß die ganz allgemeinen Sätze logische Konstruktionen von Sachverhalten sind.
+Daß sich von materiellen Sätzen auf ganz allgemeine Sätze schließen läßt – daß diese zu jenen in *bedeutungs*vollen internen Beziehungen stehen können – zeigt daß die ganz allgemeinen Sätze logische Konstruktionen von Sachverhalten sind.
 
 ### [Ms-101](/ms-101/#55r.2) <span class="fac">[55r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/55r.webp)</span> {#ms-101-55r-2}
 
@@ -1308,7 +1308,7 @@ Dieses Urbild ist dann wirklich kein Satz (hat aber die Gestalt eines Satzes) un
 
 ### [Ms-102](/ms-102/#31r.2) <span class="fac">[31r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/31r.webp)</span> {#ms-102-31r-2}
 
-Der Satz bestünde dann aus Ur**bildern**, die auf die Welt projiziert wären.
+Der Satz bestünde dann aus Ur*bildern*, die auf die Welt projiziert wären.
 
 ### [Ms-102](/ms-102/#31r.3) <span class="fac">[31r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/31r.webp)</span> {#ms-102-31r-3}
 
@@ -1764,7 +1764,7 @@ Denn dies ist das Charakteristikum des Formbegriffs!
 
 ### [Ms-102](/ms-102/#62r.6+63r.1) <span class="fac">[62r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/62r.webp),[63r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/63r.webp)</span> {#ms-102-62r-6--63r-1}
 
-_Alle scheint_ dem Inhalt des Satzes näher zu stehen als der Form. Alle: Dinge, Alle: Funktionen, Alle: Beziehungen: Es ist als ob Alle ein Binde**glied** zwischen dem Begriff des Dinges, der Funktion etc. und dem einzelnen Ding der einzelnen Funktion sei.
+_Alle scheint_ dem Inhalt des Satzes näher zu stehen als der Form. Alle: Dinge, Alle: Funktionen, Alle: Beziehungen: Es ist als ob Alle ein Binde*glied* zwischen dem Begriff des Dinges, der Funktion etc. und dem einzelnen Ding der einzelnen Funktion sei.
 
 ### [Ms-102](/ms-102/#63r.2) <span class="fac">[63r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/63r.webp)</span> {#ms-102-63r-2}
 
@@ -2138,7 +2138,7 @@ Die Klasse aller Zeichen die sowohl p als auch q bejahen ist das Zeichen für p.
 
 03.05.1915
 
-Man kann nicht sagen daß sowohl Tautologien als Kontradiktionen _nichts_ sagen in dem Sinne daß sie etwa beide Nullpunkte in der Skala der Sätze wären. Denn zum Mindesten sind sie **entgegenge**setzte Pole.
+Man kann nicht sagen daß sowohl Tautologien als Kontradiktionen _nichts_ sagen in dem Sinne daß sie etwa beide Nullpunkte in der Skala der Sätze wären. Denn zum Mindesten sind sie *entgegenge*setzte Pole.
 
 ### [Ms-102](/ms-102/#83r.4+84r.1) <span class="fac">[83r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/83r.webp),[84r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/84r.webp)</span> {#ms-102-83r-4--84r-1}
 

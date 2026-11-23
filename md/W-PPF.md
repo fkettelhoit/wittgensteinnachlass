@@ -1024,7 +1024,7 @@ Und wenn ich antwortete: “Nein, er hört es nicht; er empfindet es nur” – 
 
 ### [Ms-144](/ms-144/#39v.2) <span class="fac">[39v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)</span> {#ms-144-39v-2}
 
-Wir reagieren anders auf den Gesichtseindruck, als der, der ihn nicht als furchtsam (im _vollen_ Sinne des Wortes) erkennt. – Nun will ich aber _nicht_ sagen, wir spüren in den Muskeln & Gelenken diese Reaktion, & dies sei die ‘Empfindung’. – Nein, wir haben hier einen modifizierten **Empfindungs**begriff.
+Wir reagieren anders auf den Gesichtseindruck, als der, der ihn nicht als furchtsam (im _vollen_ Sinne des Wortes) erkennt. – Nun will ich aber _nicht_ sagen, wir spüren in den Muskeln & Gelenken diese Reaktion, & dies sei die ‘Empfindung’. – Nein, wir haben hier einen modifizierten *Empfindungs*begriff.
 
 ### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v-5--40r-1}
 
@@ -1596,7 +1596,7 @@ Vergleiche einen Begriff mit einer Malweise: Ist denn auch nur unsre Malweise wi
 
 ### [Ms-144](/ms-144/#51r.1) <span class="fac">[51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r-1}
 
-<span class="series-number">xiii</span> Wenn ich sage “Vor einer halben Stunde war er da” – nämlich aus der Erinnerung – so ist das nicht die Beschreibung eines gegenwärtigen Erlebnisses. Erinnerungs**erlebnisse** sind Begleiterscheinungen des Erinnerns.
+<span class="series-number">xiii</span> Wenn ich sage “Vor einer halben Stunde war er da” – nämlich aus der Erinnerung – so ist das nicht die Beschreibung eines gegenwärtigen Erlebnisses. Erinnerungs*erlebnisse* sind Begleiterscheinungen des Erinnerns.
 
 ### [Ms-144](/ms-144/#51r.2) <span class="fac">[51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r-2}
 

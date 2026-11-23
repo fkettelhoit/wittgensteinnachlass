@@ -402,7 +402,7 @@ Druck-, Temperatur-, Geschmacks- und Schmerzempfindung. (Wenn Empfindungen die L
 
 ### [Ts-232](/ts-232/#625.3) <span class="fac">[625\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/625.webp)</span> {#ts-232-625-3}
 
-<span class="series-number">98</span> Wenn Einer wirklich sagte “Ich weiß nicht, sehe ich jetzt einen Baum, oder stelle ich mir einen vor”, so würde ich zunächst glauben, er meine: “oder bilde ich mir nur ein, es stehe dort einer”. – Meint er das nicht, so könnte ich ihn überhaupt nicht verstehen – wollte mir aber jemand diesen Fall erklären und sagte “Er hat eben so außergewöhnlich lebhafte **V**orstellungen, daß er sie für Sinneseindrücke halten kann” – verstünde ich's jetzt?
+<span class="series-number">98</span> Wenn Einer wirklich sagte “Ich weiß nicht, sehe ich jetzt einen Baum, oder stelle ich mir einen vor”, so würde ich zunächst glauben, er meine: “oder bilde ich mir nur ein, es stehe dort einer”. – Meint er das nicht, so könnte ich ihn überhaupt nicht verstehen – wollte mir aber jemand diesen Fall erklären und sagte “Er hat eben so außergewöhnlich lebhafte *V*orstellungen, daß er sie für Sinneseindrücke halten kann” – verstünde ich's jetzt?
 
 ### [Ts-232](/ts-232/#625.4+626.1) <span class="fac">[625\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/625.webp),[626\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp)</span> {#ts-232-625-4--626-1}
 
@@ -426,7 +426,7 @@ Druck-, Temperatur-, Geschmacks- und Schmerzempfindung. (Wenn Empfindungen die L
 
 ### [Ts-232](/ts-232/#626.6+627.1) <span class="fac">[626\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp),[627\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp)</span> {#ts-232-626-6--627-1}
 
-<span class="series-number">104</span> Aus “nicht p & und q” folgt _nicht_ “Wenn p, so q”. Es ist _nicht_ aus “nicht p & q” zu erschließen. Der Sinn von “Wenn p, so q” ist von dem des Satzes “p impliziert q” **grund**verschieden. Wenn auch ein _Zusammenhang_ besteht. Dieser: “p & q”, welches die Implikationen wahr macht, tut dies auch für den Satz “ …so …”, oder spricht doch für seine Wahrheit. “p & nicht q widerspricht der Implikation und auch dem Wenn-so-Satz, oder ist seiner Wahrheit nicht günstig. “nicht p & q” und “nicht p & nicht q” bewahrheiten die Implikation und entscheiden nichts über die Wahrheit von “Wenn …, so …”.
+<span class="series-number">104</span> Aus “nicht p & und q” folgt _nicht_ “Wenn p, so q”. Es ist _nicht_ aus “nicht p & q” zu erschließen. Der Sinn von “Wenn p, so q” ist von dem des Satzes “p impliziert q” *grund*verschieden. Wenn auch ein _Zusammenhang_ besteht. Dieser: “p & q”, welches die Implikationen wahr macht, tut dies auch für den Satz “ …so …”, oder spricht doch für seine Wahrheit. “p & nicht q widerspricht der Implikation und auch dem Wenn-so-Satz, oder ist seiner Wahrheit nicht günstig. “nicht p & q” und “nicht p & nicht q” bewahrheiten die Implikation und entscheiden nichts über die Wahrheit von “Wenn …, so …”.
 
 ### [Ts-232](/ts-232/#627.2) <span class="fac">[627\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp)</span> {#ts-232-627-2}
 
@@ -756,7 +756,7 @@ Denn in Wahrheit ist das eine rohe Interpretation. Ich vermute – im Allgemeine
 
 ### [Ts-232](/ts-232/#650.4+651.1) <span class="fac">[650\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/650.webp),[651\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp)</span> {#ts-232-650-4--651-1}
 
-<span class="series-number">186</span> Nun, wenn wir Wesen bei der Arbeit sähen, deren Arbeits**rhythmus**, deren Mienenspiel, etc. dem unsern ähnlich wäre, nur daß diese Leute nicht _sprächen_, dann würden wir vielleicht sagen, sie dächten, überlegten, machten Entscheidungen. Das heißt: es wäre eben in so einem Falle _viel_ dem der gewöhnlichen Menschen ähnlich. Und es ist nicht klar, _wieviel_ ähnlichen sein muß, damit wir den Begriff ‘denken’, der in _unserm_ Leben zu Hause ist, auch bei ihnen anzuwenden ein Recht hätten.
+<span class="series-number">186</span> Nun, wenn wir Wesen bei der Arbeit sähen, deren Arbeits*rhythmus*, deren Mienenspiel, etc. dem unsern ähnlich wäre, nur daß diese Leute nicht _sprächen_, dann würden wir vielleicht sagen, sie dächten, überlegten, machten Entscheidungen. Das heißt: es wäre eben in so einem Falle _viel_ dem der gewöhnlichen Menschen ähnlich. Und es ist nicht klar, _wieviel_ ähnlichen sein muß, damit wir den Begriff ‘denken’, der in _unserm_ Leben zu Hause ist, auch bei ihnen anzuwenden ein Recht hätten.
 
 ### [Ts-232](/ts-232/#651.2) <span class="fac">[651\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/651.webp)</span> {#ts-232-651-2}
 
@@ -894,7 +894,7 @@ Man sagt vom Tisch und Stuhl nicht, daß sie denken, auch von der Pflanze nicht,
 
 ### [Ts-232](/ts-232/#660.3) <span class="fac">[660\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)</span> {#ts-232-660-3}
 
-<span class="series-number">220</span> ‘Denken’, ein weitverzweigter Begriff. Ein Begriff, der viele Lebensäußerungen in sich begreift. Die Denk**phänomene** liegen weit auseinander.
+<span class="series-number">220</span> ‘Denken’, ein weitverzweigter Begriff. Ein Begriff, der viele Lebensäußerungen in sich begreift. Die Denk*phänomene* liegen weit auseinander.
 
 ### [Ts-232](/ts-232/#660.4) <span class="fac">[660\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)</span> {#ts-232-660-4}
 
@@ -1338,7 +1338,7 @@ Das Schreiben ist gewiß eine willkürliche Bewegung, und doch eine automatische
 
 ### [Ts-232](/ts-232/#690.5) <span class="fac">[690\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)</span> {#ts-232-690-5}
 
-<span class="series-number">330</span> Wir neigen dazu, uns die Sache so zu denken, als wäre die Gesichts**empfindung** ein neuer _Gegenstand_, den das Kind kennenlernt, nach dem es die ersten primitiven Sprachspiele _mit_ Gesichtswahrnehmungen gelernt hat. “Es scheint mir rot.” – “Und wie ist rot?” – “_So_” Dabei muß auf das richtige Paradigma gezeigt werden.
+<span class="series-number">330</span> Wir neigen dazu, uns die Sache so zu denken, als wäre die Gesichts*empfindung* ein neuer _Gegenstand_, den das Kind kennenlernt, nach dem es die ersten primitiven Sprachspiele _mit_ Gesichtswahrnehmungen gelernt hat. “Es scheint mir rot.” – “Und wie ist rot?” – “_So_” Dabei muß auf das richtige Paradigma gezeigt werden.
 
 ### [Ts-232](/ts-232/#690.6) <span class="fac">[690\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/690.webp)</span> {#ts-232-690-6}
 
@@ -2002,7 +2002,7 @@ Es ist ja klar, daß der Schüler, der nur eben erst mit dem Begriff Spitze, Gru
 
 ### [Ts-232](/ts-232/#727.2) <span class="fac">[727\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)</span> {#ts-232-727-2}
 
-<span class="series-number">492</span> Ich kann das Würfelschema als Schachtel sehen, aber _nicht_: einmal als Papier – einmal als Blechschachtel. – Was sollte ich dazu sagen, wenn jemand mir versicherte er könnte die Figur als **Blech**schachtel sehen? Sollte ich antworten, daß sei kein _Sehen_? Aber, wenn nicht sehen, könnte er es also _empfinden_? Es wäre natürlich plausibel, zu antworten: nur was in Wirklichkeit gesehen werden könnte, könne man sich so _visuell_ vorstellen. ((Das Wissen im Traum.))
+<span class="series-number">492</span> Ich kann das Würfelschema als Schachtel sehen, aber _nicht_: einmal als Papier – einmal als Blechschachtel. – Was sollte ich dazu sagen, wenn jemand mir versicherte er könnte die Figur als *Blech*schachtel sehen? Sollte ich antworten, daß sei kein _Sehen_? Aber, wenn nicht sehen, könnte er es also _empfinden_? Es wäre natürlich plausibel, zu antworten: nur was in Wirklichkeit gesehen werden könnte, könne man sich so _visuell_ vorstellen. ((Das Wissen im Traum.))
 
 ### [Ts-232](/ts-232/#727.3) <span class="fac">[727\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)</span> {#ts-232-727-3}
 
@@ -2596,7 +2596,7 @@ Mancher aber würde vielleicht diese Frage nicht verstehen. Wie Mancher auch die
 
 ### [Ts-232](/ts-232/#757.2) <span class="fac">[757\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp)</span> {#ts-232-757-2}
 
-<span class="series-number">640</span> Aber übersieht dieser dann nicht etwas, was da ist? – Er nimmt davon keine Notiz; und warum sollte er? – Aber dann ist ja eben sein Begriff grundverschieden von dem unsern. – **Grund**verschieden? Verschieden. Aber es ist dann doch, als ob sein Wort nicht _das_ _selbe bezeichnen_ könnte wie unseres. Oder nur einen Teil davon. – Aber so muß es ja auch ausschauen, wenn sein Begriff verschieden ist. Denn die Unbestimmtheit unseres Begriffs kann sich ja für uns in den _Gegenstand_ projizieren, den das Wort bezeichnet. So daß, fehlte die Unbestimmtheit, auch nicht ‘dasselbe gemeint’ wäre. Das Bild, das wir verwenden, versinnbildlicht die Unbestimmtheit.
+<span class="series-number">640</span> Aber übersieht dieser dann nicht etwas, was da ist? – Er nimmt davon keine Notiz; und warum sollte er? – Aber dann ist ja eben sein Begriff grundverschieden von dem unsern. – *Grund*verschieden? Verschieden. Aber es ist dann doch, als ob sein Wort nicht _das_ _selbe bezeichnen_ könnte wie unseres. Oder nur einen Teil davon. – Aber so muß es ja auch ausschauen, wenn sein Begriff verschieden ist. Denn die Unbestimmtheit unseres Begriffs kann sich ja für uns in den _Gegenstand_ projizieren, den das Wort bezeichnet. So daß, fehlte die Unbestimmtheit, auch nicht ‘dasselbe gemeint’ wäre. Das Bild, das wir verwenden, versinnbildlicht die Unbestimmtheit.
 
 ### [Ts-232](/ts-232/#757.3) <span class="fac">[757\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/757.webp)</span> {#ts-232-757-3}
 
@@ -2726,7 +2726,7 @@ andere auf. 8) Farben treten immer im Farbverlauf des Regenbogens auf.
 
 ### [Ts-232](/ts-232/#763.2) <span class="fac">[763\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)</span> {#ts-232-763-2}
 
-<span class="series-number">672</span> Wenn das Leben ein Teppich wäre, so ist diese Muster (der Verstellung z.B.) nicht immer vollständig und vielfach variiert. Aber wir, in unserer Begriffswelt, sehen immer wieder das Gleiche mit Variationen wiederkehren. So fassen's unsere Begriffe auf. Die Begriffe sind ja nicht für **ein**maligen Gebrauch.
+<span class="series-number">672</span> Wenn das Leben ein Teppich wäre, so ist diese Muster (der Verstellung z.B.) nicht immer vollständig und vielfach variiert. Aber wir, in unserer Begriffswelt, sehen immer wieder das Gleiche mit Variationen wiederkehren. So fassen's unsere Begriffe auf. Die Begriffe sind ja nicht für *ein*maligen Gebrauch.
 
 ### [Ts-232](/ts-232/#763.3) <span class="fac">[763\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/763.webp)</span> {#ts-232-763-3}
 

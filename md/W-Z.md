@@ -438,7 +438,7 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#22.3) <span class="fac">[22\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/22.webp)</span> {#ts-233a-22-3}
 
-<span class="series-number">102</span> 185 Wenn wir Wesen bei der Arbeit sähen, deren Arbeits**rhythmus**, deren Mienenspiel, etc., dem unsern ähnlich wäre, nur daß sie nicht _sprächen_, dann würden wir vielleicht sagen, sie dächten, überlegten, machten Entscheidungen. Es wäre eben da _viel_ was dem Tun des gewöhnlichen Menschen entspricht. Und es ist nicht zu entscheiden, _wie_ genau die Entsprechung sein muß, damit wir den Begriff ‘denken’ auch bei ihnen anzuwenden ein Recht hätten.
+<span class="series-number">102</span> 185 Wenn wir Wesen bei der Arbeit sähen, deren Arbeits*rhythmus*, deren Mienenspiel, etc., dem unsern ähnlich wäre, nur daß sie nicht _sprächen_, dann würden wir vielleicht sagen, sie dächten, überlegten, machten Entscheidungen. Es wäre eben da _viel_ was dem Tun des gewöhnlichen Menschen entspricht. Und es ist nicht zu entscheiden, _wie_ genau die Entsprechung sein muß, damit wir den Begriff ‘denken’ auch bei ihnen anzuwenden ein Recht hätten.
 
 ### [Ts-233a](/ts-233a/#22.4) <span class="fac">[22\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/22.webp)</span> {#ts-233a-22-4}
 
@@ -470,7 +470,7 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#24.2) <span class="fac">[24\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/24.webp)</span> {#ts-233a-24-2}
 
-<span class="series-number">110</span> ‘Denken’, ein weit verzweigter Begriff. Ein Begriff, der viele Lebensäußerungen in sich begreift. Die Denk**phänomene** liegen weit auseinander.
+<span class="series-number">110</span> ‘Denken’, ein weit verzweigter Begriff. Ein Begriff, der viele Lebensäußerungen in sich begreift. Die Denk*phänomene* liegen weit auseinander.
 
 ### [Ts-233a](/ts-233a/#24.3) <span class="fac">[24\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/24.webp)</span> {#ts-233a-24-3}
 
@@ -578,7 +578,7 @@ Setzen wir in diesem Argument statt des Wortes “vorstellen” etwa das Wort �
 
 ### [Ts-233a](/ts-233a/#28.5+29.1) <span class="fac">[28\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/28.webp),[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/29.webp)</span> {#ts-233a-28-5--29-1}
 
-<span class="series-number">137</span> Manchmal, wenn ich sage “Ich dachte damals …”, kann ich berichten, daß ich mir eben diese Worte laut, oder im Stillen gesagt hatte; oder wenn nicht diese, so andere Worte, wovon die gegenwärtigen eine sinngemäße **Wieder**gabe sind. Das kommt doch manchmal vor! Aber eben auch dies, daß meine gegenwärtigen Worte ‘nicht eine Wiedergabe’ sind. Denn ‘Wiedergabe’ sind sie nur, wenn sie es nach Regeln der Abbildung sind.
+<span class="series-number">137</span> Manchmal, wenn ich sage “Ich dachte damals …”, kann ich berichten, daß ich mir eben diese Worte laut, oder im Stillen gesagt hatte; oder wenn nicht diese, so andere Worte, wovon die gegenwärtigen eine sinngemäße *Wieder*gabe sind. Das kommt doch manchmal vor! Aber eben auch dies, daß meine gegenwärtigen Worte ‘nicht eine Wiedergabe’ sind. Denn ‘Wiedergabe’ sind sie nur, wenn sie es nach Regeln der Abbildung sind.
 
 ### [Ts-233a](/ts-233a/#29.2) <span class="fac">[29\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/29.webp)</span> {#ts-233a-29-2}
 
@@ -856,7 +856,7 @@ Wenn du annimmst, daß Einer _das_ nicht kann, wie ist es dann mit _dem_? soll e
 
 ### [Ts-233a](/ts-233a/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/43.webp)</span> {#ts-233a-43-2}
 
-<span class="series-number">206</span> “Aber ich kann doch offenbar im Sehen Elemente (Striche z.B.) _zusammennehmen!_” Aber warum nennt man es “zusammennehmen”? Warum braucht man hier ein Wort – _wesentlich_ – das schon eine andere Bedeutung hat? (Es ist hier natürlich wie im Fall des Wortes “Kopf**rechnen**”.)
+<span class="series-number">206</span> “Aber ich kann doch offenbar im Sehen Elemente (Striche z.B.) _zusammennehmen!_” Aber warum nennt man es “zusammennehmen”? Warum braucht man hier ein Wort – _wesentlich_ – das schon eine andere Bedeutung hat? (Es ist hier natürlich wie im Fall des Wortes “Kopf*rechnen*”.)
 
 ### [Ts-233a](/ts-233a/#43.3) <span class="fac">[43\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/43.webp)</span> {#ts-233a-43-3}
 
@@ -918,7 +918,7 @@ einmal als ein F, einmal als sein Spiegelbild eines F sehen. Nun will ich fragen
 
 ### [Ts-233a](/ts-233a/#46.1) <span class="fac">[46\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/46.webp)</span> {#ts-233a-46-1}
 
-<span class="series-number">220</span> Das Bewußtsein in des Andern Gesicht. Schau ins Gesicht des Andern, und sieh das Bewußtsein in ihm und einen bestimmten Bewußtseins**ton**. Du siehst auf ihm, in ihm, Freude, Gleichgültigkeit, Interesse, Rührung, Dumpfheit u.s.f. Das Licht im Gesicht des Andern. Schaust Du in _Dich_, um den Grimm in _seinem_ Gesicht zu erkennen? Er ist dort so deutlich wie in Deiner eigenen Brust.
+<span class="series-number">220</span> Das Bewußtsein in des Andern Gesicht. Schau ins Gesicht des Andern, und sieh das Bewußtsein in ihm und einen bestimmten Bewußtseins*ton*. Du siehst auf ihm, in ihm, Freude, Gleichgültigkeit, Interesse, Rührung, Dumpfheit u.s.f. Das Licht im Gesicht des Andern. Schaust Du in _Dich_, um den Grimm in _seinem_ Gesicht zu erkennen? Er ist dort so deutlich wie in Deiner eigenen Brust.
 
 ### [Ts-233a](/ts-233a/#46.2) <span class="fac">[46\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/46.webp)</span> {#ts-233a-46-2}
 
@@ -1130,7 +1130,7 @@ Wie man ein Gesicht besser sehen lernt, wenn man es zeichnet.
 
 ### [Ts-233a](/ts-233a/#55.5) <span class="fac">[55\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span> {#ts-233a-55-5}
 
-<span class="series-number">270</span> “Wie kann es denn Sinn haben, von einer mir ganz neuen Art der Sinneswahrnehmung zu reden, die ich vielleicht einmal haben werde? Wenn du nicht etwa vom Sinnes**organ** reden willst.”
+<span class="series-number">270</span> “Wie kann es denn Sinn haben, von einer mir ganz neuen Art der Sinneswahrnehmung zu reden, die ich vielleicht einmal haben werde? Wenn du nicht etwa vom Sinnes*organ* reden willst.”
 
 ### [Ts-233a](/ts-233a/#55.6) <span class="fac">[55\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span> {#ts-233a-55-6}
 
@@ -1592,7 +1592,7 @@ Die wichtige Frage ist dabei nie: wie weiß er, wovon er abstrahieren soll? sond
 
 ### [Ts-233b](/ts-233b/#4a.9) <span class="fac">[4a\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a-9}
 
-<span class="series-number">381</span> Aber übersieht dieser dann nicht etwas, was da ist? – Er nimmt davon keine Notiz; und warum sollte er? – Aber dann ist ja eben sein Begriff grundverschieden von dem unsern. – **Grund**verschieden?
+<span class="series-number">381</span> Aber übersieht dieser dann nicht etwas, was da ist? – Er nimmt davon keine Notiz; und warum sollte er? – Aber dann ist ja eben sein Begriff grundverschieden von dem unsern. – *Grund*verschieden?
 
 ### [Ts-233b](/ts-233b/#5.1) <span class="fac">[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/5.webp)</span> {#ts-233b-5-1}
 
@@ -1860,7 +1860,7 @@ Freud spricht von einer ‘dynamischen’ Theorie des Traumes. Die Tendenz, den 
 
 ### [Ts-233b](/ts-233b/#17.3) <span class="fac">[17\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/17.webp)</span> {#ts-233b-17-3}
 
-<span class="series-number">446</span> Es ist jene Redeweise, die uns hindert, die Tatsachen unparteiisch zu sehen. Betrachte die Aussprache eines Worts durch die Darstellungsform der Schreibung: Wie leicht kann man sich da überreden, daß zwei Worte – z.B. “für” und “führ” – im täglichen Gebrauche verschiedenen Klang haben – weil man sie verschieden ausspricht, wenn man sein Augenmerk gerade auf den Unterschied ihrer Schreibung richtet. Damit zu vergleichen ist die Meinung, ein Violinspieler mit feinem Gehör greife f immer etwas höher als eis. Überlege dir solche Fälle! – _So_ kann es geschehen daß das Darstellungsmittel eine _**Einbildung**_ erzeugt. nicht, wir **müßte**n einen spezifischen seelischen Vorgang finden, weil das Verbum “verstehen” dasteht und weil man sagt: Verstehen sei eine seelische Tätigkeit.
+<span class="series-number">446</span> Es ist jene Redeweise, die uns hindert, die Tatsachen unparteiisch zu sehen. Betrachte die Aussprache eines Worts durch die Darstellungsform der Schreibung: Wie leicht kann man sich da überreden, daß zwei Worte – z.B. “für” und “führ” – im täglichen Gebrauche verschiedenen Klang haben – weil man sie verschieden ausspricht, wenn man sein Augenmerk gerade auf den Unterschied ihrer Schreibung richtet. Damit zu vergleichen ist die Meinung, ein Violinspieler mit feinem Gehör greife f immer etwas höher als eis. Überlege dir solche Fälle! – _So_ kann es geschehen daß das Darstellungsmittel eine _**Einbildung**_ erzeugt. nicht, wir *müßte*n einen spezifischen seelischen Vorgang finden, weil das Verbum “verstehen” dasteht und weil man sagt: Verstehen sei eine seelische Tätigkeit.
 
 ### [Ts-233b](/ts-233b/#18.1) <span class="fac">[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/18.webp)</span> {#ts-233b-18-1}
 
@@ -2366,7 +2366,7 @@ Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer
 
 ### [Ts-233b](/ts-233b/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/38.webp)</span> {#ts-233b-38-2}
 
-<span class="series-number">568</span> Wenn das Leben ein Teppich wäre, so ist dies Muster (der Verstellung z.B.) nicht immer vollständig, und vielfach variiert. Aber wir, in unserer Begriffswelt, sehen immer wieder das Gleiche mit Variationen wiederkehren. So fassen's unsere Begriffe auf. Die Begriffe sind ja nicht für **ein**maligen Gebrauch.
+<span class="series-number">568</span> Wenn das Leben ein Teppich wäre, so ist dies Muster (der Verstellung z.B.) nicht immer vollständig, und vielfach variiert. Aber wir, in unserer Begriffswelt, sehen immer wieder das Gleiche mit Variationen wiederkehren. So fassen's unsere Begriffe auf. Die Begriffe sind ja nicht für *ein*maligen Gebrauch.
 
 ### [Ts-233b](/ts-233b/#38.3) <span class="fac">[38\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/38.webp)</span> {#ts-233b-38-3}
 
@@ -2390,7 +2390,7 @@ Könnte nicht das Verhalten, Benehmen, des Vertrauens ganz allgemein unter einer
 
 ### [Ts-233b](/ts-233b/#39.1) <span class="fac">[39\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/39.webp)</span> {#ts-233b-39-1}
 
-<span class="series-number">574</span> Ist das, wovon er sagt, er habe es, und wovon ich sage, ich habe es, ohne daß wir dies aus irgendeiner Beobachtung erschließen, – ist es dasselbe, wie das, was wir aus der Beobachtung des Benehmens des Andern und aus seiner Überzeugungs**äußerung** entnehmen?
+<span class="series-number">574</span> Ist das, wovon er sagt, er habe es, und wovon ich sage, ich habe es, ohne daß wir dies aus irgendeiner Beobachtung erschließen, – ist es dasselbe, wie das, was wir aus der Beobachtung des Benehmens des Andern und aus seiner Überzeugungs*äußerung* entnehmen?
 
 ### [Ts-233b](/ts-233b/#39.2) <span class="fac">[39\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/39.webp)</span> {#ts-233b-39-2}
 

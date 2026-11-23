@@ -826,7 +826,7 @@ The difficulty one encounters with the proof by reductio ad absurdum in mathemat
 
 ### [Ms-126](/ms-126/#125.2+126.1) <span class="fac">[125\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/125.webp),[126\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/126.webp)</span> {#ms-126-125-2--126-1}
 
-The indirect proof, however, states: “if you want it _so_, you are not allowed to assume _that_: because with **that**, only the opposite of what you do not want to depart from is consistent”.
+The indirect proof, however, states: “if you want it _so_, you are not allowed to assume _that_: because with _that_, only the opposite of what you do not want to depart from is consistent”.
 
 
 ### [Ms-126](/ms-126/#131.3+132.1) <span class="fac">[131\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/131.webp),[132\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/132.webp)</span> {#ms-126-131-3--132-1}
@@ -1063,7 +1063,7 @@ The doctrine of functions as a (general) schema into which, on the one hand, a m
 
 ### [Ms-127](/ms-127/#42.3+43.1) <span class="fac">[42\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/42.webp),[43\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/43.webp)</span> {#ms-127-42-3--43-1}
 
-The misleading aspect of the usual **representation** consists in the fact that it seems as if the general case could be completely understood even without any examples, without a thought for _intentions_ (in the plural), since in principle everything could be settled extensionally if it were not impossible for external reasons.
+The misleading aspect of the usual _representation_ consists in the fact that it seems as if the general case could be completely understood even without any examples, without a thought for _intentions_ (in the plural), since in principle everything could be settled extensionally if it were not impossible for external reasons.
 
 
 ### [Ms-127](/ms-127/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/43.webp)</span> {#ms-127-43-2}

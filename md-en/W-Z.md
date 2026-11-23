@@ -555,7 +555,7 @@ Let us imagine that someone is performing a task involving comparisons, trials, 
 
 ### [Ts-233a](/ts-233a/#22.3) <span class="fac">[22\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/22.webp)</span> {#ts-233a-22-3}
 
-185 If we were to observe their essence at work, their working **rhythm**, their facial expressions, etc., and if these were similar to ours, except that they did not _speak_, then we might say that they were thinking, deliberating, making decisions. There would, of course, be _much_ that corresponded to the actions of ordinary people. And it is not possible to determine _how_ exact this correspondence must be in order for us to have the right to apply the concept of ‘thinking’ to them as well.
+185 If we were to observe their essence at work, their working _rhythm_, their facial expressions, etc., and if these were similar to ours, except that they did not _speak_, then we might say that they were thinking, deliberating, making decisions. There would, of course, be _much_ that corresponded to the actions of ordinary people. And it is not possible to determine _how_ exact this correspondence must be in order for us to have the right to apply the concept of ‘thinking’ to them as well.
 
 
 ### [Ts-233a](/ts-233a/#22.4) <span class="fac">[22\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/22.webp)</span> {#ts-233a-22-4}
@@ -601,7 +601,7 @@ If there were only a very few people who could find the answer to an arithmetic 
 
 <span class="series-number">219</span>
 
-‘Thinking,’ a widely branching concept. A concept that encompasses many manifestations of life. The **phenomena** of thought are widely divergent.
+‘Thinking,’ a widely branching concept. A concept that encompasses many manifestations of life. The _phenomena_ of thought are widely divergent.
 
 
 ### [Ts-233a](/ts-233a/#24.3) <span class="fac">[24\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/24.webp)</span> {#ts-233a-24-3}
@@ -746,7 +746,7 @@ Think of pointing in school. Must one have silently recited the answer to onesel
 
 ### [Ts-233a](/ts-233a/#28.5+29.1) <span class="fac">[28\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/28.webp),[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/29.webp)</span> {#ts-233a-28-5--29-1}
 
-Sometimes, when I say “I thought at that time…”, I can report that I had just said these very words aloud, or silently; or if not these, then other words, of which the present ones are a close **rendering**. That does happen sometimes! But also this, that my present words are ‘not a rendering’. For they are only a rendering if they are so according to the rules of depiction.
+Sometimes, when I say “I thought at that time…”, I can report that I had just said these very words aloud, or silently; or if not these, then other words, of which the present ones are a close _rendering_. That does happen sometimes! But also this, that my present words are ‘not a rendering’. For they are only a rendering if they are so according to the rules of depiction.
 
 
 ### [Ts-233a](/ts-233a/#29.2) <span class="fac">[29\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/29.webp)</span> {#ts-233a-29-2}
@@ -1101,7 +1101,7 @@ Intention. In what way am I conscious of the lie while I am lying? Only in so fa
 
 ### [Ts-233a](/ts-233a/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/43.webp)</span> {#ts-233a-43-2}
 
-<span class="series-number">1786</span> “But I can obviously bring elements (lines, for example) together in _seeing_!” But why does one call it “bringing together”? Why is there a need for a word – _essential_ – that already has a different meaning? (It is, of course, as in the case of the word “mental **calculation**”.)
+<span class="series-number">1786</span> “But I can obviously bring elements (lines, for example) together in _seeing_!” But why does one call it “bringing together”? Why is there a need for a word – _essential_ – that already has a different meaning? (It is, of course, as in the case of the word “mental _calculation_”.)
 
 
 ### [Ts-233a](/ts-233a/#43.3) <span class="fac">[43\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/43.webp)</span> {#ts-233a-43-3}
@@ -1181,7 +1181,7 @@ Imagine someone who, while looking at the sun, suddenly has the _sensation_ that
 
 ### [Ts-233a](/ts-233a/#46.1) <span class="fac">[46\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/46.webp)</span> {#ts-233a-46-1}
 
-<span class="series-number">1594</span> Consciousness in the face of the other. Look into the face of the other, & see the consciousness in him & a particular **tone** of consciousness. You see in him, on him, joy, indifference, interest, emotion, dullness, etc. The light in the face of the other. Do you look into _yourself_ to recognize the anger in _his_ face? It is there as clearly as in your own breast.
+<span class="series-number">1594</span> Consciousness in the face of the other. Look into the face of the other, & see the consciousness in him & a particular _tone_ of consciousness. You see in him, on him, joy, indifference, interest, emotion, dullness, etc. The light in the face of the other. Do you look into _yourself_ to recognize the anger in _his_ face? It is there as clearly as in your own breast.
 
 
 ### [Ts-233a](/ts-233a/#46.2) <span class="fac">[46\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/46.webp)</span> {#ts-233a-46-2}
@@ -1450,7 +1450,7 @@ What would we say to someone who claimed that they could accurately imagine what
 
 ### [Ts-233a](/ts-233a/#55.5) <span class="fac">[55\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span> {#ts-233a-55-5}
 
-<span class="series-number">42</span> “How can it possibly make sense to talk about a completely new kind of sensory perception that one might perhaps experience someday? Unless you are talking about the sensory **organ**.”
+<span class="series-number">42</span> “How can it possibly make sense to talk about a completely new kind of sensory perception that one might perhaps experience someday? Unless you are talking about the sensory _organ_.”
 
 
 ### [Ts-233a](/ts-233a/#55.6) <span class="fac">[55\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span> {#ts-233a-55-6}
@@ -2032,7 +2032,7 @@ They do not form a picture of it & recognize it from case to case.
 
 ### [Ts-233b](/ts-233b/#4a.9) <span class="fac">[4a\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/4a.webp)</span> {#ts-233b-4a-9}
 
-<span class="series-number">639</span> But doesn’t this mean that he overlooks something that is there? – He does not take note of it; and why should he? – But then his concept is fundamentally different from ours. – **Fundamentally** different?
+<span class="series-number">639</span> But doesn’t this mean that he overlooks something that is there? – He does not take note of it; and why should he? – But then his concept is fundamentally different from ours. – _Fundamentally_ different?
 
 
 ### [Ts-233b](/ts-233b/#5.1) <span class="fac">[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/5.webp)</span> {#ts-233b-5-1}
@@ -2366,7 +2366,7 @@ Freud speaks of a ‘dynamic’ theory of dreams. The tendency to generalize fro
 
 ### [Ts-233b](/ts-233b/#17.3) <span class="fac">[17\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/17.webp)</span> {#ts-233b-17-3}
 
-It is that way of speaking which prevents us from seeing the facts impartially. Consider the pronunciation of a word through the form of its spelling: how easily can one be persuaded that two words – e.g. “for” & “lead” – have different sounds in everyday use – because one pronounces them differently when one’s attention is directed to the difference in their spelling. This can be compared to the opinion that a violinist with a fine ear always plays f slightly higher than eis. Consider such cases! – _So_ it can happen that the means of representation creates an _**illusion**_. Not that we **must** find a specific mental process, because the verb “understand” is there & because one says: understanding is a mental activity.
+It is that way of speaking which prevents us from seeing the facts impartially. Consider the pronunciation of a word through the form of its spelling: how easily can one be persuaded that two words – e.g. “for” & “lead” – have different sounds in everyday use – because one pronounces them differently when one’s attention is directed to the difference in their spelling. This can be compared to the opinion that a violinist with a fine ear always plays f slightly higher than eis. Consider such cases! – _So_ it can happen that the means of representation creates an _**illusion**_. Not that we _must_ find a specific mental process, because the verb “understand” is there & because one says: understanding is a mental activity.
 
 
 ### [Ts-233b](/ts-233b/#18.1) <span class="fac">[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/18.webp)</span> {#ts-233b-18-1}
@@ -3007,7 +3007,7 @@ Observe people who also doubt under these circumstances; and those who do not do
 
 ### [Ts-233b](/ts-233b/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/38.webp)</span> {#ts-233b-38-2}
 
-<span class="series-number">671</span> If life were a carpet, then this pattern (of pretending, for example) is not always complete, & it varies greatly. But we, in our conceptual world, always see the same thing recurring with variations. That is how our concepts grasp it. The concepts are not intended for **one**-time use.
+<span class="series-number">671</span> If life were a carpet, then this pattern (of pretending, for example) is not always complete, & it varies greatly. But we, in our conceptual world, always see the same thing recurring with variations. That is how our concepts grasp it. The concepts are not intended for _one_-time use.
 
 
 ### [Ts-233b](/ts-233b/#38.3) <span class="fac">[38\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/38.webp)</span> {#ts-233b-38-3}
@@ -3037,7 +3037,7 @@ Observe people who also doubt under these circumstances; and those who do not do
 
 ### [Ts-233b](/ts-233b/#39.1) <span class="fac">[39\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/39.webp)</span> {#ts-233b-39-1}
 
-<span class="series-number">1478</span> Is what he says he has, & what I say I have, without our inferring this from any observation, – is it the same as what we gather from the observation of the other’s **utterance** & from his expression of conviction?
+<span class="series-number">1478</span> Is what he says he has, & what I say I have, without our inferring this from any observation, – is it the same as what we gather from the observation of the other’s _utterance_ & from his expression of conviction?
 
 
 ### [Ts-233b](/ts-233b/#39.2) <span class="fac">[39\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/39.webp)</span> {#ts-233b-39-2}

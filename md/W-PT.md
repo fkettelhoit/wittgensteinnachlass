@@ -3136,7 +3136,7 @@ Ist mit „A” ein Mensch gemeint so ist der Satz „A sitzt” zulässig, aber
 
 ### [Ms-104](/ms-104/#96.8) <span class="fac">[96\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-96-8}
 
-<span class="series-number">4˙1022729</span> Die logischen Formen sind zahl**los**.
+<span class="series-number">4˙1022729</span> Die logischen Formen sind zahl*los*.
 
 ### [Ms-104](/ms-104/#96.9) <span class="fac">[96\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/96.webp)</span> {#ms-104-96-9}
 

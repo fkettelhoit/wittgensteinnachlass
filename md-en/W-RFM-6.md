@@ -147,7 +147,7 @@ The picture does not, of course, show that something happens, but that whatever 
 
 ### [Ms-164](/ms-164/#11.5+12.1) <span class="fac">[11\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/12.webp)</span> {#ms-164-11-5--12-1}
 
-We are led to use this technique in this case. I am led to – & in **sofern** convinced of something.
+We are led to use this technique in this case. I am led to – & in _sofern_ convinced of something.
 
 See, that’s how 3 and 2 make 5. Remember this process. “You also remember the rule at the same time.”
 
@@ -942,7 +942,7 @@ What we call “following a rule” in a complicated environment, we would certa
 
 ### [Ms-164](/ms-164/#98.3) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp)</span> {#ms-164-98-3}
 
-Language, I would like to say, relates to a Lebens**weise**.
+Language, I would like to say, relates to a Lebens*weise*.
 
 
 ### [Ms-164](/ms-164/#98.4+99.1) <span class="fac">[98\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/99.webp)</span> {#ms-164-98-4--99-1}

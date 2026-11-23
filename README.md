@@ -78,7 +78,8 @@ Mathematical expressions are written in LaTeX and pre-rendered to SVG by the par
 - `## Heading` — section titles within remarks (e.g. chapter headings in the manuscripts)
 - `### [text](url)` — remark headings, linking to facsimile page images. Multiple pages are comma-separated: `### [1\[1\]](url),[2\[1\]](url)`. In work files, the first link includes the source document name: `### [Ms-172,1\[1\]](url)`.
 - `_text_` — emphasis (italic), used for Wittgenstein's underlinings
-- `**text**` — strong emphasis (bold), used where emphasis occurs inside words
+- `*text*` — the same emphasis (italic) where it occurs inside a word, e.g. `Empfindungs*begriff*`, since Markdown ignores `_` inside words
+- `**text**` — strong emphasis (bold), used for emphasis nested inside an emphasized passage
 - `![](path)` — images, referencing SVG or PNG files in `graphics/`
 - `---` — horizontal rules, used to mark divisions within remarks
 - `- item` — unordered list items (rare, used in table-of-contents pages and the index)

@@ -1516,7 +1516,7 @@ Hat es einen Sinn zu sagen, daß eine Relation 2 Gegenstände miteinander verbin
 
 ### [Ts-209](/ts-209/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/43.webp)</span> {#ts-209-43-2}
 
-<span class="series-number">102</span> Ich will sagen, die Zahlen können nur definiert werden aus Satz**formen** unabhängig davon, welche Sätze wahr oder falsch sind.
+<span class="series-number">102</span> Ich will sagen, die Zahlen können nur definiert werden aus Satz*formen* unabhängig davon, welche Sätze wahr oder falsch sind.
 
 ### [Ts-209](/ts-209/#43.3) <span class="fac">[43\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/43.webp)</span> {#ts-209-43-3}
 
@@ -2792,7 +2792,7 @@ Das hängt damit zusammen, daß sie die mathematischen Axiome nicht für das ans
 
 ### [Ts-209](/ts-209/#80.4) <span class="fac">[80\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/80.webp)</span> {#ts-209-80-4}
 
-Eine Frage nach der Beweisbarkeit gibt es nicht, und in **so**fern auch keinen Beweis der Beweisbarkeit. Der sogenannte Beweis der Beweisbarkeit ist eine Induktion, deren Erkenntnis die Erkenntnis eines neuen Systems ist.
+Eine Frage nach der Beweisbarkeit gibt es nicht, und in *so*fern auch keinen Beweis der Beweisbarkeit. Der sogenannte Beweis der Beweisbarkeit ist eine Induktion, deren Erkenntnis die Erkenntnis eines neuen Systems ist.
 
 ### [Ts-209](/ts-209/#80.5) <span class="fac">[80\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/80.webp)</span> {#ts-209-80-5}
 
@@ -3972,7 +3972,7 @@ Kann man sagen: “e ist nicht diese Zahl” heißt nichts, sondern man muß sag
 
 ### [Ts-209](/ts-209/#111.2) <span class="fac">[111\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/111.webp)</span> {#ts-209-111-2}
 
-Man kann aber die **Un**teilbarkeit _augenfällig_ darstellen (z.B. im “Sieb”). Man _sieht_ wie alle teilbaren Zahlen ober- oder unterhalb der betrachteten Zahl liegen. Die Negation in der Arithmetik wird hier durch die Negation im Raum, das “wo anders” dargestellt.
+Man kann aber die *Un*teilbarkeit _augenfällig_ darstellen (z.B. im “Sieb”). Man _sieht_ wie alle teilbaren Zahlen ober- oder unterhalb der betrachteten Zahl liegen. Die Negation in der Arithmetik wird hier durch die Negation im Raum, das “wo anders” dargestellt.
 
 ### [Ts-209](/ts-209/#111.3) <span class="fac">[111\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/111.webp)</span> {#ts-209-111-3}
 

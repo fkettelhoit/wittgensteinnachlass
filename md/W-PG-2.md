@@ -202,7 +202,7 @@ Denken wir uns aber einen Maßstab an die Fläche angelegt, sodaß wir etwa zuer
 
 ### [Ts-213](/ts-213/#305r.5+306r.1) <span class="fac">[305r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/305r.webp),[306r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/306r.webp)</span> {#ts-213-305r-5--306r-1}
 
-Der Schluß lautet auch nicht so: “wo immer auf der Scheibe der Schuß hintrifft, hast Du gewonnen. Du hast auf der Scheibe **da**hin getroffen, also hast Du den Preis gewonnen”. Denn wo ist dieses _da_? wie ist es außer dem Schuß bezeichnet, etwa durch einen Kreis? Und war der auch schon früher auf der Scheibe? Wenn nicht, so hat die Scheibe sich ja verändert, wäre er aber schon dort gewesen, dann wäre er als eine Möglichkeit des Treffens vorgesehen worden. Es muß vielmehr heißen: “Du hast die Scheibe getroffen, also …”.
+Der Schluß lautet auch nicht so: “wo immer auf der Scheibe der Schuß hintrifft, hast Du gewonnen. Du hast auf der Scheibe *da*hin getroffen, also hast Du den Preis gewonnen”. Denn wo ist dieses _da_? wie ist es außer dem Schuß bezeichnet, etwa durch einen Kreis? Und war der auch schon früher auf der Scheibe? Wenn nicht, so hat die Scheibe sich ja verändert, wäre er aber schon dort gewesen, dann wäre er als eine Möglichkeit des Treffens vorgesehen worden. Es muß vielmehr heißen: “Du hast die Scheibe getroffen, also …”.
 
 ### [Ts-213](/ts-213/#306r.2) <span class="fac">[306r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/306r.webp)</span> {#ts-213-306r-2}
 
@@ -488,7 +488,7 @@ Die Allgemeinheit ist so vieldeutig, wie die Subjekt-Prädikat Form.
 
 ### [Ts-213](/ts-213/#328r.4) <span class="fac">[328r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/328r.webp)</span> {#ts-213-328r-4}
 
-Es gibt so viel verschiedene Allgemeinheiten, als es verschiedene Zahl**arten** gibt.
+Es gibt so viel verschiedene Allgemeinheiten, als es verschiedene Zahl*arten* gibt.
 
 ### [Ts-213](/ts-213/#328r.5) <span class="fac">[328r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/328r.webp)</span> {#ts-213-328r-5}
 
@@ -1414,7 +1414,7 @@ und
 
 <img class="math math-block" src="../math/9e643ef9e3d45588.svg" alt="\begin{array}{c} \vert\;\vert \\ \vert\;{\cdot}\;\vert \\ \vert\,{\cdot}\,{\cdot}\,\vert \\ \text{u.s.w.} \end{array}" style="display:block;width:3.611em;height:5.450em">
 
-die Unklarheit hebt. Es kommt alles darauf an, ob ich mit einer Zahlenreihe zähle, die mit 0 anfängt, oder mit einer, die mit 1 anfängt. So ist es auch, wenn ich die Längen von Stäben, oder die Größen von Hüten zähle. Wenn ich mit Zählstrichen zähle, so könnte ich sie _dann_ so schreiben: <span class="gap"></span>, um zu zeigen, daß es auf den Richtungs**unterschied** ankommt und der einfache Strich der 0 entspricht (d.h. der Anfang ist).
+die Unklarheit hebt. Es kommt alles darauf an, ob ich mit einer Zahlenreihe zähle, die mit 0 anfängt, oder mit einer, die mit 1 anfängt. So ist es auch, wenn ich die Längen von Stäben, oder die Größen von Hüten zähle. Wenn ich mit Zählstrichen zähle, so könnte ich sie _dann_ so schreiben: <span class="gap"></span>, um zu zeigen, daß es auf den Richtungs*unterschied* ankommt und der einfache Strich der 0 entspricht (d.h. der Anfang ist).
 
 ### [Ts-213](/ts-213/#579r.2) <span class="fac">[579r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/579r.webp)</span> {#ts-213-579r-2}
 

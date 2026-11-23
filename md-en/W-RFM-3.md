@@ -583,7 +583,7 @@ The common element seems to be that by constructing a sign, I force the acceptan
 
 ### [Ms-122](/ms-122/#54v.4+55r.1) <span class="fac">[54v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp)</span> {#ms-122-54v-4--55r-1}
 
-Could one say: “Mathematics creates new _expressions_, not new propositions”? In**so**far as mathematical propositions are instruments incorporated into language once and for all—and their proof indicates the place where they stand.
+Could one say: “Mathematics creates new _expressions_, not new propositions”? In*so*far as mathematical propositions are instruments incorporated into language once and for all—and their proof indicates the place where they stand.
 
 
 ### [Ms-122](/ms-122/#55r.2) <span class="fac">[55r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp)</span> {#ms-122-55r-2}
@@ -1327,7 +1327,7 @@ This consensus is, _essentially_, part of calculation; that is certain. That is:
 
 ### [Ms-117](/ms-117/#175.4) <span class="fac">[175\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/175.webp)</span> {#ms-117-175-4}
 
-In a **calculational** technique, predictions must be possible. And that makes the calculational technique similar to the technique of a _game_, such as chess.
+In a _calculational_ technique, predictions must be possible. And that makes the calculational technique similar to the technique of a _game_, such as chess.
 
 
 ### [Ms-117](/ms-117/#176.1) <span class="fac">[176\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/176.webp)</span> {#ms-117-176-1}

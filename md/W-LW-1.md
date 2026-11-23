@@ -690,7 +690,7 @@ Man könnte das so ausdrücken: Es ist nicht so, aber ich _muß_ es glauben.
 
 ### [Ms-137](/ms-137/#92b.4+93a.1) <span class="fac">[92b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/92b.webp),[93a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93a.webp)</span> {#ms-137-92b-4--93a-1}
 
-<span class="series-number">151</span> Soll ich nun hier sagen, der Gesichts**eindruck**, das Sinnesdatum, der visuelle Gegenstand sei ein anderer? Dieser Begriff scheint hier nicht recht zu passen. Wollte man sich vorstellen, man sähe Ähnlichkeit oder die Verschiedenheit als etwas Bildartiges, so dächte man sie sich etwa im Bild _betont_; so wie man, um Einem zu zeigen, wo die Verschiedenheit zweier Bilder liegt, verschieden ist stark ausziehen kann. Aber wer das Nachgezogene in beiden sieht, bemerkt damit noch nicht die Verschiedenheit der Bilder. Du mußt das Spiel als Ganzes ausschauen, dann siehst Du den Unterschied.
+<span class="series-number">151</span> Soll ich nun hier sagen, der Gesichts*eindruck*, das Sinnesdatum, der visuelle Gegenstand sei ein anderer? Dieser Begriff scheint hier nicht recht zu passen. Wollte man sich vorstellen, man sähe Ähnlichkeit oder die Verschiedenheit als etwas Bildartiges, so dächte man sie sich etwa im Bild _betont_; so wie man, um Einem zu zeigen, wo die Verschiedenheit zweier Bilder liegt, verschieden ist stark ausziehen kann. Aber wer das Nachgezogene in beiden sieht, bemerkt damit noch nicht die Verschiedenheit der Bilder. Du mußt das Spiel als Ganzes ausschauen, dann siehst Du den Unterschied.
 
 ### [Ms-137](/ms-137/#93a.2) <span class="fac">[93a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93a.webp)</span> {#ms-137-93a-2}
 
@@ -708,7 +708,7 @@ Man könnte das so ausdrücken: Es ist nicht so, aber ich _muß_ es glauben.
 
 ### [Ms-137](/ms-137/#93b.1) <span class="fac">[93b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93b.webp)</span> {#ms-137-93b-1}
 
-<span class="series-number">155</span> Auch wenn ich sage “Es besteht eine Ähnlichkeit zwischen diesen (beiden) Gesichtern” kann's mir auf verschiedenerlei ankommen. Es könnte z.B. heißen: Es besteht eine Ähnlichkeit zwischen _dieser_ Art von Gesicht & _dieser_ Art von Gesicht. Wo die beiden Arten durch Beschreibungen charakterisiert werden. Es können nicht die Gesichter _dieser Menschen_ interessieren, oder diese Gesichts**formen**, wo immer ich sie antreffe. Der Unterschied, der mir vorschwebt ist natürlich der zwischen dem Sinn: Diese beiden Striche haben ähnliche Form – & dem: Kreis, Ellipse, Parabel & Hyperbel haben eine Ähnlichkeit mit einander.
+<span class="series-number">155</span> Auch wenn ich sage “Es besteht eine Ähnlichkeit zwischen diesen (beiden) Gesichtern” kann's mir auf verschiedenerlei ankommen. Es könnte z.B. heißen: Es besteht eine Ähnlichkeit zwischen _dieser_ Art von Gesicht & _dieser_ Art von Gesicht. Wo die beiden Arten durch Beschreibungen charakterisiert werden. Es können nicht die Gesichter _dieser Menschen_ interessieren, oder diese Gesichts*formen*, wo immer ich sie antreffe. Der Unterschied, der mir vorschwebt ist natürlich der zwischen dem Sinn: Diese beiden Striche haben ähnliche Form – & dem: Kreis, Ellipse, Parabel & Hyperbel haben eine Ähnlichkeit mit einander.
 
 ### [Ms-137](/ms-137/#93b.2) <span class="fac">[93b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/93b.webp)</span> {#ms-137-93b-2}
 
@@ -2278,7 +2278,7 @@ Wenn ich weiß, daß es verschiedene Aspekte des Würfelschemas gibt, kann ich d
 
 ### [Ms-137](/ms-137/#127b.8+128a.1) <span class="fac">[127b\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127b.webp),[128a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span> {#ms-137-127b-8--128a-1}
 
-<span class="series-number">513</span> Aber man könnte etwa sagen: “Um den Eindruck zu erhalten, den ich habe, mußt Du auf diese Figur schauen, insbesondere auf diesen Teil, & so, daß Dir _dies_ an ihr auffällt.” Aber man tut das nicht. So etwas nennt man nicht “den Gesichtseindruck beschreiben”, wie man auch zu diesem Zweck nicht vorschreibt, wie der Blick des Andern über den Gegenstand zu wandern hat. Das zeigt uns, daß “Gesichtseindruck” etwas wie “Gesichts**bild**” bezeichnen soll, & dies etwas einem Bild verwandtes.
+<span class="series-number">513</span> Aber man könnte etwa sagen: “Um den Eindruck zu erhalten, den ich habe, mußt Du auf diese Figur schauen, insbesondere auf diesen Teil, & so, daß Dir _dies_ an ihr auffällt.” Aber man tut das nicht. So etwas nennt man nicht “den Gesichtseindruck beschreiben”, wie man auch zu diesem Zweck nicht vorschreibt, wie der Blick des Andern über den Gegenstand zu wandern hat. Das zeigt uns, daß “Gesichtseindruck” etwas wie “Gesichts*bild*” bezeichnen soll, & dies etwas einem Bild verwandtes.
 
 ### [Ms-137](/ms-137/#128a.2) <span class="fac">[128a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span> {#ms-137-128a-2}
 
@@ -2804,7 +2804,7 @@ Was teilt uns der mit, der sagt “Jetzt seh ich es als …? Das heißt: Welche 
 
 <span class="series-number">629</span> 03.01.1949
 
-“An was erinnert mich diese Farbe?” – Wer einen Gegenstand anschaut & sich das fragt, – beobachtet der den Gesichts**eindruck**? []
+“An was erinnert mich diese Farbe?” – Wer einen Gegenstand anschaut & sich das fragt, – beobachtet der den Gesichts*eindruck*? []
 
 _---_
 
@@ -2942,7 +2942,7 @@ _---_
 
 ### [Ms-137](/ms-137/#140b.5) <span class="fac">[140b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span> {#ms-137-140b-5}
 
-<span class="series-number">657</span> Wann würde ich's denn ein _bloßes_ Wissen nennen? – Wenn Einer das Bild wie eine Werkzeichnung behandelte. Das, was es darstellt aus ihm heraus**läse**. (Feine Abschattungen des Benehmens.)
+<span class="series-number">657</span> Wann würde ich's denn ein _bloßes_ Wissen nennen? – Wenn Einer das Bild wie eine Werkzeichnung behandelte. Das, was es darstellt aus ihm heraus*läse*. (Feine Abschattungen des Benehmens.)
 
 ### [Ms-137](/ms-137/#140b.6) <span class="fac">[140b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span> {#ms-137-140b-6}
 
@@ -3324,7 +3324,7 @@ Aber heißt das nicht nur, daß ich _diese_ Begriffe, die sich eben _nicht nur_ 
 
 ### [Ms-138](/ms-138/#6b.1) <span class="fac">[6b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/6b.webp)</span> {#ms-138-6b-1}
 
-<span class="series-number">744</span> (Es läßt sich eine Begriffsgrenze ziehen. Aber woher dann überhaupt die Idee des ‘Empfindens’ des Gemeinen, Furchtsamen etc.?) (Nun,) wir _reagieren_ anders auf den zaghaften Gesichtsausdruck, als der, der ihn nicht als zaghaft (im _vollen_ Sinne des Wortes) erkennt. – Nun will ich aber _nicht_ sagen, wir _spüren_ in den Muskeln & Gelenken diese Reaktion. – Nein, wir haben hier einen modifizierten **Empfindungs**begriff.
+<span class="series-number">744</span> (Es läßt sich eine Begriffsgrenze ziehen. Aber woher dann überhaupt die Idee des ‘Empfindens’ des Gemeinen, Furchtsamen etc.?) (Nun,) wir _reagieren_ anders auf den zaghaften Gesichtsausdruck, als der, der ihn nicht als zaghaft (im _vollen_ Sinne des Wortes) erkennt. – Nun will ich aber _nicht_ sagen, wir _spüren_ in den Muskeln & Gelenken diese Reaktion. – Nein, wir haben hier einen modifizierten *Empfindungs*begriff.
 
 ### [Ms-138](/ms-138/#6b.2) <span class="fac">[6b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/6b.webp)</span> {#ms-138-6b-2}
 
@@ -3800,7 +3800,7 @@ James will eigentlich sagen: “Was für ein merkwürdiges Erlebnis! Das Wort is
 
 <span class="series-number">848</span> 10.02.1949
 
-Wenn ich (normalerweise) schreite, gehe, esse, rede, dahin & dorthin schaue _trachte_ ich ebensowenig diese Handlungen auszuführen, als mir das Gesicht eines alten Freundes ‘bekannt _vorkommt_’. Aber versuchen, trachten, sich entschließen sind die Willens**akte**, das worin sich der Wille für uns ausspricht, sie sind das, woran wir denken, wenn wir vom Willen reden.
+Wenn ich (normalerweise) schreite, gehe, esse, rede, dahin & dorthin schaue _trachte_ ich ebensowenig diese Handlungen auszuführen, als mir das Gesicht eines alten Freundes ‘bekannt _vorkommt_’. Aber versuchen, trachten, sich entschließen sind die Willens*akte*, das worin sich der Wille für uns ausspricht, sie sind das, woran wir denken, wenn wir vom Willen reden.
 
 ---
 
@@ -3834,7 +3834,7 @@ Wir können es einen artikulierten Vorgang nennen: denn es geht in einer _Zeitsp
 
 ### [Ms-138](/ms-138/#18b.4) <span class="fac">[18b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/18b.webp)</span> {#ms-138-18b-4}
 
-<span class="series-number">854</span> Denk Dir _dieses_ Spiel – ich nenne es “Tennis ohne Ball”: Die Spieler bewegen sich auf einem Tennisplatz ganz wie im Tennis, sie haben auch Schläger aber keinen Ball. Jeder reagiert auf des Andern stroke so, oder ungefähr so, als hätte ein Ball ihre Reaktion bestimmt. (Manöver) Der der einen ‘Blick’ für das Spiel haben muß beurteilt strittigenfalls, ob ein Ball in's Netz gegangen ist, etc. etc.. Das Spiel hat offenbar große Ähnlichkeit mit dem Tennis & ist doch anderseits **grund**verschieden.
+<span class="series-number">854</span> Denk Dir _dieses_ Spiel – ich nenne es “Tennis ohne Ball”: Die Spieler bewegen sich auf einem Tennisplatz ganz wie im Tennis, sie haben auch Schläger aber keinen Ball. Jeder reagiert auf des Andern stroke so, oder ungefähr so, als hätte ein Ball ihre Reaktion bestimmt. (Manöver) Der der einen ‘Blick’ für das Spiel haben muß beurteilt strittigenfalls, ob ein Ball in's Netz gegangen ist, etc. etc.. Das Spiel hat offenbar große Ähnlichkeit mit dem Tennis & ist doch anderseits *grund*verschieden.
 
 ### [Ms-138](/ms-138/#19a.1) <span class="fac">[19a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/19a.webp)</span> {#ms-138-19a-1}
 
@@ -4250,7 +4250,7 @@ Mit welchem Recht kann man sagen, ein Kind müsse manches lernen, ehe es heuchel
 
 ### [Ms-138](/ms-138/#28b.4) <span class="fac">[28b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/28b.webp)</span> {#ms-138-28b-4}
 
-<span class="series-number">947</span> Und wenn sich das **Ausdrucks**spiel entwickelt, so kann ich freilich sagen, es entwickle sich eine Seele, ein _Inneres_. Aber es ist nun das Innere nicht mehr die Ursache des Ausdrucks. (Sowenig wie das mathematische Denken das Rechnen erzeugt, die Triebkraft des Rechnens ist. Und dies ist eine Bemerkung über Begriffe.)
+<span class="series-number">947</span> Und wenn sich das *Ausdrucks*spiel entwickelt, so kann ich freilich sagen, es entwickle sich eine Seele, ein _Inneres_. Aber es ist nun das Innere nicht mehr die Ursache des Ausdrucks. (Sowenig wie das mathematische Denken das Rechnen erzeugt, die Triebkraft des Rechnens ist. Und dies ist eine Bemerkung über Begriffe.)
 
 ### [Ms-138](/ms-138/#28b.5) <span class="fac">[28b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/28b.webp)</span> {#ms-138-28b-5}
 
