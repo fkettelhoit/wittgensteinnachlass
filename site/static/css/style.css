@@ -1637,3 +1637,19 @@ a.tour-bubble:hover {
   border-bottom: var(--bubble-line);
   transform: rotate(45deg);
 }
+
+/* A gap the typist left for something to be added by hand (🖵 in the transcription), shown as
+   a short dotted blank; and a gap filled from the facsimile (handwritten insertion). */
+span.gap {
+  display: inline-block;
+  width: 1.6em;
+  height: 0.8em;
+  border-bottom: 1px dotted currentColor;
+  vertical-align: baseline;
+}
+
+span.gap-filled {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}

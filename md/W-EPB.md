@@ -380,7 +380,7 @@ Vergleiche mit (38) den folgenden Fall:
 
 39 Ein Brettspiel mit Spielfiguren verschiedener Gestalt, etwa ähnlich dem Schach. Die Art & Weise wie jede Figur ziehen darf ist durch Regeln festgelegt. So lautet für die eine Figur die Regel ‘a c’, für eine andre etwa ‘a c a a’, u.s.f.. Die erste darf also so ziehen:
 
-[→][↑]; die andre so: [→][↑][→][→] .
+<img class="math math-inline math-drawing" src="../math/398a27b73efa520b.svg" alt="horizontal arrow to the right whose tip joins a vertical arrow pointing up" style="width:1.500em;height:1.300em;vertical-align:-0.050em">; die andre so: <img class="math math-inline math-drawing" src="../math/42fc2b56fa849f77.svg" alt="horizontal arrow, then an upward line with no head, then a horizontal line with two arrowheads" style="width:3.200em;height:1.400em;vertical-align:-0.150em">.
 
 Hier könnte man sowohl die Sätze (‘a c’, ‘a c a a’, etc.) als auch die Diagramme, die ihnen entsprechen, Regeln nennen.
 
@@ -420,7 +420,7 @@ Wie erklärt man Einem, in welcher Weise er den Befehl “Geh _dort_ hin!” (mi
 
 Aber kehren wir zu (43) zurück. Ein Forscher besucht diesen Volksstamm & beobachtet den Gebrauch ihrer Zeichen. Er beschreibt dann ihre Sprache & sagt, die Sätze bestünden aus den Buchstaben ‘a’, ‘b’, ‘c’, ‘d’, diese werden gemäß der Regel
 
-abcd | → ←↑↓
+<img class="math math-block" src="../math/3b41792967abb110.svg" alt="\begin{array}{|c|c|}\hline a &amp; \rightarrow \\ \hline b &amp; \leftarrow \\ \hline c &amp; \uparrow \\ \hline d &amp; \downarrow \\ \hline \end{array}" style="display:block;width:3.630em;height:5.800em">
 
 gebraucht. – Wir sehen, daß der Ausdruck ‘es wird nach der Regel so & so vorgegangen’ nicht bloß in Fällen wie (37), (40), (41), (42) gebraucht wird, sondern auch dort, wo die Regel (oder sollen wir sagen ‘ihr Ausdruck’) weder ein Werkzeug in der Praxis, noch im Unterricht des Spiels ist. Zur Sprache (43) verhält sich die Tabelle vielmehr wie ein Naturgesetz zur Erscheinung, die es beschreibt. Die Tabelle ist in diesem Beispiel ein Satz der Naturgeschichte jenes Stammes.
 
@@ -438,7 +438,7 @@ Nach einem Unterricht dieser Art erhält B einen Befehl von der Form:
 
 _r r t s s_
 
-rst | ↗ ↖↓
+<img class="math math-block" src="../math/ed14332fe1a762e0.svg" alt="\begin{array}{c|c} r &amp; \nearrow \\ s &amp; \nwarrow \\ t &amp; \downarrow \end{array}" style="display:block;width:3.178em;height:4.050em">
 
 Er führt den Befehl aus, indem er sich so bewegt:
 
@@ -1442,13 +1442,13 @@ Dieses Bild, ungefähr, liegt hinter unserer Idee, in (123) müsse das Subjekt d
 
 ### [Ms-115](/ms-115/#254.2+255.1) <span class="fac">[254\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/254.webp),[255\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/255.webp)</span> {#ms-115-254-2--255-1}
 
-125 Stellen wir die Frage: – “Sollen wir sagen, daß die (beiden) Pfeile, → und ←, in verschiedenen Richtungen weisen, oder in der gleichen?” – Auf den ersten Blick sagt man: “Natürlich in verschiedenen.” – Aber sieh die Sache _so_ an: Wenn ich in den Spiegel sehe & sehe das Spiegelbild eines _Gesichtes_, so kann das das Kennzeichen dafür sein, daß ich meinen eigenen Kopf im Spiegel sehe; sähe ich anderseits im Spiegel einen Hinterkopf so könnte ich sagen: “Es kann nicht mein Kopf sein, es ist einer, der in entgegengesetzter Richtung schaut”. _So_ könnte ich sagen: ein Pfeil & das Spiegelbild eines Pfeiles zeigen in _gleicher_ Richtung, wenn ihre Spitzen einander zugekehrt sind, & in entgegengesetzter, wenn die Spitze des einen der Feder des andern zugekehrt ist. – Nimm an jemand hätte den gewöhnlichen Gebrauch des Wortes ‘gleich’ gelernt in den Verbindungen: ‘die gleiche Farbe’, ‘die gleiche Form’, ‘die gleiche Länge’; er kennt auch den Gebrauch des Wortes ‘gerichtet’ in Verbindungen wie ‘der Pfeil ist auf den Baum gerichtet’. – Nun zeigen wir ihm die zwei Paare von Pfeilen: und | →←→→; & fragen ihn, von welchen zweien er sagen möchte, sie seien ‘_gleich gerichtet_’. – Wenn nun gewisse Anwendungen in seinen Gedanken obenauf liegen, ist es da nicht leicht vorzustellen, daß er vom _ersten_ Paar sagen wird, sie seien _gleich_ gerichtet?
+125 Stellen wir die Frage: – “Sollen wir sagen, daß die (beiden) Pfeile, → und ←, in verschiedenen Richtungen weisen, oder in der gleichen?” – Auf den ersten Blick sagt man: “Natürlich in verschiedenen.” – Aber sieh die Sache _so_ an: Wenn ich in den Spiegel sehe & sehe das Spiegelbild eines _Gesichtes_, so kann das das Kennzeichen dafür sein, daß ich meinen eigenen Kopf im Spiegel sehe; sähe ich anderseits im Spiegel einen Hinterkopf so könnte ich sagen: “Es kann nicht mein Kopf sein, es ist einer, der in entgegengesetzter Richtung schaut”. _So_ könnte ich sagen: ein Pfeil & das Spiegelbild eines Pfeiles zeigen in _gleicher_ Richtung, wenn ihre Spitzen einander zugekehrt sind, & in entgegengesetzter, wenn die Spitze des einen der Feder des andern zugekehrt ist. – Nimm an jemand hätte den gewöhnlichen Gebrauch des Wortes ‘gleich’ gelernt in den Verbindungen: ‘die gleiche Farbe’, ‘die gleiche Form’, ‘die gleiche Länge’; er kennt auch den Gebrauch des Wortes ‘gerichtet’ in Verbindungen wie ‘der Pfeil ist auf den Baum gerichtet’. – Nun zeigen wir ihm die zwei Paare von Pfeilen: <img class="math math-inline math-stacked" src="../math/37748ab882486ac0.svg" alt="\begin{array}{cc}  &amp; →← \\ \text{und} &amp; →→ \end{array}" style="width:5.636em;height:2.650em;vertical-align:-1.075em">; & fragen ihn, von welchen zweien er sagen möchte, sie seien ‘_gleich gerichtet_’. – Wenn nun gewisse Anwendungen in seinen Gedanken obenauf liegen, ist es da nicht leicht vorzustellen, daß er vom _ersten_ Paar sagen wird, sie seien _gleich_ gerichtet?
 
 ### [Ms-115](/ms-115/#255.4+256.1) <span class="fac">[255\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/255.webp),[256\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/256.webp)</span> {#ms-115-255-4--256-1}
 
 (Insbesondere könnte ich mir vorstellen, daß er sich weigert die Pfeile
 
-→→
+<img class="math math-block" src="../math/6494c9e8caeb29c4.svg" alt="\begin{array}{l} → \\ → \end{array}" style="display:block;width:1.920em;height:2.650em">
 
 als ‘gleich gerichtet’ zu bezeichnen, da es keine Stelle gibt, auf die sie beide zeigen.)
 
@@ -1712,9 +1712,9 @@ Freilich, man sagt “Ich glaube & sage, es wird regnen”; & das klingt, als li
 
 Es fragt mich jemand: “Welche Farbe hat das Buch dort?” Ich antworte: “Rot”. Er: “Warum nennst Du seine Farbe ‘rot’?” – Ich werde normalerweise sagen müssen: “Aus keinem Grunde. – Ich habe hingesehen, & das Wort ‘rot’ gesagt.” Hier möchte man sagen: “Das kann doch nicht _alles_ sein! Du könntest doch auf eine Farbe schauen & ein Wort dabei sagen & doch die Farbe nicht benennen.” Und dann fällt uns leicht die Erklärung ein: “Wenn ich das Wort als Name dieser Farbe ausspreche so kommt es mir in einer besondern Weise.” Fragt man aber, auf welche Weise, so können wir keine Beschreibung von ihr geben. Nun könnte man fragen: “Erinnerst Du Dich also, daß Dir das Wort bei so einer Gelegenheit immer in dieser selben Weise gekommen ist?” & ich muß gestehen, daß wir uns an keine besondere Weise erinnern. Ja es ist leicht zu sehen, daß wir beim Benennen einer Farbe ganz verschiedenartige Erfahrungen haben können. Denke etwa an diese Fälle: 1) Ich habe ein Eisen ins Feuer gelegt, will es auf helle Rotglut erhitzen & sage: “Gib auf das Eisen acht & sag mir von Zeit zu Zeit, welchen Hitzegrad es erreicht hat.” Du beobachtest es & sagst: “Es fängt an hellrot zu werden.” –
 
-2) Wir stehen an einer Straßenkreuzung & ich sage: Schau auf das Lichtzeichen & sag mir wenn grün kommt; dann lauf ich hinüber.” Frage Dich: wenn Du nun in _einem_ solchen Falle “Grün!” sagst & in einem andern “Lauf!”, kommen Dir diese beiden Wörter in verschiedener Weise, oder auf die gleiche? Kannst Du hierüber irgendetwas _im allgemeinen_ sagen?
+2\) Wir stehen an einer Straßenkreuzung & ich sage: Schau auf das Lichtzeichen & sag mir wenn grün kommt; dann lauf ich hinüber.” Frage Dich: wenn Du nun in _einem_ solchen Falle “Grün!” sagst & in einem andern “Lauf!”, kommen Dir diese beiden Wörter in verschiedener Weise, oder auf die gleiche? Kannst Du hierüber irgendetwas _im allgemeinen_ sagen?
 
-3) Ich frage Dich: “Was hat der Stoff dort für eine Farbe?” Du denkst: “Wie nennt man ihn nur? heißt das ‘Preußisch Blau’, oder ‘Indigo’?”
+3\) Ich frage Dich: “Was hat der Stoff dort für eine Farbe?” Du denkst: “Wie nennt man ihn nur? heißt das ‘Preußisch Blau’, oder ‘Indigo’?”
 
 ### [Ms-115](/ms-115/#285.2+286.1) <span class="fac">[285\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/285.webp),[286\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/286.webp)</span> {#ms-115-285-2--286-1}
 

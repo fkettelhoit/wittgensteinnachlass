@@ -369,7 +369,7 @@ Approximately: It is in _the law_ of this series not to contain any figure … F
 
 ### [Ms-126](/ms-126/#68.2+69.1) <span class="fac">[68\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/68.webp),[69\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/69.webp)</span> {#ms-126-68-2--69-1}
 
-‘But surely all terms of the series from <img class="math math-inline math-stacked" src="../math/2722bfc80b6c7b7a.svg" alt="{1}^{\text{sten}}" style="width:1.864em;height:0.805em;vertical-align:-0.003em"> to <img class="math math-inline math-stacked" src="../math/4476b550329c4742.svg" alt="100{0}^{\text{sten}}" style="width:3.364em;height:0.822em;vertical-align:-0.020em">, up to the 10¹⁰th, and so on, are determined; so surely _all_ terms are determined.’ That is correct, if it is to mean that it is not (for example) the so-and-so-th term _that_ _is_ undetermined. But you see that _this_ gives you no indication as to whether a figure will appear in the series (if it has not appeared by that point). _We see_, _then_, that we are using a misleading _image_.
+‘But surely all terms of the series from <img class="math math-inline math-stacked" src="../math/2722bfc80b6c7b7a.svg" alt="{1}^{\text{sten}}" style="width:1.864em;height:0.805em;vertical-align:-0.003em"> to <img class="math math-inline math-stacked" src="../math/2c70ee1f9c1ad9e2.svg" alt="{1000}^{\text{sten}}" style="width:3.364em;height:0.880em;vertical-align:-0.020em">, up to the 10¹⁰th, and so on, are determined; so surely _all_ terms are determined.’ That is correct, if it is to mean that it is not (for example) the so-and-so-th term _that_ _is_ undetermined. But you see that _this_ gives you no indication as to whether a figure will appear in the series (if it has not appeared by that point). _We see_, _then_, that we are using a misleading _image_.
 
 
 ### [Ms-126](/ms-126/#69.2) <span class="fac">[69\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/69.webp)</span> {#ms-126-69-2}
@@ -945,7 +945,7 @@ But the line is a _law_ of progression.*
 
 ### [Ms-127](/ms-127/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/17.webp)</span> {#ms-127-17-2}
 
-The concepts of the limit and continuity, as they are introduced today, are implicitly linked to the concept of _proof_. For we say <img class="math math-inline math-stacked" src="../math/7e6396f0d3694b73.svg" alt="\stack{\text{lim}}{x→∞}\;f(x)=ℓ" style="width:5.644em;height:1.310em;vertical-align:-0.353em"> when it can be _proven_ that … That is to say, we use concepts that are infinitely more difficult to grasp than those we openly present.
+The concepts of the limit and continuity, as they are introduced today, are implicitly linked to the concept of _proof_. For we say <img class="math math-inline math-stacked" src="../math/0ac3a121818fc783.svg" alt="\lim\limits&#95;{x→∞}\;f(x)=ℓ" style="width:5.571em;height:1.444em;vertical-align:-0.711em"> when it can be _proven_ that … That is to say, we use concepts that are infinitely more difficult to grasp than those we openly present.
 
 
 ### [Ms-127](/ms-127/#20.2+21.1+21.2+22.1) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/20.webp),[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/22.webp)</span> {#ms-127-20-2--21-1--21-2--22-1}
@@ -1072,9 +1072,9 @@ The misleading aspect of the usual **representation** consists in the fact that 
 
 Compare the two forms of explanation:
 
-“We say <img class="math math-inline math-stacked" src="../math/c67f36460d68c472.svg" alt="\stack{\text{lim}}{\text{nx}→∞}\;\Phi(x)=L" style="width:6.681em;height:1.304em;vertical-align:-0.347em">,
+“We say <img class="math math-inline" src="../math/c85529e0ed3a6fd3.svg" alt="\lim\limits&#95;{x\to\infty}\Phi(x)=L" style="width:5.907em;height:1.437em;vertical-align:-0.711em">,
 
-_if it can be shown_ that ‥‥”, & “<img class="math math-inline math-stacked" src="../math/c02e4b87db35dfef.svg" alt="\stack{\text{lim}}{n→∞}\;\Phi(n)=L" style="width:6.354em;height:1.309em;vertical-align:-0.351em"> means:
+_if it can be shown_ that ‥‥”, & “<img class="math math-inline math-stacked" src="../math/e9602b6b8807cdbf.svg" alt="\lim\limits&#95;{n→∞}\;\Phi(n)=L" style="width:6.281em;height:1.435em;vertical-align:-0.709em"> means:
 
 _for every_ ε there is a δ‥‥”
 

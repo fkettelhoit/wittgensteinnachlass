@@ -1060,7 +1060,7 @@ Ein unentschiedener Satz der Mathematik ist etwas, was weder als Regel, noch als
 
 ### [Ms-124](/ms-124/#135.3) <span class="fac">[135\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/135.webp)</span> {#ms-124-135-3}
 
-Denke Dir den <img class="math math-inline math-stacked" src="../math/b5aa7bf64a6d9424.svg" alt="\stack{\text{lim}}{n→∞}\;\text{φn}=ℓ" style="width:5.175em;height:1.309em;vertical-align:-0.351em"> als eine Eigenschaft eines Musikstücks (etwa). Aber natürlich nicht _so_ daß das Stück endlos weiterliefe, sondern als eine dem Ohr erkennbare Eigenschaft (gleichsam _algebraische_ Eigenschaft) des Stückes.
+Denke Dir den <img class="math math-inline math-stacked" src="../math/3c47eeb31a95a6ca.svg" alt="\lim\limits&#95;{n→∞}\;\varphi n=ℓ" style="width:5.044em;height:1.435em;vertical-align:-0.709em"> als eine Eigenschaft eines Musikstücks (etwa). Aber natürlich nicht _so_ daß das Stück endlos weiterliefe, sondern als eine dem Ohr erkennbare Eigenschaft (gleichsam _algebraische_ Eigenschaft) des Stückes.
 
 ### [Ms-124](/ms-124/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/137.webp)</span> {#ms-124-137-2}
 

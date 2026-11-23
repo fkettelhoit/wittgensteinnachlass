@@ -714,11 +714,11 @@ Ich möchte sagen, daß, wo die Übersehbarkeit nicht vorhanden ist, wo also fü
 
 Oder: Die Logik als Grundlage aller Mathematik tut's schon darum nicht, weil die Beweiskraft der logischen Beweise mit ihrer geometrischen Beweiskraft steht & fällt.
 
-### [Ms-122](/ms-122/#83r.3+83v.1) <span class="fac">[83r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83r.webp),[83v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83v.webp)</span> {#ms-122-83r-3--83v-1}
+### [Ms-122](/ms-122/#83r.3+83v.1) <span class="fac">[83r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83r.webp),[83v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83v.284r.webp)</span> {#ms-122-83r-3--83v-1}
 
 D.h.: der logische Beweis, etwa von der Russellschen Art, ist beweiskräftig nur solange, als er auch geometrische Überzeugungskraft besitzt. Und eine ‘Abkürzung’ eines solchen logischen Beweises kann diese Überzeugungskraft haben & durch sie ein Beweis sein, wenn die (voll) ausgeführte Konstruktion nach R-scher Art es nicht ist.
 
-### [Ms-122](/ms-122/#83v.2+84r.1) <span class="fac">[83v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83v.webp),[84r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84r.webp)</span> {#ms-122-83v-2--84r-1}
+### [Ms-122](/ms-122/#83v.2+84r.1) <span class="fac">[83v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83v.284r.webp),[84r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84r.webp)</span> {#ms-122-83v-2--84r-1}
 
 Wir neigen dazu, zu glauben, daß der _logische_ Beweis eine eigene, absolute Beweiskraft habe, welche von der unbedingten Sicherheit der logischen Grund- & Schlußgesetze herrührt. Während doch die so bewiesenen Sätze nicht sicherer sein können, als es die Richtigkeit der _Anwendung_ jener Schlußgesetze ist.
 

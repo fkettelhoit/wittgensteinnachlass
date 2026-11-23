@@ -84,7 +84,7 @@ Erinnere dich daß die Worte „Funktion” „Argument” „Satz” etc. in de
 
 ### [Ms-101](/ms-101/#19r.3) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/19r.webp)</span> {#ms-101-19r-3}
 
-<img class="math math-block" src="../math/ba1bc90b4d9536bb.svg" alt="\Phi[\text{ẑψz}].≝.\text{φx}{≡}&#95;{x}\text{ψx}\;.{⊃}&#95;{\varphi}.\text{Φφ}" style="display:block;width:12.626em;height:1.212em">
+<img class="math math-block" src="../math/31ffacd2a9f49bde.svg" alt="\Phi[\hat{z}\psi z]\cdot\overset{\text{Def}}{=}\cdot\varphi x\equiv&#95;{x}\psi x\cdot\supset&#95;{\varphi}\cdot\Phi\varphi" style="display:block;width:13.393em;height:1.550em">
 
 Von zwei Klassen zu sagen sie seien identisch sagt etwas. Von zwei Dingen dies zu sagen sagt nichts dies schon zeigt die Unzulässigkeit der Russellschen Definition
 
@@ -456,7 +456,7 @@ Die Logik sorgt für sich selbst; wir müssen ihr nur zusehen wie sie es macht.
 
 ### [Ms-101](/ms-101/#39r.5+40r.1) <span class="fac">[39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/39r.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/40r.webp)</span> {#ms-101-39r-5--40r-1}
 
-Betrachten wir den Satz: „Es gibt eine Klasse mit nur einem Glied”. Oder, was auf dasselbe hinauskommt den Satz: <img class="math math-inline math-stacked" src="../math/3abd1948ee8ab87d.svg" alt="(∃\varphi):.\;(∃x):\text{φx}:\text{φy}\;.\;\text{φz}\;.{⊃}&#95;{y,z}.\;y=z" style="width:16.856em;height:1.045em;vertical-align:-0.345em">
+Betrachten wir den Satz: „Es gibt eine Klasse mit nur einem Glied”. Oder, was auf dasselbe hinauskommt den Satz: <img class="math math-inline math-stacked" src="../math/f29d3f88d1eeff6d.svg" alt="(∃\varphi):.\;(∃x):\varphi x:\varphi y\;.\;\varphi z\;.{⊃}&#95;{y,z}.\;y=z" style="width:16.632em;height:1.045em;vertical-align:-0.345em">
 
 Bei „(∃x)x = x” konnte man verstehen daß er tautologisch sei da er überhaupt nicht hingeschrieben werden könnte wenn er falsch wäre, aber hier! _Dieser_ Satz kann an Stelle des infin. ax. untersucht werden!
 
@@ -632,7 +632,11 @@ Die Theorie der logischen Abbildung durch die Sprache sagt – ganz allgemein: D
 
 ### [Ms-101](/ms-101/#53r.2) <span class="fac">[53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/53r.webp)</span> {#ms-101-53r-2}
 
-Das was in „~p” verneint ist nicht das „~” vor dem „p” sondern dasjenige was allen Zeichen die in dieser Notation mit „~p” gleichbedeutend sind gemeinsam ist; also das Gemeinsame von ~p ~~~p ~p⌵~p ~p ∙ ~p etc. etc. und dasselbe gilt für die Allgemeinheitsbezeichnung etc..
+Das was in „~p” verneint ist nicht das „~” vor dem „p” sondern dasjenige was allen Zeichen die in dieser Notation mit „~p” gleichbedeutend sind gemeinsam ist; also das Gemeinsame von
+
+<img class="math math-block" src="../math/7f7ab3aed09b8ec2.svg" alt="\begin{array}{l} {\sim}p \\ {\sim}{\sim}{\sim}p \\ {\sim}p\vee{\sim}p \\ {\sim}p\cdot{\sim}p \\ \text{etc}.\text{etc}. \end{array}" style="display:block;width:4.720em;height:6.954em">
+
+und dasselbe gilt für die Allgemeinheitsbezeichnung etc..
 
 ### [Ms-101](/ms-101/#53r.3) <span class="fac">[53r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/53r.webp)</span> {#ms-101-53r-3}
 
@@ -660,7 +664,7 @@ Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klass
 
 0 = α̂ {(∃φ):(x)~φx ․α = û (φu)} Def
 
-<img class="math math-block" src="../math/4c6759c9df184d84.svg" alt="1=\hat{\alpha}\;\{(∃\varphi)∷(∃x)\;.\text{φx}.\text{φy}.\text{φz}{⊃}&#95;{\text{yz}}y=z:\alpha=\hat{u}(\text{φu})\}\text{Def}" style="display:block;width:24.625em;height:1.204em">
+<img class="math math-block" src="../math/8bcbdc7f6f3113e9.svg" alt="1=\hat{\alpha}\;\{(\exists\varphi)\mathbin{:}\mathbin{:}(\exists x)\cdot\varphi x\cdot\varphi y\cdot\varphi z\supset&#95;{yz}y=z:\alpha=\hat{u}(\varphi u)\}\;\text{Def}" style="display:block;width:25.514em;height:1.199em">
 
 [Das Gleichheitszeichen in der geschweiften Klammer könnte man _vermeiden_ wenn man schriebe
 
@@ -1268,7 +1272,7 @@ Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine so sage ich da�
 
 ### [Ms-102](/ms-102/#28r.2) <span class="fac">[28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/28r.webp)</span> {#ms-102-28r-2}
 
-Ist <img class="math math-inline math-stacked" src="../math/0baecb095cacb236.svg" alt="x≠x\;.{≡}&#95;{x}.\;\text{φx}" style="width:6.087em;height:0.926em;vertical-align:-0.276em"> identisch mit (x).~φx? Gewiß!
+Ist <img class="math math-inline math-stacked" src="../math/993c613682069638.svg" alt="x≠x\;.{≡}&#95;{x}.\;\varphi x" style="width:6.039em;height:0.926em;vertical-align:-0.276em"> identisch mit (x).~φx? Gewiß!
 
 ### [Ms-102](/ms-102/#28r.3) <span class="fac">[28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/28r.webp)</span> {#ms-102-28r-3}
 
@@ -1330,7 +1334,7 @@ Projektion des Bildes auf die Wirklichkeit
 
 ![](../graphics/102,32r-2.svg)
 
-| WirklichkeitModell (Bild)
+WirklichkeitModell (Bild)
 
 (Maxwells Methode der mechanischen Modelle)
 
@@ -1530,7 +1534,7 @@ Was gezeigt werden _kann_ kann nicht gesagt werden.
 
 ### [Ms-102](/ms-102/#46r.5+47r.1) <span class="fac">[46r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/46r.webp),[47r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/47r.webp)</span> {#ms-102-46r-5--47r-1}
 
-Ich glaube man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u.u.) andeuten. Es wäre dann freilich φ(a, a) kein spezieller Fall von (x,y)․φ(x,y) und φa keiner von (∃x,y)․φx․φy. Dann aber könnte man statt <img class="math math-inline math-stacked" src="../math/d79d60553c1e4cf1.svg" alt="\text{φx}.\text{φy}{⊃}&#95;{x,y}\;x=y" style="width:7.167em;height:0.895em;vertical-align:-0.345em"> einfach schreiben ~(∃x,y) . φx․φy.
+Ich glaube man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u.u.) andeuten. Es wäre dann freilich φ(a, a) kein spezieller Fall von (x,y)․φ(x,y) und φa keiner von (∃x,y)․φx․φy. Dann aber könnte man statt <img class="math math-inline" src="../math/62b9e8fb239113fb.svg" alt="\varphi x \cdot \varphi y \supset&#95;{x,y} x = y" style="width:7.616em;height:0.895em;vertical-align:-0.345em"> einfach schreiben ~(∃x,y) . φx․φy.
 
 ### [Ms-102](/ms-102/#47r.2) <span class="fac">[47r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/47r.webp)</span> {#ms-102-47r-2}
 
@@ -1966,7 +1970,7 @@ Das subjektive Universum.
 
 Statt die logischen Operationen im Satz an dessen Teilsätzen zu vollziehen, können wir diesen auch _Marken_ zuordnen und mit ihnen operieren. Dann ist _einem_ Satzbild ein mit ihm in kompliziertester Weise zusammenhängendes Markensternbild zugeordnet.
 
-<img class="math math-block" src="../math/51fd1c3610c45837.svg" alt="\;(\stack{\text{aRb}}{p},\stack{\text{cSd}}{q},\stack{\text{φe}}{r})\;((p\;⌵\;q)\;.\;r:⊃:q\;.\;r≡p\;⌵\;r)" style="display:block;width:19.603em;height:2.364em">
+<img class="math math-block" src="../math/4d0227a7db258186.svg" alt="(\stack{aRb}{p},\ \stack{cSd}{q},\ \stack{\varphi e}{r})\ ((p\vee q)\cdot r:\supset:q\cdot r\equiv p\vee r)" style="display:block;width:19.011em;height:2.371em">
 
 ### [Ms-102](/ms-102/#73r.2) <span class="fac">[73r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/73r.webp)</span> {#ms-102-73r-2}
 
@@ -2724,7 +2728,9 @@ Der Satz sagt, es ist: _so_, und nicht: _so_. Er stellt eine Möglichkeit dar un
 
 ### [Ms-102](/ms-102/#128r.2) <span class="fac">[128r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/128r.webp)</span> {#ms-102-128r-2}
 
-<img class="math math-inline math-stacked" src="../math/b9e10e654af9a004.svg" alt="\;{\sim}p{p}&#95;{•}\;{\sim}p\;{\sim}q{q}&#95;{•}\;{\sim}q\;{\sim}r{r}&#95;{•}\;{\sim}r\;{\sim}s{s}&#95;{•}\;{\sim}s" style="width:15.427em;height:0.758em;vertical-align:-0.276em"> Die Möglichkeit von „p⌵q” wenn „p” gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von „~p”.
+<img class="math math-block" src="../math/978ce8688d02cf19.svg" alt="\begin{array}{c|c|c} {\sim}p &amp; p&#95;{\circ} &amp; {\sim}p \\ \hline {\sim}q &amp; q&#95;{\circ} &amp; {\sim}q \\ \hline {\sim}r &amp; r&#95;{\circ} &amp; {\sim}r \\ \hline {\sim}s &amp; s&#95;{\circ} &amp; {\sim}s \end{array}" style="display:block;width:6.578em;height:5.712em">
+
+Die Möglichkeit von „p⌵q” wenn „p” gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von „~p”.
 
 ### [Ms-102](/ms-102/#128r.3) <span class="fac">[128r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/128r.webp)</span> {#ms-102-128r-3}
 
@@ -2846,7 +2852,7 @@ Aus allen Sätzen folgt das Gegenteil von „p․~p”, heißt das soviel daß �
 
 ### [Ms-102](/ms-102/#137r.2) <span class="fac">[137r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/137r.webp)</span> {#ms-102-137r-2}
 
-<img class="math math-block" src="../math/f9aaa2d84af1f8ef.svg" alt="\stack{\text{CKontradicktion}\;├⚬┤\;\text{Tautologie}}{\text{Satz}}" style="display:block;width:14.778em;height:2.182em">
+<img class="math math-block" src="../math/c5e439407a10053c.svg" alt="\text{Contradiction}\,\vert\underline{\hspace{6em}}\underset{\text{Satz}}{\underline{\circ}}\underline{\hspace{6em}}\vert\,\text{Tautologie}" style="display:block;width:25.403em;height:1.653em">
 
 ### [Ms-102](/ms-102/#137r.3) <span class="fac">[137r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/137r.webp)</span> {#ms-102-137r-3}
 
@@ -3366,7 +3372,7 @@ Angenommen mir wären _alle_ einfachen Sätze gegeben: Dann läßt sich einfach 
 
 ### [Ms-103](/ms-103/#2r.5+3r.1) <span class="fac">[2r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/2r.webp),[3r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/3r.webp)</span> {#ms-103-2r-5--3r-1}
 
-<img class="math math-block" src="../math/e621627f8a70cf9d.svg" alt="(p):p=\text{aRx}.\text{xRy}\;…\;\text{zRb}\;(p):p=\text{aRx}\;F\;(\hat{x}(\text{φx}))\;.=.\;\varphi≡\psi{⊃}&#95;{\psi}\;\text{Fψ}\;\Phi≡\psi\;.{⊃}&#95;{\psi}.\;[F\;(\hat{x}\;(\text{ψx}))=\psi≡\chi{⊃}&#95;{\chi}\text{Fχ}]=[F(\hat{x}(\text{ψx}))=t\;\varepsilon\;\hat{z}\;(\text{Φz}){≡}&#95;{t}\;\text{χt}{⊃}&#95;{\chi}\;\text{Fχ}]" style="display:block;width:63.299em;height:1.199em">
+<img class="math math-block" src="../math/2f71e163b68f4607.svg" alt="\begin{array}{l} (p):p=aRx\cdot xRy\ldots zRb \\ (p):p=aRx \\ F(\hat{x}(\varphi x))\;.=.\;\varphi\equiv\psi\supset&#95;{\psi}F\psi \\ \phi\equiv\psi\;.\supset&#95;{\psi}.\;[F(\hat{x}(\psi x))=\psi\equiv\chi\supset&#95;{\chi}F\chi]= \\ =[F(\hat{x}(\psi x))=t\,\varepsilon\,\hat{z}(\phi z)\equiv&#95;{t}\chi t\supset&#95;{\chi}F\chi] \end{array}" style="display:block;width:18.903em;height:7.464em">
 
 ### [Ms-103](/ms-103/#3r.2) <span class="fac">[3r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/3r.webp)</span> {#ms-103-3r-2}
 

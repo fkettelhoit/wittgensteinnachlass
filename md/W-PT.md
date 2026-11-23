@@ -92,7 +92,7 @@ _Kürnberger_
 
 ### [Ms-104](/ms-104/#3.15) <span class="fac">[3\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-3-15}
 
-<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <img class="math math-inline math-stacked" src="../math/c23a12e75556dd62.svg" alt="\vert N({\overline{p}}&#95;{o}),\;ᾱ,\;N(ᾱ)\vert" style="width:7.206em;height:1.141em;vertical-align:-0.319em">
+<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <img class="math math-inline" src="../math/e7583ee24f66cf7e.svg" alt="\vert N(\overline{p}&#95;{o}),\;\overline{\alpha},\;N(\overline{\alpha})\vert" style="width:7.080em;height:1.141em;vertical-align:-0.319em">
 
 ### [Ms-104](/ms-104/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-4-1}
 
@@ -288,7 +288,7 @@ ein Satzzeichen.
 
 <span class="series-number">4˙432</span> Der Deutlichkeit halber schreiben wir dieses Zeichen nun so:
 
-›WWFW‹
+<img class="math math-block" src="../math/772a90cf7cbb220a.svg" alt="\begin{array}{c}›\end{array}\begin{array}{cc|c} p &amp; q &amp; \\ F &amp; F &amp; W \\ W &amp; F &amp; W \\ F &amp; W &amp; F \\ W &amp; W &amp; W \end{array}\begin{array}{c}‹\end{array}" style="display:block;width:8.672em;height:6.876em">
 
 Die nach §4˙43 auf diese Weise gebauten Satzzeichen nennen wir Satzzeichen der ersten Art.
 
@@ -408,7 +408,7 @@ Was denkbar ist, ist auch möglich.
 
 ### [Ms-104](/ms-104/#9.7) <span class="fac">[9\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-9-7}
 
-<span class="series-number">4˙24</span> Bezüglich des Bestehens und nicht Bestehens von n Sachverhalten gibt es <img class="math math-inline math-stacked" src="../math/080cd4737bcde333.svg" alt="{K}&#95;{n}=\overset{n}{\underset{0}{\Sigma}}\;(\stack{n}{\nu})" style="width:4.928em;height:2.104em;vertical-align:-0.771em"> Möglichkeiten.
+<span class="series-number">4˙24</span> Bezüglich des Bestehens und nicht Bestehens von n Sachverhalten gibt es <img class="math math-inline" src="../math/0ab545a690312dce.svg" alt="K&#95;{n}=\sum\limits&#95;{0}^{n}\nu\,(\stack{n}{\nu})" style="width:5.774em;height:2.409em;vertical-align:-1.018em"> Möglichkeiten.
 
 ### [Ms-104](/ms-104/#9.8) <span class="fac">[9\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-9-8}
 
@@ -422,7 +422,7 @@ Was denkbar ist, ist auch möglich.
 
 <span class="series-number">4˙31</span> Die Wahrheitsmöglichkeiten können wir durch ein Schema folgender Art darstellen: („p”, „q”, „r” sind Elementarsätze. „W” bedeutet „wahr”, „F” „falsch” die Reihen der „W” und „F” unter der Reihe der Elementarsätze bedeuten in leicht verständlicher Symbolik deren Wahrheitsmöglichkeiten.)
 
-pWFWWFFWF | qWWFWFWFF | rWWWFWFFF | pWFWF | qWWFF | pWF
+<img class="math math-block" src="../math/a48cb6144a37896d.svg" alt="\begin{array}[t]{c|c|c} p &amp; q &amp; r \\ \hline W &amp; W &amp; W \\ F &amp; W &amp; W \\ W &amp; F &amp; W \\ W &amp; W &amp; F \\ F &amp; F &amp; W \\ F &amp; W &amp; F \\ W &amp; F &amp; F \\ F &amp; F &amp; F \end{array}\qquad\qquad\begin{array}[t]{c|c} p &amp; q \\ \hline W &amp; W \\ F &amp; W \\ W &amp; F \\ F &amp; F \end{array}\qquad\qquad\begin{array}[t]{c} p \\ \hline W \\ F \end{array}" style="display:block;width:20.090em;height:12.546em">
 
 Wir nennen dies das Schema I.
 
@@ -584,7 +584,7 @@ Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch; die
 
 ### [Ms-104](/ms-104/#13.11) <span class="fac">[13\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-11}
 
-<span class="series-number">4˙4011</span> <img class="math math-inline math-stacked" src="../math/b8450133373f4da3.svg" alt="{L}&#95;{n}=\overset{\text{Kn}}{\underset{0}{\Sigma}}\;(\stack{\text{Kn}}{\mu})" style="width:5.564em;height:2.253em;vertical-align:-0.771em">
+<span class="series-number">4˙4011</span> <img class="math math-inline" src="../math/38da5b15e6063496.svg" alt="L&#95;{n}=\sum\limits&#95;{0}^{K&#95;{n}}{}^{\mu}\left(\stack{K&#95;{n}}{\mu}\right)" style="width:6.363em;height:2.579em;vertical-align:-1.018em">
 
 ### [Ms-104](/ms-104/#13.12) <span class="fac">[13\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-12}
 
@@ -1028,7 +1028,7 @@ Das räumliche Bild alles Räumliche etc.
 
 ### [Ms-104](/ms-104/#23.5) <span class="fac">[23\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-23-5}
 
-<span class="series-number">4˙1022725</span> So kann man z.B. nicht sagen „Es gibt Gegenstände”, wie man etwa sagt „Es gibt Bücher”. Und ebensowenig: „Es gibt 100 Gegenstände.” oder „Es gibt <img class="math math-inline math-stacked" src="../math/4e318f3951cc8018.svg" alt="{ℵ}&#95;{0}" style="width:1.100em;height:0.894em;vertical-align:-0.164em"> Gegenstände.”.
+<span class="series-number">4˙1022725</span> So kann man z.B. nicht sagen „Es gibt Gegenstände”, wie man etwa sagt „Es gibt Bücher”. Und ebensowenig: „Es gibt 100 Gegenstände.” oder „Es gibt <img class="math math-inline" src="../math/e3d5c9d5569bd401.svg" alt="\aleph&#95;{0}" style="width:1.100em;height:0.887em;vertical-align:-0.164em"> Gegenstände.”.
 
 ### [Ms-104](/ms-104/#23.6) <span class="fac">[23\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-23-6}
 
@@ -2074,7 +2074,7 @@ Jede richtige Zeichensprache muß sich in jede andere nach solchen Regeln übers
 
 ### [Ms-104](/ms-104/#57.7+58.1) <span class="fac">[57\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-57-7--58-1}
 
-<span class="series-number">5˙422</span> Elementarsätze bezeichnen wir mit <img class="math math-inline math-stacked" src="../math/c29ec08f2aa3e973.svg" alt="\text{„}{p}&#95;{0}\text{”},\;\text{„}{q}&#95;{0}\text{”},\;\text{„}{r}&#95;{0}\text{”}," style="width:7.301em;height:0.985em;vertical-align:-0.276em"> etc. oder mit <img class="math math-inline math-stacked" src="../math/8bdd5cc2aefc18ac.svg" alt="{f}&#95;{0}(a),{f}&#95;{0}(a,b)," style="width:5.559em;height:1.009em;vertical-align:-0.276em"> etc. wobei wir es dahingestellt sein lassen ob a = b ist oder nicht.
+<span class="series-number">5˙422</span> Elementarsätze bezeichnen wir mit <img class="math math-inline" src="../math/452f7428c28b089c.svg" alt="p&#95;{0},\;q&#95;{0},\;r&#95;{0}," style="width:4.301em;height:0.758em;vertical-align:-0.276em"> etc. oder mit <img class="math math-inline math-stacked" src="../math/8bdd5cc2aefc18ac.svg" alt="{f}&#95;{0}(a),{f}&#95;{0}(a,b)," style="width:5.559em;height:1.009em;vertical-align:-0.276em"> etc. wobei wir es dahingestellt sein lassen ob a = b ist oder nicht.
 
 ### [Ms-104](/ms-104/#58.2) <span class="fac">[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-58-2}
 
@@ -2452,7 +2452,7 @@ Und dies ist auch der Fall, denn das Symbol „p” und „q” setzt ja selbst 
 
 ### [Ms-104](/ms-104/#70.7) <span class="fac">[70\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-70-7}
 
-<span class="series-number">6˙01</span> Die allgemeine Form der Operation ist: <img class="math math-inline math-stacked" src="../math/89f3378b3aeb6ca8.svg" alt="\vert\overline{\sigma},\;ᾱ,\;N\;(ᾱ)\vert\text{'}\;(\overline{\sigma})" style="width:7.617em;height:1.034em;vertical-align:-0.200em">.
+<span class="series-number">6˙01</span> Die allgemeine Form der Operation ist: <img class="math math-inline" src="../math/263d17cc2ca2b674.svg" alt="\vert\overline{\sigma},\;\overline{\alpha},\;N(\overline{\alpha})\vert\text{'}(\overline{\sigma})" style="width:6.935em;height:0.998em;vertical-align:-0.164em">.
 
 ### [Ms-104](/ms-104/#70.8) <span class="fac">[70\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-70-8}
 
@@ -2610,7 +2610,7 @@ Alle diese Bezeichnungsweisen genügen nicht, weil sie nicht die notwendige math
 
 ### [Ms-104](/ms-104/#77.5) <span class="fac">[77\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-77-5}
 
-<span class="series-number">5˙023</span> Sei in einem Schema <img class="math math-inline math-stacked" src="../math/4deff95a2b4864b9.svg" alt="\text{II}{W}&#95;{r}" style="width:1.976em;height:0.856em;vertical-align:-0.156em"> die Anzahl der „W” in der Kolonne des Satzes r; Wrs die Anzahl derjenigen „W” in der Kolonne des Satzes s die in gleichen Reihen mit „W” in der Kolonne von r stehen. Der Satz „r” gibt dann dem Satz s die Wahrscheinlichkeit <img class="math math-inline math-stacked" src="../math/76012e1d8a4aaadf.svg" alt="\frac{\text{Wrs}}{\text{Wr}}" style="width:1.726em;height:1.240em;vertical-align:-0.351em">.
+<span class="series-number">5˙023</span> Sei in einem Schema <img class="math math-inline math-stacked" src="../math/4deff95a2b4864b9.svg" alt="\text{II}{W}&#95;{r}" style="width:1.976em;height:0.856em;vertical-align:-0.156em"> die Anzahl der „W” in der Kolonne des Satzes r; Wrs die Anzahl derjenigen „W” in der Kolonne des Satzes s die in gleichen Reihen mit „W” in der Kolonne von r stehen. Der Satz „r” gibt dann dem Satz s die Wahrscheinlichkeit <img class="math math-inline" src="../math/aa007ab20d74d51b.svg" alt="\frac{W&#95;{rs}}{W&#95;{r}}" style="width:1.555em;height:1.402em;vertical-align:-0.456em">.
 
 ### [Ms-104](/ms-104/#78.1) <span class="fac">[78\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-78-1}
 

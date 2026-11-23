@@ -2666,7 +2666,7 @@ Man ist geneigt zu sagen daß man das verkehrte Wort anders _sieht_ als das aufr
 
 ### [Ms-137](/ms-137/#135a.3) <span class="fac">[135a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135a.webp)</span> {#ms-137-135a-3}
 
-<span class="series-number">599</span> Die Figur a) 🖵 ist die Umkehrung der Figur b) 🖵, wie die Figur c 🖵 von d)🖵. Aber zwischen meinem Eindruck von c & d besteht noch ein anderer Unterschied– möchte ich sagen – als zwischen a & b, (d sieht z.B. ordentlich aus, c unordentlich. Vergl. Lewis Carroll ‘Looking glass’) d ist leicht zu kopieren, c schwer.
+<span class="series-number">599</span> Die Figur a) <span class="gap"></span> ist die Umkehrung der Figur b) <span class="gap"></span>, wie die Figur c <span class="gap"></span> von d)<span class="gap"></span>. Aber zwischen meinem Eindruck von c & d besteht noch ein anderer Unterschied– möchte ich sagen – als zwischen a & b, (d sieht z.B. ordentlich aus, c unordentlich. Vergl. Lewis Carroll ‘Looking glass’) d ist leicht zu kopieren, c schwer.
 
 ### [Ms-137](/ms-137/#135a.5) <span class="fac">[135a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135a.webp)</span> {#ms-137-135a-5}
 

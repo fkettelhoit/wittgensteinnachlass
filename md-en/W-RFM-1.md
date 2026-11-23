@@ -218,7 +218,7 @@ then I can now find out by association whether I have as many corners above as I
 
 Proof by induction
 
-<img class="math math-block" src="../math/348b1480982e2150.svg" alt="{\begin{array}{l} {\underline{1}\hspace{0.2em}:\hspace{0.2em}3\hspace{0.2em}=\hspace{0.2em}0.3} \\ {\hspace{0.5em}1} \end{array}}" style="display:block;width:6.171em;height:2.743em">
+<img class="math math-block" src="../math/2e5e05e5e668b602.svg" alt="\begin{array}{l} \underline{1}\,:\,\underline{3}\,=\,\underline{0.3} \\ \hspace{0.5em}1 \end{array}" style="display:block;width:6.039em;height:2.760em">
 
 Triangle in the Euclidean proof.
 
@@ -275,7 +275,7 @@ to see that 2 + 2 + 2 = 4.
 
 ### [Ts-222](/ts-222/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/34.webp)</span> {#ts-222-34-1}
 
-<span class="series-number">271</span> And so, the proof (238) by drawing the projection lines <img class="math math-inline" src="../math/7cce3dcab18556a0.svg" alt="🖵" style="width:0.600em;height:0.950em;vertical-align:-0.200em"> establishes a process, the one-to-one correspondence between the H and the D. – “But doesn't it also convince me that this correspondence is _possible_?” – Does “this correspondence” here refer to the figures of the proof itself? Something cannot be both a measure & something being measured at the same time. If this is meant to say that you can always execute it, then that does not necessarily have to be true. But the drawing of the projection lines convinces us that there are as many lines above as there are corners below; and it provides a template for assigning such figures to each other. – “But doesn't the template thereby show that it is possible? not that it was possible this time! In the sense that it would not be possible if, instead of ❘ ❘ ❘ ❘ ❘ above, the figure ❘ ❘ ❘ ❘ ❘ ❘ stood” – Why? Is it not possible then? _Thus_, for example:
+<span class="series-number">271</span> And so, the proof (238) by drawing the projection lines <img class="math math-inline" src="../math/cca9fb5112e1f6ba.svg" alt="\hphantom{MMMMMMM}" style="width:6.608em;height:0.016em;vertical-align:-0.016em"> establishes a process, the one-to-one correspondence between the H and the D. – “But doesn't it also convince me that this correspondence is _possible_?” – Does “this correspondence” here refer to the figures of the proof itself? Something cannot be both a measure & something being measured at the same time. If this is meant to say that you can always execute it, then that does not necessarily have to be true. But the drawing of the projection lines convinces us that there are as many lines above as there are corners below; and it provides a template for assigning such figures to each other. – “But doesn't the template thereby show that it is possible? not that it was possible this time! In the sense that it would not be possible if, instead of ❘ ❘ ❘ ❘ ❘ above, the figure ❘ ❘ ❘ ❘ ❘ ❘ stood” – Why? Is it not possible then? _Thus_, for example:
 
 ![](../graphics/222,34.svg)
 
@@ -1031,7 +1031,7 @@ Experience teaches that when counting, if we use the fingers of one hand, or any
 
 But what if I first draw one’s attention to the fact that the result of the counting is predetermined by the beginning, and he now understands it and says: “Yes, of course, – it must be so!” What kind of insight is that? – He has, perhaps, written down the following scheme:
 
-<img class="math math-block" src="../math/57b8934c7d0877e2.svg" alt="🖵" style="display:block;width:0.600em;height:0.950em">
+<img class="math math-block" src="../math/2a000a7e0eb88bbd.svg" alt="\rule{0pt}{3em}" style="display:block;width:0.016em;height:3.000em">
 
 And his reasoning would be something like: “It is _so_ when I count. – Therefore, it must be ‥‥‥”
 

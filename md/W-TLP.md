@@ -1250,7 +1250,7 @@ Ausdrücke wie „a = a”, oder von diesen abgeleitete, sind weder Elementarsä
 
 ### [Ts-204](/ts-204/#20r.5) <span class="fac">[20r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/20r.webp)</span> {#ts-204-20r-5}
 
-<span class="series-number">4.27</span> Bezüglich des Bestehens und Nichtbestehens von n Sachverhalten gibt es <img class="math math-inline math-stacked" src="../math/09c2d011ffa9a5c9.svg" alt="Kn=\overset{n}{\underset{\nu=0}{\Sigma}}\;([\text{nν}])" style="width:6.863em;height:2.104em;vertical-align:-0.771em"> Möglichkeiten.
+<span class="series-number">4.27</span> Bezüglich des Bestehens und Nichtbestehens von n Sachverhalten gibt es <img class="math math-inline" src="../math/c805b41267fa1e9b.svg" alt="\sum\limits&#95;{\nu=0}^{n}\nu\binom{n}{\nu}" style="width:3.395em;height:2.409em;vertical-align:-1.018em"> Möglichkeiten.
 
 Es können alle Kombinationen der Sachverhalte bestehen, die anderen nicht bestehen.
 
@@ -1266,7 +1266,7 @@ Es können alle Kombinationen der Sachverhalte bestehen, die anderen nicht beste
 
 <span class="series-number">4.31</span> Die Wahrheitsmöglichkeiten können wir durch Schemata folgender Art darstellen („W” bedeutet „wahr”, „F” „falsch”. Die Reihen der „W” und „F” unter der Reihe der Elementarsätze bedeuten in leichtverständlicher Symbolik deren Wahrheitsmöglichkeiten):
 
-pWFWWFFWF | qWWFWFWFF | rWWWFWFFF | | pWFWF | qWWFF | | pWF
+<img class="math math-block" src="../math/ec892c32b78a283a.svg" alt="\begin{array}{c|c|c} p &amp; q &amp; r \\ \hline W &amp; W &amp; W \\ F &amp; W &amp; W \\ W &amp; F &amp; W \\ W &amp; W &amp; F \\ F &amp; F &amp; W \\ F &amp; W &amp; F \\ W &amp; F &amp; F \\ F &amp; F &amp; F \end{array}\begin{array}{ccc}  &amp;  &amp;  \end{array}\begin{array}{c|c} p &amp; q \\ \hline W &amp; W \\ F &amp; W \\ W &amp; F \\ F &amp; F \end{array}\begin{array}{ccc}  &amp;  &amp;  \end{array}\begin{array}{l} p \\ \hline W \\ F \end{array}" style="display:block;width:18.090em;height:12.546em">
 
 ### [Ts-204](/ts-204/#21r.1) <span class="fac">[21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/21r.webp)</span> {#ts-204-21r-1}
 
@@ -1282,7 +1282,7 @@ pWFWWFFWF | qWWFWFWFF | rWWWFWFFF | | pWFWF | qWWFF | | pWF
 
 ### [Ts-204](/ts-204/#21r.4) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/21r.webp)</span> {#ts-204-21r-4}
 
-<span class="series-number">4.42</span> Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <img class="math math-inline math-stacked" src="../math/7af9e89220d11cdd.svg" alt="\overset{\text{Kn}}{\underset{\kappa=0}{\Sigma}}\;([\text{Knκ}])" style="width:5.061em;height:2.253em;vertical-align:-0.771em"> = L<sub>n</sub> Möglichkeiten.
+<span class="series-number">4.42</span> Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <img class="math math-inline" src="../math/fbd6b27e57d1c554.svg" alt="\sum\limits&#95;{0}^{m}\mu\left(\stack{m}{\mu}\right)" style="width:3.849em;height:2.409em;vertical-align:-1.018em"> = L<sub>n</sub> Möglichkeiten.
 
 ### [Ts-204](/ts-204/#21r.5) <span class="fac">[21r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/21r.webp)</span> {#ts-204-21r-5}
 
@@ -1310,7 +1310,11 @@ Analoges gilt natürlich für alle Zeichen die dasselbe ausdrücken wie die Sche
 
 ### [Ts-204](/ts-204/#21r.9+22r.1) <span class="fac">[21r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/21r.webp),[22r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/22r.webp)</span> {#ts-204-21r-9--22r-1}
 
-<span class="series-number">4.442</span> Es ist z.B.: „p |W |F |W |F | | q ||W ||W ||F ||F || | WWW” ein Satzzeichen. (Frege's Urteilsstrich „⊢” ist logisch ganz bedeutungslos; es zeigt bei Frege (und Russell) nur an, daß diese Autoren die so bezeichneten Sätze für wahr halten. „⊢” gehört daher ebenso wenig zum Satzgefüge wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, daß er wahr ist.)
+<span class="series-number">4.442</span> Es ist z.B.:
+
+<span class="pre-block-punct">„</span><img class="math math-block" src="../math/19abf6d4bc17ba77.svg" alt="\begin{array}{c|c||c} p &amp; q &amp; \\ \hline\hline W &amp; W &amp; W \\ \hline F &amp; W &amp; W \\ \hline W &amp; F &amp;  \\ \hline F &amp; F &amp; W \\ \hline \end{array}" style="display:block;width:6.317em;height:7.223em"><span class="post-block-punct">”</span>
+
+ein Satzzeichen. (Frege's Urteilsstrich „⊢” ist logisch ganz bedeutungslos; es zeigt bei Frege (und Russell) nur an, daß diese Autoren die so bezeichneten Sätze für wahr halten. „⊢” gehört daher ebenso wenig zum Satzgefüge wie etwa die Nummer des Satzes. Ein Satz kann unmöglich von sich selbst aussagen, daß er wahr ist.)
 
 Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombinationsregel ein für allemal festgesetzt, dann ist die letzte Kolonne allein schon ein Ausdruck der Wahrheitsbedingungen. Schreiben wir diese Kolonne als Reihe hin, so wird das Satzzeichen zu:
 
@@ -1320,7 +1324,7 @@ Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombination
 
 ### [Ts-204](/ts-204/#22r.2) <span class="fac">[22r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/22r.webp)</span> {#ts-204-22r-2}
 
-<span class="series-number">4.45</span> Für n Elementarsätze gibt es <img class="math math-inline math-stacked" src="../math/e3a2c1058a9f0be9.svg" alt="{L}&#95;{n}" style="width:1.032em;height:0.848em;vertical-align:-0.156em"> mögliche Gruppen von Wahrheitsbedingungen.
+<span class="series-number">4.45</span> Für n Elementarsätze gibt es <img class="math math-inline" src="../math/1379320491c8f7f1.svg" alt="\sum&#95;{o}^{m}\mu\left(\stack{m}{\mu}\right)" style="width:4.482em;height:1.686em;vertical-align:-0.593em"> mögliche Gruppen von Wahrheitsbedingungen.
 
 Die Gruppen von Wahrheitsbedingungen, welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören, lassen sich in einer Reihe ordnen.
 
@@ -1432,7 +1436,7 @@ Das ist die Grundlage der Wahrscheinlichkeitslehre.
 
 <span class="series-number">5.101</span> Die Wahrheitsfunktionen jeder Anzahl von Elementarsätzen lassen sich in einem Schema folgender Art hinschreiben:
 
-(W W W W)(F W W W)(W F W W)(W W F W)(W W W F)(F F W W)(F W F W)(F W W F)(W F F W)(W F W F)(W W F F)(F F F W)(F F W F)(F W F F)(W F F F)(F F F F) | (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) (p, q) | | Tautologie in Worten: "": "": "": "": "": "": "": "": "": "": "": "": "": Kontradiktion | (Wenn p so q und wenn q so p) Nicht beides: p und q Wenn q, so p Wenn p, so q p oder q Nicht q Nicht p p oder q, aber nicht beide. Wenn p, so q und wenn q, so p p q Weder p noch q p und nicht q q und nicht p q und p (p und nicht p und q und nicht q)
+<img class="math math-block" src="../math/4089f1ac25d70adc.svg" alt="\begin{array}{lll}\text{(W\ W\ W\ W)}(p,q) &amp; \text{Tautologie} &amp; \text{(Wenn }p\text{ so }q\text{ und wenn }q\text{ so }p\text{)}\\\text{(F\ W\ W\ W)}(p,q) &amp; \text{in Worten:} &amp; \text{Nicht beides: }p\text{ und }q\\\text{(W\ F\ W\ W)}(p,q) &amp; \text{„ „ :} &amp; \text{Wenn }q\text{, so }p\\\text{(W\ W\ F\ W)}(p,q) &amp; \text{„ „ :} &amp; \text{Wenn }p\text{, so }q\\\text{(W\ W\ W\ F)}(p,q) &amp; \text{„ „ :} &amp; p\text{ oder }q\\\text{(F\ F\ W\ W)}(p,q) &amp; \text{„ „ :} &amp; \text{Nicht }q\\\text{(F\ W\ F\ W)}(p,q) &amp; \text{„ „ :} &amp; \text{Nicht }p\\\text{(F\ W\ W\ F)}(p,q) &amp; \text{„ „ :} &amp; p\text{ oder }q\text{, aber nicht beide.}\\\text{(W\ F\ F\ W)}(p,q) &amp; \text{„ „ :} &amp; \text{Wenn }p\text{, so }q\text{ und wenn }q\text{, so }p\\\text{(W\ F\ W\ F)}(p,q) &amp; \text{„ „ :} &amp; p\\\text{(W\ W\ F\ F)}(p,q) &amp; \text{„ „ :} &amp; q\\\text{(F\ F\ F\ W)}(p,q) &amp; \text{„ „ :} &amp; \text{Weder }p\text{ noch }q\\\text{(F\ F\ W\ F)}(p,q) &amp; \text{„ „ :} &amp; p\text{ und nicht }q\\\text{(F\ W\ F\ F)}(p,q) &amp; \text{„ „ :} &amp; q\text{ und nicht }p\\\text{(W\ F\ F\ F)}(p,q) &amp; \text{„ „ :} &amp; q\text{ und }p\\\text{(F\ F\ F\ F)}(p,q) &amp; \text{Kontradiktion} &amp; \text{(}p\text{ und nicht }p\text{ und }q\text{ und nicht }q\text{)}\end{array}" style="display:block;width:31.716em;height:22.673em">
 
 Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz bewahrheiten, will ich seine _Wahrheitsgründe_ nennen.
 
@@ -1548,7 +1552,7 @@ Die Kontradiktion ist die äußere Grenze der Sätze, die Tautologie ihr substan
 
 ### [Ts-204](/ts-204/#27r.8) <span class="fac">[27r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/27r.webp)</span> {#ts-204-27r-8}
 
-<span class="series-number">5.151</span> Sei in einem Schema wie dem obigen in [→ № 5.101] <img class="math math-inline math-stacked" src="../math/ada5f96d6cd4a6ba.svg" alt="{W}&#95;{r}" style="width:1.302em;height:0.856em;vertical-align:-0.156em"> die Anzahl der „W” im Satze r; <img class="math math-inline math-stacked" src="../math/6d757ac1c7673552.svg" alt="{W}&#95;{\text{rs}}" style="width:1.606em;height:0.864em;vertical-align:-0.164em"> die Anzahl derjenigen „W” im Satze s, die in gleichen Kolonnen mit „W” des Satzes r stehen. Der Satz r gibt dann dem Satze s die Wahrscheinlichkeit: <img class="math math-inline math-stacked" src="../math/efb2b6239d3efffe.svg" alt="{W}&#95;{\text{rs}}:{W}&#95;{r}" style="width:3.714em;height:0.864em;vertical-align:-0.164em">.
+<span class="series-number">5.151</span> Sei in einem Schema wie dem obigen in [→ № 5.101] <img class="math math-inline math-stacked" src="../math/ada5f96d6cd4a6ba.svg" alt="{W}&#95;{r}" style="width:1.302em;height:0.856em;vertical-align:-0.156em"> die Anzahl der „W” im Satze r; <img class="math math-inline" src="../math/1e394736d75f1ab7.svg" alt="W&#95;{rs}" style="width:1.577em;height:0.858em;vertical-align:-0.158em"> die Anzahl derjenigen „W” im Satze s, die in gleichen Kolonnen mit „W” des Satzes r stehen. Der Satz r gibt dann dem Satze s die Wahrscheinlichkeit: <img class="math math-inline" src="../math/95dc2e2bc8e9a517.svg" alt="W&#95;{rs}:W&#95;{r}" style="width:3.685em;height:0.858em;vertical-align:-0.158em">.
 
 ### [Ts-204](/ts-204/#27r.9) <span class="fac">[27r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/27r.webp)</span> {#ts-204-27r-9}
 
@@ -1944,7 +1948,7 @@ Der positive _Satz_ muß die Existenz des negativen _Satzes_ voraussetzen, und u
 
 ### [Ts-204](/ts-204/#36r.2) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/36r.webp)</span> {#ts-204-36r-2}
 
-<span class="series-number">5.52</span> Sind die Werte von ξ sämtliche Werte einer Funktion f(x) für alle Werte von x, so wird <img class="math math-inline math-stacked" src="../math/774cadccd655891d.svg" alt="N(\overline{\xi})={\sim}(∃x).\text{fx}" style="width:7.519em;height:1.277em;vertical-align:-0.226em">.
+<span class="series-number">5.52</span> Sind die Werte von ξ sämtliche Werte einer Funktion f(x) für alle Werte von x, so wird <img class="math math-inline math-stacked" src="../math/bde78aeee60bedea.svg" alt="N(\overline{\xi})={\sim}(∃x).fx" style="width:7.583em;height:1.327em;vertical-align:-0.276em">.
 
 ### [Ts-204](/ts-204/#36r.3) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/36r.webp)</span> {#ts-204-36r-3}
 
@@ -2082,7 +2086,7 @@ Eine zusammengesetzte Seele wäre nämlich keine Seele mehr.
 
 <span class="series-number">5.5423</span> Einen Komplex wahrnehmen, heißt, wahrnehmen, daß sich seine Bestandteile so und so zu einander verhalten.
 
-Dies erklärt wohl auch, daß man die Figur 🖵
+Dies erklärt wohl auch, daß man die Figur <span class="gap"></span>
 
 auf zweierlei Art als Würfel sehen kann; und alle ähnlichen Erscheinungen. Denn wir sehen eben wirklich zwei verschiedene Tatsachen.
 
@@ -2252,7 +2256,7 @@ Das Ich tritt in die Philosophie dadurch ein, daß “die Welt meine Welt ist.�
 
 <span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist:
 
-<img class="math math-block" src="../math/13e1f32ec9985432.svg" alt="[\overline{{p}&#95;{o}},\overline{\xi},\;N(\overline{\xi})]" style="display:block;width:5.560em;height:1.327em">
+<img class="math math-block" src="../math/85592e52974042b1.svg" alt="[\overline{p}&#95;{o},\ \overline{\xi},\ N(\overline{\xi})]" style="display:block;width:5.782em;height:1.370em">
 
 Dies ist die allgemeine Form des Satzes.
 
@@ -2266,7 +2270,7 @@ Dies ist die allgemeine Form des Satzes.
 
 <span class="series-number">6.011</span> Ich definiere nun:
 
-<img class="math math-block" src="../math/ee99f85635328851.svg" alt="x={O}^{0}\text{'}x\text{Def}.\;O\text{'}{O}^{\nu}\text{'}x={O}^{\nu+1}\text{'}x\text{Def}." style="display:block;width:15.196em;height:0.924em">
+<img class="math math-block" src="../math/95994ae0423a31a8.svg" alt="\begin{array}{l}x=O^{0}\text{'}x\ \text{Def.}\\ O\text{'}O^{\nu}\text{'}x=O^{\nu+1}\text{'}x\ \text{Def.}\end{array}" style="display:block;width:10.358em;height:2.854em">
 
 Also schreibe ich statt: „O'x” „<img class="math math-inline math-stacked" src="../math/49dd14fe90591e7e.svg" alt="O\text{'}{O}^{0}\text{'}x" style="width:3.049em;height:0.868em;vertical-align:-0.018em">” oder „<img class="math math-inline math-stacked" src="../math/4e30ef1ebe862acb.svg" alt="{O}^{0+1}\text{'}x" style="width:2.884em;height:0.872em;vertical-align:-0.018em">”
 
@@ -2660,7 +2664,7 @@ Ganz Analoges gilt für den Raum. Wo man z.B. sagt, es könnte keines von zwei E
 
 ### [Ts-204](/ts-204/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/50r.webp)</span> {#ts-204-50r-2}
 
-<span class="series-number">6.36111</span> Das Kant'sche Problem von der rechten und linken Hand die man nicht zur Deckung bringen kann, besteht schon in der Ebene, ja im eindimensionalen Raum, 🖵
+<span class="series-number">6.36111</span> Das Kant'sche Problem von der rechten und linken Hand die man nicht zur Deckung bringen kann, besteht schon in der Ebene, ja im eindimensionalen Raum, <span class="gap"></span>
 
 wo die beiden kongruenten Figuren a und b auch nicht zur Deckung gebracht werden können, ohne aus diesem Raum herausbewegt zu werden. Rechte und linke Hand sind tatsächlich vollkommen kongruent. Und daß man sie nicht zur Deckung bringen kann, hat damit nichts zu tun.
 

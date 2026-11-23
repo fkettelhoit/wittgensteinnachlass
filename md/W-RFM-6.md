@@ -838,9 +838,9 @@ Denke Dir ein Sprachspiel in dem einer die Laute von Wörtern zu zählen hat. Es
 
 Wenn ich die Laute des Wortes ‘Dädalus’ zähle so kann ich Verschiedenes als das Ergebnis betrachten:
 
-1) Das Wort, welches dort steht oder so aussieht oder jetzt ausgesprochen wurde oder etc. hat 7 Laute.
+1\) Das Wort, welches dort steht oder so aussieht oder jetzt ausgesprochen wurde oder etc. hat 7 Laute.
 
-2) Das Lautbild “Dädalus” hat 7 Laute. Der zweite Satz ist zeitlos. Die Verwendung der beiden Sätze muß verschieden sein.
+2\) Das Lautbild “Dädalus” hat 7 Laute. Der zweite Satz ist zeitlos. Die Verwendung der beiden Sätze muß verschieden sein.
 
 ### [Ms-164](/ms-164/#110.2) <span class="fac">[110\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/110.webp)</span> {#ms-164-110-2}
 

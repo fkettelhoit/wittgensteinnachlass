@@ -182,7 +182,7 @@ so kann ich nun durch Zuordnung herausfinden, ob ich oben soviele Ecken habe, wi
 
 Induktionsbeweis
 
-<img class="math math-block" src="../math/348b1480982e2150.svg" alt="{\begin{array}{l} {\underline{1}\hspace{0.2em}:\hspace{0.2em}3\hspace{0.2em}=\hspace{0.2em}0.3} \\ {\hspace{0.5em}1} \end{array}}" style="display:block;width:6.171em;height:2.743em">
+<img class="math math-block" src="../math/2e5e05e5e668b602.svg" alt="\begin{array}{l} \underline{1}\,:\,\underline{3}\,=\,\underline{0.3} \\ \hspace{0.5em}1 \end{array}" style="display:block;width:6.039em;height:2.760em">
 
 Dreieck im euklidischen Beweis.
 
@@ -230,7 +230,7 @@ zu schauen, um zu sehen, daß 2 + 2 + 2 = 4 ist.
 
 ### [Ts-222](/ts-222/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/34.webp)</span> {#ts-222-34-1}
 
-<span class="series-number">40</span> Und so prägt der Beweis (238) durch Ziehen der Projektionslinien <img class="math math-inline" src="../math/7cce3dcab18556a0.svg" alt="🖵" style="width:0.600em;height:0.950em;vertical-align:-0.200em"> einen Vorgang ein, den der eins-zu-eins Zuordnung der H. und des D.– “Aber _überzeugt_ er mich nicht auch davon, daß diese Zuordnung _möglich_ ist?” – heißt hier “diese Zuordnung” die der Figuren des Beweises selbst? Es kann nicht etwas zugleich Maß & gemessen sein. Wenn das heißen soll: daß Du sie immer ausführen kannst –, so muß das durchaus nicht wahr sein. Aber das Ziehen der Projektionslinien überzeugt uns davon, daß oben soviele Striche sind, wie unten Ecken; und es liefert eine Vorlage, um danach solche Figuren einander zuzuordnen. – “Aber zeigt die Vorlage dadurch nicht, daß es geht? nicht daß es diesmal ging! Im dem Sinne, in welchem es nicht ginge, wenn oben statt ❘ ❘ ❘ ❘ ❘ die Figur ❘ ❘ ❘ ❘ ❘ ❘ stünde” – Wieso? geht es denn da nicht? _So_ z.B.:
+<span class="series-number">40</span> Und so prägt der Beweis (238) durch Ziehen der Projektionslinien <img class="math math-inline" src="../math/cca9fb5112e1f6ba.svg" alt="\hphantom{MMMMMMM}" style="width:6.608em;height:0.016em;vertical-align:-0.016em"> einen Vorgang ein, den der eins-zu-eins Zuordnung der H. und des D.– “Aber _überzeugt_ er mich nicht auch davon, daß diese Zuordnung _möglich_ ist?” – heißt hier “diese Zuordnung” die der Figuren des Beweises selbst? Es kann nicht etwas zugleich Maß & gemessen sein. Wenn das heißen soll: daß Du sie immer ausführen kannst –, so muß das durchaus nicht wahr sein. Aber das Ziehen der Projektionslinien überzeugt uns davon, daß oben soviele Striche sind, wie unten Ecken; und es liefert eine Vorlage, um danach solche Figuren einander zuzuordnen. – “Aber zeigt die Vorlage dadurch nicht, daß es geht? nicht daß es diesmal ging! Im dem Sinne, in welchem es nicht ginge, wenn oben statt ❘ ❘ ❘ ❘ ❘ die Figur ❘ ❘ ❘ ❘ ❘ ❘ stünde” – Wieso? geht es denn da nicht? _So_ z.B.:
 
 ![](../graphics/222,34.svg)
 
@@ -844,7 +844,7 @@ Mathematik unter den Urmaßen niedergelegt
 
 <span class="series-number">170</span> Wie aber ist es, wenn ich Einen erst darauf aufmerksam mache, daß das Ergebnis des Auszählens durch den Anfang vorausbestimmt ist, und er es nun versteht und sagt: “Ja freilich, – es muß ja so sein!” Was ist das für eine Erkenntnis? – Er hat sich etwa das Schema aufgezeichnet:
 
-<img class="math math-block" src="../math/57b8934c7d0877e2.svg" alt="🖵" style="display:block;width:0.600em;height:0.950em">
+<img class="math math-block" src="../math/2a000a7e0eb88bbd.svg" alt="\rule{0pt}{3em}" style="display:block;width:0.016em;height:3.000em">
 
 Und sein Raisonnement wäre etwa: “Es ist doch _so_, wenn ich auszähle. – Also muß ‥‥‥”
 
