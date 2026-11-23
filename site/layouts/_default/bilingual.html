@@ -12,7 +12,7 @@
   {{ if and .Params.entitle (ne .Params.entitle .Title) }}
     {{ $enTitle = printf `<h1 class="en-title" lang="en">%s</h1>` .Params.entitle }}
   {{ end }}
-  {{ $switcher := printf `</h1>%s</div><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` $enTitle (.File.ContentBaseName | urlize) $downloads }}
+  {{ $switcher := printf `</h1>%s</div><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>%s` $enTitle (.File.ContentBaseName | urlize) $downloads (partial "edition-note.html" .) }}
   {{ $c = replace $c `<h1` `<div class="title-row"><h1 class="de-title" lang="de"` 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}

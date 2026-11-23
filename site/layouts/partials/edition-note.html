@@ -1,0 +1,27 @@
+{{/* Editors line + note for work pages: who edited the published book whose
+     arrangement the page follows (site/data/editions.yaml), and why the text
+     differs from that book. Returns "" for non-work pages.
+     Context: the page. Returns an HTML string. */}}
+{{ $out := "" }}
+{{ if eq .Params.doctype "Work" }}
+  {{ $stem := .File.ContentBaseName }}
+  {{ $key := "" }}
+  {{ range $k, $_ := site.Data.editions }}
+    {{ if and (or (eq $stem $k) (hasPrefix $stem (printf "%s-" $k))) (gt (len $k) (len $key)) }}
+      {{ $key = $k }}
+    {{ end }}
+  {{ end }}
+  {{ $credit := "" }}
+  {{ with $key }}
+    {{ $e := index site.Data.editions . }}
+    {{ if $e.credit }}
+      {{ $credit = $e.credit }}
+    {{ else }}
+      {{ $credit = printf "Edited by %s (%v%s)." $e.editors $e.year (cond (isset $e "extra") (printf ", %s" $e.extra) "") }}
+    {{ end }}
+    {{ $credit = printf `<span class="edition-credit">%s</span> ` $credit }}
+  {{ end }}
+  {{ $note := `Arranged as in the published edition, but with Wittgenstein’s original text, which differs from the printed book in <a href="/about/#editorial-criteria">variants, spelling and punctuation</a>.` }}
+  {{ $out = printf `<p class="edition-note">%s%s</p>` $credit $note }}
+{{ end }}
+{{ return $out }}

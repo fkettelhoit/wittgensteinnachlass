@@ -874,6 +874,19 @@ body.bilingual .en a:hover {
   font-style: italic;
 }
 
+/* Work pages: editors of the published edition + why the text differs from it
+   (layouts/partials/edition-note.html). Sits between the lang switcher and the
+   remark-count summary, so it reuses the switcher's pulled-up spacing. */
+.edition-note {
+  margin: -4rem 0 4rem 0;
+  max-width: 40rem;
+}
+
+.edition-credit {
+  display: block;
+  font-style: italic;
+}
+
 .lang-switcher .lang-active,
 .home .view-switcher .current {
   color: var(--color-link);
@@ -925,6 +938,10 @@ body.bilingual footer {
 
   .lang-switcher {
     margin: -3rem 0 3rem 0;
+  }
+
+  .edition-note {
+    margin: -1.5rem 0 3rem 0;
   }
 }
 

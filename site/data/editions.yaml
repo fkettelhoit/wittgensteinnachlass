@@ -1,0 +1,86 @@
+# Editors of the published works whose arrangement the work pages (W-*.md) follow.
+# Rendered below the title of each work page by layouts/partials/edition-note.html.
+#
+# Keys are work ids. A page uses the longest key that equals its file name or is a
+# prefix of it followed by "-" (so W-RPP-2 uses W-RPP-2, W-LW-2-MS-169 uses W-LW).
+#
+# Fields:
+#   editors: who edited the published book (shown as "Edited by <editors>")
+#   year:    year of first publication of that edition
+#   extra:   optional text appended after the year (HTML allowed)
+#   credit:  optional full replacement for the "Edited by …" sentence (HTML allowed)
+
+W-CE:
+  editors: Rush Rhees
+  year: 1976
+W-EPB:
+  credit: Edited by Rush Rhees (1970), who also gave it its title.
+W-GB:
+  editors: Rush Rhees
+  year: 1967
+W-LW:
+  editors: G.H. von Wright and Heikki Nyman
+  year: 1982–1992
+W-LW-1:
+  editors: G.H. von Wright and Heikki Nyman
+  year: 1982
+W-LW-2:
+  editors: G.H. von Wright and Heikki Nyman
+  year: 1992
+W-NB:
+  editors: G.H. von Wright and G.E.M. Anscombe
+  year: 1961
+W-NL:
+  # The 1961 Notebooks printed the Costello version (TS 201b); the 1979 second
+  # edition based Appendix I on TS 201a, which is what this page follows.
+  editors: G.H. von Wright and G.E.M. Anscombe
+  year: 1979
+  extra: in the second edition of the <em>Notebooks 1914–1916</em>
+W-OC:
+  editors: G.E.M. Anscombe and G.H. von Wright
+  year: 1969
+W-PG:
+  editors: Rush Rhees
+  year: 1969
+W-PH:
+  editors: Heikki Nyman
+  year: 1989
+W-PI:
+  editors: G.E.M. Anscombe and Rush Rhees
+  year: 1953
+W-PPF:
+  credit: >-
+    Edited by G.E.M. Anscombe and Rush Rhees (1953) as Part II of the
+    <em>Philosophical Investigations</em>; titled <em>Philosophy of Psychology – A
+    Fragment</em> by P.M.S. Hacker and Joachim Schulte (2009).
+W-PR:
+  editors: Rush Rhees
+  year: 1964
+W-PT:
+  editors: B.F. McGuinness, T. Nyberg and G.H. von Wright
+  year: 1971
+W-RFM:
+  editors: G.H. von Wright, Rush Rhees and G.E.M. Anscombe
+  year: 1956
+  extra: revised edition 1978
+W-ROC:
+  editors: G.E.M. Anscombe
+  year: 1977
+W-RPP:
+  editors: G.E.M. Anscombe, G.H. von Wright and Heikki Nyman
+  year: 1980
+W-RPP-1:
+  editors: G.E.M. Anscombe and G.H. von Wright
+  year: 1980
+W-RPP-2:
+  editors: G.H. von Wright and Heikki Nyman
+  year: 1980
+W-TLP:
+  credit: Published by Wittgenstein in 1921; the English title was suggested by G.E. Moore.
+W-VB:
+  editors: G.H. von Wright in collaboration with Heikki Nyman
+  year: 1977
+  extra: revised edition by Alois Pichler 1994
+W-Z:
+  editors: G.E.M. Anscombe and G.H. von Wright
+  year: 1967

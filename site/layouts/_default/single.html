@@ -16,7 +16,7 @@
   {{ if and .Params.translation (not hugo.IsProduction) }}
     {{ $bilingual = printf ` | <a href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
   {{ end }}
-  {{ $switcher := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>` $downloads $bilingual }}
+  {{ $switcher := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>%s` $downloads $bilingual (partial "edition-note.html" .) }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
   {{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
@@ -77,7 +77,7 @@
   {{ if and .Params.translation (not hugo.IsProduction) }}
     {{ $bilingual2 = printf ` | <a href="/en/%s/">German/English</a>` ($stem2 | urlize) }}
   {{ end }}
-  {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>` $dl2 $bilingual2 }}
+  {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>%s` $dl2 $bilingual2 (partial "edition-note.html" .) }}
   {{ partial "viz-lightbox.html" (replace .Content "</h1>" $sw2 1) | safeHTML }}
 </main>
 {{ end }}
