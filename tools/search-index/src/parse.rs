@@ -57,8 +57,8 @@ impl Res {
             explicit_id: Regex::new(r"\{#([^}\s]+)").unwrap(),
             // Published series number, e.g. `<span class="series-number">1˙1</span>`.
             series: Regex::new(r#"<span class="series-number">(.*?)</span>"#).unwrap(),
-            // Inline MathML on a single line.
-            math_inline: Regex::new(r"(?s)<math\b.*?</math>").unwrap(),
+            // Inline math: legacy MathML or a rendered LaTeX formula image.
+            math_inline: Regex::new(r#"(?s)<math\b.*?</math>|<img class="math[^"]*"[^>]*>"#).unwrap(),
             // Markdown emphasis `_word_` (Wittgenstein's underlinings).
             em: Regex::new(r"_([^_]+)_").unwrap(),
             // Markdown link `[text](url)` -> keep the text.

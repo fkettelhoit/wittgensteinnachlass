@@ -75,7 +75,7 @@ All other textual phenomena have not been encoded in the source files and are th
 - Marginal signs (_Randzeichen_), which Wittgenstein used to highlight certain passages, to express his doubts about others, etc., have not been retained;
 - Line breaks that are not paragraph break have not been retained.
 
-Mathematical formulae have been encoded using MathML syntax.
+Mathematical formulae have been encoded in LaTeX and are shown as images rendered with [MathJax](https://www.mathjax.org/); the LaTeX source of each formula is available as its alternative text.
 
 The images have been sourced from the [Wittgenstein Nachlass Graphics](https://nachlass-graphics.wittgensteinproject.org/) website and are the result of a project, carried out by the WAB between 2022 and 2024, to improve its rendering of Wittgenstein’s drawings.
 

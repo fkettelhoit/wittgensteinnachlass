@@ -7,7 +7,10 @@ images, --- rules, raw HTML) stay live; notation that collides with Markdown
 syntax is neutralized:
   - leading ~~~ / ``` runs (code fences, e.g. ~~~~p ⊃ p) -> backslash-escaped
   - leading > (blockquote, Wittgenstein's angle-mark)   -> backslash-escaped
-  - * _ ` inside <math> spans                            -> HTML entities
+  - * _ ` inside <math> spans and math image alt text    -> HTML entities
+
+It also makes the relative asset paths the parser writes (../math/, ../graphics/)
+site-absolute, so they resolve on nested pages such as /en/<doc>/ as well.
 
 Entities (not backslashes) are used inside math so the fix is identical for
 inline and block math: a backslash would show literally in block math (an
@@ -21,6 +24,9 @@ import sys
 # Inside <math>, these chars must never be parsed as Markdown (emphasis/code).
 MATH_ENTITIES = {"*": "&#42;", "_": "&#95;", "`": "&#96;"}
 MATH_SPAN = re.compile(r"(<math\b[^>]*>)(.*?)(</math>)", re.DOTALL)
+# Rendered LaTeX formulas: <img class="math ..." src="../math/<hash>.svg" alt="<latex>" ...>
+MATH_ALT = re.compile(r'(<img class="math[^"]*"[^>]*? alt=")([^"]*)(")')
+ASSET_PATH = re.compile(r'(src="|\]\()\.\./(math|graphics)/')
 
 
 def _encode_math(match):
@@ -33,7 +39,9 @@ def _encode_math(match):
 def sanitize(text):
     text = re.sub(r"(?m)^( {0,3})(~{3,}|`{3,})", r"\1\\\2", text)
     text = re.sub(r"(?m)^( {0,3})>", r"\1\\>", text)
-    return MATH_SPAN.sub(_encode_math, text)
+    text = MATH_SPAN.sub(_encode_math, text)
+    text = MATH_ALT.sub(_encode_math, text)
+    return ASSET_PATH.sub(r"\1/\2/", text)
 
 
 if __name__ == "__main__":

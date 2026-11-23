@@ -166,19 +166,7 @@ Wenn “einen Satz verstehen” heißt: in irgend einer Weise nach ihm handeln, 
 
 <span class="series-number">9</span> Schreiben wir den Befehl die Quadrate einer Reihe von Zahlen zu bilden in Form einer Tabelle so:
 
-<math display="block">
-  <mi>x</mi>
-  <mtext>x²</mtext>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mn>1</mn>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mn>2</mn>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mn>3</mn>
-</math>
+<img class="math math-block" src="../math/21ff7830288205b5.svg" alt="xx^{2}\;|1\;|2\;|3" style="display:block;width:4.395em;height:1.050em">
 
 – Es scheint uns, als ob wir dem Befehl durch das Verstehen etwas hinzufügen, was die Lücke zwischen Befehl & Ausführung füllt. So daß wir Einem, der sagt “aber Du verstehst ihn ja, er ist also nicht unvollständig”, antworten könnten: “Ja ich verstehe ihn, aber nur, weil ich noch etwas hinzufüge; die Deutung nämlich”. – Aber was veranlaßt Dich gerade zu _dieser_ Deutung? Ist es der Befehl–, dann war er ja schon eindeutig, da er diese Deutung befahl. Oder hast Du die Deutung willkürlich hinzugefügt, – dann hast Du ja auch den Befehl nicht verstanden, sondern nur das, was Du aus ihm gemacht hast.
 
@@ -1018,70 +1006,7 @@ Die _Beschreibung_ des Psychischen muß sich ja wieder als Symbol verwenden lass
 
 <span class="series-number">60</span> Man kann sagen daß es sich nicht durch äußere Beobachtung entscheiden läßt, ob ich _lese_ oder nur Laute hervorbringe, während ein Text an meinen Augen vorbeiläuft. Aber das Lesen kann nicht wesentlich eine _innere_ Angelegenheit sein. Das Ableiten der Übersetzung von der Vorlage kann auch ein sichtbarer Vorgang sein. Man muß z.B. den Vorgang dafür nehmen können der sich auf dem Papier abspielt, wenn die Glieder der Reihe 100, 121, 144, 169 durch die Rechnungen
 
-<math display="block">
-  <mn>10</mn>
-  <mspace width="0.3em"/>
-  <mo>×</mo>
-  <mspace width="0.3em"/>
-  <mn>10</mn>
-  <munder>
-    <mrow>
-      <mn>00</mn>
-    </mrow>
-    <mo>&#95;</mo>
-  </munder>
-  <mn>100</mn>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mo>,</mo>
-  <mn>11</mn>
-  <mspace width="0.3em"/>
-  <mo>×</mo>
-  <mspace width="0.3em"/>
-  <mn>11</mn>
-  <munder>
-    <mrow>
-      <mn>11</mn>
-    </mrow>
-    <mo>&#95;</mo>
-  </munder>
-  <mn>121</mn>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mo>,</mo>
-  <mn>12</mn>
-  <mspace width="0.3em"/>
-  <mo>×</mo>
-  <mspace width="0.3em"/>
-  <mn>12</mn>
-  <munder>
-    <mrow>
-      <mn>2</mn>
-      <mn>4</mn>
-    </mrow>
-    <mo>&#95;</mo>
-  </munder>
-  <mn>14</mn>
-  <mn>4</mn>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mo>,</mo>
-  <mn>13</mn>
-  <mspace width="0.3em"/>
-  <mo>×</mo>
-  <mspace width="0.3em"/>
-  <mn>13</mn>
-  <munder>
-    <mrow>
-      <mn>39</mn>
-    </mrow>
-    <mo>&#95;</mo>
-  </munder>
-  <mn>169</mn>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mo>,</mo>
-</math>
+<img class="math math-block" src="../math/4a189639a7b91f26.svg" alt="10×10\underline{00}100\;|,11×11\underline{11}121\;|,12×12\underline{24}144\;|,13×13\underline{39}169\;|," style="display:block;width:25.730em;height:1.054em">
 
 aus den Gliedern der Reihe 10, 11, 12, 13 abgeleitet erscheinen.
 
@@ -1481,7 +1406,7 @@ Wenn man auch den Satz als Bild des beschriebenen Sachverhalts auffaßt & sagt, 
 
 “Möglich” heißt hier soviel wie “denkbar”; aber “denkbar” kann heißen “malbar”, “modellierbar”, “vorstellbar”, also: darstellbar in einem bestimmten System. Nun, da kommt es auf das System an. – Man fragt z.B.: “ist es denkbar, daß eine Baumreihe in gerader Richtung weiterläuft, ohne je zu einem Ende zu kommen?” – Warum soll das nicht ‘denkbar’ sein, es ist doch jedenfalls in einem grammatischen System aussprechbar. Aber was ist nun die Anwendung des Satzes, wie wird er verifiziert, welche Beziehung hat seine Verifikation zu der eines Satzes wie: “diese Baumreihe endet mit dem 100<sup>sten</sup> Baum”? Das wird uns zeigen wie viel diese Denkbarkeit, sozusagen, wert ist.
 
-chemisch möglich: <math display="inline"><mi>O</mi><mspace width="0.3em"/><mo>|</mo><mi>O</mi><mspace width="0.3em"/><mo>|</mo><mtext>–</mtext><mtext>–</mtext><mspace width="0.3em"/><mo>|</mo><mi>O</mi><mi>H</mi><mspace width="0.3em"/><mo>|</mo><mtext>–</mtext><mspace width="0.3em"/><mo>|</mo><mi>H</mi></math>
+chemisch möglich: <img class="math math-inline" src="../math/48d19181282b6b4f.svg" alt="O\;|O\;|--|OH\;|-|H" style="width:8.977em;height:0.856em;vertical-align:-0.150em">
 
 ### [Ms-114](/ms-114/#91r.2+91v.1) <span class="fac">[91r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/91r.webp),[91v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/91v.webp)</span> {#ms-114-91r-2--91v-1}
 
@@ -1559,9 +1484,7 @@ ausdrücke, kommt uns in gewissem Sinne unvollständig vor; es ist, als wäre et
 
 _weniger deutlich ist, als der Pfeil_
 
-<math display="block">
-  <mtext>↣</mtext>
-</math>
+<img class="math math-block" src="../math/09d9796a5960a327.svg" alt="↣" style="display:block;width:1.005em;height:0.300em">
 
 Der Schein der Unbeholfenheit, mit welcher das Zeichen wie ein Stummer durch allerlei suggestive Gebärden sich verständlich zu machen sucht, – verschwindet, wenn wir bedenken, daß das Zeichen nur in einem grammatischen System seine Funktion erfüllt. Für uns ist der Befehl deutlich, wenn er unzweideutig ist; & einen deutlichern gibt es nicht (Was in der Logik nicht nötig ist, _hilft_ auch nicht.)
 
@@ -1569,14 +1492,7 @@ Der Schein der Unbeholfenheit, mit welcher das Zeichen wie ein Stummer durch all
 
 Wenn wir einen Befehl geben, so kann es scheinen, als ob das Letzte was der Befehl wünscht (doch) unausgedrückt bleiben muß, da immer noch eine Kluft zwischen dem Befehl & seiner Befolgung bleibt. Ich wünsche etwa, daß Einer eine bestimmte Bewegung macht, etwa den Arm hebt. Damit es ganz deutlich wird mache ich ihm die Bewegung vor. Dieses Bild scheint unzweideutig bis auf die Frage: wie weiß er daß _er diese Bewegung machen soll_? – Wie weiß er überhaupt, wie er die Zeichen, welche immer ich ihm gebe, gebrauchen soll? Ich werde nun etwa trachten den Befehl durch weitere Zeichen zu ergänzen, indem ich von mir auf den Andern denke, Gebärden der Aufmunterung mache, etc.. Hier scheint es als finge der Befehl zu stammeln an. Denken wir, ich wollte jemandem vorschreiben die Zahl 4 zu quadrieren & täte es mit dem Schema:
 
-<math display="block">
-  <mi>x</mi>
-  <mtext>x²</mtext>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mn>4</mn>
-  <mtext>?</mtext>
-</math>
+<img class="math math-block" src="../math/6561dc16603ef50a.svg" alt="xx^{2}\;|4?" style="display:block;width:2.867em;height:1.050em">
 
 Ich bin nun versucht zu sagen, daß mit dem Fragezeichen doch nur etwas angedeutet aber nicht ausgesprochen ist. Als trachte das Zeichen sich uns verständlich zu machen. , in welchen Zeichen tun wir das?
 
@@ -2034,25 +1950,7 @@ Der _Kalkül_ des Denkens knüpft mit der Wirklichkeit außerhalb dem Denken an.
 
 Vom Befehl zu seiner Ausführung ist ein Schritt einer Rechnung. Ja, die Rechnung
 
-<math display="block">
-  <munder>
-    <mrow>
-      <mn>25</mn>
-      <mspace width="0.3em"/>
-      <mo>×</mo>
-      <mspace width="0.3em"/>
-      <mn>25</mn>
-    </mrow>
-    <mo>&#95;</mo>
-  </munder>
-  <mn>50</mn>
-  <munder>
-    <mrow>
-      <mn>125</mn>
-    </mrow>
-    <mo>&#95;</mo>
-  </munder>
-</math>
+<img class="math math-block" src="../math/e026431bf88bfdb3.svg" alt="\underline{25×25}50\underline{125}" style="display:block;width:5.571em;height:1.054em">
 
 steht zu ihrem Resultat 625 genau im Verhältnis des Befehls zur Ausführung. Und soweit – & nur soweit – als diese Rechnung ein Bild des Resultats ist, ist auch der Befehl ein Bild der Ausführung (die Erwartung ein Bild der Erfüllung). Und soweit das Resultat durch die Rechnung bestimmt ist, soweit ist die Befolgung durch den Befehl bestimmt.
 
@@ -2556,7 +2454,7 @@ Kann man sagen die Grammatik beschreibe die Sprache; die Sprache, jenen Teil des
 
 ### [Ms-114](/ms-114/#112v.3+113r.1) <span class="fac">[112v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/112v.webp),[113r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/113r.webp)</span> {#ms-114-112v-3--113r-1}
 
-Es ist klar ich kann durch Erfahrung feststellen, daß ein Mensch (oder Tier) auf ein Zeichen so reagiert wie ich es will, auf ein anderes nicht. Daß z.B. ein Mensch auf das Zeichen „→” hin nach rechts, auf das Zeichen „←” nach links geht; daß er aber auf das Zeichen „<math display="inline"><mtext>⊣</mtext></math>” nicht so reagiert wie auf „→” etc.. Ja ich brauche gar keinen Fall zu erdichten & nur den tatsächlichen zu betrachten daß ich einen Menschen der nur Deutsch gelernt hat, nur mit der deutschen Sprache lenken kann. (Denn das Lernen der deutschen Sprache betrachte ich nur als ein Einstellen des Mechanismus auf eine gewisse Art der Beeinflussung & es macht keinen prinzipiellen Unterschied ob der Andere die Sprache gelernt hat oder vielleicht schon von Natur so gebaut ist daß er auf die Sätze der deutschen Sprache so reagiert wie Einer Mensch, wenn er sie gelernt hat.)
+Es ist klar ich kann durch Erfahrung feststellen, daß ein Mensch (oder Tier) auf ein Zeichen so reagiert wie ich es will, auf ein anderes nicht. Daß z.B. ein Mensch auf das Zeichen „→” hin nach rechts, auf das Zeichen „←” nach links geht; daß er aber auf das Zeichen „<img class="math math-inline" src="../math/1132636edf0f9d29.svg" alt="⊣" style="width:0.760em;height:0.650em;vertical-align:-0.000em">” nicht so reagiert wie auf „→” etc.. Ja ich brauche gar keinen Fall zu erdichten & nur den tatsächlichen zu betrachten daß ich einen Menschen der nur Deutsch gelernt hat, nur mit der deutschen Sprache lenken kann. (Denn das Lernen der deutschen Sprache betrachte ich nur als ein Einstellen des Mechanismus auf eine gewisse Art der Beeinflussung & es macht keinen prinzipiellen Unterschied ob der Andere die Sprache gelernt hat oder vielleicht schon von Natur so gebaut ist daß er auf die Sätze der deutschen Sprache so reagiert wie Einer Mensch, wenn er sie gelernt hat.)
 
 ### [Ms-114](/ms-114/#113r.2+113v.1) <span class="fac">[113r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/113r.webp),[113v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/113v.webp)</span> {#ms-114-113r-2--113v-1}
 
@@ -2684,19 +2582,7 @@ Ein dem philosophischen _analoges_ Problem, oder eine Beunruhigung, könnte etwa
 
 Denken wir uns wieder eine Sprache die aus Befehlen besteht. Man soll mit ihr die Bewegungen eines Menschen leiten können; die Befehle bestehen aus einer Längenangabe verbunden mit den Wörtern “vor”, “rückwärts”, “rechts”, “links” & den Wörtern “schnell” & “langsam”. Man könnte nun natürlich alle diejenigen Befehle die man wirklich gebrauchen wird durch von einander unabhängige Zeichen ersetzen. Es könnte Einer diese Signale zuerst als Abkürzungen der Sätze jener ersten Sprache lernen, sie auch in diese zurückübersetzen ehe er sie befolgt, später aber unmittelbar nach den Signalen handeln. – Man könnte dann von zwei Sprachen reden & die erste bildhafter nennen als die zweite. Man würde nämlich nicht sagen, daß ich aus einer Reihe solcher Signale allein ein Bild der Bewegung des Menschen, der ihnen folgte, _ableiten_ kann, wenn nicht zu den Signalen noch das tritt, was man eine allgemeine Regel der Übersetzung in die Zeichnung nennen würde. Wir würden nicht sagen: aus dem Zeichen abbcd läßt sich die Figur
 
-<math display="block">
-  <mtext>↑</mtext>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mtext>→</mtext>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mtext>→</mtext>
-  <mtext>←</mtext>
-  <mspace width="0.3em"/>
-  <mo>|</mo>
-  <mtext>↓</mtext>
-</math>
+<img class="math math-block" src="../math/87f57b7df011bf65.svg" alt="↑\;|→|→←|↓" style="display:block;width:6.249em;height:0.800em">
 
 _ableiten_; wohl aber aus abbcd und der Tabelle
 

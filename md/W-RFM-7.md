@@ -1060,7 +1060,7 @@ Ein unentschiedener Satz der Mathematik ist etwas, was weder als Regel, noch als
 
 ### [Ms-124](/ms-124/#135.3) <span class="fac">[135\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/135.webp)</span> {#ms-124-135-3}
 
-Denke Dir den <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>n→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>φn</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>ℓ</mtext></math> als eine Eigenschaft eines Musikstücks (etwa). Aber natürlich nicht _so_ daß das Stück endlos weiterliefe, sondern als eine dem Ohr erkennbare Eigenschaft (gleichsam _algebraische_ Eigenschaft) des Stückes.
+Denke Dir den <img class="math math-inline math-stacked" src="../math/b5aa7bf64a6d9424.svg" alt="\stack{\text{lim}}{n→∞}\;\text{φn}=ℓ" style="width:5.175em;height:1.309em;vertical-align:-0.351em"> als eine Eigenschaft eines Musikstücks (etwa). Aber natürlich nicht _so_ daß das Stück endlos weiterliefe, sondern als eine dem Ohr erkennbare Eigenschaft (gleichsam _algebraische_ Eigenschaft) des Stückes.
 
 ### [Ms-124](/ms-124/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/137.webp)</span> {#ms-124-137-2}
 
@@ -1100,7 +1100,7 @@ Man sagt freilich “das liegt alles schon in unserm Begriff” von der Regel, z
 
 ### [Ms-124](/ms-124/#140.4+141.1) <span class="fac">[140\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/140.webp),[141\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/141.webp)</span> {#ms-124-140-4--141-1}
 
-Die Zahl ist, wie Frege sagt, eine Eigenschaft eines Begriffs – – aber in der Mathematik ist sie ein Merkmal eines mathematischen Begriffs. <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mi>o</mi></msub></math> ist ein _Merkmal_ des Begriffs (der) Kardinalzahl; & die _Eigenschaft_ einer Technik. <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mi>o</mi></msub></msup></math> ist ein Merkmal des Begriffs des unendlichen Dezimalbruchs, aber wovon ist diese Zahl eine Eigenschaft? D.h.: von welcher Art von Begriff kann man sie empirisch aussagen?
+Die Zahl ist, wie Frege sagt, eine Eigenschaft eines Begriffs – – aber in der Mathematik ist sie ein Merkmal eines mathematischen Begriffs. <img class="math math-inline math-stacked" src="../math/4ed88f39525aca3f.svg" alt="{ℵ}&#95;{o}" style="width:1.060em;height:0.888em;vertical-align:-0.158em"> ist ein _Merkmal_ des Begriffs (der) Kardinalzahl; & die _Eigenschaft_ einer Technik. <img class="math math-inline math-stacked" src="../math/e2feafeeacfbffbd.svg" alt="{2}^{{ℵ}&#95;{o}}" style="width:1.333em;height:0.882em;vertical-align:-0.003em"> ist ein Merkmal des Begriffs des unendlichen Dezimalbruchs, aber wovon ist diese Zahl eine Eigenschaft? D.h.: von welcher Art von Begriff kann man sie empirisch aussagen?
 
 ---
 

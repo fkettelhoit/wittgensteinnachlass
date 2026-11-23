@@ -92,7 +92,7 @@ _Kürnberger_
 
 ### [Ms-104](/ms-104/#3.15) <span class="fac">[3\[15\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/3.webp)</span> {#ms-104-3-15}
 
-<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <math class="stacked" display="inline"><mtext>❘</mtext><mtext>N(</mtext><msub><mover><mrow><mi>p</mi></mrow><mo>‾</mo></mover><mi>o</mi></msub><mo>)</mo><mo>,</mo><mspace width="0.3em"/><mtext>ᾱ,</mtext><mspace width="0.3em"/><mtext>N(</mtext><mtext>ᾱ)</mtext><mtext>❘</mtext></math>
+<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <img class="math math-inline math-stacked" src="../math/c23a12e75556dd62.svg" alt="\vert N({\overline{p}}&#95;{o}),\;ᾱ,\;N(ᾱ)\vert" style="width:7.206em;height:1.141em;vertical-align:-0.319em">
 
 ### [Ms-104](/ms-104/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/4.webp)</span> {#ms-104-4-1}
 
@@ -408,7 +408,7 @@ Was denkbar ist, ist auch möglich.
 
 ### [Ms-104](/ms-104/#9.7) <span class="fac">[9\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-9-7}
 
-<span class="series-number">4˙24</span> Bezüglich des Bestehens und nicht Bestehens von n Sachverhalten gibt es <math class="stacked" display="inline"><msub><mi>K</mi><mi>n</mi></msub><mspace width="0.3em"/><mo>=</mo><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mn>0</mn></munder></mrow><mi>n</mi></mover><mspace width="0.3em"/><mo>(</mo><mfrac linethickness="0"><mrow><mi>n</mi></mrow><mrow><mtext>ν</mtext></mrow></mfrac><mo>)</mo></math> Möglichkeiten.
+<span class="series-number">4˙24</span> Bezüglich des Bestehens und nicht Bestehens von n Sachverhalten gibt es <img class="math math-inline math-stacked" src="../math/080cd4737bcde333.svg" alt="{K}&#95;{n}=\overset{n}{\underset{0}{\Sigma}}\;(\stack{n}{\nu})" style="width:4.928em;height:2.104em;vertical-align:-0.771em"> Möglichkeiten.
 
 ### [Ms-104](/ms-104/#9.8) <span class="fac">[9\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/9.webp)</span> {#ms-104-9-8}
 
@@ -542,7 +542,7 @@ Wir nennen es das Schema II.
 
 ### [Ms-104](/ms-104/#12.13+13.1) <span class="fac">[12\[13\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-12-13--13-1}
 
-<span class="series-number">4˙401</span> Bezüglich der Übereinstimmung und nicht Übereinstimung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <math class="stacked" display="inline"><msub><mtext><mi>L</mi></mtext><mi>n</mi></msub><mspace width="0.3em"/><mo>=</mo></math> Möglichkeiten.
+<span class="series-number">4˙401</span> Bezüglich der Übereinstimmung und nicht Übereinstimung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <img class="math math-inline math-stacked" src="../math/6c99d06a8c41193c.svg" alt="{L}&#95;{n}=" style="width:2.070em;height:0.848em;vertical-align:-0.156em"> Möglichkeiten.
 
 ### [Ms-104](/ms-104/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-2}
 
@@ -564,7 +564,7 @@ Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch; die
 
 ### [Ms-104](/ms-104/#13.6) <span class="fac">[13\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-6}
 
-<span class="series-number">4˙443</span> Für n Elementarsätze gibt es <math class="stacked" display="inline"><msub><mi>L</mi><mi>n</mi></msub></math> mögliche Gruppen von Wahrheitsbedingungen.
+<span class="series-number">4˙443</span> Für n Elementarsätze gibt es <img class="math math-inline math-stacked" src="../math/e3a2c1058a9f0be9.svg" alt="{L}&#95;{n}" style="width:1.032em;height:0.848em;vertical-align:-0.156em"> mögliche Gruppen von Wahrheitsbedingungen.
 
 ### [Ms-104](/ms-104/#13.7) <span class="fac">[13\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-7}
 
@@ -584,7 +584,7 @@ Im zweiten Fall ist der Satz für sämtliche Wahrheitsmöglichkeiten falsch; die
 
 ### [Ms-104](/ms-104/#13.11) <span class="fac">[13\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-11}
 
-<span class="series-number">4˙4011</span> <math class="stacked" display="inline"><msub><mi>L</mi><mi>n</mi></msub><mspace width="0.3em"/><mo>=</mo><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mn>0</mn></munder></mrow><mtext>Kn</mtext></mover><mspace width="0.3em"/><mo>(</mo><mfrac linethickness="0"><mrow><mtext>Kn</mtext></mrow><mrow><mtext>μ</mtext></mrow></mfrac><mo>)</mo></math>
+<span class="series-number">4˙4011</span> <img class="math math-inline math-stacked" src="../math/b8450133373f4da3.svg" alt="{L}&#95;{n}=\overset{\text{Kn}}{\underset{0}{\Sigma}}\;(\stack{\text{Kn}}{\mu})" style="width:5.564em;height:2.253em;vertical-align:-0.771em">
 
 ### [Ms-104](/ms-104/#13.12) <span class="fac">[13\[12\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/13.webp)</span> {#ms-104-13-12}
 
@@ -1028,7 +1028,7 @@ Das räumliche Bild alles Räumliche etc.
 
 ### [Ms-104](/ms-104/#23.5) <span class="fac">[23\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-23-5}
 
-<span class="series-number">4˙1022725</span> So kann man z.B. nicht sagen „Es gibt Gegenstände”, wie man etwa sagt „Es gibt Bücher”. Und ebensowenig: „Es gibt 100 Gegenstände.” oder „Es gibt <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math> Gegenstände.”.
+<span class="series-number">4˙1022725</span> So kann man z.B. nicht sagen „Es gibt Gegenstände”, wie man etwa sagt „Es gibt Bücher”. Und ebensowenig: „Es gibt 100 Gegenstände.” oder „Es gibt <img class="math math-inline math-stacked" src="../math/4e318f3951cc8018.svg" alt="{ℵ}&#95;{0}" style="width:1.100em;height:0.894em;vertical-align:-0.164em"> Gegenstände.”.
 
 ### [Ms-104](/ms-104/#23.6) <span class="fac">[23\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/23.webp)</span> {#ms-104-23-6}
 
@@ -1410,7 +1410,7 @@ Man könnte nun freilich sagen daß eben _nur a_ diese Beziehung zu a habe, aber
 
 ### [Ms-104](/ms-104/#35.4) <span class="fac">[35\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-35-4}
 
-<span class="series-number">5˙012</span> Es liegt nahe die Argumente von Funktionen mit den Indexen von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenden Zeichens. In Russells „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” ist z.B. „c” ein Index der darauf hinweist daß das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber dies beruht auf einer willkürlichen Übereinkunft und man könnte statt „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” auch ein einfaches Zeichen wählen: in „~p” aber ist „p” nicht ein Index sondern ein Argument; der Sinn von „~p” _kann nicht_ verstanden werden ohne daß vorher der Sinn von p verstanden worden wäre. Im Namen „Julius Cäsar” ist „Julius” ein Index. (Der Index ist immer ein Teil einer Beschreibung des Gegenstandes dessen Namen wir ihm anhängen. (_Der_ Cäsar aus dem Geschlecht der Julier.))
+<span class="series-number">5˙012</span> Es liegt nahe die Argumente von Funktionen mit den Indexen von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenden Zeichens. In Russells „<img class="math math-inline math-stacked" src="../math/471beaa05c623a4b.svg" alt="{+}&#95;{c}" style="width:1.131em;height:0.708em;vertical-align:-0.158em">” ist z.B. „c” ein Index der darauf hinweist daß das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber dies beruht auf einer willkürlichen Übereinkunft und man könnte statt „<img class="math math-inline math-stacked" src="../math/471beaa05c623a4b.svg" alt="{+}&#95;{c}" style="width:1.131em;height:0.708em;vertical-align:-0.158em">” auch ein einfaches Zeichen wählen: in „~p” aber ist „p” nicht ein Index sondern ein Argument; der Sinn von „~p” _kann nicht_ verstanden werden ohne daß vorher der Sinn von p verstanden worden wäre. Im Namen „Julius Cäsar” ist „Julius” ein Index. (Der Index ist immer ein Teil einer Beschreibung des Gegenstandes dessen Namen wir ihm anhängen. (_Der_ Cäsar aus dem Geschlecht der Julier.))
 
 ### [Ms-104](/ms-104/#35.5) <span class="fac">[35\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/35.webp)</span> {#ms-104-35-5}
 
@@ -2074,7 +2074,7 @@ Jede richtige Zeichensprache muß sich in jede andere nach solchen Regeln übers
 
 ### [Ms-104](/ms-104/#57.7+58.1) <span class="fac">[57\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-57-7--58-1}
 
-<span class="series-number">5˙422</span> Elementarsätze bezeichnen wir mit <math class="stacked" display="inline"><mtext>„</mtext><msub><mi>p</mi><mn>0</mn></msub><mtext>”</mtext><mo>,</mo><mspace width="0.3em"/><mtext>„</mtext><msub><mi>q</mi><mn>0</mn></msub><mtext>”</mtext><mo>,</mo><mspace width="0.3em"/><mtext>„</mtext><msub><mi>r</mi><mn>0</mn></msub><mtext>”</mtext><mo>,</mo></math> etc. oder mit <math class="stacked" display="inline"><msub><mi>f</mi><mn>0</mn></msub><mo>(</mo><mtext>a)</mtext><mo>,</mo><msub><mi>f</mi><mn>0</mn></msub><mo>(</mo><mtext>a,</mtext><mtext>b)</mtext><mo>,</mo></math> etc. wobei wir es dahingestellt sein lassen ob a = b ist oder nicht.
+<span class="series-number">5˙422</span> Elementarsätze bezeichnen wir mit <img class="math math-inline math-stacked" src="../math/c29ec08f2aa3e973.svg" alt="\text{„}{p}&#95;{0}\text{”},\;\text{„}{q}&#95;{0}\text{”},\;\text{„}{r}&#95;{0}\text{”}," style="width:7.301em;height:0.985em;vertical-align:-0.276em"> etc. oder mit <img class="math math-inline math-stacked" src="../math/8bdd5cc2aefc18ac.svg" alt="{f}&#95;{0}(a),{f}&#95;{0}(a,b)," style="width:5.559em;height:1.009em;vertical-align:-0.276em"> etc. wobei wir es dahingestellt sein lassen ob a = b ist oder nicht.
 
 ### [Ms-104](/ms-104/#58.2) <span class="fac">[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/58.webp)</span> {#ms-104-58-2}
 
@@ -2452,7 +2452,7 @@ Und dies ist auch der Fall, denn das Symbol „p” und „q” setzt ja selbst 
 
 ### [Ms-104](/ms-104/#70.7) <span class="fac">[70\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-70-7}
 
-<span class="series-number">6˙01</span> Die allgemeine Form der Operation ist: <math class="stacked" display="inline"><mtext>❘</mtext><mover><mrow><mtext>σ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>ᾱ,</mtext><mspace width="0.3em"/><mi>N</mi><mspace width="0.3em"/><mo>(</mo><mtext>ᾱ)</mtext><mtext>❘</mtext><mtext>'</mtext><mspace width="0.3em"/><mo>(</mo><mover><mrow><mtext>σ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>.
+<span class="series-number">6˙01</span> Die allgemeine Form der Operation ist: <img class="math math-inline math-stacked" src="../math/89f3378b3aeb6ca8.svg" alt="\vert\overline{\sigma},\;ᾱ,\;N\;(ᾱ)\vert\text{'}\;(\overline{\sigma})" style="width:7.617em;height:1.034em;vertical-align:-0.200em">.
 
 ### [Ms-104](/ms-104/#70.8) <span class="fac">[70\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/70.webp)</span> {#ms-104-70-8}
 
@@ -2590,7 +2590,7 @@ Ein Gebiet in dem der Satz gilt: simplex sigillum veri.
 
 <span class="series-number">4˙0742</span> Wollten wir das, was wir durch „(x) ∙ fx” ausdrücken, z.B. durch Vorsetzen eines Indexes vor „fx” ausdrücken – etwa so „Alg ∙ fx”, es würde nicht genügen – wir wüßten nicht was verallgemeinert wurde.
 
-Wollten wir es durch einen Index am „x” anzeigen – etwa so <math class="stacked" display="inline"><mtext>„</mtext><mtext>f(</mtext><msub><mi>x</mi><mi>a</mi></msub><mo>)</mo><mtext>”</mtext></math> – es würde auch nicht genügen – wir wüßten nicht den Bereich der Allgemeinheitsbezeichnung.
+Wollten wir es durch einen Index am „x” anzeigen – etwa so <img class="math math-inline math-stacked" src="../math/fa6cf1d4e86d701c.svg" alt="\text{„}f({x}&#95;{a})\text{”}" style="width:3.158em;height:1.009em;vertical-align:-0.276em"> – es würde auch nicht genügen – wir wüßten nicht den Bereich der Allgemeinheitsbezeichnung.
 
 Wollten wir es durch Einführen einer Marke in die Argumentstellen versuchen – etwa so „(A,A) ∙ F(A,A)” – es würde nicht genügen – wir könnten die Identität der Variablen nicht feststellen. U.s.w.
 
@@ -2610,7 +2610,7 @@ Alle diese Bezeichnungsweisen genügen nicht, weil sie nicht die notwendige math
 
 ### [Ms-104](/ms-104/#77.5) <span class="fac">[77\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/77.webp)</span> {#ms-104-77-5}
 
-<span class="series-number">5˙023</span> Sei in einem Schema <math class="stacked" display="inline"><mtext>II</mtext><msub><mi>W</mi><mi>r</mi></msub></math> die Anzahl der „W” in der Kolonne des Satzes r; Wrs die Anzahl derjenigen „W” in der Kolonne des Satzes s die in gleichen Reihen mit „W” in der Kolonne von r stehen. Der Satz „r” gibt dann dem Satz s die Wahrscheinlichkeit <math class="stacked" display="inline"><mfrac><mrow><mtext>Wrs</mtext></mrow><mrow><mtext>Wr</mtext></mrow></mfrac></math>.
+<span class="series-number">5˙023</span> Sei in einem Schema <img class="math math-inline math-stacked" src="../math/4deff95a2b4864b9.svg" alt="\text{II}{W}&#95;{r}" style="width:1.976em;height:0.856em;vertical-align:-0.156em"> die Anzahl der „W” in der Kolonne des Satzes r; Wrs die Anzahl derjenigen „W” in der Kolonne des Satzes s die in gleichen Reihen mit „W” in der Kolonne von r stehen. Der Satz „r” gibt dann dem Satz s die Wahrscheinlichkeit <img class="math math-inline math-stacked" src="../math/76012e1d8a4aaadf.svg" alt="\frac{\text{Wrs}}{\text{Wr}}" style="width:1.726em;height:1.240em;vertical-align:-0.351em">.
 
 ### [Ms-104](/ms-104/#78.1) <span class="fac">[78\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/78.webp)</span> {#ms-104-78-1}
 
@@ -3296,19 +3296,19 @@ Denn die Gleichungen drücken die Ersetzbarkeit zweier Ausdrücke aus und wir sc
 
 ### [Ms-104](/ms-104/#102.2) <span class="fac">[102\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-102-2}
 
-<span class="series-number">5˙005351</span> Schreiben wir das allgemeine Glied der Formenreihe _so_: <math class="stacked" display="inline"><mtext>❘</mtext><msub><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mn>0</mn></msub><mo>,</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>O'</mtext><mspace width="0.3em"/><mo>(</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>)</mo><mtext>❘</mtext></math>.
+<span class="series-number">5˙005351</span> Schreiben wir das allgemeine Glied der Formenreihe _so_: <img class="math math-inline math-stacked" src="../math/1dc37b9fc7619b73.svg" alt="\vert{\overline{x}}&#95;{0},\overline{x},\;O\text{'}\;(\overline{x})\vert" style="width:5.646em;height:0.986em;vertical-align:-0.164em">.
 
-Die <math class="stacked" display="inline"><msub><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mn>0</mn></msub></math> sind die Anfangsglieder der Reihe, die <math class="stacked" display="inline"><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover></math> beliebige ihrer Glieder und <math class="stacked" display="inline"><mtext>O'</mtext><mo>(</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>)</mo></math> dasjenige Glied welches beim Fortschreiten in der Reihe durch die Operation O'(ᾱ) aus den <math class="stacked" display="inline"><mo>(</mo><mover><mrow><mi>x</mi></mrow><mo>‾</mo></mover><mo>)</mo></math> entsteht.
+Die <img class="math math-inline math-stacked" src="../math/955548a242d3246f.svg" alt="{\overline{x}}&#95;{0}" style="width:0.937em;height:0.986em;vertical-align:-0.164em"> sind die Anfangsglieder der Reihe, die <img class="math math-inline math-stacked" src="../math/2c6132b4bf2c25da.svg" alt="\overline{x}" style="width:0.500em;height:0.833em;vertical-align:-0.011em"> beliebige ihrer Glieder und <img class="math math-inline math-stacked" src="../math/ba3ebd53675e1fa4.svg" alt="O\text{'}(\overline{x})" style="width:2.404em;height:0.986em;vertical-align:-0.164em"> dasjenige Glied welches beim Fortschreiten in der Reihe durch die Operation O'(ᾱ) aus den <img class="math math-inline math-stacked" src="../math/1d1a57b851ff5d29.svg" alt="(\overline{x})" style="width:1.348em;height:0.986em;vertical-align:-0.164em"> entsteht.
 
 ### [Ms-104](/ms-104/#102.3) <span class="fac">[102\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/102.webp)</span> {#ms-104-102-3}
 
-<span class="series-number">6˙011</span> Ich definiere nun: <math class="stacked" display="inline"><mi>x</mi><mspace width="0.3em"/><mo>=</mo><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mi>x</mi><mtext>Def.</mtext></math> und
+<span class="series-number">6˙011</span> Ich definiere nun: <img class="math math-inline math-stacked" src="../math/6f1c42e51b1dda9c.svg" alt="x={O}^{0}\text{'}x\text{Def}." style="width:5.644em;height:0.870em;vertical-align:-0.020em"> und
 
-<math class="stacked" display="inline"><mspace width="0.3em"/><mtext>❘</mtext><mtext>x,</mtext><mspace width="0.3em"/><mtext>ξ,</mtext><mspace width="0.3em"/><mtext>O'</mtext><mtext>ξ❘</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>❘</mtext><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mtext>ν</mtext></msup><mtext>'</mtext><mtext>ξ,</mtext><msup><mi>O</mi><mtext>ν</mtext><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mspace width="0.3em"/><mtext>ξ❘</mtext></math> und O + 1 = 1 Def.
+<img class="math math-inline math-stacked" src="../math/440f653a7d9891ab.svg" alt="\;\vert x,\;\xi,\;O\text{'}\xi\vert=\vert{O}^{0}\text{'}x,{O}^{\nu}\text{'}\xi,{O}^{\nu+1}\text{'}\;\xi\vert" style="width:14.535em;height:1.080em;vertical-align:-0.226em"> und O + 1 = 1 Def.
 
 also schreibe ich statt „x, O'x, O'O'x, O'O'O'x etc.”
 
-„<math class="stacked" display="inline"><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mi>O</mi><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x,</mtext><mtext>etc</mtext><mn>.</mn></math>”
+„<img class="math math-inline math-stacked" src="../math/6c157ed1da680004.svg" alt="{O}^{0}\text{'}x,{O}^{1}\text{'}x,{O}^{1+1}\text{'}x,{O}^{1+1+1}\text{'}x,\text{etc}." style="width:13.809em;height:1.009em;vertical-align:-0.155em">”
 
 1 + 1 = 2 Def. 1 + 1 + 1 = 3 Def. u.s.w.
 
@@ -3428,7 +3428,7 @@ Oder ich deute ihn durch die Buchstaben p, q, r an.
 
 ### [Ms-104](/ms-104/#106.3) <span class="fac">[106\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp)</span> {#ms-104-106-3}
 
-<span class="series-number">5˙15</span> Ist Wr die Anzahl der Wahrheitsgründe des Satzes „r”, Wrs die Anzahl der Wahrheitsgründe des Satzes „s”, die zugleich Wahrheitsgründe von „r” sind, dann nennen wir das Verhältnis: <math class="stacked" display="inline"><mfrac><mrow><mtext>Wrs</mtext></mrow><mrow><mtext>Wr</mtext></mrow></mfrac></math> das Maß der _Wahrscheinlichkeit_, welche der Satz „r” dem Satz „s” gibt.
+<span class="series-number">5˙15</span> Ist Wr die Anzahl der Wahrheitsgründe des Satzes „r”, Wrs die Anzahl der Wahrheitsgründe des Satzes „s”, die zugleich Wahrheitsgründe von „r” sind, dann nennen wir das Verhältnis: <img class="math math-inline math-stacked" src="../math/76012e1d8a4aaadf.svg" alt="\frac{\text{Wrs}}{\text{Wr}}" style="width:1.726em;height:1.240em;vertical-align:-0.351em"> das Maß der _Wahrscheinlichkeit_, welche der Satz „r” dem Satz „s” gibt.
 
 ### [Ms-104](/ms-104/#106.4) <span class="fac">[106\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/106.webp)</span> {#ms-104-106-4}
 
@@ -3628,7 +3628,7 @@ Hat sich aber die Einführung eines neuen Behelfes an einer Stelle als nötig er
 
 ### [Ms-104](/ms-104/#114.2+115.1) <span class="fac">[114\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/114.webp),[115\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/115.webp)</span> {#ms-104-114-2--115-1}
 
-<span class="series-number">5˙501</span> Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen der Form <math class="stacked" display="inline"><mtext>„</mtext><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mtext>”</mtext></math> an. „ξ” ist eine Variable deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, daß sie ihre sämtlichen Werte in der Klammer vertritt. (Hat also ξ etwa die 3 Werte „P”, „Q”, „R” so ist <math class="stacked" display="inline"><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mo>(</mo><mtext>P,</mtext><mi>Q</mi><mo>,</mo><mspace width="0.3em"/><mtext>R)</mtext></math>.) Die Werte der Variablen werden festgesetzt.
+<span class="series-number">5˙501</span> Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen der Form <img class="math math-inline math-stacked" src="../math/575b0cb149785519.svg" alt="\text{„}(\overline{\xi})\text{”}" style="width:2.388em;height:1.277em;vertical-align:-0.226em"> an. „ξ” ist eine Variable deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, daß sie ihre sämtlichen Werte in der Klammer vertritt. (Hat also ξ etwa die 3 Werte „P”, „Q”, „R” so ist <img class="math math-inline math-stacked" src="../math/816c4918e56e5dd6.svg" alt="(\overline{\xi})=(P,Q,\;R)" style="width:6.719em;height:1.277em;vertical-align:-0.226em">.) Die Werte der Variablen werden festgesetzt.
 
 Die Festsetzung ist die Beschreibung der Sätze, welche die Variable vertritt.
 
@@ -3658,7 +3658,7 @@ Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne 
 
 ### [Ms-104](/ms-104/#116.4) <span class="fac">[116\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp)</span> {#ms-104-116-4}
 
-<span class="series-number">5˙502</span> Ich schreibe also statt „(–W) (ξ, ....)” „<math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>”. <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> ist die Negation sämtlicher Werte der Satzvariablen ξ.
+<span class="series-number">5˙502</span> Ich schreibe also statt „(–W) (ξ, ....)” „<img class="math math-inline math-stacked" src="../math/a651cfb90ab95fec.svg" alt="N(\overline{\xi})" style="width:2.192em;height:1.277em;vertical-align:-0.226em">”. <img class="math math-inline math-stacked" src="../math/a651cfb90ab95fec.svg" alt="N(\overline{\xi})" style="width:2.192em;height:1.277em;vertical-align:-0.226em"> ist die Negation sämtlicher Werte der Satzvariablen ξ.
 
 ### [Ms-104](/ms-104/#116.5) <span class="fac">[116\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/116.webp)</span> {#ms-104-116-5}
 

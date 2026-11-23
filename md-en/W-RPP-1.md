@@ -5512,78 +5512,9 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 <span class="series-number">1764</span> A variant of Cantor's diagonal proof:
 
-Let N = F(k,n) be the form of the laws for the development of decimal fractions. _N_ is the n-th decimal place of the k-th development. The law of the diagonal is then: <math class="stacked" display="inline"><mi>N</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>F</mi><mspace width="0.3em"/><mo>(</mo><mtext>n,</mtext><mtext>n)</mtext><mspace width="0.3em"/><mo>=</mo><msup><mtext>Definition</mtext></msup><mspace width="0.3em"/><mtext>F'</mtext><mo>(</mo><mtext>n)</mtext><mn>.</mn></math> It must be proven that F'n cannot be one of the rules F(k,n). Suppose it is the 100th. Then the rule for the formation is
+Let N = F(k,n) be the form of the laws for the development of decimal fractions. _N_ is the n-th decimal place of the k-th development. The law of the diagonal is then: <img class="math math-inline math-stacked" src="../math/9eeb89a43ba29ab6.svg" alt="N=F\;(n,n)={}^{\text{Definition}}\;F\text{'}(n)." style="width:12.673em;height:1.042em;vertical-align:-0.164em"> It must be proven that F'n cannot be one of the rules F(k,n). Suppose it is the 100th. Then the rule for the formation is
 
-<math display="block">
-  <mtable columnalign="right center left center left center">
-    <mtr>
-      <mtd>
-        <mtext>von</mtext>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>′</mo>
-          <mo>(</mo>
-          <mn>1</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>(</mo>
-          <mn>1</mn>
-          <mo>,</mo>
-          <mn>1</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mtext>von</mtext>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>′</mo>
-          <mo>(</mo>
-          <mn>2</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>(</mo>
-          <mn>2</mn>
-          <mo>,</mo>
-          <mn>2</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mtext>etc.</mtext>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/c0be0592d913822b.svg" alt="\begin{array}{rclclc} \text{von} &amp; {} &amp; {F′(1)} &amp; {} &amp; {F(1,1)} &amp; {} \\ \text{von} &amp; {} &amp; {F′(2)} &amp; {} &amp; {F(2,2)} &amp; \text{etc}. \end{array}" style="display:block;width:14.210em;height:2.708em">
 
 but the rule for the formation of the 100th place of F'(n) is F(100,100); that is, it only tells us that the 100th place is equal to itself, and is therefore for n = 100 _not_ a rule. The rule of the game is “Do the same as ‥‥!” – and in the specific case it now becomes “Do the same as what you are doing!”
 

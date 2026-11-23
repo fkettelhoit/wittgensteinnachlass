@@ -112,142 +112,7 @@ Hier haben wir eben verschiedene Bilder; & ihnen entsprechen verschiedene Redewe
 
 <span class="series-number">18</span> Die Rechnung selbst ist ja nützlich. Die Aufgabe wäre etwa: Schreibe eine Dezimalzahl an die verschieden ist von den Zahlen:
 
-<math display="block">
-  <mtable columnalign="right left left left left left left left" columnspacing="0em" rowspacing="0.3em">
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>1</mn>
-      </mtd>
-      <mtd>
-        <mn>2</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-      <mtd>
-        <mn>8</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>3</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-      <mtd>
-        <mn>8</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>0</mn>
-      </mtd>
-      <mtd>
-        <mn>1</mn>
-      </mtd>
-      <mtd>
-        <mn>2</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>3</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>2</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd></mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/59e84a9bcc30384e.svg" alt="\begin{array}{rlllllll} 0\cdot &amp; 1 &amp; 2 &amp; 4 &amp; 6 &amp; 7 &amp; 9 &amp; 8 \\ 0\cdot &amp; 3 &amp; 4 &amp; 6 &amp; 9 &amp; 8 &amp; 7 &amp; 6 \\ 0\cdot &amp; 0 &amp; 1 &amp; 2 &amp; 7 &amp; 6 &amp; 4 &amp; 9 \\ 0\cdot &amp; 3 &amp; 4 &amp; 2 &amp; 6 &amp; 7 &amp; 9 &amp; 4 \\  &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot \end{array}" style="display:block;width:12.280em;height:6.850em">
 
 _Man denke sich eine lange Reihe._
 
@@ -331,7 +196,7 @@ Man könnte sagen: Außer den rationalen Punkten befinden sich auf der Zahlenlin
 
 <span class="series-number">35</span> 12.07.1938
 
-‘_Diese Überlegungen können uns dahin führen, zu sagen_, daß <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mn>0</mn></msub></msup><mspace width="0.3em"/><mtext>></mtext><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>’. D.h.: wir können die Überlegungen uns dahin führen _lassen_. Oder: Wir können _dies_ sagen, & _dies_ als Grund dafür angeben. Aber wenn wir es nun sagen – was ist weiter damit anzufangen? In welcher Praxis ist dieser Satz _verankert_?
+‘_Diese Überlegungen können uns dahin führen, zu sagen_, daß <img class="math math-inline math-stacked" src="../math/ee69ccbf63c0d202.svg" alt="{2}^{{ℵ}&#95;{0}}&gt;{ℵ}&#95;{0}" style="width:3.783em;height:1.043em;vertical-align:-0.164em">’. D.h.: wir können die Überlegungen uns dahin führen _lassen_. Oder: Wir können _dies_ sagen, & _dies_ als Grund dafür angeben. Aber wenn wir es nun sagen – was ist weiter damit anzufangen? In welcher Praxis ist dieser Satz _verankert_?
 
 Er ist vorläufig ein Stück mathematischen Gerüsts, das in der Luft hängt, so aussieht als wäre es, sagen wir, ein Architrav, aber von nichts getragen wird & nichts trägt.
 
@@ -345,7 +210,7 @@ Er ist vorläufig ein Stück mathematischen Gerüsts, das in der Luft hängt, so
 
 ### [Ms-121](/ms-121/#43r.1+43v.1+44r.1+44v.1) <span class="fac">[43r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/43r.webp),[43v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/43v.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44r.webp),[44v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44v.webp)</span> {#ms-121-43r-1--43v-1--44r-1--44v-1}
 
-<span class="series-number">38</span> Eine interessante Frage ist: Welchen Zusammenhang hat ℵ<sub>0</sub> mit den Kardinalzahlen, deren Zahl es sein soll? ℵ<sub>0</sub> wäre offenbar das _Prädikat “endlose Reihe_”, in seiner Anwendung auf die Reihe der Kardinalzahlen & ähnliche mathematische Bildungen. Es ist hier wichtig, das Verhältnis zwischen einer Reihe im nicht-mathematischen Sinn & einer im mathematischen Sinn zu erfassen. Es ist natürlich klar, daß wir in der Mathematik das Wort “Zahlenreihe” _nicht_ im Sinne von “Reihe von Zahlzeichen” gebrauchen, wenn, natürlich, auch ein Zusammenhang zwischen dem Gebrauch des einen Ausdrucks & des andern besteht. Eine Eisenbahn ist nicht ein Eisenbahnzug; sie ist auch nicht etwas einem Eisenbahnzug ähnliches. Reihe im mathematischen Sinn ist eine Konstruktionsart für Reihen sprachlicher Ausdrücke. Wir haben also eine grammatische Klasse “endlose Folge” & äquivalent mit diesem Ausdruck ein Wort, dessen Grammatik (eine gewisse) Ähnlichkeit mit der eines Zahlworts hat: “endlos”, oder “<math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>”. Dies hängt damit zusammen, daß wir unter den Kalkülen der Mathematik eine Technik haben, die wir ‘mit einem gewissen Recht 1-1 Zuordnung der Glieder zweier endloser Folgen’ nennen können, weil sie mit einem solchen gegenseitigen Zuordnen der Glieder sogenannter ‘endlicher’ Klassen Ähnlichkeit hat. Daraus nun, daß wir (eine) Verwendung für eine _Art von_ Zahlwort haben, welches, gleichsam, die Anzahl der Glieder einer endlosen Reihe bezeichnet, folgt nicht daß es auch irgendeinen Sinn hat von der Zahl des Begriffes “endlose Folge” zu reden, daß wir _hier_ irgendwelche Verwendung für etwas Zahlwortähnliches haben. Es gibt eben keine grammatische Technik, die die Verwendung so eines Wortes nahelegte. Denn ich kann freilich den Ausdruck bilden: “Klasse aller Klassen, die (mit) der Klasse ‘endlose Folge’ zahlengleich sind” (wie auch den: “Klasse aller Engel die auf einer Nadelspitze Platz haben”) aber dieser Ausdruck ist leer, solang es keine Verwendung für ihn gibt. Eine solche ist nicht: noch zu entdecken, sondern: erst zu _erfinden_
+<span class="series-number">38</span> Eine interessante Frage ist: Welchen Zusammenhang hat ℵ<sub>0</sub> mit den Kardinalzahlen, deren Zahl es sein soll? ℵ<sub>0</sub> wäre offenbar das _Prädikat “endlose Reihe_”, in seiner Anwendung auf die Reihe der Kardinalzahlen & ähnliche mathematische Bildungen. Es ist hier wichtig, das Verhältnis zwischen einer Reihe im nicht-mathematischen Sinn & einer im mathematischen Sinn zu erfassen. Es ist natürlich klar, daß wir in der Mathematik das Wort “Zahlenreihe” _nicht_ im Sinne von “Reihe von Zahlzeichen” gebrauchen, wenn, natürlich, auch ein Zusammenhang zwischen dem Gebrauch des einen Ausdrucks & des andern besteht. Eine Eisenbahn ist nicht ein Eisenbahnzug; sie ist auch nicht etwas einem Eisenbahnzug ähnliches. Reihe im mathematischen Sinn ist eine Konstruktionsart für Reihen sprachlicher Ausdrücke. Wir haben also eine grammatische Klasse “endlose Folge” & äquivalent mit diesem Ausdruck ein Wort, dessen Grammatik (eine gewisse) Ähnlichkeit mit der eines Zahlworts hat: “endlos”, oder “<img class="math math-inline math-stacked" src="../math/4e318f3951cc8018.svg" alt="{ℵ}&#95;{0}" style="width:1.100em;height:0.894em;vertical-align:-0.164em">”. Dies hängt damit zusammen, daß wir unter den Kalkülen der Mathematik eine Technik haben, die wir ‘mit einem gewissen Recht 1-1 Zuordnung der Glieder zweier endloser Folgen’ nennen können, weil sie mit einem solchen gegenseitigen Zuordnen der Glieder sogenannter ‘endlicher’ Klassen Ähnlichkeit hat. Daraus nun, daß wir (eine) Verwendung für eine _Art von_ Zahlwort haben, welches, gleichsam, die Anzahl der Glieder einer endlosen Reihe bezeichnet, folgt nicht daß es auch irgendeinen Sinn hat von der Zahl des Begriffes “endlose Folge” zu reden, daß wir _hier_ irgendwelche Verwendung für etwas Zahlwortähnliches haben. Es gibt eben keine grammatische Technik, die die Verwendung so eines Wortes nahelegte. Denn ich kann freilich den Ausdruck bilden: “Klasse aller Klassen, die (mit) der Klasse ‘endlose Folge’ zahlengleich sind” (wie auch den: “Klasse aller Engel die auf einer Nadelspitze Platz haben”) aber dieser Ausdruck ist leer, solang es keine Verwendung für ihn gibt. Eine solche ist nicht: noch zu entdecken, sondern: erst zu _erfinden_
 
 ### [Ms-121](/ms-121/#44v.2) <span class="fac">[44v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44v.webp)</span> {#ms-121-44v-2}
 

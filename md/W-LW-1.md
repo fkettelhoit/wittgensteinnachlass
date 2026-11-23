@@ -1830,7 +1830,7 @@ _---_
 
 <span class="series-number">410</span> 07.12.1948
 
-Wen man abgerichtet hätte beim Anblick von etwas Rotem einen bestimmten Laut auszustoßen, beim Anblick von etwas Gelbem andern, & so fort für andere Farben, von dem würde man dennoch nicht sagen, er könne Gegenstände ihrer Farben nach beschreiben obwohl er uns zu einer Beschreibung verhelfen könnte. Um zu beschreiben, muß er nach irgend einer Projektionsregel Bilder von Farbverteilungen im Raume machen können. (Sprachspiel <math display="inline"></math>?)
+Wen man abgerichtet hätte beim Anblick von etwas Rotem einen bestimmten Laut auszustoßen, beim Anblick von etwas Gelbem andern, & so fort für andere Farben, von dem würde man dennoch nicht sagen, er könne Gegenstände ihrer Farben nach beschreiben obwohl er uns zu einer Beschreibung verhelfen könnte. Um zu beschreiben, muß er nach irgend einer Projektionsregel Bilder von Farbverteilungen im Raume machen können. (Sprachspiel ?)
 
 ### [Ms-137](/ms-137/#119a.3) <span class="fac">[119a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/119a.webp)</span> {#ms-137-119a-3}
 
@@ -3152,7 +3152,7 @@ Wenn aber “Jetzt ist es ein Haus” auch nicht das _Aufleuchten_ des Aspekts a
 
 <span class="series-number">706</span> 16.01.1949
 
-Von einem beliebigen Schriftzeichen – diesem etwa <math display="inline"><mtext>𝖄</mtext></math> – kann ich mir vorstellen, es sei ein streng korrekt geschriebener Buchstabe irgend eines fremden Alphabets. – Oder aber, es sei ein fehlerhaft geschriebener Buchstabe; & zwar fehlerhaft in einer von mehreren verschiedenen Weisen: z.B. schleuderhaft, oder typisch kindisch – ungeschickt, oder bürokratisch verschnörkelt. Es könnte in verschiedener Weise vom korrekt Geschriebenen abweichen. – Und je nach der Erdichtung, mit der ich es umgebe, kann ich es in verschiedenen Aspekten sehen. – Hier besteht enge Verwandtschaft mit dem Erleben der Bedeutung eines isolierten Wortes.
+Von einem beliebigen Schriftzeichen – diesem etwa <img class="math math-inline" src="../math/6799e0caa4687209.svg" alt="𝖄" style="width:0.983em;height:0.903em;vertical-align:-0.214em"> – kann ich mir vorstellen, es sei ein streng korrekt geschriebener Buchstabe irgend eines fremden Alphabets. – Oder aber, es sei ein fehlerhaft geschriebener Buchstabe; & zwar fehlerhaft in einer von mehreren verschiedenen Weisen: z.B. schleuderhaft, oder typisch kindisch – ungeschickt, oder bürokratisch verschnörkelt. Es könnte in verschiedener Weise vom korrekt Geschriebenen abweichen. – Und je nach der Erdichtung, mit der ich es umgebe, kann ich es in verschiedenen Aspekten sehen. – Hier besteht enge Verwandtschaft mit dem Erleben der Bedeutung eines isolierten Wortes.
 
 ### [Ms-138](/ms-138/#2b.2) <span class="fac">[2b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/2b.webp)</span> {#ms-138-2b-2}
 

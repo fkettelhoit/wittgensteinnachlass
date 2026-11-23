@@ -1148,7 +1148,7 @@ Zum Beispiel in dem Satz „es gibt 2 Gegenstände, welche …” durch „(∃x
 
 Wo immer es anders, also als eigentliches Begriffswort gebraucht wird, entstehen unsinnige Scheinsätze.
 
-So kann man z.B. nicht sagen „Es gibt Gegenstände.”, wie man etwa sagt „Es gibt Bücher.”. Und ebenso wenig „Es gibt 100 Gegenstände.” oder „Es gibt <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math> Gegenstände.”
+So kann man z.B. nicht sagen „Es gibt Gegenstände.”, wie man etwa sagt „Es gibt Bücher.”. Und ebenso wenig „Es gibt 100 Gegenstände.” oder „Es gibt <img class="math math-inline math-stacked" src="../math/4e318f3951cc8018.svg" alt="{ℵ}&#95;{0}" style="width:1.100em;height:0.894em;vertical-align:-0.164em"> Gegenstände.”
 
 Und es ist unsinnig von der _Anzahl aller Gegenstände_ zu sprechen. Dasselbe gilt von den Worten „Komplex”, „Tatsache”, „Funktion”, „Zahl”, etc.
 
@@ -1250,7 +1250,7 @@ Ausdrücke wie „a = a”, oder von diesen abgeleitete, sind weder Elementarsä
 
 ### [Ts-204](/ts-204/#20r.5) <span class="fac">[20r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/20r.webp)</span> {#ts-204-20r-5}
 
-<span class="series-number">4.27</span> Bezüglich des Bestehens und Nichtbestehens von n Sachverhalten gibt es <math class="stacked" display="inline"><mi>K</mi><mi>n</mi><mspace width="0.3em"/><mo>=</mo><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mtext>ν</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn></munder></mrow><mi>n</mi></mover><mspace width="0.3em"/><mo>(</mo><mo>[</mo><mtext>nν]</mtext><mo>)</mo></math> Möglichkeiten.
+<span class="series-number">4.27</span> Bezüglich des Bestehens und Nichtbestehens von n Sachverhalten gibt es <img class="math math-inline math-stacked" src="../math/09c2d011ffa9a5c9.svg" alt="Kn=\overset{n}{\underset{\nu=0}{\Sigma}}\;([\text{nν}])" style="width:6.863em;height:2.104em;vertical-align:-0.771em"> Möglichkeiten.
 
 Es können alle Kombinationen der Sachverhalte bestehen, die anderen nicht bestehen.
 
@@ -1282,7 +1282,7 @@ pWFWWFFWF | qWWFWFWFF | rWWWFWFFF | | pWFWF | qWWFF | | pWF
 
 ### [Ts-204](/ts-204/#21r.4) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/21r.webp)</span> {#ts-204-21r-4}
 
-<span class="series-number">4.42</span> Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <math class="stacked" display="inline"><mover><mrow><munder><mrow><mtext>Σ</mtext></mrow><mtext>κ</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>0</mn></munder></mrow><mtext>Kn</mtext></mover><mspace width="0.3em"/><mo>(</mo><mo>[</mo><mtext>Knκ]</mtext><mo>)</mo></math> = L<sub>n</sub> Möglichkeiten.
+<span class="series-number">4.42</span> Bezüglich der Übereinstimmung und Nichtübereinstimmung eines Satzes mit den Wahrheitsmöglichkeiten von n Elementarsätzen gibt es <img class="math math-inline math-stacked" src="../math/7af9e89220d11cdd.svg" alt="\overset{\text{Kn}}{\underset{\kappa=0}{\Sigma}}\;([\text{Knκ}])" style="width:5.061em;height:2.253em;vertical-align:-0.771em"> = L<sub>n</sub> Möglichkeiten.
 
 ### [Ts-204](/ts-204/#21r.5) <span class="fac">[21r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/21r.webp)</span> {#ts-204-21r-5}
 
@@ -1320,7 +1320,7 @@ Ist die Reihenfolge der Wahrheitsmöglichkeiten im Schema durch eine Kombination
 
 ### [Ts-204](/ts-204/#22r.2) <span class="fac">[22r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/22r.webp)</span> {#ts-204-22r-2}
 
-<span class="series-number">4.45</span> Für n Elementarsätze gibt es <math class="stacked" display="inline"><msub><mi>L</mi><mi>n</mi></msub></math> mögliche Gruppen von Wahrheitsbedingungen.
+<span class="series-number">4.45</span> Für n Elementarsätze gibt es <img class="math math-inline math-stacked" src="../math/e3a2c1058a9f0be9.svg" alt="{L}&#95;{n}" style="width:1.032em;height:0.848em;vertical-align:-0.156em"> mögliche Gruppen von Wahrheitsbedingungen.
 
 Die Gruppen von Wahrheitsbedingungen, welche zu den Wahrheitsmöglichkeiten einer Anzahl von Elementarsätzen gehören, lassen sich in einer Reihe ordnen.
 
@@ -1418,7 +1418,7 @@ Daß es eine allgemeine Satzform gibt wird dadurch bewiesen, daß es keinen Satz
 
 ### [Ts-204](/ts-204/#24r.8+25r.1) <span class="fac">[24r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/24r.webp),[25r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/25r.webp)</span> {#ts-204-24r-8--25r-1}
 
-<span class="series-number">5.02</span> Es liegt nahe, die Argumente von Funktionen mit den Indexen von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenen Zeichens. In Russell's „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” ist z.B. „c” ein Index, der darauf hinweist, daß das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „<math class="stacked" display="inline"><msub><mo>+</mo><mi>c</mi></msub></math>” auch ein einfaches Zeichen wählen; in „~p” aber ist „p” kein Index, sondern ein Argument: der Sinn von „~p” _kann nicht_ verstanden werden, ohne daß vorher der Sinn von „p” verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius” ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihm anhängen. Z.B. _Der_ Cäsar aus dem Geschlechte der Julier.) Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Frege's von der Bedeutung der Sätze und Funktionen zugrunde.
+<span class="series-number">5.02</span> Es liegt nahe, die Argumente von Funktionen mit den Indexen von Namen zu verwechseln. Ich erkenne nämlich sowohl am Argument wie am Index die Bedeutung des sie enthaltenen Zeichens. In Russell's „<img class="math math-inline math-stacked" src="../math/471beaa05c623a4b.svg" alt="{+}&#95;{c}" style="width:1.131em;height:0.708em;vertical-align:-0.158em">” ist z.B. „c” ein Index, der darauf hinweist, daß das ganze Zeichen das Additionszeichen für Kardinalzahlen ist. Aber diese Bezeichnung beruht auf willkürlicher Übereinkunft und man könnte statt „<img class="math math-inline math-stacked" src="../math/471beaa05c623a4b.svg" alt="{+}&#95;{c}" style="width:1.131em;height:0.708em;vertical-align:-0.158em">” auch ein einfaches Zeichen wählen; in „~p” aber ist „p” kein Index, sondern ein Argument: der Sinn von „~p” _kann nicht_ verstanden werden, ohne daß vorher der Sinn von „p” verstanden worden wäre. (Im Namen Julius Cäsar ist „Julius” ein Index. Der Index ist immer ein Teil einer Beschreibung des Gegenstandes, dessen Namen wir ihm anhängen. Z.B. _Der_ Cäsar aus dem Geschlechte der Julier.) Die Verwechslung von Argument und Index liegt, wenn ich mich nicht irre, der Theorie Frege's von der Bedeutung der Sätze und Funktionen zugrunde.
 
 Für Frege waren die Sätze der Logik Namen, und deren Argumente die Indexe dieser Namen.
 
@@ -1544,11 +1544,11 @@ Die Kontradiktion ist die äußere Grenze der Sätze, die Tautologie ihr substan
 
 ### [Ts-204](/ts-204/#27r.7) <span class="fac">[27r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/27r.webp)</span> {#ts-204-27r-7}
 
-<span class="series-number">5.15</span> Ist <math class="stacked" display="inline"><msub><mi>W</mi><mi>r</mi></msub></math> die Anzahl der Wahrheitsgründe des Satzes „r”, <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub></math> die Anzahl derjenigen Wahrheitsgründe des Satzes „s”, die zugleich Wahrheitsgründe von „r” sind, dann nennen wir das Verhältnis: <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub><mo>:</mo><msub><mi>W</mi><mi>r</mi></msub></math> das Maß der _Wahrscheinlichkeit_, welche der Satz „r” dem Satz „s” gibt.
+<span class="series-number">5.15</span> Ist <img class="math math-inline math-stacked" src="../math/ada5f96d6cd4a6ba.svg" alt="{W}&#95;{r}" style="width:1.302em;height:0.856em;vertical-align:-0.156em"> die Anzahl der Wahrheitsgründe des Satzes „r”, <img class="math math-inline math-stacked" src="../math/6d757ac1c7673552.svg" alt="{W}&#95;{\text{rs}}" style="width:1.606em;height:0.864em;vertical-align:-0.164em"> die Anzahl derjenigen Wahrheitsgründe des Satzes „s”, die zugleich Wahrheitsgründe von „r” sind, dann nennen wir das Verhältnis: <img class="math math-inline math-stacked" src="../math/efb2b6239d3efffe.svg" alt="{W}&#95;{\text{rs}}:{W}&#95;{r}" style="width:3.714em;height:0.864em;vertical-align:-0.164em"> das Maß der _Wahrscheinlichkeit_, welche der Satz „r” dem Satz „s” gibt.
 
 ### [Ts-204](/ts-204/#27r.8) <span class="fac">[27r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/27r.webp)</span> {#ts-204-27r-8}
 
-<span class="series-number">5.151</span> Sei in einem Schema wie dem obigen in [→ № 5.101] <math class="stacked" display="inline"><msub><mi>W</mi><mi>r</mi></msub></math> die Anzahl der „W” im Satze r; <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub></math> die Anzahl derjenigen „W” im Satze s, die in gleichen Kolonnen mit „W” des Satzes r stehen. Der Satz r gibt dann dem Satze s die Wahrscheinlichkeit: <math class="stacked" display="inline"><msub><mi>W</mi><mtext>rs</mtext></msub><mo>:</mo><msub><mi>W</mi><mi>r</mi></msub></math>.
+<span class="series-number">5.151</span> Sei in einem Schema wie dem obigen in [→ № 5.101] <img class="math math-inline math-stacked" src="../math/ada5f96d6cd4a6ba.svg" alt="{W}&#95;{r}" style="width:1.302em;height:0.856em;vertical-align:-0.156em"> die Anzahl der „W” im Satze r; <img class="math math-inline math-stacked" src="../math/6d757ac1c7673552.svg" alt="{W}&#95;{\text{rs}}" style="width:1.606em;height:0.864em;vertical-align:-0.164em"> die Anzahl derjenigen „W” im Satze s, die in gleichen Kolonnen mit „W” des Satzes r stehen. Der Satz r gibt dann dem Satze s die Wahrscheinlichkeit: <img class="math math-inline math-stacked" src="../math/efb2b6239d3efffe.svg" alt="{W}&#95;{\text{rs}}:{W}&#95;{r}" style="width:3.714em;height:0.864em;vertical-align:-0.164em">.
 
 ### [Ts-204](/ts-204/#27r.9) <span class="fac">[27r\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/27r.webp)</span> {#ts-204-27r-9}
 
@@ -1878,9 +1878,9 @@ Diese Operation verneint sämtliche Sätze in der rechten Klammer und ich nenne 
 
 ### [Ts-204](/ts-204/#34r.6) <span class="fac">[34r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/34r.webp)</span> {#ts-204-34r-6}
 
-<span class="series-number">5.501</span> Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen der Form „<math class="stacked" display="inline"><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>” an. „ξ” ist eine Variable deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, daß sie ihre sämtlichen Werte in der Klammer vertritt.
+<span class="series-number">5.501</span> Einen Klammerausdruck, dessen Glieder Sätze sind, deute ich – wenn die Reihenfolge der Glieder in der Klammer gleichgültig ist – durch ein Zeichen der Form „<img class="math math-inline math-stacked" src="../math/f038c2b607c599c6.svg" alt="(\overline{\xi})" style="width:1.388em;height:1.277em;vertical-align:-0.226em">” an. „ξ” ist eine Variable deren Werte die Glieder des Klammerausdruckes sind; und der Strich über der Variablen deutet an, daß sie ihre sämtlichen Werte in der Klammer vertritt.
 
-(Hat also ξ etwa die 3 Werte „P”, „Q”, „R” so ist <math class="stacked" display="inline"><mo>(</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mo>(</mo><mtext>P,</mtext><mtext>Q,</mtext><mtext>R)</mtext></math>.)
+(Hat also ξ etwa die 3 Werte „P”, „Q”, „R” so ist <img class="math math-inline math-stacked" src="../math/bd470339ec901743.svg" alt="(\overline{\xi})=(P,Q,R)" style="width:6.441em;height:1.277em;vertical-align:-0.226em">.)
 
 Die Werte der Variablen werden festgesetzt.
 
@@ -1892,9 +1892,9 @@ Wir _können_ drei Arten der Beschreibung unterscheiden: 1) Die direkte Aufzähl
 
 ### [Ts-204](/ts-204/#34r.7) <span class="fac">[34r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/34r.webp)</span> {#ts-204-34r-7}
 
-<span class="series-number">5.502</span> Ich schreibe also statt „(– – –W)(ξ,…)” „<math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math>”.
+<span class="series-number">5.502</span> Ich schreibe also statt „(– – –W)(ξ,…)” „<img class="math math-inline math-stacked" src="../math/a651cfb90ab95fec.svg" alt="N(\overline{\xi})" style="width:2.192em;height:1.277em;vertical-align:-0.226em">”.
 
-<math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> ist die Negation sämtlicher Werte der Satzvariablen ξ.
+<img class="math math-inline math-stacked" src="../math/a651cfb90ab95fec.svg" alt="N(\overline{\xi})" style="width:2.192em;height:1.277em;vertical-align:-0.226em"> ist die Negation sämtlicher Werte der Satzvariablen ξ.
 
 ### [Ts-204](/ts-204/#35r.1) <span class="fac">[35r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/35r.webp)</span> {#ts-204-35r-1}
 
@@ -1902,7 +1902,7 @@ Wir _können_ drei Arten der Beschreibung unterscheiden: 1) Die direkte Aufzähl
 
 ### [Ts-204](/ts-204/#35r.2) <span class="fac">[35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/35r.webp)</span> {#ts-204-35r-2}
 
-<span class="series-number">5.51</span> Hat ξ nur einen Wert, so ist <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mtext>~</mtext><mtext>ξ</mtext></math> (nicht ξ), hat es zwei Werte, so ist <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mtext>~</mtext><mtext>ξ.</mtext><mtext>~</mtext><mtext>η</mtext></math> (weder ξ noch η).
+<span class="series-number">5.51</span> Hat ξ nur einen Wert, so ist <img class="math math-inline math-stacked" src="../math/d84659e905c8b1f5.svg" alt="N(\overline{\xi})={\sim}\xi" style="width:4.806em;height:1.277em;vertical-align:-0.226em"> (nicht ξ), hat es zwei Werte, so ist <img class="math math-inline math-stacked" src="../math/622c4b5f65b74cfc.svg" alt="N(\overline{\xi})={\sim}\xi.{\sim}\eta" style="width:6.506em;height:1.327em;vertical-align:-0.276em"> (weder ξ noch η).
 
 ### [Ts-204](/ts-204/#35r.3) <span class="fac">[35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/35r.webp)</span> {#ts-204-35r-3}
 
@@ -1944,7 +1944,7 @@ Der positive _Satz_ muß die Existenz des negativen _Satzes_ voraussetzen, und u
 
 ### [Ts-204](/ts-204/#36r.2) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/36r.webp)</span> {#ts-204-36r-2}
 
-<span class="series-number">5.52</span> Sind die Werte von ξ sämtliche Werte einer Funktion f(x) für alle Werte von x, so wird <math class="stacked" display="inline"><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mtext>~</mtext><mo>(</mo><mo>∃</mo><mtext>x)</mtext><mtext>․</mtext><mtext>fx</mtext></math>.
+<span class="series-number">5.52</span> Sind die Werte von ξ sämtliche Werte einer Funktion f(x) für alle Werte von x, so wird <img class="math math-inline math-stacked" src="../math/774cadccd655891d.svg" alt="N(\overline{\xi})={\sim}(∃x).\text{fx}" style="width:7.519em;height:1.277em;vertical-align:-0.226em">.
 
 ### [Ts-204](/ts-204/#36r.3) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/36r.webp)</span> {#ts-204-36r-3}
 
@@ -2252,36 +2252,7 @@ Das Ich tritt in die Philosophie dadurch ein, daß “die Welt meine Welt ist.�
 
 <span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist:
 
-<math display="block">
-  <mo>[</mo>
-  <mover>
-    <mrow>
-      <msub>
-        <mi>p</mi>
-        <mi>o</mi>
-      </msub>
-    </mrow>
-    <mo>‾</mo>
-  </mover>
-  <mo>,</mo>
-  <mover>
-    <mrow>
-      <mtext>ξ</mtext>
-    </mrow>
-    <mo>‾</mo>
-  </mover>
-  <mo>,</mo>
-  <mspace width="0.3em"/>
-  <mtext>N(</mtext>
-  <mover>
-    <mrow>
-      <mtext>ξ</mtext>
-    </mrow>
-    <mo>‾</mo>
-  </mover>
-  <mo>)</mo>
-  <mo>]</mo>
-</math>
+<img class="math math-block" src="../math/13e1f32ec9985432.svg" alt="[\overline{{p}&#95;{o}},\overline{\xi},\;N(\overline{\xi})]" style="display:block;width:5.560em;height:1.327em">
 
 Dies ist die allgemeine Form des Satzes.
 
@@ -2289,79 +2260,19 @@ Dies ist die allgemeine Form des Satzes.
 
 <span class="series-number">6.01</span> Die allgemeine Form der Operation ist:
 
-<math display="block">
-  <mo>[</mo>
-  <mtext>π,</mtext>
-  <mover>
-    <mrow>
-      <mtext>ξ</mtext>
-    </mrow>
-    <mo>‾</mo>
-  </mover>
-  <mo>,</mo>
-  <mspace width="0.3em"/>
-  <mtext>N(</mtext>
-  <mover>
-    <mrow>
-      <mtext>ξ</mtext>
-    </mrow>
-    <mo>‾</mo>
-  </mover>
-  <mo>)</mo>
-  <mo>]</mo>
-  <mtext>'</mtext>
-  <mtext>π</mtext>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mtext>O'</mtext>
-  <mtext>π</mtext>
-  <mtext>Def.</mtext>
-</math>
+<img class="math math-block" src="../math/c441394c57a47bdd.svg" alt="[\pi,\overline{\xi},\;N(\overline{\xi})]\text{'}\pi=O\text{'}\pi\text{Def}." style="display:block;width:11.264em;height:1.277em">
 
 ### [Ts-204](/ts-204/#42r.4) <span class="fac">[42r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/42r.webp)</span> {#ts-204-42r-4}
 
 <span class="series-number">6.011</span> Ich definiere nun:
 
-<math display="block">
-  <mi>x</mi>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <msup>
-    <mi>O</mi>
-    <mn>0</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mi>x</mi>
-  <mtext>Def.</mtext>
-  <mspace width="0.3em"/>
-  <mtext>O'</mtext>
-  <msup>
-    <mi>O</mi>
-    <mtext>ν</mtext>
-  </msup>
-  <mtext>'</mtext>
-  <mi>x</mi>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <msup>
-    <mi>O</mi>
-    <mtext>ν</mtext>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mi>x</mi>
-  <mtext>Def.</mtext>
-</math>
+<img class="math math-block" src="../math/ee99f85635328851.svg" alt="x={O}^{0}\text{'}x\text{Def}.\;O\text{'}{O}^{\nu}\text{'}x={O}^{\nu+1}\text{'}x\text{Def}." style="display:block;width:15.196em;height:0.924em">
 
-Also schreibe ich statt: „O'x” „<math class="stacked" display="inline"><mtext>O'</mtext><msup><mi>O</mi><mn>0</mn></msup><mtext>'</mtext><mi>x</mi></math>” oder „<math class="stacked" display="inline"><msup><mi>O</mi><mn>0</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mi>x</mi></math>”
+Also schreibe ich statt: „O'x” „<img class="math math-inline math-stacked" src="../math/49dd14fe90591e7e.svg" alt="O\text{'}{O}^{0}\text{'}x" style="width:3.049em;height:0.868em;vertical-align:-0.018em">” oder „<img class="math math-inline math-stacked" src="../math/4e30ef1ebe862acb.svg" alt="{O}^{0+1}\text{'}x" style="width:2.884em;height:0.872em;vertical-align:-0.018em">”
 
-statt „O'O'x” <math class="stacked" display="inline"><mtext>„</mtext><msup><mi>O</mi><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mi>x</mi><msup><mtext>”</mtext><mn>0</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mn>1</mn><mtext>Def</mtext><mn>.</mn></msup></math> 1 + 1 = 2 Def.
+statt „O'O'x” <img class="math math-inline math-stacked" src="../math/0cf5f04bda9143e1.svg" alt="\text{„}{O}^{1+1}\text{'}x{\text{”}}^{0+1=1\text{Def}.}" style="width:7.400em;height:1.104em;vertical-align:-0.153em"> 1 + 1 = 2 Def.
 
-statt „O'O'O'x” „<math class="stacked" display="inline"><msup><mi>O</mi><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mi>x</mi></math>” 1 + 1 + 1 = 3 Def. u.s.w.
+statt „O'O'O'x” „<img class="math math-inline math-stacked" src="../math/53070bb4aacd704c.svg" alt="{O}^{1+1+1}\text{'}x" style="width:3.775em;height:0.872em;vertical-align:-0.018em">” 1 + 1 + 1 = 3 Def. u.s.w.
 
 ### [Ts-204](/ts-204/#42r.5) <span class="fac">[42r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/42r.webp)</span> {#ts-204-42r-5}
 
@@ -2389,7 +2300,7 @@ Dies hängt damit zusammen, daß die Allgemeinheit, die wir in der Mathematik br
 
 ### [Ts-204](/ts-204/#42ar.2) <span class="fac">[42ar\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/42ar.webp)</span> {#ts-204-42ar-2}
 
-<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <math class="stacked" display="inline"><mo>[</mo><mover><mrow><mi>p</mi></mrow><mo>‾</mo></mover><mo>,</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>]</mo></math>
+<span class="series-number">6</span> Die allgemeine Form der Wahrheitsfunktion ist: <img class="math math-inline math-stacked" src="../math/4e796aa86bd20ce0.svg" alt="[\overline{p},\overline{\xi},\;N(\overline{\xi})]" style="width:5.163em;height:1.327em;vertical-align:-0.276em">
 
 Dies ist die allgemeine Form des Satzes.
 
@@ -2403,7 +2314,7 @@ Dies ist die allgemeine Form des Satzes.
 
 ### [Ts-204](/ts-204/#42ar.5) <span class="fac">[42ar\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/42ar.webp)</span> {#ts-204-42ar-5}
 
-<span class="series-number">6.01</span> Die allgemeine Form der Operation <math class="stacked" display="inline"><mtext>Ω'</mtext><mo>(</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>)</mo></math> ist also: <math class="stacked" display="inline"><mo>[</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>]</mo><mtext>'</mtext><mspace width="0.3em"/><mo>(</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mspace width="0.3em"/><mo>(</mo><mspace width="0.3em"/><mo>=</mo><mo>[</mo><mover><mrow><mtext>η</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>,</mo><mspace width="0.3em"/><mtext>N(</mtext><mover><mrow><mtext>ξ</mtext></mrow><mo>‾</mo></mover><mo>)</mo><mo>]</mo><mo>)</mo></math>
+<span class="series-number">6.01</span> Die allgemeine Form der Operation <img class="math math-inline math-stacked" src="../math/74312300f347e616.svg" alt="\Omega\text{'}(\overline{\eta})" style="width:2.491em;height:1.098em;vertical-align:-0.276em"> ist also: <img class="math math-inline math-stacked" src="../math/a3a8925a3b0186cd.svg" alt="[\overline{\eta},\overline{\xi},\;N(\overline{\xi})]\text{'}\;(\overline{\eta})\;(=[\overline{\eta},\overline{\xi},\;N(\overline{\xi})])" style="width:14.472em;height:1.327em;vertical-align:-0.276em">
 
 Das ist die allgemeinste Form des Überganges von einem Satz zum anderen.
 
@@ -2411,92 +2322,19 @@ Das ist die allgemeinste Form des Überganges von einem Satz zum anderen.
 
 <span class="series-number">6.02</span> Und _so_ kommen wir zu den Zahlen: Ich definiere
 
-<math class="stacked" display="inline"><mi>x</mi><mspace width="0.3em"/><mo>=</mo><msup><mtext>Ω</mtext><mn>0</mn></msup><mtext>'</mtext><mi>x</mi><mtext>Def.</mtext></math> und
+<img class="math math-inline math-stacked" src="../math/42ee2414536daade.svg" alt="x={\Omega}^{0}\text{'}x\text{Def}." style="width:5.705em;height:0.870em;vertical-align:-0.020em"> und
 
-<math display="block">
-  <mtext>Ω'</mtext>
-  <msup>
-    <mtext>Ω</mtext>
-    <mtext>ν</mtext>
-  </msup>
-  <mtext>'</mtext>
-  <mspace width="0.3em"/>
-  <mi>x</mi>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <msup>
-    <mtext>Ω</mtext>
-    <mtext>ν</mtext>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mi>x</mi>
-  <mtext>Def.</mtext>
-</math>
+<img class="math math-block" src="../math/cc9a945ebcbe0ab3.svg" alt="\Omega\text{'}{\Omega}^{\nu}\text{'}\;x={\Omega}^{\nu+1}\text{'}x\text{Def}." style="display:block;width:9.569em;height:0.924em">
 
 Nach diesen Zeichenregeln schreiben wir also die Reihe
 
 x, Ω'x, Ω'Ω'x, Ω'Ω'Ω'x,… so:
 
-<math display="block">
-  <msup>
-    <mtext>Ω</mtext>
-    <mn>0</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mtext>x,</mtext>
-  <msup>
-    <mtext>Ω</mtext>
-    <mn>0</mn>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mtext>x,</mtext>
-  <msup>
-    <mtext>Ω</mtext>
-    <mn>0</mn>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mtext>x,</mtext>
-  <msup>
-    <mtext>Ω</mtext>
-    <mn>0</mn>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-    <mspace width="0.3em"/>
-    <mo>+</mo>
-    <mspace width="0.3em"/>
-    <mn>1</mn>
-  </msup>
-  <mtext>'</mtext>
-  <mtext>x,</mtext>
-  <mspace width="0.3em"/>
-  <mtext>…</mtext>
-</math>
+<img class="math math-block" src="../math/33225e26c03fd009.svg" alt="{\Omega}^{0}\text{'}x,{\Omega}^{0+1}\text{'}x,{\Omega}^{0+1+1}\text{'}x,{\Omega}^{0+1+1+1}\text{'}x,\;…" style="display:block;width:16.365em;height:1.059em">
 
 Also schreibe ich statt „[x, ξ, Ω'ξ]”:
 
-„<math class="stacked" display="inline"><mo>[</mo><msup><mtext>Ω</mtext><mn>0</mn></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mtext>ν</mtext></msup><mtext>'</mtext><mtext>x,</mtext><msup><mtext>Ω</mtext><mtext>ν</mtext><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mn>1</mn></msup><mtext>'</mtext><mtext>x]</mtext></math>”
+„<img class="math math-inline math-stacked" src="../math/b10ea8ef38da1e97.svg" alt="[{\Omega}^{0}\text{'}x,{\Omega}^{\nu}\text{'}x,{\Omega}^{\nu+1}\text{'}x]" style="width:8.729em;height:1.024em;vertical-align:-0.170em">”
 
 Und definiere: o + 1 = 1 Def. o + 1 + 1 = 2 Def. o + 1 + 1 + 1 = 3 Def. (u.s.f.)
 

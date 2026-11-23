@@ -19,7 +19,7 @@ y = (x² + z)² ‒ z(2x² + z).
 
 ### [Ts-222](/ts-222/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/2.webp)</span> {#ts-222-2-2}
 
-<span class="series-number">203</span> “How the formula is meant determines which transitions are to be made.” What is the criterion for how the formula is meant? Surely it is the way in which we constantly use it, the way in which we were taught to use it. We say, for example, to someone who is using a symbol unknown to us: “If you mean x² by ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’, then you will get _this_ value for y; if you mean √x, then you will get _that_.” – Now ask yourself: how does one do it, how does one _mean_ one thing or the other by ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’? _Thus_, the meaning can determine the transitions in advance.
+<span class="series-number">203</span> “How the formula is meant determines which transitions are to be made.” What is the criterion for how the formula is meant? Surely it is the way in which we constantly use it, the way in which we were taught to use it. We say, for example, to someone who is using a symbol unknown to us: “If you mean x² by ‘<img class="math math-inline math-stacked" src="../math/2f9e71f1fec1632f.svg" alt="\wavyfrac{x}{2}" style="width:1.758em;height:3.250em;vertical-align:-1.375em">’, then you will get _this_ value for y; if you mean √x, then you will get _that_.” – Now ask yourself: how does one do it, how does one _mean_ one thing or the other by ‘<img class="math math-inline math-stacked" src="../math/2f9e71f1fec1632f.svg" alt="\wavyfrac{x}{2}" style="width:1.758em;height:3.250em;vertical-align:-1.375em">’? _Thus_, the meaning can determine the transitions in advance.
 
 
 ### [Ts-222](/ts-222/#3.1+4.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/3.webp),[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/4.webp)</span> {#ts-222-3-1--4-1}
@@ -218,40 +218,7 @@ then I can now find out by association whether I have as many corners above as I
 
 Proof by induction
 
-<math display="block">
-  <mrow>
-    <mtable columnalign="left" rowspacing="0.2em">
-      <mtr>
-        <mtd>
-          <mrow>
-            <munder>
-              <mn>1</mn>
-              <mo>&#x005F;</mo>
-            </munder>
-            <mspace width="0.2em"/>
-            <mo>:</mo>
-            <mspace width="0.2em"/>
-            <mn>3</mn>
-            <mspace width="0.2em"/>
-            <mo>=</mo>
-            <mspace width="0.2em"/>
-            <mn>0</mn>
-            <mo>.</mo>
-            <mn>3</mn>
-          </mrow>
-        </mtd>
-      </mtr>
-      <mtr>
-        <mtd>
-          <mrow>
-            <mspace width="0.5em"/>
-            <mn>1</mn>
-          </mrow>
-        </mtd>
-      </mtr>
-    </mtable>
-  </mrow>
-</math>
+<img class="math math-block" src="../math/348b1480982e2150.svg" alt="{\begin{array}{l} {\underline{1}\hspace{0.2em}:\hspace{0.2em}3\hspace{0.2em}=\hspace{0.2em}0.3} \\ {\hspace{0.5em}1} \end{array}}" style="display:block;width:6.171em;height:2.743em">
 
 Triangle in the Euclidean proof.
 
@@ -308,7 +275,7 @@ to see that 2 + 2 + 2 = 4.
 
 ### [Ts-222](/ts-222/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/34.webp)</span> {#ts-222-34-1}
 
-<span class="series-number">271</span> And so, the proof (238) by drawing the projection lines <math display="inline"><mtext>🖵</mtext></math> establishes a process, the one-to-one correspondence between the H and the D. – “But doesn't it also convince me that this correspondence is _possible_?” – Does “this correspondence” here refer to the figures of the proof itself? Something cannot be both a measure & something being measured at the same time. If this is meant to say that you can always execute it, then that does not necessarily have to be true. But the drawing of the projection lines convinces us that there are as many lines above as there are corners below; and it provides a template for assigning such figures to each other. – “But doesn't the template thereby show that it is possible? not that it was possible this time! In the sense that it would not be possible if, instead of ❘ ❘ ❘ ❘ ❘ above, the figure ❘ ❘ ❘ ❘ ❘ ❘ stood” – Why? Is it not possible then? _Thus_, for example:
+<span class="series-number">271</span> And so, the proof (238) by drawing the projection lines <img class="math math-inline" src="../math/7cce3dcab18556a0.svg" alt="🖵" style="width:0.600em;height:0.950em;vertical-align:-0.200em"> establishes a process, the one-to-one correspondence between the H and the D. – “But doesn't it also convince me that this correspondence is _possible_?” – Does “this correspondence” here refer to the figures of the proof itself? Something cannot be both a measure & something being measured at the same time. If this is meant to say that you can always execute it, then that does not necessarily have to be true. But the drawing of the projection lines convinces us that there are as many lines above as there are corners below; and it provides a template for assigning such figures to each other. – “But doesn't the template thereby show that it is possible? not that it was possible this time! In the sense that it would not be possible if, instead of ❘ ❘ ❘ ❘ ❘ above, the figure ❘ ❘ ❘ ❘ ❘ ❘ stood” – Why? Is it not possible then? _Thus_, for example:
 
 ![](../graphics/222,34.svg)
 
@@ -1064,9 +1031,7 @@ Experience teaches that when counting, if we use the fingers of one hand, or any
 
 But what if I first draw one’s attention to the fact that the result of the counting is predetermined by the beginning, and he now understands it and says: “Yes, of course, – it must be so!” What kind of insight is that? – He has, perhaps, written down the following scheme:
 
-<math display="block">
-  <mtext>🖵</mtext>
-</math>
+<img class="math math-block" src="../math/57b8934c7d0877e2.svg" alt="🖵" style="display:block;width:0.600em;height:0.950em">
 
 And his reasoning would be something like: “It is _so_ when I count. – Therefore, it must be ‥‥‥”
 

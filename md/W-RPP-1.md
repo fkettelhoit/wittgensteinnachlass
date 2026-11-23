@@ -4412,78 +4412,9 @@ Man könnte hier fragen: “Wie denkst Du Dir denn, daß ich über diesen meinen
 
 <span class="series-number">1097</span> Eine Variante des Cantor'schen Diagonalbeweises:
 
-N = F (k,n) sei die Form der Gesetze für die Entwicklung von Dezimalbrüchen. _N_ ist die n-te Dezimalstelle der k-ten Entwicklung. Das Gesetz der Diagonale ist dann: <math class="stacked" display="inline"><mi>N</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>F</mi><mspace width="0.3em"/><mo>(</mo><mtext>n,</mtext><mtext>n)</mtext><mspace width="0.3em"/><mo>=</mo><msup><mtext>Definition</mtext></msup><mspace width="0.3em"/><mtext>F'</mtext><mo>(</mo><mtext>n)</mtext><mn>.</mn></math> Zu beweisen ist, daß F'n nicht eine der Regeln F(k,n) sein kann. Angenommen, es sei die 100ste. Dann lautet die Regel zur Bildung
+N = F (k,n) sei die Form der Gesetze für die Entwicklung von Dezimalbrüchen. _N_ ist die n-te Dezimalstelle der k-ten Entwicklung. Das Gesetz der Diagonale ist dann: <img class="math math-inline math-stacked" src="../math/9eeb89a43ba29ab6.svg" alt="N=F\;(n,n)={}^{\text{Definition}}\;F\text{'}(n)." style="width:12.673em;height:1.042em;vertical-align:-0.164em"> Zu beweisen ist, daß F'n nicht eine der Regeln F(k,n) sein kann. Angenommen, es sei die 100ste. Dann lautet die Regel zur Bildung
 
-<math display="block">
-  <mtable columnalign="right center left center left center">
-    <mtr>
-      <mtd>
-        <mtext>von</mtext>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>′</mo>
-          <mo>(</mo>
-          <mn>1</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>(</mo>
-          <mn>1</mn>
-          <mo>,</mo>
-          <mn>1</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mtext>von</mtext>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>′</mo>
-          <mo>(</mo>
-          <mn>2</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>(</mo>
-          <mn>2</mn>
-          <mo>,</mo>
-          <mn>2</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mtext>etc.</mtext>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/c0be0592d913822b.svg" alt="\begin{array}{rclclc} \text{von} &amp; {} &amp; {F′(1)} &amp; {} &amp; {F(1,1)} &amp; {} \\ \text{von} &amp; {} &amp; {F′(2)} &amp; {} &amp; {F(2,2)} &amp; \text{etc}. \end{array}" style="display:block;width:14.210em;height:2.708em">
 
 aber die Regel zur Bildung der 100sten Stelle von F'(n) wird F(100,100); d.h., sie sagt uns nur, daß die 100ste Stelle sich selber gleich sein soll, ist also für n = 100 _keine_ Regel. Die Spielregel lautet “Tu das Gleiche, wie ‥‥!” – und im besondern Fall wird sie nun “Tu das Gleiche, wie das, was Du tust!”
 

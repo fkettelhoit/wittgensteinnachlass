@@ -172,36 +172,7 @@ Imagine this question: “Can a game begin with one of the players winning (or l
 
 We say: if this & that does not apply, then we have made a _mistake_, made a false assumption. The mistake is an error; we are blamed for it, we blame ourselves. Compare this with the following: We determine the midpoint between two points (in space) A & B by estimating it repeatedly in _this_ way: we say:
 
-<math display="block">
-  <mfrac linethickness="0">
-    <mrow>
-      <mtext>ACC'</mtext>
-      <mi>B</mi>
-    </mrow>
-    <mrow>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mo>|</mo>
-      <mo>|</mo>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mo>|</mo>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/f6f7e9a46752f4c0.svg" alt="\stack{\text{ACC}\text{'}B}{|──────|─|||─|─────|}" style="display:block;width:9.496em;height:2.221em">
 
 “I assume it is at C” & make a point, more or less close to the midpoint. – Then we mark <span class="barover">AC</span> from B and obtain C'. Now we repeat the process towards the midpoint of <span class="barover">CC'</span>. – Was the first assumption a mistake? You can call it that – but this ‘mistake’ is not treated as an error here.
 

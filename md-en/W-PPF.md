@@ -1275,7 +1275,7 @@ We speak, make utterances, & only _later_ do we form an image of their life.
 
 ### [Ms-144](/ms-144/#36r.2) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-36r-2}
 
-<span class="series-number">a108</span> From any written character – this one, for example <math display="inline"><mtext>𝖄</mtext></math> – I can imagine that it is the strictly correctly written letter of some foreign alphabet. Or, it is a poorly written one; and in this case, poorly written in one way or another: e.g., hastily, or in a typically childishly awkward way, or bureaucratically ornate. It could deviate from the correctly written one in various ways. – And depending on the interpretation with which I surround it, I can see it in different aspects. And here there is a close kinship with ‘experiencing the meaning of a word’.
+<span class="series-number">a108</span> From any written character – this one, for example <img class="math math-inline" src="../math/6799e0caa4687209.svg" alt="𝖄" style="width:0.983em;height:0.903em;vertical-align:-0.214em"> – I can imagine that it is the strictly correctly written letter of some foreign alphabet. Or, it is a poorly written one; and in this case, poorly written in one way or another: e.g., hastily, or in a typically childishly awkward way, or bureaucratically ornate. It could deviate from the correctly written one in various ways. – And depending on the interpretation with which I surround it, I can see it in different aspects. And here there is a close kinship with ‘experiencing the meaning of a word’.
 
 
 ### [Ms-144](/ms-144/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)</span> {#ms-144-36v-2}

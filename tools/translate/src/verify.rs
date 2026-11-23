@@ -53,15 +53,15 @@ pub struct Issue {
     pub description: String,
 }
 
-/// Extract all <math>...</math> blocks from text.
+/// Extract all math blocks (MathML or rendered LaTeX images) from text.
 fn extract_math_blocks(text: &str) -> Vec<String> {
-    let re = regex::Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+    let re = regex::Regex::new(crate::common::MATH_PATTERN).unwrap();
     re.find_iter(text).map(|m| m.as_str().to_string()).collect()
 }
 
 /// Extract all HTML tags (excluding math) from text.
 fn extract_html_tags(text: &str) -> Vec<String> {
-    let no_math = regex::Regex::new(r"(?s)<math[\s>].*?</math>")
+    let no_math = regex::Regex::new(crate::common::MATH_PATTERN)
         .unwrap()
         .replace_all(text, "")
         .into_owned();
@@ -79,7 +79,7 @@ fn extract_images(text: &str) -> Vec<String> {
 
 /// Strip all markup/formatting, leaving only natural language text.
 fn plain_text(text: &str) -> String {
-    let no_math = regex::Regex::new(r"(?s)<math[\s>].*?</math>")
+    let no_math = regex::Regex::new(crate::common::MATH_PATTERN)
         .unwrap()
         .replace_all(text, "")
         .into_owned();
@@ -97,7 +97,7 @@ fn plain_text(text: &str) -> String {
 
 /// Check for undirected (straight) double quotes in prose (ignoring HTML tags and math).
 fn check_quotes(text: &str) -> Vec<String> {
-    let math_re = regex::Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+    let math_re = regex::Regex::new(crate::common::MATH_PATTERN).unwrap();
     let tag_re = regex::Regex::new(r"<[^>]+>").unwrap();
     let mut hits = Vec::new();
     for (i, line) in text.lines().enumerate() {

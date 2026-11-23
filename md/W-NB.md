@@ -84,28 +84,7 @@ Erinnere dich daß die Worte „Funktion” „Argument” „Satz” etc. in de
 
 ### [Ms-101](/ms-101/#19r.3) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/19r.webp)</span> {#ms-101-19r-3}
 
-<math display="block">
-  <mtext>Φ[</mtext>
-  <mtext>ẑ</mtext>
-  <mtext>ψz]</mtext>
-  <mtext>․</mtext>
-  <mtext>≝</mtext>
-  <mtext>․</mtext>
-  <mtext>φx</mtext>
-  <msub>
-    <mtext>≡</mtext>
-    <mi>x</mi>
-  </msub>
-  <mtext>ψx</mtext>
-  <mspace width="0.3em"/>
-  <mtext>․</mtext>
-  <msub>
-    <mo>⊃</mo>
-    <mtext>φ</mtext>
-  </msub>
-  <mtext>․</mtext>
-  <mtext>Φφ</mtext>
-</math>
+<img class="math math-block" src="../math/ba1bc90b4d9536bb.svg" alt="\Phi[\text{ẑψz}].≝.\text{φx}{≡}&#95;{x}\text{ψx}\;.{⊃}&#95;{\varphi}.\text{Φφ}" style="display:block;width:12.626em;height:1.212em">
 
 Von zwei Klassen zu sagen sie seien identisch sagt etwas. Von zwei Dingen dies zu sagen sagt nichts dies schon zeigt die Unzulässigkeit der Russellschen Definition
 
@@ -139,23 +118,7 @@ Das „Einleuchten” von dem Russell so viel sprach kann nur dadurch in der Log
 
 aRb . bRc . cRd . dRe = φ(a,e)
 
-<math display="block">
-  <mo>(</mo>
-  <mo>∃</mo>
-  <msup>
-    <mi>R</mi>
-    <mi>s</mi>
-  </msup>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mi>a</mi>
-  <msup>
-    <mi>R</mi>
-    <mi>s</mi>
-  </msup>
-  <mspace width="0.3em"/>
-  <mi>e</mi>
-</math>
+<img class="math math-block" src="../math/580198e47d127160.svg" alt="(∃{R}^{s})\;a{R}^{s}\;e" style="display:block;width:4.927em;height:0.918em">
 
 Ein Satz wie „dieser Sessel ist braun” scheint etwas enorm Kompliziertes zu sagen, denn wollten wir diesen Satz so aussprechen daß uns niemand gegen ihn Einwendungen die aus seiner Vieldeutigkeit entspringen machen könnte so würde er endlos lang werden müssen.
 
@@ -493,7 +456,7 @@ Die Logik sorgt für sich selbst; wir müssen ihr nur zusehen wie sie es macht.
 
 ### [Ms-101](/ms-101/#39r.5+40r.1) <span class="fac">[39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/39r.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/40r.webp)</span> {#ms-101-39r-5--40r-1}
 
-Betrachten wir den Satz: „Es gibt eine Klasse mit nur einem Glied”. Oder, was auf dasselbe hinauskommt den Satz: <math class="stacked" display="inline"><mo>(</mo><mo>∃</mo><mtext>φ)</mtext><mspace width="0.3em"/><mo>:</mo><mn>.</mn><mspace width="0.3em"/><mo>(</mo><mo>∃</mo><mtext>x)</mtext><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mtext>φx</mtext><mspace width="0.3em"/><mo>:</mo><mspace width="0.3em"/><mtext>φy</mtext><mspace width="0.3em"/><mn>.</mn><mspace width="0.3em"/><mtext>φz</mtext><mspace width="0.3em"/><mtext>․</mtext><msub><mo>⊃</mo><mtext>y,</mtext><mi>z</mi></msub><mn>.</mn><mspace width="0.3em"/><mi>y</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>z</mi></math>
+Betrachten wir den Satz: „Es gibt eine Klasse mit nur einem Glied”. Oder, was auf dasselbe hinauskommt den Satz: <img class="math math-inline math-stacked" src="../math/3abd1948ee8ab87d.svg" alt="(∃\varphi):.\;(∃x):\text{φx}:\text{φy}\;.\;\text{φz}\;.{⊃}&#95;{y,z}.\;y=z" style="width:16.856em;height:1.045em;vertical-align:-0.345em">
 
 Bei „(∃x)x = x” konnte man verstehen daß er tautologisch sei da er überhaupt nicht hingeschrieben werden könnte wenn er falsch wäre, aber hier! _Dieser_ Satz kann an Stelle des infin. ax. untersucht werden!
 
@@ -697,44 +660,7 @@ Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klass
 
 0 = α̂ {(∃φ):(x)~φx ․α = û (φu)} Def
 
-<math display="block">
-  <mn>1</mn>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mtext>α̂</mtext>
-  <mspace width="0.3em"/>
-  <mo>{</mo>
-  <mo>(</mo>
-  <mo>∃</mo>
-  <mtext>φ)</mtext>
-  <mtext>∷</mtext>
-  <mo>(</mo>
-  <mo>∃</mo>
-  <mtext>x)</mtext>
-  <mspace width="0.3em"/>
-  <mtext>․</mtext>
-  <mtext>φx․</mtext>
-  <mtext>φy․</mtext>
-  <mtext>φz</mtext>
-  <msub>
-    <mo>⊃</mo>
-    <mtext>yz</mtext>
-  </msub>
-  <mi>y</mi>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mtext>z:</mtext>
-  <mtext>α</mtext>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mtext>û</mtext>
-  <mo>(</mo>
-  <mtext>φu)</mtext>
-  <mo>}</mo>
-  <mtext>Def</mtext>
-</math>
+<img class="math math-block" src="../math/4c6759c9df184d84.svg" alt="1=\hat{\alpha}\;\{(∃\varphi)∷(∃x)\;.\text{φx}.\text{φy}.\text{φz}{⊃}&#95;{\text{yz}}y=z:\alpha=\hat{u}(\text{φu})\}\text{Def}" style="display:block;width:24.625em;height:1.204em">
 
 [Das Gleichheitszeichen in der geschweiften Klammer könnte man _vermeiden_ wenn man schriebe
 
@@ -796,7 +722,7 @@ Um das Zeichen im Zeichen zu erkennen muß man auf den Gebrauch achten.
 
 Wollten wir dasjenige welches wir durch „(x).φ(x)” ausdrücken durch das Vorsetzen eines Index vor „φ(x)” ausdrücken etwa so „Allg.φ(x)”, es würde nicht genügen (wir wüßten nicht was verallgemeinert wurde).
 
-Wollten wir es durch einen Index am „x” anzeigen etwa so <math class="stacked" display="inline"><mtext>φ(</mtext><msub><mi>x</mi><mi>A</mi></msub><mo>)</mo></math> es würde auch nicht genügen (wir wüßten auf diese Weise nicht den Bereich der Allgemeinheit.).
+Wollten wir es durch einen Index am „x” anzeigen etwa so <img class="math math-inline math-stacked" src="../math/5910c6806b4514ed.svg" alt="\varphi({x}&#95;{A})" style="width:2.579em;height:0.940em;vertical-align:-0.276em"> es würde auch nicht genügen (wir wüßten auf diese Weise nicht den Bereich der Allgemeinheit.).
 
 Wollten wir es durch Einfüllen einer Marke in die leeren Argumentstellen versuchen etwa so „(A,A)․ψ(A,A)” es würde nicht genügen (wir könnten die Identität der Variablen nicht feststellen). Alle diese Bezeichnungsweisen genügen nicht _weil sie nicht die notwendigen logischen Eigenschaften haben_. Alle jene Zeichenverbindungen vermögen den gewünschten Sinn – auf die vorgeschlagene Weise – nicht abzubilden.
 
@@ -926,7 +852,7 @@ Die interne Relation zwischen dem Satz & seiner Bedeutung, die Bezeichnungsweise
 
 ### [Ms-101](/ms-101/#67r.5+68r.1) <span class="fac">[67r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/67r.webp),[68r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/68r.webp)</span> {#ms-101-67r-5--68r-1}
 
-Man könnte zwei Koordinaten <math class="stacked" display="inline"><msub><mi>a</mi><mi>P</mi></msub><mspace width="0.3em"/><mtext>&</mtext><msub><mi>b</mi><mi>P</mi></msub></math> als einen Satz auffassen der aussagt der materielle Punkt P befinde sich im Ort (ab). Und damit diese Aussage möglich sei müssen also die Koordinaten a & b wirklich einen Ort bestimmen. Damit eine Aussage möglich ist müssen die logischen Koordinaten wirklich einen logischen Ort bestimmen!
+Man könnte zwei Koordinaten <img class="math math-inline math-stacked" src="../math/c35b9e7509c1d5ea.svg" alt="{a}&#95;{P}\;\&amp;{b}&#95;{P}" style="width:2.993em;height:0.885em;vertical-align:-0.152em"> als einen Satz auffassen der aussagt der materielle Punkt P befinde sich im Ort (ab). Und damit diese Aussage möglich sei müssen also die Koordinaten a & b wirklich einen Ort bestimmen. Damit eine Aussage möglich ist müssen die logischen Koordinaten wirklich einen logischen Ort bestimmen!
 
 ### [Ms-101](/ms-101/#68r.2) <span class="fac">[68r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/68r.webp)</span> {#ms-101-68r-2}
 
@@ -1342,7 +1268,7 @@ Wenn ich nun eine Funktion von der Nullklasse auszusagen scheine so sage ich da�
 
 ### [Ms-102](/ms-102/#28r.2) <span class="fac">[28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/28r.webp)</span> {#ms-102-28r-2}
 
-Ist <math class="stacked" display="inline"><mi>x</mi><mspace width="0.3em"/><mtext>≠</mtext><mspace width="0.3em"/><mi>x</mi><mspace width="0.3em"/><mtext>․</mtext><msub><mtext>≡</mtext><mi>x</mi></msub><mtext>․</mtext><mspace width="0.3em"/><mtext>φx</mtext></math> identisch mit (x).~φx? Gewiß!
+Ist <img class="math math-inline math-stacked" src="../math/0baecb095cacb236.svg" alt="x≠x\;.{≡}&#95;{x}.\;\text{φx}" style="width:6.087em;height:0.926em;vertical-align:-0.276em"> identisch mit (x).~φx? Gewiß!
 
 ### [Ms-102](/ms-102/#28r.3) <span class="fac">[28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/28r.webp)</span> {#ms-102-28r-3}
 
@@ -1604,7 +1530,7 @@ Was gezeigt werden _kann_ kann nicht gesagt werden.
 
 ### [Ms-102](/ms-102/#46r.5+47r.1) <span class="fac">[46r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/46r.webp),[47r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/47r.webp)</span> {#ms-102-46r-5--47r-1}
 
-Ich glaube man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u.u.) andeuten. Es wäre dann freilich φ(a, a) kein spezieller Fall von (x,y)․φ(x,y) und φa keiner von (∃x,y)․φx․φy. Dann aber könnte man statt <math class="stacked" display="inline"><mtext>φx․</mtext><mtext>φy</mtext><msub><mo>⊃</mo><mtext>x,</mtext><mi>y</mi></msub><mspace width="0.3em"/><mi>x</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>y</mi></math> einfach schreiben ~(∃x,y) . φx․φy.
+Ich glaube man könnte das Gleichheitszeichen ganz aus unserer Notation entfernen und die Gleichheit immer nur durch die Gleichheit der Zeichen (u.u.) andeuten. Es wäre dann freilich φ(a, a) kein spezieller Fall von (x,y)․φ(x,y) und φa keiner von (∃x,y)․φx․φy. Dann aber könnte man statt <img class="math math-inline math-stacked" src="../math/d79d60553c1e4cf1.svg" alt="\text{φx}.\text{φy}{⊃}&#95;{x,y}\;x=y" style="width:7.167em;height:0.895em;vertical-align:-0.345em"> einfach schreiben ~(∃x,y) . φx․φy.
 
 ### [Ms-102](/ms-102/#47r.2) <span class="fac">[47r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/47r.webp)</span> {#ms-102-47r-2}
 
@@ -2040,67 +1966,7 @@ Das subjektive Universum.
 
 Statt die logischen Operationen im Satz an dessen Teilsätzen zu vollziehen, können wir diesen auch _Marken_ zuordnen und mit ihnen operieren. Dann ist _einem_ Satzbild ein mit ihm in kompliziertester Weise zusammenhängendes Markensternbild zugeordnet.
 
-<math display="block">
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mfrac linethickness="0">
-    <mrow>
-      <mtext>aRb</mtext>
-    </mrow>
-    <mrow>
-      <mi>p</mi>
-    </mrow>
-  </mfrac>
-  <mo>,</mo>
-  <mfrac linethickness="0">
-    <mrow>
-      <mtext>cSd</mtext>
-    </mrow>
-    <mrow>
-      <mi>q</mi>
-    </mrow>
-  </mfrac>
-  <mo>,</mo>
-  <mfrac linethickness="0">
-    <mrow>
-      <mtext>φe</mtext>
-    </mrow>
-    <mrow>
-      <mi>r</mi>
-    </mrow>
-  </mfrac>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mo>(</mo>
-  <mi>p</mi>
-  <mspace width="0.3em"/>
-  <mtext>⌵</mtext>
-  <mspace width="0.3em"/>
-  <mtext>q)</mtext>
-  <mspace width="0.3em"/>
-  <mn>.</mn>
-  <mspace width="0.3em"/>
-  <mi>r</mi>
-  <mspace width="0.3em"/>
-  <mo>:</mo>
-  <mo>⊃</mo>
-  <mo>:</mo>
-  <mspace width="0.3em"/>
-  <mi>q</mi>
-  <mspace width="0.3em"/>
-  <mn>.</mn>
-  <mspace width="0.3em"/>
-  <mi>r</mi>
-  <mspace width="0.3em"/>
-  <mtext>≡</mtext>
-  <mspace width="0.3em"/>
-  <mi>p</mi>
-  <mspace width="0.3em"/>
-  <mtext>⌵</mtext>
-  <mspace width="0.3em"/>
-  <mtext>r)</mtext>
-</math>
+<img class="math math-block" src="../math/51fd1c3610c45837.svg" alt="\;(\stack{\text{aRb}}{p},\stack{\text{cSd}}{q},\stack{\text{φe}}{r})\;((p\;⌵\;q)\;.\;r:⊃:q\;.\;r≡p\;⌵\;r)" style="display:block;width:19.603em;height:2.364em">
 
 ### [Ms-102](/ms-102/#73r.2) <span class="fac">[73r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/73r.webp)</span> {#ms-102-73r-2}
 
@@ -2500,7 +2366,7 @@ Wohl können wir einen Tatbestand räumlich darstellen welcher den Gesetzen der 
 
 22.05.1915
 
-Die mathematische Notation der unendlichen Reihen wie <math class="stacked" display="inline"><mtext>„</mtext><mn>1</mn><mspace width="0.3em"/><mo>+</mo><mfrac><mrow><mi>x</mi></mrow><mrow><mtext>1!</mtext></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac><mrow><mtext>x²</mtext></mrow><mrow><mtext>2!</mtext></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mtext>‥</mtext><mtext>‥</mtext><mtext>”</mtext></math> _mit den Pünktchen_ ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
+Die mathematische Notation der unendlichen Reihen wie <img class="math math-inline math-stacked" src="../math/358a780ea39435d4.svg" alt="\text{„}1+\frac{x}{1!}+\frac{x^{2}}{2!}+....\text{”}" style="width:8.428em;height:1.344em;vertical-align:-0.348em"> _mit den Pünktchen_ ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
 
 So könnte man statt (x) fx schreiben „f(x).f(y) ‥‥”.
 
@@ -2858,7 +2724,7 @@ Der Satz sagt, es ist: _so_, und nicht: _so_. Er stellt eine Möglichkeit dar un
 
 ### [Ms-102](/ms-102/#128r.2) <span class="fac">[128r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/128r.webp)</span> {#ms-102-128r-2}
 
-<math class="stacked" display="inline"><mspace width="0.3em"/><mtext>~</mtext><mi>p</mi><msub><mi>p</mi><mtext>•</mtext></msub><mspace width="0.3em"/><mtext>~</mtext><mi>p</mi><mspace width="0.3em"/><mtext>~</mtext><mi>q</mi><msub><mi>q</mi><mtext>•</mtext></msub><mspace width="0.3em"/><mtext>~</mtext><mi>q</mi><mspace width="0.3em"/><mtext>~</mtext><mi>r</mi><msub><mi>r</mi><mtext>•</mtext></msub><mspace width="0.3em"/><mtext>~</mtext><mi>r</mi><mspace width="0.3em"/><mtext>~</mtext><mi>s</mi><msub><mi>s</mi><mtext>•</mtext></msub><mspace width="0.3em"/><mtext>~</mtext><mi>s</mi></math> Die Möglichkeit von „p⌵q” wenn „p” gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von „~p”.
+<img class="math math-inline math-stacked" src="../math/b9e10e654af9a004.svg" alt="\;{\sim}p{p}&#95;{•}\;{\sim}p\;{\sim}q{q}&#95;{•}\;{\sim}q\;{\sim}r{r}&#95;{•}\;{\sim}r\;{\sim}s{s}&#95;{•}\;{\sim}s" style="width:15.427em;height:0.758em;vertical-align:-0.276em"> Die Möglichkeit von „p⌵q” wenn „p” gegeben ist, ist eine Möglichkeit nach einer anderen Dimension als die Unmöglichkeit von „~p”.
 
 ### [Ms-102](/ms-102/#128r.3) <span class="fac">[128r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/128r.webp)</span> {#ms-102-128r-3}
 
@@ -2980,22 +2846,7 @@ Aus allen Sätzen folgt das Gegenteil von „p․~p”, heißt das soviel daß �
 
 ### [Ms-102](/ms-102/#137r.2) <span class="fac">[137r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/137r.webp)</span> {#ms-102-137r-2}
 
-<math display="block">
-  <mfrac linethickness="0">
-    <mrow>
-      <mtext>CKontradicktion</mtext>
-      <mspace width="0.3em"/>
-      <mtext>├</mtext>
-      <mtext>⚬</mtext>
-      <mtext>┤</mtext>
-      <mspace width="0.3em"/>
-      <mtext>Tautologie</mtext>
-    </mrow>
-    <mrow>
-      <mtext>Satz</mtext>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/f9aaa2d84af1f8ef.svg" alt="\stack{\text{CKontradicktion}\;├⚬┤\;\text{Tautologie}}{\text{Satz}}" style="display:block;width:14.778em;height:2.182em">
 
 ### [Ms-102](/ms-102/#137r.3) <span class="fac">[137r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/137r.webp)</span> {#ms-102-137r-3}
 
@@ -3515,125 +3366,7 @@ Angenommen mir wären _alle_ einfachen Sätze gegeben: Dann läßt sich einfach 
 
 ### [Ms-103](/ms-103/#2r.5+3r.1) <span class="fac">[2r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/2r.webp),[3r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/3r.webp)</span> {#ms-103-2r-5--3r-1}
 
-<math display="block">
-  <mo>(</mo>
-  <mi>p</mi>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mo>:</mo>
-  <mi>p</mi>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mtext>aRx.</mtext>
-  <mtext>xRy</mtext>
-  <mspace width="0.3em"/>
-  <mtext>…</mtext>
-  <mspace width="0.3em"/>
-  <mtext>zRb</mtext>
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mi>p</mi>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mo>:</mo>
-  <mi>p</mi>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mtext>aRx</mtext>
-  <mspace width="0.3em"/>
-  <mi>F</mi>
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mtext>x̂</mtext>
-  <mo>(</mo>
-  <mtext>φx)</mtext>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mtext>․</mtext>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mn>.</mn>
-  <mspace width="0.3em"/>
-  <mtext>φ</mtext>
-  <mspace width="0.3em"/>
-  <mtext>≡</mtext>
-  <mspace width="0.3em"/>
-  <mtext>ψ</mtext>
-  <msub>
-    <mo>⊃</mo>
-    <mtext>ψ</mtext>
-  </msub>
-  <mspace width="0.3em"/>
-  <mtext>Fψ</mtext>
-  <mspace width="0.3em"/>
-  <mtext>Φ≡</mtext>
-  <mtext>ψ</mtext>
-  <mspace width="0.3em"/>
-  <mtext>․</mtext>
-  <msub>
-    <mo>⊃</mo>
-    <mtext>ψ</mtext>
-  </msub>
-  <mn>.</mn>
-  <mspace width="0.3em"/>
-  <mo>[</mo>
-  <mi>F</mi>
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mtext>x̂</mtext>
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mtext>ψx)</mtext>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mtext>ψ</mtext>
-  <mspace width="0.3em"/>
-  <mtext>≡</mtext>
-  <mspace width="0.3em"/>
-  <mtext>χ</mtext>
-  <msub>
-    <mo>⊃</mo>
-    <mtext>χ</mtext>
-  </msub>
-  <mtext>Fχ]</mtext>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mo>[</mo>
-  <mtext>F(</mtext>
-  <mtext>x̂</mtext>
-  <mo>(</mo>
-  <mtext>ψx)</mtext>
-  <mo>)</mo>
-  <mspace width="0.3em"/>
-  <mo>=</mo>
-  <mspace width="0.3em"/>
-  <mi>t</mi>
-  <mspace width="0.3em"/>
-  <mtext>ε</mtext>
-  <mspace width="0.3em"/>
-  <mtext>ẑ</mtext>
-  <mspace width="0.3em"/>
-  <mo>(</mo>
-  <mtext>Φz)</mtext>
-  <msub>
-    <mtext>≡</mtext>
-    <mi>t</mi>
-  </msub>
-  <mspace width="0.3em"/>
-  <mtext>χt</mtext>
-  <msub>
-    <mo>⊃</mo>
-    <mtext>χ</mtext>
-  </msub>
-  <mspace width="0.3em"/>
-  <mtext>Fχ]</mtext>
-</math>
+<img class="math math-block" src="../math/e621627f8a70cf9d.svg" alt="(p):p=\text{aRx}.\text{xRy}\;…\;\text{zRb}\;(p):p=\text{aRx}\;F\;(\hat{x}(\text{φx}))\;.=.\;\varphi≡\psi{⊃}&#95;{\psi}\;\text{Fψ}\;\Phi≡\psi\;.{⊃}&#95;{\psi}.\;[F\;(\hat{x}\;(\text{ψx}))=\psi≡\chi{⊃}&#95;{\chi}\text{Fχ}]=[F(\hat{x}(\text{ψx}))=t\;\varepsilon\;\hat{z}\;(\text{Φz}){≡}&#95;{t}\;\text{χt}{⊃}&#95;{\chi}\;\text{Fχ}]" style="display:block;width:63.299em;height:1.199em">
 
 ### [Ms-103](/ms-103/#3r.2) <span class="fac">[3r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/3r.webp)</span> {#ms-103-3r-2}
 

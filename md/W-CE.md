@@ -142,36 +142,7 @@ Denk' Dir diese Frage: “Kann ein Spiel damit _anfangen_, daß einer der Spiele
 
 Wir sagen: wenn das & das nicht eintrifft, so haben wir uns _geirrt_, eine falsche Annahme gemacht. Der Irrtum ist ein Fehler; wir werden seinetwegen getadelt, tadeln uns selbst. Vergleiche (damit) folgendes: Wir bestimmen die Mitte zwischen zwei Stellen (im Raum) A & B durch mehrmalige Schätzung auf _die_ Weise: wir sagen
 
-<math display="block">
-  <mfrac linethickness="0">
-    <mrow>
-      <mtext>ACC'</mtext>
-      <mi>B</mi>
-    </mrow>
-    <mrow>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mo>|</mo>
-      <mo>|</mo>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mo>|</mo>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mtext>─</mtext>
-      <mo>|</mo>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/f6f7e9a46752f4c0.svg" alt="\stack{\text{ACC}\text{'}B}{|──────|─|||─|─────|}" style="display:block;width:9.496em;height:2.221em">
 
 “Ich nehme an, sie liegt bei C” & machen, mehr oder weniger nahe der Mitte, einen Punkt. – Tragen wir dann <span class="barover">AC</span> von B aus auf & erhalten C'. Nun wiederholen wir den Vorgang gegen die Mitte von <span class="barover">CC'</span> hin. – War die erste Annahme ein Irrtum? Du kannst sie so nennen – aber dieser ‘Irrtum’ wird hier nicht als Fehler behandelt.
 

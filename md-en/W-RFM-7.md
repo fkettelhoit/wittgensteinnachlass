@@ -1306,7 +1306,7 @@ An undecidable sentence of mathematics is something that is recognized neither a
 
 ### [Ms-124](/ms-124/#135.3) <span class="fac">[135\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/135.webp)</span> {#ms-124-135-3}
 
-Imagine <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>n→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>φn</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>ℓ</mtext></math> as a property of a piece of music (for example). But of course not _in such a way_ that the piece would continue endlessly, but as a property recognizable to the ear (as it were, an _algebraic_ property) of the piece.
+Imagine <img class="math math-inline math-stacked" src="../math/b5aa7bf64a6d9424.svg" alt="\stack{\text{lim}}{n→∞}\;\text{φn}=ℓ" style="width:5.175em;height:1.309em;vertical-align:-0.351em"> as a property of a piece of music (for example). But of course not _in such a way_ that the piece would continue endlessly, but as a property recognizable to the ear (as it were, an _algebraic_ property) of the piece.
 
 
 ### [Ms-124](/ms-124/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/137.webp)</span> {#ms-124-137-2}
@@ -1356,7 +1356,7 @@ Of course, one says, “that is all already contained in our concept” of the r
 
 ### [Ms-124](/ms-124/#140.4+141.1) <span class="fac">[140\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/140.webp),[141\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/141.webp)</span> {#ms-124-140-4--141-1}
 
-The number is, as Frege says, a property of a concept—but in mathematics it is a characteristic of a mathematical concept. <math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mi>o</mi></msub></math> is a _characteristic_ of the concept of cardinal numbers; & the _property_ of a technique. <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mi>o</mi></msub></msup></math> is a feature of the concept of the infinite decimal fraction, but of what is this number a property? That is: of what kind of concept can it be empirically stated?
+The number is, as Frege says, a property of a concept—but in mathematics it is a characteristic of a mathematical concept. <img class="math math-inline math-stacked" src="../math/4ed88f39525aca3f.svg" alt="{ℵ}&#95;{o}" style="width:1.060em;height:0.888em;vertical-align:-0.158em"> is a _characteristic_ of the concept of cardinal numbers; & the _property_ of a technique. <img class="math math-inline math-stacked" src="../math/e2feafeeacfbffbd.svg" alt="{2}^{{ℵ}&#95;{o}}" style="width:1.333em;height:0.882em;vertical-align:-0.003em"> is a feature of the concept of the infinite decimal fraction, but of what is this number a property? That is: of what kind of concept can it be empirically stated?
 
 ---
 

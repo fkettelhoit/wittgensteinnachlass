@@ -30,13 +30,6 @@
   font-style: italic;
   font-display: swap;
 }
-@font-face {
-  font-family: "TeX Gyre Pagella Math";
-  src: url("/fonts/tex-gyre/texgyrepagella-math.otf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
 
 /* --- SangBleu Empire --- */
 
@@ -181,7 +174,6 @@
 
 :root {
   --font-body: "TeX Gyre Pagella", serif;
-  --font-math: "TeX Gyre Pagella Math", math;
   --font-heading: "SangBleu Empire", "TeX Gyre Pagella", serif;
   --font-heading-margin: "SangBleu Sunrise", "TeX Gyre Pagella", serif;
   --color-text: #444;
@@ -310,6 +302,13 @@ h2 {
     grid-column: 2;
     grid-row: 1;
     align-self: baseline;
+  }
+
+  /* A remark that opens with a block formula has no first text line for the
+     margin to align with (the image is not a line box): align to its top instead. */
+  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child) > h3,
+  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child) > .fac {
+    align-self: start;
   }
 
   /* Divider between the doc and page columns. */
@@ -609,23 +608,7 @@ details.similar details[open] {
 }
 
 /* Site-specific overrides for shared transcription styles */
-math {
-  overflow-x: auto;
-  overflow-y: hidden;
-}
-
-math[display="inline"] {
-  margin-top: -0.5em;
-  margin-bottom: -0.5em;
-  overflow: visible;
-}
-
-math.stacked[display="inline"] {
-  font-size: 1rem;
-}
-
-math[display="block"] {
-  width: fit-content;
+img.math-block {
   margin: 0 0 2rem 0;
 }
 

@@ -131,9 +131,14 @@ pub fn parse_document(content: &str) -> (String, Vec<Remark>) {
     (preamble, remarks)
 }
 
-/// Extract <math>...</math> blocks and replace with placeholders.
+/// A math block: legacy inline MathML (`<math>…</math>`) or a rendered LaTeX formula
+/// (`<img class="math …">` pointing at an SVG in `math/`). Both are opaque to
+/// translation and must be copied verbatim.
+pub const MATH_PATTERN: &str = r#"(?s)<math[\s>].*?</math>|<img class="math[^"]*"[^>]*>"#;
+
+/// Extract math blocks and replace with placeholders.
 pub fn extract_math(text: &str) -> (String, Vec<String>) {
-    let re = Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+    let re = Regex::new(crate::common::MATH_PATTERN).unwrap();
     let mut blocks = Vec::new();
     let result = re.replace_all(text, |caps: &regex::Captures| {
         let placeholder = format!("\u{27E6}MATH:{}\u{27E7}", blocks.len() + 1);

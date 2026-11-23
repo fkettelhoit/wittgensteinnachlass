@@ -18,7 +18,7 @@ y = (x² + z)² ‒ z(2x² + z).
 
 ### [Ts-222](/ts-222/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/2.webp)</span> {#ts-222-2-2}
 
-<span class="series-number">2</span> “Wie die Formel gemeint wird, das bestimmt, welche Übergänge zu machen sind.” Was ist das Kriterium dafür, wie die Formel gemeint ist? Doch wohl die Art und Weise, wie wir sie ständig gebrauchen, wie uns gelehrt wurde, sie zu gebrauchen. Wir sagen z.B. Einem, der ein uns unbekanntes Zeichen gebraucht: “Wenn du mit “<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>” meinst x², so erhältst du _diesen_ Wert für y, wenn du damit √x meinst, _jenen_.” – Frage dich nun: Wie macht man es, mit ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’ das eine, oder das andere _meinen_? _So_ kann also das Meinen die Übergänge zum voraus bestimmen.
+<span class="series-number">2</span> “Wie die Formel gemeint wird, das bestimmt, welche Übergänge zu machen sind.” Was ist das Kriterium dafür, wie die Formel gemeint ist? Doch wohl die Art und Weise, wie wir sie ständig gebrauchen, wie uns gelehrt wurde, sie zu gebrauchen. Wir sagen z.B. Einem, der ein uns unbekanntes Zeichen gebraucht: “Wenn du mit “<img class="math math-inline math-stacked" src="../math/2f9e71f1fec1632f.svg" alt="\wavyfrac{x}{2}" style="width:1.758em;height:3.250em;vertical-align:-1.375em">” meinst x², so erhältst du _diesen_ Wert für y, wenn du damit √x meinst, _jenen_.” – Frage dich nun: Wie macht man es, mit ‘<img class="math math-inline math-stacked" src="../math/2f9e71f1fec1632f.svg" alt="\wavyfrac{x}{2}" style="width:1.758em;height:3.250em;vertical-align:-1.375em">’ das eine, oder das andere _meinen_? _So_ kann also das Meinen die Übergänge zum voraus bestimmen.
 
 ### [Ts-222](/ts-222/#3.1+4.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/3.webp),[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/4.webp)</span> {#ts-222-3-1--4-1}
 
@@ -182,40 +182,7 @@ so kann ich nun durch Zuordnung herausfinden, ob ich oben soviele Ecken habe, wi
 
 Induktionsbeweis
 
-<math display="block">
-  <mrow>
-    <mtable columnalign="left" rowspacing="0.2em">
-      <mtr>
-        <mtd>
-          <mrow>
-            <munder>
-              <mn>1</mn>
-              <mo>&#x005F;</mo>
-            </munder>
-            <mspace width="0.2em"/>
-            <mo>:</mo>
-            <mspace width="0.2em"/>
-            <mn>3</mn>
-            <mspace width="0.2em"/>
-            <mo>=</mo>
-            <mspace width="0.2em"/>
-            <mn>0</mn>
-            <mo>.</mo>
-            <mn>3</mn>
-          </mrow>
-        </mtd>
-      </mtr>
-      <mtr>
-        <mtd>
-          <mrow>
-            <mspace width="0.5em"/>
-            <mn>1</mn>
-          </mrow>
-        </mtd>
-      </mtr>
-    </mtable>
-  </mrow>
-</math>
+<img class="math math-block" src="../math/348b1480982e2150.svg" alt="{\begin{array}{l} {\underline{1}\hspace{0.2em}:\hspace{0.2em}3\hspace{0.2em}=\hspace{0.2em}0.3} \\ {\hspace{0.5em}1} \end{array}}" style="display:block;width:6.171em;height:2.743em">
 
 Dreieck im euklidischen Beweis.
 
@@ -263,7 +230,7 @@ zu schauen, um zu sehen, daß 2 + 2 + 2 = 4 ist.
 
 ### [Ts-222](/ts-222/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/34.webp)</span> {#ts-222-34-1}
 
-<span class="series-number">40</span> Und so prägt der Beweis (238) durch Ziehen der Projektionslinien <math display="inline"><mtext>🖵</mtext></math> einen Vorgang ein, den der eins-zu-eins Zuordnung der H. und des D.– “Aber _überzeugt_ er mich nicht auch davon, daß diese Zuordnung _möglich_ ist?” – heißt hier “diese Zuordnung” die der Figuren des Beweises selbst? Es kann nicht etwas zugleich Maß & gemessen sein. Wenn das heißen soll: daß Du sie immer ausführen kannst –, so muß das durchaus nicht wahr sein. Aber das Ziehen der Projektionslinien überzeugt uns davon, daß oben soviele Striche sind, wie unten Ecken; und es liefert eine Vorlage, um danach solche Figuren einander zuzuordnen. – “Aber zeigt die Vorlage dadurch nicht, daß es geht? nicht daß es diesmal ging! Im dem Sinne, in welchem es nicht ginge, wenn oben statt ❘ ❘ ❘ ❘ ❘ die Figur ❘ ❘ ❘ ❘ ❘ ❘ stünde” – Wieso? geht es denn da nicht? _So_ z.B.:
+<span class="series-number">40</span> Und so prägt der Beweis (238) durch Ziehen der Projektionslinien <img class="math math-inline" src="../math/7cce3dcab18556a0.svg" alt="🖵" style="width:0.600em;height:0.950em;vertical-align:-0.200em"> einen Vorgang ein, den der eins-zu-eins Zuordnung der H. und des D.– “Aber _überzeugt_ er mich nicht auch davon, daß diese Zuordnung _möglich_ ist?” – heißt hier “diese Zuordnung” die der Figuren des Beweises selbst? Es kann nicht etwas zugleich Maß & gemessen sein. Wenn das heißen soll: daß Du sie immer ausführen kannst –, so muß das durchaus nicht wahr sein. Aber das Ziehen der Projektionslinien überzeugt uns davon, daß oben soviele Striche sind, wie unten Ecken; und es liefert eine Vorlage, um danach solche Figuren einander zuzuordnen. – “Aber zeigt die Vorlage dadurch nicht, daß es geht? nicht daß es diesmal ging! Im dem Sinne, in welchem es nicht ginge, wenn oben statt ❘ ❘ ❘ ❘ ❘ die Figur ❘ ❘ ❘ ❘ ❘ ❘ stünde” – Wieso? geht es denn da nicht? _So_ z.B.:
 
 ![](../graphics/222,34.svg)
 
@@ -877,9 +844,7 @@ Mathematik unter den Urmaßen niedergelegt
 
 <span class="series-number">170</span> Wie aber ist es, wenn ich Einen erst darauf aufmerksam mache, daß das Ergebnis des Auszählens durch den Anfang vorausbestimmt ist, und er es nun versteht und sagt: “Ja freilich, – es muß ja so sein!” Was ist das für eine Erkenntnis? – Er hat sich etwa das Schema aufgezeichnet:
 
-<math display="block">
-  <mtext>🖵</mtext>
-</math>
+<img class="math math-block" src="../math/57b8934c7d0877e2.svg" alt="🖵" style="display:block;width:0.600em;height:0.950em">
 
 Und sein Raisonnement wäre etwa: “Es ist doch _so_, wenn ich auszähle. – Also muß ‥‥‥”
 

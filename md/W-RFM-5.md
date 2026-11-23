@@ -118,7 +118,7 @@ Und abgesehen von einem Mißverständnis, – wie ist es mit der bloßen Unklarh
 
 ### [Ms-126](/ms-126/#47.3+48.1) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/47.webp),[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/48.webp)</span> {#ms-126-47-3--48-1}
 
-Wer glaubt, die Mathematiker haben ein seltsames Wesen, die <math display="inline"><msqrt><mrow><mtext>‒</mtext><mn>1</mn></mrow></msqrt></math>, entdeckt, die quadriert nun doch ‒ 1 ergebe, kann der nicht doch ganz gut mit komplexen Zahlen rechnen & solche Rechnungen in der Physik anwenden? Und sind's darum weniger _Rechnungen_? In _einer_ Beziehung steht freilich sein Verständnis auf schwachen Füßen; aber er wird mit Sicherheit seine Schlüsse ziehen, & sein, Kalkül wird auf _festen_ Füßen stehen.
+Wer glaubt, die Mathematiker haben ein seltsames Wesen, die <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em">, entdeckt, die quadriert nun doch ‒ 1 ergebe, kann der nicht doch ganz gut mit komplexen Zahlen rechnen & solche Rechnungen in der Physik anwenden? Und sind's darum weniger _Rechnungen_? In _einer_ Beziehung steht freilich sein Verständnis auf schwachen Füßen; aber er wird mit Sicherheit seine Schlüsse ziehen, & sein, Kalkül wird auf _festen_ Füßen stehen.
 
 ### [Ms-126](/ms-126/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/48.webp)</span> {#ms-126-48-2}
 
@@ -134,7 +134,7 @@ Denken wir uns den primitiven Fall, daß Einer ungeheure Multiplikationen ausfü
 
 ### [Ms-126](/ms-126/#49.3+50.1) <span class="fac">[49\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/49.webp),[50\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/50.webp)</span> {#ms-126-49-3--50-1}
 
-Denk Dir das Rechnen mit der <math display="inline"><msqrt><mrow><mtext>‒</mtext><mn>1</mn></mrow></msqrt></math> wäre von einem Narren erfunden worden, der bloß vom Paradoxen der Idee angezogen die Rechnung als eine Art Gottesdienst des Absurden treibt. Er bildet sich ein das Unmögliche aufzuschreiben & mit ihm zu operieren.
+Denk Dir das Rechnen mit der <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em"> wäre von einem Narren erfunden worden, der bloß vom Paradoxen der Idee angezogen die Rechnung als eine Art Gottesdienst des Absurden treibt. Er bildet sich ein das Unmögliche aufzuschreiben & mit ihm zu operieren.
 
 ### [Ms-126](/ms-126/#50.2) <span class="fac">[50\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/50.webp)</span> {#ms-126-50-2}
 
@@ -302,7 +302,7 @@ Ungefähr den: Es ist im _Gesetz_ dieser Reihe, keine Figur … zu enthalten. Fe
 
 ### [Ms-126](/ms-126/#68.2+69.1) <span class="fac">[68\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/68.webp),[69\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/69.webp)</span> {#ms-126-68-2--69-1}
 
-‘Aber es sind doch alle Glieder der Reihe vom <math class="stacked" display="inline"><msup><mn>1</mn><mtext>sten</mtext></msup></math> bis zum <math class="stacked" display="inline"><mn>100</mn><msup><mn>0</mn><mtext>sten</mtext></msup></math>, bis zum 10¹⁰-ten, u.s.f., bestimmt; also sind doch _alle_ Glieder bestimmt.’ Das ist richtig, wenn es heißen soll es sei nicht (etwa) das so-&-so-vielte _nicht_ bestimmt. Aber Du siehst ja, daß _das_ Dir keinen Aufschluß darüber gibt, ob eine Figur in der Reihe erscheinen wird (wenn sie so weit nicht erschienen ist). _Wir sehen also_, daß wir ein irreführendes _Bild_ gebrauchen.
+‘Aber es sind doch alle Glieder der Reihe vom <img class="math math-inline math-stacked" src="../math/2722bfc80b6c7b7a.svg" alt="{1}^{\text{sten}}" style="width:1.864em;height:0.805em;vertical-align:-0.003em"> bis zum <img class="math math-inline math-stacked" src="../math/4476b550329c4742.svg" alt="100{0}^{\text{sten}}" style="width:3.364em;height:0.822em;vertical-align:-0.020em">, bis zum 10¹⁰-ten, u.s.f., bestimmt; also sind doch _alle_ Glieder bestimmt.’ Das ist richtig, wenn es heißen soll es sei nicht (etwa) das so-&-so-vielte _nicht_ bestimmt. Aber Du siehst ja, daß _das_ Dir keinen Aufschluß darüber gibt, ob eine Figur in der Reihe erscheinen wird (wenn sie so weit nicht erschienen ist). _Wir sehen also_, daß wir ein irreführendes _Bild_ gebrauchen.
 
 ### [Ms-126](/ms-126/#69.2) <span class="fac">[69\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/69.webp)</span> {#ms-126-69-2}
 
@@ -772,7 +772,7 @@ Aber die Gerade ist ein _Gesetz_ des Fortschreitens.*
 
 ### [Ms-127](/ms-127/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/17.webp)</span> {#ms-127-17-2}
 
-Der Begriff des Limes & der Stätigkeit, wie sie heute eingeführt werden, hängen, ohne daß dies ausgesprochen wird mit dem Begriff des _Beweises_ zusammen. Denn wir sagen <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>x→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>f(</mtext><mtext>x)</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>ℓ</mtext></math>, wenn _bewiesen_ werden kann, daß … Das heißt, wir gebrauchen Begriffe, die unendlich viel schwerer zu fassen sind als die, die wir offen herzeigen.
+Der Begriff des Limes & der Stätigkeit, wie sie heute eingeführt werden, hängen, ohne daß dies ausgesprochen wird mit dem Begriff des _Beweises_ zusammen. Denn wir sagen <img class="math math-inline math-stacked" src="../math/7e6396f0d3694b73.svg" alt="\stack{\text{lim}}{x→∞}\;f(x)=ℓ" style="width:5.644em;height:1.310em;vertical-align:-0.353em">, wenn _bewiesen_ werden kann, daß … Das heißt, wir gebrauchen Begriffe, die unendlich viel schwerer zu fassen sind als die, die wir offen herzeigen.
 
 ### [Ms-127](/ms-127/#20.2+21.1+21.2+22.1) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/20.webp),[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/22.webp)</span> {#ms-127-20-2--21-1--21-2--22-1}
 
@@ -878,9 +878,9 @@ Das Irreführende der üblichen Darstellung besteht darin, daß es scheint, als 
 
 Vergleiche die beiden Formen der Erklärung:
 
-“Wir sagen <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>nx→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>Φ(</mtext><mi>x</mi><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>L</mi></math>,
+“Wir sagen <img class="math math-inline math-stacked" src="../math/c67f36460d68c472.svg" alt="\stack{\text{lim}}{\text{nx}→∞}\;\Phi(x)=L" style="width:6.681em;height:1.304em;vertical-align:-0.347em">,
 
-_wenn es sich zeigen läßt_, daß ‥‥”, & “<math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>n→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>Φ(</mtext><mtext>n)</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>L</mi></math> heißt:
+_wenn es sich zeigen läßt_, daß ‥‥”, & “<img class="math math-inline math-stacked" src="../math/c02e4b87db35dfef.svg" alt="\stack{\text{lim}}{n→∞}\;\Phi(n)=L" style="width:6.354em;height:1.309em;vertical-align:-0.351em"> heißt:
 
 _es gibt für jedes_ ε ein δ‥‥”
 

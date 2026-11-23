@@ -2251,7 +2251,7 @@ I say (to myself), for example: “A month ago, I could not have thought about i
 
 07.12.1948
 
-If someone had been trained to utter a certain sound when looking at something red, another when looking at something yellow, & so on for other colours, one would not say that he could describe objects according to their colours, although he could help us to describe them. In order to describe, he must be able to make pictures of colour distributions in space according to some rule of projection. (Language-game <math display="inline"></math>?)
+If someone had been trained to utter a certain sound when looking at something red, another when looking at something yellow, & so on for other colours, one would not say that he could describe objects according to their colours, although he could help us to describe them. In order to describe, he must be able to make pictures of colour distributions in space according to some rule of projection. (Language-game ?)
 
 
 ### [Ms-137](/ms-137/#119a.3) <span class="fac">[119a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/119a.webp)</span> {#ms-137-119a-3}
@@ -3870,7 +3870,7 @@ The aspects A are not essentially spatial aspects. A black cross on a white back
 
 January 16, 1949
 
-From any script – this one, for example <math display="inline"><mtext>𝖄</mtext></math> – I can imagine that it is a perfectly correctly written letter of some foreign alphabet. – Or, it is a poorly written letter; & in a way that is one of several different ways: e.g. hastily, or typically childish – clumsy, or bureaucratically ornate. It could deviate from the correctly written in various ways. – & depending on the fiction with which I surround it, I can see it in different aspects. – Here there is a close kinship with the experience of the meaning of an isolated word.
+From any script – this one, for example <img class="math math-inline" src="../math/6799e0caa4687209.svg" alt="𝖄" style="width:0.983em;height:0.903em;vertical-align:-0.214em"> – I can imagine that it is a perfectly correctly written letter of some foreign alphabet. – Or, it is a poorly written letter; & in a way that is one of several different ways: e.g. hastily, or typically childish – clumsy, or bureaucratically ornate. It could deviate from the correctly written in various ways. – & depending on the fiction with which I surround it, I can see it in different aspects. – Here there is a close kinship with the experience of the meaning of an isolated word.
 
 
 ### [Ms-138](/ms-138/#2b.2) <span class="fac">[2b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/2b.webp)</span> {#ms-138-2b-2}

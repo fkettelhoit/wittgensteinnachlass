@@ -60,7 +60,7 @@ Angenommen wir bewiesen auf R's Methode daß (∃a‥‥․g) ‥‥ (∃a‥‥
 
 ### [Ms-122](/ms-122/#11v.2+12r.1) <span class="fac">[11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/11v.webp),[12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/12r.webp)</span> {#ms-122-11v-2--12r-1}
 
-Angenommen sogar, der R'sche Beweis werde mit einer Notation der Art <math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mspace width="0.3em"/><mtext>…</mtext><msub><mi>x</mi><mn>10</mn></msub><msub><mi>x</mi><mn>11</mn></msub><mspace width="0.3em"/><mtext>…</mtext><msub><mi>x</mi><mn>100</mn></msub><mspace width="0.3em"/><mtext>…</mtext></math> als in der Dezimalnotation geführt, & es seien 100 Glieder in der ersten 300 Glieder in der zweiten & 400 Glieder in der dritten Klammer, zeigt der Beweis selbst dann, daß 100 + 300 = 400 ist? – Wie wenn dieser Beweis einmal zu diesem einmal zu einem andern Resultat führte z.B. 100 + 300 = 420? Was bedarf es, um zu sehen daß das Resultat des Beweises, wenn er richtig geführt ist, immer nur von den letzten Ziffern der ersten zwei Klammern abhängt?
+Angenommen sogar, der R'sche Beweis werde mit einer Notation der Art <img class="math math-inline math-stacked" src="../math/88fa8b015f7e5d7f.svg" alt="{x}&#95;{1}{x}&#95;{2}\;…{x}&#95;{10}{x}&#95;{11}\;…{x}&#95;{100}\;…" style="width:10.344em;height:0.646em;vertical-align:-0.164em"> als in der Dezimalnotation geführt, & es seien 100 Glieder in der ersten 300 Glieder in der zweiten & 400 Glieder in der dritten Klammer, zeigt der Beweis selbst dann, daß 100 + 300 = 400 ist? – Wie wenn dieser Beweis einmal zu diesem einmal zu einem andern Resultat führte z.B. 100 + 300 = 420? Was bedarf es, um zu sehen daß das Resultat des Beweises, wenn er richtig geführt ist, immer nur von den letzten Ziffern der ersten zwei Klammern abhängt?
 
 ### [Ms-122](/ms-122/#12r.2+12v.1) <span class="fac">[12r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/12r.webp),[12v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/12v.webp)</span> {#ms-122-12r-2--12v-1}
 
@@ -94,7 +94,7 @@ Soll ich also z.B. hier eine _Frage_ setzen statt der Antwort, man könne jenen 
 
 <span class="series-number">6</span> 01.11.1939
 
-Der Beweis, daß <math class="stacked" display="inline"><msup><mo>(</mo><mn>1</mn></msup><mo>)</mo><msup><mo>(</mo><mn>2</mn></msup><mo>)</mo><mspace width="0.3em"/><mo>⊃</mo><msup><mo>(</mo><mn>3</mn></msup><mo>)</mo></math>
+Der Beweis, daß <img class="math math-inline math-stacked" src="../math/c07be90287048f46.svg" alt="{(}^{1}){(}^{2})⊃{(}^{3})" style="width:5.187em;height:1.018em;vertical-align:-0.164em">
 
 eine Tautologie ist, besteht darin, daß man immer ein Glied der 3<sup>ten</sup> Klammer für ein Glied von 1 oder 2 abstreicht. Und es gibt ja viele Methoden dieses Kollationierens. Oder man könnte auch sagen: es gibt viele Arten & Weisen, das Gelingen der 1 → 1 Zuordnung festzustellen. Eine Art wäre z.B. sternförmige Muster eins für die linke eins für die rechte Seite der Implikation zu konstruieren & diese wieder dadurch zu vergleichen daß man ein Ornament aus beiden bildet. Man könnte also die Regel geben: “Wenn Du wissen willst, ob die Zahlen A & B zusammen wirklich C ergeben, schreib einen Ausdruck der Form … an & ordne die Variablen in den Klammern einander zu indem Du den Beweis dafür anschreibst (oder anzuschreiben trachtest) daß der Ausdruck eine Tautologie ist.” Mein Einwand dagegen ist nun _nicht_, daß es willkürlich ist, gerade diese Art des Kollationierens vorzuschreiben, sondern, daß man auf diese Weise nicht feststellen kann, daß 1000 + 1000 = 2000 ist.
 
@@ -148,7 +148,7 @@ Die Ziffer für 1000 im 1 + 1 + 1 + 1… System kann nicht durch ihre _Gestalt_ 
 
 ### [Ms-122](/ms-122/#28r.4+28v.1) <span class="fac">[28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28r.webp),[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28v.webp)</span> {#ms-122-28r-4--28v-1}
 
-<span class="series-number">11</span> <math display="inline"><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext><mo>|</mo></mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext><mtext>∣</mtext></math>
+<span class="series-number">11</span> <img class="math math-block" src="../math/5f7f7b7d4c641909.svg" alt="∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣|∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣" style="display:block;width:9.708em;height:0.800em">
 
 Ist diese Figur ein Beweis für 27 + 16 = 43: weil man zu “27” kommt, wenn man die Striche der linken Seite zählt, zu “16” auf der rechten Seite, & zu “43” wenn man die ganze Reihe zählt?
 
@@ -172,7 +172,7 @@ Können wir vom 1 + 1 + 1… System kommend, durch bloße Abkürzungen der Schre
 
 ### [Ms-122](/ms-122/#31v.2+32r.1) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span> {#ms-122-31v-2--32r-1}
 
-<span class="series-number">13</span> Angenommen ich habe nach Russell einen Satz der Form (∃xyz…) (∃uvw…) ⊃ (∃abc…) bewiesen – & nun ‘mache ich ihn übersichtlich’, indem ich über die Variablen Zeichen <math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math> schreibe – soll ich nun sagen, ich habe nach Russell einen arithmetischen Satz im Dezimalsystem bewiesen?
+<span class="series-number">13</span> Angenommen ich habe nach Russell einen Satz der Form (∃xyz…) (∃uvw…) ⊃ (∃abc…) bewiesen – & nun ‘mache ich ihn übersichtlich’, indem ich über die Variablen Zeichen <img class="math math-inline math-stacked" src="../math/0c2914ed6b7f2171.svg" alt="{x}&#95;{1},{x}&#95;{2},{x}&#95;{3}…" style="width:4.670em;height:0.646em;vertical-align:-0.164em"> schreibe – soll ich nun sagen, ich habe nach Russell einen arithmetischen Satz im Dezimalsystem bewiesen?
 
 ### [Ms-122](/ms-122/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span> {#ms-122-32r-2}
 
@@ -194,7 +194,7 @@ Wie, wenn Einer sagte: Die R.sche Arithmetik stimmt mit der gewöhnlichen bis zu
 
 Liegt denn nicht meine ganze Schwierigkeit darin, einzusehen, wie man, ohne aus R's logischem Kalkül herauszutreten zum Begriff der _Menge von Variablen_ im Ausdruck “(∃ x,y,z etc.)” kommen kann, dort wo dieses Zeichen nicht übersehbar ist? – Nun kann man ihn aber doch übersehbar machen indem man schreibt:
 
-(<math class="stacked" display="inline"><mo>∃</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo>,</mo><mtext>etc</mtext><mn>.</mn></math>). Und dennoch verstehe ich etwas nicht: man hat doch nun das Kriterium für die Identität so eines Ausdrucks geändert! Ich sehe jetzt auf andere Weise, daß die Menge der Zeichen in zwei solchen Ausdrücken die selbe ist.
+(<img class="math math-inline math-stacked" src="../math/43facf59da7ae7c3.svg" alt="∃{x}&#95;{1},{x}&#95;{2},{x}&#95;{3},\text{etc}." style="width:6.199em;height:0.864em;vertical-align:-0.164em">). Und dennoch verstehe ich etwas nicht: man hat doch nun das Kriterium für die Identität so eines Ausdrucks geändert! Ich sehe jetzt auf andere Weise, daß die Menge der Zeichen in zwei solchen Ausdrücken die selbe ist.
 
 ### [Ms-122](/ms-122/#33v.2) <span class="fac">[33v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/33v.webp)</span> {#ms-122-33v-2}
 
@@ -244,13 +244,13 @@ Die Logik zwingt mich nur, sofern mich der logische Kalkül zwingt.
 
 ### [Ms-122](/ms-122/#39r.2+39v.1) <span class="fac">[39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span> {#ms-122-39r-2--39v-1}
 
-Aber es ist doch dem Kalkül mit 1000000 wesentlich, daß sich diese Zahl muß in eine Summe 1 + 1 + 1… auflösen lassen! Und um sicher zu sein, daß wir die richtige Anzahl von Einsern vor uns haben, können wir ja die Einser numerieren. <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>1</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mtext>…</mtext><mfrac linethickness="0"><mrow><mo>+</mo><mspace width="0.3em"/><mn>1</mn></mrow><mrow><mn>1000000</mn></mrow></mfrac></math> Diese Notation wäre ähnlich der: ‘100,000.000,000’, die ja auch das Zahlzeichen übersehbar macht. Und ich kann mir doch denken, jemand hätte große Summen Geldes in Pfennigen in ein Buch eingetragen wo sie etwa als 100-stellige Zahlen erschienen, mit denen ich nun zu rechnen hätte. Ich finge nun damit an, sie mir in eine übersehbare Notation zu übersetzen, würde sie aber doch ‘Zahlzeichen’ nennen, sie als Dokumente von Zahlen behandeln. Ja ich würde es sogar als Dokument einer Zahl ansehen, wenn mir einer sagte N hat soviele Schillinge, als Erbsen in dieses Faß gehen. Anders wieder: “Er hat soviele Schillinge als das Hohelied Buchstaben hat”.
+Aber es ist doch dem Kalkül mit 1000000 wesentlich, daß sich diese Zahl muß in eine Summe 1 + 1 + 1… auflösen lassen! Und um sicher zu sein, daß wir die richtige Anzahl von Einsern vor uns haben, können wir ja die Einser numerieren. <img class="math math-inline math-stacked" src="../math/fe00b560430d830f.svg" alt="\stack{1}{1}+\stack{1}{2}+\stack{1}{3}+\stack{1}{4}+…\stack{+1}{1000000}" style="width:10.934em;height:1.294em;vertical-align:-0.359em"> Diese Notation wäre ähnlich der: ‘100,000.000,000’, die ja auch das Zahlzeichen übersehbar macht. Und ich kann mir doch denken, jemand hätte große Summen Geldes in Pfennigen in ein Buch eingetragen wo sie etwa als 100-stellige Zahlen erschienen, mit denen ich nun zu rechnen hätte. Ich finge nun damit an, sie mir in eine übersehbare Notation zu übersetzen, würde sie aber doch ‘Zahlzeichen’ nennen, sie als Dokumente von Zahlen behandeln. Ja ich würde es sogar als Dokument einer Zahl ansehen, wenn mir einer sagte N hat soviele Schillinge, als Erbsen in dieses Faß gehen. Anders wieder: “Er hat soviele Schillinge als das Hohelied Buchstaben hat”.
 
 ### [Ms-122](/ms-122/#39v.3) <span class="fac">[39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span> {#ms-122-39v-3}
 
 <span class="series-number">17</span> 29.11.1939
 
-Die Notation ‘<math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math>’ macht den Ausdruck ‘(∃…)’ zur Gestalt & damit die R-bewiesene Tautologie.
+Die Notation ‘<img class="math math-inline math-stacked" src="../math/0c2914ed6b7f2171.svg" alt="{x}&#95;{1},{x}&#95;{2},{x}&#95;{3}…" style="width:4.670em;height:0.646em;vertical-align:-0.164em">’ macht den Ausdruck ‘(∃…)’ zur Gestalt & damit die R-bewiesene Tautologie.
 
 ### [Ms-122](/ms-122/#39v.4+40r.1) <span class="fac">[39v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/40r.webp)</span> {#ms-122-39v-4--40r-1}
 
@@ -766,7 +766,7 @@ Nun, man könnte doch einfach sagen: Wenn ein Mensch das Rechnen im Dezimalsyste
 
 ### [Ms-122](/ms-122/#86v.2+87r.1) <span class="fac">[86v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/86v.webp),[87r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/87r.webp)</span> {#ms-122-86v-2--87r-1}
 
-Wie ist es, wenn man ein Beweissystem einem anderen koordiniert? Es gibt dann eine Übersetzungsregel mittels derer man die in <math class="stacked" display="inline"><msub><mi>S</mi><mn>1</mn></msub></math> bewiesenen Sätze in die in <math class="stacked" display="inline"><msub><mi>S</mi><mn>2</mn></msub></math> bewiesenen übersetzen kann. Man kann sich doch aber denken, daß einige – oder alle – Beweissysteme der heutigen Mathematik auf solche Weise einem System, etwa dem R.schen zugeordnet wären. So daß alle Beweise, wenn auch umständlich, in diesem System ausgeführt werden könnten. So gäbe es dann nur das eine System – & nicht mehr die vielen Systeme? – Aber es muß sich doch also von dem _einen_ zeigen lassen, daß es sich in den vielen darstellen läßt. – _Ein_ Teil des Systems wird die Eigentümlichkeiten der Trigonometrie besitzen, ein anderer die der Algebra, u.s.w.. Man _kann_ also sagen, daß in diesen Teilen verschiedene Techniken verwendet werden.
+Wie ist es, wenn man ein Beweissystem einem anderen koordiniert? Es gibt dann eine Übersetzungsregel mittels derer man die in <img class="math math-inline math-stacked" src="../math/e5654bbfa8fa1d3d.svg" alt="{S}&#95;{1}" style="width:0.993em;height:0.858em;vertical-align:-0.152em"> bewiesenen Sätze in die in <img class="math math-inline math-stacked" src="../math/e5614bbfa8f63466.svg" alt="{S}&#95;{2}" style="width:0.993em;height:0.858em;vertical-align:-0.152em"> bewiesenen übersetzen kann. Man kann sich doch aber denken, daß einige – oder alle – Beweissysteme der heutigen Mathematik auf solche Weise einem System, etwa dem R.schen zugeordnet wären. So daß alle Beweise, wenn auch umständlich, in diesem System ausgeführt werden könnten. So gäbe es dann nur das eine System – & nicht mehr die vielen Systeme? – Aber es muß sich doch also von dem _einen_ zeigen lassen, daß es sich in den vielen darstellen läßt. – _Ein_ Teil des Systems wird die Eigentümlichkeiten der Trigonometrie besitzen, ein anderer die der Algebra, u.s.w.. Man _kann_ also sagen, daß in diesen Teilen verschiedene Techniken verwendet werden.
 
 ### [Ms-122](/ms-122/#87r.2) <span class="fac">[87r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/87r.webp)</span> {#ms-122-87r-2}
 
@@ -782,7 +782,7 @@ Mir scheint, als führten wir, ohne es zu wissen, neue Begriffe in die R.sche Lo
 
 ### [Ms-122](/ms-122/#87v.3+88r.1) <span class="fac">[87v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/87v.webp),[88r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/88r.webp)</span> {#ms-122-87v-3--88r-1}
 
-Aber wie ist es – : Wenn ich zuerst ‘p⌵q’ & ‘~p’ einführe & einige Tautologien mit ihnen konstruiere – & dann zeige ich (etwa) die Reihe ~p, ~ ~p, ~ ~ ~p, etc. vor & führe eine Notation ein wie <math class="stacked" display="inline"><msup><mtext>~</mtext><mn>1</mn></msup><mi>p</mi></math>, <math class="stacked" display="inline"><msup><mtext>~</mtext><mn>2</mn></msup><mi>p</mi><mspace width="0.3em"/><mtext>‥</mtext><mtext>‥</mtext><mtext>․</mtext><msup><mtext>~</mtext><mn>10</mn></msup><mi>p</mi><mspace width="0.3em"/><mtext>‥</mtext><mtext>‥</mtext></math> . Ich möchte sagen: wir hatten vielleicht an die _Möglichkeit_ so einer Reihenordnung ursprünglich gar nicht gedacht & wir haben nun einen neuen Begriff in unsre Rechnung eingeführt. Hier ist ein ‘neuer Aspekt’.
+Aber wie ist es – : Wenn ich zuerst ‘p⌵q’ & ‘~p’ einführe & einige Tautologien mit ihnen konstruiere – & dann zeige ich (etwa) die Reihe ~p, ~ ~p, ~ ~ ~p, etc. vor & führe eine Notation ein wie <img class="math math-inline math-stacked" src="../math/c54ce289c47d1b22.svg" alt="{{\sim}}^{1}p" style="width:1.695em;height:1.130em;vertical-align:-0.276em">, <img class="math math-inline math-stacked" src="../math/80614e1f6cc36ae1.svg" alt="{{\sim}}^{2}p\;.....{{\sim}}^{10}p\;...." style="width:7.882em;height:1.130em;vertical-align:-0.276em"> . Ich möchte sagen: wir hatten vielleicht an die _Möglichkeit_ so einer Reihenordnung ursprünglich gar nicht gedacht & wir haben nun einen neuen Begriff in unsre Rechnung eingeführt. Hier ist ein ‘neuer Aspekt’.
 
 ### [Ms-122](/ms-122/#88v.2) <span class="fac">[88v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/88v.webp)</span> {#ms-122-88v-2}
 
@@ -818,73 +818,9 @@ Kann man nun, was ich sagen will _so_ ausdrücken: “Wenn wir von Anfang an gel
 
 Angenommen, ich hätte R'sche Beweise der Sätze
 
-<math display="block">
-  <mtable columnalign="right center left" columnspacing="1em">
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>&#x2018;</mo>
-          <mi>p</mi>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>≡</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-          <mo>&#x2019;</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>&#x2018;</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>≡</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-          <mo>&#x2019;</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>&#x2018;</mo>
-          <mi>p</mi>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>≡</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-          <mo>&#x2019;</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/a9f6a620bf921958.svg" alt="\begin{array}{rcl} {\text{‘}p} &amp; ≡ &amp; {∼∼p\text{’}} \\ {\text{‘}∼p} &amp; ≡ &amp; {∼∼∼p\text{’}} \\ {\text{‘}p} &amp; ≡ &amp; {∼∼∼∼p\text{’}} \end{array}" style="display:block;width:9.939em;height:4.128em">
 
-vor mir & fände nun einen abgekürzten Weg, den Satz ‘<math class="stacked" display="inline"><mi>p</mi><mspace width="0.3em"/><mtext>≡</mtext><msup><mtext>~</mtext><mn>10</mn></msup><mi>p</mi></math>’
+vor mir & fände nun einen abgekürzten Weg, den Satz ‘<img class="math math-inline math-stacked" src="../math/21bb91f14e71ab84.svg" alt="p≡{{\sim}}^{10}p" style="width:3.864em;height:1.130em;vertical-align:-0.276em">’
 
 zu beweisen. Es ist als habe ich eine neue Rechnungsart innerhalb des alten Kalküls gefunden. Worin besteht es, daß sie gefunden wurde?
 
@@ -902,7 +838,7 @@ Offenbar die bloße ‘abgekürzte’, oder _andere_, Schreibweise – ‘16<sup
 
 ### [Ms-122](/ms-122/#92r.2+92v.1+93r.1) <span class="fac">[92r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/92r.webp),[92v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/92v.webp),[93r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/93r.webp)</span> {#ms-122-92r-2--92v-1--93r-1}
 
-Wenn ich frage: “Was ist das neue an der ‘neuen Rechnungsart’ des Potenzierens” – so ist das schwer zu sagen. Das Wort ‘neuer Aspekt’ ist vag. Es heißt, wir sehen die Sache jetzt anders an – aber die Frage ist: was ist die wesentliche, die _wichtige_, Äußerung dieses ‘andersAnsehens’? Zuerst will ich sagen: “Es hätte einem nie _auffallen_ brauchen, daß in gewissen Produkten alle Faktoren gleich sind” – oder: “‘Produkt lauter gleicher Faktoren’ ist ein neuer Begriff” – oder: “Das Neue besteht darin, daß wir die Rechnungen anders zusammenfassen”. Beim Potenzieren ist es offenbar das Wesentliche, daß wir auf die _Zahl_ der Faktoren sehen. Es ist doch nicht gesagt, daß wir auf die Zahl der Faktoren je geachtet haben. Es mag uns zum ersten mal auffallen daß es Produkte mit 2, 3, 4 etc. Faktoren gibt, obwohl wir schon lange solche Produkte ausgerechnet haben. Ein neuer Aspekt – aber wieder: Was ist seine _wichtige_ Seite? Wozu benütze ich diesen neuen Aspekt? – Nun vor allem lege ich ihn vielleicht in einer Notation nieder. Ich schreibe also, z.B. statt ‘a × a’ ‘<math class="stacked" display="inline"><msup><mi>a</mi><mn>2</mn></msup></math>’. Dadurch beziehe ich mich auf die Zahlenreihe (spiele auf sie an), was früher nicht geschehen war. Ich stelle also doch eine neue Verbindung her! – Eine Verbindung – zwischen welchen Dingen? Zwischen der Technik des Zählens von Faktoren & der Technik des Multiplizierens.
+Wenn ich frage: “Was ist das neue an der ‘neuen Rechnungsart’ des Potenzierens” – so ist das schwer zu sagen. Das Wort ‘neuer Aspekt’ ist vag. Es heißt, wir sehen die Sache jetzt anders an – aber die Frage ist: was ist die wesentliche, die _wichtige_, Äußerung dieses ‘andersAnsehens’? Zuerst will ich sagen: “Es hätte einem nie _auffallen_ brauchen, daß in gewissen Produkten alle Faktoren gleich sind” – oder: “‘Produkt lauter gleicher Faktoren’ ist ein neuer Begriff” – oder: “Das Neue besteht darin, daß wir die Rechnungen anders zusammenfassen”. Beim Potenzieren ist es offenbar das Wesentliche, daß wir auf die _Zahl_ der Faktoren sehen. Es ist doch nicht gesagt, daß wir auf die Zahl der Faktoren je geachtet haben. Es mag uns zum ersten mal auffallen daß es Produkte mit 2, 3, 4 etc. Faktoren gibt, obwohl wir schon lange solche Produkte ausgerechnet haben. Ein neuer Aspekt – aber wieder: Was ist seine _wichtige_ Seite? Wozu benütze ich diesen neuen Aspekt? – Nun vor allem lege ich ihn vielleicht in einer Notation nieder. Ich schreibe also, z.B. statt ‘a × a’ ‘<img class="math math-inline math-stacked" src="../math/c06d2aac30ceaebd.svg" alt="{a}^{2}" style="width:0.881em;height:0.861em;vertical-align:-0.011em">’. Dadurch beziehe ich mich auf die Zahlenreihe (spiele auf sie an), was früher nicht geschehen war. Ich stelle also doch eine neue Verbindung her! – Eine Verbindung – zwischen welchen Dingen? Zwischen der Technik des Zählens von Faktoren & der Technik des Multiplizierens.
 
 ### [Ms-122](/ms-122/#93v.2) <span class="fac">[93v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/93v.webp)</span> {#ms-122-93v-2}
 
@@ -910,7 +846,7 @@ Aber so macht ja jeder Beweis, jede einzelne Rechnung neue Verbindungen!
 
 ### [Ms-122](/ms-122/#93v.3+94r.1) <span class="fac">[93v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/93v.webp),[94r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94r.webp)</span> {#ms-122-93v-3--94r-1}
 
-Aber der _gleiche_ Beweis, der zeigt, daß a × a × a × a… = b ist beweist doch auch, daß <math class="stacked" display="inline"><msup><mi>a</mi><mi>n</mi></msup><mspace width="0.3em"/><mo>=</mo><mi>b</mi></math> ist; nur, daß wir den Übergang nach der Definition von ‘a<sup>n</sup>’ machen müssen. Aber dieser Übergang ist gerade das Neue. Aber wenn er nur ein Übergang zu dem alten Beweis ist, wie kann er dann wichtig sein?
+Aber der _gleiche_ Beweis, der zeigt, daß a × a × a × a… = b ist beweist doch auch, daß <img class="math math-inline math-stacked" src="../math/c8e2833270e4e11a.svg" alt="{a}^{n}=b" style="width:2.699em;height:0.744em;vertical-align:-0.011em"> ist; nur, daß wir den Übergang nach der Definition von ‘a<sup>n</sup>’ machen müssen. Aber dieser Übergang ist gerade das Neue. Aber wenn er nur ein Übergang zu dem alten Beweis ist, wie kann er dann wichtig sein?
 
 ### [Ms-122](/ms-122/#94r.2) <span class="fac">[94r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94r.webp)</span> {#ms-122-94r-2}
 
@@ -1070,7 +1006,7 @@ Warum nennen wir einen Teil des R'schen Kalküls den der Differentialrechnung en
 
 <span class="series-number">57</span> 26.01.1940
 
-Nun muß klar gesagt werden, daß die Rechnungen in der Strichnotation <math class="stacked" display="inline"><mo>(</mo><msub><mi>S</mi><mi>N</mi></msub><mo>)</mo></math> normalerweise immer mit denen in der Dezimalnotation übereinstimmen werden. Vielleicht werden wir, um sichere Übereinstimmung zu erzielen, an einem Punkt dazu greifen müssen, die Rechnung mit Strichen von _mehreren_ Leuten nachrechnen zu lassen. Und das Gleiche werden wir bei Rechnungen mit noch höheren Zahlen im Dezimalsystem vornehmen. Aber das zeigt freilich schon: daß nicht die Beweise im Strichsystem die Beweise im Dezimalsystem zwingend machen.
+Nun muß klar gesagt werden, daß die Rechnungen in der Strichnotation <img class="math math-inline math-stacked" src="../math/862d6552381d3cc1.svg" alt="({S}&#95;{N})" style="width:2.055em;height:0.870em;vertical-align:-0.164em"> normalerweise immer mit denen in der Dezimalnotation übereinstimmen werden. Vielleicht werden wir, um sichere Übereinstimmung zu erzielen, an einem Punkt dazu greifen müssen, die Rechnung mit Strichen von _mehreren_ Leuten nachrechnen zu lassen. Und das Gleiche werden wir bei Rechnungen mit noch höheren Zahlen im Dezimalsystem vornehmen. Aber das zeigt freilich schon: daß nicht die Beweise im Strichsystem die Beweise im Dezimalsystem zwingend machen.
 
 ### [Ms-122](/ms-122/#111r.2+111v.1) <span class="fac">[111r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111r.webp),[111v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111v.webp)</span> {#ms-122-111r-2--111v-1}
 
@@ -1404,45 +1340,19 @@ und merkte es nicht. – Dann macht mich jemand darauf aufmerksam. Auf einen Feh
 
 ### [Ms-117](/ms-117/#222.2) <span class="fac">[222\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/222.webp)</span> {#ms-117-222-2}
 
-<span class="series-number">79</span> <math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><mtable columnalign="right center left" columnspacing="0.5em"><mtr><mtd><mrow><mo>~</mo><mi>f</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mo>=</mo></mtd><mtd><mrow><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi>f</mi><mo stretchy="false">)</mo><mspace width="1em"/><mtext>Def.</mtext></mrow></mtd></mtr><mtr><mtd><mrow><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">)</mo></mrow></mtd><mtd><mover><mo>=</mo><mo>∴</mo></mover></mtd><mtd><mrow><mo>~</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">(</mo><mi mathvariant="normal">Φ</mi><mo stretchy="false">)</mo></mrow></mtd></mtr></mtable><mo stretchy="true" symmetric="true" rspace="0.5em">}</mo></math>
+<span class="series-number">79</span> <img class="math math-block" src="../math/e73ac7f81ea78385.svg" alt="\begin{array}{rcl} {{\sim}f(f)} &amp; = &amp; {\mathrm{\Phi}(f)\hspace{1em}\text{Def}.} \\ {\mathrm{\Phi}(\mathrm{\Phi})} &amp; \overset{∴}{=} &amp; {{\sim}\mathrm{\Phi}(\mathrm{\Phi})} \end{array}\}" style="display:block;width:11.670em;height:2.895em">
 
 Die Sätze “Φ(Φ)” & “~Φ(Φ)” scheinen uns einmal das Gleiche & einmal Entgegengesetztes zu sagen. _(Jenachdem wir ihn ansehen_ scheint der Satz “Φ(Φ)” einmal zu sagen, ~ Φ(Φ), einmal das Gegenteil davon. Und zwar sehen wir ihn einmal an als das Substitutionsprodukt
 
-<math display="block">
-  <mtext>Φ(</mtext>
-  <mtext>f)</mtext>
-  <mspace width="0.3em"/>
-  <mtext>❘</mtext>
-  <mfrac linethickness="0">
-    <mrow>
-      <mi>f</mi>
-    </mrow>
-    <mrow>
-      <mtext>Φ</mtext>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/77cebf229737ac93.svg" alt="\Phi(f)\;\vert\stack{f}{\Phi}" style="display:block;width:3.687em;height:2.124em">
 
 ein andermal als:
 
-<math display="block">
-  <mtext>f(</mtext>
-  <mtext>f)</mtext>
-  <mspace width="0.3em"/>
-  <mtext>❘</mtext>
-  <mfrac linethickness="0">
-    <mrow>
-      <mi>f</mi>
-    </mrow>
-    <mrow>
-      <mtext>Φ</mtext>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/959e1f40bc29ed88.svg" alt="f(f)\;\vert\stack{f}{\Phi}" style="display:block;width:3.250em;height:2.124em">
 
 ### [Ms-117](/ms-117/#222.3+223.1) <span class="fac">[222\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/222.webp),[223\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/223.webp)</span> {#ms-117-222-3--223-1}
 
-Wir möchten sagen: ‘heteronom ist nicht heteronom; also kann man es, nach der Definition, “heteronom” nennen.’ Und klingt ganz richtig, geht [English?] ganz glatt, & es braucht uns der Widerspruch gar nicht auffallen. Werden wir auf den Widerspruch aufmerksam, so möchten wir zuerst sagen, daß wir mit der Aussage, ξ ist heteronom, in den beiden Fällen nicht dasselbe meinen. Einmal sei es die unabgekürzte Aussage das andremal die nach der Definition abgekürzte. Wir möchten uns dann aus der Sache ziehen, indem wir sagen: <math class="stacked" display="inline"><mtext>“</mtext><mtext>~</mtext><mspace width="0.3em"/><mtext>Φ(</mtext><mtext>Φ)</mtext><mspace width="0.3em"/><mo>=</mo><msub><mtext>Φ</mtext><mn>1</mn></msub><mspace width="0.3em"/><mo>(</mo><mtext>Φ)</mtext><mtext>”</mtext></math>. ← Aber warum sollen wir uns so belügen? Es führen hier wirklich zwei _entgegengesetzte_ Wege – zu dem _Gleichen_. Oder auch: – _es ist ebenso natürlich_, in diesem Falle ‘~Φ(Φ)’ zu sagen, wie ‘Φ(Φ)’. Es ist, der Regel gemäß, ein ebenso natürlicher Ausdruck, zu sagen C liege vom Punkte A rechts, wie, es liege links.
+Wir möchten sagen: ‘heteronom ist nicht heteronom; also kann man es, nach der Definition, “heteronom” nennen.’ Und klingt ganz richtig, geht [English?] ganz glatt, & es braucht uns der Widerspruch gar nicht auffallen. Werden wir auf den Widerspruch aufmerksam, so möchten wir zuerst sagen, daß wir mit der Aussage, ξ ist heteronom, in den beiden Fällen nicht dasselbe meinen. Einmal sei es die unabgekürzte Aussage das andremal die nach der Definition abgekürzte. Wir möchten uns dann aus der Sache ziehen, indem wir sagen: <img class="math math-inline math-stacked" src="../math/72be7e696e19c5c9.svg" alt="\text{“}{\sim}\;\Phi(\Phi)={\Phi}&#95;{1}\;(\Phi)\text{”}" style="width:9.162em;height:0.873em;vertical-align:-0.164em">. ← Aber warum sollen wir uns so belügen? Es führen hier wirklich zwei _entgegengesetzte_ Wege – zu dem _Gleichen_. Oder auch: – _es ist ebenso natürlich_, in diesem Falle ‘~Φ(Φ)’ zu sagen, wie ‘Φ(Φ)’. Es ist, der Regel gemäß, ein ebenso natürlicher Ausdruck, zu sagen C liege vom Punkte A rechts, wie, es liege links.
 
 ![](../graphics/117,223.svg)
 
