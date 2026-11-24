@@ -106,7 +106,7 @@ verify:
 
 # Build-broken gate: fail if English translations are missing, stale (German changed
 # since the translation was last committed), or fail quality verification. Read-only,
-# no LLM. Requires full git history.
+# no LLM. Requires full git history. Docs with no md-en/ file at all are skipped.
 check:
 	cd tools/translate && cargo run --release -- check
 

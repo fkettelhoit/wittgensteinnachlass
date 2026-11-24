@@ -12,6 +12,8 @@ pub struct CheckArgs {
 /// Read-only build-broken gate (no LLM). Reports English translations that are
 /// missing, stale (the German source changed since the translation was last
 /// committed), or fail quality verification, and exits non-zero if any are found.
+/// Docs with no English file at all (`md-en/<doc>` absent) are skipped entirely: only
+/// docs that have been translated are held to completeness.
 ///
 /// Staleness is determined from git history exactly like `translate`: for each
 /// translated doc we find the commit that last touched `md-en/<doc>`, read the German
@@ -60,6 +62,7 @@ pub fn run(args: &CheckArgs) {
     let mut missing: Vec<String> = Vec::new();
     let mut stale: Vec<String> = Vec::new();
     let mut issues: Vec<Issue> = Vec::new();
+    let mut untranslated_docs: Vec<&str> = Vec::new();
 
     for filename in &docs {
         let de_path = args.input.join(filename);
@@ -71,15 +74,11 @@ pub fn run(args: &CheckArgs) {
 
         let en_path = args.translated.join(filename);
 
-        // Whole file untranslated: every non-skipped remark is missing.
+        // Whole doc untranslated (no md-en/<doc> at all): not part of the translated
+        // corpus yet, so skip it. Missing remarks are only enforced within docs that
+        // have been (at least partially) translated.
         if !en_path.exists() {
-            for de in &de_remarks {
-                let rid = anchor_from_doc_heading(&de.heading);
-                if rid.is_empty() || should_skip_remark(&skip_remarks, filename, &rid) {
-                    continue;
-                }
-                missing.push(format!("{}:{}", filename, rid));
-            }
+            untranslated_docs.push(filename.as_str());
             continue;
         }
 
@@ -131,6 +130,13 @@ pub fn run(args: &CheckArgs) {
     }
 
     // Report.
+    if !untranslated_docs.is_empty() {
+        eprintln!(
+            "Skipping {} untranslated doc(s) without an English file: {}",
+            untranslated_docs.len(),
+            untranslated_docs.join(", ")
+        );
+    }
     let broken = !missing.is_empty() || !stale.is_empty() || !issues.is_empty();
     if !missing.is_empty() {
         eprintln!("\nMissing translations ({}):", missing.len());
