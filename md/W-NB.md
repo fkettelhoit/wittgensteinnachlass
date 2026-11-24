@@ -3962,11 +3962,7 @@ Das Ich tritt in die Philosophie dadurch ein, daß die Welt _meine_ Welt ist.
 
 ### [Ms-103](/ms-103/#43r.3) <span class="fac">[43r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/43r.webp)</span>
 
-Das Gesichtsfeld hat nämlich nicht etwa eine solche Form:
-
-![](../graphics/103,43r.svg)<span class="post-block-punct">.</span>
-
-
+Das Gesichtsfeld hat nämlich nicht etwa eine solche Form: <img class="graphic graphic-inline" src="../graphics/103,43r.svg" alt="" style="width:5.867em;height:2.724em;vertical-align:-0.640em;margin:-0.530em 0 -0.474em">.
 
 ### [Ms-103](/ms-103/#43r.4+44r.1) <span class="fac">[43r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/43r.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/44r.webp)</span>
 
@@ -4362,11 +4358,7 @@ Ist das möglich?
 
 ### [Ms-103](/ms-103/#71r.5+72r.1) <span class="fac">[71r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/71r.webp),[72r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/72r.webp)</span>
 
-Bei dem Zeichnen des Vierecks
-
-![](../graphics/103,71r.svg)
-
-im Spiegel bemerkt man daß man es nur ausführen kann wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt ∙ also handelt es sich hier doch um zwei ganz verschiedene Willensakte. ∙ Der eine bezieht sich auf den Gesichtsteil der Welt der andere auf den Teil des Muskelgefühls.
+Bei dem Zeichnen des Vierecks <img class="graphic graphic-inline" src="../graphics/103,71r.svg" alt="" style="width:1.890em;height:1.890em;vertical-align:-0.640em;margin:-0.115em 0 -0.055em"> im Spiegel bemerkt man daß man es nur ausführen kann wenn man vom Gesichtsbild ganz absieht und nur das Muskelgefühl zu Hilfe nimmt ∙ also handelt es sich hier doch um zwei ganz verschiedene Willensakte. ∙ Der eine bezieht sich auf den Gesichtsteil der Welt der andere auf den Teil des Muskelgefühls.
 
 ### [Ms-103](/ms-103/#72r.2) <span class="fac">[72r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-103/72r.webp)</span>
 

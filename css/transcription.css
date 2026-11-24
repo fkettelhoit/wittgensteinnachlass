@@ -16,8 +16,9 @@ s {
 }
 
 /* Math: LaTeX formulas rendered to SVG by the parser. Inline formulas carry
-   their own em-based width/height/vertical-align, so they scale with the text;
-   block formulas sit on their own line and shrink (keeping their aspect ratio)
+   their own em-based width/height/vertical-align, so they scale with the text,
+   and taller ones negative vertical margins (inline style, overriding the margin
+   below) so they never change the line spacing; block formulas sit on their own line and shrink (keeping their aspect ratio)
    when wider than the text column. */
 img.math {
   display: inline;
@@ -31,6 +32,11 @@ img.math-block {
   max-width: 100%;
   height: auto !important;
   margin: 0.5em 0 1em 0;
+}
+
+/* A formula too tall for its line, on a line of its own within the paragraph. */
+img.math-block.math-display {
+  margin: 0.5em 0;
 }
 
 sub, sup {

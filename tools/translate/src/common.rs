@@ -131,10 +131,12 @@ pub fn parse_document(content: &str) -> (String, Vec<Remark>) {
     (preamble, remarks)
 }
 
-/// A math block: legacy inline MathML (`<math>…</math>`) or a rendered LaTeX formula
-/// (`<img class="math …">` pointing at an SVG in `math/`). Both are opaque to
-/// translation and must be copied verbatim.
-pub const MATH_PATTERN: &str = r#"(?s)<math[\s>].*?</math>|<img class="math[^"]*"[^>]*>"#;
+/// A math block: legacy inline MathML (`<math>…</math>`), a rendered LaTeX formula
+/// (`<img class="math …">` pointing at an SVG in `math/`), or a graphic set inline in
+/// the text (`<img class="graphic graphic-inline" …>`). All are opaque to translation
+/// and must be copied verbatim.
+pub const MATH_PATTERN: &str =
+    r#"(?s)<math[\s>].*?</math>|<img class="(?:math|graphic)[^"]*"[^>]*>"#;
 
 /// Extract math blocks and replace with placeholders.
 pub fn extract_math(text: &str) -> (String, Vec<String>) {

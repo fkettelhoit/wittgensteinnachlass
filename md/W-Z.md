@@ -1174,11 +1174,7 @@ Ramsey pflegte auf solche Fragen zu antworten: es sei _eben doch_ möglich, so e
 
 ### [Ts-233a](/ts-233a/#58.3) <span class="fac">[58\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/58.webp)</span>
 
-<span class="series-number">281</span> Zu sagen, die Punkte, die dieses Experiment liefert, liegen durchschnittlich auf dieser Linie, z.B. einer Geraden, sagt etwas ähnliches, wie: “Aus dieser Entfernung gesehen, scheinen sie in einer Geraden zu liegen.” Ich kann von einer Strecke sagen, der allgemeine Eindruck ist der einer Geraden; aber nicht von der Linie
-
-![](../graphics/233a,58.svg)<span class="post-block-punct">;</span>
-
-obwohl es möglich wäre, sie als Stück einer längeren Linie zu sehen, in der sich die Abweichungen von der Geraden verlieren würden. Ich kann nicht sagen: “Dies Linienstück schaut gerade aus, denn es kann das Stück einer Linie sein, die mir als Ganzes den Eindruck der Geraden macht.” (Berge auf der Erde und auf dem Mond Erde eine Kugel.)
+<span class="series-number">281</span> Zu sagen, die Punkte, die dieses Experiment liefert, liegen durchschnittlich auf dieser Linie, z.B. einer Geraden, sagt etwas ähnliches, wie: “Aus dieser Entfernung gesehen, scheinen sie in einer Geraden zu liegen.” Ich kann von einer Strecke sagen, der allgemeine Eindruck ist der einer Geraden; aber nicht von der Linie <img class="graphic graphic-inline" src="../graphics/233a,58.svg" alt="" style="width:5.434em;height:0.862em;vertical-align:-0.181em">; obwohl es möglich wäre, sie als Stück einer längeren Linie zu sehen, in der sich die Abweichungen von der Geraden verlieren würden. Ich kann nicht sagen: “Dies Linienstück schaut gerade aus, denn es kann das Stück einer Linie sein, die mir als Ganzes den Eindruck der Geraden macht.” (Berge auf der Erde und auf dem Mond Erde eine Kugel.)
 
 ### [Ts-233a](/ts-233a/#58.4) <span class="fac">[58\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/58.webp)</span>
 

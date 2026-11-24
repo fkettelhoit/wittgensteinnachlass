@@ -324,11 +324,7 @@ Aber was nenne ich denn so? – Ein Erlebnis? Und welches Erlebnis? Kann ich's d
 
 ### [Ms-137](/ms-137/#84a.2) <span class="fac">[84a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/84a.webp)</span>
 
-<span class="series-number">71</span> Nehmen wir an, ich sehe ein Dreieck als Quadrat, indem ich es als das Ende einer Veränderung sehe:
-
-![](../graphics/137,84a.svg)
-
-– Dann gehört die Art des Variierens zum gesehenen Aspekt. Aber so etwas liegt ja eben nicht vor, wenn uns der Name das Bildnis des Trägers zu sein scheint.
+<span class="series-number">71</span> Nehmen wir an, ich sehe ein Dreieck als Quadrat, indem ich es als das Ende einer Veränderung sehe: <img class="graphic graphic-inline" src="../graphics/137,84a.svg" alt="" style="width:5.526em;height:0.942em;vertical-align:-0.221em"> – Dann gehört die Art des Variierens zum gesehenen Aspekt. Aber so etwas liegt ja eben nicht vor, wenn uns der Name das Bildnis des Trägers zu sein scheint.
 
 ### [Ms-137](/ms-137/#84a.3) <span class="fac">[84a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/84a.webp)</span>
 
@@ -2640,15 +2636,7 @@ Der Gesichtseindruck scheint sich zu dieser Form zu organisieren.
 
 ### [Ms-137](/ms-137/#135a.2) <span class="fac">[135a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135a.webp)</span>
 
-<span class="series-number">598</span> Diese Figur
-
-![](../graphics/137,135a-1.svg)
-
-ist die Umkehrung von
-
-![](../graphics/137,135a-2.svg)
-
-& diese: <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> [muß in Spiegelschrift geschrieben werden] die Umkehrung von
+<span class="series-number">598</span> Diese Figur <img class="graphic graphic-inline" src="../graphics/137,135a-1.svg" alt="" style="width:1.431em;height:2.279em;vertical-align:-0.640em;margin:-0.309em 0 -0.249em"> ist die Umkehrung von <img class="graphic graphic-inline" src="../graphics/137,135a-2.svg" alt="" style="width:1.431em;height:2.279em;vertical-align:-0.640em;margin:-0.309em 0 -0.249em"> & diese: <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> [muß in Spiegelschrift geschrieben werden] die Umkehrung von
 
 dieser: <img class="math math-inline math-drawing" src="../math/9c1a4e6379858db4.svg" alt="Freude" style="width:3.123em;height:0.746em;vertical-align:-0.020em">. Man ist geneigt zu sagen daß man das verkehrte Wort anders _sieht_ als das aufrechte. Dieses ist leicht zu kopieren, jenes schwer.
 
@@ -2682,11 +2670,7 @@ Wie wäre diese Erklärung: “Ich kann etwas als _das_ sehen, wovon es ein _Bil
 
 <span class="series-number">605</span> 30.12.1948
 
-Betrachte nun als Beispiel die Aspekte des Dreiecks. Das Dreieck
-
-![](../graphics/137,135b.svg)
-
-kann gesehen werden als dreieckiges Loch, als Körper, als geometrische Zeichnung; auf seiner Basis stehend, von seiner Spitze hängend; als Berg, als Keil, als Pfeil oder Zeiger; als ein umgefallener Körper, der (z.B.) auf der kürzeren Kathete stehen sollte, als ein halbes Parallelogramm, und anderes.
+Betrachte nun als Beispiel die Aspekte des Dreiecks. Das Dreieck <img class="graphic graphic-inline" src="../graphics/137,135b.svg" alt="" style="width:4.084em;height:2.015em;vertical-align:-0.640em;margin:-0.178em 0 -0.118em"> kann gesehen werden als dreieckiges Loch, als Körper, als geometrische Zeichnung; auf seiner Basis stehend, von seiner Spitze hängend; als Berg, als Keil, als Pfeil oder Zeiger; als ein umgefallener Körper, der (z.B.) auf der kürzeren Kathete stehen sollte, als ein halbes Parallelogramm, und anderes.
 
 ---
 
@@ -2810,11 +2794,7 @@ Was teilt uns der mit, der sagt “Jetzt seh ich es als …? Das heißt: Welche 
 
 ### [Ms-137](/ms-137/#138b.3) <span class="fac">[138b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138b.webp)</span>
 
-<span class="series-number">633</span> Die Figur
-
-![](../graphics/137,138b-1.svg)
-
-soll eine konvexe Stufe vorstellen, & zur Demonstration gewisser räumlicher Vorgänge verwendet werden. Ich ziehe dabei etwa die Linie _a_ durch die Mittelpunkte
+<span class="series-number">633</span> Die Figur <img class="graphic graphic-inline" src="../graphics/137,138b-1.svg" alt="" style="width:3.034em;height:1.484em;vertical-align:-0.492em"> soll eine konvexe Stufe vorstellen, & zur Demonstration gewisser räumlicher Vorgänge verwendet werden. Ich ziehe dabei etwa die Linie _a_ durch die Mittelpunkte
 
 ![](../graphics/137,138b-2.svg)
 
@@ -2944,11 +2924,7 @@ Ich erkenne die 6-Ecke gleich als solche. Nun schau ich sie an & frage mich: “
 
 ### [Ms-137](/ms-137/#141a.2) <span class="fac">[141a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/141a.webp)</span>
 
-<span class="series-number">660</span> Einer sagt mir: “Ich habe es sofort als zwei Sechsecke gesehen. Ja, das war _alles_, was ich daran gesehen habe.” Aber wie versteh ich das? Ich denke, er hätte auf die Frage “Was siehst Du?” gleich geantwortet “Zwei Sechsecke”. Er hätte diese Antwort auch nicht als eine von vielen möglichen behandelt. Sie ist darin gleich der Antwort “Ein Tier” – wenn ich ihm das Bild eines solchen gezeigt hätte; oder “Ein Gesicht” – wenn ich ihm die Figur
-
-![](../graphics/137,141a.svg)
-
-gezeigt hätte.
+<span class="series-number">660</span> Einer sagt mir: “Ich habe es sofort als zwei Sechsecke gesehen. Ja, das war _alles_, was ich daran gesehen habe.” Aber wie versteh ich das? Ich denke, er hätte auf die Frage “Was siehst Du?” gleich geantwortet “Zwei Sechsecke”. Er hätte diese Antwort auch nicht als eine von vielen möglichen behandelt. Sie ist darin gleich der Antwort “Ein Tier” – wenn ich ihm das Bild eines solchen gezeigt hätte; oder “Ein Gesicht” – wenn ich ihm die Figur <img class="graphic graphic-inline" src="../graphics/137,141a.svg" alt="" style="width:1.521em;height:1.521em;vertical-align:-0.510em"> gezeigt hätte.
 
 ### [Ms-137](/ms-137/#141a.3) <span class="fac">[141a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/141a.webp)</span>
 
@@ -3380,11 +3356,7 @@ Man kann doch die Frage beantworten “Wie sieht ein Sessel im Stil Ludwig XIV a
 
 ### [Ms-138](/ms-138/#7b.6) <span class="fac">[7b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/7b.webp)</span>
 
-<span class="series-number">760</span> Man sagt einem Kind etwa “Siehst Du, wenn Du diese beiden Steine zusammengibst, so wird ein Kreis daraus”.
-
-![](../graphics/138,7b.svg)<span class="post-block-punct">.</span>
-
-Lernt es einen Erfahrungssatz? (Ich rede hier absichtlich vom Kind, nicht vom Erwachsenen.)
+<span class="series-number">760</span> Man sagt einem Kind etwa “Siehst Du, wenn Du diese beiden Steine zusammengibst, so wird ein Kreis daraus”. <img class="graphic graphic-inline" src="../graphics/138,7b.svg" alt="" style="width:5.913em;height:2.525em;vertical-align:-0.640em;margin:-0.433em 0 -0.373em">. Lernt es einen Erfahrungssatz? (Ich rede hier absichtlich vom Kind, nicht vom Erwachsenen.)
 
 ### [Ms-138](/ms-138/#8a.1) <span class="fac">[8a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/8a.webp)</span>
 

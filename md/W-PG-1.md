@@ -322,7 +322,7 @@ Der Würfel ist dann eine Notation der Regel. Und hätten wir eine solche Regel 
 
 ### [Ms-114](/ms-114/#47v.4) <span class="fac">[47v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/47v.webp)</span>
 
-Das Zeichen der Negation “<img class="math math-inline" src="../math/07e7aaa7f5a71f30.svg" alt="\begin{array}{c|c} p &amp; \\ \hline W &amp; F \\ F &amp; W \end{array}" style="width:4.030em;height:4.146em;vertical-align:-1.823em">”, z.B.,
+Das Zeichen der Negation “<img class="math math-block math-display" src="../math/07e7aaa7f5a71f30.svg" alt="\begin{array}{c|c} p &amp; \\ \hline W &amp; F \\ F &amp; W \end{array}" style="display:block;width:4.030em;height:4.146em">”, z.B.,
 
 ist gleichwertig jedem andern Negationszeichen; es ist ebenso ein Komplex von Strichen, wie der Ausdruck “nicht p”, & zum Zeichen für die Negation wird es nur durch die Art, wie es ‘_wirkt_’, – ich meine: wie es im Spiel gebraucht wird.
 
@@ -972,11 +972,7 @@ Es ist der Ausdruck einer unrichtigen Auffassung, wenn man sagt: die Verbindung 
 
 ### [Ms-114](/ms-114/#70r.2+70v.1) <span class="fac">[70r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/70r.webp),[70v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/70v.webp)</span>
 
-<span class="series-number">57</span> Denken wir uns, daß jemand eine Figur im Maßstab 1 : 10 kopiert; ist dann in dem Vorgang des Kopierens das Verständnis der allgemeinen Regel dieses Abbildens enthalten? – Mein Stift wurde von mir quasi ganz voraussetzungslos gehalten & nur von der Länge der Vorlage geführt (beeinflußt). – Ich würde sagen: wäre die Vorlage länger gewesen, so wäre ich mit dem Stift noch weiter gefahren & wenn kürzer, weniger weit. Aber ist, gleichsam, der Geist, der sich hierin ausspricht, schon im Nachziehen des Strichs enthalten? Ich kann mir vornehmen: “ich gehe solange, bis ich den N. finde” – ich will etwa jemand auf einer Straße treffen –; & nun gehe ich die Straße entlang & treffe ihn an einem bestimmten Punkt, & bleibe stehn. War in dem Vorgang des Gehens, oder einem andern gleichzeitigen das Handeln nach der allgemeinen Regel, die ich mir vorgesetzt hatte, enthalten? Oder war der Vorgang nur _in Übereinstimmung_ mit dieser Regel, aber also auch in Übereinstimmung mit andern Regeln? Ich gebe jemandem den Befehl von eine Linie parallel zu a zu ziehen. A
-
-![](../graphics/114,70r.svg)
-
-Er versucht (beabsichtigt) es zu tun, aber mit dem Erfolg, daß die Linie parallel zu b wird. War der Vorgang des Kopierens derselbe, als hätte er beabsichtigt eine Linie parallel zu b zu ziehen, & seine Absicht ausgeführt?
+<span class="series-number">57</span> Denken wir uns, daß jemand eine Figur im Maßstab 1 : 10 kopiert; ist dann in dem Vorgang des Kopierens das Verständnis der allgemeinen Regel dieses Abbildens enthalten? – Mein Stift wurde von mir quasi ganz voraussetzungslos gehalten & nur von der Länge der Vorlage geführt (beeinflußt). – Ich würde sagen: wäre die Vorlage länger gewesen, so wäre ich mit dem Stift noch weiter gefahren & wenn kürzer, weniger weit. Aber ist, gleichsam, der Geist, der sich hierin ausspricht, schon im Nachziehen des Strichs enthalten? Ich kann mir vornehmen: “ich gehe solange, bis ich den N. finde” – ich will etwa jemand auf einer Straße treffen –; & nun gehe ich die Straße entlang & treffe ihn an einem bestimmten Punkt, & bleibe stehn. War in dem Vorgang des Gehens, oder einem andern gleichzeitigen das Handeln nach der allgemeinen Regel, die ich mir vorgesetzt hatte, enthalten? Oder war der Vorgang nur _in Übereinstimmung_ mit dieser Regel, aber also auch in Übereinstimmung mit andern Regeln? Ich gebe jemandem den Befehl von eine Linie parallel zu a zu ziehen. A <img class="graphic graphic-inline" src="../graphics/114,70r.svg" alt="" style="width:6.164em;height:2.591em;vertical-align:-0.640em;margin:-0.438em 0 -0.433em"> Er versucht (beabsichtigt) es zu tun, aber mit dem Erfolg, daß die Linie parallel zu b wird. War der Vorgang des Kopierens derselbe, als hätte er beabsichtigt eine Linie parallel zu b zu ziehen, & seine Absicht ausgeführt?
 
 ### [Ms-114](/ms-114/#70v.2) <span class="fac">[70v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/70v.webp)</span>
 
@@ -1032,7 +1028,7 @@ Wenn man sagt, der Gedanke sei eine seelische Tätigkeit, oder eine Tätigkeit d
 
 ### [Ms-114](/ms-114/#73r.2) <span class="fac">[73r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/73r.webp)</span>
 
-“Ich schreibe hierher die Zahl ‘16’, <img class="math math-inline" src="../math/33e7f0d934aed5e1.svg" alt="\begin{array}{c|cccc} x &amp; 1 &amp; 2 &amp; 3 &amp; 4 \\ \hline x^{2} &amp; &amp; &amp; &amp; 16 \\ \hline x^{3} &amp; &amp; &amp; &amp; 64 \end{array}" style="width:8.507em;height:4.390em;vertical-align:-1.945em"> _weil_ dort ‘x²’ steht & hier ‘64’ weil dort ‘x³’ steht”. So sieht jede Rechtfertigung aus. In gewissem Sinne bringt uns das nicht weiter. Aber es kann uns ja nicht _weiter_, d.h., zu dem Metalogischen bringen. (Die Schwierigkeit ist hier, das nicht zu rechtfertigen versuchen, was keine Rechtfertigung hat.)
+“Ich schreibe hierher die Zahl ‘16’, <img class="math math-block math-display" src="../math/33e7f0d934aed5e1.svg" alt="\begin{array}{c|cccc} x &amp; 1 &amp; 2 &amp; 3 &amp; 4 \\ \hline x^{2} &amp; &amp; &amp; &amp; 16 \\ \hline x^{3} &amp; &amp; &amp; &amp; 64 \end{array}" style="display:block;width:8.507em;height:4.390em"> _weil_ dort ‘x²’ steht & hier ‘64’ weil dort ‘x³’ steht”. So sieht jede Rechtfertigung aus. In gewissem Sinne bringt uns das nicht weiter. Aber es kann uns ja nicht _weiter_, d.h., zu dem Metalogischen bringen. (Die Schwierigkeit ist hier, das nicht zu rechtfertigen versuchen, was keine Rechtfertigung hat.)
 
 ### [Ms-114](/ms-114/#72v.2+73r.1) <span class="fac">[72v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/72v.webp),[73r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/73r.webp)</span>
 
@@ -1406,7 +1402,7 @@ Wenn man auch den Satz als Bild des beschriebenen Sachverhalts auffaßt & sagt, 
 
 “Möglich” heißt hier soviel wie “denkbar”; aber “denkbar” kann heißen “malbar”, “modellierbar”, “vorstellbar”, also: darstellbar in einem bestimmten System. Nun, da kommt es auf das System an. – Man fragt z.B.: “ist es denkbar, daß eine Baumreihe in gerader Richtung weiterläuft, ohne je zu einem Ende zu kommen?” – Warum soll das nicht ‘denkbar’ sein, es ist doch jedenfalls in einem grammatischen System aussprechbar. Aber was ist nun die Anwendung des Satzes, wie wird er verifiziert, welche Beziehung hat seine Verifikation zu der eines Satzes wie: “diese Baumreihe endet mit dem 100<sup>sten</sup> Baum”? Das wird uns zeigen wie viel diese Denkbarkeit, sozusagen, wert ist.
 
-chemisch möglich: <img class="math math-inline math-stacked" src="../math/f3def406d26a3723.svg" alt="\begin{array}{ccccc} O &amp; - &amp; O &amp; - &amp; H \\ | &amp;  &amp;  &amp;  &amp;  \\ O &amp; - &amp; H &amp;  &amp;  \end{array}" style="width:8.898em;height:4.050em;vertical-align:-1.775em">
+chemisch möglich: <img class="math math-block math-display" src="../math/f3def406d26a3723.svg" alt="\begin{array}{ccccc} O &amp; - &amp; O &amp; - &amp; H \\ | &amp;  &amp;  &amp;  &amp;  \\ O &amp; - &amp; H &amp;  &amp;  \end{array}" style="display:block;width:8.898em;height:4.050em">
 
 ### [Ms-114](/ms-114/#91r.2+91v.1) <span class="fac">[91r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/91r.webp),[91v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/91v.webp)</span>
 
@@ -2014,11 +2010,7 @@ Hier ist es wichtig zu verstehen, daß man statt eines Bildes auch einen Ausschn
 
 <span class="series-number">115</span> 14.12.1933
 
-Das Bild sagt mir also sich selbst. Und daß es mir etwas sagt wird etwa darin bestehen, daß ich in ihm Gegenstände in irgend einer charakteristischen Gruppierung wiedererkenne. (Wenn ich sage: “ich sehe in diesem Bild einen Tisch”, so charakterisiert das, wie gesagt, das Bild in einer Weise, die nichts mit der Existenz eines ‘wirklichen’ Tisches zu tun hat. “Das Bild zeigt mir einen Würfel”, kann z.B. heißen: es enthält die Form
-
-![](../graphics/115,1.svg)
-
-.)
+Das Bild sagt mir also sich selbst. Und daß es mir etwas sagt wird etwa darin bestehen, daß ich in ihm Gegenstände in irgend einer charakteristischen Gruppierung wiedererkenne. (Wenn ich sage: “ich sehe in diesem Bild einen Tisch”, so charakterisiert das, wie gesagt, das Bild in einer Weise, die nichts mit der Existenz eines ‘wirklichen’ Tisches zu tun hat. “Das Bild zeigt mir einen Würfel”, kann z.B. heißen: es enthält die Form <img class="graphic graphic-inline" src="../graphics/115,1.svg" alt="" style="width:1.592em;height:1.592em;vertical-align:-0.546em">.)
 
 ### [Ms-115](/ms-115/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/2.webp)</span>
 
@@ -2330,11 +2322,7 @@ Wenn wir von der Wohlbekanntheit als von einem Passen des Gegenstandes in ein Fu
 
 ### [Ms-115](/ms-115/#30.5+31.1) <span class="fac">[30\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/30.webp),[31\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/31.webp)</span>
 
-Es sollte eigentlich nicht heißen: “ja, ich erkenne es, es ist ein Gesicht” sondern: “ich erkenne es, ich sehe es als Gesicht”. (Das Wort Gesicht könnte für mich hier das bloße Ornament
-
-![](../graphics/115,30.svg)
-
-bedeuten (ohne irgend eine Beziehung zum Gesicht des Menschen), wäre also auf gleicher Stufe wie irgend eine andere uns bekannte Figur, z.B. ein Hakenkreuz.) Denn die Frage ist: _Was_ erkenne ich _als was_? Denn, “ein Ding als sich selbst erkennen” heißt nichts.
+Es sollte eigentlich nicht heißen: “ja, ich erkenne es, es ist ein Gesicht” sondern: “ich erkenne es, ich sehe es als Gesicht”. (Das Wort Gesicht könnte für mich hier das bloße Ornament <img class="graphic graphic-inline" src="../graphics/115,30.svg" alt="" style="width:2.506em;height:2.506em;vertical-align:-0.640em;margin:-0.423em 0 -0.363em"> bedeuten (ohne irgend eine Beziehung zum Gesicht des Menschen), wäre also auf gleicher Stufe wie irgend eine andere uns bekannte Figur, z.B. ein Hakenkreuz.) Denn die Frage ist: _Was_ erkenne ich _als was_? Denn, “ein Ding als sich selbst erkennen” heißt nichts.
 
 ### [Ms-115](/ms-115/#31.2) <span class="fac">[31\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/31.webp)</span>
 
@@ -2502,17 +2490,7 @@ Wenn Einem eine Sprache gelehrt wird, lernt er da, was Sinn & was Unsinn ist? In
 
 ### [Ms-114](/ms-114/#115v.4+116r.1) <span class="fac">[115v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/115v.webp),[116r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/116r.webp)</span>
 
-Wenn er die Notenschrift lernt, so wird ihm eine Art Grammatik beigebracht. Es heißt da: diese Note entspricht dieser Taste am Klavier, das Zeichen # erhöht einen Ton, das Zeichen ♮ hebt die Wirkung des # auf etc. etc.. Wenn der Schüler fragte ob ein Unterschied zwischen
-
-![](../graphics/114,115v-1.svg) <span class="post-block-punct">&</span>
-
-![](../graphics/114,115v-2.svg)
-
-sei oder was das Zeichen
-
-![](../graphics/114,115v-3.svg)
-
-bedeute, so würden wir ihm sagen, daß die Entfernung des Notenkopfes von den Linien nichts ausdrücke, u.s.f.. Diese Belehrungen kann man so auffassen, daß sie dazu dienen den Schüler zu einer Spielmaschine (Pianola) zu machen. Und so ist, was im Pianola der Grammatik der Sprache des Tonstreifens entspricht, im Bau des Pianolas verkörpert. Sofern man den Zweck aus dem Bau ablesen kann, ist die Grammatik im Bau ausgedrückt. Die Wirkung kann man nicht ablesen.
+Wenn er die Notenschrift lernt, so wird ihm eine Art Grammatik beigebracht. Es heißt da: diese Note entspricht dieser Taste am Klavier, das Zeichen # erhöht einen Ton, das Zeichen ♮ hebt die Wirkung des # auf etc. etc.. Wenn der Schüler fragte ob ein Unterschied zwischen <img class="graphic graphic-inline" src="../graphics/114,115v-1.svg" alt="" style="width:1.275em;height:1.882em;vertical-align:-0.640em;margin:-0.111em 0 -0.051em"> & <img class="graphic graphic-inline" src="../graphics/114,115v-2.svg" alt="" style="width:1.275em;height:2.316em;vertical-align:-0.640em;margin:-0.328em 0 -0.268em"> sei oder was das Zeichen <img class="graphic graphic-inline" src="../graphics/114,115v-3.svg" alt="" style="width:1.275em;height:2.631em;vertical-align:-0.640em;margin:-0.485em 0 -0.425em"> bedeute, so würden wir ihm sagen, daß die Entfernung des Notenkopfes von den Linien nichts ausdrücke, u.s.f.. Diese Belehrungen kann man so auffassen, daß sie dazu dienen den Schüler zu einer Spielmaschine (Pianola) zu machen. Und so ist, was im Pianola der Grammatik der Sprache des Tonstreifens entspricht, im Bau des Pianolas verkörpert. Sofern man den Zweck aus dem Bau ablesen kann, ist die Grammatik im Bau ausgedrückt. Die Wirkung kann man nicht ablesen.
 
 ### [Ms-114](/ms-114/#116r.2) <span class="fac">[116r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/116r.webp)</span>
 

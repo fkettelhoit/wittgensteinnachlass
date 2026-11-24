@@ -1804,11 +1804,11 @@ Der Satz, es gibt 6 Permutationen von 3 Elementen, ist identisch mit dem Permuta
 
 ### [Ts-209](/ts-209/#51.5) <span class="fac">[51\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span>
 
-Man kann auch sagen, der Satz “es gibt 6 Permutationen von 3 Elementen” verhält sich genau so zum Satz “es sind 6 Leute im Zimmer”, wie der Satz 3 + 3 = 6, den man auch in der Form “es gibt 6 Einheiten in 3 + 3” aussprechen könnte. Und wie ich in dem einen Fall die Reihen im Permutationsschema zähle, so kann ich im andern die Striche im <img class="math math-inline" src="../math/d25c4af015996719.svg" alt="\begin{array}{ccc}|&amp;|&amp;|\\|&amp;|&amp;|\end{array}" style="width:3.624em;height:2.650em;vertical-align:-1.075em"> zählen.
+Man kann auch sagen, der Satz “es gibt 6 Permutationen von 3 Elementen” verhält sich genau so zum Satz “es sind 6 Leute im Zimmer”, wie der Satz 3 + 3 = 6, den man auch in der Form “es gibt 6 Einheiten in 3 + 3” aussprechen könnte. Und wie ich in dem einen Fall die Reihen im Permutationsschema zähle, so kann ich im andern die Striche im <img class="math math-inline" src="../math/d25c4af015996719.svg" alt="\begin{array}{ccc}|&amp;|&amp;|\\|&amp;|&amp;|\end{array}" style="width:3.624em;height:2.650em;vertical-align:-0.640em;margin:-0.495em 0 -0.435em"> zählen.
 
 ### [Ts-209](/ts-209/#51.6) <span class="fac">[51\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span>
 
-Wie ich 4 × 3 = 12 durch das Schema beweisen kann: <img class="math math-inline" src="../math/e513cb45b15381c9.svg" alt="\begin{array}{ccc}\text{o}&amp;\text{o}&amp;\text{o}\\\text{o}&amp;\text{o}&amp;\text{o}\\\text{o}&amp;\text{o}&amp;\text{o}\\\text{o}&amp;\text{o}&amp;\text{o}\end{array}" style="width:4.638em;height:5.450em;vertical-align:-2.475em">, so kann ich 3! = 6 durch das Permutationsschema beweisen.
+Wie ich 4 × 3 = 12 durch das Schema beweisen kann: <img class="math math-block math-display" src="../math/e513cb45b15381c9.svg" alt="\begin{array}{ccc}\text{o}&amp;\text{o}&amp;\text{o}\\\text{o}&amp;\text{o}&amp;\text{o}\\\text{o}&amp;\text{o}&amp;\text{o}\\\text{o}&amp;\text{o}&amp;\text{o}\end{array}" style="display:block;width:4.638em;height:5.450em">, so kann ich 3! = 6 durch das Permutationsschema beweisen.
 
 ### [Ts-209](/ts-209/#51.7) <span class="fac">[51\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/51.webp)</span>
 
@@ -3520,7 +3520,7 @@ Meine Auffassung aber ist: Man kann überhaupt nur endliche Reihen nebeneinander
 
 ### [Ts-209](/ts-209/#99.6) <span class="fac">[99\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/99.webp)</span>
 
-<span class="series-number">182</span> <img class="math math-inline" src="../math/3c8c61a4173b9e0d.svg" alt="\overset{\scriptstyle 5\to 3}{\sqrt{2}}" style="width:1.358em;height:1.997em;vertical-align:-0.165em"> Man möchte sagen, die einzelnen Ziffern sind immer nur die Resultate, die Rinde des fertigen Baumes. Das worauf es ankommt, oder woraus noch etwas Neues wachsen kann, ist im Innern des Stammes, wo die Triebkräfte sind. Eine Änderung des Äußern ändert den Baum überhaupt nicht. Um ihn zu ändern muß man in den noch lebenden Stamm gehen.
+<span class="series-number">182</span> <img class="math math-block math-display" src="../math/3c8c61a4173b9e0d.svg" alt="\overset{\scriptstyle 5\to 3}{\sqrt{2}}" style="display:block;width:1.358em;height:1.997em"> Man möchte sagen, die einzelnen Ziffern sind immer nur die Resultate, die Rinde des fertigen Baumes. Das worauf es ankommt, oder woraus noch etwas Neues wachsen kann, ist im Innern des Stammes, wo die Triebkräfte sind. Eine Änderung des Äußern ändert den Baum überhaupt nicht. Um ihn zu ändern muß man in den noch lebenden Stamm gehen.
 
 ### [Ts-209](/ts-209/#99.7) <span class="fac">[99\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/99.webp)</span>
 
@@ -3620,7 +3620,7 @@ Die Annäherung von x² an 2 nennen wir die Annäherung von x an √2.
 
 ### [Ts-209](/ts-209/#101.10) <span class="fac">[101\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span>
 
-<span class="series-number">186</span> Der Buchstabe π steht für ein Gesetz. Das Zeichen π' heißt nichts, wenn in dem Gesetz des π von keiner 7 die Rede ist, die man durch eine 3 ersetzen kann. Analoges gilt für <img class="math math-inline" src="../math/eb3720d1fe462a7f.svg" alt="\stack{\sqrt{2}}{\scriptstyle 3\to 5}" style="width:1.598em;height:1.542em;vertical-align:-0.359em">. (Dagegen könnte <img class="math math-inline" src="../math/3f18560b534eafd8.svg" alt="\stack{\sqrt{2}}{\scriptstyle 2\to 5}" style="width:1.598em;height:1.542em;vertical-align:-0.359em"> bedeuten √5.)
+<span class="series-number">186</span> Der Buchstabe π steht für ein Gesetz. Das Zeichen π' heißt nichts, wenn in dem Gesetz des π von keiner 7 die Rede ist, die man durch eine 3 ersetzen kann. Analoges gilt für <img class="math math-inline" src="../math/eb3720d1fe462a7f.svg" alt="\stack{\sqrt{2}}{\scriptstyle 3\to 5}" style="width:1.598em;height:1.542em;vertical-align:-0.359em;margin:-0.103em 0 -0.000em">. (Dagegen könnte <img class="math math-inline" src="../math/3f18560b534eafd8.svg" alt="\stack{\sqrt{2}}{\scriptstyle 2\to 5}" style="width:1.598em;height:1.542em;vertical-align:-0.359em;margin:-0.103em 0 -0.000em"> bedeuten √5.)
 
 ### [Ts-209](/ts-209/#101.11) <span class="fac">[101\[11\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/101.webp)</span>
 
@@ -3644,7 +3644,7 @@ Es ist klar, daß, wenn ich x' anwenden könnte, alle Zweifel über die Berechti
 
 ### [Ts-209](/ts-209/#102.6) <span class="fac">[102\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/102.webp)</span>
 
-Auch wenn mir die Bildungsvorschrift der √2 nicht bereits bekannt wäre und ich mir <img class="math math-inline math-stacked" src="../math/d60bf41518ce09ce.svg" alt="\overset{{\scriptstyle 7→3}}{\sqrt{2}}" style="width:1.358em;height:1.997em;vertical-align:-0.165em"> als die primäre Vorschrift denke, würde ich doch fragen: Was hat diese merkwürdige Zeremonie der Ersetzung der 7 durch 3 für einen Witz? Ist am Ende die 7 Tabu, daß man sie nicht hinschreiben darf? Denn das Ersetzen der 7 durch 3 fügt ja dem Gesetz gar nichts hinzu und ist in diesem System gar keine arithmetische Operation.
+Auch wenn mir die Bildungsvorschrift der √2 nicht bereits bekannt wäre und ich mir <img class="math math-block math-display" src="../math/d60bf41518ce09ce.svg" alt="\overset{{\scriptstyle 7→3}}{\sqrt{2}}" style="display:block;width:1.358em;height:1.997em"> als die primäre Vorschrift denke, würde ich doch fragen: Was hat diese merkwürdige Zeremonie der Ersetzung der 7 durch 3 für einen Witz? Ist am Ende die 7 Tabu, daß man sie nicht hinschreiben darf? Denn das Ersetzen der 7 durch 3 fügt ja dem Gesetz gar nichts hinzu und ist in diesem System gar keine arithmetische Operation.
 
 ### [Ts-209](/ts-209/#102.7) <span class="fac">[102\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/102.webp)</span>
 
@@ -4144,29 +4144,13 @@ Ich kann offenbar das Zeichen V einmal als ein v, einmal als ein A, als das Zeic
 
 ### [Ts-209](/ts-209/#116.2) <span class="fac">[116\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/116.webp)</span>
 
-<span class="series-number">207</span> Mit der Zusammengesetztheit der räumlichen Gebilde aus ihren kleineren räumlichen Bestandteilen verhält es sich so: Das größere geometrische Gebilde ist nicht aus kleineren _geometrischen_ Gebilden zusammengesetzt, ganz ebensowenig wie man sagen kann, daß 5 aus 3 und 2 zusammengesetzt ist, oder etwa gar 2 aus 5 und ‒ 3. Denn hier bedingt das Größere das Kleinere ganz ebenso, wie das Kleinere das Größere. Das Viereck
-
-![](../graphics/209,116-1.svg)
-
-ist nicht aus den Vierecken
+<span class="series-number">207</span> Mit der Zusammengesetztheit der räumlichen Gebilde aus ihren kleineren räumlichen Bestandteilen verhält es sich so: Das größere geometrische Gebilde ist nicht aus kleineren _geometrischen_ Gebilden zusammengesetzt, ganz ebensowenig wie man sagen kann, daß 5 aus 3 und 2 zusammengesetzt ist, oder etwa gar 2 aus 5 und ‒ 3. Denn hier bedingt das Größere das Kleinere ganz ebenso, wie das Kleinere das Größere. Das Viereck <img class="graphic graphic-inline" src="../graphics/209,116-1.svg" alt="" style="width:2.200em;height:1.325em;vertical-align:-0.412em"> ist nicht aus den Vierecken
 
 ![](../graphics/209,116-2.svg)
 
 ![](../graphics/209,116-3.svg)
 
-zusammengesetzt, vielmehr bedingt die erste geometrische Figur die beiden andern und umgekehrt. Hier hätte also Nicod recht wenn er sagt, daß die größere Figur nicht die kleineren als Bestandteile enthält. Anders aber ist es im erfüllten Raum: Die Figur
-
-![](../graphics/209,116-4.svg)
-
-besteht tatsächlich aus den Bestandteilen
-
-![](../graphics/209,116-5.svg)
-
-und
-
-![](../graphics/209,116-6.svg)<span class="post-block-punct">,</span>
-
-obwohl die rein geometrische Figur des großen Quadrats _nicht_ aus den Figuren der beiden Rechtecke besteht. Diese “rein geometrischen Figuren” sind ja nur logische Möglichkeiten. – Man kann nun tatsächlich ein materielles Schachbrett als Einheit – nicht aus seinen Feldern zusammengesetzt – sehen, indem man es als ein großes Viereck sieht und von seinen Feldern absieht. – Sieht man aber von seinen Feldern nicht ab, dann ist es ein Komplex und die Felder sind seine Bestandteile, die es konstituieren, um die Ausdrucksweise Nicod's anzuwenden. (Was es übrigens heißen soll, daß etwas von irgendwelchen Gegenständen “determiniert” aber nicht “konstituiert” wird, kann ich nicht verstehen. Diese beiden Ausdrücke, wenn sie überhaupt einen Sinn haben, haben denselben.) Ein Intellekt der die Bestandteile und ihre Relationen übersieht, das Ganze aber nicht, ist ein Unding. Wenn jeder Punkt im Gesichtsraum ein ausgezeichneter Punkt ist, so hat es allerdings einen Sinn von Hier und Dort im Gesichtsraum zu sprechen und das scheint mir jetzt die Darstellung der visuellen Sachverhalte einfacher zu gestalten. Aber ist diese Eigenschaft der ausgezeichneten Punkte für den Gesichtsraum wirklich wesentlich; ich meine, könnten wir uns nicht einen Gesichtsraum denken, in dem man nur gewisse Lagenverhältnisse, aber keine absolute Lage wahrnähme, d.h., könnten wir uns so eine Erfahrung ausmalen? Etwa in dem Sinn, wie wir uns die Erfahrungen eines Einäugigen vorstellen können –? Ich glaube nicht. Man könnte z.B. eine Drehung des ganzen Gesichtsbildes nicht wahrnehmen, oder vielmehr, sie wäre nicht denkbar. Wie würde etwa der Zeiger einer Uhr aussehen, der sich dem Zifferblatt entlang bewegt? (Ich nehme an, daß das Zifferblatt, wie bei manchen großen Uhren nur Punkte aber keine Ziffern hat.) Wir würden dann zwar die Bewegung von einem Punkt zum andern wahrnehmen – wenn sie nicht in _einem_ Ruck geschieht – aber wenn der Zeiger in einem Punkt angelangt wäre, so könnten wir seine Lage von der im vorigen Punkt nicht unterscheiden. Ich glaube es zeigt sich, daß das mit unserem Gesichtssinn nicht vorstellbar ist.
+zusammengesetzt, vielmehr bedingt die erste geometrische Figur die beiden andern und umgekehrt. Hier hätte also Nicod recht wenn er sagt, daß die größere Figur nicht die kleineren als Bestandteile enthält. Anders aber ist es im erfüllten Raum: Die Figur <img class="graphic graphic-inline" src="../graphics/209,116-4.svg" alt="" style="width:2.200em;height:1.325em;vertical-align:-0.412em"> besteht tatsächlich aus den Bestandteilen <img class="graphic graphic-inline" src="../graphics/209,116-5.svg" alt="" style="width:1.325em;height:1.325em;vertical-align:-0.412em"> und <img class="graphic graphic-inline" src="../graphics/209,116-6.svg" alt="" style="width:1.325em;height:1.325em;vertical-align:-0.412em">, obwohl die rein geometrische Figur des großen Quadrats _nicht_ aus den Figuren der beiden Rechtecke besteht. Diese “rein geometrischen Figuren” sind ja nur logische Möglichkeiten. – Man kann nun tatsächlich ein materielles Schachbrett als Einheit – nicht aus seinen Feldern zusammengesetzt – sehen, indem man es als ein großes Viereck sieht und von seinen Feldern absieht. – Sieht man aber von seinen Feldern nicht ab, dann ist es ein Komplex und die Felder sind seine Bestandteile, die es konstituieren, um die Ausdrucksweise Nicod's anzuwenden. (Was es übrigens heißen soll, daß etwas von irgendwelchen Gegenständen “determiniert” aber nicht “konstituiert” wird, kann ich nicht verstehen. Diese beiden Ausdrücke, wenn sie überhaupt einen Sinn haben, haben denselben.) Ein Intellekt der die Bestandteile und ihre Relationen übersieht, das Ganze aber nicht, ist ein Unding. Wenn jeder Punkt im Gesichtsraum ein ausgezeichneter Punkt ist, so hat es allerdings einen Sinn von Hier und Dort im Gesichtsraum zu sprechen und das scheint mir jetzt die Darstellung der visuellen Sachverhalte einfacher zu gestalten. Aber ist diese Eigenschaft der ausgezeichneten Punkte für den Gesichtsraum wirklich wesentlich; ich meine, könnten wir uns nicht einen Gesichtsraum denken, in dem man nur gewisse Lagenverhältnisse, aber keine absolute Lage wahrnähme, d.h., könnten wir uns so eine Erfahrung ausmalen? Etwa in dem Sinn, wie wir uns die Erfahrungen eines Einäugigen vorstellen können –? Ich glaube nicht. Man könnte z.B. eine Drehung des ganzen Gesichtsbildes nicht wahrnehmen, oder vielmehr, sie wäre nicht denkbar. Wie würde etwa der Zeiger einer Uhr aussehen, der sich dem Zifferblatt entlang bewegt? (Ich nehme an, daß das Zifferblatt, wie bei manchen großen Uhren nur Punkte aber keine Ziffern hat.) Wir würden dann zwar die Bewegung von einem Punkt zum andern wahrnehmen – wenn sie nicht in _einem_ Ruck geschieht – aber wenn der Zeiger in einem Punkt angelangt wäre, so könnten wir seine Lage von der im vorigen Punkt nicht unterscheiden. Ich glaube es zeigt sich, daß das mit unserem Gesichtssinn nicht vorstellbar ist.
 
 ### [Ts-209](/ts-209/#116.3) <span class="fac">[116\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/116.webp)</span>
 
@@ -4714,11 +4698,7 @@ Wenn ich behaupte “das ist die Regel”, so hat das nur so lange Sinn, als ich
 
 ### [Ts-209](/ts-209/#136.6) <span class="fac">[136\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/136.webp)</span>
 
-<span class="series-number">236</span> Ich kann von einer Linie sagen, der allgemeine Eindruck ist der einer Geraden, aber nicht von der Linie
-
-![](../graphics/209,136-2.svg)<span class="post-block-punct">,</span>
-
-obwohl es möglich wäre, dieses Stück im Laufe eines langen Linienstückes zu sehen, in dem sich seine Abweichung von der Geraden verlieren würde. Ich meine: Nur von dem wirklich gesehenen Stück hat es Sinn zu sagen, es mache den allgemeinen Eindruck einer Geraden, und nicht von einem hypothetisch angenommenen.
+<span class="series-number">236</span> Ich kann von einer Linie sagen, der allgemeine Eindruck ist der einer Geraden, aber nicht von der Linie <img class="graphic graphic-inline" src="../graphics/209,136-2.svg" alt="" style="width:11.749em;height:2.221em;vertical-align:-0.640em;margin:-0.281em 0 -0.221em">, obwohl es möglich wäre, dieses Stück im Laufe eines langen Linienstückes zu sehen, in dem sich seine Abweichung von der Geraden verlieren würde. Ich meine: Nur von dem wirklich gesehenen Stück hat es Sinn zu sagen, es mache den allgemeinen Eindruck einer Geraden, und nicht von einem hypothetisch angenommenen.
 
 ### [Ts-209](/ts-209/#136.7) <span class="fac">[136\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-209/136.webp)</span>
 

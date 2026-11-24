@@ -1060,7 +1060,7 @@ Ein unentschiedener Satz der Mathematik ist etwas, was weder als Regel, noch als
 
 ### [Ms-124](/ms-124/#135.3) <span class="fac">[135\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/135.webp)</span>
 
-Denke Dir den <img class="math math-inline math-stacked" src="../math/3c47eeb31a95a6ca.svg" alt="\lim\limits&#95;{n→∞}\;\varphi n=ℓ" style="width:5.044em;height:1.435em;vertical-align:-0.709em"> als eine Eigenschaft eines Musikstücks (etwa). Aber natürlich nicht _so_ daß das Stück endlos weiterliefe, sondern als eine dem Ohr erkennbare Eigenschaft (gleichsam _algebraische_ Eigenschaft) des Stückes.
+Denke Dir den <img class="math math-inline math-stacked" src="../math/3c47eeb31a95a6ca.svg" alt="\lim\limits&#95;{n→∞}\;\varphi n=ℓ" style="width:5.044em;height:1.435em;vertical-align:-0.640em;margin:-0.000em 0 -0.069em"> als eine Eigenschaft eines Musikstücks (etwa). Aber natürlich nicht _so_ daß das Stück endlos weiterliefe, sondern als eine dem Ohr erkennbare Eigenschaft (gleichsam _algebraische_ Eigenschaft) des Stückes.
 
 ### [Ms-124](/ms-124/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/137.webp)</span>
 
@@ -1380,13 +1380,7 @@ Der Forscher könnte sagen: “Sie folgen Regeln, aber es sieht doch ganz anders
 
 <span class="series-number">61</span> 21.03.1944
 
-Eine Addition von Formen, in der gewisse Glieder verschmelzen spielt in unserm Leben eine sehr geringe Rolle. – Wie wenn
-
-![](../graphics/124,165-1.svg) <span class="post-block-punct">&</span>
-
-![](../graphics/124,165-2.svg)
-
-die Figur
+Eine Addition von Formen, in der gewisse Glieder verschmelzen spielt in unserm Leben eine sehr geringe Rolle. – Wie wenn <img class="graphic graphic-inline" src="../graphics/124,165-1.svg" alt="" style="width:2.965em;height:2.568em;vertical-align:-0.640em;margin:-0.426em 0 -0.421em"> & <img class="graphic graphic-inline" src="../graphics/124,165-2.svg" alt="" style="width:1.826em;height:1.581em;vertical-align:-0.541em"> die Figur
 
 ![](../graphics/124,165-3.svg)
 

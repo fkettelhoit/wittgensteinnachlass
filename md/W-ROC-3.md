@@ -106,15 +106,7 @@ Aber auch das reine Gelb ist heller als das reine, satte Rot, oder Blau. Und ist
 
 ### [Ms-173](/ms-173/#5r.2) <span class="fac">[5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/5r.webp)</span>
 
-<span class="series-number">24</span> Warum ist ein durchsichtiges Weiß nicht möglich? – Mal einen durchsichtigen roten Körper, & dann ersetz Rot durch Weiß! Schwarz & Weiß haben selbst ihre Hand im Spiele bei der Durchsichtigkeit einer Farbe. Ersetzt Du das Rot durch Weiß, so kommt der Eindruck der Durchsichtigkeit nicht (mehr) zu Stande; wie der Eindruck der Körperlichkeit nicht, wenn Du aus der Zeichnung
-
-![](../graphics/173,5r-1.svg)
-
-die Zeichnung
-
-![](../graphics/173,5r-2.svg)
-
-machst.
+<span class="series-number">24</span> Warum ist ein durchsichtiges Weiß nicht möglich? – Mal einen durchsichtigen roten Körper, & dann ersetz Rot durch Weiß! Schwarz & Weiß haben selbst ihre Hand im Spiele bei der Durchsichtigkeit einer Farbe. Ersetzt Du das Rot durch Weiß, so kommt der Eindruck der Durchsichtigkeit nicht (mehr) zu Stande; wie der Eindruck der Körperlichkeit nicht, wenn Du aus der Zeichnung <img class="graphic graphic-inline" src="../graphics/173,5r-1.svg" alt="" style="width:3.393em;height:2.626em;vertical-align:-0.640em;margin:-0.456em 0 -0.451em"> die Zeichnung <img class="graphic graphic-inline" src="../graphics/173,5r-2.svg" alt="" style="width:2.881em;height:2.020em;vertical-align:-0.640em;margin:-0.180em 0 -0.120em"> machst.
 
 ### [Ms-173](/ms-173/#5v.1) <span class="fac">[5v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/5v.webp)</span>
 

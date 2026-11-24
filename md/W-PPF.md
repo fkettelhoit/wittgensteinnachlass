@@ -480,11 +480,7 @@ Uns interessiert der Begriff & seine Stellung in den Erfahrungsbegriffen.
 
 ### [Ms-144](/ms-144/#24r.6+24v.1) <span class="fac">[24r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24r.webp),[24v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)</span>
 
-Man könnte sich denken, daß an mehreren Stellen eines Buches, z.B. eines Lehrbuchs, die Illustration
-
-![](../graphics/144,24r.svg)
-
-stünde. Im dazugehörigen Text ist jedesmal von etwas anderem die Rede: Einmal von einem Glaswürfel, einmal von einer umgestülpten offenen Kiste, einmal von einem Drahtgestell, das diese Form hat, einmal von drei Brettern, die ein Raumeck bilden. Der Text deutet jedesmal die Illustration. Aber wir können auch die Illustration einmal als das eine, einmal als das andre Ding _sehen_. – Wir deuten sie also, & _sehen_ sie, wie wir sie _deuten_.
+Man könnte sich denken, daß an mehreren Stellen eines Buches, z.B. eines Lehrbuchs, die Illustration <img class="graphic graphic-inline" src="../graphics/144,24r.svg" alt="" style="width:1.592em;height:1.592em;vertical-align:-0.546em"> stünde. Im dazugehörigen Text ist jedesmal von etwas anderem die Rede: Einmal von einem Glaswürfel, einmal von einer umgestülpten offenen Kiste, einmal von einem Drahtgestell, das diese Form hat, einmal von drei Brettern, die ein Raumeck bilden. Der Text deutet jedesmal die Illustration. Aber wir können auch die Illustration einmal als das eine, einmal als das andre Ding _sehen_. – Wir deuten sie also, & _sehen_ sie, wie wir sie _deuten_.
 
 ### [Ms-144](/ms-144/#24v.2) <span class="fac">[24v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/24v.webp)</span>
 
@@ -500,11 +496,7 @@ Und ich muß zwischen dem ‘stätigen Sehen’ eines Aspekts & dem ‘Aufleucht
 
 ### [Ms-144](/ms-144/#25r.2) <span class="fac">[25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)</span>
 
-Es ist hier nützlich, den Begriff des Bildgegenstandes einzuführen. Ein ‘Bildgesicht’ z.B. wäre die Figur
-
-![](../graphics/144,25r.svg)<span class="post-block-punct">.</span>
-
-Ich verhalte mich zu ihm in mancher Beziehung wie zu einem menschlichen Gesicht. Ich kann seinen Ausdruck studieren, auf ihn wie auf den Ausdruck des Menschengesichtes reagieren. Ein Kind kann zum Bildmenschen, oder Bildtier reden, sie behandeln, wie es Puppen behandelt.
+Es ist hier nützlich, den Begriff des Bildgegenstandes einzuführen. Ein ‘Bildgesicht’ z.B. wäre die Figur <img class="graphic graphic-inline" src="../graphics/144,25r.svg" alt="" style="width:1.264em;height:1.264em;vertical-align:-0.382em">. Ich verhalte mich zu ihm in mancher Beziehung wie zu einem menschlichen Gesicht. Ich kann seinen Ausdruck studieren, auf ihn wie auf den Ausdruck des Menschengesichtes reagieren. Ein Kind kann zum Bildmenschen, oder Bildtier reden, sie behandeln, wie es Puppen behandelt.
 
 ### [Ms-144](/ms-144/#25r.3) <span class="fac">[25r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/25r.webp)</span>
 
@@ -638,15 +630,7 @@ Halte die Zeichnung eines Gesichts verkehrt & Du kannst den Ausdruck des Gesicht
 
 ### [Ms-144](/ms-144/#28v.1) <span class="fac">[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span>
 
-Die Figur a)
-
-![](../graphics/144,28v-1.svg)
-
-ist die Umkehrung der Figur b)
-
-![](../graphics/144,28v-2.svg)<span class="post-block-punct">,</span>
-
-wie die Figur c) <img class="math math-inline math-drawing" src="../math/d2ad9738e820c070.svg" alt="“Freude” in mirror writing, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em"> die Umkehrung von d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. Aber zwischen meinem Eindruck von c & d besteht ein anderer Unterschied – möchte ich sagen – als zwischen dem von a & von b. (d sieht z.B. ordentlicher aus, als c. Vergleiche eine Bemerkung von Lewis Carrol.) d ist leicht zu kopieren, c schwer.
+Die Figur a) <img class="graphic graphic-inline" src="../graphics/144,28v-1.svg" alt="" style="width:1.431em;height:2.279em;vertical-align:-0.640em;margin:-0.309em 0 -0.249em"> ist die Umkehrung der Figur b) <img class="graphic graphic-inline" src="../graphics/144,28v-2.svg" alt="" style="width:1.431em;height:2.279em;vertical-align:-0.640em;margin:-0.309em 0 -0.249em">, wie die Figur c) <img class="math math-inline math-drawing" src="../math/d2ad9738e820c070.svg" alt="“Freude” in mirror writing, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em"> die Umkehrung von d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. Aber zwischen meinem Eindruck von c & d besteht ein anderer Unterschied – möchte ich sagen – als zwischen dem von a & von b. (d sieht z.B. ordentlicher aus, als c. Vergleiche eine Bemerkung von Lewis Carrol.) d ist leicht zu kopieren, c schwer.
 
 ### [Ms-144](/ms-144/#28v.2) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span>
 
@@ -690,11 +674,7 @@ Es ist hier für uns die ungeheure Gefahr: feine Unterschiede machen zu wollen. 
 
 ### [Ms-144](/ms-144/#29v.5+30r.1) <span class="fac">[29v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp),[30r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)</span>
 
-Betrachte nun als Beispiel die Aspekte des Dreiecks. Das Dreieck
-
-![](../graphics/144,29v.svg)
-
-kann gesehen werden: als dreieckiges Loch, als Körper, als geometrische Zeichnung; auf seiner Grundlinie stehend, an seiner Spitze aufgehängt; als Berg, als Keil, als Pfeil oder Zeiger; als ein umgefallener Körper, der (z.B.) auf der kürzeren Kathete stehen sollte, als ein halbes Parallelogramm, & verschiedenes andres.
+Betrachte nun als Beispiel die Aspekte des Dreiecks. Das Dreieck <img class="graphic graphic-inline" src="../graphics/144,29v.svg" alt="" style="width:4.084em;height:2.015em;vertical-align:-0.640em;margin:-0.178em 0 -0.118em"> kann gesehen werden: als dreieckiges Loch, als Körper, als geometrische Zeichnung; auf seiner Grundlinie stehend, an seiner Spitze aufgehängt; als Berg, als Keil, als Pfeil oder Zeiger; als ein umgefallener Körper, der (z.B.) auf der kürzeren Kathete stehen sollte, als ein halbes Parallelogramm, & verschiedenes andres.
 
 ### [Ms-144](/ms-144/#30r.2) <span class="fac">[30r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/30r.webp)</span>
 
@@ -798,11 +778,7 @@ Das erste, was mir an diesem Bild in die Augen springt, ist: es sind zwei Sechse
 
 ### [Ms-144](/ms-144/#33r.3) <span class="fac">[33r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33r.webp)</span>
 
-Einer sagt mir: “Ich habe es sofort als zwei Sechsecke gesehen. Ja das war _alles, was_ ich gesehen habe.” Aber wie verstehe ich das? Ich denke, er hätte auf die Frage “Was siehst Du?” gleich mit dieser Beschreibung geantwortet, auch hätte er sie nicht als eine von mehreren möglichen behandelt. Sie ist darin gleich der Antwort “Ein Gesicht”, wenn ich ihm die Figur
-
-![](../graphics/144,33r.svg)
-
-gezeigt hätte.
+Einer sagt mir: “Ich habe es sofort als zwei Sechsecke gesehen. Ja das war _alles, was_ ich gesehen habe.” Aber wie verstehe ich das? Ich denke, er hätte auf die Frage “Was siehst Du?” gleich mit dieser Beschreibung geantwortet, auch hätte er sie nicht als eine von mehreren möglichen behandelt. Sie ist darin gleich der Antwort “Ein Gesicht”, wenn ich ihm die Figur <img class="graphic graphic-inline" src="../graphics/144,33r.svg" alt="" style="width:1.521em;height:1.521em;vertical-align:-0.510em"> gezeigt hätte.
 
 ### [Ms-144](/ms-144/#33v.2) <span class="fac">[33v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/33v.webp)</span>
 
@@ -880,15 +856,7 @@ Frage Dich nun nicht “Wie geht es mit _mir_?” – Frage: “Was weiß ich vo
 
 ### [Ms-144](/ms-144/#34v.4) <span class="fac">[34v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span>
 
-Wie spielt man denn das Spiel: “Es könnte auch _das_ sein”? (_Das_, was die Figur auch sein könnte – & das ist das, als was sie gesehen werden kann – ist nicht einfach eine andere Figur. Wer sagt “Ich sehe
-
-![](../graphics/144,34v-2.svg)
-
-als
-
-![](../graphics/144,34v-2.svg)<span class="post-block-punct">”,</span>
-
-könnte noch sehr Verschiedenes meinen.) Kinder spielen dieses Spiel. Sie sagen von einer Kiste z.B., sie ist jetzt ein Haus; & sie wird darauf ganz als ein Haus ausgedeutet & eine Erfindung um sie gewoben.
+Wie spielt man denn das Spiel: “Es könnte auch _das_ sein”? (_Das_, was die Figur auch sein könnte – & das ist das, als was sie gesehen werden kann – ist nicht einfach eine andere Figur. Wer sagt “Ich sehe <img class="graphic graphic-inline" src="../graphics/144,34v-2.svg" alt="" style="width:4.084em;height:2.015em;vertical-align:-0.640em;margin:-0.178em 0 -0.118em"> als <img class="graphic graphic-inline" src="../graphics/144,34v-2.svg" alt="" style="width:4.084em;height:2.015em;vertical-align:-0.640em;margin:-0.178em 0 -0.118em">”, könnte noch sehr Verschiedenes meinen.) Kinder spielen dieses Spiel. Sie sagen von einer Kiste z.B., sie ist jetzt ein Haus; & sie wird darauf ganz als ein Haus ausgedeutet & eine Erfindung um sie gewoben.
 
 ### [Ms-144](/ms-144/#34v.5) <span class="fac">[34v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span>
 

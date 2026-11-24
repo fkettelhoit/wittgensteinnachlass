@@ -1596,7 +1596,7 @@ Eines ist in Gedanken säen, eines, in Gedanken ernten.
 
 ### [Ms-132](/ms-132/#62.1) <span class="fac">[62\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-132/62.webp)</span>
 
-Die beiden letzten Takte des “Tod & Mädchen” Themas, das <img class="math math-inline" src="../math/457e26494f8272d7.svg" alt="\sim" style="width:0.758em;height:0.174em;vertical-align:--0.163em">; man kann zuerst meinen, daß diese Figur konventionell, gewöhnlich, ist, bis man ihren tiefern Ausdruck versteht. D.h., bis man versteht, daß hier das gewöhnliche sinnerfüllt ist.
+Die beiden letzten Takte des “Tod & Mädchen” Themas, das <img class="math math-inline" src="../math/457e26494f8272d7.svg" alt="\sim" style="width:0.758em;height:0.174em;vertical-align:0.163em">; man kann zuerst meinen, daß diese Figur konventionell, gewöhnlich, ist, bis man ihren tiefern Ausdruck versteht. D.h., bis man versteht, daß hier das gewöhnliche sinnerfüllt ist.
 
 ### [Ms-132](/ms-132/#62.2+63.1) <span class="fac">[62\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-132/62.webp),[63\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-132/63.webp)</span>
 

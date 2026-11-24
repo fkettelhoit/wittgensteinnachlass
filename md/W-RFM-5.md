@@ -772,7 +772,7 @@ Aber die Gerade ist ein _Gesetz_ des Fortschreitens.*
 
 ### [Ms-127](/ms-127/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/17.webp)</span>
 
-Der Begriff des Limes & der Stätigkeit, wie sie heute eingeführt werden, hängen, ohne daß dies ausgesprochen wird mit dem Begriff des _Beweises_ zusammen. Denn wir sagen <img class="math math-inline math-stacked" src="../math/0ac3a121818fc783.svg" alt="\lim\limits&#95;{x→∞}\;f(x)=ℓ" style="width:5.571em;height:1.444em;vertical-align:-0.711em">, wenn _bewiesen_ werden kann, daß … Das heißt, wir gebrauchen Begriffe, die unendlich viel schwerer zu fassen sind als die, die wir offen herzeigen.
+Der Begriff des Limes & der Stätigkeit, wie sie heute eingeführt werden, hängen, ohne daß dies ausgesprochen wird mit dem Begriff des _Beweises_ zusammen. Denn wir sagen <img class="math math-inline math-stacked" src="../math/0ac3a121818fc783.svg" alt="\lim\limits&#95;{x→∞}\;f(x)=ℓ" style="width:5.571em;height:1.444em;vertical-align:-0.640em;margin:-0.000em 0 -0.071em">, wenn _bewiesen_ werden kann, daß … Das heißt, wir gebrauchen Begriffe, die unendlich viel schwerer zu fassen sind als die, die wir offen herzeigen.
 
 ### [Ms-127](/ms-127/#20.2+21.1+21.2+22.1) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/20.webp),[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/22.webp)</span>
 
@@ -878,9 +878,9 @@ Das Irreführende der üblichen Darstellung besteht darin, daß es scheint, als 
 
 Vergleiche die beiden Formen der Erklärung:
 
-“Wir sagen <img class="math math-inline" src="../math/c85529e0ed3a6fd3.svg" alt="\lim\limits&#95;{x\to\infty}\Phi(x)=L" style="width:5.907em;height:1.437em;vertical-align:-0.711em">,
+“Wir sagen <img class="math math-inline" src="../math/c85529e0ed3a6fd3.svg" alt="\lim\limits&#95;{x\to\infty}\Phi(x)=L" style="width:5.907em;height:1.437em;vertical-align:-0.640em;margin:-0.000em 0 -0.071em">,
 
-_wenn es sich zeigen läßt_, daß ‥‥”, & “<img class="math math-inline math-stacked" src="../math/e9602b6b8807cdbf.svg" alt="\lim\limits&#95;{n→∞}\;\Phi(n)=L" style="width:6.281em;height:1.435em;vertical-align:-0.709em"> heißt:
+_wenn es sich zeigen läßt_, daß ‥‥”, & “<img class="math math-inline math-stacked" src="../math/e9602b6b8807cdbf.svg" alt="\lim\limits&#95;{n→∞}\;\Phi(n)=L" style="width:6.281em;height:1.435em;vertical-align:-0.640em;margin:-0.000em 0 -0.069em"> heißt:
 
 _es gibt für jedes_ ε ein δ‥‥”
 

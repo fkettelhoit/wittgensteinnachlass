@@ -1332,11 +1332,7 @@ Nehmen wir an: Früher teilte ich manchmal so durch 3:
 
 ![](../graphics/117,209-1.svg)
 
-manchmal so:
-
-![](../graphics/117,209-2.svg)
-
-und merkte es nicht. – Dann macht mich jemand darauf aufmerksam. Auf einen Fehler? Ist es unbedingt ein Fehler? Und unter welchen Umständen nennen wir es so?
+manchmal so: <img class="graphic graphic-inline" src="../graphics/117,209-2.svg" alt="" style="width:9.179em;height:2.751em;vertical-align:-0.640em;margin:-0.518em 0 -0.513em"> und merkte es nicht. – Dann macht mich jemand darauf aufmerksam. Auf einen Fehler? Ist es unbedingt ein Fehler? Und unter welchen Umständen nennen wir es so?
 
 ### [Ms-117](/ms-117/#222.2) <span class="fac">[222\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/222.webp)</span>
 
