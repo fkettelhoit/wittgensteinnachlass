@@ -131,7 +131,7 @@ fn generate_doc_svg(
     let doc = parse::parse_source_doc(doc_path);
 
     // Find which works reference this document
-    let slugs = parse::parse_doc_work_slugs(doc_path);
+    let slugs = parse::doc_work_slugs(&doc);
     if slugs.is_empty() {
         return None;
     }
@@ -159,7 +159,7 @@ fn generate_doc_svg(
     }
 
     // Build correspondences
-    let correspondences = parse::build_doc_correspondence(&doc_stem, &doc, &works);
+    let correspondences = parse::build_doc_correspondence(&doc, &works);
     // Per-work correspondence counts
     let mut work_corr_counts: HashMap<String, usize> = HashMap::new();
     for c in &correspondences {

@@ -673,7 +673,7 @@ pub fn render_doc(
         }
         let first_y = layout.entry_ys[0];
 
-        // Work title (use German title from work file)
+        // Work title (its abbreviation)
         let work_title_y = first_y - TITLE_OFFSET + TITLE_FONT_SIZE * 0.8;
         let display_title = work_titles
             .get(work_name)
