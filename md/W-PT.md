@@ -1248,7 +1248,7 @@ Darum können sie nicht zusammengesetzt sein.
 
 <span class="series-number">4˙09,2</span> „Kann man sich nicht mit falschen Sätzen, wie bisher mit wahren verständigen? solange man nur weiß daß sie falsch gemeint sind.”
 
-4˙092 Nein! Denn wahr ist ein Satz wenn es sich so verhält wie wir es durch ihn sagen; und wenn wir mit „q” ~q meinen und es sich so verhält wie wir es meinen so ist „q” in der neuen Auffassung wahr und nicht falsch.
+<span class="series-number">4˙092</span> Nein! Denn wahr ist ein Satz wenn es sich so verhält wie wir es durch ihn sagen; und wenn wir mit „q” ~q meinen und es sich so verhält wie wir es meinen so ist „q” in der neuen Auffassung wahr und nicht falsch.
 
 ### [Ms-104](/ms-104/#28.6) <span class="fac">[28\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span> {#ms-104-28-6}
 

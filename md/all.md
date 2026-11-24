@@ -6,7 +6,7 @@
 
 ### [Last Writings on the Philosophy of Psychology](W-LW.md)
 
-- 1948–1951, 1600 remarks
+- 1948–1951, 1601 remarks
 
 ### [Remarks on Colour](W-ROC.md)
 
@@ -113,7 +113,7 @@
 
 ### [Ms-137](Ms-137.md)
 
-- 1443 remarks, 'R'; 1948-49
+- 1444 remarks, 'R'; 1948-49
 - published in parts in 'Last Writings on the Philosophy of Psychology' vol. 1
 
 ## 1948

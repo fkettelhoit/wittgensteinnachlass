@@ -450,7 +450,7 @@ It seems as if the assertion “I believe” is not the assertion of what the as
 
 ### [Ms-144](/ms-144/#21r.3) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r-3}
 
-Likewise: The statement “I believe it will rain” has a similar sense, i.e., similar use, as “It will rain,” but “I believed then that it would rain” does not have a similar sense as “It rained then.” “But surely ‘I believed’ must state _that_ in the past which ‘I believe’ states in the present!” — Surely √‒1 must mean for ‒1 what √1 means for 1! That means absolutely nothing.
+Likewise: The statement “I believe it will rain” has a similar sense, i.e., similar use, as “It will rain,” but “I believed then that it would rain” does not have a similar sense as “It rained then.” “But surely ‘I believed’ must state _that_ in the past which ‘I believe’ states in the present!” — Surely <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em"> must mean for ‒1 what √1 means for 1! That means absolutely nothing.
 
 
 ### [Ms-144](/ms-144/#21r.4+21v.1) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21r-4--21v-1}

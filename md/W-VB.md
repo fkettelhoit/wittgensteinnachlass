@@ -710,7 +710,7 @@ In den Zeiten der stummen Filme hat man alle Klassiker zu den Filmen gespielt ab
 
 ### [Ms-116](/ms-116/#56.2) <span class="fac">[56\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-116/56.webp)</span> {#ms-116-56-2}
 
-<span class="series-number">2</span> Die seltsame Ähnlichkeit einer philosophischen Untersuchung (vielleicht besonders in der Mathematik) mit einer ästhetischen. (Z.B., was an diesem Kleid schlecht ist, wie es gehörte, etc..)
+Die seltsame Ähnlichkeit einer philosophischen Untersuchung (vielleicht besonders in der Mathematik) mit einer ästhetischen. (Z.B., was an diesem Kleid schlecht ist, wie es gehörte, etc..)
 
 ### [Ms-157a](/ms-157a/#57r.3) <span class="fac">[57r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-157a/57r.webp)</span> {#ms-157a-57r-3}
 

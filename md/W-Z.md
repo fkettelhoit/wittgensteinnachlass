@@ -1908,7 +1908,7 @@ Ausdehnung eines Begriffs in einer _Theorie_ (z.B. ‘Wunschtraum’).
 
 <span class="series-number">457</span> _(Vorwort)_
 
-311 …quia plus loquitur inquisitio quam inventio … (Augustinus)
+…quia plus loquitur inquisitio quam inventio … (Augustinus)
 
 ### [Ts-233b](/ts-233b/#20.2) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/20.webp)</span> {#ts-233b-20-2}
 
@@ -2688,7 +2688,7 @@ Die Sprachspiele mit den beiden Begriffen sind grundverschieden, – hängen zus
 
 <span class="series-number">647</span> Ich könnte mir etwas Ähnliches für wirkliche Spiele denken.
 
-### [Ts-233b](/ts-233b/#IIIv.1) <span class="fac">[IIIv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/IIIv.webp)</span> {#ts-233b-iiiv-1}
+### [Ts-233b](/ts-233b/#IIIv.1) <span class="fac">[IIIv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/pocket5.webp)</span> {#ts-233b-iiiv-1}
 
 <span class="series-number">648</span> Ein Sprachspiel analog einem Fragment eines andern. Ein Raum in begrenzte Stücke eines Raums projiziert. Ein ‘löchriger’ Raum.
 
@@ -2974,6 +2974,6 @@ Wer ihnen zusähe, fände es schwer, zu erraten, was sie tun. Und sie könnten e
 
 <span class="series-number">716</span> Wie ist es mit den beiden Sätzen: “dieses Blatt ist rot” und “dieses Blatt hat die Farbe, die auf Deutsch ‘rot’ heißt”? Sagen beide _dasselbe?_ Hängt das nicht davon ab, was das Kriterium dafür ist, daß eine Farbe auf Deutsch ‘rot’ heißt?
 
-### [Ts-233b](/ts-233b/#IIIr.3) <span class="fac">[IIIr\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/IIIr.webp)</span> {#ts-233b-iiir-3}
+### [Ts-233b](/ts-233b/#IIIr.3) <span class="fac">[IIIr\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/pocket3.webp)</span> {#ts-233b-iiir-3}
 
 <span class="series-number">717</span> “Gott kannst du nicht mit einem Anderen reden hören, sondern nur, wenn du der Angeredete bist.“ Das ist eine grammatische Bemerkung.

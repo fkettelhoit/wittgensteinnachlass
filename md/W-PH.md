@@ -348,7 +348,7 @@ Man hört immer wieder die _Bemerkung_, daß die Philosophie eigentlich keinen F
 
 Ich lese “‥‥ philosophers are no nearer to the meaning of ‘Reality’ than Plato got ‥‥․”. Welche seltsame Sachlage. Wie sonderbar, daß Plato dann überhaupt so weit kommen konnte! Oder, daß wir dann nicht weiter kommen konnten! War es, weil Plato _so_ gescheit war?
 
-### [Ts-213](/ts-213/#424r.3+425.1) <span class="fac">[424r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/424r.webp),[425\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/425.webp)</span> {#ts-213-424r-3--425-1}
+### [Ts-213](/ts-213/#424r.3+425.1) <span class="fac">[424r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/424r.webp),[425\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-213/425r.webp)</span> {#ts-213-424r-3--425-1}
 
 Der Konflikt, in welchem wir uns in logischen Betrachtungen immer wieder befinden, ist wie der Konflikt zweier Personen, die miteinander einen Vertrag abgeschlossen haben, dessen letzte Formulierungen in leicht mißdeutbaren _Worten_ niedergelegt sind, wogegen die Erläuterungen zu diesen Formulierungen alles in unmißverständlicher Weise erklären. Die eine der beiden Personen nun hat ein kurzes Gedächtnis, vergißt die Erläuterungen immer wieder, mißdeutet die Bestimmungen des Vertrages und kommt fortwährend in Schwierigkeiten. Die andere muß immer von frischem an die Erläuterungen im Vertrag erinnern und die Schwierigkeit wegräumen.
 

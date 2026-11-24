@@ -22,7 +22,7 @@ Es ist natürlich äußerst leicht zu zeigen ‘daß es Zahlen gibt die keine Qu
 
 _[Ansätze]_
 
-Haben wir denn einen allgemeinen Begriff davon, was es heißt: zeigen daß es eine Zahl gibt die keine dieser unendlichen Menge ist? Denken wir, jemand hätte diese Aufgabe erhalten eine Zahl zu nennen die von allen ²√n verschieden ist; er hätte aber vom Diagonalverfahren nichts gewußt & hätte die Zahl ∛2 als Lösung genannt; & gezeigt daß sie keine ²√n ist. – Oder er hätte gesagt: nimm die √2 = 1˙4142 … & subtrahiere 1 von der ersten Dezimale, im übrigen aber sollen die Stellen mit √2 übereinstimmen 1˙3142 … kann keine √n sein.
+Haben wir denn einen allgemeinen Begriff davon, was es heißt: zeigen daß es eine Zahl gibt die keine dieser unendlichen Menge ist? Denken wir, jemand hätte diese Aufgabe erhalten eine Zahl zu nennen die von allen <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em"> verschieden ist; er hätte aber vom Diagonalverfahren nichts gewußt & hätte die Zahl ∛2 als Lösung genannt; & gezeigt daß sie keine <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em"> ist. – Oder er hätte gesagt: nimm die √2 = 1˙4142 … & subtrahiere 1 von der ersten Dezimale, im übrigen aber sollen die Stellen mit √2 übereinstimmen 1˙3142 … kann keine √n sein.
 
 ### [Ms-117](/ms-117/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span> {#ms-117-98-2}
 

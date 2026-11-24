@@ -1026,31 +1026,31 @@ Warum nennt man z.B. ein weißliches Grün oder Rot, “nicht _satt_”? Warum _
 
 <span class="series-number">244</span> Grau & schwach erleuchtetes oder leuchtendes Weiß kann in _einem_ Sinne die gleiche Farbe sein, denn wenn ich das erstere _male_ muß ich vielleicht auf der Palette jenes mischen.
 
-### [Ms-173](/ms-173/#74ar.1) <span class="fac">[74ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74ar.webp)</span> {#ms-173-74ar-1}
+### [Ms-173](/ms-173/#74ar.1) <span class="fac">74ar\[1\]</span> {#ms-173-74ar-1}
 
 <span class="series-number">245</span> Ob ich etwas als grau oder als weiß sehe, kann davon abhängen, wie ich die Dinge um mich beleuchtet sehe. In einem Kontext ist die Farbe für mich Weiß in schlechter Beleuchtung, im andern Grau in guter Beleuchtung.
 
-### [Ms-173](/ms-173/#74ar.2) <span class="fac">[74ar\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74ar.webp)</span> {#ms-173-74ar-2}
+### [Ms-173](/ms-173/#74ar.2) <span class="fac">74ar\[2\]</span> {#ms-173-74ar-2}
 
 <span class="series-number">246</span> Der Eimer, den ich vor mir sehe ist glänzend weiß glasiert, ich könnte ihn unmöglich “grau” nennen oder sagen “Ich sehe eigentlich grau”. Aber er hat ein Glanzlicht, das weit heller ist als seine übrige Fläche, & da er rund ist geht er vom Licht allmählich in den Schatten über ohne doch anders gefärbt zu erscheinen.
 
-### [Ms-173](/ms-173/#74ar.3) <span class="fac">[74ar\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74ar.webp)</span> {#ms-173-74ar-3}
+### [Ms-173](/ms-173/#74ar.3) <span class="fac">74ar\[3\]</span> {#ms-173-74ar-3}
 
 <span class="series-number">247</span> Welches ist die Farbe des Eimers an _dieser_ Stelle? Wie soll ich's entscheiden?
 
-### [Ms-173](/ms-173/#74av.1) <span class="fac">[74av\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74av.webp)</span> {#ms-173-74av-1}
+### [Ms-173](/ms-173/#74av.1) <span class="fac">74av\[1\]</span> {#ms-173-74av-1}
 
 <span class="series-number">248</span> Es gibt zwar nicht Phänomenologie, wohl aber phänomenologische Probleme.
 
-### [Ms-173](/ms-173/#74av.2) <span class="fac">[74av\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74av.webp)</span> {#ms-173-74av-2}
+### [Ms-173](/ms-173/#74av.2) <span class="fac">74av\[2\]</span> {#ms-173-74av-2}
 
 <span class="series-number">249</span> Man möchte sagen: Beimischung von Rot verdünnt die Farben nicht, Beimischung von Weiß verdünnt sie. Anderseits empfindet man Rosa, oder ein weißliches Blau nicht immer als verdünnt.
 
-### [Ms-173](/ms-173/#74av.3) <span class="fac">[74av\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74av.webp)</span> {#ms-173-74av-3}
+### [Ms-173](/ms-173/#74av.3) <span class="fac">74av\[3\]</span> {#ms-173-74av-3}
 
 <span class="series-number">250</span> Kann man sagen: “Leuchtendes Grau ist Weiß”?
 
-### [Ms-173](/ms-173/#74av.4+75r.1) <span class="fac">[74av\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/74av.webp),[75r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/75r.webp)</span> {#ms-173-74av-4--75r-1}
+### [Ms-173](/ms-173/#74av.4+75r.1) <span class="fac">74av\[4\],[75r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/75r.webp)</span> {#ms-173-74av-4--75r-1}
 
 <span class="series-number">251</span> Die Schwierigkeiten, die man beim Nachdenken über das Wesen der Farben empfindet (mit denen sich Goethe durch die Farbenlehre auseinandersetzen wollte,) liegen schon in der Vielgestaltigkeit des Begriffs der Farbengleichheit beschlossen.
 

@@ -1494,7 +1494,7 @@ Wenn wir überhaupt auf den Glauben hinauf mit Sicherheit handeln, sollen wir un
 
 <span class="series-number">354</span> Zweifelndes & Nichtzweifelndes Benehmen. Es gibt das erste nur, wenn es das Zweite gibt.
 
-### [Ms-175](/ms-175/#54v.2+t55r.1) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54v.webp),[t55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/t55r.webp)</span> {#ms-175-54v-2--t55r-1}
+### [Ms-175](/ms-175/#54v.2+t55r.1) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54v.webp),[t55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/55r.webp)</span> {#ms-175-54v-2--t55r-1}
 
 <span class="series-number">355</span> Der Irrenarzt etwa könnte mich fragen “Weißt Du, was das ist”, & ich antworten: “ich weiß, daß das ein Sessel ist; ich kenne ihn, er ist immer schon in meinem Zimmer gestanden.” Er prüft da vielleicht nicht meine Augen, sondern mein Vermögen, Dinge wiederzuerkennen, ihren Namen & ihre Funktion zu wissen. Es handelt sich da um ein Sich-auskennen. Es wäre nun für mich falsch zu sagen “Ich glaube, daß das ein Sessel ist”, weil dadurch die Bereitschaft zur Prüfung der Aussage ausgesprochen wäre. Während “Ich weiß, daß das …” impliziert, daß _Verblüffung_ einträte, wenn die Bestätigung nicht einträte.
 

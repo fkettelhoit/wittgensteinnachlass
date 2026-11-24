@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1948–1949, 998 remarks, Ms-137, Ms-167, Ms-138</summary>
+<summary>1948–1949, 999 remarks, Ms-137, Ms-167, Ms-138</summary>
 
 <img class="viz" src="/viz/W-LW-1.svg">
 
@@ -3760,9 +3760,11 @@ But the question now is: Is this “living” a “seeing,” or: on what ground
 Now, we do not say that we ‘see’ the conventional picture of a lion, for example, _as_ a lion:
 
 
-### [Ms-137](/ms-137/#142b.7+143a.1+143a.2+143a.3) <span class="fac">[142b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142b.webp),[143a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp),[143a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp),[143a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-142b-7--143a-1--143a-2--143a-3}
+### [Ms-137](/ms-137/#142b.7+143a.1) <span class="fac">[142b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142b.webp),[143a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-142b-7--143a-1}
 
 “Your picture smiles at me from the wall.” It does not have to do this every time I see it. And this expression is, after all, a justification for the expression that I see it differently then.
+
+### [Ms-137](/ms-137/#143a.2+143a.3) <span class="fac">[143a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp),[143a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-143a-2--143a-3}
 
 I am not striving for any kind of completeness with all these examples. No inventory of all psychological concepts. I only want to enable my reader to help himself in conceptual uncertainties.
 

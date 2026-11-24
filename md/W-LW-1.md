@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1948–1949, 1001 remarks, Ms-137, Ms-167, Ms-138</summary>
+<summary>1948–1949, 1002 remarks, Ms-137, Ms-167, Ms-138</summary>
 
 <img class="viz" src="/viz/W-LW-1.svg">
 
@@ -3062,11 +3062,13 @@ Ich könnte von einem Bild von Picasso sagen, ich _sehe_ es nicht als Menschen. 
 
 <span class="series-number">684</span> Nun sagen wir aber nicht, wir ‘sähen’ das konventionelle Bild, eines Löwen z.B., _als_ Löwen:
 
-### [Ms-137](/ms-137/#142b.7+143a.1+143a.2+143a.3) <span class="fac">[142b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142b.webp),[143a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp),[143a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp),[143a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-142b-7--143a-1--143a-2--143a-3}
+### [Ms-137](/ms-137/#142b.7+143a.1) <span class="fac">[142b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142b.webp),[143a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-142b-7--143a-1}
 
 <span class="series-number">685</span> “Ihr Bild lächelt mich von der Wand an.” Das muß es nicht immer tun, wenn ich es sehe. Und dieser Ausdruck ist doch eine Rechtfertigung des Ausdrucks, ich sehe es dann anders.
 
-Ich strebe mit allen diesen Beispielen nicht irgend eine Vollständigkeit an. Kein Register aller psychologischen Begriffe. Ich will nur meinen Leser in den Stand setzen sich in begrifflichen Unklarheiten zu helfen.
+### [Ms-137](/ms-137/#143a.2+143a.3) <span class="fac">[143a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp),[143a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-143a-2--143a-3}
+
+<span class="series-number">686</span> Ich strebe mit allen diesen Beispielen nicht irgend eine Vollständigkeit an. Kein Register aller psychologischen Begriffe. Ich will nur meinen Leser in den Stand setzen sich in begrifflichen Unklarheiten zu helfen.
 
 ### [Ms-137](/ms-137/#143a.7) <span class="fac">[143a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/143a.webp)</span> {#ms-137-143a-7}
 

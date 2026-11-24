@@ -362,7 +362,7 @@ Moore's Paradox läßt sich so aussprechen: Die Äußerung “Ich glaube, es ver
 
 ### [Ms-144](/ms-144/#21r.3) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r-3}
 
-Ebenso: Die Aussage “Ich glaube, es wird regnen” hat einen ähnlichen Sinn, d.h., ähnliche Verwendung, wie “Es wird regnen”, aber “Ich glaubte damals, es werde regnen” nicht einen ähnlichen, wie “Es hat damals geregnet”. “Aber es muß doch ‘Ich glaubte’ eben _das_ in der Vergangenheit sagen, was ‘Ich glaube’ in der Gegenwart!” – Es muß doch √‒1 eben das für ‒ 1 bedeuten, was √1 für 1 bedeutet! Das heißt gar nichts.
+Ebenso: Die Aussage “Ich glaube, es wird regnen” hat einen ähnlichen Sinn, d.h., ähnliche Verwendung, wie “Es wird regnen”, aber “Ich glaubte damals, es werde regnen” nicht einen ähnlichen, wie “Es hat damals geregnet”. “Aber es muß doch ‘Ich glaubte’ eben _das_ in der Vergangenheit sagen, was ‘Ich glaube’ in der Gegenwart!” – Es muß doch <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em"> eben das für ‒ 1 bedeuten, was √1 für 1 bedeutet! Das heißt gar nichts.
 
 ### [Ms-144](/ms-144/#21r.4+21v.1) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21r-4--21v-1}
 
@@ -668,8 +668,6 @@ Wer in einer Figur (1) nach einer andern (2) sucht, & sie dann findet, der sieht
 
 Aber es muß nicht geschehen, daß er sagen möchte: “Die Figur (1) sieht nun ganz anders aus; sie hat auch keine Ähnlichkeit mit der früheren, obwohl sie mit ihr kongruent ist!”
 
-a44
-
 ### [Ms-144](/ms-144/#29v.4) <span class="fac">[29v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/29v.webp)</span> {#ms-144-29v-4}
 
 Es gibt hier eine Unmenge mit einander verwandter Erscheinungen & möglicher Begriffe.
@@ -872,8 +870,6 @@ Wenn ich nun sage “Wir betrachten ein Portrait als Menschen”, – wann & wie
 
 Ich könnte sagen: Ein Bild _lebt_ nicht immer für mich, während ich es sehe. “Ihr Bild lächelt mich von der Wand an.” Das muß es nicht immer tun, wenn gerade mein Blick darauf fällt.
 
-a90
-
 ### [Ms-144](/ms-144/#36r.4) <span class="fac">[36r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-36r-4}
 
 Der H.-E.-Kopf. Man fragt sich: Wie ist es möglich, daß das Auge, dieser _Punkt_, in einer Richtung blickt? – “_Sieh, wie er blickt_!” (Und dabei ‘blickt’ man selbst.) Aber man sagt & tut das nicht in einem fort, während man das Bild betrachtet. Und was ist nun dieses “Sieh, wie er blickt!” – ist es der Ausdruck einer Empfindung?
@@ -889,8 +885,6 @@ Der H.-E.-Kopf. Man fragt sich: Wie ist es möglich, daß das Auge, dieser _Punk
 ![](../graphics/144,34v-1.svg)
 
 als diesen Buchstaben. (Wohl aber z.B. als einen Galgen.)
-
-a93
 
 ### [Ms-144](/ms-144/#37r.4) <span class="fac">[37r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r-4}
 
@@ -915,8 +909,6 @@ Und _sieht_ das Kind die Kiste nun als Haus? “Er vergißt ganz, daß es eine K
 ### [Ms-144](/ms-144/#35r.1) <span class="fac">[35r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/35r.webp)</span> {#ms-144-35r-1}
 
 Und wer nun so spielen könnte, & in einer bestimmten Situation mit besonderem Ausdruck ausriefe “Jetzt ist es ein Haus!” – der würde dem Aufleuchten des Aspekts Ausdruck geben.
-
-a96˙1
 
 ### [Ms-144](/ms-144/#37r.5) <span class="fac">[37r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37r.webp)</span> {#ms-144-37r-5}
 
@@ -1278,7 +1270,7 @@ Das Sprachspiel “Ich meine (oder meinte) _das_” (nachträgliche Worterkläru
 
 “Bei diesen Worten fiel er mir ein.” – Was ist die primitive Reaktion, mit der das Sprachspiel anfängt? – die dann in diese Worte umgesetzt werden kann. Wie kommt es dazu, daß Menschen diese Worte gebrauchen? Die primitive Reaktion konnte ein Blick, eine Gebärde sein, aber auch ein Wort.
 
-### [Ms-144](/ms-144/#46v.6+47.1) <span class="fac">[46v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47.webp)</span> {#ms-144-46v-6--47-1}
+### [Ms-144](/ms-144/#46v.6+47.1) <span class="fac">[46v\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/46v.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/47r.webp)</span> {#ms-144-46v-6--47-1}
 
 “Warum hast Du mich angeschaut & den Kopf geschüttelt?” – “Ich wollte Dir zu verstehen geben, daß Du …” Das soll nicht eine Zeichenregel ausdrücken, sondern den Zweck meiner Handlung.
 

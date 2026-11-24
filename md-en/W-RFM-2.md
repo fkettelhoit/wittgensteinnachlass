@@ -22,7 +22,7 @@ It is, of course, extremely easy to show ‘that there are numbers that are not 
 
 _[Approaches]_
 
-Do we have a general concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of ²√n; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not ²√n. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
+Do we have a general concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
 
 
 ### [Ms-117](/ms-117/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span> {#ms-117-98-2}
