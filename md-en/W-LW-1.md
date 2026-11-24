@@ -3860,7 +3860,7 @@ The aspects A are not essentially spatial aspects. A black cross on a white back
 
 January 16, 1949
 
-From any script – this one, for example <img class="math math-inline" src="../math/6799e0caa4687209.svg" alt="𝖄" style="width:0.983em;height:0.903em;vertical-align:-0.214em"> – I can imagine that it is a perfectly correctly written letter of some foreign alphabet. – Or, it is a poorly written letter; & in a way that is one of several different ways: e.g. hastily, or typically childish – clumsy, or bureaucratically ornate. It could deviate from the correctly written in various ways. – & depending on the fiction with which I surround it, I can see it in different aspects. – Here there is a close kinship with the experience of the meaning of an isolated word.
+From any script – this one, for example <img class="math math-inline math-drawing" src="../math/c7e20088d3466045.svg" alt="𝖄" style="width:0.957em;height:0.753em;vertical-align:-0.063em"> – I can imagine that it is a perfectly correctly written letter of some foreign alphabet. – Or, it is a poorly written letter; & in a way that is one of several different ways: e.g. hastily, or typically childish – clumsy, or bureaucratically ornate. It could deviate from the correctly written in various ways. – & depending on the fiction with which I surround it, I can see it in different aspects. – Here there is a close kinship with the experience of the meaning of an isolated word.
 
 
 ### [Ms-138](/ms-138/#2b.2) <span class="fac">[2b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/2b.webp)</span> {#ms-138-2b-2}
