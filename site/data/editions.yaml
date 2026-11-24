@@ -62,7 +62,9 @@ W-PT:
 W-RFM:
   editors: G.H. von Wright, Rush Rhees and G.E.M. Anscombe
   year: 1956
-  extra: revised edition 1978
+  # The revised and expanded German edition (Suhrkamp, Schriften 6) with Parts I–VII;
+  # the English third edition followed in 1978
+  extra: revised edition 1974
 W-ROC:
   editors: G.E.M. Anscombe
   year: 1977
