@@ -203,8 +203,6 @@ fn indexable_files(dir: &Path) -> Result<Vec<PathBuf>, String> {
     let skip = [
         "index.md",
         "all.md",
-        "docs-by-date.md",
-        "docs-by-name.md",
         "deepl-remarks.md",
         "about.md",
     ];

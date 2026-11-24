@@ -1,11 +1,12 @@
 {{ define "main" }}
 <nav><a href="/">{{ .Site.Title }}</a></nav>
-<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/" tabindex="-1">{{ .Site.Title }}</a></div><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a></div>
+<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/" tabindex="-1">{{ .Site.Title }}</a></div><div class="sticky-title-line"><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a>{{ partial "doc-format.html" .Title }}</div></div>
 <script src="/js/sticky-title.js" defer></script>
+<script src="/js/fragment-links.js" defer></script>
 {{ $hasRemarks := findRE `\.webp\)` .RawContent }}
 {{ if $hasRemarks }}
 <main>
-  {{ $c := .Content }}
+  {{ $c := partial "doc-format-links.html" .Content }}
   {{ $stem := .File.ContentBaseName }}
   {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
   {{ $enTitle := "" }}
@@ -13,6 +14,7 @@
     {{ $enTitle = printf `<h1 class="en-title" lang="en">%s</h1>` .Params.entitle }}
   {{ end }}
   {{ $switcher := printf `</h1>%s</div><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>%s` $enTitle (.File.ContentBaseName | urlize) $downloads (partial "edition-note.html" .) }}
+  {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c `<h1` `<div class="title-row"><h1 class="de-title" lang="de"` 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
@@ -50,7 +52,7 @@
 </main>
 {{ else }}
 <main>
-  {{ $c := .Content }}
+  {{ $c := partial "doc-format-links.html" .Content }}
   {{ $stem := .File.ContentBaseName }}
   {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
   {{ $switcher := printf `</span></h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` ($stem | urlize) $downloads }}

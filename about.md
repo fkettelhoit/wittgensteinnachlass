@@ -1,6 +1,6 @@
 # About
 
-This website aims to provide a reader-friendly electronic edition of the (late) writings from Ludwig Wittgenstein’s _Nachlass_.
+This website aims to provide a reader-friendly electronic edition of the writings from Ludwig Wittgenstein’s _Nachlass_.
 
 It consists of a set of normalized transcriptions whose emphasis is on readability rather than on philological richness: we opted for editorial criteria whereby textual variants are not reproduced and only those features of the originals which have the strongest semantic significance are preserved.
 
@@ -8,7 +8,7 @@ The transcriptions are the result of a process in which both the facsimiles and 
 
 The transcriptions are mobile responsive, they are accessible to readers who use assistive tools, and they can be exported as e-books and PDFs.
 
-The scope of this website is currently limited to the manuscripts and typescripts composed by Wittgenstein between 1937 and 1951. In the future, we would like to expand the website to also include materials from the period between 1914 and 1936.
+The website includes all manuscripts and typescripts of the _Nachlass_ that are transcribed in the Bergen Nachlass Edition, from the notebooks of 1914 to Wittgenstein’s last writings in 1951. Documents that are available only as facsimiles, such as further copies of the dictations to Schlick and of the _Blue and Brown Books_, are not included.
 
 ## Historical background
 
@@ -58,8 +58,8 @@ The Markdown source files are presented on the website as HTML pages.
 
 The remarks can be browsed in two complementary ways:
 - Firstly, in their original arrangement as parts of manuscripts or typescripts. Manuscripts and typescripts, numbered according to von Wright’s catalogue, can in turn be browsed:
-	- [By name](/docs-by-name/), i.e., by number;
-	- [By date](/docs-by-date/);
+	- [By name](/#by-name), i.e., by number;
+	- [By date](/#by-date);
 - Secondly, in the arrangement they were given by the editors when they were published [as books](/). Please be aware that the remarks thus arranged do not produce a running text that is _identical_ to that of the published editions, because, on the one hand, the editors may have processed variants differently than they were processed on this website and, secondly, they almost always made changes in terms of orthography, punctuation, etc., while this website always displays the original text from the _Nachlass_.
 
 The transcription is a linear, not a diplomatic one. The textual phenomena that have been retained are the following:

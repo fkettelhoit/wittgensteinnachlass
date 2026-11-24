@@ -1,11 +1,12 @@
 {{ define "main" }}
 <nav><a href="/">{{ .Site.Title }}</a></nav>
-<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/" tabindex="-1">{{ .Site.Title }}</a></div><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a></div>
+<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/" tabindex="-1">{{ .Site.Title }}</a></div><div class="sticky-title-line"><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a>{{ partial "doc-format.html" .Title }}</div></div>
 <script src="/js/sticky-title.js" defer></script>
+<script src="/js/fragment-links.js" defer></script>
 {{ $hasRemarks := findRE `\.webp\)` .RawContent }}
 {{ if $hasRemarks }}
 <main>
-  {{ $c := .Content }}
+  {{ $c := partial "doc-format-links.html" .Content }}
   {{ $stem := .File.ContentBaseName }}
   {{ $fac := "" }}
   {{ if ne .Params.doctype "Work" }}
@@ -17,6 +18,7 @@
     {{ $bilingual = printf ` | <a href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
   {{ end }}
   {{ $switcher := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>%s` $downloads $bilingual (partial "edition-note.html" .) }}
+  {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
   {{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
@@ -68,7 +70,8 @@
     {{ $bilingual2 = printf ` | <a href="/en/%s/">German/English</a>` ($stem2 | urlize) }}
   {{ end }}
   {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>%s` $dl2 $bilingual2 (partial "edition-note.html" .) }}
-  {{ partial "viz-lightbox.html" (replace .Content "</h1>" $sw2 1) | safeHTML }}
+  {{ $c2 := replace (partial "doc-format-links.html" .Content) "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
+  {{ partial "viz-lightbox.html" (replace $c2 "</h1>" $sw2 1) | safeHTML }}
 </main>
 {{ end }}
 {{ partial "footer.html" }}

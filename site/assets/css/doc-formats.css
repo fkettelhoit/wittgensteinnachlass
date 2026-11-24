@@ -1,0 +1,61 @@
+{{- /* Format icons of the documents (site/data/doc_formats.json, written by the parser): the
+  .doc-format-<stem> links after every link to a document and after its page title
+  (partials/doc-format.html, style.css).
+
+  Each icon is the outline of a typical page of its format, all drawn to one scale and
+  centred on the middle of the line. The tallest page (a volume, 325 mm) is the height of
+  the line minus $gap, so that two of them on consecutive lines almost touch; the icon box
+  (style.css) is that high for every format, with the page centred in it and the box as
+  wide as the page. Every icon has the same stroke and corner radius, whatever its size
+  (in em at the body text's line height, $nominal). Bound documents have rounded corners,
+  sheets square ones, cuttings an angled bottom edge; one or two lines of "text" of
+  different lengths tell the formats apart a second way. Loose sheets show each
+  document's own page size. --doc-format-inset is the space between the page's bottom
+  edge and the box's, as a fraction of the box height (for titles, where the page stands
+  on the baseline). The SVGs (partials/doc-format-svg.html) are data URIs for
+  mask-image. */ -}}
+{{- $tall := 325.0 -}}{{/* mm: the tallest page = the height of every icon box */}}
+{{- $gap := 0.15 -}}{{/* em, between the boxes of consecutive lines */}}
+{{- /* em: the middle of the line, halfway between TeX Gyre Pagella's descender (0.281em
+  below the baseline) and ascender (0.726em above), as the line's half-leadings are equal. */ -}}
+{{- $middle := 0.2225 -}}
+{{- $nominal := 1.6 -}}{{/* em: the box in body text (line height 2rem at 18px, minus $gap) */}}
+{{- $mm := div $nominal $tall -}}{{/* em per mm there */}}
+{{- $stroke := div 0.06 $mm -}}{{/* mm, i.e. 0.06em */}}
+{{- $radius := div 0.1 $mm -}}{{/* mm, i.e. 0.1em, for bound documents */}}
+{{- /* Typical page (height × width, mm) of each format, from the archival notes, and its
+  lines of text. Cuttings are cut at an angle: h on the left, h2 on the right. Loose sheets
+  use each document's size (this one only where the note gives none). */ -}}
+{{- $formats := dict
+  "pocket" (dict "h" 160 "w" 100 "shape" "rounded" "lines" (slice 1.0))
+  "notebook" (dict "h" 215 "w" 170 "shape" "rounded" "lines" (slice 0.8))
+  "quarto" (dict "h" 265 "w" 210 "shape" "rounded" "lines" (slice 0.8 0.45))
+  "volume" (dict "h" 325 "w" 205 "shape" "rounded" "lines" (slice 0.8 0.8))
+  "sheets" (dict "h" 280 "w" 210 "shape" "square" "lines" (slice 0.6 0.3))
+  "typescript" (dict "h" 280 "w" 215 "shape" "square" "lines" (slice 1.0 1.0))
+  "cuttings" (dict "h" 145 "h2" 95 "w" 190 "shape" "angled" "lines" (slice 1.0))
+-}}
+{{- $common := dict "tall" $tall "stroke" $stroke "radius" $radius -}}
+{{- /* The icons of the documents of each format; loose sheets one by one. */ -}}
+{{- $links := newScratch -}}
+{{- $sheets := slice -}}
+{{- range $stem, $d := hugo.Data.doc_formats -}}
+  {{- $slug := lower $stem -}}
+  {{- $sel := slice (printf `.doc-format-%s` $slug) -}}
+  {{- if and (eq $d.format "sheets") $d.height -}}
+    {{- $sheets = $sheets | append (dict "sel" $sel "h" (math.Min $d.height $tall) "w" $d.width) -}}
+  {{- else -}}
+    {{- $links.Add $d.format $sel -}}
+  {{- end -}}
+{{- end -}}
+:root{--doc-format-gap:{{ $gap }}em;--doc-format-middle:{{ $middle }}em}
+{{- range $format, $f := $formats }}
+  {{- $svg := partial "doc-format-svg.html" (merge $common $f) -}}
+  {{- with $links.Get $format }}
+:is({{ delimit . "," }}){--doc-format:url("data:image/svg+xml;base64,{{ $svg | base64Encode }}");--doc-format-ratio:{{ printf "%.4f" (div (float $f.w) $tall) }};--doc-format-inset:{{ printf "%.4f" (div (sub $tall $f.h) (mul 2 $tall)) }}}
+  {{- end }}
+{{- end }}
+{{- range $sheets }}
+  {{- $svg := partial "doc-format-svg.html" (merge $common $formats.sheets (dict "h" .h "w" .w)) }}
+:is({{ delimit .sel "," }}){--doc-format:url("data:image/svg+xml;base64,{{ $svg | base64Encode }}");--doc-format-ratio:{{ printf "%.4f" (div (float .w) $tall) }};--doc-format-inset:{{ printf "%.4f" (div (sub $tall .h) (mul 2 $tall)) }}}
+{{- end }}

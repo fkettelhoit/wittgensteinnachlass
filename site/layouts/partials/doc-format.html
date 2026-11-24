@@ -1,0 +1,9 @@
+{{- /* The format icon of a document (see assets/css/doc-formats.css): a link to its group
+  in the home page's "By format" list, labelled with the format and the size from the
+  archival note. Context: the stem ("Ms-101"). */ -}}
+{{- $stem := . -}}
+{{- with index hugo.Data.doc_formats $stem -}}
+  {{- $label := .label -}}
+  {{- with .size }}{{ $label = printf "%s, %s" $label . }}{{ end -}}
+  <a class="doc-format doc-format-{{ lower $stem }}" href="/#{{ .anchor }}" title="{{ $label }}" aria-label="{{ $label }}"></a>
+{{- end -}}

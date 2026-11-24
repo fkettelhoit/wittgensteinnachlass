@@ -63,15 +63,20 @@
   const steps = [
     {
       page: "/",
-      // The heading and the first row of covers (not all three on narrow screens,
-      // where they wrap, so that the highlight and the popover fit together).
+      // The note on the works compiled after Wittgenstein's death and their first row of
+      // covers (not all of them on narrow screens, where they wrap, so that the highlight
+      // and the popover fit together).
       target: () => {
-        const covers = [...document.querySelectorAll('a.cover[href^="/w-"]')];
+        const note = [...document.querySelectorAll("main > .section-note")].find((p) =>
+          p.textContent.startsWith("Compiled by"),
+        );
+        const grid = note?.nextElementSibling;
+        const covers = [...(grid?.querySelectorAll("a.cover") ?? [])];
         const row = covers.filter((el) => el.offsetTop === covers[0]?.offsetTop);
-        return [...document.querySelectorAll("main > h2:first-of-type, main > h2:first-of-type + .section-note"), ...row];
+        return [note, ...row].filter(Boolean);
       },
       title: "Works and documents",
-      text: "These are the works compiled by Wittgenstein’s literary executors. Further down are his individual manuscripts and typescripts, which you can also list by name or date.",
+      text: "These are the works compiled by Wittgenstein’s literary executors after his death. Above them is the <em>Tractatus</em>, which he published himself, and below them other edited writings. Further down are his individual manuscripts and typescripts, listed by name or by date.",
     },
     {
       page: "/",
@@ -115,7 +120,7 @@
       target: MOTTO_SECTION,
       click: `[id="${MOTTO}"] + .fac a`,
       title: "Remarks",
-      text: "<strong>Ts-227a</strong> is the typescript this remark comes from, and <strong>1[2]</strong> links to a facsimile of its page. Tip: hover over a remark to reveal <strong>§</strong>, a link you can share.\n\nClick <strong>1[2]</strong> to see the page.",
+      text: "<strong>Ts-227a</strong> is the typescript this remark comes from, and <strong>1[2]</strong> links to a facsimile of its page. Tip: hover over a remark to reveal <strong>§</strong>; click it to copy a link to the remark you can share.\n\nClick <strong>1[2]</strong> to see the page.",
     },
     {
       page: PI,

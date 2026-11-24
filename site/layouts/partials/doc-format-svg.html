@@ -1,0 +1,39 @@
+{{- /* The SVG of a format icon (see assets/css/doc-formats.css): the outline of a page of
+  .h × .w mm, centred in a box .tall mm high and .w wide, with .lines lines of "text" at
+  its top (their lengths as fractions of the text width). .shape: "rounded" (bound),
+  "square" (sheets) or "angled" (cuttings: the bottom edge rising to .h2 on the right).
+  .stroke and .radius in mm. Lines and outline share the stroke. Returns the SVG as a
+  string (returned, not output, so that it isn't HTML-escaped). */ -}}
+{{- $s := .stroke -}}
+{{- $hs := div $s 2 -}}
+{{- $w := float .w -}}
+{{- $h := float .h -}}
+{{- $top := div (sub .tall $h) 2 -}}
+{{- /* The outline on the centre of the stroke, so that its outer edge is the page. */ -}}
+{{- $x0 := $hs -}}
+{{- $x1 := sub $w $hs -}}
+{{- $y0 := add $top $hs -}}
+{{- $y1 := sub (add $top $h) $hs -}}
+{{- $attrs := printf `fill='none' stroke='black' stroke-width='%.1f'` $s -}}
+{{- $shape := "" -}}
+{{- if eq .shape "angled" -}}
+  {{- $y2 := sub (add $top (float .h2)) $hs -}}
+  {{- $shape = printf `<path d='M%.1f %.1fH%.1fV%.1fL%.1f %.1fZ' %s/>` $x0 $y0 $x1 $y2 $x0 $y1 $attrs -}}
+{{- else -}}
+  {{- $r := cond (eq .shape "rounded") .radius 0.0 -}}
+  {{- $shape = printf `<rect x='%.1f' y='%.1f' width='%.1f' height='%.1f' rx='%.1f' %s/>` $x0 $y0 (sub $x1 $x0) (sub $y1 $y0) $r $attrs -}}
+{{- end -}}
+{{- /* Text lines: inset from the sides by 1.6 strokes, 3.2 strokes apart (a gap of 2.2), the
+  first a little further below the top (a gap of 2.7). */ -}}
+{{- $pad := mul 1.6 $s -}}
+{{- $step := mul 3.2 $s -}}
+{{- $first := mul 3.7 $s -}}
+{{- $left := add $x0 $pad -}}
+{{- $textW := sub (sub $x1 $pad) $left -}}
+{{- $d := "" -}}
+{{- range $i, $f := .lines -}}
+  {{- $y := add (add $y0 $first) (mul $i $step) -}}
+  {{- $d = printf "%sM%.1f %.1fh%.1f" $d $left $y (mul $textW $f) -}}
+{{- end -}}
+{{- with $d }}{{ $shape = printf `%s<path d='%s' %s/>` $shape . $attrs }}{{ end -}}
+{{- return printf `<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 %g %g'>%s</svg>` $w .tall $shape -}}

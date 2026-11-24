@@ -10,14 +10,29 @@
 #   extra:   optional text appended after the year (HTML allowed)
 #   credit:  optional full replacement for the "Edited by …" sentence (HTML allowed)
 
+W-BBB:
+  editors: Rush Rhees
+  year: 1958
 W-CE:
   editors: Rush Rhees
   year: 1976
+W-DB:
+  editors: Ilse Somavilla
+  year: 1997
 W-EPB:
   credit: Edited by Rush Rhees (1970), who also gave it its title.
 W-GB:
   editors: Rush Rhees
   year: 1967
+W-GT:
+  editors: Wilhelm Baum
+  year: 1991
+W-LE:
+  credit: First published in <em>The Philosophical Review</em> (1965).
+W-LPE:
+  editors: Rush Rhees
+  year: 1968
+  extra: in <em>The Philosophical Review</em>
 W-LW:
   editors: G.H. von Wright and Heikki Nyman
   year: 1982–1992
@@ -36,6 +51,14 @@ W-NL:
   editors: G.H. von Wright and G.E.M. Anscombe
   year: 1979
   extra: in the second edition of the <em>Notebooks 1914–1916</em>
+W-NM:
+  editors: G.H. von Wright and G.E.M. Anscombe
+  year: 1961
+  extra: as Appendix II of the <em>Notebooks 1914–1916</em>
+W-NPL:
+  editors: David G. Stern
+  year: 1993
+  extra: in <em>Philosophical Occasions 1912–1951</em>
 W-OC:
   editors: G.E.M. Anscombe and G.H. von Wright
   year: 1969
@@ -64,7 +87,7 @@ W-RFM:
   year: 1956
   # The revised and expanded German edition (Suhrkamp, Schriften 6) with Parts I–VII;
   # the English third edition followed in 1978
-  extra: revised edition 1974
+  extra: revised 1974
 W-ROC:
   editors: G.E.M. Anscombe
   year: 1977

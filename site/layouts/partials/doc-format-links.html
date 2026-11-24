@@ -1,0 +1,20 @@
+{{- /* Rendered HTML with each link to a whole document (`<a href="/ms-101/">`, also under
+  /en/) followed by the document's format icon (doc-format.html). Links into a document
+  (`/ms-101/#1r-1`: the remark headings, the links to other versions) get none. Returns
+  the HTML as a string. */ -}}
+{{- $c := string . -}}
+{{- $slugs := slice -}}
+{{- range findRE `<a href="(?:/en)?/(?:ms|ts)-[0-9a-z]+/"` $c -}}
+  {{- $slugs = $slugs | append (replaceRE `^.*/((?:ms|ts)-[0-9a-z]+)/"$` "$1" .) -}}
+{{- end -}}
+{{- with uniq $slugs -}}
+  {{- $stems := dict -}}
+  {{- range $stem, $_ := hugo.Data.doc_formats }}{{ $stems = merge $stems (dict (lower $stem) $stem) }}{{ end -}}
+  {{- range . -}}
+    {{- with index $stems . -}}
+      {{- $icon := partial "doc-format.html" . -}}
+      {{- $c = replaceRE (printf `(<a href="(?:/en)?/%s/"[^>]*>[^<]*</a>)` (lower .)) (printf "${1}%s" $icon) $c -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $c -}}

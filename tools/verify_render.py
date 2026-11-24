@@ -23,7 +23,7 @@ MD_DIR = os.path.join(ROOT, "md")
 PUBLIC = os.path.join(ROOT, "site", "public")
 MATH_DIR = os.path.join(ROOT, "math")
 
-NON_DOC = {"index", "all", "docs-by-date", "docs-by-name"}
+NON_DOC = {"index", "all"}
 # Layout-only docs with zero '### ' remarks but a single layout <h3>.
 H3_ALLOWLIST = {"ts-309-stonborough", "ts-310-redpath"}
 

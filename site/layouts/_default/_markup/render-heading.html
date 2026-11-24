@@ -4,7 +4,8 @@
   like 3[12] and 31[2] never collide. In a work, the heading links to its source
   document (`[Ms-144](/ms-144/#1r.1)`), whose slug prefixes the id (`ms-144-1r-1`).
   The readable fragments in internal links (`#1r.1`, `#ms-144-1r.1`) are mapped to
-  these ids by render-link.html. Other headings keep Hugo's default anchor. */ -}}
+  these ids by render-link.html. Other headings keep Hugo's default anchor. A class given
+  in Markdown (`## Manuscript {.along-line}`) is kept. */ -}}
 {{- $id := .Anchor -}}
 {{- with findRESubmatch `<span class="fac">(.*?)</span>` .Text 1 -}}
   {{- $labels := index (index . 0) 1 | plainify -}}
@@ -13,5 +14,5 @@
     {{- $id = printf "%s-%s" (index (index . 0) 1) $id -}}
   {{- end -}}
 {{- end -}}
-<h{{ .Level }} id="{{ $id }}">{{ .Text }}</h{{ .Level }}>
+<h{{ .Level }} id="{{ $id }}"{{ with .Attributes.class }} class="{{ . }}"{{ end }}>{{ .Text }}</h{{ .Level }}>
 {{- /* trailing newline matches Goldmark's default heading output */}}

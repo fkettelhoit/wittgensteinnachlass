@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="home gallery">
   {{ partial "intro.html" }}
-  {{ .Content | safeHTML }}
+  {{ partial "doc-format-links.html" .Content | safeHTML }}
 </main>
 {{ partial "footer.html" }} {{ end }}

@@ -21,8 +21,8 @@ python3 "$SCRIPT_DIR/add_versions.py" "$OUTPUT_DIR" "$SCRIPT_DIR/../similar/simi
 for src in "$OUTPUT_DIR"/*.md; do
   filename="$(basename "$src")"
 
-  # Skip browse pages — handled separately below
-  if [ "$filename" = "docs-by-date.md" ] || [ "$filename" = "docs-by-name.md" ] || [ "$filename" = "all.md" ]; then
+  # Skip the full index — handled separately below
+  if [ "$filename" = "all.md" ]; then
     continue
   fi
 
@@ -89,24 +89,6 @@ for src in "$OUTPUT_DIR"/*.md; do
   } > "$CONTENT_DIR/$filename"
 done
 
-# Create document browsing pages
-for page in docs-by-date docs-by-name; do
-  src="$OUTPUT_DIR/${page}.md"
-  if [ -f "$src" ]; then
-    mkdir -p "$CONTENT_DIR/$page"
-    {
-      echo "---"
-      echo "title: \"Wittgenstein\u2019s Writings\""
-      echo "layout: all"
-      echo "---"
-      echo ""
-      # Rewrite markdown links: (Ms-175.md) → (/ms-175/), then neutralize notation.
-      perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge' "$src" \
-        | python3 "$SCRIPT_DIR/sanitize_content.py"
-    } > "$CONTENT_DIR/$page/_index.md"
-  fi
-done
-
 # Create full text index at /all
 ALL_SRC="$OUTPUT_DIR/all.md"
 if [ -f "$ALL_SRC" ]; then
@@ -130,7 +112,7 @@ if [ -f "$ABOUT_SRC" ]; then
   mkdir -p "$CONTENT_DIR/about"
   {
     echo "---"
-    echo "title: \"What are Wittgenstein’s (Late) Writings?\""
+    echo "title: \"What are Wittgenstein’s Writings?\""
     echo "layout: about"
     echo "---"
     echo ""

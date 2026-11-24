@@ -2,7 +2,7 @@
 <nav><a href="/">{{ .Site.Title }}</a></nav>
 <main class="about">
   <h1>{{ .Title }}</h1>
-  {{ .Content | safeHTML }}
+  {{ partial "doc-format-links.html" .Content | safeHTML }}
 </main>
 {{ partial "footer.html" }}
 {{ end }}
