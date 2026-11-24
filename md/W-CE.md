@@ -476,7 +476,9 @@ We identify knowing & data.
 
 ### [Ms-159](/ms-159/#31v.1) <span class="fac">[31v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/31v.webp)</span>
 
-“This↑ <img class="graphic graphic-inline" src="../graphics/159,31v-1.svg" alt="" style="width:2.099em;height:1.189em;vertical-align:-0.345em"> fits this↑ <img class="graphic graphic-inline" src="../graphics/159,31v-2.svg" alt="" style="width:1.622em;height:1.189em;vertical-align:-0.345em">”
+![](../graphics/159,31v-1.svg)![](../graphics/159,31v-2.svg)
+
+“This↑ fits this↑”
 
 Not _any_ sequence of puzzles is beneficial. Language idles
 
@@ -486,23 +488,17 @@ Information
 
 “This colour matches this very nicely”.
 
-![](../graphics/159,31v-3.svg)
+![](../graphics/159,31v-3.svg) fits ![](../graphics/159,31v-4.svg)
 
-fits
+![](../graphics/159,31v-5.svg)
 
-![](../graphics/159,31v-4.svg)
-
-this↑ <img class="graphic graphic-inline" src="../graphics/159,31v-5.svg" alt="" style="width:2.099em;height:1.189em;vertical-align:-0.345em"> fits this↑ “Things being as they are”. ‘Can we imagine it not fitting?’
+this↑ fits this↑ “Things being as they are”. ‘Can we imagine it not fitting?’
 
 ### [Ms-159](/ms-159/#32r.1) <span class="fac">[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/32r.webp)</span>
 
-“This↑
+![](../graphics/159,32r-1.svg) ![](../graphics/159,32r-2.svg)
 
-![](../graphics/159,32r-1.svg)
-
-does not fit this↑
-
-![](../graphics/159,32r-2.svg)<span class="post-block-punct">”</span>
+“This↑ does not fit this↑”
 
 How do you know whether this is a statement or a rule? Is it _meant_ as one or the other?
 

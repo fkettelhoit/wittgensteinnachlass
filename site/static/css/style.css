@@ -339,10 +339,12 @@ h2 {
     align-self: baseline;
   }
 
-  /* A remark that opens with a block formula has no first text line for the
-     margin to align with (the image is not a line box): align to its top instead. */
-  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child) > h3,
-  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child) > .fac {
+  /* A remark that opens with a block formula or a block graphic has no first text
+     line for the margin to align with (a formula image is not a line box; a graphic's
+     paragraph has the image's bottom edge as its baseline): align to its top instead.
+     Block graphics are the unclassed images (`![](…)`); inline ones have classes. */
+  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child, > div > p:first-child > img:not([class]):first-child, > div > .de > p:first-child > img:not([class]):first-child) > h3,
+  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child, > div > p:first-child > img:not([class]):first-child, > div > .de > p:first-child > img:not([class]):first-child) > .fac {
     align-self: start;
   }
 
@@ -645,6 +647,13 @@ details.similar details[open] {
 /* Site-specific overrides for shared transcription styles */
 img.math-block {
   margin: 0 0 2rem 0;
+}
+
+/* A formula too tall to stay in its line (even reaching into the neighbouring lines'
+   leading, see latex::inline_layout in the parser) gets a line of its own within its
+   paragraph, with the same space above and below. */
+img.math-block.math-display {
+  margin: 0.5rem 0;
 }
 
 section > div > p:first-child > .series-number:first-child,
