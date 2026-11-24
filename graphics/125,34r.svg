@@ -210,14 +210,12 @@
          inkscape:transform-center-y="1.2605684"
          transform="rotate(13.898086)"
          d="M 59.537224,75.571609 H 178.46113 c 0.58107,0 1.04886,0.467791 1.04886,1.048859 0,0.581068 -0.46779,1.048859 -1.04886,1.048859 H 59.581547"
-         sodipodi:nodetypes="csssc" /><text
-         xml:space="preserve"
+         sodipodi:nodetypes="csssc" /><g id="text1898" aria-label="x"><path
+         d="M392.0565 183.1197H394.3495C394.3495 183.1197 394.5362 182.5063 395.9498 180.6131L397.9231 177.9996L401.4698 183.1998C402.0031 183.1466 402.5628 183.1197 403.0965 183.1197C403.6562 183.1197 404.1895 183.1466 404.7497 183.1998V182.3997L404.083 182.3196C403.7628 182.2931 403.4431 182.0796 403.1498 181.6797L399.2028 176.3464L402.9895 171.9198C403.1498 171.7331 403.4431 171.6266 403.8962 171.6266H404.2697V170.8797H402.0828L398.7765 175.5463L396.7495 172.4531C396.3497 171.8666 396.0564 171.5196 395.1497 170.6133L392.0565 171.1466L392.1895 171.8397L392.7497 171.893C393.2297 171.9463 393.8162 172.2933 394.0831 172.6663L397.2828 177.3064L393.3098 181.9998C393.1231 182.2398 392.7765 182.3997 392.5097 182.3997H392.0565V183.1197Z"
+         id="text1898-path"
+         style="font-size:26.6667px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;fill-rule:nonzero"
          transform="matrix(0.26458333,0,0,0.26458333,50.867387,77.174075)"
-         id="text1898"
-         style="font-size:26.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1900);display:inline"><tspan
-           x="391.73633"
-           y="183.11976"
-           id="tspan2278">x</tspan></text><path
+         /></g><path
          id="path2085"
          style="fill:none;stroke:#000000;stroke-width:0.794;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none"
          inkscape:transform-center-x="-0.3124664"

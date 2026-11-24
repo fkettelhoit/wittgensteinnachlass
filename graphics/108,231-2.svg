@@ -60,9 +60,9 @@
          aria-label="A"
          transform="matrix(0.26458333,0,0,0.26458333,5.0165987,2.4738657)"
          id="text1111"
-         style="font-weight:bold;font-size:16px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';white-space:pre;shape-inside:url(#rect1113)"><path
-           d="m 81.447266,508.23824 4.398437,-11.45312 h 1.632813 l 4.6875,11.45312 h -1.726563 l -1.335937,-3.46875 h -4.789063 l -1.257812,3.46875 z m 3.304687,-4.70312 h 3.882813 l -1.195313,-3.17188 q -0.546875,-1.44531 -0.8125,-2.375 -0.21875,1.10157 -0.617187,2.1875 z"
-           style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial"
+         style="font-weight:bold;font-size:16px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1113)"><path
+           d="M80.8786 508.2862C81.4546 508.2542 82.0466 508.2382 82.6226 508.2382C83.2626 508.2382 83.9186 508.2542 84.5586 508.2862L84.5586 507.8062L83.9666 507.7582C83.4066 507.7102 83.1986 507.5982 83.1986 507.3422C83.1986 507.1342 83.4226 506.4462 83.7586 505.6462L84.2066 504.5742L88.8146 504.5742L89.5506 506.4142C89.8226 507.0862 89.8866 507.2942 89.8866 507.4382C89.8866 507.6142 89.6306 507.7262 89.2306 507.7582L88.4786 507.8062L88.4786 508.2862C89.2146 508.2542 89.9666 508.2382 90.7026 508.2382C91.3746 508.2382 92.0626 508.2542 92.7346 508.2862L92.7346 507.8062L92.1906 507.7582C91.7746 507.7262 91.5986 507.4222 91.0386 506.1262L87.1666 497.0382L86.6546 497.0382C86.6546 497.0382 86.4786 497.5822 85.8706 498.9422L82.3346 506.9742C82.1266 507.4382 81.8226 507.7262 81.4706 507.7582L80.8786 507.8062ZM84.4786 503.9342 86.5106 499.1662 88.5266 503.9342Z"
+           style="font-weight:normal;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';fill-rule:nonzero"
            id="path1167" /></g></g></g><metadata
      id="metadata9"><rdf:RDF><cc:Work
          rdf:about=""><cc:license

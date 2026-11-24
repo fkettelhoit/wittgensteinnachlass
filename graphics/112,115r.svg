@@ -57,14 +57,14 @@
          aria-label="="
          transform="matrix(0.26458333,0,0,0.26458333,1.8908527,0.40968475)"
          id="text1056"
-         style="font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1058)"><path
-           d="m 261.42059,361.04327 h -8.82293 v -1.53126 h 8.82293 z m 0,4.05599 h -8.82293 v -1.53125 h 8.82293 z"
+         style="font-size:18.6667px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1058)"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M251.4091 366.8467 262.6091 366.8467C262.5718 366.66 262.5531 366.4734 262.5531 366.2867C262.5531 366.1 262.5718 365.9134 262.6091 365.7267L251.4091 365.7267C251.4464 365.9134 251.4651 366.1 251.4651 366.2867C251.4651 366.4734 251.4464 366.66 251.4091 366.8467ZM251.4091 362.74 262.6091 362.74C262.5718 362.5534 262.5531 362.3667 262.5531 362.18C262.5531 361.9934 262.5718 361.8067 262.6091 361.62L251.4091 361.62C251.4464 361.8067 251.4651 361.9934 251.4651 362.18C251.4651 362.3667 251.4464 362.5534 251.4091 362.74Z"
            id="path1064" /></g><g
          aria-label="="
          transform="matrix(0.26458333,0,0,0.26458333,1.8908527,15.117067)"
          id="g1080"
-         style="font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1058)"><path
-           d="m 261.42059,361.04327 h -8.82293 v -1.53126 h 8.82293 z m 0,4.05599 h -8.82293 v -1.53125 h 8.82293 z"
+         style="font-size:18.6667px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1058)"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M251.4091 366.8467 262.6091 366.8467C262.5718 366.66 262.5531 366.4734 262.5531 366.2867C262.5531 366.1 262.5718 365.9134 262.6091 365.7267L251.4091 365.7267C251.4464 365.9134 251.4651 366.1 251.4651 366.2867C251.4651 366.4734 251.4464 366.66 251.4091 366.8467ZM251.4091 362.74 262.6091 362.74C262.5718 362.5534 262.5531 362.3667 262.5531 362.18C262.5531 361.9934 262.5718 361.8067 262.6091 361.62L251.4091 361.62C251.4464 361.8067 251.4651 361.9934 251.4651 362.18C251.4651 362.3667 251.4464 362.5534 251.4091 362.74Z"
            id="path1078" /></g><path
          style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="M 63.50114,110.9771 H 58.39583"

@@ -72,9 +72,9 @@
            id="path1064"
            sodipodi:nodetypes="cc"
            transform="translate(-45.987603,-24.1542)" /><path
-           d="m 107.21289,148.89033 h -4.66879 v -0.81029 h 4.66879 z m 0,2.14629 h -4.66879 v -0.81028 h 4.66879 z"
+           d="M101.9152 151.9613H107.8418C107.8221 151.8625 107.8122 151.7638 107.8122 151.665C107.8122 151.5662 107.8221 151.4674 107.8418 151.3686H101.9152C101.9349 151.4674 101.9448 151.5662 101.9448 151.665C101.9448 151.7638 101.9349 151.8625 101.9152 151.9613ZM101.9152 149.7882H107.8418C107.8221 149.6894 107.8122 149.5906 107.8122 149.4919C107.8122 149.3931 107.8221 149.2943 107.8418 149.1955H101.9152C101.9349 149.2943 101.9448 149.3931 101.9448 149.4919C101.9448 149.5906 101.9349 149.6894 101.9152 149.7882Z"
            id="path1196"
-           style="font-size:37.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;stroke-width:0.264583"
+           style="font-size:37.3333px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;stroke-width:0.264583;fill-rule:nonzero"
            transform="translate(-45.987603,-24.1542)" /><path
            style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            d="m 71.962873,118.66693 h 12.85994 l -6.551471,11.02701"

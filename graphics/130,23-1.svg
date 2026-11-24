@@ -55,8 +55,8 @@
          aria-label="="
          transform="matrix(0.26458333,0,0,0.26458333,1.3559139,0.79375)"
          id="text1107"
-         style="font-size:37.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1109)"><path
-           d="m 257.47394,521.66461 h -17.64582 v -3.0625 h 17.64582 z m 0,8.11197 h -17.64582 v -3.0625 h 17.64582 z"
+         style="font-size:37.3333px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1109)"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M237.451 533.2715 259.851 533.2715C259.7764 532.8981 259.739 532.5248 259.739 532.1515C259.739 531.7781 259.7764 531.4048 259.851 531.0315L237.451 531.0315C237.5257 531.4048 237.563 531.7781 237.563 532.1515C237.563 532.5248 237.5257 532.8981 237.451 533.2715ZM237.451 525.0581 259.851 525.0581C259.7764 524.6848 259.739 524.3115 259.739 523.9381C259.739 523.5648 259.7764 523.1915 259.851 522.8181L237.451 522.8181C237.5257 523.1915 237.563 523.5648 237.563 523.9381C237.563 524.3115 237.5257 524.6848 237.451 525.0581Z"
            id="path294" /></g><path
          style="fill:none;stroke:#000000;stroke-width:0.608542;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 41.448077,140.83433 6.863445,-8.20048 6.863445,8.20048 -6.863445,17.20318 z"

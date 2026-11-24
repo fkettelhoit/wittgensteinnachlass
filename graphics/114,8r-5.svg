@@ -130,14 +130,12 @@
          sodipodi:open="true"
          sodipodi:arc-type="arc"
          d="m -86.611456,-152.09894 a 11.119822,11.119822 0 0 1 -5.559911,9.63005 11.119822,11.119822 0 0 1 -11.119823,0 11.119822,11.119822 0 0 1 -5.55991,-9.63005"
-         transform="scale(-1)" /><text
-         xml:space="preserve"
+         transform="scale(-1)" /><g id="text7993" aria-label="V"><path
+         d="M134.6475 262.5504 135.3195 262.6067C135.7114 262.6437 135.9166 262.8304 136.1408 263.372L139.6501 271.9958C140.2287 273.4146 140.4528 274.0677 140.7329 275.0757H141.6661C142.021 273.9184 142.2447 273.3024 142.8608 271.8091L146.1089 263.9507C146.5382 262.9238 146.7809 262.6437 147.1169 262.6067L147.6766 262.5504V261.9906C147.0046 262.028 146.3326 262.0465 145.6606 262.0465C144.9886 262.0465 144.3166 262.028 143.6446 261.9906V262.5504L144.6156 262.6067C145.3061 262.6437 145.3621 263.1664 145.1009 263.8199L141.685 272.6493L138.0075 263.1853C137.9141 262.9238 138.0634 262.6252 138.5676 262.6067L139.6126 262.5504V261.9906C138.7913 262.028 137.9515 262.0465 137.1302 262.0465C136.309 262.0465 135.4688 262.028 134.6475 261.9906V262.5504Z"
+         id="text7993-path"
+         style="font-size:18.6667px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;fill-rule:nonzero"
          transform="matrix(0.26458333,0,0,0.26458333,69.189723,64.382252)"
-         id="text7993"
-         style="font-size:18.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect7995);display:inline"><tspan
-           x="134.96875"
-           y="274.90786"
-           id="tspan6842">V</tspan></text></g></g><metadata
+         /></g></g></g><metadata
      id="metadata1023"><rdf:RDF><cc:Work
          rdf:about=""><dc:title>Ms-114,8r-5</dc:title><dc:date>2023</dc:date><dc:creator><cc:Agent><dc:title>Sara Lavazza</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>Wittgenstein Archives at the University of Bergen</dc:title></cc:Agent></dc:publisher><dc:subject><rdf:Bag><rdf:li>Wittgenstein</rdf:li></rdf:Bag></dc:subject><cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" /></cc:Work><cc:License

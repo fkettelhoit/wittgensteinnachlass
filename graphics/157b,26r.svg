@@ -103,14 +103,14 @@
          aria-label="+"
          transform="matrix(0.26458333,0,0,0.26458333,-3.6520554,40.286977)"
          id="text1163"
-         style="font-size:37.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1165);display:inline"><path
-           d="m 396.69335,409.50314 v -7.32812 h -7.27343 v -3.0625 h 7.27343 v -7.27343 h 3.09896 v 7.27343 h 7.27343 v 3.0625 h -7.27343 v 7.32812 z"
+         style="font-size:37.3333px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1165);display:inline"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M387.0428 405.6101 397.1228 405.6101 397.1228 415.6901C397.4962 415.6154 397.8695 415.5781 398.2428 415.5781C398.6162 415.5781 398.9895 415.6154 399.3628 415.6901L399.3628 405.6101L409.4428 405.6101C409.3682 405.2368 409.3308 404.8635 409.3308 404.4901C409.3308 404.1168 409.3682 403.7435 409.4428 403.3701L399.3628 403.3701L399.3628 393.2901C398.9895 393.3648 398.6162 393.4021 398.2428 393.4021C397.8695 393.4021 397.4962 393.3648 397.1228 393.2901L397.1228 403.3701L387.0428 403.3701C387.1175 403.7435 387.1548 404.1168 387.1548 404.4901C387.1548 404.8635 387.1175 405.2368 387.0428 405.6101Z"
            id="path2390" /></g><g
          aria-label="="
          transform="matrix(0.26458333,0,0,0.26458333,32.405041,40.286977)"
          id="text1227"
-         style="font-size:37.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1229);display:inline"><path
-           d="m 407.06574,398.10992 h -17.64582 v -3.0625 h 17.64582 z m 0,8.11197 h -17.64582 v -3.06249 h 17.64582 z"
+         style="font-size:37.3333px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1229);display:inline"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M387.0428 409.7168 409.4428 409.7168C409.3682 409.3435 409.3308 408.9701 409.3308 408.5968C409.3308 408.2235 409.3682 407.8501 409.4428 407.4768L387.0428 407.4768C387.1175 407.8501 387.1548 408.2235 387.1548 408.5968C387.1548 408.9701 387.1175 409.3435 387.0428 409.7168ZM387.0428 401.5035 409.4428 401.5035C409.3682 401.1301 409.3308 400.7568 409.3308 400.3835C409.3308 400.0101 409.3682 399.6368 409.4428 399.2635L387.0428 399.2635C387.1175 399.6368 387.1548 400.0101 387.1548 400.3835C387.1548 400.7568 387.1175 401.1301 387.0428 401.5035Z"
            id="path2393" /></g><path
          style="opacity:1;fill:none;stroke:#000000;stroke-width:0.687917;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="path1309"

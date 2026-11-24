@@ -82,14 +82,14 @@
          aria-label="L"
          transform="matrix(0.26458333,0,0,0.26458333,4.2229043,-1.7017674)"
          id="text1107"
-         style="font-size:21.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1109)"><path
-           d="m 392.12109,389.52466 v -15.27081 h 2.02083 v 13.46873 h 7.52082 v 1.80208 z"
+         style="font-size:21.3333px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1109)"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M390.8759 375.402 391.8999 375.466C392.8813 375.53 392.9879 375.7007 392.9879 377.386L392.9879 387.498C392.9879 388.1167 392.7959 388.586 392.4546 388.7567L391.7933 389.098L391.7933 389.5887C392.4973 389.546 393.2013 389.5247 393.9053 389.5247C395.5693 389.5247 397.2119 389.5887 398.8759 389.5887C399.7719 389.5887 399.5586 389.5887 402.4599 389.5247C402.6092 388.6073 402.6946 387.9247 402.9079 385.8553L402.2252 385.8553L401.9692 386.922C401.7772 387.754 401.6279 388.202 401.4999 388.3087C401.2226 388.5433 399.3666 388.6927 396.8279 388.6927C396.0599 388.6927 395.5693 388.65 395.0146 388.522L395.0146 377.386C395.0146 375.7007 395.1213 375.53 396.1026 375.466L397.1266 375.402L397.1266 374.762C396.0812 374.8047 395.0359 374.826 393.9906 374.826C392.9453 374.826 391.9213 374.8047 390.8759 374.762Z"
            id="path2619" /></g><g
          aria-label="l"
          transform="matrix(0.26458333,0,0,0.26458333,16.481932,2.5989326)"
          id="text1163"
-         style="font-size:21.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1165)"><path
-           d="m 391.92317,389.52466 v -15.27081 h 1.875 v 15.27081 z"
+         style="font-size:21.3333px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1165)"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M390.194 389.5887C391.09 389.546 391.9647 389.5247 392.8607 389.5247C393.7567 389.5247 394.6313 389.546 395.5273 389.5887V388.9487L394.546 388.8847C393.8207 388.842 393.7567 388.6927 393.7567 387.3487L393.7567 374.2074L393.5647 374.0367C392.626 374.3993 391.922 374.57 390.2367 374.826V375.4233L391.4313 375.4233C391.8153 375.4233 391.9647 375.658 391.9647 376.298L391.9647 387.3487C391.9647 388.6927 391.9007 388.842 391.1753 388.8847L390.194 388.9487Z"
            id="path2622" /></g></g></g><metadata
      id="metadata9"><rdf:RDF><cc:Work
          rdf:about=""><cc:license
