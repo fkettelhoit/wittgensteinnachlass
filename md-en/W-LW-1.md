@@ -2470,11 +2470,7 @@ The expression of the aspect then follows the expression of perception, just as 
 
 ### [Ms-137](/ms-137/#122b.4+123a.1) <span class="fac">[122b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp),[123a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/123a.webp)</span> {#ms-137-122b-4--123a-1}
 
-The _seeing_ of an aspect is an act of will. One can ask someone: Look at it now _in this way_. Consider the similarity, try to see it again, 12.12.1948. Listen to the theme _in this way_, etc. But does this mean that seeing is an act of will? Or is it rather the way of looking that brings about this seeing? I can, for example, see the cube diagram _in this way_ by directing my gaze particularly to _these_ edges. If I do this, then the shift in aspect follows. Here, I _know_ how I _bring it about_. On the other hand, if I
-
-![](../graphics/233a,43.svg)
-
-look at it in this way and that way, then I am not conscious of it.
+The _seeing_ of an aspect is an act of will. One can ask someone: Look at it now _in this way_. Consider the similarity, try to see it again, 12.12.1948. Listen to the theme _in this way_, etc. But does this mean that seeing is an act of will? Or is it rather the way of looking that brings about this seeing? I can, for example, see the cube diagram _in this way_ by directing my gaze particularly to _these_ edges. If I do this, then the shift in aspect follows. Here, I _know_ how I _bring it about_. On the other hand, if I <img class="math math-inline math-drawing" src="../math/886e6be3af062816.svg" alt="Ŧ (F with its mirror image)" style="width:0.777em;height:0.720em;vertical-align:-0.020em"> look at it in this way and that way, then I am not conscious of it.
 
 
 ### [Ms-137](/ms-137/#123a.2) <span class="fac">[123a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/123a.webp)</span> {#ms-137-123a-2}
@@ -3264,17 +3260,9 @@ is the reversal of
 
 ![](../graphics/137,135a-2.svg)
 
-& this:
+& this: <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> [must be written in mirror writing] the reversal of
 
-![](../graphics/137,135a-3.svg)
-
-[must be written in mirror writing] the reversal of
-
-this:
-
-![](../graphics/137,135a-4.svg)<span class="post-block-punct">.</span>
-
-One is inclined to say that one sees the inverted word differently than the upright one. This is easy to copy, that one is difficult.
+this: <img class="math math-inline math-drawing" src="../math/9c1a4e6379858db4.svg" alt="Freude" style="width:3.123em;height:0.746em;vertical-align:-0.020em">. One is inclined to say that one sees the inverted word differently than the upright one. This is easy to copy, that one is difficult.
 
 
 ### [Ms-137](/ms-137/#135a.3) <span class="fac">[135a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135a.webp)</span> {#ms-137-135a-3}

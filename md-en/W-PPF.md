@@ -799,15 +799,7 @@ is the reversal of figure b)
 
 ![](../graphics/144,28v-2.svg)<span class="post-block-punct">,</span>
 
-as figure c)
-
-![](../graphics/144,28v-3.svg)
-
-is the reversal of d)
-
-![](../graphics/144,28v-4.svg)<span class="post-block-punct">.</span>
-
-But there is a different difference between my impression of c & d – I would like to say – than between that of a & b. (For example, d looks neater than c. Compare a remark by Lewis Carroll.) d is easy to copy, c difficult.
+as figure c) <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> is the reversal of d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. But there is a different difference between my impression of c & d – I would like to say – than between that of a & b. (For example, d looks neater than c. Compare a remark by Lewis Carroll.) d is easy to copy, c difficult.
 
 
 ### [Ms-144](/ms-144/#28v.2) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v-2}
@@ -1090,11 +1082,7 @@ a90
 
 ### [Ms-144](/ms-144/#34v.3) <span class="fac">[34v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34v-3}
 
-<span class="series-number">a92</span> “I see it now as a…” goes together with “I try to see it as a…” or “I cannot yet see it as a…”. But I cannot try to see the conventional picture of a lion _as_ a lion, just as little as I can see
-
-![](../graphics/144,34v-1.svg)
-
-as that letter. (But perhaps as a gallows.)
+<span class="series-number">a92</span> “I see it now as a…” goes together with “I try to see it as a…” or “I cannot yet see it as a…”. But I cannot try to see the conventional picture of a lion _as_ a lion, just as little as I can see <img class="math math-inline math-drawing" src="../math/886e6be3af062816.svg" alt="Ŧ (F with its mirror image)" style="width:0.777em;height:0.720em;vertical-align:-0.020em"> as that letter. (But perhaps as a gallows.)
 
 a93
 

@@ -2008,11 +2008,7 @@ Zwei Verwendungen von “_sehen_”. Die eine: “Ich sehe _dies_” – wobei i
 
 ### [Ms-137](/ms-137/#122b.4+123a.1) <span class="fac">[122b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp),[123a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/123a.webp)</span> {#ms-137-122b-4--123a-1}
 
-<span class="series-number">451</span> Das _Sehen_ des Aspekts eine Willenshandlung. Man kann Einen auffordern: Schau es jetzt _so_ an. Trachte die Ähnlichkeit 12.12.1948 wieder zu sehen. Hör das Thema _so_ etc. Aber ist damit das Sehen eine Willenshandlung? nicht vielmehr die Art des Anschauens die dies Sehen hervorruft? Ich kann z.B. das Würfelschema _so_ sehen, indem ich den Blick auf _diese_ Kanten besonders richte. Wenn ich es tue, dann folgt das Umschlagen des Aspekts. Hier _weiß_ ich wie ich es _herbeiführe_. Anderseits, wenn ich
-
-![](../graphics/233a,43.svg)
-
-so & so betrachte so bin ich mir dessen nicht bewußt.
+<span class="series-number">451</span> Das _Sehen_ des Aspekts eine Willenshandlung. Man kann Einen auffordern: Schau es jetzt _so_ an. Trachte die Ähnlichkeit 12.12.1948 wieder zu sehen. Hör das Thema _so_ etc. Aber ist damit das Sehen eine Willenshandlung? nicht vielmehr die Art des Anschauens die dies Sehen hervorruft? Ich kann z.B. das Würfelschema _so_ sehen, indem ich den Blick auf _diese_ Kanten besonders richte. Wenn ich es tue, dann folgt das Umschlagen des Aspekts. Hier _weiß_ ich wie ich es _herbeiführe_. Anderseits, wenn ich <img class="math math-inline math-drawing" src="../math/886e6be3af062816.svg" alt="Ŧ (F with its mirror image)" style="width:0.777em;height:0.720em;vertical-align:-0.020em"> so & so betrachte so bin ich mir dessen nicht bewußt.
 
 ### [Ms-137](/ms-137/#123a.2) <span class="fac">[123a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/123a.webp)</span> {#ms-137-123a-2}
 
@@ -2652,17 +2648,9 @@ ist die Umkehrung von
 
 ![](../graphics/137,135a-2.svg)
 
-& diese:
+& diese: <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> [muß in Spiegelschrift geschrieben werden] die Umkehrung von
 
-![](../graphics/137,135a-3.svg)
-
-[muß in Spiegelschrift geschrieben werden] die Umkehrung von
-
-dieser:
-
-![](../graphics/137,135a-4.svg)<span class="post-block-punct">.</span>
-
-Man ist geneigt zu sagen daß man das verkehrte Wort anders _sieht_ als das aufrechte. Dieses ist leicht zu kopieren, jenes schwer.
+dieser: <img class="math math-inline math-drawing" src="../math/9c1a4e6379858db4.svg" alt="Freude" style="width:3.123em;height:0.746em;vertical-align:-0.020em">. Man ist geneigt zu sagen daß man das verkehrte Wort anders _sieht_ als das aufrechte. Dieses ist leicht zu kopieren, jenes schwer.
 
 ### [Ms-137](/ms-137/#135a.3) <span class="fac">[135a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135a.webp)</span> {#ms-137-135a-3}
 
