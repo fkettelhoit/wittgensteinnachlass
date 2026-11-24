@@ -1,3 +1,5 @@
+#[path = "../../editions.rs"]
+mod editions;
 mod prepare;
 
 use clap::Parser;
@@ -46,6 +48,10 @@ struct Cli {
     /// Path to shared transcription CSS
     #[arg(long, default_value = "../../css/transcription.css")]
     transcription_css: PathBuf,
+
+    /// Editors of the published works, for the note at the start of a work
+    #[arg(long, default_value = "../../site/data/editions.yaml")]
+    editions: PathBuf,
 }
 
 fn main() {
@@ -96,7 +102,8 @@ fn main() {
 
         // Write prepared markdown to temp file
         let tmp_md = cli.output.join(format!("_tmp_{}.md", stem));
-        fs::write(&tmp_md, &prepared.content).expect("Failed to write temp markdown");
+        let content = editions::with_note(&prepared.content, &stem, &cli.editions);
+        fs::write(&tmp_md, &content).expect("Failed to write temp markdown");
 
         // Convert the cover SVG to PNG. A cover that exists but fails to convert (e.g.
         // rsvg-convert missing) would silently yield a coverless ebook — treat that as a

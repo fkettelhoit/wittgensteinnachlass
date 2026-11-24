@@ -1,3 +1,5 @@
+#[path = "../../editions.rs"]
+mod editions;
 mod prepare;
 mod template;
 
@@ -52,6 +54,10 @@ struct Cli {
     /// Path to shared transcription CSS
     #[arg(long, default_value = "../../css/transcription.css")]
     transcription_css: PathBuf,
+
+    /// Editors of the published works, for the note at the start of a work
+    #[arg(long, default_value = "../../site/data/editions.yaml")]
+    editions: PathBuf,
 }
 
 fn main() {
@@ -141,7 +147,8 @@ fn main() {
 
         // Write prepared markdown to temp file
         let tmp_md = cli.output.join(format!("_tmp_{}.md", stem));
-        fs::write(&tmp_md, &prepared.content).expect("Failed to write temp markdown");
+        let content = editions::with_note(&prepared.content, &stem, &cli.editions);
+        fs::write(&tmp_md, &content).expect("Failed to write temp markdown");
 
         // Check for cover image
         let cover_svg = cli.covers.join(format!("{}.svg", stem));

@@ -1,8 +1,10 @@
 {{/* Editors line + note for work pages: who edited the published book whose
      arrangement the page follows (site/data/editions.yaml), and why the text
-     differs from that book. Returns "" for non-work pages.
+     differs from that book. The wording is in site/data/edition_note.yaml, shared
+     with the ebooks and pdfs (tools/editions.rs). Returns "" for non-work pages.
      Context: the page. Returns an HTML string. */}}
 {{ $out := "" }}
+{{ $wording := site.Data.edition_note }}
 {{ if eq .Params.doctype "Work" }}
   {{ $stem := .File.ContentBaseName }}
   {{ $key := "" }}
@@ -17,11 +19,12 @@
     {{ if $e.credit }}
       {{ $credit = $e.credit }}
     {{ else }}
-      {{ $credit = printf "Edited by %s (%v%s)." $e.editors $e.year (cond (isset $e "extra") (printf ", %s" $e.extra) "") }}
+      {{ $extra := cond (isset $e "extra") (printf ", %s" $e.extra) "" }}
+      {{ $credit = replace (replace (replace $wording.credit "{editors}" $e.editors) "{year}" (string $e.year)) "{extra}" $extra }}
     {{ end }}
     {{ $credit = printf `<span class="edition-credit">%s</span> ` $credit }}
   {{ end }}
-  {{ $note := `Arranged as in the published edition, but with Wittgenstein’s original text, which differs from the printed book in <a href="/about/#editorial-criteria">variants, spelling and punctuation</a>.` }}
+  {{ $note := replace $wording.note "{about}" "/about/#editorial-criteria" }}
   {{ $out = printf `<p class="edition-note">%s%s</p>` $credit $note }}
 {{ end }}
 {{ return $out }}

@@ -1,0 +1,7 @@
+# Wording of the note on the published works (W-*), used by the site
+# (layouts/partials/edition-note.html) and by the ebooks and pdfs (tools/editions.rs).
+# {editors}, {year} and {extra} are filled in from editions.yaml ({extra} with ", "
+# before it, if the work has one); {about} is the link to the editorial criteria
+# (relative on the site, absolute in the books).
+credit: "Edited by {editors} ({year}{extra})."
+note: "Arranged as in the published edition, but with Wittgenstein’s original text, which differs from the printed book in <a href=\"{about}\">variants, spelling and punctuation</a>."
