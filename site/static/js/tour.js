@@ -45,7 +45,7 @@
   const MOTTO = "ts-227a-1-2"; // the motto's id in PI
   const MOTTO_SECTION = `section:has(> [id="${MOTTO}"])`;
   const VERSIONS = `[id="${MOTTO}"] .versions`;
-  const TO_MS134 = `${VERSIONS} a[href="/ms-134/#1523"]`;
+  const TO_MS134 = `${VERSIONS} a[href="/ms-134/#152-3"]`;
   const RESULT_LINK = `a[href="${PI}#${MOTTO}"]`; // the search result's "PI" link
   const RESULT = `.search-results ${RESULT_LINK}`;
   const MS134 = "/ms-134/";
@@ -124,7 +124,7 @@
     },
     {
       page: MS134,
-      target: `.sticky-title, section:has(> [id="1523"])`,
+      target: `.sticky-title, section:has(> [id="152-3"])`,
       click: ".sticky-title-text",
       boxes: ".sticky-title",
       fixed: true,
