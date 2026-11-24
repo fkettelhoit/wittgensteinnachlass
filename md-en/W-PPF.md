@@ -799,7 +799,7 @@ is the reversal of figure b)
 
 ![](../graphics/144,28v-2.svg)<span class="post-block-punct">,</span>
 
-as figure c) <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> is the reversal of d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. But there is a different difference between my impression of c & d – I would like to say – than between that of a & b. (For example, d looks neater than c. Compare a remark by Lewis Carroll.) d is easy to copy, c difficult.
+as figure c) <img class="math math-inline math-drawing" src="../math/d2ad9738e820c070.svg" alt="“Freude” in mirror writing, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em"> is the reversal of d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. But there is a different difference between my impression of c & d – I would like to say – than between that of a & b. (For example, d looks neater than c. Compare a remark by Lewis Carroll.) d is easy to copy, c difficult.
 
 
 ### [Ms-144](/ms-144/#28v.2) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v-2}

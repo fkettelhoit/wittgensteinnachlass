@@ -646,7 +646,7 @@ ist die Umkehrung der Figur b)
 
 ![](../graphics/144,28v-2.svg)<span class="post-block-punct">,</span>
 
-wie die Figur c) <img class="math math-inline math-drawing" src="../math/0624af356de0bbcc.svg" alt="“Freude” in mirror writing" style="width:3.123em;height:0.746em;vertical-align:-0.020em"> die Umkehrung von d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. Aber zwischen meinem Eindruck von c & d besteht ein anderer Unterschied – möchte ich sagen – als zwischen dem von a & von b. (d sieht z.B. ordentlicher aus, als c. Vergleiche eine Bemerkung von Lewis Carrol.) d ist leicht zu kopieren, c schwer.
+wie die Figur c) <img class="math math-inline math-drawing" src="../math/d2ad9738e820c070.svg" alt="“Freude” in mirror writing, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em"> die Umkehrung von d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. Aber zwischen meinem Eindruck von c & d besteht ein anderer Unterschied – möchte ich sagen – als zwischen dem von a & von b. (d sieht z.B. ordentlicher aus, als c. Vergleiche eine Bemerkung von Lewis Carrol.) d ist leicht zu kopieren, c schwer.
 
 ### [Ms-144](/ms-144/#28v.2) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v-2}
 
