@@ -1540,6 +1540,15 @@ body.bilingual .sticky-title {
   /* Dims everything else, however far the page is scrolled away from the target. */
   box-shadow: 0 0 0 100000px color-mix(in srgb, var(--color-shade) 35%, transparent);
   pointer-events: none;
+  /* Fade in on each page (the spot is added once per page and then only moved), so
+     that arriving on the next step's page doesn't snap from undimmed to dimmed. */
+  animation: tour-dim-in 0.5s ease-out;
+}
+
+@keyframes tour-dim-in {
+  from {
+    box-shadow: 0 0 0 100000px transparent;
+  }
 }
 
 .tour-spot-off {
@@ -1580,6 +1589,13 @@ body.bilingual .sticky-title {
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5rem;
+  animation: tour-fade-in 0.5s ease-out; /* together with the dimming, see .tour-spot */
+}
+
+@keyframes tour-fade-in {
+  from {
+    opacity: 0;
+  }
 }
 
 .tour p {
