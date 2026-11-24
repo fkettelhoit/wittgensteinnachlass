@@ -13,13 +13,12 @@
 //! ```
 //!
 //! English files (`md-en/`) carry byte-identical `### ` headings (verified), and the
-//! bilingual page reuses the German heading, so the same fragment slug is correct for both
+//! bilingual page reuses the German heading, so the same fragment is correct for both
 //! languages — English records only differ by the `/en/` URL prefix and the content.
 
 use crate::record::WorkLink;
 use crate::slug;
 use regex::Regex;
-use std::collections::HashMap;
 
 /// Compiled regexes, built once and reused across every remark.
 pub struct Res {
@@ -27,7 +26,6 @@ pub struct Res {
     link: Regex,
     work_link: Regex,
     date: Regex,
-    explicit_id: Regex,
     series: Regex,
     math_inline: Regex,
     em: Regex,
@@ -54,9 +52,6 @@ impl Res {
             work_link: Regex::new(r"\[([^\]]+)\]\((/w-[^)]+)\)").unwrap(),
             // A standalone written-date line, `DD.MM.YYYY`.
             date: Regex::new(r"^(\d{2})\.(\d{2})\.(\d{4})$").unwrap(),
-            // Explicit Goldmark heading-ID attribute, e.g. `… </span> {#802811821}`. Present on
-            // remarks that were published in a work; rendered verbatim (never de-duplicated).
-            explicit_id: Regex::new(r"\{#([^}\s]+)").unwrap(),
             // Published series number, e.g. `<span class="series-number">1˙1</span>`.
             series: Regex::new(r#"<span class="series-number">(.*?)</span>"#).unwrap(),
             // Inline math: legacy MathML or a rendered LaTeX formula image.
@@ -128,18 +123,21 @@ fn remark_blocks(content: &str) -> Vec<(String, Vec<&str>)> {
     blocks
 }
 
-/// Pull the facsimile labels and image URLs out of a heading's `<span class="fac">`.
-/// Returns `(page_refs, image_urls)` with brackets unescaped for display.
-fn parse_fac(heading: &str, res: &Res) -> (Vec<String>, Vec<String>) {
+/// Pull the linked facsimile labels, their image URLs and the heading id out of a
+/// heading's `<span class="fac">`. Returns `(page_refs, image_urls, fragment)` with
+/// brackets unescaped for display.
+fn parse_fac(heading: &str, res: &Res) -> (Vec<String>, Vec<String>, String) {
     let mut refs = Vec::new();
     let mut urls = Vec::new();
+    let mut fragment = String::new();
     if let Some(span) = res.fac_span.captures(heading) {
         for cap in res.link.captures_iter(&span[1]) {
             refs.push(slug::unescape_label(&cap[1]));
             urls.push(cap[2].to_string());
         }
+        fragment = slug::remark_id(&span[1]);
     }
-    (refs, urls)
+    (refs, urls, fragment)
 }
 
 fn is_horizontal_rule(line: &str) -> bool {
@@ -237,39 +235,14 @@ fn parse_body(lines: &[&str], res: &Res) -> (Option<String>, Option<u64>, Option
 pub fn parse_file(content: &str, res: &Res) -> Option<(DocMeta, Vec<Remark>)> {
     let meta = doc_meta(content)?;
     let mut remarks = Vec::new();
-    // Hugo disambiguates duplicate heading anchors by appending `-1`, `-2`, … Track per file.
-    let mut seen: HashMap<String, u32> = HashMap::new();
 
     for (heading, body) in remark_blocks(content) {
-        let (page_refs, urls) = parse_fac(&heading, res);
+        // The heading id comes from the site's render hook, which never de-duplicates
+        // (the same id can appear twice on a page if a document repeats a ref).
+        let (page_refs, urls, fragment) = parse_fac(&heading, res);
         if page_refs.is_empty() {
             continue;
         }
-        // A remark published in a work carries an explicit `{#id}` attribute, which Hugo
-        // renders verbatim and never de-duplicates (so the same id can appear twice on a
-        // page). A plain remark gets a Goldmark auto-slug from its heading text, which Hugo
-        // *does* de-duplicate by appending `-1`, `-2`, …
-        let fragment = if let Some(c) = res.explicit_id.captures(&heading) {
-            let id = c[1].to_string();
-            // Reserve the value so a later colliding auto-id is still suffixed, but never
-            // suffix the explicit id itself.
-            let e = seen.entry(id.clone()).or_insert(0);
-            *e = (*e).max(1);
-            id
-        } else {
-            let base: String = slug::github_slug(&page_refs.concat());
-            if base.is_empty() {
-                continue;
-            }
-            let count = seen.entry(base.clone()).or_insert(0);
-            let frag = if *count == 0 {
-                base.clone()
-            } else {
-                format!("{base}-{count}")
-            };
-            *count += 1;
-            frag
-        };
 
         let (date, date_sort, series_number, content) = parse_body(&body, res);
         remarks.push(Remark {
@@ -348,7 +321,7 @@ Nach meinem Tod zu senden
         assert_eq!(remarks.len(), 2);
 
         let r0 = &remarks[0];
-        assert_eq!(r0.fragment, "1r22r1");
+        assert_eq!(r0.fragment, "1r-2--2r-1");
         assert_eq!(r0.page_refs, vec!["1r[2]", "2r[1]"]);
         assert_eq!(r0.image_url.as_deref(), Some("https://cdn/2000px/webp/Ms-101/1r.webp"));
         assert_eq!(r0.date.as_deref(), Some("1914-08-10"));
@@ -356,7 +329,7 @@ Nach meinem Tod zu senden
         // Emphasis and bold markers are stripped; the date line is not in the content.
         assert_eq!(r0.content, "Als Rekrut eingekleidet worden. Wenig Hoffnung zu können.");
 
-        assert_eq!(remarks[1].fragment, "iir1");
+        assert_eq!(remarks[1].fragment, "iir-1");
         assert_eq!(remarks[1].content, "Nach meinem Tod zu senden");
     }
 
@@ -370,30 +343,20 @@ Nach meinem Tod zu senden
     }
 
     #[test]
-    fn duplicate_fragments_get_hugo_suffix() {
+    fn fragments_keep_ref_boundaries() {
+        // 3[12] and 31[2] would both be "312" under Goldmark's auto-ids.
         let res = Res::new();
-        let doc = "# Ms-1\n\n### <span class=\"fac\">[1\\[1\\]](u/Ms-1/1.webp)</span>\n\na\n\n### <span class=\"fac\">[1\\[1\\]](u/Ms-1/1.webp)</span>\n\nb\n";
+        let doc = "# Ms-104\n\n### [PT](/w-pt/#ms-104-3.12) <span class=\"fac\">[3\\[12\\]](u/Ms-104/3.webp)</span>\n\na\n\n### [PT](/w-pt/#ms-104-31.2) <span class=\"fac\">[31\\[2\\]](u/Ms-104/31.webp)</span>\n\nb\n";
         let (_, remarks) = parse_file(doc, &res).unwrap();
-        assert_eq!(remarks[0].fragment, "11");
-        assert_eq!(remarks[1].fragment, "11-1");
-    }
-
-    #[test]
-    fn explicit_ids_are_used_verbatim_and_not_suffixed() {
-        // Two remarks published in a work can resolve to the same explicit {#id}; Hugo
-        // renders both verbatim (no `-1` suffix), unlike auto-generated ids.
-        let res = Res::new();
-        let doc = "# Ms-104\n\n### [PT](/w-pt/#ms-104-3.12) <span class=\"fac\">[3\\[12\\]](u/Ms-104/3.webp)</span> {#312}\n\na\n\n### [PT](/w-pt/#ms-104-31.2) <span class=\"fac\">[31\\[2\\]](u/Ms-104/31.webp)</span> {#312}\n\nb\n";
-        let (_, remarks) = parse_file(doc, &res).unwrap();
-        assert_eq!(remarks[0].fragment, "312");
-        assert_eq!(remarks[1].fragment, "312");
+        assert_eq!(remarks[0].fragment, "3-12");
+        assert_eq!(remarks[1].fragment, "31-2");
     }
 
     #[test]
     fn parse_works_uses_the_doc_heading_label_and_part_link() {
         let res = Res::new();
         // A document heading for a remark published in RFM part III.
-        let heading = r#"[RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">[5r\[2\]](u/Ms-122/5r.webp)</span> {#5r-2--5v-1}"#;
+        let heading = r#"[RFM III](/w-rfm-3/#ms-122-5r.2+5v.1) <span class="fac">[5r\[2\]](u/Ms-122/5r.webp)</span>"#;
         let works = parse_works(heading, &res);
         assert_eq!(works.len(), 1);
         assert_eq!(works[0].label, "RFM III"); // exactly as the doc page shows it

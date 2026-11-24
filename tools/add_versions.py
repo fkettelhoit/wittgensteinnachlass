@@ -30,9 +30,9 @@ MIN_SIMILAR_VIZ of them, most first, and the remaining documents on one line:
 The names in these summaries, and in the parser's summary of the document's or work's
 own visualization, are links to the documents and works (see linked_summary).
 
-The block goes into the body rather than the markdown heading because headings
-without an explicit {#id} get their anchor from the heading text, which must not
-change. The template moves it into the rendered heading after the anchors exist.
+The block goes into the body rather than the markdown heading because the heading
+id is derived from the heading (see remark_id). The template moves it into the
+rendered heading after the anchors exist.
 """
 
 import csv
@@ -49,30 +49,18 @@ MIN_SIMILAR_VIZ = 10
 FAC_SPAN = re.compile(r'<span class="fac">(.*?)</span>')
 FAC_LINK = re.compile(r"\[((?:\\.|[^\]\\])*)\]\((https?://[^)]+)\)")
 WORK_SOURCE = re.compile(r"^### \[((?:Ms|Ts)-[^\]]+)\]\(/")
-EXPLICIT_ID = re.compile(r"\{#([^}]+)\}\s*$")
 
 ARROWS = {"earlier": "←", "concurrent": "≈", "later": "→"}
 TITLES = {"earlier": "Earlier version", "concurrent": "Concurrent version", "later": "Later version"}
 GROUP_ORDER = {"earlier": 0, "concurrent": 1, "later": 2}
 
 
-def github_slug(text):
-    """Hugo's default heading ID (see tools/search-index/src/slug.rs)."""
-    out, pending = [], False
-    for c in text:
-        if c.isalnum():
-            if pending and out:
-                out.append("-")
-            pending = False
-            out.append(c.lower())
-        elif c == "_":
-            if pending and out:
-                out.append("-")
-            pending = False
-            out.append("_")
-        elif c in " -":
-            pending = True
-    return "".join(out)
+def remark_id(fac):
+    """A document remark's heading id, as site/layouts/_default/_markup/render-heading.html
+    derives it from all facsimile labels in the `fac` span, linked or not:
+    `[1r\\[2\\]](url),1v\\[1\\]` → `1r-2--1v-1`."""
+    text = FAC_LINK.sub(lambda m: m.group(1), fac).replace("\\[", "[").replace("\\]", "]")
+    return re.sub(r"[\[.]", "-", text.replace("]", "")).replace(",", "--").lower() or None
 
 
 def date_base(siglum):
@@ -87,7 +75,6 @@ def parse_remarks(md_dir, docs):
     remarks = {}
     pos = 0
     for doc in docs:
-        seen_ids = {}
         seen_sigla = defaultdict(int)
         with open(os.path.join(md_dir, doc + ".md"), encoding="utf-8") as f:
             for line in f:
@@ -99,19 +86,7 @@ def parse_remarks(md_dir, docs):
                     m.group(1).replace("\\[", "[").replace("\\]", "]")
                     for m in FAC_LINK.finditer(fac.group(1) if fac else heading)
                 ]
-                # Anchor, exactly as Hugo assigns it.
-                explicit = EXPLICIT_ID.search(heading)
-                if explicit:
-                    fragment = explicit.group(1)
-                    seen_ids[fragment] = max(seen_ids.get(fragment, 0), 1)
-                else:
-                    base = github_slug("".join(labels))
-                    if not base:
-                        fragment = None
-                    else:
-                        count = seen_ids.get(base, 0)
-                        fragment = base if count == 0 else f"{base}-{count}"
-                        seen_ids[base] = count + 1
+                fragment = remark_id(fac.group(1)) if fac else None
                 # Siglum, exactly as tools/similar assigns it.
                 siglum = f"{doc},{'et'.join(labels)}"
                 seen_sigla[siglum] += 1

@@ -811,9 +811,27 @@ pub fn work_source_docs(work_path: &Path) -> Vec<String> {
 /// Compute the anchor ID from a source doc remark heading's page refs.
 /// E.g., heading `### [1\[1\]](url)` → `1.1`
 pub fn anchor_from_doc_heading(heading: &str) -> String {
-    // Strip HTML tags so links inside <span class="fac">...</span> are visible
-    let no_html = Regex::new(r"<[^>]+>").unwrap().replace_all(heading, "");
     let link_re = Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\(([^)]+)\)").unwrap();
+    // Inside <span class="fac">…</span> the labels are comma-separated, and a label
+    // whose facsimile is missing is plain text rather than a link (e.g.
+    // `74av\[4\],[75r\[1\]](url)`), so read every label, linked or not.
+    let fac_re = Regex::new(r#"<span class="fac">(.*?)</span>"#).unwrap();
+    if let Some(fac) = fac_re.captures(heading) {
+        return fac[1]
+            .split(',')
+            .map(|seg| {
+                // `[label](url)` → `label`; plain-text labels pass through.
+                let label = match (seg.strip_prefix('['), seg.find("](")) {
+                    (Some(_), Some(end)) => &seg[1..end],
+                    _ => seg,
+                };
+                label.replace("\\[", ".").replace("\\]", "")
+            })
+            .collect::<Vec<_>>()
+            .join("+");
+    }
+    // Strip HTML tags so any remaining links are visible
+    let no_html = Regex::new(r"<[^>]+>").unwrap().replace_all(heading, "");
     let mut parts = Vec::new();
     for cap in link_re.captures_iter(&no_html) {
         let url = &cap[2];
@@ -1422,6 +1440,17 @@ pub fn build_reuse_map(german_path: &Path, english_path: &Path) -> ReuseMap {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn anchor_reads_linked_and_unlinked_labels() {
+        let linked = r#"### [ROC III](/w-roc-3/#ms-173-74av.4+75r.1) <span class="fac">[74av\[4\]](https://cdn/74av.webp),[75r\[1\]](https://cdn/75r.webp)</span> {#74av-4--75r-1}"#;
+        let mixed = r#"### [ROC III](/w-roc-3/#ms-173-74av.4+75r.1) <span class="fac">74av\[4\],[75r\[1\]](https://cdn/75r.webp)</span> {#74av-4--75r-1}"#;
+        let plain = r#"### <span class="fac">128a\[2\]</span> {#128a-2}"#;
+        assert_eq!(anchor_from_doc_heading(linked), "74av.4+75r.1");
+        assert_eq!(anchor_from_doc_heading(mixed), "74av.4+75r.1");
+        assert_eq!(anchor_from_doc_heading(plain), "128a.2");
+        assert_eq!(anchor_from_doc_heading("### [1\\[1\\]](https://cdn/1.webp)"), "1.1");
+    }
 
     // Ts-222 class: the German `>` was escaped to `\>`; the English still has the
     // unescaped `>` and must get the same escape (else it renders as a blockquote).
