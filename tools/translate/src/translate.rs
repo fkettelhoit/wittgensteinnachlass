@@ -189,10 +189,10 @@ fn fix_instructions(issues: &[&verify::Issue], de_body: &str) -> String {
         let instruction = match issue.check {
             "structure" => {
                 if issue.description.contains("Math block") {
-                    let re = regex::Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+                    let re = regex::Regex::new(crate::common::MATH_PATTERN).unwrap();
                     let blocks: Vec<&str> = re.find_iter(de_body).map(|m| m.as_str()).collect();
                     if blocks.is_empty() {
-                        "Copy all <math>...</math> blocks from the original verbatim.".to_string()
+                        "Copy all math blocks (<math>...</math> or <img class=\"math\" ...>) from the original verbatim.".to_string()
                     } else {
                         format!(
                             "Your translation MUST contain these exact math blocks, \
@@ -201,7 +201,7 @@ fn fix_instructions(issues: &[&verify::Issue], de_body: &str) -> String {
                         )
                     }
                 } else if issue.description.contains("HTML tags") {
-                    let no_math = regex::Regex::new(r"(?s)<math[\s>].*?</math>")
+                    let no_math = regex::Regex::new(crate::common::MATH_PATTERN)
                         .unwrap()
                         .replace_all(de_body, "")
                         .into_owned();

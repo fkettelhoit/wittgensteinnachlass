@@ -55,8 +55,8 @@
          aria-label="’"
          transform="matrix(0.26458333,0,0,0.26458333,56.145573,9.2178931)"
          id="text1207"
-         style="font-size:64px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1209);display:inline"><path
-           d="m 95.171875,199.14633 v -6.53125 h 6.031255 v 5.15625 q 0,4.1875 -0.96875,6.03125 -1.343755,2.53125 -4.187505,3.8125 l -1.375,-2.21875 q 1.6875,-0.6875 2.5,-2.15625 0.84375,-1.5 0.9375,-4.09375 z"
+         style="font-size:64px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;shape-inside:url(#rect1209);display:inline"><path style="fill-rule:nonzero;font-family:'TeX Gyre Pagella'"
+           d="M91.9187 209.7151 92.8787 210.3551 95.6953 208.8186C99.3442 204.1456 101.7769 199.8569 103.9538 194.3521L103.1217 193.5201L96.9127 195.4411C96.5282 200.5616 94.9916 204.7863 91.9187 209.7151Z"
            id="path1277" /></g><path
          style="fill:none;stroke:#000000;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 72.932778,62.776308 h 5.284004 c -0.181318,1.681437 -1.953264,2.78139 -3.270843,4.039458 -1.140721,1.089199 -1.306708,1.684417 -1.12704,3.140137 l 1.921653,15.569751 H 58.78496 l 2.807774,-22.749346 h 5.670022 z"

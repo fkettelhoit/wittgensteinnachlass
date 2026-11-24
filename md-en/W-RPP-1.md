@@ -10,7 +10,7 @@
 
 ### [Ts-229](/ts-229/#186.1+187.1) <span class="fac">[186\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/186.webp),[187\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/187.webp)</span> {#ts-229-186-1--187-1}
 
-<span class="series-number">699</span> Let us consider what one can say about a phenomenon such as this: seeing the figure 🖵 sometimes as an F, sometimes as the mirror image of an F. I want to ask: what is it that constitutes seeing the figure one way and another way? – Do I really see something different each time; or do I merely _interpret_ what I see in different ways? – I am inclined to say the former. _But why?_ Well, interpreting is an action. It may consist, for example, in someone saying “This is meant to be an F”; or in not saying it, but replacing the sign with an F when copying; or in thinking: “What could it be? It will be an F that the writer botched.” – Seeing is not an action, but a state (grammatical observation). And if I have never considered the figure to be anything other than an “F,” and have never wondered what it might be, then one will say that I _see_ it as an F; namely, because one knows that it can also be seen differently. How did one come up with the concept of ‘seeing this as that’ in the first place? In what situations does it manifest itself, and when is it a necessity? (Very often, when we talk about a work of art.) There, for example, where it is a matter of phrasing through the eye or the ear. We say “You must hear these measures as an introduction,” “You must listen for this key,” but also “I hear the French ‘ne… pas’ as a two-part negation, not as ‘not a step’” etc. Is it really seeing or hearing? Well: that is what we call it; with these words we react in certain situations. And we react to these words again through certain actions.
+<span class="series-number">699</span> Let us consider what one can say about a phenomenon such as this: seeing the figure <span class="gap"></span> sometimes as an F, sometimes as the mirror image of an F. I want to ask: what is it that constitutes seeing the figure one way and another way? – Do I really see something different each time; or do I merely _interpret_ what I see in different ways? – I am inclined to say the former. _But why?_ Well, interpreting is an action. It may consist, for example, in someone saying “This is meant to be an F”; or in not saying it, but replacing the sign with an F when copying; or in thinking: “What could it be? It will be an F that the writer botched.” – Seeing is not an action, but a state (grammatical observation). And if I have never considered the figure to be anything other than an “F,” and have never wondered what it might be, then one will say that I _see_ it as an F; namely, because one knows that it can also be seen differently. How did one come up with the concept of ‘seeing this as that’ in the first place? In what situations does it manifest itself, and when is it a necessity? (Very often, when we talk about a work of art.) There, for example, where it is a matter of phrasing through the eye or the ear. We say “You must hear these measures as an introduction,” “You must listen for this key,” but also “I hear the French ‘ne… pas’ as a two-part negation, not as ‘not a step’” etc. Is it really seeing or hearing? Well: that is what we call it; with these words we react in certain situations. And we react to these words again through certain actions.
 
 
 ### [Ts-229](/ts-229/#187.2) <span class="fac">[187\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/187.webp)</span> {#ts-229-187-2}
@@ -50,7 +50,7 @@
 
 ### [Ts-229](/ts-229/#189.2) <span class="fac">[189\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/189.webp)</span> {#ts-229-189-2}
 
-<span class="series-number">677</span> In various places in a book, perhaps a physics textbook, we see the illustration 🖵. In the accompanying text, it speaks at one point of a glass cube, at another of a wire frame, at another of an overturned open box, at another of three small boards forming a spatial corner. The text interprets the illustration each time. But we can also say that we _see_ the illustration once as this thing, once as that thing. – How remarkable that we can also use the words of the _interpretation_ to describe the immediately perceived! We would first like to answer as follows: This description of the immediate experience by means of an _interpretation_ is only an indirect description. The truth is: we can give the figure once the interpretation A, once the interpretation B, once the interpretation C; and there are now also three direct experiences – ways of _seeing_ the figure – A', B', C', so that A' is favorable to the interpretation A, B' to the interpretation B, C' to the interpretation C. Therefore, we use the interpretation A as a description of the way of _seeing_ that is favorable to it.
+<span class="series-number">677</span> In various places in a book, perhaps a physics textbook, we see the illustration <span class="gap"></span>. In the accompanying text, it speaks at one point of a glass cube, at another of a wire frame, at another of an overturned open box, at another of three small boards forming a spatial corner. The text interprets the illustration each time. But we can also say that we _see_ the illustration once as this thing, once as that thing. – How remarkable that we can also use the words of the _interpretation_ to describe the immediately perceived! We would first like to answer as follows: This description of the immediate experience by means of an _interpretation_ is only an indirect description. The truth is: we can give the figure once the interpretation A, once the interpretation B, once the interpretation C; and there are now also three direct experiences – ways of _seeing_ the figure – A', B', C', so that A' is favorable to the interpretation A, B' to the interpretation B, C' to the interpretation C. Therefore, we use the interpretation A as a description of the way of _seeing_ that is favorable to it.
 
 
 ### [Ts-229](/ts-229/#189.3) <span class="fac">[189\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/189.webp)</span> {#ts-229-189-3}
@@ -282,7 +282,7 @@ It is important, for example, that we are accustomed to drawing with a pen, penc
 
 ### [Ts-229](/ts-229/#203.4) <span class="fac">[203\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/203.webp)</span> {#ts-229-203-4}
 
-<span class="series-number">724</span> Could we not imagine that people would claim that the word “bank” always has the same meaning. A bank is always something like this: 🖵
+<span class="series-number">724</span> Could we not imagine that people would claim that the word “bank” always has the same meaning. A bank is always something like this: <span class="gap"></span>
 
 But that they also use the word for a financial institution; and say that, because it is a bank, it is, after all, something of the kind of our depiction.
 
@@ -349,7 +349,7 @@ But that they also use the word for a financial institution; and say that, becau
 
 ### [Ts-229](/ts-229/#206.3) <span class="fac">[206\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/206.webp)</span> {#ts-229-206-3}
 
-<span class="series-number">737</span> How many squares 🖵 fit into a square 🖵 if the standard in which the small square is to be understood has not been determined? If someone then came and said: one cannot say with certainty how many fit in, but one can at least estimate it!
+<span class="series-number">737</span> How many squares <span class="gap"></span> fit into a square <span class="gap"></span> if the standard in which the small square is to be understood has not been determined? If someone then came and said: one cannot say with certainty how many fit in, but one can at least estimate it!
 
 
 ### [Ts-229](/ts-229/#206.4) <span class="fac">[206\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/206.webp)</span> {#ts-229-206-4}
@@ -968,7 +968,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#235.2) <span class="fac">[235\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/235.webp)</span> {#ts-229-235-2}
 
-<span class="series-number">856</span> When I drew the first 🖵, it was half a circle, the second was half an S-curve; the third was a whole.
+<span class="series-number">856</span> When I drew the first <span class="gap"></span>, it was half a circle, the second was half an S-curve; the third was a whole.
 
 
 ### [Ts-229](/ts-229/#235.3) <span class="fac">[235\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/235.webp)</span> {#ts-229-235-3}
@@ -1053,7 +1053,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#238.6+239.1) <span class="fac">[238\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/238.webp),[239\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/239.webp)</span> {#ts-229-238-6--239-1}
 
-<span class="series-number">873</span> “There was no tree and no bush there” – how does this sentence work? Well, “tree” stands for a thing that looks _like this_. Certainly: that is what a tree looks like; but is the idea of representing the thing by the word really so easy to understand? If I am planning a garden, I can let a tree be represented by a stake. Where the stake is now, the tree will later be planted. – But one could still say that the word “tree” in the sentence represents the image of a tree (and as such, a tree can of course also be used). In place of the word “tree,” one could put the image in a picture language, and the word “tree” is in any case connected with the image by the ostensive definition. Then it is the ostensive definition that determines what the word ‘_represents_’. And now apply this to the word “pain,” for example. – But doesn’t the sign 🖵 represent a house in a plan? Yes, but only insofar as a house could also serve as a _sign_! But the sign does not represent the house for what it stands. – “Well, it _corresponds_ to it.” – So, if I go along with the plan in my hand and come to this house, I point to the place in the plan and say “_This_ is a house.” – “The sign represents the house” would mean: “Because I cannot put the house itself in the plan, I put this sign in its place.” But what would the house itself do in the plan! A representation is something provisional, but if the sign _corresponds_ to the house, then there is nothing provisional here; when we come to the house, it will not be replaced by the house. And since the sign is never replaced by its bearer, one could ask: How can an ink stroke replace a house? No: the stake replaces the tree, the image can replace the person if one would rather see him but has to make do with the image; but even the sign on the map does not replace the object it signifies.
+<span class="series-number">873</span> “There was no tree and no bush there” – how does this sentence work? Well, “tree” stands for a thing that looks _like this_. Certainly: that is what a tree looks like; but is the idea of representing the thing by the word really so easy to understand? If I am planning a garden, I can let a tree be represented by a stake. Where the stake is now, the tree will later be planted. – But one could still say that the word “tree” in the sentence represents the image of a tree (and as such, a tree can of course also be used). In place of the word “tree,” one could put the image in a picture language, and the word “tree” is in any case connected with the image by the ostensive definition. Then it is the ostensive definition that determines what the word ‘_represents_’. And now apply this to the word “pain,” for example. – But doesn’t the sign <span class="gap"></span> represent a house in a plan? Yes, but only insofar as a house could also serve as a _sign_! But the sign does not represent the house for what it stands. – “Well, it _corresponds_ to it.” – So, if I go along with the plan in my hand and come to this house, I point to the place in the plan and say “_This_ is a house.” – “The sign represents the house” would mean: “Because I cannot put the house itself in the plan, I put this sign in its place.” But what would the house itself do in the plan! A representation is something provisional, but if the sign _corresponds_ to the house, then there is nothing provisional here; when we come to the house, it will not be replaced by the house. And since the sign is never replaced by its bearer, one could ask: How can an ink stroke replace a house? No: the stake replaces the tree, the image can replace the person if one would rather see him but has to make do with the image; but even the sign on the map does not replace the object it signifies.
 
 
 ### [Ts-229](/ts-229/#239.2) <span class="fac">[239\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/239.webp)</span> {#ts-229-239-2}
@@ -1668,7 +1668,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#266.3) <span class="fac">[266\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/266.webp)</span> {#ts-229-266-3}
 
-<span class="series-number">996</span> Imagine people calculating with ‘extremely complicated’ numerical signs. However, these are presented as figures that arise when one writes our numerical signs on top of each other. For example, they might write 🖵 up to the fifth position like this: Someone looking at them would find it difficult to guess _what_ they are doing. And they themselves might not be able to explain it. This numerical sign, when written in somewhat different script, can change its appearance (_for us_) to the point of being unrecognizable. And what the people are doing would appear to us purely intuitively.
+<span class="series-number">996</span> Imagine people calculating with ‘extremely complicated’ numerical signs. However, these are presented as figures that arise when one writes our numerical signs on top of each other. For example, they might write <span class="gap"></span> up to the fifth position like this: Someone looking at them would find it difficult to guess _what_ they are doing. And they themselves might not be able to explain it. This numerical sign, when written in somewhat different script, can change its appearance (_for us_) to the point of being unrecognizable. And what the people are doing would appear to us purely intuitively.
 
 
 ### [Ts-229](/ts-229/#266.4) <span class="fac">[266\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/266.webp)</span> {#ts-229-266-4}
@@ -1873,7 +1873,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#277.1) <span class="fac">[277\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/277.webp)</span> {#ts-229-277-1}
 
-<span class="series-number">1037</span> Imagine, someone asks: Is the structure of water 🖵 or 🖵? Does it make sense? – If you give it meaning, it makes sense.
+<span class="series-number">1037</span> Imagine, someone asks: Is the structure of water <span class="gap"></span> or <span class="gap"></span>? Does it make sense? – If you give it meaning, it makes sense.
 
 
 ### [Ts-229](/ts-229/#277.2) <span class="fac">[277\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/277.webp)</span> {#ts-229-277-2}
@@ -1918,7 +1918,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#279.3+280.1) <span class="fac">[279\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/279.webp),[280\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/280.webp)</span> {#ts-229-279-3--280-1}
 
-<span class="series-number">1046</span> “The phenomenon, 🖵 as an arrow, or seen in some other way, is indeed a true visual phenomenon; even if it is not as tangible as that of form and colour.” How could it not be a visual phenomenon? – Who, when speaking of it (except when engaging in philosophy or psychology), doubts that? Do we not ask a person about it and tell him about it, just as we would about any other visual phenomenon? I mean, do we talk about it more cautiously, with the suspicion that what we say may not have a clear sense? Certainly not. But there are still differences. The ones we indicate with the expression “less tangible.” Only it is this way: if I present two substances to someone, I can say: “Feel this! Don’t you also find that it feels softer?” And if he affirms it, then I say something like: “Yes, I feel that too. There _is_ therefore a difference between them” (i.e., I did not just imagine it). – But it is _different_ with psychological phenomena. If I say: “This is less tangible than that” – namely, as a timeless sentence – then this is not based on a consensus of judgments, _not_ on the fact that we all feel that too (when we ‘_consider_’ the experience).
+<span class="series-number">1046</span> “The phenomenon, <span class="gap"></span> as an arrow, or seen in some other way, is indeed a true visual phenomenon; even if it is not as tangible as that of form and colour.” How could it not be a visual phenomenon? – Who, when speaking of it (except when engaging in philosophy or psychology), doubts that? Do we not ask a person about it and tell him about it, just as we would about any other visual phenomenon? I mean, do we talk about it more cautiously, with the suspicion that what we say may not have a clear sense? Certainly not. But there are still differences. The ones we indicate with the expression “less tangible.” Only it is this way: if I present two substances to someone, I can say: “Feel this! Don’t you also find that it feels softer?” And if he affirms it, then I say something like: “Yes, I feel that too. There _is_ therefore a difference between them” (i.e., I did not just imagine it). – But it is _different_ with psychological phenomena. If I say: “This is less tangible than that” – namely, as a timeless sentence – then this is not based on a consensus of judgments, _not_ on the fact that we all feel that too (when we ‘_consider_’ the experience).
 
 
 ### [Ts-229](/ts-229/#280.2) <span class="fac">[280\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/280.webp)</span> {#ts-229-280-2}
@@ -2078,7 +2078,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#287.3) <span class="fac">[287\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/287.webp)</span> {#ts-229-287-3}
 
-<span class="series-number">1079</span> When children play trains, – should I say, when a child imitates the locomotive, is it seen as a locomotive by another child? In the game, it is _taken as_ a locomotive. Imagine I showed an adult the shape 🖵, and asked “What does it remind you of,” and he answered “A locomotive” – does that mean he _saw_ it as a locomotive? I take that as the typical game of “seeing something as something,” when someone says “Now I see it as this, now as that.” When he knows different aspects, and that _independently_ of any use of the thing being looked at. So, I would like to say that I do not consider the use of the picture as a sign that it is seen in this way or that way.
+<span class="series-number">1079</span> When children play trains, – should I say, when a child imitates the locomotive, is it seen as a locomotive by another child? In the game, it is _taken as_ a locomotive. Imagine I showed an adult the shape <span class="gap"></span>, and asked “What does it remind you of,” and he answered “A locomotive” – does that mean he _saw_ it as a locomotive? I take that as the typical game of “seeing something as something,” when someone says “Now I see it as this, now as that.” When he knows different aspects, and that _independently_ of any use of the thing being looked at. So, I would like to say that I do not consider the use of the picture as a sign that it is seen in this way or that way.
 
 
 ### [Ts-229](/ts-229/#287.4) <span class="fac">[287\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/287.webp)</span> {#ts-229-287-4}
@@ -2158,7 +2158,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#290.3) <span class="fac">[290\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/290.webp)</span> {#ts-229-290-3}
 
-<span class="series-number">1095</span> Is it _like this_: “I have always read the sign ‘🖵’ as a sigma; now someone tells me that it could also be an inverted M, and I can now see it _like that_; – therefore, I have always seen it as a sigma”? So, am I saying, I have not only seen the figure and read it _like that_, but I have also seen it _as that_!
+<span class="series-number">1095</span> Is it _like this_: “I have always read the sign ‘<span class="gap"></span>’ as a sigma; now someone tells me that it could also be an inverted M, and I can now see it _like that_; – therefore, I have always seen it as a sigma”? So, am I saying, I have not only seen the figure and read it _like that_, but I have also seen it _as that_!
 
 
 ### [Ts-229](/ts-229/#290.4) <span class="fac">[290\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/290.webp)</span> {#ts-229-290-4}
@@ -2403,7 +2403,7 @@ Imagine someone who dislikes looking at a drawing or photograph because they say
 
 ### [Ts-229](/ts-229/#298.5) <span class="fac">[298\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/298.webp)</span> {#ts-229-298-5}
 
-<span class="series-number">1144</span> “But it must be that ‘I used to believe’ means _that_ in the past, just as ‘I believe’ means in the present!” It must be that i means the same for ‒ 1 as 🖵 means for 1! That means nothing.
+<span class="series-number">1144</span> “But it must be that ‘I used to believe’ means _that_ in the past, just as ‘I believe’ means in the present!” It must be that i means the same for ‒ 1 as <span class="gap"></span> means for 1! That means nothing.
 
 
 ### [Ts-229](/ts-229/#298.6) <span class="fac">[298\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/298.webp)</span> {#ts-229-298-6}
@@ -2580,7 +2580,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#306.1) <span class="fac">[306\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/306.webp)</span> {#ts-229-306-1}
 
-<span class="series-number">1179</span> Imagine two people: one learned “F” like this 🖵 in his youth – the other, as we do 🖵. If the two of them now read the word “figure,” must I say that I have reason to say that they each see the “F” differently? Apparently not. And could it not also be that one of them, when he hears how the other person learned to write and read this letter, says: “I have _never_ seen it like that, but always _like this_”? And furthermore, there will probably be situations in which I will explain what one of these people does or says in this way: “He is, namely, considering this letter as a variation of ‥‥”
+<span class="series-number">1179</span> Imagine two people: one learned “F” like this <span class="gap"></span> in his youth – the other, as we do <span class="gap"></span>. If the two of them now read the word “figure,” must I say that I have reason to say that they each see the “F” differently? Apparently not. And could it not also be that one of them, when he hears how the other person learned to write and read this letter, says: “I have _never_ seen it like that, but always _like this_”? And furthermore, there will probably be situations in which I will explain what one of these people does or says in this way: “He is, namely, considering this letter as a variation of ‥‥”
 
 
 ### [Ts-229](/ts-229/#306.2) <span class="fac">[306\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/306.webp)</span> {#ts-229-306-2}
@@ -2590,12 +2590,12 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#306.3) <span class="fac">[306\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/306.webp)</span> {#ts-229-306-3}
 
-<span class="series-number">1181</span> Suppose you knew that the sign 🖵 is a combination of a 🖵 with a 🖵. – – This reminds one of the dream phenomenon, which one describes in a dream narrative with the words: “and I knew that …”. And it also has similarity with what one calls “hallucination”.
+<span class="series-number">1181</span> Suppose you knew that the sign <span class="gap"></span> is a combination of a <span class="gap"></span> with a <span class="gap"></span>. – – This reminds one of the dream phenomenon, which one describes in a dream narrative with the words: “and I knew that …”. And it also has similarity with what one calls “hallucination”.
 
 
 ### [Ts-229](/ts-229/#307.1) <span class="fac">[307\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/307.webp)</span> {#ts-229-307-1}
 
-<span class="series-number">1182</span> It is as if a paradigm, a template, is present in my mind when I see the sign. But what kind of template? What does it look like? But not exactly like the sign itself! – So like the sign, seen in that way? – But how seen? How should one note the aspect? Well, how do we note it; how do we communicate about it? I might say: “The sign, as I see it, looks to the right.” I could even speak of a kind of visual focal point, – say: The focal point of the sign 🖵 is located _here_. Can I explain what I mean by that? No. – But I can compare this reaction of mine with the reactions of others.
+<span class="series-number">1182</span> It is as if a paradigm, a template, is present in my mind when I see the sign. But what kind of template? What does it look like? But not exactly like the sign itself! – So like the sign, seen in that way? – But how seen? How should one note the aspect? Well, how do we note it; how do we communicate about it? I might say: “The sign, as I see it, looks to the right.” I could even speak of a kind of visual focal point, – say: The focal point of the sign <span class="gap"></span> is located _here_. Can I explain what I mean by that? No. – But I can compare this reaction of mine with the reactions of others.
 
 
 ### [Ts-229](/ts-229/#307.2) <span class="fac">[307\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/307.webp)</span> {#ts-229-307-2}
@@ -2620,7 +2620,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#308.2) <span class="fac">[308\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/308.webp)</span> {#ts-229-308-2}
 
-<span class="series-number">1187</span> Suppose someone said to me: “Something has now changed in the _picture_ – I cannot express it any other way – although the form is the same as before. I can only say: before it was a kind of 🖵, now it is a kind of 🖵”. If he said _that_, could one not still doubt that he has always, continuously, seen the figure in that way and has not only never understood it differently?
+<span class="series-number">1187</span> Suppose someone said to me: “Something has now changed in the _picture_ – I cannot express it any other way – although the form is the same as before. I can only say: before it was a kind of <span class="gap"></span>, now it is a kind of <span class="gap"></span>”. If he said _that_, could one not still doubt that he has always, continuously, seen the figure in that way and has not only never understood it differently?
 
 
 ### [Ts-229](/ts-229/#308.3) <span class="fac">[308\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/308.webp)</span> {#ts-229-308-3}
@@ -2690,7 +2690,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#311.2) <span class="fac">[311\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/311.webp)</span> {#ts-229-311-2}
 
-<span class="series-number">1201</span> If I, for example, once see the 🖵 as a T with an added stroke, then it is as if the _grouping_ has changed. But if I am asked: “So, before, you always saw this figure with the grouping of an F?” then I could not say that it was so.
+<span class="series-number">1201</span> If I, for example, once see the <span class="gap"></span> as a T with an added stroke, then it is as if the _grouping_ has changed. But if I am asked: “So, before, you always saw this figure with the grouping of an F?” then I could not say that it was so.
 
 
 ### [Ts-229](/ts-229/#311.3) <span class="fac">[311\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/311.webp)</span> {#ts-229-311-3}
@@ -2785,7 +2785,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#315.4) <span class="fac">[315\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/315.webp)</span> {#ts-229-315-4}
 
-<span class="series-number">1220</span> A ‘language-game’: One lets someone choose an aroma, e.g., that of coffee, according to a drawing. One says to him: “Coffee smells like this: 🖵” and now one orders him to bring the liquid that smells _like that_. – I now assume that he would actually bring the right one. So I would have a means of giving people commands by means of something _like a sign_. ((Connection with the nature of the rule, the technique, mathematics, e.g., real numbers)) This also has to do with: (“The hen ‘calls’ the chicks to her.”)
+<span class="series-number">1220</span> A ‘language-game’: One lets someone choose an aroma, e.g., that of coffee, according to a drawing. One says to him: “Coffee smells like this: <span class="gap"></span>” and now one orders him to bring the liquid that smells _like that_. – I now assume that he would actually bring the right one. So I would have a means of giving people commands by means of something _like a sign_. ((Connection with the nature of the rule, the technique, mathematics, e.g., real numbers)) This also has to do with: (“The hen ‘calls’ the chicks to her.”)
 
 
 ### [Ts-229](/ts-229/#316.1) <span class="fac">[316\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/316.webp)</span> {#ts-229-316-1}
@@ -3795,7 +3795,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#364.3) <span class="fac">[364\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/364.webp)</span> {#ts-229-364-3}
 
-<span class="series-number">1422</span> Very well: the kinesthetic is something different, a special feeling. – But so are smell, hearing, etc. – Why does this make such a difference? “Feeling of innervation” – that expresses what one wants to say: that it is like an _Impuls_. But a feeling like an impulse?! What is an impulse? A physical **picture**. The picture of a shock.
+<span class="series-number">1422</span> Very well: the kinesthetic is something different, a special feeling. – But so are smell, hearing, etc. – Why does this make such a difference? “Feeling of innervation” – that expresses what one wants to say: that it is like an _Impuls_. But a feeling like an impulse?! What is an impulse? A physical _picture_. The picture of a shock.
 
 
 ### [Ts-229](/ts-229/#364.4+365.1) <span class="fac">[364\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/364.webp),[365\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/365.webp)</span> {#ts-229-364-4--365-1}
@@ -3940,7 +3940,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#370.6+371.1) <span class="fac">[370\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/370.webp),[371\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/371.webp)</span> {#ts-229-370-6--371-1}
 
-<span class="series-number">1451</span> “Pain, tone, taste, smell, has a specific color.” What does that mean? (Quality. Adjective.) A color can be green**ish** or blue**ish** – there is a mixture of colors; and so also a mixture of smells, sounds, tastes; qualitative intermediate stages. How does one distinguish qualitative from quantitative intermediate stages, I mean, from stages of ‘intensity’!? Still bearable – no longer bearable, these are, for example, degrees of intensity. Consider, someone asked: “How can I know whether what I experience as different degrees, of loudness for example, the other person experiences as different qualities, comparable to different colors?” – Compare the reaction to a change in intensity with the reaction to a change in quality.
+<span class="series-number">1451</span> “Pain, tone, taste, smell, has a specific color.” What does that mean? (Quality. Adjective.) A color can be green*ish* or blue*ish* – there is a mixture of colors; and so also a mixture of smells, sounds, tastes; qualitative intermediate stages. How does one distinguish qualitative from quantitative intermediate stages, I mean, from stages of ‘intensity’!? Still bearable – no longer bearable, these are, for example, degrees of intensity. Consider, someone asked: “How can I know whether what I experience as different degrees, of loudness for example, the other person experiences as different qualities, comparable to different colors?” – Compare the reaction to a change in intensity with the reaction to a change in quality.
 
 
 ### [Ts-229](/ts-229/#371.2) <span class="fac">[371\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/371.webp)</span> {#ts-229-371-2}
@@ -4075,7 +4075,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#378.4) <span class="fac">[378\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/378.webp)</span> {#ts-229-378-4}
 
-<span class="series-number">1478</span> Is what he says he has, & what I say I have, without our inferring this from any observation, the same as what we infer from observing the other’s **behaviour** & from his expression of conviction?
+<span class="series-number">1478</span> Is what he says he has, & what I say I have, without our inferring this from any observation, the same as what we infer from observing the other’s _behaviour_ & from his expression of conviction?
 
 
 ### [Ts-229](/ts-229/#379.1) <span class="fac">[379\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/379.webp)</span> {#ts-229-379-1}
@@ -4195,7 +4195,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#384.4) <span class="fac">[384\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/384.webp)</span> {#ts-229-384-4}
 
-<span class="series-number">1502</span> There is a disgust **reaction**, in me & in the other; there are also _disgust feelings_. And in this respect, disgust, fear, affection, etc. are similar; but not hope, faith, etc.
+<span class="series-number">1502</span> There is a disgust _reaction_, in me & in the other; there are also _disgust feelings_. And in this respect, disgust, fear, affection, etc. are similar; but not hope, faith, etc.
 
 
 ### [Ts-229](/ts-229/#385.1) <span class="fac">[385\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/385.webp)</span> {#ts-229-385-1}
@@ -4340,12 +4340,12 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#390.6) <span class="fac">[390\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/390.webp)</span> {#ts-229-390-6}
 
-<span class="series-number">1531</span> If I say that I see this figure constantly red, this means that the description, that it is red – the description in words or through a picture – is constantly, without change, correct; in contrast, therefore, to _that_ case in which the figure changes. – The temptation is indeed to describe the aspect with the words “I see it _like this_” without pointing to anything. And if one describes a face with its direction of gaze as an arrow, then one wants to say: “I see this: and not this: 🖵”.
+<span class="series-number">1531</span> If I say that I see this figure constantly red, this means that the description, that it is red – the description in words or through a picture – is constantly, without change, correct; in contrast, therefore, to _that_ case in which the figure changes. – The temptation is indeed to describe the aspect with the words “I see it _like this_” without pointing to anything. And if one describes a face with its direction of gaze as an arrow, then one wants to say: “I see this: and not this: <span class="gap"></span>”.
 
 
 ### [Ts-229](/ts-229/#390.7+391.1) <span class="fac">[390\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/390.webp),[391\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/391.webp)</span> {#ts-229-390-7--391-1}
 
-<span class="series-number">1532</span> To the constant seeing as 🖵 corresponds then the fact that this description, without change, is the correct one and _that_ means only that the aspect has not changed.
+<span class="series-number">1532</span> To the constant seeing as <span class="gap"></span> corresponds then the fact that this description, without change, is the correct one and _that_ means only that the aspect has not changed.
 
 
 ### [Ts-229](/ts-229/#391.2) <span class="fac">[391\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/391.webp)</span> {#ts-229-391-2}
@@ -4355,12 +4355,12 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#391.3) <span class="fac">[391\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/391.webp)</span> {#ts-229-391-3}
 
-<span class="series-number">1534</span> When I think about the facial expression of this figure, – how do I do it, in order to think about the expression of 🖵 and not of 🖵?
+<span class="series-number">1534</span> When I think about the facial expression of this figure, – how do I do it, in order to think about the expression of <span class="gap"></span> and not of <span class="gap"></span>?
 
 
 ### [Ts-229](/ts-229/#391.4) <span class="fac">[391\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/391.webp)</span> {#ts-229-391-4}
 
-<span class="series-number">1535</span> When I think about the facial expression of this figure, I look at it – how do I do it: to look at the expression of 🖵, not that of 🖵? And this symbolism, I think, already contains everything.
+<span class="series-number">1535</span> When I think about the facial expression of this figure, I look at it – how do I do it: to look at the expression of <span class="gap"></span>, not that of <span class="gap"></span>? And this symbolism, I think, already contains everything.
 
 
 ### [Ts-229](/ts-229/#391.5) <span class="fac">[391\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/391.webp)</span> {#ts-229-391-5}
@@ -4410,12 +4410,12 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#393.3) <span class="fac">[393\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/393.webp)</span> {#ts-229-393-3}
 
-<span class="series-number">1545</span> I had not noticed that the same contour appeared in both pictures, because I had conceived of it in one picture _this_ way, in the other _that_ way 🖵. Only by a detour of thought did I realize that it was the same contour. – Is this proof: that each time I saw something _different_? – It is important that the two aspects are _incompatible_ with each other.
+<span class="series-number">1545</span> I had not noticed that the same contour appeared in both pictures, because I had conceived of it in one picture _this_ way, in the other _that_ way <span class="gap"></span>. Only by a detour of thought did I realize that it was the same contour. – Is this proof: that each time I saw something _different_? – It is important that the two aspects are _incompatible_ with each other.
 
 
 ### [Ts-229](/ts-229/#393.4) <span class="fac">[393\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/393.webp)</span> {#ts-229-393-4}
 
-<span class="series-number">1546</span> Is the facial expression something visual? I could imagine a picture, the _expression_ of which would be ambiguous. And that I would therefore not recognize it in a _different_ environment. I might say something like: “Oh yes, these are the same lines; but they look quite different here.” And I really _see_ that the picture 🖵 and the picture are the same. I don’t just recognize it, let’s say, by measurement!
+<span class="series-number">1546</span> Is the facial expression something visual? I could imagine a picture, the _expression_ of which would be ambiguous. And that I would therefore not recognize it in a _different_ environment. I might say something like: “Oh yes, these are the same lines; but they look quite different here.” And I really _see_ that the picture <span class="gap"></span> and the picture are the same. I don’t just recognize it, let’s say, by measurement!
 
 
 ### [Ts-229](/ts-229/#394.1) <span class="fac">[394\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/394.webp)</span> {#ts-229-394-1}
@@ -4430,7 +4430,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#394.3) <span class="fac">[394\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/394.webp)</span> {#ts-229-394-3}
 
-<span class="series-number">1549</span> I would never have thought of bringing the two pictures _like this_ into alignment, of comparing them _like this_. Because they suggest a different way of comparison. The picture 🖵 also has not the slightest similarity with the picture 🖵, one might say – – although they are congruent.
+<span class="series-number">1549</span> I would never have thought of bringing the two pictures _like this_ into alignment, of comparing them _like this_. Because they suggest a different way of comparison. The picture <span class="gap"></span> also has not the slightest similarity with the picture <span class="gap"></span>, one might say – – although they are congruent.
 
 
 ### [Ts-229](/ts-229/#394.4) <span class="fac">[394\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/394.webp)</span> {#ts-229-394-4}
@@ -4660,7 +4660,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#407.5+408.1) <span class="fac">[407\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/407.webp),[408\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/408.webp)</span> {#ts-229-407-5--408-1}
 
-<span class="series-number">1594</span> Consciousness in the other face. Look at the face of the other and see the consciousness in it and a certain **tone** of consciousness. You see in it, in him, joy, indifference, interest, emotion, dullness, etc. The light in the face of the other. Do you look in _yourself_ to recognize the anger in _his_ face? It is there just as clearly as in your own breast. (And what does one want to say now? That the face of the other stimulates me to imitate, & that I therefore feel small movements & muscle tensions in myself, & that the sum of these is _mine_? Nonsense. Nonsense, – for you are making assumptions instead of merely describing. Whoever has explanations swirling around in his head neglects to focus on the most important facts.)
+<span class="series-number">1594</span> Consciousness in the other face. Look at the face of the other and see the consciousness in it and a certain _tone_ of consciousness. You see in it, in him, joy, indifference, interest, emotion, dullness, etc. The light in the face of the other. Do you look in _yourself_ to recognize the anger in _his_ face? It is there just as clearly as in your own breast. (And what does one want to say now? That the face of the other stimulates me to imitate, & that I therefore feel small movements & muscle tensions in myself, & that the sum of these is _mine_? Nonsense. Nonsense, – for you are making assumptions instead of merely describing. Whoever has explanations swirling around in his head neglects to focus on the most important facts.)
 
 
 ### [Ts-229](/ts-229/#408.2) <span class="fac">[408\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/408.webp)</span> {#ts-229-408-2}
@@ -4880,7 +4880,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#415.7) <span class="fac">[415\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/415.webp)</span> {#ts-229-415-7}
 
-<span class="series-number">1638</span> What Köhler does not address is the fact that one can look at the figure 🖵 one way or another, that the aspect, at least to a certain extent, is subject to the will.
+<span class="series-number">1638</span> What Köhler does not address is the fact that one can look at the figure <span class="gap"></span> one way or another, that the aspect, at least to a certain extent, is subject to the will.
 
 
 ### [Ts-229](/ts-229/#416.1) <span class="fac">[416\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/416.webp)</span> {#ts-229-416-1}
@@ -4935,7 +4935,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#417.6+418.1) <span class="fac">[417\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/417.webp),[418\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/418.webp)</span> {#ts-229-417-6--418-1}
 
-<span class="series-number">1649</span> Köhler says that only very few people spontaneously see the figure 4 in the drawing 🖵 and this is certainly true. How does a person differ from normal people, who in his description of plane figures, or when he copies them, deviates radically from the norm in that he uses different ‘units’ when copying and describing? I.e., how will this person also differ from normal people in other things?
+<span class="series-number">1649</span> Köhler says that only very few people spontaneously see the figure 4 in the drawing <span class="gap"></span> and this is certainly true. How does a person differ from normal people, who in his description of plane figures, or when he copies them, deviates radically from the norm in that he uses different ‘units’ when copying and describing? I.e., how will this person also differ from normal people in other things?
 
 
 ### [Ts-229](/ts-229/#418.2) <span class="fac">[418\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/418.webp)</span> {#ts-229-418-2}
@@ -5035,12 +5035,12 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#421.5+422.1) <span class="fac">[421\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/421.webp),[422\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/422.webp)</span> {#ts-229-421-5--422-1}
 
-<span class="series-number">1669</span> I see it (the chessboard) like this now. It is as if you had given me this schematic drawing. E.g. 🖵 The figure _as_ which I see the other is not uniquely determined.
+<span class="series-number">1669</span> I see it (the chessboard) like this now. It is as if you had given me this schematic drawing. E.g. <span class="gap"></span> The figure _as_ which I see the other is not uniquely determined.
 
 
 ### [Ts-229](/ts-229/#422.2) <span class="fac">[422\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/422.webp)</span> {#ts-229-422-2}
 
-<span class="series-number">1670</span> Imagine a triangle in the film, shown rotating around a point 🖵 & then coming to a stop. And now it could be as if this temporal environment still affects the image of the triangle that has come to rest. “Hanging,” I would say. But does this correspond to something? Certainly! But that only means that I am not lying, & that the _expression_ of the aspect has a use. “_What_ application?!” you must always ask.
+<span class="series-number">1670</span> Imagine a triangle in the film, shown rotating around a point <span class="gap"></span> & then coming to a stop. And now it could be as if this temporal environment still affects the image of the triangle that has come to rest. “Hanging,” I would say. But does this correspond to something? Certainly! But that only means that I am not lying, & that the _expression_ of the aspect has a use. “_What_ application?!” you must always ask.
 
 
 ### [Ts-229](/ts-229/#422.3) <span class="fac">[422\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/422.webp)</span> {#ts-229-422-3}
@@ -5110,7 +5110,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#425.2) <span class="fac">[425\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/425.webp)</span> {#ts-229-425-2}
 
-<span class="series-number">1684</span> Must one not distinguish purely optical aspects from other aspects? That they differ greatly from each other is clear: the depth dimension, for example, sometimes enters into their _description_, sometimes it does not; sometimes the aspect is a certain ‘grouping’, but when one sees lines as a face, one has not only visually grouped them together; one can see the schematic drawing of a cube as an open box or as a solid body, lying on its side or standing; the figure 🖵 can be seen in not only two, but in very many different ways.
+<span class="series-number">1684</span> Must one not distinguish purely optical aspects from other aspects? That they differ greatly from each other is clear: the depth dimension, for example, sometimes enters into their _description_, sometimes it does not; sometimes the aspect is a certain ‘grouping’, but when one sees lines as a face, one has not only visually grouped them together; one can see the schematic drawing of a cube as an open box or as a solid body, lying on its side or standing; the figure <span class="gap"></span> can be seen in not only two, but in very many different ways.
 
 
 ### [Ts-229](/ts-229/#425.3) <span class="fac">[425\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/425.webp)</span> {#ts-229-425-3}
@@ -5160,7 +5160,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#428.5+429.1) <span class="fac">[428\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/428.webp),[429\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/429.webp)</span> {#ts-229-428-5--429-1}
 
-<span class="series-number">1694</span> In this sense, there is also no room for imaginary numbers on the number line. And that means: the _application_ of the concept of an imaginary number is **fundamentally** different from that of a number, for example; more different than the mathematical operations alone would reveal. One must therefore, in order to make room for them, descend to their _application_ and then find that they occupy a kind of _unexpected_ different place.
+<span class="series-number">1694</span> In this sense, there is also no room for imaginary numbers on the number line. And that means: the _application_ of the concept of an imaginary number is _fundamentally_ different from that of a number, for example; more different than the mathematical operations alone would reveal. One must therefore, in order to make room for them, descend to their _application_ and then find that they occupy a kind of _unexpected_ different place.
 
 
 ### [Ts-229](/ts-229/#429.2) <span class="fac">[429\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/429.webp)</span> {#ts-229-429-2}
@@ -5245,7 +5245,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#433.3) <span class="fac">[433\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/433.webp)</span> {#ts-229-433-3}
 
-<span class="series-number">1711</span> I cannot see the figure 🖵 as a combination of 🖵 and 🖵, pushed together so that they partially overlap, so that the middle field, as it were, counts double. If someone were to say that he can see the figure in this way, could I understand it? Could I believe it? Should I say that this is possible – even if such a thing has never occurred to me? Would I have to say, “You just mean something else by ‘seeing it this way’ than I do”? – And if I assumed it, what would I now know, and what could I do with it? (Of course, a physiological application is conceivable.)
+<span class="series-number">1711</span> I cannot see the figure <span class="gap"></span> as a combination of <span class="gap"></span> and <span class="gap"></span>, pushed together so that they partially overlap, so that the middle field, as it were, counts double. If someone were to say that he can see the figure in this way, could I understand it? Could I believe it? Should I say that this is possible – even if such a thing has never occurred to me? Would I have to say, “You just mean something else by ‘seeing it this way’ than I do”? – And if I assumed it, what would I now know, and what could I do with it? (Of course, a physiological application is conceivable.)
 
 
 ### [Ts-229](/ts-229/#433.4) <span class="fac">[433\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/433.webp)</span> {#ts-229-433-4}
@@ -5350,7 +5350,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#439.2) <span class="fac">[439\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/439.webp)</span> {#ts-229-439-2}
 
-<span class="series-number">1732</span> “If you write your F like this 🖵, do you mean it as a ‘displaced’ F, or as a mirror-image F? – _Do_ you want it to face to the right, or to the left? – The second question obviously does not refer to a process that accompanies the writing. In the case of the first question, one _might_ think of such a process.
+<span class="series-number">1732</span> “If you write your F like this <span class="gap"></span>, do you mean it as a ‘displaced’ F, or as a mirror-image F? – _Do_ you want it to face to the right, or to the left? – The second question obviously does not refer to a process that accompanies the writing. In the case of the first question, one _might_ think of such a process.
 
 
 ### [Ts-229](/ts-229/#439.3) <span class="fac">[439\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/439.webp)</span> {#ts-229-439-3}
@@ -5365,7 +5365,7 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 ### [Ts-229](/ts-229/#439.5) <span class="fac">[439\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/439.webp)</span> {#ts-229-439-5}
 
-<span class="series-number">1735</span> Should I now say that I actually ‘see’ the timidity in this behaviour – or in the facial **expression**? Why not? But this does not deny the difference between two concepts of what is perceived. A picture of the face could reproduce the facial features very accurately, but not the expression correctly; but it could also be that the expression is similar and the features are not well captured. “Similar expression” brings faces together in a completely different way than “similar anatomy”.
+<span class="series-number">1735</span> Should I now say that I actually ‘see’ the timidity in this behaviour – or in the facial _expression_? Why not? But this does not deny the difference between two concepts of what is perceived. A picture of the face could reproduce the facial features very accurately, but not the expression correctly; but it could also be that the expression is similar and the features are not well captured. “Similar expression” brings faces together in a completely different way than “similar anatomy”.
 
 
 ### [Ts-229](/ts-229/#440.1) <span class="fac">[440\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/440.webp)</span> {#ts-229-440-1}
@@ -5512,78 +5512,9 @@ One might ask here: “How do you imagine that I am informed about this state of
 
 <span class="series-number">1764</span> A variant of Cantor's diagonal proof:
 
-Let N = F(k,n) be the form of the laws for the development of decimal fractions. _N_ is the n-th decimal place of the k-th development. The law of the diagonal is then: <math class="stacked" display="inline"><mi>N</mi><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>F</mi><mspace width="0.3em"/><mo>(</mo><mtext>n,</mtext><mtext>n)</mtext><mspace width="0.3em"/><mo>=</mo><msup><mtext>Definition</mtext></msup><mspace width="0.3em"/><mtext>F'</mtext><mo>(</mo><mtext>n)</mtext><mn>.</mn></math> It must be proven that F'n cannot be one of the rules F(k,n). Suppose it is the 100th. Then the rule for the formation is
+Let N = F(k,n) be the form of the laws for the development of decimal fractions. _N_ is the n-th decimal place of the k-th development. The law of the diagonal is then: <img class="math math-inline" src="../math/36c4bc17f5454fd8.svg" alt="N=F\,(n,n)\overset{\text{Def.}}{=}F\text{'}(n)." style="width:9.561em;height:1.369em;vertical-align:-0.164em"> It must be proven that F'n cannot be one of the rules F(k,n). Suppose it is the 100th. Then the rule for the formation is
 
-<math display="block">
-  <mtable columnalign="right center left center left center">
-    <mtr>
-      <mtd>
-        <mtext>von</mtext>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>′</mo>
-          <mo>(</mo>
-          <mn>1</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>(</mo>
-          <mn>1</mn>
-          <mo>,</mo>
-          <mn>1</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mtext>von</mtext>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>′</mo>
-          <mo>(</mo>
-          <mn>2</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mrow></mrow>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi>F</mi>
-          <mo>(</mo>
-          <mn>2</mn>
-          <mo>,</mo>
-          <mn>2</mn>
-          <mo>)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mtext>etc.</mtext>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/020f941ee5978371.svg" alt="\begin{array}{l@{\quad}l@{}l@{\qquad\quad}l@{}l@{\quad}l} \text{von} &amp; F'(1) &amp; \left.\vphantom{\begin{array}{c}a\\a\end{array}}\right\} &amp; F(1,1) &amp; \left.\vphantom{\begin{array}{c}a\\a\end{array}}\right\} &amp; \\ \text{von} &amp; F'(2) &amp; &amp; F(2,2) &amp; &amp; \text{etc.} \end{array}" style="display:block;width:15.663em;height:4.300em">
 
 but the rule for the formation of the 100th place of F'(n) is F(100,100); that is, it only tells us that the 100th place is equal to itself, and is therefore for n = 100 _not_ a rule. The rule of the game is “Do the same as ‥‥!” – and in the specific case it now becomes “Do the same as what you are doing!”
 
@@ -5614,7 +5545,7 @@ We do not see the human eye as a receiver; it does not seem to let something in,
 
 ### [Ts-229](/ts-229/#450.2+451.1) <span class="fac">[450\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/450.webp),[451\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/451.webp)</span> {#ts-229-450-2--451-1}
 
-<span class="series-number">1769</span> And if one says, “I don’t actually see the looking, but only shapes and colors,” – does this contradict the naive way of expressing oneself? Does it say that he was wrong who said that he saw my gaze, saw that this person’s eyes were staring, looking into the void, etc.? But certainly not. So what did the purist want to do? Does he want to say that it would be more correct to use a different word here instead of the word “to see”? I believe he only wants to draw attention to a distinction between concepts. How does the word “to see” combine the perceptions? I mean: it can **combine** them as perceptions _with the eye_; for we do not feel seeing _in the eye_. But actually, the one who insists on the _correctness_ of our normal way of expressing ourselves seems to say: that everything is contained in the visual **impression**; that the _subjective eye_ has both form and color, as well as movement, as expression and gaze (direction outward). That one doesn’t feel the gaze, as it were, _elsewhere_. But that doesn’t mean: ‘elsewhere than in the eyes’, but: elsewhere than in the visual image. But what if it were different? Perhaps like this: that I say: “I see in this eye the and the shapes, colors, movements – that is, it is now looking friendly,” as if I were drawing a conclusion. – One could therefore say: The location of the _**perceived**_ gaze is the _subjective_ eye, the visual image of the eye, itself.
+<span class="series-number">1769</span> And if one says, “I don’t actually see the looking, but only shapes and colors,” – does this contradict the naive way of expressing oneself? Does it say that he was wrong who said that he saw my gaze, saw that this person’s eyes were staring, looking into the void, etc.? But certainly not. So what did the purist want to do? Does he want to say that it would be more correct to use a different word here instead of the word “to see”? I believe he only wants to draw attention to a distinction between concepts. How does the word “to see” combine the perceptions? I mean: it can _combine_ them as perceptions _with the eye_; for we do not feel seeing _in the eye_. But actually, the one who insists on the _correctness_ of our normal way of expressing ourselves seems to say: that everything is contained in the visual _impression_; that the _subjective eye_ has both form and color, as well as movement, as expression and gaze (direction outward). That one doesn’t feel the gaze, as it were, _elsewhere_. But that doesn’t mean: ‘elsewhere than in the eyes’, but: elsewhere than in the visual image. But what if it were different? Perhaps like this: that I say: “I see in this eye the and the shapes, colors, movements – that is, it is now looking friendly,” as if I were drawing a conclusion. – One could therefore say: The location of the _**perceived**_ gaze is the _subjective_ eye, the visual image of the eye, itself.
 
 
 ### [Ts-229](/ts-229/#451.2) <span class="fac">[451\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/451.webp)</span> {#ts-229-451-2}
@@ -5689,7 +5620,7 @@ We do not see the human eye as a receiver; it does not seem to let something in,
 
 ### [Ts-229](/ts-229/#454.2) <span class="fac">[454\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-2}
 
-<span class="series-number">1784</span> I believe it is misleading, for example, when Köhler describes the spontaneous aspects of the figure 🖵 by saying: the strokes that in one aspect belong to the same arm now belong to different arms. This sounds as if it were once again a matter of bringing these radii together. Whereas the radii that belonged together before still belong together now; only now they outline one ‘arm’ or a space between them.
+<span class="series-number">1784</span> I believe it is misleading, for example, when Köhler describes the spontaneous aspects of the figure <span class="gap"></span> by saying: the strokes that in one aspect belong to the same arm now belong to different arms. This sounds as if it were once again a matter of bringing these radii together. Whereas the radii that belonged together before still belong together now; only now they outline one ‘arm’ or a space between them.
 
 
 ### [Ts-229](/ts-229/#454.3) <span class="fac">[454\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-3}
@@ -5699,7 +5630,7 @@ We do not see the human eye as a receiver; it does not seem to let something in,
 
 ### [Ts-229](/ts-229/#454.4) <span class="fac">[454\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-4}
 
-<span class="series-number">1786</span> “But I can obviously ‘bring together’ elements (strokes, for example) in seeing!” But why does one call it “bringing together”? Why does one need a word here – _essentially_ – that already has a different meaning? (It is, of course, the same as in the case of the word “mental arithmetic**”**.)
+<span class="series-number">1786</span> “But I can obviously ‘bring together’ elements (strokes, for example) in seeing!” But why does one call it “bringing together”? Why does one need a word here – _essentially_ – that already has a different meaning? (It is, of course, the same as in the case of the word “mental arithmetic*”*.)
 
 
 ### [Ts-229](/ts-229/#454.5) <span class="fac">[454\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/454.webp)</span> {#ts-229-454-5}
@@ -5729,7 +5660,7 @@ We do not see the human eye as a receiver; it does not seem to let something in,
 
 ### [Ts-229](/ts-229/#455.4) <span class="fac">[455\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/455.webp)</span> {#ts-229-455-4}
 
-<span class="series-number">1792</span> The picture 🖵 does not organize itself under our gaze.
+<span class="series-number">1792</span> The picture <span class="gap"></span> does not organize itself under our gaze.
 
 
 ### [Ts-229](/ts-229/#455.5) <span class="fac">[455\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-229/455.webp)</span> {#ts-229-455-5}

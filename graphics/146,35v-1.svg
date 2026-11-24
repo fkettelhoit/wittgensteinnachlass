@@ -103,28 +103,22 @@
          style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
          d="m 132.88697,105.54895 c 0,4.42525 2.53665,6.18464 3.90261,6.18464 1.36596,0 3.90261,-1.75939 3.90261,-6.18464 0,-2.88877 -2.36788,-4.10104 -3.90261,-4.10104 -1.53473,0 -3.90261,1.21227 -3.90261,4.10104 z"
          id="path1242"
-         sodipodi:nodetypes="cscsc" /><text
-         xml:space="preserve"
+         sodipodi:nodetypes="cscsc" /><g id="text1383" aria-label=","><path
+         d="M364.2929 448.9836 364.6289 449.2474 365.6127 448.7912C367.5569 446.271 368.4689 444.7592 369.1409 442.9114L368.8049 442.5758C368.1567 442.792 367.7247 442.936 366.4529 443.2965C366.2847 445.1198 365.6849 446.6796 364.2929 448.9836Z"
+         id="text1383-path"
+         style="font-size:24px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;fill-rule:nonzero"
          transform="matrix(0.26458333,0,0,0.26458333,1.2160771,-6.5348737)"
-         id="text1383"
-         style="font-size:24px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1385);display:inline"><tspan
-           x="363.45312"
-           y="445.52826"
-           id="tspan235">,</tspan></text><text
-         xml:space="preserve"
+         /></g><g id="text1387" aria-label=","><path
+         d="M364.2929 448.9836 364.6289 449.2474 365.6127 448.7912C367.5569 446.271 368.4689 444.7592 369.1409 442.9114L368.8049 442.5758C368.1567 442.792 367.7247 442.936 366.4529 443.2965C366.2847 445.1198 365.6849 446.6796 364.2929 448.9836Z"
+         id="text1387-path"
+         style="font-size:24px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;fill-rule:nonzero"
          transform="matrix(0.26458333,0,0,0.26458333,12.815575,-6.5348737)"
-         id="text1387"
-         style="font-size:24px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1389);display:inline"><tspan
-           x="363.45312"
-           y="445.52826"
-           id="tspan237">,</tspan></text><text
-         xml:space="preserve"
+         /></g><g id="text1391" aria-label=","><path
+         d="M364.2927 448.9836 364.6287 449.2474 365.6129 448.7912C367.5567 446.271 368.4687 444.7592 369.1407 442.9114L368.8047 442.5758C368.1569 442.792 367.7249 442.936 366.4527 443.2965C366.2849 445.1198 365.6847 446.6796 364.2927 448.9836Z"
+         id="text1391-path"
+         style="font-size:24px;line-height:1.25;font-family:'TeX Gyre Pagella';-inkscape-font-specification:'TeX Gyre Pagella';white-space:pre;fill-rule:nonzero"
          transform="matrix(0.26458333,0,0,0.26458333,30.214821,-6.5348737)"
-         id="text1391"
-         style="font-size:24px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect1393);display:inline"><tspan
-           x="363.45312"
-           y="445.52826"
-           id="tspan239">,</tspan></text></g></g><metadata
+         /></g></g></g><metadata
      id="metadata9"><rdf:RDF><cc:Work
          rdf:about=""><cc:license
            rdf:resource="http://creativecommons.org/licenses/by/4.0/" /><dc:creator><cc:Agent><dc:title>Michele Lavazza</dc:title></cc:Agent></dc:creator><dc:publisher><cc:Agent><dc:title>Wittgenstein Archives at the University of Bergen</dc:title></cc:Agent></dc:publisher><dc:title>Ms-146,35v-1</dc:title><dc:date>2023</dc:date><dc:subject><rdf:Bag><rdf:li>Wittgenstein</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License

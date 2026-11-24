@@ -450,7 +450,7 @@ It seems as if the assertion “I believe” is not the assertion of what the as
 
 ### [Ms-144](/ms-144/#21r.3) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp)</span> {#ms-144-21r-3}
 
-Likewise: The statement “I believe it will rain” has a similar sense, i.e., similar use, as “It will rain,” but “I believed then that it would rain” does not have a similar sense as “It rained then.” “But surely ‘I believed’ must state _that_ in the past which ‘I believe’ states in the present!” — Surely √‒1 must mean for ‒1 what √1 means for 1! That means absolutely nothing.
+Likewise: The statement “I believe it will rain” has a similar sense, i.e., similar use, as “It will rain,” but “I believed then that it would rain” does not have a similar sense as “It rained then.” “But surely ‘I believed’ must state _that_ in the past which ‘I believe’ states in the present!” — Surely <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em"> must mean for ‒1 what √1 means for 1! That means absolutely nothing.
 
 
 ### [Ms-144](/ms-144/#21r.4+21v.1) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/21v.webp)</span> {#ms-144-21r-4--21v-1}
@@ -799,15 +799,7 @@ is the reversal of figure b)
 
 ![](../graphics/144,28v-2.svg)<span class="post-block-punct">,</span>
 
-as figure c)
-
-![](../graphics/144,28v-3.svg)
-
-is the reversal of d)
-
-![](../graphics/144,28v-4.svg)<span class="post-block-punct">.</span>
-
-But there is a different difference between my impression of c & d – I would like to say – than between that of a & b. (For example, d looks neater than c. Compare a remark by Lewis Carroll.) d is easy to copy, c difficult.
+as figure c) <img class="math math-inline math-drawing" src="../math/d2ad9738e820c070.svg" alt="“Freude” in mirror writing, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em"> is the reversal of d) <img class="math math-inline math-drawing" src="../math/b37852609f8fd3ee.svg" alt="Freude, boxed" style="width:3.274em;height:0.950em;vertical-align:-0.122em">. But there is a different difference between my impression of c & d – I would like to say – than between that of a & b. (For example, d looks neater than c. Compare a remark by Lewis Carroll.) d is easy to copy, c difficult.
 
 
 ### [Ms-144](/ms-144/#28v.2) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/28v.webp)</span> {#ms-144-28v-2}
@@ -1090,11 +1082,7 @@ a90
 
 ### [Ms-144](/ms-144/#34v.3) <span class="fac">[34v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/34v.webp)</span> {#ms-144-34v-3}
 
-<span class="series-number">a92</span> “I see it now as a…” goes together with “I try to see it as a…” or “I cannot yet see it as a…”. But I cannot try to see the conventional picture of a lion _as_ a lion, just as little as I can see
-
-![](../graphics/144,34v-1.svg)
-
-as that letter. (But perhaps as a gallows.)
+<span class="series-number">a92</span> “I see it now as a…” goes together with “I try to see it as a…” or “I cannot yet see it as a…”. But I cannot try to see the conventional picture of a lion _as_ a lion, just as little as I can see <img class="math math-inline math-drawing" src="../math/886e6be3af062816.svg" alt="Ŧ (F with its mirror image)" style="width:0.777em;height:0.720em;vertical-align:-0.020em"> as that letter. (But perhaps as a gallows.)
 
 a93
 
@@ -1260,7 +1248,7 @@ We speak, make utterances, & only _later_ do we form an image of their life.
 
 ### [Ms-144](/ms-144/#39v.2) <span class="fac">[39v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp)</span> {#ms-144-39v-2}
 
-<span class="series-number">a107˙8</span> We react differently to the visual impression than someone who does not recognize it as fearful (in the _full_ sense of the word). – Now, I do _not_ want to say that we feel this reaction in the muscles & joints, & that this is the ‘sensation’. – No, here we have a modified concept of **sensation**.
+<span class="series-number">a107˙8</span> We react differently to the visual impression than someone who does not recognize it as fearful (in the _full_ sense of the word). – Now, I do _not_ want to say that we feel this reaction in the muscles & joints, & that this is the ‘sensation’. – No, here we have a modified concept of _sensation_.
 
 
 ### [Ms-144](/ms-144/#39v.5+40r.1) <span class="fac">[39v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/40r.webp)</span> {#ms-144-39v-5--40r-1}
@@ -1275,7 +1263,7 @@ We speak, make utterances, & only _later_ do we form an image of their life.
 
 ### [Ms-144](/ms-144/#36r.2) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36r.webp)</span> {#ms-144-36r-2}
 
-<span class="series-number">a108</span> From any written character – this one, for example <math display="inline"><mtext>𝖄</mtext></math> – I can imagine that it is the strictly correctly written letter of some foreign alphabet. Or, it is a poorly written one; and in this case, poorly written in one way or another: e.g., hastily, or in a typically childishly awkward way, or bureaucratically ornate. It could deviate from the correctly written one in various ways. – And depending on the interpretation with which I surround it, I can see it in different aspects. And here there is a close kinship with ‘experiencing the meaning of a word’.
+<span class="series-number">a108</span> From any written character – this one, for example <img class="math math-inline math-drawing" src="../math/c39a9ba86adf525c.svg" alt="𝖄" style="width:0.766em;height:0.737em;vertical-align:-0.047em"> – I can imagine that it is the strictly correctly written letter of some foreign alphabet. Or, it is a poorly written one; and in this case, poorly written in one way or another: e.g., hastily, or in a typically childishly awkward way, or bureaucratically ornate. It could deviate from the correctly written one in various ways. – And depending on the interpretation with which I surround it, I can see it in different aspects. And here there is a close kinship with ‘experiencing the meaning of a word’.
 
 
 ### [Ms-144](/ms-144/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/36v.webp)</span> {#ms-144-36v-2}
@@ -1975,7 +1963,7 @@ Compare a concept with a style of painting: Is our style of painting also arbitr
 
 ### [Ms-144](/ms-144/#51r.1) <span class="fac">[51r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r-1}
 
-If I say “Half an hour ago, he was here” – that is, recalling it from memory – then this is not a description of a present **experience**. Memories are byproducts of the act of remembering.
+If I say “Half an hour ago, he was here” – that is, recalling it from memory – then this is not a description of a present _experience_. Memories are byproducts of the act of remembering.
 
 
 ### [Ms-144](/ms-144/#51r.2) <span class="fac">[51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/51r.webp)</span> {#ms-144-51r-2}

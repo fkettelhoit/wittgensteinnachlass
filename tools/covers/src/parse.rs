@@ -142,6 +142,11 @@ fn strip_markup(text: &str) -> String {
     s = tag_re.replace_all(&s, "").to_string();
     // Remove markdown bold markers
     s = s.replace("**", "");
+    // Remove intra-word emphasis markers (`Empfindungs*begriff*`, `*Bewegungs*möglichkeit`)
+    let pre_re = Regex::new(r"(\w)\*([^*\s]+)\*").unwrap();
+    s = pre_re.replace_all(&s, "$1$2").to_string();
+    let post_re = Regex::new(r"\*([^*\s]+)\*(\w)").unwrap();
+    s = post_re.replace_all(&s, "$1$2").to_string();
     // Remove markdown emphasis markers (simple: single underscores around words)
     let em_re = Regex::new(r"_([^_]+)_").unwrap();
     s = em_re.replace_all(&s, "$1").to_string();

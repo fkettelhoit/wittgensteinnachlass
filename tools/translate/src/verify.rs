@@ -53,15 +53,15 @@ pub struct Issue {
     pub description: String,
 }
 
-/// Extract all <math>...</math> blocks from text.
+/// Extract all math blocks (MathML or rendered LaTeX images) from text.
 fn extract_math_blocks(text: &str) -> Vec<String> {
-    let re = regex::Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+    let re = regex::Regex::new(crate::common::MATH_PATTERN).unwrap();
     re.find_iter(text).map(|m| m.as_str().to_string()).collect()
 }
 
 /// Extract all HTML tags (excluding math) from text.
 fn extract_html_tags(text: &str) -> Vec<String> {
-    let no_math = regex::Regex::new(r"(?s)<math[\s>].*?</math>")
+    let no_math = regex::Regex::new(crate::common::MATH_PATTERN)
         .unwrap()
         .replace_all(text, "")
         .into_owned();
@@ -79,7 +79,7 @@ fn extract_images(text: &str) -> Vec<String> {
 
 /// Strip all markup/formatting, leaving only natural language text.
 fn plain_text(text: &str) -> String {
-    let no_math = regex::Regex::new(r"(?s)<math[\s>].*?</math>")
+    let no_math = regex::Regex::new(crate::common::MATH_PATTERN)
         .unwrap()
         .replace_all(text, "")
         .into_owned();
@@ -89,7 +89,7 @@ fn plain_text(text: &str) -> String {
         .into_owned();
     no_html
         .replace('_', "")
-        .replace("**", "")
+        .replace('*', "")
         .replace("![", "")
         .replace("](", "")
         .replace(')', "")
@@ -97,7 +97,7 @@ fn plain_text(text: &str) -> String {
 
 /// Check for undirected (straight) double quotes in prose (ignoring HTML tags and math).
 fn check_quotes(text: &str) -> Vec<String> {
-    let math_re = regex::Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+    let math_re = regex::Regex::new(crate::common::MATH_PATTERN).unwrap();
     let tag_re = regex::Regex::new(r"<[^>]+>").unwrap();
     let mut hits = Vec::new();
     for (i, line) in text.lines().enumerate() {
@@ -186,9 +186,9 @@ pub fn verify_remark(
         });
     }
 
-    // 2. Emphasis marker check — _ and * counts must be within tolerance
-    let de_underscores = de_body.chars().filter(|&c| c == '_').count();
-    let en_underscores = en_body.chars().filter(|&c| c == '_').count();
+    // 2. Emphasis marker check — single (_ or *…*) counts within tolerance, ** exact
+    let (de_underscores, de_asterisks) = crate::common::emphasis_counts(de_body);
+    let (en_underscores, en_asterisks) = crate::common::emphasis_counts(en_body);
     let us_diff = (de_underscores as isize - en_underscores as isize).unsigned_abs();
     if us_diff > emphasis_tolerance {
         issues.push(Issue {
@@ -196,20 +196,18 @@ pub fn verify_remark(
             remark_id: remark_id.to_string(),
             check: "emphasis",
             description: format!(
-                "Underscore count mismatch: DE has {}, EN has {}",
+                "Single emphasis (_/*) count mismatch: DE has {}, EN has {}",
                 de_underscores, en_underscores
             ),
         });
     }
-    let de_asterisks = de_body.chars().filter(|&c| c == '*').count();
-    let en_asterisks = en_body.chars().filter(|&c| c == '*').count();
     if de_asterisks != en_asterisks {
         issues.push(Issue {
             file: file_name.to_string(),
             remark_id: remark_id.to_string(),
             check: "emphasis",
             description: format!(
-                "Asterisk count mismatch: DE has {}, EN has {}",
+                "Bold (**) count mismatch: DE has {}, EN has {}",
                 de_asterisks, en_asterisks
             ),
         });

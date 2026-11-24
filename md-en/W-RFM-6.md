@@ -147,7 +147,7 @@ The picture does not, of course, show that something happens, but that whatever 
 
 ### [Ms-164](/ms-164/#11.5+12.1) <span class="fac">[11\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/12.webp)</span> {#ms-164-11-5--12-1}
 
-We are led to use this technique in this case. I am led to – & in **sofern** convinced of something.
+We are led to use this technique in this case. I am led to – & in _sofern_ convinced of something.
 
 See, that’s how 3 and 2 make 5. Remember this process. “You also remember the rule at the same time.”
 
@@ -942,7 +942,7 @@ What we call “following a rule” in a complicated environment, we would certa
 
 ### [Ms-164](/ms-164/#98.3) <span class="fac">[98\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp)</span> {#ms-164-98-3}
 
-Language, I would like to say, relates to a Lebens**weise**.
+Language, I would like to say, relates to a Lebens*weise*.
 
 
 ### [Ms-164](/ms-164/#98.4+99.1) <span class="fac">[98\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/98.webp),[99\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/99.webp)</span> {#ms-164-98-4--99-1}
@@ -1266,7 +1266,7 @@ But are we not guided by the rule? And how can it guide us when its expression c
 
 ### [Ms-164](/ms-164/#133.2+134.1) <span class="fac">[133\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/133.webp),[134\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/134.webp)</span> {#ms-164-133-2--134-1}
 
-What is now the difference between the process of following a rule (e.g. an algebraic expression) of deriving number after number in succession & this process: if we show someone a certain sign, e.g. <math display="inline"><mtext>𝖄</mtext></math>, a digit occurs to him; he looks at the digit & the sign, & again a digit occurs to him & so on. And each time we perform this experiment, the same sequence of digits occurs to him. Is the difference between this process & the process of following the rule a psychological one, that in the second case, an occurrence takes place? Could I not say: when he followed the rule “∣– –∣”, the figure “∣– –∣” always occurred to him?
+What is now the difference between the process of following a rule (e.g. an algebraic expression) of deriving number after number in succession & this process: if we show someone a certain sign, e.g. <img class="math math-inline math-drawing" src="../math/e43bba2c1aecc0e1.svg" alt="𝖄" style="width:1.424em;height:0.923em;vertical-align:-0.233em">, a digit occurs to him; he looks at the digit & the sign, & again a digit occurs to him & so on. And each time we perform this experiment, the same sequence of digits occurs to him. Is the difference between this process & the process of following the rule a psychological one, that in the second case, an occurrence takes place? Could I not say: when he followed the rule “∣– –∣”, the figure “∣– –∣” always occurred to him?
 
 
 ### [Ms-164](/ms-164/#134.2+135.1) <span class="fac">[134\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/134.webp),[135\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/135.webp)</span> {#ms-164-134-2--135-1}

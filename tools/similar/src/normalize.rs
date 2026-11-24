@@ -11,7 +11,8 @@ macro_rules! re {
 
 // Whole lines that carry no remark text: section titles, rules, dates.
 re!(SKIP_LINE, r"^(##\s.*|\s*(-{3,}|(–\s*){3,})\s*|\s*\d{1,2}\.\d{1,2}\.\d{2,4}\.?\s*)$");
-re!(MATH, r"(?s)<math\b.*?</math>");
+// Math: legacy MathML or a rendered LaTeX formula image (`<img class="math …">`).
+re!(MATH, r#"(?s)<math\b.*?</math>|<img class="math[^"]*"[^>]*>"#);
 re!(IMAGE, r"!\[[^\]]*\]\([^)]*\)");
 re!(SERIES_NUMBER, r#"(?s)<span class="series-number">.*?</span>"#);
 // A deletion; an unclosed `<s>` runs to the end of the remark.

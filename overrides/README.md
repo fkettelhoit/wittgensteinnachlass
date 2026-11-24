@@ -7,7 +7,7 @@ translate tool read them and never clobber them.
 ## Layout
 
 - `de/` — German overrides, applied by the parser (`wab-parser`) when generating `md/`.
-  Used where the parser can't produce correct output (complex MathML layouts, etc.).
+  Used where the parser can't produce correct output (complex math layouts, etc.). Math may be written as MathML; the parser converts it to LaTeX and renders it to SVG like all other formulas.
 - `en/` — English overrides, applied by the `translate` tool (`tools/translate`) when
   assembling `md-en/`. The override body is used verbatim and is never auto-fixed or
   re-translated.

@@ -19,7 +19,7 @@ y = (x² + z)² ‒ z(2x² + z).
 
 ### [Ts-222](/ts-222/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/2.webp)</span> {#ts-222-2-2}
 
-<span class="series-number">203</span> “How the formula is meant determines which transitions are to be made.” What is the criterion for how the formula is meant? Surely it is the way in which we constantly use it, the way in which we were taught to use it. We say, for example, to someone who is using a symbol unknown to us: “If you mean x² by ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’, then you will get _this_ value for y; if you mean √x, then you will get _that_.” – Now ask yourself: how does one do it, how does one _mean_ one thing or the other by ‘<math class="stacked" display="inline"><mtable rowspacing="0.1em"><mtr><mtd><mi>x</mi></mtd></mtr><mtr><mtd><mo>∼</mo></mtd></mtr><mtr><mtd><mn>2</mn></mtd></mtr></mtable></math>’? _Thus_, the meaning can determine the transitions in advance.
+<span class="series-number">203</span> “How the formula is meant determines which transitions are to be made.” What is the criterion for how the formula is meant? Surely it is the way in which we constantly use it, the way in which we were taught to use it. We say, for example, to someone who is using a symbol unknown to us: “If you mean x² by ‘<img class="math math-inline math-stacked" src="../math/2f9e71f1fec1632f.svg" alt="\wavyfrac{x}{2}" style="width:1.758em;height:3.250em;vertical-align:-1.375em">’, then you will get _this_ value for y; if you mean √x, then you will get _that_.” – Now ask yourself: how does one do it, how does one _mean_ one thing or the other by ‘<img class="math math-inline math-stacked" src="../math/2f9e71f1fec1632f.svg" alt="\wavyfrac{x}{2}" style="width:1.758em;height:3.250em;vertical-align:-1.375em">’? _Thus_, the meaning can determine the transitions in advance.
 
 
 ### [Ts-222](/ts-222/#3.1+4.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/3.webp),[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/4.webp)</span> {#ts-222-3-1--4-1}
@@ -218,40 +218,7 @@ then I can now find out by association whether I have as many corners above as I
 
 Proof by induction
 
-<math display="block">
-  <mrow>
-    <mtable columnalign="left" rowspacing="0.2em">
-      <mtr>
-        <mtd>
-          <mrow>
-            <munder>
-              <mn>1</mn>
-              <mo>&#x005F;</mo>
-            </munder>
-            <mspace width="0.2em"/>
-            <mo>:</mo>
-            <mspace width="0.2em"/>
-            <mn>3</mn>
-            <mspace width="0.2em"/>
-            <mo>=</mo>
-            <mspace width="0.2em"/>
-            <mn>0</mn>
-            <mo>.</mo>
-            <mn>3</mn>
-          </mrow>
-        </mtd>
-      </mtr>
-      <mtr>
-        <mtd>
-          <mrow>
-            <mspace width="0.5em"/>
-            <mn>1</mn>
-          </mrow>
-        </mtd>
-      </mtr>
-    </mtable>
-  </mrow>
-</math>
+<img class="math math-block" src="../math/2e5e05e5e668b602.svg" alt="\begin{array}{l} \underline{1}\,:\,\underline{3}\,=\,\underline{0.3} \\ \hspace{0.5em}1 \end{array}" style="display:block;width:6.039em;height:2.760em">
 
 Triangle in the Euclidean proof.
 
@@ -278,7 +245,7 @@ Triangle in the Euclidean proof.
 
 ### [Ts-222](/ts-222/#30.3+31.1) <span class="fac">[30\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/30.webp),[31\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/31.webp)</span> {#ts-222-30-3--31-1}
 
-<span class="series-number">249</span> Imagine you have a row of balls in front of you; you number them with Arabic numerals, starting from 1 and going up to 100; then you make a larger space after every 10; in each row of 10, you make a slightly smaller space in the middle, between 5 and 5 – this makes the 10 surveyable; now you take the rows of ten and place them **under** each other, making a slightly larger space in the middle of the column, that is, between five rows and five rows; now you number the rows from 1 to 10. – You have, as it were, excerpted with the balls. I can say that I have unfolded the properties of the hundred balls. – Now, imagine that this whole process, this experiment with the hundred balls, was filmed. When I see it on the screen, I do not see an experiment; the image of an experiment is not itself an experiment. – But the ‘mathematically essential’ I now see in the projection! For first 100 dots appear, then they are divided into rows of ten, and so on and so forth. I could therefore say: the proof does not serve me as an experiment, but rather as a picture of an experiment.
+<span class="series-number">249</span> Imagine you have a row of balls in front of you; you number them with Arabic numerals, starting from 1 and going up to 100; then you make a larger space after every 10; in each row of 10, you make a slightly smaller space in the middle, between 5 and 5 – this makes the 10 surveyable; now you take the rows of ten and place them _under_ each other, making a slightly larger space in the middle of the column, that is, between five rows and five rows; now you number the rows from 1 to 10. – You have, as it were, excerpted with the balls. I can say that I have unfolded the properties of the hundred balls. – Now, imagine that this whole process, this experiment with the hundred balls, was filmed. When I see it on the screen, I do not see an experiment; the image of an experiment is not itself an experiment. – But the ‘mathematically essential’ I now see in the projection! For first 100 dots appear, then they are divided into rows of ten, and so on and so forth. I could therefore say: the proof does not serve me as an experiment, but rather as a picture of an experiment.
 
 
 ### [Ts-222](/ts-222/#31.2) <span class="fac">[31\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/31.webp)</span> {#ts-222-31-2}
@@ -308,7 +275,7 @@ to see that 2 + 2 + 2 = 4.
 
 ### [Ts-222](/ts-222/#34.1) <span class="fac">[34\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/34.webp)</span> {#ts-222-34-1}
 
-<span class="series-number">271</span> And so, the proof (238) by drawing the projection lines <math display="inline"><mtext>🖵</mtext></math> establishes a process, the one-to-one correspondence between the H and the D. – “But doesn't it also convince me that this correspondence is _possible_?” – Does “this correspondence” here refer to the figures of the proof itself? Something cannot be both a measure & something being measured at the same time. If this is meant to say that you can always execute it, then that does not necessarily have to be true. But the drawing of the projection lines convinces us that there are as many lines above as there are corners below; and it provides a template for assigning such figures to each other. – “But doesn't the template thereby show that it is possible? not that it was possible this time! In the sense that it would not be possible if, instead of ❘ ❘ ❘ ❘ ❘ above, the figure ❘ ❘ ❘ ❘ ❘ ❘ stood” – Why? Is it not possible then? _Thus_, for example:
+<span class="series-number">271</span> And so, the proof (238) by drawing the projection lines <img class="math math-inline" src="../math/cca9fb5112e1f6ba.svg" alt="\hphantom{MMMMMMM}" style="width:6.608em;height:0.016em;vertical-align:-0.016em"> establishes a process, the one-to-one correspondence between the H and the D. – “But doesn't it also convince me that this correspondence is _possible_?” – Does “this correspondence” here refer to the figures of the proof itself? Something cannot be both a measure & something being measured at the same time. If this is meant to say that you can always execute it, then that does not necessarily have to be true. But the drawing of the projection lines convinces us that there are as many lines above as there are corners below; and it provides a template for assigning such figures to each other. – “But doesn't the template thereby show that it is possible? not that it was possible this time! In the sense that it would not be possible if, instead of ❘ ❘ ❘ ❘ ❘ above, the figure ❘ ❘ ❘ ❘ ❘ ❘ stood” – Why? Is it not possible then? _Thus_, for example:
 
 ![](../graphics/222,34.svg)
 
@@ -814,12 +781,12 @@ You don’t have a model for this excessive fact, but you are tempted to use an 
 
 ### [Ts-222](/ts-222/#100.4+101.1+102.1) <span class="fac">[100\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/100.webp),[101\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/101.webp),[102\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/102.webp)</span> {#ts-222-100-4--101-1--102-1}
 
-When does one think that the machine already has its possible movements in some mysterious way within itself? – Well, when one philosophizes. And what leads us to think that? The way we talk about the machine. We say, for example, that the machine _has_ (_possesses_) these possibilities for movement, we speak of the ideally rigid machine that can only move in this way or that way. The possibility of **movement**, what is it? It is not the _movement_; but it also does not seem to be merely the physical _condition_ of the movement, for example, that there is a certain space between the bearing and the pin, that the pin does not fit too tightly into the bearing. Because this is indeed _empirically_ the condition for the movement, but one could also imagine the thing differently. The possibility of movement is supposed to be more like a shadow of the movement itself. But do you know such a shadow? And by shadow, I do not mean any picture of the movement; because this picture would not have to be the picture of precisely _this_ movement. But the possibility of this movement must be the possibility of precisely this movement. (See how high the waves of language rise here.) The waves subside as we ask: how do we use the word “possibility of movement” when we talk about a machine? – But where did these strange ideas come from? Well, I show you the possibility of movement, for example, through a _picture_ of the movement: ‘so the possibility is something similar to reality’. We say: “it is not yet moving, but it already has the possibility to move”, ‘so the possibility is something very close to reality’. We may indeed doubt whether this or that physical condition makes this movement possible, but we never discuss whether _this_ is the possibility of this or that movement: ‘so the possibility of movement is in a unique relation to the movement itself, closer than that of the picture to its object’, because it can be doubted whether this is the picture of this or that object. We say: “experience will teach whether this gives the pin this possibility of movement”, but we do not say: “experience will teach whether this is the possibility of this movement”: ‘so it is not an empirical fact that this possibility is the possibility of precisely this movement’. We pay attention to our own way of expressing ourselves with regard to these things, but we do not understand them, but rather misinterpret them. When we philosophize, we are like savages, like primitive people who hear the way of speaking of civilized people, misinterpret it and now draw strange conclusions from this interpretation. Imagine that someone does not understand our past tense: “he is here”. – He says: “‘he _is_’, that is the present, so this sentence says that the past is present in a certain sense”.
+When does one think that the machine already has its possible movements in some mysterious way within itself? – Well, when one philosophizes. And what leads us to think that? The way we talk about the machine. We say, for example, that the machine _has_ (_possesses_) these possibilities for movement, we speak of the ideally rigid machine that can only move in this way or that way. The possibility of _movement_, what is it? It is not the _movement_; but it also does not seem to be merely the physical _condition_ of the movement, for example, that there is a certain space between the bearing and the pin, that the pin does not fit too tightly into the bearing. Because this is indeed _empirically_ the condition for the movement, but one could also imagine the thing differently. The possibility of movement is supposed to be more like a shadow of the movement itself. But do you know such a shadow? And by shadow, I do not mean any picture of the movement; because this picture would not have to be the picture of precisely _this_ movement. But the possibility of this movement must be the possibility of precisely this movement. (See how high the waves of language rise here.) The waves subside as we ask: how do we use the word “possibility of movement” when we talk about a machine? – But where did these strange ideas come from? Well, I show you the possibility of movement, for example, through a _picture_ of the movement: ‘so the possibility is something similar to reality’. We say: “it is not yet moving, but it already has the possibility to move”, ‘so the possibility is something very close to reality’. We may indeed doubt whether this or that physical condition makes this movement possible, but we never discuss whether _this_ is the possibility of this or that movement: ‘so the possibility of movement is in a unique relation to the movement itself, closer than that of the picture to its object’, because it can be doubted whether this is the picture of this or that object. We say: “experience will teach whether this gives the pin this possibility of movement”, but we do not say: “experience will teach whether this is the possibility of this movement”: ‘so it is not an empirical fact that this possibility is the possibility of precisely this movement’. We pay attention to our own way of expressing ourselves with regard to these things, but we do not understand them, but rather misinterpret them. When we philosophize, we are like savages, like primitive people who hear the way of speaking of civilized people, misinterpret it and now draw strange conclusions from this interpretation. Imagine that someone does not understand our past tense: “he is here”. – He says: “‘he _is_’, that is the present, so this sentence says that the past is present in a certain sense”.
 
 
 ### [Ts-222](/ts-222/#102.1+103.1) <span class="fac">[102\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/102.webp),[103\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/103.webp)</span> {#ts-222-102-1--103-1}
 
-“But I don’t mean that what I am doing now (in grasping) causally & empirically determines the future use, but rather that, in a _strange_ way, this use itself is, in some sense, present.” – But in **some** sense, it is! (We also say: “the events of the past years are present to me.”) Actually, what is wrong with what you say is only the expression: “in a strange way.” The rest is correct; & the sentence only seems strange if one imagines a different language-game for it than the one in which we actually use it. (Someone told me that as a child he wondered how the tailor _‘sewed a dress’_ – he thought this meant that a dress was created by _mere_ sewing, namely by sewing thread to thread.)
+“But I don’t mean that what I am doing now (in grasping) causally & empirically determines the future use, but rather that, in a _strange_ way, this use itself is, in some sense, present.” – But in _some_ sense, it is! (We also say: “the events of the past years are present to me.”) Actually, what is wrong with what you say is only the expression: “in a strange way.” The rest is correct; & the sentence only seems strange if one imagines a different language-game for it than the one in which we actually use it. (Someone told me that as a child he wondered how the tailor _‘sewed a dress’_ – he thought this meant that a dress was created by _mere_ sewing, namely by sewing thread to thread.)
 
 
 ### [Ts-222](/ts-222/#103.2) <span class="fac">[103\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-222/103.webp)</span> {#ts-222-103-2}
@@ -1064,9 +1031,7 @@ Experience teaches that when counting, if we use the fingers of one hand, or any
 
 But what if I first draw one’s attention to the fact that the result of the counting is predetermined by the beginning, and he now understands it and says: “Yes, of course, – it must be so!” What kind of insight is that? – He has, perhaps, written down the following scheme:
 
-<math display="block">
-  <mtext>🖵</mtext>
-</math>
+<img class="math math-block" src="../math/2a000a7e0eb88bbd.svg" alt="\rule{0pt}{3em}" style="display:block;width:0.016em;height:3.000em">
 
 And his reasoning would be something like: “It is _so_ when I count. – Therefore, it must be ‥‥‥”
 

@@ -1,0 +1,8 @@
+{{- /* Internal links use readable fragments (`/ms-144/#1r.1`, `/w-ppf/#ms-144-1r.1+1v.1`);
+  map them to the heading ids of render-heading.html: lowercase, "." → "-", "+" → "--". */ -}}
+{{- $u := .Destination -}}
+{{- if findRE `^/[a-z0-9-]+/#` $u 1 -}}
+  {{- $u = $u | replaceRE `\.` "-" | replaceRE `\+` "--" | lower -}}
+{{- end -}}
+<a href="{{ $u | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
+{{- /* no trailing newline: links are inline */ -}}

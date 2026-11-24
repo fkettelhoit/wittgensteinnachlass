@@ -1,0 +1,17 @@
+{{- /* Remark headings get an id derived from their facsimile labels, e.g.
+  `1r[2],1v[1]` → `1r-2--1v-1`: "[" (and the "." of split remarks like `1[1].2`)
+  becomes "-", "]" is dropped and the "," between refs becomes "--", so distinct refs
+  like 3[12] and 31[2] never collide. In a work, the heading links to its source
+  document (`[Ms-144](/ms-144/#1r.1)`), whose slug prefixes the id (`ms-144-1r-1`).
+  The readable fragments in internal links (`#1r.1`, `#ms-144-1r.1`) are mapped to
+  these ids by render-link.html. Other headings keep Hugo's default anchor. */ -}}
+{{- $id := .Anchor -}}
+{{- with findRESubmatch `<span class="fac">(.*?)</span>` .Text 1 -}}
+  {{- $labels := index (index . 0) 1 | plainify -}}
+  {{- $id = $labels | replaceRE `\]` "" | replaceRE `[\[.]` "-" | replaceRE `,` "--" | lower -}}
+  {{- with findRESubmatch `^<a href="/((?:ms|ts)-[^/"]+)/#` $.Text 1 -}}
+    {{- $id = printf "%s-%s" (index (index . 0) 1) $id -}}
+  {{- end -}}
+{{- end -}}
+<h{{ .Level }} id="{{ $id }}">{{ .Text }}</h{{ .Level }}>
+{{- /* trailing newline matches Goldmark's default heading output */}}

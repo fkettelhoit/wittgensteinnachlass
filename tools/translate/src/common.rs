@@ -131,9 +131,16 @@ pub fn parse_document(content: &str) -> (String, Vec<Remark>) {
     (preamble, remarks)
 }
 
-/// Extract <math>...</math> blocks and replace with placeholders.
+/// A math block: legacy inline MathML (`<math>…</math>`), a rendered LaTeX formula
+/// (`<img class="math …">` pointing at an SVG in `math/`), or a graphic set inline in
+/// the text (`<img class="graphic graphic-inline" …>`). All are opaque to translation
+/// and must be copied verbatim.
+pub const MATH_PATTERN: &str =
+    r#"(?s)<math[\s>].*?</math>|<img class="(?:math|graphic)[^"]*"[^>]*>"#;
+
+/// Extract math blocks and replace with placeholders.
 pub fn extract_math(text: &str) -> (String, Vec<String>) {
-    let re = Regex::new(r"(?s)<math[\s>].*?</math>").unwrap();
+    let re = Regex::new(crate::common::MATH_PATTERN).unwrap();
     let mut blocks = Vec::new();
     let result = re.replace_all(text, |caps: &regex::Captures| {
         let placeholder = format!("\u{27E6}MATH:{}\u{27E7}", blocks.len() + 1);
@@ -153,13 +160,27 @@ pub fn restore_math(text: &str, blocks: &[String]) -> String {
     result
 }
 
-/// Convert _emphasis_ to <em>emphasis</em> and **bold** to <strong>bold</strong>.
-/// The model preserves HTML tags more reliably than markdown emphasis markers.
+/// Convert _emphasis_ and *intra-word emphasis* to <em>emphasis</em> and **bold** to
+/// <strong>bold</strong>. The model preserves HTML tags more reliably than markdown
+/// emphasis markers.
 pub fn emphasis_to_html(text: &str) -> String {
     let bold_re = Regex::new(r"\*\*([^*]+)\*\*").unwrap();
     let result = bold_re.replace_all(text, "<strong>$1</strong>");
+    let single_re = Regex::new(r"\*([^*\s][^*]*)\*").unwrap();
+    let result = single_re.replace_all(&result, "<em>$1</em>");
     let em_re = Regex::new(r"_([^_]+)_").unwrap();
     em_re.replace_all(&result, "<em>$1</em>").into_owned()
+}
+
+/// Count emphasis delimiters as (single, double): `_` and single `*` (the parser writes
+/// emphasis inside a word as `*…*`, since `_` doesn't work there) count as single,
+/// `**` as double (two per marker, like the raw asterisk count). Both kinds of single
+/// emphasis render as italics, so a German `*x*` may become `_x_` in English.
+pub fn emphasis_counts(text: &str) -> (usize, usize) {
+    let doubles = text.matches("**").count();
+    let asterisks = text.chars().filter(|&c| c == '*').count();
+    let underscores = text.chars().filter(|&c| c == '_').count();
+    (underscores + asterisks.saturating_sub(2 * doubles), 2 * doubles)
 }
 
 /// Convert <em>emphasis</em> back to _emphasis_ and <strong>bold</strong> back to **bold**.
@@ -211,11 +232,11 @@ pub fn split_segments(text: &str) -> Vec<String> {
     segments
 }
 
-/// Count segments in the German text that contain emphasis markers (_ or **).
+/// Count segments in the German text that contain emphasis markers (_, * or **).
 pub fn count_emphasized_segments(german: &str) -> usize {
     split_segments(german)
         .iter()
-        .filter(|s| s.contains('_') || s.contains("**"))
+        .filter(|s| s.contains('_') || s.contains('*'))
         .count()
 }
 
@@ -238,18 +259,17 @@ pub fn repair_emphasis_by_segment(
     }
 
     let system_msg = "Insert emphasis markers into the English text to match the German original. \
-        Use _underscores_ where the German uses _underscores_, and **double asterisks** where \
-        the German uses **double asterisks** (for intra-word emphasis). Do not change any words — \
-        only add or remove emphasis markers. Output only the modified English text.";
+        Use _underscores_ where the German uses _underscores_ or *single asterisks* (emphasis \
+        inside a word), and **double asterisks** where the German uses **double asterisks**. \
+        Do not change any words — only add or remove emphasis markers. Output only the \
+        modified English text.";
 
     let mut fixed_segs = en_segs.clone();
     let mut changed = false;
 
     for (i, (de_seg, en_seg)) in de_segs.iter().zip(en_segs.iter()).enumerate() {
-        let de_us = de_seg.chars().filter(|&c| c == '_').count();
-        let en_us = en_seg.chars().filter(|&c| c == '_').count();
-        let de_ast = de_seg.chars().filter(|&c| c == '*').count();
-        let en_ast = en_seg.chars().filter(|&c| c == '*').count();
+        let (de_us, de_ast) = emphasis_counts(de_seg);
+        let (en_us, en_ast) = emphasis_counts(en_seg);
 
         if de_us == en_us && de_ast == en_ast {
             continue; // this segment is fine
@@ -290,8 +310,7 @@ pub fn repair_emphasis_by_segment(
             Ok(result) => {
                 let trimmed = result.trim().to_string();
                 // Verify the fix has the right emphasis counts
-                let result_us = trimmed.chars().filter(|&c| c == '_').count();
-                let result_ast = trimmed.chars().filter(|&c| c == '*').count();
+                let (result_us, result_ast) = emphasis_counts(&trimmed);
                 if result_us == de_us && result_ast == de_ast {
                     fixed_segs[i] = trimmed;
                     changed = true;
@@ -310,7 +329,8 @@ pub fn repair_emphasis_by_segment(
 }
 
 /// Fix emphasis markers in translated text based on what the German original uses.
-/// - Converts single *word* to _word_ (always wrong in our output)
+/// - Converts single *word* to _word_, unless it is inside a word (where `_` would not
+///   render, so `*…*` is the correct form)
 /// - Converts **word** to _word_ if the German has no ** (model used bold instead of emphasis)
 pub fn fix_emphasis_markers(translated: &str, german: &str) -> String {
     let mut text = translated.to_string();
@@ -321,11 +341,11 @@ pub fn fix_emphasis_markers(translated: &str, german: &str) -> String {
         text = bold_re.replace_all(&text, "_${1}_").into_owned();
     }
 
-    // Convert remaining single *word* to _word_
+    // Convert remaining single *word* to _word_, except inside a word
     // Protect any legitimate ** first
     let protected = text.replace("**", "\u{FFFE}BOLD\u{FFFE}");
-    let single_re = Regex::new(r"\*([^*]+)\*").unwrap();
-    let fixed = single_re.replace_all(&protected, "_${1}_");
+    let single_re = Regex::new(r"(^|[^\w*])\*([^*]+)\*([^\w*]|$)").unwrap();
+    let fixed = single_re.replace_all(&protected, "${1}_${2}_${3}");
     let result = fixed.replace("\u{FFFE}BOLD\u{FFFE}", "**");
 
     // Fix HTML-encoded ampersands — the model sometimes outputs &amp; instead of &
@@ -344,13 +364,18 @@ pub fn emphasis_checklist(text: &str) -> String {
     for cap in bold_re.captures_iter(text) {
         passages.push(format!("**{}**", &cap[1]));
     }
+    let single_re = Regex::new(r"(?:^|[^*])\*([^*\s][^*]*)\*(?:[^*]|$)").unwrap();
+    for cap in single_re.captures_iter(text) {
+        passages.push(format!("*{}*", &cap[1]));
+    }
     if passages.is_empty() {
         return String::new();
     }
     format!(
-        "The input contains {} emphasized passage(s) wrapped in _underscores_ or **double asterisks**: {}.\n\
+        "The input contains {} emphasized passage(s) wrapped in _underscores_, *single asterisks* \
+         (emphasis inside a word) or **double asterisks**: {}.\n\
          Your translation MUST wrap the English translations of these exact words \
-         in the same markers (_underscores_ or **double asterisks**).\n\n",
+         in _underscores_ (for _underscores_ and *single asterisks*) or **double asterisks**.\n\n",
         passages.len(),
         passages.join(", ")
     )
@@ -788,9 +813,27 @@ pub fn work_source_docs(work_path: &Path) -> Vec<String> {
 /// Compute the anchor ID from a source doc remark heading's page refs.
 /// E.g., heading `### [1\[1\]](url)` → `1.1`
 pub fn anchor_from_doc_heading(heading: &str) -> String {
-    // Strip HTML tags so links inside <span class="fac">...</span> are visible
-    let no_html = Regex::new(r"<[^>]+>").unwrap().replace_all(heading, "");
     let link_re = Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\(([^)]+)\)").unwrap();
+    // Inside <span class="fac">…</span> the labels are comma-separated, and a label
+    // whose facsimile is missing is plain text rather than a link (e.g.
+    // `74av\[4\],[75r\[1\]](url)`), so read every label, linked or not.
+    let fac_re = Regex::new(r#"<span class="fac">(.*?)</span>"#).unwrap();
+    if let Some(fac) = fac_re.captures(heading) {
+        return fac[1]
+            .split(',')
+            .map(|seg| {
+                // `[label](url)` → `label`; plain-text labels pass through.
+                let label = match (seg.strip_prefix('['), seg.find("](")) {
+                    (Some(_), Some(end)) => &seg[1..end],
+                    _ => seg,
+                };
+                label.replace("\\[", ".").replace("\\]", "")
+            })
+            .collect::<Vec<_>>()
+            .join("+");
+    }
+    // Strip HTML tags so any remaining links are visible
+    let no_html = Regex::new(r"<[^>]+>").unwrap().replace_all(heading, "");
     let mut parts = Vec::new();
     for cap in link_re.captures_iter(&no_html) {
         let url = &cap[2];
@@ -1399,6 +1442,17 @@ pub fn build_reuse_map(german_path: &Path, english_path: &Path) -> ReuseMap {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn anchor_reads_linked_and_unlinked_labels() {
+        let linked = r#"### [ROC III](/w-roc-3/#ms-173-74av.4+75r.1) <span class="fac">[74av\[4\]](https://cdn/74av.webp),[75r\[1\]](https://cdn/75r.webp)</span> {#74av-4--75r-1}"#;
+        let mixed = r#"### [ROC III](/w-roc-3/#ms-173-74av.4+75r.1) <span class="fac">74av\[4\],[75r\[1\]](https://cdn/75r.webp)</span> {#74av-4--75r-1}"#;
+        let plain = r#"### <span class="fac">128a\[2\]</span> {#128a-2}"#;
+        assert_eq!(anchor_from_doc_heading(linked), "74av.4+75r.1");
+        assert_eq!(anchor_from_doc_heading(mixed), "74av.4+75r.1");
+        assert_eq!(anchor_from_doc_heading(plain), "128a.2");
+        assert_eq!(anchor_from_doc_heading("### [1\\[1\\]](https://cdn/1.webp)"), "1.1");
+    }
 
     // Ts-222 class: the German `>` was escaped to `\>`; the English still has the
     // unescaped `>` and must get the same escape (else it renders as a blockquote).

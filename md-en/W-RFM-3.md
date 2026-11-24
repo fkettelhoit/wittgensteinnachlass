@@ -70,7 +70,7 @@ Suppose we prove, using Russell's method, that (∃a‥‥․g) ‥‥ (∃a‥�
 
 ### [Ms-122](/ms-122/#11v.2+12r.1) <span class="fac">[11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/11v.webp),[12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/12r.webp)</span> {#ms-122-11v-2--12r-1}
 
-Suppose, indeed, that Russell's proof is carried out using a notation of the kind <math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><msub><mi>x</mi><mn>2</mn></msub><mspace width="0.3em"/><mtext>…</mtext><msub><mi>x</mi><mn>10</mn></msub><msub><mi>x</mi><mn>11</mn></msub><mspace width="0.3em"/><mtext>…</mtext><msub><mi>x</mi><mn>100</mn></msub><mspace width="0.3em"/><mtext>…</mtext></math>, as in decimal notation, and there are 100 members in the first, 300 members in the second, and 400 members in the third parenthesis; does the proof itself then show that 100 + 300 = 400? – As if this proof were to lead once to this result and once to another result, e.g. 100 + 300 = 420? What is required to see that the result of the proof, if it is carried out correctly, always only depends on the last digits of the first two parentheses?
+Suppose, indeed, that Russell's proof is carried out using a notation of the kind <img class="math math-inline math-stacked" src="../math/88fa8b015f7e5d7f.svg" alt="{x}&#95;{1}{x}&#95;{2}\;…{x}&#95;{10}{x}&#95;{11}\;…{x}&#95;{100}\;…" style="width:10.344em;height:0.646em;vertical-align:-0.164em">, as in decimal notation, and there are 100 members in the first, 300 members in the second, and 400 members in the third parenthesis; does the proof itself then show that 100 + 300 = 400? – As if this proof were to lead once to this result and once to another result, e.g. 100 + 300 = 420? What is required to see that the result of the proof, if it is carried out correctly, always only depends on the last digits of the first two parentheses?
 
 
 ### [Ms-122](/ms-122/#12r.2+12v.1) <span class="fac">[12r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/12r.webp),[12v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/12v.webp)</span> {#ms-122-12r-2--12v-1}
@@ -111,7 +111,7 @@ Should I, therefore, put a _question_ here instead of the answer, that one canno
 
 01.11.1939
 
-The proof that <math class="stacked" display="inline"><msup><mo>(</mo><mn>1</mn></msup><mo>)</mo><msup><mo>(</mo><mn>2</mn></msup><mo>)</mo><mspace width="0.3em"/><mo>⊃</mo><msup><mo>(</mo><mn>3</mn></msup><mo>)</mo></math> is a tautology consists in the fact that one always eliminates one element of the 3<sup>rd</sup> parenthesis for one element of 1 or 2. And there are indeed many methods for this collation. Or one could also say: there are many kinds & ways of establishing the success of the 1 → 1 assignment. One way would be, for example, to construct star-shaped patterns, one for the left, one for the right side of the implication, & to compare them again by forming an ornament from both. One could, therefore, give the rule: “If you want to know whether the numbers A & B really add up to C, write an expression of the form … & assign the variables in the parentheses to each other by writing down (or trying to write down) the proof that the expression is a tautology.” My objection to this is now not that it is arbitrary to prescribe precisely this kind of collation, but that in this way one cannot establish that 1000 + 1000 = 2000.
+The proof that <img class="math math-inline math-stacked" src="../math/c07be90287048f46.svg" alt="{(}^{1}){(}^{2})⊃{(}^{3})" style="width:5.187em;height:1.018em;vertical-align:-0.164em"> is a tautology consists in the fact that one always eliminates one element of the 3<sup>rd</sup> parenthesis for one element of 1 or 2. And there are indeed many methods for this collation. Or one could also say: there are many kinds & ways of establishing the success of the 1 → 1 assignment. One way would be, for example, to construct star-shaped patterns, one for the left, one for the right side of the implication, & to compare them again by forming an ornament from both. One could, therefore, give the rule: “If you want to know whether the numbers A & B really add up to C, write an expression of the form … & assign the variables in the parentheses to each other by writing down (or trying to write down) the proof that the expression is a tautology.” My objection to this is now not that it is arbitrary to prescribe precisely this kind of collation, but that in this way one cannot establish that 1000 + 1000 = 2000.
 
 
 ### [Ms-122](/ms-122/#16r.4+16v.1) <span class="fac">[16r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/16r.webp),[16v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/16v.webp)</span> {#ms-122-16r-4--16v-1}
@@ -174,54 +174,7 @@ The numeral for 1000 in the 1 + 1 + 1 + 1… system cannot be recognized by its 
 
 ### [Ms-122](/ms-122/#28r.4+28v.1) <span class="fac">[28r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28r.webp),[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28v.webp)</span> {#ms-122-28r-4--28v-1}
 
-<math display="block">
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>
-    <mo>|</mo>
-  </mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-  <mtext>∣</mtext>
-</math>
+<img class="math math-block" src="../math/5f7f7b7d4c641909.svg" alt="∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣|∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣∣" style="display:block;width:9.708em;height:0.800em">
 
 Is this figure a proof for 27 + 16 = 43: because one arrives at “27” by counting the strokes on the left side, at “16” on the right side, & at “43” when counting the entire row?
 
@@ -250,7 +203,7 @@ Can we, starting from the 1 + 1 + 1… system, learn to do arithmetic in the dec
 
 ### [Ms-122](/ms-122/#31v.2+32r.1) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span> {#ms-122-31v-2--32r-1}
 
-Suppose I have proven a sentence of the form (∃xyz…) (∃uvw…) ⊃ (∃abc…) in Russell’s system – & now I ‘make it surveyable’ by writing over the variables <math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math> – am I now to say that I have proven an arithmetic sentence in the decimal system in Russell’s system?
+Suppose I have proven a sentence of the form (∃xyz…) (∃uvw…) ⊃ (∃abc…) in Russell’s system – & now I ‘make it surveyable’ by writing over the variables <img class="math math-inline math-stacked" src="../math/0c2914ed6b7f2171.svg" alt="{x}&#95;{1},{x}&#95;{2},{x}&#95;{3}…" style="width:4.670em;height:0.646em;vertical-align:-0.164em"> – am I now to say that I have proven an arithmetic sentence in the decimal system in Russell’s system?
 
 
 ### [Ms-122](/ms-122/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span> {#ms-122-32r-2}
@@ -276,7 +229,7 @@ How, if one said: Russell’s arithmetic agrees with the usual one up to numbers
 
 Isn’t my whole difficulty in seeing how one, without leaving Russell’s logical calculus, can arrive at the concept of the _set of variables_ in the expression “(∃ x,y,z etc.)”, where this sign is not surveyable? – Now, however, one can make it surveyable by writing:
 
-(<math class="stacked" display="inline"><mo>∃</mo><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mo>,</mo><mtext>etc</mtext><mn>.</mn></math>). And yet I don’t understand something: one has now changed the criterion for the identity of such an expression! I now see in a different way that the set of signs in two such expressions is the same.
+(<img class="math math-inline math-stacked" src="../math/43facf59da7ae7c3.svg" alt="∃{x}&#95;{1},{x}&#95;{2},{x}&#95;{3},\text{etc}." style="width:6.199em;height:0.864em;vertical-align:-0.164em">). And yet I don’t understand something: one has now changed the criterion for the identity of such an expression! I now see in a different way that the set of signs in two such expressions is the same.
 
 
 ### [Ms-122](/ms-122/#33v.2) <span class="fac">[33v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/33v.webp)</span> {#ms-122-33v-2}
@@ -337,14 +290,14 @@ Logic only forces me insofar as the logical calculus forces me.
 
 ### [Ms-122](/ms-122/#39r.2+39v.1) <span class="fac">[39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span> {#ms-122-39r-2--39v-1}
 
-But it is essential for the calculus with 1,000,000 that this number must be resolvable into a sum of 1 + 1 + 1…. And to be sure that we have the correct number of ones in front of us, we can number the ones. <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>1</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>3</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mfrac linethickness="0"><mrow><mn>1</mn></mrow><mrow><mn>4</mn></mrow></mfrac><mspace width="0.3em"/><mo>+</mo><mspace width="0.3em"/><mtext>…</mtext><mfrac linethickness="0"><mrow><mo>+</mo><mspace width="0.3em"/><mn>1</mn></mrow><mrow><mn>1000000</mn></mrow></mfrac></math> This notation would be similar to: ‘100,000,000,000’, which also makes the number sign overlookable. And I can imagine that someone has entered large sums of money in pennies in a book where they appear as 100-digit numbers, with which I now have to calculate. I would now start by translating them into an easily readable notation, but I would still call them ‘number signs’, treat them as documents of numbers. Yes, I would even consider it a document of a number if someone said that N has as many schillings as there are peas in this barrel. In other ways: “He has as many schillings as the Song of Songs has letters”.
+But it is essential for the calculus with 1,000,000 that this number must be resolvable into a sum of 1 + 1 + 1…. And to be sure that we have the correct number of ones in front of us, we can number the ones. <img class="math math-inline math-stacked" src="../math/fe00b560430d830f.svg" alt="\stack{1}{1}+\stack{1}{2}+\stack{1}{3}+\stack{1}{4}+…\stack{+1}{1000000}" style="width:10.934em;height:1.294em;vertical-align:-0.359em"> This notation would be similar to: ‘100,000,000,000’, which also makes the number sign overlookable. And I can imagine that someone has entered large sums of money in pennies in a book where they appear as 100-digit numbers, with which I now have to calculate. I would now start by translating them into an easily readable notation, but I would still call them ‘number signs’, treat them as documents of numbers. Yes, I would even consider it a document of a number if someone said that N has as many schillings as there are peas in this barrel. In other ways: “He has as many schillings as the Song of Songs has letters”.
 
 
 ### [Ms-122](/ms-122/#39v.3) <span class="fac">[39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span> {#ms-122-39v-3}
 
 29.11.1939
 
-The notation ‘<math class="stacked" display="inline"><msub><mi>x</mi><mn>1</mn></msub><mo>,</mo><msub><mi>x</mi><mn>2</mn></msub><mo>,</mo><msub><mi>x</mi><mn>3</mn></msub><mtext>…</mtext></math>’ makes the expression ‘(∃…)’ into a shape, and thus the R-proven tautology.
+The notation ‘<img class="math math-inline math-stacked" src="../math/0c2914ed6b7f2171.svg" alt="{x}&#95;{1},{x}&#95;{2},{x}&#95;{3}…" style="width:4.670em;height:0.646em;vertical-align:-0.164em">’ makes the expression ‘(∃…)’ into a shape, and thus the R-proven tautology.
 
 
 ### [Ms-122](/ms-122/#39v.4+40r.1) <span class="fac">[39v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/40r.webp)</span> {#ms-122-39v-4--40r-1}
@@ -630,7 +583,7 @@ The common element seems to be that by constructing a sign, I force the acceptan
 
 ### [Ms-122](/ms-122/#54v.4+55r.1) <span class="fac">[54v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp)</span> {#ms-122-54v-4--55r-1}
 
-Could one say: “Mathematics creates new _expressions_, not new propositions”? In**so**far as mathematical propositions are instruments incorporated into language once and for all—and their proof indicates the place where they stand.
+Could one say: “Mathematics creates new _expressions_, not new propositions”? In*so*far as mathematical propositions are instruments incorporated into language once and for all—and their proof indicates the place where they stand.
 
 
 ### [Ms-122](/ms-122/#55r.2) <span class="fac">[55r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp)</span> {#ms-122-55r-2}
@@ -971,7 +924,7 @@ Well, one could simply say: If a person had invented calculation in the decimal 
 
 ### [Ms-122](/ms-122/#86v.2+87r.1) <span class="fac">[86v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/86v.webp),[87r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/87r.webp)</span> {#ms-122-86v-2--87r-1}
 
-What if one coordinates one system of proof to another? Then there is a rule of translation by means of which one can translate the sentences proven in <math class="stacked" display="inline"><msub><mi>S</mi><mn>1</mn></msub></math> into those proven in <math class="stacked" display="inline"><msub><mi>S</mi><mn>2</mn></msub></math>. One can imagine that some – or all – of the systems of proof of modern mathematics would be coordinated to a system in this way, for example, Russell’s. So that all proofs, even if cumbersome, could be carried out in this system. Thus, there would then only be the one system – and no longer the many systems? – But it must be possible to demonstrate from the _one_ that it can be represented in the many. – _One_ part of the system will have the peculiarities of trigonometry, another that of algebra, etc. One _can_ say that different techniques are used in these parts.
+What if one coordinates one system of proof to another? Then there is a rule of translation by means of which one can translate the sentences proven in <img class="math math-inline math-stacked" src="../math/e5654bbfa8fa1d3d.svg" alt="{S}&#95;{1}" style="width:0.993em;height:0.858em;vertical-align:-0.152em"> into those proven in <img class="math math-inline math-stacked" src="../math/e5614bbfa8f63466.svg" alt="{S}&#95;{2}" style="width:0.993em;height:0.858em;vertical-align:-0.152em">. One can imagine that some – or all – of the systems of proof of modern mathematics would be coordinated to a system in this way, for example, Russell’s. So that all proofs, even if cumbersome, could be carried out in this system. Thus, there would then only be the one system – and no longer the many systems? – But it must be possible to demonstrate from the _one_ that it can be represented in the many. – _One_ part of the system will have the peculiarities of trigonometry, another that of algebra, etc. One _can_ say that different techniques are used in these parts.
 
 
 ### [Ms-122](/ms-122/#87r.2) <span class="fac">[87r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/87r.webp)</span> {#ms-122-87r-2}
@@ -991,7 +944,7 @@ It seems to me that we are, without knowing it, introducing new concepts into Ru
 
 ### [Ms-122](/ms-122/#87v.3+88r.1) <span class="fac">[87v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/87v.webp),[88r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/88r.webp)</span> {#ms-122-87v-3--88r-1}
 
-But what if – : If I first introduce ‘p⌵q’ & ‘~p’ & construct some tautologies with them – & then I show (e.g.) the series ~p, ~ ~p, ~ ~ ~p, etc. & introduce a notation like <math class="stacked" display="inline"><msup><mtext>~</mtext><mn>1</mn></msup><mi>p</mi></math>, <math class="stacked" display="inline"><msup><mtext>~</mtext><mn>2</mn></msup><mi>p</mi><mspace width="0.3em"/><mtext>‥</mtext><mtext>‥</mtext><mtext>․</mtext><msup><mtext>~</mtext><mn>10</mn></msup><mi>p</mi><mspace width="0.3em"/><mtext>‥</mtext><mtext>‥</mtext></math>. I would like to say: we may not have originally thought about the _possibility_ of such a sequence, & we have now introduced a new concept into our calculation. Here is a ‘new aspect’.
+But what if – : If I first introduce ‘p⌵q’ & ‘~p’ & construct some tautologies with them – & then I show (e.g.) the series ~p, ~ ~p, ~ ~ ~p, etc. & introduce a notation like <img class="math math-inline math-stacked" src="../math/c54ce289c47d1b22.svg" alt="{{\sim}}^{1}p" style="width:1.695em;height:1.130em;vertical-align:-0.276em">, <img class="math math-inline math-stacked" src="../math/80614e1f6cc36ae1.svg" alt="{{\sim}}^{2}p\;.....{{\sim}}^{10}p\;...." style="width:7.882em;height:1.130em;vertical-align:-0.276em">. I would like to say: we may not have originally thought about the _possibility_ of such a sequence, & we have now introduced a new concept into our calculation. Here is a ‘new aspect’.
 
 
 ### [Ms-122](/ms-122/#88v.2) <span class="fac">[88v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/88v.webp)</span> {#ms-122-88v-2}
@@ -1035,73 +988,9 @@ Can one now express what I want to say _in this way_: “If we had learned from 
 
 Suppose I had Russellian proofs of the sentences
 
-<math display="block">
-  <mtable columnalign="right center left" columnspacing="1em">
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>&#x2018;</mo>
-          <mi>p</mi>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>≡</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-          <mo>&#x2019;</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>&#x2018;</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>≡</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-          <mo>&#x2019;</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>&#x2018;</mo>
-          <mi>p</mi>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>≡</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mo>∼</mo>
-          <mi>p</mi>
-          <mo>&#x2019;</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/a9f6a620bf921958.svg" alt="\begin{array}{rcl} {\text{‘}p} &amp; ≡ &amp; {∼∼p\text{’}} \\ {\text{‘}∼p} &amp; ≡ &amp; {∼∼∼p\text{’}} \\ {\text{‘}p} &amp; ≡ &amp; {∼∼∼∼p\text{’}} \end{array}" style="display:block;width:9.939em;height:4.128em">
 
-before me & now found a shortened way to prove the sentence ‘<math class="stacked" display="inline"><mi>p</mi><mspace width="0.3em"/><mtext>≡</mtext><msup><mtext>~</mtext><mn>10</mn></msup><mi>p</mi></math>’. It is as if I have discovered a new type of calculation within the old calculus. In what does it consist that it has been discovered?
+before me & now found a shortened way to prove the sentence ‘<img class="math math-inline math-stacked" src="../math/21bb91f14e71ab84.svg" alt="p≡{{\sim}}^{10}p" style="width:3.864em;height:1.130em;vertical-align:-0.276em">’. It is as if I have discovered a new type of calculation within the old calculus. In what does it consist that it has been discovered?
 
 
 ### [Ms-122](/ms-122/#91r.3+91v.1) <span class="fac">[91r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/91r.webp),[91v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/91v.webp)</span> {#ms-122-91r-3--91v-1}
@@ -1120,7 +1009,7 @@ Apparently, the mere ‘abbreviated’, or _different_, way of writing – ‘16
 
 ### [Ms-122](/ms-122/#92r.2+92v.1+93r.1) <span class="fac">[92r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/92r.webp),[92v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/92v.webp),[93r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/93r.webp)</span> {#ms-122-92r-2--92v-1--93r-1}
 
-When I ask, “What is new about the ‘new method of calculation’ of exponentiation?”—it is hard to say. The term ‘new aspect’ is vague. It means we now see the matter differently—but the question is: what is the essential, the _important_, expression of this ‘different view’? First, I want to say: “It would never have been necessary _to notice_ that in certain products all factors are the same”—or: “‘product of identical factors’ is a new concept”—or: “The novelty lies in the fact that we summarize the calculations differently.” In exponentiation, it is apparently essential that we see the _number_ of factors. It is not a given that we have ever paid attention to the number of factors. It may strike us for the first time that there are products with 2, 3, 4, etc., factors, even though we have been calculating such products for a long time. A new aspect—but again: What is its _important_ side? What do I use this new aspect for?—Well, first of all, I might perhaps record it in a notation. So I write, for example, ‘<math class="stacked" display="inline"><msup><mi>a</mi><mn>2</mn></msup></math>’ instead of ‘a × a’. In doing so, I refer to the sequence of numbers (allude to it), which had not happened before. So I am indeed establishing a new connection! – A connection – between which things? Between the technique of counting factors & the technique of multiplying.
+When I ask, “What is new about the ‘new method of calculation’ of exponentiation?”—it is hard to say. The term ‘new aspect’ is vague. It means we now see the matter differently—but the question is: what is the essential, the _important_, expression of this ‘different view’? First, I want to say: “It would never have been necessary _to notice_ that in certain products all factors are the same”—or: “‘product of identical factors’ is a new concept”—or: “The novelty lies in the fact that we summarize the calculations differently.” In exponentiation, it is apparently essential that we see the _number_ of factors. It is not a given that we have ever paid attention to the number of factors. It may strike us for the first time that there are products with 2, 3, 4, etc., factors, even though we have been calculating such products for a long time. A new aspect—but again: What is its _important_ side? What do I use this new aspect for?—Well, first of all, I might perhaps record it in a notation. So I write, for example, ‘<img class="math math-inline math-stacked" src="../math/c06d2aac30ceaebd.svg" alt="{a}^{2}" style="width:0.881em;height:0.861em;vertical-align:-0.011em">’ instead of ‘a × a’. In doing so, I refer to the sequence of numbers (allude to it), which had not happened before. So I am indeed establishing a new connection! – A connection – between which things? Between the technique of counting factors & the technique of multiplying.
 
 
 ### [Ms-122](/ms-122/#93v.2) <span class="fac">[93v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/93v.webp)</span> {#ms-122-93v-2}
@@ -1130,7 +1019,7 @@ But in this way, every proof, every single calculation, creates new connections!
 
 ### [Ms-122](/ms-122/#93v.3+94r.1) <span class="fac">[93v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/93v.webp),[94r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94r.webp)</span> {#ms-122-93v-3--94r-1}
 
-But the _same_ proof that shows that a × a × a × a… = b also proves that <math class="stacked" display="inline"><msup><mi>a</mi><mi>n</mi></msup><mspace width="0.3em"/><mo>=</mo><mi>b</mi></math>; only that we must make the transition according to the definition of ‘a<sup>n</sup>’. But this transition is precisely what is new. But if it is merely a transition to the old proof, how can it be important?
+But the _same_ proof that shows that a × a × a × a… = b also proves that <img class="math math-inline math-stacked" src="../math/c8e2833270e4e11a.svg" alt="{a}^{n}=b" style="width:2.699em;height:0.744em;vertical-align:-0.011em">; only that we must make the transition according to the definition of ‘a<sup>n</sup>’. But this transition is precisely what is new. But if it is merely a transition to the old proof, how can it be important?
 
 
 ### [Ms-122](/ms-122/#94r.2) <span class="fac">[94r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94r.webp)</span> {#ms-122-94r-2}
@@ -1325,7 +1214,7 @@ Why do we call part of Russell's calculus the one corresponding to differential 
 
 26.01.1940
 
-Now, it must be clearly stated that the calculations in the stroke notation <math class="stacked" display="inline"><mo>(</mo><msub><mi>S</mi><mi>N</mi></msub><mo>)</mo></math> will normally always agree with those in the decimal notation. Perhaps, in order to achieve certain agreement, we will have to resort to having the calculations with strokes checked by _several_ people. And the same will be done with calculations with even higher numbers in the decimal system. But this already shows that the proofs in the stroke system do not necessarily entail the proofs in the decimal system.
+Now, it must be clearly stated that the calculations in the stroke notation <img class="math math-inline math-stacked" src="../math/862d6552381d3cc1.svg" alt="({S}&#95;{N})" style="width:2.055em;height:0.870em;vertical-align:-0.164em"> will normally always agree with those in the decimal notation. Perhaps, in order to achieve certain agreement, we will have to resort to having the calculations with strokes checked by _several_ people. And the same will be done with calculations with even higher numbers in the decimal system. But this already shows that the proofs in the stroke system do not necessarily entail the proofs in the decimal system.
 
 
 ### [Ms-122](/ms-122/#111r.2+111v.1) <span class="fac">[111r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111r.webp),[111v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111v.webp)</span> {#ms-122-111r-2--111v-1}
@@ -1438,7 +1327,7 @@ This consensus is, _essentially_, part of calculation; that is certain. That is:
 
 ### [Ms-117](/ms-117/#175.4) <span class="fac">[175\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/175.webp)</span> {#ms-117-175-4}
 
-In a **calculational** technique, predictions must be possible. And that makes the calculational technique similar to the technique of a _game_, such as chess.
+In a _calculational_ technique, predictions must be possible. And that makes the calculational technique similar to the technique of a _game_, such as chess.
 
 
 ### [Ms-117](/ms-117/#176.1) <span class="fac">[176\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/176.webp)</span> {#ms-117-176-1}
@@ -1737,99 +1626,20 @@ and didn't notice it. – Then someone points it out to me. Is it a mistake? Is 
 
 ### [Ms-117](/ms-117/#222.2) <span class="fac">[222\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/222.webp)</span> {#ms-117-222-2}
 
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML">
-  <mtable columnalign="right center left" columnspacing="0.5em">
-    <mtr>
-      <mtd>
-        <mrow>
-          <mo>~</mo>
-          <mi>f</mi>
-          <mo stretchy="false">(</mo>
-          <mi>f</mi>
-          <mo stretchy="false">)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mo>=</mo>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mi mathvariant="normal">Φ</mi>
-          <mo stretchy="false">(</mo>
-          <mi>f</mi>
-          <mo stretchy="false">)</mo>
-          <mspace width="1em"/>
-          <mtext>Def.</mtext>
-        </mrow>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mrow>
-          <mi mathvariant="normal">Φ</mi>
-          <mo stretchy="false">(</mo>
-          <mi mathvariant="normal">Φ</mi>
-          <mo stretchy="false">)</mo>
-        </mrow>
-      </mtd>
-      <mtd>
-        <mover>
-          <mo>=</mo>
-          <mo>∴</mo>
-        </mover>
-      </mtd>
-      <mtd>
-        <mrow>
-          <mo>~</mo>
-          <mi mathvariant="normal">Φ</mi>
-          <mo stretchy="false">(</mo>
-          <mi mathvariant="normal">Φ</mi>
-          <mo stretchy="false">)</mo>
-        </mrow>
-      </mtd>
-    </mtr>
-  </mtable>
-  <mo stretchy="true" symmetric="true" rspace="0.5em">}</mo>
-</math>
+<img class="math math-block" src="../math/e73ac7f81ea78385.svg" alt="\begin{array}{rcl} {{\sim}f(f)} &amp; = &amp; {\mathrm{\Phi}(f)\hspace{1em}\text{Def}.} \\ {\mathrm{\Phi}(\mathrm{\Phi})} &amp; \overset{∴}{=} &amp; {{\sim}\mathrm{\Phi}(\mathrm{\Phi})} \end{array}\}" style="display:block;width:11.670em;height:2.895em">
 
 The sentences “Φ(Φ)” & “~Φ(Φ)” seem to say the same thing & something different to us. _(Depending on how we look at it_, the sentence “Φ(Φ)” seems to say ~Φ(Φ) sometimes, & the opposite of that at other times. Namely, we look at it once as the product of substitution
 
-<math display="block">
-  <mtext>Φ(</mtext>
-  <mtext>f)</mtext>
-  <mspace width="0.3em"/>
-  <mtext>❘</mtext>
-  <mfrac linethickness="0">
-    <mrow>
-      <mi>f</mi>
-    </mrow>
-    <mrow>
-      <mtext>Φ</mtext>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/77cebf229737ac93.svg" alt="\Phi(f)\;\vert\stack{f}{\Phi}" style="display:block;width:3.687em;height:2.124em">
 
 & at other times as:
 
-<math display="block">
-  <mtext>f(</mtext>
-  <mtext>f)</mtext>
-  <mspace width="0.3em"/>
-  <mtext>❘</mtext>
-  <mfrac linethickness="0">
-    <mrow>
-      <mi>f</mi>
-    </mrow>
-    <mrow>
-      <mtext>Φ</mtext>
-    </mrow>
-  </mfrac>
-</math>
+<img class="math math-block" src="../math/959e1f40bc29ed88.svg" alt="f(f)\;\vert\stack{f}{\Phi}" style="display:block;width:3.250em;height:2.124em">
 
 
 ### [Ms-117](/ms-117/#222.3+223.1) <span class="fac">[222\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/222.webp),[223\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/223.webp)</span> {#ms-117-222-3--223-1}
 
-We would like to say: ‘heteronomous is not heteronomous; therefore, according to the definition, one can call it “heteronomous”.’ & It sounds perfectly correct, goes [English?] smoothly, & we don't even have to notice the contradiction. If we become aware of the contradiction, we would first like to say that in the two cases, we do not mean the same thing by the statement that ξ is heteronomous. In one case, it is the unabbreviated statement, in the other, the abbreviated statement according to the definition. We would then like to get out of the situation by saying: <math class="stacked" display="inline"><mtext>“</mtext><mtext>~</mtext><mspace width="0.3em"/><mtext>Φ(</mtext><mtext>Φ)</mtext><mspace width="0.3em"/><mo>=</mo><msub><mtext>Φ</mtext><mn>1</mn></msub><mspace width="0.3em"/><mo>(</mo><mtext>Φ)</mtext><mtext>”</mtext></math>. ← But why should we lie to ourselves like that? Here, two _opposing_ paths really lead – to the _same_ thing. Or also: – _it is just as natural_ to say ‘~Φ(Φ)’ in this case as to say ‘Φ(Φ)’. According to the rule, it is just as natural to say that C lies to the right of point A as it is to say that it lies to the left.
+We would like to say: ‘heteronomous is not heteronomous; therefore, according to the definition, one can call it “heteronomous”.’ & It sounds perfectly correct, goes [English?] smoothly, & we don't even have to notice the contradiction. If we become aware of the contradiction, we would first like to say that in the two cases, we do not mean the same thing by the statement that ξ is heteronomous. In one case, it is the unabbreviated statement, in the other, the abbreviated statement according to the definition. We would then like to get out of the situation by saying: <img class="math math-inline math-stacked" src="../math/72be7e696e19c5c9.svg" alt="\text{“}{\sim}\;\Phi(\Phi)={\Phi}&#95;{1}\;(\Phi)\text{”}" style="width:9.162em;height:0.873em;vertical-align:-0.164em">. ← But why should we lie to ourselves like that? Here, two _opposing_ paths really lead – to the _same_ thing. Or also: – _it is just as natural_ to say ‘~Φ(Φ)’ in this case as to say ‘Φ(Φ)’. According to the rule, it is just as natural to say that C lies to the right of point A as it is to say that it lies to the left.
 
 ![](../graphics/117,223.svg)
 

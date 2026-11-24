@@ -7,6 +7,9 @@
 // other than the current step's, the tour stays out of the way: it pauses, and
 // picks up again on returning to that page (e.g. with the back button).
 //
+// Keys: Enter and → do what "Next" does, ← goes back a step (to the previous page,
+// if the step before is on another one).
+//
 // The highlight and the popover are positioned in page coordinates, so they scroll
 // with the content. The popover always sits right below the highlight, on every
 // screen size. Moving to a step on the same page animates both boxes (CSS
@@ -15,6 +18,8 @@
 // <details> opening), they are scrolled into view again.
 (() => {
   const KEY = "tour-step";
+  const BACK = "tour-back"; // set while going back to a step on another page
+  const URLS = "tour-urls"; // the URL each page was left at, to go back to it
   const ANIMATION = 400; // ms, matches the transitions in style.css
   const PAD = 6, GAP = 12, MARGIN = 16;
 
@@ -27,6 +32,8 @@
   // is re-evaluated whenever the page changes. done: advance once this is true
   // (checked whenever the page changes). next: what "Next" does otherwise.
   // skip: leave the step out when this is true (checked on its own page).
+  // undo: going back from this step, revert what the reader did to finish the step
+  // before (on the same page), so that it doesn't count as done right away.
   // fallback: not counted in "n of m" (it stands in for skipped steps).
   // final: the closing message: not counted, no "n of m", and "Finish"; the start
   // button is shown again for it.
@@ -45,7 +52,7 @@
   const MOTTO = "ts-227a-1-2"; // the motto's id in PI
   const MOTTO_SECTION = `section:has(> [id="${MOTTO}"])`;
   const VERSIONS = `[id="${MOTTO}"] .versions`;
-  const TO_MS134 = `${VERSIONS} a[href="/ms-134/#1523"]`;
+  const TO_MS134 = `${VERSIONS} a[href="/ms-134/#152-3"]`;
   const RESULT_LINK = `a[href="${PI}#${MOTTO}"]`; // the search result's "PI" link
   const RESULT = `.search-results ${RESULT_LINK}`;
   const MS134 = "/ms-134/";
@@ -86,6 +93,11 @@
       target: `.search-result:has(${RESULT_LINK})`,
       click: RESULT,
       skip: () => !searchInput(),
+      undo: () => {
+        const input = searchInput();
+        input.value = "";
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+      },
       title: "Search results",
       text: "The motto of the <em>Philosophical Investigations</em> quotes the playwright Johann Nestroy and is found in three documents. Each result names its document and, if the remark was published, the work it appears in.\n\nClick <strong>PI</strong> to read the remark in the <em>Investigations</em>.",
     },
@@ -110,6 +122,7 @@
       cue: ".lightbox:target .lightbox-close",
       done: () => !document.querySelector(".lightbox:target"),
       next: () => (location.hash = "_"),
+      undo: () => (location.hash = "_"),
       title: "Facsimiles",
       text: "The typescript first had a different motto, a quote from Heinrich Hertz. Wittgenstein crossed it out and wrote the Nestroy quote above it by hand. Click the image to zoom in, and use ‹ and › to turn the pages.\n\nClose the page with × to continue.",
     },
@@ -119,12 +132,13 @@
       cue: () => (document.querySelector(`${VERSIONS} details`)?.open ? TO_MS134 : `${VERSIONS} summary`),
       click: TO_MS134,
       next: () => (document.querySelector(`${VERSIONS} details`).open = true),
+      undo: () => document.querySelector(`[id="${MOTTO}"] + .fac a`)?.click(),
       title: "Versions",
       text: "This remark also appears in other documents. <strong>←227b</strong> is an earlier version in Ts-227b; → marks later versions and ≈ versions from the same time. Useful for finding early drafts or later uses. <strong>+1</strong> means there is one more.\n\nOpen <strong>+1</strong> and click <strong>→134</strong>.",
     },
     {
       page: MS134,
-      target: `.sticky-title, section:has(> [id="1523"])`,
+      target: `.sticky-title, section:has(> [id="152-3"])`,
       click: ".sticky-title-text",
       boxes: ".sticky-title",
       fixed: true,
@@ -147,6 +161,7 @@
       cue: () => (document.querySelector(TS229)?.open ? `${TS229} > summary a[href="/ts-229/"]` : `${TS229} > summary > span`),
       click: `${TS229} > summary a[href="/ts-229/"]`,
       next: () => (document.querySelector(TS229).open = true),
+      undo: () => (document.querySelector(SIMILAR).open = false),
       title: "Similar remarks",
       text: "Almost all of them reappear in Ts-245 and in Ts-229. The visualization for Ts-229 connects each remark in the notebook (left) to the similar one in the typescript (right): remarks from all over the notebook were gathered into a few dozen pages.\n\nOpen <strong>184 similar</strong>, then click <strong>Ts-229</strong>.",
     },
@@ -169,19 +184,26 @@
 
   // --- State ------------------------------------------------------------------
 
-  const store = {
-    get: () => {
+  // sessionStorage, as JSON; null removes the key.
+  const session = {
+    get: (key) => {
       try {
-        const v = sessionStorage.getItem(KEY);
-        return v === null ? null : Number(v);
+        return JSON.parse(sessionStorage.getItem(key));
       } catch {
         return null;
       }
     },
-    set: (i) => {
+    set: (key, v) => {
       try {
-        i === null ? sessionStorage.removeItem(KEY) : sessionStorage.setItem(KEY, i);
+        v === null ? sessionStorage.removeItem(key) : sessionStorage.setItem(key, JSON.stringify(v));
       } catch {}
+    },
+  };
+  const store = {
+    get: () => session.get(KEY),
+    set: (i) => {
+      session.set(KEY, i);
+      if (i === null) session.set(URLS, null);
     },
   };
 
@@ -466,9 +488,59 @@
     }
   };
 
+  // Go back to step i, or the closest step before it that makes sense to show on
+  // this page: not one that is skipped or done already (it would advance again right
+  // away), nor one whose preceding step on this page isn't done yet (after a reload,
+  // say, a <details> it needs open is closed again). A step on another page is gone
+  // back to by loading that page at the URL it was left at, and settled there.
+  const backTo = (i) => {
+    const here = (j) => steps[j]?.page === location.pathname;
+    while (here(i) && (steps[i].skip?.() || steps[i].done?.())) i--;
+    while (here(i - 1) && steps[i - 1].done && !steps[i - 1].done()) i--;
+    if (i < 0) return;
+    store.set(i);
+    if (here(i)) return show(i);
+    session.set(BACK, true);
+    location.href = session.get(URLS)?.[steps[i].page] ?? steps[i].page;
+  };
+
+  const back = () => {
+    const i = current;
+    if (i === null || i === 0) return;
+    // Paused until we're back, so that the changes the undo makes don't advance the
+    // step (e.g. closing the lightbox finishes the facsimile step).
+    current = null;
+    steps[i].undo?.();
+    // After the undo has taken effect (a hash change, a toggled <details>).
+    setTimeout(() => backTo(i - 1));
+  };
+
   // --- Events -----------------------------------------------------------------
 
   $(".tour-close").onclick = end;
+
+  // Enter and → for "Next", ← to go back. Not while typing in a field, where the
+  // arrows move the cursor (Enter in the search box does count), and Enter not on a
+  // link or button, which it activates.
+  document.addEventListener("keydown", (e) => {
+    if (current === null || e.defaultPrevented || e.isComposing || e.repeat) return;
+    if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+    const field = e.target.closest?.("input, textarea, select, [contenteditable]");
+    if (e.key === "Enter") {
+      if (e.target.closest?.("a, button, summary, textarea, select, [contenteditable]")) return;
+      $(".tour-next").click();
+    } else if (e.key === "ArrowRight" && !field) $(".tour-next").click();
+    else if (e.key === "ArrowLeft" && !field) back();
+    else return;
+    e.preventDefault();
+  });
+
+  // Remember the URL each page is left at (with the search query or the #fragment),
+  // to go back to it.
+  addEventListener("pagehide", () => {
+    if (store.get() === null) return;
+    session.set(URLS, { ...session.get(URLS), [location.pathname]: location.href });
+  });
 
   // Capture phase, so we see the click before the link navigates. Save progress
   // right away (the page may be about to unload), but show the next step only after
@@ -513,8 +585,12 @@
 
   // On another page than the current step's, the tour is paused: show nothing but
   // the start button (on the homepage), to start over.
+  // Going back to a step on this page, settle on one that makes sense here.
   const i = store.get();
+  const goingBack = session.get(BACK);
+  session.set(BACK, null);
   if (!steps[i]) end();
-  else if (steps[i].page === location.pathname) go(i);
-  else showStart(true);
+  else if (steps[i].page !== location.pathname) showStart(true);
+  else if (goingBack) backTo(i);
+  else go(i);
 })();

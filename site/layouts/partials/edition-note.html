@@ -1,0 +1,30 @@
+{{/* Editors line + note for work pages: who edited the published book whose
+     arrangement the page follows (site/data/editions.yaml), and why the text
+     differs from that book. The wording is in site/data/edition_note.yaml, shared
+     with the ebooks and pdfs (tools/editions.rs). Returns "" for non-work pages.
+     Context: the page. Returns an HTML string. */}}
+{{ $out := "" }}
+{{ $wording := site.Data.edition_note }}
+{{ if eq .Params.doctype "Work" }}
+  {{ $stem := .File.ContentBaseName }}
+  {{ $key := "" }}
+  {{ range $k, $_ := site.Data.editions }}
+    {{ if and (or (eq $stem $k) (hasPrefix $stem (printf "%s-" $k))) (gt (len $k) (len $key)) }}
+      {{ $key = $k }}
+    {{ end }}
+  {{ end }}
+  {{ $credit := "" }}
+  {{ with $key }}
+    {{ $e := index site.Data.editions . }}
+    {{ if $e.credit }}
+      {{ $credit = $e.credit }}
+    {{ else }}
+      {{ $extra := cond (isset $e "extra") (printf ", %s" $e.extra) "" }}
+      {{ $credit = replace (replace (replace $wording.credit "{editors}" $e.editors) "{year}" (string $e.year)) "{extra}" $extra }}
+    {{ end }}
+    {{ $credit = printf `<span class="edition-credit">%s</span> ` $credit }}
+  {{ end }}
+  {{ $note := replace $wording.note "{about}" "/about/#editorial-criteria" }}
+  {{ $out = printf `<p class="edition-note">%s%s</p>` $credit $note }}
+{{ end }}
+{{ return $out }}

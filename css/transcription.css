@@ -15,44 +15,32 @@ s {
   text-decoration: line-through;
 }
 
-/* Math */
-math {
-  font-family: "TeX Gyre Pagella Math", math;
+/* Math: LaTeX formulas rendered to SVG by the parser. Inline formulas carry
+   their own em-based width/height/vertical-align, so they scale with the text,
+   and taller ones negative vertical margins (inline style, overriding the margin
+   below) so they never change the line spacing; block formulas sit on their own line and shrink (keeping their aspect ratio)
+   when wider than the text column. */
+img.math {
+  display: inline;
+  max-width: none;
+  border: 0;
+  margin: 0;
+}
+
+img.math-block {
+  display: block;
+  max-width: 100%;
+  height: auto !important;
+  margin: 0.5em 0 1em 0;
+}
+
+/* A formula too tall for its line, on a line of its own within the paragraph. */
+img.math-block.math-display {
+  margin: 0.5em 0;
 }
 
 sub, sup {
   line-height: 0;
-}
-
-math.stacked[display="inline"] {
-  font-size: 0.85em;
-}
-
-math[display="block"] {
-  display: block;
-  margin: 0.5em 0 1em 0;
-}
-
-/* MathML notation */
-menclose[notation="bottom"] {
-  padding-bottom: 2px;
-  margin-bottom: -2px;
-  border-bottom: 2px solid;
-}
-
-mtable[columnalign="left"] mtd {
-  display: flex;
-  justify-content: flex-start;
-}
-
-mtable[columnalign="right"] mtd {
-  display: flex;
-  justify-content: flex-end;
-}
-
-menclose[notation="box"] {
-  outline: 1px solid currentColor;
-  outline-offset: 2px;
 }
 
 /* Block punctuation alignment */
@@ -64,4 +52,20 @@ p:has(.pre-block-punct, .post-block-punct) {
 /* Overline (e.g. line segments) */
 .barover {
   text-decoration: overline;
+}
+
+/* A gap the typist left for something to be added by hand (🖵 in the transcription), shown as
+   a short dotted blank; and a gap filled from the facsimile (handwritten insertion). */
+span.gap {
+  display: inline-block;
+  width: 1.6em;
+  height: 0.8em;
+  border-bottom: 1px dotted currentColor;
+  vertical-align: baseline;
+}
+
+span.gap-filled {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
 }

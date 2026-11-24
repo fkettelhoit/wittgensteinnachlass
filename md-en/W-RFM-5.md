@@ -142,7 +142,7 @@ And apart from a misunderstanding – how is it with mere obscurity?
 
 ### [Ms-126](/ms-126/#47.3+48.1) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/47.webp),[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/48.webp)</span> {#ms-126-47-3--48-1}
 
-Anyone who believes that mathematicians have discovered a strange entity, <math display="inline"><msqrt><mrow><mtext>‒</mtext><mn>1</mn></mrow></msqrt></math>, which, when squared, does indeed yield 1, surely cannot perform calculations quite well with complex numbers and apply such calculations in physics? And are these _calculations_ any less valid for that reason? In _one_ respect, of course, his understanding stands on shaky ground; but he will certainly draw his conclusions, and his calculus will stand on _solid_ ground.
+Anyone who believes that mathematicians have discovered a strange entity, <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em">, which, when squared, does indeed yield 1, surely cannot perform calculations quite well with complex numbers and apply such calculations in physics? And are these _calculations_ any less valid for that reason? In _one_ respect, of course, his understanding stands on shaky ground; but he will certainly draw his conclusions, and his calculus will stand on _solid_ ground.
 
 
 ### [Ms-126](/ms-126/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/48.webp)</span> {#ms-126-48-2}
@@ -162,7 +162,7 @@ Let us imagine the primitive case that someone performs enormous multiplications
 
 ### [Ms-126](/ms-126/#49.3+50.1) <span class="fac">[49\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/49.webp),[50\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/50.webp)</span> {#ms-126-49-3--50-1}
 
-Imagine that the calculation with <math display="inline"><msqrt><mrow><mtext>‒</mtext><mn>1</mn></mrow></msqrt></math> was invented by a fool who was merely attracted by the paradox of the idea and practices calculation as a kind of worship of the absurd. He imagines writing down the impossible and operating with it.
+Imagine that the calculation with <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em"> was invented by a fool who was merely attracted by the paradox of the idea and practices calculation as a kind of worship of the absurd. He imagines writing down the impossible and operating with it.
 
 
 ### [Ms-126](/ms-126/#50.2) <span class="fac">[50\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/50.webp)</span> {#ms-126-50-2}
@@ -369,7 +369,7 @@ Approximately: It is in _the law_ of this series not to contain any figure … F
 
 ### [Ms-126](/ms-126/#68.2+69.1) <span class="fac">[68\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/68.webp),[69\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/69.webp)</span> {#ms-126-68-2--69-1}
 
-‘But surely all terms of the series from <math class="stacked" display="inline"><msup><mn>1</mn><mtext>sten</mtext></msup></math> to <math class="stacked" display="inline"><mn>100</mn><msup><mn>0</mn><mtext>sten</mtext></msup></math>, up to the 10¹⁰th, and so on, are determined; so surely _all_ terms are determined.’ That is correct, if it is to mean that it is not (for example) the so-and-so-th term _that_ _is_ undetermined. But you see that _this_ gives you no indication as to whether a figure will appear in the series (if it has not appeared by that point). _We see_, _then_, that we are using a misleading _image_.
+‘But surely all terms of the series from <img class="math math-inline math-stacked" src="../math/2722bfc80b6c7b7a.svg" alt="{1}^{\text{sten}}" style="width:1.864em;height:0.805em;vertical-align:-0.003em"> to <img class="math math-inline math-stacked" src="../math/2c70ee1f9c1ad9e2.svg" alt="{1000}^{\text{sten}}" style="width:3.364em;height:0.880em;vertical-align:-0.020em">, up to the 10¹⁰th, and so on, are determined; so surely _all_ terms are determined.’ That is correct, if it is to mean that it is not (for example) the so-and-so-th term _that_ _is_ undetermined. But you see that _this_ gives you no indication as to whether a figure will appear in the series (if it has not appeared by that point). _We see_, _then_, that we are using a misleading _image_.
 
 
 ### [Ms-126](/ms-126/#69.2) <span class="fac">[69\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/69.webp)</span> {#ms-126-69-2}
@@ -826,7 +826,7 @@ The difficulty one encounters with the proof by reductio ad absurdum in mathemat
 
 ### [Ms-126](/ms-126/#125.2+126.1) <span class="fac">[125\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/125.webp),[126\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/126.webp)</span> {#ms-126-125-2--126-1}
 
-The indirect proof, however, states: “if you want it _so_, you are not allowed to assume _that_: because with **that**, only the opposite of what you do not want to depart from is consistent”.
+The indirect proof, however, states: “if you want it _so_, you are not allowed to assume _that_: because with _that_, only the opposite of what you do not want to depart from is consistent”.
 
 
 ### [Ms-126](/ms-126/#131.3+132.1) <span class="fac">[131\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/131.webp),[132\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/132.webp)</span> {#ms-126-131-3--132-1}
@@ -945,7 +945,7 @@ But the line is a _law_ of progression.*
 
 ### [Ms-127](/ms-127/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/17.webp)</span> {#ms-127-17-2}
 
-The concepts of the limit and continuity, as they are introduced today, are implicitly linked to the concept of _proof_. For we say <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>x→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>f(</mtext><mtext>x)</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mtext>ℓ</mtext></math> when it can be _proven_ that … That is to say, we use concepts that are infinitely more difficult to grasp than those we openly present.
+The concepts of the limit and continuity, as they are introduced today, are implicitly linked to the concept of _proof_. For we say <img class="math math-inline math-stacked" src="../math/0ac3a121818fc783.svg" alt="\lim\limits&#95;{x→∞}\;f(x)=ℓ" style="width:5.571em;height:1.444em;vertical-align:-0.711em"> when it can be _proven_ that … That is to say, we use concepts that are infinitely more difficult to grasp than those we openly present.
 
 
 ### [Ms-127](/ms-127/#20.2+21.1+21.2+22.1) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/20.webp),[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/22.webp)</span> {#ms-127-20-2--21-1--21-2--22-1}
@@ -1063,7 +1063,7 @@ The doctrine of functions as a (general) schema into which, on the one hand, a m
 
 ### [Ms-127](/ms-127/#42.3+43.1) <span class="fac">[42\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/42.webp),[43\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/43.webp)</span> {#ms-127-42-3--43-1}
 
-The misleading aspect of the usual **representation** consists in the fact that it seems as if the general case could be completely understood even without any examples, without a thought for _intentions_ (in the plural), since in principle everything could be settled extensionally if it were not impossible for external reasons.
+The misleading aspect of the usual _representation_ consists in the fact that it seems as if the general case could be completely understood even without any examples, without a thought for _intentions_ (in the plural), since in principle everything could be settled extensionally if it were not impossible for external reasons.
 
 
 ### [Ms-127](/ms-127/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/43.webp)</span> {#ms-127-43-2}
@@ -1072,9 +1072,9 @@ The misleading aspect of the usual **representation** consists in the fact that 
 
 Compare the two forms of explanation:
 
-“We say <math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>nx→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>Φ(</mtext><mi>x</mi><mo>)</mo><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>L</mi></math>,
+“We say <img class="math math-inline" src="../math/c85529e0ed3a6fd3.svg" alt="\lim\limits&#95;{x\to\infty}\Phi(x)=L" style="width:5.907em;height:1.437em;vertical-align:-0.711em">,
 
-_if it can be shown_ that ‥‥”, & “<math class="stacked" display="inline"><mfrac linethickness="0"><mrow><mtext>lim</mtext></mrow><mrow><mtext>n→</mtext><mtext>∞</mtext></mrow></mfrac><mspace width="0.3em"/><mtext>Φ(</mtext><mtext>n)</mtext><mspace width="0.3em"/><mo>=</mo><mspace width="0.3em"/><mi>L</mi></math> means:
+_if it can be shown_ that ‥‥”, & “<img class="math math-inline math-stacked" src="../math/e9602b6b8807cdbf.svg" alt="\lim\limits&#95;{n→∞}\;\Phi(n)=L" style="width:6.281em;height:1.435em;vertical-align:-0.709em"> means:
 
 _for every_ ε there is a δ‥‥”
 

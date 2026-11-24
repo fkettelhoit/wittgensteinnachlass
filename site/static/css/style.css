@@ -30,13 +30,6 @@
   font-style: italic;
   font-display: swap;
 }
-@font-face {
-  font-family: "TeX Gyre Pagella Math";
-  src: url("/fonts/tex-gyre/texgyrepagella-math.otf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
 
 /* --- SangBleu Empire --- */
 
@@ -181,9 +174,10 @@
 
 :root {
   --font-body: "TeX Gyre Pagella", serif;
-  --font-math: "TeX Gyre Pagella Math", math;
   --font-heading: "SangBleu Empire", "TeX Gyre Pagella", serif;
   --font-heading-margin: "SangBleu Sunrise", "TeX Gyre Pagella", serif;
+  color-scheme: light dark;
+  --color-bg: #fff;
   --color-text: #444;
   --color-link: #000;
   --color-margin: #bbb;
@@ -193,6 +187,7 @@
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
   --color-highlight: #fbcba4;
+  --color-shade: #000; /* shadows and dimming */
   --line-thickness: 2px;
   --line-thickness-hovered: 4px;
   --max-width: 44rem;
@@ -201,7 +196,39 @@
   --margin-offset: calc(2 * (var(--margin-col) + var(--margin-gap)));
 }
 
+/* Dark mode. Each colour is the image filter applied to its light value, except
+   the body text, brightened so it reads like #444 on white. */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #262626;
+    --color-text: #cccccc;
+    --color-link: #d9d9d9;
+    --color-margin: #565656;
+    --color-translation: #858585;
+    --color-margin-link: #858585;
+    --color-heading: #d9d9d9;
+    --color-series-number-bg: #cccccc;
+    --color-series-number-fg: #262626;
+    --color-highlight: #624025;
+    --color-shade: #d9d9d9;
+  }
+
+  img.math,
+  img[src*="/graphics/"],
+  img[src*="/viz/"],
+  img[src*="/covers/"] {
+    filter: invert(0.85) hue-rotate(180deg);
+  }
+}
+
+/* Overrides transcription.css (shared with the EPUB and PDF). */
+.series-number {
+  background-color: var(--color-series-number-bg);
+  color: var(--color-series-number-fg);
+}
+
 body {
+  background: var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-body);
   font-size: 1.125rem;
@@ -310,6 +337,15 @@ h2 {
     grid-column: 2;
     grid-row: 1;
     align-self: baseline;
+  }
+
+  /* A remark that opens with a block formula or a block graphic has no first text
+     line for the margin to align with (a formula image is not a line box; a graphic's
+     paragraph has the image's bottom edge as its baseline): align to its top instead.
+     Block graphics are the unclassed images (`![](…)`); inline ones have classes. */
+  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child, > div > p:first-child > img:not([class]):first-child, > div > .de > p:first-child > img:not([class]):first-child) > h3,
+  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child, > div > p:first-child > img:not([class]):first-child, > div > .de > p:first-child > img:not([class]):first-child) > .fac {
+    align-self: start;
   }
 
   /* Divider between the doc and page columns. */
@@ -609,24 +645,15 @@ details.similar details[open] {
 }
 
 /* Site-specific overrides for shared transcription styles */
-math {
-  overflow-x: auto;
-  overflow-y: hidden;
-}
-
-math[display="inline"] {
-  margin-top: -0.5em;
-  margin-bottom: -0.5em;
-  overflow: visible;
-}
-
-math.stacked[display="inline"] {
-  font-size: 1rem;
-}
-
-math[display="block"] {
-  width: fit-content;
+img.math-block {
   margin: 0 0 2rem 0;
+}
+
+/* A formula too tall to stay in its line (even reaching into the neighbouring lines'
+   leading, see latex::inline_layout in the parser) gets a line of its own within its
+   paragraph, with the same space above and below. */
+img.math-block.math-display {
+  margin: 0.5rem 0;
 }
 
 section > div > p:first-child > .series-number:first-child,
@@ -730,25 +757,25 @@ footer a:hover {
 }
 
 .lightbox[id^="viz-"] {
-  background: #fff;
+  background: var(--color-bg);
 }
 
 .lightbox[id^="viz-"] .lightbox-close {
-  color: rgba(0, 0, 0, 0.3);
+  color: color-mix(in srgb, var(--color-link) 30%, transparent);
 }
 
 .lightbox[id^="viz-"] .lightbox-close:hover {
-  color: #000;
+  color: var(--color-link);
 }
 
 .lightbox[id^="viz-"] .lightbox-prev,
 .lightbox[id^="viz-"] .lightbox-next {
-  color: rgba(0, 0, 0, 0.3);
+  color: color-mix(in srgb, var(--color-link) 30%, transparent);
 }
 
 .lightbox[id^="viz-"] .lightbox-prev:hover,
 .lightbox[id^="viz-"] .lightbox-next:hover {
-  color: #000;
+  color: var(--color-link);
 }
 
 .lightbox-close {
@@ -891,6 +918,19 @@ body.bilingual .en a:hover {
   font-style: italic;
 }
 
+/* Work pages: editors of the published edition + why the text differs from it
+   (layouts/partials/edition-note.html). Sits between the lang switcher and the
+   remark-count summary, so it reuses the switcher's pulled-up spacing. */
+.edition-note {
+  margin: -4rem 0 4rem 0;
+  max-width: 40rem;
+}
+
+.edition-credit {
+  display: block;
+  font-style: italic;
+}
+
 .lang-switcher .lang-active,
 .home .view-switcher .current {
   color: var(--color-link);
@@ -907,8 +947,8 @@ body.bilingual .en a:hover {
 .disclaimer strong {
   border-radius: 4px;
   padding: 0.3em;
-  background-color: #000;
-  color: #fff;
+  background-color: var(--color-link);
+  color: var(--color-bg);
   font-style: normal;
 }
 
@@ -942,6 +982,10 @@ body.bilingual footer {
 
   .lang-switcher {
     margin: -3rem 0 3rem 0;
+  }
+
+  .edition-note {
+    margin: -1.5rem 0 3rem 0;
   }
 }
 
@@ -1054,6 +1098,17 @@ body.bilingual footer {
   outline: 1px solid var(--color-link);
 }
 
+/* The filter also recolours the outline, so it takes the light colours. */
+@media (prefers-color-scheme: dark) {
+  .gallery a.cover img {
+    outline-color: #bbb;
+  }
+
+  .gallery a.cover:hover img {
+    outline-color: #000;
+  }
+}
+
 .gallery .cover-info {
   position: absolute;
   bottom: 2.5%;
@@ -1068,7 +1123,7 @@ body.bilingual footer {
   padding: 0.15em 0.3em;
   box-decoration-break: clone;
   color: var(--color-text);
-  background: white;
+  background: var(--color-bg);
 }
 
 /* Real-text copy of the document title, laid over the baked vector-path title but
@@ -1384,7 +1439,7 @@ main [id] {
   margin: 0 auto;
   z-index: 900;
   padding: var(--sticky-title-padding) 0;
-  background: #fff;
+  background: var(--color-bg);
   /* Reserves the line's space; the line itself is drawn by ::after below. */
   border-bottom: var(--line-thickness) solid transparent;
   transform: translateY(-100%);
@@ -1394,8 +1449,8 @@ main [id] {
     visibility 0s linear 0.2s;
 }
 
-/* White behind the whole top strip, so the margin columns (and anything else
-   beside the text column) don't show through next to the bar. (Negative z-index
+/* Page background behind the whole top strip, so the margin columns (and anything
+   else beside the text column) don't show through next to the bar. (Negative z-index
    within the bar's stacking context: above its background, below its content.) */
 .sticky-title::before {
   content: "";
@@ -1405,7 +1460,7 @@ main [id] {
   left: calc(50% - 50vw);
   width: 100vw;
   z-index: -1;
-  background: #fff;
+  background: var(--color-bg);
 }
 
 /* The dividing line: across the text column and the margin columns on the left,
@@ -1483,8 +1538,17 @@ body.bilingual .sticky-title {
   position: absolute;
   z-index: 1001;
   /* Dims everything else, however far the page is scrolled away from the target. */
-  box-shadow: 0 0 0 100000px rgb(0 0 0 / 0.35);
+  box-shadow: 0 0 0 100000px color-mix(in srgb, var(--color-shade) 35%, transparent);
   pointer-events: none;
+  /* Fade in on each page (the spot is added once per page and then only moved), so
+     that arriving on the next step's page doesn't snap from undimmed to dimmed. */
+  animation: tour-dim-in 0.5s ease-out;
+}
+
+@keyframes tour-dim-in {
+  from {
+    box-shadow: 0 0 0 100000px transparent;
+  }
 }
 
 .tour-spot-off {
@@ -1519,12 +1583,19 @@ body.bilingual .sticky-title {
   box-sizing: border-box;
   width: min(22rem, calc(100vw - 2rem));
   padding: 1rem 1.25rem;
-  background: #fff;
+  background: var(--color-bg);
   color: var(--color-text);
-  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  box-shadow: 0 0.5rem 2rem color-mix(in srgb, var(--color-shade) 25%, transparent);
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5rem;
+  animation: tour-fade-in 0.5s ease-out; /* together with the dimming, see .tour-spot */
+}
+
+@keyframes tour-fade-in {
+  from {
+    opacity: 0;
+  }
 }
 
 .tour p {
@@ -1585,7 +1656,7 @@ body.bilingual .sticky-title {
 .tour .tour-button,
 .tour-button {
   display: inline-block;
-  color: #fff;
+  color: var(--color-bg);
   background: var(--color-link);
   font-family: var(--font-body);
   font-style: italic;
@@ -1620,12 +1691,12 @@ body.bilingual .sticky-title {
 .tour-bubble {
   position: relative;
   padding: 0.5rem;
-  background: #fff;
+  background: var(--color-bg);
   /* Like the tour's popover, but on the undimmed page: a hairline sets it off
-     from the white around it. */
-  --bubble-line: 1px solid rgb(0 0 0 / 0.15);
+     from the page around it. */
+  --bubble-line: 1px solid color-mix(in srgb, var(--color-shade) 15%, transparent);
   border: var(--bubble-line);
-  box-shadow: 0 0.5rem 2rem rgb(0 0 0 / 0.25);
+  box-shadow: 0 0.5rem 2rem color-mix(in srgb, var(--color-shade) 25%, transparent);
   line-height: 1.5rem;
 }
 
@@ -1634,8 +1705,9 @@ a.tour-bubble:hover {
   text-decoration: none;
 }
 
+/* #444 in light mode, #a9a9a9 in dark mode. */
 .tour-bubble:hover .tour-button {
-  background: var(--color-text);
+  background: color-mix(in srgb, var(--color-link), var(--color-bg) 26.7%);
 }
 
 /* Small arrow pointing left, at "New here?": centered on the bubble's outer edge
@@ -1649,8 +1721,24 @@ a.tour-bubble:hover {
   box-sizing: border-box;
   width: 0.7rem;
   height: 0.7rem;
-  background: #fff;
+  background: var(--color-bg);
   border-left: var(--bubble-line);
   border-bottom: var(--bubble-line);
   transform: rotate(45deg);
+}
+
+/* A gap the typist left for something to be added by hand (🖵 in the transcription), shown as
+   a short dotted blank; and a gap filled from the facsimile (handwritten insertion). */
+span.gap {
+  display: inline-block;
+  width: 1.6em;
+  height: 0.8em;
+  border-bottom: 1px dotted currentColor;
+  vertical-align: baseline;
+}
+
+span.gap-filled {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
 }

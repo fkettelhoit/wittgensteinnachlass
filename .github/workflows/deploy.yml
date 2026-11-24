@@ -120,8 +120,10 @@ jobs:
           python3 tools/rename-web-fonts.py build/fonts-ttf
           cp build/fonts-ttf/*.ttf "$HOME/.local/share/fonts/"
           # Also register the committed TeX Gyre Pagella so it serves as the Inkscape
-          # fallback for covers if SangBleu is ever unavailable (mirrors the CSS fallback).
-          cp site/fonts/tex-gyre/*.otf "$HOME/.local/share/fonts/"
+          # fallback for covers if SangBleu is ever unavailable (mirrors the CSS fallback),
+          # and for the text of the generated (gen-*) graphics. Only the full fonts: the ASCII subset
+          # (texgyrepagella-regular-ascii.otf) has the same family name and lacks ü, ß, ….
+          cp site/fonts/tex-gyre/texgyrepagella-{regular,italic,bold,bolditalic,math}.otf "$HOME/.local/share/fonts/"
           fc-cache -f
           fc-list | grep -i sangbleu || echo "WARNING: no SangBleu family registered in fontconfig"
           fc-list | grep -i pagella || echo "WARNING: no Pagella family registered in fontconfig"

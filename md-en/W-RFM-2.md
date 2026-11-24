@@ -22,7 +22,7 @@ It is, of course, extremely easy to show ‘that there are numbers that are not 
 
 _[Approaches]_
 
-Do we have a general concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of ²√n; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not ²√n. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
+Do we have a general concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
 
 
 ### [Ms-117](/ms-117/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span> {#ms-117-98-2}
@@ -129,142 +129,7 @@ It is very useful here to imagine that the diagonal method for generating a real
 
 The calculation itself is useful. The task would be something like: Write a decimal number that is different from the numbers:
 
-<math display="block">
-  <mtable columnalign="right left left left left left left left" columnspacing="0em" rowspacing="0.3em">
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>1</mn>
-      </mtd>
-      <mtd>
-        <mn>2</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-      <mtd>
-        <mn>8</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>3</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-      <mtd>
-        <mn>8</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>0</mn>
-      </mtd>
-      <mtd>
-        <mn>1</mn>
-      </mtd>
-      <mtd>
-        <mn>2</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd>
-        <mn>0</mn>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mn>3</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-      <mtd>
-        <mn>2</mn>
-      </mtd>
-      <mtd>
-        <mn>6</mn>
-      </mtd>
-      <mtd>
-        <mn>7</mn>
-      </mtd>
-      <mtd>
-        <mn>9</mn>
-      </mtd>
-      <mtd>
-        <mn>4</mn>
-      </mtd>
-    </mtr>
-    <mtr>
-      <mtd></mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-      <mtd>
-        <mo>·</mo>
-      </mtd>
-    </mtr>
-  </mtable>
-</math>
+<img class="math math-block" src="../math/59e84a9bcc30384e.svg" alt="\begin{array}{rlllllll} 0\cdot &amp; 1 &amp; 2 &amp; 4 &amp; 6 &amp; 7 &amp; 9 &amp; 8 \\ 0\cdot &amp; 3 &amp; 4 &amp; 6 &amp; 9 &amp; 8 &amp; 7 &amp; 6 \\ 0\cdot &amp; 0 &amp; 1 &amp; 2 &amp; 7 &amp; 6 &amp; 4 &amp; 9 \\ 0\cdot &amp; 3 &amp; 4 &amp; 2 &amp; 6 &amp; 7 &amp; 9 &amp; 4 \\  &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot &amp; \cdot \end{array}" style="display:block;width:12.280em;height:6.850em">
 
 _One imagines a long sequence._
 
@@ -365,7 +230,7 @@ Cantor defines a _difference of higher order_, namely a ‘difference’ of a de
 
 July 12, 1938
 
-‘_These considerations can lead us to say_ that <math class="stacked" display="inline"><msup><mn>2</mn><msub><mtext>ℵ</mtext><mn>0</mn></msub></msup><mspace width="0.3em"/><mtext>></mtext><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>’. That is to say: we can _allow_ the considerations to lead us there. Or: We can say _this_, & give _this_ as the reason for it. But if we now say it—what are we to do with it next? In what practice is this sentence _anchored_?
+‘_These considerations can lead us to say_ that <img class="math math-inline math-stacked" src="../math/ee69ccbf63c0d202.svg" alt="{2}^{{ℵ}&#95;{0}}&gt;{ℵ}&#95;{0}" style="width:3.783em;height:1.043em;vertical-align:-0.164em">’. That is to say: we can _allow_ the considerations to lead us there. Or: We can say _this_, & give _this_ as the reason for it. But if we now say it—what are we to do with it next? In what practice is this sentence _anchored_?
 
 For the time being, it is a piece of mathematical scaffolding hanging in the air, looking as if it were, say, an architrave, but supported by nothing & supporting nothing.
 
@@ -382,7 +247,7 @@ The sentence is as valid as its reasons are valid. It carries as much as its rea
 
 ### [Ms-121](/ms-121/#43r.1+43v.1+44r.1+44v.1) <span class="fac">[43r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/43r.webp),[43v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/43v.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44r.webp),[44v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44v.webp)</span> {#ms-121-43r-1--43v-1--44r-1--44v-1}
 
-An interesting question is: What connection does ℵ<sub>0</sub> have with the cardinal numbers, the number of which it is supposed to be? ℵ<sub>0</sub> would apparently be the _predicate “infinite series_,” in its application to the series of cardinal numbers & similar mathematical constructs. It is important here to grasp the relationship between a series in the non-mathematical sense & one in the mathematical sense. It is, of course, clear that in mathematics we _do not_ use the term “sequence of numbers” in the sense of “a series of numerical symbols,” even though, naturally, there is a connection between the use of one expression and the other. A railroad is not a train; nor is it something similar to a train. A sequence in the mathematical sense is a type of construction for sequences of linguistic expressions. We thus have a grammatical class “infinite sequence” and, equivalent to this expression, a word whose grammar bears (a certain) resemblance to that of a numeral: “infinite,” or “<math class="stacked" display="inline"><msub><mtext>ℵ</mtext><mn>0</mn></msub></math>.” This is related to the fact that among the calculi of mathematics we have a technique that we can, with some justification, call a “1-to-1 correspondence of the terms of two infinite sequences,” because it bears a resemblance to such a mutual correspondence of the terms of so-called “finite” classes. However, the fact that we have a use for a _kind of_ numeral that, as it were, serves as the designation for the number of terms in an infinite series does not imply that it makes any sense to speak of the number of the concept “infinite sequence,” or that we have any use _here_ for something numeral-like. There is simply no grammatical technique that would suggest the use of such a word. For I can certainly form the expression: “class of all classes that are numerically equal to the class ‘infinite sequence’” (as well as: “class of all angels that can fit on the head of a pin”), but this expression is empty as long as there is no use for it. Such a use is not yet to be discovered, but rather: first to _be invented_
+An interesting question is: What connection does ℵ<sub>0</sub> have with the cardinal numbers, the number of which it is supposed to be? ℵ<sub>0</sub> would apparently be the _predicate “infinite series_,” in its application to the series of cardinal numbers & similar mathematical constructs. It is important here to grasp the relationship between a series in the non-mathematical sense & one in the mathematical sense. It is, of course, clear that in mathematics we _do not_ use the term “sequence of numbers” in the sense of “a series of numerical symbols,” even though, naturally, there is a connection between the use of one expression and the other. A railroad is not a train; nor is it something similar to a train. A sequence in the mathematical sense is a type of construction for sequences of linguistic expressions. We thus have a grammatical class “infinite sequence” and, equivalent to this expression, a word whose grammar bears (a certain) resemblance to that of a numeral: “infinite,” or “<img class="math math-inline math-stacked" src="../math/4e318f3951cc8018.svg" alt="{ℵ}&#95;{0}" style="width:1.100em;height:0.894em;vertical-align:-0.164em">.” This is related to the fact that among the calculi of mathematics we have a technique that we can, with some justification, call a “1-to-1 correspondence of the terms of two infinite sequences,” because it bears a resemblance to such a mutual correspondence of the terms of so-called “finite” classes. However, the fact that we have a use for a _kind of_ numeral that, as it were, serves as the designation for the number of terms in an infinite series does not imply that it makes any sense to speak of the number of the concept “infinite sequence,” or that we have any use _here_ for something numeral-like. There is simply no grammatical technique that would suggest the use of such a word. For I can certainly form the expression: “class of all classes that are numerically equal to the class ‘infinite sequence’” (as well as: “class of all angels that can fit on the head of a pin”), but this expression is empty as long as there is no use for it. Such a use is not yet to be discovered, but rather: first to _be invented_
 
 
 ### [Ms-121](/ms-121/#44v.2) <span class="fac">[44v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44v.webp)</span> {#ms-121-44v-2}
