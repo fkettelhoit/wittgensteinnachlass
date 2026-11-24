@@ -232,7 +232,7 @@ For consider the sensations evoked by the _gestures_ of horror: the words “I a
 
 “If people strongly disagreed in their color statements, they could not use our concept of color.” – If people strongly disagreed in their color statements, then, precisely because of that, they would not use _our concept of color_. They would not be playing our language-game: for consider how one would have to compare theirs and ours!
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#80b.5+81a.1) <span class="fac">[80b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/80b.webp),[81a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/81a.webp)</span> {#ms-137-80b-5--81a-1}
@@ -1664,7 +1664,7 @@ Suppose I said, ‘Meaning’ is the primitive function of a word – would that
 
 And of course, this concept is extremely vague.
 
-_[→ ]_
+[→ ]
 
 
 ### [Ms-137](/ms-137/#111a.2) <span class="fac">[111a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/111a.webp)</span> {#ms-137-111a-2}
@@ -1693,7 +1693,7 @@ And yet it is true that if one thinks of “equal” when hearing the word “is
 
 ### [Ms-137](/ms-137/#109b.1) <span class="fac">[109b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/109b.webp)</span> {#ms-137-109b-1}
 
-_---_
+---
 
 What makes my _image_ of him an image of _him_? If I say “I am now imagining him as he ‥‥,” then nothing more is meant than his portrait. But can I not come to realize that I had a completely wrong image of him? Is my question not like this: “What makes this sentence one that is about _him_?” “That we are talking about him.” – And what makes our conversation one about _him_?” – Certain transitions that we have made, or would make.
 
@@ -1757,7 +1757,7 @@ The line I drew was like a description.
 
 ### [Ms-137](/ms-137/#110b.2) <span class="fac">[110b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp)</span> {#ms-137-110b-2}
 
-_---_
+---
 
 One must consciously remember that a face with a soulful expression can be _painted_ in order to believe that mere colors and shapes can have such an effect on us.
 
@@ -1896,7 +1896,7 @@ The traveler could also say: “As far as I can see, the use is the same.”
 
 ### [Ms-137](/ms-137/#113a.4) <span class="fac">[113a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/113a.webp)</span> {#ms-137-113a-4}
 
-_---_
+---
 
 The greatest difficulty in these investigations is finding a way of representation for vagueness.
 
@@ -1918,7 +1918,7 @@ One can distinguish between different kinds of training in a training session. A
 
 ### [Ms-137](/ms-137/#113b.3) <span class="fac">[113b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/113b.webp)</span> {#ms-137-113b-3}
 
-_---_
+---
 
 November 30, 1948. So psychology is concerned with behaviour; not with the mental? What does the psychologist report? – What does he observe? Not the behaviour of people & in particular their utterances? But these do not report on their behaviour.
 
@@ -1942,7 +1942,7 @@ The doctor asks, “How is he doing?” The nurse says, “He is groaning.” A 
 
 But couldn't what is not an ‘assumption’ here be something else in another case? Isn’t an assumption simply where there is a _doubt_? And doubt can be completely absent; & it can be present to the slightest degree & to the greatest extent.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#114a.5) <span class="fac">[114a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/114a.webp)</span> {#ms-137-114a-5}
@@ -1979,7 +1979,7 @@ A dog can expect its master, but can it expect that its master will come the day
 
 ### [Ms-137](/ms-137/#114b.5) <span class="fac">[114b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/114b.webp)</span> {#ms-137-114b-5}
 
-_---_
+---
 
 ‘Meaning’ is not the experience one has when uttering or hearing the word; & the ‘sense’ of the sentence is not the complex of experiences to which the words belong. How is the sense of “I have still not seen him” composed of the meanings of the words? The sentence is composed of the words, & that is enough.
 
@@ -2003,7 +2003,7 @@ And would he therefore confuse the _use_ of “if” & “that”?
 
 Can only someone who can speak also hope? Only someone who has mastered the use of language. The signs of hope are modifications of a more complex pattern of life. (If a concept has application to the character of handwriting, then it has no application to essences that do not write.)
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#115a.5) <span class="fac">[115a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/115a.webp)</span> {#ms-137-115a-5}
@@ -2095,14 +2095,14 @@ I can talk about the expression with which someone plays a passage, even without
 
 ### [Ms-137](/ms-137/#116a.5) <span class="fac">[116a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/116a.webp)</span> {#ms-137-116a-5}
 
-_---_
+---
 
 December 3, 1948. The fact that we understand a sentence shows us that we could, under certain circumstances, use it (even if only in a fairy tale), but it does not show us _what_, & _how much_ we can do with it.
 
 
 ### [Ms-137](/ms-137/#116a.6) <span class="fac">[116a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/116a.webp)</span> {#ms-137-116a-6}
 
-_---_
+---
 
 04.12.1948 [non & ne] It has the same purpose, the same _use_ – except for one stipulation.
 
@@ -2111,7 +2111,7 @@ _---_
 
 Thus, are there essential & inessential differences between the uses of words? This distinction only arises when one speaks of the _purpose_ of the word.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#116b.2) <span class="fac">[116b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/116b.webp)</span> {#ms-137-116b-2}
@@ -2148,7 +2148,7 @@ How do I know that the sense of touch informs the blind person, and sight inform
 
 Do I only know it from my own _experience_, & merely suspect it in others?
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#117a.4) <span class="fac">[117a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp)</span> {#ms-137-117a-4}
@@ -2158,7 +2158,7 @@ The evolution of higher animals and humans, and the awakening of the mind, consc
 
 ### [Ms-137](/ms-137/#117a.6) <span class="fac">[117a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp)</span> {#ms-137-117a-6}
 
-_---_
+---
 
 December 6, 1948. What is the criterion for a sense impression informing me about shape & color?
 
@@ -2224,7 +2224,7 @@ December 6, 1948
 
 A ‘feeling’ has a quite _specific_ significance for us. And this includes, for example, a ‘degree of feeling,’ the susceptibility of one feeling to being overshadowed by another.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#118b.4) <span class="fac">[118b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/118b.webp)</span> {#ms-137-118b-4}
@@ -2283,7 +2283,7 @@ Yes, it _can_ also be that playing creates fear. (It does _not_ have to be, it i
 
 ### [Ms-137](/ms-137/#119b.4) <span class="fac">[119b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/119b.webp)</span> {#ms-137-119b-4}
 
-_---_
+---
 
 09.12.1948 The language-game of reporting can be used in such a way that the report is not intended to inform us about the object of the report, but about the reporter. For example, when the teacher examines the student. (One can measure in order to test the standard.)
 
@@ -2329,14 +2329,14 @@ If there were a verb “to seem to believe,” it would lack a meaningful first 
 
 The best example of an expression with a very specific meaning is a passage in a drama.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#120a.7+120b.1) <span class="fac">[120a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120a.webp),[120b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120b.webp)</span> {#ms-137-120a-7--120b-1}
 
 The instantaneous movement. Whoever sees a movement does not see positions at points in time. He could not depict it, imitate it.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#120b.2) <span class="fac">[120b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120b.webp)</span> {#ms-137-120b-2}
@@ -2353,7 +2353,7 @@ The line “X is mistaken” has no real point for X = I. The line disappears in
 
 One can ask: Is a state that I infer from the utterances of a person really the same as the one that someone else does not recognize in this way? And the answer is a decision.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#120b.5) <span class="fac">[120b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120b.webp)</span> {#ms-137-120b-5}
@@ -2847,7 +2847,7 @@ The expression of the lighting up of the aspect is: “Now it is _this_ – now 
 
 ### [Ms-137](/ms-137/#128b.6) <span class="fac">[128b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128b.webp)</span> {#ms-137-128b-6}
 
-_---_
+---
 
 18.12.1948 The hesitant assertion is not an assertion of hesitancy.
 
@@ -2871,7 +2871,7 @@ Aristotelian logic tabulates the contradiction as an un-sentence that must be ex
 
 Do not consider the hesitant assertion as an assertion of hesitancy.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#129a.3) <span class="fac">[129a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/129a.webp)</span> {#ms-137-129a-3}
@@ -2901,7 +2901,7 @@ The lines are connected differently. What used to belong together now does not b
 
 ### [Ms-137](/ms-137/#129b.4) <span class="fac">[129b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/129b.webp)</span> {#ms-137-129b-4}
 
-_---_
+---
 
 20.12.1948 I could therefore see the H-E head from the beginning as a picture-H. That is, when asked: “What is that?” or “What do you see there?” I would have answered “A picture-H”. If I had been asked further what a picture-H was, I would have had to explain it by pointing to various rabbit pictures, also to real rabbits, and I could have talked about the life of these animals & imitated them.
 
@@ -3066,7 +3066,7 @@ Question: _What speaks in favor of it_? Well, that the description that one give
 
 What is the criterion of the experience of seeing? What should the criterion be? The representation of ‘what is seen’.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#132b.3) <span class="fac">[132b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132b.webp)</span> {#ms-137-132b-3}
@@ -3307,7 +3307,7 @@ Consider now, as an example, the aspects of the triangle. The triangle
 
 can be seen as a triangular hole, as a body, as a geometric drawing; standing on its base, hanging from its point; as a mountain, as a wedge, as an arrow or pointer; as an overturned body that should (e.g.) stand on the shorter leg, as half a parallelogram, and other things.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#135b.7+136a.1) <span class="fac">[135b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135b.webp),[136a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/136a.webp)</span> {#ms-137-135b-7--136a-1}
@@ -3339,7 +3339,7 @@ And _is_ it a different impression? – “I do see something _different_ when I
 
 “And is it really a different impression?” In order to answer this, I would like to ask myself whether something different actually exists within me. But how can I convince myself of this – I _describe_ what I see differently.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#136b.2) <span class="fac">[136b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/136b.webp)</span> {#ms-137-136b-2}
@@ -3437,7 +3437,7 @@ And it is then remarkable that our impression is something flat for some drawing
 
 “What does this color remind me of?” – Whoever looks at an object & asks himself this, – is he observing the facial _impression_? []
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#138a.9) <span class="fac">[138a\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138a.webp)</span> {#ms-137-138a-9}
@@ -3482,7 +3482,7 @@ But the uses in aesthetics and in descriptive geometry are fundamentally differe
 
 Game: “It could also be …”.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#139a.4) <span class="fac">[139a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/139a.webp)</span> {#ms-137-139a-4}
@@ -3494,7 +3494,7 @@ _---_
 
 The question is: _In what way_ is it seeing?
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#139a.6) <span class="fac">[139a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/139a.webp)</span> {#ms-137-139a-6}
@@ -3593,11 +3593,11 @@ What is the criterion for him seeing it _this_ way, if, for example, he says, �
 
 05.01.1949
 
-_---_
+---
 
 How, if one were to say: The recounting of a dream is an odd form of memory disturbance; it combines a lot of memories from the previous day, from earlier days, yes, even from childhood, & makes of them a memory of an event during the time of sleep. We all know of cases in which we mix the memories of several days into _one_.
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#140b.5) <span class="fac">[140b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span> {#ms-137-140b-5}
@@ -3683,7 +3683,7 @@ But couldn't one also say: “I always see it as that, if I never see it as some
 
 “He sees it spatially & is therefore so familiar with the drawing, as if he were operating in the spatial model.” But isn't his particular manipulation in the drawing precisely the criterion for the fact that he sees it spatially? (Because what else do I know about his impression?)
 
-_---_
+---
 
 
 ### [Ms-137](/ms-137/#142a.2) <span class="fac">[142a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142a.webp)</span> {#ms-137-142a-2}

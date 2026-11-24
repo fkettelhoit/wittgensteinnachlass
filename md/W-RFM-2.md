@@ -10,7 +10,7 @@
 
 ### [Ms-117](/ms-117/#97.3+98.1) <span class="fac">[97\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/97.webp),[98\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span> {#ms-117-97-3--98-1}
 
-<span class="series-number">1</span> _---_
+<span class="series-number">1</span> ---
 
 _Ansätze_
 

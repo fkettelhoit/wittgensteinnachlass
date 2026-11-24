@@ -786,7 +786,7 @@ Es geht mit dem psychischen Vorgang des Verstehens wie mit dem arithmetischen Ge
 
 ### [Ms-114](/ms-114/#59r.2) <span class="fac">[59r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/59r.webp)</span> {#ms-114-59r-2}
 
-<span class="series-number">43</span> _[→ ]_
+<span class="series-number">43</span> [→ ]
 
 Ist es nicht so, daß eine Erklärung, eine Tabelle, zuerst so gebraucht wird, daß man sie “nachschlägt”, daß man sie dann gleichsam im Kopf nachschlägt, sie sich vors innere Auge ruft (oder dergleichen), & daß man endlich ohne diese Tabelle arbeitet, – also so, als wäre sie nie dagewesen. – In diesem letzteren Falle spielt man nun ein anderes Spiel. Denn es ist nicht so, daß jene Tabelle ja doch im Hintergrund steht (& man immer auf sie zurückgreifen kann); sie ist aus unserm Spiel ausgeschieden, & wenn ich auf sie “zurückgreife”, so tue ich, was der Erblindete tut, der auf den Tastsinn zurückgreift. Eine Erklärung fertigt eine Tabelle an, & sie wird zur Geschichte, wenn ich die Tabelle nicht mehr benütze.
 
@@ -926,7 +926,7 @@ Brauchen wir etwa nur einen gesprochenen Befehl befolgen zu können ein Erinneru
 
 ### [Ms-114](/ms-114/#66v.3) <span class="fac">[66v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/66v.webp)</span> {#ms-114-66v-3}
 
-_⋎_
+⋎
 
 Wenn es beim Gebrauch des Wortes “rot” auf das Bild ankommt, das mein Gedächtnis beim Klang dieses Wortes automatisch reproduziert, so bin ich dieser Reproduktion geradeso ausgeliefert, als wäre ich entschlossen, die Bedeutung durch Nachschlagen in einer Tabelle zu bestimmen, wobei ich mich dem, was ich in ihr fände, quasi, auf Gnade & Ungnade ergeben würde.
 
@@ -1100,7 +1100,7 @@ Aber auf die Antwort “Du weißt ja, wie es der Satz macht, es ist ja nichts ve
 
 Es ist uns, als ginge es uns mit dem Gedanken so, wie mit einer Landschaft, die wir gesehen haben & beschreiben sollen, aber wir erinnern uns ihrer nicht genau genug, um sie in allen ihren Zusammenhängen beschreiben zu können. So meinen wir, können wir das Denken nachträglich nicht beschreiben, weil uns die vielen feineren Vorgänge dann verloren gegangen sind. Diese feinen Verhäkelungen möchten wir sozusagen unter der Lupe sehen. (Denke an den Satz: “Alles fließt”.)
 
-_]_
+]
 
 ### [Ms-114](/ms-114/#76r.3+76v.1) <span class="fac">[76r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/76r.webp),[76v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-114/76v.webp)</span> {#ms-114-76r-3--76v-1}
 

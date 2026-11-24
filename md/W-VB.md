@@ -324,7 +324,7 @@ und schlummernd liegt der Tag.
 
 Der Tag will nicht erwachen.
 
-_─────── ∙ ───────_
+─────── ∙ ───────
 
 ### [Ms-153a](/ms-153a/#138r.2+138v.1) <span class="fac">[138r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-153a/138r.webp),[138v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-153a/138v.webp)</span> {#ms-153a-138r-2--138v-1}
 
@@ -2266,7 +2266,7 @@ Der glücklich Verliebte & der unglücklich Verliebte haben Jeder sein eigenes P
 
 Moore hat mit seinem Paradox in ein philosophisches Wespennest gestochen; & wenn die Wespen nicht gehörig aufgeflogen sind, so ist es nur, weil sie zu träg waren.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#122a.5) <span class="fac">[122a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122a.webp)</span> {#ms-137-122a-5}
 

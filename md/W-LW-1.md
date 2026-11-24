@@ -190,7 +190,7 @@ Und willst Du mir sagen, er spürt das nicht? Wie _weiß_ er's denn sonst? – A
 
 <span class="series-number">42</span> “Wenn die Menschen in ihren Farbaussagen stark auseinandergingen, könnten sie unsern Farbbegriff nicht verwenden.” – Wenn die Menschen in ihren Farbaussagen stark auseinander gingen, dann würden sie, eben dadurch, _unsern Farbbegriff_ nicht verwenden. Sie würden nicht unser Sprachspiel spielen: Denn bedenk doch, wie man das ihre & das unsre zu vergleichen hätte!
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#80b.5+81a.1) <span class="fac">[80b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/80b.webp),[81a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/81a.webp)</span> {#ms-137-80b-5--81a-1}
 
@@ -668,7 +668,7 @@ Man könnte das so ausdrücken: Es ist nicht so, aber ich _muß_ es glauben.
 
 ### [Ms-137](/ms-137/#92a.3) <span class="fac">[92a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/92a.webp)</span> {#ms-137-92a-3}
 
-<span class="series-number">146</span> _---_
+<span class="series-number">146</span> ---
 
 09.11.1948 Wenn ich sage: “Schau! in diesem Bild ist _diese_ Figur enthalten.” – mache ich eine geometrische Bemerkung? – Ist ‘dieses Bild’ nicht das, wovon _dies_ die genaue Kopie ist? was mit den Worten ‥‥ zu beschreiben wäre? Hätte es also Sinn, zu sagen, es enthalte jene Figur _jetzt_? oder _habe_ sie enthalten? – Meine Bemerkung ist also zeitlos, & man kann sie “geometrisch” nennen.
 
@@ -1350,7 +1350,7 @@ Aber nun vergleicht er auch seine Sprache mit der primitiven, die Einer lernt, d
 
 <span class="series-number">304</span> Und natürlich ist dieser Begriff äußert vag.
 
-_[→ ]_
+[→ ]
 
 ### [Ms-137](/ms-137/#111a.2) <span class="fac">[111a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/111a.webp)</span> {#ms-137-111a-2}
 
@@ -1374,7 +1374,7 @@ Die Worte “die Rose ist rot” sind sinnlos, wenn das Wort “ist” die Bedeu
 
 ### [Ms-137](/ms-137/#109b.1) <span class="fac">[109b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/109b.webp)</span> {#ms-137-109b-1}
 
-<span class="series-number">308</span> _---_
+<span class="series-number">308</span> ---
 
 Was macht meine Vorstellung von ihm zu einer Vorstellung von _ihm_? Wenn ich sage “Ich stelle ihn mir jetzt vor, wie er ‥‥” so wird hier nichts als sein Portrait bezeichnet. Aber kann ich nicht daraufkommen, daß ich ihn mir ganz falsch vorstellte? Ist meine Frage nicht wie _die_: “Was macht diesen Satz zu einem, der von _ihm_ handelt”? “Daß wir von ihm sprachen.” – Und was macht unser Gespräch zu einem über _ihn_?” – Gewisse Übergänge die wir gemacht haben, oder machen würden.
 
@@ -1426,7 +1426,7 @@ Was macht dies Bild zu _seinem_ Portrait? – Es ist im Katalog als das bezeichn
 
 ### [Ms-137](/ms-137/#110b.2) <span class="fac">[110b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp)</span> {#ms-137-110b-2}
 
-<span class="series-number">320</span> _---_
+<span class="series-number">320</span> ---
 
 Man muß sich eigens daran erinnern, daß ein Gesicht mit seelenvollem Ausdruck _gemalt_ werden kann, um zu glauben, daß bloße Farben & Formen so auf uns einwirken.
 
@@ -1538,7 +1538,7 @@ Man muß sich eigens daran erinnern, daß ein Gesicht mit seelenvollem Ausdruck 
 
 ### [Ms-137](/ms-137/#113a.4) <span class="fac">[113a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/113a.webp)</span> {#ms-137-113a-4}
 
-<span class="series-number">347</span> _---_
+<span class="series-number">347</span> ---
 
 Die größte Schwierigkeit in diesen Untersuchungen ist, eine Darstellungsweise für die Vagheit finden.
 
@@ -1556,7 +1556,7 @@ Die größte Schwierigkeit in diesen Untersuchungen ist, eine Darstellungsweise 
 
 ### [Ms-137](/ms-137/#113b.3) <span class="fac">[113b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/113b.webp)</span> {#ms-137-113b-3}
 
-<span class="series-number">351</span> _---_
+<span class="series-number">351</span> ---
 
 30.11.1948 So handelt die Psychologie vom Benehmen; nicht vom Seelischen? Was berichtet der Psychologe? – Was beobachtet er? Nicht das Benehmen der Menschen & insbesondre ihre Äußerungen? Aber diese handeln nicht von ihrem Benehmen.
 
@@ -1576,7 +1576,7 @@ Die größte Schwierigkeit in diesen Untersuchungen ist, eine Darstellungsweise 
 
 <span class="series-number">355</span> Aber könnte, was hier nicht ‘Voraussetzung’ ist, dies in einem andern Falle nicht sein? Ist Voraussetzung nicht, wo ein _Zweifel_ ist? Und der Zweifel kann gänzlich fehlen; & er kann im geringsten Grade & bis zum größten vorhanden sein.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#114a.5) <span class="fac">[114a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/114a.webp)</span> {#ms-137-114a-5}
 
@@ -1606,7 +1606,7 @@ Wie vergleicht sich das Benehmen des Zornes, der Freude, der Hoffnung, des Erwar
 
 ### [Ms-137](/ms-137/#114b.5) <span class="fac">[114b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/114b.webp)</span> {#ms-137-114b-5}
 
-<span class="series-number">361</span> _---_
+<span class="series-number">361</span> ---
 
 Die ‘Bedeutung’ ist ist nicht das Erlebnis beim Aussprechen oder Hören des Worts; & der ‘Sinn’ des Satzes nicht der Komplex von Erlebnissen, die zu den Worten gehören Wie ist der Sinn von “Ich habe ihn noch immer nicht gesehen” aus den Bedeutungen der, Wörter zusammengesetzt? Der Satz ist aus den Wörtern zusammengesetzt, & das ist genug.
 
@@ -1622,13 +1622,13 @@ Die ‘Bedeutung’ ist ist nicht das Erlebnis beim Aussprechen oder Hören des 
 
 <span class="series-number">364</span> Und würde jener darum im Gebrauch “wenn” & “daß” verwechseln?
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#115a.4) <span class="fac">[115a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/115a.webp)</span> {#ms-137-115a-4}
 
 <span class="series-number">365</span> Kann nur hoffen, wer sprechen kann? Nur der, der die Verwendung der Sprache beherrscht. Die Zeichen des Hoffens sind Modifikationen eines kompliziertern Lebensmusters. (Wenn ein Begriff seine Anwendung auf den Charakter der Handschrift hat, dann hat er keine Anwendung auf Wesen, die nicht schreiben.)
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#115a.5) <span class="fac">[115a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/115a.webp)</span> {#ms-137-115a-5}
 
@@ -1702,13 +1702,13 @@ Das Wenn-Gefühl ist nicht ein Gefühl, das das Aussprechen des Wortes “Wenn�
 
 ### [Ms-137](/ms-137/#116a.5) <span class="fac">[116a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/116a.webp)</span> {#ms-137-116a-5}
 
-<span class="series-number">383</span> _---_
+<span class="series-number">383</span> ---
 
 03.12.1948 Daß wir einen Satz verstehen, zeigt uns daß wir ihn unter Umständen verwenden könnten (wenn auch nur in einem Märchen), aber es zeigt uns nicht _was_, & _wieviel_ wir mit ihm anfangen _können_.
 
 ### [Ms-137](/ms-137/#116a.6) <span class="fac">[116a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/116a.webp)</span> {#ms-137-116a-6}
 
-<span class="series-number">384</span> _---_
+<span class="series-number">384</span> ---
 
 04.12.1948 [non & ne] Es hat denselben Zweck, dieselbe Verwendung – bis auf _eine_ Bestimmung.
 
@@ -1716,7 +1716,7 @@ Das Wenn-Gefühl ist nicht ein Gefühl, das das Aussprechen des Wortes “Wenn�
 
 <span class="series-number">385</span> So gibt es also zwischen Wortverwendungen wesentliche & unwesentliche Unterschiede? Erst wenn man vom _Zweck_ des Wortes redet, taucht diese Unterscheidung auf.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#116b.2) <span class="fac">[116b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/116b.webp)</span> {#ms-137-116b-2}
 
@@ -1746,7 +1746,7 @@ Ich lasse jetzt meinen Zeigefinger eine leichte Pendelbewegung vor- & rückwärt
 
 <span class="series-number">391</span> _Weiß_ ich's nur aus eigener Erfahrung, & vermute es nur bei den Andern?
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#117a.4) <span class="fac">[117a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp)</span> {#ms-137-117a-4}
 
@@ -1754,7 +1754,7 @@ _---_
 
 ### [Ms-137](/ms-137/#117a.6) <span class="fac">[117a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp)</span> {#ms-137-117a-6}
 
-<span class="series-number">393</span> _---_
+<span class="series-number">393</span> ---
 
 06.12.1948 Was ist das Kriterium dafür, daß mich ein Sinneseindruck über die Form & Farbe belehrt?
 
@@ -1808,7 +1808,7 @@ _---_
 
 Ein ‘Gefühl’ hat für uns ein ganz _bestimmtes_ Interesse. Und dazu gehört z.B. ein ‘Grad des Gefühls’ , die Übertäubbarkeit eines Gefühls durch ein anderes.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#118b.4) <span class="fac">[118b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/118b.webp)</span> {#ms-137-118b-4}
 
@@ -1856,7 +1856,7 @@ Sind die Worte “Ich fürchte mich” eine Beschreibung eines Seelenzustandes? 
 
 ### [Ms-137](/ms-137/#119b.4) <span class="fac">[119b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/119b.webp)</span> {#ms-137-119b-4}
 
-<span class="series-number">416</span> _---_
+<span class="series-number">416</span> ---
 
 09.12.1948 Das Sprachspiel der Meldung kann so gewendet werden, daß die Meldung uns nicht über den Gegenstand der Meldung unterrichten soll, sondern über den Meldenden. So ist es z.B. wenn der Lehrer den Schüler prüft. (Man kann messen um den Maßstab zu prüfen.)
 
@@ -1894,13 +1894,13 @@ Sind die Worte “Ich fürchte mich” eine Beschreibung eines Seelenzustandes? 
 
 Das beste Beispiel für einen Ausdruck in ganz bestimmter Bedeutung ist eine Stelle in einem Drama.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#120a.7+120b.1) <span class="fac">[120a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120a.webp),[120b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120b.webp)</span> {#ms-137-120a-7--120b-1}
 
 <span class="series-number">425</span> Die augenblickliche Bewegung. Wer eine Bewegung sieht, sieht überhaupt nicht Lagen in Zeitpunkten. Er könnte sie nicht abbilden, nachahmen.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#120b.2) <span class="fac">[120b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120b.webp)</span> {#ms-137-120b-2}
 
@@ -1914,7 +1914,7 @@ _---_
 
 <span class="series-number">428</span> Man kann ja fragen: Ist ein Zustand, den ich aus den Äußerungen des Menschen entnehme wirklich derselbe wie der, den einer auf diese Weise nicht erkennt? Und die Antwort ist eine Entscheidung.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#120b.5) <span class="fac">[120b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/120b.webp)</span> {#ms-137-120b-5}
 
@@ -2312,7 +2312,7 @@ Der Aspekt leuchtet nur auf, bleibt nicht stehen. Aber das muß eine begrifflich
 
 ### [Ms-137](/ms-137/#128b.6) <span class="fac">[128b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128b.webp)</span> {#ms-137-128b-6}
 
-<span class="series-number">522</span> _---_
+<span class="series-number">522</span> ---
 
 18.12.1948 Die zaghafte Behauptung ist nicht eine Behauptung der Zaghaftigkeit.
 
@@ -2332,7 +2332,7 @@ Der Aspekt leuchtet nur auf, bleibt nicht stehen. Aber das muß eine begrifflich
 
 <span class="series-number">526</span> Betrachte nicht die zaghafte Behauptung als Behauptung der Zaghaftigkeit.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#129a.3) <span class="fac">[129a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/129a.webp)</span> {#ms-137-129a-3}
 
@@ -2356,7 +2356,7 @@ _---_
 
 ### [Ms-137](/ms-137/#129b.4) <span class="fac">[129b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/129b.webp)</span> {#ms-137-129b-4}
 
-<span class="series-number">532</span> _---_
+<span class="series-number">532</span> ---
 
 20.12.1948 Ich konnte also den H.E.-K. von vornherein als Bild-H. sehen. D.h. gefragt: “Was ist das?” oder “Was siehst Du da?” hätte ich geantwortet “Einen Bild-H.”. Hätte man mich weiter gefragt, was ein Bild-H. sei, so hätte ich zur Erklärung auf verschiedene Hasenbilder, auch auf wirkliche Hasen zeigen müssen, hätte von dem Leben dieser Tiere reden & sie nachmachen können.
 
@@ -2490,7 +2490,7 @@ Ich schaue auf ein Tier im Käfig. Man fragt mich: “Was siehst Du?” Ich antw
 
 <span class="series-number">563</span> Was ist das Kriterium des Seherlebnisses? Was soll das Kriterium sein? Die Darstellung dessen, ‘was gesehen wird’.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#132b.3) <span class="fac">[132b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132b.webp)</span> {#ms-137-132b-3}
 
@@ -2688,7 +2688,7 @@ Betrachte nun als Beispiel die Aspekte des Dreiecks. Das Dreieck
 
 kann gesehen werden als dreieckiges Loch, als Körper, als geometrische Zeichnung; auf seiner Basis stehend, von seiner Spitze hängend; als Berg, als Keil, als Pfeil oder Zeiger; als ein umgefallener Körper, der (z.B.) auf der kürzeren Kathete stehen sollte, als ein halbes Parallelogramm, und anderes.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#135b.7+136a.1) <span class="fac">[135b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/135b.webp),[136a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/136a.webp)</span> {#ms-137-135b-7--136a-1}
 
@@ -2714,7 +2714,7 @@ _---_
 
 <span class="series-number">611</span> “Und ist es wirklich ein anderer Eindruck?” Um es zu beantworten, möchte ich mich fragen, ob wirklich etwas anderes in mir existiert. Aber wie kann ich mich davon überzeugen – Ich _beschreibe_, was ich sehe, anders.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#136b.2) <span class="fac">[136b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/136b.webp)</span> {#ms-137-136b-2}
 
@@ -2794,7 +2794,7 @@ Was teilt uns der mit, der sagt “Jetzt seh ich es als …? Das heißt: Welche 
 
 “An was erinnert mich diese Farbe?” – Wer einen Gegenstand anschaut & sich das fragt, – beobachtet der den Gesichts*eindruck*? []
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#138a.9) <span class="fac">[138a\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138a.webp)</span> {#ms-137-138a-9}
 
@@ -2832,7 +2832,7 @@ der beiden Flächen. – Wenn nun Einer die Figur nur auf Augenblicke räumlich 
 
 <span class="series-number">636</span> Spiel: “Es kann auch ‥‥ sein”.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#139a.4) <span class="fac">[139a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/139a.webp)</span> {#ms-137-139a-4}
 
@@ -2842,7 +2842,7 @@ _---_
 
 <span class="series-number">638</span> Die Frage ist: _Inwiefern_ ist es ein Sehen?
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#139a.6) <span class="fac">[139a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/139a.webp)</span> {#ms-137-139a-6}
 
@@ -2922,11 +2922,11 @@ Die Frage ist: _Inwiefern_ ist es ein Sehen?
 
 <span class="series-number">656</span> 05.01.1949
 
-_---_
+---
 
 Wie, wenn Einer sagte: Die Traumerzählung ist eine seltsame Gedächtnisstörung; sie nimmt eine Menge von Erinnerungen vom Vortag, aus früheren Tagen, ja aus der Kindheit zusammen & macht daraus eine Erinnerung an ein Ereignis während der Zeit des Schlafs. Wir alle kennen ja Fälle in denen wir die Erinnerungen mehrerer Tage zu _einer_ vermischen.
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#140b.5) <span class="fac">[140b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span> {#ms-137-140b-5}
 
@@ -2998,7 +2998,7 @@ gezeigt hätte.
 
 <span class="series-number">672</span> [] “Er sieht es räumlich & kennt sich daher so gut in der Zeichnung aus, als operierte er in dem räumlichen Modell.” Aber ist nicht eben sein besonderes Manipulieren in der Zeichnung das Kriterium dafür, daß er's räumlich sieht? (Denn was weiß ich sonst von seinem Eindruck?)
 
-_---_
+---
 
 ### [Ms-137](/ms-137/#142a.2) <span class="fac">[142a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142a.webp)</span> {#ms-137-142a-2}
 

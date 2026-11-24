@@ -563,7 +563,7 @@ I am occupied with what I now notice, what strikes me. That is why experiencing 
 
 _It is an act of paying attention._
 
-_---_
+---
 
 
 ### [Ms-169](/ms-169/#21r.4) <span class="fac">[21r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-169/21r.webp)</span> {#ms-169-21r-4}
