@@ -1,4 +1,5 @@
 {{ define "main" }}
+<script src="/js/fragment-links.js" defer></script>
 <main class="home gallery">
   {{ partial "intro.html" }}
   {{ $c := partial "doc-format-links.html" .Content }}
@@ -7,6 +8,6 @@
   {{ $c = replace $c `<div id="by-name"></div>` (printf `%s<div id="by-name"></div>` (partial "map-home.html")) 1 }}
   {{- /* The options of the document lists' switcher (md/index.md) are switches (style.css). */ -}}
   {{ $c = replace $c `<a class="by-` `<a class="switch by-` }}
-  {{ $c | safeHTML }}
+  {{ partial "heading-links.html" $c | safeHTML }}
 </main>
 {{ partial "footer.html" }} {{ end }}

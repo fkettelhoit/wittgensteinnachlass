@@ -1,0 +1,8 @@
+{{- /* Rendered HTML with a section marker (`§`, like the remark headings' in single.html)
+  at the start of each top-level h2 that has an id: a link to the heading that
+  js/fragment-links.js also copies to the clipboard. The margin headings of the document
+  lists (years, formats, kinds: an h2 opening a <section>) get none. For the home and about
+  pages. Returns the HTML as a string. */ -}}
+{{- $c := replaceRE `<h2 id="([^"]+)"([^>]*)>` `<h2 id="$1"$2><a class="fragment-link" href="#$1" aria-label="Link to this section">§</a>` (string .) -}}
+{{- $c = replaceRE `(<section>\s*<h2[^>]*>)<a class="fragment-link"[^>]*>§</a>` "$1" $c -}}
+{{- return $c -}}

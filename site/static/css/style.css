@@ -533,8 +533,37 @@ section > .fac a {
     color: var(--color-link);
   }
 
-  section:hover & {
+  section:hover > h3 > & {
     opacity: 1;
+  }
+}
+
+h2 > .fragment-link {
+  display: inline-block;
+  width: 0;
+  direction: rtl;
+  padding-right: 0.3em;
+  margin-left: -0.3em;
+
+  &,
+  &:hover {
+    color: inherit;
+  }
+
+  @media (hover: hover) {
+    opacity: 0;
+
+    h2:hover > &,
+    &:focus-visible {
+      opacity: 1;
+    }
+  }
+
+  @media (width < 68rem) {
+    width: auto;
+    direction: ltr;
+    padding-right: 0;
+    margin: 0 0.3em 0 0;
   }
 }
 
@@ -874,7 +903,6 @@ body.bilingual {
     margin-bottom: 0.5rem;
   }
 
-  /* Legend of the copyright map (tools/copyright_map.py draws it in the same colors). */
   & .map-legend {
     display: flex;
     flex-wrap: wrap;
