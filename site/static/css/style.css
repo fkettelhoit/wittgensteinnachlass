@@ -873,6 +873,39 @@ body.bilingual {
   & li {
     margin-bottom: 0.5rem;
   }
+
+  /* Legend of the copyright map (tools/copyright_map.py draws it in the same colors). */
+  & .map-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem 1.5rem;
+    font-size: 0.9em;
+
+    & span::before {
+      content: "";
+      display: inline-block;
+      width: 0.8em;
+      height: 0.8em;
+      margin-right: 0.4em;
+      vertical-align: -0.05em;
+    }
+
+    & .public-domain::before {
+      background: var(--color-highlight);
+    }
+
+    & .partly::before {
+      background: repeating-linear-gradient(
+        -45deg,
+        var(--color-highlight) 0 0.2em,
+        var(--color-text) 0.2em 0.3em
+      );
+    }
+
+    & .copyrighted::before {
+      background: var(--color-text);
+    }
+  }
 }
 
 /* --- Covers (home page, epub/pdf pages) --- */

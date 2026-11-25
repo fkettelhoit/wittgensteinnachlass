@@ -57,10 +57,8 @@ To each remark from Wittgenstein’s _Nachlass_ corresponds a transcription in t
 The Markdown source files are presented on the website as HTML pages.
 
 The remarks can be browsed in two complementary ways:
-- Firstly, in their original arrangement as parts of manuscripts or typescripts. Manuscripts and typescripts, numbered according to von Wright’s catalogue, can in turn be browsed:
-	- [By name](/#by-name), i.e., by number;
-	- [By date](/#by-date);
-- Secondly, in the arrangement they were given by the editors when they were published [as books](/). Please be aware that the remarks thus arranged do not produce a running text that is _identical_ to that of the published editions, because, on the one hand, the editors may have processed variants differently than they were processed on this website and, secondly, they almost always made changes in terms of orthography, punctuation, etc., while this website always displays the original text from the _Nachlass_.
+- Firstly, in their original arrangement as parts of manuscripts or typescripts. Manuscripts and typescripts, numbered according to von Wright’s catalogue, can in turn be browsed [by name](/#by-name) (i.e., by number), [by date](/#by-date), or [by format](/#by-format);
+- Secondly, in the arrangement they were given by the editors when they were published [as books](/#edited-writings). Please be aware that the remarks thus arranged do not produce a running text that is _identical_ to that of the published editions, because, on the one hand, the editors may have processed variants differently than they were processed on this website and, secondly, they almost always made changes in terms of orthography, punctuation, etc., while this website always displays the original text from the _Nachlass_.
 
 The transcription is a linear, not a diplomatic one. The textual phenomena that have been retained are the following:
 - Paragraph breaks;
@@ -69,7 +67,7 @@ The transcription is a linear, not a diplomatic one. The textual phenomena that 
 
 All other textual phenomena have not been encoded in the source files and are therefore not reproduced in the HTML pages. In particular:
 - Variants have not been retained: where a choice of words is accompanied by one or more alternatives, usually marked through double slashes, only the first has been retained;
-- Deletions have not been retained: text that was stricken out has not been included at all;
+- Deletions have not been retained: struck-out text is omitted entirely;
 - Insertions marked as such have been retained, but they have not been marked in any way and are simply part of the flow of the text;
 - Underlines whose semantic value is other than that of an emphasis have not been retained (for example, Wittgenstein often used wavy underlines to mark his uncertainty about or dissatisfaction with a word or sentence);
 - Marginal signs (_Randzeichen_), which Wittgenstein used to highlight certain passages, to express his doubts about others, etc., have not been retained;
@@ -81,9 +79,11 @@ The images have been sourced from the [Wittgenstein Nachlass Graphics](https://n
 
 ## Copyright
 
-Ludwig Wittgenstein died in 1951. Therefore, the _Nachlass_ is in the public domain in all countries and territories where copyright expires 70 years or fewer after the author’s death. This includes most countries in Europe, the entirety of Africa, Asia, and Oceania, most countries in Central and South America, and Canada.
+Ludwig Wittgenstein died in 1951. Therefore, the _Nachlass_ is in the public domain in all countries and territories where copyright expires 70 years or fewer after the author’s death. This includes most countries in Europe, the entirety of Asia, almost all of Africa and Oceania, most countries in Central and South America, and Canada.
 
-![Worldwide map of copyright term length, color-coded](https://upload.wikimedia.org/wikipedia/commons/5/59/World_copyright_terms.svg)
+![World map of the countries where Wittgenstein’s Nachlass is in the public domain (almost all of them), where it partly is (the United States), and where it is not yet (Mexico, Guatemala, Colombia, Jamaica, Equatorial Guinea)](/images/copyright-map.svg)
+
+<p class="map-legend"><span class="public-domain">Public domain</span> <span class="partly">Partly public domain</span> <span class="copyrighted">Copyright term longer than life + 70 years</span></p>
 
 For a literary work to be lawfully published on the Internet (which is tantamount to a worldwide simultaneous publication) it is usually considered a necessary and sufficient condition that it be in the public domain in its country of origin and in the country where the website is based. Regarding users who are not located in the country of origin of the work nor in the country where the website is based, it is their responsibility to comply with the copyright rules of their own country when visiting the website; and it is in the power of governments to block access to websites that contain materials which are copyrighted in their country.
 
