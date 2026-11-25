@@ -15,9 +15,9 @@
   {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>%s)` $stem $stem $fac }}
   {{ $bilingual := "" }}
   {{ if and .Params.translation (not hugo.IsProduction) }}
-    {{ $bilingual = printf ` | <a href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
+    {{ $bilingual = printf ` | <a class="switch" href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
   {{ end }}
-  {{ $switcher := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>%s` $downloads $bilingual (partial "edition-note.html" .) }}
+  {{ $switcher := printf `</h1><p class="lang-switcher"><span class="switch" aria-current="page">German</span>%s%s</p>%s` $downloads $bilingual (partial "edition-note.html" .) }}
   {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = replaceRE `</h3>` `</h3><div>` $c }}
@@ -67,9 +67,9 @@
   {{ $dl2 := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>%s)` $stem2 $stem2 $fac2 }}
   {{ $bilingual2 := "" }}
   {{ if and .Params.translation (not hugo.IsProduction) }}
-    {{ $bilingual2 = printf ` | <a href="/en/%s/">German/English</a>` ($stem2 | urlize) }}
+    {{ $bilingual2 = printf ` | <a class="switch" href="/en/%s/">German/English</a>` ($stem2 | urlize) }}
   {{ end }}
-  {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="lang-active">German</span>%s%s</p>%s` $dl2 $bilingual2 (partial "edition-note.html" .) }}
+  {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="switch" aria-current="page">German</span>%s%s</p>%s` $dl2 $bilingual2 (partial "edition-note.html" .) }}
   {{ $c2 := replace (partial "doc-format-links.html" .Content) "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ partial "viz-lightbox.html" (replace $c2 "</h1>" $sw2 1) | safeHTML }}
 </main>

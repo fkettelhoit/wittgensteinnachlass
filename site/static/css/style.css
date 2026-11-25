@@ -1,28 +1,27 @@
 @import url("/css/shared/transcription.css");
 
-/* --- TeX Gyre Pagella (Palatino) + Math --- */
+/* --- Fonts (only the faces the site uses) --- */
 
 @font-face {
   font-family: "TeX Gyre Pagella";
   src: url("/fonts/tex-gyre/texgyrepagella-regular.otf") format("opentype");
-  font-weight: 400;
-  font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: "TeX Gyre Pagella";
   src: url("/fonts/tex-gyre/texgyrepagella-italic.otf") format("opentype");
-  font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
+
 @font-face {
   font-family: "TeX Gyre Pagella";
   src: url("/fonts/tex-gyre/texgyrepagella-bold.otf") format("opentype");
   font-weight: 700;
-  font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: "TeX Gyre Pagella";
   src: url("/fonts/tex-gyre/texgyrepagella-bolditalic.otf") format("opentype");
@@ -31,201 +30,87 @@
   font-display: swap;
 }
 
-/* --- SangBleu Empire --- */
-
 @font-face {
   font-family: "SangBleu Empire";
   src: url("/fonts/sangbleu/SangBleuEmpire-Regular-WebS.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
   font-display: swap;
 }
+
 @font-face {
   font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-RegularItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-Medium-WebS.woff2") format("woff2");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-MediumItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-Bold-WebS.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-BoldItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-Black-WebS.woff2") format("woff2");
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Empire";
-  src: url("/fonts/sangbleu/SangBleuEmpire-BlackItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 900;
+  src: url("/fonts/sangbleu/SangBleuEmpire-RegularItalic-WebS.woff2") format("woff2");
   font-style: italic;
   font-display: swap;
 }
 
-/* --- SangBleu Sunrise --- */
-
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-Air-WebS.woff2") format("woff2");
-  font-weight: 100;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-AirItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 100;
-  font-style: italic;
-  font-display: swap;
-}
 @font-face {
   font-family: "SangBleu Sunrise";
   src: url("/fonts/sangbleu/SangBleuSunrise-Light-WebS.woff2") format("woff2");
   font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-LightItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-Regular-WebS.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-RegularItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-Medium-WebS.woff2") format("woff2");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-MediumItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-Bold-WebS.woff2") format("woff2");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-@font-face {
-  font-family: "SangBleu Sunrise";
-  src: url("/fonts/sangbleu/SangBleuSunrise-BoldItalic-WebS.woff2")
-    format("woff2");
-  font-weight: 700;
-  font-style: italic;
   font-display: swap;
 }
 
+/* --- Tokens --- */
+
 :root {
+  color-scheme: light dark;
   --font-body: "TeX Gyre Pagella", serif;
   --font-heading: "SangBleu Empire", "TeX Gyre Pagella", serif;
   --font-heading-margin: "SangBleu Sunrise", "TeX Gyre Pagella", serif;
-  color-scheme: light dark;
   --color-bg: #fff;
   --color-text: #444;
   --color-link: #000;
   --color-margin: #bbb;
   --color-translation: #777;
   --color-margin-link: #777;
+  --color-current: #000; /* a switcher's current option */
   --color-heading: #000;
   --color-series-number-bg: #444;
   --color-series-number-fg: #fff;
   --color-highlight: #fbcba4;
   --color-shade: #000; /* shadows and dimming */
   --line-thickness: 2px;
-  --line-thickness-hovered: 4px;
   --max-width: 44rem;
   --margin-col: 5rem;
   --margin-gap: 0.5rem;
   --margin-offset: calc(2 * (var(--margin-col) + var(--margin-gap)));
-}
+  --sticky-title-line: 5rem; /* the h1's line height */
+  --sticky-title-padding: 0.5rem;
+  --sticky-title-site-line: 2rem;
+  --sticky-title-site-gap: 1rem;
 
-/* Dark mode. Each colour is the image filter applied to its light value, except
-   the body text, brightened so it reads like #444 on white. */
-@media (prefers-color-scheme: dark) {
-  :root {
+  @media (width < 68rem) {
+    --sticky-title-line: 3rem;
+  }
+
+  /* Each colour is the image filter applied to its light value, except the brightened text. */
+  @media (prefers-color-scheme: dark) {
     --color-bg: #262626;
     --color-text: #cccccc;
     --color-link: #d9d9d9;
     --color-margin: #565656;
     --color-translation: #858585;
     --color-margin-link: #858585;
+    --color-current: #fff;
     --color-heading: #d9d9d9;
     --color-series-number-bg: #cccccc;
     --color-series-number-fg: #262626;
     --color-highlight: #624025;
     --color-shade: #d9d9d9;
   }
+}
 
+@media (prefers-color-scheme: dark) {
   img.math,
   img[src*="/graphics/"],
   img[src*="/viz/"],
-  img[src*="/covers/"] {
+  img[src*="/covers/"],
+  img[src*="/map/preview"] {
     filter: invert(0.85) hue-rotate(180deg);
   }
 }
 
-/* Overrides transcription.css (shared with the EPUB and PDF). */
-.series-number {
-  background-color: var(--color-series-number-bg);
-  color: var(--color-series-number-fg);
-}
+/* --- Base --- */
 
 body {
   background: var(--color-bg);
@@ -235,19 +120,39 @@ body {
   max-width: var(--max-width);
   margin: 0 auto;
   padding: 4rem 1rem 2rem 1rem;
+  /* How far the sticky title's line reaches beyond the column: over the margin columns. */
+  --sticky-title-extend: 0rem;
+
+  @media (width >= 68rem) {
+    --sticky-title-extend: var(--margin-offset);
+  }
+
+  &.bilingual {
+    max-width: 70rem;
+
+    @media (width < 68rem) {
+      max-width: var(--max-width);
+    }
+
+    @media (width >= 68rem) and (width < 94rem) {
+      --sticky-title-extend: 0rem;
+    }
+  }
 }
 
 p,
 li,
 h3,
 blockquote,
-.fac {
+.fac,
+details,
+.disclaimer-note,
+.disclaimer-warning {
   line-height: 2rem;
 }
 
 p,
 ul,
-h3,
 hr {
   margin: 0 0 2rem 0;
 }
@@ -270,28 +175,204 @@ h1 {
   line-height: 5rem;
   margin: 10rem 0 6rem 0;
   overflow-wrap: break-word;
+
+  @media (width < 68rem) {
+    font-size: 2.8rem;
+    line-height: 3rem;
+    margin: 5rem 0 3rem 0;
+  }
 }
 
 h2 {
   font-size: 3.3rem;
   line-height: 4rem;
   margin: 6rem 0 2rem 0;
-}
 
-@media (width < 68rem) {
-  h1 {
-    font-size: 2.8rem;
-    line-height: 3rem;
-    margin: 5rem 0 3rem 0;
-  }
-
-  h2 {
+  @media (width < 68rem) {
     font-size: 2rem;
     line-height: 2rem;
     margin: 3rem 0 1rem 0;
   }
+}
 
-  section > h3 {
+h3 {
+  font-size: 1.125rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+strong {
+  font-weight: 700;
+}
+
+blockquote {
+  margin: 0 0 2rem 2rem;
+}
+
+ul {
+  padding-left: 0rem;
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+img.viz {
+  width: 100%;
+}
+
+/* The interface (site title, switchers, toggles, search) is italic, the writings upright. */
+nav:not(.versions),
+.lang-switcher,
+.view-switcher,
+.search-options,
+.search-end,
+.edition-credit,
+.search-input::placeholder {
+  font-style: italic;
+}
+
+nav {
+  margin-bottom: 2rem;
+}
+
+/* --- Links and link-like elements: underlined, thicker and dark on hover --- */
+
+a,
+details summary,
+summary.linked > span,
+.switch,
+.search-end button {
+  text-decoration: underline 0.1rem var(--color-margin);
+  text-underline-offset: 0.4rem;
+}
+
+a:hover,
+details summary:hover,
+summary.linked > span:hover,
+.switch:hover,
+.search-end button:hover {
+  text-decoration: underline 0.2rem;
+  text-underline-offset: 0.35rem;
+}
+
+a {
+  color: var(--color-link);
+}
+
+button {
+  font: inherit;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.search-end button {
+  color: var(--color-link);
+}
+
+/* --- Switchers: options are .switch, the current one [aria-current] (or the URL's fragment) --- */
+
+.switch {
+  line-height: 1; /* with the padding, the peach's box is a matched term's (mark) */
+  padding: 0.3em 0;
+  white-space: nowrap;
+  color: var(--color-text);
+
+  &:hover {
+    color: var(--color-link);
+  }
+}
+
+.switch[aria-current],
+.home:not(
+    :has(#by-date:target, #by-format:target, .doc-list.by-date :target, .doc-list.by-format :target)
+  )
+  .switch.by-name,
+.home:has(#by-date:target, .doc-list.by-date :target) .switch.by-date,
+.home:has(#by-format:target, .doc-list.by-format :target) .switch.by-format {
+  color: var(--color-current);
+  background: var(--color-highlight);
+  text-decoration: none;
+  cursor: default;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.home:has(#by-date:target, #by-format:target, .doc-list.by-date :target, .doc-list.by-format :target)
+  .doc-list.by-name,
+.home:not(:has(#by-date:target, .doc-list.by-date :target)) .doc-list.by-date,
+.home:not(:has(#by-format:target, .doc-list.by-format :target)) .doc-list.by-format {
+  display: none;
+}
+
+.lang-switcher {
+  margin: -6rem 0 6rem 0;
+
+  @media (width < 68rem) {
+    margin: -3rem 0 3rem 0;
+  }
+}
+
+/* --- Details --- */
+
+details {
+  margin-bottom: 1rem;
+
+  /* Closed details in a row read as consecutive lines. */
+  &:not([open]):has(+ details) {
+    margin-bottom: 0;
+  }
+
+  & summary {
+    cursor: pointer;
+    font-style: italic;
+    color: var(--color-link);
+    list-style: none;
+    user-select: none;
+
+    &::marker {
+      content: "";
+    }
+  }
+
+  &[open] summary::marker {
+    content: "▾ ";
+    line-height: 0;
+  }
+}
+
+/* A summary followed by links: only its text (the span) toggles. */
+summary.linked {
+  text-decoration: none;
+  cursor: auto;
+  font-style: normal;
+
+  & > span {
+    font-style: italic;
+    cursor: pointer;
+  }
+}
+
+/* Similar remarks: an indented entry per document, then a line with the rest. */
+details.similar details,
+details.similar p {
+  margin: 0 0 0 1.5rem;
+}
+
+details.similar details[open] {
+  margin-bottom: 1rem;
+}
+
+/* --- Reading pages: remarks with their document and page in two margin columns --- */
+
+@media (width < 68rem) {
+  section > h3,
+  .fac {
     display: inline;
     font-style: italic;
   }
@@ -309,16 +390,11 @@ h2 {
   section .fragment-link {
     opacity: 1;
   }
-
-  .fac {
-    display: inline;
-    font-style: italic;
-  }
 }
 
-/* Body (44rem + 2rem padding) plus both margin columns (2 × 11rem) and 1rem slack. */
 @media (width >= 68rem) {
-  :not(.index, .gallery) > section {
+  :not(.index, .gallery) > section,
+  .search-result {
     display: grid;
     grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
     gap: 0 var(--margin-gap);
@@ -326,239 +402,94 @@ h2 {
     margin-right: 0;
   }
 
-  :not(.index, .gallery) > section > h3 {
+  :not(.index, .gallery) > section > h3,
+  .search-result > h3 {
     grid-column: 1;
-    color: var(--color-margin);
     text-align: right;
     align-self: baseline;
   }
 
-  :not(.index, .gallery) > section > .fac {
+  :not(.index, .gallery) > section > .fac,
+  .search-result > .fac {
     grid-column: 2;
     grid-row: 1;
     align-self: baseline;
   }
 
-  /* A remark that opens with a block formula or a block graphic has no first text
-     line for the margin to align with (a formula image is not a line box; a graphic's
-     paragraph has the image's bottom edge as its baseline): align to its top instead.
-     Block graphics are the unclassed images (`![](…)`); inline ones have classes. */
-  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child, > div > p:first-child > img:not([class]):first-child, > div > .de > p:first-child > img:not([class]):first-child) > h3,
-  :not(.index, .gallery) > section:has(> div > img.math-block:first-child, > div > .de > img.math-block:first-child, > div > p:first-child > img:not([class]):first-child, > div > .de > p:first-child > img:not([class]):first-child) > .fac {
-    align-self: start;
-  }
-
-  /* Divider between the doc and page columns. */
-  :not(.index, .gallery) > section > h3 {
-    position: relative;
-  }
-
-  :not(.index, .gallery) > section > h3:has(> a:not(.fragment-link), > .versions)::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: calc(var(--margin-gap) / -2);
-    border-right: 1px solid var(--color-margin-link);
-  }
-
-  /* The document column is right-aligned: let it extend 1rem (the body's
-     padding, so always empty) to the left, so that the widest collapsed versions
-     ("→227a¹ +11") keep their "+N" on the same line. */
-  :not(.index, .gallery) > section > h3 {
-    margin-left: -1rem;
-  }
-
-  /* Keep tall margin columns from running into the next remark. */
-  :not(.index, .gallery) > section > h3,
-  :not(.index, .gallery) > section > .fac {
-    margin-bottom: 2rem;
-  }
-
-  :not(.index, .gallery) > section > div {
+  :not(.index, .gallery) > section > div,
+  .search-result > div {
     grid-column: 3;
     align-self: baseline;
   }
 
-  /* Zero-width, so it takes no space from the margin column. */
-  :not(.index, .gallery) > section .fragment-link {
-    opacity: 0;
-    display: inline-block;
-    width: 0;
-    direction: rtl;
-    transform: translateX(-0.4em);
+  :not(.index, .gallery) > section {
+    /* Room on the left (the empty body padding) for the widest collapsed versions. */
+    & > h3 {
+      position: relative;
+      color: var(--color-margin);
+      margin-left: -1rem;
+    }
+
+    & > h3,
+    & > .fac {
+      margin-bottom: 2rem;
+    }
+
+    /* The divider between the document and page columns. */
+    & > h3:has(> a:not(.fragment-link), > .versions)::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: calc(var(--margin-gap) / -2);
+      border-right: 1px solid var(--color-margin-link);
+    }
+
+    /* Zero-width, so that it takes no room from the margin column. */
+    & .fragment-link {
+      opacity: 0;
+      display: inline-block;
+      width: 0;
+      direction: rtl;
+      transform: translateX(-0.4em);
+    }
+
+    & .versions.first-line {
+      display: inline;
+    }
+
+    & > .fac a {
+      display: inline-block;
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      vertical-align: bottom;
+    }
   }
 
-  :not(.index, .gallery) > section .versions.first-line {
-    display: inline;
-  }
-
-  :not(.index, .gallery) > section > .fac a {
-    display: inline-block;
-    max-width: 100%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    vertical-align: bottom;
-  }
-
-  .index section,
-  .gallery section {
-    display: grid;
-    grid-template-columns: 0 1fr;
-  }
-
-  .index section > h2,
-  .gallery section > h2 {
-    color: var(--color-margin);
-    transform: translateX(-11rem);
-    text-align: right;
+  /* A remark opening with a block formula or graphic has no first line to align with. */
+  :not(.index, .gallery)
+    > section:has(
+      > div > img.math-block:first-child,
+      > div > .de > img.math-block:first-child,
+      > div > p:first-child > img:not([class]):first-child,
+      > div > .de > p:first-child > img:not([class]):first-child
+    )
+    > :is(h3, .fac) {
     align-self: start;
-    overflow: visible;
-    width: 9rem;
-    border-right: var(--line-thickness) solid var(--color-margin);
-    padding-right: 1rem;
-    margin: 0;
-  }
-
-  /* Also inside the gallery layout (the document lists on the home page), whose cover
-     sections size the line differently. */
-  .index section > h2,
-  .gallery .index section > h2 {
-    /* The entries end flush with the last line (no margin below), so the line spans
-       the whole section. The heading itself doesn't size the section (size
-       containment): a year is taller than a single one-line entry, and the line should
-       end with the entries, the number overhanging if need be. */
-    box-sizing: border-box;
-    height: 100%;
-    contain: size;
-    /* With border-box, the width includes the padding and the line: the 9rem (content)
-       of the rule above plus both, so that the line stays 1rem left of the entries. */
-    width: calc(10rem + var(--line-thickness));
-    /* With no line height, the number's baseline would fall on the first entry's (both
-       20px below the top with 0.03em padding); the extra 0.5rem (the links'
-       text-underline-offset of 0.4rem plus the 0.1rem underline) sets it on the bottom
-       edge of the underline of the document's link. */
-    line-height: 0;
-    padding-top: calc(0.03em + 0.5rem);
-  }
-
-  .gallery section > h2 {
-    padding-top: 0.75rem;
-    height: calc(100% - 2.75rem);
-  }
-
-  /* A heading longer than a year (a kind or format of document, class from the parser)
-     is set along the line, reading upwards, its end at the top of the section: rotated
-     half a turn from top-to-bottom vertical text, so that the box's left border and
-     padding and the end of its line end up on the right, next to the line, and at the
-     top. */
-  .index section > h2.along-line {
-    writing-mode: vertical-lr;
-    transform: translateX(-11rem) rotate(180deg);
-    text-align: end;
-    white-space: nowrap;
-    line-height: 1;
-    border-right: 0;
-    border-left: var(--line-thickness) solid var(--color-margin);
-    padding: 0 0 0.2rem 0.6rem;
   }
 }
 
-.fragment-link {
-  text-decoration: none;
-  color: var(--color-margin);
-}
-
-section:hover .fragment-link {
-  opacity: 1;
-}
-
-.fragment-link:hover {
-  color: var(--color-link);
-  text-decoration: none;
-}
-
-.index section,
-.gallery section {
-  margin: 4rem 0 0 0;
-}
-
-.index section > h2,
-.gallery section > h2 {
-  font-family: var(--font-heading-margin);
-  font-weight: 300;
-  font-variant-numeric: oldstyle-nums;
-}
-
-.index ul {
-  margin: 0;
-}
-
-/* One-line entries (the document lists) follow each other without a gap; entries with
-   a line below the heading (the works on /all/) are set apart. */
-.index ul + h3 {
-  margin-top: 1rem;
-}
-
-h3 {
-  font-size: 1.125rem;
-  margin-bottom: 0;
-  font-weight: bold;
-}
-
-a {
-  color: var(--color-link);
-  text-decoration: underline;
-  text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
-  text-decoration-color: var(--color-margin);
-}
-
-a:hover {
-  text-decoration: underline;
-  text-underline-offset: 0.35rem;
-  text-decoration-thickness: 0.2rem;
-}
-
-/* The physical format of a document (pocket notebook, notebook, quarto, volume, loose
-   sheets, typescript, cuttings) as the outline of a page, in the margin grey: a link to
-   its group in the "By format" list, after every link to the whole document and after its
-   page title (partials/doc-format.html). The generated doc-formats.css (assets/css/) sets
-   the icon (--doc-format), its width as a fraction of the box height (--doc-format-ratio),
-   the gap between the boxes of consecutive lines and the middle of the line. Every box is
-   the line's height (1lh) minus that gap, centred on the line, the page centred in it. */
-.doc-format {
-  --doc-format-box: calc(1lh - var(--doc-format-gap));
-  display: inline-block;
-  width: calc(var(--doc-format-ratio) * var(--doc-format-box));
-  height: var(--doc-format-box);
-  margin-left: 0.2em;
-  vertical-align: calc(var(--doc-format-middle) - var(--doc-format-box) / 2);
-  background-color: var(--color-margin-link);
-  -webkit-mask: var(--doc-format) left bottom / 100% 100% no-repeat;
-  mask: var(--doc-format) left bottom / 100% 100% no-repeat;
-}
-
-.doc-format:hover {
-  background-color: var(--color-link);
-}
-
-/* In a page title (and the title bar repeating it), which has no descenders to fill:
-   the page standing on the baseline (of the title's last line), the tallest page as high
-   as a capital of the heading font. The box is lowered by the space below the page in it
-   (the page is centred in the box). */
-h1 .doc-format,
-.sticky-title .doc-format {
-  --doc-format-box: 0.76em;
-  vertical-align: calc(-1 * var(--doc-format-inset) * var(--doc-format-box));
-  margin-left: 0.15em;
-}
-
+/* The margin columns: grey italic references, underlined on hover. */
 section > h3,
 section > h3 a,
 section > .fac,
-section > .fac a {
+section > .fac a,
+.search-result > h3,
+.search-result > h3 a,
+.search-result > .fac,
+.search-result > .fac a {
   color: var(--color-margin);
   font-weight: normal;
   font-style: italic;
@@ -566,167 +497,111 @@ section > .fac a {
 }
 
 section > h3 a:hover,
-section > .fac a:hover {
-  text-decoration: underline;
+section > .fac a:hover,
+.search-result > h3 a:hover,
+.search-result > .fac a:hover {
+  text-decoration: underline 0.1rem;
   text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
 }
 
-section > h3 a:not(.fragment-link) {
+/* The document's link, and the versions: a link grey, underlined only on hover. */
+section > h3 a:not(.fragment-link),
+.versions details summary {
   color: var(--color-margin-link);
-  text-decoration: underline;
+  text-decoration: underline 0.1rem transparent;
   text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
-  text-decoration-color: transparent;
-}
 
-section > h3 a:not(.fragment-link):hover {
-  text-underline-offset: 0.35rem;
-  text-decoration-thickness: 0.2rem;
-  text-decoration-color: var(--color-margin-link);
+  &:hover {
+    text-decoration: underline 0.2rem var(--color-margin-link);
+    text-underline-offset: 0.35rem;
+  }
 }
 
 section > .fac a {
   cursor: zoom-in;
 }
 
-ul {
-  padding-left: 0rem;
-  list-style: none;
+.fragment-link {
+  color: var(--color-margin);
+
+  &,
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: var(--color-link);
+  }
+
+  section:hover & {
+    opacity: 1;
+  }
 }
 
-/* Restore list markers on the prose About page */
-.about ul {
-  padding-left: 1.5rem;
-  list-style: disc;
-}
-
-.about ol {
-  padding-left: 1.5rem;
-  list-style: decimal;
-}
-
-.about ul ul {
-  margin: 0;
-  list-style: circle;
-}
-
-.about li {
-  margin-bottom: 0.5rem;
-}
-
-strong {
-  font-weight: 700;
-}
-
-blockquote {
-  margin: 0 0 2rem 2rem;
-}
-
-nav {
-  margin-bottom: 2rem;
-}
-
-/* The site title link at the top of every page (not a remark's versions, which
-   are styled with the remark headings). */
-nav:not(.versions) {
-  font-style: italic;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-img.viz {
-  width: 100%;
-}
-
-details {
-  line-height: 2rem;
-  margin-bottom: 1rem;
-}
-
-/* Italic marks the site's own interface (toggles, switchers, downloads, the site
-   title, search, the tour), as opposed to the writings and references to them;
-   bold marks only the current state (the active language or view). */
-details summary {
-  cursor: pointer;
-  text-decoration: underline;
-  text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
-  text-decoration-color: var(--color-margin);
-  font-style: italic;
-  color: var(--color-link);
-  list-style: none;
-  user-select: none;
-}
-
-/* Summaries with links to documents/works after their text: only the text toggles the
-   details (a link inside a summary is followed instead), so only it is underlined like
-   a summary, with an ordinary gap before the links. */
-summary.linked {
-  text-decoration: none;
-  cursor: auto;
-  font-style: normal; /* the links to documents/works */
-}
-
-summary.linked > span {
-  font-style: italic;
-  cursor: pointer;
-  text-decoration: underline;
-  text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
-  text-decoration-color: var(--color-margin);
-}
-
-summary.linked > span:hover {
-  text-underline-offset: 0.35rem;
-  text-decoration-thickness: 0.2rem;
-  text-decoration-color: var(--color-link);
-}
-
-/* Closed details in a row read as consecutive lines of text. */
-details:not([open]):has(+ details) {
+/* Links to other versions of a remark (tools/add_versions.py). */
+.versions {
+  display: block;
   margin-bottom: 0;
+
+  @media (width < 68rem) {
+    display: inline;
+
+    & br {
+      display: none;
+    }
+
+    &::before,
+    &::after {
+      content: " ";
+    }
+  }
+
+  & details {
+    display: inline;
+    margin: 0;
+    line-height: inherit;
+
+    /* ::details-content is a block box, which would break the inline layout. */
+    &:not([open])::details-content {
+      display: none;
+    }
+
+    &[open]::details-content {
+      display: contents;
+    }
+  }
+
+  & details summary {
+    display: inline;
+    white-space: nowrap;
+    margin: 0;
+    font-weight: normal;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  & details summary::marker,
+  & details[open] summary::marker {
+    content: "";
+  }
 }
 
-details summary:hover {
-  text-underline-offset: 0.35rem;
-  text-decoration-thickness: 0.2rem;
-  text-decoration-color: var(--color-link);
+section > h3 > .versions a {
+  white-space: nowrap;
 }
 
-details summary::marker {
-  content: "";
+@media (width < 68rem) {
+  section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
+    content: "· ";
+  }
 }
 
-details[open] summary::marker {
-  content: "▾ ";
-  line-height: 0;
-}
-
-/* Similar remarks: one nested entry per other document with a visualization, then a
-   line with the remaining documents, as a compact indented list. */
-details.similar details,
-details.similar p {
-  margin: 0 0 0 1.5rem;
-}
-
-details.similar details[open] {
-  margin-bottom: 1rem;
-}
-
-/* Site-specific overrides for shared transcription styles */
-img.math-block {
-  margin: 0 0 2rem 0;
-}
-
-/* A formula too tall to stay in its line (even reaching into the neighbouring lines'
-   leading, see latex::inline_layout in the parser) gets a line of its own within its
-   paragraph, with the same space above and below. */
-img.math-block.math-display {
-  margin: 0.5rem 0;
+/* Overrides of transcription.css (shared with the EPUB and PDF). */
+.series-number {
+  background-color: var(--color-series-number-bg);
+  color: var(--color-series-number-fg);
 }
 
 section > div > p:first-child > .series-number:first-child,
@@ -741,28 +616,563 @@ section > div > .en > p:first-child > .series-number:first-child {
   background-color: var(--color-margin);
 }
 
+img.math-block {
+  margin: 0 0 2rem 0;
+
+  /* Too tall for its line: on a line of its own within the paragraph. */
+  &.math-display {
+    margin: 0.5rem 0;
+  }
+}
+
+/* A typist's gap left for a handwritten addition (🖵), and one filled from the facsimile. */
+span.gap {
+  display: inline-block;
+  width: 1.6em;
+  height: 0.8em;
+  border-bottom: 1px dotted currentColor;
+  vertical-align: baseline;
+}
+
+span.gap-filled {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+}
+
+/* --- Bilingual reading pages (German | English) --- */
+
+body.bilingual {
+  & section > div,
+  & .title-row,
+  & .disclaimer,
+  & .preamble,
+  & footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 2rem;
+
+    @media (width < 68rem) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  & .en,
+  & .en a,
+  & .en h2 {
+    color: var(--color-translation);
+  }
+
+  & .en a:hover {
+    color: var(--color-text);
+  }
+
+  /* No room for the margin columns yet: the references run inline, as on narrow screens. */
+  @media (width >= 68rem) and (width < 94rem) {
+    & section {
+      display: block;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    & section > h3,
+    & .fac {
+      display: inline;
+      font-style: italic;
+    }
+
+    & section > h3 {
+      color: var(--color-translation);
+      text-align: left;
+      margin-left: 0;
+    }
+
+    & .fac > br {
+      display: none;
+    }
+
+    & .fac > a::after {
+      content: " ";
+    }
+
+    & section .fragment-link {
+      opacity: 1;
+    }
+
+    & :not(.index, .gallery) > section > h3::after {
+      content: none;
+    }
+  }
+
+  @media (width >= 94rem) {
+    & section > h3 {
+      color: var(--color-translation);
+      align-self: start;
+    }
+
+    & section > .fac {
+      align-self: start;
+    }
+  }
+}
+
+.en-title {
+  color: var(--color-translation);
+}
+
+.disclaimer {
+  color: var(--color-link);
+  font-weight: bold;
+  font-style: italic;
+  margin: 0 0 2rem 0;
+
+  & strong {
+    border-radius: 4px;
+    padding: 0.3em;
+    background-color: var(--color-link);
+    color: var(--color-bg);
+    font-style: normal;
+  }
+}
+
+/* Work pages: the published edition's editors, between the switcher and the count. */
+.edition-note {
+  margin: -4rem 0 4rem 0;
+  max-width: 40rem;
+
+  @media (width < 68rem) {
+    margin: -1.5rem 0 3rem 0;
+  }
+}
+
+.edition-credit {
+  display: block;
+}
+
+/* --- Lists of documents (home, /all/): headings in the margin, along a line --- */
+
+.index section,
+.gallery section {
+  margin: 4rem 0 0 0;
+
+  @media (width >= 68rem) {
+    display: grid;
+    grid-template-columns: 0 1fr;
+  }
+}
+
+.index section > h2,
+.gallery section > h2 {
+  font-family: var(--font-heading-margin);
+  font-weight: 300;
+  font-variant-numeric: oldstyle-nums;
+
+  @media (width >= 68rem) {
+    color: var(--color-margin);
+    transform: translateX(-11rem);
+    text-align: right;
+    align-self: start;
+    overflow: visible;
+    width: 9rem;
+    border-right: var(--line-thickness) solid var(--color-margin);
+    padding-right: 1rem;
+    margin: 0;
+  }
+}
+
+@media (width >= 68rem) {
+  /* The line spans the entries; the number sits on the first entry's underline. */
+  .index section > h2,
+  .gallery .index section > h2 {
+    box-sizing: border-box;
+    height: 100%;
+    contain: size;
+    width: calc(10rem + var(--line-thickness));
+    line-height: 0;
+    padding-top: calc(0.03em + 0.5rem);
+  }
+
+  .gallery section > h2 {
+    padding-top: 0.75rem;
+    height: calc(100% - 2.75rem);
+  }
+
+  /* Longer than a year (a kind or format): along the line, reading upwards. */
+  .index section > h2.along-line {
+    writing-mode: vertical-lr;
+    transform: translateX(-11rem) rotate(180deg);
+    text-align: end;
+    white-space: nowrap;
+    line-height: 1;
+    border-right: 0;
+    border-left: var(--line-thickness) solid var(--color-margin);
+    padding: 0 0 0.2rem 0.6rem;
+  }
+}
+
+.index ul {
+  margin: 0;
+
+  /* Entries with a line below the heading (the works on /all/) are set apart. */
+  & + h3 {
+    margin-top: 1rem;
+  }
+}
+
+/* The remark count and description after a document's name, in the body font. */
+.doc-info {
+  font-weight: normal;
+  color: var(--color-text);
+}
+
+/* A document's format as a page outline, centred on the line (assets/css/doc-formats.css). */
+.doc-format {
+  --doc-format-box: calc(1lh - var(--doc-format-gap));
+  display: inline-block;
+  width: calc(var(--doc-format-ratio) * var(--doc-format-box));
+  height: var(--doc-format-box);
+  margin-left: 0.2em;
+  vertical-align: calc(var(--doc-format-middle) - var(--doc-format-box) / 2);
+  background-color: var(--color-margin-link);
+  mask: var(--doc-format) left bottom / 100% 100% no-repeat;
+
+  &:hover {
+    background-color: var(--color-link);
+  }
+
+  /* After a title: standing on the baseline, as high as a capital of the heading font. */
+  h1 &,
+  .sticky-title & {
+    --doc-format-box: 0.76em;
+    vertical-align: calc(-1 * var(--doc-format-inset) * var(--doc-format-box));
+    margin-left: 0.15em;
+  }
+}
+
+/* --- About --- */
+
+.about {
+  & ul,
+  & ol {
+    padding-left: 1.5rem;
+  }
+
+  & ul {
+    list-style: disc;
+  }
+
+  & ol {
+    list-style: decimal;
+  }
+
+  & ul ul {
+    margin: 0;
+    list-style: circle;
+  }
+
+  & li {
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* --- Covers (home page, epub/pdf pages) --- */
+
+.gallery p:has(.cover) {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+
+  @media (width < 68rem) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.gallery a.cover {
+  display: block;
+  position: relative;
+  container-type: inline-size;
+
+  & img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2 / 3; /* reserves the box of a lazy cover */
+    display: block;
+    outline: 1px solid var(--color-margin);
+
+    /* The image filter also recolours the outline, so it takes the light colours. */
+    @media (prefers-color-scheme: dark) {
+      outline-color: #bbb;
+    }
+  }
+
+  &:hover img {
+    outline-color: var(--color-link);
+
+    @media (prefers-color-scheme: dark) {
+      outline-color: #000;
+    }
+  }
+}
+
+.gallery .cover-info {
+  position: absolute;
+  bottom: 2.5%;
+  left: 4%;
+  max-width: 82%;
+  font-size: 6cqi;
+  line-height: 1.6;
+
+  & > span {
+    font-family: var(--font-heading);
+    padding: 0.15em 0.3em;
+    box-decoration-break: clone;
+    color: var(--color-text);
+    background: var(--color-bg);
+  }
+}
+
+/* --- Home page --- */
+
+.home {
+  & > h2,
+  & .section-note:has(+ .view-switcher) {
+    margin-bottom: 0.5rem;
+  }
+
+  /* Groups of covers: a wide gap after a group, its note close to the covers. */
+  & p:has(> a.cover) + .section-note {
+    margin-top: 4rem;
+  }
+
+  & .section-note:has(+ p > a.cover),
+  & .section-note:has(+ .published-works) {
+    margin-bottom: 1rem;
+  }
+
+  /* The covers span the margin columns too, and symmetrically on the right. */
+  @media (width >= 68rem) {
+    & p:has(.cover) {
+      grid-template-columns: repeat(5, 1fr);
+      margin-left: calc(-1 * var(--margin-offset));
+      margin-right: calc(-1 * var(--margin-offset));
+    }
+  }
+}
+
+/* The Tractatus and the Nachlass Map: a cover, then (on wide screens) a line to its note. */
+.home .published-works {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  align-items: center;
+
+  @media (width >= 68rem) {
+    grid-template-columns: repeat(5, 1fr);
+    margin-left: calc(-1 * var(--margin-offset));
+    margin-right: calc(-1 * var(--margin-offset));
+  }
+}
+
+.home .published-line {
+  display: none;
+
+  @media (width >= 68rem) {
+    display: block;
+    grid-column: 2;
+    height: var(--line-thickness);
+    background: var(--color-text);
+  }
+}
+
+.home .published-note {
+  margin: 0;
+
+  @media (width < 36rem) {
+    grid-column: 1 / -1;
+  }
+
+  @media (width >= 68rem) {
+    grid-column: 3 / -1;
+    white-space: nowrap;
+  }
+}
+
+/* The Nachlass Map's preview: two cells wide, as high as a cover. */
+.home .nachlass-map {
+  & a.cover {
+    grid-column: 1 / -1;
+
+    @media (width >= 68rem) {
+      grid-column: 1 / 3;
+    }
+  }
+
+  & a.cover img {
+    aspect-ratio: auto;
+    height: calc((100cqi - 1rem) * 0.75);
+    object-fit: cover;
+    object-position: left top;
+  }
+
+  /* As large as a cover's label: 6% of a cell's width. */
+  & .cover-info {
+    font-size: calc((100cqi - 1rem) / 2 * 0.06);
+    max-width: 41%;
+  }
+
+  & .published-note {
+    grid-column: 1 / -1;
+
+    @media (width >= 68rem) {
+      grid-column: 4 / -1;
+    }
+  }
+
+  @media (width >= 68rem) {
+    & .published-line {
+      grid-column: 3;
+    }
+  }
+}
+
+/* The other edited writings, collapsed below the covers. */
+.shorter-works {
+  margin: 4rem 0 0 0;
+
+  &[open] > summary {
+    margin-bottom: 2rem;
+  }
+}
+
+.status {
+  margin-bottom: 6rem;
+}
+
+/* --- Search --- */
+
+.search-input {
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.4rem 0;
+  margin: 0 0 0.5rem 0;
+  color: var(--color-text);
+  background: transparent;
+  border: none;
+  border-bottom: var(--line-thickness) solid var(--color-text);
+
+  &:focus {
+    outline: none;
+    border-bottom-color: var(--color-link);
+  }
+
+  &::-webkit-search-cancel-button,
+  &::-webkit-search-decoration {
+    appearance: none;
+  }
+}
+
+/* While searching on the home page, the rest of the page below is hidden. */
+.search:not(.search-embedded):has(.search-input:not(:placeholder-shown)) ~ * {
+  display: none;
+}
+
+.search-options {
+  margin: 0 0 2rem 0;
+}
+
+.search-end {
+  margin: 2rem 0;
+}
+
+/* An interpunct between visible groups (a hidden group takes its interpunct with it). */
+.search-options > span:not([hidden]) ~ span:not([hidden])::before,
+.search-end > span:not([hidden]) ~ span:not([hidden])::before {
+  content: "·" / "";
+  margin: 0 0.75em;
+  font-style: normal;
+  color: var(--color-margin-link);
+}
+
+/* The count of the results (or of a Nachlass Map view's remarks); right on a map. */
+.search-status,
+.search-nojs,
+.map-summary {
+  color: var(--color-margin);
+  font-style: italic;
+}
+
+.search-status:has(+ .search-results[hidden]) {
+  margin-bottom: 0;
+}
+
+/* The results as a map (css/map.css): the window's whole width, centred on the column. */
+.search-map {
+  margin-left: calc(50% - 50vw + 1rem);
+  margin-right: calc(50% - 50vw + 1rem);
+
+  & .map {
+    margin-top: 0;
+  }
+}
+
+body:has(.search-map:not([hidden])) {
+  overflow-x: clip;
+}
+
+/* A result: the reading layout (see the margin columns above) with the cropped text. */
+.search-result {
+  margin-bottom: 2rem;
+
+  & > h3,
+  & > div > p {
+    margin: 0;
+  }
+
+  & > div.en > p {
+    color: var(--color-translation);
+  }
+
+  /* The matched terms, in the covers' peach. */
+  & mark {
+    background-color: var(--color-highlight);
+    color: var(--color-text);
+    padding-block: 0.3em;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+
+  @media (width < 68rem) {
+    & > h3,
+    & > .fac {
+      display: inline;
+    }
+
+    & > h3::after {
+      content: " ";
+    }
+  }
+}
+
+/* --- Footer --- */
+
 footer {
   color: var(--color-margin);
   font-size: 0.8rem;
   line-height: 1rem;
   margin: 4rem 0 2rem 0;
-}
 
-footer a {
-  color: var(--color-margin);
-  text-decoration: underline;
-  text-underline-offset: 0.1rem;
-  text-decoration-thickness: 0.05rem;
-}
+  & a {
+    color: var(--color-margin);
+    text-decoration: underline 0.05rem;
+    text-underline-offset: 0.1rem;
 
-footer a:hover {
-  text-decoration: underline;
-  text-underline-offset: 0.1rem;
-  text-decoration-thickness: 0.1rem;
-}
-
-.status {
-  margin-bottom: 6rem;
+    &:hover {
+      text-decoration: underline 0.1rem;
+      text-underline-offset: 0.1rem;
+    }
+  }
 }
 
 /* --- Lightbox --- */
@@ -776,10 +1186,14 @@ footer a:hover {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-}
 
-.lightbox:target {
-  display: flex;
+  &:target {
+    display: flex;
+  }
+
+  @media (max-aspect-ratio: 4/5) {
+    flex-direction: column;
+  }
 }
 
 .lightbox-backdrop {
@@ -794,77 +1208,80 @@ footer a:hover {
 .lightbox-zoom {
   display: block;
   overflow: hidden;
-  max-height: 100vh;
-  max-width: calc(100vw - 6rem);
   position: relative;
   z-index: 1;
   cursor: zoom-in;
+
+  &,
+  & img {
+    max-height: 100vh;
+    max-width: calc(100vw - 6rem);
+
+    @media (max-aspect-ratio: 4/5) {
+      max-height: calc(100vh - 7rem);
+      max-width: 100vw;
+    }
+  }
+
+  & img {
+    display: block;
+    object-fit: contain;
+  }
+
+  & img[src$=".svg"] {
+    height: 100vh;
+    width: auto;
+    max-width: calc(100vw - 6rem);
+  }
+
+  .lightbox-zoom-toggle:checked ~ & {
+    overflow: auto;
+    cursor: zoom-out;
+
+    & img {
+      max-height: none;
+      max-width: none;
+    }
+
+    & img[src$=".svg"] {
+      height: auto;
+      width: max(200vw, 2000px);
+    }
+  }
 }
 
-.lightbox-zoom img {
-  display: block;
-  max-height: 100vh;
-  max-width: calc(100vw - 6rem);
-  object-fit: contain;
-}
+.lightbox-close,
+.lightbox-prev,
+.lightbox-next {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
 
-.lightbox-zoom img[src$=".svg"] {
-  height: 100vh;
-  width: auto;
-  max-width: calc(100vw - 6rem);
-}
+  &:hover {
+    color: #fff;
+    text-decoration: none;
+  }
 
-.lightbox-zoom-toggle:checked ~ .lightbox-zoom {
-  overflow: auto;
-  cursor: zoom-out;
-}
+  /* The visualizations' lightbox has the page's colours. */
+  .lightbox[id^="viz-"] & {
+    color: color-mix(in srgb, var(--color-link) 30%, transparent);
 
-.lightbox-zoom-toggle:checked ~ .lightbox-zoom img {
-  max-height: none;
-  max-width: none;
-}
-
-.lightbox-zoom-toggle:checked ~ .lightbox-zoom img[src$=".svg"] {
-  height: auto;
-  width: max(200vw, 2000px);
+    &:hover {
+      color: var(--color-link);
+    }
+  }
 }
 
 .lightbox[id^="viz-"] {
   background: var(--color-bg);
 }
 
-.lightbox[id^="viz-"] .lightbox-close {
-  color: color-mix(in srgb, var(--color-link) 30%, transparent);
-}
-
-.lightbox[id^="viz-"] .lightbox-close:hover {
-  color: var(--color-link);
-}
-
-.lightbox[id^="viz-"] .lightbox-prev,
-.lightbox[id^="viz-"] .lightbox-next {
-  color: color-mix(in srgb, var(--color-link) 30%, transparent);
-}
-
-.lightbox[id^="viz-"] .lightbox-prev:hover,
-.lightbox[id^="viz-"] .lightbox-next:hover {
-  color: var(--color-link);
-}
-
 .lightbox-close {
   position: absolute;
   top: 0.8rem;
   right: 1rem;
-  color: rgba(255, 255, 255, 0.5);
   font-size: 2rem;
-  text-decoration: none;
   z-index: 3;
   line-height: 1;
-}
-
-.lightbox-close:hover {
-  color: #fff;
-  text-decoration: none;
 }
 
 .lightbox-prev,
@@ -874,718 +1291,74 @@ footer a:hover {
   justify-content: center;
   min-width: 3rem;
   flex-shrink: 0;
-  color: rgba(255, 255, 255, 0.5);
   font-size: 3rem;
-  text-decoration: none;
   z-index: 2;
-}
 
-a.lightbox-prev,
-a.lightbox-next {
-  position: relative;
-}
-
-a.lightbox-prev::before,
-a.lightbox-next::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-}
-
-a.lightbox-prev::before {
-  right: 100%;
-  width: 100vw;
-}
-
-a.lightbox-next::before {
-  left: 100%;
-  width: 100vw;
-}
-
-.lightbox-prev:hover,
-.lightbox-next:hover {
-  color: #fff;
-  text-decoration: none;
-}
-
-@media (max-aspect-ratio: 4/5) {
-  .lightbox {
-    flex-direction: column;
-  }
-
-  .lightbox-zoom {
-    max-height: calc(100vh - 7rem);
-    max-width: 100vw;
-  }
-
-  .lightbox-zoom img {
-    max-height: calc(100vh - 7rem);
-    max-width: 100vw;
-  }
-
-  .lightbox-prev,
-  .lightbox-next {
+  @media (max-aspect-ratio: 4/5) {
     min-width: auto;
     min-height: 3rem;
     writing-mode: vertical-rl;
   }
-
-  a.lightbox-prev::before,
-  a.lightbox-next::before {
-    writing-mode: horizontal-tb;
-    top: auto;
-    bottom: auto;
-    left: 0;
-    right: 0;
-    width: auto;
-  }
-
-  a.lightbox-prev::before {
-    bottom: 100%;
-    height: 100vh;
-  }
-
-  a.lightbox-next::before {
-    top: 100%;
-    height: 100vh;
-  }
 }
 
-/* --- Bilingual layout --- */
-
-/* Two-column reading pages. Overview/index pages (works with parts) are NOT given
-   this class — they are plain single-column pages (default body width, single-column
-   footer), so none of the two-column rules below can leak onto them. */
-body.bilingual {
-  max-width: 70rem;
-}
-
-body.bilingual section > div,
-body.bilingual .title-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 2rem;
-}
-
-body.bilingual .en h2,
-.en-title {
-  color: var(--color-translation);
-}
-
-body.bilingual .en,
-body.bilingual .en a {
-  color: var(--color-translation);
-}
-
-body.bilingual .en a:hover {
-  color: var(--color-text);
-}
-
-.lang-switcher {
-  margin: -6rem 0 6rem 0;
-  font-style: italic;
-}
-
-.home .view-switcher {
-  font-style: italic;
-}
-
-/* Document lists: the remark count and description follow the document's name on its
-   line, in the body font rather than the heading's. */
-.doc-info {
-  font-weight: normal;
-  color: var(--color-text);
-}
-
-/* Groups of work covers: a wide gap where a group ends, and its note close to the covers
-   it introduces. */
-.home p:has(> a.cover) + .section-note {
-  margin-top: 4rem;
-}
-
-.home .section-note:has(+ p > a.cover),
-.home .section-note:has(+ .published-works) {
-  margin-bottom: 1rem;
-}
-
-/* The Tractatus: its cover in the first column of the cover grid and, on wide screens,
-   a line across the second column leading to its first editions (German, then English,
-   one per line, so the line meets the gap between them), centred on the cover.
-   Narrower, the text sits in the second column (on phones, below the cover) and the
-   line is left out. */
-.home .published-works {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1rem;
-  align-items: center;
-}
-
-.home .published-line {
-  display: none;
-}
-
-.home .published-note {
-  margin: 0;
-}
-
-@media (width < 36rem) {
-  .home .published-note {
-    grid-column: 1 / -1;
-  }
-}
-
-@media (width >= 68rem) {
-  .home .published-works {
-    grid-template-columns: repeat(5, 1fr);
-    margin-left: calc(-1 * var(--margin-offset));
-    margin-right: calc(-1 * var(--margin-offset));
-  }
-
-  .home .published-line {
-    display: block;
-    grid-column: 2;
-    /* Like the line under the search box and the title bar's dividing line. */
-    height: var(--line-thickness);
-    background: var(--color-text);
-  }
-
-  .home .published-note {
-    grid-column: 3 / -1;
-    white-space: nowrap;
-  }
-}
-
-/* The other edited writings, collapsed below the work covers. */
-.shorter-works {
-  margin: 4rem 0 0 0;
-}
-
-.shorter-works[open] > summary {
-  margin-bottom: 2rem;
-}
-
-/* Work pages: editors of the published edition + why the text differs from it
-   (layouts/partials/edition-note.html). Sits between the lang switcher and the
-   remark-count summary, so it reuses the switcher's pulled-up spacing. */
-.edition-note {
-  margin: -4rem 0 4rem 0;
-  max-width: 40rem;
-}
-
-.edition-credit {
-  display: block;
-  font-style: italic;
-}
-
-.lang-switcher .lang-active {
-  color: var(--color-link);
-  font-weight: 700;
-}
-
-/* Home page document lists: all are on the page, by name shown by default, by date or
-   by format when the URL fragment is its (empty) anchor before the heading or one of its
-   group headings (the format icons link to "#format-cuttings" etc.). The switcher marks
-   the shown one like the current language (bold, not a link-looking link). */
-.home:has(#by-date:target, #by-format:target, .doc-list.by-date :target, .doc-list.by-format :target) .doc-list.by-name,
-.home:not(:has(#by-date:target, .doc-list.by-date :target)) .doc-list.by-date,
-.home:not(:has(#by-format:target, .doc-list.by-format :target)) .doc-list.by-format {
-  display: none;
-}
-
-.home:not(:has(#by-date:target, #by-format:target, .doc-list.by-date :target, .doc-list.by-format :target)) .view-switcher a.by-name,
-.home:has(#by-date:target, .doc-list.by-date :target) .view-switcher a.by-date,
-.home:has(#by-format:target, .doc-list.by-format :target) .view-switcher a.by-format {
-  color: var(--color-link);
-  font-weight: 700;
-  text-decoration: none;
-  cursor: default;
-}
-
-.disclaimer {
-  color: var(--color-link);
-  font-weight: bold;
-  font-style: italic;
-  margin: 0 0 2rem 0;
-}
-
-.disclaimer strong {
-  border-radius: 4px;
-  padding: 0.3em;
-  background-color: var(--color-link);
-  color: var(--color-bg);
-  font-style: normal;
-}
-
-body.bilingual .disclaimer,
-body.bilingual .preamble,
-body.bilingual footer {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 2rem;
-}
-
-/* Split disclaimer: explanatory note in the left/German column, the bold warnings
-   in the right/English column (the warnings are about the translation). */
-.disclaimer-note,
-.disclaimer-warning {
-  line-height: 2rem;
-}
-
-@media (width < 68rem) {
-  body.bilingual {
-    max-width: var(--max-width);
-  }
-
-  body.bilingual section > div,
-  body.bilingual .title-row,
-  body.bilingual .disclaimer,
-  body.bilingual .preamble,
-  body.bilingual footer {
-    grid-template-columns: 1fr;
-  }
-
-  .lang-switcher {
-    margin: -3rem 0 3rem 0;
-  }
-
-  .edition-note {
-    margin: -1.5rem 0 3rem 0;
-  }
-}
-
-@media (width >= 68rem) and (width < 94rem) {
-  body.bilingual section {
-    display: block;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  body.bilingual section > h3 {
-    display: inline;
-    color: var(--color-translation);
-    font-style: italic;
-    text-align: left;
-  }
-
-  body.bilingual .fac {
-    display: inline;
-    font-style: italic;
-  }
-
-  body.bilingual .fac > br {
-    display: none;
-  }
-
-  body.bilingual .fac > a::after {
-    content: " ";
-  }
-
-  body.bilingual section .fragment-link {
-    opacity: 1;
-  }
-
-  /* The headings run inline here: no margin columns, so no divider between them
-     and no extra room to their left. */
-  body.bilingual :not(.index, .gallery) > section > h3::after {
-    content: none; /* (as specific as the rule it overrides) */
-  }
-
-  body.bilingual section > h3 {
-    margin-left: 0;
-  }
-}
-
-@media (width >= 94rem) {
-  body.bilingual section {
-    display: grid;
-    grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
-    gap: 0 var(--margin-gap);
-    margin-left: calc(-1 * var(--margin-offset));
-    margin-right: 0;
-  }
-
-  body.bilingual section > h3 {
-    grid-column: 1;
-    color: var(--color-translation);
-    text-align: right;
-    align-self: start;
-  }
-
-  body.bilingual section > .fac {
-    grid-column: 2;
-    grid-row: 1;
-    align-self: start;
-  }
-
-  body.bilingual section > div {
-    grid-column: 3;
-  }
-}
-
-/* Gallery pages (epub/pdf) */
-.gallery p:has(.cover) {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-}
-
-/* Tight gap under home section headings (and the note above the switcher); the
-   2rem before the cover grid comes from the default paragraph margin. */
-.home > h2 {
-  margin-bottom: 0.5rem;
-}
-.home .section-note:has(+ .view-switcher) {
-  margin-bottom: 0.5rem;
-}
-
-@media (width < 68rem) {
-  .gallery p:has(.cover) {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-/* The works on the home page span the margin columns too, and symmetrically the same
-   width on the right: the full width of the title bar's dividing line. */
-@media (width >= 68rem) {
-  .home p:has(.cover) {
-    grid-template-columns: repeat(5, 1fr);
-    margin-left: calc(-1 * var(--margin-offset));
-    margin-right: calc(-1 * var(--margin-offset));
-  }
-}
-
-.gallery a.cover {
-  display: block;
+/* The arrows' click areas reach to the window's edges. */
+a.lightbox-prev,
+a.lightbox-next {
   position: relative;
-  container-type: inline-size;
-}
 
-.gallery a.cover img {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 2 / 3; /* covers are 1600×2400; reserve the box so lazy images don't shift layout */
-  display: block;
-  outline: 1px solid var(--color-margin);
-}
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100vw;
 
-.gallery a.cover:hover img {
-  outline: 1px solid var(--color-link);
-}
-
-/* The filter also recolours the outline, so it takes the light colours. */
-@media (prefers-color-scheme: dark) {
-  .gallery a.cover img {
-    outline-color: #bbb;
-  }
-
-  .gallery a.cover:hover img {
-    outline-color: #000;
+    @media (max-aspect-ratio: 4/5) {
+      writing-mode: horizontal-tb;
+      top: auto;
+      bottom: auto;
+      left: 0;
+      right: 0;
+      width: auto;
+      height: 100vh;
+    }
   }
 }
 
-.gallery .cover-info {
-  position: absolute;
-  bottom: 2.5%;
-  left: 4%;
-  max-width: 82%;
-  font-size: 6cqi;
-  line-height: 1.6;
-}
+a.lightbox-prev::before {
+  right: 100%;
 
-.gallery .cover-info > span {
-  font-family: var(--font-heading);
-  padding: 0.15em 0.3em;
-  box-decoration-break: clone;
-  color: var(--color-text);
-  background: var(--color-bg);
-}
-
-/* --- Search (inline live search on the home and browse pages) --- */
-
-.search-input {
-  font-family: var(--font-body);
-  font-size: 1.125rem;
-  width: 100%;
-  box-sizing: border-box;
-  padding: 0.4rem 0;
-  margin: 0 0 0.5rem 0;
-  color: var(--color-text);
-  background: transparent;
-  border: none;
-  border-bottom: var(--line-thickness) solid var(--color-text);
-}
-
-.search-input::placeholder {
-  font-style: italic;
-}
-
-.search-input:focus {
-  outline: none;
-  border-bottom-color: var(--color-link);
-}
-
-/* While the search box has text, hide the rest of the page below it (browse links, gallery,
-   …). The results stay (they live inside .search) and the footer stays (it's outside <main>);
-   clearing the text shows everything again. */
-.search:has(.search-input:not(:placeholder-shown)) ~ * {
-  display: none;
-}
-
-/* Drop the browser's native clear (×) button. */
-.search-input::-webkit-search-cancel-button,
-.search-input::-webkit-search-decoration {
-  -webkit-appearance: none;
-  appearance: none;
-}
-
-/* Language toggle, mirroring the bilingual language switcher: the inactive language is a
-   link, the active one is bold. */
-.search-langs {
-  margin: 0 0 2rem 0;
-  font-style: italic;
-}
-
-.search-langs button {
-  font: inherit;
-  margin: 0;
-  padding: 0;
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: var(--color-link);
-  text-decoration: underline;
-  text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
-  text-decoration-color: var(--color-margin);
-}
-
-.search-langs button:hover {
-  text-underline-offset: 0.35rem;
-  text-decoration-thickness: 0.2rem;
-  text-decoration-color: var(--color-link);
-}
-
-.search-langs button.lang-active {
-  font-weight: 700;
-  text-decoration: none;
-  cursor: default;
-}
-
-.search-status,
-.search-nojs {
-  color: var(--color-margin);
-  font-style: italic;
-}
-
-/* Results reuse the reading layout: reference in the left margin (the only link), cropped
-   text in the main column. */
-.search-result {
-  margin: 0 0 2rem 0;
-}
-
-.search-result > h3 {
-  margin: 0;
-}
-
-.search-result > h3,
-.search-result > h3 a,
-.search-result > .fac,
-.search-result > .fac a {
-  color: var(--color-margin);
-  font-weight: normal;
-  font-style: italic;
-  text-decoration: none;
-}
-
-.search-result > h3 a:hover,
-.search-result > .fac a:hover {
-  text-decoration: underline;
-  text-underline-offset: 0.4rem;
-  text-decoration-thickness: 0.1rem;
-}
-
-.search-result > div > p {
-  margin: 0;
-}
-
-.search-result > div.en > p {
-  color: var(--color-translation);
-}
-
-/* Matched terms, in the covers' amber. */
-.search-result mark {
-  background-color: var(--color-highlight);
-  color: var(--color-text);
-  padding-block: 0.3em;
-  -webkit-box-decoration-break: clone;
-  box-decoration-break: clone;
-}
-
-@media (width < 68rem) {
-  .search-result > h3 {
-    display: inline;
-  }
-  .search-result > h3::after {
-    content: " ";
-  }
-  .search-result > .fac {
-    display: inline;
+  @media (max-aspect-ratio: 4/5) {
+    right: 0;
+    bottom: 100%;
   }
 }
 
-@media (width >= 68rem) {
-  .search-result {
-    display: grid;
-    grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
-    gap: 0 var(--margin-gap);
-    margin-left: calc(-1 * var(--margin-offset));
-    margin-right: 0;
-  }
-  .search-result > h3 {
-    grid-column: 1;
-    text-align: right;
-    align-self: baseline;
-  }
-  .search-result > .fac {
-    grid-column: 2;
-    grid-row: 1;
-    align-self: baseline;
-  }
-  .search-result > div {
-    grid-column: 3;
-    align-self: baseline;
+a.lightbox-next::before {
+  left: 100%;
+
+  @media (max-aspect-ratio: 4/5) {
+    left: 0;
+    top: 100%;
   }
 }
 
-/* Links to other versions of a remark (tools/add_versions.py). */
-.versions {
-  display: block;
-  margin-bottom: 0;
-}
+/* --- Sticky title (js/sticky-title.js), shown while scrolling up --- */
 
-section > h3 > .versions a {
-  white-space: nowrap;
-}
-
-.versions summary {
-  white-space: nowrap;
-}
-
-.versions details,
-.versions summary {
-  display: inline;
-}
-
-.versions details {
-  margin: 0;
-  line-height: inherit;
-}
-
-.versions details summary {
-  margin: 0;
-  font-weight: normal;
-  color: var(--color-margin-link);
-  text-decoration: none;
-}
-
-.versions details summary::-webkit-details-marker {
-  display: none;
-}
-
-.versions details summary::marker,
-.versions details[open] summary::marker {
-  content: "";
-}
-
-.versions details summary:hover {
-  text-decoration: underline;
-  text-underline-offset: 0.35rem;
-  text-decoration-thickness: 0.2rem;
-  text-decoration-color: var(--color-margin-link);
-}
-
-/* ::details-content is a block box, which would break the inline layout. */
-.versions details:not([open])::details-content {
-  display: none;
-}
-
-.versions details[open]::details-content {
-  display: contents;
-}
-
-@media (width < 68rem) {
-  .versions {
-    display: inline;
-  }
-
-  .versions br {
-    display: none;
-  }
-
-  .versions::before,
-  .versions::after {
-    content: " ";
-  }
-
-  section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
-    content: "· ";
-  }
-}
-
-/* --- Sticky title (shown while scrolling up, see js/sticky-title.js) --- */
-
-/* Same font size and line height as the page's h1. */
-:root {
-  --sticky-title-line: 5rem;
-  --sticky-title-padding: 0.5rem;
-  /* The "Wittgenstein's Writings" link above the title, and the gap below it. */
-  --sticky-title-site-line: 2rem;
-  --sticky-title-site-gap: 1rem;
-  /* How far the dividing line extends beyond the text column on each side. */
-  --sticky-title-extend: 0rem;
-}
-
-/* Margin columns are shown from these widths on (see the section grids above);
-   the line then spans them and, symmetrically, the same width on the right. */
-@media (width >= 68rem) {
-  body {
-    --sticky-title-extend: var(--margin-offset);
-  }
-
-  body.bilingual {
-    --sticky-title-extend: 0rem;
-  }
-}
-
-@media (width >= 94rem) {
-  body.bilingual {
-    --sticky-title-extend: var(--margin-offset);
-  }
-}
-
-@media (width < 68rem) {
-  :root {
-    --sticky-title-line: 3rem;
-  }
-}
-
-/* Jumping to a remark leaves room for the sticky title above it. Long titles
-   wrap, so js/sticky-title.js sets --sticky-title-height to the bar's measured
-   height; the fallback is the height of a one-line title. */
+/* Jumping to a remark leaves room for the bar (its measured height, else one line's). */
 main [id] {
   scroll-margin-top: calc(
     var(
         --sticky-title-height,
-        var(--sticky-title-site-line) + var(--sticky-title-site-gap) +
-          var(--sticky-title-line) + 2 * var(--sticky-title-padding) +
-          var(--line-thickness)
-      ) + 1rem
+        var(--sticky-title-site-line) + var(--sticky-title-site-gap) + var(--sticky-title-line) + 2
+          * var(--sticky-title-padding) + var(--line-thickness)
+      ) +
+      1rem
   );
 }
 
+/* Over the column; its line (::after) spans the margin columns, its ::before the window. */
 .sticky-title {
-  /* Spans (and covers) only the main text column: the body's content box. */
   position: fixed;
   top: 0;
   left: 1rem;
@@ -1595,66 +1368,104 @@ main [id] {
   z-index: 900;
   padding: var(--sticky-title-padding) 0;
   background: var(--color-bg);
-  /* Reserves the line's space; the line itself is drawn by ::after below. */
   border-bottom: var(--line-thickness) solid transparent;
   transform: translateY(-100%);
   visibility: hidden;
   transition:
     transform 0.2s ease,
     visibility 0s linear 0.2s;
-}
 
-/* Page background behind the whole top strip, so the margin columns (and anything
-   else beside the text column) don't show through next to the bar. (Negative z-index
-   within the bar's stacking context: above its background, below its content.) */
-.sticky-title::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: calc(-1 * var(--line-thickness));
-  left: calc(50% - 50vw);
-  width: 100vw;
-  z-index: -1;
-  background: var(--color-bg);
-}
+  body.bilingual & {
+    max-width: 70rem;
 
-/* The dividing line: across the text column and the margin columns on the left,
-   extended by the same amount on the right so it stays centered. */
-.sticky-title::after {
-  content: "";
-  position: absolute;
-  bottom: calc(-1 * var(--line-thickness));
-  left: calc(-1 * var(--sticky-title-extend));
-  right: calc(-1 * var(--sticky-title-extend));
-  height: var(--line-thickness);
-  z-index: -1;
-  background: var(--color-text);
-}
+    @media (width < 68rem) {
+      max-width: var(--max-width);
+    }
+  }
 
-.sticky-title.visible,
-.sticky-title.tour-pinned /* shown throughout a tour step about it (js/tour.js) */ {
-  transform: none;
-  visibility: visible;
-  transition: transform 0.2s ease;
-}
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: calc(-1 * var(--line-thickness));
+    z-index: -1;
+  }
 
-/* Appear in place (no slide) when jumping to a remark. */
-.sticky-title.instant {
-  transition: none;
-}
+  &::before {
+    top: 0;
+    left: calc(50% - 50vw);
+    width: 100vw;
+    background: var(--color-bg);
+  }
 
-.sticky-title > * {
-  display: block;
+  &::after {
+    left: calc(-1 * var(--sticky-title-extend));
+    right: calc(-1 * var(--sticky-title-extend));
+    height: var(--line-thickness);
+    background: var(--color-text);
+  }
+
+  /* .tour-pinned: shown throughout a tour step about it (js/tour.js). */
+  &.visible,
+  &.tour-pinned {
+    transform: none;
+    visibility: visible;
+    transition: transform 0.2s ease;
+  }
+
+  /* In place, without sliding, when jumping to a remark. */
+  &.instant {
+    transition: none;
+  }
+
+  & > * {
+    display: block;
+  }
+
+  @media print {
+    display: none;
+  }
 }
 
 .sticky-title-site {
-  font-style: italic; /* like the nav link it repeats */
+  font-style: italic;
   line-height: var(--sticky-title-site-line);
   margin-bottom: var(--sticky-title-site-gap);
 }
 
+/* The title in the h1's font; on hover, an arrow up (back to the top) hangs in the margin. */
 .sticky-title-line {
+  --sticky-title-arrow: 0.4em;
+  --sticky-title-arrow-gap: 0.15em;
+  font-family: var(--font-heading);
+  font-weight: 400;
   font-size: 4.4rem;
+  line-height: var(--sticky-title-line);
+  text-wrap: balance;
+  overflow-wrap: break-word;
+
+  @media (width < 68rem) {
+    --sticky-title-arrow: 0.6rem;
+    --sticky-title-arrow-gap: 0.25rem;
+    font-size: 2.8rem;
+  }
+
+  &::before {
+    content: "";
+    display: inline-block;
+    width: var(--sticky-title-arrow);
+    height: 0.76em;
+    margin-left: calc(-1 * (var(--sticky-title-arrow) + var(--sticky-title-arrow-gap)));
+    margin-right: var(--sticky-title-arrow-gap);
+    background-color: var(--color-margin-link);
+    mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 76'%3E%3Cpath d='M20 76V3M2 21L20 3L38 21' fill='none' stroke='black' stroke-width='3'/%3E%3C/svg%3E")
+      center bottom / contain no-repeat;
+    opacity: 0;
+  }
+
+  &:has(> .sticky-title-text:hover)::before {
+    opacity: 1;
+  }
 }
 
 .sticky-title-text {
@@ -1662,91 +1473,21 @@ main [id] {
   font-weight: 400;
   line-height: var(--sticky-title-line);
   color: var(--color-heading);
-  text-decoration: none;
-}
 
-.sticky-title-text:hover {
-  text-decoration: none;
-}
-
-/* Clicking the title scrolls back to the top: on hover, an arrow pointing up appears
-   before it, as high as a capital and drawn like the format icons after it (the same
-   thin grey stroke). Its negative margin cancels its width and gap, so it hangs in the
-   margin and the title doesn't move. It belongs to the line, not the link, so that the
-   link's box (outlined by the tour, js/tour.js) is just the title. */
-.sticky-title-line {
-  --sticky-title-arrow: 0.4em;
-  --sticky-title-arrow-gap: 0.15em;
-}
-
-.sticky-title-line::before {
-  content: "";
-  display: inline-block;
-  width: var(--sticky-title-arrow);
-  height: 0.76em;
-  margin-left: calc(-1 * (var(--sticky-title-arrow) + var(--sticky-title-arrow-gap)));
-  margin-right: var(--sticky-title-arrow-gap);
-  background-color: var(--color-margin-link);
-  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 76'%3E%3Cpath d='M20 76V3M2 21L20 3L38 21' fill='none' stroke='black' stroke-width='3'/%3E%3C/svg%3E")
-    center bottom / contain no-repeat;
-  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 76'%3E%3Cpath d='M20 76V3M2 21L20 3L38 21' fill='none' stroke='black' stroke-width='3'/%3E%3C/svg%3E")
-    center bottom / contain no-repeat;
-  opacity: 0;
-}
-
-.sticky-title-line:has(> .sticky-title-text:hover)::before {
-  opacity: 1;
-}
-
-/* The title and, on a document's page, its format icon after it: in the title's font,
-   so that the line is the same with or without the icon. */
-.sticky-title-line {
-  font-family: var(--font-heading);
-  font-weight: 400;
-  line-height: var(--sticky-title-line);
-  /* Wrap the full title like the h1 does. */
-  text-wrap: balance;
-  overflow-wrap: break-word;
-}
-
-body.bilingual .sticky-title {
-  max-width: 70rem;
-}
-
-@media (width < 68rem) {
-  .sticky-title-line {
-    font-size: 2.8rem;
-  }
-
-  /* Small enough to fit in the body's 1rem padding. */
-  .sticky-title-line {
-    --sticky-title-arrow: 0.6rem;
-    --sticky-title-arrow-gap: 0.25rem;
-  }
-
-  body.bilingual .sticky-title {
-    max-width: var(--max-width);
+  &,
+  &:hover {
+    text-decoration: none;
   }
 }
 
-@media print {
-  .sticky-title {
-    display: none;
-  }
-}
+/* --- Tour (js/tour.js) --- */
 
-/* --- Tour (static/js/tour.js) --- */
-
-/* Highlight and popover are positioned in page coordinates (they scroll with the
-   content); they only transition while moving from one step to the next. */
+/* The highlight dims everything else; it fades in on each page. */
 .tour-spot {
   position: absolute;
   z-index: 1001;
-  /* Dims everything else, however far the page is scrolled away from the target. */
   box-shadow: 0 0 0 100000px color-mix(in srgb, var(--color-shade) 35%, transparent);
   pointer-events: none;
-  /* Fade in on each page (the spot is added once per page and then only moved), so
-     that arriving on the next step's page doesn't snap from undimmed to dimmed. */
   animation: tour-dim-in 0.5s ease-out;
 }
 
@@ -1766,11 +1507,8 @@ body.bilingual .sticky-title {
   transition-timing-function: ease-in-out;
 }
 
-/* The element to click or type into. */
+/* The element to click or type into, outlined up to the highlight's edge (PAD in tour.js). */
 .tour-cue {
-  /* Ends where the highlight (.tour-spot) ends, 6px (PAD in tour.js) outside the
-     element: outline-offset + outline width = 1 + 5. Square corners, like the
-     highlight. */
   outline: 5px solid var(--color-highlight);
   outline-offset: 1px;
   animation: tour-blink 1.2s ease-in-out infinite;
@@ -1794,7 +1532,43 @@ body.bilingual .sticky-title {
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5rem;
-  animation: tour-fade-in 0.5s ease-out; /* together with the dimming, see .tour-spot */
+  animation: tour-fade-in 0.5s ease-out;
+
+  & p {
+    margin: 0 0 1rem 0;
+    line-height: 1.5rem;
+  }
+
+  /* Like a remark's heading, italic like the interface. */
+  & h2 {
+    font-family: var(--font-body);
+    font-size: 1.125rem;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 2rem;
+    margin: 0 0 0.25rem 0;
+    padding-right: 1.5rem;
+  }
+
+  & p.tour-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+  }
+
+  & .tour-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 1rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    color: var(--color-margin);
+
+    &:hover {
+      color: var(--color-text);
+    }
+  }
 }
 
 @keyframes tour-fade-in {
@@ -1803,32 +1577,9 @@ body.bilingual .sticky-title {
   }
 }
 
-.tour p {
-  margin: 0 0 1rem 0;
-  line-height: 1.5rem; /* overrides the site's p { line-height: 2rem } */
-}
-
-/* Things on the page to click (or type, or look at). */
+/* Things on the page to click, type or look at. */
 .tour-text strong {
   font-style: italic;
-}
-
-/* Same size and weight as the remark headings (h3); italic like the buttons. */
-.tour h2 {
-  font-family: var(--font-body);
-  font-size: 1.125rem;
-  font-style: italic;
-  font-weight: bold;
-  line-height: 2rem;
-  margin: 0 0 0.25rem 0;
-  padding-right: 1.5rem;
-}
-
-.tour p.tour-actions {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0;
 }
 
 .tour-count {
@@ -1836,28 +1587,7 @@ body.bilingual .sticky-title {
   font-size: 0.8rem;
 }
 
-.tour button {
-  font: inherit;
-  cursor: pointer;
-  border: none;
-  background: none;
-  padding: 0;
-}
-
-.tour .tour-close {
-  position: absolute;
-  top: 0.75rem;
-  right: 1rem;
-  font-size: 1.5rem;
-  line-height: 1.5rem;
-  color: var(--color-margin);
-}
-
-.tour .tour-close:hover {
-  color: var(--color-text);
-}
-
-/* The call to action: "Next" in the popover, "Take a short tour" on the homepage. */
+/* The call to action: "Next" in the popover, "Take a short tour" on the home page. */
 .tour .tour-button,
 .tour-button {
   display: inline-block;
@@ -1867,83 +1597,57 @@ body.bilingual .sticky-title {
   font-style: italic;
   font-size: 1rem;
   line-height: 1.5rem;
-  /* More room above than below: the labels have no descenders, so equal padding
-     leaves the empty descender space below and the text looks too high. */
-  padding: 0.35rem 1rem 0.15rem;
+  padding: 0.35rem 1rem 0.15rem; /* the labels have no descenders */
   white-space: nowrap;
 }
 
-/* After the homepage's second paragraph: "New here?" and, in a white bubble
-   pointing back at it, the call to action. It belongs to the paragraph, so the
-   gap before the search (.status) goes below it. */
+/* "New here?" and, in a bubble pointing at it, the call to action. */
 .status:has(+ .tour-start:not([hidden])) {
-  /* Less than the usual 2rem: the bubble reaches above the line of "New here?",
-     which would otherwise push it further down than a new paragraph. */
   margin-bottom: 1.3rem;
 }
 
 .tour-start {
   display: flex;
-  align-items: baseline; /* "New here?" on the button label's baseline */
+  align-items: baseline;
   gap: 1.25rem;
   margin-bottom: 6rem;
-}
 
-.tour-start[hidden] {
-  display: none;
+  &[hidden] {
+    display: none;
+  }
 }
 
 .tour-bubble {
+  --bubble-line: 1px solid color-mix(in srgb, var(--color-shade) 15%, transparent);
   position: relative;
   padding: 0.5rem;
   background: var(--color-bg);
-  /* Like the tour's popover, but on the undimmed page: a hairline sets it off
-     from the page around it. */
-  --bubble-line: 1px solid color-mix(in srgb, var(--color-shade) 15%, transparent);
   border: var(--bubble-line);
   box-shadow: 0 0.5rem 2rem color-mix(in srgb, var(--color-shade) 25%, transparent);
   line-height: 1.5rem;
+
+  /* #444 in light mode, #a9a9a9 in dark mode. */
+  &:hover .tour-button {
+    background: color-mix(in srgb, var(--color-link), var(--color-bg) 26.7%);
+  }
+
+  /* The arrow pointing left, continuing the hairline. */
+  &::before {
+    content: "";
+    position: absolute;
+    top: calc(50% - 0.35rem);
+    left: calc(-0.35rem - 1px);
+    box-sizing: border-box;
+    width: 0.7rem;
+    height: 0.7rem;
+    background: var(--color-bg);
+    border-left: var(--bubble-line);
+    border-bottom: var(--bubble-line);
+    transform: rotate(45deg);
+  }
 }
 
 a.tour-bubble,
 a.tour-bubble:hover {
   text-decoration: none;
-}
-
-/* #444 in light mode, #a9a9a9 in dark mode. */
-.tour-bubble:hover .tour-button {
-  background: color-mix(in srgb, var(--color-link), var(--color-bg) 26.7%);
-}
-
-/* Small arrow pointing left, at "New here?": centered on the bubble's outer edge
-   (1px beyond the padding box, which absolute positioning is relative to),
-   continuing the hairline on its two outer sides. */
-.tour-bubble::before {
-  content: "";
-  position: absolute;
-  top: calc(50% - 0.35rem);
-  left: calc(-0.35rem - 1px);
-  box-sizing: border-box;
-  width: 0.7rem;
-  height: 0.7rem;
-  background: var(--color-bg);
-  border-left: var(--bubble-line);
-  border-bottom: var(--bubble-line);
-  transform: rotate(45deg);
-}
-
-/* A gap the typist left for something to be added by hand (🖵 in the transcription), shown as
-   a short dotted blank; and a gap filled from the facsimile (handwritten insertion). */
-span.gap {
-  display: inline-block;
-  width: 1.6em;
-  height: 0.8em;
-  border-bottom: 1px dotted currentColor;
-  vertical-align: baseline;
-}
-
-span.gap-filled {
-  text-decoration: underline dotted;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.2em;
 }

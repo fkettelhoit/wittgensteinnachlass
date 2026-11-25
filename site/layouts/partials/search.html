@@ -1,21 +1,59 @@
-{{ if and site.Params.meilihost site.Params.meilisearchkey }}
-{{/* Inline live search, hidden until search.js activates it (so without JS the <noscript>
-     line shows instead). The Meilisearch key is a read-only, search-only key — safe to embed.
-     Uses the global `site` (not `.Site`) because the intro partials are called without a
-     page context. */}}
-<div class="search" hidden
-     data-host="{{ site.Params.meilihost }}"
-     data-key="{{ site.Params.meilisearchkey }}"
-     data-index="{{ site.Params.meiliindex }}">
-  <input type="search" class="search-input" autocomplete="off" spellcheck="false"
+{{- /* Inline live search (js/search.js), hidden until the script activates it (so without JS
+  the <noscript> line shows instead). The Meilisearch key is a read-only, search-only key —
+  safe to embed. Uses the global `site` (not `.Site`) because the intro partials are called
+  without a page context.
+
+  The results show as a list or, with the Nachlass Map's data (data.json, written by
+  tools/map), as a map of the matching remarks (also as bars); both in the orderings of the
+  map (the list by relevance first).
+
+  On the home page the list is the default and the script draws the map below the results.
+  On the Nachlass Map's pages (called with dict "embedded" true by map.html) the page's own
+  map is used and is the default. The line of switchers is there on every view (orderings,
+  map or bars), even without a search configured; the search itself, its languages and the
+  list only on the Search view ("on": the page's `search` param). search.js shows and hides
+  them when map.js switches views. */ -}}
+{{- $embedded := and (reflect.IsMap .) (index . "embedded") -}}
+{{- $on := or (not $embedded) (index . "on") -}}
+{{- $configured := and site.Params.meilihost site.Params.meilisearchkey -}}
+{{- if or $configured $embedded }}
+{{- $map := "" }}
+{{- $documents := 0 }}
+{{- with site.GetPage "/map" }}{{ $documents = .Params.documents }}{{ with .Resources.Get "data.json" }}{{ $map = .RelPermalink }}{{ end }}{{ end }}
+{{- $langs := and $configured (not hugo.IsProduction) }}
+{{- $default := cond $embedded "map" "list" }}
+<div class="search{{ if $embedded }} search-embedded{{ end }}" hidden
+     {{- if $configured }} data-host="{{ site.Params.meilihost }}" data-key="{{ site.Params.meilisearchkey }}" data-index="{{ site.Params.meiliindex }}"{{ end }}
+     {{- with $map }} data-map="{{ . }}"{{ end }}
+     {{- with $documents }} data-documents="{{ . }}"{{ end }}
+     {{- if $embedded }} data-default-view="map"{{ if not $on }} data-search="off"{{ end }}{{ end }}>
+  {{- if $configured }}
+  <input type="search" class="search-input" autocomplete="off" spellcheck="false"{{ if not $on }} hidden{{ end }}
          aria-label="Search Wittgenstein’s writings" placeholder="Search the Nachlass…">
-  {{ if not hugo.IsProduction }}
-  <p class="search-langs"><button type="button" data-lang="de" class="lang-active">German</button> | <button type="button" data-lang="en">English</button></p>
-  {{ end }}
+  {{- end }}
+  {{- if or $langs $map }}
+  {{- /* Each visible group after the first is preceded by an interpunct (style.css). */}}
+  <p class="search-options">
+    {{- if $langs }}<span class="search-langs"{{ if not $on }} hidden{{ end }}><button type="button" class="switch" data-lang="de" aria-current="true">German</button> | <button type="button" class="switch" data-lang="en">English</button></span>{{ end }}
+    {{- if $map }}<span class="search-orders"><button type="button" class="switch" data-order="date" aria-current="true">By date</button> | <button type="button" class="switch" data-order="name">By name</button> | <button type="button" class="switch" data-order="format">By format</button></span>
+    {{- "" }}<span class="search-views">
+      {{- if $configured }}<span class="search-list"{{ if not $on }} hidden{{ end }}><button type="button" class="switch" data-view="list"{{ if eq $default "list" }} aria-current="true"{{ end }}>As list</button> | </span>{{ end -}}
+      <button type="button" class="switch" data-view="map"{{ if eq $default "map" }} aria-current="true"{{ end }}>As map</button> | <button type="button" class="switch" data-view="bars">As bars</button></span>{{ end -}}
+  </p>
+  {{- end }}
+  {{- if $configured }}
   <p class="search-status" aria-live="polite"></p>
   <div class="search-results"></div>
+  {{- if not $embedded }}
+  <div class="search-map" hidden></div>
+  {{- end }}
+  <p class="search-end" hidden><span class="search-more" hidden><button type="button">Show more results</button></span>
+    {{- "" }}<span class="search-clear"><button type="button">Clear results</button></span></p>
   <div class="search-lightboxes"></div>
+  {{- end }}
 </div>
+{{- if and $configured $on }}
 <noscript><p class="search-nojs">Search requires JavaScript.</p></noscript>
+{{- end }}
 <script defer src="/js/search.js"></script>
-{{ end }}
+{{- end }}

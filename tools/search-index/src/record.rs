@@ -39,6 +39,15 @@ pub struct SearchRecord {
     pub series_number: Option<String>,
     /// Plain-text remark content — the primary searchable field.
     pub content: String,
+    /// Its position in each ordering of the Nachlass Map (By date, By name, By format; see
+    /// `orders.rs`), sortable, so that the list of results can be sorted by them within
+    /// equally relevant hits.
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub order_date: Option<u32>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub order_name: Option<u32>,
+    #[serde(skip_serializing_if = "Option::is_none")]
+    pub order_format: Option<u32>,
     /// Works this remark was published in, each with a deep link to the remark on that work's
     /// page (empty if none).
     #[serde(skip_serializing_if = "Vec::is_empty")]

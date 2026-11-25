@@ -196,9 +196,6 @@ fn generate_doc_svg(
     ))
 }
 
-/// Minimum score of a similar pair, as in tools/add_versions.py (which writes the
-/// `<details>` summary for these visualizations and must agree on what is shown).
-const SIMILAR_MIN_SCORE: f64 = 0.7;
 
 /// Minimum number of a document's remarks with versions in another document for a
 /// visualization of the pair, as in tools/add_versions.py (MIN_SIMILAR_VIZ).
@@ -410,7 +407,7 @@ fn main() {
             .collect();
 
         let mut partners: HashMap<String, Vec<String>> = HashMap::new();
-        for (a, b) in parse::load_similar(&cli.similar_tsv, SIMILAR_MIN_SCORE) {
+        for (a, b) in parse::load_similar(&cli.similar_tsv, parse::load_min_score(&cli.similar_tsv)) {
             partners.entry(a.clone()).or_default().push(b.clone());
             partners.entry(b).or_default().push(a);
         }

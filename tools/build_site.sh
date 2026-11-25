@@ -106,6 +106,9 @@ if [ -f "$ALL_SRC" ]; then
   } > "$CONTENT_DIR/all/_index.md"
 fi
 
+# Create the Nachlass Map at /map (every remark as a block; see tools/map/README.md)
+python3 "$SCRIPT_DIR/map/map.py" "$OUTPUT_DIR" "$SCRIPT_DIR/../similar/similar.tsv" "$CONTENT_DIR"
+
 # Create the About page at /about
 ABOUT_SRC="$SCRIPT_DIR/../about.md"
 if [ -f "$ABOUT_SRC" ]; then

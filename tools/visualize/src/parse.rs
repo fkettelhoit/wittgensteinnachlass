@@ -320,6 +320,18 @@ pub fn work_as_source_doc(work: &Work) -> SourceDoc {
     }
 }
 
+/// Minimum score of a similar pair shown anywhere on the site: similar/min-score.txt next
+/// to similar.tsv, shared with tools/add_versions.py (which writes the `<details>`
+/// summaries for the similarity visualizations and must agree on what is shown).
+pub fn load_min_score(similar_tsv: &Path) -> f64 {
+    let path = similar_tsv.with_file_name("min-score.txt");
+    fs::read_to_string(&path)
+        .unwrap_or_else(|e| panic!("Failed to read {}: {e}", path.display()))
+        .trim()
+        .parse()
+        .unwrap_or_else(|e| panic!("Invalid number in {}: {e}", path.display()))
+}
+
 /// Load the pairs of similar remarks at or above `min_score` from similar/similar.tsv
 /// (columns: a, b, score, shared, order), as (siglum, siglum) pairs.
 pub fn load_similar(path: &Path, min_score: f64) -> Vec<(String, String)> {

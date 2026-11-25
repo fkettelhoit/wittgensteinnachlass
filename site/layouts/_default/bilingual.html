@@ -13,7 +13,7 @@
   {{ if and .Params.entitle (ne .Params.entitle .Title) }}
     {{ $enTitle = printf `<h1 class="en-title" lang="en">%s</h1>` .Params.entitle }}
   {{ end }}
-  {{ $switcher := printf `</h1>%s</div><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>%s` $enTitle (.File.ContentBaseName | urlize) $downloads (partial "edition-note.html" .) }}
+  {{ $switcher := printf `</h1>%s</div><p class="lang-switcher"><a class="switch" href="/%s/">German</a>%s | <span class="switch" aria-current="page">German/English</span></p>%s` $enTitle (.File.ContentBaseName | urlize) $downloads (partial "edition-note.html" .) }}
   {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c `<h1` `<div class="title-row"><h1 class="de-title" lang="de"` 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
@@ -55,7 +55,7 @@
   {{ $c := partial "doc-format-links.html" .Content }}
   {{ $stem := .File.ContentBaseName }}
   {{ $downloads := printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>)` $stem $stem }}
-  {{ $switcher := printf `</span></h1><p class="lang-switcher"><a href="/%s/">German</a>%s | <span class="lang-active">German/English</span></p>` ($stem | urlize) $downloads }}
+  {{ $switcher := printf `</span></h1><p class="lang-switcher"><a class="switch" href="/%s/">German</a>%s | <span class="switch" aria-current="page">German/English</span></p>` ($stem | urlize) $downloads }}
   {{ $c = replaceRE `(<h1[^>]*>)` (printf `${1}%s<br><span class="en-title">` .Title) $c 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ partial "viz-lightbox.html" $c | safeHTML }}

@@ -1,4 +1,5 @@
 mod meili;
+mod orders;
 mod parse;
 mod record;
 mod slug;
@@ -36,6 +37,12 @@ struct Cli {
     /// Index name prefix; the live index is `<prefix>` and the build index `<prefix>-build`.
     #[arg(long, env = "MEILI_INDEX_PREFIX", default_value = "remarks")]
     index_prefix: String,
+
+    /// The Nachlass Map's data (written by tools/map/map.py, run by `make content`), for the
+    /// remarks' positions in its orderings. Without it the records have none, and the list of
+    /// results can't be sorted by them.
+    #[arg(long, default_value = "../../site/content/map/data.json")]
+    orders: PathBuf,
 
     /// Extract and report only — no network calls. Prints counts and a couple of sample records.
     #[arg(long)]
@@ -91,11 +98,19 @@ fn build_records(cli: &Cli, res: &Res) -> Result<Vec<SearchRecord>, String> {
     // in page order, so `ord` increases with (document, page) within each language.
     let mut ord: u32 = 0;
     let mut records = Vec::new();
+    let orders = match orders::Orders::load(&cli.orders) {
+        Ok(o) => Some(o),
+        Err(e) => {
+            eprintln!("warning: {e} — the records get no positions in the map's orderings.");
+            None
+        }
+    };
+    let orders = orders.as_ref();
     // Index only the home-page fragment: the documents linked from all.md, which is exactly
     // what the translate tool processes (mirrors its parse_index_order).
     let fragment = fragment_docs(&cli.md_dir)?;
-    records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res, &mut ord, fragment.as_ref())?);
-    records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res, &mut ord, fragment.as_ref())?);
+    records.extend(records_for_dir(&cli.md_dir, "de", "/{slug}/#{frag}", res, &mut ord, fragment.as_ref(), orders)?);
+    records.extend(records_for_dir(&cli.en_dir, "en", "/en/{slug}/#{frag}", res, &mut ord, fragment.as_ref(), orders)?);
 
     let with_works = records.iter().filter(|r| !r.works.is_empty()).count();
 
@@ -126,6 +141,7 @@ fn records_for_dir(
     res: &Res,
     ord: &mut u32,
     only: Option<&HashSet<String>>,
+    orders: Option<&orders::Orders>,
 ) -> Result<Vec<SearchRecord>, String> {
     let mut out = Vec::new();
     if !dir.exists() {
@@ -152,6 +168,8 @@ fn records_for_dir(
                 .replace("{slug}", &meta.doc_slug)
                 .replace("{frag}", &r.fragment);
             let this_ord = *ord;
+            let order = |name: &str| orders.and_then(|o| o.of(name, &meta.doc, &r.fragment));
+            let (order_date, order_name, order_format) = (order("date"), order("name"), order("format"));
             *ord += 1;
             out.push(SearchRecord {
                 // Meilisearch document ids allow only [a-zA-Z0-9_-]. doc_slug, fragment and
@@ -169,6 +187,9 @@ fn records_for_dir(
                 date: r.date,
                 date_sort: r.date_sort,
                 series_number: r.series_number,
+                order_date,
+                order_name,
+                order_format,
                 content: r.content,
                 works: r.works,
             });
@@ -314,6 +335,16 @@ fn report(records: &[SearchRecord]) {
     println!("Total records: {}", records.len());
     println!("  de: {de}   en: {en}");
     println!("  with date: {with_date}   with work: {with_works}");
+    for lang in ["de", "en"] {
+        let missing: Vec<&SearchRecord> = records
+            .iter()
+            .filter(|r| r.language == lang && (r.order_date.is_none() || r.order_name.is_none() || r.order_format.is_none()))
+            .collect();
+        println!("  {lang} without a position in the map's orderings: {}", missing.len());
+        for r in missing.iter().take(5) {
+            println!("    {}", r.id);
+        }
+    }
     println!("\nSample records:");
     let mut shown_en = false;
     let mut shown_de = false;

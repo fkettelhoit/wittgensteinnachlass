@@ -65,6 +65,7 @@ The `tools/` directory contains tools for processing and publishing the Nachlass
 - **[graphics](tools/graphics/)** -- crops raw A4-sized SVG drawings to their content bounding box and converts text to paths. Output goes to `graphics-cropped/` and is used by the ebooks and pdfs tools.
 - **[ebooks](tools/ebooks/)** -- generates EPUB ebooks from markdown files using Pandoc. Multi-part works are merged into a single volume with chapter navigation.
 - **[pdfs](tools/pdfs/)** -- generates PDF files from markdown files using Pandoc and WeasyPrint, with embedded TeX Gyre Pagella and SangBleu Empire fonts.
+- **[map](tools/map/)** -- generates the Nachlass Map at `/map/`: every remark as a small block, highlighting published remarks, the remarks of each major work, or the remarks on a theme (run by `tools/build_site.sh`).
 - **[similar](tools/similar/)** -- finds textually similar remarks (mostly other versions of the same remark) across all manuscripts and typescripts. Output goes to `similar/similar.tsv`, which the site build shows as links to other versions in the margin of each remark.
 - **[translate](tools/translate/)** -- translates German markdown files to English using Ollama (local LLM) or the DeepL API, with glossary support, automatic verification, and sibling document reuse. Output goes to `md-en/`.
 

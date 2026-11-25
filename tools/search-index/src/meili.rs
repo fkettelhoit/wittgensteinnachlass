@@ -162,7 +162,9 @@ fn settings() -> Value {
         // `works.code` (nested) is filterable so results can later be restricted to published
         // works (`works.code EXISTS`) or a specific work (`works.code = "W-RFM"`); no UI yet.
         "filterableAttributes": ["language", "doctype", "doc", "doc_slug", "date_sort", "works.code"],
-        "sortableAttributes": ["date_sort"],
+        // The orderings of the Nachlass Map, by which the site sorts equally relevant hits
+        // (`sort` comes after the relevance rules below).
+        "sortableAttributes": ["date_sort", "order_date", "order_name", "order_format"],
         // Relevance, then document + page order (`ord`) breaks every remaining tie.
         // `attribute`/`exactness` omitted: both boost the term's position within the remark,
         // which fights document order. `sort` is an inert hook for a future date sort.
@@ -170,6 +172,12 @@ fn settings() -> Value {
         // Tight: short query words (e.g. surnames like "Gödel") must match exactly, so they
         // don't fuzzy-match unrelated words ("Gobelin"). Prefix completion still works.
         "typoTolerance": { "minWordSizeForTypos": { "oneTypo": 8, "twoTypos": 12 } },
+        // Every hit, not just the first 1000 (Meilisearch's default): the search's map view
+        // (site/static/js/search.js) marks all matching remarks. Above the number of records
+        // (one per remark and language).
+        "pagination": { "maxTotalHits": 200000 },
+        // The number of documents with hits (`facets: ["doc"]`), for all of them.
+        "faceting": { "maxValuesPerFacet": 1000 },
         // Conservative stop-word list: function words can be load-bearing in a philosophy
         // corpus ("das Wort 'ist'"), so under-stop rather than over-stop. Tunable later.
         "stopWords": [

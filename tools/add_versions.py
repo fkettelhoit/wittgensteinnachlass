@@ -41,7 +41,15 @@ import re
 import sys
 from collections import defaultdict
 
-MIN_SCORE = 0.7
+
+
+def load_min_score(similar_path):
+    """The minimum score of a pair of similar remarks shown anywhere on the site:
+    similar/min-score.txt, next to similar.tsv (shared with tools/visualize)."""
+    path = os.path.join(os.path.dirname(similar_path), "min-score.txt")
+    with open(path, encoding="utf-8") as f:
+        return float(f.read().strip())
+
 # Minimum number of a document's remarks with versions in another document for a
 # visualization of the pair (tools/visualize: MIN_SIMILAR_VIZ).
 MIN_SIMILAR_VIZ = 10
@@ -59,7 +67,9 @@ def remark_id(fac):
     """A document remark's heading id, as site/layouts/_default/_markup/render-heading.html
     derives it from all facsimile labels in the `fac` span, linked or not:
     `[1r\\[2\\]](url),1v\\[1\\]` → `1r-2--1v-1`."""
-    text = FAC_LINK.sub(lambda m: m.group(1), fac).replace("\\[", "[").replace("\\]", "]")
+    # (A link starts at an unescaped bracket: in `74av\\[4\\],[75r\\[1\\]](url)` the link is the
+    # second label only.)
+    text = re.sub(r"(?<!\\)" + FAC_LINK.pattern, lambda m: m.group(1), fac).replace("\\[", "[").replace("\\]", "]")
     return re.sub(r"[\[.]", "-", text.replace("]", "")).replace(",", "--").lower() or None
 
 
@@ -233,12 +243,12 @@ def load_dates(path):
     return dates
 
 
-def load_versions(path):
-    """siglum → [(other siglum, group)] for pairs at or above MIN_SCORE."""
+def load_versions(path, min_score):
+    """siglum → [(other siglum, group)] for pairs at or above min_score."""
     versions = defaultdict(list)
     with open(path, encoding="utf-8") as f:
         for row in csv.DictReader(f, delimiter="\t"):
-            if float(row["score"]) < MIN_SCORE:
+            if float(row["score"]) < min_score:
                 continue
             a, b, order = row["a"], row["b"], row["order"]
             if order == "<":
@@ -304,7 +314,7 @@ def main():
     published = published_docs(md_dir, docs)
     linkable = {s: r for s, r in remarks.items() if r["doc"] in published}
     dates = load_dates(os.path.join(md_dir, "dates.tsv"))
-    versions = load_versions(similar_path)
+    versions = load_versions(similar_path, load_min_score(similar_path))
 
     works = sorted(f[:-3] for f in os.listdir(md_dir) if re.match(r"^W-.*\.md$", f))
 

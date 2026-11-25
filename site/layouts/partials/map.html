@@ -1,0 +1,20 @@
+{{- /* The Nachlass Map (/map/): the pages written by tools/map/map.py — the search (the
+  default view), the map of published remarks and one page per theme and per major work.
+  They work without JavaScript (date order, popovers). The search and the line of switchers
+  (search.html, embedded) go in place of #map-search: js/search.js adds the search, the other
+  orderings and the bars layout; js/map.js links the blocks and switches views in place,
+  both using data.json (published here as a resource of the /map/ section). */ -}}
+{{ $data := (site.GetPage "/map").Resources.Get "data.json" }}
+<link rel="stylesheet" href="/css/map.css">
+<main class="map-page"{{ with $data }} data-src="{{ .RelPermalink }}"{{ end }}>
+  <nav><a href="/">{{ .Site.Title }}</a></nav>
+  <h1>Nachlass Map</h1>
+  <p class="map-intro">
+    Every remark as a small block, highlighted to trace published remarks, thematic
+    clusters, or specific edited writings through Wittgenstein’s entire Nachlass.
+  </p>
+  {{ $search := partial "search.html" (dict "embedded" true "on" .Params.search) }}
+  {{ replace .Content `<div id="map-search"></div>` $search | safeHTML }}
+</main>
+<script src="/js/map.js" defer></script>
+{{ partial "footer.html" }}

@@ -1,0 +1,278 @@
+/* The Nachlass Map (tools/map/map.py): every remark a 3×3px block, four to a 16px column. */
+
+/* Blocks shade from --map-cell (0) to --map-hit (1), the document under the pointer in peach. */
+:root {
+  --map-cell: #e3e3e3;
+  --map-hit: #222;
+  --map-hover-hit: #7a3c10;
+
+  @media (prefers-color-scheme: dark) {
+    --map-cell: #3a3a3a;
+    --map-hit: #e6e6e6;
+    --map-hover-hit: #fbcba4;
+  }
+}
+
+/* --- The page: the map across the window, everything else in the reading column --- */
+
+body:has(> main.map-page) {
+  max-width: none;
+
+  & > footer {
+    max-width: var(--max-width);
+    margin: 0 auto;
+  }
+}
+
+.map-page {
+  overflow-x: clip; /* a popover at the right edge is cut off rather than widening the page */
+
+  & > :not(.map) {
+    max-width: var(--max-width);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  & .view-switcher {
+    margin-bottom: 0.5rem;
+  }
+
+  & .search {
+    margin-top: 1rem;
+
+    /* A blank line more above the search box (the Search view). */
+    &:has(.search-input:not([hidden])) {
+      margin-top: 3rem;
+    }
+  }
+
+  & .search-status:empty {
+    display: none;
+  }
+
+  /* The count right on the map, the switchers' margin above it. */
+  & > .map {
+    margin-top: 0;
+  }
+
+  & > .map-summary {
+    margin-bottom: 0;
+  }
+
+  & > .map:last-child,
+  & > .map:has(+ .search-end[hidden]:last-child) {
+    margin-bottom: 4rem;
+  }
+}
+
+/* The Search view's magnifying glass, before its label. */
+.icon-search {
+  width: 0.7em;
+  height: 0.7em;
+  margin-right: 0.18em;
+  vertical-align: -0.05em;
+}
+
+/* A theme's terms, below the map. */
+.map-terms {
+  margin-bottom: 4rem;
+
+  & p {
+    margin: 0.25rem 0 0;
+  }
+}
+
+/* --- The blocks --- */
+
+.map {
+  position: relative;
+  z-index: 0; /* the hits' layers (below) stay inside the map */
+  margin: 1.5rem 0 1rem;
+  font-size: 14px;
+  line-height: 16px;
+  color: var(--color-margin-link);
+
+  /* The labels' digits, lowered to the middle of the blocks' column. */
+  & .l,
+  & .g {
+    position: relative;
+    top: 1.5px;
+  }
+
+  & .l {
+    color: inherit;
+    text-decoration: none;
+    padding: 0 3px;
+  }
+
+  /* A group (year, Ms/Ts, format) before its first document, with a divider. */
+  & .g {
+    padding-right: 3px;
+    border-right: 1px solid var(--color-margin-link);
+  }
+
+  & .c {
+    display: inline-block;
+    width: 4px;
+    height: 16px;
+    vertical-align: top;
+  }
+
+  /* A 3×3px block, its 1px gap a transparent border, so the pointer always rests on a block. */
+  & i {
+    display: block;
+    box-sizing: border-box;
+    width: 4px;
+    height: 4px;
+    border: 0 solid transparent;
+    border-width: 0 1px 1px 0;
+    background-clip: padding-box;
+    background-color: var(--cell);
+  }
+
+  &.js i {
+    cursor: pointer;
+  }
+
+  & .d {
+    --cell: var(--map-cell);
+    --hit: var(--map-hit);
+
+    &:hover {
+      --cell: var(--color-highlight);
+      --hit: var(--map-hover-hit);
+
+      & .l {
+        color: var(--color-heading);
+      }
+    }
+  }
+
+  /* A block's or sigil's popover (data-t); .left near the window's right edge (js/map.js). */
+  & i:hover,
+  & .l:hover {
+    position: relative;
+  }
+
+  & i:hover::after,
+  & .l:hover::after {
+    content: attr(data-t);
+    position: absolute;
+    z-index: 3;
+    top: 14px;
+    left: 10px;
+    white-space: nowrap;
+    pointer-events: none;
+    padding: 5px 8px 3px;
+    font: 14px / 1.2 var(--font-body);
+    font-weight: normal;
+    color: var(--color-text);
+    background: var(--color-bg);
+    border: 1px solid var(--color-margin);
+    box-shadow: 0 4px 14px rgb(0 0 0 / 12%);
+  }
+
+  & .left:hover::after {
+    left: auto;
+    right: 10px;
+  }
+
+  /* Shades: s1 (faint) to s10 (full). */
+  & .s1 { background-color: color-mix(in srgb, var(--hit) 10%, var(--cell)); }
+  & .s2 { background-color: color-mix(in srgb, var(--hit) 20%, var(--cell)); }
+  & .s3 { background-color: color-mix(in srgb, var(--hit) 30%, var(--cell)); }
+  & .s4 { background-color: color-mix(in srgb, var(--hit) 40%, var(--cell)); }
+  & .s5 { background-color: color-mix(in srgb, var(--hit) 50%, var(--cell)); }
+  & .s6 { background-color: color-mix(in srgb, var(--hit) 60%, var(--cell)); }
+  & .s7 { background-color: color-mix(in srgb, var(--hit) 70%, var(--cell)); }
+  & .s8 { background-color: color-mix(in srgb, var(--hit) 80%, var(--cell)); }
+  & .s9 { background-color: color-mix(in srgb, var(--hit) 90%, var(--cell)); }
+  & .s10 { background-color: var(--hit); }
+
+  /* A search hit: a peach disc (::before) over the other blocks, its block (::after) on top. */
+  & i.hit {
+    position: relative;
+
+    &::before {
+      content: "";
+      position: absolute;
+      z-index: 1;
+      top: -3px;
+      left: -3px;
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--color-highlight);
+    }
+
+    &:not(:hover)::after {
+      content: "";
+      position: absolute;
+      z-index: 2;
+      inset: 0;
+      background: var(--hit);
+    }
+
+    /* Under the pointer (::after is the popover): lifted, the block drawn on the disc. */
+    &:hover {
+      z-index: 4;
+
+      &::before {
+        background: linear-gradient(var(--hit), var(--hit)) center / 3px 3px no-repeat, var(--color-highlight);
+      }
+    }
+  }
+}
+
+/* --- As bars: one document per line, its group and sigil in a gutter --- */
+
+.map.bars {
+  --group: 2.3em;
+  --sigil: 3.2em;
+  background: linear-gradient(var(--color-margin-link), var(--color-margin-link)) no-repeat
+    calc(var(--group) + 3px) 0 / 1px 100%;
+
+  & .d {
+    display: block;
+    position: relative;
+    padding-left: calc(var(--group) + 7px + var(--sigil));
+  }
+
+  & .l {
+    position: absolute;
+    left: calc(var(--group) + 4px);
+  }
+
+  & .g {
+    position: absolute;
+    left: 0;
+    width: var(--group);
+    text-align: right;
+    padding: 0;
+    border: 0;
+  }
+
+  /* Groups longer than a year (Ms/Ts, formats): rotated, below a stroke marking their start. */
+  &.long-groups {
+    --group: 1.2em;
+
+    & .d:has(> .g)::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: calc(var(--group) + 4px);
+      height: 1px;
+      background: var(--color-margin-link);
+    }
+  }
+
+  & .g.long {
+    top: 6px;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    width: auto;
+    line-height: var(--group);
+    white-space: nowrap;
+  }
+}
