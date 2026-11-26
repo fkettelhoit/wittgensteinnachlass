@@ -20,6 +20,20 @@
      with the work references. Heading ids are already assigned at this point. */}}
 {{ $c = replaceRE `</h3>(<span class="fac">(?:[^<]|<a [^>]*>|</a>|<br>)*</span>)<div>\s*<nav class="(versions[^"]*)">(.*?)</nav>` `<nav class="${2}">${3}</nav></h3>${1}<div>` $c }}
 {{ $c = printf "%s</div></section>" $c }}
+{{/* Closing a facsimile (× or the backdrop) goes to the first remark on its page, i.e. to
+     the text of the page the arrows have led to, which shows the title bar (style.css);
+     a page no remark links to closes in place (#_). */}}
+{{ $first := newScratch }}
+{{ range split $c "<section>" }}
+  {{ $h := findRESubmatch `^<h3 id="([^"]+)"` . 1 }}
+  {{ $fac := findRESubmatch `</h3><span class="fac">(.*?)</span>` . 1 }}
+  {{ if and $h $fac }}
+    {{ $remark := index (index $h 0) 1 }}
+    {{ range findRESubmatch `href="#(fac-[^"]+)"` (index (index $fac 0) 1) }}
+      {{ if not ($first.Get (index . 1)) }}{{ $first.Set (index . 1) $remark }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 {{ $facs := findRE `https?://[^"]+\.webp` .page.Content }}
 {{ $facs = uniq $facs }}
 {{ $len := len $facs }}
@@ -36,7 +50,8 @@
     {{ $nextId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (add $i 1)) }}
     {{ $next = printf `<a class="lightbox-next" href="#fac-%s">&rsaquo;</a>` $nextId }}
   {{ end }}
-  {{ $lightboxes = printf `%s<div id="fac-%s" class="lightbox"><a class="lightbox-backdrop" href="#_"></a><a class="lightbox-close" href="#_">&times;</a>%s<input type="checkbox" id="zoom-%s" class="lightbox-zoom-toggle"><label for="zoom-%s" class="lightbox-zoom"><img src="%s" loading="lazy"></label>%s</div>` $lightboxes $id $prev $id $id $url $next }}
+  {{ $close := $first.Get (printf "fac-%s" $id) | default "_" }}
+  {{ $lightboxes = printf `%s<div id="fac-%s" class="lightbox"><a class="lightbox-backdrop" href="#%s"></a><a class="lightbox-close" href="#%s">&times;</a>%s<input type="checkbox" id="zoom-%s" class="lightbox-zoom-toggle"><label for="zoom-%s" class="lightbox-zoom"><img src="%s" loading="lazy"></label>%s</div>` $lightboxes $id $close $close $prev $id $id $url $next }}
 {{ end }}
 {{ $c = printf "%s%s" $c $lightboxes }}
 {{ return partial "viz-lightbox.html" $c }}
