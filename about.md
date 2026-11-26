@@ -79,11 +79,11 @@ The images have been sourced from the [Wittgenstein Nachlass Graphics](https://n
 
 ## Copyright
 
-Ludwig Wittgenstein died in 1951. Therefore, the _Nachlass_ is in the public domain in all countries and territories where copyright expires 70 years or fewer after the author’s death. This includes most countries in Europe, the entirety of Asia, almost all of Africa and Oceania, most countries in Central and South America, and Canada.
+Ludwig Wittgenstein died in 1951. Therefore, the _Nachlass_ is in the public domain in all countries and territories where 70 years having elapsed since the author’s death is a sufficient condition for a work by that author to be out of copyright.
 
-![World map of the countries where Wittgenstein’s Nachlass is in the public domain (almost all of them), where it partly is (the United States), and where it is not yet (Mexico, Guatemala, Colombia, Jamaica, Equatorial Guinea)](/images/copyright-map.svg)
+![World map of the default copyright terms by country, from the author’s life + 25 years (Libya) to the author’s life + 100 years (Mexico); in most countries the term is life + 50 or life + 70 years](/images/copyright-map.svg)
 
-<p class="map-legend"><span class="public-domain">Public domain</span> <span class="partly">Partly public domain</span> <span class="copyrighted">Copyright term longer than life + 70 years</span></p>
+The map shows the default copyright terms only; many countries have special rules, e.g. for works published posthumously.
 
 For a literary work to be lawfully published on the Internet (which is tantamount to a worldwide simultaneous publication) it is usually considered a necessary and sufficient condition that it be in the public domain in its country of origin and in the country where the website is based. Regarding users who are not located in the country of origin of the work nor in the country where the website is based, it is their responsibility to comply with the copyright rules of their own country when visiting the website; and it is in the power of governments to block access to websites that contain materials which are copyrighted in their country.
 
