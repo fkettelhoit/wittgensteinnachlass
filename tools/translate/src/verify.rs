@@ -1,5 +1,6 @@
 use crate::common::*;
-use std::collections::HashSet;
+use std::borrow::Cow;
+use std::collections::{HashMap, HashSet};
 use std::fs;
 use std::path::{Path, PathBuf};
 
@@ -16,6 +17,42 @@ pub fn load_ignore_words(tool_dir: &Path) -> HashSet<String> {
         }
     }
     set
+}
+
+/// Load the per-remark allowed words (`allow-words.txt`): German words that may stay in the
+/// English of one specific remark, e.g. a German word the remark discusses. One remark per
+/// line, `<file>:<remark id> word word …`; # comments and blank lines ok.
+pub fn load_allow_words(tool_dir: &Path) -> HashMap<String, HashSet<String>> {
+    let path = tool_dir.join("allow-words.txt");
+    let mut map: HashMap<String, HashSet<String>> = HashMap::new();
+    if let Ok(content) = fs::read_to_string(&path) {
+        for line in content.lines() {
+            let trimmed = line.trim();
+            if trimmed.is_empty() || trimmed.starts_with('#') {
+                continue;
+            }
+            let mut parts = trimmed.split_whitespace();
+            if let Some(key) = parts.next() {
+                map.entry(key.to_string())
+                    .or_default()
+                    .extend(parts.map(|w| w.to_lowercase()));
+            }
+        }
+    }
+    map
+}
+
+/// The ignore set for one remark: the global ignore words plus the remark's allowed words.
+pub fn ignore_words_for<'a>(
+    global: &'a HashSet<String>,
+    allow: &HashMap<String, HashSet<String>>,
+    file_name: &str,
+    remark_id: &str,
+) -> Cow<'a, HashSet<String>> {
+    match allow.get(&format!("{}:{}", file_name, remark_id)) {
+        Some(words) => Cow::Owned(global.union(words).cloned().collect()),
+        None => Cow::Borrowed(global),
+    }
 }
 
 /// Extract words from plain text, lowercased, with minimum length.
@@ -65,7 +102,7 @@ fn extract_html_tags(text: &str) -> Vec<String> {
         .unwrap()
         .replace_all(text, "")
         .into_owned();
-    let re = regex::Regex::new(r"<[^>]+>").unwrap();
+    let re = regex::Regex::new(r"</?[a-zA-Z][a-zA-Z0-9:-]*(?:\s[^<>]*)?\s*/?>").unwrap();
     re.find_iter(&no_math)
         .map(|m| m.as_str().to_string())
         .collect()
@@ -83,7 +120,7 @@ fn plain_text(text: &str) -> String {
         .unwrap()
         .replace_all(text, "")
         .into_owned();
-    let no_html = regex::Regex::new(r"<[^>]+>")
+    let no_html = regex::Regex::new(r"</?[a-zA-Z][a-zA-Z0-9:-]*(?:\s[^<>]*)?\s*/?>")
         .unwrap()
         .replace_all(&no_math, "")
         .into_owned();
@@ -92,7 +129,7 @@ fn plain_text(text: &str) -> String {
         .replace('*', "")
         .replace("![", "")
         .replace("](", "")
-        .replace(')', "")
+        .replace(['(', ')'], " ")
 }
 
 /// Check for undirected (straight) double quotes in prose (ignoring HTML tags and math).
@@ -254,7 +291,8 @@ pub fn verify_remark(
     }
 
     // 6. Untranslated detection
-    let gc = german_char_count(en_body);
+    // Already-verified markup can contain source-language labels in alt text.
+    let gc = german_char_count(&en_plain);
     if gc > 3 {
         issues.push(Issue {
             file: file_name.to_string(),
@@ -341,6 +379,11 @@ pub fn run(args: &VerifyArgs) -> Vec<Issue> {
 
         let skip_remarks = load_skip_remarks(std::path::Path::new("."));
         let ignore_words = load_ignore_words(Path::new("."));
+        let allow_words = load_allow_words(Path::new("."));
+        // Some source remarks share an anchor. Exact heading alignment lets us verify them
+        // in order instead of comparing each with the last English remark at that anchor.
+        let aligned = de_remarks.len() == en_remarks.len()
+            && de_remarks.iter().zip(&en_remarks).all(|(de, en)| de.heading == en.heading);
         let en_by_anchor: std::collections::HashMap<String, &Remark> = en_remarks
             .iter()
             .map(|r| (anchor_from_doc_heading(&r.heading), r))
@@ -350,10 +393,12 @@ pub fn run(args: &VerifyArgs) -> Vec<Issue> {
             if should_skip_remark(&skip_remarks, base_name, &remark_id) {
                 continue;
             }
-            let Some(en) = en_by_anchor.get(&remark_id) else {
+            let translated = if aligned { en_remarks.get(i) } else { en_by_anchor.get(&remark_id).copied() };
+            let Some(en) = translated else {
                 continue; // New remark not yet translated
             };
-            verify_remark(base_name, i, &remark_id, de, en, &mut all_issues, args.emphasis_tolerance, &ignore_words);
+            let ignore = ignore_words_for(&ignore_words, &allow_words, base_name, &remark_id);
+            verify_remark(base_name, i, &remark_id, de, en, &mut all_issues, args.emphasis_tolerance, &ignore);
         }
     }
 

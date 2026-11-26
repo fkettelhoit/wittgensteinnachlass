@@ -25,6 +25,7 @@ fn has_critical_issues(issues: &[verify::Issue]) -> bool {
 pub fn run(args: &FixDeeplArgs) {
     let client = reqwest::blocking::Client::new();
     let ignore_words = crate::verify::load_ignore_words(std::path::Path::new("."));
+    let allow_words = crate::verify::load_allow_words(std::path::Path::new("."));
 
     // Set up glossary
     let glossary = match &args.glossary {
@@ -210,7 +211,8 @@ pub fn run(args: &FixDeeplArgs) {
                     let mut issues = Vec::new();
                     verify::verify_remark(
                         file_name, idx, remark_id, &de_remarks[idx], &en_remark, &mut issues,
-                        args.emphasis_tolerance, &ignore_words,
+                        args.emphasis_tolerance,
+                        &verify::ignore_words_for(&ignore_words, &allow_words, file_name, remark_id),
                     );
 
                     if issues.is_empty() {

@@ -1,5 +1,5 @@
 use crate::common::*;
-use crate::verify::{load_ignore_words, verify_remark, Issue};
+use crate::verify::{ignore_words_for, load_allow_words, load_ignore_words, verify_remark, Issue};
 use std::collections::HashMap;
 use std::path::{Path, PathBuf};
 
@@ -39,6 +39,7 @@ pub fn run(args: &CheckArgs) {
 
     let skip_remarks = load_skip_remarks(Path::new("."));
     let ignore_words = load_ignore_words(Path::new("."));
+    let allow_words = load_allow_words(Path::new("."));
 
     // Document order from all.md (works are assembled from these docs, so checking the
     // docs covers the works' content too).
@@ -88,6 +89,10 @@ pub fn run(args: &CheckArgs) {
             .iter()
             .map(|r| (anchor_from_doc_heading(&r.heading), r))
             .collect();
+        // Duplicate anchors occur in the corpus. When headings align exactly, use document
+        // order rather than the last remark stored in the anchor map.
+        let aligned = de_remarks.len() == en_remarks.len()
+            && de_remarks.iter().zip(&en_remarks).all(|(de, en)| de.heading == en.heading);
 
         // Missing remarks + quality verification of existing pairs.
         for (i, de) in de_remarks.iter().enumerate() {
@@ -95,7 +100,12 @@ pub fn run(args: &CheckArgs) {
             if rid.is_empty() || should_skip_remark(&skip_remarks, filename, &rid) {
                 continue;
             }
-            match en_by_anchor.get(&rid) {
+            let translated = if aligned {
+                en_remarks.get(i)
+            } else {
+                en_by_anchor.get(&rid).copied()
+            };
+            match translated {
                 None => missing.push(format!("{}:{}", filename, rid)),
                 Some(en) => verify_remark(
                     filename,
@@ -105,7 +115,7 @@ pub fn run(args: &CheckArgs) {
                     en,
                     &mut issues,
                     args.emphasis_tolerance,
-                    &ignore_words,
+                    &ignore_words_for(&ignore_words, &allow_words, filename, &rid),
                 ),
             }
         }

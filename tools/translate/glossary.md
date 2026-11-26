@@ -243,3 +243,4 @@ Tiefe = depth
 
 - "man" is rendered as "one", not "you". Wittgenstein's choice of the impersonal pronoun is respected throughout.
 - "wohl" is rendered as "probably", "presumably", "no doubt", not as a categorical assertion.
+- Use British spelling in translated prose: "colour", "behaviour", "centre", "grey", "analyse", "recognize". Use British -ize where accepted, but retain -yse in words such as "analyse". Preserve the spelling of original English, verbatim quotations and proper names. Apply the house spelling when reusing translated prose, not when copying original English.

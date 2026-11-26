@@ -549,7 +549,7 @@ pub fn call_deepl(
     let mut body = serde_json::json!({
         "text": [text],
         "source_lang": "DE",
-        "target_lang": "EN-US",
+        "target_lang": "EN-GB",
         "tag_handling": "html",
     });
 
