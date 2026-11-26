@@ -1,0 +1,23 @@
+{{- /* Rendered HTML with a "?" after each sigil of a work that links to the whole work
+  (`<a href="/w-rfm-6/">RFM VI</a>`, also under /en/, as in the document lists and the
+  documents' overviews), linking to the sigil's line on the page that explains the sigils
+  (/sigils/#rfm, written by tools/sigils_page.py), with the German and the English title as
+  its tooltip (once where they are the same), from that page's front matter. The sigils in
+  the margins of the remarks link into a work (`/w-pi/#…`), and so get none; nor do those in
+  the document lists (home page, /all/), which have the title as their own tooltip
+  (`title="…"`) and too little room for the "?". Returns the HTML as a string. */ -}}
+{{- $c := string . -}}
+{{- $sigil := `<a href="(?:/en)?/w-([a-z]+)(?:-[a-z0-9-]+)?/">[A-Z]{1,4}(?: [IVX]+)?(?: App [IVX0-9]+)?(?: MS \d+)?</a>` -}}
+{{- $c = replaceRE (printf `(%s)` $sigil) `${1}<a class="sigil-help" href="/sigils/#${2}" title="SIGIL-TITLES:${2}">?</a>` $c -}}
+{{- if strings.Contains $c "SIGIL-TITLES:" -}}
+  {{- with site.GetPage "/sigils" -}}
+    {{- range $slug, $titles := .Params.titles -}}
+      {{- $de := index $titles 0 | htmlEscape -}}
+      {{- $en := index $titles 1 | htmlEscape -}}
+      {{- $tooltip := cond (eq $de $en) $de (printf "%s&#10;%s" $de $en) -}}
+      {{- $label := cond (eq $de $en) $de (printf "%s, %s" $de $en) -}}
+      {{- $c = replace $c (printf `title="SIGIL-TITLES:%s"` $slug) (printf `title="%s" aria-label="%s"` $tooltip $label) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $c -}}

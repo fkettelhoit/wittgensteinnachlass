@@ -114,6 +114,13 @@ fi
 # Create the Nachlass Map at /map (every remark as a block; see tools/map/README.md)
 python3 "$SCRIPT_DIR/map/map.py" "$OUTPUT_DIR" "$SCRIPT_DIR/../similar/similar.tsv" "$CONTENT_DIR"
 
+# Create the page explaining the works' sigils at /sigils (from the parser's titles)
+TITLES_SRC="$OUTPUT_DIR/work_titles.tsv"
+if [ -f "$TITLES_SRC" ]; then
+  mkdir -p "$CONTENT_DIR/sigils"
+  python3 "$SCRIPT_DIR/sigils_page.py" "$TITLES_SRC" > "$CONTENT_DIR/sigils/_index.md"
+fi
+
 # Create the About page at /about
 ABOUT_SRC="$SCRIPT_DIR/../about.md"
 if [ -f "$ABOUT_SRC" ]; then

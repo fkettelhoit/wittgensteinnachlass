@@ -1,0 +1,15 @@
+{{- /* The page explaining the works' sigils (/sigils/, written by tools/sigils_page.py),
+  laid out like the About page. Its English titles link to the works' German/English pages
+  (en-links.html), except in production, which shows no translations (yet). */ -}}
+{{ define "main" }}
+<nav><a href="/">{{ .Site.Title }}</a></nav>
+<main class="about">
+  <h1>{{ .Title }}</h1>
+  {{ $c := .Content }}
+  {{ if not hugo.IsProduction }}
+    {{ $c = partial "en-links.html" $c }}
+  {{ end }}
+  {{ $c | safeHTML }}
+</main>
+{{ partial "footer.html" }}
+{{ end }}

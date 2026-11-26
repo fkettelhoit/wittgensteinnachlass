@@ -902,6 +902,68 @@ body.bilingual {
 
 /* --- About --- */
 
+/* The works' sigils (/sigils/): the sigil, then the German and English title. */
+.sigils {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 1rem 1.5rem;
+  margin: 2rem 0;
+
+  /* As large as their text, for the sigil's highlight; spaced for the German title's
+    underline above the English one. */
+  & dt,
+  & dd {
+    justify-self: start;
+    align-self: start;
+    line-height: 1.75;
+  }
+
+  & dt {
+    font-weight: bold;
+  }
+
+  & dd {
+    margin: 0;
+  }
+
+  /* The German title dark, the English one lighter, as on the German/English pages. */
+  & dd a {
+    color: var(--color-text);
+  }
+
+  & dd a.en {
+    color: var(--color-translation);
+  }
+
+  & dd a:hover {
+    color: var(--color-link);
+  }
+
+  /* The sigil linked to from a "?" (sigil-help.html). */
+  & dt:target {
+    background: var(--color-highlight);
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+}
+
+/* The "?" after a work's sigil, linking to its explanation on /sigils/ (sigil-help.html). */
+a.sigil-help {
+  margin-left: 0.1em;
+  font-size: 0.7em;
+  font-style: normal;
+  font-weight: normal;
+  vertical-align: super;
+  line-height: 0;
+  color: var(--color-margin-link);
+  text-decoration: none;
+
+  &:hover {
+    color: var(--color-link);
+    text-decoration: none;
+  }
+}
+
 .about {
   & ul,
   & ol {

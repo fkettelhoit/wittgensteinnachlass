@@ -1,7 +1,8 @@
 {{- /* Rendered HTML with each link to a whole document (`<a href="/ms-101/">`, also under
   /en/) followed by the document's format icon (doc-format.html). Links into a document
-  (`/ms-101/#1r-1`: the remark headings, the links to other versions) get none. Returns
-  the HTML as a string. */ -}}
+  (`/ms-101/#1r-1`: the remark headings, the links to other versions) get none. Likewise,
+  links to a whole work by its sigil are followed by a "?" linking to the explanation of
+  the sigil (sigil-help.html, which says which). Returns the HTML as a string. */ -}}
 {{- $c := string . -}}
 {{- $slugs := slice -}}
 {{- range findRE `<a href="(?:/en)?/(?:ms|ts)-[0-9a-z]+/"` $c -}}
@@ -17,4 +18,4 @@
     {{- end -}}
   {{- end -}}
 {{- end -}}
-{{- return $c -}}
+{{- return partial "sigil-help.html" $c -}}
