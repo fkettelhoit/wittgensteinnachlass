@@ -11,7 +11,7 @@
   {{ if and .Params.translation (not hugo.IsProduction) }}
     {{ $bilingual = printf ` | <a class="switch" href="/en/%s/">German/English</a>` (.File.ContentBaseName | urlize) }}
   {{ end }}
-  {{ $switcher := printf `</h1><p class="lang-switcher"><span class="switch" aria-current="page">German</span>%s%s</p>%s` (partial "downloads.html" .) $bilingual (partial "edition-note.html" .) }}
+  {{ $switcher := printf `</h1>%s<p class="lang-switcher"><span class="switch" aria-current="page">German</span>%s%s</p>%s` (partial "doc-description.html" .) (partial "downloads.html" .) $bilingual (partial "edition-note.html" .) }}
   {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ partial "remarks.html" (dict "c" $c "page" .) | safeHTML }}
@@ -24,7 +24,7 @@
   {{ if and .Params.translation (not hugo.IsProduction) }}
     {{ $bilingual2 = printf ` | <a class="switch" href="/en/%s/">German/English</a>` ($stem2 | urlize) }}
   {{ end }}
-  {{ $sw2 := printf `</h1><p class="lang-switcher"><span class="switch" aria-current="page">German</span>%s%s</p>%s` $dl2 $bilingual2 (partial "edition-note.html" .) }}
+  {{ $sw2 := printf `</h1>%s<p class="lang-switcher"><span class="switch" aria-current="page">German</span>%s%s</p>%s` (partial "doc-description.html" .) $dl2 $bilingual2 (partial "edition-note.html" .) }}
   {{ $c2 := replace (partial "doc-format-links.html" .Content) "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ partial "viz-lightbox.html" (replace $c2 "</h1>" $sw2 1) | safeHTML }}
 </main>

@@ -157,7 +157,7 @@
     {
       page: MS134,
       // The page header: title, downloads, and the overview lines below them.
-      target: "main > h1, main > .lang-switcher, main > details > summary",
+      target: "main > h1, main > .doc-description, main > .lang-switcher, main > details > summary",
       cue: `${SIMILAR} > summary > span`,
       done: () => document.querySelector(SIMILAR)?.open,
       next: () => (document.querySelector(SIMILAR).open = true),
@@ -176,7 +176,7 @@
     },
     {
       page: "/ts-229/",
-      target: "body > nav, main > h1, main > .lang-switcher",
+      target: "body > nav, main > h1, main > .doc-description, main > .lang-switcher",
       click: `body > nav a[href="${HOME}"]`,
       title: "Downloads",
       text: "Every work and document can be downloaded as an epub or a pdf, and every document also as a pdf of its facsimiles. The title at the top of every page takes you back home.\n\nClick <strong>Wittgenstein’s Writings</strong> to go home.",

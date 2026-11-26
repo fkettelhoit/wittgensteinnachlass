@@ -318,6 +318,20 @@ button {
   }
 }
 
+/* A document's remark count and description, right under its title, followed closely by
+   its switcher (partials/doc-description.html). */
+.doc-description {
+  margin: -6rem 0 0.5rem 0;
+
+  @media (width < 68rem) {
+    margin: -3rem 0 0.5rem 0;
+  }
+
+  & + .lang-switcher {
+    margin-top: 0;
+  }
+}
+
 /* --- Details --- */
 
 details {

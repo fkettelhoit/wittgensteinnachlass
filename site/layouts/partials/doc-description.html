@@ -1,0 +1,11 @@
+{{- /* The line under a document's title, above its language switcher: its remark count and
+  description, as after its name in the document lists on the home page ("227 remarks,
+  so-called C8; …; 1936", written by the parser to data/doc_info.json). Returns "" for
+  works. Context: the page. Returns an HTML string. */ -}}
+{{- $out := "" -}}
+{{- if ne .Params.doctype "Work" -}}
+  {{- with index hugo.Data.doc_info .File.ContentBaseName -}}
+    {{- $out = printf `<p class="doc-description">%s</p>` . -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}
