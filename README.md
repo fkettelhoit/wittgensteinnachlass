@@ -104,8 +104,16 @@ The following HTML elements appear inline within paragraph text:
 
 The transcriptions use the remark numbering established by the Bergen Nachlass Edition. The facsimile images linked from the remark headings are provided by the Wren Library at Trinity College Cambridge, the Austrian National Library, and other institutions.
 
-Most of the drawings and diagrams in the `graphics/` directory come from the [Wittgenstein Nachlass Graphics](https://nachlass-graphics.wittgensteinproject.org/w/index.php/Project:About) project of the Ludwig Wittgenstein Project. These are released under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license. When reusing these images, please credit the Wittgenstein Nachlass Graphics project and the Ludwig Wittgenstein Project.
+Most of the drawings and diagrams in the `graphics/` directory come from the [Wittgenstein Nachlass Graphics](https://nachlass-graphics.wittgensteinproject.org/w/index.php/Project:About) project of the Ludwig Wittgenstein Project. These are released under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. When reusing these images, please credit the Wittgenstein Nachlass Graphics project and the Ludwig Wittgenstein Project.
 
-A small number of generated graphics (filenames starting with `gen-`) are programmatically produced and are not part of the Nachlass Graphics project. These are released under the same [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) license.
+A small number of generated graphics (filenames starting with `gen-`) are programmatically produced and are not part of the Nachlass Graphics project. These are released under the same [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
 
 Wittgenstein's writings are in the public domain in most jurisdictions, including the European Union and countries that apply a 70-year post mortem auctoris term (Wittgenstein died in 1951). In jurisdictions where the works remain under copyright, the rights are held by the Trustees of the Estate of the late Ludwig Wittgenstein, managed through Trinity College, Cambridge. Users should verify the copyright status of these works in their own jurisdiction before reproducing or distributing them.
+
+## License
+
+Unless otherwise noted, the contents of this repository (the transcriptions and translations, the code, and the website) are released under [Creative Commons Zero 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) (see [`LICENSE`](LICENSE)). The exceptions are:
+
+- the graphics in `graphics/` (see above), which are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/);
+- the TeX Gyre Pagella fonts in `site/fonts/tex-gyre/`, which are licensed under the [GUST Font License](https://www.gust.org.pl/projects/e-foundry/licenses);
+- Wittgenstein's writings themselves, whose copyright status is described above.
