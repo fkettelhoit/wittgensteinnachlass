@@ -1,8 +1,7 @@
 {{ define "main" }}
 {{- /* German/English pages lead home to the German/English home page. */}}
 <nav><a href="/en/">{{ .Site.Title }}</a></nav>
-<div class="sticky-title" aria-hidden="true"><div class="sticky-title-site"><a href="/en/" tabindex="-1">{{ .Site.Title }}</a></div><div class="sticky-title-line"><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a>{{ partial "doc-format.html" .Title }}</div></div>
-<script src="/js/sticky-title.js" defer></script>
+{{ partial "sticky-title.html" . }}
 <script src="/js/fragment-links.js" defer></script>
 {{ $hasRemarks := findRE `\.webp\)` .RawContent }}
 {{ if $hasRemarks }}

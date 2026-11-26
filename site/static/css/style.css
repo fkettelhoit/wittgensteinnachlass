@@ -74,14 +74,8 @@
   --margin-col: 5rem;
   --margin-gap: 0.5rem;
   --margin-offset: calc(2 * (var(--margin-col) + var(--margin-gap)));
-  --sticky-title-line: 5rem; /* the h1's line height */
+  --sticky-title-line: 2rem;
   --sticky-title-padding: 0.5rem;
-  --sticky-title-site-line: 2rem;
-  --sticky-title-site-gap: 1rem;
-
-  @media (width < 68rem) {
-    --sticky-title-line: 3rem;
-  }
 
   /* Each colour is the image filter applied to its light value, except the brightened text. */
   @media (prefers-color-scheme: dark) {
@@ -303,10 +297,12 @@ button {
   box-decoration-break: clone;
 }
 
+/* Only the list shown, and the language switcher's link to it in the other version
+   (partials/home.html). */
 .home:has(#by-date:target, #by-format:target, .doc-list.by-date :target, .doc-list.by-format :target)
-  .doc-list.by-name,
-.home:not(:has(#by-date:target, .doc-list.by-date :target)) .doc-list.by-date,
-.home:not(:has(#by-format:target, .doc-list.by-format :target)) .doc-list.by-format {
+  :is(.doc-list.by-name, .keep-by-name),
+.home:not(:has(#by-date:target, .doc-list.by-date :target)) :is(.doc-list.by-date, .keep-by-date),
+.home:not(:has(#by-format:target, .doc-list.by-format :target)) :is(.doc-list.by-format, .keep-by-format) {
   display: none;
 }
 
@@ -908,8 +904,7 @@ body.bilingual {
   }
 
   /* After a title: standing on the baseline, as high as a capital of the heading font. */
-  h1 &,
-  .sticky-title & {
+  h1 & {
     --doc-format-box: 0.76em;
     vertical-align: calc(-1 * var(--doc-format-inset) * var(--doc-format-box));
     margin-left: 0.15em;
@@ -1451,22 +1446,24 @@ a.lightbox-next::before {
   }
 }
 
-/* --- Sticky title (js/sticky-title.js), shown while scrolling up --- */
+/* --- Title bar: shown at the top of work/doc pages while a remark or heading is the
+   URL's #fragment (not a facsimile's lightbox), so that it is clear which work/doc a
+   remark reached through a link belongs to --- */
 
-/* Jumping to a remark leaves room for the bar (its measured height, else one line's). */
-main [id] {
-  scroll-margin-top: calc(
-    var(
-        --sticky-title-height,
-        var(--sticky-title-site-line) + var(--sticky-title-site-gap) + var(--sticky-title-line) + 2
-          * var(--sticky-title-padding) + var(--line-thickness)
-      ) +
-      1rem
+/* Jumping to a fragment leaves room for the bar, where there is one. */
+body:has(.sticky-title) {
+  --sticky-title-height: calc(
+    var(--sticky-title-line) + 2 * var(--sticky-title-padding) + var(--line-thickness)
   );
+}
+
+main [id] {
+  scroll-margin-top: calc(var(--sticky-title-height, 0rem) + 1rem);
 }
 
 /* Over the column; its line (::after) spans the margin columns, its ::before the window. */
 .sticky-title {
+  display: none;
   position: fixed;
   top: 0;
   left: 1rem;
@@ -1477,11 +1474,12 @@ main [id] {
   padding: var(--sticky-title-padding) 0;
   background: var(--color-bg);
   border-bottom: var(--line-thickness) solid transparent;
-  transform: translateY(-100%);
-  visibility: hidden;
-  transition:
-    transform 0.2s ease,
-    visibility 0s linear 0.2s;
+
+  /* .tour-pinned: shown throughout a tour step about it (js/tour.js). */
+  body:has(main :target:not(.lightbox)) &,
+  &.tour-pinned {
+    display: block;
+  }
 
   body.bilingual & {
     max-width: 70rem;
@@ -1513,54 +1511,33 @@ main [id] {
     background: var(--color-text);
   }
 
-  /* .tour-pinned: shown throughout a tour step about it (js/tour.js). */
-  &.visible,
-  &.tour-pinned {
-    transform: none;
-    visibility: visible;
-    transition: transform 0.2s ease;
-  }
-
-  /* In place, without sliding, when jumping to a remark. */
-  &.instant {
-    transition: none;
-  }
-
-  & > * {
-    display: block;
-  }
-
   @media print {
-    display: none;
+    display: none !important;
   }
 }
 
-.sticky-title-site {
-  font-style: italic;
-  line-height: var(--sticky-title-site-line);
-  margin-bottom: var(--sticky-title-site-gap);
-}
-
-/* The title in the h1's font; on hover, an arrow up (back to the top) hangs in the margin. */
+/* One line: the title in the heading font (a narrow screen's h2, and the body size on a
+   narrow screen), then the page's description after an en dash, smaller and grey, in the
+   space left. Both are cut off with an ellipsis if they don't fit, the description first.
+   On hover, an arrow up (back to the top) hangs in the margin. */
 .sticky-title-line {
   --sticky-title-arrow: 0.4em;
   --sticky-title-arrow-gap: 0.15em;
+  display: flex;
+  align-items: baseline;
   font-family: var(--font-heading);
   font-weight: 400;
-  font-size: 4.4rem;
+  font-size: 2rem;
   line-height: var(--sticky-title-line);
-  text-wrap: balance;
-  overflow-wrap: break-word;
+  white-space: nowrap;
 
   @media (width < 68rem) {
-    --sticky-title-arrow: 0.6rem;
-    --sticky-title-arrow-gap: 0.25rem;
-    font-size: 2.8rem;
+    font-size: 1.125rem;
   }
 
   &::before {
     content: "";
-    display: inline-block;
+    flex: none;
     width: var(--sticky-title-arrow);
     height: 0.76em;
     margin-left: calc(-1 * (var(--sticky-title-arrow) + var(--sticky-title-arrow-gap)));
@@ -1576,15 +1553,38 @@ main [id] {
   }
 }
 
+/* Clipped (for the ellipsis) with room above and below the line for accents and
+   descenders, e.g. the dots of a capital Ü. */
+.sticky-title-text,
+.sticky-title-meta {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding-block: 0.3em;
+  margin-block: -0.3em;
+}
+
+/* Its full width if it fits, before the description gets any. */
 .sticky-title-text {
-  font-family: var(--font-heading);
-  font-weight: 400;
-  line-height: var(--sticky-title-line);
+  flex: 0 1 auto;
   color: var(--color-heading);
 
   &,
   &:hover {
     text-decoration: none;
+  }
+}
+
+.sticky-title-meta {
+  flex: 1 1 0;
+  margin-left: 0.4em; /* a space */
+  font-family: var(--font-body);
+  font-size: 1.125rem;
+  line-height: 1; /* within the title's line, on its baseline */
+  color: var(--color-margin-link);
+
+  @media (width < 68rem) {
+    font-size: 0.9rem;
   }
 }
 

@@ -162,7 +162,7 @@
       boxes: ".sticky-title",
       fixed: true,
       title: "Title Bar",
-      text: "The same motto appears in one of Wittgenstein’s notebooks, where he names its source: Nestroy’s play <em>Der Schützling</em>. It is dated 25 April 1947, after the typescript of the <em>Investigations</em> was made, so he must have added it there by hand later.\n\nThe bar at the top shows where you are. Click <strong>Ms-134</strong> in it to go to the top.",
+      text: "The same motto appears in one of Wittgenstein’s notebooks, where he names its source: Nestroy’s play <em>Der Schützling</em>. It is dated 25 April 1947, after the typescript of the <em>Investigations</em> was made, so he must have added it there by hand later.\n\nWhen you follow a link to a remark, the bar at the top shows where you are. Click <strong>Ms-134</strong> in it to go to the top.",
     },
     {
       page: MS134,
@@ -414,25 +414,17 @@
   };
 
   // Scroll smoothly, except right after arriving on a page: the browser's jump to
-  // a #fragment and js/sticky-title.js (re-aligning the remark it points to) can
-  // interrupt a smooth scroll while the page loads, but not undo an instant one.
+  // a #fragment can interrupt a smooth scroll while the page loads, but not undo an
+  // instant one.
   const scrollToY = (y) => scrollTo({ top: Math.max(0, y), behavior: arriving ? "instant" : "smooth" });
 
   const px = (el, props) => {
     for (const [k, v] of Object.entries(props)) el.style[k] = `${Math.round(v)}px`;
   };
 
-  // Space taken at the top of the screen by the sticky title bar (work/doc pages),
-  // when scrolling to `y`. The bar slides in while scrolling up and hides while
-  // scrolling down (js/sticky-title.js), so it only takes space when scrolling up,
-  // or (when not scrolling) if it is showing right now.
-  const topInset = (y = scrollY) => {
-    const bar = document.querySelector(".sticky-title");
-    if (!bar) return 0;
-    if (y < scrollY) return bar.offsetHeight;
-    if (y > scrollY) return 0;
-    return Math.max(0, bar.getBoundingClientRect().bottom);
-  };
+  // Space taken at the top of the screen by the title bar (work/doc pages, while a
+  // remark is the #fragment, see style.css).
+  const topInset = () => Math.max(0, document.querySelector(".sticky-title")?.getBoundingClientRect().bottom ?? 0);
 
   // Position spot and popover for the current step: the popover right below the
   // highlight. With `scroll`, also scroll both into view: centered if they fit on
@@ -486,10 +478,9 @@
       // show it from its top, even if the popover doesn't fit below anymore.
       return cue && cue.bottom + scrollY < y + view.top + 2 * MARGIN ? cue.top + scrollY - PAD - view.top : y;
     };
-    if (block.top >= scrollY + topInset() + MARGIN && block.bottom <= scrollY + vh - MARGIN) return;
-    let y = Math.max(0, scrollFor(0));
-    if (y < scrollY) y = Math.max(0, scrollFor(topInset(y)));
-    scrollToY(y);
+    const inset = topInset();
+    if (block.top >= scrollY + inset + MARGIN && block.bottom <= scrollY + vh - MARGIN) return;
+    scrollToY(Math.max(0, scrollFor(inset)));
   };
 
   // Let the next position change of both boxes transition.
@@ -551,7 +542,7 @@
     }
     layout(true);
     // Once the page has loaded, again: by then the browser may have jumped to the
-    // #fragment, and js/sticky-title.js re-aligned the remark it points to.
+    // #fragment (again, once web fonts and images have shifted the layout).
     if (document.readyState !== "complete") {
       addEventListener(
         "load",

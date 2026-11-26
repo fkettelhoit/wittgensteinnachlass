@@ -7,7 +7,8 @@
   German/English pages where there is one (en-links.html). A switcher between the two
   versions follows the note on the edited writings and opens the line of the document
   lists' switcher (an interpunct apart, style.css). On the document lists it keeps the
-  list shown (js/lang-switch.js). The note beside the Tractatus links its two editions to
+  list shown: it is there once per list, each linking to that list in the other version,
+  and style.css shows the one for the list shown. The note beside the Tractatus links its two editions to
   the German and the German/English page itself, so it needs no switcher.
 
   In production, which shows no translations (yet), the German version has neither the
@@ -17,7 +18,6 @@
 {{- $en := eq .lang "en" -}}
 {{- $switchers := not hugo.IsProduction -}}
 <script src="/js/fragment-links.js" defer></script>
-<script src="/js/lang-switch.js" defer></script>
 <main class="home gallery">
   {{ partial "intro.html" }}
   {{ $c := partial "doc-format-links.html" .page.Content }}
@@ -49,7 +49,10 @@
     {{ $langs = `<span class="switch" aria-current="page">German</span> | <a class="switch" href="/en/FRAGMENT">German/English</a>` }}
   {{ end }}
   {{ $works := replace $langs "FRAGMENT" "#edited-writings" }}
-  {{ $docs := replace (replace $langs `<a class="switch"` `<a class="switch" data-keep-view`) "FRAGMENT" "#by-name" }}
+  {{ $docs := "" }}
+  {{ range slice "by-name" "by-date" "by-format" }}
+    {{ $docs = printf `%s<span class="keep-%s">%s</span>` $docs . (replace $langs "FRAGMENT" (printf "#%s" .)) }}
+  {{ end }}
   {{ if $switchers }}
     {{ $c = replaceRE `(<h2 id="edited-writings"[^>]*>.*?</h2>\s*<p class="section-note">.*?</p>)` (printf `${1}<p class="view-switcher"><span>%s</span></p>` $works) $c 1 }}
     {{ $c = replaceRE `<p class="view-switcher">(<a class="switch by-.*?)</p>` (printf `<p class="view-switcher"><span>%s</span><span>${1}</span></p>` $docs) $c 1 }}

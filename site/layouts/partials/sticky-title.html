@@ -1,0 +1,12 @@
+{{- /* The title bar of work/doc pages (shown by style.css while a remark is the URL's
+  #fragment): the title, a link back to the top, then, smaller and after an en dash (as in
+  the home page's lists), the first line about the page under its title: a document's
+  remark count and description (doc-description.html), or who edited a work
+  (edition-note.html). Context: the page. */ -}}
+{{- $meta := partial "doc-description.html" . -}}
+{{- if not $meta -}}
+  {{- $meta = index (findRE `<span class="edition-credit">.*?</span>` (partial "edition-note.html" .) 1) 0 | default "" -}}
+{{- end -}}
+<div class="sticky-title" aria-hidden="true"><div class="sticky-title-line"><a class="sticky-title-text" href="#" tabindex="-1">{{ .Title }}</a>
+  {{- with $meta | plainify | strings.TrimSpace }}<span class="sticky-title-meta">– {{ . | safeHTML }}</span>{{ end -}}
+</div></div>
