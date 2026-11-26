@@ -559,9 +559,11 @@ h2 > .fragment-link {
   padding-right: 0.3em;
   margin-left: -0.3em;
 
-  &,
+  /* As light as the format icons after the titles, as dark as the heading on hover. */
+  color: var(--color-margin-link);
+
   &:hover {
-    color: inherit;
+    color: var(--color-heading);
   }
 
   @media (hover: hover) {
