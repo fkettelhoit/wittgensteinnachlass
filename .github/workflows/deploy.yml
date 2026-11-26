@@ -74,7 +74,7 @@ jobs:
       - name: Install Hugo (extended)
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: latest
+          hugo-version: 0.160.1
           extended: true
 
       - name: Install system dependencies
