@@ -47,10 +47,7 @@ pub fn render_text_svg(
     font_regular_path: &str,
     embed_font_face: bool,
 ) -> String {
-    let clean_title = title
-        .replace(" \u{2013} ", " ")
-        .replace("\u{2013}", "");
-    let words: Vec<&str> = split_title(&clean_title);
+    let words = title_lines(title);
 
     let mut svg = format!(
         r#"<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">
@@ -118,14 +115,7 @@ pub fn render_cover(data: &CoverData, text_paths: &str) -> (String, usize) {
     let mut svg_bg = String::new(); // halos (behind everything)
     let mut svg_fg = String::new(); // circles
 
-    // Strip en dashes from title (used to separate parts, redundant with line breaks)
-    let clean_title = data
-        .title
-        .replace(" \u{2013} ", " ")
-        .replace("\u{2013}", "");
-
-    // Split title into words
-    let words: Vec<&str> = split_title(&clean_title);
+    let words = title_lines(&data.title);
 
     // Build title cell occupation map (with fuzzy margin)
     let title_cells = compute_title_cells(&words);
@@ -217,52 +207,131 @@ fn circle_radius(len: usize) -> f64 {
     r.min(CELL * 0.42) // cap at ~17px
 }
 
-/// Split title into words for display (one word per line).
-/// Splits on spaces. For long words with hyphens, splits after the hyphen.
-/// Short document IDs (Ms-101, Ts-213) are kept as single words.
-fn split_title(title: &str) -> Vec<&str> {
-    let space_words: Vec<&str> = title.split_whitespace().collect();
-    let mut words = Vec::new();
-    for w in space_words {
-        // Only split on hyphens if the word is long (>10 chars)
-        // to avoid splitting document IDs like "Ms-101", "Ts-201a1"
-        if w.len() > 10 && w.contains('-') {
-            let mut start = 0;
-            for (i, c) in w.char_indices() {
-                if c == '-' && i + 1 < w.len() {
-                    words.push(&w[start..=i]);
-                    start = i + 1;
+/// The widest a title line may be, in grid cells (of 50): wide enough for a short word or
+/// two next to a long one ("über die Farben", "Letzte Schriften"), narrow enough to leave
+/// a band of circles to the right of the title.
+const TITLE_MAX_COLS: f64 = 38.0;
+
+/// Short words that open a line with the word after them rather than end one:
+/// articles, prepositions and conjunctions (German and English).
+const PARTICLES: &[&str] = &[
+    "a", "am", "an", "and", "auf", "by", "das", "dem", "den", "der", "des", "die", "ein",
+    "eine", "for", "für", "im", "in", "mit", "of", "on", "the", "to", "und", "vom", "von",
+    "zu", "zum", "zur", "über",
+];
+
+fn is_particle(word: &str) -> bool {
+    PARTICLES.contains(&word.to_lowercase().as_str())
+}
+
+/// Split the title into its lines on the cover.
+///
+/// A spaced en dash separates the work from its part ("… der Mathematik – I App III"): it
+/// is dropped and the part starts a line of its own (an unspaced one, as in "1914–1916",
+/// is kept). Otherwise the lines are filled up to `TITLE_MAX_COLS`, where a short word
+/// (`PARTICLES`) keeps to the word after it, so that it opens a line ("über die" /
+/// "Grundlagen" / "der Mathematik") and never ends one, unless the two together are too
+/// wide for any line. Long hyphenated words break after their hyphens
+/// ("Logico-" / "Philosophicus"), document ids ("Ms-101") don't.
+fn title_lines(title: &str) -> Vec<String> {
+    let mut lines = Vec::new();
+    for part in title.split(" \u{2013} ") {
+        // Pieces of words, each with whether it follows the previous one without a space.
+        let mut pieces: Vec<(&str, bool)> = Vec::new();
+        for word in part.split_whitespace() {
+            if word.chars().count() > 10 && word.contains('-') {
+                let mut start = 0;
+                for (i, c) in word.char_indices() {
+                    if c == '-' && i + 1 < word.len() {
+                        pieces.push((&word[start..=i], start > 0));
+                        start = i + 1;
+                    }
                 }
+                pieces.push((&word[start..], start > 0));
+            } else {
+                pieces.push((word, false));
             }
-            if start < w.len() {
-                words.push(&w[start..]);
+        }
+
+        // Units that are kept on one line where possible: a run of particles together
+        // with the word after it.
+        let mut units: Vec<Vec<(&str, bool)>> = Vec::new();
+        let mut pending: Vec<(&str, bool)> = Vec::new();
+        for piece in pieces {
+            pending.push(piece);
+            if !is_particle(piece.0) {
+                units.push(std::mem::take(&mut pending));
             }
-        } else {
-            words.push(w);
+        }
+        if !pending.is_empty() {
+            units.push(pending);
+        }
+
+        let mut line = String::new();
+        for unit in units {
+            let text = join_pieces(&unit);
+            let joined = if line.is_empty() {
+                text.clone()
+            } else if unit[0].1 {
+                format!("{line}{text}")
+            } else {
+                format!("{line} {text}")
+            };
+            if text_cols(&joined) <= TITLE_MAX_COLS {
+                line = joined;
+                continue;
+            }
+            if !line.is_empty() {
+                lines.push(std::mem::take(&mut line));
+            }
+            if text_cols(&text) <= TITLE_MAX_COLS || unit.len() == 1 {
+                line = text;
+            } else {
+                // Too wide even for a line of its own: the particles, then the word.
+                let (word, particles) = unit.split_last().unwrap();
+                lines.push(join_pieces(particles));
+                line = word.0.to_string();
+            }
+        }
+        if !line.is_empty() {
+            lines.push(line);
         }
     }
-    words
+    lines
+}
+
+fn join_pieces(pieces: &[(&str, bool)]) -> String {
+    let mut s = String::new();
+    for (i, (text, attached)) in pieces.iter().enumerate() {
+        if i > 0 && !attached {
+            s.push(' ');
+        }
+        s.push_str(text);
+    }
+    s
+}
+
+/// Approximate width of a title line in grid cells (SangBleu Empire Bold at title size).
+fn text_cols(text: &str) -> f64 {
+    let cols_per_char = (CHAR_WIDTH_RATIO * TITLE_FONT_SIZE) / CELL;
+    text.chars()
+        .map(|c| match c {
+            'i' | 'l' | '-' | '1' | ' ' | '.' | ',' => 0.5,
+            'T' => 1.0,
+            'm' | 'w' => 1.2,
+            c if c.is_uppercase() => 1.2,
+            _ => 1.0,
+        })
+        .map(|w| w * cols_per_char)
+        .sum()
 }
 
 /// Compute which grid cells the title text occupies (with margins).
-fn compute_title_cells(words: &[&str]) -> HashSet<(usize, usize)> {
+fn compute_title_cells(words: &[String]) -> HashSet<(usize, usize)> {
     let mut cells = HashSet::new();
     for (i, word) in words.iter().enumerate() {
         let row = TITLE_ROW + i * TITLE_LINE_STEP;
-        let cols_per_char = (CHAR_WIDTH_RATIO * TITLE_FONT_SIZE) / CELL;
-        let word_cols = word
-            .chars()
-            .map(|c| match c {
-                'i' | 'l' | '-' | '1' => 0.5,
-                'T' => 1.0,
-                'm' | 'w' => 1.2,
-                c if c.is_uppercase() => 1.2,
-                _ => 1.0,
-            })
-            .map(|w| w * cols_per_char)
-            .sum::<f64>()
-            .ceil() as usize
-            + 1;
+        let word_cols = text_cols(word).ceil() as usize + 1;
 
         // Mark cells with 1-cell margin around each word line
         for r in row.saturating_sub(1)..=(row + TITLE_LINE_STEP).min(ROWS - 1) {
@@ -318,4 +387,29 @@ fn xml_escape(s: &str) -> String {
         .replace('>', "&gt;")
         .replace('"', "&quot;")
         .replace('\'', "&apos;")
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    fn lines(title: &str) -> String {
+        title_lines(title).join(" / ")
+    }
+
+    #[test]
+    fn title_lines_keep_short_words_with_the_next_and_parts_apart() {
+        assert_eq!(lines("Tagebücher 1914–1916"), "Tagebücher / 1914–1916");
+        assert_eq!(
+            lines("Bemerkungen über die Grundlagen der Mathematik – I App III"),
+            "Bemerkungen / über die / Grundlagen / der Mathematik / I App III"
+        );
+        assert_eq!(
+            lines("Letzte Schriften über die Philosophie der Psychologie – II MS 169"),
+            "Letzte Schriften / über die / Philosophie / der Psychologie / II MS 169"
+        );
+        assert_eq!(lines("Bemerkungen über die Farben"), "Bemerkungen / über die Farben");
+        assert_eq!(lines("Tractatus Logico-Philosophicus"), "Tractatus Logico- / Philosophicus");
+        assert_eq!(lines("Ms-101"), "Ms-101");
+    }
 }
