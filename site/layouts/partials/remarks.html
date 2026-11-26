@@ -1,0 +1,42 @@
+{{/* Remarks with their document and page in the margin columns, shared by the German
+     (single.html) and German/English (bilingual.html) reading pages: wraps each remark
+     in a <section>, moves its facsimile labels and links to other versions into the
+     margin, and appends the facsimile and viz lightboxes.
+     Context: dict "c" (the rendered content, title already processed) and "page".
+     Returns an HTML string. */}}
+{{ $c := .c }}
+{{ $c = replaceRE `</h3>` `</h3><div>` $c }}
+{{ $c = replaceRE `<h3` `</div></section><section><h3` $c }}
+{{ $c = replace $c "</div></section><section>" "<section>" 1 }}
+{{ $c = replaceRE `</a>,<a` ` &amp;</a><br><a` $c }}
+{{ $c = replaceRE `<a href="([^"]*/)([^/"]+)/([^/"]+)(\.webp)">` `<a href="#fac-$2-$3">` $c }}
+{{ $c = replaceRE `<h3 id="([^"]+)"` `<h3 id="$1"><a class="fragment-link" href="#$1">§</a` $c }}
+{{/* Full facsimile label as a tooltip: long labels are truncated with an ellipsis. */}}
+{{ $c = replaceRE `<a href="(#fac-[^"]*)">([^<]*?)( &amp;)?</a>` `<a href="$1" title="$2">$2$3</a>` $c }}
+{{/* Move fac span from inside h3 to between h3 and content div */}}
+{{ $c = replaceRE `(<span class="fac">.*?</span>)(</h3>)<div>` `${2}${1}<div>` $c }}
+{{/* Move the links to other versions of a remark (tools/add_versions.py) from the
+     start of the remark body to the end of the heading, i.e. into the margin column
+     with the work references. Heading ids are already assigned at this point. */}}
+{{ $c = replaceRE `</h3>(<span class="fac">(?:[^<]|<a [^>]*>|</a>|<br>)*</span>)<div>\s*<nav class="(versions[^"]*)">(.*?)</nav>` `<nav class="${2}">${3}</nav></h3>${1}<div>` $c }}
+{{ $c = printf "%s</div></section>" $c }}
+{{ $facs := findRE `https?://[^"]+\.webp` .page.Content }}
+{{ $facs = uniq $facs }}
+{{ $len := len $facs }}
+{{ $lightboxes := "" }}
+{{ range $i, $url := $facs }}
+  {{ $id := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" $url }}
+  {{ $prev := `<span class="lightbox-prev"></span>` }}
+  {{ $next := `<span class="lightbox-next"></span>` }}
+  {{ if gt $i 0 }}
+    {{ $prevId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (sub $i 1)) }}
+    {{ $prev = printf `<a class="lightbox-prev" href="#fac-%s">&lsaquo;</a>` $prevId }}
+  {{ end }}
+  {{ if lt $i (sub $len 1) }}
+    {{ $nextId := replaceRE `^.*/([^/]+)/([^/]+)\.webp$` "$1-$2" (index $facs (add $i 1)) }}
+    {{ $next = printf `<a class="lightbox-next" href="#fac-%s">&rsaquo;</a>` $nextId }}
+  {{ end }}
+  {{ $lightboxes = printf `%s<div id="fac-%s" class="lightbox"><a class="lightbox-backdrop" href="#_"></a><a class="lightbox-close" href="#_">&times;</a>%s<input type="checkbox" id="zoom-%s" class="lightbox-zoom-toggle"><label for="zoom-%s" class="lightbox-zoom"><img src="%s" loading="lazy"></label>%s</div>` $lightboxes $id $prev $id $id $url $next }}
+{{ end }}
+{{ $c = printf "%s%s" $c $lightboxes }}
+{{ return partial "viz-lightbox.html" $c }}

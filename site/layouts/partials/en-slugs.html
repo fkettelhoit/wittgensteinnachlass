@@ -1,0 +1,9 @@
+{{- /* The slugs of all German/English pages as a regex alternation (`ms-116|w-ce|…`),
+  for en-links.html. Call it with partialCached: it is the same for every page. */ -}}
+{{- $slugs := slice -}}
+{{- with site.GetPage "/en" -}}
+  {{- range .RegularPages -}}
+    {{- $slugs = $slugs | append (.File.ContentBaseName | urlize) -}}
+  {{- end -}}
+{{- end -}}
+{{- return delimit $slugs "|" -}}

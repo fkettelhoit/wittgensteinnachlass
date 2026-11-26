@@ -141,6 +141,11 @@ ENINDEX
     filename="$(basename "$en_src")"
     de_src="$OUTPUT_DIR/$filename"
     [ -f "$de_src" ] || continue
+    # The German side comes from the copy with version links, as on the German page.
+    de_body_src="$de_src"
+    if [ -f "$VERSIONS_DIR/$filename" ]; then
+      de_body_src="$VERSIONS_DIR/$filename"
+    fi
 
     title="$(head -1 "$de_src" | sed 's/^# //')"
     entitle="$(head -1 "$en_src" | sed 's/^# //')"
@@ -169,7 +174,7 @@ ENINDEX
       echo "layout: bilingual"
       echo "---"
       echo ""
-      python3 "$SCRIPT_DIR/merge_bilingual.py" "$de_src" "$en_src" \
+      python3 "$SCRIPT_DIR/merge_bilingual.py" "$de_body_src" "$en_src" \
         | python3 "$SCRIPT_DIR/sanitize_content.py"
     } > "$EN_CONTENT_DIR/$filename"
 

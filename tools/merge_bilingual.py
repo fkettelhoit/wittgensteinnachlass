@@ -4,10 +4,16 @@
 Splits both files by ### (h3) section markers, then outputs each section with
 the German and English content wrapped in <div class="de"> and <div class="en">.
 Blank lines around div tags are required for Goldmark to process markdown inside.
+
+The links to other versions of a remark (tools/add_versions.py), which open the German
+remark body, are kept between the heading and the two columns, as in the German
+document, so that the layout moves them into the margin in the same way.
 """
 
 import re
 import sys
+
+VERSIONS_NAV = re.compile(r'^<nav class="versions[^"]*">.*?</nav>\n')
 
 
 def split_sections(text):
@@ -68,7 +74,13 @@ def main():
         de_body = de_lines[1].strip() if len(de_lines) > 1 else ""
         en_body = en_lines[1].strip() if len(en_lines) > 1 else ""
 
+        nav = VERSIONS_NAV.match(de_body + "\n")
+        if nav:
+            de_body = de_body[nav.end():].strip()
+
         sys.stdout.write(f"\n{heading}\n\n")
+        if nav:
+            sys.stdout.write(f"{nav.group(0)}\n")
         sys.stdout.write(f'<div class="de" lang="de">\n\n{de_body}\n\n</div>\n')
         sys.stdout.write(f'<div class="en" lang="en">\n\n{en_body}\n\n</div>\n')
 

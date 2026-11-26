@@ -250,7 +250,7 @@ summary.linked > span,
 }
 
 a:hover,
-details summary:hover,
+details summary:not(.linked):hover, /* a linked one: only its span (else the whole summary) */
 summary.linked > span:hover,
 .switch:hover,
 .search-end button:hover {
@@ -686,6 +686,11 @@ body.bilingual {
     }
   }
 
+  /* The document's summaries (published remarks, similar remarks) stack in the German column. */
+  & .preamble > * {
+    grid-column: 1;
+  }
+
   & .en,
   & .en a,
   & .en h2 {
@@ -730,6 +735,23 @@ body.bilingual {
 
     & :not(.index, .gallery) > section > h3::after {
       content: none;
+    }
+
+    & .versions {
+      display: inline;
+
+      & br {
+        display: none;
+      }
+
+      &::before,
+      &::after {
+        content: " ";
+      }
+    }
+
+    & section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
+      content: "· ";
     }
   }
 

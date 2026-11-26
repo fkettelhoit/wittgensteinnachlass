@@ -1,0 +1,10 @@
+{{- /* Rendered HTML of a German/English page with its links to documents and works that
+  have a German/English page of their own (`/ms-111/#18-1`, `/w-pg-1/`) pointed at that
+  page (`/en/ms-111/#18-1`), so that readers stay in the translation. The fragments are
+  the same, as the bilingual page uses the German headings. Others keep linking to the
+  German page. Returns the HTML as a string. */ -}}
+{{- $c := string . -}}
+{{- with partialCached "en-slugs.html" . "en-slugs" -}}
+  {{- $c = replaceRE (printf `href="/(%s)/` .) `href="/en/$1/` $c -}}
+{{- end -}}
+{{- return $c -}}

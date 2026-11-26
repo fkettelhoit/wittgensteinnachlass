@@ -1,0 +1,8 @@
+{{/* The download links after the language switcher: epub, pdf and, for documents
+     (not works), the facsimiles. Context: the page. Returns an HTML string. */}}
+{{ $stem := .File.ContentBaseName }}
+{{ $fac := "" }}
+{{ if ne .Params.doctype "Work" }}
+  {{ $fac = printf `, <a href="https://cdn.wittgensteinnachlass.com/2000px/pdf/%s.pdf">facsimiles</a>` $stem }}
+{{ end }}
+{{ return printf ` (<a href="/epub/%s.epub">epub</a>, <a href="/pdf/%s.pdf">pdf</a>%s)` $stem $stem $fac }}
