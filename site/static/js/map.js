@@ -34,6 +34,7 @@
   // keep the search, keep the scroll position, and change the URL (back and forward switch
   // back).
   var pending = 0;
+  var shown = location.pathname; // the view on the page
   function go(path, push) {
     var request = ++pending;
     var url = push ? href(path) : location.pathname + location.search;
@@ -56,6 +57,7 @@
         }
         page.replaceChildren.apply(page, Array.prototype.slice.call(main.childNodes));
         document.title = doc.title;
+        shown = path;
         if (push) history.pushState({ map: true }, "", url);
         document.dispatchEvent(new CustomEvent("map:view"));
       })
@@ -86,7 +88,11 @@
     });
   });
 
+  // Back and forward between views. A fragment navigation (opening or closing a facsimile
+  // lightbox, #fac-…) also fires popstate; on the same view it must not reload the view,
+  // which would re-run the search and remove the lightboxes it made.
   window.addEventListener("popstate", function () {
+    if (location.pathname === shown) return;
     go(location.pathname, false);
   });
 
