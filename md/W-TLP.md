@@ -1,4 +1,4 @@
-# Tractatus Logico-Philosophicus
+# Logisch-philosophische Abhandlung
 
 <details>
 

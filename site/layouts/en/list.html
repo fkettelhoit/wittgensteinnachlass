@@ -1,1 +1,5 @@
-{{ define "main" }}{{ end }}
+{{- /* The German/English home page (/en/, written by tools/build_site.sh from md/index.md,
+  like the German one at /). */ -}}
+{{ define "main" }}
+{{ partial "home.html" (dict "page" . "lang" "en") }}
+{{ partial "footer.html" }} {{ end }}

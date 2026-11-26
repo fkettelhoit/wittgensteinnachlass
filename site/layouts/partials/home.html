@@ -1,0 +1,58 @@
+{{- /* The home page in one of its two versions, from the same content (md/index.md):
+  "de", the German one (/, layouts/index.html), and "en", the German/English one (/en/,
+  layouts/en/list.html), next to the German/English pages.
+
+  The German/English version shows the covers with the works' English titles (covers/en/,
+  their alt text from the cover's `data-alt-en`) and links the works and documents to their
+  German/English pages where there is one (en-links.html). A switcher between the two
+  versions follows the note on the edited writings and opens the line of the document
+  lists' switcher (an interpunct apart, style.css). On the document lists it keeps the
+  list shown (js/lang-switch.js). The note beside the Tractatus links its two editions to
+  the German and the German/English page itself, so it needs no switcher.
+
+  In production, which shows no translations (yet), the German version has neither the
+  switchers nor links to German/English pages (and nothing links to /en/).
+
+  Context: dict "page" (the page) and "lang" ("en" or "de"). */ -}}
+{{- $en := eq .lang "en" -}}
+{{- $switchers := not hugo.IsProduction -}}
+<script src="/js/fragment-links.js" defer></script>
+<script src="/js/lang-switch.js" defer></script>
+<main class="home gallery">
+  {{ partial "intro.html" }}
+  {{ $c := partial "doc-format-links.html" .page.Content }}
+  {{- /* The Nachlass Map goes between the edited writings and the documents, before the
+    anchors of the document lists' switcher. */ -}}
+  {{ $c = replace $c `<div id="by-name"></div>` (printf `%s<div id="by-name"></div>` (partial "map-home.html")) 1 }}
+  {{- /* The options of the document lists' switcher (md/index.md) are switches (style.css). */ -}}
+  {{ $c = replace $c `<a class="by-` `<a class="switch by-` }}
+  {{ if $en }}
+    {{ $c = replaceRE `<img src="/covers/(W-[^"/]+)\.svg" alt="[^"]*" data-alt-en="([^"]*)">` `<img src="/covers/en/$1.svg" alt="$2">` $c }}
+    {{ $c = partial "en-links.html" $c }}
+  {{ else }}
+    {{ $c = replaceRE ` data-alt-en="[^"]*"` "" $c }}
+  {{ end }}
+  {{- /* A link to a German/English page that does not exist (yet), or any in production,
+    is left as its text. */ -}}
+  {{ $slugs := split (partialCached "en-slugs.html" . "en-slugs") "|" }}
+  {{ range findRE `<a hreflang="en" href="/en/[^/"]+/">[^<]*</a>` $c }}
+    {{ $slug := replaceRE `^.*href="/en/([^/"]+)/".*$` "$1" . }}
+    {{ if or hugo.IsProduction (not (in $slugs $slug)) }}
+      {{ $c = replace $c . (replaceRE `^<a [^>]*>([^<]*)</a>$` "$1" .) }}
+    {{ end }}
+  {{ end }}
+  {{- /* The switcher between the two versions: after the note on the edited writings, and
+    opening the line of the document lists' switcher. */ -}}
+  {{- /* German | German/English, the current one marked; FRAGMENT: where the other opens. */ -}}
+  {{ $langs := `<a class="switch" href="/FRAGMENT">German</a> | <span class="switch" aria-current="page">German/English</span>` }}
+  {{ if not $en }}
+    {{ $langs = `<span class="switch" aria-current="page">German</span> | <a class="switch" href="/en/FRAGMENT">German/English</a>` }}
+  {{ end }}
+  {{ $works := replace $langs "FRAGMENT" "#edited-writings" }}
+  {{ $docs := replace (replace $langs `<a class="switch"` `<a class="switch" data-keep-view`) "FRAGMENT" "#by-name" }}
+  {{ if $switchers }}
+    {{ $c = replaceRE `(<h2 id="edited-writings"[^>]*>.*?</h2>\s*<p class="section-note">.*?</p>)` (printf `${1}<p class="view-switcher"><span>%s</span></p>` $works) $c 1 }}
+    {{ $c = replaceRE `<p class="view-switcher">(<a class="switch by-.*?)</p>` (printf `<p class="view-switcher"><span>%s</span><span>${1}</span></p>` $docs) $c 1 }}
+  {{ end }}
+  {{ partial "heading-links.html" $c | safeHTML }}
+</main>

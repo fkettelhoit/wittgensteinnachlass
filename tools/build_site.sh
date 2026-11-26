@@ -26,18 +26,23 @@ for src in "$OUTPUT_DIR"/*.md; do
     continue
   fi
 
-  # Handle index.md separately — it becomes _index.md (Hugo's homepage content)
+  # Handle index.md separately — it becomes _index.md (Hugo's homepage content), once
+  # for the German home page (/) and once for the German/English one (/en/); see
+  # site/layouts/partials/home.html.
   if [ "$filename" = "index.md" ]; then
-    {
-      echo "---"
-      echo "title: \"Wittgenstein\u2019s Writings\""
-      echo "---"
-      echo ""
-      # Rewrite relative markdown links to Hugo permalinks:
-      # (Ms-175.md) → (/ms-175/)
-      tail -n +2 "$src" \
-        | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge'
-    } > "$CONTENT_DIR/_index.md"
+    mkdir -p "$CONTENT_DIR/en"
+    for home in "$CONTENT_DIR/_index.md" "$CONTENT_DIR/en/_index.md"; do
+      {
+        echo "---"
+        echo "title: \"Wittgenstein\u2019s Writings\""
+        echo "---"
+        echo ""
+        # Rewrite relative markdown links to Hugo permalinks:
+        # (Ms-175.md) → (/ms-175/)
+        tail -n +2 "$src" \
+          | perl -pe 's/\(([A-Za-z]+-[\w-]+)\.md\)/"(\/" . lc($1) . "\/)"/ge'
+      } > "$home"
+    done
     continue
   fi
 
@@ -129,12 +134,6 @@ en_count=0
 if [ -d "$EN_DIR" ]; then
   EN_CONTENT_DIR="$CONTENT_DIR/en"
   mkdir -p "$EN_CONTENT_DIR"
-
-  cat > "$EN_CONTENT_DIR/_index.md" <<'ENINDEX'
----
-title: "Translations"
----
-ENINDEX
 
   for en_src in "$EN_DIR"/*.md; do
     [ -f "$en_src" ] || continue

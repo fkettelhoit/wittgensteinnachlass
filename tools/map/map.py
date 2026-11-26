@@ -128,7 +128,7 @@ def read_index(md_dir):
     # Major works: the covers shown directly (not the collapsed "shorter works").
     shown = idx.split('<details class="shorter-works">')[0]
     works = [(code.upper(), html.unescape(title)) for code, title in re.findall(
-        r'<a class="cover" href="/w-([a-z0-9]+)/">.*?<span class="cover-info"><span>(.*?)</span>', shown)]
+        r'<a class="cover" href="/w-([a-z0-9]+)/"><img [^>]*data-alt-en="([^"]*)"', shown)]
 
     def ordering(cls):
         start = idx.index(f'class="index doc-list {cls}"')

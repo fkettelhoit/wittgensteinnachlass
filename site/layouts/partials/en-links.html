@@ -2,9 +2,12 @@
   have a German/English page of their own (`/ms-111/#18-1`, `/w-pg-1/`) pointed at that
   page (`/en/ms-111/#18-1`), so that readers stay in the translation. The fragments are
   the same, as the bilingual page uses the German headings. Others keep linking to the
-  German page. Returns the HTML as a string. */ -}}
+  German page, as do links that ask for it (`<a hreflang="de" href=…>`, e.g. the German
+  edition of the Tractatus on the home page). Returns the HTML as a string. */ -}}
 {{- $c := string . -}}
 {{- with partialCached "en-slugs.html" . "en-slugs" -}}
+  {{- $c = replace $c `hreflang="de" href="` `hreflang="de" data-de-href-kept="` -}}
   {{- $c = replaceRE (printf `href="/(%s)/` .) `href="/en/$1/` $c -}}
+  {{- $c = replace $c `hreflang="de" data-de-href-kept="` `hreflang="de" href="` -}}
 {{- end -}}
 {{- return $c -}}

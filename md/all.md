@@ -108,15 +108,15 @@
 
 - 1914, 41 remarks
 
-### [Wittgenstein's Notes on Logic](W-NL.md)
+### [Notes on Logic](W-NL.md)
 
 - 1913–1914, 135 remarks
 
 ## 1914
 
-### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
+### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
 
-### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
+### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
 
 ### [Ms-301](Ms-301.md) <span class="doc-info">(<a href="/w-nm/" title="Notes Dictated to G.E. Moore in Norway">NM</a>) – 41 remarks, 'Wittgenstein on Logic, April 1914'; 1914</span>
 

@@ -2,7 +2,7 @@
 // step, highlighting the element to look at, marking the one to click, and advancing
 // once the reader has done so. Self-contained and inert unless a tour is in progress:
 // it is started by the button on the homepage (partials/intro.html, a link to
-// "/?tour"), and the current step is kept in sessionStorage so the tour survives
+// "/?tour": the tour follows the German pages, from the German home page), and the current step is kept in sessionStorage so the tour survives
 // navigating between pages (and is forgotten when the tab is closed). On a page
 // other than the current step's, the tour stays out of the way: it pauses, and
 // picks up again on returning to that page (e.g. with the back button).
@@ -48,6 +48,7 @@
   // Nestroy: search → PI → its facsimile → a later version in Ms-134 → Ms-134's
   // similar remarks → Ts-229, where many of them were reworked.
 
+  const HOME = "/"; // the German home page, which the German pages link to
   const PI = "/w-pi/";
   const MOTTO = "ts-227a-1-2"; // the motto's id in PI
   const MOTTO_SECTION = `section:has(> [id="${MOTTO}"])`;
@@ -62,7 +63,7 @@
 
   const steps = [
     {
-      page: "/",
+      page: HOME,
       // The note on the works compiled after Wittgenstein's death and their first row of
       // covers (not all of them on narrow screens, where they wrap, so that the highlight
       // and the popover fit together).
@@ -70,7 +71,10 @@
         const note = [...document.querySelectorAll("main > .section-note")].find((p) =>
           p.textContent.startsWith("Compiled by"),
         );
-        const grid = note?.nextElementSibling;
+        // The covers follow the note and the switcher between the German and the
+        // German/English home page.
+        let grid = note?.nextElementSibling;
+        while (grid && !grid.querySelector("a.cover")) grid = grid.nextElementSibling;
         const covers = [...(grid?.querySelectorAll("a.cover") ?? [])];
         const row = covers.filter((el) => el.offsetTop === covers[0]?.offsetTop);
         return [note, ...row].filter(Boolean);
@@ -79,7 +83,7 @@
       text: "These are the works compiled by Wittgenstein’s literary executors after his death. Above them is the <em>Tractatus</em>, which he published himself, and below them other edited writings. Further down are his individual manuscripts and typescripts, listed by name or by date.",
     },
     {
-      page: "/",
+      page: HOME,
       target: ".search-input",
       cue: ".search-input",
       skip: () => !searchInput(),
@@ -94,7 +98,7 @@
       text: "You can also search all transcriptions at once. While you search, the works and documents are hidden; clear the search to bring them back.\n\nTry it: search for <strong>Nestroy</strong>.",
     },
     {
-      page: "/",
+      page: HOME,
       target: `.search-result:has(${RESULT_LINK})`,
       click: RESULT,
       skip: () => !searchInput(),
@@ -107,7 +111,7 @@
       text: "The motto of the <em>Philosophical Investigations</em> quotes the playwright Johann Nestroy and is found in three documents. Each result names its document and, if the remark was published, the work it appears in.\n\nClick <strong>PI</strong> to read the remark in the <em>Investigations</em>.",
     },
     {
-      page: "/",
+      page: HOME,
       target: `a.cover[href="${PI}"]`,
       click: `a.cover[href="${PI}"]`,
       skip: () => !!searchInput(),
@@ -173,12 +177,12 @@
     {
       page: "/ts-229/",
       target: "body > nav, main > h1, main > .lang-switcher",
-      click: 'body > nav a[href="/"]',
+      click: `body > nav a[href="${HOME}"]`,
       title: "Downloads",
       text: "Every work and document can be downloaded as an epub or a pdf, and every document also as a pdf of its facsimiles. The title at the top of every page takes you back home.\n\nClick <strong>Wittgenstein’s Writings</strong> to go home.",
     },
     {
-      page: "/",
+      page: HOME,
       final: true,
       target: ".tour-start, .tour-bubble",
       boxes: ".tour-bubble",

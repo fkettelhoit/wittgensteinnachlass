@@ -78,6 +78,10 @@ covers:
 	cd tools/covers && cargo run --release -- --all $(COVERS_FLAGS) \
 		--font-bold "$(COVERS_FONT_DIR)/SangBleuEmpire-Bold-WebS.ttf" \
 		--font-regular "$(COVERS_FONT_DIR)/SangBleuEmpire-Regular-WebS.ttf"
+	# The works with their English titles, for the German/English home page.
+	cd tools/covers && cargo run --release -- --all --english --output ../../covers/en $(COVERS_FLAGS) \
+		--font-bold "$(COVERS_FONT_DIR)/SangBleuEmpire-Bold-WebS.ttf" \
+		--font-regular "$(COVERS_FONT_DIR)/SangBleuEmpire-Regular-WebS.ttf"
 
 # EPUBs (needs md/ + covers/)
 epub: covers

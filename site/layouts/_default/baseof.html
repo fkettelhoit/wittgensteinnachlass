@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if not .IsHome }}{{ .Title }} – {{ end }}{{ .Site.Title }}</title>
+  {{- $home := or .IsHome (eq .RelPermalink "/en/") }}
+  <title>{{ if not $home }}{{ .Title }} – {{ end }}{{ .Site.Title }}</title>
   <link rel="stylesheet" href="/css/style.css">
   {{ with resources.Get "css/doc-formats.css" | resources.ExecuteAsTemplate "css/doc-formats.css" . | minify | fingerprint }}<link rel="stylesheet" href="{{ .RelPermalink }}">{{ end }}
   <link rel="icon" type="image/png" sizes="any" href="/favicon.png" media="(prefers-color-scheme: light)">

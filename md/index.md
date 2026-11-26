@@ -5,45 +5,45 @@
 <p class="section-note">Published by Wittgenstein during his lifetime.</p>
 
 <div class="published-works">
-<a class="cover" href="/w-tlp/"><img src="/covers/W-TLP.svg" alt="W-TLP"><span class="cover-info"><span>Tractatus Logico-Philosophicus</span></span></a><span class="published-line" aria-hidden="true"></span>
-<p class="published-note"><em>Logisch-philosophische Abhandlung</em> (1921, German)<br><em>Tractatus Logico-Philosophicus</em> (1922, German–English)</p>
+<a class="cover" href="/w-tlp/"><img src="/covers/W-TLP.svg" alt="Logisch-philosophische Abhandlung" data-alt-en="Tractatus Logico-Philosophicus"></a><span class="published-line" aria-hidden="true"></span>
+<p class="published-note"><em>Logisch-philosophische Abhandlung</em> (1921, <a hreflang="de" href="/w-tlp/">German</a>)<br><em>Tractatus Logico-Philosophicus</em> (1922, <a hreflang="en" href="/en/w-tlp/">German–English</a>)</p>
 </div>
 
 ## Edited Writings
 
 <p class="section-note">Compiled by Wittgenstein’s literary executors.</p>
 
-<a class="cover" href="/w-nb/"><img src="/covers/W-NB.svg" alt="W-NB"><span class="cover-info"><span>Notebooks 1914–1916</span></span></a>
-<a class="cover" href="/w-pr/"><img src="/covers/W-PR.svg" alt="W-PR"><span class="cover-info"><span>Philosophical Remarks</span></span></a>
-<a class="cover" href="/w-bbb/"><img src="/covers/W-BBB.svg" alt="W-BBB"><span class="cover-info"><span>The Blue and Brown Books</span></span></a>
-<a class="cover" href="/w-epb/"><img src="/covers/W-EPB.svg" alt="W-EPB"><span class="cover-info"><span>Eine Philosophische Betrachtung</span></span></a>
-<a class="cover" href="/w-db/"><img src="/covers/W-DB.svg" alt="W-DB"><span class="cover-info"><span>Movements of Thought</span></span></a>
-<a class="cover" href="/w-rfm/"><img src="/covers/W-RFM.svg" alt="W-RFM"><span class="cover-info"><span>Remarks on the Foundations of Mathematics</span></span></a>
-<a class="cover" href="/w-pg/"><img src="/covers/W-PG.svg" alt="W-PG"><span class="cover-info"><span>Philosophical Grammar</span></span></a>
-<a class="cover" href="/w-pi/"><img src="/covers/W-PI.svg" alt="W-PI"><span class="cover-info"><span>Philosophical Investigations</span></span></a>
-<a class="cover" href="/w-rpp/"><img src="/covers/W-RPP.svg" alt="W-RPP"><span class="cover-info"><span>Remarks on the Philosophy of Psychology</span></span></a>
-<a class="cover" href="/w-z/"><img src="/covers/W-Z.svg" alt="W-Z"><span class="cover-info"><span>Zettel</span></span></a>
-<a class="cover" href="/w-ppf/"><img src="/covers/W-PPF.svg" alt="W-PPF"><span class="cover-info"><span>Philosophy of Psychology – A Fragment</span></span></a>
-<a class="cover" href="/w-lw/"><img src="/covers/W-LW.svg" alt="W-LW"><span class="cover-info"><span>Last Writings on the Philosophy of Psychology</span></span></a>
-<a class="cover" href="/w-roc/"><img src="/covers/W-ROC.svg" alt="W-ROC"><span class="cover-info"><span>Remarks on Colour</span></span></a>
-<a class="cover" href="/w-vb/"><img src="/covers/W-VB.svg" alt="W-VB"><span class="cover-info"><span>Culture and Value</span></span></a>
-<a class="cover" href="/w-oc/"><img src="/covers/W-OC.svg" alt="W-OC"><span class="cover-info"><span>On Certainty</span></span></a>
+<a class="cover" href="/w-nb/"><img src="/covers/W-NB.svg" alt="Tagebücher 1914–1916" data-alt-en="Notebooks 1914–1916"></a>
+<a class="cover" href="/w-pr/"><img src="/covers/W-PR.svg" alt="Philosophische Bemerkungen" data-alt-en="Philosophical Remarks"></a>
+<a class="cover" href="/w-bbb/"><img src="/covers/W-BBB.svg" alt="The Blue and Brown Books" data-alt-en="The Blue and Brown Books"></a>
+<a class="cover" href="/w-epb/"><img src="/covers/W-EPB.svg" alt="Eine Philosophische Betrachtung" data-alt-en="Eine Philosophische Betrachtung"></a>
+<a class="cover" href="/w-db/"><img src="/covers/W-DB.svg" alt="Denkbewegungen" data-alt-en="Movements of Thought"></a>
+<a class="cover" href="/w-rfm/"><img src="/covers/W-RFM.svg" alt="Bemerkungen über die Grundlagen der Mathematik" data-alt-en="Remarks on the Foundations of Mathematics"></a>
+<a class="cover" href="/w-pg/"><img src="/covers/W-PG.svg" alt="Philosophische Grammatik" data-alt-en="Philosophical Grammar"></a>
+<a class="cover" href="/w-pi/"><img src="/covers/W-PI.svg" alt="Philosophische Untersuchungen" data-alt-en="Philosophical Investigations"></a>
+<a class="cover" href="/w-rpp/"><img src="/covers/W-RPP.svg" alt="Bemerkungen über die Philosophie der Psychologie" data-alt-en="Remarks on the Philosophy of Psychology"></a>
+<a class="cover" href="/w-z/"><img src="/covers/W-Z.svg" alt="Zettel" data-alt-en="Zettel"></a>
+<a class="cover" href="/w-ppf/"><img src="/covers/W-PPF.svg" alt="Philosophie der Psychologie – Ein Fragment" data-alt-en="Philosophy of Psychology – A Fragment"></a>
+<a class="cover" href="/w-lw/"><img src="/covers/W-LW.svg" alt="Letzte Schriften über die Philosophie der Psychologie" data-alt-en="Last Writings on the Philosophy of Psychology"></a>
+<a class="cover" href="/w-roc/"><img src="/covers/W-ROC.svg" alt="Bemerkungen über die Farben" data-alt-en="Remarks on Colour"></a>
+<a class="cover" href="/w-vb/"><img src="/covers/W-VB.svg" alt="Vermischte Bemerkungen" data-alt-en="Culture and Value"></a>
+<a class="cover" href="/w-oc/"><img src="/covers/W-OC.svg" alt="Über Gewißheit" data-alt-en="On Certainty"></a>
 
 <details class="shorter-works">
 <summary>…and 12 other edited writings</summary>
 
-<a class="cover" href="/w-nl/"><img src="/covers/W-NL.svg" alt="W-NL"><span class="cover-info"><span>Wittgenstein's Notes on Logic</span></span></a>
-<a class="cover" href="/w-nm/"><img src="/covers/W-NM.svg" alt="W-NM"><span class="cover-info"><span>Notes Dictated to G.E. Moore in Norway</span></span></a>
-<a class="cover" href="/w-gt/"><img src="/covers/W-GT.svg" alt="W-GT"><span class="cover-info"><span>Secret Diaries</span></span></a>
-<a class="cover" href="/w-pt/"><img src="/covers/W-PT.svg" alt="W-PT"><span class="cover-info"><span>Prototractatus</span></span></a>
-<a class="cover" href="/w-wbg/"><img src="/covers/W-WBG.svg" alt="W-WBG"><span class="cover-info"><span>Dictionary for Elementary Schools</span></span></a>
-<a class="cover" href="/w-war/"><img src="/covers/W-WAR.svg" alt="W-WAR"><span class="cover-info"><span>Letter to Ramsey</span></span></a>
-<a class="cover" href="/w-le/"><img src="/covers/W-LE.svg" alt="W-LE"><span class="cover-info"><span>A Lecture on Ethics</span></span></a>
-<a class="cover" href="/w-ph/"><img src="/covers/W-PH.svg" alt="W-PH"><span class="cover-info"><span>Philosophy</span></span></a>
-<a class="cover" href="/w-lpe/"><img src="/covers/W-LPE.svg" alt="W-LPE"><span class="cover-info"><span>Notes for Lectures on “Private Experience” and “Sense Data”</span></span></a>
-<a class="cover" href="/w-ce/"><img src="/covers/W-CE.svg" alt="W-CE"><span class="cover-info"><span>Cause and Effect</span></span></a>
-<a class="cover" href="/w-npl/"><img src="/covers/W-NPL.svg" alt="W-NPL"><span class="cover-info"><span>Notes for the “Philosophical Lecture”</span></span></a>
-<a class="cover" href="/w-gb/"><img src="/covers/W-GB.svg" alt="W-GB"><span class="cover-info"><span>Remarks on Frazer's Golden Bough</span></span></a>
+<a class="cover" href="/w-nl/"><img src="/covers/W-NL.svg" alt="Aufzeichnungen über Logik" data-alt-en="Notes on Logic"></a>
+<a class="cover" href="/w-nm/"><img src="/covers/W-NM.svg" alt="Notes Dictated to G.E. Moore in Norway" data-alt-en="Notes Dictated to G.E. Moore in Norway"></a>
+<a class="cover" href="/w-gt/"><img src="/covers/W-GT.svg" alt="Geheime Tagebücher" data-alt-en="Secret Diaries"></a>
+<a class="cover" href="/w-pt/"><img src="/covers/W-PT.svg" alt="Prototractatus" data-alt-en="Prototractatus"></a>
+<a class="cover" href="/w-wbg/"><img src="/covers/W-WBG.svg" alt="Wörterbuch für Volksschulen" data-alt-en="Dictionary for Elementary Schools"></a>
+<a class="cover" href="/w-war/"><img src="/covers/W-WAR.svg" alt="Letter to Ramsey" data-alt-en="Letter to Ramsey"></a>
+<a class="cover" href="/w-le/"><img src="/covers/W-LE.svg" alt="A Lecture on Ethics" data-alt-en="A Lecture on Ethics"></a>
+<a class="cover" href="/w-ph/"><img src="/covers/W-PH.svg" alt="Philosophie" data-alt-en="Philosophy"></a>
+<a class="cover" href="/w-lpe/"><img src="/covers/W-LPE.svg" alt="Notes for Lectures on “Private Experience” and “Sense Data”" data-alt-en="Notes for Lectures on “Private Experience” and “Sense Data”"></a>
+<a class="cover" href="/w-ce/"><img src="/covers/W-CE.svg" alt="Ursache und Wirkung" data-alt-en="Cause and Effect"></a>
+<a class="cover" href="/w-npl/"><img src="/covers/W-NPL.svg" alt="Notes for the “Philosophical Lecture”" data-alt-en="Notes for the “Philosophical Lecture”"></a>
+<a class="cover" href="/w-gb/"><img src="/covers/W-GB.svg" alt="Bemerkungen über Frazers Golden Bough" data-alt-en="Remarks on Frazer's Golden Bough"></a>
 
 </details>
 
@@ -273,9 +273,9 @@
 
 <div>
 
-### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
+### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
 
-### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
+### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
 
 ### [Ts-202](Ts-202.md) <span class="doc-info">(<a href="/w-tlp/" title="Tractatus Logico-Philosophicus">TLP</a>) – 540 remarks, 'Logisch-Philosophische Abhandlung', Engelmann; 1918</span>
 
@@ -415,9 +415,9 @@
 
 <div>
 
-### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
+### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
 
-### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
+### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
 
 ### [Ms-301](Ms-301.md) <span class="doc-info">(<a href="/w-nm/" title="Notes Dictated to G.E. Moore in Norway">NM</a>) – 41 remarks, 'Wittgenstein on Logic, April 1914'; 1914</span>
 
@@ -1293,9 +1293,9 @@
 
 <div>
 
-### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
+### [Ts-201a1](Ts-201a1.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 132 remarks, 'Notes on Logic'; 1913–14</span>
 
-### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Wittgenstein's Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
+### [Ts-201a2](Ts-201a2.md) <span class="doc-info">(<a href="/w-nl/" title="Notes on Logic">NL</a>) – 133 remarks, 'Notes on Logic'; 1914</span>
 
 ### [Ts-202](Ts-202.md) <span class="doc-info">(<a href="/w-tlp/" title="Tractatus Logico-Philosophicus">TLP</a>) – 540 remarks, 'Logisch-Philosophische Abhandlung', Engelmann; 1918</span>
 

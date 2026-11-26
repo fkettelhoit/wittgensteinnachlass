@@ -47,6 +47,12 @@ struct Cli {
     /// @font-face file:// rules and must resolve "SangBleu Empire" by family name.
     #[arg(long)]
     no_font_face: bool,
+
+    /// Title the covers of the works with their English titles (from `work_titles.tsv` in
+    /// the input directory, written by the parser), for the German/English home page.
+    /// Only works listed there get a cover. Use with `--output ../../covers/en`.
+    #[arg(long)]
+    english: bool,
 }
 
 fn main() {
@@ -66,10 +72,19 @@ fn main() {
 
     let mut failed = 0;
 
+    let english_titles = cli.english.then(|| english_titles(&cli.input));
+
     for path in &files {
         let stem = path.file_stem().unwrap().to_string_lossy().to_string();
+        let english_title = english_titles.as_ref().map(|titles| titles.get(&stem));
+        if english_title == Some(None) {
+            continue;
+        }
         let content = fs::read_to_string(path).expect("Failed to read markdown file");
         let mut data = parse::parse_for_cover(&content);
+        if let Some(Some(title)) = english_title {
+            data.title = title.clone();
+        }
 
         if data.title.is_empty() {
             eprintln!("  Skipping {} (no title)", stem);
@@ -313,6 +328,20 @@ fn extract_text_paths(svg: &str) -> String {
         search_from = group_end + 4;
     }
     result
+}
+
+/// Work id → English title, from the parser's `work_titles.tsv` (work, german, english).
+fn english_titles(input: &PathBuf) -> std::collections::HashMap<String, String> {
+    let path = input.join("work_titles.tsv");
+    let tsv = fs::read_to_string(&path)
+        .unwrap_or_else(|_| panic!("English titles not found: {}", path.display()));
+    tsv.lines()
+        .skip(1)
+        .filter_map(|line| {
+            let cols: Vec<&str> = line.split('\t').collect();
+            Some((cols.first()?.to_string(), cols.get(2)?.to_string()))
+        })
+        .collect()
 }
 
 fn discover_files(input: &PathBuf, file: &Option<String>, all: bool) -> Vec<PathBuf> {

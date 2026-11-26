@@ -6,7 +6,7 @@
 <h2 id="nachlass-map">Nachlass Map</h2>
 <p class="section-note">Every remark of the Nachlass at a glance.</p>
 <div class="published-works nachlass-map">
-<a class="cover" href="{{ .RelPermalink }}">{{ with .Resources.Get "preview.svg" }}<img src="{{ .RelPermalink }}" alt="Nachlass Map">{{ end }}<span class="cover-info"><span>Nachlass Map</span></span></a><span class="published-line" aria-hidden="true"></span>
+<a class="cover" href="{{ .RelPermalink }}">{{ with .Resources.Get "preview.svg" }}<img src="{{ .RelPermalink }}" alt="Nachlass Map">{{ end }}</a><span class="published-line" aria-hidden="true"></span>
 <p class="published-note">{{ lang.FormatNumberCustom 0 .Params.remarks "- . ," }} remarks in {{ .Params.documents }} manuscripts and typescripts:<br>what was published, and where a theme was worked on.</p>
 </div>
 {{- end -}}

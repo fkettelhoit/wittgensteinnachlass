@@ -997,23 +997,6 @@ body.bilingual {
   }
 }
 
-.gallery .cover-info {
-  position: absolute;
-  bottom: 2.5%;
-  left: 4%;
-  max-width: 82%;
-  font-size: 6cqi;
-  line-height: 1.6;
-
-  & > span {
-    font-family: var(--font-heading);
-    padding: 0.15em 0.3em;
-    box-decoration-break: clone;
-    color: var(--color-text);
-    background: var(--color-bg);
-  }
-}
-
 /* --- Home page --- */
 
 .home {
@@ -1028,7 +1011,8 @@ body.bilingual {
   }
 
   & .section-note:has(+ p > a.cover),
-  & .section-note:has(+ .published-works) {
+  & .section-note:has(+ .published-works),
+  & .view-switcher:has(+ p > a.cover) {
     margin-bottom: 1rem;
   }
 
@@ -1095,12 +1079,6 @@ body.bilingual {
     height: calc((100cqi - 1rem) * 0.75);
     object-fit: cover;
     object-position: left top;
-  }
-
-  /* As large as a cover's label: 6% of a cell's width. */
-  & .cover-info {
-    font-size: calc((100cqi - 1rem) / 2 * 0.06);
-    max-width: 41%;
   }
 
   & .published-note {
@@ -1171,7 +1149,8 @@ body.bilingual {
 
 /* An interpunct between visible groups (a hidden group takes its interpunct with it). */
 .search-options > span:not([hidden]) ~ span:not([hidden])::before,
-.search-end > span:not([hidden]) ~ span:not([hidden])::before {
+.search-end > span:not([hidden]) ~ span:not([hidden])::before,
+.view-switcher > span ~ span::before {
   content: "·" / "";
   margin: 0 0.75em;
   font-style: normal;

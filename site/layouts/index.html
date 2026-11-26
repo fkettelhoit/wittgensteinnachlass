@@ -1,13 +1,3 @@
 {{ define "main" }}
-<script src="/js/fragment-links.js" defer></script>
-<main class="home gallery">
-  {{ partial "intro.html" }}
-  {{ $c := partial "doc-format-links.html" .Content }}
-  {{- /* The Nachlass Map goes between the edited writings and the documents, before the
-    anchors of the document lists' switcher. */ -}}
-  {{ $c = replace $c `<div id="by-name"></div>` (printf `%s<div id="by-name"></div>` (partial "map-home.html")) 1 }}
-  {{- /* The options of the document lists' switcher (md/index.md) are switches (style.css). */ -}}
-  {{ $c = replace $c `<a class="by-` `<a class="switch by-` }}
-  {{ partial "heading-links.html" $c | safeHTML }}
-</main>
+{{ partial "home.html" (dict "page" . "lang" "de") }}
 {{ partial "footer.html" }} {{ end }}
