@@ -24,7 +24,9 @@
   const PAD = 6, GAP = 12, MARGIN = 16;
 
   // --- Steps ------------------------------------------------------------------
-  // page: pathname the step lives on. target: element(s) to highlight (the highlight
+  // page: pathname the step lives on, or several (the first is where going back to
+  // the step loads it), e.g. a Nachlass Map view, which js/map.js switches to in
+  // place, without loading the page. target: element(s) to highlight (the highlight
   // spans the content of all matches, e.g. a remark's margin columns and text): a
   // selector, or a function returning the elements.
   // click: advance when this is clicked ("Next" clicks it, if visible). cue:
@@ -35,6 +37,8 @@
   // undo: going back from this step, revert what the reader did to finish the step
   // before (on the same page), so that it doesn't count as done right away.
   // fallback: not counted in "n of m" (it stands in for skipped steps).
+  // continues: part of the step before (e.g. what its click opened): the same number in
+  // "n of m" and the same title, so that the count is one per topic.
   // final: the closing message: not counted, no "n of m", and "Finish"; the start
   // button is shown again for it.
   // boxes: target elements measured by their whole box (and ::after) rather than
@@ -46,7 +50,8 @@
   //
   // The route follows the motto of the Philosophical Investigations, which quotes
   // Nestroy: search → PI → its facsimile → a later version in Ms-134 → Ms-134's
-  // similar remarks → Ts-229, where many of them were reworked.
+  // similar remarks → Ts-229, where many of them were reworked → back home to the
+  // Nachlass Map: the same search there, its hits on the map → the Mathematics view.
 
   const HOME = "/"; // the German home page, which the German pages link to
   const PI = "/w-pi/";
@@ -57,9 +62,17 @@
   const RESULT_LINK = `a[href="${PI}#${MOTTO}"]`; // the search result's "PI" link
   const RESULT = `.search-results ${RESULT_LINK}`;
   const MS134 = "/ms-134/";
+  const MAP = "/map/"; // the Nachlass Map's Search view
+  const MATH = "/map/themes/math/"; // its Mathematics view (js/map.js switches to it in place)
+  const MOTTO_DOCS = ["Ts-227a", "Ts-227b", "Ms-134"]; // where the search finds the motto
   const SIMILAR = "main > details.similar";
   const TS229 = `${SIMILAR} > details:has(> summary a[href="/ts-229/"])`;
   const searchInput = () => document.querySelector(".search:not([hidden]) .search-input");
+  const clearSearch = () => {
+    const input = searchInput();
+    input.value = "";
+    input.dispatchEvent(new Event("input", { bubbles: true }));
+  };
 
   const steps = [
     {
@@ -79,8 +92,8 @@
         const row = covers.filter((el) => el.offsetTop === covers[0]?.offsetTop);
         return [note, ...row].filter(Boolean);
       },
-      title: "Works and documents",
-      text: "These are the works compiled by Wittgenstein’s literary executors after his death. Above them is the <em>Tractatus</em>, which he published himself, and below them other edited writings. Further down are his individual manuscripts and typescripts, listed by name or by date.",
+      title: "Writings and Documents",
+      text: "These writings were compiled by Wittgenstein’s literary executors after his death. Above is the <em>Tractatus</em>, which he published himself. Further down: his manuscripts and typescripts, by name, date or format (e.g. notebook or loose sheets).",
     },
     {
       page: HOME,
@@ -95,20 +108,17 @@
         input.dispatchEvent(new Event("input", { bubbles: true }));
       },
       title: "Search",
-      text: "You can also search all transcriptions at once. While you search, the works and documents are hidden; clear the search to bring them back.\n\nTry it: search for <strong>Nestroy</strong>.",
+      text: "You can also search all transcriptions at once. While you search, the rest of the home page is hidden; clear the search to bring it back.\n\nTry it: search for <strong>Nestroy</strong>.",
     },
     {
       page: HOME,
       target: `.search-result:has(${RESULT_LINK})`,
       click: RESULT,
       skip: () => !searchInput(),
-      undo: () => {
-        const input = searchInput();
-        input.value = "";
-        input.dispatchEvent(new Event("input", { bubbles: true }));
-      },
-      title: "Search results",
-      text: "The motto of the <em>Philosophical Investigations</em> quotes the playwright Johann Nestroy and is found in three documents. Each result names its document and, if the remark was published, the work it appears in.\n\nClick <strong>PI</strong> to read the remark in the <em>Investigations</em>.",
+      undo: clearSearch,
+      continues: true,
+      title: "Search",
+      text: "The motto of the <em>Philosophical Investigations</em> quotes the playwright Johann Nestroy and is found in three documents. Each result names its document and, if the remark was published, where.\n\nClick <strong>PI</strong> to read the remark in the <em>Investigations</em>.",
     },
     {
       page: HOME,
@@ -116,8 +126,8 @@
       click: `a.cover[href="${PI}"]`,
       skip: () => !!searchInput(),
       fallback: true,
-      title: "Works",
-      text: "Click <em>Philosophical Investigations</em> to open it.",
+      title: "Edited Writings",
+      text: "Click <em>Philosophische Untersuchungen</em> (<em>Philosophical Investigations</em>) to open it.",
     },
     {
       page: PI,
@@ -151,7 +161,7 @@
       click: ".sticky-title-text",
       boxes: ".sticky-title",
       fixed: true,
-      title: "Title bar",
+      title: "Title Bar",
       text: "The same motto appears in one of Wittgenstein’s notebooks, where he names its source: Nestroy’s play <em>Der Schützling</em>. It is dated 25 April 1947, after the typescript of the <em>Investigations</em> was made, so he must have added it there by hand later.\n\nThe bar at the top shows where you are. Click <strong>Ms-134</strong> in it to go to the top.",
     },
     {
@@ -162,7 +172,7 @@
       done: () => document.querySelector(SIMILAR)?.open,
       next: () => (document.querySelector(SIMILAR).open = true),
       title: "Overviews",
-      text: "Every work and document starts with an overview. Many of the remarks in this notebook reappear, reworked, in later typescripts.\n\nClick <strong>189 similar remarks</strong> to see where.",
+      text: "Every document and edited writing starts with an overview. Many of the remarks in this notebook reappear, reworked, in later typescripts.\n\nClick <strong>189 similar remarks</strong> to see where.",
     },
     {
       page: MS134,
@@ -171,7 +181,8 @@
       click: `${TS229} > summary a[href="/ts-229/"]`,
       next: () => (document.querySelector(TS229).open = true),
       undo: () => (document.querySelector(SIMILAR).open = false),
-      title: "Similar remarks",
+      continues: true,
+      title: "Overviews",
       text: "Almost all of them reappear in Ts-245 and in Ts-229. The visualization for Ts-229 connects each remark in the notebook (left) to the similar one in the typescript (right): remarks from all over the notebook were gathered into a few dozen pages.\n\nOpen <strong>184 similar</strong>, then click <strong>Ts-229</strong>.",
     },
     {
@@ -179,15 +190,68 @@
       target: "body > nav, main > h1, main > .doc-description, main > .lang-switcher",
       click: `body > nav a[href="${HOME}"]`,
       title: "Downloads",
-      text: "Every work and document can be downloaded as an epub or a pdf, and every document also as a pdf of its facsimiles. The title at the top of every page takes you back home.\n\nClick <strong>Wittgenstein’s Writings</strong> to go home.",
+      text: "Every document and edited writing can be downloaded as an epub or a pdf, and every document also as a pdf of its facsimiles. The title at the top of every page takes you back to the home page.\n\nClick <strong>Wittgenstein’s Writings</strong> to go back.",
     },
     {
       page: HOME,
+      // The Nachlass Map's section: heading, note and preview (partials/map-home.html).
+      target: "main > #nachlass-map, main > #nachlass-map + .section-note, main > .nachlass-map",
+      click: "main > .nachlass-map a.cover",
+      title: "Nachlass Map",
+      text: "The Nachlass Map shows every remark of the Nachlass as a block, in the order they were written.\n\nClick the map to open it.",
+    },
+    {
+      page: MAP,
+      target: ".map-page .search-input",
+      cue: ".map-page .search-input",
+      skip: () => !searchInput(),
+      done: () => /^nestr/i.test(searchInput()?.value.trim() ?? "") && document.querySelector(".map-page > .map .hit"),
+      next: () => {
+        const input = searchInput();
+        input.value = "Nestroy";
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+      },
+      continues: true,
+      title: "Nachlass Map",
+      text: "The map has a search of its own, which marks its hits on the map.\n\nSearch for <strong>Nestroy</strong> again.",
+    },
+    {
+      page: MAP,
+      // The motto's hits and their documents' numbers (blocks have no content of their
+      // own, so they count with their box).
+      target: () => {
+        const docs = MOTTO_DOCS.map((d) => document.querySelector(`.map-page > .map .d[data-doc="${d}"]`));
+        return docs.filter(Boolean).flatMap((d) => [d.querySelector(".l"), ...d.querySelectorAll(".hit")]);
+      },
+      skip: () => !searchInput(),
+      undo: clearSearch,
+      continues: true,
+      title: "Nachlass Map",
+      text: "The map reads like a page of text, from 1914 at the top left to 1951 at the bottom: each number is a manuscript or typescript, each block one of its remarks. The motto is marked in the two typescripts of the <em>Investigations</em> and in a notebook from 1947.",
+    },
+    {
+      page: MAP,
+      target: ".map-page > .map-views",
+      click: `.map-page > .map-views a[href="${MATH}"]`,
+      title: "Themes",
+      text: "Besides a search, the map can mark where a theme was worked on, all published remarks, or the remarks of one edited writing.\n\nClick <strong>Mathematics</strong>.",
+    },
+    {
+      // Also on the Search view's page: the view switches in place once loaded.
+      page: [MATH, MAP],
+      target: '.map-page > .map .d[data-doc="Ms-122"]',
+      boxes: ".d",
+      continues: true,
+      title: "Themes",
+      text: "Here a block is darker the more its remark, and the remarks around it, are about mathematics. Ms-122 (<strong>122</strong>), a notebook from 1939–40, is almost all mathematics. Hovering over a block shows its page and the terms that mark it; clicking it opens the remark.\n\nClick <strong>Next</strong> to finish the tour.",
+    },
+    {
+      // Back up to the page's title, the way home.
+      page: [MATH, MAP],
       final: true,
-      target: ".tour-start, .tour-bubble",
-      boxes: ".tour-bubble",
-      title: "That’s the tour!",
-      text: "You’re back at the start. You can take the tour again at any time with this button.",
+      target: ".map-page > nav",
+      title: "That’s the Tour!",
+      text: "Click <strong>Wittgenstein’s Writings</strong> to go back to the home page, where you can take the tour again at any time.",
     },
   ];
 
@@ -247,10 +311,10 @@
   let arriving = false; // the step was just shown on a page that's still loading
   let animating;
 
-  const isCounted = (s) => !s.fallback && !s.final;
+  const isCounted = (s) => !s.fallback && !s.final && !s.continues;
   const counted = steps.filter(isCounted);
   const fill = (i, title, text, next) => {
-    const n = steps.slice(0, i).filter(isCounted).length + (steps[i].fallback ? 0 : 1);
+    const n = steps.slice(0, i).filter(isCounted).length + (isCounted(steps[i]) ? 1 : 0);
     $(".tour-count").textContent = steps[i].final ? "" : `${n} of ${counted.length}`;
     $(".tour-title").textContent = title;
     $(".tour-text").innerHTML = text
@@ -448,12 +512,16 @@
     return i;
   };
 
+  // Whether a step lives on this page, and the page to load to go back to it.
+  const onPage = (step) => [].concat(step.page).includes(location.pathname);
+  const pageOf = (step) => [].concat(step.page)[0];
+
   const go = (i) => {
     i = unskipped(i);
     if (i >= steps.length) return end();
     store.set(i);
     // A step on another page: the click that got us here is navigating there.
-    if (steps[i].page !== location.pathname) return hide();
+    if (!onPage(steps[i])) return hide();
     show(i);
   };
 
@@ -503,14 +571,14 @@
   // say, a <details> it needs open is closed again). A step on another page is gone
   // back to by loading that page at the URL it was left at, and settled there.
   const backTo = (i) => {
-    const here = (j) => steps[j]?.page === location.pathname;
+    const here = (j) => !!steps[j] && onPage(steps[j]);
     while (here(i) && (steps[i].skip?.() || steps[i].done?.())) i--;
     while (here(i - 1) && steps[i - 1].done && !steps[i - 1].done()) i--;
     if (i < 0) return;
     store.set(i);
     if (here(i)) return show(i);
     session.set(BACK, true);
-    location.href = session.get(URLS)?.[steps[i].page] ?? steps[i].page;
+    location.href = session.get(URLS)?.[pageOf(steps[i])] ?? pageOf(steps[i]);
   };
 
   const back = () => {
@@ -599,7 +667,7 @@
   const goingBack = session.get(BACK);
   session.set(BACK, null);
   if (!steps[i]) end();
-  else if (steps[i].page !== location.pathname) showStart(true);
+  else if (!onPage(steps[i])) showStart(true);
   else if (goingBack) backTo(i);
   else go(i);
 })();

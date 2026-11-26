@@ -127,7 +127,7 @@ if [ -f "$ABOUT_SRC" ]; then
   mkdir -p "$CONTENT_DIR/about"
   {
     echo "---"
-    echo "title: \"What are Wittgenstein’s Writings?\""
+    echo "title: \"What Are Wittgenstein’s Writings?\""
     echo "layout: about"
     echo "---"
     echo ""

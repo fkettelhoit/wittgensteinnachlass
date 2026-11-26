@@ -1041,7 +1041,7 @@
 
 <section>
 
-## Pocket notebooks {#format-pocket-notebooks .along-line}
+## Pocket Notebooks {#format-pocket-notebooks .along-line}
 
 <div>
 
@@ -1151,7 +1151,7 @@
 
 <section>
 
-## Quarto notebooks {#format-quarto-notebooks .along-line}
+## Quarto Notebooks {#format-quarto-notebooks .along-line}
 
 <div>
 
@@ -1209,7 +1209,7 @@
 
 <section>
 
-## Large volumes {#format-large-volumes .along-line}
+## Large Volumes {#format-large-volumes .along-line}
 
 <div>
 
@@ -1249,7 +1249,7 @@
 
 <section>
 
-## Loose sheets {#format-loose-sheets .along-line}
+## Loose Sheets {#format-loose-sheets .along-line}
 
 <div>
 

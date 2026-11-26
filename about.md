@@ -10,7 +10,7 @@ The transcriptions are mobile responsive, they are accessible to readers who use
 
 The website includes all manuscripts and typescripts of the _Nachlass_ that are transcribed in the Bergen Nachlass Edition, from the notebooks of 1914 to Wittgenstein’s last writings in 1951. Documents that are available only as facsimiles, such as further copies of the dictations to Schlick and of the _Blue and Brown Books_, are not included.
 
-## Historical background
+## Historical Background
 
 The _Nachlass_ (estate) is the body of writings which Wittgenstein left behind upon his death on 29 April 1951. In his testament, he had appointed three among his most trusted students and friends as his literary executors and he had tasked them with publishing what they thought fit from his papers.
 
@@ -46,7 +46,7 @@ On 1 January 2022, Wittgenstein’s writings entered the public domain in those 
 
 This website aims to fill the space between the WAB’s websites and the LWP’s. Its focus is mainly on the _Nachlass_, as is the case with the WAB, but its primary goal is to offer an intuitive reading experience that helps the user focus on the philosophical content of the texts rather than to provide detailed information on the text’s spatial layout, historical stratification, etc.—its approach is, in this way, similar to the LWP’s.
 
-## Editorial criteria
+## Editorial Criteria
 
 The webpages of which the site consists are shaped by a set of editorial criteria which deliberately prioritize simplicity and readability by choosing not to include information about some of the features of Wittgenstein’s originals.
 
@@ -125,6 +125,6 @@ The people who contributed to creating this website are:
 - [Frederic Kettelhoit](https://fredkettelhoit.com/) (publisher, lead editor, software developer);
 - [Michele Lavazza](https://michelelavazza.it/) (contributing editor, outreach).
 
-## Further reading
+## Further Reading
 
 Lavazza, Michele: [The Copyright Status of Wittgenstein’s Works](https://www.wittgensteinproject.org/w/index.php/Project:The_copyright_status_of_Wittgenstein%E2%80%99s_works), in: Wittgenstein-Studien 14 (2023), 153–183.
