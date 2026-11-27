@@ -3,7 +3,7 @@
 // hits
 // - "As list": cropped, highlighted snippets in the site's normal layout (reference in the
 //   left margin, text in the main column), 100 at a time, by relevance and, among equally
-//   relevant hits, in the chosen ordering of the Nachlass Map (By date, By name, By format:
+//   relevant hits, in the chosen ordering of the Nachlass Map (By name, By date, By format:
 //   each remark's position in it is a sortable field of the index, see tools/search-index);
 // - "As map" / "As bars": every remark as a block of the Nachlass Map (from /map/'s
 //   data.json, styled by css/map.css), the hits marked: all of them, of each only where it
@@ -25,6 +25,8 @@
   var embedded = root.classList.contains("search-embedded");
   if (!configured && !embedded) return;
   var defaultView = root.dataset.defaultView || "list";
+  // By name on the home page, by date on the Nachlass Map's pages (layouts/partials/search.html).
+  var defaultOrder = root.dataset.defaultOrder || (embedded ? "date" : "name");
 
   var input = root.querySelector(".search-input");
   var langs = root.querySelector(".search-langs");
@@ -569,7 +571,7 @@
       url.searchParams.delete("q");
       url.searchParams.delete("lang");
     }
-    if (currentOrder() !== "date") url.searchParams.set("order", currentOrder());
+    if (currentOrder() !== defaultOrder) url.searchParams.set("order", currentOrder());
     else url.searchParams.delete("order");
     if (currentView() !== defaultView) url.searchParams.set("view", currentView());
     else url.searchParams.delete("view");
@@ -644,7 +646,7 @@
   var initialLang = params.get("lang");
   if (initialLang === "de" || initialLang === "en") setLang(initialLang);
   var initialOrder = params.get("order");
-  if (initialOrder === "name" || initialOrder === "format") setOrder(initialOrder);
+  if (initialOrder === "name" || initialOrder === "date" || initialOrder === "format") setOrder(initialOrder);
   var initialView = params.get("view");
   for (var v = 0; v < viewButtons.length; v++) {
     if (viewButtons[v].dataset.view === initialView) setView(initialView);

@@ -9,7 +9,9 @@
 
   On the home page the list is the default and the script draws the map below the results.
   On the Nachlass Map's pages (called with dict "embedded" true by map.html) the page's own
-  map is used and is the default. The line of switchers is there on every view (orderings,
+  map is used and is the default. The orderings are always in the order name, date, format;
+  by name is the default on the home page, by date on the Nachlass Map's pages (whose static
+  map is in date order). The line of switchers is there on every view (orderings,
   map or bars), even without a search configured; the search itself, its languages and the
   list only on the Search view ("on": the page's `search` param). search.js shows and hides
   them when map.js switches views. */ -}}
@@ -22,10 +24,11 @@
 {{- with site.GetPage "/map" }}{{ $documents = .Params.documents }}{{ with .Resources.Get "data.json" }}{{ $map = .RelPermalink }}{{ end }}{{ end }}
 {{- $langs := and $configured (not hugo.IsProduction) }}
 {{- $default := cond $embedded "map" "list" }}
+{{- $defaultOrder := cond $embedded "date" "name" }}
 <div class="search{{ if $embedded }} search-embedded{{ end }}" hidden
      {{- if $configured }} data-host="{{ site.Params.meilihost }}" data-key="{{ site.Params.meilisearchkey }}" data-index="{{ site.Params.meiliindex }}"{{ end }}
      {{- with $map }} data-map="{{ . }}"{{ end }}
-     {{- with $documents }} data-documents="{{ . }}"{{ end }}
+     {{- with $documents }} data-documents="{{ . }}"{{ end }} data-default-order="{{ $defaultOrder }}"
      {{- if $embedded }} data-default-view="map"{{ if not $on }} data-search="off"{{ end }}{{ end }}>
   {{- if $configured }}
   <input type="search" class="search-input" autocomplete="off" spellcheck="false"{{ if not $on }} hidden{{ end }}
@@ -35,7 +38,9 @@
   {{- /* Each visible group after the first is preceded by an interpunct (style.css). */}}
   <p class="search-options">
     {{- if $langs }}<span class="search-langs"{{ if not $on }} hidden{{ end }}><button type="button" class="switch" data-lang="de" aria-current="true">German</button> | <button type="button" class="switch" data-lang="en">English</button></span>{{ end }}
-    {{- if $map }}<span class="search-orders"><button type="button" class="switch" data-order="date" aria-current="true">By date</button> | <button type="button" class="switch" data-order="name">By name</button> | <button type="button" class="switch" data-order="format">By format</button></span>
+    {{- if $map }}<span class="search-orders">
+      {{- range $i, $o := slice "name" "date" "format" }}{{ if $i }} | {{ end }}<button type="button" class="switch" data-order="{{ $o }}"{{ if eq $o $defaultOrder }} aria-current="true"{{ end }}>By {{ $o }}</button>{{ end -}}
+    </span>
     {{- "" }}<span class="search-views">
       {{- if $configured }}<span class="search-list"{{ if not $on }} hidden{{ end }}><button type="button" class="switch" data-view="list"{{ if eq $default "list" }} aria-current="true"{{ end }}>As list</button> | </span>{{ end -}}
       <button type="button" class="switch" data-view="map"{{ if eq $default "map" }} aria-current="true"{{ end }}>As map</button> | <button type="button" class="switch" data-view="bars">As bars</button></span>{{ end -}}
