@@ -60,10 +60,10 @@ CODE_BY_NAME = {"Kosovo": "xk"}
 EXCLUDED = {"010"}  # Antarctica
 
 # Site tokens: (light, dark).
-HIGHLIGHT = ("#fbcba4", "#624025")
+HIGHLIGHT = ("#fbcba4", "#5f3a1d")
 TEXT = ("#444444", "#cccccc")
-BG = ("#ffffff", "#262626")
-MARGIN = ("#bbbbbb", "#565656")
+BG = ("#ffffff", "#1e1e1e")
+MARGIN = ("#bbbbbb", "#525252")
 
 FONT = "'TeX Gyre Pagella','Palatino Linotype',Palatino,'URW Palladio L',serif"
 

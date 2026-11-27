@@ -79,28 +79,39 @@
 
   /* Each colour is the image filter applied to its light value, except the brightened text. */
   @media (prefers-color-scheme: dark) {
-    --color-bg: #262626;
+    --color-bg: #1e1e1e;
     --color-text: #cccccc;
-    --color-link: #d9d9d9;
-    --color-margin: #565656;
-    --color-translation: #858585;
-    --color-margin-link: #858585;
+    --color-link: #e1e1e1;
+    --color-margin: #525252;
+    --color-translation: #868686;
+    --color-margin-link: #868686;
     --color-current: #fff;
-    --color-heading: #d9d9d9;
+    --color-heading: #e1e1e1;
     --color-series-number-bg: #cccccc;
-    --color-series-number-fg: #262626;
-    --color-highlight: #624025;
-    --color-shade: #d9d9d9;
+    --color-series-number-fg: #1e1e1e;
+    --color-highlight: #5f3a1d;
+    --color-shade: #e1e1e1;
   }
 }
 
+/* The images are drawn for a white page: in dark mode the filter turns their white into
+   --color-bg (255 → 30, an inversion of 225/255) and their colours into the dark ones. */
 @media (prefers-color-scheme: dark) {
   img.math,
   img[src*="/graphics/"],
   img[src*="/viz/"],
-  img[src*="/covers/"],
   img[src*="/map/preview"] {
-    filter: invert(0.85) hue-rotate(180deg);
+    filter: invert(0.88235) hue-rotate(180deg);
+  }
+}
+
+/* The covers stand out a little from the page: their white is a shade darker than the
+   page's (#fafafa), and in dark mode a shade lighter (#222222, a weaker inversion). */
+img[src*="/covers/"] {
+  filter: brightness(0.98);
+
+  @media (prefers-color-scheme: dark) {
+    filter: invert(0.86667) hue-rotate(180deg);
   }
 }
 
