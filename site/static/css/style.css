@@ -407,7 +407,8 @@ details.similar details[open] {
   :not(.index, .gallery) > section,
   .search-result {
     display: grid;
-    grid-template-columns: var(--margin-col) var(--margin-col) 1fr;
+    /* minmax(0, …): a formula wider than the column must not widen it (see img.math-inline). */
+    grid-template-columns: var(--margin-col) var(--margin-col) minmax(0, 1fr);
     gap: 0 var(--margin-gap);
     margin-left: calc(-1 * var(--margin-offset));
     margin-right: 0;
@@ -658,6 +659,15 @@ section > div > .en > p:first-child > .series-number:first-child {
   background-color: var(--color-margin);
 }
 
+/* An inline formula wider than the column is cut off at its edge (at full size, so that it
+   keeps its em-based baseline alignment), instead of widening the page; transcription.css
+   leaves it uncapped for the EPUB and PDF. Block formulas shrink to fit instead. */
+img.math-inline {
+  max-width: 100%;
+  object-fit: cover;
+  object-position: left center;
+}
+
 img.math-block {
   margin: 0 0 2rem 0;
 
@@ -691,11 +701,11 @@ body.bilingual {
   & .preamble,
   & footer {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     gap: 0 2rem;
 
     @media (width < 68rem) {
-      grid-template-columns: 1fr;
+      grid-template-columns: minmax(0, 1fr);
     }
   }
 
