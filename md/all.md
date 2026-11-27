@@ -90,7 +90,7 @@
 
 ### [Tractatus Logico-Philosophicus](W-TLP.md)
 
-- 1918–1919, 531 remarks
+- 1918–1919, 545 remarks
 
 ### [Prototractatus](W-PT.md)
 

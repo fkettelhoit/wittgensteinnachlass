@@ -2,15 +2,73 @@
 
 <details>
 
-<summary>1918–1919, 531 remarks, Ts-204, Ts-202</summary>
+<summary>1918–1919, 545 remarks, Ts-204, Ts-202</summary>
 
 <img class="viz" src="/viz/W-TLP.svg">
 
 </details>
 
+### [Ts-204](/ts-204/#Iv.1) <span class="fac">[Iv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/Iv.webp)</span>
+
+_Dem Andenken meines Freundes_
+
+_David H. Pinsent_
+
+_gewidmet._
+
+### [Ts-204](/ts-204/#IIr.1) <span class="fac">[IIr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+_Motto: … und alles was man weiß, nicht_
+
+_bloß rauschen und brausen gehört_
+
+_hat, läßt sich in drei Worten sagen._
+
+_**Kürnberger.**_
+
+### [Ts-204](/ts-204/#IIr.2) <span class="fac">[IIr\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+_**Vorwort.**_
+
+### [Ts-204](/ts-204/#IIr.3) <span class="fac">[IIr\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+Dieses Buch wird vielleicht nur der verstehen, der die Gedanken, die darin ausgedrückt sind – oder doch ähnliche Gedanken – schon selbst einmal gedacht hat. – Es ist also kein Lehrbuch. – Sein Zweck wäre erreicht, wenn es Einem, der es mit Verständnis liest Vergnügen bereitete.
+
+### [Ts-204](/ts-204/#IIr.4) <span class="fac">[IIr\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+Das Buch behandelt die philosophischen Probleme und zeigt – wie ich glaube – daß die Fragestellung dieser Probleme auf dem Mißverständnis der Logik unserer Sprache beruht. – Man könnte den Sinn des Buches etwa in die Worte fassen: Was sich überhaupt sagen läßt, läßt sich klar sagen; und wovon man nicht reden kann, darüber muß man schweigen.
+
+### [Ts-204](/ts-204/#IIr.5) <span class="fac">[IIr\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+Das Buch will also dem Denken eine Grenze ziehen, oder vielmehr – nicht dem Denken, sondern dem Ausdruck der Gedanken: Denn, um dem Denken eine Grenze zu ziehen, müßten wir beide Seiten dieser Grenze denken können (wir müßten also denken können, was sich nicht denken läßt.)
+
+### [Ts-204](/ts-204/#IIr.6) <span class="fac">[IIr\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+Die Grenze wird also nur in der Sprache gezogen werden können und was jenseits der Grenze liegt, wird einfach Unsinn sein.
+
+### [Ts-204](/ts-204/#IIr.7) <span class="fac">[IIr\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+Wieweit meine Bestrebungen mit denen anderer Philosophen zusammenfallen will ich nicht beurteilen. Ja, was ich hier geschrieben habe, macht im Einzelnen überhaupt nicht den Anspruch auf Neuheit; und darum gebe ich auch keine Quellen an, weil es mir gleichgültig ist, ob das was ich gedacht habe, vor mir schon ein anderer gedacht hat.
+
+### [Ts-204](/ts-204/#IIr.8) <span class="fac">[IIr\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+Nur das will ich erwähnen, daß ich den großartigen Werken Freges und den Arbeiten meines Freundes Herrn Bertrand Russell einen großen Teil der Anregung zu meinen Gedanken schulde.
+
+### [Ts-204](/ts-204/#IIr.9+IIIr.1) <span class="fac">[IIr\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp),[IIIr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
+
+Wenn diese Arbeit einen Wert hat, so besteht er in zweierlei. Erstens darin, daß in ihr Gedanken ausgedrückt sind, und dieser Wert wird umso größer sein, je besser die Gedanken ausgedrückt sind, je mehr der Nagel auf den Kopf getroffen ist. – Hier bin ich mir bewußt, weit hinter dem Möglichen zurückgeblieben zu sein. Einfach darum, weil meine Kraft zur Bewältigung der Aufgabe zu gering ist. – Mögen andere kommen und es besser machen.
+
+### [Ts-204](/ts-204/#IIIr.2) <span class="fac">[IIIr\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
+
+Dagegen scheint mir die _Wahrheit_ der hier mitgeteilten Gedanken unantastbar und definitiv. Ich bin also der Meinung die Probleme im Wesentlichen endgültig gelöst zu haben. Und wenn ich mich hierin nicht irre, so besteht nun der Wert dieser Arbeit zweitens darin, daß sie zeigt, wie wenig damit getan ist, daß diese Probleme gelöst sind.
+
 ### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 
 <span class="series-number">1</span> Die Welt ist alles, was der Fall ist.
+
+### [Ts-204](/ts-204/#IIIr.3-relocated) <span class="fac">[IIIr\[3\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
+
+[Die Dezimalzahlen als Nummern der einzelnen Sätze deuten das logische Gewicht der Sätze an, den Nachdruck, der auf ihnen in meiner Darstellung liegt. Die Sätze n˙1, n˙2, etc. sind Bemerkungen zum Satz № n, die Sätze n˙m1, n˙m2, etc. Bemerkungen zum Satze № n˙m, und so weiter.]
 
 ### [Ts-204](/ts-204/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 
@@ -809,6 +867,10 @@ Denn auch diese Unregelmäßigkeiten bilden das ab, was sie ausdrücken sollen; 
 Ihnen allen ist der logische Bau gemeinsam.
 
 (Wie im Märchen die zwei Jünglinge, ihre zwei Pferde und ihre Lilien. Sie sind alle im gewissen Sinne Eins.)
+
+### [Ts-202](/ts-202/#12r.5) <span class="fac">[12r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span>
+
+<span class="series-number">4.0141</span> Daß es eine allgemeine Regel gibt, durch die der Musiker aus der Partitur die Symphonie entnehmen kann, durch welche man aus der Linie auf der Grammophonplatte die Symphonie und nach der ersten Regel wieder die Partitur ableiten kann, darin besteht eben die innere Ähnlichkeit dieser scheinbar so ganz verschiedenen Gebilde. Und jene Regel ist das Gesetz der Projektion, welches die Symphonie in die Notensprache projiziert. Sie ist die Regel der Übersetzung der Notensprache in die Sprache der Grammophonplatte. Und doch erweisen sich diese Zeichensprachen auch im gewöhnlichen Sinne als Bilder dessen, was sie darstellen.
 
 ### [Ts-204](/ts-204/#12r.5) <span class="fac">[12r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/12r.webp)</span>
 
@@ -2399,6 +2461,30 @@ Damit Sätze auf bestimmte Art und Weise verknüpft eine Tautologie ergeben, daz
 ### [Ts-204](/ts-204/#43r.7) <span class="fac">[43r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/43r.webp)</span>
 
 <span class="series-number">6.1202</span> Es ist klar, daß man zu demselben Zweck statt der Tautologien auch die Kontradiktionen verwenden könnte.
+
+### [Ts-202](/ts-202/#43ar.1+43av.1-relocated) <span class="fac">[43ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43ar.webp),[43av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43av.webp)</span>
+
+<span class="series-number">6.1203</span> Um eine Tautologie als solche zu erkennen, kann man sich, in den Fällen, in welchen in der Tautologie keine Allgemeinheitsbezeichnung vorkommt, folgender anschaulichen Methode bedienen: Ich schreibe statt „p”, „q”, „r” etc., „WpF”, „WqF”, „WrF” etc. Die Wahrheitskombinationen drücke ich durch Klammern aus, z.B.:
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43ar-1.svg)<span class="post-block-punct">”</span>
+
+und die Zuordnung der Wahr- oder Falschheit des ganzen Satzes und der Wahrheitskombinationen der Wahrheitsargumente durch Striche auf folgende Weise
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43ar-2.svg)<span class="post-block-punct">”</span>
+
+Dies Zeichen würde also z.B. den Satz p⊃q darstellen. Nun will ich z.B. den Satz ~(p.~p) ( Gesetz des Widerspruchs) daraufhin untersuchen, ob er eine Tautologie ist. Die Form „~ξ” wird in unserer Notation
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43av-1.svg)<span class="post-block-punct">”</span>
+
+geschrieben; die Form „ξ.η” so:
+
+![](../graphics/202,43av-2.svg)<span class="post-block-punct">.</span>
+
+Daher lautet der Satz ~(p.~q) so:
+
+![](../graphics/202,43av-3.svg)<span class="post-block-punct">.</span>
+
+Setzen wir hier statt „q” „p” ein und untersuchen die Verbindung der äußersten W und F mit den innersten, so ergibt sich, daß die Wahrheit des ganzen Satzes _allen_ Wahrheitskombinationen seines Argumentes, seine Falschheit keiner der Wahrheitskombinationen zugeordnet ist.
 
 ### [Ts-204](/ts-204/#43r.8) <span class="fac">[43r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/43r.webp)</span>
 

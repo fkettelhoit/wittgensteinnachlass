@@ -2,15 +2,73 @@
 
 <details>
 
-<summary>1918–1919, 531 remarks, Ts-204, Ts-202</summary>
+<summary>1918–1919, 545 remarks, Ts-204, Ts-202</summary>
 
 <img class="viz" src="/viz/W-TLP.svg">
 
 </details>
 
+### [Ts-204](/ts-204/#Iv.1) <span class="fac">[Iv\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/Iv.webp)</span>
+
+_Dedicated_
+
+_to the memory of my friend_
+
+_David H. Pinsent_
+
+### [Ts-204](/ts-204/#IIr.1) <span class="fac">[IIr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+_Motto: … and everything one knows, and has not_
+
+_merely heard rushing and roaring,_
+
+_can be said in three words._
+
+_**Kürnberger.**_
+
+### [Ts-204](/ts-204/#IIr.2) <span class="fac">[IIr\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+_**Preface.**_
+
+### [Ts-204](/ts-204/#IIr.3) <span class="fac">[IIr\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+This book will perhaps only be understood by those who have themselves already thought the thoughts which are expressed in it – or similar thoughts. It is therefore not a text-book. Its object would be attained if it afforded pleasure to one who read it with understanding.
+
+### [Ts-204](/ts-204/#IIr.4) <span class="fac">[IIr\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+The book deals with the problems of philosophy and shows, as I believe, that the method of formulating these problems rests on the misunderstanding of the logic of our language. Its meaning could be summed up somewhat as follows: What can be said at all can be said clearly; and whereof one cannot speak thereof one must be silent.
+
+### [Ts-204](/ts-204/#IIr.5) <span class="fac">[IIr\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+The book will, therefore, draw a limit to thinking, or rather – not to thinking, but to the expression of thoughts; for, in order to draw a limit to thinking we should have to be able to think both sides of this limit (we should therefore have to be able to think what cannot be thought).
+
+### [Ts-204](/ts-204/#IIr.6) <span class="fac">[IIr\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+The limit can, therefore, only be drawn in language and what lies on the other side of the limit will be simply nonsense.
+
+### [Ts-204](/ts-204/#IIr.7) <span class="fac">[IIr\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+How far my efforts agree with those of other philosophers I will not decide. Indeed what I have here written makes no claim to novelty in points of detail; and therefore I give no sources, because it is indifferent to me whether what I have thought has already been thought before me by another.
+
+### [Ts-204](/ts-204/#IIr.8) <span class="fac">[IIr\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp)</span>
+
+I will only mention that to the great works of Frege and the writings of my friend Bertrand Russell I owe in large measure the stimulation of my thoughts.
+
+### [Ts-204](/ts-204/#IIr.9+IIIr.1) <span class="fac">[IIr\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIr.webp),[IIIr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
+
+If this work has a value it consists in two things. First that in it thoughts are expressed, and this value will be the greater the better the thoughts are expressed, the more the nail has been hit on the head. – Here I am conscious that I have fallen far short of the possible. Simply because my powers are insufficient to cope with the task. – May others come and do it better.
+
+### [Ts-204](/ts-204/#IIIr.2) <span class="fac">[IIIr\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
+
+On the other hand the _truth_ of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
+
 ### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 
 <span class="series-number">1</span> The world is everything that is the case.
+
+### [Ts-204](/ts-204/#IIIr.3-relocated) <span class="fac">[IIIr\[3\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
+
+[The decimal figures as numbers of the separate propositions indicate the logical importance of the propositions, the emphasis laid upon them in my exposition. The propositions n˙1, n˙2, etc. are comments on proposition № n, the propositions n˙m1, n˙m2, etc. are comments on the proposition № n˙m, and so on.]
 
 ### [Ts-204](/ts-204/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 
@@ -809,6 +867,10 @@ For these irregularities also picture what they are to express; only in another 
 To all of them the logical structure is common.
 
 (Like the two youths, their two horses and their lilies in the story. They are all in a certain sense one.)
+
+### [Ts-202](/ts-202/#12r.5) <span class="fac">[12r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/12r.webp)</span>
+
+<span class="series-number">4.0141</span> In the fact that there is a general rule by which the musician is able to read the symphony out of the score, and that there is a rule by which one could reconstruct the symphony from the line on a gramophone record and from this again – by means of the first rule – construct the score, herein lies the internal similarity between these things which at first sight seem to be entirely different. And the rule is the law of projection which projects the symphony into the language of the musical score. It is the rule of translation of this language into the language of the gramophone record. And yet these symbolisms prove to be pictures – even in the ordinary sense of the word – of what they represent.
 
 ### [Ts-204](/ts-204/#12r.5) <span class="fac">[12r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/12r.webp)</span>
 
@@ -2399,6 +2461,30 @@ In order that propositions connected together in a definite way may give a tauto
 ### [Ts-204](/ts-204/#43r.7) <span class="fac">[43r\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/43r.webp)</span>
 
 <span class="series-number">6.1202</span> It is clear that we could have used for this purpose contradictions instead of tautologies.
+
+### [Ts-202](/ts-202/#43ar.1+43av.1-relocated) <span class="fac">[43ar\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43ar.webp),[43av\[1\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/43av.webp)</span>
+
+<span class="series-number">6.1203</span> In order to recognize a tautology as such, we can, in cases in which no sign of generality occurs in the tautology, make use of the following intuitive method: I write instead of “p”, “q”, “r”, etc., “WpF”, “WqF”, “WrF”, etc. The truth-combinations I express by brackets, e.g.:
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43ar-1.svg)<span class="post-block-punct">”</span>
+
+and the co-ordination of the truth or falsity of the whole proposition with the truth-combinations of the truth-arguments by lines in the following way
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43ar-2.svg)<span class="post-block-punct">”</span>
+
+This sign, for example, would therefore present the proposition p⊃q. Now I will proceed to inquire whether such a proposition as ~(p.~p) (The Law of Contradiction) is a tautology. The form “~ξ” is written in our notation
+
+<span class="pre-block-punct">„</span>![](../graphics/202,43av-1.svg)<span class="post-block-punct">”</span>
+
+; the form “ξ.η” thus:
+
+![](../graphics/202,43av-2.svg)<span class="post-block-punct">.</span>
+
+Hence the proposition ~(p.~q) runs thus:
+
+![](../graphics/202,43av-3.svg)<span class="post-block-punct">.</span>
+
+If here we put “p” instead of “q” and examine the combination of the outermost W and F with the innermost, it is seen that the truth of the whole proposition is co-ordinated with _all_ the truth-combinations of its argument, its falsity with none of the truth-combinations.
 
 ### [Ts-204](/ts-204/#43r.8) <span class="fac">[43r\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/43r.webp)</span>
 
