@@ -898,9 +898,12 @@ Nothing is so difficult as not deceiving oneself.
 
 Longfellow:
 
-In the elder days of art,
-Builders wrought with greatest care
-Each minute & unseen part,
+In the elder days of art,\
+
+Builders wrought with greatest care\
+
+Each minute & unseen part,\
+
 For the gods are everywhere.
 
 (Could serve as a motto for me.)
@@ -1347,7 +1350,7 @@ The only way for me to believe in a miracle in this sense would be to be _impres
 
 ### [Ms-128](/ms-128/#47.4) <span class="fac">[47\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/47.webp)</span>
 
-When I came home, I expected a surprise & there was no surprise for me, so, of course, I was surprised.
+When I came home I expected a surprise & there was no surprise for me, so, of course, I was surprised.
 
 ### [Ms-128](/ms-128/#49.5) <span class="fac">[49\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/49.webp)</span>
 

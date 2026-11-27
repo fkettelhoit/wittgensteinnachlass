@@ -46,7 +46,7 @@ For to say that he has a private object means that we shall regard no descriptio
 
 ### [Ms-166](/ms-166/#12r.2) <span class="fac">[12r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-166/12r.webp)</span>
 
-If you cheat others, at least don't cheat yourself; and if you don't cheat yourself – why should you cheat the others?
+If you cheat others at least don't cheat yourself; and if you don't cheat yourself – why should you cheat the others?
 
 ### [Ms-166](/ms-166/#12r.3) <span class="fac">[12r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-166/12r.webp)</span>
 
@@ -244,11 +244,11 @@ Having a particular use of the word in mind.
 
 ### [Ms-166](/ms-166/#31v.5+32r.1) <span class="fac">[31v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-166/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-166/32r.webp)</span>
 
-The difference between ‘Now one knows the formula’ & ‘Now one can go on’.
+The difference between ‘Now I know the formula’ & ‘Now I can go on’.
 
 ### [Ms-166](/ms-166/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-166/32r.webp)</span>
 
-The difference between saying the formula & saying ‘Now one knows the formula’.
+The difference between saying the formula & saying ‘Now I know the formula’
 
 ### [Ms-166](/ms-166/#32r.3) <span class="fac">[32r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-166/32r.webp)</span>
 
