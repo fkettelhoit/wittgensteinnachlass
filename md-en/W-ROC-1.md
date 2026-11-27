@@ -10,11 +10,11 @@
 
 ### [Ms-176](/ms-176/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/1r.webp)</span>
 
-<span class="series-number">1</span> A language-game: Reporting on whether a certain body is brighter or darker than another. – But now there is a related one: Making statements about the relationship of the brightnesses of certain shades of color. (This can be compared to: Determining the relationship of the lengths of two rods – & determining the relationship of two numbers.) – The form of the sentences in both language-games is the same: “x is brighter than y”. But in the first it is an external relation & the sentence is temporal, in the second it is an internal relation & the sentence is timeless.
+<span class="series-number">1</span> A language-game: Reporting on whether a certain body is brighter or darker than another. – But now there is a related one: Making statements about the relationship of the brightnesses of certain shades of colour. (This can be compared to: Determining the relationship of the lengths of two rods – & determining the relationship of two numbers.) – The form of the sentences in both language-games is the same: “x is brighter than y”. But in the first it is an external relation & the sentence is temporal, in the second it is an internal relation & the sentence is timeless.
 
 ### [Ms-176](/ms-176/#1r.2+1v.1) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/1r.webp),[1v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/1v.webp)</span>
 
-<span class="series-number">2</span> In a picture, in which a piece of white paper gets its brightness from the blue sky, this is brighter than the white paper. And yet, in another sense, blue is the darker, white the brighter color. (Goethe.) On the palette, white is the brightest color.
+<span class="series-number">2</span> In a picture, in which a piece of white paper gets its brightness from the blue sky, this is brighter than the white paper. And yet, in another sense, blue is the darker, white the brighter colour. (Goethe.) On the palette, white is the brightest colour.
 
 ### [Ms-176](/ms-176/#1v.2) <span class="fac">[1v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/1v.webp)</span>
 
@@ -26,43 +26,43 @@
 
 ### [Ms-176](/ms-176/#2r.2) <span class="fac">[2r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/2r.webp)</span>
 
-<span class="series-number">5</span> If I say of a piece of paper that it is pure white, & snow is held next to the paper & this now looks gray, I would still, in its normal environment, rightly call it white, not light gray. It could be that, in the laboratory for example, I use a refined concept of white (just as I might also use a refined concept of the precise determination of time).
+<span class="series-number">5</span> If I say of a piece of paper that it is pure white, & snow is held next to the paper & this now looks grey, I would still, in its normal environment, rightly call it white, not light grey. It could be that, in the laboratory for example, I use a refined concept of white (just as I might also use a refined concept of the precise determination of time).
 
 ### [Ms-176](/ms-176/#2r.3+2v.1) <span class="fac">[2r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/2r.webp),[2v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/2v.webp)</span>
 
-<span class="series-number">6</span> What can be said in favor of the fact that green is a primary color, not a mixed color of blue & yellow? Would it be correct to say: “One can only recognize this directly by looking at the colors?” But how do I know that I mean the same thing by the words “primary color” as someone else, who is also inclined to call green a primary color? No – language-games decide here.
+<span class="series-number">6</span> What can be said in favour of the fact that green is a primary colour, not a mixed colour of blue & yellow? Would it be correct to say: “One can only recognize this directly by looking at the colours?” But how do I know that I mean the same thing by the words “primary colour” as someone else, who is also inclined to call green a primary colour? No – language-games decide here.
 
 ### [Ms-176](/ms-176/#2v.2+3r.1) <span class="fac">[2v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/2v.webp),[3r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/3r.webp)</span>
 
-<span class="series-number">7</span> [There is more or less bluish (or yellowish) green &] there is the task of mixing a less yellowish (or bluish) one with a given yellowish green (or bluish green), or of selecting one from a number of color samples. However, a less yellowish one is not a bluish green (and vice versa), & there is also the task of choosing, or mixing, a green that is neither yellowish nor bluish. I say “or to mix”, because a green does not thereby become both greenish & yellowish because it is produced by a kind of mixing of yellow & blue.
+<span class="series-number">7</span> [There is more or less bluish (or yellowish) green &] there is the task of mixing a less yellowish (or bluish) one with a given yellowish green (or bluish green), or of selecting one from a number of colour samples. However, a less yellowish one is not a bluish green (and vice versa), & there is also the task of choosing, or mixing, a green that is neither yellowish nor bluish. I say “or to mix”, because a green does not thereby become both greenish & yellowish because it is produced by a kind of mixing of yellow & blue.
 
 ### [Ms-176](/ms-176/#3r.2) <span class="fac">[3r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/3r.webp)</span>
 
-<span class="series-number">8</span> People could have the concept of an intermediate color or mixed color even if they never produced colors by mixing (in whatever sense). It could always be a matter of their language-games only involving the searching, choosing of already existing intermediate or mixed colors.
+<span class="series-number">8</span> People could have the concept of an intermediate colour or mixed colour even if they never produced colours by mixing (in whatever sense). It could always be a matter of their language-games only involving the searching, choosing of already existing intermediate or mixed colours.
 
 ### [Ms-176](/ms-176/#3r.3+3v.1) <span class="fac">[3r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/3r.webp),[3v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/3v.webp)</span>
 
-<span class="series-number">9</span> If now green is not an intermediate color of yellow & blue, could there not be people for whom there is a bluish yellow, a reddish green? People, therefore, whose color concepts differ from ours – since the color concepts of colorblind people also differ from those of normal people. And not every deviation from the normal must be a blindness, a defect.
+<span class="series-number">9</span> If now green is not an intermediate colour of yellow & blue, could there not be people for whom there is a bluish yellow, a reddish green? People, therefore, whose colour concepts differ from ours – since the colour concepts of colourblind people also differ from those of normal people. And not every deviation from the normal must be a blindness, a defect.
 
 ### [Ms-176](/ms-176/#3v.2+4r.1) <span class="fac">[3v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/3v.webp),[4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/4r.webp)</span>
 
-<span class="series-number">10</span> Whoever has learned to find or mix a more yellowish, whitish, reddish one with a given shade, etc., whoever, therefore, knows the concept of the intermediate color, should now be asked to show us a reddish green. He may simply not understand this request & react as if he had been asked to show a regular one-sided shape, pentagon, hexagon. But what if he, without hesitation, points to a color sample (perhaps to a brownish color, as we would describe it)?
+<span class="series-number">10</span> Whoever has learned to find or mix a more yellowish, whitish, reddish one with a given shade, etc., whoever, therefore, knows the concept of the intermediate colour, should now be asked to show us a reddish green. He may simply not understand this request & react as if he had been asked to show a regular one-sided shape, pentagon, hexagon. But what if he, without hesitation, points to a colour sample (perhaps to a brownish colour, as we would describe it)?
 
 ### [Ms-176](/ms-176/#4r.2+4v.1) <span class="fac">[4r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/4r.webp),[4v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/4v.webp)</span>
 
-<span class="series-number">11</span> Whoever is familiar with reddish-green should be able to create a series of colors that begins with red, ends with green, and, perhaps even for us, forms a continuous transition between them. It would then become apparent that, where we always see the same shade, for example, brown, he would sometimes see brown, sometimes reddish-green. That he could, for example, distinguish between two chemical compounds that have the same color for us according to their color, and call one brown and the other reddish-green.
+<span class="series-number">11</span> Whoever is familiar with reddish-green should be able to create a series of colours that begins with red, ends with green, and, perhaps even for us, forms a continuous transition between them. It would then become apparent that, where we always see the same shade, for example, brown, he would sometimes see brown, sometimes reddish-green. That he could, for example, distinguish between two chemical compounds that have the same colour for us according to their colour, and call one brown and the other reddish-green.
 
 ### [Ms-176](/ms-176/#4v.2) <span class="fac">[4v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/4v.webp)</span>
 
-<span class="series-number">12</span> Imagine that almost all people, with rare exceptions, were red-green colorblind. Or also the other case: all people were either red-green or blue-yellow colorblind.
+<span class="series-number">12</span> Imagine that almost all people, with rare exceptions, were red-green colourblind. Or also the other case: all people were either red-green or blue-yellow colourblind.
 
 ### [Ms-176](/ms-176/#4v.3+5r.1) <span class="fac">[4v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/4v.webp),[5r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/5r.webp)</span>
 
-<span class="series-number">13</span> Let us imagine a _people_ of colorblind individuals, & such a group could easily exist. They would not have the same color concepts as we do. For even if we assume they speak, for example, German, & therefore have all the German color words, they would still use them differently than we do, & _learn_ to use them differently. Or if they have a foreign language, it would be difficult for us to translate their color words into ours.
+<span class="series-number">13</span> Let us imagine a _people_ of colourblind individuals, & such a group could easily exist. They would not have the same colour concepts as we do. For even if we assume they speak, for example, German, & therefore have all the German colour words, they would still use them differently than we do, & _learn_ to use them differently. Or if they have a foreign language, it would be difficult for us to translate their colour words into ours.
 
 ### [Ms-176](/ms-176/#5r.2) <span class="fac">[5r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/5r.webp)</span>
 
-<span class="series-number">14</span> If, however, there were also people for whom it would be natural to use the word “reddish-green” or “yellowish-blue” in a consistent way, and who might also reveal abilities that we do not have, we would still not be compelled to acknowledge that they _see colors_ that we do not see. After all, there is no generally accepted criterion for what a color is, unless it is one of our colors.
+<span class="series-number">14</span> If, however, there were also people for whom it would be natural to use the word “reddish-green” or “yellowish-blue” in a consistent way, and who might also reveal abilities that we do not have, we would still not be compelled to acknowledge that they _see colours_ that we do not see. After all, there is no generally accepted criterion for what a colour is, unless it is one of our colours.
 
 ### [Ms-176](/ms-176/#5v.1) <span class="fac">[5v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/5v.webp)</span>
 
@@ -70,23 +70,23 @@
 
 ### [Ms-176](/ms-176/#5v.2) <span class="fac">[5v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/5v.webp)</span>
 
-<span class="series-number">16</span> The description of the phenomena of color blindness belongs to psychology: does this also apply to the description of the phenomena of normal seeing? Psychology only describes the _deviations_ of color blindness from normal seeing.
+<span class="series-number">16</span> The description of the phenomena of colour blindness belongs to psychology: does this also apply to the description of the phenomena of normal seeing? Psychology only describes the _deviations_ of colour blindness from normal seeing.
 
 ### [Ms-176](/ms-176/#5v.3+6r.1) <span class="fac">[5v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/5v.webp),[6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/6r.webp)</span>
 
-<span class="series-number">17</span> Runge (in the letter that Goethe prints in the Theory of Colors) says that there are transparent and opaque colors. White is an opaque color. This shows the indeterminacy in the concept of color, or also of color identity.
+<span class="series-number">17</span> Runge (in the letter that Goethe prints in the Theory of Colours) says that there are transparent and opaque colours. White is an opaque colour. This shows the indeterminacy in the concept of colour, or also of colour identity.
 
 ### [Ms-176](/ms-176/#6r.2) <span class="fac">[6r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/6r.webp)</span>
 
-<span class="series-number">18</span> Can a transparent green piece of glass have the same color as an opaque piece of paper, or not? If such a piece of glass were depicted in a painting, the colors on the palette would not be transparent. If one wanted to say that the color of the glass is also transparent in the painting, one would have to call the complex of color patches that represents the glass its _color_.
+<span class="series-number">18</span> Can a transparent green piece of glass have the same colour as an opaque piece of paper, or not? If such a piece of glass were depicted in a painting, the colours on the palette would not be transparent. If one wanted to say that the colour of the glass is also transparent in the painting, one would have to call the complex of colour patches that represents the glass its _colour_.
 
 ### [Ms-176](/ms-176/#6r.3+6v.1) <span class="fac">[6r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/6r.webp),[6v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/6v.webp)</span>
 
-<span class="series-number">19</span> How is it that something transparent can be green, but not white? Transparency & reflection only exist in the depth dimension of a visual image. The impression of the transparent medium is that something lies _behind_ the medium. Complete uniformity of color in the visual image cannot be transparent.
+<span class="series-number">19</span> How is it that something transparent can be green, but not white? Transparency & reflection only exist in the depth dimension of a visual image. The impression of the transparent medium is that something lies _behind_ the medium. Complete uniformity of colour in the visual image cannot be transparent.
 
 ### [Ms-176](/ms-176/#6v.2+7r.1) <span class="fac">[6v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/6v.webp),[7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/7r.webp)</span>
 
-<span class="series-number">20</span> Something white behind a colored transparent medium appears in the color of the medium, something black appears black. According to this rule, black on a white background must be seen through a ‘white transparent’ medium as if through a colorless one.
+<span class="series-number">20</span> Something white behind a coloured transparent medium appears in the colour of the medium, something black appears black. According to this rule, black on a white background must be seen through a ‘white transparent’ medium as if through a colourless one.
 
 ### [Ms-176](/ms-176/#7r.2) <span class="fac">[7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/7r.webp)</span>
 
@@ -94,7 +94,7 @@
 
 ### [Ms-176](/ms-176/#7r.3+7v.1) <span class="fac">[7r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/7r.webp),[7v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/7v.webp)</span>
 
-<span class="series-number">22</span> We do not want to find a theory of colors (neither a physiological nor a psychological one), but the logic of color concepts. And this achieves what one has often wrongly expected from a theory.
+<span class="series-number">22</span> We do not want to find a theory of colours (neither a physiological nor a psychological one), but the logic of colour concepts. And this achieves what one has often wrongly expected from a theory.
 
 ### [Ms-176](/ms-176/#7v.2) <span class="fac">[7v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/7v.webp)</span>
 
@@ -102,13 +102,13 @@
 
 ### [Ms-176](/ms-176/#7v.3+8r.1) <span class="fac">[7v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/7v.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/8r.webp)</span>
 
-<span class="series-number">24</span> It is not immediately clear which transparent glass one should say has the _same color_ as an opaque color sample. If I say “I am looking for a glass of _this_ color” (while pointing to a colored piece of paper), then that will roughly mean that something white, seen through the glass, should look like my sample. If the sample is pink, sky blue, or purple, then one will imagine the glass as _opaque_, but perhaps also clear and only faintly reddish, bluish, or purplish.
+<span class="series-number">24</span> It is not immediately clear which transparent glass one should say has the _same colour_ as an opaque colour sample. If I say “I am looking for a glass of _this_ colour” (while pointing to a coloured piece of paper), then that will roughly mean that something white, seen through the glass, should look like my sample. If the sample is pink, sky blue, or purple, then one will imagine the glass as _opaque_, but perhaps also clear and only faintly reddish, bluish, or purplish.
 
 ### [Ms-176](/ms-176/#8r.2+8v.1) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/8v.webp)</span>
 
-<span class="series-number">25</span> In the cinema, one can sometimes see the events in the film as if they were behind the surface of the screen, but the screen is transparent, like a glass panel. The glass would take away the color of the things and only allow white, gray, and black to pass through.
+<span class="series-number">25</span> In the cinema, one can sometimes see the events in the film as if they were behind the surface of the screen, but the screen is transparent, like a glass panel. The glass would take away the colour of the things and only allow white, grey, and black to pass through.
 
-(Here we are not speaking in a physical sense, but rather considering white and black as colors just like green and red.) – One could therefore think that we are imagining a glass that would be called white and transparent. And yet, we are not inclined to call it that: Where does the analogy with a transparent green panel, for example, break down?
+(Here we are not speaking in a physical sense, but rather considering white and black as colours just like green and red.) – One could therefore think that we are imagining a glass that would be called white and transparent. And yet, we are not inclined to call it that: Where does the analogy with a transparent green panel, for example, break down?
 
 ### [Ms-176](/ms-176/#8v.2) <span class="fac">[8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/8v.webp)</span>
 
@@ -124,15 +124,15 @@
 
 ### [Ms-176](/ms-176/#9r.2) <span class="fac">[9r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/9r.webp)</span>
 
-<span class="series-number">29</span> Construct from the rule for the appearance of the transparent and colored, which you derive from the transparent green, red, etc., the appearance of the transparent white! Why does it not work?
+<span class="series-number">29</span> Construct from the rule for the appearance of the transparent and coloured, which you derive from the transparent green, red, etc., the appearance of the transparent white! Why does it not work?
 
 ### [Ms-176](/ms-176/#9r.3) <span class="fac">[9r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/9r.webp)</span>
 
-<span class="series-number">30</span> Every colored medium darkens what is seen through it; it absorbs light: Should my white glass also darken? And the thicker it is, the more? So it would actually be a dark glass!
+<span class="series-number">30</span> Every coloured medium darkens what is seen through it; it absorbs light: Should my white glass also darken? And the thicker it is, the more? So it would actually be a dark glass!
 
 ### [Ms-176](/ms-176/#9v.1) <span class="fac">[9v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/9v.webp)</span>
 
-<span class="series-number">31</span> _Why_ can one not imagine white transparent glass, even if there is no such thing in reality? Where does the analogy with the transparent colored one fail?
+<span class="series-number">31</span> _Why_ can one not imagine white transparent glass, even if there is no such thing in reality? Where does the analogy with the transparent coloured one fail?
 
 ### [Ms-176](/ms-176/#9v.2) <span class="fac">[9v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/9v.webp)</span>
 
@@ -140,27 +140,27 @@
 
 ### [Ms-176](/ms-176/#10r.1) <span class="fac">[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10r.webp)</span>
 
-<span class="series-number">33</span> One speaks of the ‘color of gold’ and does not mean yellow. “Gold-colored” is the property of a surface that shines or shimmers.
+<span class="series-number">33</span> One speaks of the ‘colour of gold’ and does not mean yellow. “Gold-coloured” is the property of a surface that shines or shimmers.
 
 ### [Ms-176](/ms-176/#10r.2) <span class="fac">[10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10r.webp)</span>
 
-<span class="series-number">34</span> There is red-hot and white-hot: What would brown-hot and gray-hot look like? Why can one not imagine these as a weaker degree of white-hot?
+<span class="series-number">34</span> There is red-hot and white-hot: What would brown-hot and grey-hot look like? Why can one not imagine these as a weaker degree of white-hot?
 
 ### [Ms-176](/ms-176/#10r.3) <span class="fac">[10r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10r.webp)</span>
 
-<span class="series-number">35</span> “Light is colorless.” If so, then in the sense in which numbers are colorless.
+<span class="series-number">35</span> “Light is colourless.” If so, then in the sense in which numbers are colourless.
 
 ### [Ms-176](/ms-176/#10r.4) <span class="fac">[10r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10r.webp)</span>
 
-<span class="series-number">36</span> What _looks_ bright does not look gray. Everything gray _looks_ illuminated.
+<span class="series-number">36</span> What _looks_ bright does not look grey. Everything grey _looks_ illuminated.
 
 ### [Ms-176](/ms-176/#10v.1) <span class="fac">[10v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10v.webp)</span>
 
-<span class="series-number">37</span> What one sees as brightly lit, one does not see as gray. However, one can see it as white.
+<span class="series-number">37</span> What one sees as brightly lit, one does not see as grey. However, one can see it as white.
 
 ### [Ms-176](/ms-176/#10v.2) <span class="fac">[10v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10v.webp)</span>
 
-<span class="series-number">38</span> One could therefore see something _now_ as faintly lit, _now_ as gray.
+<span class="series-number">38</span> One could therefore see something _now_ as faintly lit, _now_ as grey.
 
 ### [Ms-176](/ms-176/#10v.3) <span class="fac">[10v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10v.webp)</span>
 
@@ -168,11 +168,11 @@
 
 ### [Ms-176](/ms-176/#10v.4) <span class="fac">[10v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/10v.webp)</span>
 
-<span class="series-number">40</span> For the fact that one cannot imagine something ‘gray-glowing’ does not belong in the physics or psychology of color.
+<span class="series-number">40</span> For the fact that one cannot imagine something ‘grey-glowing’ does not belong in the physics or psychology of colour.
 
 ### [Ms-176](/ms-176/#11r.1) <span class="fac">[11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/11r.webp)</span>
 
-<span class="series-number">41</span> I am told that a certain substance burns with a gray flame. I do not know the color of the flames of all substances; why should this not be possible?
+<span class="series-number">41</span> I am told that a certain substance burns with a grey flame. I do not know the colour of the flames of all substances; why should this not be possible?
 
 ### [Ms-176](/ms-176/#11r.2) <span class="fac">[11r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/11r.webp)</span>
 
@@ -188,35 +188,35 @@
 
 ### [Ms-176](/ms-176/#11v.2) <span class="fac">[11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/11v.webp)</span>
 
-<span class="series-number">45</span> Opacity is not a _property_ of white color. Just as transparency is not a property of green.
+<span class="series-number">45</span> Opacity is not a _property_ of white colour. Just as transparency is not a property of green.
 
 ### [Ms-176](/ms-176/#11v.3+12r.1) <span class="fac">[11v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/11v.webp),[12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12r.webp)</span>
 
-<span class="series-number">46</span> And it is not enough to say that the word “white” is simply used for the appearance of surfaces. It could be that we have two words for “green”: one only for green surfaces, the other for green transparent objects. So the question remains: why is there no color word corresponding to the word “white” for something transparent?
+<span class="series-number">46</span> And it is not enough to say that the word “white” is simply used for the appearance of surfaces. It could be that we have two words for “green”: one only for green surfaces, the other for green transparent objects. So the question remains: why is there no colour word corresponding to the word “white” for something transparent?
 
 ### [Ms-176](/ms-176/#12r.2) <span class="fac">[12r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12r.webp)</span>
 
-<span class="series-number">47</span> A medium through which a black and white pattern (chessboard) appears unchanged would not be called white, even if it makes the other colors lose some of their color intensity.
+<span class="series-number">47</span> A medium through which a black and white pattern (chessboard) appears unchanged would not be called white, even if it makes the other colours lose some of their colour intensity.
 
 ### [Ms-176](/ms-176/#12r.3) <span class="fac">[12r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12r.webp)</span>
 
-<span class="series-number">48</span> One could not want to call a white highlight “white,” and only call what appears to the eye as the color of a surface.
+<span class="series-number">48</span> One could not want to call a white highlight “white,” and only call what appears to the eye as the colour of a surface.
 
 ### [Ms-176](/ms-176/#12r.4+12v.1) <span class="fac">[12r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12r.webp),[12v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12v.webp)</span>
 
-<span class="series-number">49</span> From two places in my surroundings, which I, in one sense, _see_ as having the same color, I can, in another sense, see one as white, the other as gray. In one context, this color is white for me in poor lighting, in another, gray in good lighting. These are sentences about the concepts ‘white’ & ‘gray’.
+<span class="series-number">49</span> From two places in my surroundings, which I, in one sense, _see_ as having the same colour, I can, in another sense, see one as white, the other as grey. In one context, this colour is white for me in poor lighting, in another, grey in good lighting. These are sentences about the concepts ‘white’ & ‘grey’.
 
 ### [Ms-176](/ms-176/#12v.2) <span class="fac">[12v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12v.webp)</span>
 
-<span class="series-number">50</span> The bucket standing in front of me is painted a glossy white; it would be absurd to call it “gray” or to say “I am actually seeing a light gray.” But it has a white highlight that is much brighter than the rest of the surface, and this is partly in the light, partly in the shadow, without appearing to be of a different color. (To _appear_, not just to _be_.)
+<span class="series-number">50</span> The bucket standing in front of me is painted a glossy white; it would be absurd to call it “grey” or to say “I am actually seeing a light grey.” But it has a white highlight that is much brighter than the rest of the surface, and this is partly in the light, partly in the shadow, without appearing to be of a different colour. (To _appear_, not just to _be_.)
 
 ### [Ms-176](/ms-176/#12v.3+13r.1) <span class="fac">[12v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/12v.webp),[13r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13r.webp)</span>
 
-<span class="series-number">51</span> It is not the same to say: the impression of white or gray arises under _these_ conditions (causally), and: it is an impression in a certain context of colors and shapes.
+<span class="series-number">51</span> It is not the same to say: the impression of white or grey arises under _these_ conditions (causally), and: it is an impression in a certain context of colours and shapes.
 
 ### [Ms-176](/ms-176/#13r.2) <span class="fac">[13r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13r.webp)</span>
 
-<span class="series-number">52</span> White as a _material color_ (in the sense in which one says, snow is white) is brighter than any other material color; black is darker. _Here_ the color is a darkening, and if this darkening is removed from the material, then white remains, and that is why one can call it “colorless.”
+<span class="series-number">52</span> White as a _material colour_ (in the sense in which one says, snow is white) is brighter than any other material colour; black is darker. _Here_ the colour is a darkening, and if this darkening is removed from the material, then white remains, and that is why one can call it “colourless.”
 
 ### [Ms-176](/ms-176/#13r.3) <span class="fac">[13r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13r.webp)</span>
 
@@ -224,15 +224,15 @@
 
 ### [Ms-176](/ms-176/#13r.4+13v.1) <span class="fac">[13r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13r.webp),[13v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13v.webp)</span>
 
-<span class="series-number">54</span> It is easy to see that not all color concepts are logically of the same kind. For example, the difference between the concepts ‘color of gold’ or ‘color of silver’ and ‘yellow’ or ‘gray’.
+<span class="series-number">54</span> It is easy to see that not all colour concepts are logically of the same kind. For example, the difference between the concepts ‘colour of gold’ or ‘colour of silver’ and ‘yellow’ or ‘grey’.
 
 ### [Ms-176](/ms-176/#13v.2) <span class="fac">[13v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13v.webp)</span>
 
-<span class="series-number">55</span> A color ‘_shines_’ in an environment (just as eyes only smile in a face). A ‘dark’ color – for example, gray – does not ‘shine’.
+<span class="series-number">55</span> A colour ‘_shines_’ in an environment (just as eyes only smile in a face). A ‘dark’ colour – for example, grey – does not ‘shine’.
 
 ### [Ms-176](/ms-176/#13v.3) <span class="fac">[13v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13v.webp)</span>
 
-<span class="series-number">56</span> The difficulties that we experience when thinking about the nature of colors (with which Goethe wanted to grapple in his theory of colors) are already contained in the indeterminacy of our concept of color equality.
+<span class="series-number">56</span> The difficulties that we experience when thinking about the nature of colours (with which Goethe wanted to grapple in his theory of colours) are already contained in the indeterminacy of our concept of colour equality.
 
 ### [Ms-176](/ms-176/#13v.4+14r.1) <span class="fac">[13v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/13v.webp),[14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/14r.webp)</span>
 
@@ -244,27 +244,27 @@ In the first & second sentence, x does not stand for the same concept, even if p
 
 ### [Ms-176](/ms-176/#14r.2+14v.1) <span class="fac">[14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/14r.webp),[14v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/14v.webp)</span>
 
-<span class="series-number">58</span> Imagine someone points to a spot in the iris in a Rembrandt eye and says: “The walls in my room should be painted in this color.”
+<span class="series-number">58</span> Imagine someone points to a spot in the iris in a Rembrandt eye and says: “The walls in my room should be painted in this colour.”
 
 ### [Ms-176](/ms-176/#14v.2+15r.1) <span class="fac">[14v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/14v.webp),[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/15r.webp)</span>
 
-<span class="series-number">59</span> I paint the view from my window; a particular spot, defined by its location in the architecture of a house, I paint with ochre. I say that I see this spot in this color. This does not mean that I see the color ochre here, because this pigment may, when _so_ surrounded, appear lighter, darker, redder (etc.) than ochre. “I see this spot as I have painted it here with ochre, namely as a strong reddish yellow.” But what if I were asked to specify the exact shade that I see there? – How is it to be specified, & how is it to be determined? One could demand that I produce a color sample (a rectangular piece of paper of this color). I do not say that such a comparison would be without any interest, but it shows us that it is not clear from the outset how shades are to be compared & what “sameness of color” means.
+<span class="series-number">59</span> I paint the view from my window; a particular spot, defined by its location in the architecture of a house, I paint with ochre. I say that I see this spot in this colour. This does not mean that I see the colour ochre here, because this pigment may, when _so_ surrounded, appear lighter, darker, redder (etc.) than ochre. “I see this spot as I have painted it here with ochre, namely as a strong reddish yellow.” But what if I were asked to specify the exact shade that I see there? – How is it to be specified, & how is it to be determined? One could demand that I produce a colour sample (a rectangular piece of paper of this colour). I do not say that such a comparison would be without any interest, but it shows us that it is not clear from the outset how shades are to be compared & what “sameness of colour” means.
 
 ### [Ms-176](/ms-176/#15r.2) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/15r.webp)</span>
 
-<span class="series-number">60</span> Let us imagine a painting cut into small, almost monochromatic pieces, and then used as stones in a jigsaw puzzle. Even where a stone is not monochromatic, it should not suggest any spatial form, but simply appear as a flat patch of color. It is only in connection with the others that one sees it as a piece of blue sky, as a shadow, a gleam, as transparent or opaque, etc. – Do the individual stones show us the _actual colors_ of the places in the picture?
+<span class="series-number">60</span> Let us imagine a painting cut into small, almost monochromatic pieces, and then used as stones in a jigsaw puzzle. Even where a stone is not monochromatic, it should not suggest any spatial form, but simply appear as a flat patch of colour. It is only in connection with the others that one sees it as a piece of blue sky, as a shadow, a gleam, as transparent or opaque, etc. – Do the individual stones show us the _actual colours_ of the places in the picture?
 
 ### [Ms-176](/ms-176/#15v.2) <span class="fac">[15v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/15v.webp)</span>
 
-<span class="series-number">61</span> One is inclined to believe that the analysis of our color concepts ultimately leads to the _colors of places_ in our visual image, which are now independent of any spatial or physical interpretation; for here there is neither lighting, nor shadow, nor gleam, etc.
+<span class="series-number">61</span> One is inclined to believe that the analysis of our colour concepts ultimately leads to the _colours of places_ in our visual image, which are now independent of any spatial or physical interpretation; for here there is neither lighting, nor shadow, nor gleam, etc.
 
 ### [Ms-176](/ms-176/#15v.3) <span class="fac">[15v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/15v.webp)</span>
 
-<span class="series-number">62</span> The fact that I can say that this place in my field of vision is gray-green does not mean that I know what an exact copy of the color tone would be called.
+<span class="series-number">62</span> The fact that I can say that this place in my field of vision is grey-green does not mean that I know what an exact copy of the colour tone would be called.
 
 ### [Ms-176](/ms-176/#16r.1) <span class="fac">[16r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/16r.webp)</span>
 
-<span class="series-number">63</span> I look at a (non-colored) photograph of a man with dark hair and a boy with smooth, slicked-back blond hair standing in front of a kind of lathe, which consists partly of black-painted cast parts, partly of smooth waves, gears, etc., and next to it a grid of bright galvanized wire. I see the processed iron surfaces as iron-colored, the boy’s hair as blond, the grid as zinc-colored, although everything is represented by lighter and darker tones of the photographic paper.
+<span class="series-number">63</span> I look at a (non-coloured) photograph of a man with dark hair and a boy with smooth, slicked-back blond hair standing in front of a kind of lathe, which consists partly of black-painted cast parts, partly of smooth waves, gears, etc., and next to it a grid of bright galvanized wire. I see the processed iron surfaces as iron-coloured, the boy’s hair as blond, the grid as zinc-coloured, although everything is represented by lighter and darker tones of the photographic paper.
 
 ### [Ms-176](/ms-176/#16r.2+16v.1) <span class="fac">[16r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/16r.webp),[16v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/16v.webp)</span>
 
@@ -276,15 +276,15 @@ In the first & second sentence, x does not stand for the same concept, even if p
 
 ### [Ms-176](/ms-176/#16v.3+17r.1) <span class="fac">[16v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/16v.webp),[17r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/17r.webp)</span>
 
-<span class="series-number">66</span> “Can one not imagine that (certain) people have a different color geometry than ours?” This really means: Can one not imagine people with color concepts different from ours? And this in turn means: Can one not imagine that people do _not_ have our color concepts, and that they have concepts that are related to our color concepts in such a way that we would also call them “color concepts”?
+<span class="series-number">66</span> “Can one not imagine that (certain) people have a different colour geometry than ours?” This really means: Can one not imagine people with colour concepts different from ours? And this in turn means: Can one not imagine that people do _not_ have our colour concepts, and that they have concepts that are related to our colour concepts in such a way that we would also call them “colour concepts”?
 
 ### [Ms-176](/ms-176/#17r.2) <span class="fac">[17r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/17r.webp)</span>
 
-<span class="series-number">67</span> Look at your room in the late evening, when colors can hardly be distinguished anymore – and now turn on the light and paint what you saw earlier in the dim light. – How does one compare the colors on such a picture with those of the dimly lit room?
+<span class="series-number">67</span> Look at your room in the late evening, when colours can hardly be distinguished anymore – and now turn on the light and paint what you saw earlier in the dim light. – How does one compare the colours on such a picture with those of the dimly lit room?
 
 ### [Ms-176](/ms-176/#17r.3+17v.1) <span class="fac">[17r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/17r.webp),[17v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/17v.webp)</span>
 
-<span class="series-number">68</span> To the question “What do the words ‘red’, ‘blue’, ‘black’, ‘white’ mean?”, we can immediately point to things that are colored in this way – but our ability to explain the meanings of these words does not go any further! Moreover, we have either no conception of their use, or a very crude, partly incorrect conception.
+<span class="series-number">68</span> To the question “What do the words ‘red’, ‘blue’, ‘black’, ‘white’ mean?”, we can immediately point to things that are coloured in this way – but our ability to explain the meanings of these words does not go any further! Moreover, we have either no conception of their use, or a very crude, partly incorrect conception.
 
 ### [Ms-176](/ms-176/#17v.2) <span class="fac">[17v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/17v.webp)</span>
 
@@ -292,23 +292,23 @@ In the first & second sentence, x does not stand for the same concept, even if p
 
 ### [Ms-176](/ms-176/#17v.3+18r.1) <span class="fac">[17v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/17v.webp),[18r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/18r.webp)</span>
 
-<span class="series-number">70</span> Goethe’s doctrine of the origin of the spectral colors is not a theory that has proven to be inadequate, but actually not a theory at all. Nothing can be predicted with it. It is more like a vague thought-schema of the kind that can be found in James’ psychology. There is also no crucial experiment that could decide for or against this doctrine.
+<span class="series-number">70</span> Goethe’s doctrine of the origin of the spectral colours is not a theory that has proven to be inadequate, but actually not a theory at all. Nothing can be predicted with it. It is more like a vague thought-schema of the kind that can be found in James’ psychology. There is also no crucial experiment that could decide for or against this doctrine.
 
 ### [Ms-176](/ms-176/#18r.2) <span class="fac">[18r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/18r.webp)</span>
 
-<span class="series-number">71</span> Whoever agrees with Goethe finds that Goethe correctly recognized the _nature_ of color: and here nature is not what emerges from experiments, but it lies in the concept of color.
+<span class="series-number">71</span> Whoever agrees with Goethe finds that Goethe correctly recognized the _nature_ of colour: and here nature is not what emerges from experiments, but it lies in the concept of colour.
 
 ### [Ms-176](/ms-176/#18r.3+18v.1) <span class="fac">[18r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/18r.webp),[18v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/18v.webp)</span>
 
-<span class="series-number">72</span> It was unequivocally clear to Goethe: no brightness can emerge from darkness – just as no light can come from more & more shadow. – And this could be expressed as follows: if one calls purple a whitish-reddish-blue, or brown a blackish-reddish-yellow, then one cannot call white a yellowish-reddish-greenish-blue, or the like. White is not an _intermediate color_ between other colors. And attempts with the spectrum can neither confirm nor refute _this_. But it would also be wrong to say, “Just look at the colors in nature, & you will _see_ that it is so.” For one is not enlightened about the concepts of colors by looking at them.
+<span class="series-number">72</span> It was unequivocally clear to Goethe: no brightness can emerge from darkness – just as no light can come from more & more shadow. – And this could be expressed as follows: if one calls purple a whitish-reddish-blue, or brown a blackish-reddish-yellow, then one cannot call white a yellowish-reddish-greenish-blue, or the like. White is not an _intermediate colour_ between other colours. And attempts with the spectrum can neither confirm nor refute _this_. But it would also be wrong to say, “Just look at the colours in nature, & you will _see_ that it is so.” For one is not enlightened about the concepts of colours by looking at them.
 
 ### [Ms-176](/ms-176/#18v.2+19r.1) <span class="fac">[18v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/18v.webp),[19r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/19r.webp)</span>
 
-<span class="series-number">73</span> I cannot imagine that Goethe’s remarks about the characters of colors & color combinations could be useful for the painter; hardly for the decorator. The color of a bloodshot eye might look splendid as the color of a wall hanging. Whoever speaks of the character of a color always has in mind only _one_ particular kind of its use.
+<span class="series-number">73</span> I cannot imagine that Goethe’s remarks about the characters of colours & colour combinations could be useful for the painter; hardly for the decorator. The colour of a bloodshot eye might look splendid as the colour of a wall hanging. Whoever speaks of the character of a colour always has in mind only _one_ particular kind of its use.
 
 ### [Ms-176](/ms-176/#19r.2) <span class="fac">[19r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/19r.webp)</span>
 
-<span class="series-number">74</span> If there were a harmony theory of colors, it would begin with a classification of the colors into groups and prohibit certain mixtures or juxtapositions, and allow others. And, like harmony theory, it would not justify its rules.
+<span class="series-number">74</span> If there were a harmony theory of colours, it would begin with a classification of the colours into groups and prohibit certain mixtures or juxtapositions, and allow others. And, like harmony theory, it would not justify its rules.
 
 ### [Ms-176](/ms-176/#19r.3+19v.1) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/19r.webp),[19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/19v.webp)</span>
 
@@ -320,11 +320,11 @@ In the first & second sentence, x does not stand for the same concept, even if p
 
 ### [Ms-176](/ms-176/#19v.3+20r.1) <span class="fac">[19v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/19v.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/20r.webp)</span>
 
-<span class="series-number">77</span> Do the normally sighted and the colorblind have the same concept of color blindness? A colorblind person can not only learn to use our color words, but also the word “colorblind” not in the same way as a normal person. For example, he cannot determine color blindness in the same way.
+<span class="series-number">77</span> Do the normally sighted and the colourblind have the same concept of colour blindness? A colourblind person can not only learn to use our colour words, but also the word “colourblind” not in the same way as a normal person. For example, he cannot determine colour blindness in the same way.
 
 ### [Ms-176](/ms-176/#20r.2) <span class="fac">[20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/20r.webp)</span>
 
-<span class="series-number">78</span> There might be people who would not understand our way of expressing things, that orange is a reddish yellow, and would only be inclined to say so when they see a color transition from yellow to orange to red. And for such people, the expression “reddish green” would not present any difficulty.
+<span class="series-number">78</span> There might be people who would not understand our way of expressing things, that orange is a reddish yellow, and would only be inclined to say so when they see a colour transition from yellow to orange to red. And for such people, the expression “reddish green” would not present any difficulty.
 
 ### [Ms-176](/ms-176/#20v.1) <span class="fac">[20v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/20v.webp)</span>
 
@@ -340,11 +340,11 @@ In the first & second sentence, x does not stand for the same concept, even if p
 
 ### [Ms-176](/ms-176/#21r.1) <span class="fac">[21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21r.webp)</span>
 
-<span class="series-number">82</span> I can observe color blindness; why, then, not seeing? – I can observe what judgments about colors a color-blind person – or even a person with normal vision – makes _under certain circumstances_.
+<span class="series-number">82</span> I can observe colour blindness; why, then, not seeing? – I can observe what judgments about colours a colour-blind person – or even a person with normal vision – makes _under certain circumstances_.
 
 ### [Ms-176](/ms-176/#21r.2) <span class="fac">[21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21r.webp)</span>
 
-<span class="series-number">83</span> One sometimes says (although it is misleading) “Only I can know what I see.” But not: “Only I can know whether I am colorblind.” (Nor: “Only I can know whether I see or am blind.”)
+<span class="series-number">83</span> One sometimes says (although it is misleading) “Only I can know what I see.” But not: “Only I can know whether I am colourblind.” (Nor: “Only I can know whether I see or am blind.”)
 
 ### [Ms-176](/ms-176/#21r.3+21v.1) <span class="fac">[21r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/21v.webp)</span>
 

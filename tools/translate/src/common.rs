@@ -1020,28 +1020,15 @@ pub fn assemble_work(
             .unwrap_or_default();
 
         let translated_body = if let Some(doc_body) = url_map.get(&key) {
-            // The German work is authoritative for series numbers: take the leading
-            // series-number prefix from the work body, and strip *all* series numbers
-            // from the translated doc body. Docs carry source-local numbering the
-            // published work omits — both a leading prefix (e.g. Ms-144 `a*` paragraph
-            // numbers, PI section numbers the work renumbers) and occasionally a
-            // secondary mid-body number (e.g. Zettel 463 "Zur Mathematik" keeps a doc
-            // paragraph number the work drops). Work remarks never carry a mid-body
-            // series number, so stripping every span from the doc is safe.
-            let lead_re = Regex::new(
-                r#"^(<span class="series-number">[^<]+</span>\s*)+"#,
-            )
-            .unwrap();
-            let any_re = Regex::new(
-                r#"<span class="series-number">[^<]+</span>\s*"#,
-            )
-            .unwrap();
-            let work_prefix = lead_re
-                .find(&remark.body)
-                .map(|m| m.as_str())
-                .unwrap_or("");
-            let doc_content = any_re.replace_all(doc_body, "");
-            format!("{}{}", work_prefix, doc_content)
+            let (body, placed) = work_series_numbers(&remark.body, doc_body);
+            if !placed {
+                eprintln!(
+                    "  {} remark {}: paragraphs differ from the German work, mid-remark series numbers dropped",
+                    stem,
+                    remark.heading.chars().take(60).collect::<String>()
+                );
+            }
+            body
         } else {
             missing += 1;
             eprintln!(
@@ -1057,6 +1044,45 @@ pub fn assemble_work(
     }
 
     missing
+}
+
+/// The translated doc body with the German work's series numbers.
+///
+/// The German work is authoritative for series numbers: its leading prefix is used, and
+/// every series number is stripped from the doc body. Docs carry source-local numbering the
+/// published work omits — both a leading prefix (e.g. Ms-144 `a*` paragraph numbers, PI
+/// section numbers the work renumbers) and occasionally a secondary mid-body number (e.g.
+/// Zettel 463 "Zur Mathematik" keeps a doc paragraph number the work drops). A work remark
+/// may itself start a later paragraph with a number (TLP 3.142 within the remark of
+/// 3.141): that number is put at the start of the same paragraph of the translation.
+/// Returns false if that was impossible because the paragraphs don't correspond (the
+/// numbers are then left out).
+pub fn work_series_numbers(work_body: &str, doc_body: &str) -> (String, bool) {
+    let lead_re = Regex::new(r#"^(<span class="series-number">[^<]+</span>\s*)+"#).unwrap();
+    let any_re = Regex::new(r#"<span class="series-number">[^<]+</span>\s*"#).unwrap();
+    let work_prefix = lead_re.find(work_body).map(|m| m.as_str()).unwrap_or("");
+    let doc_content = any_re.replace_all(doc_body, "").into_owned();
+
+    // Numbers at the start of later paragraphs of the German work
+    let paragraph = |s: &str| -> Vec<String> { s.trim().split("\n\n").map(str::to_string).collect() };
+    let work_paragraphs = paragraph(work_body);
+    let mid: Vec<(usize, &str)> = work_paragraphs
+        .iter()
+        .enumerate()
+        .skip(1)
+        .filter_map(|(i, p)| lead_re.find(p).map(|m| (i, m.as_str())))
+        .collect();
+    if mid.is_empty() {
+        return (format!("{}{}", work_prefix, doc_content), true);
+    }
+    let mut doc_paragraphs = paragraph(&doc_content);
+    if doc_paragraphs.len() != work_paragraphs.len() {
+        return (format!("{}{}", work_prefix, doc_content), false);
+    }
+    for (i, spans) in mid {
+        doc_paragraphs[i] = format!("{}{}", spans, doc_paragraphs[i]);
+    }
+    (format!("{}{}", work_prefix, doc_paragraphs.join("\n\n")), true)
 }
 
 /// Write a single remark to a file (used by translate and fix).
@@ -1494,6 +1520,26 @@ pub fn build_reuse_map(german_path: &Path, english_path: &Path) -> ReuseMap {
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn work_series_numbers_follow_the_german_work() {
+        let span = |n: &str| format!(r#"<span class="series-number">{n}</span> "#);
+        // Leading number from the work; the doc's own numbering is dropped.
+        let (body, placed) = work_series_numbers(&format!("{}Satz.", span("7")), &format!("{}Sentence.", span("a12")));
+        assert_eq!((body.as_str(), placed), (format!("{}Sentence.", span("7")).as_str(), true));
+        // A number starting a later paragraph of the work is kept (TLP 3.142).
+        let work = format!("{}Der Satz ist artikuliert.\n\n{}Nur Tatsachen.", span("3.141"), span("3.142"));
+        let doc = format!("{}The proposition is articulate.\n\n{}Only facts.", span("3.141"), span("3.142"));
+        let (body, placed) = work_series_numbers(&work, &doc);
+        assert!(placed);
+        assert_eq!(body, format!("{}The proposition is articulate.\n\n{}Only facts.", span("3.141"), span("3.142")));
+        // A mid-body doc number the work lacks is dropped (Zettel 463).
+        let (body, _) = work_series_numbers(&format!("{}Eins.\n\nZwei.", span("463")), &format!("{}One.\n\n{}Two.", span("1"), span("2")));
+        assert_eq!(body, format!("{}One.\n\nTwo.", span("463")));
+        // Paragraphs that don't correspond: the mid-body number can't be placed.
+        let (_, placed) = work_series_numbers(&work, "One paragraph only.");
+        assert!(!placed);
+    }
 
     #[test]
     fn anchor_reads_linked_and_unlinked_labels() {

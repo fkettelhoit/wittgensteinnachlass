@@ -138,7 +138,7 @@ Imagine that the calculation with <img class="math math-inline" src="../math/1ed
 
 ### [Ms-126](/ms-126/#50.2) <span class="fac">[50\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/50.webp)</span>
 
-In other words: Anyone who believes in mathematical _objects_ and their strange properties—can’t they still practice mathematics? Or:—aren’t they also practicing mathematics?
+In other words: Anyone who believes in mathematical _objects_ and their strange properties—can’t they still practice mathematics? Or:—aren’t they also practising mathematics?
 
 ### [Ms-126](/ms-126/#50.3+51.1) <span class="fac">[50\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/50.webp),[51\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/51.webp)</span>
 

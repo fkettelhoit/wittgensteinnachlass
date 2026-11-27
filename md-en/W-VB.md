@@ -794,7 +794,7 @@ If, for example, one establishes certain figurative sentences as dogmas of think
 
 ### [Ms-118](/ms-118/#87r.3+87v.1) <span class="fac">[87r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/87r.webp),[87v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/87v.webp)</span>
 
-There is also a time for plowing and a time for harvest in thinking. It is a satisfaction for me to write _a lot_ every day. This is childish, but that is how it is.
+There is also a time for ploughing and a time for harvest in thinking. It is a satisfaction for me to write _a lot_ every day. This is childish, but that is how it is.
 
 ### [Ms-118](/ms-118/#94v.2) <span class="fac">[94v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/94v.webp)</span>
 
@@ -804,7 +804,7 @@ If I think for myself without wanting to write a book, then I jump around the to
 
 ### [Ms-118](/ms-118/#113r.2+113v.1+114r.1) <span class="fac">[113r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/113r.webp),[113v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/113v.webp),[114r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/114r.webp)</span>
 
-People have sometimes told me that they cannot judge this or that, because they have not studied philosophy. This is an irritating nonsense; it is assumed that philosophy is some kind of science. And one talks about it as if it were medicine. – – But one can say that people who have never conducted a philosophical investigation, such as most mathematicians, are not equipped with the right tools for such an investigation or examination. Almost as if someone who is not used to looking for berries in the forest does not find any, because his eye is not trained to see them and he does not know where to look for them in particular. So the person who is not practiced in philosophy passes by all the places where difficulties lie hidden under the grass, while the practiced person stops there and feels that there is a difficulty, even if he does not yet see it. – And, no wonder, if one knows how long even the practiced person, who does notice that there is a difficulty, has to search in order to find it. If something is well hidden, it is difficult to find.
+People have sometimes told me that they cannot judge this or that, because they have not studied philosophy. This is an irritating nonsense; it is assumed that philosophy is some kind of science. And one talks about it as if it were medicine. – – But one can say that people who have never conducted a philosophical investigation, such as most mathematicians, are not equipped with the right tools for such an investigation or examination. Almost as if someone who is not used to looking for berries in the forest does not find any, because his eye is not trained to see them and he does not know where to look for them in particular. So the person who is not practised in philosophy passes by all the places where difficulties lie hidden under the grass, while the practised person stops there and feels that there is a difficulty, even if he does not yet see it. – And, no wonder, if one knows how long even the practised person, who does notice that there is a difficulty, has to search in order to find it. If something is well hidden, it is difficult to find.
 
 ### [Ms-118](/ms-118/#117v.3+118r.1+118v.1+BCr.1) <span class="fac">[117v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/117v.webp),[118r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/118r.webp),[118v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/118v.webp),[BCr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/BCr.webp)</span>
 
@@ -933,7 +933,7 @@ The Old Testament seen as the body without a head; the New Testament: the head; 
 
 ### [Ms-162b](/ms-162b/#21v.2) <span class="fac">[21v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-162b/21v.webp)</span>
 
-Envy is something superficial – that is: the typical color of envy does not go deep – further down, the passion has a different color. (_This_ does not, of course, make envy any less real.)
+Envy is something superficial – that is: the typical colour of envy does not go deep – further down, the passion has a different colour. (_This_ does not, of course, make envy any less real.)
 
 ### [Ms-162b](/ms-162b/#22r.2+22v.1) <span class="fac">[22r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-162b/22r.webp),[22v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-162b/22v.webp)</span>
 
@@ -1339,11 +1339,11 @@ What's ragged should be left ragged.
 
 ### [Ms-128](/ms-128/#47.2) <span class="fac">[47\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/47.webp)</span>
 
-A miracle is, as it were, a _gesture_ that God makes. Just as a man sits quietly & then makes an impressive gesture, God lets the world run on smoothly & then accompanies the words of a saint with a symbolic occurrence, a gesture of nature. It would be an instance if, when a saint has spoken, the trees around him bowed as if in reverence. – Now do I believe that this happens? I don't.
+A miracle is, as it were, a _gesture_ which God makes. As a man sits quietly & then makes an impressive gesture, God lets the world run on smoothly & then accompanies the words of a saint by a symbolic occurrence, a gesture of nature. It would be an instance if, when a saint has spoken, the trees around him bowed as if in reverence. – Now do I believe that this happens? I don't.
 
 ### [Ms-128](/ms-128/#47.3) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/47.webp)</span>
 
-The only way for me to believe in a miracle in this sense would be to be _impressed_ by an occurrence in this particular way. So that I would say, for example: “It was _impossible_ to see these trees & not to feel that they were responding to the words.” Just as I might say “It is impossible to see the face of this dog & not to see that he is alert & full of attention to what his master is doing.” And I can imagine that the mere report of the _words_ & life of a saint can make someone believe the reports that the trees bowed. But I am not so impressed.
+The only way for me to believe in a miracle in this sense would be to be _impressed_ by an occurrence in this particular way. So that I should say e.g.: “It was _impossible_ to see these trees & not to feel that they were responding to the words.” Just as I might say “It is impossible to see the face of this dog & not to see that he is alert & full of attention to what his master is doing.” And I can imagine that the mere report of the _words_ & life of a saint can make someone believe the reports that the trees bowed. But I am not so impressed.
 
 ### [Ms-128](/ms-128/#47.4) <span class="fac">[47\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-128/47.webp)</span>
 
@@ -1431,7 +1431,7 @@ Schubert is irreligious and melancholy.
 
 ### [Ms-130](/ms-130/#291.3+292.1) <span class="fac">[291\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-130/291.webp),[292\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-130/292.webp)</span>
 
-Are _all_ people great people? No. – But how can _you_ then hope to be a great person! Why should something befall me that will not befall your neighbor? For what?! – If it is not the _wish_ to be rich that makes you believe you are rich, then it must be an observation, an experience that shows you this! And what experience do you have (other than that of vanity)? Only that of a _talent_. And my delusion that I am an extraordinary person is _much_ older than my experience of my particular talent.
+Are _all_ people great people? No. – But how can _you_ then hope to be a great person! Why should something befall me that will not befall your neighbour? For what?! – If it is not the _wish_ to be rich that makes you believe you are rich, then it must be an observation, an experience that shows you this! And what experience do you have (other than that of vanity)? Only that of a _talent_. And my delusion that I am an extraordinary person is _much_ older than my experience of my particular talent.
 
 ### [Ms-131](/ms-131/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-131/2.webp)</span>
 
@@ -1637,7 +1637,7 @@ Lenau's Faust is remarkable in that here the human being is dealing with the dev
 
 ### [Ms-132](/ms-132/#205.2+206.1+207.1) <span class="fac">[205\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-132/205.webp),[206\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-132/206.webp),[207\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-132/207.webp)</span>
 
-I believe that Bacon was not a _sharp thinker_. He had great, one might say broad, visions. But whoever has only these must be magnificent in promise, insufficient in fulfillment. One can _invent_ a flying machine, without paying close attention to its details. One can imagine its exterior as being very similar to that of a real airplane, and describe its effects in a picturesque way. It is also not clear that such an invention must be worthless. Perhaps it spurs others to a different kind of work. – Yes, while these, as it were, make preparations from afar for the construction of an airplane that actually flies, the other is busy dreaming about what this airplane must look like, and what it will achieve. There is therefore nothing yet said about the value of these activities. The activity of the dreamer _may_ be worthless – and so may the other.
+I believe that Bacon was not a _sharp thinker_. He had great, one might say broad, visions. But whoever has only these must be magnificent in promise, insufficient in fulfilment. One can _invent_ a flying machine, without paying close attention to its details. One can imagine its exterior as being very similar to that of a real airplane, and describe its effects in a picturesque way. It is also not clear that such an invention must be worthless. Perhaps it spurs others to a different kind of work. – Yes, while these, as it were, make preparations from afar for the construction of an airplane that actually flies, the other is busy dreaming about what this airplane must look like, and what it will achieve. There is therefore nothing yet said about the value of these activities. The activity of the dreamer _may_ be worthless – and so may the other.
 
 ### [Ms-133](/ms-133/#2r.2+2v.1) <span class="fac">[2r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-133/2r.webp),[2v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-133/2v.webp)</span>
 
@@ -1707,7 +1707,7 @@ Socrates, who always silences the Sophists – does he silence them _rightfully_
 
 ### [Ms-134](/ms-134/#9.3) <span class="fac">[9\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/9.webp)</span>
 
-Wisdom is something cold, & in that sense, foolish. (Belief, on the other hand, is a passion.) One could also say: wisdom merely _conceals_ life from you. (Wisdom is like cold, gray ash that covers the embers.)
+Wisdom is something cold, & in that sense, foolish. (Belief, on the other hand, is a passion.) One could also say: wisdom merely _conceals_ life from you. (Wisdom is like cold, grey ash that covers the embers.)
 
 ### [Ms-134](/ms-134/#20.5) <span class="fac">[20\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/20.webp)</span>
 
@@ -1749,11 +1749,11 @@ The American, stupid and naive film can, in all its stupidity, and through it, t
 
 ### [Ms-134](/ms-134/#95.2) <span class="fac">[95\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/95.webp)</span>
 
-Is what I do really worth the effort? Only if it receives light from above. And if it is so, why should I worry about the fruits of my labor being stolen? If what I write is really valuable, how could anyone steal that which is valuable from me? If the light from above is _not_ there, then I can only be clever.
+Is what I do really worth the effort? Only if it receives light from above. And if it is so, why should I worry about the fruits of my labour being stolen? If what I write is really valuable, how could anyone steal that which is valuable from me? If the light from above is _not_ there, then I can only be clever.
 
 ### [Ms-134](/ms-134/#100.2+101.1) <span class="fac">[100\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/100.webp),[101\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/101.webp)</span>
 
-I understand perfectly how one can _hate_ it when the priority of one's invention or discovery is disputed, how one can be willing to defend this priority with tooth and claw. _And yet_ it is only a chimera. It seems to me, of course, too easy when _Claudius_ mocks the priority disputes between Newton and Leibniz; but it is, I believe, nevertheless true that this dispute only arises from bad weaknesses and is nourished by _bad_ people. _What_ would Newton have lost if he had acknowledged the originality of Leibniz? Nothing! He would have gained a lot. And yet, how difficult is this acknowledgment, which seems to the one who tries it like an admission of one's own inability. Only people who appreciate one and at the same time _love_ one can make this behavior _easy_ for one. It is, of course, about _envy_. And whoever feels it should always say to himself: “It is a mistake! It is a mistake!”
+I understand perfectly how one can _hate_ it when the priority of one's invention or discovery is disputed, how one can be willing to defend this priority with tooth and claw. _And yet_ it is only a chimera. It seems to me, of course, too easy when _Claudius_ mocks the priority disputes between Newton and Leibniz; but it is, I believe, nevertheless true that this dispute only arises from bad weaknesses and is nourished by _bad_ people. _What_ would Newton have lost if he had acknowledged the originality of Leibniz? Nothing! He would have gained a lot. And yet, how difficult is this acknowledgment, which seems to the one who tries it like an admission of one's own inability. Only people who appreciate one and at the same time _love_ one can make this behaviour _easy_ for one. It is, of course, about _envy_. And whoever feels it should always say to himself: “It is a mistake! It is a mistake!”
 
 ### [Ms-134](/ms-134/#105.3) <span class="fac">[105\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/105.webp)</span>
 
@@ -1827,7 +1827,7 @@ The person reacts like this: he says “Not _that_!” – & fights against it. 
 
 ### [Ms-134](/ms-134/#142.2) <span class="fac">[142\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/142.webp)</span>
 
-Science: enrichment & impoverishment. The _one_ method pushes all others aside. Compared to this, they all seem poor, at best preliminary stages. You have to go down to the sources to see them all side by side, the neglected ones & the favored ones.
+Science: enrichment & impoverishment. The _one_ method pushes all others aside. Compared to this, they all seem poor, at best preliminary stages. You have to go down to the sources to see them all side by side, the neglected ones & the favoured ones.
 
 ### [Ms-134](/ms-134/#143.3) <span class="fac">[143\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/143.webp)</span>
 
@@ -1881,7 +1881,7 @@ The birth pangs in the birth of new concepts.
 
 ### [Ms-134](/ms-134/#181.1) <span class="fac">[181\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-134/181.webp)</span>
 
-“Wisdom is gray.” But life & religion are colorful.
+“Wisdom is grey.” But life & religion are colourful.
 
 ### [Ms-135](/ms-135/#7v.3+8r.1) <span class="fac">[7v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/7v.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/8r.webp)</span>
 
@@ -1905,7 +1905,7 @@ Sometimes it is as if one sees a thought, an idea, as a vague point far on the h
 
 ### [Ms-135](/ms-135/#51v.4+52r.1) <span class="fac">[51v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/51v.webp),[52r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/52r.webp)</span>
 
-Where there is bad economics in the state, I believe, bad economics in families is also favored. The worker, who is always ready to argue, will also not educate his children to be orderly.
+Where there is bad economics in the state, I believe, bad economics in families is also favoured. The worker, who is always ready to argue, will also not educate his children to be orderly.
 
 ### [Ms-135](/ms-135/#52r.3) <span class="fac">[52r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/52r.webp)</span>
 
@@ -1921,7 +1921,7 @@ Denying responsibility means not holding people accountable.
 
 ### [Ms-135](/ms-135/#67r.2) <span class="fac">[67r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/67r.webp)</span>
 
-Some people have a taste that relates to a developed one in the same way that the visual impression of a half-blind eye relates to that of a normal eye. Where the normal eye sees clear articulation, the weak one sees blurred patches of color.
+Some people have a taste that relates to a developed one in the same way that the visual impression of a half-blind eye relates to that of a normal eye. Where the normal eye sees clear articulation, the weak one sees blurred patches of colour.
 
 ### [Ms-135](/ms-135/#96r.4) <span class="fac">[96r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-135/96r.webp)</span>
 
@@ -2005,7 +2005,7 @@ Raisins may be the best thing in a cake; but a sack of raisins is not better tha
 
 ### [Ms-136](/ms-136/#92b.2) <span class="fac">[92b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/92b.webp)</span>
 
-Colors stimulate philosophical thought. Perhaps this explains Goethe’s passion for the theory of colors. Colors seem to pose a riddle to us, a riddle that stimulates us – not agitates us.
+Colours stimulate philosophical thought. Perhaps this explains Goethe’s passion for the theory of colours. Colours seem to pose a riddle to us, a riddle that stimulates us – not agitates us.
 
 ### [Ms-136](/ms-136/#107a.3) <span class="fac">[107a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/107a.webp)</span>
 
@@ -2013,7 +2013,7 @@ A person can see everything bad in himself as delusion.
 
 ### [Ms-136](/ms-136/#110b.2+111a.1) <span class="fac">[110b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/110b.webp),[111a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/111a.webp)</span>
 
-If it is true, as I believe, that Mahler’s music is worthless, then the question is what he, in my opinion, should have done with his talent. For it is quite clear that _a number of very rare talents_ were involved in producing this bad music. Should he, for example, have written his symphonies & burned them? Or should he have done violence to himself & not written them? Should he have written them & realized that they were worthless? But how could he have realized that? I see it because I can compare his music with that of the great composers. But _he_ could not; for whoever had this idea probably harbored some _mistrust_ regarding the value of the product, because he presumably sees that he does not, as it were, possess the nature of the other great composers – but he will not realize its worthlessness because of this; for he can always tell himself that, although he is _different_ from the others (whom he admires), he is nevertheless valuable in another way. One might perhaps say: if no one you admire is like you, then you probably only believe in your value because _you_ are you. Even someone who fights against vanity, but is not entirely successful in doing so, will always be deluded about the value of his product. But the most dangerous thing seems to be when one puts one’s work in a position where it is, first by oneself & then by others, compared with the old great works. One should not even think about such a comparison. For if the circumstances today are really so different from the past that one cannot compare one’s work in _kind_ with earlier works, then one cannot compare the _value_ with that of another. I myself repeatedly make the mistake that is being discussed here. Impartiality is everything.
+If it is true, as I believe, that Mahler’s music is worthless, then the question is what he, in my opinion, should have done with his talent. For it is quite clear that _a number of very rare talents_ were involved in producing this bad music. Should he, for example, have written his symphonies & burned them? Or should he have done violence to himself & not written them? Should he have written them & realized that they were worthless? But how could he have realized that? I see it because I can compare his music with that of the great composers. But _he_ could not; for whoever had this idea probably harboured some _mistrust_ regarding the value of the product, because he presumably sees that he does not, as it were, possess the nature of the other great composers – but he will not realize its worthlessness because of this; for he can always tell himself that, although he is _different_ from the others (whom he admires), he is nevertheless valuable in another way. One might perhaps say: if no one you admire is like you, then you probably only believe in your value because _you_ are you. Even someone who fights against vanity, but is not entirely successful in doing so, will always be deluded about the value of his product. But the most dangerous thing seems to be when one puts one’s work in a position where it is, first by oneself & then by others, compared with the old great works. One should not even think about such a comparison. For if the circumstances today are really so different from the past that one cannot compare one’s work in _kind_ with earlier works, then one cannot compare the _value_ with that of another. I myself repeatedly make the mistake that is being discussed here. Impartiality is everything.
 
 ### [Ms-136](/ms-136/#111a.2) <span class="fac">[111a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/111a.webp)</span>
 
@@ -2039,7 +2039,7 @@ I believe Bacon has remained stuck in his philosophy, & this danger also threate
 
 22.01.1948
 
-In Freudian analysis, the dream is, in a sense, broken down. It loses its initial sense _completely_. One might imagine that it is being played out in a theater, that the plot of the play is sometimes somewhat incomprehensible, but partly also quite understandable, or at least appears so, and that this plot is now torn into small parts and each part is given a completely different sense. One could also imagine it this way: a picture is drawn on a large sheet of paper, and the sheet is now folded in such a way that in the first picture, completely unrelated pieces come together for the eye and a new, meaningful or senseless, picture emerges (this would be the dreamed dream, the first picture of the ‘latent dream thought’). I could now imagine that someone who sees the unfolded picture exclaims, “Yes, that is the solution, that is what I dreamed, but without gaps & distortions.” It would then be this recognition that makes the solution the solution. As when, while writing, one searches for a word and then says: “_That_ is it, _that_ says what I wanted!” – Your recognition stamps the word as found, therefore sought. (Here one could really say: only when one has found it, does one know what one was looking for – similar to what Russell says about wishing.)
+In Freudian analysis, the dream is, in a sense, broken down. It loses its initial sense _completely_. One might imagine that it is being played out in a theatre, that the plot of the play is sometimes somewhat incomprehensible, but partly also quite understandable, or at least appears so, and that this plot is now torn into small parts and each part is given a completely different sense. One could also imagine it this way: a picture is drawn on a large sheet of paper, and the sheet is now folded in such a way that in the first picture, completely unrelated pieces come together for the eye and a new, meaningful or senseless, picture emerges (this would be the dreamed dream, the first picture of the ‘latent dream thought’). I could now imagine that someone who sees the unfolded picture exclaims, “Yes, that is the solution, that is what I dreamed, but without gaps & distortions.” It would then be this recognition that makes the solution the solution. As when, while writing, one searches for a word and then says: “_That_ is it, _that_ says what I wanted!” – Your recognition stamps the word as found, therefore sought. (Here one could really say: only when one has found it, does one know what one was looking for – similar to what Russell says about wishing.)
 
 ### [Ms-136](/ms-136/#137b.2+138a.1) <span class="fac">[137b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/137b.webp),[138a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-136/138a.webp)</span>
 
@@ -2063,7 +2063,7 @@ If I now ask “What exactly do I experience when I hear this theme & hear it wi
 
 ### [Ms-137](/ms-137/#21b.2) <span class="fac">[21b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/21b.webp)</span>
 
-But should I (if I reject images, sensations of movement, etc. as explanations) say that understanding is simply a specific, non-further-analyzable experience? Well, that would be acceptable if it did not mean: it is a specific _experiential content_. Because with _these_ words one actually thinks of differences such as those between seeing, hearing & smelling.
+But should I (if I reject images, sensations of movement, etc. as explanations) say that understanding is simply a specific, non-further-analysable experience? Well, that would be acceptable if it did not mean: it is a specific _experiential content_. Because with _these_ words one actually thinks of differences such as those between seeing, hearing & smelling.
 
 ### [Ms-137](/ms-137/#21b.3+22a.1) <span class="fac">[21b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/21b.webp),[22a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/22a.webp)</span>
 
@@ -2313,7 +2313,7 @@ Ambition is the death of thinking.
 
 28.12.1948
 
-Humor is not a mood; but a world-view. And therefore, if it is correct to say that humor was destroyed in Nazi Germany, that does not mean something like, one was not in a good mood, but something much deeper & more important.
+Humour is not a mood; but a world-view. And therefore, if it is correct to say that humour was destroyed in Nazi Germany, that does not mean something like, one was not in a good mood, but something much deeper & more important.
 
 ### [Ms-137](/ms-137/#136b.3) <span class="fac">[136b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/136b.webp)</span>
 
@@ -2343,7 +2343,7 @@ Culture is a rule of the order. Or does a rule of the order presuppose it?
 
 ### [Ms-137](/ms-137/#137a.4) <span class="fac">[137a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137a.webp)</span>
 
-The concept of ‘celebration’. For us, it is associated with pleasure; at another time, it may be associated only with fear and horror. What we call “wit” and what we call “humor” certainly did not exist in other times. And these two are constantly changing.
+The concept of ‘celebration’. For us, it is associated with pleasure; at another time, it may be associated only with fear and horror. What we call “wit” and what we call “humour” certainly did not exist in other times. And these two are constantly changing.
 
 ### [Ms-137](/ms-137/#140a.8+140b.1) <span class="fac">[140a\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140a.webp),[140b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/140b.webp)</span>
 
@@ -2381,7 +2381,7 @@ A mediocre writer must be careful not to replace a rough, incorrect expression t
 
 January 18, 1949
 
-The fading of writers who were, after all, _something_, is connected with the fact that their writings, supplemented by the entire environment of their time, speak strongly to people, but that without this supplementation they perish, as it were, deprived of the illumination that gave them color. And with this, I believe, is connected the beauty of mathematical demonstrations, as Pascal himself perceived it. In _this_ view of the world, these demonstrations had _beauty_ – not what superficial people call beauty. Also, a crystal is not beautiful in every ‘environment’ – although perhaps it is _appealing_ in every one.
+The fading of writers who were, after all, _something_, is connected with the fact that their writings, supplemented by the entire environment of their time, speak strongly to people, but that without this supplementation they perish, as it were, deprived of the illumination that gave them colour. And with this, I believe, is connected the beauty of mathematical demonstrations, as Pascal himself perceived it. In _this_ view of the world, these demonstrations had _beauty_ – not what superficial people call beauty. Also, a crystal is not beautiful in every ‘environment’ – although perhaps it is _appealing_ in every one.
 
 ### [Ms-138](/ms-138/#3a.4) <span class="fac">[3a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/3a.webp)</span>
 
@@ -2479,7 +2479,7 @@ The essence of God guarantees his existence – that is, it actually means that 
 
 ### [Ms-138](/ms-138/#30b.4) <span class="fac">[30b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/30b.webp)</span>
 
-Couldn’t one also say that the essence of color guarantees its existence? In contrast, for example, to the white elephant. For it only states: I cannot explain what ‘color’ is, what the word “color” means, except by referring to color samples. Therefore, there is no explanation here of ‘how it _would be_, if colors _existed_’.
+Couldn’t one also say that the essence of colour guarantees its existence? In contrast, for example, to the white elephant. For it only states: I cannot explain what ‘colour’ is, what the word “colour” means, except by referring to colour samples. Therefore, there is no explanation here of ‘how it _would be_, if colours _existed_’.
 
 ### [Ms-138](/ms-138/#30b.5) <span class="fac">[30b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/30b.webp)</span>
 
@@ -2505,7 +2505,7 @@ And in essence, I am a painter, and often a very bad painter.
 
 May 20, 1949
 
-What is it like when people do not have the same sense of humor? They do not react properly to each other. It is as if it were customary among certain people to throw a ball to another, who is supposed to catch it and throw it back; but some people do not throw it back, but put it in their pocket.
+What is it like when people do not have the same sense of humour? They do not react properly to each other. It is as if it were customary among certain people to throw a ball to another, who is supposed to catch it and throw it back; but some people do not throw it back, but put it in their pocket.
 
 ### [Ms-138](/ms-138/#32b.4) <span class="fac">[32b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/32b.webp)</span>
 
@@ -2547,7 +2547,7 @@ The poet cannot actually say of himself, “I sing as the bird sings” – but 
 
 ### [Ms-173](/ms-173/#69r.3+69v.1) <span class="fac">[69r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/69r.webp),[69v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/69v.webp)</span>
 
-The same theme has a different character in a minor key than in a major key, but to speak of a character of the minor key in general is completely wrong. (In Schubert, the major key often sounds sadder than the minor key.) And so, I believe, it is pointless & without benefit for the understanding of painting to talk about the characters of individual colors. One is actually only thinking of specific uses. The fact that green as the color of a tablecloth has this effect, and red that effect, does not allow one to draw conclusions about their effect in a painting.
+The same theme has a different character in a minor key than in a major key, but to speak of a character of the minor key in general is completely wrong. (In Schubert, the major key often sounds sadder than the minor key.) And so, I believe, it is pointless & without benefit for the understanding of painting to talk about the characters of individual colours. One is actually only thinking of specific uses. The fact that green as the colour of a tablecloth has this effect, and red that effect, does not allow one to draw conclusions about their effect in a painting.
 
 ### [Ms-173](/ms-173/#75v.2) <span class="fac">[75v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/75v.webp)</span>
 
@@ -2567,7 +2567,7 @@ When a person who believes in God looks around & asks “Where does everything I
 
 ### [Ms-174](/ms-174/#1v.2+2r.1) <span class="fac">[1v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/1v.webp),[2r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/2r.webp)</span>
 
-A proof of God should actually be something through which one can be convinced of the existence of God. But I think that the _believers_ who provided such proofs wanted to analyze & justify their ‘belief’ with their intellect, although they themselves would never have come to believe through such proofs. Perhaps one could convince someone of the ‘existence of God’ through a kind of education, by shaping one's life in a certain way. Life can educate one to ‘believe in God.’ And there are also _experiences_ that do this; but not visions, or other sense experiences that show us the ‘existence of this being,’ but, for example, various kinds of suffering. And they do not show us God like a sense impression shows an object, nor do they let us _suspect_ him. Experiences, thoughts—life can impose this concept on us.
+A proof of God should actually be something through which one can be convinced of the existence of God. But I think that the _believers_ who provided such proofs wanted to analyse & justify their ‘belief’ with their intellect, although they themselves would never have come to believe through such proofs. Perhaps one could convince someone of the ‘existence of God’ through a kind of education, by shaping one's life in a certain way. Life can educate one to ‘believe in God.’ And there are also _experiences_ that do this; but not visions, or other sense experiences that show us the ‘existence of this being,’ but, for example, various kinds of suffering. And they do not show us God like a sense impression shows an object, nor do they let us _suspect_ him. Experiences, thoughts—life can impose this concept on us.
 
 ### [Ms-174](/ms-174/#2r.2) <span class="fac">[2r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/2r.webp)</span>
 

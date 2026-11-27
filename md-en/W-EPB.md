@@ -152,9 +152,9 @@ It is natural for us to count the ostensive gestures in (5) & the pictures in (8
 
 Compare these two systems of signs:
 
-A gives B commands consisting of two signs painted on a board. The first sign is an irregularly shaped patch of some particular colour, e.g. green; the second a drawn geometrical figure, e.g. a circle: B then brings A an object which has the colour of the first & the shape of the second sign (e.g. a green, circular object).
+<span class="series-number">13</span> A gives B commands consisting of two signs painted on a board. The first sign is an irregularly shaped patch of some particular colour, e.g. green; the second a drawn geometrical figure, e.g. a circle: B then brings A an object which has the colour of the first & the shape of the second sign (e.g. a green, circular object).
 
-A command is a painted sign, a geometrical figure painted in a particular colour, e.g. a green circle. B brings, in response to the command, an object of the shape & colour of the sign.
+<span class="series-number">14</span> A command is a painted sign, a geometrical figure painted in a particular colour, e.g. a green circle. B brings, in response to the command, an object of the shape & colour of the sign.
 
 ### [Ms-115](/ms-115/#131.2) <span class="fac">[131\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/131.webp)</span>
 
@@ -176,11 +176,11 @@ Suppose B’s task is to bring a piece of cloth of the colour of a sample which 
 
 <span class="series-number">15</span> A shows B the sample; B then goes & brings a material from memory.
 
-B goes with the sample to the shelf on which the materials lie & looks from the sample to the materials before choosing.
+<span class="series-number">16</span> B goes with the sample to the shelf on which the materials lie & looks from the sample to the materials before choosing.
 
-B places the sample on each of the materials on the shelf & chooses the material whose colour he cannot distinguish from the sample.
+<span class="series-number">17</span> B places the sample on each of the materials on the shelf & chooses the material whose colour he cannot distinguish from the sample.
 
-Imagine, by contrast, the case in which the command was: “Bring me a material somewhat darker than this sample!”. –
+<span class="series-number">18</span> Imagine, by contrast, the case in which the command was: “Bring me a material somewhat darker than this sample!”. –
 
 ### [Ms-115](/ms-115/#132.3) <span class="fac">[132\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/132.webp)</span>
 
@@ -190,11 +190,11 @@ I said in (15) that B brings a material ‘from memory’; but this expression e
 
 <span class="series-number">19</span> When B comes to the materials, he closes his eyes & recalls an image of the sample. He then alternately looks at the materials & imagines the sample. At one point he says “too light”, at another “too dark”; finally he looks at one & says “good!”, & takes it from the shelf.
 
-B does not call an image of the sample before his mind’s eye. He looks at one material after another, furrows his brow & shakes his head at each; at the tenth his face relaxes, he nods his head & takes the material.
+<span class="series-number">20</span> B does not call an image of the sample before his mind’s eye. He looks at one material after another, furrows his brow & shakes his head at each; at the tenth his face relaxes, he nods his head & takes the material.
 
 Imagine you had to describe what you really did in such a case.
 
-B does not call an image of the sample before his mind’s eye; he looks successively at some of the materials, takes the fifth and brings it to A.
+<span class="series-number">21</span> B does not call an image of the sample before his mind’s eye; he looks successively at some of the materials, takes the fifth and brings it to A.
 
 ### [Ms-115](/ms-115/#133.2) <span class="fac">[133\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/133.webp)</span>
 
@@ -352,7 +352,7 @@ When we say that someone is given a system for constructing number-signs, we gen
 
 What do we call a ‘rule’? Consider this example:
 
-B traverses a path in accordance with a command that A gives him. B receives the table:
+<span class="series-number">37</span> B traverses a path in accordance with a command that A gives him. B receives the table:
 
 ![](../graphics/115,151a.svg)
 
@@ -360,7 +360,7 @@ A now gives him a command composed of the four letters in the table; e.g. “a a
 
 We will not want to call the sentence ‘a a c a d d d’ a rule. – It is, of course, the description of the path B is to take. – But such a description might under certain circumstances be called a rule; e.g. in this case:
 
-B is to draw different linear ornaments. Each ornament is the repetition of an element that A specifies. If, for example, A gives the command ‘c a d a’, B draws a line
+<span class="series-number">38</span> B is to draw different linear ornaments. Each ornament is the repetition of an element that A specifies. If, for example, A gives the command ‘c a d a’, B draws a line
 
 ![](../graphics/115,151a.svg)<span class="post-block-punct">.</span>
 
@@ -374,7 +374,7 @@ Incidentally, repeated application belongs to a rule.
 
 Compare with (38) the following case:
 
-A board game with game pieces of various shapes, somewhat like chess. The way in which each piece may move is laid down by rules. Thus, for one piece the rule is ‘a c’, for another, say, ‘a c a a’, and so on. The first may therefore move as follows:
+<span class="series-number">39</span> A board game with game pieces of various shapes, somewhat like chess. The way in which each piece may move is laid down by rules. Thus, for one piece the rule is ‘a c’, for another, say, ‘a c a a’, and so on. The first may therefore move as follows:
 
 <img class="math math-inline math-drawing" src="../math/398a27b73efa520b.svg" alt="horizontal arrow to the right whose tip joins a vertical arrow pointing up" style="width:1.500em;height:1.300em;vertical-align:-0.050em;margin:-0.170em 0 -0.000em">; the other as follows: <img class="math math-inline math-drawing" src="../math/42fc2b56fa849f77.svg" alt="horizontal arrow, then an upward line with no head, then a horizontal line with two arrowheads" style="width:3.200em;height:1.400em;vertical-align:-0.150em;margin:-0.170em 0 -0.000em">.
 
@@ -392,7 +392,7 @@ Here one could call both the sentences (‘a c’, ‘a c a a’, etc.) and the 
 
 Consider also the following variation:
 
-In teaching language (37), B is _shown_ the table; but it is not given to him when he carries out the command. The table does not enter into the practice of the language.
+<span class="series-number">42</span> In teaching language (37), B is _shown_ the table; but it is not given to him when he carries out the command. The table does not enter into the practice of the language.
 
 ### [Ms-115](/ms-115/#151b.4) <span class="fac">[151b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/151b.webp)</span>
 
@@ -454,9 +454,9 @@ In (45) we could call the entire sign of the command _a sentence_. But we _could
 
 Let us now compare these two games:
 
-One is game (38). It is taught to people by means of ‘general teaching’. The commands are combinations of the letters ‘a’, ‘b’, ‘c’, ‘d’ with any number of repetitions. – But what does that mean? Well, that in the practice of the game, as in its teaching, no number of repetitions plays the role of the ‘_greatest possible_’ (see (35)). – Let us compare this with the following:
+<span class="series-number">46</span> One is game (38). It is taught to people by means of ‘general teaching’. The commands are combinations of the letters ‘a’, ‘b’, ‘c’, ‘d’ with any number of repetitions. – But what does that mean? Well, that in the practice of the game, as in its teaching, no number of repetitions plays the role of the ‘_greatest possible_’ (see (35)). – Let us compare this with the following:
 
-The commands & their execution as in (38); but only three sentences are used: ‘a c’, ‘a c c’, ‘c a a’.
+<span class="series-number">47</span> The commands & their execution as in (38); but only three sentences are used: ‘a c’, ‘a c c’, ‘c a a’.
 
 ### [Ms-115](/ms-115/#155.3+156.1) <span class="fac">[155\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/155.webp),[156\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/156.webp)</span>
 
@@ -708,7 +708,7 @@ One might perhaps say that the only case in which it is unconditionally correct 
 
 We can imagine a language-game
 
-in which a word (I render it by ‘can’) is used in the sentential form ‘I can do this and that’ only when one carries out the activity in question _as a test_ while saying the sentence.
+<span class="series-number">69</span> in which a word (I render it by ‘can’) is used in the sentential form ‘I can do this and that’ only when one carries out the activity in question _as a test_ while saying the sentence.
 
 ### [Ms-115](/ms-115/#190.4+191.1) <span class="fac">[190\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/190.webp),[191\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/191.webp)</span>
 
@@ -748,7 +748,7 @@ But it is now clear that in cases (46), (47) there is no question of such mechan
 
 ### [Ms-115](/ms-115/#195.2+196.1+197.1) <span class="fac">[195\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/195.webp),[196\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/196.webp),[197\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/197.webp)</span>
 
-It will now help us, if we want to become clear about the concept of being guided, to consider the concept of _reading_. By ‘reading’ I mean here the activity of converting written or printed text into sounds, also writing from dictation, or copying printed text, and the like, without the _understanding_ of what one reads being at issue. The use of the word ‘read’ is, of course, extraordinarily well known to us under the circumstances of our ordinary life. (It would be _extraordinarily_ difficult to describe these circumstances even in broad strokes.) A person, perhaps a German, has, as a child, at school or at home, gone through one of the forms of instruction customary among us; he has learnt to read his native language; later he reads books, the newspaper, letters, etc. – What now happens when he reads the newspaper? – His eyes glide along the printed words, he speaks them aloud, or says them only to himself; but he says certain words by taking in their printed form as a whole, others after seeing their first letters, while others again he perhaps reads letter by letter. We would also say that he had read a sentence if, while his eyes glide over it, he neither speaks aloud nor to himself, but is then able to reproduce the sentence literally, or at least approximately. He can pay attention to what he is reading, but he can also, as we might say, function as a mere reading machine, that is, read the printed text aloud and correctly, without paying attention to the words he is reading, perhaps while his attention is directed to something completely different. So that he is unable to say what he has read if we ask him immediately afterwards. – Now compare with such a reader a beginner at school. He reads the words by laboriously spelling them out. But he guesses some words simply from their context, or perhaps already knows the passage by heart. The teacher then says that he is not really reading the words, or that he is _pretending_ to read them. If we think of _this_ case and ask ourselves what ‘reading’ consists in, we will be inclined to say that it is a conscious mental activity. In such a case we also say: “Only he knows, of course, whether he is reading; nobody else can know.” And yet we must admit – as far as reading a particular word is concerned – that precisely the same thing could be taking place in the mind, in the consciousness, of the beginner who is ‘pretending’ to read as in the mind of the fluent reader. We use the word ‘read’ differently when we speak of the practiced reader from when we speak of the beginner. What we call ‘reading’ in the case of the former we do not call ‘reading’ in the case of the beginner. We would of course like to say that what happens in the practiced reader and what happens in the beginner when they pronounce the word _can_ not be the same. <s> The difference lies, if not in their consciousness, in the unconscious of their minds, or in their brains. </s> <s>We are thinking here of two mechanisms, devices; we cannot see how they work, but this working decides reading or non-reading.</s> The difference lies, if not in what is currently conscious to them, in the unconscious, or in their brains. We imagine two mechanisms here; we cannot see into them, but what goes on in them distinguishes reading from non-reading. – But we do not know of any such mechanisms in these cases. – Let us consider the following:
+It will now help us, if we want to become clear about the concept of being guided, to consider the concept of _reading_. By ‘reading’ I mean here the activity of converting written or printed text into sounds, also writing from dictation, or copying printed text, and the like, without the _understanding_ of what one reads being at issue. The use of the word ‘read’ is, of course, extraordinarily well known to us under the circumstances of our ordinary life. (It would be _extraordinarily_ difficult to describe these circumstances even in broad strokes.) A person, perhaps a German, has, as a child, at school or at home, gone through one of the forms of instruction customary among us; he has learnt to read his native language; later he reads books, the newspaper, letters, etc. – What now happens when he reads the newspaper? – His eyes glide along the printed words, he speaks them aloud, or says them only to himself; but he says certain words by taking in their printed form as a whole, others after seeing their first letters, while others again he perhaps reads letter by letter. We would also say that he had read a sentence if, while his eyes glide over it, he neither speaks aloud nor to himself, but is then able to reproduce the sentence literally, or at least approximately. He can pay attention to what he is reading, but he can also, as we might say, function as a mere reading machine, that is, read the printed text aloud and correctly, without paying attention to the words he is reading, perhaps while his attention is directed to something completely different. So that he is unable to say what he has read if we ask him immediately afterwards. – Now compare with such a reader a beginner at school. He reads the words by laboriously spelling them out. But he guesses some words simply from their context, or perhaps already knows the passage by heart. The teacher then says that he is not really reading the words, or that he is _pretending_ to read them. If we think of _this_ case and ask ourselves what ‘reading’ consists in, we will be inclined to say that it is a conscious mental activity. In such a case we also say: “Only he knows, of course, whether he is reading; nobody else can know.” And yet we must admit – as far as reading a particular word is concerned – that precisely the same thing could be taking place in the mind, in the consciousness, of the beginner who is ‘pretending’ to read as in the mind of the fluent reader. We use the word ‘read’ differently when we speak of the practised reader from when we speak of the beginner. What we call ‘reading’ in the case of the former we do not call ‘reading’ in the case of the beginner. We would of course like to say that what happens in the practised reader and what happens in the beginner when they pronounce the word _can_ not be the same. <s> The difference lies, if not in their consciousness, in the unconscious of their minds, or in their brains. </s> <s>We are thinking here of two mechanisms, devices; we cannot see how they work, but this working decides reading or non-reading.</s> The difference lies, if not in what is currently conscious to them, in the unconscious, or in their brains. We imagine two mechanisms here; we cannot see into them, but what goes on in them distinguishes reading from non-reading. – But we do not know of any such mechanisms in these cases. – Let us consider the following:
 
 ### [Ms-115](/ms-115/#197.2+198.1) <span class="fac">[197\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/197.webp),[198\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/198.webp)</span>
 
@@ -774,9 +774,9 @@ But we are tempted to say that the only real criterion of reading is the conscio
 
 Consider this case:
 
-We give someone who can read fluently something to read which he has never seen before. He reads it aloud to us; but with the sensations of reciting something he knows by heart. (Perhaps through the influence of some poison he has taken.) Would we in such a case say that he was not really reading the passage? Would we thus take his sensation as a criterion for whether or not he is reading?
+<span class="series-number">72</span> We give someone who can read fluently something to read which he has never seen before. He reads it aloud to us; but with the sensations of reciting something he knows by heart. (Perhaps through the influence of some poison he has taken.) Would we in such a case say that he was not really reading the passage? Would we thus take his sensation as a criterion for whether or not he is reading?
 
-Or this case: If one presents a person under the influence of a certain poison with a series of written signs which do not belong to any existing alphabet, he pronounces, according to the number of signs, words, as if those written signs were the letters of these words & as if he had read them. This happens with all the external characteristics & with the personal sensations of reading. (We have such experiences in dreams, incidentally. Upon waking, we then say something like: “It seemed to me that I was reading these signs – although they are not signs at all.”)
+<span class="series-number">73</span> Or this case: If one presents a person under the influence of a certain poison with a series of written signs which do not belong to any existing alphabet, he pronounces, according to the number of signs, words, as if those written signs were the letters of these words & as if he had read them. This happens with all the external characteristics & with the personal sensations of reading. (We have such experiences in dreams, incidentally. Upon waking, we then say something like: “It seemed to me that I was reading these signs – although they are not signs at all.”)
 
 ### [Ms-115](/ms-115/#200.3+201.1) <span class="fac">[200\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/200.webp),[201\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/201.webp)</span>
 
@@ -806,7 +806,7 @@ But why did we say here that he had _derived_ the spoken word from the written o
 
 But what if he did all this and in doing so
 
-transcribed an ‘A’ into a ‘b’, a ‘B’ into a ‘c’, and so on, and a ‘Z’ into an ‘a’? Would we not call this ‘reading’ or ‘deriving’? We could describe his procedure in this case as follows: he uses the table as we would use it if we did not look across it horizontally from left to right, like this:
+<span class="series-number">76</span> transcribed an ‘A’ into a ‘b’, a ‘B’ into a ‘c’, and so on, and a ‘Z’ into an ‘a’? Would we not call this ‘reading’ or ‘deriving’? We could describe his procedure in this case as follows: he uses the table as we would use it if we did not look across it horizontally from left to right, like this:
 
 ![](../graphics/115,202-1.svg)<span class="post-block-punct">,</span>
 
@@ -868,7 +868,7 @@ Well, what is going on when I read? I see printed words & utter words. But that 
 
 I would not, for example, like to say: “The (printed) sign “nothing” always reminds me of the sound “nothing””. I said that the spoken words come ‘in a special way’ when reading; but in what way? Is this not a fiction? Let us look at individual letters & pay attention to the way in which the sound of the letter comes.
 
-Read the letter ‘A’. Now, how did the sound come? We know nothing at all to say about it. – Now read the 79th letter ‘a’ in game (37), by making the corresponding movement with your hand! How did this movement come? Was it different from the sound in the previous attempt? – I looked in the table & made the corresponding movement; I have nothing more to say. – Now look at the sign ‘<img class="graphic graphic-inline" src="../graphics/115,207-1.svg" alt="" style="width:1.581em;height:1.506em;vertical-align:-0.503em">’ and let a letter occur to you while doing so; say it aloud. The sound ‘U’ occurred to me, but I could not say that there was an essential difference in the way in which this sound _came_. The difference lay in the somewhat different situation: I had previously said to myself that I should let a sound occur to me; there was a certain tension before the sound came. And the sentence “this is a ‘U’” did not occur to me, as it does when I look at the sign ‘U’. Also, that sign was not _familiar_ to me, as the letters are; I looked at it as if in suspense, with a certain interest in its form, and thought of an inverted σ. And if you say that the letter A does not ‘_remind_’ you of the sound, as, for example, the sight of a crocodile reminds you of the word ‘eat’, there are transitions here; you could, for example, see the form <img class="graphic graphic-inline" src="../graphics/115,207-2.svg" alt="" style="width:2.175em;height:2.442em;vertical-align:-0.640em;margin:-0.391em 0 -0.331em"> on a trestle or on a roof frame & the sound ‘a’ would not occur to you; or the sight could remind you of an A & you utter the sound. – Imagine that you now had to use the sign <img class="graphic graphic-inline" src="../graphics/115,207-3.svg" alt="" style="width:1.581em;height:1.506em;vertical-align:-0.503em"> really as a sound-sign; so you get used to pronouncing a particular sound when you see it, say the sound ‘st’. Can we say more than that after some time this sound comes automatically when we see the sign? That is, when we see it we no longer ask ourselves, “What kind of letter is this?” – nor, of course, do I say to myself, “I want to pronounce the sound ‘st’ at this sign”, nor even “This sign somehow reminds me of the sound ‘st’”.
+<span class="series-number">79</span> Read the letter ‘A’. Now, how did the sound come? We know nothing at all to say about it. – Now read the 79th letter ‘a’ in game (37), by making the corresponding movement with your hand! How did this movement come? Was it different from the sound in the previous attempt? – I looked in the table & made the corresponding movement; I have nothing more to say. – Now look at the sign ‘<img class="graphic graphic-inline" src="../graphics/115,207-1.svg" alt="" style="width:1.581em;height:1.506em;vertical-align:-0.503em">’ and let a letter occur to you while doing so; say it aloud. The sound ‘U’ occurred to me, but I could not say that there was an essential difference in the way in which this sound _came_. The difference lay in the somewhat different situation: I had previously said to myself that I should let a sound occur to me; there was a certain tension before the sound came. And the sentence “this is a ‘U’” did not occur to me, as it does when I look at the sign ‘U’. Also, that sign was not _familiar_ to me, as the letters are; I looked at it as if in suspense, with a certain interest in its form, and thought of an inverted σ. And if you say that the letter A does not ‘_remind_’ you of the sound, as, for example, the sight of a crocodile reminds you of the word ‘eat’, there are transitions here; you could, for example, see the form <img class="graphic graphic-inline" src="../graphics/115,207-2.svg" alt="" style="width:2.175em;height:2.442em;vertical-align:-0.640em;margin:-0.391em 0 -0.331em"> on a trestle or on a roof frame & the sound ‘a’ would not occur to you; or the sight could remind you of an A & you utter the sound. – Imagine that you now had to use the sign <img class="graphic graphic-inline" src="../graphics/115,207-3.svg" alt="" style="width:1.581em;height:1.506em;vertical-align:-0.503em"> really as a sound-sign; so you get used to pronouncing a particular sound when you see it, say the sound ‘st’. Can we say more than that after some time this sound comes automatically when we see the sign? That is, when we see it we no longer ask ourselves, “What kind of letter is this?” – nor, of course, do I say to myself, “I want to pronounce the sound ‘st’ at this sign”, nor even “This sign somehow reminds me of the sound ‘st’”.
 
 ### [Ms-115](/ms-115/#208.2+209.1) <span class="fac">[208\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/208.webp),[209\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/209.webp)</span>
 
@@ -882,7 +882,7 @@ Compare the process of reading our ordinary script with reading words printed en
 
 But do we not, when we read, experience a kind of causation of our speaking by the word-images?
 
-Read a sentence, & now look along the series
+<span class="series-number">80</span> Read a sentence, & now look along the series
 
 ![](../graphics/115,209-2.svg)
 
@@ -980,7 +980,7 @@ I feel, when I think about the experience afterwards, that its essence is ‘the
 
 If I say to myself: “I am indeed being _guided_,” I make a hand movement, for example, that expresses the guiding:
 
-Make such a hand movement, as if you were leading someone along (without actually doing so) & ask yourself what the _guiding_ aspect of this movement consists in. For you have admittedly guided no one here & yet you could call the movement a ‘_guiding_’ one. So neither _the essence_ of guiding nor the sensation accompanying it was contained in this movement & yet you could not help using this designation. It is simply _a form of appearance_ of guiding that imposes this expression upon you. – Recall the discussion of (66).
+<span class="series-number">86</span> Make such a hand movement, as if you were leading someone along (without actually doing so) & ask yourself what the _guiding_ aspect of this movement consists in. For you have admittedly guided no one here & yet you could call the movement a ‘_guiding_’ one. So neither _the essence_ of guiding nor the sensation accompanying it was contained in this movement & yet you could not help using this designation. It is simply _a form of appearance_ of guiding that imposes this expression upon you. – Recall the discussion of (66).
 
 ### [Ms-115](/ms-115/#220.2) <span class="fac">[220\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/220.webp)</span>
 
@@ -1080,7 +1080,7 @@ There is, of course, the case in which B was given a general explanation of the 
 
 Are we now to say that, when A showed B the pencil after the hygrometer, which he had never seen before, B had a feeling of familiarity at the sight of the pencil?
 
-Let us imagine what may really have happened. He saw the pencil, smiled, felt relief, & the word came to his mind, or he said it aloud.
+<span class="series-number">95</span> Let us imagine what may really have happened. He saw the pencil, smiled, felt relief, & the word came to his mind, or he said it aloud.
 
 ### [Ms-115](/ms-115/#226.3) <span class="fac">[226\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/226.webp)</span>
 
@@ -1090,7 +1090,7 @@ But how is it: did we now carry out a ‘thought experiment’? – How do we kn
 
 Now one really can carry out an experiment by imagining something. Not an experiment _in_ the imagination, i.e. merely the mental image of an experiment. (One cannot make a laboratory unnecessary simply by imagining apparatus & experiments.)
 
-If someone asks me, for example, “How do you greet N., how do you approach him?”, then, in order to answer, I can imagine N. coming in & make, say, the movement of greeting. And this is an experiment. It may mislead me, & what really happens in such a case may be something else; but experience may teach us that what usually happens is what such an experiment shows. So if the question had been, “Does a person smile in such a case?”, then I could indeed have carried out the experiment with the aid of imagination. – But do I now know that _one_ smiles, or only that _I_ smile? And if the former, isn’t imagining then a kind of _remembering_? In any case not necessarily ‘remembering particular cases’.
+<span class="series-number">96</span> If someone asks me, for example, “How do you greet N., how do you approach him?”, then, in order to answer, I can imagine N. coming in & make, say, the movement of greeting. And this is an experiment. It may mislead me, & what really happens in such a case may be something else; but experience may teach us that what usually happens is what such an experiment shows. So if the question had been, “Does a person smile in such a case?”, then I could indeed have carried out the experiment with the aid of imagination. – But do I now know that _one_ smiles, or only that _I_ smile? And if the former, isn’t imagining then a kind of _remembering_? In any case not necessarily ‘remembering particular cases’.
 
 ### [Ms-115](/ms-115/#227.2) <span class="fac">[227\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/227.webp)</span>
 
@@ -1158,7 +1158,7 @@ Or: I show someone two piles of tools, & say: “What the two piles have in comm
 
 <span class="series-number">103</span> There is, of course, this game: I say to someone: “I shall explain the meaning of the sign (word) ‘W’ by pointing to various objects. ‘W’ means something that they all have in common”. I now show him two books first, & he asks himself: “Does ‘W’ mean ‘book’?” – Then I point to a brick, & he thinks: “Perhaps it means ‘rectangle’”. Finally I point to a glowing coal & he says to himself: “It means ‘red’; everything he has shown me had something red”; in doing so he may let his gaze roam over everything in the objects that is red. It would also be instructive to consider this variant:
 
-The other is to _draw_ or _paint_ at each stage of the game what he thinks I mean. In certain cases it would then be clear what he should draw. If, for example, all the objects had the same factory mark, he would draw this if he believed that was what I meant. But if they are all _reddish_, what should he paint? Which shade of red; & what shape? What if on another occasion he wanted to paint that they were all red & round? One immediately says that an agreement would be necessary here.
+<span class="series-number">104</span> The other is to _draw_ or _paint_ at each stage of the game what he thinks I mean. In certain cases it would then be clear what he should draw. If, for example, all the objects had the same factory mark, he would draw this if he believed that was what I meant. But if they are all _reddish_, what should he paint? Which shade of red; & what shape? What if on another occasion he wanted to paint that they were all red & round? One immediately says that an agreement would be necessary here.
 
 ### [Ms-115](/ms-115/#232.3) <span class="fac">[232\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/232.webp)</span>
 
@@ -1208,7 +1208,7 @@ I hear variations on a theme & say: “I don’t yet see in what respect this is
 
 “But if two colours are similar to each other, surely my experience of this similarity should consist in my grasping _the_ similarity which is _there_.” – But is a bluish green similar to a yellowish green, or not? Under certain circumstances we shall say that they are similar, under others that they are wholly dissimilar. Are we to say that we perceived two different relations holding between the two colours?
 
-– Suppose I observe the gradual change in the colour of a substance: a bluish green gradually changes into green, then into yellowish green, into yellow & finally into orange.
+<span class="series-number">106</span> – Suppose I observe the gradual change in the colour of a substance: a bluish green gradually changes into green, then into yellowish green, into yellow & finally into orange.
 
 ### [Ms-115](/ms-115/#235.5+236.1) <span class="fac">[235\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/235.webp),[236\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/236.webp)</span>
 
@@ -1268,7 +1268,7 @@ Compare (106) & (102): in both the question could be: “What is the common colo
 
 Some people, when they are supposed to sing back a note played on the piano, regularly sing the fifth of the note.
 
-One could therefore imagine a language which has the same name for the fundamental note & the fifth. – Now imagine someone asked: “What do the fundamental note & the fifth have in common?” – To say that they have a certain affinity is of course no explanation. (Explanation of the affinity of the first & second thoughts of a sonata movement)
+<span class="series-number">110</span> One could therefore imagine a language which has the same name for the fundamental note & the fifth. – Now imagine someone asked: “What do the fundamental note & the fifth have in common?” – To say that they have a certain affinity is of course no explanation. (Explanation of the affinity of the first & second thoughts of a sonata movement)
 
 ### [Ms-115](/ms-115/#239.6) <span class="fac">[239\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/239.webp)</span>
 
@@ -1326,13 +1326,13 @@ We are now inclined to say that one vowel is not darker than another _in the sam
 
 In some cases we take it as a criterion that a word has two meanings that there are two different _explanations_ of the word. We then say not only that the word is used with two different meanings, but also what these two meanings are. Thus we say that the word ‘bank’ has two meanings, since on the one hand it means _this_ object (a bench), on the other _this_ one (the credit bank). And the objects I point to here are the samples according to which I am to guide myself in using the word. Am I now to say that the word ‘red’ has different meanings because I apply it to different tones? – Let us imagine this case:
 
-Somewhere people always use the colour words ‘red’, ‘green’, ‘blue’, ‘yellow’ in conjunction with samples of these colours which they carry with them. All the samples of _Red_ have the same tone & likewise only one tone of Green is used as a sample, etc.. Their colour words are signs which they make with their hands, & each sample card bears such a sign. When using the signs they always look to see which card bears the sign the other person gives, & so on. But they use these samples for _different_ tones of red, green, etc. Thus in response to a command “Bring me a green leaf!” they fetch this green or that one, & so on.
+<span class="series-number">115</span> Somewhere people always use the colour words ‘red’, ‘green’, ‘blue’, ‘yellow’ in conjunction with samples of these colours which they carry with them. All the samples of _Red_ have the same tone & likewise only one tone of Green is used as a sample, etc.. Their colour words are signs which they make with their hands, & each sample card bears such a sign. When using the signs they always look to see which card bears the sign the other person gives, & so on. But they use these samples for _different_ tones of red, green, etc. Thus in response to a command “Bring me a green leaf!” they fetch this green or that one, & so on.
 
 ### [Ms-115](/ms-115/#245.2) <span class="fac">[245\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/245.webp)</span>
 
 One will be inclined to say that in this language each of the colour words has only one meaning, perhaps that it means what all red tones (etc.) have in common. – “But do they now use their sample for what the different reds have in common, or simply, on one occasion for one tone, on another occasion for the other, hence ‘with different meanings’?”
 
-– But now assume that in response to the command “Bring me two red books”, you brought a vermilion one & a carmine one: How did _you_ apply the word ‘red’ in the command? Did you understand by it what the two reds have in common, or simply vermilion on one occasion & carmine on the other?
+<span class="series-number">116</span> – But now assume that in response to the command “Bring me two red books”, you brought a vermilion one & a carmine one: How did _you_ apply the word ‘red’ in the command? Did you understand by it what the two reds have in common, or simply vermilion on one occasion & carmine on the other?
 
 ### [Ms-115](/ms-115/#245.3) <span class="fac">[245\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/245.webp)</span>
 
@@ -1378,7 +1378,7 @@ We have the idea that the person who understands the word ‘blue’ knows its m
 
 We could not decide whether in example (114) ‘red’ had only one meaning or two; but let us suppose that the person to whom I give the command says:
 
-“There are indeed no red & green leaves here, but I understand you”, & then sorts them. Or: he has otherwise carried out commands of the kind “Sort these objects, etc.” without hesitating; but when I gave him the command to sort the leaves, he first looked at the heap & hesitated; then he began sorting reddish-brown & greenish-yellow ones. – Or he pauses for a moment & says to himself: “He probably means _these_”, looking at a reddish-brown & a greenish-yellow leaf, and then sorts them. – We can say that this means that those leaves are not ‘green’ & ‘red’ for him in the same sense as the things that were previously called that. – If, on the other hand, he follows my command without the slightest hesitation, ‘as though it were quite self-evident’ that I use the words ‘red’ & ‘green’ here, it is natural to say that they have their old meaning for him in this command too. – But if one wanted to say: “So the person who first had to pause and the person who carried out the command as a matter of course must have carried different images of the concepts in their minds”, – I would reply: “What you say may be a _hypothesis_ to explain the facts I have described, or also a _simile_ by means of which you represent these facts; but it does not _follow_ from the facts.”
+<span class="series-number">122</span> “There are indeed no red & green leaves here, but I understand you”, & then sorts them. Or: he has otherwise carried out commands of the kind “Sort these objects, etc.” without hesitating; but when I gave him the command to sort the leaves, he first looked at the heap & hesitated; then he began sorting reddish-brown & greenish-yellow ones. – Or he pauses for a moment & says to himself: “He probably means _these_”, looking at a reddish-brown & a greenish-yellow leaf, and then sorts them. – We can say that this means that those leaves are not ‘green’ & ‘red’ for him in the same sense as the things that were previously called that. – If, on the other hand, he follows my command without the slightest hesitation, ‘as though it were quite self-evident’ that I use the words ‘red’ & ‘green’ here, it is natural to say that they have their old meaning for him in this command too. – But if one wanted to say: “So the person who first had to pause and the person who carried out the command as a matter of course must have carried different images of the concepts in their minds”, – I would reply: “What you say may be a _hypothesis_ to explain the facts I have described, or also a _simile_ by means of which you represent these facts; but it does not _follow_ from the facts.”
 
 ### [Ms-115](/ms-115/#250.2) <span class="fac">[250\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/250.webp)</span>
 
@@ -1548,7 +1548,7 @@ In the first case we may perhaps speak of a particular feeling which characteris
 
 But it is also possible, when uttering a lie, to feel quite decisively what one might call _feelings of meaning_ what one says. (It is sometimes said of someone that he has said this lie so often that he almost believes it himself.)
 
-But perhaps one should distinguish here between ‘believing’ what one says & ‘meaning’ what one says. If, for example, I say that the train leaves at 5<sup> h30</sup>, while I know perfectly well that it leaves at 3<sup> h</sup>, one could say that although I do not believe what I say, I nevertheless do not say it automatically, like a parrot, and thus _mean_ it. – Here again ask yourself _when_ you mean it; & how the meaning accompanies the saying. Also try this experiment: _Think_ ‘The train leaves at 3<sup> h30</sup>’, but without words! – In answer to the question ‘What happened there, when you said it and meant it, and also believed it?’ you will have to answer in a large number of cases: ‘I _said_ it; I know nothing more.’ (More on meaning everything one does not speak automatically later.)
+<span class="series-number">141</span> But perhaps one should distinguish here between ‘believing’ what one says & ‘meaning’ what one says. If, for example, I say that the train leaves at 5<sup> h30</sup>, while I know perfectly well that it leaves at 3<sup> h</sup>, one could say that although I do not believe what I say, I nevertheless do not say it automatically, like a parrot, and thus _mean_ it. – Here again ask yourself _when_ you mean it; & how the meaning accompanies the saying. Also try this experiment: _Think_ ‘The train leaves at 3<sup> h30</sup>’, but without words! – In answer to the question ‘What happened there, when you said it and meant it, and also believed it?’ you will have to answer in a large number of cases: ‘I _said_ it; I know nothing more.’ (More on meaning everything one does not speak automatically later.)
 
 ### [Ms-115](/ms-115/#272.3+273.1) <span class="fac">[272\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/272.webp),[273\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-115/273.webp)</span>
 

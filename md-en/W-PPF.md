@@ -118,11 +118,11 @@ But what about such an expression: “When you said it, I understood it in my he
 
 ### [Ms-144](/ms-144/#8r.1) <span class="fac">[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)</span>
 
-<span class="series-number">v</span> Imagine we are observing the movement of a point (a point of light on a screen, for example). Important conclusions of various kinds could be drawn from the behaviour of this point. But how many different things can be observed about it! The path of the point and certain of its dimensions (e.g., amplitude and wavelength), or the speed and the law according to which it changes, or the number or location of the points at which it changes abruptly, or the curvature of the path at these points, and countless other things. And each of these _features_ of the behaviour could be the only one that interests us. For example, everything in this movement might be of no interest to us except the number of oscillations in a certain time. And if not only _one_ such feature interests us, but several, then each of them may give us a particular insight, different in kind from all the others. And so it is with human behaviour, with the various characteristics of this behavior that we observe.
+<span class="series-number">v</span> Imagine we are observing the movement of a point (a point of light on a screen, for example). Important conclusions of various kinds could be drawn from the behaviour of this point. But how many different things can be observed about it! The path of the point and certain of its dimensions (e.g., amplitude and wavelength), or the speed and the law according to which it changes, or the number or location of the points at which it changes abruptly, or the curvature of the path at these points, and countless other things. And each of these _features_ of the behaviour could be the only one that interests us. For example, everything in this movement might be of no interest to us except the number of oscillations in a certain time. And if not only _one_ such feature interests us, but several, then each of them may give us a particular insight, different in kind from all the others. And so it is with human behaviour, with the various characteristics of this behaviour that we observe.
 
 ### [Ms-144](/ms-144/#8r.2) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp)</span>
 
-So does psychology deal with behaviour, not with the mind? What does the psychologist report? What does he observe? Not the behaviour of people, especially their expressions? But _these_ do not deal with behavior.
+So does psychology deal with behaviour, not with the mind? What does the psychologist report? What does he observe? Not the behaviour of people, especially their expressions? But _these_ do not deal with behaviour.
 
 ### [Ms-144](/ms-144/#8r.3+8v.1) <span class="fac">[8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)</span>
 
@@ -130,7 +130,7 @@ So does psychology deal with behaviour, not with the mind? What does the psychol
 
 ### [Ms-144](/ms-144/#8v.2) <span class="fac">[8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)</span>
 
-The doctor asks: “How does he feel?” The nurse says: “He groans.” A report about behavior. But does the question exist for either of them as to whether this groaning is really genuine, really the expression of something? Could they not, for example, draw the conclusion “If he groans, we must give him another painkiller” – without omitting an intermediate step? Doesn't it all depend on the purpose for which they present the description of the behaviour?
+The doctor asks: “How does he feel?” The nurse says: “He groans.” A report about behaviour. But does the question exist for either of them as to whether this groaning is really genuine, really the expression of something? Could they not, for example, draw the conclusion “If he groans, we must give him another painkiller” – without omitting an intermediate step? Doesn't it all depend on the purpose for which they present the description of the behaviour?
 
 ### [Ms-144](/ms-144/#8v.3) <span class="fac">[8v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/8v.webp)</span>
 
@@ -290,7 +290,7 @@ When does one say: someone is observing? Approximately: When he puts himself in 
 
 ### [Ms-144](/ms-144/#18r.4+18v.1) <span class="fac">[18r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18r.webp),[18v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)</span>
 
-If one were trained to utter a specific sound upon seeing something red, another upon seeing something yellow, and so on for other colours, this would not yet be a description of objects according to their colors. Although it could help us with a description. A description is a depiction of a distribution in a space (e.g., time).
+If one were trained to utter a specific sound upon seeing something red, another upon seeing something yellow, and so on for other colours, this would not yet be a description of objects according to their colours. Although it could help us with a description. A description is a depiction of a distribution in a space (e.g., time).
 
 ### [Ms-144](/ms-144/#18v.2) <span class="fac">[18v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/18v.webp)</span>
 
@@ -568,7 +568,7 @@ If I know that there are different aspects of the cube schema, I can, in order t
 
 ### [Ms-144](/ms-144/#27r.3) <span class="fac">[27r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)</span>
 
-And that alone dismisses the comparison of the ‘organization’ with color & form in the visual impression.
+And that alone dismisses the comparison of the ‘organization’ with colour & form in the visual impression.
 
 ### [Ms-144](/ms-144/#27r.4) <span class="fac">[27r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/27r.webp)</span>
 
@@ -1016,7 +1016,7 @@ I would like to ask: “When I see an object (this cupboard, for example), am I 
 
 ### [Ms-144](/ms-144/#37v.3+38r.1) <span class="fac">[37v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/37v.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)</span>
 
-Someone tells me: “I looked at the flower, but I was thinking about something else & I was not conscious of its colour.” Do I understand that? – I can think of a meaningful connection with it; it might continue: “Then suddenly I _saw_ it & realized that it was the one which…” Or also: “If I had turned away then, I would not have been able to say what color it was.” “He looked at it without seeing it.” – That happens. But what is the criterion for that? – There are indeed different cases.
+Someone tells me: “I looked at the flower, but I was thinking about something else & I was not conscious of its colour.” Do I understand that? – I can think of a meaningful connection with it; it might continue: “Then suddenly I _saw_ it & realized that it was the one which…” Or also: “If I had turned away then, I would not have been able to say what colour it was.” “He looked at it without seeing it.” – That happens. But what is the criterion for that? – There are indeed different cases.
 
 ### [Ms-144](/ms-144/#38r.2) <span class="fac">[38r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-144/38r.webp)</span>
 

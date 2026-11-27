@@ -42,7 +42,7 @@
 
 ### [Ts-233a](/ts-233a/#2.3) <span class="fac">[2\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/2.webp)</span>
 
-<span class="series-number">9</span> “I wanted to get at _him_ with this remark.” If I hear that, I can imagine a situation and its history. I could stage it in a theater, put myself in the state of mind in which I want to ‘get at him’. – But how is this state of mind to be described? That is, how is it to be identified? – I imagine myself in the situation, adopt a certain facial expression and voice, etc. What connects my words with him? The situation and my thoughts. And my thoughts not otherwise than words that I utter.
+<span class="series-number">9</span> “I wanted to get at _him_ with this remark.” If I hear that, I can imagine a situation and its history. I could stage it in a theatre, put myself in the state of mind in which I want to ‘get at him’. – But how is this state of mind to be described? That is, how is it to be identified? – I imagine myself in the situation, adopt a certain facial expression and voice, etc. What connects my words with him? The situation and my thoughts. And my thoughts not otherwise than words that I utter.
 
 ### [Ts-233a](/ts-233a/#3.1) <span class="fac">[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/3.webp)</span>
 
@@ -50,7 +50,7 @@
 
 ### [Ts-233a](/ts-233a/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/3.webp)</span>
 
-<span class="series-number">11</span> I am inclined to say: I ‘point’ _in different senses_ to this body, to its shape, to its color, etc. – What does that mean? What does it mean: I ‘hear’ _in another sense_: the piano, its sound, the piece of music, the pianist, his skill? I ‘marry,’ in one sense, a woman, in another, her money.
+<span class="series-number">11</span> I am inclined to say: I ‘point’ _in different senses_ to this body, to its shape, to its colour, etc. – What does that mean? What does it mean: I ‘hear’ _in another sense_: the piano, its sound, the piece of music, the pianist, his skill? I ‘marry,’ in one sense, a woman, in another, her money.
 
 ### [Ts-233a](/ts-233a/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/3.webp)</span>
 
@@ -212,7 +212,7 @@ one does not ask “_How_ did you think of him?”.
 
 ### [Ts-233a](/ts-233a/#15.2) <span class="fac">[15\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/15.webp)</span>
 
-<span class="series-number">48</span> Under what circumstances would one say, “This device is a brake, but it doesn’t work”? This surely means: it does not fulfill its purpose. What is the reason that it has this purpose? One could also say: “The _intention_ was that this should function as a brake.” Whose intention? Here, the intention as a state of mind completely eludes us. Couldn’t one also imagine that several people have an intention, execute it, without any one of them having it? For example, a government can have an intention that no _person_ has.
+<span class="series-number">48</span> Under what circumstances would one say, “This device is a brake, but it doesn’t work”? This surely means: it does not fulfil its purpose. What is the reason that it has this purpose? One could also say: “The _intention_ was that this should function as a brake.” Whose intention? Here, the intention as a state of mind completely eludes us. Couldn’t one also imagine that several people have an intention, execute it, without any one of them having it? For example, a government can have an intention that no _person_ has.
 
 ### [Ts-233a](/ts-233a/#15.5) <span class="fac">[15\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/15.webp)</span>
 
@@ -262,7 +262,7 @@ Is _this_ the difference, that the former are voluntary, the latter involuntary 
 
 ### [Ts-233a](/ts-233a/#9.6) <span class="fac">[9\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/9.webp)</span>
 
-<span class="series-number">60</span> Reality is not a property that the expected one still lacks, and which now comes into being when the expectation comes about. – Reality is also not like daylight, which only gives things color when they are already present in the dark, as if colorless.
+<span class="series-number">60</span> Reality is not a property that the expected one still lacks, and which now comes into being when the expectation comes about. – Reality is also not like daylight, which only gives things colour when they are already present in the dark, as if colourless.
 
 ### [Ts-233a](/ts-233a/#9.7) <span class="fac">[9\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/9.webp)</span>
 
@@ -302,7 +302,7 @@ Is _this_ the difference, that the former are voluntary, the latter involuntary 
 
 ### [Ts-233a](/ts-233a/#13.4) <span class="fac">[13\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/13.webp)</span>
 
-If we substitute the word “kill” for the word “imagine” in this argument, then there is a rule for the use of this word; it makes no sense to say “I kill something that does not exist.” I can imagine a deer on this meadow that is not there, but I cannot kill one that is not there. And “imagining a deer on this meadow” means: imagining that a deer is there. But killing a deer does not mean: killing that etc.. If, however, someone says “In order for me to imagine a deer, it must exist in a certain sense,” the answer is: no, it does not have to exist in any sense. And if it were answered: “But the brown color, for example, must exist in order for me to imagine it,” then one must say: “the brown color exists” does not mean anything at all; except perhaps that it is present here or there as the color of an object; and that is not necessary for me to imagine a brown deer.
+If we substitute the word “kill” for the word “imagine” in this argument, then there is a rule for the use of this word; it makes no sense to say “I kill something that does not exist.” I can imagine a deer on this meadow that is not there, but I cannot kill one that is not there. And “imagining a deer on this meadow” means: imagining that a deer is there. But killing a deer does not mean: killing that etc.. If, however, someone says “In order for me to imagine a deer, it must exist in a certain sense,” the answer is: no, it does not have to exist in any sense. And if it were answered: “But the brown colour, for example, must exist in order for me to imagine it,” then one must say: “the brown colour exists” does not mean anything at all; except perhaps that it is present here or there as the colour of an object; and that is not necessary for me to imagine a brown deer.
 
 ### [Ts-233a](/ts-233a/#13.5) <span class="fac">[13\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/13.webp)</span>
 
@@ -772,7 +772,7 @@ If you assume that one person cannot do _that_, how is it then with _the other_?
 
 ### [Ts-233a](/ts-233a/#37.6+38.1) <span class="fac">[37\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/37.webp),[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/38.webp)</span>
 
-<span class="series-number">185</span> Just as some people don’t understand the question “What color does the vowel _a_ have for you?” – if someone didn’t understand it, if they explained that it was nonsense, – could we say that they don’t understand German, or the meaning of the words “color,” “vowel,” etc.? On the contrary: if they have learned to understand these words, then they can also respond to those questions ‘with understanding’ or ‘without understanding’.
+<span class="series-number">185</span> Just as some people don’t understand the question “What colour does the vowel _a_ have for you?” – if someone didn’t understand it, if they explained that it was nonsense, – could we say that they don’t understand German, or the meaning of the words “colour,” “vowel,” etc.? On the contrary: if they have learned to understand these words, then they can also respond to those questions ‘with understanding’ or ‘without understanding’.
 
 ### [Ts-233a](/ts-233a/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/38.webp)</span>
 
@@ -808,7 +808,7 @@ If you assume that one person cannot do _that_, how is it then with _the other_?
 
 ### [Ts-233a](/ts-233a/#39.2) <span class="fac">[39\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/39.webp)</span>
 
-<span class="series-number">194</span> Imagine this game: A list of words from different languages and of senseless sequences of sounds is read to me. I am to say after each one whether I understand it or not; also, what was going on in me while understanding or not understanding. – I will answer “yes” to the word “tree” without thinking (an image may float before me); I will answer just as unhesitatingly with “no” to a sequence of sounds that I have never heard before. With words that designate a specific shade of color, a visualization of the answer will often precede it; with rare words (“continuum,” for example), there will be some deliberation; with words like the article “the,” perhaps a shrug of the shoulders; words from a foreign language I will _sometimes_ translate into German; if images float before me, they are sometimes those of the objects that are designated by the words (again, thousands of cases), sometimes other images. One could supplement this game with another, in which someone names _activities_ and asks with each one: “Can you do that?” – The subject should indicate what reasons he had for answering the question with “yes” or “no.”
+<span class="series-number">194</span> Imagine this game: A list of words from different languages and of senseless sequences of sounds is read to me. I am to say after each one whether I understand it or not; also, what was going on in me while understanding or not understanding. – I will answer “yes” to the word “tree” without thinking (an image may float before me); I will answer just as unhesitatingly with “no” to a sequence of sounds that I have never heard before. With words that designate a specific shade of colour, a visualization of the answer will often precede it; with rare words (“continuum,” for example), there will be some deliberation; with words like the article “the,” perhaps a shrug of the shoulders; words from a foreign language I will _sometimes_ translate into German; if images float before me, they are sometimes those of the objects that are designated by the words (again, thousands of cases), sometimes other images. One could supplement this game with another, in which someone names _activities_ and asks with each one: “Can you do that?” – The subject should indicate what reasons he had for answering the question with “yes” or “no.”
 
 ### [Ts-233a](/ts-233a/#39.3) <span class="fac">[39\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/39.webp)</span>
 
@@ -870,11 +870,11 @@ The figure <img class="math math-inline math-drawing" src="../math/886e6be3af062
 
 ### [Ts-233a](/ts-233a/#44.2) <span class="fac">[44\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/44.webp)</span>
 
-<span class="series-number">209</span> This shape that I see – I would like to say – is not simply _one_ shape, but it is one of the shapes I am familiar with; it is a shape that has been distinguished in advance. It is one of the shapes whose picture was already in me earlier, and only because it corresponds to such a picture, is it the well-known shape. (I carry, as it were, a catalog of such shapes with me, and the objects depicted there are then the well-known ones. –
+<span class="series-number">209</span> This shape that I see – I would like to say – is not simply _one_ shape, but it is one of the shapes I am familiar with; it is a shape that has been distinguished in advance. It is one of the shapes whose picture was already in me earlier, and only because it corresponds to such a picture, is it the well-known shape. (I carry, as it were, a catalogue of such shapes with me, and the objects depicted there are then the well-known ones. –
 
 ### [Ts-233a](/ts-233a/#44.3) <span class="fac">[44\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/44.webp)</span>
 
-<span class="series-number">210</span> But the fact that I carried the picture with me earlier would only be a causal explanation of the present impression. It is as if one said: this movement goes so easily as if it had been practiced.
+<span class="series-number">210</span> But the fact that I carried the picture with me earlier would only be a causal explanation of the present impression. It is as if one said: this movement goes so easily as if it had been practised.
 
 ### [Ts-233a](/ts-233a/#44.4) <span class="fac">[44\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/44.webp)</span>
 
@@ -930,7 +930,7 @@ The figure <img class="math math-inline math-drawing" src="../math/886e6be3af062
 
 ### [Ts-233a](/ts-233a/#46.5+47.1) <span class="fac">[46\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/46.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/47.webp)</span>
 
-<span class="series-number">223</span> “If you would only abandon your physiological prejudices, you would find nothing at all objectionable in the idea that the act of looking with the eye can also be seen.” I also say that I see the look that you give to another person. And if one were to correct me and say that I do not actually _see_ it, I would consider that mere foolishness. On the other hand, with my way of speaking, I have not _conceded_ anything, and I contradict the person who tells me that I see the look ‘in the same way’ as the shape and color of the eye. For ‘naive speech,’ i.e., our naive, normal way of expressing ourselves, contains no theory of seeing – it does not show you a theory, but only a concept of seeing.
+<span class="series-number">223</span> “If you would only abandon your physiological prejudices, you would find nothing at all objectionable in the idea that the act of looking with the eye can also be seen.” I also say that I see the look that you give to another person. And if one were to correct me and say that I do not actually _see_ it, I would consider that mere foolishness. On the other hand, with my way of speaking, I have not _conceded_ anything, and I contradict the person who tells me that I see the look ‘in the same way’ as the shape and colour of the eye. For ‘naive speech,’ i.e., our naive, normal way of expressing ourselves, contains no theory of seeing – it does not show you a theory, but only a concept of seeing.
 
 ### [Ts-233a](/ts-233a/#47.2) <span class="fac">[47\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/47.webp)</span>
 
@@ -1006,7 +1006,7 @@ The figure <img class="math math-inline math-drawing" src="../math/886e6be3af062
 
 ### [Ts-233a](/ts-233a/#51.2) <span class="fac">[51\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/51.webp)</span>
 
-<span class="series-number">242</span> Let us also remember that we do not first have to translate such images into realistic ones in order to ‘understand’ them, just as we never translate photographs or the images of a film into colored images, even though black and white people, or plants in reality, seem incredibly strange and terrible to us. What if we now said: “An image is something only in a picture language”?
+<span class="series-number">242</span> Let us also remember that we do not first have to translate such images into realistic ones in order to ‘understand’ them, just as we never translate photographs or the images of a film into coloured images, even though black and white people, or plants in reality, seem incredibly strange and terrible to us. What if we now said: “An image is something only in a picture language”?
 
 ### [Ts-233a](/ts-233a/#51.3) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/51.webp)</span>
 
@@ -1074,7 +1074,7 @@ How one learns to see a face better by drawing it.
 
 ### [Ts-233a](/ts-233a/#54.3) <span class="fac">[54\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/54.webp)</span>
 
-<span class="series-number">257</span> Would it be possible to discover a _new_ color? (Because a colorblind person is in the same situation as we are; their colors form just as complete a system as ours; they see no gap where the other colors still belong.) (Comparison with mathematics.)
+<span class="series-number">257</span> Would it be possible to discover a _new_ colour? (Because a colourblind person is in the same situation as we are; their colours form just as complete a system as ours; they see no gap where the other colours still belong.) (Comparison with mathematics.)
 
 ### [Ts-233a](/ts-233a/#54.4) <span class="fac">[54\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/54.webp)</span>
 
@@ -1114,7 +1114,7 @@ How one learns to see a face better by drawing it.
 
 ### [Ts-233a](/ts-233a/#55.2) <span class="fac">[55\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span>
 
-<span class="series-number">267</span> Is it to be an empirical fact that whoever has had an experience can imagine it, and that another _cannot_? (How do I know that the blind man can imagine colors?) But: he cannot play a language-game (cannot learn it). But how? According to experience, or eo ipso? The latter.
+<span class="series-number">267</span> Is it to be an empirical fact that whoever has had an experience can imagine it, and that another _cannot_? (How do I know that the blind man can imagine colours?) But: he cannot play a language-game (cannot learn it). But how? According to experience, or eo ipso? The latter.
 
 ### [Ts-233a](/ts-233a/#55.3) <span class="fac">[55\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span>
 
@@ -1122,7 +1122,7 @@ How one learns to see a face better by drawing it.
 
 ### [Ts-233a](/ts-233a/#55.4) <span class="fac">[55\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span>
 
-<span class="series-number">269</span> If one believes one can imagine a four-dimensional space, why not also four-dimensional colors—that is, colors that, in addition to the degree of saturation, the hue, and the luminosity, allow for a fourth determination?
+<span class="series-number">269</span> If one believes one can imagine a four-dimensional space, why not also four-dimensional colours—that is, colours that, in addition to the degree of saturation, the hue, and the luminosity, allow for a fourth determination?
 
 ### [Ts-233a](/ts-233a/#55.5) <span class="fac">[55\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/55.webp)</span>
 
@@ -1318,7 +1318,7 @@ and not how he should continue now?
 
 ### [Ts-233a](/ts-233a/#65.6+66.1) <span class="fac">[65\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/65.webp),[66\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/66.webp)</span>
 
-<span class="series-number">316</span> One can use a red object as a sample for painting a _reddish_ white, or a reddish yellow (etc.) – but can one also use it as a sample for painting a blue-green hue, for example? – What if I saw someone, with all the external signs of accurate copying, ‘reproduce’ a red patch in blue-green? – I would say “I don’t know how he does it!” or even “I don’t know _what_ he is doing.” – But suppose he now ‘copied’ this tone of red in blue-green on various occasions, and other tones of red regularly in other blue-green tones – should I now say that he is copying, or that he is not copying? But what does it mean that I do not know “what he is doing”? Don’t I see what he is doing? – But I don’t see _into_ him. – Not this simile! If I see him copy red in red, what do I know? Do I know _how_ I do it? Of course, one says: I just paint the _same_ color. – But what if _he_ says, “And I am painting the fifth in relation to this color”? Do I see a special process of mediation when _I_ paint the ‘same’ color? Suppose I know him as an honest person; he reproduces a red through a blue-green, as I have described, but now _not_ always the same tone with the same, but sometimes with one tone, sometimes with another. – Should I say “I don’t know what he is doing”? – He does what I see – but _I_ would never do it; I don’t know why he does it; his way of acting ‘is incomprehensible to me’.
+<span class="series-number">316</span> One can use a red object as a sample for painting a _reddish_ white, or a reddish yellow (etc.) – but can one also use it as a sample for painting a blue-green hue, for example? – What if I saw someone, with all the external signs of accurate copying, ‘reproduce’ a red patch in blue-green? – I would say “I don’t know how he does it!” or even “I don’t know _what_ he is doing.” – But suppose he now ‘copied’ this tone of red in blue-green on various occasions, and other tones of red regularly in other blue-green tones – should I now say that he is copying, or that he is not copying? But what does it mean that I do not know “what he is doing”? Don’t I see what he is doing? – But I don’t see _into_ him. – Not this simile! If I see him copy red in red, what do I know? Do I know _how_ I do it? Of course, one says: I just paint the _same_ colour. – But what if _he_ says, “And I am painting the fifth in relation to this colour”? Do I see a special process of mediation when _I_ paint the ‘same’ colour? Suppose I know him as an honest person; he reproduces a red through a blue-green, as I have described, but now _not_ always the same tone with the same, but sometimes with one tone, sometimes with another. – Should I say “I don’t know what he is doing”? – He does what I see – but _I_ would never do it; I don’t know why he does it; his way of acting ‘is incomprehensible to me’.
 
 ### [Ts-233a](/ts-233a/#66.2) <span class="fac">[66\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/66.webp)</span>
 
@@ -1342,7 +1342,7 @@ and not how he should continue now?
 
 ### [Ts-233a](/ts-233a/#67.3) <span class="fac">[67\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/67.webp)</span>
 
-<span class="series-number">322</span> Language is not defined for us as a device that fulfills a specific purpose. Rather, “language” is, for me, a collective term, and I understand it to include the German language, the English language, and so on, as well as various systems of signs that have a greater or lesser affinity with these languages.
+<span class="series-number">322</span> Language is not defined for us as a device that fulfils a specific purpose. Rather, “language” is, for me, a collective term, and I understand it to include the German language, the English language, and so on, as well as various systems of signs that have a greater or lesser affinity with these languages.
 
 ### [Ts-233a](/ts-233a/#67.4) <span class="fac">[67\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/67.webp)</span>
 
@@ -1378,11 +1378,11 @@ and not how he should continue now?
 
 ### [Ts-233a](/ts-233a/#68.3) <span class="fac">[68\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/68.webp)</span>
 
-<span class="series-number">331</span> One is tempted to justify the rules of grammar by means of sentences of the kind “But there really are four primary colors.” And the statement that the rules of grammar are arbitrary is directed against the possibility of this kind of justification, which is modeled on the justification of a sentence by reference to its verification. But can one not, in some sense, say that the grammar of color words characterizes the world as it actually is? One would like to say: Can I not, in fact, search in vain for a fifth primary color? Do we not group the primary colors together because they have a similarity; or at least the _colors_, in contrast to, for example, shapes or sounds, because they have a similarity? Or if I present this division of the world as the correct one, do I already have a preconceived idea in my head as a paradigm? From which I can then only say: “Yes, this is the way we look at things,” or “We simply want to create such a picture.” For if I say: “The primary colors do, after all, have a certain similarity with one another” – where do I get the concept of this similarity from? Is it not the case that, just as the concept ‘primary color’ is nothing other than ‘blue or red or green or yellow,’ the concept of that similarity is also only given by the four colors? Yes, are they not the same? – “Could one not also group red, green, and circular together?” – Why not?!
+<span class="series-number">331</span> One is tempted to justify the rules of grammar by means of sentences of the kind “But there really are four primary colours.” And the statement that the rules of grammar are arbitrary is directed against the possibility of this kind of justification, which is modelled on the justification of a sentence by reference to its verification. But can one not, in some sense, say that the grammar of colour words characterizes the world as it actually is? One would like to say: Can I not, in fact, search in vain for a fifth primary colour? Do we not group the primary colours together because they have a similarity; or at least the _colours_, in contrast to, for example, shapes or sounds, because they have a similarity? Or if I present this division of the world as the correct one, do I already have a preconceived idea in my head as a paradigm? From which I can then only say: “Yes, this is the way we look at things,” or “We simply want to create such a picture.” For if I say: “The primary colours do, after all, have a certain similarity with one another” – where do I get the concept of this similarity from? Is it not the case that, just as the concept ‘primary colour’ is nothing other than ‘blue or red or green or yellow,’ the concept of that similarity is also only given by the four colours? Yes, are they not the same? – “Could one not also group red, green, and circular together?” – Why not?!
 
 ### [Ts-233a](/ts-233a/#69.1) <span class="fac">[69\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp)</span>
 
-<span class="series-number">332</span> Don’t believe that you hold the concept of color within you because you are looking at a colored object – however you are looking. (Just as little as you possess the concept of a negative number by having debts.)
+<span class="series-number">332</span> Don’t believe that you hold the concept of colour within you because you are looking at a coloured object – however you are looking. (Just as little as you possess the concept of a negative number by having debts.)
 
 ### [Ts-233a](/ts-233a/#69.2) <span class="fac">[69\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp)</span>
 
@@ -1390,7 +1390,7 @@ and not how he should continue now?
 
 ### [Ts-233a](/ts-233a/#69.3) <span class="fac">[69\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp)</span>
 
-<span class="series-number">334</span> 2136 I can obviously express an expectation at one time in the words “I expect a red circle,” and at another time, instead of the last two words, by means of the colored image of a red circle. But in this expression, two words, “red” and “circle,” do not correspond to two things. Thus, the expression of the second language is of _an entirely different kind._
+<span class="series-number">334</span> 2136 I can obviously express an expectation at one time in the words “I expect a red circle,” and at another time, instead of the last two words, by means of the coloured image of a red circle. But in this expression, two words, “red” and “circle,” do not correspond to two things. Thus, the expression of the second language is of _an entirely different kind._
 
 ### [Ts-233a](/ts-233a/#69.4) <span class="fac">[69\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp)</span>
 
@@ -1398,9 +1398,9 @@ and not how he should continue now?
 
 ### [Ts-233a](/ts-233a/#69.5+70.1) <span class="fac">[69\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/69.webp),[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span>
 
-<span class="series-number">336</span> If I now also have two signs at my disposal, the expression “red circle” & the colored image, or the image of the red circle, then the question would be: how is the one word assigned to the color, the other to the shape? For one seems to be able to say that the one word directs attention to the color, the other to the shape. But what does that mean? How can one translate these words into this image?
+<span class="series-number">336</span> If I now also have two signs at my disposal, the expression “red circle” & the coloured image, or the image of the red circle, then the question would be: how is the one word assigned to the colour, the other to the shape? For one seems to be able to say that the one word directs attention to the colour, the other to the shape. But what does that mean? How can one translate these words into this image?
 
-Or also: if the word ‘red’ brings a color to my memory, then it must be connected with a shape; how can I then abstract from the shape?
+Or also: if the word ‘red’ brings a colour to my memory, then it must be connected with a shape; how can I then abstract from the shape?
 
 The important question here is never: how does he know what he should abstract from? but: how is that even possible? or: what does it mean?
 
@@ -1426,19 +1426,19 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233a](/ts-233a/#70.6) <span class="fac">[70\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/70.webp)</span>
 
-<span class="series-number">342</span> “Anyone who could see only gray, black, and white would have to be _given_ something so that he would know what red, green, etc., are.
+<span class="series-number">342</span> “Anyone who could see only grey, black, and white would have to be _given_ something so that he would know what red, green, etc., are.
 
 ### [Ts-233a](/ts-233a/#71.1) <span class="fac">[71\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/71.webp)</span>
 
-<span class="series-number">343</span> And what would have to be given to him? Well, the colors. So, for example, _this,_ and _this,_ and _this_. (Imagine, for example, that colored models would have to be introduced into his brain, in addition to the merely gray and black ones.) But would this have to happen as a means to the end of future action? Or does this action already include these models? Do I mean: “Something would have to be given to him, because it is clear that he could not otherwise…” – or: His seeing behaviour _includes_ new components? Also: what would we _call_ an “explanation of seeing”? Should one say: Well, you know what “explanation” means; so use this concept here as well!
+<span class="series-number">343</span> And what would have to be given to him? Well, the colours. So, for example, _this,_ and _this,_ and _this_. (Imagine, for example, that coloured models would have to be introduced into his brain, in addition to the merely grey and black ones.) But would this have to happen as a means to the end of future action? Or does this action already include these models? Do I mean: “Something would have to be given to him, because it is clear that he could not otherwise…” – or: His seeing behaviour _includes_ new components? Also: what would we _call_ an “explanation of seeing”? Should one say: Well, you know what “explanation” means; so use this concept here as well!
 
 ### [Ts-233a](/ts-233a/#71.2) <span class="fac">[71\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/71.webp)</span>
 
-<span class="series-number">344</span> Can I say: “Look at it! Then you will see that it cannot be explained.” – Or: “Drink the color red into yourself, and you will see that it cannot be represented by something else!” – And if the other person now agrees with me, does it show that he has absorbed the same thing as I have? – And what does our inclination to say this mean? Red appears to us to stand alone. Why? What is this appearance, this inclination _worth_? But one could ask: To what peculiarity of the concept does this inclination of ours point?
+<span class="series-number">344</span> Can I say: “Look at it! Then you will see that it cannot be explained.” – Or: “Drink the colour red into yourself, and you will see that it cannot be represented by something else!” – And if the other person now agrees with me, does it show that he has absorbed the same thing as I have? – And what does our inclination to say this mean? Red appears to us to stand alone. Why? What is this appearance, this inclination _worth_? But one could ask: To what peculiarity of the concept does this inclination of ours point?
 
 ### [Ts-233a](/ts-233a/#71.3) <span class="fac">[71\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/71.webp)</span>
 
-<span class="series-number">345</span> Think of the sentence “Red is not a mixed color” and its function. The language-game with colors is characterized precisely by what we can do and what we cannot do.
+<span class="series-number">345</span> Think of the sentence “Red is not a mixed colour” and its function. The language-game with colours is characterized precisely by what we can do and what we cannot do.
 
 ### [Ts-233a](/ts-233a/#71.4) <span class="fac">[71\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/71.webp)</span>
 
@@ -1446,7 +1446,7 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233a](/ts-233a/#71.5) <span class="fac">[71\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/71.webp)</span>
 
-<span class="series-number">347</span> The fact that we _calculate_ with certain concepts, but not with others, simply shows how different the conceptual tools are (how little reason we have to assume any uniformity here). Consider sentences about colors that are similar to mathematical ones, e.g.: Blue is darker than white. Also consider Goethe’s theory of colors.
+<span class="series-number">347</span> The fact that we _calculate_ with certain concepts, but not with others, simply shows how different the conceptual tools are (how little reason we have to assume any uniformity here). Consider sentences about colours that are similar to mathematical ones, e.g.: Blue is darker than white. Also consider Goethe’s theory of colours.
 
 ### [Ts-233a](/ts-233a/#72.1) <span class="fac">[72\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/72.webp)</span>
 
@@ -1462,15 +1462,15 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233a](/ts-233a/#72.4) <span class="fac">[72\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/72.webp)</span>
 
-<span class="series-number">351</span> “If people did not generally agree about the colors of things, if inconsistencies were not exceptions, then our concept of color could not exist.” No: – _there would not_ be our concept of color.
+<span class="series-number">351</span> “If people did not generally agree about the colours of things, if inconsistencies were not exceptions, then our concept of colour could not exist.” No: – _there would not_ be our concept of colour.
 
 ### [Ts-233a](/ts-233a/#72.5) <span class="fac">[72\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233a/72.webp)</span>
 
-<span class="series-number">352</span> Do I want to say that certain facts are favorable or unfavorable to certain concept-formations? And does experience teach us this? It is an empirical fact that people change, alter their concepts when they become acquainted with new facts; when, as a result, what was previously important to them becomes unimportant, and vice versa. (One finds, for example: what used to be regarded as a difference in kind is actually _only_ a difference in degree.)
+<span class="series-number">352</span> Do I want to say that certain facts are favourable or unfavorable to certain concept-formations? And does experience teach us this? It is an empirical fact that people change, alter their concepts when they become acquainted with new facts; when, as a result, what was previously important to them becomes unimportant, and vice versa. (One finds, for example: what used to be regarded as a difference in kind is actually _only_ a difference in degree.)
 
 ### [Ts-233b](/ts-233b/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/1.webp)</span>
 
-<span class="series-number">353</span> But can one not say: “If there were only _one_ substance, would one have any use for the word ‘substance’”? But this means: the concept ‘substance’ presupposes the concept ‘difference of substance’. (As the concept of the chess king presupposes the concept of the chess move, or as the concept of _color_ presupposes the concept of _colors_.)
+<span class="series-number">353</span> But can one not say: “If there were only _one_ substance, would one have any use for the word ‘substance’”? But this means: the concept ‘substance’ presupposes the concept ‘difference of substance’. (As the concept of the chess king presupposes the concept of the chess move, or as the concept of _colour_ presupposes the concept of _colours_.)
 
 ### [Ts-232](/ts-232/#712.6) <span class="fac">[712\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)</span>
 
@@ -1486,7 +1486,7 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233b](/ts-233b/#1.4) <span class="fac">[1\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/1.webp)</span>
 
-<span class="series-number">357</span> We have a system of colors as we have a system of numbers. Are the systems in _our_ nature, or in the nature of things? How is one to say it? – _Not_ in the nature of numbers or colors.
+<span class="series-number">357</span> We have a system of colours as we have a system of numbers. Are the systems in _our_ nature, or in the nature of things? How is one to say it? – _Not_ in the nature of numbers or colours.
 
 ### [Ts-233b](/ts-233b/#1.5) <span class="fac">[1\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/1.webp)</span>
 
@@ -1494,7 +1494,7 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233b](/ts-233b/#1.6+2.1) <span class="fac">[1\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/2.webp)</span>
 
-<span class="series-number">359</span> It is clear that I want to recognize nothing but intermediate colors between red and green. (And whether people have always understood this, or only after experience and education, is irrelevant.)
+<span class="series-number">359</span> It is clear that I want to recognize nothing but intermediate colours between red and green. (And whether people have always understood this, or only after experience and education, is irrelevant.)
 
 ### [Ts-233b](/ts-233b/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/2.webp)</span>
 
@@ -1502,7 +1502,7 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233b](/ts-233b/#2.3) <span class="fac">[2\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/2.webp)</span>
 
-<span class="series-number">361</span> And it is important that, for example, with _gray_ one will get “black and white” as the answer; with _violet_ “blue and red”, with _pink_ “red and white”, etc.; but _not_ with _olive-green_ “red and green”.
+<span class="series-number">361</span> And it is important that, for example, with _grey_ one will get “black and white” as the answer; with _violet_ “blue and red”, with _pink_ “red and white”, etc.; but _not_ with _olive-green_ “red and green”.
 
 ### [Ts-233b](/ts-233b/#2.4) <span class="fac">[2\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/2.webp)</span>
 
@@ -1518,7 +1518,7 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233b](/ts-233b/#2.7) <span class="fac">[2\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/2.webp)</span>
 
-<span class="series-number">365</span> It is a fact of the greatest importance that a color that we are inclined to call (e.g.) “reddish-yellow” can actually be produced (in various ways) by mixing red and yellow. And that we are not able to recognize a color that has been created by mixing red and green as one that can be produced in this way. (But what does “without further ado” mean here?)
+<span class="series-number">365</span> It is a fact of the greatest importance that a colour that we are inclined to call (e.g.) “reddish-yellow” can actually be produced (in various ways) by mixing red and yellow. And that we are not able to recognize a colour that has been created by mixing red and green as one that can be produced in this way. (But what does “without further ado” mean here?)
 
 ### [Ts-233b](/ts-233b/#2.8+3.1) <span class="fac">[2\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/2.webp),[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span>
 
@@ -1526,15 +1526,15 @@ The important question here is never: how does he know what he should abstract f
 
 ### [Ts-233b](/ts-233b/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span>
 
-<span class="series-number">367</span> But couldn't we also play a language-game in this ‘confusion’? – But is it still the earlier one? – (This refers to what Frege, and occasionally Ramsey, said about recognition as a condition of symbolization. What is the criterion for me having correctly recognized the color? Something like the experience of pleasure upon recognition?)
+<span class="series-number">367</span> But couldn't we also play a language-game in this ‘confusion’? – But is it still the earlier one? – (This refers to what Frege, and occasionally Ramsey, said about recognition as a condition of symbolization. What is the criterion for me having correctly recognized the colour? Something like the experience of pleasure upon recognition?)
 
 ### [Ts-233b](/ts-233b/#3.2.2) <span class="fac">[3\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span>
 
-<span class="series-number">368</span> Let us imagine people who express an intermediate color, such as a shade between red & yellow, through a kind of binary decimal fraction, like this: R, LLRL, etc., where, for example, yellow is on the right side & red on the left. – These people would learn, even in kindergarten, to describe color shades in this way, to select colors according to these descriptions, to mix them, etc. They would relate to us in much the same way as people with perfect pitch relate to people who lack it. _They can do_ what we cannot do. Questionable.
+<span class="series-number">368</span> Let us imagine people who express an intermediate colour, such as a shade between red & yellow, through a kind of binary decimal fraction, like this: R, LLRL, etc., where, for example, yellow is on the right side & red on the left. – These people would learn, even in kindergarten, to describe colour shades in this way, to select colours according to these descriptions, to mix them, etc. They would relate to us in much the same way as people with perfect pitch relate to people who lack it. _They can do_ what we cannot do. Questionable.
 
 ### [Ts-233b](/ts-233b/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span>
 
-<span class="series-number">369</span> And here one would like to say: “Is that conceivable? Yes, that _behaviour_ probably is! but also the inner process, the experience of color?” And what one should say in answer to such a question is hard to see. Could those who do not have perfect pitch have suspected that there must also be people with perfect pitch?
+<span class="series-number">369</span> And here one would like to say: “Is that conceivable? Yes, that _behaviour_ probably is! but also the inner process, the experience of colour?” And what one should say in answer to such a question is hard to see. Could those who do not have perfect pitch have suspected that there must also be people with perfect pitch?
 
 ### [Ts-233b](/ts-233b/#3.4) <span class="fac">[3\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/3.webp)</span>
 
@@ -1746,7 +1746,7 @@ Different. – But it’s as if his word could not _mean the same thing_ as ours
 
 ### [Ts-233b](/ts-233b/#11.1) <span class="fac">[11\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/11.webp)</span>
 
-<span class="series-number">421</span> If he first learns the color names, – what is he taught? Well, he learns, for example, to say “red” when he sees something red. – Is this a correct description, or should it have said: “He learns to ‘call it red,’ _which is also what we_ ‘call red’”? – Both descriptions are correct. How does this differ from the language-game “How does it strike you?”? One could teach him the color words by having him look at white objects through colored glasses. But what I teach him must be a _skill_. _He can_ now, on command, bring something red; or arrange objects according to their colors. But what is something red?
+<span class="series-number">421</span> If he first learns the colour names, – what is he taught? Well, he learns, for example, to say “red” when he sees something red. – Is this a correct description, or should it have said: “He learns to ‘call it red,’ _which is also what we_ ‘call red’”? – Both descriptions are correct. How does this differ from the language-game “How does it strike you?”? One could teach him the colour words by having him look at white objects through coloured glasses. But what I teach him must be a _skill_. _He can_ now, on command, bring something red; or arrange objects according to their colours. But what is something red?
 
 ### [Ts-233b](/ts-233b/#11.2) <span class="fac">[11\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/11.webp)</span>
 
@@ -1778,15 +1778,15 @@ Different. – But it’s as if his word could not _mean the same thing_ as ours
 
 ### [Ts-233b](/ts-233b/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/12.webp)</span>
 
-<span class="series-number">429</span> You say, “_This_ is red,” but how will it be decided whether you are right? Isn’t it decided by the agreement of people? – But do I rely on this agreement in my judgments about colors? Does it happen _like this_: I have a number of people look at an object; each of them has one of a certain group of words (the so-called color words) occur to them; if the word “red,” for example, occurs to the majority of the observers (I don’t necessarily have to be among that majority), then the object is given the predicate “red.” Such a technique could certainly have its importance.
+<span class="series-number">429</span> You say, “_This_ is red,” but how will it be decided whether you are right? Isn’t it decided by the agreement of people? – But do I rely on this agreement in my judgments about colours? Does it happen _like this_: I have a number of people look at an object; each of them has one of a certain group of words (the so-called colour words) occur to them; if the word “red,” for example, occurs to the majority of the observers (I don’t necessarily have to be among that majority), then the object is given the predicate “red.” Such a technique could certainly have its importance.
 
 ### [Ts-233b](/ts-233b/#12.3) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/12.webp)</span>
 
-<span class="series-number">430</span> The _color words_ are taught _like this_: “This is red,” for example. Our language-game, of course, only comes about when there is a certain agreement, but the concept of agreement does not enter into the language-game. If the agreement were complete, its concept could be completely unknown.
+<span class="series-number">430</span> The _colour words_ are taught _like this_: “This is red,” for example. Our language-game, of course, only comes about when there is a certain agreement, but the concept of agreement does not enter into the language-game. If the agreement were complete, its concept could be completely unknown.
 
 ### [Ts-233b](/ts-233b/#12.4) <span class="fac">[12\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/12.webp)</span>
 
-<span class="series-number">431</span> Does the _agreement_ of people determine what is red? Is this decided by appealing to the majority? Were we taught to determine the color _so_?
+<span class="series-number">431</span> Does the _agreement_ of people determine what is red? Is this decided by appealing to the majority? Were we taught to determine the colour _so_?
 
 ### [Ts-233b](/ts-233b/#12.5) <span class="fac">[12\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/12.webp)</span>
 
@@ -1822,7 +1822,7 @@ Different. – But it’s as if his word could not _mean the same thing_ as ours
 
 ### [Ts-233b](/ts-233b/#14.4+15.1.2) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span>
 
-<span class="series-number">440</span> How would one imagine a complete catalog of rules for the use of a word? – What does one understand by a complete catalog of rules for the use of a figure in a game of chess? Couldn't one always construct cases of doubt in which the normal catalog of rules does not decide? Consider a question of this sort: how is it possible to determine who made the last move if the reliability of the players' memories is doubted? The traffic regulations in the streets permit and prohibit certain actions of drivers and pedestrians; but they do not attempt to guide all their movements through regulations. And it would be senseless to speak of an ‘ideal’ traffic code that would do this; we would not even know what to imagine under this ideal. If someone wishes to make the traffic code stricter in certain respects, that does not mean that he wishes to bring it closer to such an ideal.
+<span class="series-number">440</span> How would one imagine a complete catalogue of rules for the use of a word? – What does one understand by a complete catalogue of rules for the use of a figure in a game of chess? Couldn't one always construct cases of doubt in which the normal catalogue of rules does not decide? Consider a question of this sort: how is it possible to determine who made the last move if the reliability of the players' memories is doubted? The traffic regulations in the streets permit and prohibit certain actions of drivers and pedestrians; but they do not attempt to guide all their movements through regulations. And it would be senseless to speak of an ‘ideal’ traffic code that would do this; we would not even know what to imagine under this ideal. If someone wishes to make the traffic code stricter in certain respects, that does not mean that he wishes to bring it closer to such an ideal.
 
 ### [Ts-233b](/ts-233b/#14.4+15.1.3) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/14.webp),[15\[1\].3](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/15.webp)</span>
 
@@ -1864,7 +1864,7 @@ Freud speaks of a ‘dynamic’ theory of dreams. The tendency to generalize fro
 
 <span class="series-number">449</span> _89_
 
-Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
+Extension of a concept in a _theory_ (e.g. ‘wish fulfilment’).
 
 ### [Ts-233b](/ts-233b/#18.4) <span class="fac">[18\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/18.webp)</span>
 
@@ -2000,7 +2000,7 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#23.2) <span class="fac">[23\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/23.webp)</span>
 
-<span class="series-number">482</span> It is as if pain has a body, as if it were a thing, a body with shape and color. Why? Does it have the shape of the painful part of the body? One would like to say, for example: “I could _describe_ the pain if I only had the necessary words and elementary meanings for it.” One feels that one is only missing the necessary nomenclature. (James) As if one could even paint the sensation if only the other person understood this mode of expression. – And one can indeed describe the pain spatially and temporally.
+<span class="series-number">482</span> It is as if pain has a body, as if it were a thing, a body with shape and colour. Why? Does it have the shape of the painful part of the body? One would like to say, for example: “I could _describe_ the pain if I only had the necessary words and elementary meanings for it.” One feels that one is only missing the necessary nomenclature. (James) As if one could even paint the sensation if only the other person understood this mode of expression. – And one can indeed describe the pain spatially and temporally.
 
 ### [Ts-233b](/ts-233b/#23.3) <span class="fac">[23\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/23.webp)</span>
 
@@ -2112,7 +2112,7 @@ Extension of a concept in a _theory_ (e.g. ‘wish fulfillment’).
 
 ### [Ts-233b](/ts-233b/#28.2) <span class="fac">[28\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span>
 
-<span class="series-number">510</span> But the thought here is: “You _feel_ the grief – so you must feel it _somewhere_; otherwise it would be a chimera.” But if you want to think that, recall the difference between seeing & pain. I feel the pain in my hand – & the color in my eye? Just as we want to use a scheme here instead of simply noting what is actually in common, we see everything in a falsely simplified way.
+<span class="series-number">510</span> But the thought here is: “You _feel_ the grief – so you must feel it _somewhere_; otherwise it would be a chimera.” But if you want to think that, recall the difference between seeing & pain. I feel the pain in my hand – & the colour in my eye? Just as we want to use a scheme here instead of simply noting what is actually in common, we see everything in a falsely simplified way.
 
 ### [Ts-233b](/ts-233b/#28.2.2) <span class="fac">[28\[2\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/28.webp)</span>
 
@@ -2244,11 +2244,11 @@ Does he know exactly how strong his pain is? (Isn’t this similar to saying tha
 
 ### [Ts-233b](/ts-233b/#33.6) <span class="fac">[33\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/33.webp)</span>
 
-<span class="series-number">541</span> But what does the word “primitive” mean here? Presumably, that the mode of behavior is _pre-linguistic_: that a language-game is based _on it_, that it is the prototype of a way of thinking and not the result of thinking.
+<span class="series-number">541</span> But what does the word “primitive” mean here? Presumably, that the mode of behaviour is _pre-linguistic_: that a language-game is based _on it_, that it is the prototype of a way of thinking and not the result of thinking.
 
 ### [Ts-233b](/ts-233b/#33.7) <span class="fac">[33\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/33.webp)</span>
 
-<span class="series-number">542</span> “Incorrectly applied” can be said of an explanation such as this: we used to treat the other person, because, by analogy to our own case, we believed that he, too, had an experience of pain. – Instead of saying: learn, therefore, from this particular chapter of human _behavior_ – from this use of language – a new aspect.
+<span class="series-number">542</span> “Incorrectly applied” can be said of an explanation such as this: we used to treat the other person, because, by analogy to our own case, we believed that he, too, had an experience of pain. – Instead of saying: learn, therefore, from this particular chapter of human _behaviour_ – from this use of language – a new aspect.
 
 ### [Ts-233b](/ts-233b/#33.8) <span class="fac">[33\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/33.webp)</span>
 
@@ -2540,7 +2540,7 @@ Could not the behaviour, the conduct, of trust exist quite generally among a gro
 
 ### [Ts-233b](/ts-233b/#46.3) <span class="fac">[46\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span>
 
-<span class="series-number">614</span> “How is it that I see the tree upright, even when I tilt my head to the side, and thus the retinal image is that of a tilted tree?” How is it, therefore, that I also refer to the tree as an upright one under these circumstances? – “Well, I am aware of the tilt of my head, and therefore apply the necessary correction to my perception of visual impressions.” – But does that not mean confusing the primary with the secondary? Imagine that we knew _absolutely_ _nothing_ about the inner workings of the eye – would this problem even _arise_? We are, in truth, not applying any corrections _here_; this is merely an explanation. True – but since the structure of the eye is known, – _how is it_ that we act, that we react in this way? But must there be a physiological explanation here? What if we simply let it be? – But that is not how you would speak if you were examining the behavior of a machine! – Well, who says that, in this sense, the living being, the animal body, is a machine? – The prejudice in favor of psycho-physical parallelism is a product of primitive conceptions of our concepts. For if one allows causality between psychological phenomena that are not physiologically mediated, then one is thereby admitting the existence of a soul _alongside_ the body.
+<span class="series-number">614</span> “How is it that I see the tree upright, even when I tilt my head to the side, and thus the retinal image is that of a tilted tree?” How is it, therefore, that I also refer to the tree as an upright one under these circumstances? – “Well, I am aware of the tilt of my head, and therefore apply the necessary correction to my perception of visual impressions.” – But does that not mean confusing the primary with the secondary? Imagine that we knew _absolutely_ _nothing_ about the inner workings of the eye – would this problem even _arise_? We are, in truth, not applying any corrections _here_; this is merely an explanation. True – but since the structure of the eye is known, – _how is it_ that we act, that we react in this way? But must there be a physiological explanation here? What if we simply let it be? – But that is not how you would speak if you were examining the behaviour of a machine! – Well, who says that, in this sense, the living being, the animal body, is a machine? – The prejudice in favour of psycho-physical parallelism is a product of primitive conceptions of our concepts. For if one allows causality between psychological phenomena that are not physiologically mediated, then one is thereby admitting the existence of a soul _alongside_ the body.
 
 ### [Ts-233b](/ts-233b/#46.4) <span class="fac">[46\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/46.webp)</span>
 
@@ -2580,7 +2580,7 @@ Could not the behaviour, the conduct, of trust exist quite generally among a gro
 
 ### [Ts-233b](/ts-233b/#48.4) <span class="fac">[48\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span>
 
-<span class="series-number">624</span> There might be people who never use the expression “to see something with the inner eye,” or a similar one; and these could still be capable of ‘drawing from imagination,’ or from memory, modeling, imitating other people, etc. They may also close their eyes before drawing something from memory, or stare blankly as if blind. And yet they could deny that they then _see_ in front of them what they will later draw. But how much weight should I give to this utterance? Is it possible to judge from _it_ whether he has a visual image? Not only _from that_. Think of the expression: “Now I see it in front of me – now not anymore.” “There is a real duration there.
+<span class="series-number">624</span> There might be people who never use the expression “to see something with the inner eye,” or a similar one; and these could still be capable of ‘drawing from imagination,’ or from memory, modelling, imitating other people, etc. They may also close their eyes before drawing something from memory, or stare blankly as if blind. And yet they could deny that they then _see_ in front of them what they will later draw. But how much weight should I give to this utterance? Is it possible to judge from _it_ whether he has a visual image? Not only _from that_. Think of the expression: “Now I see it in front of me – now not anymore.” “There is a real duration there.
 
 ### [Ts-233b](/ts-233b/#48.5) <span class="fac">[48\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/48.webp)</span>
 
@@ -2708,7 +2708,7 @@ The language-games with the two concepts are fundamentally different, but they a
 
 ### [Ts-233b](/ts-233b/#53.7+54.1) <span class="fac">[53\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/53.webp),[54\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/54.webp)</span>
 
-<span class="series-number">655</span> “A picture (mental image, memory-image) of longing.” One thinks one has done everything by simply talking about a ‘picture,’ because longing is precisely a content of consciousness, and its picture is something that is (very) similar to it, although less distinct than the original. And one could say of someone who plays out longing in the theater that he experiences, or has, a picture of longing: namely, not as an _explanation_ of his actions, but as a description of them.
+<span class="series-number">655</span> “A picture (mental image, memory-image) of longing.” One thinks one has done everything by simply talking about a ‘picture,’ because longing is precisely a content of consciousness, and its picture is something that is (very) similar to it, although less distinct than the original. And one could say of someone who plays out longing in the theatre that he experiences, or has, a picture of longing: namely, not as an _explanation_ of his actions, but as a description of them.
 
 ### [Ts-233b](/ts-233b/#54.2) <span class="fac">[54\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/54.webp)</span>
 
@@ -2796,7 +2796,7 @@ If someone asks me, “Do you know the ABCs?” and I now run through the ABCs i
 
 ### [Ts-233b](/ts-233b/#58.1) <span class="fac">[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/58.webp)</span>
 
-<span class="series-number">676</span> What role do false sentences play in a language-game? I believe there are various cases. 1.) One observes the traffic lights at an intersection & tells another what colors they are showing. He makes a mistake & says the wrong color. 2.) Meteorological observations are made, & predictions about the weather for the next day are made from them according to certain rules. The prediction is correct, or it is not. In the first case, one can say that he is playing the game incorrectly; in the second, not – as I believed at the time. One is here (_namely_) plagued by a question that is roughly as follows: Does verification still (also) belong to the language-game?
+<span class="series-number">676</span> What role do false sentences play in a language-game? I believe there are various cases. 1.) One observes the traffic lights at an intersection & tells another what colours they are showing. He makes a mistake & says the wrong colour. 2.) Meteorological observations are made, & predictions about the weather for the next day are made from them according to certain rules. The prediction is correct, or it is not. In the first case, one can say that he is playing the game incorrectly; in the second, not – as I believed at the time. One is here (_namely_) plagued by a question that is roughly as follows: Does verification still (also) belong to the language-game?
 
 ### [Ts-233b](/ts-233b/#58.2) <span class="fac">[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/58.webp)</span>
 
@@ -2938,7 +2938,7 @@ Someone observing them would find it difficult to guess what they are doing. And
 
 ### [Ts-233b](/ts-233b/#63.8+64.1) <span class="fac">[63\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp),[64\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span>
 
-<span class="series-number">710</span> One can regard the calculation as an ornament. A figure in the plane can fit with another, or it may not; it can be combined with others in various ways. If the figure is also colored, then there is also a fitting in relation to the color. (Color is just another dimension.)
+<span class="series-number">710</span> One can regard the calculation as an ornament. A figure in the plane can fit with another, or it may not; it can be combined with others in various ways. If the figure is also coloured, then there is also a fitting in relation to the colour. (Colour is just another dimension.)
 
 ### [Ts-233b](/ts-233b/#63.8+64.1.2) <span class="fac">[63\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/63.webp),[64\[1\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/64.webp)</span>
 
@@ -2962,7 +2962,7 @@ Someone observing them would find it difficult to guess what they are doing. And
 
 ### [Ts-233b](/ts-233b/#65.4) <span class="fac">[65\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/65.webp)</span>
 
-<span class="series-number">716</span> What about the two sentences: “This leaf is red” and “This leaf has the color that is called ‘red’ in German”? Do they say the _same_ thing? Doesn’t that depend on what the criterion is for a color being called ‘red’ in German?
+<span class="series-number">716</span> What about the two sentences: “This leaf is red” and “This leaf has the colour that is called ‘red’ in German”? Do they say the _same_ thing? Doesn’t that depend on what the criterion is for a colour being called ‘red’ in German?
 
 ### [Ts-233b](/ts-233b/#IIIr.3) <span class="fac">[IIIr\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-233b/pocket3.webp)</span>
 

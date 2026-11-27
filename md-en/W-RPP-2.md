@@ -166,7 +166,7 @@
 
 ### [Ts-232](/ts-232/#610.3) <span class="fac">[610\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp)</span>
 
-<span class="series-number">40</span> Seeing something sometimes as _this_, sometimes as _that_, could be merely a _game_. One speaks to the child in this way – for example: “Now it is…! now…!” – and it reacts; I mean, it laughs, makes various such exercises (as if one had drawn its attention to the fact that the vowels have colors). Another child neither perceives these colors, nor understands what is meant by that change.
+<span class="series-number">40</span> Seeing something sometimes as _this_, sometimes as _that_, could be merely a _game_. One speaks to the child in this way – for example: “Now it is…! now…!” – and it reacts; I mean, it laughs, makes various such exercises (as if one had drawn its attention to the fact that the vowels have colours). Another child neither perceives these colours, nor understands what is meant by that change.
 
 ### [Ts-232](/ts-232/#610.4) <span class="fac">[610\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/610.webp)</span>
 
@@ -274,7 +274,7 @@ pressure, temperature, taste, and pain sensations. (If sensations characterize t
 
 ### [Ts-232](/ts-232/#617.4) <span class="fac">[617\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)</span>
 
-<span class="series-number">66</span> There might be people who never use the expression “to see something before the inner eye,” or a similar one; and these people might nevertheless be capable of ‘drawing from imagination,’ or memory, of modeling, of imitating the characteristic behaviour of others, etc. They might also, before drawing something from memory, close their eyes, or stare blankly ahead as if blind. And yet they might deny that they then _see_ before them what they later draw.
+<span class="series-number">66</span> There might be people who never use the expression “to see something before the inner eye,” or a similar one; and these people might nevertheless be capable of ‘drawing from imagination,’ or memory, of modelling, of imitating the characteristic behaviour of others, etc. They might also, before drawing something from memory, close their eyes, or stare blankly ahead as if blind. And yet they might deny that they then _see_ before them what they later draw.
 
 ### [Ts-232](/ts-232/#617.5) <span class="fac">[617\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/617.webp)</span>
 
@@ -326,7 +326,7 @@ pressure, temperature, taste, and pain sensations. (If sensations characterize t
 
 ### [Ts-232](/ts-232/#620.2) <span class="fac">[620\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)</span>
 
-<span class="series-number">79</span> But wouldn’t it be conceivable that in a person ordinary seeing would be subject to the will? Would seeing then inform him about the external world? Would things have colors if we could see them as we want?
+<span class="series-number">79</span> But wouldn’t it be conceivable that in a person ordinary seeing would be subject to the will? Would seeing then inform him about the external world? Would things have colours if we could see them as we want?
 
 ### [Ts-232](/ts-232/#620.3) <span class="fac">[620\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/620.webp)</span>
 
@@ -426,7 +426,7 @@ pressure, temperature, taste, and pain sensations. (If sensations characterize t
 
 ### [Ts-232](/ts-232/#626.6+627.1) <span class="fac">[626\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/626.webp),[627\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp)</span>
 
-<span class="series-number">104</span> From “not p & and q” it follows that it is _not_ the case that “If p, then q”. It cannot be inferred from “_not_ p & q”. The sense of “If p, then q” is *fund*amentally different from that of the sentence “p implies q”. Although a _connection_ exists. This is: “p & q”, which makes the implications true, also does so for the sentence “... therefore ...”, or at least argues in favor of its truth. “p & not q” contradicts the implication and also the if-then sentence, or is not conducive to its truth. “not p & q” and “not p & not q” confirm the implication and say nothing about the truth of “If ..., then ...”.
+<span class="series-number">104</span> From “not p & and q” it follows that it is _not_ the case that “If p, then q”. It cannot be inferred from “_not_ p & q”. The sense of “If p, then q” is *fund*amentally different from that of the sentence “p implies q”. Although a _connection_ exists. This is: “p & q”, which makes the implications true, also does so for the sentence “... therefore ...”, or at least argues in favour of its truth. “p & not q” contradicts the implication and also the if-then sentence, or is not conducive to its truth. “not p & q” and “not p & not q” confirm the implication and say nothing about the truth of “If ..., then ...”.
 
 ### [Ts-232](/ts-232/#627.2) <span class="fac">[627\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/627.webp)</span>
 
@@ -622,7 +622,7 @@ pressure, temperature, taste, and pain sensations. (If sensations characterize t
 
 ### [Ts-232](/ts-232/#640.6+641.1) <span class="fac">[640\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/640.webp),[641\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/641.webp)</span>
 
-<span class="series-number">153</span> I would like to say: emotional movements can _color_ thoughts; pain does not. And that is why one speaks of sad thoughts, but not in an analogous way of toothache-ridden thoughts. It is as if one could say: fear, or even hope, can almost consist of thoughts, but not pain. Now, pain primarily has the characteristics of sensation and not of fear. Fear is connected with apprehensions, and apprehensions are thoughts.
+<span class="series-number">153</span> I would like to say: emotional movements can _colour_ thoughts; pain does not. And that is why one speaks of sad thoughts, but not in an analogous way of toothache-ridden thoughts. It is as if one could say: fear, or even hope, can almost consist of thoughts, but not pain. Now, pain primarily has the characteristics of sensation and not of fear. Fear is connected with apprehensions, and apprehensions are thoughts.
 
 ### [Ts-232](/ts-232/#641.2) <span class="fac">[641\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/641.webp)</span>
 
@@ -802,15 +802,15 @@ One does not say that the table and chair think, nor the plant, nor the fish, ha
 
 ### [Ts-232](/ts-232/#654.2) <span class="fac">[654\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp)</span>
 
-<span class="series-number">197</span> We say: grass is green, chalk is white, coal is black, blood is red, etc. – What would it be like in a world in which the other properties of a thing are not related to its color? This is an important question, whether it is stated correctly or incorrectly, and it is only one example of countless similar questions.
+<span class="series-number">197</span> We say: grass is green, chalk is white, coal is black, blood is red, etc. – What would it be like in a world in which the other properties of a thing are not related to its colour? This is an important question, whether it is stated correctly or incorrectly, and it is only one example of countless similar questions.
 
 ### [Ts-232](/ts-232/#654.3) <span class="fac">[654\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp)</span>
 
-<span class="series-number">198</span> Imagine I come to a country where the colors of things, as I would say, constantly change, perhaps due to a peculiarity of the atmosphere. The inhabitants never see stable colors. Their grass looks green, then red, etc. Could these people teach the color words to their children? – First of all, it could be that their language _lacks_ the color words. And if we were to find this, we might explain it by saying that they have little, or no, use in certain language-games.
+<span class="series-number">198</span> Imagine I come to a country where the colours of things, as I would say, constantly change, perhaps due to a peculiarity of the atmosphere. The inhabitants never see stable colours. Their grass looks green, then red, etc. Could these people teach the colour words to their children? – First of all, it could be that their language _lacks_ the colour words. And if we were to find this, we might explain it by saying that they have little, or no, use in certain language-games.
 
 ### [Ts-232](/ts-232/#654.4+655.1) <span class="fac">[654\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/654.webp),[655\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)</span>
 
-<span class="series-number">199</span> How could people in a country where everything has only _one_ color learn the use of color words? Can I now say: “Only because things of different colors exist in our environment and because …, can we use color names”? The difference between logical and physical possibility is not seen here. – It is not what interests us: under what circumstances the language-game with color names is physically impossible – that is, actually, not probable. One cannot play chess without chess pieces – this is the impossibility that interests us.
+<span class="series-number">199</span> How could people in a country where everything has only _one_ colour learn the use of colour words? Can I now say: “Only because things of different colours exist in our environment and because …, can we use colour names”? The difference between logical and physical possibility is not seen here. – It is not what interests us: under what circumstances the language-game with colour names is physically impossible – that is, actually, not probable. One cannot play chess without chess pieces – this is the impossibility that interests us.
 
 ### [Ts-232](/ts-232/#655.2) <span class="fac">[655\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/655.webp)</span>
 
@@ -890,7 +890,7 @@ One does not say that the table and chair think, nor the plant, nor the fish, ha
 
 ### [Ts-232](/ts-232/#660.2) <span class="fac">[660\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)</span>
 
-<span class="series-number">219</span> It is very curious that one has no difficulty in seeing a face in a figure like this <span class="gap"></span>, although the dissimilarity of one angle to a nose, of the other to a forehead, etc., is incredibly great, or there is hardly any similarity. As I said, one has no difficulty in seeing a human face in these lines; one would say: “Such a face _exists_”. Or also: “It is true that this is a caricature of a human face, but it is still one that is possible in reality.” – Just as one has no difficulty in seeing the human face in the gray and white of a photograph. – – And what does that mean? Well, we _watch_ a film, for example, and follow all the events with interest, as if we had real people in front of us.
+<span class="series-number">219</span> It is very curious that one has no difficulty in seeing a face in a figure like this <span class="gap"></span>, although the dissimilarity of one angle to a nose, of the other to a forehead, etc., is incredibly great, or there is hardly any similarity. As I said, one has no difficulty in seeing a human face in these lines; one would say: “Such a face _exists_”. Or also: “It is true that this is a caricature of a human face, but it is still one that is possible in reality.” – Just as one has no difficulty in seeing the human face in the grey and white of a photograph. – – And what does that mean? Well, we _watch_ a film, for example, and follow all the events with interest, as if we had real people in front of us.
 
 ### [Ts-232](/ts-232/#660.3) <span class="fac">[660\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/660.webp)</span>
 
@@ -910,7 +910,7 @@ One does not say that the table and chair think, nor the plant, nor the fish, ha
 
 ### [Ts-232](/ts-232/#661.3+662.1) <span class="fac">[661\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/661.webp),[662\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp)</span>
 
-<span class="series-number">224</span> Now imagine a person, or one of Köhler’s apes, who wants to get a banana from the ceiling, cannot reach it, thinks of ways and means, finally puts two sticks together, etc. Suppose one asks, “What must be going on in him?” – The question seems to have some sense. And perhaps one could answer that, if the ape did not act out of chance or instinct, he must have had the process before his mind’s eye. But that would not be enough, and on the other hand, it would be too much. I want the ape to be _considering_ something. First, he reaches for the banana in vain and then gives up and is perhaps dejected – but this phase may be absent. How can he now _internally_ come to pick up a stick at all? He could be shown a picture that depicts something like this, and he could then act accordingly; or such a picture could simply float before him. But that would be chance again. He would not have obtained this image through thinking. And does it help us if we say that he only needs to have seen his arm and the stick in some way as a unit? But let us assume a favorable chance! The question is then: how can he _learn_ from chance? Perhaps he had the stick in his hand by chance and accidentally touched the banana with it. – And what must now happen in him? He says to himself, as it were, “That’s how it’s done!” and now does it with the consciousness. If he has playfully combined something and now uses it as a method to do this and that, then we will say that he is thinking. – In _considering_, he would let the means and ways pass before his mind’s eye. But for this, he must already have some in stock. Thinking gives him the possibility of _perfecting_ his methods. Or rather: He ‘thinks’ when he perfects his methods in a certain way.
+<span class="series-number">224</span> Now imagine a person, or one of Köhler’s apes, who wants to get a banana from the ceiling, cannot reach it, thinks of ways and means, finally puts two sticks together, etc. Suppose one asks, “What must be going on in him?” – The question seems to have some sense. And perhaps one could answer that, if the ape did not act out of chance or instinct, he must have had the process before his mind’s eye. But that would not be enough, and on the other hand, it would be too much. I want the ape to be _considering_ something. First, he reaches for the banana in vain and then gives up and is perhaps dejected – but this phase may be absent. How can he now _internally_ come to pick up a stick at all? He could be shown a picture that depicts something like this, and he could then act accordingly; or such a picture could simply float before him. But that would be chance again. He would not have obtained this image through thinking. And does it help us if we say that he only needs to have seen his arm and the stick in some way as a unit? But let us assume a favourable chance! The question is then: how can he _learn_ from chance? Perhaps he had the stick in his hand by chance and accidentally touched the banana with it. – And what must now happen in him? He says to himself, as it were, “That’s how it’s done!” and now does it with the consciousness. If he has playfully combined something and now uses it as a method to do this and that, then we will say that he is thinking. – In _considering_, he would let the means and ways pass before his mind’s eye. But for this, he must already have some in stock. Thinking gives him the possibility of _perfecting_ his methods. Or rather: He ‘thinks’ when he perfects his methods in a certain way.
 
 ### [Ts-232](/ts-232/#662.2) <span class="fac">[662\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/662.webp)</span>
 
@@ -1190,19 +1190,19 @@ Writing is certainly an arbitrary movement, and yet it is automatic. And of cour
 
 ### [Ts-232](/ts-232/#680.3) <span class="fac">[680\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp)</span>
 
-<span class="series-number">293</span> On the one hand, one can say that black and white can coexist in gray; and on the other hand, one will say: “But where there is gray, there is of course also white, or black. What is gray is, of course, not really white.
+<span class="series-number">293</span> On the one hand, one can say that black and white can coexist in grey; and on the other hand, one will say: “But where there is grey, there is of course also white, or black. What is grey is, of course, not really white.
 
 ### [Ts-232](/ts-232/#680.4) <span class="fac">[680\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp)</span>
 
-<span class="series-number">294</span> But what about “light red” and “dark red”? Would one also want to say that these are somewhere present at the same time? Or purple and violet – well, imagine the case of light blue and dark blue, and that quite specific shades constantly surround us, and we cannot (as is actually the case) easily produce arbitrary color tones. But it would perhaps be possible to mix the light blue substance with the dark blue one, and then we would obtain a rare color tone, which we now perceive as a mixture of light blue and dark blue.
+<span class="series-number">294</span> But what about “light red” and “dark red”? Would one also want to say that these are somewhere present at the same time? Or purple and violet – well, imagine the case of light blue and dark blue, and that quite specific shades constantly surround us, and we cannot (as is actually the case) easily produce arbitrary colour tones. But it would perhaps be possible to mix the light blue substance with the dark blue one, and then we would obtain a rare colour tone, which we now perceive as a mixture of light blue and dark blue.
 
 ### [Ts-232](/ts-232/#680.5+681.1) <span class="fac">[680\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/680.webp),[681\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp)</span>
 
-<span class="series-number">295</span> “But would our color concepts then be the same as they are today?” They would be very similar. Approximately like the number concepts of peoples who can only count up to 5, compared to ours.
+<span class="series-number">295</span> “But would our colour concepts then be the same as they are today?” They would be very similar. Approximately like the number concepts of peoples who can only count up to 5, compared to ours.
 
 ### [Ts-232](/ts-232/#681.2) <span class="fac">[681\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp)</span>
 
-<span class="series-number">296</span> One can say: Whoever has a word explained by pointing to a colored patch only knows, in a way, _what_ is meant, as he knows _how_ to apply the word. That is to say: There is no grasping, apprehending of the object, except through a grasping of a technique. On the other hand, one could also say that a grasping, seizing of the object _before_ any grasping of a technique is possible, because we can simply give someone the command “Copy _this!_” and he can now, for example, copy the color, or the shape and size, or only the shape, or the color, but not the exact tone, etc. And here, the copying does what, in the case of a body, taking it in the hand does. – It seems to us that we can grasp, with a fine, mental pair of tongs, what is meant, the color, for example, without taking anything else with us.
+<span class="series-number">296</span> One can say: Whoever has a word explained by pointing to a coloured patch only knows, in a way, _what_ is meant, as he knows _how_ to apply the word. That is to say: There is no grasping, apprehending of the object, except through a grasping of a technique. On the other hand, one could also say that a grasping, seizing of the object _before_ any grasping of a technique is possible, because we can simply give someone the command “Copy _this!_” and he can now, for example, copy the colour, or the shape and size, or only the shape, or the colour, but not the exact tone, etc. And here, the copying does what, in the case of a body, taking it in the hand does. – It seems to us that we can grasp, with a fine, mental pair of tongs, what is meant, the colour, for example, without taking anything else with us.
 
 ### [Ts-232](/ts-232/#681.3) <span class="fac">[681\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp)</span>
 
@@ -1210,7 +1210,7 @@ Writing is certainly an arbitrary movement, and yet it is automatic. And of cour
 
 ### [Ts-232](/ts-232/#681.4+682.1) <span class="fac">[681\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/681.webp),[682\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/682.webp)</span>
 
-<span class="series-number">298</span> But how do I know that your mind seizes the same object as mine? Well, for example, through the way you react to my command, “copy the color.” But here, you will say, we can now recognize the essential thing about this reaction by having him copy colors more often. That is to say, I will probably be able to see other such reactions after a few of these; and I explain this by saying: I now know “_what_” he is actually copying. That is, the color, or the shape, for example – but there are more such _what_s here than we are usually inclined to assume; that is, one can also form concepts that are completely unfamiliar to us. It may also be that, although I can correctly predict other reactions after a few copying trials and can now use them in my calculations – that is, say that we have now understood each other – I experience a surprise in a slightly different situation. – – – And what should I say now: I have misunderstood him all along? or, I have only partially misunderstood him. If you think of grasping an object, you will perhaps say the former, according to the image that he simply did _not_ grasp the object that I thought he did. But if we think of methods of using words, we will say that there are unequal but similar methods here.
+<span class="series-number">298</span> But how do I know that your mind seizes the same object as mine? Well, for example, through the way you react to my command, “copy the colour.” But here, you will say, we can now recognize the essential thing about this reaction by having him copy colours more often. That is to say, I will probably be able to see other such reactions after a few of these; and I explain this by saying: I now know “_what_” he is actually copying. That is, the colour, or the shape, for example – but there are more such _what_s here than we are usually inclined to assume; that is, one can also form concepts that are completely unfamiliar to us. It may also be that, although I can correctly predict other reactions after a few copying trials and can now use them in my calculations – that is, say that we have now understood each other – I experience a surprise in a slightly different situation. – – – And what should I say now: I have misunderstood him all along? or, I have only partially misunderstood him. If you think of grasping an object, you will perhaps say the former, according to the image that he simply did _not_ grasp the object that I thought he did. But if we think of methods of using words, we will say that there are unequal but similar methods here.
 
 ### [Ts-232](/ts-232/#682.2) <span class="fac">[682\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/682.webp)</span>
 
@@ -1242,7 +1242,7 @@ Writing is certainly an arbitrary movement, and yet it is automatic. And of cour
 
 ### [Ts-232](/ts-232/#684.2) <span class="fac">[684\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/684.webp)</span>
 
-<span class="series-number">306</span> Whoever regrets something, they think about it. Is regret then a kind of thought? Or a coloring of thoughts? There are regretful thoughts, just as there are, for example, fearful ones. But if I say “I regret it,” do I say, “I have regretful thoughts”? No, because someone who is not regretting it right now could also say that. But could I not say instead of “I regret it”: “I think about it with regret”?
+<span class="series-number">306</span> Whoever regrets something, they think about it. Is regret then a kind of thought? Or a colouring of thoughts? There are regretful thoughts, just as there are, for example, fearful ones. But if I say “I regret it,” do I say, “I have regretful thoughts”? No, because someone who is not regretting it right now could also say that. But could I not say instead of “I regret it”: “I think about it with regret”?
 
 ### [Ts-232](/ts-232/#684.3+685.1) <span class="fac">[684\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/684.webp),[685\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp)</span>
 
@@ -1266,7 +1266,7 @@ Writing is certainly an arbitrary movement, and yet it is automatic. And of cour
 
 ### [Ts-232](/ts-232/#685.6+686.1) <span class="fac">[685\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/685.webp),[686\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)</span>
 
-<span class="series-number">312</span> If he first learns the color names, what is he taught? Well, he learns, for example, to say “red” when he sees something red. Is this a correct description, or should it have said: “He learns to call ‘red’ what _we_ also call ‘red’”? Both descriptions are correct. How does this differ from the language-game “How does it strike you?”? One could teach him the color words by having him look at white objects through colored glasses. What I teach him, however, must be a _skill_. He _can_ now bring something red on command; or arrange objects according to their colors. But what is something red? “Now _that_ (pointing)”. Or should he have said: “_That_; because most of us call it ‘red’”? Or simply: “Most of us call _that_ ‘red’”? This means of providing information is of no use to us. The difficulty that we feel here with “red” then arises again with “equal.”
+<span class="series-number">312</span> If he first learns the colour names, what is he taught? Well, he learns, for example, to say “red” when he sees something red. Is this a correct description, or should it have said: “He learns to call ‘red’ what _we_ also call ‘red’”? Both descriptions are correct. How does this differ from the language-game “How does it strike you?”? One could teach him the colour words by having him look at white objects through coloured glasses. What I teach him, however, must be a _skill_. He _can_ now bring something red on command; or arrange objects according to their colours. But what is something red? “Now _that_ (pointing)”. Or should he have said: “_That_; because most of us call it ‘red’”? Or simply: “Most of us call _that_ ‘red’”? This means of providing information is of no use to us. The difficulty that we feel here with “red” then arises again with “equal.”
 
 ### [Ts-232](/ts-232/#686.2) <span class="fac">[686\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/686.webp)</span>
 
@@ -1558,7 +1558,7 @@ Writing is certainly an arbitrary movement, and yet it is automatic. And of cour
 
 ### [Ts-232](/ts-232/#703.3) <span class="fac">[703\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)</span>
 
-<span class="series-number">385</span> One can describe a painting by describing _events_; in fact, that is almost always how one would describe it. “He stands lost in pain, she wrings her hands, …” Yes, whoever could not describe it that way, even if he could describe it with pinpoint accuracy as a distribution of color patches on the surface, would not understand it. ((Picture of the man walking up the mountain.))
+<span class="series-number">385</span> One can describe a painting by describing _events_; in fact, that is almost always how one would describe it. “He stands lost in pain, she wrings her hands, …” Yes, whoever could not describe it that way, even if he could describe it with pinpoint accuracy as a distribution of colour patches on the surface, would not understand it. ((Picture of the man walking up the mountain.))
 
 ### [Ts-232](/ts-232/#703.4) <span class="fac">[703\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/703.webp)</span>
 
@@ -1594,7 +1594,7 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#705.3) <span class="fac">[705\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/705.webp)</span>
 
-<span class="series-number">393</span> If people did not generally agree about the colors of things, if discrepancies were not exceptions, then we could not have the concept of color. “No; _there would be_ no concept of color. Does this mean that what is conceivable as a rule does not have to be an exception?
+<span class="series-number">393</span> If people did not generally agree about the colours of things, if discrepancies were not exceptions, then we could not have the concept of colour. “No; _there would be_ no concept of colour. Does this mean that what is conceivable as a rule does not have to be an exception?
 
 ### [Ts-232](/ts-232/#705.4+706.1) <span class="fac">[705\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/705.webp),[706\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp)</span>
 
@@ -1614,7 +1614,7 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#706.5+707.1) <span class="fac">[706\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/706.webp),[707\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/707.webp)</span>
 
-<span class="series-number">398</span> I once said that there could be a concept that, to the left of a certain important line, corresponds to our ‘red,’ and to the right of it, to our ‘green.’ And it seems to me that I could think myself into this world of concepts; as if I might be inclined to call red on one side the same as green on the other. (And especially with a rather dark red and a rather dark green.) As if I were not averse to calling green merely an aspect of red; as if what I call “color” continues unchanged, and only the ‘shade’ changes. There is therefore a tendency here to use an expression that, under certain circumstances, uses the same adjective for green and for red, with a determinant such as “shaded” “unshaded.” “But do you really want to say that there are not two different colors here?” I want to say: I see enough similarity in the expression I have described with this and that one that we actually use, that I could very well accept the unusual one under certain circumstances. – But wouldn’t people see the similarity or sameness that we see: namely, between green on the left and (according to our expression) green on the right? – What if they said that these are ‘externally the same’? I imagine the situation to be similar to that in the drawing <span class="gap"></span>, where I can call the angles equal to each other, although externally unequal; the angles … unequal, but externally equal.
+<span class="series-number">398</span> I once said that there could be a concept that, to the left of a certain important line, corresponds to our ‘red,’ and to the right of it, to our ‘green.’ And it seems to me that I could think myself into this world of concepts; as if I might be inclined to call red on one side the same as green on the other. (And especially with a rather dark red and a rather dark green.) As if I were not averse to calling green merely an aspect of red; as if what I call “colour” continues unchanged, and only the ‘shade’ changes. There is therefore a tendency here to use an expression that, under certain circumstances, uses the same adjective for green and for red, with a determinant such as “shaded” “unshaded.” “But do you really want to say that there are not two different colours here?” I want to say: I see enough similarity in the expression I have described with this and that one that we actually use, that I could very well accept the unusual one under certain circumstances. – But wouldn’t people see the similarity or sameness that we see: namely, between green on the left and (according to our expression) green on the right? – What if they said that these are ‘externally the same’? I imagine the situation to be similar to that in the drawing <span class="gap"></span>, where I can call the angles equal to each other, although externally unequal; the angles … unequal, but externally equal.
 
 ### [Ts-232](/ts-232/#707.2) <span class="fac">[707\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/707.webp)</span>
 
@@ -1706,11 +1706,11 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#712.4) <span class="fac">[712\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)</span>
 
-<span class="series-number">421</span> “There is no bluish yellow.” Similar to the sentence “There is no regular two-sided figure”; one could call it an assertion of color geometry, i.e., a concept-defining sentence.
+<span class="series-number">421</span> “There is no bluish yellow.” Similar to the sentence “There is no regular two-sided figure”; one could call it an assertion of colour geometry, i.e., a concept-defining sentence.
 
 ### [Ts-232](/ts-232/#712.5) <span class="fac">[712\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)</span>
 
-<span class="series-number">422</span> If I had taught someone to use the six primary color names and the syllable “lich,” then I could give him commands such as “Paint here a greenish white!” – But once I say to him, “Paint a reddish green!” I observe his reaction. Perhaps he will mix green and red and be dissatisfied with the result; perhaps he will finally say: “There is no reddish green.” – Analogously, I could have brought him to say, “There is no regular two-sided figure!” or “There is no square root of ‒25.”
+<span class="series-number">422</span> If I had taught someone to use the six primary colour names and the syllable “lich,” then I could give him commands such as “Paint here a greenish white!” – But once I say to him, “Paint a reddish green!” I observe his reaction. Perhaps he will mix green and red and be dissatisfied with the result; perhaps he will finally say: “There is no reddish green.” – Analogously, I could have brought him to say, “There is no regular two-sided figure!” or “There is no square root of ‒25.”
 
 ### [Ts-232](/ts-232/#712.6) <span class="fac">[712\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/712.webp)</span>
 
@@ -1726,7 +1726,7 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#713.3) <span class="fac">[713\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp)</span>
 
-<span class="series-number">426</span> We have a system of colors, just like a system of numbers. Do these systems lie in _our_ nature, or in the nature of things? How should one put it? _Not_ in the nature of numbers or colors.
+<span class="series-number">426</span> We have a system of colours, just like a system of numbers. Do these systems lie in _our_ nature, or in the nature of things? How should one put it? _Not_ in the nature of numbers or colours.
 
 ### [Ts-232](/ts-232/#713.4) <span class="fac">[713\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp)</span>
 
@@ -1734,7 +1734,7 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#713.5+714.1) <span class="fac">[713\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/713.webp),[714\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)</span>
 
-<span class="series-number">428</span> It is evident from the first picture that one wants to recognize only intermediate colors between red and green. (And whether people have always seen it this way, or only after experience and education, is irrelevant here.) What would we think of people who know of a ‘reddish-green’ (perhaps call olive green that)? And what does _that_ mean: “They then have a different concept of color”? As if we want to say: “It would simply be _this_, but a different one” – by pointing to our own. As if there were an _object_ to which the concept unambiguously belongs.
+<span class="series-number">428</span> It is evident from the first picture that one wants to recognize only intermediate colours between red and green. (And whether people have always seen it this way, or only after experience and education, is irrelevant here.) What would we think of people who know of a ‘reddish-green’ (perhaps call olive green that)? And what does _that_ mean: “They then have a different concept of colour”? As if we want to say: “It would simply be _this_, but a different one” – by pointing to our own. As if there were an _object_ to which the concept unambiguously belongs.
 
 ### [Ts-232](/ts-232/#714.2) <span class="fac">[714\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp)</span>
 
@@ -1754,7 +1754,7 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#714.6+715.1) <span class="fac">[714\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/714.webp),[715\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)</span>
 
-<span class="series-number">433</span> It is a fact of the highest importance that a color that we are inclined to call (for example) “reddish-yellow” can actually be produced by mixing red and yellow (in various ways). And that we are not able to recognize a color that was created by mixing red and green as one that can be produced in this way, without further thought. (But what does “without further thought” mean here?) There could be people who can recognize a regular 97-sided figure at a glance without counting.
+<span class="series-number">433</span> It is a fact of the highest importance that a colour that we are inclined to call (for example) “reddish-yellow” can actually be produced by mixing red and yellow (in various ways). And that we are not able to recognize a colour that was created by mixing red and green as one that can be produced in this way, without further thought. (But what does “without further thought” mean here?) There could be people who can recognize a regular 97-sided figure at a glance without counting.
 
 ### [Ts-232](/ts-232/#715.2) <span class="fac">[715\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)</span>
 
@@ -1770,7 +1770,7 @@ it is a seeing only insofar as …
 
 ### [Ts-232](/ts-232/#715.5) <span class="fac">[715\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/715.webp)</span>
 
-<span class="series-number">437</span> That seems absurd. As if one wanted to say “If I only ever heat with coal, and not with something else, then I am not heating with coal.” But can one not say: “If there were only _one_ substance, then one would have no use for the word ‘substance’”? But that means: The concept ‘substance’ presupposes the concept ‘difference of substance’. (As does the concept of the chess king presuppose the concept of the chess move, or as does the concept of _color_ presuppose the concept of _colors_.)
+<span class="series-number">437</span> That seems absurd. As if one wanted to say “If I only ever heat with coal, and not with something else, then I am not heating with coal.” But can one not say: “If there were only _one_ substance, then one would have no use for the word ‘substance’”? But that means: The concept ‘substance’ presupposes the concept ‘difference of substance’. (As does the concept of the chess king presuppose the concept of the chess move, or as does the concept of _colour_ presuppose the concept of _colours_.)
 
 ### [Ts-232](/ts-232/#716.1) <span class="fac">[716\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/716.webp)</span>
 
@@ -1798,7 +1798,7 @@ d) that I am now seeing the drawing in this aspect. Each of these communications
 
 ### [Ts-232](/ts-232/#717.1) <span class="fac">[717\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)</span>
 
-<span class="series-number">442</span> An _aspect_ can appear to me in that someone draws my attention to it, thus making me _aware_ of it. How greatly does this ‘seeing’ differ from the perception of colors and forms.
+<span class="series-number">442</span> An _aspect_ can appear to me in that someone draws my attention to it, thus making me _aware_ of it. How greatly does this ‘seeing’ differ from the perception of colours and forms.
 
 ### [Ts-232](/ts-232/#717.2) <span class="fac">[717\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/717.webp)</span>
 
@@ -1944,7 +1944,7 @@ _We_ say “First, something was there like an image”.
 
 ### [Ts-232](/ts-232/#723a.6+724.1) <span class="fac">[723a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/723a.webp),[724\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp)</span>
 
-<span class="series-number">478</span> ((Instead of No. 835, p. 299.)) The question suggests itself: could we imagine people who never saw anything _as_ anything? Would something essential be lacking in them; similar to being colorblind or lacking perfect pitch? Let us call such people “shape-blind” or “aspect-blind”.
+<span class="series-number">478</span> ((Instead of No. 835, p. 299.)) The question suggests itself: could we imagine people who never saw anything _as_ anything? Would something essential be lacking in them; similar to being colourblind or lacking perfect pitch? Let us call such people “shape-blind” or “aspect-blind”.
 
 ### [Ts-232](/ts-232/#724.2) <span class="fac">[724\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/724.webp)</span>
 
@@ -1998,7 +1998,7 @@ It is clear that for the student who has only just become acquainted with the co
 
 ### [Ts-232](/ts-232/#727.1) <span class="fac">[727\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)</span>
 
-<span class="series-number">491</span> But what a remarkable method! – I form a concept and ask myself how it could be consistently carried out. What “its consistent implementation” would mean for us. We certainly see a painting spatially; it would not be easy for us to describe it as an aggregate of flat color surfaces, but what we see in a stereoscope looks completely different spatially. – For someone who looks at a photograph of people, houses, trees, etc., it does not seem to give off any spatiality! ((Referring to the remark about seeing spatially with both eyes.))
+<span class="series-number">491</span> But what a remarkable method! – I form a concept and ask myself how it could be consistently carried out. What “its consistent implementation” would mean for us. We certainly see a painting spatially; it would not be easy for us to describe it as an aggregate of flat colour surfaces, but what we see in a stereoscope looks completely different spatially. – For someone who looks at a photograph of people, houses, trees, etc., it does not seem to give off any spatiality! ((Referring to the remark about seeing spatially with both eyes.))
 
 ### [Ts-232](/ts-232/#727.2) <span class="fac">[727\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/727.webp)</span>
 
@@ -2070,7 +2070,7 @@ It is clear that for the student who has only just become acquainted with the co
 
 ### [Ts-232](/ts-232/#731.4+732.1) <span class="fac">[731\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/731.webp),[732\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)</span>
 
-<span class="series-number">509</span> Consider that for an aspect, there is often a ‘fitting’ word. If, for example, one is asked to look at the double cross and report which of the _two_ aspects (black cross or white cross) one sees, it may not matter to us whether he says that sometimes he sees something like a white windmill with four wings, and at other times a standing black cross, or whether he sees the white cross as four points of a piece of paper folded towards the center. The cross that is ‘now’ seen can also be seen as a cross-shaped _opening_. But we should not care about _these_ differences; and one could therefore make a distinction between ‘purely optical’ and ‘conceptual’ aspects. ((Similarly, in telling a dream, it may or may not matter which particular words are used to describe the dream situations.))
+<span class="series-number">509</span> Consider that for an aspect, there is often a ‘fitting’ word. If, for example, one is asked to look at the double cross and report which of the _two_ aspects (black cross or white cross) one sees, it may not matter to us whether he says that sometimes he sees something like a white windmill with four wings, and at other times a standing black cross, or whether he sees the white cross as four points of a piece of paper folded towards the centre. The cross that is ‘now’ seen can also be seen as a cross-shaped _opening_. But we should not care about _these_ differences; and one could therefore make a distinction between ‘purely optical’ and ‘conceptual’ aspects. ((Similarly, in telling a dream, it may or may not matter which particular words are used to describe the dream situations.))
 
 ### [Ts-232](/ts-232/#732.2) <span class="fac">[732\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/732.webp)</span>
 
@@ -2182,7 +2182,7 @@ It is clear that for the student who has only just become acquainted with the co
 
 ### [Ts-232](/ts-232/#736.2) <span class="fac">[736\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)</span>
 
-<span class="series-number">537</span> I want to say: this game is _related_ to the game of seeing the aspects of F, for example. That one can, as it were, play theater with things is for us a prerequisite for the fact that when one says, “Now I see it as…”, one means what we mean.
+<span class="series-number">537</span> I want to say: this game is _related_ to the game of seeing the aspects of F, for example. That one can, as it were, play theatre with things is for us a prerequisite for the fact that when one says, “Now I see it as…”, one means what we mean.
 
 ### [Ts-232](/ts-232/#736.3) <span class="fac">[736\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/736.webp)</span>
 
@@ -2228,7 +2228,7 @@ It is clear that for the student who has only just become acquainted with the co
 
 <span class="series-number">548</span> Let us imagine that someone asked: “Do we all see an F in the same way?” What could this mean? – We could try this: we show different people F and ask the question “which way is the F looking, to the right, or to the left”? Or: “If you compare an F with a face in profile, which way is the face looking?”
 
-But some might not understand this question. Just as some might not understand the question “What color is the vowel _a_ for you?” – If he did not understand it, if he explained that it is nonsense, could we say that he does not understand German, or not the meanings of the words “color,” “vowel,” etc.? On the contrary: if he has learned to understand these words, then he can also respond to these questions ‘with understanding’ or ‘without understanding’.
+But some might not understand this question. Just as some might not understand the question “What colour is the vowel _a_ for you?” – If he did not understand it, if he explained that it is nonsense, could we say that he does not understand German, or not the meanings of the words “colour,” “vowel,” etc.? On the contrary: if he has learned to understand these words, then he can also respond to these questions ‘with understanding’ or ‘without understanding’.
 
 ### [Ts-232](/ts-232/#738.2) <span class="fac">[738\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/738.webp)</span>
 
@@ -2668,7 +2668,7 @@ But some might not understand this question. Just as some might not understand t
 
 ### [Ts-232](/ts-232/#760.5+761.1) <span class="fac">[760\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/760.webp),[761\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)</span>
 
-<span class="series-number">658</span> Colors could play a different role in another world than in ours. Think of different cases. 1) Certain colors are linked to certain shapes. Circular red, square green, etc. 2) Dyes cannot be produced. One cannot color things. 3) _One_ color is always linked to an unpleasant smell or to toxicity. 4) Color blindness is much more common than with us. 5) Different shades of gray are often all that other colors are rarely. 6) We can reproduce a large number of color tones from memory. If our number system is related to the number of our fingers, why not our system of colors with the particular way that colors appear. 7) A color always appears only in gradual transition into another. 8) Colors always appear in the color progression of the rainbow.
+<span class="series-number">658</span> Colours could play a different role in another world than in ours. Think of different cases. 1) Certain colours are linked to certain shapes. Circular red, square green, etc. 2) Dyes cannot be produced. One cannot colour things. 3) _One_ colour is always linked to an unpleasant smell or to toxicity. 4) Colour blindness is much more common than with us. 5) Different shades of grey are often all that other colours are rarely. 6) We can reproduce a large number of colour tones from memory. If our number system is related to the number of our fingers, why not our system of colours with the particular way that colours appear. 7) A colour always appears only in gradual transition into another. 8) Colours always appear in the colour progression of the rainbow.
 
 ### [Ts-232](/ts-232/#761.2) <span class="fac">[761\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/761.webp)</span>
 
@@ -2944,7 +2944,7 @@ But some might not understand this question. Just as some might not understand t
 
 ### [Ts-232](/ts-232/#771.6) <span class="fac">[771\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)</span>
 
-<span class="series-number">727</span> So do I want to say that certain facts are favorable to certain formations of concepts; or unfavorable? And does experience teach this? It is an empirical fact that people change, alter their concepts when they become acquainted with new facts; when, as a result, what was important to them earlier becomes unimportant, and vice versa. (One finds, for example, that what used to be regarded as a difference between species is actually _only_ a difference in degree.) ((For consideration on the concept of color and other things)).
+<span class="series-number">727</span> So do I want to say that certain facts are favourable to certain formations of concepts; or unfavorable? And does experience teach this? It is an empirical fact that people change, alter their concepts when they become acquainted with new facts; when, as a result, what was important to them earlier becomes unimportant, and vice versa. (One finds, for example, that what used to be regarded as a difference between species is actually _only_ a difference in degree.) ((For consideration on the concept of colour and other things)).
 
 ### [Ts-232](/ts-232/#771.7) <span class="fac">[771\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-232/771.webp)</span>
 

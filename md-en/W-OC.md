@@ -22,7 +22,7 @@
 
 ### [Ms-172](/ms-172/#1.4+2.1) <span class="fac">[1\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/2.webp)</span>
 
-<span class="series-number">4</span> “I know that I am a human being.” In order to see how unclear the sense of the sentence is, consider its negation. One could most likely understand it in this way: “I know that I have human organs.” (For example, a brain, which no one has yet seen.) But what about a sentence like “I know that I have a brain”? Can I doubt it? I lack the reasons to _doubt_! ‘Everything speaks in favor of’ the fact that I… Nevertheless, one can imagine that during an operation my skull turns out to be empty.
+<span class="series-number">4</span> “I know that I am a human being.” In order to see how unclear the sense of the sentence is, consider its negation. One could most likely understand it in this way: “I know that I have human organs.” (For example, a brain, which no one has yet seen.) But what about a sentence like “I know that I have a brain”? Can I doubt it? I lack the reasons to _doubt_! ‘Everything speaks in favour of’ the fact that I… Nevertheless, one can imagine that during an operation my skull turns out to be empty.
 
 ### [Ms-172](/ms-172/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/2.webp)</span>
 
@@ -238,7 +238,7 @@
 
 ### [Ms-172](/ms-172/#18.2) <span class="fac">[18\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/18.webp)</span>
 
-<span class="series-number">57</span> Could “I _know_, I don’t just suppose that my hand is here” not be understood as a grammatical _sentence_? That is, not temporally. – But isn’t it then like _the_: “I know, I don’t just suppose that I see red”? And isn’t the consequence “So there are physical objects” like “So there are colors”?
+<span class="series-number">57</span> Could “I _know_, I don’t just suppose that my hand is here” not be understood as a grammatical _sentence_? That is, not temporally. – But isn’t it then like _the_: “I know, I don’t just suppose that I see red”? And isn’t the consequence “So there are physical objects” like “So there are colours”?
 
 ### [Ms-172](/ms-172/#18.3) <span class="fac">[18\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/18.webp)</span>
 
@@ -376,7 +376,7 @@ For it is what we learn when the word is first incorporated into our language.
 
 ### [Ms-174](/ms-174/#19r.3+19v.1) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/19r.webp),[19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/19v.webp)</span>
 
-<span class="series-number">89</span> One might say: “Everything speaks in favor of & nothing against the fact that the Earth existed long before my birth ‥‥”
+<span class="series-number">89</span> One might say: “Everything speaks in favour of & nothing against the fact that the Earth existed long before my birth ‥‥”
 
 But couldn’t I still believe the opposite? But the question is: how would this belief manifest itself in practice? – Perhaps someone says: “That doesn't matter. A belief is what it is, whether it manifests itself in practice or not.” One might think: It is always the same disposition of the human mind.
 
@@ -842,11 +842,11 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-175](/ms-175/#3v.3+4r.1) <span class="fac">[3v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/3v.webp),[4r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/4r.webp)</span>
 
-A hypothesis for which everything speaks in favor, against which nothing speaks – is it then objectively true? One can _call_ it that. But does it _unconditionally_ agree with the facts? At best, it shows us what “agree” means. We find it difficult to imagine it as false, but also difficult to make an application of it. – – – With this question, you are already moving in a circle.
+A hypothesis for which everything speaks in favour, against which nothing speaks – is it then objectively true? One can _call_ it that. But does it _unconditionally_ agree with the facts? At best, it shows us what “agree” means. We find it difficult to imagine it as false, but also difficult to make an application of it. – – – With this question, you are already moving in a circle.
 
 ### [Ms-175](/ms-175/#4v.1) <span class="fac">[4v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/4v.webp)</span>
 
-What is this agreement, if not that what is evidence in this language-game speaks in favor of our sentence? (Log. Phil. Abh.)
+What is this agreement, if not that what is evidence in this language-game speaks in favour of our sentence? (Log. Phil. Abh.)
 
 ### [Ms-175](/ms-175/#4v.2+5r.1) <span class="fac">[4v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/4v.webp),[5r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/5r.webp)</span>
 
@@ -1452,7 +1452,7 @@ If we act with certainty on the basis of belief, should we then be surprised tha
 
 ### [Ms-175](/ms-175/#49r.1) <span class="fac">[49r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/49r.webp)</span>
 
-<span class="series-number">345</span> If I ask, “What colour do you see now,” in order to find out what color is there now, then I cannot at the same time also doubt whether the person addressed understands German, whether he wants to deceive me, whether my own memory is not failing me with regard to the meaning of colour names, etc.
+<span class="series-number">345</span> If I ask, “What colour do you see now,” in order to find out what colour is there now, then I cannot at the same time also doubt whether the person addressed understands German, whether he wants to deceive me, whether my own memory is not failing me with regard to the meaning of colour names, etc.
 
 ### [Ms-175](/ms-175/#49r.2+49v.1) <span class="fac">[49r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/49r.webp),[49v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/49v.webp)</span>
 
@@ -2266,11 +2266,11 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 ### [Ms-176](/ms-176/#53v.2) <span class="fac">[53v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53v.webp)</span>
 
-<span class="series-number">527</span> A German who calls this color “red” is not: ‘certain that it is called “red” in German’. The child who masters the use of the word is not ‘certain that this color is called _that_ in its language’. One cannot say that it learns, when it learns to speak, that the color is called that in German; or that it _knows_ this when it has learned the use of the word.
+<span class="series-number">527</span> A German who calls this colour “red” is not: ‘certain that it is called “red” in German’. The child who masters the use of the word is not ‘certain that this colour is called _that_ in its language’. One cannot say that it learns, when it learns to speak, that the colour is called that in German; or that it _knows_ this when it has learned the use of the word.
 
 ### [Ms-176](/ms-176/#53v.3+54r.1) <span class="fac">[53v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53v.webp),[54r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54r.webp)</span>
 
-<span class="series-number">528</span> And yet: if someone asked me how the color is called in German, and I tell him, and he asks me “Are you certain?”: I will answer: “I _know_ it; German is my mother tongue”.
+<span class="series-number">528</span> And yet: if someone asked me how the colour is called in German, and I tell him, and he asks me “Are you certain?”: I will answer: “I _know_ it; German is my mother tongue”.
 
 ### [Ms-176](/ms-176/#54r.2) <span class="fac">[54r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54r.webp)</span>
 
@@ -2278,7 +2278,7 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 ### [Ms-176](/ms-176/#54r.3) <span class="fac">[54r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54r.webp)</span>
 
-<span class="series-number">530</span> I can say to someone “This colour is called ‘red’ in German” (if I am, for example, teaching him German). In this case, I would not say “I know that this color…” – I would say that if I had just learned it myself, or in contrast to another color whose German name I do not know.
+<span class="series-number">530</span> I can say to someone “This colour is called ‘red’ in German” (if I am, for example, teaching him German). In this case, I would not say “I know that this colour…” – I would say that if I had just learned it myself, or in contrast to another colour whose German name I do not know.
 
 ### [Ms-176](/ms-176/#54v.1) <span class="fac">[54v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54v.webp)</span>
 
@@ -2330,7 +2330,7 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 ### [Ms-176](/ms-176/#56v.3) <span class="fac">[56v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/56v.webp)</span>
 
-<span class="series-number">542</span> “I cannot describe this flower if I do not know that this color is called ‘red.’”
+<span class="series-number">542</span> “I cannot describe this flower if I do not know that this colour is called ‘red.’”
 
 ### [Ms-176](/ms-176/#56v.4+57r.1) <span class="fac">[56v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/56v.webp),[57r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp)</span>
 
@@ -2338,7 +2338,7 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 ### [Ms-176](/ms-176/#57r.2) <span class="fac">[57r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp)</span>
 
-<span class="series-number">544</span> I can, of course, truthfully say “I know what this color is called in German,” by, for example, pointing to the color of fresh blood. But – – –
+<span class="series-number">544</span> I can, of course, truthfully say “I know what this colour is called in German,” by, for example, pointing to the colour of fresh blood. But – – –
 
 ### [Ms-176](/ms-176/#57r.3) <span class="fac">[57r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp)</span>
 
@@ -2348,7 +2348,7 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 ### [Ms-176](/ms-176/#57r.4) <span class="fac">[57r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp)</span>
 
-<span class="series-number">546</span> “I know what this color is called,” I would say, for example, if it is a matter of shades of colour whose names not everyone knows.
+<span class="series-number">546</span> “I know what this colour is called,” I would say, for example, if it is a matter of shades of colour whose names not everyone knows.
 
 ### [Ms-176](/ms-176/#57r.5+57v.1) <span class="fac">[57r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp),[57v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57v.webp)</span>
 
@@ -2436,7 +2436,7 @@ We say, we know that water boils when it is put on the fire. How do we know it? 
 
 ### [Ms-176](/ms-176/#62v.2+63r.1) <span class="fac">[62v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/62v.webp),[63r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/63r.webp)</span>
 
-<span class="series-number">566</span> Yes, the child who learns my language-game (No. 2) does not learn to say “I know that this is called ‘plate’.” Of course, there is now a language-game in which the child uses _this_ sentence. This presupposes that the child, once it has been given the name, can already use it. As if someone said to me, “This color is called ‘…’” – So if the child has learned a language-game with building blocks, then one can now say, for example, “And _this_ stone is called ‘…’,” & this has thereby _extended_ the original language-game.
+<span class="series-number">566</span> Yes, the child who learns my language-game (No. 2) does not learn to say “I know that this is called ‘plate’.” Of course, there is now a language-game in which the child uses _this_ sentence. This presupposes that the child, once it has been given the name, can already use it. As if someone said to me, “This colour is called ‘…’” – So if the child has learned a language-game with building blocks, then one can now say, for example, “And _this_ stone is called ‘…’,” & this has thereby _extended_ the original language-game.
 
 ### [Ms-176](/ms-176/#63r.2) <span class="fac">[63r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/63r.webp)</span>
 

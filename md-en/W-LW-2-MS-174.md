@@ -164,7 +164,7 @@ For example, I am convinced that my friend was pleased to see me. But now, while
 
 ### [Ms-174](/ms-174/#9v.2) <span class="fac">[9v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/9v.webp)</span>
 
-There is a ‘why’ for which the answer does not allow predictions. This is the case, for example, with animistic explanations. Many of Freud’s explanations, or Goethe’s in the Theory of Colors, are of this kind. The explanation gives us an analogy. And now the phenomenon is no longer isolated, but connected with others.
+There is a ‘why’ for which the answer does not allow predictions. This is the case, for example, with animistic explanations. Many of Freud’s explanations, or Goethe’s in the Theory of Colours, are of this kind. The explanation gives us an analogy. And now the phenomenon is no longer isolated, but connected with others.
 
 ### [Ms-174](/ms-174/#9v.3+10r.1) <span class="fac">[9v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/9v.webp),[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/10r.webp)</span>
 

@@ -10,7 +10,7 @@
 
 ### [Ms-173](/ms-173/#31v.2+32r.1) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/32r.webp)</span>
 
-“If someone is truly happy, you can tell.” But one cannot describe the genuine expression. – It is, of course, not _always_ the case that one recognizes the genuine expression, or knows whether the expression is genuine. Yes, there are cases where one does not speak of genuine or artificial. Someone smiles & their other reactions do not correspond to either genuine or feigned joy. We might say, “I don’t understand them.” It is neither the picture (pattern) of genuine joy, nor that of feigned joy. Could they not behave like a colorblind person to a normal person with normal vision, with respect to being a normal, feeling human being?
+“If someone is truly happy, you can tell.” But one cannot describe the genuine expression. – It is, of course, not _always_ the case that one recognizes the genuine expression, or knows whether the expression is genuine. Yes, there are cases where one does not speak of genuine or artificial. Someone smiles & their other reactions do not correspond to either genuine or feigned joy. We might say, “I don’t understand them.” It is neither the picture (pattern) of genuine joy, nor that of feigned joy. Could they not behave like a colourblind person to a normal person with normal vision, with respect to being a normal, feeling human being?
 
 ### [Ms-173](/ms-173/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/32r.webp)</span>
 
@@ -106,15 +106,15 @@ But doesn’t this contradict a certain prejudice? Of course, we can enumerate t
 
 ### [Ms-173](/ms-173/#37v.2+38r.1) <span class="fac">[37v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/37v.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/38r.webp)</span>
 
-I can show someone an object because its _color_ strikes one, & I want to demonstrate _it_ to the other person, but this already presupposes a certain game between us.
+I can show someone an object because its _colour_ strikes one, & I want to demonstrate _it_ to the other person, but this already presupposes a certain game between us.
 
 ### [Ms-173](/ms-173/#38r.2) <span class="fac">[38r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/38r.webp)</span>
 
-Yes, he may be amazed when he sees the object, but that he is ‘amazed at the color,’ that the color is the _basis_ of his amazement, & not merely the _cause_ of his experience, this requires him to have the concept of color, not just seeing.
+Yes, he may be amazed when he sees the object, but that he is ‘amazed at the colour,’ that the colour is the _basis_ of his amazement, & not merely the _cause_ of his experience, this requires him to have the concept of colour, not just seeing.
 
 ### [Ms-173](/ms-173/#38r.3) <span class="fac">[38r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/38r.webp)</span>
 
-Someone states on his word of honor that the other person believed this and that. – One can ask him, “How do you know that?” & he can answer, “He assured me of it in all seriousness, & I know him well.”
+Someone states on his word of honour that the other person believed this and that. – One can ask him, “How do you know that?” & he can answer, “He assured me of it in all seriousness, & I know him well.”
 
 ### [Ms-173](/ms-173/#38v.1) <span class="fac">[38v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/38v.webp)</span>
 
@@ -126,7 +126,7 @@ The question of the evidence for what one has experienced must be connected with
 
 ### [Ms-173](/ms-173/#39r.2) <span class="fac">[39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/39r.webp)</span>
 
-What, for example, speaks in favor of, and what speaks against, the idea that a dog has a mental life? Surely, it is not its shape, color, or its anatomy. Therefore, it is its behaviour.
+What, for example, speaks in favour of, and what speaks against, the idea that a dog has a mental life? Surely, it is not its shape, colour, or its anatomy. Therefore, it is its behaviour.
 
 ### [Ms-173](/ms-173/#39r.3+39v.1) <span class="fac">[39r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/39v.webp)</span>
 
@@ -166,7 +166,7 @@ One could also say: How would a human body have to act, so that one would not be
 
 ### [Ms-173](/ms-173/#41r.3) <span class="fac">[41r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/41r.webp)</span>
 
-The most finely articulated behavior of a human is perhaps language with its tone and facial expressions.
+The most finely articulated behaviour of a human is perhaps language with its tone and facial expressions.
 
 ### [Ms-173](/ms-173/#41r.4+41v.1) <span class="fac">[41r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/41r.webp),[41v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/41v.webp)</span>
 
@@ -350,7 +350,7 @@ I am observing this spot. “Now it is _like this_” – and I might, for examp
 
 ### [Ms-173](/ms-173/#93r.3+93v.1+94r.1) <span class="fac">[93r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/93r.webp),[93v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/93v.webp),[94r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/94r.webp)</span>
 
-“Psychology describes the phenomena of color blindness & also of normal seeing.” What are the ‘phenomena of color blindness’? But the reactions of the colorblind person, through which he differs from the normal person. But not _all_ the reactions of the colorblind person, for example, also those through which he differs from the blind person. – Can I teach the blind person what seeing is, or can I teach the seeing person what it is? That means nothing. What does it mean to describe _seeing_? But I can teach people the meaning of the words “blind” & “seeing,” & in fact, the seeing person learns it, just like the blind person. Does the blind person know what it is like to see? But does the seeing person know it?! Does he also know what it is like to have consciousness? But can’t the psychologist observe the difference between the behaviour of the seeing person & the blind person? (The meteorologist observes the difference between rain & drought?) One could, for example, observe the difference in behaviour between rats whose whiskers have been removed & those that have not. And that might mean describing the role of this tactile apparatus. – The life of the blind is different from the life of the seeing.
+“Psychology describes the phenomena of colour blindness & also of normal seeing.” What are the ‘phenomena of colour blindness’? But the reactions of the colourblind person, through which he differs from the normal person. But not _all_ the reactions of the colourblind person, for example, also those through which he differs from the blind person. – Can I teach the blind person what seeing is, or can I teach the seeing person what it is? That means nothing. What does it mean to describe _seeing_? But I can teach people the meaning of the words “blind” & “seeing,” & in fact, the seeing person learns it, just like the blind person. Does the blind person know what it is like to see? But does the seeing person know it?! Does he also know what it is like to have consciousness? But can’t the psychologist observe the difference between the behaviour of the seeing person & the blind person? (The meteorologist observes the difference between rain & drought?) One could, for example, observe the difference in behaviour between rats whose whiskers have been removed & those that have not. And that might mean describing the role of this tactile apparatus. – The life of the blind is different from the life of the seeing.
 
 ### [Ms-173](/ms-173/#94r.2+94v.1+95r.1) <span class="fac">[94r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/94r.webp),[94v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/94v.webp),[95r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/95r.webp)</span>
 
@@ -378,11 +378,11 @@ Or should I say: “The impression is not a phenomenon; the fact that L.W. has t
 
 ### [Ms-173](/ms-173/#96r.2) <span class="fac">[96r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/96r.webp)</span>
 
-Observing is not the same as looking at or contemplating. “Look at this color & say what it reminds you of.” If the color changes, then you are no longer contemplating the one I meant. One observes in order to see what one would not see if one did not observe.
+Observing is not the same as looking at or contemplating. “Look at this colour & say what it reminds you of.” If the colour changes, then you are no longer contemplating the one I meant. One observes in order to see what one would not see if one did not observe.
 
 ### [Ms-173](/ms-173/#96r.3+96v.1) <span class="fac">[96r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/96r.webp),[96v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/96v.webp)</span>
 
-One might say: “Look at this color for a while.” However, one does not do this in order to _see_ more than one would have seen at first glance.
+One might say: “Look at this colour for a while.” However, one does not do this in order to _see_ more than one would have seen at first glance.
 
 ### [Ms-173](/ms-173/#96v.2) <span class="fac">[96v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-173/96v.webp)</span>
 

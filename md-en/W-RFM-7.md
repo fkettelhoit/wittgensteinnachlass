@@ -448,7 +448,7 @@ And what if one found the contradiction, but did not get upset about it any furt
 
 ### [Ms-124](/ms-124/#69.3+70.1) <span class="fac">[69\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/69.webp),[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/70.webp)</span>
 
-“But then it is not a proper calculus! It loses all its _rigor_!” Well, not _all_ of it. And it only lacks full rigor if one has a certain ideal of rigour, one is building a certain style of mathematics.
+“But then it is not a proper calculus! It loses all its _rigour_!” Well, not _all_ of it. And it only lacks full rigour if one has a certain ideal of rigour, one is building a certain style of mathematics.
 
 ### [Ms-124](/ms-124/#70.2) <span class="fac">[70\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/70.webp)</span>
 
@@ -1006,11 +1006,11 @@ But would it be impossible to count and calculate in such a language?
 
 <span class="series-number">38</span> March 14, 1944
 
-Is converting a length from inches to centimeters a logical conclusion? “The cube is 2 inches long. – So it is about 50 mm long.” Is that a _logical_ conclusion?
+Is converting a length from inches to centimetres a logical conclusion? “The cube is 2 inches long. – So it is about 50 mm long.” Is that a _logical_ conclusion?
 
 ### [Ms-124](/ms-124/#127.1) <span class="fac">[127\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/127.webp)</span>
 
-Yes, but isn’t a rule something arbitrary? Something I _lay down_? And could I decide that the multiplication 18 × 15 should _not_ equal 270? – Why not? – But then it simply did not follow the rule that I had first established, and whose use I had practiced. Is something that follows from a rule (again) a rule? And if not, – what kind of statement should I call it?
+Yes, but isn’t a rule something arbitrary? Something I _lay down_? And could I decide that the multiplication 18 × 15 should _not_ equal 270? – Why not? – But then it simply did not follow the rule that I had first established, and whose use I had practised. Is something that follows from a rule (again) a rule? And if not, – what kind of statement should I call it?
 
 ### [Ms-124](/ms-124/#127.2+128.1+129.1) <span class="fac">[127\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/127.webp),[128\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/128.webp),[129\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/129.webp)</span>
 
@@ -1420,7 +1420,7 @@ One could put it this way: Whoever uses calculation to find a causal connection 
 
 ### [Ms-124](/ms-124/#169.3) <span class="fac">[169\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/169.webp)</span>
 
-Children are not only practiced in calculation, but also in a very specific way of responding to a calculation error.
+Children are not only practised in calculation, but also in a very specific way of responding to a calculation error.
 
 ### [Ms-124](/ms-124/#169.4) <span class="fac">[169\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/169.webp)</span>
 
@@ -1464,7 +1464,7 @@ But can one actually _observe_ that
 
 r ․ b ⊃ s ․⊃․ w,
 
-or does one not _observe colour combinations_, that is, something like r ∙ b ∙ s ∙ w; & then derive that sentence? But when observing a surface, can one not be entirely focused on the question of whether it will turn green, or not green; & if he then sees: ~g, must he then pay attention to the particular colour of the surface? And could one not be entirely focused on the aspect r ․ b ⊃ s ․⊃․ w? For example, if one had been trained to consider the surface only from this perspective, forgetting everything else. (Under certain circumstances, it might be irrelevant to people whether objects are red or green; what matters is whether they possess one of these colors or a third. And in this case, there might be a colour word for “red or green.”)
+or does one not _observe colour combinations_, that is, something like r ∙ b ∙ s ∙ w; & then derive that sentence? But when observing a surface, can one not be entirely focused on the question of whether it will turn green, or not green; & if he then sees: ~g, must he then pay attention to the particular colour of the surface? And could one not be entirely focused on the aspect r ․ b ⊃ s ․⊃․ w? For example, if one had been trained to consider the surface only from this perspective, forgetting everything else. (Under certain circumstances, it might be irrelevant to people whether objects are red or green; what matters is whether they possess one of these colours or a third. And in this case, there might be a colour word for “red or green.”)
 
 ### [Ms-124](/ms-124/#174.2) <span class="fac">[174\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/174.webp)</span>
 
@@ -1554,7 +1554,7 @@ Mathematics forms a network of norms.
 
 ### [Ms-124](/ms-124/#181.5+182.1) <span class="fac">[181\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/181.webp),[182\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/182.webp)</span>
 
-<span class="series-number">68</span> It is possible to see the complex of A & B without seeing A or B. It is also possible to call the complex a “complex of A & B” & to think that this name only indicates a kind of kinship of this whole with A & with B. It is therefore possible to say that one sees the complex of A & B, but neither A nor B. It is as if one could say that there is a reddish-yellow color here, but neither red nor yellow.
+<span class="series-number">68</span> It is possible to see the complex of A & B without seeing A or B. It is also possible to call the complex a “complex of A & B” & to think that this name only indicates a kind of kinship of this whole with A & with B. It is therefore possible to say that one sees the complex of A & B, but neither A nor B. It is as if one could say that there is a reddish-yellow colour here, but neither red nor yellow.
 
 ### [Ms-124](/ms-124/#182.2) <span class="fac">[182\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/182.webp)</span>
 

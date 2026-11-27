@@ -26,7 +26,7 @@ The technique is outside the picture of the proof. One could see the proof exact
 
 ### [Ms-164](/ms-164/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/2.webp)</span>
 
-One will certainly call the addition of the numbers …, in order to see whether they give 1000, a formal test of the number signs. But only if the adding is a practiced technique. For how else could the process be called any kind of test?
+One will certainly call the addition of the numbers …, in order to see whether they give 1000, a formal test of the number signs. But only if the adding is a practised technique. For how else could the process be called any kind of test?
 
 ### [Ms-164](/ms-164/#2.3) <span class="fac">[2\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/2.webp)</span>
 
@@ -482,7 +482,7 @@ For here, the temptation is overwhelming to say something more when everything h
 
 ### [Ms-164](/ms-164/#58.3+59.1) <span class="fac">[58\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/58.webp),[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/59.webp)</span>
 
-It is of the greatest importance that there is almost never a dispute among people about whether the color of this object is the same as the color of that one, whether the length of this rod is the same as the length of that one, etc. This peaceful agreement is the characteristic environment of the use of the word “same”.
+It is of the greatest importance that there is almost never a dispute among people about whether the colour of this object is the same as the colour of that one, whether the length of this rod is the same as the length of that one, etc. This peaceful agreement is the characteristic environment of the use of the word “same”.
 
 ### [Ms-164](/ms-164/#59.2) <span class="fac">[59\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/59.webp)</span>
 
@@ -622,7 +622,7 @@ When do I say that I see the rule – or a rule – in this sequence? For exampl
 
 ### [Ms-164](/ms-164/#80.2+81.1) <span class="fac">[80\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/80.webp),[81\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/81.webp)</span>
 
-<span class="series-number">28</span> Someone asks me: “What is the color of this flower?” I answer: “Red.” – Are you absolutely certain? Yes, absolutely certain! But couldn’t I be mistaken & name the wrong color “red”? No. The certainty with which I name the color “red” is the rigidity of the standard, it is the rigidity from which I proceed. It is not to be doubted in my description. This is what characterizes what we call description. (Of course, I can also make a promise here, but nothing else.)
+<span class="series-number">28</span> Someone asks me: “What is the colour of this flower?” I answer: “Red.” – Are you absolutely certain? Yes, absolutely certain! But couldn’t I be mistaken & name the wrong colour “red”? No. The certainty with which I name the colour “red” is the rigidity of the standard, it is the rigidity from which I proceed. It is not to be doubted in my description. This is what characterizes what we call description. (Of course, I can also make a promise here, but nothing else.)
 
 ### [Ms-164](/ms-164/#81.2) <span class="fac">[81\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/81.webp)</span>
 
@@ -646,7 +646,7 @@ If someone has taught me the rule, the ornament
 
 ![](../graphics/164,83.svg)
 
-to repeat, and now tells me “continue like this!”: how do I know what I have to do next? – Well, I do it with certainty, I will also be able to defend it. Namely, up to a certain point. If this is not supposed to be a defense, then there is none.
+to repeat, and now tells me “continue like this!”: how do I know what I have to do next? – Well, I do it with certainty, I will also be able to defend it. Namely, up to a certain point. If this is not supposed to be a defence, then there is none.
 
 ### [Ms-164](/ms-164/#84.2) <span class="fac">[84\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/84.webp)</span>
 
@@ -790,7 +790,7 @@ And suppose they did something that we would be inclined to call “calculating�
 
 ### [Ms-164](/ms-164/#102.3+103.1) <span class="fac">[102\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/102.webp),[103\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/103.webp)</span>
 
-<span class="series-number">35</span> How do I know that the color I see now is called “green”? Well, to confirm it, I could ask other people; but if they did not agree with me, I would be completely confused and perhaps think that they or I am crazy. That is, I would either no longer dare to judge, or no longer react to what they say as a judgment. If I am drowning and shout “Help!”, how do I know what the word “Help!” means? Well, I react in this situation. – Well, _that’s_ how I know what “green” means, and also how to follow the rule in this particular case.
+<span class="series-number">35</span> How do I know that the colour I see now is called “green”? Well, to confirm it, I could ask other people; but if they did not agree with me, I would be completely confused and perhaps think that they or I am crazy. That is, I would either no longer dare to judge, or no longer react to what they say as a judgment. If I am drowning and shout “Help!”, how do I know what the word “Help!” means? Well, I react in this situation. – Well, _that’s_ how I know what “green” means, and also how to follow the rule in this particular case.
 
 ### [Ms-164](/ms-164/#104.1+105.1) <span class="fac">[104\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/104.webp),[105\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/105.webp)</span>
 
@@ -882,11 +882,11 @@ x❘y ∙ ❘ ∙ z❘u = ≝ ∣∣ (x,y,z,u)
 
 ### [Ms-164](/ms-164/#114.1) <span class="fac">[114\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/114.webp)</span>
 
-The definitions do not necessarily have to be abbreviations, but they could in other ways create new connections. For example, through brackets or the use of different colors of the signs.
+The definitions do not necessarily have to be abbreviations, but they could in other ways create new connections. For example, through brackets or the use of different colours of the signs.
 
 ### [Ms-164](/ms-164/#114.2) <span class="fac">[114\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/114.webp)</span>
 
-I can, for example, prove a sentence by suggesting with colors that it has the form of one of my axioms, but extended by a certain substitution.
+I can, for example, prove a sentence by suggesting with colours that it has the form of one of my axioms, but extended by a certain substitution.
 
 ### [Ms-164](/ms-164/#114.3+115.1) <span class="fac">[114\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/114.webp),[115\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/115.webp)</span>
 
@@ -926,7 +926,7 @@ Interpreting has an end.
 
 ### [Ms-164](/ms-164/#118.3+119.1) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/118.webp),[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/119.webp)</span>
 
-<span class="series-number">39</span> It is true that everything could somehow be justified. But the phenomenon of language is based on agreement in action. It is of the greatest importance that we all, or the vast majority, agree on certain things. For example, I can be quite sure that the color of this object is called ‘green’ by the vast majority of people who see it.
+<span class="series-number">39</span> It is true that everything could somehow be justified. But the phenomenon of language is based on agreement in action. It is of the greatest importance that we all, or the vast majority, agree on certain things. For example, I can be quite sure that the colour of this object is called ‘green’ by the vast majority of people who see it.
 
 ### [Ms-164](/ms-164/#119.2+120.1) <span class="fac">[119\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/119.webp),[120\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/120.webp)</span>
 
@@ -1024,7 +1024,7 @@ You must ask yourself: under what particular circumstances do we say that someon
 
 ### [Ms-164](/ms-164/#132.2) <span class="fac">[132\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/132.webp)</span>
 
-The concept of “regular tapping”, “regular figure” is taught to us in the same way as “bright”, “dirty” or “colorful”.
+The concept of “regular tapping”, “regular figure” is taught to us in the same way as “bright”, “dirty” or “colourful”.
 
 ### [Ms-164](/ms-164/#132.3+133.1) <span class="fac">[132\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/132.webp),[133\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-164/133.webp)</span>
 

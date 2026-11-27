@@ -1248,7 +1248,7 @@ That is why they cannot be composite.
 
 <span class="series-number">4˙09,2</span> “Can one not communicate with false sentences just as one has hitherto done with true ones? provided only that one knows they are meant to be false.”
 
-No! For a sentence is true if things are as we say they are by means of it; and if by “q” we mean ~q and things are as we mean they are, then “q” on this new understanding is true and not false.
+<span class="series-number">4˙092</span> No! For a sentence is true if things are as we say they are by means of it; and if by “q” we mean ~q and things are as we mean they are, then “q” on this new understanding is true and not false.
 
 ### [Ms-104](/ms-104/#28.6) <span class="fac">[28\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-104/28.webp)</span>
 

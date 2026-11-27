@@ -188,7 +188,7 @@ And do you want to tell me that he doesn’t feel it? How else would he _know_ i
 
 ### [Ms-137](/ms-137/#80b.4) <span class="fac">[80b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/80b.webp)</span>
 
-<span class="series-number">42</span> “If people strongly disagreed in their color statements, they could not use our concept of color.” – If people strongly disagreed in their color statements, then, precisely because of that, they would not use _our concept of color_. They would not be playing our language-game: for consider how one would have to compare theirs and ours!
+<span class="series-number">42</span> “If people strongly disagreed in their colour statements, they could not use our concept of colour.” – If people strongly disagreed in their colour statements, then, precisely because of that, they would not use _our concept of colour_. They would not be playing our language-game: for consider how one would have to compare theirs and ours!
 
 ---
 
@@ -228,7 +228,7 @@ Whoever can cry can’t necessarily communicate something to someone in conversa
 
 ### [Ms-137](/ms-137/#81b.5) <span class="fac">[81b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/81b.webp)</span>
 
-<span class="series-number">51</span> For what we call “describing” includes one or another of a class of characteristics. The observing, considering, remembering behavior, an effort for accuracy, the ability to improve, the comparing. A cry is not a description. But there are transitions. And the words “I am afraid” can be closer to or further from a cry. They can be very close to it and _very_ far from it.
+<span class="series-number">51</span> For what we call “describing” includes one or another of a class of characteristics. The observing, considering, remembering behaviour, an effort for accuracy, the ability to improve, the comparing. A cry is not a description. But there are transitions. And the words “I am afraid” can be closer to or further from a cry. They can be very close to it and _very_ far from it.
 
 ### [Ms-137](/ms-137/#82a.2) <span class="fac">[82a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/82a.webp)</span>
 
@@ -266,7 +266,7 @@ Is it as if one were posing a question of physics in a book on pure mathematics,
 
 ### [Ms-137](/ms-137/#82b.4) <span class="fac">[82b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/82b.webp)</span>
 
-<span class="series-number">59</span> Would it be more correct to say that _e_ ‘corresponds’ to yellow, rather than “_e_ is yellow”? Isn’t it precisely the trick of the language-game that we say _e is_ yellow? Yes, if there were someone who was _inclined_ to say that _e_ ‘_corresponds_’ to yellow & not that it is yellow, would he not be almost as different from the other as someone for whom vowels & colors are not connected? And similarly for the experience of meaning.
+<span class="series-number">59</span> Would it be more correct to say that _e_ ‘corresponds’ to yellow, rather than “_e_ is yellow”? Isn’t it precisely the trick of the language-game that we say _e is_ yellow? Yes, if there were someone who was _inclined_ to say that _e_ ‘_corresponds_’ to yellow & not that it is yellow, would he not be almost as different from the other as someone for whom vowels & colours are not connected? And similarly for the experience of meaning.
 
 ### [Ms-137](/ms-137/#82b.5) <span class="fac">[82b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/82b.webp)</span>
 
@@ -376,7 +376,7 @@ But is the word now used in two meanings? No. (Otherwise, we would be obliged to
 
 ### [Ms-137](/ms-137/#85b.1) <span class="fac">[85b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/85b.webp)</span>
 
-<span class="series-number">80</span> But doesn't an explanation of the strange phenomenon still interest us? Think of other related phenomena, & what their explanation achieves. Yes, it is indeed interesting to understand _why_ I, on this walk, have the impression that the city must be _there_; even though a simple consideration can convince me that this is not the case. I now want to assume that I know how the deception can arise: I drew false conclusions from similarities between the area and another area, and so on. – But I didn't explicitly draw the false conclusion, and it is also not explained why those similarities led me to this hasty conclusion. The explanation leaves the strangeness intact. (Likewise for the phenomenon of seeing colors, etc.)
+<span class="series-number">80</span> But doesn't an explanation of the strange phenomenon still interest us? Think of other related phenomena, & what their explanation achieves. Yes, it is indeed interesting to understand _why_ I, on this walk, have the impression that the city must be _there_; even though a simple consideration can convince me that this is not the case. I now want to assume that I know how the deception can arise: I drew false conclusions from similarities between the area and another area, and so on. – But I didn't explicitly draw the false conclusion, and it is also not explained why those similarities led me to this hasty conclusion. The explanation leaves the strangeness intact. (Likewise for the phenomenon of seeing colours, etc.)
 
 ### [Ms-137](/ms-137/#85b.2) <span class="fac">[85b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/85b.webp)</span>
 
@@ -648,7 +648,7 @@ Of course, I could have used a sign established for this purpose.
 
 ### [Ms-137](/ms-137/#91b.4) <span class="fac">[91b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/91b.webp)</span>
 
-<span class="series-number">143</span> “I certainly believe he will come, but he certainly will not come. Why tell someone that one believes something? In order to convince him of what one believes, or only to prepare him for one’s behavior in this matter?
+<span class="series-number">143</span> “I certainly believe he will come, but he certainly will not come. Why tell someone that one believes something? In order to convince him of what one believes, or only to prepare him for one’s behaviour in this matter?
 
 ### [Ms-137](/ms-137/#91b.5) <span class="fac">[91b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/91b.webp)</span>
 
@@ -660,7 +660,7 @@ One could express it like this: It’s not the case, but I _must_ believe it.
 
 ### [Ms-137](/ms-137/#92a.2) <span class="fac">[92a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/92a.webp)</span>
 
-<span class="series-number">145</span> I said that the sentence “I believe that it is so, & it is not so” could be true; namely, if I really believe it falsely; which is presumably possible. But what makes the sentence true? How can another person see that it is true? How does he know that I believe it? Not from my behavior; because that is contradictory.
+<span class="series-number">145</span> I said that the sentence “I believe that it is so, & it is not so” could be true; namely, if I really believe it falsely; which is presumably possible. But what makes the sentence true? How can another person see that it is true? How does he know that I believe it? Not from my behaviour; because that is contradictory.
 
 ### [Ms-137](/ms-137/#92a.3) <span class="fac">[92a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/92a.webp)</span>
 
@@ -910,11 +910,11 @@ Whoever is suspicious of a mathematical result will suspect the _calculation_. B
 
 <span class="series-number">203</span> 17.11.1948
 
-A tribe that does not know the concept of feigned pain. When someone among them expresses pain, they are pitied. They are unfamiliar with the distrustful attitude toward the expression of pain. The traveler who comes to them from us often thinks that a complaint is exaggerated, that it is false, and only serves to elicit pity; the natives do not seem to think so. (In their language, there is an expression that corresponds, at least approximately, to our “having pain.”) A missionary teaches the children our language; he also trains them, and through him, they learn to distinguish between genuine and feigned expressions of pain. Because he distrusts the expression of pain and rejects it, and he teaches the children to be distrustful. – They learn our expression “having pain,” also “feigning pain,” – has a new concept of pain been taught to them? I certainly would not say that they only now know what pain is. Because that would mean that they never had pain before.
+A tribe that does not know the concept of feigned pain. When someone among them expresses pain, they are pitied. They are unfamiliar with the distrustful attitude toward the expression of pain. The traveller who comes to them from us often thinks that a complaint is exaggerated, that it is false, and only serves to elicit pity; the natives do not seem to think so. (In their language, there is an expression that corresponds, at least approximately, to our “having pain.”) A missionary teaches the children our language; he also trains them, and through him, they learn to distinguish between genuine and feigned expressions of pain. Because he distrusts the expression of pain and rejects it, and he teaches the children to be distrustful. – They learn our expression “having pain,” also “feigning pain,” – has a new concept of pain been taught to them? I certainly would not say that they only now know what pain is. Because that would mean that they never had pain before.
 
 ### [Ms-137](/ms-137/#98b.2+99a.1) <span class="fac">[98b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98b.webp),[99a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99a.webp)</span>
 
-A tribe that doesn't know the concept of feigned pain. When someone among them expresses pain, they are cared for and pitied. They don't know a distrustful attitude toward the expression of pain. The traveler who comes to them from us often thinks that a complaint is exaggerated, that it is false & only calculated to evoke pity; the natives don't seem to think so. In their language, there is an expression that, at least to some extent, corresponds to ours: “to have pain”. – A missionary teaches these people our language; he also trains them, & they learn from him to distinguish between genuine & feigned expressions of pain. Because _he_ distrusts some expressions & doesn't accept them, & he teaches the people this attitude. They learn our expression “to have pain”, also “to feign pain” – have they received a new concept of pain? I certainly won't say that they only now know what pain is. Because that would mean that they never had pain before. But they had to receive new training for the use of our words. This (training) was similar, but not the same as the old one.
+A tribe that doesn't know the concept of feigned pain. When someone among them expresses pain, they are cared for and pitied. They don't know a distrustful attitude toward the expression of pain. The traveller who comes to them from us often thinks that a complaint is exaggerated, that it is false & only calculated to evoke pity; the natives don't seem to think so. In their language, there is an expression that, at least to some extent, corresponds to ours: “to have pain”. – A missionary teaches these people our language; he also trains them, & they learn from him to distinguish between genuine & feigned expressions of pain. Because _he_ distrusts some expressions & doesn't accept them, & he teaches the people this attitude. They learn our expression “to have pain”, also “to feign pain” – have they received a new concept of pain? I certainly won't say that they only now know what pain is. Because that would mean that they never had pain before. But they had to receive new training for the use of our words. This (training) was similar, but not the same as the old one.
 
 ### [Ms-137](/ms-137/#98a.2) <span class="fac">[98a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/98a.webp)</span>
 
@@ -934,11 +934,11 @@ And how could the difference not come to their consciousness when they complaine
 
 ### [Ms-137](/ms-137/#99a.4) <span class="fac">[99a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99a.webp)</span>
 
-<span class="series-number">207</span> [→ ] If colors played a different role in the world of humans than in our world, what would be the consequences for the concepts of color? This is actually a question of natural science, and I do not want to ask such a question. Rather: what consequences would seem plausible to us? What consequences would not surprise us?
+<span class="series-number">207</span> [→ ] If colours played a different role in the world of humans than in our world, what would be the consequences for the concepts of colour? This is actually a question of natural science, and I do not want to ask such a question. Rather: what consequences would seem plausible to us? What consequences would not surprise us?
 
 ### [Ms-137](/ms-137/#99b.1) <span class="fac">[99b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99b.webp)</span>
 
-<span class="series-number">208</span> If colors played a different role in the world of humans than in ours, what kind of color concepts, different from ours, would not surprise us? Consider different cases. The question is not yet properly formulated; but what is its purpose? –
+<span class="series-number">208</span> If colours played a different role in the world of humans than in ours, what kind of colour concepts, different from ours, would not surprise us? Consider different cases. The question is not yet properly formulated; but what is its purpose? –
 
 ### [Ms-137](/ms-137/#99b.2) <span class="fac">[99b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/99b.webp)</span>
 
@@ -958,19 +958,19 @@ And how could the difference not come to their consciousness when they complaine
 
 ### [Ms-137](/ms-137/#100a.5) <span class="fac">[100a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100a.webp)</span>
 
-<span class="series-number">213</span> Six pure colors. Must it seem that way to us? – Brown is not one of them. But what does that tell us at all? Where do we need something like this? When we describe things according to their colors? – Yes, if we do it in a general way, for example. “Brown is not one of them” can be the expression of an instinctive rejection of a color combination.
+<span class="series-number">213</span> Six pure colours. Must it seem that way to us? – Brown is not one of them. But what does that tell us at all? Where do we need something like this? When we describe things according to their colours? – Yes, if we do it in a general way, for example. “Brown is not one of them” can be the expression of an instinctive rejection of a colour combination.
 
 ### [Ms-137](/ms-137/#100a.6+100b.1) <span class="fac">[100a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100a.webp),[100b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100b.webp)</span>
 
-<span class="series-number">214</span> “The _light_ is white. Colors are already a shadow.” – But is everything really ‘light’ white? Doesn’t the lamp give off light? – Where does this first sentence come from, which sounds so obvious? And why does it sound obvious?) – We always call the brightest thing white. If one of two colors is brighter, then only it can be the white one. And brightness & light are equated here.
+<span class="series-number">214</span> “The _light_ is white. Colours are already a shadow.” – But is everything really ‘light’ white? Doesn’t the lamp give off light? – Where does this first sentence come from, which sounds so obvious? And why does it sound obvious?) – We always call the brightest thing white. If one of two colours is brighter, then only it can be the white one. And brightness & light are equated here.
 
 ### [Ms-137](/ms-137/#100b.2) <span class="fac">[100b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100b.webp)</span>
 
-<span class="series-number">215</span> It seems to us that there is a concept of color mixing that is above all the physical methods of color mixing. So that we can say of such a method: it represents the ‘pure’ color mixing most closely, for example.
+<span class="series-number">215</span> It seems to us that there is a concept of colour mixing that is above all the physical methods of colour mixing. So that we can say of such a method: it represents the ‘pure’ colour mixing most closely, for example.
 
 ### [Ms-137](/ms-137/#100b.3) <span class="fac">[100b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100b.webp)</span>
 
-<span class="series-number">216</span> We judge whether, according to our concept, the two colors a & b really _should_ give the color c.
+<span class="series-number">216</span> We judge whether, according to our concept, the two colours a & b really _should_ give the colour c.
 
 ### [Ms-137](/ms-137/#100b.4) <span class="fac">[100b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100b.webp)</span>
 
@@ -982,11 +982,11 @@ And how could the difference not come to their consciousness when they complaine
 
 ### [Ms-137](/ms-137/#100b.6) <span class="fac">[100b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100b.webp)</span>
 
-<span class="series-number">219</span> Could one also perceive all colors as mixtures of white & black? – If, for example, the white & black pigment gave red, green, etc., under certain circumstances, perhaps. One might say: “The light brings out the red from the black.” (So one imagines the color hidden in the black.)
+<span class="series-number">219</span> Could one also perceive all colours as mixtures of white & black? – If, for example, the white & black pigment gave red, green, etc., under certain circumstances, perhaps. One might say: “The light brings out the red from the black.” (So one imagines the colour hidden in the black.)
 
 ### [Ms-137](/ms-137/#100b.7+101a.1) <span class="fac">[100b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/100b.webp),[101a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101a.webp)</span>
 
-<span class="series-number">220</span> Red & green are the same. I imagine that there is only _one_ shade of red & one of green. In nature, the two always blend into each other (as in autumn in certain leaves). They are found everywhere together, one being a variation of the other. Their difference plays no other role than that of light & dark. But do people not see the difference?! Of course. But they might have a word “leaf color” which is used somewhat analogously to our color names & which denotes red _or_ green, & two distinguishing words, “sharp” & “dull,” analogous to our “light” & “dark,” which differentiate red from green. And now the question is: which of their concepts is similar to our concept of color, their concept of ‘leaf color’ or their concept of ‘sharp leaf color’ (i.e., red), for example? (If it is a matter of dyeing or painting an object, they might say that they want it to be leaf-colored. If asked whether it should be sharp or dull, they might answer that it is all the same to them.) Or would these people then be colorblind? Well, if we teach them our language, they prove to be able to see colors.
+<span class="series-number">220</span> Red & green are the same. I imagine that there is only _one_ shade of red & one of green. In nature, the two always blend into each other (as in autumn in certain leaves). They are found everywhere together, one being a variation of the other. Their difference plays no other role than that of light & dark. But do people not see the difference?! Of course. But they might have a word “leaf colour” which is used somewhat analogously to our colour names & which denotes red _or_ green, & two distinguishing words, “sharp” & “dull,” analogous to our “light” & “dark,” which differentiate red from green. And now the question is: which of their concepts is similar to our concept of colour, their concept of ‘leaf colour’ or their concept of ‘sharp leaf colour’ (i.e., red), for example? (If it is a matter of dyeing or painting an object, they might say that they want it to be leaf-coloured. If asked whether it should be sharp or dull, they might answer that it is all the same to them.) Or would these people then be colourblind? Well, if we teach them our language, they prove to be able to see colours.
 
 ### [Ms-137](/ms-137/#101a.2) <span class="fac">[101a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101a.webp)</span>
 
@@ -994,7 +994,7 @@ And how could the difference not come to their consciousness when they complaine
 
 ### [Ms-137](/ms-137/#101a.4+101b.1) <span class="fac">[101a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101a.webp),[101b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101b.webp)</span>
 
-<span class="series-number">222</span> If we introduce them to a greater variety of colors, they might perceive our system as the only natural one, i.e., they might adopt it & abandon the other one without difficulty. Perhaps not.
+<span class="series-number">222</span> If we introduce them to a greater variety of colours, they might perceive our system as the only natural one, i.e., they might adopt it & abandon the other one without difficulty. Perhaps not.
 
 ### [Ms-137](/ms-137/#101b.2) <span class="fac">[101b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101b.webp)</span>
 
@@ -1006,7 +1006,7 @@ And how could the difference not come to their consciousness when they complaine
 
 ### [Ms-137](/ms-137/#101b.4) <span class="fac">[101b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101b.webp)</span>
 
-<span class="series-number">225</span> But are there not more essential & less essential features of (such) a concept? I.e.: If one changes _this_, one will still call it “pretense,” – if one changes _this_, not anymore. And _behavior_ here means an attitude.
+<span class="series-number">225</span> But are there not more essential & less essential features of (such) a concept? I.e.: If one changes _this_, one will still call it “pretense,” – if one changes _this_, not anymore. And _behaviour_ here means an attitude.
 
 ### [Ms-137](/ms-137/#101b.5) <span class="fac">[101b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/101b.webp)</span>
 
@@ -1350,7 +1350,7 @@ But now he also compares his language with the primitive language that is learne
 
 28.11.1948
 
-[→ ] But is, for example, the primitive function of negation in the account and of defense in the command (“Don’t do that!”) the same? – What one will call the same function, and what not, will depend on human nature. As will, of course, also: what is necessity, and what is not.
+[→ ] But is, for example, the primitive function of negation in the account and of defence in the command (“Don’t do that!”) the same? – What one will call the same function, and what not, will depend on human nature. As will, of course, also: what is necessity, and what is not.
 
 ### [Ms-137](/ms-137/#109a.3) <span class="fac">[109a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/109a.webp)</span>
 
@@ -1376,7 +1376,7 @@ What makes my _image_ of him an image of _him_? If I say “I am now imagining h
 
 <span class="series-number">309</span> 27.11.1948
 
-What makes this _image_ his portrait? – It is designated as such in the catalog.
+What makes this _image_ his portrait? – It is designated as such in the catalogue.
 
 ### [Ms-137](/ms-137/#109b.3) <span class="fac">[109b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/109b.webp)</span>
 
@@ -1422,7 +1422,7 @@ What makes this _image_ his portrait? – It is designated as such in the catalo
 
 <span class="series-number">320</span> ---
 
-One must consciously remember that a face with a soulful expression can be _painted_ in order to believe that mere colors and shapes can have such an effect on us.
+One must consciously remember that a face with a soulful expression can be _painted_ in order to believe that mere colours and shapes can have such an effect on us.
 
 ### [Ms-137](/ms-137/#110b.3) <span class="fac">[110b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp)</span>
 
@@ -1442,7 +1442,7 @@ One must consciously remember that a face with a soulful expression can be _pain
 
 ### [Ms-137](/ms-137/#110b.7+111a.1) <span class="fac">[110b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/110b.webp),[111a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/111a.webp)</span>
 
-<span class="series-number">325</span> Of course, an image forces itself upon us, of something incorporeal that animates the face (like trembling air). One must consciously remember that a face with a soulful expression can be painted in order to believe that colors and shapes alone can have such an effect on us.
+<span class="series-number">325</span> Of course, an image forces itself upon us, of something incorporeal that animates the face (like trembling air). One must consciously remember that a face with a soulful expression can be painted in order to believe that colours and shapes alone can have such an effect on us.
 
 ### [Ms-137](/ms-137/#111a.3) <span class="fac">[111a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/111a.webp)</span>
 
@@ -1520,11 +1520,11 @@ One must consciously remember that a face with a soulful expression can be _pain
 
 ### [Ms-137](/ms-137/#112b.4) <span class="fac">[112b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/112b.webp)</span>
 
-<span class="series-number">344</span> Or also like this: The traveler, who travels through the land where “non” & “ne” are used & tries to translate the language into his own, will have no reason to translate each into a separate word in his language – until he comes to a case of double negation (then _he_ may find an equivalent in his language).
+<span class="series-number">344</span> Or also like this: The traveller, who travels through the land where “non” & “ne” are used & tries to translate the language into his own, will have no reason to translate each into a separate word in his language – until he comes to a case of double negation (then _he_ may find an equivalent in his language).
 
 ### [Ms-137](/ms-137/#112b.5) <span class="fac">[112b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/112b.webp)</span>
 
-<span class="series-number">345</span> The traveler could also say: “As far as I can see, the use is the same.”
+<span class="series-number">345</span> The traveller could also say: “As far as I can see, the use is the same.”
 
 ### [Ms-137](/ms-137/#112b.6) <span class="fac">[112b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/112b.webp)</span>
 
@@ -1606,11 +1606,11 @@ How does one compare the behaviour of anger, joy, hope, expectation, belief, lov
 
 ### [Ms-137](/ms-137/#114b.6+115a.1) <span class="fac">[114b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/114b.webp),[115a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/115a.webp)</span>
 
-<span class="series-number">362</span> The feeling for a word. Imagine we found a person who, when we talk to them about the feeling for words, says that for them, “if” & “but” have the _same_ feeling. Shouldn’t we believe them? – Or should we simply say that they aren’t playing our game? It would be similar to if someone didn’t associate each vowel with its own color, but rather, let’s say, one with a, e, i, & another with o & u. Perhaps such people exist.
+<span class="series-number">362</span> The feeling for a word. Imagine we found a person who, when we talk to them about the feeling for words, says that for them, “if” & “but” have the _same_ feeling. Shouldn’t we believe them? – Or should we simply say that they aren’t playing our game? It would be similar to if someone didn’t associate each vowel with its own colour, but rather, let’s say, one with a, e, i, & another with o & u. Perhaps such people exist.
 
 ### [Ms-137](/ms-137/#115a.2) <span class="fac">[115a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/115a.webp)</span>
 
-<span class="series-number">363</span> They would, one might say, be much different from us, more so than those who don’t associate any colors with the vowels. One might almost call them colorblind.
+<span class="series-number">363</span> They would, one might say, be much different from us, more so than those who don’t associate any colours with the vowels. One might almost call them colourblind.
 
 ### [Ms-137](/ms-137/#115a.3) <span class="fac">[115a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/115a.webp)</span>
 
@@ -1742,13 +1742,13 @@ Now I let my index finger make a slight back-and-forth pendulum motion. I hardly
 
 ### [Ms-137](/ms-137/#117a.4) <span class="fac">[117a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp)</span>
 
-<span class="series-number">392</span> The evolution of higher animals and humans, and the awakening of the mind, consciousness at a certain stage. Our language first describes a picture. What is to happen with the picture, how is it to be used, remains in the dark. But it is clear that this must be investigated if one wants to understand the meaning of our statements. But the picture seems to transcend this task; it already points to a (quite) specific use. In this way, it has done us a favor.
+<span class="series-number">392</span> The evolution of higher animals and humans, and the awakening of the mind, consciousness at a certain stage. Our language first describes a picture. What is to happen with the picture, how is it to be used, remains in the dark. But it is clear that this must be investigated if one wants to understand the meaning of our statements. But the picture seems to transcend this task; it already points to a (quite) specific use. In this way, it has done us a favour.
 
 ### [Ms-137](/ms-137/#117a.6) <span class="fac">[117a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp)</span>
 
 <span class="series-number">393</span> ---
 
-December 6, 1948. What is the criterion for a sense impression informing me about shape & color?
+December 6, 1948. What is the criterion for a sense impression informing me about shape & colour?
 
 ### [Ms-137](/ms-137/#117a.7+117b.1) <span class="fac">[117a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117a.webp),[117b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117b.webp)</span>
 
@@ -1760,7 +1760,7 @@ December 6, 1948. What is the criterion for a sense impression informing me abou
 
 ### [Ms-137](/ms-137/#117b.3) <span class="fac">[117b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117b.webp)</span>
 
-<span class="series-number">396</span> Color, sound, taste, temperature, these have a subjective and an objective side. This probably means: they sometimes indicate what I feel, sometimes they describe the external world. – Well, the subjective component seems to be lacking in my knowledge of body position.
+<span class="series-number">396</span> Colour, sound, taste, temperature, these have a subjective and an objective side. This probably means: they sometimes indicate what I feel, sometimes they describe the external world. – Well, the subjective component seems to be lacking in my knowledge of body position.
 
 ### [Ms-137](/ms-137/#117b.4) <span class="fac">[117b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117b.webp)</span>
 
@@ -1768,7 +1768,7 @@ December 6, 1948. What is the criterion for a sense impression informing me abou
 
 ### [Ms-137](/ms-137/#117b.5) <span class="fac">[117b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/117b.webp)</span>
 
-<span class="series-number">398</span> If someone told me that he felt at the time what one feels when one holds one’s fingers in _this_ position, or moves them _like this_, I would imitate the position or movement and then perhaps ask him, “Do you mean the feeling in the fingertips, or in the muscles, or at _this_ spot?” That is, it would not yet be clear to me what feeling he is talking about; indeed, I could even say to him, “I don’t feel anything at all with this movement.” Consider: I could also ask him, “Is it a strong feeling, or a very weak one?!” (But this remark is only on the periphery, not at the center of the matter.)
+<span class="series-number">398</span> If someone told me that he felt at the time what one feels when one holds one’s fingers in _this_ position, or moves them _like this_, I would imitate the position or movement and then perhaps ask him, “Do you mean the feeling in the fingertips, or in the muscles, or at _this_ spot?” That is, it would not yet be clear to me what feeling he is talking about; indeed, I could even say to him, “I don’t feel anything at all with this movement.” Consider: I could also ask him, “Is it a strong feeling, or a very weak one?!” (But this remark is only on the periphery, not at the centre of the matter.)
 
 ### [Ms-137](/ms-137/#118a.1) <span class="fac">[118a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/118a.webp)</span>
 
@@ -1788,7 +1788,7 @@ December 6, 1948. What is the criterion for a sense impression informing me abou
 
 ### [Ms-137](/ms-137/#118b.1) <span class="fac">[118b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/118b.webp)</span>
 
-<span class="series-number">403</span> What would we say if someone told us that he saw a color on a certain thing that he could not describe? Must he express himself correctly? Must he mean a color?
+<span class="series-number">403</span> What would we say if someone told us that he saw a colour on a certain thing that he could not describe? Must he express himself correctly? Must he mean a colour?
 
 ### [Ms-137](/ms-137/#118b.2) <span class="fac">[118b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/118b.webp)</span>
 
@@ -1952,7 +1952,7 @@ Two uses of “_to see_”. One: “I see _this_” – whereby I refer to a des
 
 ### [Ms-137](/ms-137/#121a.9+121b.1) <span class="fac">[121a\[9\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/121a.webp),[121b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/121b.webp)</span>
 
-<span class="series-number">439</span> I suddenly see the solution to a puzzle picture. Where before there were branches and twigs, now there is a person. My visual impression has changed, and I now realize that it not only had color and shape, but also a very specific organization and now has another. – My visual impression has changed; – what was it like before; what is it like now. – If I represent it by an exact copy – and is that not a good representation? – then no change appears.
+<span class="series-number">439</span> I suddenly see the solution to a puzzle picture. Where before there were branches and twigs, now there is a person. My visual impression has changed, and I now realize that it not only had colour and shape, but also a very specific organization and now has another. – My visual impression has changed; – what was it like before; what is it like now. – If I represent it by an exact copy – and is that not a good representation? – then no change appears.
 
 ### [Ms-137](/ms-137/#121b.2) <span class="fac">[121b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/121b.webp)</span>
 
@@ -1968,7 +1968,7 @@ Two uses of “_to see_”. One: “I see _this_” – whereby I refer to a des
 
 ### [Ms-137](/ms-137/#121b.5+122a.1) <span class="fac">[121b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/121b.webp),[122a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122a.webp)</span>
 
-<span class="series-number">443</span> Whoever ascribes the organization of the visual impression to shapes and colors proceeds from the visual impression as an inner object. This object, however, becomes something absurd, a strangely fluctuating entity. For the similarity with the image is now disturbed.
+<span class="series-number">443</span> Whoever ascribes the organization of the visual impression to shapes and colours proceeds from the visual impression as an inner object. This object, however, becomes something absurd, a strangely fluctuating entity. For the similarity with the image is now disturbed.
 
 ### [Ms-137](/ms-137/#122a.2) <span class="fac">[122a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122a.webp)</span>
 
@@ -1988,11 +1988,11 @@ Two uses of “_to see_”. One: “I see _this_” – whereby I refer to a des
 
 ### [Ms-137](/ms-137/#122b.2) <span class="fac">[122b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp)</span>
 
-<span class="series-number">448</span> If the aspect is a kind of organization, and the organization is comparable to the characteristics of shape and color, then the change of aspect is like the change of apparent color.
+<span class="series-number">448</span> If the aspect is a kind of organization, and the organization is comparable to the characteristics of shape and colour, then the change of aspect is like the change of apparent colour.
 
 ### [Ms-137](/ms-137/#122b.3) <span class="fac">[122b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp)</span>
 
-<span class="series-number">449</span> ‘Color’ & ‘form’ must be learned objectively.
+<span class="series-number">449</span> ‘Colour’ & ‘form’ must be learned objectively.
 
 ### [Ms-137](/ms-137/#122b.3.2) <span class="fac">[122b\[3\].2](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/122b.webp)</span>
 
@@ -2052,7 +2052,7 @@ So I had ‘seen’ it like that – although this aspect had never dawned on me
 
 ### [Ms-137](/ms-137/#124a.2) <span class="fac">[124a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/124a.webp)</span>
 
-<span class="series-number">463</span> And how does this chronic ‘seeing it like that’ compare with colors and shapes? Did my visual image always have these colors, these shapes, this organization? So far, it is only a form of expression; but how similar are these concepts?
+<span class="series-number">463</span> And how does this chronic ‘seeing it like that’ compare with colours and shapes? Did my visual image always have these colours, these shapes, this organization? So far, it is only a form of expression; but how similar are these concepts?
 
 ### [Ms-137](/ms-137/#124a.4) <span class="fac">[124a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/124a.webp)</span>
 
@@ -2072,7 +2072,7 @@ One can, of course, say that there are certain things that fall under both the c
 
 ### [Ms-137](/ms-137/#124a.7) <span class="fac">[124a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/124a.webp)</span>
 
-<span class="series-number">467</span> So if I saw the duck-rabbit head as a duck, then I saw: this shape and color (I draw it exactly – and also something like this: while showing a lot of different duck pictures. This shows the difference of the concepts.
+<span class="series-number">467</span> So if I saw the duck-rabbit head as a duck, then I saw: this shape and colour (I draw it exactly – and also something like this: while showing a lot of different duck pictures. This shows the difference of the concepts.
 
 ### [Ms-137](/ms-137/#124a.8) <span class="fac">[124a\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/124a.webp)</span>
 
@@ -2096,7 +2096,7 @@ One can, of course, say that there are certain things that fall under both the c
 
 ### [Ms-137](/ms-137/#124b.5) <span class="fac">[124b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/124b.webp)</span>
 
-<span class="series-number">473</span> If the child now treats the picture of the rabbit as a real rabbit, does that reveal something about the organization of the visual image? Is _that_ a proof that the child does not only see colors & shapes?
+<span class="series-number">473</span> If the child now treats the picture of the rabbit as a real rabbit, does that reveal something about the organization of the visual image? Is _that_ a proof that the child does not only see colours & shapes?
 
 ### [Ms-137](/ms-137/#124b.6) <span class="fac">[124b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/124b.webp)</span>
 
@@ -2138,7 +2138,7 @@ A mottled wall; & I am occupied with seeing faces in it; but not in order to stu
 
 ### [Ms-137](/ms-137/#125b.1) <span class="fac">[125b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/125b.webp)</span>
 
-<span class="series-number">483</span> We learn language-games. We learn to arrange objects according to their colors, to report the colors of things, to produce colors, to compare shapes, to measure, etc., etc. – Do we learn this from imagining them?
+<span class="series-number">483</span> We learn language-games. We learn to arrange objects according to their colours, to report the colours of things, to produce colours, to compare shapes, to measure, etc., etc. – Do we learn this from imagining them?
 
 ### [Ms-137](/ms-137/#125b.2) <span class="fac">[125b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/125b.webp)</span>
 
@@ -2226,7 +2226,7 @@ If I know that there are different aspects of the cube schema, I can, in order t
 
 ### [Ms-137](/ms-137/#127a.2) <span class="fac">[127a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127a.webp)</span>
 
-<span class="series-number">503</span> And that alone eliminates for us the comparison of the ‘organization of the visual impression’ with color & form.
+<span class="series-number">503</span> And that alone eliminates for us the comparison of the ‘organization of the visual impression’ with colour & form.
 
 ### [Ms-137](/ms-137/#127a.4) <span class="fac">[127a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127a.webp)</span>
 
@@ -2250,7 +2250,7 @@ If I know that there are different aspects of the cube schema, I can, in order t
 
 ### [Ms-137](/ms-137/#127b.4) <span class="fac">[127b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127b.webp)</span>
 
-<span class="series-number">509</span> “The inner image has colors, shapes, & moreover a certain organization.” From this it would follow: it looks _like this_, & not _like that_.
+<span class="series-number">509</span> “The inner image has colours, shapes, & moreover a certain organization.” From this it would follow: it looks _like this_, & not _like that_.
 
 ### [Ms-137](/ms-137/#127b.5) <span class="fac">[127b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127b.webp)</span>
 
@@ -2262,7 +2262,7 @@ If I know that there are different aspects of the cube schema, I can, in order t
 
 ### [Ms-137](/ms-137/#127b.7) <span class="fac">[127b\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127b.webp)</span>
 
-<span class="series-number">512</span> One copies the color & the form. One shows a sample of the color & form. One does not show a sample of the organization of the visual impression.
+<span class="series-number">512</span> One copies the colour & the form. One shows a sample of the colour & form. One does not show a sample of the organization of the visual impression.
 
 ### [Ms-137](/ms-137/#127b.8+128a.1) <span class="fac">[127b\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/127b.webp),[128a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span>
 
@@ -2274,11 +2274,11 @@ If I know that there are different aspects of the cube schema, I can, in order t
 
 ### [Ms-137](/ms-137/#128a.3) <span class="fac">[128a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span>
 
-<span class="series-number">515</span> The color of the object corresponds to the color in the visual impression, the form of the object to the form in the visual impression. But the organization of the object does not correspond to the aspect of the visual impression, because _it_ can change while the same organization is being looked at. In the aspect, I notice a feature of the organization.
+<span class="series-number">515</span> The colour of the object corresponds to the colour in the visual impression, the form of the object to the form in the visual impression. But the organization of the object does not correspond to the aspect of the visual impression, because _it_ can change while the same organization is being looked at. In the aspect, I notice a feature of the organization.
 
 ### [Ms-137](/ms-137/#128a.4) <span class="fac">[128a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp)</span>
 
-<span class="series-number">516</span> The color of the object corresponds to the color in the visual impression (this piece of paper seems pink to me, & it is pink) – the form of the object to the form in the visual impression (it seems rectangular to me, & it is rectangular) – but what I see in the aspect is not a property of the object, it is an internal relation between it & other objects.
+<span class="series-number">516</span> The colour of the object corresponds to the colour in the visual impression (this piece of paper seems pink to me, & it is pink) – the form of the object to the form in the visual impression (it seems rectangular to me, & it is rectangular) – but what I see in the aspect is not a property of the object, it is an internal relation between it & other objects.
 
 ### [Ms-137](/ms-137/#128a.5+128b.1) <span class="fac">[128a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128a.webp),[128b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/128b.webp)</span>
 
@@ -2418,7 +2418,7 @@ Does the dog, when it suddenly becomes aware of a rabbit, _think_ about it?
 
 ### [Ms-137](/ms-137/#131b.4) <span class="fac">[131b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/131b.webp)</span>
 
-<span class="series-number">548</span> Do not try to analyze the experience in yourself!
+<span class="series-number">548</span> Do not try to analyse the experience in yourself!
 
 ### [Ms-137](/ms-137/#131b.5) <span class="fac">[131b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/131b.webp)</span>
 
@@ -2476,7 +2476,7 @@ I look at an animal in a cage. Someone asks me: “What do you see?” I answer:
 
 ### [Ms-137](/ms-137/#132b.1) <span class="fac">[132b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132b.webp)</span>
 
-<span class="series-number">562</span> Question: _What speaks in favor of it_? Well, that the description that one gives of the phenomenon is also modeled by its problematic nature.
+<span class="series-number">562</span> Question: _What speaks in favour of it_? Well, that the description that one gives of the phenomenon is also modelled by its problematic nature.
 
 ### [Ms-137](/ms-137/#132b.2) <span class="fac">[132b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/132b.webp)</span>
 
@@ -2708,7 +2708,7 @@ Consider now, as an example, the aspects of the triangle. The triangle <img clas
 
 <span class="series-number">614</span> 01.01.1949
 
-(Rhees) When someone describes his current mood, for example, saying that it is like a gray cloud, – is he not observing it, even if it is perhaps modified by this observation? & does what I said about ‘descriptions’ in general apply to this description?
+(Rhees) When someone describes his current mood, for example, saying that it is like a grey cloud, – is he not observing it, even if it is perhaps modified by this observation? & does what I said about ‘descriptions’ in general apply to this description?
 
 ### [Ms-137](/ms-137/#137a.2) <span class="fac">[137a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137a.webp)</span>
 
@@ -2724,7 +2724,7 @@ Consider now, as an example, the aspects of the triangle. The triangle <img clas
 
 ### [Ms-137](/ms-137/#137a.6+137b.1) <span class="fac">[137a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137a.webp),[137b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137b.webp)</span>
 
-<span class="series-number">618</span> In what way & in what sense do I observe the pain? (For it seems to me that there is no difference whether one observes one’s sadness or one’s own pain.) I put myself in the position of feeling it. But _which_ one? The one _of that_ kind, or the one that is brought about _in this_ way? Do I say, “I would like to create this same burning pain again, in order to see _how_ it is”? What is the point of observing it if I can identify it in this way? Well, one could say: “If I only feel this same pain again & again, I will finally find the right word or even the right colored image (perhaps that of a flame) for it.” & now I can simplify the case. He does not need to intentionally bring about the pain; rather, let there be a persistent pain (in the head, or stomach) & he thinks about the right description of his feeling.
+<span class="series-number">618</span> In what way & in what sense do I observe the pain? (For it seems to me that there is no difference whether one observes one’s sadness or one’s own pain.) I put myself in the position of feeling it. But _which_ one? The one _of that_ kind, or the one that is brought about _in this_ way? Do I say, “I would like to create this same burning pain again, in order to see _how_ it is”? What is the point of observing it if I can identify it in this way? Well, one could say: “If I only feel this same pain again & again, I will finally find the right word or even the right coloured image (perhaps that of a flame) for it.” & now I can simplify the case. He does not need to intentionally bring about the pain; rather, let there be a persistent pain (in the head, or stomach) & he thinks about the right description of his feeling.
 
 ### [Ms-137](/ms-137/#137b.2) <span class="fac">[137b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137b.webp)</span>
 
@@ -2736,7 +2736,7 @@ Consider now, as an example, the aspects of the triangle. The triangle <img clas
 
 ### [Ms-137](/ms-137/#137b.4) <span class="fac">[137b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137b.webp)</span>
 
-<span class="series-number">621</span> But imagine, I stare at an object & ask myself “What kind of red am I seeing there?” I am not interested in the color of the object; rather, I am simply looking for a name for my current impression of it. Can I say: To think about an impression is not the same as ‘to observe it’?
+<span class="series-number">621</span> But imagine, I stare at an object & ask myself “What kind of red am I seeing there?” I am not interested in the colour of the object; rather, I am simply looking for a name for my current impression of it. Can I say: To think about an impression is not the same as ‘to observe it’?
 
 ### [Ms-137](/ms-137/#137b.5+138a.1) <span class="fac">[137b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/137b.webp),[138a\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138a.webp)</span>
 
@@ -2772,7 +2772,7 @@ What does the person communicating to us when they say “Now I see it as …?�
 
 <span class="series-number">629</span> 01/03/1949
 
-“What does this color remind me of?” – Whoever looks at an object & asks himself this, – is he observing the facial _impression_? []
+“What does this colour remind me of?” – Whoever looks at an object & asks himself this, – is he observing the facial _impression_? []
 
 ---
 
@@ -2782,7 +2782,7 @@ What does the person communicating to us when they say “Now I see it as …?�
 
 ### [Ms-137](/ms-137/#138a.10+138b.1) <span class="fac">[138a\[10\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138a.webp),[138b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138b.webp)</span>
 
-<span class="series-number">631</span> People often associate colors with vowels. It could be that for some, a vowel, when pronounced repeatedly, changes its color. The vowel _a_ would be ‘now blue – now red’. “Now I see it as …” might no longer mean anything more than “a is red” (combined with physiological observations, this change could also become important to us).
+<span class="series-number">631</span> People often associate colours with vowels. It could be that for some, a vowel, when pronounced repeatedly, changes its colour. The vowel _a_ would be ‘now blue – now red’. “Now I see it as …” might no longer mean anything more than “a is red” (combined with physiological observations, this change could also become important to us).
 
 ### [Ms-137](/ms-137/#138b.2) <span class="fac">[138b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/138b.webp)</span>
 
@@ -2822,7 +2822,7 @@ of the two surfaces. – If someone only sees the figure spatially for a moment,
 
 ### [Ms-137](/ms-137/#139a.6) <span class="fac">[139a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/139a.webp)</span>
 
-<span class="series-number">639</span> “Do you always _see_ this leaf as _green_, as long as you perceive it spatially, & when asked what color it is, would you answer “green” without lying?” Does this question have a clear sense? One possible answer might be: “Well, when I look at the leaf, I don’t keep saying to myself ‘Oh, how _green!_’”.
+<span class="series-number">639</span> “Do you always _see_ this leaf as _green_, as long as you perceive it spatially, & when asked what colour it is, would you answer “green” without lying?” Does this question have a clear sense? One possible answer might be: “Well, when I look at the leaf, I don’t keep saying to myself ‘Oh, how _green!_’”.
 
 ### [Ms-137](/ms-137/#139a.7) <span class="fac">[139a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/139a.webp)</span>
 
@@ -3000,7 +3000,7 @@ I could say of a picture by Picasso that I do _not_ see it as people. Or of some
 
 ### [Ms-137](/ms-137/#142a.8+142b.1) <span class="fac">[142a\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142a.webp),[142b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142b.webp)</span>
 
-<span class="series-number">679</span> This doesn't have to be the case. We could easily imagine people who do not have this relationship to the pictures. (People, for example, who would be repelled by our photographs because a face without color is eerie & ugly.)
+<span class="series-number">679</span> This doesn't have to be the case. We could easily imagine people who do not have this relationship to the pictures. (People, for example, who would be repelled by our photographs because a face without colour is eerie & ugly.)
 
 ### [Ms-137](/ms-137/#142b.2) <span class="fac">[142b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-137/142b.webp)</span>
 
@@ -3174,23 +3174,23 @@ From any script – this one, for example <img class="math math-inline math-draw
 
 <span class="series-number">720</span> 19.01.1949
 
-“Do _you_ see this leaf as always _green_, as long as you see it, & does its color not change for you?” Does this question have a clear sense? An answer to it might be: “Well, I don’t keep saying to myself all the time ‘Oh, how _green_!’”.
+“Do _you_ see this leaf as always _green_, as long as you see it, & does its colour not change for you?” Does this question have a clear sense? An answer to it might be: “Well, I don’t keep saying to myself all the time ‘Oh, how _green_!’”.
 
 ### [Ms-138](/ms-138/#4a.5) <span class="fac">[4a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/4a.webp)</span>
 
-<span class="series-number">721</span> “Are you _conscious_ of its color all the time?” First, I would like to say: “Certainly not!” But when & for how long am I conscious of it? It seems I cannot say anything sensible about that; I do not know what criteria should be applied. Should I say: “Only as long as I _think_ of it”?
+<span class="series-number">721</span> “Are you _conscious_ of its colour all the time?” First, I would like to say: “Certainly not!” But when & for how long am I conscious of it? It seems I cannot say anything sensible about that; I do not know what criteria should be applied. Should I say: “Only as long as I _think_ of it”?
 
 ### [Ms-138](/ms-138/#4a.6) <span class="fac">[4a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/4a.webp)</span>
 
-<span class="series-number">722</span> Someone tells me: “I looked at the flower, but I was thinking about something else & was not conscious of its color.” Do I understand that? – I can imagine a meaningful connection to it; it would continue something like: “Then suddenly I _saw_ it & realized that it was the one that…”.
+<span class="series-number">722</span> Someone tells me: “I looked at the flower, but I was thinking about something else & was not conscious of its colour.” Do I understand that? – I can imagine a meaningful connection to it; it would continue something like: “Then suddenly I _saw_ it & realized that it was the one that…”.
 
 ### [Ms-138](/ms-138/#4a.7+4b.1) <span class="fac">[4a\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/4a.webp),[4b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/4b.webp)</span>
 
-<span class="series-number">723</span> But what about this answer: “If I had turned away at that time and someone had asked me what color it was, I wouldn’t have known”? “He looked at him without seeing him.” That happens. But what is the criterion for that? There are just different cases.
+<span class="series-number">723</span> But what about this answer: “If I had turned away at that time and someone had asked me what colour it was, I wouldn’t have known”? “He looked at him without seeing him.” That happens. But what is the criterion for that? There are just different cases.
 
 ### [Ms-138](/ms-138/#4b.2) <span class="fac">[4b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/4b.webp)</span>
 
-<span class="series-number">724</span> “I’m looking more at the shape now than at the color.” Don’t let yourself be confused by such turns of phrase. Above all, don’t think, “What might be happening in the eye or in the brain?”
+<span class="series-number">724</span> “I’m looking more at the shape now than at the colour.” Don’t let yourself be confused by such turns of phrase. Above all, don’t think, “What might be happening in the eye or in the brain?”
 
 ### [Ms-138](/ms-138/#4b.5) <span class="fac">[4b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/4b.webp)</span>
 
@@ -3310,7 +3310,7 @@ But does that not simply mean that I could not apply _these_ concepts, which do 
 
 ### [Ms-138](/ms-138/#7a.3) <span class="fac">[7a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/7a.webp)</span>
 
-<span class="series-number">750</span> I can describe a chair by using the concept “Louis XIV style,” and in contrast to that, a description that, for example, through drawings, etc., notes the shape, color, etc., without reference to a historical period, a king, etc.
+<span class="series-number">750</span> I can describe a chair by using the concept “Louis XIV style,” and in contrast to that, a description that, for example, through drawings, etc., notes the shape, colour, etc., without reference to a historical period, a king, etc.
 
 ### [Ms-138](/ms-138/#7a.4) <span class="fac">[7a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/7a.webp)</span>
 
@@ -3348,7 +3348,7 @@ One can answer the question “What does a chair in the Louis XIV style look lik
 
 ### [Ms-138](/ms-138/#7b.5) <span class="fac">[7b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/7b.webp)</span>
 
-<span class="series-number">759</span> “Do you see that when you draw these lines, the face becomes sad?” Into which category does this sentence belong? How is it used? I once said that it is similar to a geometrical one. But one could also argue that it is a psychological one, i.e., an empirical proposition (roughly comparable to: if you mix these substances, a yellow color results).
+<span class="series-number">759</span> “Do you see that when you draw these lines, the face becomes sad?” Into which category does this sentence belong? How is it used? I once said that it is similar to a geometrical one. But one could also argue that it is a psychological one, i.e., an empirical proposition (roughly comparable to: if you mix these substances, a yellow colour results).
 
 ### [Ms-138](/ms-138/#7b.6) <span class="fac">[7b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/7b.webp)</span>
 
@@ -3434,7 +3434,7 @@ Imagine a physiological explanation for this experience. Let it be this: when lo
 
 <span class="series-number">778</span> 27.01.1949
 
-The question now arises: could there be people who cannot see something _as_ something? – Or: what would it be like if a person lacked this ability? What consequences would it have? Would this defect be comparable to that of color blindness, or to the lack of perfect pitch? We want to call it “aspect-blindness” – and now consider what this might mean. (A conceptual investigation.)
+The question now arises: could there be people who cannot see something _as_ something? – Or: what would it be like if a person lacked this ability? What consequences would it have? Would this defect be comparable to that of colour blindness, or to the lack of perfect pitch? We want to call it “aspect-blindness” – and now consider what this might mean. (A conceptual investigation.)
 
 ### [Ms-138](/ms-138/#10a.3) <span class="fac">[10a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/10a.webp)</span>
 
@@ -3598,7 +3598,7 @@ The _purpose_ of a sign. – “If you want him to come, wave your hand _like th
 
 ### [Ms-138](/ms-138/#14b.5) <span class="fac">[14b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/14b.webp)</span>
 
-<span class="series-number">814</span> And one could, for example, say: “non” and “ne” fulfill more or less the same purposes, and also: “_This_ word has hardly any purpose. You can easily do without it.”
+<span class="series-number">814</span> And one could, for example, say: “non” and “ne” fulfil more or less the same purposes, and also: “_This_ word has hardly any purpose. You can easily do without it.”
 
 ### [Ms-138](/ms-138/#14b.6) <span class="fac">[14b\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/14b.webp)</span>
 
@@ -3730,7 +3730,7 @@ James actually wants to say: “What a remarkable experience! The word is not ye
 
 ### [Ms-138](/ms-138/#17a.4+17b.1) <span class="fac">[17a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/17a.webp),[17b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/17b.webp)</span>
 
-<span class="series-number">843</span> There is here, as in many related cases, what one could call a _germinal experience_: an image, a sensation, that then gradually develops into a full explanation. And one would like to say that it is a _logical_ germ, something that had to develop in this way with _logical_ necessity. On some occasion, person N. comes to mind. How did it happen? – First, I saw an image, perhaps just gray hair – then I said the name N. (but it could also belong to many people) – but I say, I mean _that_ N., who… etc. – And furthermore, I did not _read_ the name from the mental image, & I also did not subsequently _interpret_ it in this way; for, to the question of whether I only knew or decided later to whom the gray hair & the name N. belonged, I would deny it & say that I knew it from the beginning. But knowing is not an experience. – “I knew it from the beginning” actually only means: I did not read the name from the image, because I did not, for example, think “Whose hair is this, who looks like this!” – nor did I say to myself “The name ‘N.’ should one day stand for _this_ person.” One could say that I became more and more explicit. But where does the idea of the logical germ come from? That is, actually: Where does the idea come from that “it was all already there at the beginning & contained in the first experience”? Does it not have a similar basis as James’s assertion that the thought is already complete at the beginning of the sentence? This treats intention as an experience.
+<span class="series-number">843</span> There is here, as in many related cases, what one could call a _germinal experience_: an image, a sensation, that then gradually develops into a full explanation. And one would like to say that it is a _logical_ germ, something that had to develop in this way with _logical_ necessity. On some occasion, person N. comes to mind. How did it happen? – First, I saw an image, perhaps just grey hair – then I said the name N. (but it could also belong to many people) – but I say, I mean _that_ N., who… etc. – And furthermore, I did not _read_ the name from the mental image, & I also did not subsequently _interpret_ it in this way; for, to the question of whether I only knew or decided later to whom the grey hair & the name N. belonged, I would deny it & say that I knew it from the beginning. But knowing is not an experience. – “I knew it from the beginning” actually only means: I did not read the name from the image, because I did not, for example, think “Whose hair is this, who looks like this!” – nor did I say to myself “The name ‘N.’ should one day stand for _this_ person.” One could say that I became more and more explicit. But where does the idea of the logical germ come from? That is, actually: Where does the idea come from that “it was all already there at the beginning & contained in the first experience”? Does it not have a similar basis as James’s assertion that the thought is already complete at the beginning of the sentence? This treats intention as an experience.
 
 ### [Ms-138](/ms-138/#17b.2) <span class="fac">[17b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/17b.webp)</span>
 
@@ -3742,7 +3742,7 @@ James actually wants to say: “What a remarkable experience! The word is not ye
 
 ### [Ms-138](/ms-138/#17b.4) <span class="fac">[17b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/17b.webp)</span>
 
-<span class="series-number">846</span> Could I not also say: That the gray hair first occurred to me, because the name is quite immaterial. It could just as easily have occurred to me at the beginning.
+<span class="series-number">846</span> Could I not also say: That the grey hair first occurred to me, because the name is quite immaterial. It could just as easily have occurred to me at the beginning.
 
 ### [Ms-138](/ms-138/#17b.5) <span class="fac">[17b\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/17b.webp)</span>
 
@@ -3936,7 +3936,7 @@ One could also think that people consciously calculate in their throats, just as
 
 ### [Ms-138](/ms-138/#21b.3) <span class="fac">[21b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/21b.webp)</span>
 
-<span class="series-number">886</span> The uncertainty in which all his behavior leaves me, is about what is in his mind. But does it always leave me uncertain?
+<span class="series-number">886</span> The uncertainty in which all his behaviour leaves me, is about what is in his mind. But does it always leave me uncertain?
 
 ### [Ms-138](/ms-138/#21b.4) <span class="fac">[21b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/21b.webp)</span>
 
@@ -4048,7 +4048,7 @@ What is the difference between motive & cause? – How does one _discover_ the m
 
 <span class="series-number">910</span> 22.02.1949
 
-One might think that people judge the weather; & one says, for instance, “It looks yellow in the west, that is a good sign. It will stay nice.” & acts accordingly. Another says, “No. It is gray in the north. I am convinced that it will rain” – & acts accordingly. A third has different criteria for his forecast, etc. etc. All these people can presumably be _certain_ of their assessment. And that certainty will be expressed in their actions. Yes, couldn’t they, instead of all the criteria, simply look at the sky & say: “I have the _definite_ impression that it will be …”?
+One might think that people judge the weather; & one says, for instance, “It looks yellow in the west, that is a good sign. It will stay nice.” & acts accordingly. Another says, “No. It is grey in the north. I am convinced that it will rain” – & acts accordingly. A third has different criteria for his forecast, etc. etc. All these people can presumably be _certain_ of their assessment. And that certainty will be expressed in their actions. Yes, couldn’t they, instead of all the criteria, simply look at the sky & say: “I have the _definite_ impression that it will be …”?
 
 ### [Ms-138](/ms-138/#24a.4) <span class="fac">[24a\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/24a.webp)</span>
 
@@ -4136,17 +4136,17 @@ An important fact here is that one learns certain things only through long exper
 
 ### [Ms-138](/ms-138/#26a.6+26b.1) <span class="fac">[26a\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/26a.webp),[26b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/26b.webp)</span>
 
-<span class="series-number">930</span> Does it make sense to say that people generally agree about their color judgments? What if it were different? One person would say the flower is red, the other that it is blue, etc. – But on what grounds could one now call the words “red” & “blue” the color words of these people? Why should we say that they have the same meaning? We can say one thing or the other. The concept has now changed, & there are reasons to continue to call it the same, & counter-reasons.
+<span class="series-number">930</span> Does it make sense to say that people generally agree about their colour judgments? What if it were different? One person would say the flower is red, the other that it is blue, etc. – But on what grounds could one now call the words “red” & “blue” the colour words of these people? Why should we say that they have the same meaning? We can say one thing or the other. The concept has now changed, & there are reasons to continue to call it the same, & counter-reasons.
 
 ### [Ms-138](/ms-138/#26b.2) <span class="fac">[26b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/26b.webp)</span>
 
-<span class="series-number">931</span> But what about this: “There is generally no dispute about color judgments”? There is ‘color blindness’ & ways to detect it. Is that statement not one about the _concept_ of color judgment?
+<span class="series-number">931</span> But what about this: “There is generally no dispute about colour judgments”? There is ‘colour blindness’ & ways to detect it. Is that statement not one about the _concept_ of colour judgment?
 
 ### [Ms-138](/ms-138/#26b.3) <span class="fac">[26b\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/26b.webp)</span>
 
 <span class="series-number">932</span> 24.02.1949
 
-If there were no agreement in color judgments, how would people learn to use color words? On what grounds could we call the use they learn the use of ‘color names’? But there are, of course, transitions here.
+If there were no agreement in colour judgments, how would people learn to use colour words? On what grounds could we call the use they learn the use of ‘colour names’? But there are, of course, transitions here.
 
 ### [Ms-138](/ms-138/#26b.4) <span class="fac">[26b\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/26b.webp)</span>
 
@@ -4254,7 +4254,7 @@ The soulful expression in music. It cannot be described in terms of degrees of i
 
 ### [Ms-138](/ms-138/#29b.2) <span class="fac">[29b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/29b.webp)</span>
 
-<span class="series-number">957</span> What is our ignorance about the mental states and processes in another person? Because it is made up of several things. We cannot read from their outward behavior what they say to themselves. We often cannot understand what they say. We cannot guess their intentions. We often do not know what mood they are in.
+<span class="series-number">957</span> What is our ignorance about the mental states and processes in another person? Because it is made up of several things. We cannot read from their outward behaviour what they say to themselves. We often cannot understand what they say. We cannot guess their intentions. We often do not know what mood they are in.
 
 The ignorances are of different _kinds_; and if one thinks about them being resolved, then they would be resolved in different _ways_.
 
@@ -4300,7 +4300,7 @@ Is the dream a hallucination? – The memory of the dream is like the memory of 
 
 ### [Ms-138](/ms-138/#31a.5+31b.1) <span class="fac">[31a\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/31a.webp),[31b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/31b.webp)</span>
 
-<span class="series-number">967</span> But there are simple and more complicated cases here, and this is important for the concept. Someone burns himself and cries out; only in very rare circumstances would one call his behavior “pretending.” Yes, here a doctor could tell us that it could only be pretending under these and these circumstances.
+<span class="series-number">967</span> But there are simple and more complicated cases here, and this is important for the concept. Someone burns himself and cries out; only in very rare circumstances would one call his behaviour “pretending.” Yes, here a doctor could tell us that it could only be pretending under these and these circumstances.
 
 ### [Ms-138](/ms-138/#31b.2) <span class="fac">[31b\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-138/31b.webp)</span>
 

@@ -58,7 +58,7 @@ However, this differs from a prevailing view today, which considers the surprisi
 
 ### [Ts-224](/ts-224/#213.3) <span class="fac">[213\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-224/213.webp)</span>
 
-<span class="series-number">11</span> Or what if one were to point out that, in the Euclidean sense, a line is a color boundary & not a stroke; & a point is the intersection of such color boundaries & not a dot? (How often has it been said that one cannot imagine a point?)
+<span class="series-number">11</span> Or what if one were to point out that, in the Euclidean sense, a line is a colour boundary & not a stroke; & a point is the intersection of such colour boundaries & not a dot? (How often has it been said that one cannot imagine a point?)
 
 ### [Ts-224](/ts-224/#213.4+214top.1) <span class="fac">[213\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-224/213.webp),[214top\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-224/214top.webp)</span>
 
