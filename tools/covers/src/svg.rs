@@ -113,8 +113,8 @@ pub fn render_text_svg(
 /// `text_paths` contains pre-rendered <g aria-label="..."><path .../></g> groups
 /// extracted from Inkscape's text-to-path output.
 pub fn render_cover(data: &CoverData, text_paths: &str) -> (String, usize) {
-    let mut svg_bg = String::new(); // halos (behind everything)
-    let mut svg_fg = String::new(); // circles
+    let mut svg_bg = Circles::default(); // halos (behind everything)
+    let mut svg_fg = Circles::default(); // circles
 
     let words = title_lines(&data.title);
 
@@ -158,28 +158,19 @@ pub fn render_cover(data: &CoverData, text_paths: &str) -> (String, usize) {
                     let (class, has_halo) = circle_class(para);
 
                     if has_halo {
-                        let halo_r = r + 5.0;
-                        svg_bg.push_str(&format!(
-                            r#"<circle cx="{cx}" cy="{cy}" r="{halo_r:.1}" class="h"/>"#
-                        ));
-                        svg_bg.push('\n');
+                        svg_bg.push(cx, cy, r + 5.0, "h");
                     }
 
-                    svg_fg.push_str(&format!(
-                        r#"<circle cx="{cx}" cy="{cy}" r="{r:.1}" class="{class}"/>"#
-                    ));
-                    svg_fg.push('\n');
+                    svg_fg.push(cx, cy, r, class);
                     placed += 1;
                     continue;
                 }
             }
             // Fill remaining positions with border-style circles
-            svg_fg.push_str(&format!(
-                    r#"<circle cx="{cx}" cy="{cy}" r="{BORDER_CIRCLE_R}" class="b"/>"#
-                ));
-            svg_fg.push('\n');
+            svg_fg.push(cx, cy, BORDER_CIRCLE_R, "b");
         }
     }
+    let (svg_bg, svg_fg) = (svg_bg.finish(), svg_fg.finish());
 
     // Assemble SVG
     let mut svg = format!(
@@ -200,6 +191,56 @@ pub fn render_cover(data: &CoverData, text_paths: &str) -> (String, usize) {
     svg.push_str(text_paths);
     svg.push_str("</svg>\n");
     (svg, placed)
+}
+
+/// The circles of a cover, drawn as a few <path>s rather than a <circle> each: a run of
+/// consecutive circles of the same class is one path, each circle in it two arcs. This
+/// keeps the order they are painted in (where circles overlap) while sparing the browser
+/// thousands of elements per cover to parse and lay out, which on the home page (with
+/// some 30 covers) blocked the main thread for hundreds of milliseconds on slower machines.
+#[derive(Default)]
+struct Circles {
+    svg: String,
+    class: &'static str,
+    d: String,
+}
+
+impl Circles {
+    /// Adds a circle, its radius rounded to 0.1.
+    fn push(&mut self, cx: f64, cy: f64, r: f64, class: &'static str) {
+        if class != self.class {
+            self.flush();
+            self.class = class;
+        }
+        let r = (r * 10.0).round() / 10.0;
+        let (x, r, d) = (num(cx - r), num(r), num(2.0 * r));
+        self.d.push_str(&format!(
+            "M{x} {}a{r} {r} 0 1 0 {d} 0a{r} {r} 0 1 0 -{d} 0",
+            num(cy)
+        ));
+    }
+
+    fn flush(&mut self) {
+        if !self.d.is_empty() {
+            self.svg.push_str(&format!("<path class=\"{}\" d=\"{}\"/>\n", self.class, self.d));
+            self.d.clear();
+        }
+    }
+
+    fn finish(mut self) -> String {
+        self.flush();
+        self.svg
+    }
+}
+
+/// A coordinate to one decimal, without a trailing ".0".
+fn num(x: f64) -> String {
+    let s = format!("{x:.1}");
+    match s.strip_suffix(".0") {
+        Some(int) if int != "-0" => int.to_string(),
+        Some(_) => "0".to_string(),
+        None => s,
+    }
 }
 
 /// Circle radius based on paragraph length, capped to stay within cell.

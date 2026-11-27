@@ -57,5 +57,12 @@
     {{ $c = replaceRE `(<h2 id="edited-writings"[^>]*>.*?</h2>\s*<p class="section-note">.*?</p>)` (printf `${1}<p class="view-switcher"><span>%s</span></p>` $works) $c 1 }}
     {{ $c = replaceRE `<p class="view-switcher">(<a class="switch by-.*?)</p>` (printf `<p class="view-switcher"><span>%s</span><span>${1}</span></p>` $docs) $c 1 }}
   {{ end }}
+  {{- /* The images from the edited writings on (their covers and the Nachlass Map) are
+    below the fold on any screen, so they load lazily, as they are scrolled near: the
+    first load fetches and draws only the Tractatus. */ -}}
+  {{ $parts := split $c `<h2 id="edited-writings"` }}
+  {{ if eq (len $parts) 2 }}
+    {{ $c = printf `%s<h2 id="edited-writings"%s` (index $parts 0) (replace (index $parts 1) `<img src=` `<img loading="lazy" src=`) }}
+  {{ end }}
   {{ partial "heading-links.html" $c | safeHTML }}
 </main>
