@@ -62,13 +62,13 @@ If this work has a value it consists in two things. First that in it thoughts ar
 
 On the other hand the _truth_ of the thoughts communicated here seems to me unassailable and definitive. I am, therefore, of the opinion that the problems have in essentials been finally solved. And if I am not mistaken in this, then the value of this work secondly consists in the fact that it shows how little has been done when these problems have been solved.
 
-### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
-
-<span class="series-number">1</span> The world is everything that is the case.
-
 ### [Ts-204](/ts-204/#IIIr.3-relocated) <span class="fac">[IIIr\[3\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
 
 [The decimal figures as numbers of the separate propositions indicate the logical importance of the propositions, the emphasis laid upon them in my exposition. The propositions n˙1, n˙2, etc. are comments on proposition № n, the propositions n˙m1, n˙m2, etc. are comments on the proposition № n˙m, and so on.]
+
+### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
+
+<span class="series-number">1</span> The world is everything that is the case.
 
 ### [Ts-204](/ts-204/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 

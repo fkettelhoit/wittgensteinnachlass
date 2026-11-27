@@ -62,13 +62,13 @@ Wenn diese Arbeit einen Wert hat, so besteht er in zweierlei. Erstens darin, da�
 
 Dagegen scheint mir die _Wahrheit_ der hier mitgeteilten Gedanken unantastbar und definitiv. Ich bin also der Meinung die Probleme im Wesentlichen endgültig gelöst zu haben. Und wenn ich mich hierin nicht irre, so besteht nun der Wert dieser Arbeit zweitens darin, daß sie zeigt, wie wenig damit getan ist, daß diese Probleme gelöst sind.
 
-### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
-
-<span class="series-number">1</span> Die Welt ist alles, was der Fall ist.
-
 ### [Ts-204](/ts-204/#IIIr.3-relocated) <span class="fac">[IIIr\[3\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/IIIr.webp)</span>
 
 [Die Dezimalzahlen als Nummern der einzelnen Sätze deuten das logische Gewicht der Sätze an, den Nachdruck, der auf ihnen in meiner Darstellung liegt. Die Sätze n˙1, n˙2, etc. sind Bemerkungen zum Satz № n, die Sätze n˙m1, n˙m2, etc. Bemerkungen zum Satze № n˙m, und so weiter.]
+
+### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
+
+<span class="series-number">1</span> Die Welt ist alles, was der Fall ist.
 
 ### [Ts-204](/ts-204/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 
