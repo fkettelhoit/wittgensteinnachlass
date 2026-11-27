@@ -3,6 +3,8 @@ fonts/sangbleu/
 
 # Hugo generated
 content/
+# The Nachlass Map, kept between builds (tools/build_site.sh)
+.map-cache/
 public/
 resources/
 .hugo_build.lock
