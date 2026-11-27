@@ -1306,7 +1306,7 @@ An undecidable sentence of mathematics is something that is recognized neither a
 
 ### [Ms-124](/ms-124/#135.3) <span class="fac">[135\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/135.webp)</span> {#ms-124-135-3}
 
-Imagine <img class="math math-inline math-stacked" src="../math/3c47eeb31a95a6ca.svg" alt="\lim\limits&#95;{n→∞}\;\varphi n=ℓ" style="width:5.044em;height:1.435em;vertical-align:-0.709em"> as a property of a piece of music (for example). But of course not _in such a way_ that the piece would continue endlessly, but as a property recognizable to the ear (as it were, an _algebraic_ property) of the piece.
+Imagine <img class="math math-inline math-stacked" src="../math/3c47eeb31a95a6ca.svg" alt="\lim\limits&#95;{n→∞}\;\varphi n=ℓ" style="width:5.044em;height:1.435em;vertical-align:-0.640em;margin:-0.000em 0 -0.069em"> as a property of a piece of music (for example). But of course not _in such a way_ that the piece would continue endlessly, but as a property recognizable to the ear (as it were, an _algebraic_ property) of the piece.
 
 
 ### [Ms-124](/ms-124/#137.2) <span class="fac">[137\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/137.webp)</span> {#ms-124-137-2}

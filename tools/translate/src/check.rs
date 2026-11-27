@@ -139,6 +139,8 @@ pub fn run(args: &CheckArgs) {
         }
     }
 
+    let formulas = stale_formulas(&args.input, &args.translated);
+
     // Report.
     if !untranslated_docs.is_empty() {
         eprintln!(
@@ -147,7 +149,7 @@ pub fn run(args: &CheckArgs) {
             untranslated_docs.join(", ")
         );
     }
-    let broken = !missing.is_empty() || !stale.is_empty() || !issues.is_empty();
+    let broken = !missing.is_empty() || !stale.is_empty() || !issues.is_empty() || !formulas.is_empty();
     if !missing.is_empty() {
         eprintln!("\nMissing translations ({}):", missing.len());
         for m in &missing {
@@ -170,14 +172,101 @@ pub fn run(args: &CheckArgs) {
         }
     }
 
+    if !formulas.is_empty() {
+        eprintln!(
+            "\nFormulas in English files that their German file doesn't have (outdated copies; \
+             replace them with the German's current markup) ({}):",
+            formulas.len()
+        );
+        for f in &formulas {
+            println!("FORMULA {}", f);
+        }
+    }
+
     if broken {
         eprintln!(
-            "\nBuild is broken: {} missing, {} stale, {} quality issue(s).",
+            "\nBuild is broken: {} missing, {} stale, {} quality issue(s), {} outdated formula(s).",
             missing.len(),
             stale.len(),
-            issues.len()
+            issues.len(),
+            formulas.len()
         );
         std::process::exit(1);
     }
     eprintln!("All English translations present, up to date, and verified.");
+}
+
+/// Formulas (math blocks: rendered LaTeX images, inline graphics, legacy MathML) that an
+/// English file has but its German file doesn't, as `file:remark alt`. The English copies
+/// them verbatim, so any such block is an outdated copy: the formula was re-rendered, laid
+/// out anew or broken into pieces since, and the English wasn't updated. Unlike the
+/// per-remark verification above, this covers every English file, the works included (which
+/// are not assembled from the documents' translations, so they can go stale on their own).
+fn stale_formulas(input: &Path, translated: &Path) -> Vec<String> {
+    let mut files: Vec<String> = std::fs::read_dir(translated)
+        .expect("Failed to read translated dir")
+        .filter_map(|e| e.ok()?.file_name().into_string().ok())
+        .filter(|name| name.ends_with(".md"))
+        .collect();
+    files.sort();
+    let mut out = Vec::new();
+    for filename in files {
+        let Ok(de) = std::fs::read_to_string(input.join(&filename)) else { continue };
+        let en = std::fs::read_to_string(translated.join(&filename)).expect("Failed to read English file");
+        for (remark, block) in formulas_missing_from(&de, &en) {
+            out.push(format!("{filename}:{remark} {}", formula_label(block)));
+        }
+    }
+    out
+}
+
+/// The math blocks of `en` that don't occur in `de`, with the anchor of the remark they're
+/// in (`preamble` before the first remark).
+fn formulas_missing_from<'a>(de: &str, en: &'a str) -> Vec<(String, &'a str)> {
+    let re = regex::Regex::new(MATH_PATTERN).unwrap();
+    let german: std::collections::HashSet<&str> = re.find_iter(de).map(|m| m.as_str()).collect();
+    let mut remark = "preamble".to_string();
+    let mut out = Vec::new();
+    let mut offset = 0;
+    for line in en.split_inclusive('\n') {
+        if line.starts_with("### ") {
+            remark = anchor_from_doc_heading(line.trim_end());
+        }
+        for m in re.find_iter(line) {
+            if !german.contains(m.as_str()) {
+                out.push((remark.clone(), &en[offset + m.start()..offset + m.end()]));
+            }
+        }
+        offset += line.len();
+    }
+    out
+}
+
+/// A short label for a math block: its alt text (the LaTeX), else its start.
+fn formula_label(block: &str) -> String {
+    let alt = regex::Regex::new(r#"alt="([^"]*)""#).unwrap();
+    let text = alt.captures(block).map_or(block, |c| c.get(1).unwrap().as_str());
+    // The entities the parser writes in alt text.
+    let text = [("&#95;", "_"), ("&#42;", "*"), ("&#96;", "`"), ("&lt;", "<"), ("&gt;", ">"), ("&quot;", "\""), ("&amp;", "&")]
+        .iter()
+        .fold(text.to_string(), |t, (entity, c)| t.replace(entity, c));
+    text.chars().take(80).collect()
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn finds_outdated_formula_copies() {
+        let fresh = r#"<img class="math math-inline" src="../math/a.svg" alt="a=b" style="width:2em">"#;
+        let old = r#"<img class="math math-inline" src="../math/a.svg" alt="a=b" style="width:3em">"#;
+        let de = format!("### [Ms-1](/ms-1/#1.1)\n\nAlso {fresh}.\n");
+        assert!(formulas_missing_from(&de, &format!("### [Ms-1](/ms-1/#1.1)\n\nSo {fresh}.\n")).is_empty());
+        let en = format!("### [Ms-1](/ms-1/#1.1)\n\nSo {old}.\n");
+        let found = formulas_missing_from(&de, &en);
+        assert_eq!(found.len(), 1);
+        assert_eq!(found[0].1, old);
+        assert_eq!(formula_label(found[0].1), "a=b");
+    }
 }

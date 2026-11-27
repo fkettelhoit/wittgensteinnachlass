@@ -945,7 +945,7 @@ But the line is a _law_ of progression.*
 
 ### [Ms-127](/ms-127/#17.2) <span class="fac">[17\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/17.webp)</span> {#ms-127-17-2}
 
-The concepts of the limit and continuity, as they are introduced today, are implicitly linked to the concept of _proof_. For we say <img class="math math-inline math-stacked" src="../math/0ac3a121818fc783.svg" alt="\lim\limits&#95;{x→∞}\;f(x)=ℓ" style="width:5.571em;height:1.444em;vertical-align:-0.711em"> when it can be _proven_ that … That is to say, we use concepts that are infinitely more difficult to grasp than those we openly present.
+The concepts of the limit and continuity, as they are introduced today, are implicitly linked to the concept of _proof_. For we say <img class="math math-inline math-stacked" src="../math/0ac3a121818fc783.svg" alt="\lim\limits&#95;{x→∞}\;f(x)=ℓ" style="width:5.571em;height:1.444em;vertical-align:-0.640em;margin:-0.000em 0 -0.071em"> when it can be _proven_ that … That is to say, we use concepts that are infinitely more difficult to grasp than those we openly present.
 
 
 ### [Ms-127](/ms-127/#20.2+21.1+21.2+22.1) <span class="fac">[20\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/20.webp),[21\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[21\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/21.webp),[22\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/22.webp)</span> {#ms-127-20-2--21-1--21-2--22-1}
@@ -1072,9 +1072,9 @@ The misleading aspect of the usual _representation_ consists in the fact that it
 
 Compare the two forms of explanation:
 
-“We say <img class="math math-inline" src="../math/c85529e0ed3a6fd3.svg" alt="\lim\limits&#95;{x\to\infty}\Phi(x)=L" style="width:5.907em;height:1.437em;vertical-align:-0.711em">,
+“We say <img class="math math-inline" src="../math/c85529e0ed3a6fd3.svg" alt="\lim\limits&#95;{x\to\infty}\Phi(x)=L" style="width:5.907em;height:1.437em;vertical-align:-0.640em;margin:-0.000em 0 -0.071em">,
 
-_if it can be shown_ that ‥‥”, & “<img class="math math-inline math-stacked" src="../math/e9602b6b8807cdbf.svg" alt="\lim\limits&#95;{n→∞}\;\Phi(n)=L" style="width:6.281em;height:1.435em;vertical-align:-0.709em"> means:
+_if it can be shown_ that ‥‥”, & “<img class="math math-inline math-stacked" src="../math/e9602b6b8807cdbf.svg" alt="\lim\limits&#95;{n→∞}\;\Phi(n)=L" style="width:6.281em;height:1.435em;vertical-align:-0.640em;margin:-0.000em 0 -0.069em"> means:
 
 _for every_ ε there is a δ‥‥”
 
