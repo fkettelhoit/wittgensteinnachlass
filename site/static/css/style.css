@@ -395,7 +395,7 @@ details.similar details[open] {
   }
 
   h3 > a::after,
-  .fac > a::after {
+  .fac > :is(a, span)::after {
     content: " ";
   }
 
@@ -471,7 +471,7 @@ details.similar details[open] {
       display: inline;
     }
 
-    & > .fac a {
+    & > .fac :is(a, span) {
       display: inline-block;
       max-width: 100%;
       overflow: hidden;
@@ -762,7 +762,7 @@ body.bilingual {
       display: none;
     }
 
-    & .fac > a::after {
+    & .fac > :is(a, span)::after {
       content: " ";
     }
 

@@ -2,7 +2,9 @@
 <nav><a href="/">{{ .Site.Title }}</a></nav>
 {{ partial "sticky-title.html" . }}
 <script src="/js/fragment-links.js" defer></script>
-{{ $hasRemarks := findRE `\.webp\)` .RawContent }}
+{{- /* A page with remarks (### headings), with or without facsimiles; the others (the
+  overviews of works in several parts) have just their title and list of parts. */}}
+{{ $hasRemarks := findRE `(?m)^### ` .RawContent 1 }}
 {{ if $hasRemarks }}
 <main>
   {{ $c := partial "doc-format-links.html" .Content }}

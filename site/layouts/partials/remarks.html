@@ -19,6 +19,18 @@
      start of the remark body to the end of the heading, i.e. into the margin column
      with the work references. Heading ids are already assigned at this point. */}}
 {{ $c = replaceRE `</h3>(<span class="fac">(?:[^<]|<a [^>]*>|</a>|<br>)*</span>)<div>\s*<nav class="(versions[^"]*)">(.*?)</nav>` `<nav class="${2}">${3}</nav></h3>${1}<div>` $c }}
+{{/* The page labels of documents without facsimiles (Ms-301, Ts-248, Ts-306 and W-NM) are
+     plain text ("2[1],3[1],4[1]"): one element each, like the facsimile links above (with
+     " &" and a line break between them and the label as tooltip), but not a link. */}}
+{{ range uniq (findRE `<span class="fac">[^<]+</span>` $c) }}
+  {{ $parts := split (strings.TrimSuffix "</span>" (strings.TrimPrefix `<span class="fac">` .)) "," }}
+  {{ $labels := slice }}
+  {{ range $i, $l := $parts }}
+    {{ $amp := cond (lt $i (sub (len $parts) 1)) " &amp;" "" }}
+    {{ $labels = $labels | append (printf `<span title="%s">%s%s</span>` $l $l $amp) }}
+  {{ end }}
+  {{ $c = replace $c . (printf `<span class="fac">%s</span>` (delimit $labels "<br>")) }}
+{{ end }}
 {{ $c = printf "%s</div></section>" $c }}
 {{/* Closing a facsimile (× or the backdrop) goes to the first remark on its page, i.e. to
      the text of the page the arrows have led to, which shows the title bar (style.css);
