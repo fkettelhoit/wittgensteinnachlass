@@ -42,11 +42,11 @@ There may, under certain circumstances, be a calculus that decomposes sentences,
 
 ### [Ms-116](/ms-116/#122.3+123.1) <span class="fac">[122\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-116/122.webp),[123\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-116/123.webp)</span>
 
-What can lead us to believe that there is a kind of correspondence between thought and reality? – Instead of “correspondence,” one could easily say (here): “pictoriality.” But is pictoriality a correspondence? In the Logical-Philosophical Treatise, I said something like: it is a correspondence of form.  <s>But that is a mistake. Everything can be an image of everything—if we correspond the concept of the image accordingly. What I said now amounts to this: every projection, by whatever method, must have something in common with the projected. That is, I expand the concept of “having in common” and make it equivalent to the general concept of projection. A certain kind of generalization thus imposes itself on me, a form of representation, a certain aspect. </s>
+What can lead us to believe that there is a kind of correspondence between thought and reality? – Instead of “correspondence,” one could easily say (here): “pictoriality.” But is pictoriality a correspondence? In the Logical-Philosophical Treatise, I said something like: it is a correspondence of form.  <s>But that is a mistake. Everything can be an image of everything—if we extend the concept of the image accordingly. What I said now amounts to this: every projection, by whatever method, must have something in common with the projected. That is, I expand the concept of “having in common” and make it equivalent to the general concept of projection. A certain kind of generalization thus imposes itself on me, a form of representation, a certain aspect. </s>
 
 ### [Ms-116](/ms-116/#123.2) <span class="fac">[123\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-116/123.webp)</span>
 
-Above all, “image” is used ambiguously here. One wants to say: a command is an image of the action that was carried out according to it; but also, an image of the action that _is_ _to_ be carried out according to it.
+Above all, “image” is used ambiguously here. One wants to say: a command is an image of the action that was carried out after it; but also, an image of the action that _is_ _to_ be carried out after it.
 
 ### [Ms-116](/ms-116/#124.1+125.1) <span class="fac">[124\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-116/124.webp),[125\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-116/125.webp)</span>
 

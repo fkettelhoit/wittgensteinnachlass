@@ -16,7 +16,7 @@ The role of the sentences that deal with measures and are not ‘experiential pr
 
 ### [Ms-124](/ms-124/#8.2) <span class="fac">[8\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/8.webp)</span>
 
-No one would ordinarily express this latter sentence as an experiential proposition. It is said that it expresses an agreement. But measuring would completely change its present character if, for example, the juxtaposition of 12-inch pieces did not ordinarily result in a length that could be kept apart.
+No one would ordinarily express this latter sentence as an experiential proposition. It is said that it expresses an agreement. But measuring would completely change its present character if, for example, the juxtaposition of 12-inch pieces did not ordinarily result in a length that could again be stored separately.
 
 ### [Ms-124](/ms-124/#8.3) <span class="fac">[8\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/8.webp)</span>
 
@@ -32,7 +32,7 @@ No. The sentence _rests in_ a technique. And, if you want, in the physical and p
 
 ### [Ms-124](/ms-124/#9.3+10.1) <span class="fac">[9\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/9.webp),[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/10.webp)</span>
 
-By means of the sentence 12 inches = 1 foot, I can make a prediction; namely that 12 inch-long pieces of wood placed next to each other will be of the same length as a piece measured in another way. So is the trick of that rule that one can make certain predictions by means of it? Does it lose its character as a _rule_ in this way? –
+By means of the sentence 12 inches = 1 foot, I can make a prediction; namely that 12 inch-long pieces of wood placed next to each other will be of the same length as a piece measured in another way. So is the point of that rule that one can make certain predictions by means of it? Does it lose its character as a _rule_ in this way? –
 
 ### [Ms-124](/ms-124/#10.2) <span class="fac">[10\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/10.webp)</span>
 
@@ -52,7 +52,7 @@ Whoever knows a mathematical sentence should not know anything yet. If there is 
 
 ### [Ms-124](/ms-124/#12.2) <span class="fac">[12\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/12.webp)</span>
 
-<span class="series-number">3</span> How can the mere transformation of the expression have practical consequences?
+<span class="series-number">3</span> How can the mere transformation of the expression have a practical consequence?
 
 ### [Ms-124](/ms-124/#12.3+13.1) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/13.webp)</span>
 
@@ -82,7 +82,7 @@ Whoever verifies the sentence “here are 625…” thereby also verifies “her
 
 ### [Ms-124](/ms-124/#14.5+15.1) <span class="fac">[14\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/14.webp),[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/15.webp)</span>
 
-How can you say that “… 625 …” & “…25 × 25 …” mean the same thing? – Only through our arithmetic _do_ they _become one_.
+How can you say that “… 625 …” & “…25 × 25 …” say the same thing? – Only through our arithmetic _do_ they _become one_.
 
 ### [Ms-124](/ms-124/#15.3) <span class="fac">[15\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/15.webp)</span>
 
@@ -90,7 +90,7 @@ I can obtain one type of description, for example by counting, or the other. Tha
 
 ### [Ms-124](/ms-124/#15.4+16.1) <span class="fac">[15\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/15.webp),[16\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/16.webp)</span>
 
-One could now ask: If the sentence “…625…” has been verified once in one way and once in another, did it say the same thing on both occasions? Or: What happens if one method of verifying ‘625’ yields the other, and the other does not yield ‘25 × 25’? – Is “…625…” true & “…25 × 25…” false? No! – To doubt one is to doubt the other: That is the grammar that gives our arithmetic these signs.
+One could now ask: If the sentence “…625…” has been verified once in one way and once in another, did it say the same thing on both occasions? Or: What happens if one method of verifying ‘625’ yields ‘625’, and the other does not yield ‘25 × 25’? – Is “…625…” true & “…25 × 25…” false? No! – To doubt one is to doubt the other: That is the grammar that our arithmetic gives these signs.
 
 ### [Ms-124](/ms-124/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/16.webp)</span>
 
@@ -148,7 +148,7 @@ But if someone, at the end of the calculation in our language-game, says: “so 
 
 ### [Ms-124](/ms-124/#29.1) <span class="fac">[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/29.webp)</span>
 
-The different ‘perceptions’ must correspond to different applications.
+The different ‘conceptions’ must correspond to different applications.
 
 ### [Ms-124](/ms-124/#29.3) <span class="fac">[29\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/29.webp)</span>
 
@@ -194,11 +194,11 @@ The pedestal of mathematics is the role that its sentences play in our language-
 
 ### [Ms-124](/ms-124/#36.2) <span class="fac">[36\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/36.webp)</span>
 
-What the mathematical proof demonstrates is presented as an internal relation and is removed from doubt.
+What the mathematical proof demonstrates is presented as an internal relation and is placed beyond doubt.
 
 ### [Ms-124](/ms-124/#36.3+37.1) <span class="fac">[36\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/36.webp),[37\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/37.webp)</span>
 
-<span class="series-number">7</span> What do a mathematical sentence and a mathematical proof have in common, that they are both called “mathematical”? Not that the mathematical sentence must be mathematically proven; not that the mathematical proof must prove a mathematical sentence. What does the unproven sentence (the axiom) have that is mathematical? & what does it have in common with a mathematical _proof_?
+<span class="series-number">7</span> What do a mathematical sentence and a mathematical proof have in common such that they are both called “mathematical”? Not that the mathematical sentence must be mathematically proven; not that the mathematical proof must prove a mathematical sentence. What does the unproven sentence (the axiom) have that is mathematical? & what does it have in common with a mathematical _proof_?
 
 ### [Ms-124](/ms-124/#37.2) <span class="fac">[37\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/37.webp)</span>
 
@@ -206,11 +206,11 @@ Should I answer: “The rules of inference of the mathematical proof are always 
 
 ### [Ms-124](/ms-124/#37.3+38.1) <span class="fac">[37\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/37.webp),[38\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/38.webp)</span>
 
-<span class="series-number">8</span> The proof must establish an internal relation, not an external one. For we could also imagine a process of transforming a sentence through _experiment_ and one that is used to predict what is asserted by the transformed sentence. One could, for example, (quite well) imagine that signs shift in such a way by adding other signs that they form a true prediction based on the conditions expressed in their initial state. Yes, if you like, you can regard the calculating person as a device of this kind.
+<span class="series-number">8</span> The proof must establish an internal relation, not an external one. For we could also imagine a process of transforming a sentence by _experiment_ and one that is used to predict what is asserted by the transformed sentence. One could, for example, (quite well) imagine that signs shift in such a way by adding other signs that they form a true prediction based on the conditions expressed in their initial state. Yes, if you like, you can regard the calculating person as a device of this kind.
 
 ### [Ms-124](/ms-124/#38.2) <span class="fac">[38\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/38.webp)</span>
 
-For the fact that a person _calculates_ the result, in the sense: that he does not immediately produce the result, but first writes down various other things, does not make him any less a physicochemical means of producing a number when certain other numbers are brought to him.
+For the fact that a person _calculates_ the result, in the sense: that he does not immediately produce the result, but first writes down various other things, does not make him any less a physicochemical means of producing a number when certain other things are supplied to it.
 
 ### [Ms-124](/ms-124/#38.3+39.1) <span class="fac">[38\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/38.webp),[39\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/39.webp)</span>
 
@@ -240,7 +240,7 @@ The agreement of the approvals is the prerequisite for our language-game; it is 
 
 ### [Ms-124](/ms-124/#44.3+45.1) <span class="fac">[44\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/44.webp),[45\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/45.webp)</span>
 
-If the calculation is an experiment & _the conditions are fulfilled_, then we must take as our starting point whatever results; & if the calculation is an experiment, then the proposition that it yields this & that is, after all, the proposition that under such conditions this kind of sign arises. And if, under these conditions, one result arises at one time and another at another, then one must not say “something is wrong here,” or “both calculations cannot be correct,” but one would have to say: this calculation does not always yield the same result (_why_, need not be known). But although the process is now just as interesting, perhaps even more so, we no longer have a calculation. And this, of course, is again a grammatical remark on the use of the word “calculation.” And of course, this grammar has a punchline.
+If the calculation is an experiment & _the conditions are fulfilled_, then we must take as our starting point whatever results; & if the calculation is an experiment, then the proposition that it yields this & that is, after all, the proposition that under such conditions this kind of sign arises. And if, under these conditions, one result arises at one time and another at another, then one must not say “something is wrong here,” or “both calculations cannot be correct,” but one would have to say: this calculation does not always yield the same result (_why_, need not be known). But although the process is now just as interesting, perhaps even more so, we no longer have a calculation. And this, of course, is again a grammatical remark on the use of the word “calculation.” And of course, this grammar has a point.
 
 ### [Ms-124](/ms-124/#46.1) <span class="fac">[46\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/46.webp)</span>
 
@@ -252,7 +252,7 @@ What does it mean to _agree_ on a difference in the result of a calculation? It 
 
 ### [Ms-124](/ms-124/#47.1) <span class="fac">[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/47.webp)</span>
 
-It all depends on _what_ determines the sense of the sentence. What do we want to say when we say it determines the sense of the sentence? Use must determine it. But what do we count as use? –
+It all depends on _what_ determines the sense of the sentence. What we want to say determines the sense of the sentence. The use must determine it. But what do we count as use? –
 
 ### [Ms-124](/ms-124/#47.2) <span class="fac">[47\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/47.webp)</span>
 
@@ -270,7 +270,7 @@ I once said: ‘If you want to know what a mathematical sentence says, look at w
 
 ### [Ms-124](/ms-124/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/48.webp)</span>
 
-The Russellian “~f(f)” lacks, above all, the application, and therefore the sense. But if one applies this form, it is not said that ‘f(f)’ must be a sentence in any customary sense, or ‘f(ξ)’ a sentence-function. For the concept of the sentence, apart from that of the sentence of logic, has only been explained by Russell in general, conventional terms. One looks here at the language, without looking at the language-game.
+The Russellian “~f(f)” lacks, above all, the application, and therefore the sense. But if one applies this form, it does not follow that ‘f(f)’ must be a sentence in any customary sense, or ‘f(ξ)’ a propositional function. For the concept of the sentence, apart from that of the sentence of logic, has only been explained by Russell in general, conventional terms. One looks here at the language, without looking at the language-game.
 
 ### [Ms-124](/ms-124/#48.3+49.1) <span class="fac">[48\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/48.webp),[49\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/49.webp)</span>
 
@@ -294,7 +294,7 @@ If two proofs prove the same sentence, then one can indeed imagine circumstances
 
 ### [Ms-124](/ms-124/#52.2+53.1) <span class="fac">[52\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/52.webp),[53\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/53.webp)</span>
 
-<span class="series-number">11</span> Suppose one were to calculate with numbers and sometimes also use division by expressions of the form (n – n), and in this way occasionally obtain results other than the normal results of multiplication, etc. But this would not bother anyone. – Compare this with: One creates lists, directories of people, but not as we do, alphabetically; and so it comes about that the same name appears more than once in some lists. – But now one can assume that no one notices this; or that people see it, but it doesn’t bother them. As one might imagine people of a tribe who, when they drop coins on the ground, do not consider it worthwhile to pick them up. (They might then have a saying: “They belong to others” or something similar.)
+<span class="series-number">11</span> Suppose one were to calculate with numbers and sometimes also use division by expressions of the form (n – n), and in this way occasionally obtain results other than the normal results of multiplication, etc. But this would not bother anyone. – Compare this with: One creates lists, directories of people, but not as we do, alphabetically; and so it comes about that the same name appears more than once in some lists. – But now one can assume that no one notices this; or that people see it, but it doesn’t bother them. As one might imagine people of a tribe who, when they drop coins on the ground, do not consider it worthwhile to pick them up. (They might then have a saying: “It belongs to others” or something similar.)
 
 ### [Ms-124](/ms-124/#53.2) <span class="fac">[53\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/53.webp)</span>
 
@@ -324,15 +324,15 @@ Take a theme, like Haydn’s (Chorale St. Antoni), take the part of Brahms’s v
 
 ### [Ms-124](/ms-124/#55.3+56.1) <span class="fac">[55\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/55.webp),[56\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/56.webp)</span>
 
-We agree with this approach. And yet it is clear here that there may easily be different approaches, each of which we can agree with, each of which we can consistently follow.
+We agree with this way. And yet it is clear here that there may easily be different ways, each of which we can agree with, each of which we can consistently call a way.
 
 ### [Ms-124](/ms-124/#56.3+57.1) <span class="fac">[56\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/56.webp),[57\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/57.webp)</span>
 
-‘We take all legitimate—that is, steps permitted by the rules—and suddenly a contradiction emerges. So the set of rules, as it stands, is of no use, for the contradiction overturns the whole game.’ Why do you let it overturn it? But I want it to be possible to continue reasoning _mechanically_ according to the rule without ever arriving at contradictory results. Well, what kind of foresight do you want? One that your current calculus does not allow? Well, that does not make it a bad piece of mathematics, or, not mathematics in the fullest sense. The sense of the word “mechanically” is misleading you.
+‘We take all legitimate—that is, steps permitted by the rules—and suddenly a contradiction emerges. So the set of rules, as it stands, is of no use, for the contradiction overturns the whole game.’ Why do you let it overturn it? But I want it to be possible to continue reasoning _mechanically_ according to the rule without ever arriving at contradictory results. Well, what kind of foresight do you want? One that your current calculus does not allow? Well, that does not make it a bad piece of mathematics, or, not mathematics in the fullest sense. The meaning of the word “mechanically” tempts you.
 
 ### [Ms-124](/ms-124/#57.3) <span class="fac">[57\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/57.webp)</span>
 
-<span class="series-number">12</span> If one wants to mechanically avoid a contradiction for a practical purpose, as one’s calculus cannot currently do, then it is somewhat like searching for a construction of the …-angle that one has so far only been able to draw by trial and error; or like searching for a solution to the equation of the 3<sup>rd</sup> degree, which one has so far only been able to approximate. It is not bad mathematics that is being improved here, but a new piece of mathematics is being created.
+<span class="series-number">12</span> If one wants to mechanically avoid a contradiction for a practical purpose, as one’s calculus cannot currently do, then it is somewhat like searching for a construction of the …-sided polygon that one has so far only been able to draw by trial and error; or like searching for a solution to the equation of the 3<sup>rd</sup> degree, which one has so far only been able to approximate. It is not bad mathematics that is being improved here, but a new piece of mathematics is being created.
 
 ### [Ms-124](/ms-124/#57.4+58.1) <span class="fac">[57\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/58.webp)</span>
 
@@ -354,7 +354,7 @@ The idea of mechanizing mathematics. The fashion of the axiomatic system.
 
 ### [Ms-124](/ms-124/#60.4+61.1) <span class="fac">[60\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/60.webp),[61\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/61.webp)</span>
 
-<span class="series-number">13</span> But let us assume that the ‘axioms’ & ‘modi of inference’ are not merely arbitrary methods of construction, but that they also thoroughly convince us of what is constructed! Well, then that means there are cases in which the construction from these building blocks is _not_ convincing. And in fact, the logical axioms are not convincing at all if we substitute into the sentence variables structures that no one originally foresaw as possible values when their truth was (at the outset) unconditionally accepted.
+<span class="series-number">13</span> But let us assume that the ‘axioms’ & ‘rules of inference’ are not merely arbitrary methods of construction, but that they also thoroughly convince us of what is constructed! Well, then that means there are cases in which the construction from these building blocks is _not_ convincing. And in fact, the logical axioms are not convincing at all if we substitute into the sentence variables structures that no one originally foresaw as possible values when their truth was (at the outset) unconditionally accepted.
 
 ### [Ms-124](/ms-124/#61.2) <span class="fac">[61\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/61.webp)</span>
 
@@ -366,7 +366,7 @@ But what if one says: the axioms and rules of inference should be chosen so that
 
 ### [Ms-124](/ms-124/#61.4+62.1) <span class="fac">[61\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/61.webp),[62\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/62.webp)</span>
 
-Suppose I had established the rules for the game ‘Fox and Hunter’, imagined the game as entertaining and beautiful – later I find that the hunters can always win if you know how. I am now, let us say, dissatisfied with my game. The rules I gave have produced a result that I did not foresee and that spoils the game for me.
+Suppose I had established the rules for the game ‘Fox and Hunter’, imagined the game as entertaining and beautiful – later I find that the hunters can always win if one knows how. I am now, let us say, dissatisfied with my game. The rules I gave have produced a result that I did not foresee and that spoils the game for me.
 
 ### [Ms-124](/ms-124/#62.2) <span class="fac">[62\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/62.webp)</span>
 
@@ -380,7 +380,7 @@ But let us suppose that the others, too, had noticed those contradictions, only 
 
 ### [Ms-124](/ms-124/#64.2) <span class="fac">[64\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/64.webp)</span>
 
-People have so far made relatively rare use of shortening by means of expressions of value 0. At some point, someone discovers that in this way they can actually calculate any result whatsoever. – What do they do now? Well, we could imagine many different things. They could, for example, now provide an explanation for why this method of calculation has (thereby) lost its appeal, and _so_ should not be used for calculations in the future.
+People have so far made relatively rare use of shortening by means of expressions of value 0. At some point, someone discovers that in this way they can actually calculate any result whatsoever. – What do they do now? Well, we could imagine many different things. They could, for example, now declare that this method of calculation has (thereby) lost its appeal, and _so_ should not be used for calculations in the future.
 
 ### [Ms-124](/ms-124/#64.3) <span class="fac">[64\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/64.webp)</span>
 
@@ -388,7 +388,7 @@ People have so far made relatively rare use of shortening by means of expression
 
 ### [Ms-124](/ms-124/#64.4+65.1) <span class="fac">[64\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/64.webp),[65\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/65.webp)</span>
 
-<span class="series-number">15</span> If the calculation has lost its charm for me as soon as I know how to calculate anything at all—did it not have any charm as long as I did _not_ have the knowledge to do so?
+<span class="series-number">15</span> If the calculation has lost its point for me as soon as I know how to calculate anything at all—did it not have a point as long as I did _not_ know that?
 
 ### [Ms-124](/ms-124/#65.2) <span class="fac">[65\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/65.webp)</span>
 
@@ -448,11 +448,11 @@ And what if one found the contradiction, but did not get upset about it any furt
 
 ### [Ms-124](/ms-124/#69.3+70.1) <span class="fac">[69\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/69.webp),[70\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/70.webp)</span>
 
-“But then it is not a proper calculus! It loses all its _rigor_!” Well, not _all_ of it. And it only lacks full rigor if one has a certain ideal of rigor, builds a certain style of mathematics.
+“But then it is not a proper calculus! It loses all its _rigor_!” Well, not _all_ of it. And it only lacks full rigor if one has a certain ideal of rigour, one is building a certain style of mathematics.
 
 ### [Ms-124](/ms-124/#70.2) <span class="fac">[70\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/70.webp)</span>
 
-“But a contradiction in mathematics is incompatible with its application. If consistently used, i.e., for generating _arbitrary_ results, it turns the application of mathematics into a farce, or a kind of superfluous ceremony. Its effect is similar to that of unstable standards, which allow different measurement results through stretching & compressing.” But wasn’t measuring by pacing _a_ form of measuring? And if people used rulers made of dough, would that in itself be something to criticize?
+“But a contradiction in mathematics is incompatible with its application. If consistently used, i.e., for generating _arbitrary_ results, it turns the application of mathematics into a farce, or a kind of superfluous ceremony. Its effect is roughly that of non-rigid standards, which allow different measurement results through stretching & compressing.” But was measuring by pacing _not_ measuring? And if people used rulers made of dough, would that in itself already be wrong?
 
 ### [Ms-124](/ms-124/#70.3) <span class="fac">[70\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/70.webp)</span>
 
@@ -476,7 +476,7 @@ _One_ mistake must be avoided: One thinks that contradiction _must_ be senseless
 
 ### [Ms-124](/ms-124/#72.2) <span class="fac">[72\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/72.webp)</span>
 
-The _mathematical_ problems of the so-called foundations are as fundamental to mathematics as a painted rock is to a painted castle.
+The _mathematical_ problems of the so-called foundations are as little foundational to mathematics as a painted rock is to a painted castle.
 
 ### [Ms-124](/ms-124/#72.3) <span class="fac">[72\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/72.webp)</span>
 
@@ -494,7 +494,7 @@ One could even imagine that Frege’s logic was given to a savage as an instrume
 
 ### [Ms-124](/ms-124/#73.3+74.1) <span class="fac">[73\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/73.webp),[74\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/74.webp)</span>
 
-<span class="series-number">17</span> It is said that calculation is an experiment to show how practical it can be. Because in the experiment, one knows that it has a real practical value. One only forgets that it has this value because of a technique, which is a natural historical fact, but whose rules do not have the role of sentences of natural history.
+<span class="series-number">17</span> It is said that calculation is an experiment to show how practical it can be. For one knows of the experiment that it has real practical value. One only forgets that it has this value because of a technique, which is a natural historical fact, but whose rules do not have the role of sentences of natural history.
 
 ### [Ms-124](/ms-124/#74.2) <span class="fac">[74\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/74.webp)</span>
 
@@ -508,7 +508,7 @@ He knows that an experiment is practical; therefore, calculation is an experimen
 
 ### [Ms-124](/ms-124/#74.4) <span class="fac">[74\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/74.webp)</span>
 
-Our experimental actions certainly have a characteristic appearance. If I see someone in a laboratory pouring a liquid into a test tube and heating it over a Bunsen burner, I am inclined to say that he is doing an experiment.
+Our experimental actions certainly have a characteristic appearance. If I see someone in a laboratory pouring a liquid into a test tube and heating it over a Bunsen flame, I am inclined to say that he is doing an experiment.
 
 ### [Ms-124](/ms-124/#74.5+75.1) <span class="fac">[74\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/74.webp),[75\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/75.webp)</span>
 
@@ -538,7 +538,7 @@ If I doubt whether the numbers n and m multiplied will yield 𝓁, then I am not
 
 ### [Ms-124](/ms-124/#77.2+78.1) <span class="fac">[77\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/77.webp),[78\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/78.webp)</span>
 
-<span class="series-number">18</span> “If calculation is to be practical, it must communicate facts. And that can only be done by the experiment.” But what are ‘facts’? Do you think you can show which fact is meant by, for example, pointing at it? Does that already make clear the role that the ‘statement’ of a fact plays? – If mathematics only defines the _nature_ of what you call a ‘fact’! ‘It is interesting to know _how many_ oscillations this tone has.’ But arithmetic has only taught you that question. It has taught you to see this kind of fact.
+<span class="series-number">18</span> “If calculation is to be practical, it must communicate facts. And that can only be done through experiment.” But what are ‘facts’? Do you think you can show which fact is meant by, for example, pointing at it? Does that already make clear the role that the ‘establishing of a fact’ plays? – What if mathematics were to determine the _character_ of what you call a ‘fact’! ‘It is interesting to know _how many_ oscillations this tone has.’ But arithmetic has taught you that question in the first place. It has taught you to see this kind of fact.
 
 ### [Ms-124](/ms-124/#78.2) <span class="fac">[78\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/78.webp)</span>
 
@@ -558,7 +558,7 @@ Can we say that mathematics teaches us experimental _methods_ of research? Or th
 
 ### [Ms-124](/ms-124/#79.3) <span class="fac">[79\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/79.webp)</span>
 
-“Yes, but it remains an empirical fact that people calculate like that!” – Yes, but that does not make their calculations empirical sentences.
+“Yes, but it remains an empirical fact that people calculate like that!” – Yes, but that does not make their calculation sentences empirical sentences.
 
 ### [Ms-124](/ms-124/#79.4+80.1) <span class="fac">[79\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/79.webp),[80\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/80.webp)</span>
 
@@ -576,7 +576,7 @@ And it does not change anything that we recalculate the proof figure in order to
 
 July 2, 1941
 
-‘A minute has 60 seconds.’ That is a sentence quite _similar_ to a mathematical one. Does its truth depend on experience? – Well: could we speak of minutes and seconds if there were no sense of time; if there were no clocks, or, for physical reasons, could not be any; if all the connections that give our measures of time their meaning and significance did not exist? In that case—we would say—the unit of time would have lost its point (like the act of placing a pawn without the game of chess)—or it would then have a completely different sense. But does the experience described in one way make the statement false, and the other true? No; _that_ would not describe its function. It works quite differently.
+‘A minute has 60 seconds.’ That is a sentence quite _similar_ to a mathematical one. Does its truth depend on experience? – Well: could we speak of minutes and seconds if there were no sense of time; if there were no clocks, or, for physical reasons, could not be any; if all the connections that give our measures of time their meaning and significance did not exist? In that case—we would say—the measure of time would have lost its point (like the act of checkmate without the institution of chess)—or it would then have a completely different sense. But does the experience described in one way make the sentence false, and the other true? No; _that_ would not describe its function. It functions quite differently.
 
 ### [Ms-124](/ms-124/#84.2) <span class="fac">[84\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/84.webp)</span>
 
@@ -648,7 +648,7 @@ In this sense, the sentence 625 = 25 × 25 also says something about itself: nam
 
 ### [Ms-124](/ms-124/#88.4) <span class="fac">[88\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/88.webp)</span>
 
-Gödel’s theorem, which makes a statement about itself, does not _mention_ itself.
+Gödel’s sentence, which says something about itself, does not _mention_ itself.
 
 ### [Ms-124](/ms-124/#89.2) <span class="fac">[89\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/89.webp)</span>
 
@@ -666,7 +666,7 @@ The limits of empiricism are not unsupported assumptions, or intuitively recogni
 
 <span class="series-number">22</span> July 3, 1941
 
-‘Let us assume we have an arithmetic statement stating that a certain number … cannot be obtained from the numbers …, …, …, by means of the & the operations. And let us assume there could be a translation rule according to which this arithmetic theorem could be translated into the digits of that first number—the axioms from which we attempt to provide a proof of it into the digits of those other numbers—and our rules of inference into the operations mentioned in the theorem. – If we had then derived _the arithmetic theorem_ from the axioms according to our rules of inference, we would _thereby_ have demonstrated its derivability, but also provided a proof of a theorem that, according to that translation rule, can be stated as follows: this arithmetic theorem (namely ours) is undecidable. What, then, should be done? I imagine we accept our _construction_ of _the theorem_ _symbol_, that is, the _geometric_ proof. We thus say that this ‘theorem figure’ can be obtained from those in such and such a way. And translated, merely, into another notation, this means: this number can be derived from those by means of these operations. So far, the theorem and its proof have nothing to do with any particular _logic_. Here, that constructed theorem was simply another way of writing the constructed number; it had the _form_ of a theorem, but we did not make a comparison of it with other theorems as a sign that _says_ this or that, that has a _sense_.
+‘Let us assume we have an arithmetic sentence stating that a certain number … cannot be obtained from the numbers …, …, …, by means of the & the operations. And let us assume there could be a translation rule according to which this arithmetic sentence could be translated into the digit of that first number—the axioms from which we try to prove it could be translated into the digits of those other numbers—and our rules of inference could be translated into the operations mentioned in the sentence. – If we had then derived _the arithmetic sentence_ from the axioms according to our rules of inference, we would _thereby_ have demonstrated its derivability, but also proved a sentence which, according to that translation rule, can be stated as follows: this arithmetic sentence (namely ours) is not derivable. What, then, should be done? I imagine we give credence to our _construction_ of the _sentence-sign_, that is, the _geometric_ proof. We thus say that this ‘sentence figure’ can be obtained from those in such and such a way. And translated, merely, into another notation, this means: this digit can be obtained from those by means of these operations. So far, the sentence and its proof have nothing to do with any particular _logic_. Here, that constructed sentence was simply another way of writing the constructed digit; it had the _form_ of a sentence, but we did not make a comparison of it with other sentences as a sign that _says_ this or that, that has a _sense_.
 
 ### [Ms-124](/ms-124/#92.2) <span class="fac">[92\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/92.webp)</span>
 
@@ -890,7 +890,7 @@ The sentence “15 × 18 = 270” does not naturally have to be uttered.
 
 10.03.1944
 
-One could say: Experiment – calculation are poles between which human actions move.
+One could say: Experiment and calculation are poles between which human actions move.
 
 ### [Ms-124](/ms-124/#114.3) <span class="fac">[114\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/114.webp)</span>
 
@@ -914,11 +914,11 @@ One might say: if you _do not_ have a better understanding of a mathematical the
 
 ### [Ms-124](/ms-124/#117.4+118.1) <span class="fac">[117\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/117.webp),[118\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/118.webp)</span>
 
-<span class="series-number">34</span> – Here is a contradiction. But we do not see it and draw conclusions from it. For example, on mathematical sentences; and on false ones. But we accept these conclusions. – And if one of the bridges we calculated collapses, then we find another cause for it, or say that God willed it. Was our calculation wrong; or was it not a calculation? Certainly, if we now consider the people who do it as researchers, we will perhaps say: these people do not calculate at all. Or: in their calculations there is an element of arbitrariness, which distinguishes the essence of their mathematics from that of ours. And yet we could not deny that the people have a mathematics.
+<span class="series-number">34</span> – Here is a contradiction. But we do not see it and draw conclusions from it. For example, on mathematical sentences; and on false ones. But we accept these conclusions. – And if one of the bridges we calculated collapses, then we find another cause for it, or say that God willed it. Was our calculation wrong; or was it not a calculation? Certainly, if, as travelling researchers, we now consider the people who do it, we will perhaps say: these people do not calculate at all. Or: in their calculations there is an element of arbitrariness, which distinguishes the essence of their mathematics from that of ours. And yet we could not deny that the people have a mathematics.
 
 ### [Ms-124](/ms-124/#118.2+119.1) <span class="fac">[118\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/118.webp),[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/119.webp)</span>
 
-What rules must the king give, so that he escapes the unpleasant situation that his prisoner has brought him into, from now on? – What kind of problem is this? – It is similar to this: How must I change the rules of this game so that the and the situation cannot occur. And that is a mathematical task.
+What rules must the king give, so that he escapes the unpleasant situation that his prisoner has brought him into, from now on? – What kind of problem is this? – It is similar to this: How must I change the rules of this game so that this and that situation cannot occur. And that is a mathematical task.
 
 ### [Ms-124](/ms-124/#119.2) <span class="fac">[119\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/119.webp)</span>
 
@@ -932,7 +932,7 @@ Can one say: “After this mathematical problem was solved, people actually bega
 
 <span class="series-number">35</span> March 11, 1944
 
-What kind of security is this, if it rests on the fact that our banks _are_ generally not overrun by all their customers at once; but would go bankrupt if it did happen?! Well, it is a _different_ kind of security than the more primitive one; but it is still a security. I mean: if a contradiction were actually found in arithmetic—well, that would only be a proof that arithmetic with _such_ a contradiction could serve us very well; & it would be better to modify our concept of necessary certainty than to say that it wasn’t really proper arithmetic after all.
+What kind of certainty is this, if it rests on the fact that our banks _are_ generally not overrun by all their customers at once; but would go bankrupt if it did happen?! Well, it is a _different_ kind of certainty than the more primitive one; but it is still a certainty. I mean: if a contradiction were actually found in arithmetic—well, that would only be a proof that arithmetic with _such_ a contradiction could serve us very well; & it would be better to modify our concept of necessary certainty than to say that it wasn’t really proper arithmetic after all.
 
 ### [Ms-124](/ms-124/#120.2) <span class="fac">[120\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/120.webp)</span>
 
@@ -970,7 +970,7 @@ But what if one gives a particular lion (the Lion King, for example) the name �
 
 ### [Ms-124](/ms-124/#123.5+124.1) <span class="fac">[123\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/123.webp),[124\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/124.webp)</span>
 
-But if the sentence “lion is a lion” were used in this way, would I not be drawing attention to the fact that I was drawing attention to the difference in the use of the two “lions”?
+But if the sentence “lion is a lion” were used in this way, would I not be drawing attention to nothing by drawing attention to the difference in the use of the two occurrences of “lion”?
 
 ### [Ms-124](/ms-124/#124.2) <span class="fac">[124\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/124.webp)</span>
 
@@ -1014,7 +1014,7 @@ Yes, but isn’t a rule something arbitrary? Something I _lay down_? And could I
 
 ### [Ms-124](/ms-124/#127.2+128.1+129.1) <span class="fac">[127\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/127.webp),[128\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/128.webp),[129\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/129.webp)</span>
 
-“It is impossible for human beings … to recognize an object as distinct from itself.” Yes, if only I had the slightest idea how to do it, – I would try it right away! – But if it is impossible for us to recognize an object as distinct from itself, then surely it is possible to recognize two objects as distinct from one another? So I have, say, two armchairs in front of me & recognize that there are _two_. But under certain circumstances I might also believe that there is only _one_; & in _this_ sense I might also consider one to be two. – But in doing so I do not recognize the armchair as distinct from itself! True; but then I have not recognized the two as distinct from one another either. Whoever believes he can do this—and plays a sort of psychological game—should translate this into a game of gestures. If he has two objects in front of him, let him point to one of them with each hand; as if he wants to suggest to them that they are autonomous. If he has only one object in front of him, let him point to it with both hands to suggest that no distinction can be made between it and himself. – But why, then, should one not play the game in the opposite way?
+“It is impossible for human beings … to recognize an object as distinct from itself.” Yes, if only I had the slightest idea how to do it, – I would try it right away! – But if it is impossible for us to recognize an object as distinct from itself, then surely it is possible to recognize two objects as distinct from one another? So I have, say, two armchairs in front of me & recognize that there are _two_. But under certain circumstances I might also believe that there is only _one_; & in _this_ sense I might also consider one to be two. – But in doing so I do not recognize the armchair as distinct from itself! True; but then I have not recognized the two as distinct from one another either. Whoever believes he can do this—and plays a sort of psychological game—should translate this into a game of gestures. If he has two objects in front of him, let him point to one of them with each hand; as if he wants to suggest to them that they are autonomous. If he has only one object in front of him, let him point to it with both hands to suggest that no distinction can be made between it and itself. – But why, then, should one not play the game in the opposite way?
 
 ### [Ms-124](/ms-124/#129.2+130.1) <span class="fac">[129\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/129.webp),[130\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/130.webp)</span>
 
@@ -1052,7 +1052,7 @@ To use a word without justification does not mean to use it wrongly.
 
 ### [Ms-124](/ms-124/#133.2) <span class="fac">[133\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/133.webp)</span>
 
-The problem of the previous language-game [№ …] also exists in this: bring me something red. Because how do I recognize that something is red? By the agreement of the color with a sample? – By what right do I say: “Yes, that is red”? Well, I say it; and it cannot be justified. And also for this language-game, as for the previous one, it is characteristic that it would take place under the quiet agreement of all people.
+The problem of the previous language-game [№ …] also exists in this: bring me something red. Because how do I recognize that something is red? By the agreement of the colour with a sample? – By what right do I say: “Yes, that is red”? Well, I say it; and it cannot be justified. And also for this language-game, as for the previous one, it is characteristic that it would take place under the quiet agreement of all people.
 
 ### [Ms-124](/ms-124/#135.2) <span class="fac">[135\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/135.webp)</span>
 
@@ -1076,7 +1076,7 @@ What harm is there, for example, in saying that God knows _all_ irrational numbe
 
 ### [Ms-124](/ms-124/#175.2) <span class="fac">[175\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/175.webp)</span>
 
-Suppose people continue to calculate the development of π further and further. The omniscient God therefore knows whether they will have arrived at the figure 777 by the time of the end of the world. But can His _knowledge_ determine whether people _would have_ arrived at that figure after the end of the world? It cannot. What I want to say is: Even God can determine mathematical matters only through mathematics. Even for him, the mere rule of calculation cannot determine anything that it does not determine for us.
+Suppose people continue to calculate the development of π further and further. The omniscient God therefore knows whether they will have arrived at the figure 777 by the time of the end of the world. But can His _omniscience_ determine whether people _would have_ arrived at that figure after the end of the world? It cannot. What I want to say is: Even God can determine mathematical matters only through mathematics. Even for him, the mere rule of calculation cannot determine anything that it does not determine for us.
 
 ### [Ms-124](/ms-124/#175.3+176.1) <span class="fac">[175\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/175.webp),[176\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/176.webp)</span>
 
@@ -1084,7 +1084,7 @@ One could put it this way: If the rule of development is given to us, then a _ca
 
 ### [Ms-124](/ms-124/#139.3) <span class="fac">[139\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/139.webp)</span>
 
-<span class="series-number">42</span> When I said of mathematics that its propositions determine concepts, that is _vague_; for “2 + 2 = 4” forms a concept in a different sense than “p ⊃ p”, “(x)․fx ⊃ fa”, or Dedekind’s theorem. There is, in fact, a family of cases here.
+<span class="series-number">42</span> When I said of mathematics that its sentences determine concepts, that is _vague_; for “2 + 2 = 4” forms a concept in a different sense than “p ⊃ p”, “(x)․fx ⊃ fa”, or Dedekind’s theorem. There is, in fact, a family of cases here.
 
 ### [Ms-124](/ms-124/#139.4+140.1) <span class="fac">[139\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/139.webp),[140\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/140.webp)</span>
 
@@ -1100,7 +1100,7 @@ Of course, one says, “that is all already contained in our concept” of the r
 
 ### [Ms-124](/ms-124/#140.4+141.1) <span class="fac">[140\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/140.webp),[141\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/141.webp)</span>
 
-The number is, as Frege says, a property of a concept—but in mathematics it is a characteristic of a mathematical concept. <img class="math math-inline math-stacked" src="../math/4ed88f39525aca3f.svg" alt="{ℵ}&#95;{o}" style="width:1.060em;height:0.888em;vertical-align:-0.158em"> is a _characteristic_ of the concept of cardinal numbers; & the _property_ of a technique. <img class="math math-inline math-stacked" src="../math/e2feafeeacfbffbd.svg" alt="{2}^{{ℵ}&#95;{o}}" style="width:1.333em;height:0.882em;vertical-align:-0.003em"> is a feature of the concept of the infinite decimal fraction, but of what is this number a property? That is: of what kind of concept can it be empirically stated?
+The number is, as Frege says, a property of a concept—but in mathematics it is a characteristic of a mathematical concept. <img class="math math-inline math-stacked" src="../math/4ed88f39525aca3f.svg" alt="{ℵ}&#95;{o}" style="width:1.060em;height:0.888em;vertical-align:-0.158em"> is a _characteristic_ of the concept of the cardinal number; & the _property_ of a technique. <img class="math math-inline math-stacked" src="../math/e2feafeeacfbffbd.svg" alt="{2}^{{ℵ}&#95;{o}}" style="width:1.333em;height:0.882em;vertical-align:-0.003em"> is a characteristic of the concept of the infinite decimal fraction, but of what is this number a property? That is: of what kind of concept can it be empirically stated?
 
 ---
 
@@ -1114,7 +1114,7 @@ The surprising, paradoxical thing is paradoxical only in a certain, as it were, 
 
 ### [Ms-124](/ms-124/#141.4+142.1) <span class="fac">[141\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/141.webp),[142\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/142.webp)</span>
 
-If I have proven that 18 × 15 = 270, then I have also proven the geometric proposition that by applying the rules of transformation to the sign “18 × 15” one obtains the sign “270”. – Now suppose that people, prevented by some poison from seeing clearly or remembering correctly (as we would now say), did not obtain “270” in this calculation. – If, when one cannot correctly predict with it what one will obtain under normal circumstances, is the calculation not useless? Well, even if it is, that does not show that the proposition 18 × 15 = 270 is an empirical proposition: people generally calculate _like this_.
+If I have proven that 18 × 15 = 270, then I have also proven the geometric proposition that by applying the rules of transformation to the sign “18 × 15” one obtains the sign “270”. – Now suppose that people, prevented by some poison from seeing clearly or remembering correctly (as we would now say), did not obtain “270” in this calculation. – If one cannot correctly predict with it what one will obtain under normal circumstances, is the calculation not useless? Well, even if it is, that does not show that the proposition 18 × 15 = 270 is an empirical proposition: people generally calculate _like this_.
 
 ### [Ms-124](/ms-124/#142.2+143.1) <span class="fac">[142\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/142.webp),[143\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/143.webp)</span>
 
@@ -1122,11 +1122,11 @@ On the other hand, it is not clear that the general agreement of those who calcu
 
 ### [Ms-124](/ms-124/#144.3+145.1) <span class="fac">[144\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/144.webp),[145\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/145.webp)</span>
 
-<span class="series-number">44</span> Can one say that mathematics teaches an experimental method of research, a way of asking questions? Well, one cannot say that it teaches me, for example, to ask whether a certain body moves according to a parabolic equation? – But what does mathematics do in this case? Without it or without mathematicians, we would certainly not have arrived at the definition of this curve. But was defining this curve already mathematics? Did it, for example, require mathematics when people investigated the movement of bodies to see whether their path could be represented by an ellipse construction with a thread & two nails? Who invented this kind of investigation, was he doing mathematics? He did, after all, create a new _concept_. But was it in the way that mathematics does this? Was it, as the multiplication 18 × 15 = 270 gives us a new concept?
+<span class="series-number">44</span> Can one say that mathematics teaches an experimental method of research, a way of asking questions? Well, one cannot say that it teaches me, for example, to ask whether a certain body moves according to a parabolic equation? – But what does mathematics do in this case? Without it or without mathematicians, we would certainly not have arrived at the definition of this curve. But was defining this curve already mathematics? Did it, for example, require mathematics when people investigated the movement of bodies to see whether their path could be represented by an ellipse construction with a thread & two nails? If someone had invented this kind of investigation, would he have been doing mathematics? He did, after all, create a new _concept_. But was it in the way that mathematics does this? Was it, as the multiplication 18 × 15 = 270 gives us a new concept?
 
 ### [Ms-124](/ms-124/#145.2) <span class="fac">[145\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/145.webp)</span>
 
-<span class="series-number">45</span> So can one _not_ say that mathematics teaches us to count? If it teaches us to count, why not also to compare colors with each other?
+<span class="series-number">45</span> So can one _not_ say that mathematics teaches us to count? If it teaches us to count, why not also to compare colours with each other?
 
 ### [Ms-124](/ms-124/#145.3+146.1) <span class="fac">[145\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/145.webp),[146\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/146.webp)</span>
 
@@ -1138,7 +1138,7 @@ Teaching us the equation of the ellipse is similar to teaching us to count. But 
 
 ### [Ms-124](/ms-124/#146.3) <span class="fac">[146\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/146.webp)</span>
 
-If I have now taught someone in a language-game this question & a method of answering it, have I taught him mathematics? Or only if he has operated with signs?
+If I had now taught someone in a language-game this question & a method of answering it, would I have taught him mathematics? Or only if he has operated with signs?
 
 ### [Ms-124](/ms-124/#146.4) <span class="fac">[146\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/146.webp)</span>
 
@@ -1176,7 +1176,7 @@ But it is the proven, or assumed as a postulate, mathematical proposition that d
 
 ### [Ms-124](/ms-124/#148.3+149.1) <span class="fac">[148\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/148.webp),[149\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/149.webp)</span>
 
-<span class="series-number">46</span> But can one not still experiment mathematically? For example, try whether a cat’s head can be folded from a square piece of paper, whereby the _physical_ properties of the paper, its strength, elasticity, etc., are not called into question? Now, one is certainly talking about an attempt here. And why not about an experiment? This case is similar to tentatively inserting pairs of numbers into the equation x² + y² = 25 in order to find one that satisfies the equation. And if one finally arrives at 3² + 4² = 25, is this proposition now the result of an experiment? Why was the process called an attempt? Would we have called it that if someone solved such problems every time with complete certainty (the sign of certainty) but without calculation? In what would the experimenting consist here? Suppose that before he gives the solution, it appears to him as a vision. –
+<span class="series-number">46</span> But can one not still experiment mathematically? For example, try whether a cat’s head can be folded from a square piece of paper, whereby the _physical_ properties of the paper, its strength, elasticity, etc., are not called into question? Now, one is certainly talking about an attempt here. And why not about an experiment? This case is similar to tentatively inserting pairs of numbers into the equation x² + y² = 25 in order to find one that satisfies the equation. And if one finally arrives at 3² + 4² = 25, is this proposition now the result of an experiment? Why was the process called an attempt? Would we have called it that if someone solved such problems every time with complete certainty (the signs of certainty) but without calculation? In what would the experimenting consist here? Suppose that before he gives the solution, it appears to him as a vision. –
 
 ### [Ms-124](/ms-124/#149.2) <span class="fac">[149\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/149.webp)</span>
 
@@ -1218,7 +1218,7 @@ The line, one might say, tells me how to walk. But this is of course only a pict
 
 ### [Ms-124](/ms-124/#153.2) <span class="fac">[153\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/153.webp)</span>
 
-Here we would (perhaps) truly say: “The template seems _to suggest_ to him how he should walk. But it is not a rule.”
+Here we would (perhaps) truly say: “The template seems _to tell_ him how he should walk. But it is not a rule.”
 
 ### [Ms-124](/ms-124/#153.3) <span class="fac">[153\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/153.webp)</span>
 
@@ -1250,7 +1250,7 @@ Would it make sense to say: “If he did something _different_ every time, would
 
 ### [Ms-124](/ms-124/#156.2) <span class="fac">[156\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp)</span>
 
-“But doesn’t understanding go further than all the examples?” A very remarkable statement, & quite natural.
+“But doesn’t understanding go further than all the examples?” A very remarkable expression, & quite natural.
 
 ### [Ms-124](/ms-124/#156.3) <span class="fac">[156\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp)</span>
 
@@ -1258,7 +1258,7 @@ If one lists examples & then says “and so on,” this latter expression is exp
 
 ### [Ms-124](/ms-124/#156.4) <span class="fac">[156\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp)</span>
 
-For the “and so on” could, on the one hand, be replaced by an arrow that indicates that the end of the series of examples is not meant to indicate the end of its application. On the other hand, “and so on” also means: it is enough, you have understood me; we need no further examples.
+For the “and so on” could, on the one hand, be replaced by an arrow that indicates that the end of the series of examples is not meant to indicate the end of its application. On the other hand, “and so on” also means: it is enough, you have understood me me; we need no further examples.
 
 ### [Ms-124](/ms-124/#156.5+157.1) <span class="fac">[156\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/156.webp),[157\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/157.webp)</span>
 
@@ -1346,7 +1346,7 @@ Consider: under what circumstances will the explorer say: the word “…” of 
 
 ### [Ms-124](/ms-124/#163.3) <span class="fac">[163\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/163.webp)</span>
 
-One might, however, imagine that someone, when faced with such feelings, multiplies them, truly multiplies them; always says: “I don’t know—now the rule suddenly gives me _this_!” & that we reply: “Of course; you are, after all, following the rule completely.”
+One might, however, imagine that someone, with such feelings, multiplies, correctly multiplies; always says: “I don’t know—now the rule suddenly gives me _this_!” & that we reply: “Of course; you are, after all, following the rule completely.”
 
 ### [Ms-124](/ms-124/#163.4+164.1) <span class="fac">[163\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/163.webp),[164\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/164.webp)</span>
 
@@ -1384,7 +1384,7 @@ An addition of shapes, in which certain elements merge, plays a very small role 
 
 ![](../graphics/124,165-3.svg)
 
-But if this were an _important_ operation, then perhaps we would have a different, more common concept of arithmetic addition.
+But if this were an _important_ operation, then perhaps we would have another familiar concept of arithmetic addition.
 
 ### [Ms-124](/ms-124/#165.4+166.1) <span class="fac">[165\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/165.webp),[166\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/166.webp)</span>
 
@@ -1408,7 +1408,7 @@ Now, of course, one could say: “This manipulation of digits according to rules
 
 ### [Ms-124](/ms-124/#168.4) <span class="fac">[168\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/168.webp)</span>
 
-“We only calculate if there is a purpose behind the result.” – But if we don’t even know this purpose, does it still lie in the calculation? Or do we not calculate if we do it in a completely naive way?
+“We only calculate if there is a necessity behind the result.” – But if we don’t even know this necessity, does it still lie in the calculation? Or do we not calculate if we do it in a completely naive way?
 
 ### [Ms-124](/ms-124/#168.5+169.1) <span class="fac">[168\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/168.webp),[169\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/169.webp)</span>
 
@@ -1434,13 +1434,13 @@ The introduction of a new rule of inference can be regarded as a transition to a
 
 ### [Ms-124](/ms-124/#171.3) <span class="fac">[171\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/171.webp)</span>
 
-<span class="series-number">63</span> Is it possible to observe that an area is colored red and blue; and not to observe that it is red? Imagine that one uses a kind of color adjective for things that are half red, half blue: one says they are ‘bu’. Could someone not be trained to observe whether something is bu; and not to observe whether it is also red? This person would then only know how to report: “bu,” or “not bu”. And we would draw the conclusion from the first report that the area contains red.
+<span class="series-number">63</span> Is it possible to observe that an area is coloured red and blue; and not to observe that it is red? Imagine that one uses a kind of colour adjective for things that are half red, half blue: one says they are ‘bu’. Could someone not be trained to observe whether something is bu; and not to observe whether it is also red? This person would then only know how to report: “bu,” or “not bu”. And we would draw the conclusion from the first report that the area contains red.
 
 ### [Ms-124](/ms-124/#172.1) <span class="fac">[172\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/172.webp)</span>
 
 23.03.1944
 
-I imagine that observation takes place through a psychological sieve that, for example, only allows the fact that the area is blue-white-red (French tricolor), or is not, to pass through.
+I imagine that observation takes place through a psychological sieve that, for example, only allows the fact that the area is blue-white-red (French tricolour), or is not, to pass through.
 
 ### [Ms-124](/ms-124/#172.2) <span class="fac">[172\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/172.webp)</span>
 
@@ -1452,25 +1452,25 @@ Someone counts apples in a box; he counts to 100. Another says: “so there are 
 
 ### [Ms-124](/ms-124/#172.4+173.1) <span class="fac">[172\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/172.webp),[173\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/173.webp)</span>
 
-<span class="series-number">64</span> An area, divided into a number of strips, is observed by several people. The colors of the strips change, all
+<span class="series-number">64</span> An area, divided into a number of strips, is observed by several people. The colours of the strips change, all
 
 ![](../graphics/124,172.svg)
 
-at the same time, always after one minute. _Now_ the colors are: red, green, blue, black, black, blue. It is observed: red ∙ blue ⊃ black ․⊃․ white It is also observed: ~ green ⊃ ~ white And one draws the conclusion: ~ green ⊃ red ∙ blue ∙ ~ black And these implications are ‘material implications’ in Russell’s sense.
+at the same time, every minute. _Now_ the colours are: red, green, blue, black, black, blue. It is observed: red ∙ blue ⊃ black ․⊃․ white It is also observed: ~ green ⊃ ~ white And one draws the conclusion: ~ green ⊃ red ∙ blue ∙ ~ black And these implications are ‘material implications’ in Russell’s sense.
 
 ### [Ms-124](/ms-124/#173.2+174.1) <span class="fac">[173\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/173.webp),[174\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/174.webp)</span>
 
 But can one actually _observe_ that
 
-r ∙ b ⊃ s ∙⊃∙ w,
+r ․ b ⊃ s ․⊃․ w,
 
-or does one not _observe color combinations_, that is, something like r ∙ b ∙ s ∙ w; & then derive that sentence? But when observing an area, can one not be entirely focused on the question of whether it will turn green, or not green; & if he then sees: ~g, must he then pay attention to the particular color of the area? And could one not be entirely focused on the aspect r ∙ b ⊃ s ∙⊃∙ w? For example, if one had learned to consider the area only from this perspective, forgetting everything else. (Under certain circumstances, it might be irrelevant to people whether objects are red or green; what matters is whether they possess one of these colors or a third. And in this case, there might be a color word for “red or green.”)
+or does one not _observe colour combinations_, that is, something like r ∙ b ∙ s ∙ w; & then derive that sentence? But when observing a surface, can one not be entirely focused on the question of whether it will turn green, or not green; & if he then sees: ~g, must he then pay attention to the particular colour of the surface? And could one not be entirely focused on the aspect r ․ b ⊃ s ․⊃․ w? For example, if one had been trained to consider the surface only from this perspective, forgetting everything else. (Under certain circumstances, it might be irrelevant to people whether objects are red or green; what matters is whether they possess one of these colors or a third. And in this case, there might be a colour word for “red or green.”)
 
 ### [Ms-124](/ms-124/#174.2) <span class="fac">[174\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/174.webp)</span>
 
 If, however, one can observe that
 
-r ∙ b ⊃ s ∙⊃∙ w
+r ∙ b ⊃ s ․⊃․ w
 
 &
 
@@ -1498,7 +1498,7 @@ Remember that a rhombus, when viewed as a diamond, does not look like a parallel
 
 ### [Ms-124](/ms-124/#177.2) <span class="fac">[177\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/177.webp)</span>
 
-<span class="series-number">65</span> I could imagine that someone says he sees a white & yellow star but nothing yellow – because he sees the star as a _combination_ of color parts that he cannot separate.
+<span class="series-number">65</span> I could imagine that someone says he sees a white & yellow star but nothing yellow – because he sees the star as a _combination_ of colour parts that he cannot separate.
 
 ### [Ms-124](/ms-124/#177.3) <span class="fac">[177\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/177.webp)</span>
 
@@ -1512,7 +1512,7 @@ He had, for example, figures in front of him, such as these:
 
 ![](../graphics/124,177-4.svg)
 
-Asked whether he sees a red pentagon, he would say ‘yes’; asked whether he sees a yellow one: ‘no’. Similarly, he says he sees a blue triangle, but no red one. – When pointed out, he might say something like: “Yes, now I see it; I hadn’t considered the stars in that way.” And so it might also seem to him that one cannot separate the colors in the star because one cannot separate the shapes.
+Asked whether he sees a red pentagon, he would say ‘yes’; asked whether he sees a yellow one: ‘no’. Similarly, he says he sees a blue triangle, but no red one. – When pointed out, he might say something like: “Yes, now I see it; I hadn’t considered the stars in that way.” And so it might also seem to him that one cannot separate the colours in the star because one cannot separate the shapes.
 
 ### [Ms-124](/ms-124/#177.4+178.1) <span class="fac">[177\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/177.webp),[178\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/178.webp)</span>
 
@@ -1534,7 +1534,7 @@ My question was actually: “how can one adhere to a _rule_?” And the image th
 
 ### [Ms-124](/ms-124/#180.2) <span class="fac">[180\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/180.webp)</span>
 
-“The fact that it is also red, I didn't think about that; I just saw it as part of the multicolored ornament.”
+“The fact that it is also red, I didn't think about that; I just saw it as part of the multicoloured ornament.”
 
 ### [Ms-124](/ms-124/#180.3) <span class="fac">[180\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/180.webp)</span>
 
@@ -1554,7 +1554,7 @@ Mathematics forms a network of norms.
 
 ### [Ms-124](/ms-124/#181.5+182.1) <span class="fac">[181\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/181.webp),[182\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/182.webp)</span>
 
-<span class="series-number">68</span> It is possible to see the complex of A & B without seeing A or B. It is also possible to call the complex a “complex of A & B” & to think that this name only indicates a kind of relationship of this whole with A & with B. It is therefore possible to say that one sees the complex of A & B, but neither A nor B. It is as if one could say that there is a reddish-yellow color here, but neither red nor yellow.
+<span class="series-number">68</span> It is possible to see the complex of A & B without seeing A or B. It is also possible to call the complex a “complex of A & B” & to think that this name only indicates a kind of kinship of this whole with A & with B. It is therefore possible to say that one sees the complex of A & B, but neither A nor B. It is as if one could say that there is a reddish-yellow color here, but neither red nor yellow.
 
 ### [Ms-124](/ms-124/#182.2) <span class="fac">[182\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/182.webp)</span>
 
@@ -1568,7 +1568,7 @@ Let us say: one is only interested in A ∙ B, & thus judges, whatever happens, 
 
 <span class="series-number">69</span> 30.03.1944
 
-But the experience of ‘seeing the surface entirely red’ & ‘seeing it entirely blue’ are certainly ‘real’ experiences, & yet we say that one cannot have them at the same time.
+But the experiences of ‘seeing the surface entirely red’ & ‘seeing it entirely blue’ are certainly ‘real’ experiences, & yet we say that one cannot have them at the same time.
 
 ### [Ms-124](/ms-124/#183.3) <span class="fac">[183\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/183.webp)</span>
 
@@ -1576,15 +1576,15 @@ If he now assured us that he sees this surface entirely red and at the same time
 
 ### [Ms-124](/ms-124/#183.4) <span class="fac">[183\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/183.webp)</span>
 
-The sentence “1 foot = … cm” is timeless with us. But one could also imagine the case in which the foot measure and the meter measure gradually change and then always have to be compared in order to be converted into one another.
+The sentence “1 foot = … cm” is timeless with us. But one could also imagine the case in which the foot measure and the metre measure gradually change and then would have to be compared again and again in order to be converted into one another.
 
 ### [Ms-124](/ms-124/#183.5) <span class="fac">[183\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/183.webp)</span>
 
-But isn’t the relationship between the lengths of the meter and the foot also experimentally determined with us? Yes; but the result was stamped as a rule.
+But isn’t the relationship between the lengths of the metre and the foot also experimentally determined with us? Yes; but the result was stamped as a rule.
 
 ### [Ms-124](/ms-124/#189.2) <span class="fac">[189\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/189.webp)</span>
 
-<span class="series-number">70</span> In what sense can one say that a sentence of arithmetic gives us a concept? Well, let us not think of it as a sentence, as the decision of a question, but as a, in some way, recognized connection of concepts.
+<span class="series-number">70</span> In what sense can one say that a sentence of arithmetic gives us a concept? Well, let us not think of it as a sentence, as the decision of a question, but as a connection of concepts recognised in some way.
 
 ### [Ms-124](/ms-124/#191.3) <span class="fac">[191\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/191.webp)</span>
 
@@ -1640,7 +1640,7 @@ By creating a concept, the proof convinces me of something. What it convinces me
 
 ### [Ms-124](/ms-124/#195.4+196.1) <span class="fac">[195\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/195.webp),[196\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/196.webp)</span>
 
-Problem: Does the word “mathematical” mean the same thing every time: when we speak of ‘mathematical’ concepts, ‘mathematical’ sentences, & ‘mathematical’ proofs?
+Problem: Does the word “mathematical” mean the same thing every time: when we speak of ‘mathematical’ concepts, ‘mathematical’ sentences, & ‘mathematical’ proofs? |
 
 ### [Ms-124](/ms-124/#196.2) <span class="fac">[196\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/196.webp)</span>
 
@@ -1666,7 +1666,7 @@ A language-game: How can one imagine one in which axioms, proofs, & proven sente
 
 ### [Ms-124](/ms-124/#197.3+198.1) <span class="fac">[197\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/197.webp),[198\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/198.webp)</span>
 
-Whoever hears a little about logic for the first time in school is immediately convinced when he is told that a sentence implies itself, or when he now learns the law of contradiction, or the law of the excluded middle. Why is he immediately convinced? Well, these laws fit perfectly into the use of language that is so familiar to him. Then he learns to prove more complicated sentences of logic. The proofs are demonstrated to him, & he is convinced again; or he invents a proof himself. He thus learns new techniques of inference. And also, what calculation to use when (now) errors appear.
+Whoever hears a little about logic for the first time in school is immediately convinced when he is told that a sentence implies itself, or when he now learns the law of contradiction, or the law of the excluded middle. Why is he immediately convinced? Well, these laws fit perfectly into the use of language that is so familiar to him. Then he learns to prove more complicated sentences of logic. The proofs are demonstrated to him, & he is convinced again; or he invents a proof himself. He thus learns new techniques of inference. And also, what to put it down to when errors appear.
 
 ### [Ms-124](/ms-124/#198.2) <span class="fac">[198\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/198.webp)</span>
 
@@ -1682,7 +1682,7 @@ The proof is a specific _procedure_. When we describe it, causes are not mention
 
 ### [Ms-124](/ms-124/#199.1) <span class="fac">[199\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/199.webp)</span>
 
-I act according to the proof. But how? According to the sentence that was proven.
+I act in light of the proof. But how? According to the sentence that was proven.
 
 ### [Ms-124](/ms-124/#199.2) <span class="fac">[199\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/199.webp)</span>
 
@@ -1702,6 +1702,6 @@ Every empirical sentence can serve as a rule if one fixes it—like a machine pa
 
 ### [Ms-124](/ms-124/#200.2) <span class="fac">[200\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/200.webp)</span>
 
-“That is how it is when this sentence is derived from those. You must admit that.” – What I admit is that I call such a process _by that name_.
+“That is how it is when this sentence is derived from these. You must admit that.” – What I admit is that I call such a process _by that name_.
 
 ---

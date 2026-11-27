@@ -90,7 +90,7 @@ If the arithmetic operations served only to construct a cipher, their use would 
 
 ### [Ms-126](/ms-126/#40.2+41.1) <span class="fac">[40\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/40.webp),[41\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/41.webp)</span>
 
-Can one say of the person who makes the application of a deciphering rule evident that he is performing mathematical operations? And yet his transformations can be understood in this way. For he could indeed say that he is calculating what must result from the deciphering of the sign … according to this or that rule. And the statement that the symbols … decoded according to this rule … result is a mathematical one. Just as the statement that in a game of chess one can move from _this_ position to that one.
+Can one say of the person who applies a deciphering rule that he is performing mathematical operations? And yet his transformations can be understood in this way. For he could indeed say that he is calculating what must result from the deciphering of the sign … according to this or that rule. And the statement that the symbols … decoded according to this rule … result is a mathematical one. Just as the statement that in a game of chess one can move from _this_ position to that one.
 
 ### [Ms-126](/ms-126/#41.2) <span class="fac">[41\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/41.webp)</span>
 
@@ -110,7 +110,7 @@ Could one imagine people who in ordinary life only calculate up to 1000 and rese
 
 ### [Ms-126](/ms-126/#46.2+47.1) <span class="fac">[46\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/46.webp),[47\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/47.webp)</span>
 
-Does a misunderstanding concerning the possible application enter into the consideration of the calculation as a part of mathematics?
+Does a misunderstanding concerning the possible application detract from the calculation as a part of mathematics?
 
 ### [Ms-126](/ms-126/#47.2) <span class="fac">[47\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/47.webp)</span>
 
@@ -118,7 +118,7 @@ And apart from a misunderstanding – how is it with mere obscurity?
 
 ### [Ms-126](/ms-126/#47.3+48.1) <span class="fac">[47\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/47.webp),[48\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/48.webp)</span>
 
-Anyone who believes that mathematicians have discovered a strange entity, <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em">, which, when squared, does indeed yield 1, surely cannot perform calculations quite well with complex numbers and apply such calculations in physics? And are these _calculations_ any less valid for that reason? In _one_ respect, of course, his understanding stands on shaky ground; but he will certainly draw his conclusions, and his calculus will stand on _solid_ ground.
+Anyone who believes that mathematicians have discovered a strange entity, <img class="math math-inline" src="../math/1ed7c7c63b0e50f8.svg" alt="\sqrt{-1}" style="width:1.993em;height:1.210em;vertical-align:-0.185em">, which, when squared, does indeed yield ‒ 1, can he nevertheless calculate quite well with complex numbers and apply such calculations in physics? And are they any less _calculations_ for that reason? In _one_ respect, of course, his understanding stands on shaky ground; but he will certainly draw his conclusions, and his calculus will stand on _solid_ ground.
 
 ### [Ms-126](/ms-126/#48.2) <span class="fac">[48\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/48.webp)</span>
 
@@ -144,7 +144,7 @@ In other words: Anyone who believes in mathematical _objects_ and their strange 
 
 November 5, 1942
 
-‘Ideal object’. “The sign ‘a’ denotes an ideal object” is apparently meant to make a statement about the meaning, that is, the use of ‘a’. And it naturally means that this use is _in_ a certain respect similar to that of a sign that has an object, & that it (however) does not perform a designation for an object. But it is interesting what the expression ‘ideal object’ makes of this fact.
+‘Ideal object’. “The sign ‘a’ denotes an ideal object” is apparently meant to make a statement about the meaning, that is, the use of ‘a’. And it naturally means that this use is _in_ a certain respect similar to that of a sign that has an object, & that it (however) does not designate an object. But it is interesting what the expression ‘ideal object’ makes of this fact.
 
 ### [Ms-126](/ms-126/#51.3+52.1) <span class="fac">[51\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/51.webp),[52\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/52.webp)</span>
 
@@ -202,7 +202,7 @@ The calculation that is used to perform a ceremony. For example, according to a 
 
 ### [Ms-126](/ms-126/#58.2) <span class="fac">[58\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/58.webp)</span>
 
-This would indeed be _applied_ mathematics, but it would not serve the purpose of prediction.
+This would indeed be _applied_ calculation, but it would not serve the purpose of prediction.
 
 ### [Ms-126](/ms-126/#58.3) <span class="fac">[58\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/58.webp)</span>
 
@@ -260,7 +260,7 @@ Would this amount to saying: one uses the wrong picture of a completed developme
 
 ### [Ms-126](/ms-126/#63.2+64.1) <span class="fac">[63\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/63.webp),[64\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/64.webp)</span>
 
-For ultimately, every question about the development of √2 should be reducible to a practical question concerning the technique of developing it.
+For ultimately, every question about the development of √2 would have to be reducible to a practical question concerning the technique of developing it.
 
 ### [Ms-126](/ms-126/#64.2) <span class="fac">[64\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/64.webp)</span>
 
@@ -324,7 +324,7 @@ In an arithmetic where one does not count beyond 5, the question of how much 4 +
 
 November 12, 1942
 
-I think I asked: What is meant by “the figure … occurs in this development?” One would answer: “You _know_ what that means. It occurs just as the figure … actually occurs in the development.” – True; but how can I use this analogy now? For I have a good understanding if one now says to me: “Does the figure 159 occur in the first 100 digits of √2, just as it occurs in the first 10 digits of π?” Imagine, one said: “Either it occurs that way, or it does not occur that way”!
+Imagine I asked: What is meant by “the figure … occurs in this development?” One would answer: “You _know_ what that means. It occurs just as the figure … actually occurs in the development.” – True; but how can I use this analogy now? For I do understand when one now says to me: “Does the figure 159 occur in the first 100 digits of √2, just as it occurs in the first 10 digits of π?” Imagine, one said: “Either it occurs that way, or it does not occur that way”!
 
 ### [Ms-126](/ms-126/#73.2) <span class="fac">[73\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/73.webp)</span>
 
@@ -344,7 +344,7 @@ Could one not say: if I really had the right to say that these examples teach me
 
 ### [Ms-126](/ms-126/#74.3) <span class="fac">[74\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/74.webp)</span>
 
-As if one regards the mathematical sentences as commands and also expresses them as such? “25² gives 625!” Now – a command has an internal and an external negation.
+As if one regards the mathematical sentences as commands and also expresses them as such? “Let 25² give 625!” Now – a command has an internal and an external negation.
 
 ### [Ms-126](/ms-126/#75.1) <span class="fac">[75\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/75.webp)</span>
 
@@ -374,7 +374,7 @@ One could also say: ‘for us, the series is endless’.
 
 ### [Ms-126](/ms-126/#78.3) <span class="fac">[78\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/78.webp)</span>
 
-‘We will not worry about an end of the series; for us, it is always immeasurable.’
+‘We will not worry about an end of the series; for us, it is always beyond our view.’
 
 ### [Ms-126](/ms-126/#78.4+79.1) <span class="fac">[78\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/78.webp),[79\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/79.webp)</span>
 
@@ -396,7 +396,7 @@ But where is the problem here? Why should I not say that what we call mathematic
 
 ### [Ms-126](/ms-126/#80.2+81.1) <span class="fac">[80\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/80.webp),[81\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/81.webp)</span>
 
-Or perhaps multiplying might be much more difficult for us than it is – if, for example, we only did calculations mentally, and in order to remember a multiplication, to grasp it, it would be necessary to put it in the form of a rhyming poem. If a person succeeded in doing this, they would feel as if they had discovered a great, wonderful truth. In a way, it would require a new individual effort for each new multiplication.
+Or perhaps multiplying might be much more difficult for us than it is – if, for example, we only did calculations orally, and in order to remember a multiplication, to grasp it, it would be necessary to put it in the form of a rhyming poem. If a person succeeded in doing this, they would feel as if they had discovered a great, wonderful truth. In a way, it would require a new individual effort for each new multiplication.
 
 ### [Ms-126](/ms-126/#81.2+82.1) <span class="fac">[81\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/81.webp),[82\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/82.webp)</span>
 
@@ -416,7 +416,7 @@ In a certain sense, one cannot appeal to the meaning of the signs in mathematics
 
 ### [Ms-126](/ms-126/#84.3+85.1) <span class="fac">[84\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/84.webp),[85\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/85.webp)</span>
 
-It is characteristic of the phenomenon I am discussing that the _mysterious_ aspect of any mathematical concept is not _immediately_ interpreted as a mistaken view, as a misconcept; but rather as something that is in any case not to be despised, perhaps even to be respected.
+It is characteristic of the phenomenon I am discussing that the _mysterious_ aspect of any mathematical concept is not _immediately_ interpreted as a mistaken view, as a misconception; but rather as something that is in any case not to be despised, perhaps even to be respected.
 
 ### [Ms-126](/ms-126/#85.2) <span class="fac">[85\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/85.webp)</span>
 
@@ -432,7 +432,7 @@ One could say: what you see does indeed look more like a glittering aerial pheno
 
 ### [Ms-126](/ms-126/#87.3) <span class="fac">[87\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/87.webp)</span>
 
-<span class="series-number">17</span> ‘The figure is in the row, or it is not in the row’ means: either the thing looks _that_ _way_ or it does not look that way.
+<span class="series-number">17</span> ‘The figure is in the row, or it is not in the row’ means: either the thing looks _that_ way or it does not look that way.
 
 ### [Ms-126](/ms-126/#87.4+88.1) <span class="fac">[87\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/87.webp),[88\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/88.webp)</span>
 
@@ -460,7 +460,7 @@ The statement seems to assert itself, but the command does not.
 
 ### [Ms-126](/ms-126/#90.4) <span class="fac">[90\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/90.webp)</span>
 
-Could one imagine that all mathematical sentences were expressed in the imperative? E.g., “10 × 10 is 100”.
+Could one imagine that all mathematical sentences were expressed in the imperative? E.g., “10 × 10 be 100”.
 
 ### [Ms-126](/ms-126/#91.1) <span class="fac">[91\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/91.webp)</span>
 
@@ -506,7 +506,7 @@ The opposite of “it must not occur” is “it may occur”. But for a _finite
 
 19.11.1942
 
-The strangeness in the alternative “φ occurs in the infinite series, or it does not occur” is that we must imagine the two possibilities separately, that we must look for an image for each in particular, & that, as is usually the case, _one_ image does not suffice for the negative and for the positive case.
+The strangeness in the alternative “φ occurs in the infinite series, or it does not occur” is that we must imagine the two possibilities separately, that we must look for an image for each in particular, & that, unlike usual, _one_ image does not suffice for the negative and for the positive case.
 
 ### [Ms-126](/ms-126/#95.2) <span class="fac">[95\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/95.webp)</span>
 
@@ -514,7 +514,7 @@ The strangeness in the alternative “φ occurs in the infinite series, or it do
 
 ### [Ms-126](/ms-126/#95.3+96.1+97.1) <span class="fac">[95\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/95.webp),[96\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/96.webp),[97\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/97.webp)</span>
 
-_One_ communication says: “it must not occur” – i.e.: if it occurs, you have calculated incorrectly. One says: “it may occur”, i.e., there is no such prohibition. One: “it must occur in the & the region (at these points, always in these regions)”. The opposite of this, however, seems to be: “it must not occur there & there” – instead of “it _must_ not occur there”. What if one gave the rule that, for example, wherever the rule for generating π gives 4, instead of 4, any other digit can also be used. Also consider the rule that prohibits a digit at certain points, but otherwise leaves the choice open.
+_One_ communication says: “it must not occur” – i.e.: if it occurs, you have calculated incorrectly. One says: “it may occur”, i.e., there is no such prohibition. One: “it must occur in this and that region (at these points, always in these regions)”. The opposite of this, however, seems to be: “it must not occur there & there” – instead of “it _must_ not occur there”. What if one gave the rule that, for example, wherever the rule for generating π gives 4, instead of 4, any other digit can also be used. Also consider the rule that prohibits a digit at certain points, but otherwise leaves the choice open.
 
 ### [Ms-126](/ms-126/#97.2) <span class="fac">[97\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/97.webp)</span>
 
@@ -614,7 +614,7 @@ The mathematically general is not related to the mathematically particular in th
 
 ### [Ms-126](/ms-126/#117.3+118.1) <span class="fac">[117\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/117.webp),[118\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/118.webp)</span>
 
-Everything I say actually boils down to the fact that one can know a proof well and follow it step by step, and yet not _have any understanding of_ what has been proven_._
+Everything I say actually boils down to the fact that one can know a proof well and follow it step by step, and yet not _understand_ what has been proven.
 
 ### [Ms-126](/ms-126/#118.2) <span class="fac">[118\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/118.webp)</span>
 
@@ -622,7 +622,7 @@ And this is again related to the fact that one can form a mathematical sentence 
 
 ### [Ms-126](/ms-126/#118.3+119.1) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/118.webp),[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/119.webp)</span>
 
-When does one understand it? – I think: when one can apply it. One could perhaps say: when one has a clear picture of its application. But it is not enough that one has a clear picture associated with it. Rather, it would have been better to say: when one has a clear overview of its application. And even that is not good, because it is only about not suspecting the application where it is not; that one is not deceived by the wording of the sentence.
+When does one understand it? – I think: when one can apply it. One could perhaps say: when one has a clear picture of its application. But it is not enough that one has a clear picture associated with it. Rather, it would have been better to say: when one has a clear overview of its application. And even that is not good, because it is only a matter of not expecting the application where it is not; of not letting oneself be deceived by the wording of the sentence.
 
 ### [Ms-126](/ms-126/#119.2+120.1) <span class="fac">[119\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/119.webp),[120\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/120.webp)</span>
 
@@ -664,9 +664,9 @@ A proof that 777 occurs in the development of π, which does not show where, wou
 
 ### [Ms-126](/ms-126/#122.3+123.1+124.1) <span class="fac">[122\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/122.webp),[123\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/123.webp),[124\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/124.webp)</span>
 
-<span class="series-number">28</span> 12/11/1942
+<span class="series-number">28</span> 11 December 1942
 
-One can always imagine a proof by reductio ad absurdum being used in an argument against an opponent who makes a mathematically untenable assertion. But I do not mean a _mathematical_ assertion. For example, that he saw how A checkmated B with the & figures—when that is not possible according to the rules.
+One can always imagine a proof by reductio ad absurdum being used in an argument against an opponent who makes a mathematically untenable assertion. But I do not mean a _mathematical_ assertion. For example, that he saw how A checkmated B with these and those pieces—when that is not possible according to the rules.
 
 ### [Ms-126](/ms-126/#124.2+125.1) <span class="fac">[124\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/124.webp),[125\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/125.webp)</span>
 
@@ -688,7 +688,7 @@ The idea of the ‘section’ is such a dangerous illustration.
 
 ### [Ms-126](/ms-126/#132.3) <span class="fac">[132\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/132.webp)</span>
 
-Only insofar as the illustrations are also applications do they not create that certain feeling of absurdity that the illustration creates at the moment it ceases to be a possible application; when it thus becomes nonsensical.
+Only insofar as the illustrations are also applications do they not create that certain feeling of vertigo that the illustration creates at the moment it ceases to be a possible application; when it thus becomes silly.
 
 ### [Ms-126](/ms-126/#110.3+111.1) <span class="fac">[110\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/110.webp),[111\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/111.webp)</span>
 
@@ -696,7 +696,7 @@ Only insofar as the illustrations are also applications do they not create that 
 
 ### [Ms-126](/ms-126/#136.3+137.1) <span class="fac">[136\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/136.webp),[137\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/137.webp)</span>
 
-<span class="series-number">31</span> One might ask: What could a 10-year-old child _fail_ _to_ understand about the proof of Dedekind’s theorem? – Is this proof not much simpler than all the calculations the child must master? – And if someone were to say: the child cannot understand the deeper meaning of the theorem – then I ask: how does this theorem come to have a deeper meaning?
+<span class="series-number">31</span> One might ask: What could a 10-year-old child _fail_ _to_ understand about the proof of Dedekind’s theorem? – Is this proof not much simpler than all the calculations the child must master? – And if someone were to say: the child cannot understand the deeper content of the theorem – then I ask: how does this law come to have a deeper content?
 
 ### [Ms-126](/ms-126/#138.2) <span class="fac">[138\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/138.webp)</span>
 
@@ -712,15 +712,15 @@ two rational points P & Q. Then halve P – Q & decide in which half (if not at 
 
 ### [Ms-126](/ms-126/#150.2) <span class="fac">[150\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/150.webp)</span>
 
-It is as with the Dedekind sentence as with the sentence of the excluded third: it seems to exclude a third, while a third is not mentioned in it.
+It is as with Dedekind's theorem as with the law of excluded middle: it seems to exclude a third, while a third is not mentioned in it.
 
 ### [Ms-126](/ms-126/#151.1) <span class="fac">[151\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/151.webp)</span>
 
-The proof of the D. sentence works with a picture that cannot really justify _it_, but rather should be justified by the sentence.
+The proof of the D. theorem works with a picture that cannot really justify _it_, but rather should be justified by the theorem.
 
 ### [Ms-126](/ms-126/#151.2) <span class="fac">[151\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/151.webp)</span>
 
-You can easily see a principle of division for an infinitely continued division, because it certainly does not correspond to any finite division & seems to lead you further & further.
+You can easily see a principle of division as an infinitely continued division, because it certainly does not correspond to any finite division & seems to lead you further & further.
 
 ### [Ms-126](/ms-126/#153.2+154.1) <span class="fac">[153\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/153.webp),[154\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/154.webp)</span>
 
@@ -728,7 +728,7 @@ You can easily see a principle of division for an infinitely continued division,
 
 ### [Ms-126](/ms-126/#154.2+155.1+156.1+157.1) <span class="fac">[154\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/154.webp),[155\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/155.webp),[156\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/156.webp),[157\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/157.webp)</span>
 
-The difficulty of the sometimes intentional, sometimes again extensional way of considering begins already with the concept of the ‘section’. That one can call every rational number a principle of division of the rational numbers is probably clear. Now we _discover_ something else that we can call a principle of division, something that corresponds to √2. Then other similar ones – & now we are already quite familiar with the possibility of such divisions, & see them under the image of a section carried out somewhere along the line, _thus extensionally._ For if I _cut_, then I can choose where I want to cut. But if a _principle_ of division is a section, then it is only so because one can say of any rational numbers that they are above or below the section. – Can one say that the idea of the section has led us from the rational numbers to irrational numbers? Have we, for example, arrived at √2 through the concept of the section? What is a section of the real numbers? Well, a principle of division into a lower & an upper class. Such a principle thus gives off every rational & irrational number. For even if we have no system of irrational numbers, the ones _we have_ are divided into upper & lower ones in relation to the section (insofar as they are comparable with it). Now, the Dedekind idea is that the division into an upper & a lower class (with the known conditions) is the real number.
+The difficulty of the sometimes intensional, sometimes again extensional way of considering begins already with the concept of the ‘section’. That one can call every rational number a principle of division of the rational numbers is probably clear. Now we _discover_ something else that we can call a principle of division, something that corresponds to √2. Then other similar ones – & now we are already quite familiar with the possibility of such divisions, & see them under the image of a section carried out somewhere along the line, _thus extensionally._ For if I _cut_, then I can choose where I want to cut. But if a _principle_ of division is a section, then it is only so because one can say of any rational numbers that they are above or below the section. – Can one say that the idea of the section has led us from the rational numbers to irrational numbers? Have we, for example, arrived at √2 through the concept of the section? What is a section of the real numbers? Well, a principle of division into a lower & an upper class. Such a principle thus gives off every rational & irrational number. For even if we have no system of irrational numbers, the ones _we have_ are divided into upper & lower ones in relation to the section (insofar as they are comparable with it). Now, the Dedekind idea is that the division into an upper & a lower class (with the known conditions) is the real number.
 
 ### [Ms-126](/ms-126/#157.2) <span class="fac">[157\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/157.webp)</span>
 
@@ -736,7 +736,7 @@ The section is an extensive _image_.
 
 ### [Ms-126](/ms-126/#157.3+158.1) <span class="fac">[157\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/157.webp),[158\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/158.webp)</span>
 
-It is certainly true that if I have a mathematical criterion for determining whether any rational number belongs to the upper or lower class, it is easy to systematically approximate the point where the two classes meet.
+It is certainly true that if I have a mathematical criterion for determining whether any rational number belongs to the upper or lower class, it is easy to systematically approach arbitrarily closely the point where the two classes meet.
 
 ### [Ms-126](/ms-126/#158.2) <span class="fac">[158\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/158.webp)</span>
 
@@ -754,7 +754,7 @@ Let us not forget that _originally_ the division of rational numbers into two cl
 
 ### [Ms-126](/ms-126/#159.3+160.1+161.1) <span class="fac">[159\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/159.webp),[160\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/160.webp),[161\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/161.webp)</span>
 
-If one now introduces the idea of a partition of the _real_ numbers by saying that one should simply extend the concept of partition from the rational to the real numbers; all we need is a property that divides the real numbers into two classes (etc.)—then it is not _immediately_ clear what is meant by such a property that divides _all_ real numbers in this way. Now one might point out to us that any real number can serve this purpose. But that only takes us so far—and no further.
+If one now introduces the idea of a cut of the _real_ numbers by saying that the concept of a cut is now simply to be extended from the rational to the real numbers; all we need is a property that divides the real numbers into two classes (etc.)—then it is not _immediately_ clear what is meant by such a property that divides _all_ real numbers in this way. Now one might point out to us that any real number can serve this purpose. But that only takes us so far—and no further.
 
 ### [Ms-127](/ms-127/#10.1) <span class="fac">[10\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/10.webp)</span>
 

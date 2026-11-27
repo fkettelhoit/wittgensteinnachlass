@@ -10,9 +10,9 @@
 
 ### [Ms-117](/ms-117/#97.3+98.1) <span class="fac">[97\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/97.webp),[98\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span>
 
-<span class="series-number">1</span> _--- Approaches_
+<span class="series-number">1</span> ---
 
-
+_Approaches_
 
 To what extent does the diagonal method provide a proof that there is a number that—let’s say—is not a square root? –
 
@@ -22,7 +22,7 @@ It is, of course, extremely easy to show ‘that there are numbers that are not 
 
 _[Approaches]_
 
-Do we have a general concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">. – Or he might have said: take √2 = 1.4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1.3142 … cannot be √n.
+Do we have a general concept of what it means to show that there is a number that is not part of this infinite set? Suppose someone were given the task of naming a number that is different from all of <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">; but they knew nothing of the diagonal method & named the number ∛2 as the solution; & showed that it is not <img class="math math-inline" src="../math/7eac4fe37619112a.svg" alt="\sqrt[2]{n}" style="width:1.276em;height:0.850em;vertical-align:-0.091em">. – Or he might have said: take √2 = 1˙4142 … and subtract 1 from the first decimal place; otherwise, however, the digits must match those of √2. 1˙3142 … cannot be √n.
 
 ### [Ms-117](/ms-117/#98.2) <span class="fac">[98\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/98.webp)</span>
 
@@ -38,7 +38,7 @@ If, when asked to “Show me a number that is different from all of these,” th
 
 <span class="series-number">4</span> _[Approaches]_
 
-So I am comparing methods of calculation. – But there are, of course, very different methods of comparison. I am supposed, however, in some sense compare the _results_ of the methods with one another. But that’s where everything becomes unclear, because in _a certain_ sense not every method yields _a_ result, or it is not clear from the outset what is to be regarded as _the_ result in each case. I mean to say that here there is every opportunity to twist and turn the meanings. –
+So I am comparing methods of calculation. – But there are, of course, very different methods of comparison. I am supposed, however, in some sense to compare the _results_ of the methods with one another. But that’s where everything becomes unclear, because in _a certain_ sense not every method yields _a_ result, or it is not clear from the outset what is to be regarded as _the_ result in each case. I mean to say that here there is every opportunity to twist and turn the meanings. –
 
 ### [Ms-117](/ms-117/#100.2) <span class="fac">[100\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/100.webp)</span>
 
@@ -90,7 +90,7 @@ Here we simply have different images; & they correspond to different ways of spe
 
 ### [Ms-117](/ms-117/#104.3) <span class="fac">[104\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/104.webp)</span>
 
-<span class="series-number">13</span> One could say – if someone tried day after day to ‘bring all irrational numbers into a sequence’: “Stop! it means nothing; don't you see: if you had set up a sequence, I would come to you with the diagonal sequence!” That might distract him from his work. Well, that would be a use. And it seems to me that that would also be the whole & proper purpose of this method. It makes use of the vague concept of this person, who works away in a kind of idiotic manner, & brings him to rest through an image. (But one could also bring him to continue his work through another image.)
+<span class="series-number">13</span> One could say – if someone tried day after day to ‘bring all irrational numbers into a sequence’: “Stop! it means nothing; don't you see: if you had set up a sequence, I would come to you with the diagonal sequence!” That might distract him from his work. Well, that would be a use. And it seems to me that that would also be the whole & proper purpose of this method. It makes use of this person's vague concept, who works away in a kind of idiotic manner, & brings him to rest through an image. (But one could also bring him to continue his work through another image.)
 
 ### [Ms-117](/ms-117/#105.1) <span class="fac">[105\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/105.webp)</span>
 
@@ -102,7 +102,7 @@ Here we simply have different images; & they correspond to different ways of spe
 
 ### [Ms-117](/ms-117/#105.3+106.1+107.1) <span class="fac">[105\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/105.webp),[106\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/106.webp),[107\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/107.webp)</span>
 
-<span class="series-number">16</span> The mistake begins with saying that the cardinal numbers can be arranged in a series. What concept does one have of this arrangement? Yes, one naturally has that of a finite series, but that gives us at most a vague idea, a guiding star for the formation of a concept.) The concept itself is, after all, _abstracted_ from this and some other sequences; or: the expression denotes a certain analogy of cases, and one can use it, for example, to provisionally delimit a domain one wants to discuss. But this does not mean that the question has a clear sense: “Can the set R be arranged in a sequence?” For this question now has a meaning that is similar to: Can one do something with these structures that corresponds to ordering the cardinal numbers into a sequence? So if one asks: “Can the real numbers be ordered into a sequence?” The honest answer might be: “I can’t imagine anything precise by that at the moment.” – “But you can, for example, arrange the roots and the algebraic numbers in a sequence; so you do have some understanding of the expression!” – More correctly, I _have_ here certain analogous structures that I name “sequences.” But I do not yet have any certainty about a bridge from these cases to the ‘set of all real numbers.’ I also have no general method to test whether this or that set ‘can be arranged in a sequence.’ Now one shows me the diagonal method and says: “Here you have the proof that this arrangement does not work.” But I can reply: “I do not know—as I said—what it is that _does not work_ here.” However, I do see that you will show a distinction in the use of “root,” “algebraic number,” etc., on the one hand, and “real number” on the other. Namely, something like this: We call the roots “real numbers,” and the diagonal number formed from the roots _as_ _well_. And similarly with all sequences of real numbers. Therefore, it makes no sense to speak of a “sequence _of all_ real numbers,” because one also calls the diagonal number of the sequence a “real number.” – Wouldn’t that be somewhat similar to if one usually called every sequence of books a book itself and now said: “It makes no sense to speak of ‘the sequence of all books,’ since every sequence is itself a book.”
+<span class="series-number">16</span> The mistake begins with saying that the cardinal numbers can be arranged in a series. What concept does one have of this arrangement? Yes, one naturally has that of a finite series, but that gives us at most a vague idea, a guiding star for the formation of a concept.) The concept itself is, after all, _abstracted_ from this and some other sequences; or: the expression denotes a certain analogy of cases, and one can use it, for example, to provisionally delimit a domain one wants to discuss. But this does not mean that the question has a clear sense: “Can the set R be arranged in a sequence?” For this question now has a meaning that is similar to: Can one do something with these structures that corresponds to ordering the cardinal numbers into a sequence? So if one asks: “Can the real numbers be ordered into a sequence?” The conscientious answer might be: “I can’t imagine anything precise by that at the moment.” – “But you can, for example, arrange the roots and the algebraic numbers in a sequence; so you do have some understanding of the expression!” – More correctly, I _have_ here certain analogous structures that I name “sequences.” But I do not yet have a secure bridge from these cases to the ‘set of all real numbers.’ I also have no general method to test whether this or that set ‘can be arranged in a sequence.’ Now one shows me the diagonal method and says: “Here you have the proof that this arrangement does not work.” But I can reply: “I do not know—as I said—what it is that _does not work_ here.” However, I do see that you will show a distinction in the use of “root,” “algebraic number,” etc., on the one hand, and “real number” on the other. Namely, something like this: We call the roots “real numbers,” and the diagonal number formed from the roots _as_ _well_. And similarly with all sequences of real numbers. Therefore, it makes no sense to speak of a “sequence _of all_ real numbers,” because one also calls the diagonal number of the sequence a “real number.” – Wouldn’t that be somewhat similar to if one usually called every sequence of books a book itself and now said: “It makes no sense to speak of ‘the sequence of all books,’ since every sequence is itself a book.”
 
 ### [Ms-117](/ms-117/#107.2+108.1) <span class="fac">[107\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/107.webp),[108\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/108.webp)</span>
 
@@ -166,7 +166,7 @@ Why should we say: the irrational numbers cannot be ordered? – We have a metho
 
 ### [Ms-121](/ms-121/#36r.2+36v.1) <span class="fac">[36r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/36r.webp),[36v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/36v.webp)</span>
 
-<span class="series-number">29</span> Cantor's diagonal argument does not show us an irrational number that is different from all in the system, but it gives the mathematical sentence meaning that the number so and so is different from all of the system. Cantor could say: You can _thereby_ prove that a number is different from all of the system by proving that it is different from the first number in the first position, from the second number in the second position, and so on. Cantor says something about the multiplicity of the concept “Real number, different from all of a system.”
+<span class="series-number">29</span> Cantor's diagonal argument does not show us an irrational number that is different from all in the system, but it gives the mathematical sentence the meaning that the number so and so is different from all those in the system. Cantor could say: You can _thereby_ prove that a number is different from all of the system by proving that it is different from the first number in the first position, from the second number in the second position, and so on. Cantor says something about the multiplicity of the concept “Real number, different from all of a system.”
 
 ### [Ms-121](/ms-121/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/36v.webp)</span>
 
@@ -176,7 +176,7 @@ Cantor shows that, if we have a system of extensions, then it makes sense to tal
 
 ### [Ms-121](/ms-121/#36v.3+37r.1) <span class="fac">[36v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/36v.webp),[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/37r.webp)</span>
 
-<span class="series-number">31</span> Cantor gives the expression “extension that is different from all extensions of a system” meaning by saying that an extension should be called so if it can be proven that it is diagonally different from the extensions of a system.
+<span class="series-number">31</span> Cantor gives meaning to the expression “extension that is different from all extensions of a system” by saying that an extension should be called so if it can be proven that it is diagonally different from the extensions of a system.
 
 ### [Ms-121](/ms-121/#37r.2) <span class="fac">[37r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/37r.webp)</span>
 
@@ -202,7 +202,7 @@ For the time being, it is a piece of mathematical scaffolding hanging in the air
 
 ### [Ms-121](/ms-121/#42r.2) <span class="fac">[42r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/42r.webp)</span>
 
-<span class="series-number">36</span> Certain considerations could lead us to say that 10¹⁰ minds can fit into 1 cm³. Why, however, do we not say it? Because it is of no use. Because it does indeed evoke an image, but one with which we cannot do anything further.
+<span class="series-number">36</span> Certain considerations could lead us to say that 10¹⁰ minds can fit into a cm³. Why, however, do we not say it? Because it is of no use. Because it does indeed evoke an image, but one with which we cannot do anything further.
 
 ### [Ms-121](/ms-121/#42r.3) <span class="fac">[42r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/42r.webp)</span>
 
@@ -214,7 +214,7 @@ For the time being, it is a piece of mathematical scaffolding hanging in the air
 
 ### [Ms-121](/ms-121/#44v.2) <span class="fac">[44v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/44v.webp)</span>
 
-<span class="series-number">39</span> Imagine I placed a game board resembling a chessboard in front of you, placed figures resembling chess figures on it, and gave an explanation: “This is the ‘_king_,’ these are the ‘_knights_,’ and these are the ‘_pawns_.’ We don’t know any more about the game yet; but that is at least something. And perhaps more will yet be discovered.”
+<span class="series-number">39</span> Imagine I placed a game board resembling a chessboard in front of you, placed figures resembling chess figures on it, and gave an explanation: “This is the ‘_king_,’ these are the ‘_knights_,’ and these are the ‘_citizens_.’ We don’t know any more about the game yet; but that is at least something. And perhaps more will yet be discovered.”
 
 ### [Ms-121](/ms-121/#60r.2+60v.1) <span class="fac">[60r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/60r.webp),[60v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/60v.webp)</span>
 
@@ -240,7 +240,7 @@ For the time being, it is a piece of mathematical scaffolding hanging in the air
 
 ### [Ms-121](/ms-121/#63r.4+63v.1) <span class="fac">[63r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/63r.webp),[63v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/63v.webp)</span>
 
-<span class="series-number">45</span> To say of a technique that it is unlimited does _not_ mean that it continues endlessly, _grows_ immeasurably; rather, it lacks the institution of an end, it is not complete. Just as one could say of a sentence that it lacks closure if the period is missing, or of a game that it is not bounded if the rules of the game do not prescribe a defined limit.
+<span class="series-number">45</span> To say of a technique that it is unlimited does _not_ mean that it continues endlessly, _grows_ immeasurably; rather, it lacks the institution of an end, it is not complete. Just as one could say of a sentence that it lacks closure if the period is missing, or of a playing field that it is not bounded if the rules of the game do not prescribe a drawn boundary.
 
 ### [Ms-121](/ms-121/#63v.2+64r.1) <span class="fac">[63v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/63v.webp),[64r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/64r.webp)</span>
 
@@ -260,7 +260,7 @@ For the time being, it is a piece of mathematical scaffolding hanging in the air
 
 ### [Ms-121](/ms-121/#64v.3+65r.1+65v.1) <span class="fac">[64v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/64v.webp),[65r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/65r.webp),[65v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/65v.webp)</span>
 
-<span class="series-number">50</span> “There is no king in checkers”—what does that mean? (It sounds childish.) Does it merely mean that one does not call a checker piece “king”; & if one were to call one that, would there be a king in checkers? But what about _the_ sentence: “In checkers, all pieces are equal, but not in chess”? – To whom am I communicating this? To someone who (already) knows both games, or to someone who does not yet know them. It seems that the former has no need for our communication & the latter gains nothing from it. But what if I said: “Look! In checkers, all pieces are equal…” or even better: “Look! In these games, all pieces are equal; in those, they are not.” But what does such a statement do? It introduces a new _concept_, a new criterion for classification (principle of classification). I teach you to answer the question: Name games of the first kind! etc. Similarly, one could pose questions such as: “Invent a game in which there is a king.”
+<span class="series-number">50</span> “There is no king in checkers”—what does that mean? (It sounds childish.) Does it merely mean that one does not call a checker piece “king”; & if one were to call one that, would there be a king in checkers? But what about _the_ sentence: “In checkers, all pieces have equal rights, but not in chess”? – To whom am I communicating this? To someone who (already) knows both games, or to someone who does not yet know them. It seems that the former has no need for our communication & the latter gains nothing from it. But what if I said: “Look! In checkers, all pieces have equal rights…” or even better: “Look! In these games, all pieces have equal rights; in those, they do not.” But what does such a statement do? It introduces a new _concept_, a new criterion for classification (principle of classification). I teach you to answer the question: Name games of the first kind! etc. Similarly, one could pose questions such as: “Invent a game in which there is a king.”
 
 ### [Ms-121](/ms-121/#67r.3+67v.1) <span class="fac">[67r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/67r.webp),[67v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/67v.webp)</span>
 
@@ -274,7 +274,7 @@ For the time being, it is a piece of mathematical scaffolding hanging in the air
 
 <span class="series-number">53</span> 27.12.1938
 
-‘How would you now call _that_?’
+‘What would you now call _that_?’
 
 ![](../graphics/121,67v.svg)
 
@@ -290,7 +290,7 @@ Not, “a method of continuously numbering pairs of numbers”? And couldn’t I
 
 ### [Ms-121](/ms-121/#68v.2+69r.1) <span class="fac">[68v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/68v.webp),[69r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/69r.webp)</span>
 
-<span class="series-number">56</span> But, you say, that is precisely what Frege’s & Russell’s logical calculus does: in it, every word that is spoken in mathematics has an exact meaning and is an element of the calculus. In this calculus, one can really prove: “one can multiply”. Well, it is a mathematical proposition; but who says that one can do something with this proposition? Who says _what_ it is useful for? For the fact that it sounds interesting is not enough! Because we may use the proposition in instruction: “You see, one can arrange the fractions in a series,” does not mean that we have other uses for this proposition than to associate an easily remembered image with this type of calculation.
+<span class="series-number">56</span> But, you say, that is precisely what Frege’s & Russell’s logical calculus does: in it, every word that is spoken in mathematics has an exact meaning and is an element of the calculus. In this calculus, one can really prove: “one can multiply”. Well, it is a mathematical proposition; but who says that one can do something with this proposition? Who says _what_ it is useful for? For the fact that it sounds interesting is not enough! The fact that we may use the proposition in instruction—“You see, one can arrange the fractions in a series”—does not mean that we have any other use for this proposition than associating an easily remembered image with this type of calculation.
 
 ### [Ms-121](/ms-121/#69v.1) <span class="fac">[69v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/69v.webp)</span>
 
@@ -314,14 +314,14 @@ If the interest here is attached to the proposition that ‘was proved’, then 
 
 ### [Ms-121](/ms-121/#89r.2) <span class="fac">[89r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/89r.webp)</span>
 
-<span class="series-number">61</span> Finitism and behaviorism are very similar directions. Both say: here there is only… Both deny the existence of something, both for the purpose of escaping a confusion.
+<span class="series-number">61</span> Finitism and Behaviourism are very similar movements. Both say: here there is only… Both deny the existence of something, both for the purpose of escaping a confusion.
 
 ### [Ms-121](/ms-121/#89r.3+89v.1) <span class="fac">[89r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/89r.webp),[89v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/89v.webp)</span>
 
-<span class="series-number">62</span> What I am doing (here) is not to prove calculations as false; but to subject the _interest_ of calculations to an examination. I examine, for example, the warrant for still using the word… here. In fact, I always call for such an investigation. Show that it exists, and what there is to examine. Therefore, I must not say: “One must not express oneself in this way,” or “That is absurd,” or “That is uninteresting,” but: “Examine this expression in this way for its warrant”; for one knows its warrant, but not yet its use, by the fact that…
+<span class="series-number">62</span> What I am doing (here) is not to prove calculations as false; but to subject the _interest_ in calculations to an examination. I examine, for example, the warrant for still using the word… here. In fact, I always call for such an investigation. Show that it exists, and what there is to examine. Therefore, I must not say: “One must not express oneself in this way,” or “That is absurd,” or “That is uninteresting,” but: “Examine this expression in this way for its warrant”; for one does not yet know its warrant, because one does not yet know its use, by the fact that…
 
 ### [Ms-121](/ms-121/#91r.2+91v.1+92r.1+92v.1) <span class="fac">[91r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/91r.webp),[91v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/91v.webp),[92r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/92r.webp),[92v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/92v.webp)</span>
 
 05.01.1939
 
-“Imagine all the digits of the number π written in a row. – – You won’t tell me that you don’t understand what I mean!” – Just as well as I understand what it means to say 1000 souls go into one cm³. That I connect images with an expression does not prove that I am completely in the dark about its use or can judge its warrant, if the images do not, in fact, point the way to its use. [→ [To the remark 4 pages earlier]]: I point this out: One knows its warrant – because one does not yet know its use, because one connects images with it.
+“Imagine all the digits of the number π written in a row. – – You won’t tell me that you don’t understand what I mean!” – Just as well as I understand what it means to say 1000 souls go into one cm³. That I connect images with an expression does not prove that I am completely in the dark about its use or can judge its warrant, if the images do not, in fact, point the way to its use. [→ [To the remark 4 pages earlier]]: I point this out: One does not yet know its warrant – because one does not yet know its use, because one connects images with it.

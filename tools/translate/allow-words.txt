@@ -1036,3 +1036,5 @@ Ms-114.md:IV.1 skinner
 Ms-140.md:39v.1 aliquam
 Ms-140.md:5r.5+6r.1 jabberwocky morgenstern
 Ms-155.md:62v.1 onus probandi
+Ms-117.md:49.2 arithm
+Ms-120.md:108r.2 tang

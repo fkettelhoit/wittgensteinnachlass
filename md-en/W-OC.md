@@ -10,7 +10,7 @@
 
 ### [Ms-172](/ms-172/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/1.webp)</span>
 
-<span class="series-number">1</span> If you know that there is a hand here, then we will give you everything else. (If someone says that a certain sentence cannot be proven, this, of course, does not mean that it cannot be derived from others; every sentence can be derived from others. But these may not be more certain than the sentence itself.) (A curious remark by Henry Newman.)
+<span class="series-number">1</span> If you know that there is a hand here, then we grant you everything else. (If someone says that a certain sentence cannot be proven, this, of course, does not mean that it cannot be derived from others; every sentence can be derived from others. But these may not be more certain than the sentence itself.) (In connection with this, a curious remark by Henry Newman.)
 
 ### [Ms-172](/ms-172/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/1.webp)</span>
 
@@ -66,7 +66,7 @@
 
 ### [Ms-172](/ms-172/#5.3) <span class="fac">[5\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/5.webp)</span>
 
-<span class="series-number">15</span> It must be _proven_ that no error was possible. The assertion “I know it” is not enough. Because it is only the assertion that I cannot be mistaken (in that), & that I am not mistaken _in it_, must be _objectively_ ascertainable.
+<span class="series-number">15</span> It must be _proven_ that no error was possible. The assurance “I know it” is not enough. Because it is only the assurance that I cannot be mistaken (there), & that I am not mistaken _in it_, must be _objectively_ ascertainable.
 
 ### [Ms-172](/ms-172/#5.4) <span class="fac">[5\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/5.webp)</span>
 
@@ -78,7 +78,7 @@
 
 ### [Ms-172](/ms-172/#5.6+6.1) <span class="fac">[5\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/5.webp),[6\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/6.webp)</span>
 
-<span class="series-number">18</span> “I know it” often means: I have the right reasons for my statement. So if the other person knows the language-game, he would admit that I know that. The other person must be able to imagine _how_ one can know something like that, if he knows the language-game.
+<span class="series-number">18</span> “I know it” often means: I have the right reasons for my statement. So if the other person knows the language-game, he would admit that I know it. The other person must be able to imagine _how_ one can know something like that, if he knows the language-game.
 
 ### [Ms-172](/ms-172/#6.2) <span class="fac">[6\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/6.webp)</span>
 
@@ -150,7 +150,7 @@
 
 ### [Ms-172](/ms-172/#11.3+12.1) <span class="fac">[11\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/11.webp),[12\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/12.webp)</span>
 
-<span class="series-number">36</span> <s> We make the communication “A is a physical object” only if he does not yet know the meaning of the word “A”, or the meaning of the expression “physical object”. </s> We only give the instruction “A is a physical object” to someone who either does not yet understand what “A” means, or what “physical object” means. Thus, it is an instruction about the use of words, and “physical object” is a logical concept. (Like color, measure…) And that is why a sentence “There are physical objects” cannot be formed.
+<span class="series-number">36</span> <s> We make the communication “A is a physical object” only if he does not yet know the meaning of the word “A”, or the meaning of the expression “physical object”. </s> We only give the instruction “A is a physical object” to someone who either does not yet understand what “A” means, or what “physical object” means. Thus, it is an instruction about the use of words, and “physical object” is a logical concept. (Like colour, measure…) And that is why a sentence “There are physical objects” cannot be formed.
 
 ### [Ms-172](/ms-172/#12.3+13.1) <span class="fac">[12\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/12.webp),[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/13.webp)</span>
 
@@ -202,7 +202,7 @@
 
 ### [Ms-172](/ms-172/#16.2) <span class="fac">[16\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/16.webp)</span>
 
-<span class="series-number">48</span> But one could still distinguish certain calculations from a series of calculations as being reliable once and for all, and others as not yet established. And is this now a _logical_ distinction?
+<span class="series-number">48</span> But one could still distinguish certain calculations in a set of calculations as being reliable once and for all, and others as not yet established. And is this now a _logical_ distinction?
 
 ### [Ms-172](/ms-172/#16.3) <span class="fac">[16\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/16.webp)</span>
 
@@ -214,7 +214,7 @@
 
 ### [Ms-172](/ms-172/#16.5) <span class="fac">[16\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/16.webp)</span>
 
-<span class="series-number">51</span> What is this for a sentence: “What would an error look like here!”? It must be a logical sentence. But it is a logic that is not needed, because what it teaches is not taught through sentences. – It is a logical sentence, because it describes the conceptual (linguistic) situation.
+<span class="series-number">51</span> What kind of sentence is this: “What would an error look like here!”? It must be a logical sentence. But it is a logic that is not needed, because what it teaches is not taught through sentences. – It is a logical sentence, because it describes the conceptual (linguistic) situation.
 
 ### [Ms-172](/ms-172/#16.7+17.1) <span class="fac">[16\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/16.webp),[17\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/17.webp)</span>
 
@@ -230,7 +230,7 @@
 
 ### [Ms-172](/ms-172/#17.4) <span class="fac">[17\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/17.webp)</span>
 
-<span class="series-number">55</span> Is the _hypothesis_ therefore possible that all the things in our environment do not exist? Wouldn’t it be like the one that we made a mistake in all calculations?
+<span class="series-number">55</span> Is the _hypothesis_ therefore possible that all the things in our environment do not exist? Wouldn’t it be like the hypothesis that we made a mistake in all calculations?
 
 ### [Ms-172](/ms-172/#17.5+18.1) <span class="fac">[17\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/17.webp),[18\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-172/18.webp)</span>
 
@@ -284,7 +284,7 @@ For it is what we learn when the word is first incorporated into our language.
 
 ### [Ms-174](/ms-174/#14v.3+15r.1) <span class="fac">[14v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/14v.webp),[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/15r.webp)</span>
 
-<span class="series-number">66</span> I make assertions about reality with varying degrees of certainty. How does the degree of certainty manifest itself? What consequences does it have? It can, for example, be about certainty of memory or perception. I may be sure of my case, but I know what test could prove me wrong. For example, I am quite sure of the date of a battle, but if I were to find a different date in a well-known historical work, I would change my view & would not thereby judge everything I said to be wrong.
+<span class="series-number">66</span> I make assertions about reality with varying degrees of certainty. How does the degree of certainty manifest itself? What consequences does it have? It can, for example, be about certainty of memory or perception. I may be sure of my case, but I know what test could prove me wrong. For example, I am quite sure of the date of a battle, but if I were to find a different date in a well-known historical work, I would change my view & would not thereby lose confidence in all my judgements.
 
 ### [Ms-174](/ms-174/#15r.2+15v.1) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/15r.webp),[15v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/15v.webp)</span>
 
@@ -296,7 +296,7 @@ For it is what we learn when the word is first incorporated into our language.
 
 ### [Ms-174](/ms-174/#15v.3) <span class="fac">[15v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/15v.webp)</span>
 
-<span class="series-number">69</span> I would like to say: “If I am mistaken _in this_, then I have _no_ guarantee that anything I say is true.” But another person will not say that about me, nor will I say it about another.
+<span class="series-number">69</span> I would like to say: “If I am mistaken _in this_, then I have _no_ guarantee that anything I say is true.” But another person will not therefore say that about me, nor will I say it about another.
 
 ### [Ms-174](/ms-174/#15v.4) <span class="fac">[15v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/15v.webp)</span>
 
@@ -382,7 +382,7 @@ But couldn’t I still believe the opposite? But the question is: how would this
 
 ### [Ms-174](/ms-174/#19v.2+20r.1) <span class="fac">[19v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/19v.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/20r.webp)</span>
 
-<span class="series-number">90</span> “I know” has a primitive meaning similar & related to that of “I see” (“to know,” “to see”). And “I knew that he was in the room, but he wasn’t in the room” is similar to “I saw him in the room, but he wasn’t there.” “I know” is meant to express a relationship, not between me & the sense of a sentence (as in “I believe”), but between me & a fact. So that the _fact_ is taken into my consciousness. (Here is also the reason why one wants to say that one doesn’t actually _know_ what is in the external world, but only what happens in the realm of so-called sense data.) An image of knowledge would then be the perception of an external event through rays of sight, which project it, as it is, into the eye & consciousness. But the question immediately arises as to whether one can actually be sure of this projection. And this image shows the _image_ that we have of knowledge, but not actually what underlies it.
+<span class="series-number">90</span> “I know” has a primitive meaning similar & related to that of “I see” (“to know”, “videre”.) And “I knew that he was in the room, but he wasn’t in the room” is similar to “I saw him in the room, but he wasn’t there.” “I know” is meant to express a relationship, not between me & the sense of a sentence (as in “I believe”), but between me & a fact. So that the _fact_ is taken into my consciousness. (Here is also the reason why one wants to say that one doesn’t actually _know_ what is in the external world, but only what happens in the realm of so-called sense data.) An image of knowledge would then be the perception of an external event through rays of sight, which project it, as it is, into the eye & consciousness. But the question immediately arises as to whether one can actually be sure of this projection. And this image shows the _image_ that we have of knowledge, but not actually what underlies it.
 
 ### [Ms-174](/ms-174/#20r.2) <span class="fac">[20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/20r.webp)</span>
 
@@ -396,7 +396,7 @@ But couldn’t I still believe the opposite? But the question is: how would this
 
 <span class="series-number">93</span> The sentences that represent what M. ‘_knows_’ are all of such a kind that it is difficult to imagine _why_ someone should believe the opposite.
 
-For example, the sentence that M. has spent his entire life at a short distance from the Earth. – Again, I can talk about myself instead of Moore here. What could make me believe the opposite of this? Either a memory, or that it was told to me. – Everything I have seen or heard makes me believe that no human being has ever been far from the Earth. Nothing in my worldview speaks against the contrary.
+For example, the sentence that M. has spent his entire life at a short distance from the Earth. – Again, I can talk about myself instead of Moore here. What could make me believe the opposite of this? Either a memory, or that it was told to me. – Everything I have seen or heard makes me believe that no human being has ever been far from the Earth. Nothing in my worldview speaks for the contrary.
 
 ### [Ms-174](/ms-174/#21r.2+21v.1) <span class="fac">[21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/21r.webp),[21v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/21v.webp)</span>
 
@@ -464,7 +464,7 @@ For example, the sentence that M. has spent his entire life at a short distance 
 
 ### [Ms-174](/ms-174/#24v.3+25r.1) <span class="fac">[24v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/24v.webp),[25r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/25r.webp)</span>
 
-<span class="series-number">110</span> What _counts_ as its justification? – “But is this a _sufficient_ justification? And, if so, must it not be recognized as such in logic?” – As if the justification does not even come to an end. But the end is not the unjustified presupposition, but the unjustified way of acting.
+<span class="series-number">110</span> What _counts_ as its verification? – “But is this a _sufficient_ verification? And, if so, must it not be recognized as such in logic?” – As if the justification does not even come to an end. But the end is not the unjustified presupposition, but the unjustified way of acting.
 
 ### [Ms-174](/ms-174/#25r.2+25v.1) <span class="fac">[25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/25r.webp),[25v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/25v.webp)</span>
 
@@ -494,7 +494,7 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-174](/ms-174/#26r.2) <span class="fac">[26r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/26r.webp)</span>
 
-<span class="series-number">117</span> Why is it not possible for me to doubt that I have not been to the moon? And how could I try to do it? Above all, the assumption that I might have been there seems _superfluous_ to me. Nothing would follow from it, nothing would be explained by it. It would have no connection with anything in my life. If I say “There is nothing to support it & everything against it,” this already presupposes a principle of what supports & what contradicts. That is, I must be able to say what would _support_ it.
+<span class="series-number">117</span> Why is it not possible for me to doubt that I have not been to the moon? And how could I try to do it? Above all, the assumption that I might have been there seems _idle_ to me. Nothing would follow from it, nothing would be explained by it. It would have no connection with anything in my life. If I say “There is nothing to support it & everything against it,” this already presupposes a principle of what supports & what contradicts. That is, I must be able to say what would _support_ it.
 
 ### [Ms-174](/ms-174/#26r.3+26v.1) <span class="fac">[26r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/26r.webp),[26v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/26v.webp)</span>
 
@@ -530,7 +530,7 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-174](/ms-174/#27r.4+27v.1) <span class="fac">[27r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/27r.webp),[27v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/27v.webp)</span>
 
-<span class="series-number">126</span> I am not more certain of the meaning of my words than of certain judgments. Can I doubt that this color is called “blue”? (My) doubts form a system.
+<span class="series-number">126</span> I am not more certain of the meaning of my words than of certain judgments. Can I doubt that this colour is called “blue”? (My) doubts form a system.
 
 ### [Ms-174](/ms-174/#27v.2) <span class="fac">[27v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/27v.webp)</span>
 
@@ -546,7 +546,7 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-174](/ms-174/#27v.5+28r.1) <span class="fac">[27v\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/27v.webp),[28r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/28r.webp)</span>
 
-<span class="series-number">130</span> But is it not experience that teaches us to judge _in this way_, i.e., that it is correct to judge in this way? But how does experience _teach_ it to us? _We_ may draw it from it, but experience does not force us to do so. Is it the _reason_ why we judge in this way (and not just the cause), then we do not have another reason for seeing this as a reason.
+<span class="series-number">130</span> But is it not experience that teaches us to judge _in this way_, i.e., that it is correct to judge in this way? But how does experience _teach_ it to us? _We_ may draw it from it, but experience does not force us to do so. If it is the _reason_ why we judge in this way (and not just the cause), then we do not have another reason for seeing this as a reason.
 
 ### [Ms-174](/ms-174/#28r.2) <span class="fac">[28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/28r.webp)</span>
 
@@ -622,11 +622,11 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-174](/ms-174/#32v.2) <span class="fac">[32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/32v.webp)</span>
 
-<span class="series-number">149</span> My judgments themselves characterize the manner & method, _how_ I judge, the essence of judging.
+<span class="series-number">149</span> My judgments themselves characterize the manner & way, _how_ I judge, the essence of judging.
 
 ### [Ms-174](/ms-174/#32v.3) <span class="fac">[32v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/32v.webp)</span>
 
-<span class="series-number">150</span> How does one judge which is one’s right & which is one’s left hand? How do I know that my judgment will accord with that of others? (How do I know that this color is blue?) If I don’t trust _myself_ here, why should I trust the judgment of others? Is there a reason? Must I not begin to trust somewhere? That is to say, I must begin somewhere with not doubting; & that is not, as it were, hasty but excusable; rather, it belongs to judging.
+<span class="series-number">150</span> How does one judge which is one’s right & which is one’s left hand? How do I know that my judgment will accord with that of others? (How do I know that this colour is blue?) If I don’t trust _myself_ here, why should I trust the judgment of others? Is there a reason? Must I not begin to trust somewhere? That is to say, I must begin somewhere with not doubting; & that is not, as it were, hasty but excusable; rather, it belongs to judging.
 
 ### [Ms-174](/ms-174/#33r.1) <span class="fac">[33r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/33r.webp)</span>
 
@@ -706,7 +706,7 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-174](/ms-174/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/36v.webp)</span>
 
-<span class="series-number">170</span> I believe what people communicate to me in a certain way. Thus, I believe geographical, chemical, & historical facts, etc. This is how I _learn_ the sciences. Yes, learning is naturally based on belief. Whoever has learned that Mont Blanc is 4000 m high, whoever has looked it up on a map, now says that he _knows_ it. And can one say: We justify our trust in this because it has proven itself?
+<span class="series-number">170</span> I believe what people communicate to me in a certain way. Thus, I believe geographical, chemical, & historical facts, etc. This is how I _learn_ the sciences. Yes, learning is naturally based on belief. Whoever has learned that Mont Blanc is 4000 m high, whoever has looked it up on a map, now says that he _knows_ it. And can one say: We place our trust in it because it has proved itself so?
 
 ### [Ms-174](/ms-174/#37r.1) <span class="fac">[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-174/37r.webp)</span>
 
@@ -814,7 +814,7 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-175](/ms-175/#2r.2) <span class="fac">[2r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/2r.webp)</span>
 
-<span class="series-number">197</span> It would be wrong to say that we consider something as secure evidence because it is certainly true.
+<span class="series-number">197</span> It would be wrong to say that we consider something as certain evidence because it is certainly true.
 
 ### [Ms-175](/ms-175/#2r.3+2v.1) <span class="fac">[2r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/2r.webp),[2v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/2v.webp)</span>
 
@@ -830,7 +830,7 @@ I want to say: That I have not been on the moon is as certain for me as any reas
 
 ### [Ms-175](/ms-175/#3r.2) <span class="fac">[3r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/3r.webp)</span>
 
-<span class="series-number">201</span> Imagine someone asking: “Is it really true that we rely on the evidence of our memory (or our senses) as we do?”
+<span class="series-number">201</span> Imagine someone asking: “Is it really right that we rely on the evidence of our memory (or our senses) as we do?”
 
 ### [Ms-175](/ms-175/#3v.1) <span class="fac">[3v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/3v.webp)</span>
 
@@ -894,7 +894,7 @@ Some things seem to us to be established and they drop out of consideration. The
 
 ### [Ms-175](/ms-175/#7v.2) <span class="fac">[7v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/7v.webp)</span>
 
-<span class="series-number">214</span> What is wrong with the idea that this table, when no one is looking at it, either disappears or changes its shape & color, and only returns to its old state when someone looks at it? – “Who would even assume such a thing!” – one might say.
+<span class="series-number">214</span> What is wrong with the idea that this table, when no one is looking at it, either disappears or changes its shape & colour, and only returns to its old state when someone looks at it? – “Who would even assume such a thing!” – one might say.
 
 ### [Ms-175](/ms-175/#7v.3+8r.1) <span class="fac">[7v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/7v.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/8r.webp)</span>
 
@@ -906,7 +906,7 @@ Some things seem to us to be established and they drop out of consideration. The
 
 ### [Ms-175](/ms-175/#8r.3+8v.1) <span class="fac">[8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/8v.webp)</span>
 
-<span class="series-number">217</span> Who would assume that _all_ our calculations are unreliable, & that we cannot rely on any of them (with the justification that errors are possible everywhere), we would perhaps declare to be mad. But can we say that he is mistaken? Is he not simply reacting differently: we rely on them, he does not; we are certain, he is not.
+<span class="series-number">217</span> We would perhaps declare anyone who assumed that _all_ our calculations are unreliable, & that we cannot rely on any of them (with the justification that errors are possible everywhere) to be mad. But can we say that he is mistaken? Is he not simply reacting differently: we rely on them, he does not; we are certain, he is not.
 
 ### [Ms-175](/ms-175/#8v.2) <span class="fac">[8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/8v.webp)</span>
 
@@ -970,7 +970,7 @@ Some things seem to us to be established and they drop out of consideration. The
 
 ### [Ms-175](/ms-175/#11v.2+12r.1) <span class="fac">[11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/11v.webp),[12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/12r.webp)</span>
 
-<span class="series-number">233</span> If a child asked me whether the Earth existed before my birth, I would not answer that the Earth only came into existence with my birth, but that it existed long, long before. And in doing so, I would have the feeling of saying something strange. Something like when the child asked whether this or that mountain is higher than a very tall building that it has seen. I could only answer that question to someone to whom I would first impart a worldview. If I now answer the question with certainty, what gives me this certainty?
+<span class="series-number">233</span> If a child asked me whether the Earth existed before my birth, I would not answer that the Earth only came into existence with my birth, but that it existed long, long before. And in doing so, I would have the feeling of saying something strange. Something like if the child had asked whether this or that mountain was higher than a very tall building that it had seen. I could only answer that question to someone to whom I would first impart a worldview. If I now answer the question with certainty, what gives me this certainty?
 
 ### [Ms-175](/ms-175/#12r.2+12v.1+13r.1) <span class="fac">[12r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/12r.webp),[12v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/12v.webp),[13r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/13r.webp)</span>
 
@@ -1044,7 +1044,7 @@ What would I believe if I did not believe that? I don’t even have a system in 
 
 ### [Ms-175](/ms-175/#19r.3+19v.1) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/19r.webp),[19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/19v.webp)</span>
 
-And one could almost say that this foundation is what supports the whole house.
+And one could almost say that this foundation is supported by the whole house.
 
 ### [Ms-175](/ms-175/#19v.2) <span class="fac">[19v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/19v.webp)</span>
 
@@ -1140,7 +1140,7 @@ And one could almost say that this foundation is what supports the whole house.
 
 ### [Ms-175](/ms-175/#25r.2) <span class="fac">[25r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/25r.webp)</span>
 
-<span class="series-number">272</span> I know = It is certainly known to me.
+<span class="series-number">272</span> I know = It is known to me as certain.
 
 ### [Ms-175](/ms-175/#25r.3) <span class="fac">[25r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/25r.webp)</span>
 
@@ -1180,7 +1180,7 @@ There are countless general sentences of experience that are considered certain 
 
 ### [Ms-175](/ms-175/#28r.3+28v.1) <span class="fac">[28r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/28r.webp),[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/28v.webp)</span>
 
-<span class="series-number">281</span> _I_, L.W., believe, am certain that my friend does not have sawdust in his stomach or head, although I have no direct sensory evidence for it. I am certain, based on what was told to me, what I read, & my experiences. To doubt this seems to me like madness, of course, again in agreement with others; but _I_ agree with them.
+<span class="series-number">281</span> _I_, L.W., believe, am certain that my friend does not have sawdust in his body or head, although I have no direct sensory evidence for it. I am certain, based on what was told to me, what I read, & my experiences. To doubt this seems to me like madness, of course, again in agreement with others; but _I_ agree with them.
 
 ### [Ms-175](/ms-175/#28v.2+29r.1) <span class="fac">[28v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/29r.webp)</span>
 
@@ -1218,7 +1218,7 @@ Isn't that what one says? But not only do I know, or believe all this, but so do
 
 ### [Ms-175](/ms-175/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/32r.webp)</span>
 
-<span class="series-number">289</span> I am firmly convinced that the others believe, believe that everything is as it is.
+<span class="series-number">289</span> I am firmly convinced that the others believe, believe that they know that everything is as it is.
 
 ### [Ms-175](/ms-175/#32r.3+32v.1) <span class="fac">[32r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/32r.webp),[32v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/32v.webp)</span>
 
@@ -1230,11 +1230,11 @@ Isn't that what one says? But not only do I know, or believe all this, but so do
 
 ### [Ms-175](/ms-175/#33r.2) <span class="fac">[33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/33r.webp)</span>
 
-<span class="series-number">292</span> Further attempts cannot _rectify the earlier ones_, at most they can alter our entire consideration.
+<span class="series-number">292</span> Further attempts cannot _prove the earlier ones false_, at most they can alter our entire consideration.
 
 ### [Ms-175](/ms-175/#33r.3) <span class="fac">[33r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/33r.webp)</span>
 
-<span class="series-number">293</span> Similarly, the sentence “Water boils at 100˚ C.”
+<span class="series-number">293</span> Similarly, the sentence “Water boils at 100˚ C.”.
 
 ### [Ms-175](/ms-175/#33r.4+33v.1) <span class="fac">[33r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/33r.webp),[33v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/33v.webp)</span>
 
@@ -1294,7 +1294,7 @@ And isn't this an empirical fact that _this_ word is used _in this way_?
 
 ### [Ms-175](/ms-175/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/36v.webp)</span>
 
-<span class="series-number">307</span> And here it is peculiar that, even if I am quite certain of the _use_ of the words, have no doubt about it, I cannot give any _reasons_ for my way of acting. If I were to try, I could give 1000, but none of them would be as certain as the things that they are supposed to justify.
+<span class="series-number">307</span> And here it is peculiar that, even if I am quite certain of the _use_ of the words, and have no doubt about it, I cannot give any _reasons_ for my way of acting. If I were to try, I could give 1000, but none of them would be as certain as the things that they are supposed to justify.
 
 ### [Ms-175](/ms-175/#37r.1+37v.1) <span class="fac">[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/37r.webp),[37v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/37v.webp)</span>
 
@@ -1396,7 +1396,7 @@ One might almost say “Every empirical sentence can, in theory, be transformed�
 
 <span class="series-number">331</span> 13.03.1951
 
-If we act with certainty, should we then be surprised that we cannot doubt many things?
+If we act with certainty on the basis of belief, should we then be surprised that we cannot doubt many things?
 
 ### [Ms-175](/ms-175/#43v.3+44r.1) <span class="fac">[43v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/43v.webp),[44r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/44r.webp)</span>
 
@@ -1432,7 +1432,7 @@ If we act with certainty, should we then be surprised that we cannot doubt many 
 
 ### [Ms-175](/ms-175/#47v.2+48r.1) <span class="fac">[47v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/47v.webp),[48r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/48r.webp)</span>
 
-<span class="series-number">340</span> With the same certainty with which we believe _any_ mathematical sentence, we also know how the letters “A” & “B” are pronounced, what the color of human blood is called, that other people have blood & call it “blood”.
+<span class="series-number">340</span> With the same certainty with which we believe _any_ mathematical sentence, we also know how the letters “A” & “B” are pronounced, what the colour of human blood is called, that other people have blood & call it “blood”.
 
 ### [Ms-175](/ms-175/#48r.2) <span class="fac">[48r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/48r.webp)</span>
 
@@ -1448,11 +1448,11 @@ If we act with certainty, should we then be surprised that we cannot doubt many 
 
 ### [Ms-175](/ms-175/#48v.3) <span class="fac">[48v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/48v.webp)</span>
 
-<span class="series-number">344</span> My _life_ consists in the fact that one is content with many things.
+<span class="series-number">344</span> My _life_ consists in the fact that I am content with many things.
 
 ### [Ms-175](/ms-175/#49r.1) <span class="fac">[49r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/49r.webp)</span>
 
-<span class="series-number">345</span> If I ask, “What color do you see now,” in order to find out what color is there now, then I cannot at the same time also doubt whether the person addressed understands German, whether he wants to deceive me, whether my own memory is not failing me with regard to the meaning of color names, etc.
+<span class="series-number">345</span> If I ask, “What colour do you see now,” in order to find out what color is there now, then I cannot at the same time also doubt whether the person addressed understands German, whether he wants to deceive me, whether my own memory is not failing me with regard to the meaning of colour names, etc.
 
 ### [Ms-175](/ms-175/#49r.2+49v.1) <span class="fac">[49r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/49r.webp),[49v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/49v.webp)</span>
 
@@ -1474,7 +1474,7 @@ If we act with certainty, should we then be surprised that we cannot doubt many 
 
 ### [Ms-175](/ms-175/#51v.2+52r.1+52v.1+53r.1) <span class="fac">[51v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/51v.webp),[52r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/52r.webp),[52v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/52v.webp),[53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/53r.webp)</span>
 
-<span class="series-number">350</span> “I know that that is a tree” – a philosopher might say this in order to bring before his own eyes or the eyes of another that he _knows_ something that is not a mathematical or logical truth. Similarly, someone who is preoccupied with the thought that he is no longer of use to anyone might repeatedly say to himself, “I can still do this and that.” If such thoughts were to occur more often in his head, one would not be surprised if he spoke such a sentence to himself, apparently out of all context. (But I have already sketched a background, an environment for these utterances, thus giving them a context.) If, on the other hand, someone were to exclaim, with the most convincing mime, under completely heterogeneous circumstances, “Down with him!” one could say of these words (and their tone) that they are a figure, which certainly has well-known applications, but here it is not even clear which _language_ the person is speaking. I could make with my hand the movement that would be made if I had a fox's tail in my hand and was sawing a board; but would one be justified in calling this movement a _sawing_ movement outside of all context? (It could be something completely different!)
+<span class="series-number">350</span> “I know that that is a tree” – a philosopher might say this in order to bring before his own eyes or the eyes of another that he _knows_ something that is not a mathematical or logical truth. Similarly, someone who is preoccupied with the thought that he is no longer of use to anyone might repeatedly say to himself, “I can still do this and that.” If such thoughts were to occur more often in his head, one would not be surprised if he spoke such a sentence to himself, apparently out of all context. (But I have already sketched a background, an environment for these utterances, thus giving them a context.) If, on the other hand, someone were to exclaim, with the most convincing mime, under completely heterogeneous circumstances, “Down with him!” one could say of these words (and their tone) that they are a figure, which certainly has well-known applications, but here it is not even clear which _language_ the person is speaking. I could make with my hand the movement that would be made if I had a fox's tail in my hand and was sawing a board; but would one be justified in calling this movement a _sawing_ movement outside of all context. (It could be something completely different!)
 
 ### [Ms-175](/ms-175/#53r.2+53v.1) <span class="fac">[53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/53r.webp),[53v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/53v.webp)</span>
 
@@ -1486,11 +1486,11 @@ If we act with certainty, should we then be surprised that we cannot doubt many 
 
 ### [Ms-175](/ms-175/#54r.2) <span class="fac">[54r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54r.webp)</span>
 
-<span class="series-number">353</span> But how if he said: “I want to make a logical remark”? – – – When the forester goes into the forest with his workers & now says “_This_ tree is to be cut down, & _this_ & _this_” – – – how if he makes the remark “I _know_ that that is a tree”? – Couldn’t one say of the forester, “He _knows_ that that is a tree; he isn’t investigating it, he isn’t ordering his men to investigate it.”?
+<span class="series-number">353</span> But how if he said: “I want to make a logical remark”? – – – When the forester goes into the forest with his workers & now says “_This_ tree is to be cut down, & _this_ & _this_” – – – how if he makes the remark “I _know_ that that is a tree”? – Couldn’t I say of the forester, “He _knows_ that that is a tree; he isn’t investigating it, he isn’t ordering his men to investigate it.”?
 
 ### [Ms-175](/ms-175/#54v.1) <span class="fac">[54v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54v.webp)</span>
 
-<span class="series-number">354</span> Doubtful and non-doubtful behavior. The former exists only if the latter exists.
+<span class="series-number">354</span> Doubtful and non-doubtful behaviour. The former exists only if the latter exists.
 
 ### [Ms-175](/ms-175/#54v.2+55r.1) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/55r.webp)</span>
 
@@ -1584,7 +1584,7 @@ that I can use statements such as… in language-games in which a doubt about th
 
 ### [Ms-175](/ms-175/#61v.2) <span class="fac">[61v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/61v.webp)</span>
 
-<span class="series-number">376</span> March 16, 1951
+<span class="series-number">376</span> March 17, 1951
 
 I can passionately affirm that I know that this (e.g.) is my foot.
 
@@ -1602,7 +1602,7 @@ I can passionately affirm that I know that this (e.g.) is my foot.
 
 ### [Ms-175](/ms-175/#62r.4+62v.1) <span class="fac">[62r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/62r.webp),[62v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/62v.webp)</span>
 
-<span class="series-number">380</span> I could continue: “Nothing in the world will convince me of the contrary!” The fact is, at bottom, the foundation of all knowledge. I will give up other things, but not this.
+<span class="series-number">380</span> I could continue: “Nothing in the world will convince me of the contrary!” For me, the fact is at the foundation of all knowledge. I will give up other things, but not this.
 
 ### [Ms-175](/ms-175/#62v.2) <span class="fac">[62v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/62v.webp)</span>
 
@@ -1684,7 +1684,7 @@ M. wanted to give an example to show that one can really know sentences about ph
 
 ### [Ms-175](/ms-175/#68r.3+68v.1) <span class="fac">[68r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/68r.webp),[68v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/68v.webp)</span>
 
-<span class="series-number">399</span> But does showing that I draw the consequences from it not only mean that I assume this hypothesis?
+<span class="series-number">399</span> But does showing that I draw the consequences from it not only show that I assume this hypothesis?
 
 ### [Ms-175](/ms-175/#68v.2) <span class="fac">[68v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/68v.webp)</span>
 
@@ -1694,7 +1694,7 @@ Here I am inclined to fight against windmills, because I cannot yet say what I a
 
 ### [Ms-175](/ms-175/#68v.3+69r.1) <span class="fac">[68v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/68v.webp),[69r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/69r.webp)</span>
 
-<span class="series-number">401</span> I want to say: Sentences of the form of statements of experience, and not only sentences of logic, belong to the foundation of all thinking (of language). – This statement is _not_ of the form “I know…” “I know…” expresses what _I_ know, and that is not of logical interest.
+<span class="series-number">401</span> I want to say: Sentences of the form of statements of experience, and not only sentences of logic, belong to the foundation of all operating with thoughts (with language). – This statement is _not_ of the form “I know…” “I know…” expresses what _I_ know, and that is not of logical interest.
 
 ### [Ms-175](/ms-175/#69r.2) <span class="fac">[69r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/69r.webp)</span>
 
@@ -1706,7 +1706,7 @@ Here I am inclined to fight against windmills, because I cannot yet say what I a
 
 ### [Ms-175](/ms-175/#69v.2) <span class="fac">[69v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/69v.webp)</span>
 
-<span class="series-number">403</span> To say, in Moore’s sense, that a human being _knows_ something; that what he says is therefore absolutely true, seems to me wrong. – It is true only insofar as it is an unwavering foundation of his language-games.
+<span class="series-number">403</span> To say, in Moore’s sense, that a human being _knows_ something; that what he says is therefore absolutely true, seems to me wrong. – It is the truth only insofar as it is an unwavering foundation of his language-games.
 
 ### [Ms-175](/ms-175/#69v.3+70r.1) <span class="fac">[69v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/69v.webp),[70r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/70r.webp)</span>
 
@@ -1726,11 +1726,11 @@ Here I am inclined to fight against windmills, because I cannot yet say what I a
 
 ### [Ms-175](/ms-175/#71r.1) <span class="fac">[71r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/71r.webp)</span>
 
-<span class="series-number">408</span> If someone says that he _knows_ this & that, & this is part of his philosophy, then it is false if he has made a mistake in that statement.
+<span class="series-number">408</span> If someone says that he _knows_ this & that, & this is part of his philosophy, then his philosophy is false if he has made a mistake in that statement.
 
 ### [Ms-175](/ms-175/#71r.2+71v.1) <span class="fac">[71r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/71r.webp),[71v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/71v.webp)</span>
 
-<span class="series-number">409</span> When I say “I know that is a foot” – what am I actually saying? Isn’t the whole point that I am certain of the consequences, that if someone else had doubted it, I could say to him, “See, I told you”? Would my knowledge still be worth anything if it failed as a guide to action? And _can_ it not fail?
+<span class="series-number">409</span> When I say “I know that this is a foot” – what am I actually saying? Isn’t the whole point that I am certain of the consequences, that if someone else had doubted it, I could say to him, “See, I told you”? Would my knowledge still be worth anything if it failed as a guide to action? And _can_ it not fail?
 
 ### [Ms-175](/ms-175/#71v.2) <span class="fac">[71v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/71v.webp)</span>
 
@@ -1784,7 +1784,7 @@ Our knowledge forms a large system. And only in this system does the individual 
 
 ### [Ms-175](/ms-175/#76v.2) <span class="fac">[76v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/76v.webp)</span>
 
-<span class="series-number">421</span> I am in England – everything around me tells me so; as soon as I let my thoughts wander, & no matter where they go, they confirm it for me. – But could I not become mistaken if things happen that I cannot imagine now?
+<span class="series-number">421</span> I am in England – everything around me tells me so; as soon as I let my thoughts wander, & no matter where they go, they confirm it for me. – But could I not become mistaken if things were to happen that I cannot imagine now?
 
 ### [Ms-175](/ms-175/#76v.3+77r.1) <span class="fac">[76v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/76v.webp),[77r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/77r.webp)</span>
 
@@ -1902,7 +1902,7 @@ One is often bewitched by a word. E.g. by the word “know”.
 
 <span class="series-number">447</span> March 28, 1951
 
-Compare this with 12 × 12 = 144. Here, too, we do not say “perhaps.” For as long as this sentence is based on the fact that we do not miscount or miscalculate, that our senses do not deceive us when calculating, the two sentences, the arithmetic and the physical, are on the same level. I mean: the arithmetic game is just as little uncertain as the physical one. But this can be misunderstood. My remark is a logical one, not a psychological one.
+Compare this with 12 × 12 = 144. Here, too, we do not say “perhaps.” Insofar as this sentence rests on the fact that we do not miscount or miscalculate, that our senses do not deceive us when calculating, the two sentences, the arithmetic and the physical, are on the same level. I mean: the arithmetic game is just as little uncertain as the physical one. But this can be misunderstood. My remark is a logical one, not a psychological one.
 
 ### [Ms-176](/ms-176/#28r.2+28v.1) <span class="fac">[28r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/28r.webp),[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/28v.webp)</span>
 
@@ -1956,7 +1956,7 @@ The language-game is based on the fact that words & objects are recognized. We l
 
 ### [Ms-176](/ms-176/#31r.1+31v.1) <span class="fac">[31r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/31r.webp),[31v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/31v.webp)</span>
 
-<span class="series-number">460</span> I go to the doctor, show him my hand & say “This is a hand, not…; I injured it, etc. etc.” Am I just making an unnecessary communication? Couldn’t one, for example, say: Suppose the words “This is my hand” are a communication – how could you then be sure that he understands the communication? Yes, if there is a doubt about ‘that being a hand’, why isn’t there also a doubt about me being a person who communicates this to the doctor? – On the other hand, one can imagine – although very strange – cases in which such an explanation is not superfluous, or is only superfluous but not absurd.
+<span class="series-number">460</span> I go to the doctor, show him my hand & say “This is a hand, not…; I injured it, etc. etc.” Am I just making an unnecessary communication? Couldn’t one, for example, say: Suppose the words “This is my hand” are a communication – how could you then count on his understanding the communication? Yes, if there is a doubt about ‘that being a hand’, why isn’t there also a doubt about me being a person who communicates this to the doctor? – On the other hand, one can imagine – although very strange – cases in which such an explanation is not superfluous, or is only superfluous but not absurd.
 
 ### [Ms-176](/ms-176/#31v.2+32r.1) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/32r.webp)</span>
 
@@ -1982,7 +1982,7 @@ My difficulty can also be demonstrated in this way: I am sitting with a friend i
 
 ### [Ms-176](/ms-176/#32v.2+33r.1) <span class="fac">[32v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/32v.webp),[33r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/33r.webp)</span>
 
-<span class="series-number">465</span> How about the words “It is known today that there are over … species of insects”, instead of the words “I know that this is a tree”? If someone suddenly said that sentence out of context, one could think that he had been thinking about something else in the meantime & is now saying a sentence from his train of thought. Or also: he is in a trance & speaks without understanding his words.
+<span class="series-number">465</span> How about the words “It is known today that there are over … species of insects”, instead of the words “I know that this is a tree”? If someone suddenly said that sentence out of context, one could think that he had been thinking about something else in the meantime & is now saying a sentence from his train of thought. Or also: that he is in a trance & speaks without understanding his words.
 
 ### [Ms-176](/ms-176/#33r.2) <span class="fac">[33r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/33r.webp)</span>
 
@@ -2026,7 +2026,7 @@ Someone says irrelevantly, “That is a tree.” He might say the sentence becau
 
 ### [Ms-176](/ms-176/#35r.2) <span class="fac">[35r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/35r.webp)</span>
 
-<span class="series-number">474</span> This game proves itself. That may be the reason why it is played, but it is not the reason.
+<span class="series-number">474</span> This game proves itself. That may be the cause of its being played, but it is not the ground.
 
 ### [Ms-176](/ms-176/#35r.3) <span class="fac">[35r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/35r.webp)</span>
 
@@ -2036,7 +2036,7 @@ Someone says irrelevantly, “That is a tree.” He might say the sentence becau
 
 <span class="series-number">476</span> 06.04.1951
 
-The child does not learn that there are books, that there are armchairs, etc., etc., but it learns to fetch books, to sit (on) armchairs, etc. Of course, questions about existence also arise later: “Is there a unicorn?” etc. But such a question is only possible because, as a rule, no such question arises. Because how does one know how to convince oneself of the existence of the unicorn? How did one learn the method of determining whether something exists or not?
+The child does not learn that there are books, that there are armchairs, etc., etc., but it learns to fetch books, to sit (on) armchairs, etc. Of course, questions about existence also arise later: “Is there a unicorn?” etc. But such a question is only possible because, as a rule, no corresponding question arises. Because how does one know how to convince oneself of the existence of the unicorn? How did one learn the method of determining whether something exists or not?
 
 ### [Ms-176](/ms-176/#35v.2+36r.1) <span class="fac">[35v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/35v.webp),[36r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/36r.webp)</span>
 
@@ -2060,7 +2060,7 @@ The child that learns to use the word “tree.” One stands with it in front of
 
 ### [Ms-176](/ms-176/#36v.2+37r.1) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/36v.webp),[37r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/37r.webp)</span>
 
-<span class="series-number">481</span> When one hears M. say “I _know_ that that is a tree,” one suddenly understands those who think that is not at all established. The matter suddenly seems unclear & blurred to one. It is as if M. has shone the wrong light on it. It is as if I see a painting (perhaps a stage set) & immediately recognize from a distance, without the slightest doubt, what it depicts. But now I approach, & then I see a lot of spots of different colors, all of which are highly ambiguous & give no certainty at all.
+<span class="series-number">481</span> When one hears M. say “I _know_ that that is a tree,” one suddenly understands those who think that is not at all established. The matter suddenly seems unclear & blurred to one. It is as if M. has shone the wrong light on it. It is as if I see a painting (perhaps a stage set) & immediately recognize from a distance, without the slightest doubt, what it depicts. But now I approach, & then I see a lot of spots of different colours, all of which are highly ambiguous & give no certainty at all.
 
 ### [Ms-176](/ms-176/#37r.2) <span class="fac">[37r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/37r.webp)</span>
 
@@ -2070,7 +2070,7 @@ The child that learns to use the word “tree.” One stands with it in front of
 
 <span class="series-number">483</span> Correct use of the word “I know.” A person with poor eyesight asks me: “Do you think that what we see there is a tree?” – I reply, “I _know_ it; I see it clearly & know it well.” – A: “Is N.N. at home?” – I: “I think so.” – A: “Was he at home yesterday?” – I: “He was at home yesterday; I know that; I spoke to him.” –
 
-A: “Do you know, or do you only believe, that this part of the house was newly built?” – I: “I _know_ it; I inquired with the…”
+A: “Do you know, or do you only believe, that this part of the house was newly built?” – I: “I _know_ it; I inquired of the…”
 
 ### [Ms-176](/ms-176/#37v.2) <span class="fac">[37v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/37v.webp)</span>
 
@@ -2096,7 +2096,7 @@ A: “Do you know, or do you only believe, that this part of the house was newly
 
 ### [Ms-176](/ms-176/#38v.2) <span class="fac">[38v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/38v.webp)</span>
 
-<span class="series-number">489</span> For what does one answer to the one who says, “I think it only seems to you that you know it”?
+<span class="series-number">489</span> For what does one answer to the one who says, “I believe it merely seems to you that you know it”?
 
 ### [Ms-176](/ms-176/#38v.3+39r.1) <span class="fac">[38v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/38v.webp),[39r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/39r.webp)</span>
 
@@ -2128,7 +2128,7 @@ But what kind of sentence is that?
 
 ### [Ms-176](/ms-176/#40r.2) <span class="fac">[40r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/40r.webp)</span>
 
-<span class="series-number">495</span> One could simply say to someone who wants to raise objections to certain _certain_ sentences, “Oh, nonsense!” That is, not answer him, but reprimand him.
+<span class="series-number">495</span> One could simply say to someone who wants to raise objections to certain sentences, “Oh, nonsense!” That is, not answer him, but reprimand him.
 
 ### [Ms-176](/ms-176/#40r.3) <span class="fac">[40r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/40r.webp)</span>
 
@@ -2142,7 +2142,7 @@ But what kind of sentence is that?
 
 <span class="series-number">498</span> 11.04.1951
 
-The strange thing is that, even if I think it is perfectly correct that one rejects the attempt to make one doubt in the fundamentals with the word “Nonsense!”, I think it is wrong if he wants to defend himself, using words like “I know.”
+The strange thing is that, even if I think it is perfectly correct that one rejects the attempt to make him doubt the foundation with the word “Nonsense!”, I think it is wrong if he wants to defend himself, using words like “I know.”
 
 ### [Ms-176](/ms-176/#41r.1) <span class="fac">[41r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/41r.webp)</span>
 
@@ -2244,7 +2244,7 @@ Moore’s mistake lies in responding to the claim that one cannot know something
 
 ### [Ms-176](/ms-176/#46r.3+46v.1) <span class="fac">[46r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/46r.webp),[46v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/46v.webp)</span>
 
-<span class="series-number">522</span> We say: if the child masters the language – and therefore its application – he must know the meanings of the words. He must, for example, be able to assign the color name to white, black, red, blue things without any doubt.
+<span class="series-number">522</span> We say: if the child masters the language – and therefore its application – it must know the meanings of the words. He must, for example, be able to assign the colour name to white, black, red, blue things without any doubt.
 
 ### [Ms-176](/ms-176/#46v.2) <span class="fac">[46v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/46v.webp)</span>
 
@@ -2252,17 +2252,17 @@ Moore’s mistake lies in responding to the claim that one cannot know something
 
 ### [Ms-176](/ms-176/#51v.2+52r.1+52v.1+53r.1) <span class="fac">[51v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/51v.webp),[52r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/52r.webp),[52v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/52v.webp),[53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53r.webp)</span>
 
-<span class="series-number">524</span> Is it essential for our language-games (e.g., ‘commanding & obeying’) that doubt does not arise at certain points, or is it enough if there is a feeling of certainty, even if tinged with a slight doubt? Is it enough if I don't, as now, _without further ado_, without the interruption of any doubt, call something ‘black’, ‘green’, ‘red’ – but instead say “I am certain that it is red”, as one might say “I am certain that he will come today” (i.e., with the ‘feeling of certainty’)? The accompanying feeling is, of course, irrelevant to us, and we also have no need to worry about the words “I am certain that”. – What is important is whether a difference in the _practice_ of language is associated with this. One might ask whether it occurs in all cases where we, for example, assert something with certainty (in an experiment, for example, we look into a tube and report the color we observe through it), whether it says “I am certain” on this occasion. If it does, one would first be inclined to check its statement. But if it turns out that it is quite reliable, one would explain that its way of speaking is merely an idiosyncrasy that does not affect the matter. One might, for example, assume that it has read skeptical philosophers, has been convinced that one cannot know anything, and therefore has adopted this way of speaking. Once we are used to it, it makes no difference to the practice.
+<span class="series-number">524</span> Is it essential for our language-games (e.g., ‘commanding & obeying’) that doubt does not arise at certain points, or is it enough if there is a feeling of certainty, even if tinged with a slight doubt? Is it enough if I don't, as now, _without further ado_, without the interruption of any doubt, call something ‘black’, ‘green’, ‘red’ – but instead say “I am certain that it is red”, as one might say “I am certain that he will come today” (i.e., with the ‘feeling of certainty’)? The accompanying feeling is, of course, irrelevant to us, and we also have no need to worry about the words “I am certain that”. – What is important is whether a difference in the _practice_ of language is associated with this. One might ask whether he says it in all cases where we, for example, assert something with certainty (in an experiment, for example, we look into a tube and report the colour we observe through it), whether he says “I am certain” on this occasion. If it does, one would first be inclined to check its statement. But if it turns out that it is quite reliable, one would explain that its way of speaking is merely an idiosyncrasy that does not affect the matter. One might, for example, assume that it has read sceptical philosophers, has been convinced that one cannot know anything, and therefore has adopted this way of speaking. Once we are used to it, it makes no difference to the practice.
 
 ### [Ms-176](/ms-176/#53r.2) <span class="fac">[53r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53r.webp)</span>
 
-<span class="series-number">525</span> What does it look like when someone has a different relationship to color names, for example, than we do? Where, namely, a slight doubt, or the possibility of doubt, exists in its use.
+<span class="series-number">525</span> What does it look like when someone has a different relationship to colour names, for example, than we do? Where, namely, a slight doubt, or the possibility of doubt, exists in their use.
 
 ### [Ms-176](/ms-176/#53r.3+53v.1) <span class="fac">[53r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53r.webp),[53v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53v.webp)</span>
 
 <span class="series-number">526</span> 16.04.1951
 
-If someone, when looking at an English postbox, said: “I am certain that it is red”, we would have to consider him colorblind, or believe that he does not master German and knows the correct color name in another language. If neither of these were the case, we would not understand him properly.
+If someone, when looking at an English postbox, said: “I am certain that it is red”, we would have to consider him colour-blind, or believe that he does not master German and knows the correct colour name in another language. If neither of these were the case, we would not understand him properly.
 
 ### [Ms-176](/ms-176/#53v.2) <span class="fac">[53v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/53v.webp)</span>
 
@@ -2278,11 +2278,11 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 ### [Ms-176](/ms-176/#54r.3) <span class="fac">[54r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54r.webp)</span>
 
-<span class="series-number">530</span> I can say to someone “This color is called ‘red’ in German” (if I am, for example, teaching him German). In this case, I would not say “I know that this color…” – I would say that if I had just learned it myself, or in contrast to another color whose German name I do not know.
+<span class="series-number">530</span> I can say to someone “This colour is called ‘red’ in German” (if I am, for example, teaching him German). In this case, I would not say “I know that this color…” – I would say that if I had just learned it myself, or in contrast to another color whose German name I do not know.
 
 ### [Ms-176](/ms-176/#54v.1) <span class="fac">[54v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54v.webp)</span>
 
-<span class="series-number">531</span> But is it not correct to describe my present state _thus_: I _know_ how this color is called in German? And if that is correct, why should I not describe my state with the corresponding words “I know etc.”?
+<span class="series-number">531</span> But is it not correct to describe my present state _thus_: I _know_ how this colour is called in German? And if that is correct, why should I not describe my state with the corresponding words “I know etc.”?
 
 ### [Ms-176](/ms-176/#54v.2) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/54v.webp)</span>
 
@@ -2344,19 +2344,19 @@ If someone, when looking at an English postbox, said: “I am certain that it is
 
 <span class="series-number">545</span> 17.04.1951
 
-‘The child knows what color the word “blue” means.’ What it knows here is not so simple.
+‘The child knows what colour the word “blue” means.’ What it knows here is not so simple.
 
 ### [Ms-176](/ms-176/#57r.4) <span class="fac">[57r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp)</span>
 
-<span class="series-number">546</span> “I know what this color is called,” I would say, for example, if it is a matter of shades of color whose names not everyone knows.
+<span class="series-number">546</span> “I know what this color is called,” I would say, for example, if it is a matter of shades of colour whose names not everyone knows.
 
 ### [Ms-176](/ms-176/#57r.5+57v.1) <span class="fac">[57r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57r.webp),[57v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57v.webp)</span>
 
-<span class="series-number">547</span> One cannot say to a child who is just beginning to speak & can use the words “red” & “blue”: “Isn’t it true that you know what this color is called?”
+<span class="series-number">547</span> One cannot say to a child who is just beginning to speak & can use the words “red” & “blue”: “Isn’t it true that you know what this colour is called?”
 
 ### [Ms-176](/ms-176/#57v.2) <span class="fac">[57v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57v.webp)</span>
 
-<span class="series-number">548</span> The child must learn the use of color names before it can ask for the name of a color.
+<span class="series-number">548</span> The child must learn the use of colour names before it can ask for the name of a colour.
 
 ### [Ms-176](/ms-176/#57v.3) <span class="fac">[57v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/57v.webp)</span>
 
@@ -2378,7 +2378,7 @@ The pretensions are a mortgage that burdens the philosopher’s power of thought
 
 ### [Ms-176](/ms-176/#58r.4+58v.1) <span class="fac">[58r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/58v.webp)</span>
 
-<span class="series-number">552</span> Do I know that I am sitting in an armchair right now? — Don’t I know it?! Under the present circumstances, no one would say that I know; but no more, for example, that I am conscious. One would not usually say this of passers-by in the street either. But if one doesn’t say it, does that mean it _is_ not the case??
+<span class="series-number">552</span> Do I know that I am sitting in an armchair right now? — Don’t I know it?! Under the present circumstances, no one would say that I know; but likewise not, for example, that I am conscious. One would not usually say this of passers-by in the street either. But if one doesn’t say it, does that mean it _is_ not the case??
 
 ### [Ms-176](/ms-176/#58v.2+59r.1) <span class="fac">[58v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/58v.webp),[59r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/59r.webp)</span>
 
@@ -2494,11 +2494,11 @@ We say, we know that water boils when it is put on the fire. How do we know it? 
 
 <span class="series-number">580</span> April 20, 1951
 
-It could be that, whenever I say “I know it,” it turns out to be false. (Point out)
+It could be that, whenever I said “I know it,” it turned out to be false. (Point out)
 
 ### [Ms-176](/ms-176/#65v.2) <span class="fac">[65v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/65v.webp)</span>
 
-<span class="series-number">581</span> But I might still not be able to help myself, & would continue to assure “I know –”. But how did the human being learn this expression?
+<span class="series-number">581</span> But I might still not be able to help myself, & would continue to assert “I know –”. But how did the human being learn this expression?
 
 ### [Ms-176](/ms-176/#65v.3) <span class="fac">[65v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/65v.webp)</span>
 
@@ -2506,7 +2506,7 @@ It could be that, whenever I say “I know it,” it turns out to be false. (Poi
 
 ### [Ms-176](/ms-176/#65v.4+66r.1) <span class="fac">[65v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/65v.webp),[66r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/66r.webp)</span>
 
-<span class="series-number">583</span> “I know that it is called ‘…’.” – How do you know that? – “I learned it.” Could I put “I know that, etc.” here instead of “It is called ‘…’”?
+<span class="series-number">583</span> “I know that in … it is called ‘…’.” – How do you know that? – “I learned it.” Could I put “In … this is called ‘…’” here instead of “I know that, etc.”?
 
 ### [Ms-176](/ms-176/#66r.2) <span class="fac">[66r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/66r.webp)</span>
 
@@ -2522,7 +2522,7 @@ It could be that, whenever I say “I know it,” it turns out to be false. (Poi
 
 ### [Ms-176](/ms-176/#66v.2) <span class="fac">[66v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/66v.webp)</span>
 
-<span class="series-number">587</span> Back to the question of whether “I know that that is a…” says something different from “That is a…”. – The first sentence mentions a person, the second does not. But that does not show that they have different meanings. In any case, one often replaces the first form with the second & often gives the latter a special intonation. Because one speaks differently when making an undisputed statement, & when maintaining it against a contradiction.
+<span class="series-number">587</span> Back to the question of whether “I know that that is a…” says something different from “That is a…”. – The first sentence mentions a person, the second does not. But that does not show that they have different senses. In any case, one often replaces the first form with the second & often gives the latter a special intonation. Because one speaks differently when making an undisputed statement, & when maintaining it against a contradiction.
 
 ### [Ms-176](/ms-176/#67r.1+67v.1) <span class="fac">[67r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/67r.webp),[67v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/67v.webp)</span>
 
@@ -2636,7 +2636,7 @@ Should I say, “I believe in physics,” or “I know that physics is true”?
 
 ### [Ms-176](/ms-176/#75r.2+75v.1) <span class="fac">[75r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/75r.webp),[75v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/75v.webp)</span>
 
-<span class="series-number">614</span> That is to say: If I were contradicted from all sides: that he is not as I always knew (and I use “knew” intentionally), then in this case the basis of all judgment would be taken away from me.
+<span class="series-number">614</span> That is to say: If I were contradicted from all sides: that he is not called what I always knew him to be (and I use “knew” intentionally), then in this case the basis of all judgment would be taken away from me.
 
 ### [Ms-176](/ms-176/#75v.2) <span class="fac">[75v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/75v.webp)</span>
 
@@ -2678,15 +2678,15 @@ If anatomy were being discussed, I would say: “I know that 12 pairs of nerves 
 
 ### [Ms-176](/ms-176/#77v.3+78r.1) <span class="fac">[77v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/77v.webp),[78r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/78r.webp)</span>
 
-<span class="series-number">624</span> “Can you be mistaken in that this color is called ‘green’ in German?” My answer to that can only be “No.” If I said, “Yes, – because a delusion is always possible,” that would mean nothing. Is the added remark something unknown to the other? And how is it known to me?
+<span class="series-number">624</span> “Can you be mistaken in that this colour is called ‘green’ in German?” My answer to that can only be “No.” If I said, “Yes, – because a delusion is always possible,” that would mean nothing. Is the added remark something unknown to the other? And how is it known to me?
 
 ### [Ms-176](/ms-176/#78r.2) <span class="fac">[78r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/78r.webp)</span>
 
-<span class="series-number">625</span> Does that mean, however, that it would be unthinkable that the word “green” here springs from a kind of promise or momentary confusion? Don’t we know such cases? – One can also say to someone: “You may not have made a promise –”. That is about: “Think about it again!” – But these precautions only make sense if they come to an end at some point. A doubt without end is not even a doubt.
+<span class="series-number">625</span> Does that mean, however, that it would be unthinkable that the word “green” here springs from a kind of promise or momentary confusion? Don’t we know such cases? – One can also say to someone: “You may not have misspoken –”. That means something like: “Think about it again!” – But these precautions only make sense if they come to an end at some point. A doubt without end is not even a doubt.
 
 ### [Ms-176](/ms-176/#78v.1) <span class="fac">[78v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/78v.webp)</span>
 
-<span class="series-number">626</span> It also means nothing to say: “The German name for this color is _certainly_ ‘green’ – unless I am making a mistake right now or am somehow confused.”
+<span class="series-number">626</span> It also means nothing to say: “The German name for this colour is _certainly_ ‘green’ – unless I misspeak right now or am somehow confused.”
 
 ### [Ms-176](/ms-176/#78v.2) <span class="fac">[78v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/78v.webp)</span>
 
@@ -2694,7 +2694,7 @@ If anatomy were being discussed, I would say: “I know that 12 pairs of nerves 
 
 ### [Ms-176](/ms-176/#78v.3+79r.1) <span class="fac">[78v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/78v.webp),[79r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/79r.webp)</span>
 
-<span class="series-number">628</span> If one says: “Certain sentences must be excluded from doubt,” then it seems as though I should include these sentences, e.g., that I am called L.W., in a book about logic. For if it belongs to the description of the language-game, then it belongs to logic. But the fact that I am called L.W. does not belong to such a description. The language-game that operates with personal names can certainly exist even if I am mistaken about my name – but it presupposes that it is nonsensical to say that the majority of people are mistaken about their names.
+<span class="series-number">628</span> If one says: “Certain sentences must be excluded from doubt,” then it seems as though I should include these sentences, e.g., that I am called L.W., in a book about logic. For if it belongs to the description of the language-game, then it belongs to logic. But the fact that I am called L.W. does not belong to such a description. The language-game that operates with personal names can presumably exist even if I am mistaken about my name – but it presupposes that it is nonsensical to say that the majority of people are mistaken about their names.
 
 ### [Ms-176](/ms-176/#79r.2+79v.1) <span class="fac">[79r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/79r.webp),[79v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-176/79v.webp)</span>
 
@@ -2848,7 +2848,7 @@ But that is not true. I could, for example, immediately after lunch, without kno
 
 ### [Ms-177](/ms-177/#7v.3+8r.1) <span class="fac">[7v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/7v.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/8r.webp)</span>
 
-<span class="series-number">664</span> There is a difference between learning in school what is right and wrong in mathematics, and my explaining myself that I cannot be mistaken in a sentence.
+<span class="series-number">664</span> There is a difference between learning in school what is right and wrong in mathematics and my own declaring that I cannot be mistaken in a sentence.
 
 ### [Ms-177](/ms-177/#8r.2) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/8r.webp)</span>
 
@@ -2864,11 +2864,11 @@ But that is not true. I could, for example, immediately after lunch, without kno
 
 ### [Ms-177](/ms-177/#8v.1) <span class="fac">[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/8v.webp)</span>
 
-<span class="series-number">668</span> What practical consequences does it have if I make a statement and add that I cannot be mistaken in it? (Instead, I could also add: “I can be mistaken in this no more than in the fact that I am called L.W.”) The other person may still doubt my statement. But not only will he, if he trusts me, allow himself to be instructed by me, but he will also draw certain conclusions about my behavior from my conviction.
+<span class="series-number">668</span> What practical consequences does it have if I make a statement and add that I cannot be mistaken in it? (Instead, I could also add: “I can be mistaken in this no more than in the fact that I am called L.W.”) The other person may still doubt my statement. But not only will he, if he trusts me, allow himself to be instructed by me, but he will also draw certain conclusions about my behaviour from my conviction.
 
 ### [Ms-177](/ms-177/#8v.2+9r.1) <span class="fac">[8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/8v.webp),[9r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/9r.webp)</span>
 
-<span class="series-number">669</span> The sentence “I cannot be mistaken in this” will certainly be used in practice. One might, however, doubt whether it is to be understood in a strictly logical sense, or whether it is rather an exaggeration, perhaps used only for the purpose of persuasion. 27.04.1951
+<span class="series-number">669</span> The sentence “I cannot be mistaken in this” will certainly be used in practice. One might, however, doubt whether it is to be understood in a very strict sense, or whether it is rather an exaggeration, perhaps used only for the purpose of persuasion. 27.04.1951
 
 ### [Ms-177](/ms-177/#9r.2) <span class="fac">[9r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/9r.webp)</span>
 
@@ -2896,4 +2896,4 @@ But that is not true. I could, for example, immediately after lunch, without kno
 
 ### [Ms-177](/ms-177/#10v.3+11r.1) <span class="fac">[10v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/10v.webp),[11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-177/11r.webp)</span>
 
-<span class="series-number">676</span> “But if I cannot be mistaken even in these cases, is it not possible that I am in a state of anesthesia?” If I am in a state of anesthesia and if the anesthesia deprives me of consciousness, then I am not really talking and thinking now. I cannot seriously assume that I am dreaming now. Whoever says “I am dreaming” while dreaming, even if he is talking audibly, is as wrong as if he says “It is raining” in his dream, while it is actually raining. Even if his dream is actually related to the sound of rain.
+<span class="series-number">676</span> “But if I cannot be mistaken even in these cases, is it not possible that I am in a state of anesthesia?” If I am in a state of anesthesia and if the anesthesia deprives me of consciousness, then I am not really talking and thinking now. I cannot seriously assume that I am dreaming now. Whoever says “I am dreaming” while dreaming, even if he is talking audibly, has as little right as if he says “It is raining” in his dream, while it is actually raining. Even if his dream is actually related to the sound of rain.

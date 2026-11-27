@@ -808,7 +808,7 @@ People have sometimes told me that they cannot judge this or that, because they 
 
 ### [Ms-118](/ms-118/#117v.3+118r.1+118v.1+BCr.1) <span class="fac">[117v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/117v.webp),[118r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/118r.webp),[118v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/118v.webp),[BCr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/BCr.webp)</span>
 
-One can say that religious similes move along the edge of the abyss. For example, concerning Bunyan’s allegory. For how, if we merely add: “and all these traps, swamps, and detours were created by the Lord of the way, the monsters and thieves and robbers were created by him”? Surely, that is not the sense of the simile! But this continuation is too close! It takes away from the simile, for many and for me, its power. Especially when this – so to speak – is kept silent. It would be different if it were openly said at every turn: “I need this as a simile, but look: here it does not quite fit.” Then one would not have the feeling that one is being deceived, that someone is trying to convince one even by underhanded means. One can, for example, say: “Thank God for the good that he gives you, but do not complain about the evil, as you would naturally do if a person were to give you good and evil alternately.” Rules of life are put into images. And these images can serve me to _describe_ what we are to do, but not to _justify_ it. For in order to justify, they would also have to fit in other respects. I can say: “Thank these bees for their honey, as if they were good people who prepared it for you”; this is _understandable_ & describes how I want you to behave. But not: “Thank them, for see how good they are!” – for they can sting you in the next moment. Religion says: _Do this!_ – _Think this way!_ – but it cannot justify it, and if it tries to, it repels; for for every reason it gives, there is a valid counter-reason. It is more convincing to say: “Think this way! – however strange it may seem. –” Or: “Would you not like to do this? – however repulsive it is. –”
+One can say that religious similes move along the edge of the abyss. For example, concerning Bunyan’s allegory. For how, if we merely add: “and all these traps, swamps, and detours were created by the Lord of the way, the monsters and thieves and robbers were created by him”? Surely, that is not the sense of the simile! But this continuation is too close! It takes away from the simile, for many and for me, its power. Especially when this – so to speak – is kept silent. It would be different if it were openly said at every turn: “I need this as a simile, but look: here it does not quite fit.” Then one would not have the feeling that one is being deceived, that someone is trying to convince one even by underhanded means. One can, for example, say: “Thank God for the good that he gives you, but do not complain about the evil, as you would naturally do if a person were to give you good and evil alternately.” Rules of life are put into images. And these images can serve me to _describe_ what we are to do, but not to _justify_ it. For in order to justify, they would also have to continue to hold true. I can say: “Thank these bees for their honey, as if they were good people who prepared it for you”; this is _understandable_ & describes how I want you to behave. But not: “Thank them, for see how good they are!” – for they can sting you in the next moment. Religion says: _Do this!_ – _Think this way!_ – but it cannot justify it, and if it tries to, it repels; for for every reason it gives, there is a valid counter-reason. It is more convincing to say: “Think this way! – however strange it may seem. –” Or: “Would you not like to do this? – however repulsive it is. –”
 
 ### [Ms-118](/ms-118/#BCr.2) <span class="fac">[BCr\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-118/BCr.webp)</span>
 
@@ -1009,7 +1009,7 @@ They have less style than a child's first utterances. Even in the greatest work 
 
 In all great art, there is a _wild_ animal: _tamed_. In Mendelssohn, for example, this is not the case. All great art has as its foundation the primitive drives of man. They are not the _melody_ (as perhaps in Wagner), but what gives the melody its _depth_ & power. In _this_ sense, one can call Mendelssohn a “_reproductive_” artist. –
 
-In the same sense: my house for Gretl is the result of decisive refinement, _good_ manners, the expression of a great _understanding_ (for a culture, etc.). But the _original_ life, the _wild_ life, which wants to break free – is missing. One could also say that it lacks _health_ (Kierkegaard). (Hothouse plant.)
+In the same sense: my house for Gretl is the result of pronounced fineness of hearing, _good_ manners, the expression of a great _understanding_ (for a culture, etc.). But the _original_ life, the _wild_ life, which wants to break free – is missing. One could also say that it lacks _health_ (Kierkegaard). (Hothouse plant.)
 
 ### [Ms-122](/ms-122/#95v.3+96r.1) <span class="fac">[95v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/95v.webp),[96r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96r.webp)</span>
 
@@ -1049,7 +1049,7 @@ How hard it is for me to see what _lies before my eyes_!
 
 17.02.1940
 
-You cannot want to give up lying and tell the truth.
+You cannot want not to give up lying and tell the truth.
 
 ### [Ms-117](/ms-117/#225.2) <span class="fac">[225\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/225.webp)</span>
 
@@ -1113,7 +1113,7 @@ It is incredible how a new folder, in a suitable place in our filing cabinet, he
 
 ### [Ms-124](/ms-124/#28.4) <span class="fac">[28\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/28.webp)</span>
 
-You must say something new, and yet largely something old. (N.)
+You must say something new, and yet nothing but old things. (N.)
 
 ### [Ms-124](/ms-124/#28.5) <span class="fac">[28\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/28.webp)</span>
 
@@ -1121,7 +1121,7 @@ You must, of course, only say something old – but _still_ something new!
 
 ### [Ms-124](/ms-124/#29.1) <span class="fac">[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/29.webp)</span>
 
-The different ‘perceptions’ must correspond to different applications.
+The different ‘conceptions’ must correspond to different applications.
 
 ### [Ms-124](/ms-124/#29.2) <span class="fac">[29\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-124/29.webp)</span>
 
@@ -1201,7 +1201,7 @@ If you _have_ a person’s love, no sacrifice can overpay for it, yet every sacr
 
 ### [Ms-125](/ms-125/#43r.3+43v.1) <span class="fac">[43r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/43r.webp),[43v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/43v.webp)</span>
 
-Just as there is _depth_ in sleep and light sleep, so there are thoughts that take place deep within and thoughts that frolic on the surface.
+Just as there is _deep_ and shallow sleep, so there are thoughts that take place deep within and thoughts that frolic on the surface.
 
 ### [Ms-125](/ms-125/#45r.1) <span class="fac">[45r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/45r.webp)</span>
 
@@ -1209,7 +1209,7 @@ You cannot pull the seed out of the ground. You can only give it warmth, moistur
 
 ### [Ms-125](/ms-125/#57r.3) <span class="fac">[57r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/57r.webp)</span>
 
-[What is beautiful cannot be pretty. – – –]
+[What is pretty cannot be beautiful. – – –]
 
 ### [Ms-125](/ms-125/#57v.2+58r.1) <span class="fac">[57v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/57v.webp),[58r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58r.webp)</span>
 
@@ -1223,7 +1223,7 @@ Put the person in the wrong atmosphere, and nothing will work as it should. He w
 
 ### [Ms-125](/ms-125/#58r.3+58v.1) <span class="fac">[58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58v.webp)</span>
 
-When white turns to black, some people say, “It is essentially still the same.” And others, when the color becomes one shade darker, say, “It has changed _completely_.”
+When white turns to black, some people say, “It is essentially still the same.” And others, when the colour becomes one shade darker, say, “It has changed _completely_.”
 
 ### [Ms-126](/ms-126/#33.3) <span class="fac">[33\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-126/33.webp)</span>
 

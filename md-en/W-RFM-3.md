@@ -12,7 +12,7 @@
 
 <span class="series-number">1</span> 25.10.1939
 
-‘A mathematical proof must be surveyable.’ We call only a structure a “proof”, the reproduction of which is an easily solvable problem. It must be possible to decide with certainty whether we really have the same proof in front of us twice, or not. The proof must be a picture which can be exactly reproduced with certainty. Or also: what is essential to the proof must be able to be exactly reproduced with certainty. It can, for example, be written down in two different handwritings or colors. Nothing that belongs to the reproduction of a proof should be of the kind of an exact reproduction of a color tone or a handwriting.
+‘A mathematical proof must be surveyable.’ We call only a structure a “proof”, the reproduction of which is an easily solvable problem. It must be possible to decide with certainty whether we really have the same proof in front of us twice, or not. The proof must be a picture which can be exactly reproduced with certainty. Or also: what is essential to the proof must be able to be exactly reproduced with certainty. It can, for example, be written down in two different handwritings or colours. Nothing that belongs to the reproduction of a proof should be of the kind of an exact reproduction of a color tone or a handwriting.
 
 ### [Ms-122](/ms-122/#5v.2+6r.1+6v.1) <span class="fac">[5v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/5v.webp),[6r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/6r.webp),[6v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/6v.webp)</span>
 
@@ -126,7 +126,7 @@ Under what circumstances does counting show this?
 
 One might say: if the numerals and the things counted form a memorable image. If this image is then used instead of every new counting of this quantity. – But here it seems we are only talking about _spatial_ images: but if we know a series of words by heart and now assign two such series to each other one to one by saying, for example,
 
-“the first – Monday; the second – Tuesday; the third – Wednesday; etc.” – can we not _prove_ that four days lie between Monday and Thursday? The question is: What do we call a “memorable image”? What is the criterion for us having memorized it? Or is the answer here: “That we use it as a paradigm of identity!”?
+“the first – Monday; the second – Tuesday; the third – Wednesday; etc.” – can we not _prove_ that there are four days from Monday to Thursday? The question is: What do we call a “memorable image”? What is the criterion for us having memorized it? Or is the answer here: “That we use it as a paradigm of identity!”?
 
 ### [Ms-122](/ms-122/#27r.2) <span class="fac">[27r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/27r.webp)</span>
 
@@ -150,11 +150,11 @@ The numeral for 1000 in the 1 + 1 + 1 + 1… system cannot be recognized by its 
 
 Is this figure a proof for 27 + 16 = 43: because one arrives at “27” by counting the strokes on the left side, at “16” on the right side, & at “43” when counting the entire row?
 
-What is strange here – if one calls this figure the proof of this sentence? But it lies in how this proof can be reproduced or recognized, in the fact that it has no characteristic visual shape. –
+What is strange here – if one calls this figure the proof of this sentence? Rather, it lies in how this proof can be reproduced or recognized, in the fact that it has no characteristic visual shape. –
 
 ### [Ms-122](/ms-122/#28v.3+29r.1) <span class="fac">[28v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/29r.webp)</span>
 
-Now, even if that proof has no visual form, I can still copy it exactly (reproduce it)—so isn’t the figure the proof after all? I could, for example, engrave it on a piece of steel and pass it from hand to hand. I would thus say to someone: “Here you have the proof that 27 + 16 = 43.” – – Well, can’t one _still_ say: he proves the theorem with the help of the figure? Yes; but the figure is not the proof.
+Now, even if that proof has no visual form, I can still copy it exactly (reproduce it)—so isn’t the figure the proof after all? I could, for example, engrave it on a piece of steel and pass it from hand to hand. I would thus say to someone: “Here you have the proof that 27 + 16 = 43.” – – Well, can’t one _still_ say: it proves the sentence with the help of the figure? Yes; but the figure is not the proof.
 
 ### [Ms-122](/ms-122/#29r.2+29v.1) <span class="fac">[29r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/29r.webp),[29v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/29v.webp)</span>
 
@@ -170,7 +170,7 @@ Can we, starting from the 1 + 1 + 1… system, learn to do arithmetic in the dec
 
 ### [Ms-122](/ms-122/#31v.2+32r.1) <span class="fac">[31v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/31v.webp),[32r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span>
 
-<span class="series-number">13</span> Suppose I have proven a sentence of the form (∃xyz…) (∃uvw…) ⊃ (∃abc…) in Russell’s system – & now I ‘make it surveyable’ by writing over the variables <img class="math math-inline math-stacked" src="../math/0c2914ed6b7f2171.svg" alt="{x}&#95;{1},{x}&#95;{2},{x}&#95;{3}…" style="width:4.670em;height:0.646em;vertical-align:-0.164em"> – am I now to say that I have proven an arithmetic sentence in the decimal system in Russell’s system?
+<span class="series-number">13</span> Suppose I have proven a sentence of the form (∃xyz…) (∃uvw…) ⊃ (∃abc…) according to Russell – & now I ‘make it surveyable’ by writing over the variables <img class="math math-inline math-stacked" src="../math/0c2914ed6b7f2171.svg" alt="{x}&#95;{1},{x}&#95;{2},{x}&#95;{3}…" style="width:4.670em;height:0.646em;vertical-align:-0.164em"> – am I now to say that I have proven an arithmetic sentence in the decimal system?
 
 ### [Ms-122](/ms-122/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/32r.webp)</span>
 
@@ -200,11 +200,11 @@ I am just trying to say: R's proof can presumably proceed step by step, but in t
 
 ### [Ms-122](/ms-122/#33v.3+34r.1+34v.1) <span class="fac">[33v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/33v.webp),[34r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/34r.webp),[34v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/34v.webp)</span>
 
-What I want to say is: one need not accept R’s computational technique at all, and could use another (computational technique) to prove that there _must_ be an R-proof of the theorem. But then, of course, the theorem no longer rests on the R-proof. Or: The fact that one can conceive of an R-proof for every proven theorem of the form m + n = l does not show that the theorem rests on this proof. For it is conceivable that one cannot distinguish the R-proof of one theorem from the R-proof of another theorem at all, and says they are different only because they are the translations of two recognizably different proofs.
+What I want to say is: one need not accept R’s computational technique at all, and could use another (computational technique) to prove that there _must_ be an R-proof of the theorem. But then, of course, the theorem no longer rests on the R-proof. Or: The fact that one can conceive of an R-proof for every proved sentence of the form m + n = l does not show that the theorem rests on this proof. For it is conceivable that one cannot distinguish the R-proof of one sentence from the R-proof of another sentence at all, and says they are different only because they are the translations of two recognizably different proofs.
 
 ### [Ms-122](/ms-122/#34v.2) <span class="fac">[34v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/34v.webp)</span>
 
-Or: Something ceases to be a proof when it ceases to be a paradigm, e.g., R.'s logical calculus; and conversely, any other calculus is acceptable if it serves us as a paradigm.
+Or: Something ceases to be a proof when it ceases to be a paradigm, e.g., R.'s logical calculus; and on the other hand, any other calculus is acceptable if it serves us as a paradigm.
 
 ### [Ms-122](/ms-122/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/36v.webp)</span>
 
@@ -220,7 +220,7 @@ If I count the squares of a chessboard, I almost always arrive at ‘64’.
 
 If I know two series of words by heart, e.g., number words and the alphabet, and I now assign them to each other 1 → 1 a 1 b 2 c 3 etc.
 
-then I almost always arrive at ‘26’ at ‘z’.
+then I almost always arrive at ‘26’ for ‘z’.
 
 ### [Ms-122](/ms-122/#37r.3+37v.1+38r.1) <span class="fac">[37r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/37r.webp),[37v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/37v.webp),[38r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/38r.webp)</span>
 
@@ -242,7 +242,7 @@ Logic only forces me insofar as the logical calculus forces me.
 
 ### [Ms-122](/ms-122/#39r.2+39v.1) <span class="fac">[39r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39r.webp),[39v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span>
 
-But it is essential for the calculus with 1,000,000 that this number must be resolvable into a sum of 1 + 1 + 1…. And to be sure that we have the correct number of ones in front of us, we can number the ones. <img class="math math-inline math-stacked" src="../math/076429499ad59ca3.svg" alt="\stack{1}{1}+" style="width:1.798em;height:1.282em;vertical-align:-0.347em"><img class="math math-inline math-stacked" src="../math/c9e54920dee0749a.svg" alt="\stack{1}{2}+" style="width:1.798em;height:1.282em;vertical-align:-0.347em"><img class="math math-inline math-stacked" src="../math/a42ac52de8f61c49.svg" alt="\stack{1}{3}+" style="width:1.798em;height:1.294em;vertical-align:-0.359em"><img class="math math-inline math-stacked" src="../math/d383c306eae89023.svg" alt="\stack{1}{4}+…\stack{+1}{1000000}" style="width:5.540em;height:1.294em;vertical-align:-0.359em"> This notation would be similar to: ‘100,000,000,000’, which also makes the number sign overlookable. And I can imagine that someone has entered large sums of money in pennies in a book where they appear as 100-digit numbers, with which I now have to calculate. I would now start by translating them into an easily readable notation, but I would still call them ‘number signs’, treat them as documents of numbers. Yes, I would even consider it a document of a number if someone said that N has as many schillings as there are peas in this barrel. In other ways: “He has as many schillings as the Song of Songs has letters”.
+But it is essential for the calculus with 1,000,000 that this number must be resolvable into a sum of 1 + 1 + 1…. And to be sure that we have the correct number of ones in front of us, we can number the ones. <img class="math math-inline math-stacked" src="../math/076429499ad59ca3.svg" alt="\stack{1}{1}+" style="width:1.798em;height:1.282em;vertical-align:-0.347em"><img class="math math-inline math-stacked" src="../math/c9e54920dee0749a.svg" alt="\stack{1}{2}+" style="width:1.798em;height:1.282em;vertical-align:-0.347em"><img class="math math-inline math-stacked" src="../math/a42ac52de8f61c49.svg" alt="\stack{1}{3}+" style="width:1.798em;height:1.294em;vertical-align:-0.359em"><img class="math math-inline math-stacked" src="../math/d383c306eae89023.svg" alt="\stack{1}{4}+…\stack{+1}{1000000}" style="width:5.540em;height:1.294em;vertical-align:-0.359em"> This notation would be similar to: ‘100,000.000,000’, which also makes the numeral surveyable. And I can imagine that someone had entered large sums of money in pennies in a book where they would appear as 100-digit numbers, with which I would now have to calculate. I would now start by translating them into a surveyable notation, but I would still call them ‘number signs’, treat them as documents of numbers. Yes, I would even consider it a document of a number if someone said that N has as many shillings as there are peas that fit into this barrel. Alternatively: “He has as many shillings as the Song of Songs has letters”.
 
 ### [Ms-122](/ms-122/#39v.3) <span class="fac">[39v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/39v.webp)</span>
 
@@ -300,7 +300,7 @@ When ordinarily adding numbers in the decimal system, we make steps of one, step
 
 ### [Ms-122](/ms-122/#43r.2) <span class="fac">[43r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/43r.webp)</span>
 
-Calculating with curves or with a slide rule. Of course, if we check one kind of calculation against the other, the same result usually comes out. But if there are several kinds – who says that, if they do not agree, which is the correct one, i.e. the one that stems from the _essence_ of the number?
+Calculating with curves or with a slide rule. Of course, if we check one kind of calculation against the other, the same result usually comes out. But if there are several kinds – who says which is the correct one if they do not agree, i.e. the one that stems from the _essence_ of the number?
 
 ### [Ms-122](/ms-122/#44r.2) <span class="fac">[44r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/44r.webp)</span>
 
@@ -310,7 +310,7 @@ Where doubt can arise as to whether _this_ is really the image of _this_ proof, 
 
 ### [Ms-122](/ms-122/#44r.3) <span class="fac">[44r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/44r.webp)</span>
 
-Could one say: Does a proof include a criterion, accepted by us, for the correct reproduction of the proof?
+Could one say: A proof includes a criterion, accepted by us, for the correct reproduction of the proof?
 
 ### [Ms-122](/ms-122/#44r.4+44v.1) <span class="fac">[44r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/44r.webp),[44v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/44v.webp)</span>
 
@@ -382,7 +382,7 @@ To say: “these 200 apples & these 200 apples make 400”—means: When you put
 
 ### [Ms-122](/ms-122/#48v.2) <span class="fac">[48v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/48v.webp)</span>
 
-← The proof must be our model, our illustration, of how these operations yield _a result_.
+← The proof must be our model, our image, of how these operations yield _a result_.
 
 ### [Ms-122](/ms-122/#48r.4) <span class="fac">[48r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/48r.webp)</span>
 
@@ -410,7 +410,7 @@ Therefore, the statement that the proof convinces us of the truth of this senten
 
 ### [Ms-122](/ms-122/#50r.4+50v.1) <span class="fac">[50r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/50r.webp),[50v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/50v.webp)</span>
 
-When I say: “the proof convinces me of something,” the sentence that expresses this conviction must not be constructed in the proof. For example, we multiply, but we don’t necessarily write the result in the form of the sentence … × … = …. One would probably say that the multiplication gives us this conviction, without the _sentence_ that expresses it ever being uttered.
+When I say: “the proof convinces me of something,” the sentence that expresses this conviction need not be constructed in the proof. For example, we multiply, but we don’t necessarily write the result in the form of the sentence … × … = …. One would probably say that the multiplication gives us this conviction, without the _sentence_ that expresses it ever being uttered.
 
 ### [Ms-122](/ms-122/#51r.2) <span class="fac">[51r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/51r.webp)</span>
 
@@ -489,7 +489,7 @@ In what sense are, for example, Russell’s tautologies ‘instruments of langua
 
 ### [Ms-122](/ms-122/#55r.3+55v.1) <span class="fac">[55r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55r.webp),[55v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55v.webp)</span>
 
-The proof allows one structure to emerge from another. It presents us with the emergence of one from others. That’s all well and good – but it achieves something quite different in different cases! What is the _interest_ of this transformation?!
+The proof allows one structure to emerge from another. It presents us with the emergence of one from others. That’s all well and good – but it achieves something quite different in different cases! What is the _interest_ of this transition?!
 
 ### [Ms-122](/ms-122/#55v.2) <span class="fac">[55v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/55v.webp)</span>
 
@@ -519,7 +519,7 @@ If I said that a proof introduces a new concept, then I meant something like thi
 
 ### [Ms-122](/ms-122/#58r.2) <span class="fac">[58r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/58r.webp)</span>
 
-<span class="series-number">33</span> If I say that the proof is a model (a picture), then I must say the same of an R-proposition (as the egg cell of a proof).
+<span class="series-number">33</span> If I say that the proof is a model (a picture), then I must say the same of a Russellian primitive proposition (as the egg cell of a proof).
 
 ### [Ms-122](/ms-122/#58r.3+58v.1) <span class="fac">[58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/58v.webp)</span>
 
@@ -565,7 +565,7 @@ The proof is an instrument – but why do I say: “an instrument of language”
 
 ### [Ms-122](/ms-122/#69r.2+69v.1) <span class="fac">[69r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/69r.webp),[69v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/69v.webp)</span>
 
-Can I now say that the conception of the proof as a ‘proof of the constructibility’ of the proven proposition is in some sense(s) a simpler, more primary conception than any other conception? Can I say: ‘Every proof proves _above all_ that this sign form must come out if I apply these rules to these sign forms’?
+Can I now say that the conception of the proof as a ‘proof of the constructibility’ of the proven proposition is in some sense a simpler, more primary conception than any other conception? Can I say: ‘Every proof proves _above all_ that this sign form must come out if I apply these rules to these sign forms’?
 
 Or: ‘The proof proves above all that this sign form can arise if one operates with these signs according to these transformation rules. – This would point to a geometric application. For the proposition whose truth, as I say, is proven here, is a geometric proposition, a proposition concerning the grammar of the transformations of signs. One could, for example, say: it has been proven that it _makes sense_ to say that someone obtained the sign … from … & … according to these rules, but that it makes no sense, etc. etc.’
 
@@ -597,11 +597,11 @@ To accept a sentence as unshakably certain – I want to say – means to use it
 
 ### [Ms-122](/ms-122/#72v.2) <span class="fac">[72v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/72v.webp)</span>
 
-“The proof must be transparent” actually means nothing other than: the proof is not an experiment. We do not accept what follows from it simply because it follows once, or because it follows often. Rather, we see in the proof the reason for saying that it _must_ follow.
+“The proof must be surveyable” actually means nothing other than: the proof is not an experiment. We do not accept what follows from it simply because it follows once, or because it follows often. Rather, we see in the proof the reason for saying that it _must_ follow.
 
 ### [Ms-122](/ms-122/#72v.3+73r.1) <span class="fac">[72v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/72v.webp),[73r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/73r.webp)</span>
 
-It is not that the assignment leads to this result _that provides a proof_—but that we are persuaded to take these phenomena (images) as models of what it looks like when ….
+It is not that the assignment leads to this result _proves_—but that we are persuaded to take these phenomena (images) as models of what it looks like when ….
 
 ### [Ms-122](/ms-122/#73r.2) <span class="fac">[73r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/73r.webp)</span>
 
@@ -631,7 +631,7 @@ That is: no physical investigation of the proof image is necessary to show us wh
 
 ### [Ms-122](/ms-122/#75r.3+75v.1) <span class="fac">[75r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/75r.webp),[75v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/75v.webp)</span>
 
-<span class="series-number">40</span> When_ _looking at two people in a picture, we do not _first_ say: one appears smaller than the other, and _only then_ that he appears to be farther away. It is, one might say, quite possible that we do not notice the smaller size at all, but _merely_ that he is in the background. (This seems to me to be connected with the question of the ‘geometric’ conception of proof.)
+<span class="series-number">40</span> When looking at two people in a picture, we do not say _first of all_: one appears smaller than the other, and _only then_ that he appears to be farther away. It is, one might say, quite possible that we do not notice the smaller size at all, but _merely_ that he is in the background. (This seems to me to be connected with the question of the ‘geometric’ conception of proof.)
 
 ### [Ms-122](/ms-122/#75v.2) <span class="fac">[75v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/75v.webp)</span>
 
@@ -677,7 +677,7 @@ The proof creates a new concept – by creating a new sign, or by being one. Or 
 
 ### [Ms-122](/ms-122/#79v.3+80r.1) <span class="fac">[79v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/79v.webp),[80r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/80r.webp)</span>
 
-But one could imagine the case where the proof changes when viewed – it is carved into a rock, and one says it is the same, whatever the appearance may be.
+But one could imagine the case where the proof changes in appearance – it is carved into a rock, and one says it is the same, whatever the appearance may be.
 
 ### [Ms-122](/ms-122/#80r.2) <span class="fac">[80r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/80r.webp)</span>
 
@@ -695,11 +695,11 @@ Not something behind the proof, but the proof itself proves.
 
 <span class="series-number">43</span> 07.01.1940
 
-If I say: “it must primarily be obvious that _this_ substitution actually yields _this_ expression,” then I could also say: “I must assume it as beyond doubt” – but then there must be good reasons for it: e.g., that the same substitution almost always yields the same result, etc. And isn't the comprehensibility precisely based on this?
+If I say: “it must primarily be obvious that _this_ substitution actually yields _this_ expression,” then I could also say: “I must assume it as beyond doubt” – but then there must be good reasons for it: e.g., that the same substitution almost always yields the same result, etc. And isn't the surveyability precisely based on this?
 
 ### [Ms-122](/ms-122/#83r.1) <span class="fac">[83r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83r.webp)</span>
 
-I would like to say that, where comprehensibility is not present, where there is therefore room for doubt as to whether (here) the result of this substitution is actually present, the _proof_ is destroyed. And not – in a silly & unimportant way, which has nothing to do with the _essence_ of the proof.
+I would like to say that, where surveyability is not present, where there is therefore room for doubt as to whether (here) the result of this substitution is actually present, the _proof_ is destroyed. And not – in a silly & unimportant way, which has nothing to do with the _essence_ of the proof.
 
 ### [Ms-122](/ms-122/#83r.2) <span class="fac">[83r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/83r.webp)</span>
 
@@ -725,7 +725,7 @@ The logical certainty of proofs – I want to say – does not extend beyond the
 
 ### [Ms-122](/ms-122/#84r.5+84v.1) <span class="fac">[84r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84r.webp),[84v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84v.webp)</span>
 
-For example, if the sign “∣∣∣∣∣∣∣∣∣∣” appears in the proof, it is not clear whether only ‘the same number’ of lines (or, for example, crosses) should be regarded as a reproduction of it, or also another, if not even a smaller number. Etc.
+For example, if the sign “∣∣∣∣∣∣∣∣∣∣” appears in the proof, it is not clear whether only ‘the same number’ of lines (or, for example, crosses) should be regarded as a reproduction of it, or equally another, if not even too small a number. Etc.
 
 ### [Ms-122](/ms-122/#84v.2) <span class="fac">[84v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/84v.webp)</span>
 
@@ -737,7 +737,7 @@ I would like, as it were, to show that we can outrun the logical proofs in mathe
 
 ### [Ms-122](/ms-122/#85r.1+85v.1) <span class="fac">[85r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/85r.webp),[85v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/85v.webp)</span>
 
-<span class="series-number">45</span> “Through definitions that correspond to the original definition, we can provide a proof for ‘25 × 25 = 625’ in R.sch logic.” – And can I give an explanation of the ordinary method of proof through R.sch’s? But how can one method of proof _be explained_ by another? How can one explain _the nature_ of another? For if one is an ‘abbreviation’ of the other, it must surely be a _systematic_ abbreviation. After all, proof is required that I can systematically abbreviate the long proofs & thus obtain a system of proofs once again. The long proofs now (at first) always accompany the short ones &, as it were, sanction them. But eventually they can no longer follow the short ones, & these demonstrate their independence.
+<span class="series-number">45</span> “Through corresponding definitions, we can provide a proof for ‘25 × 25 = 625’ in R.sch logic.” – And can I give an explanation of the ordinary method of proof through R.sch’s? But how can one method of proof _be explained_ by another? How can one explain _the nature_ of another? For if one is an ‘abbreviation’ of the other, it must surely be a _systematic_ abbreviation. After all, proof is required that I can systematically abbreviate the long proofs & thus obtain a system of proofs once again. The long proofs now (at first) always accompany the short ones &, as it were, sanction them. But eventually they can no longer follow the short ones, & these demonstrate their independence.
 
 ### [Ms-122](/ms-122/#85v.2) <span class="fac">[85v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/85v.webp)</span>
 
@@ -777,7 +777,7 @@ But what if – : If I first introduce ‘p⌵q’ & ‘~p’ & construct some t
 
 ### [Ms-122](/ms-122/#88v.2) <span class="fac">[88v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/88v.webp)</span>
 
-It is clear that I could have introduced the concept of number, even if in a very primitive & inadequate way – but this example shows me everything I need.
+It is clear that I could have introduced the concept of number in this way, even if in a very primitive & inadequate way – but this example shows me everything I need.
 
 ### [Ms-122](/ms-122/#89r.1) <span class="fac">[89r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/89r.webp)</span>
 
@@ -797,13 +797,13 @@ I would like to say: Russell’s justification of mathematics postpones the intr
 
 ### [Ms-122](/ms-122/#89v.3) <span class="fac">[89v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/89v.webp)</span>
 
-(It would be perhaps as if I philosophized about the concept of length measurement for so long that one forgets that the actual fixing of a unit of length is necessary for length measurement.)
+(It would be perhaps as if I philosophized about the concept of length measurement for so long that one would forget that the actual fixing of a unit of length is necessary for length measurement.)
 
 ### [Ms-122](/ms-122/#90v.2+91r.1) <span class="fac">[90v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/90v.webp),[91r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/91r.webp)</span>
 
 <span class="series-number">47</span> 11.01.1940
 
-Can one now express what I want to say _in this way_: “If we had learned from the beginning to write all mathematics in Russell’s system, then, of course, the Russellian calculus would not yet have invented differential calculus. Whoever discovered this type of calculation _in the Russellian calculus_ – – –.”
+Can one now express what I want to say _in this way_: “If we had learned from the beginning to write all mathematics in Russell’s system, then, of course, differential calculus would not yet have been invented with the Russellian calculus. Whoever discovered this type of calculation _in the Russellian calculus_ – – –.”
 
 ### [Ms-122](/ms-122/#91r.2) <span class="fac">[91r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/91r.webp)</span>
 
@@ -821,7 +821,7 @@ Tell me: have I introduced a new type of calculation if I had learned to multipl
 
 12.01.1940
 
-Apparently, the mere ‘abbreviated’, or _different_, way of writing – ‘16<sup>2</sup>’ instead of ‘16 × 16’ – doesn’t make the difference. What is important is that we now simply _count_ the factors. Is 16<sup>15</sup> the same as
+Apparently, the mere ‘abbreviated’, or _different_, way of writing – ‘16<sup>2</sup>’ instead of ‘16 × 16’ – doesn’t do it. What is important is that we now simply _count_ the factors. Is 16<sup>15</sup> the same as
 
 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16 × 16.? The proof that 16<sup>15</sup> = ‥‥ does not simply consist in the fact that I multiply 16 by itself 15 times & that this results – but it must be shown in the proof that I set the number _15 times_ as a factor.
 
@@ -847,7 +847,7 @@ Not where only one way of writing, and not the other, can be used in this way?
 
 ### [Ms-122](/ms-122/#94r.4+94v.1) <span class="fac">[94r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94r.webp),[94v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94v.webp)</span>
 
-One could call it “finding a new aspect” if one writes a(f) instead of f(a); one could say: ‘He _sees_ the function as the argument of its argument.’ Or if one were to write ‘x(a)’ instead of ‘a × a,’ one could say: ‘What was previously seen as a special case of a function with two argument positions, he sees as a function with _a single_ argument position.’ Anyone who does this has certainly changed the aspect in a sense; for example, they have combined _this_ expression with others, conducted a comparison with things it was not previously compared to. – But is this now a _significant_ change in aspect? _Not_ as long as it has no specific consequences.
+One could call it “finding a new aspect” if one writes a(f) instead of f(a); one could say: ‘He _sees_ the function as the argument of its argument.’ Or if one were to write ‘x(a)’ instead of ‘a × a,’ one could say: ‘What was previously seen as a special case of a function with two argument positions, he sees as a function with _a single_ argument position.’ Anyone who does this has certainly changed the aspect in a sense; for example, he has put _this_ expression together with others, compared it with things with which it was not previously compared. – But is this now a _significant_ change in aspect? _Not_ as long as it has no specific consequences.
 
 ### [Ms-122](/ms-122/#94v.2+95r.1) <span class="fac">[94v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/94v.webp),[95r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/95r.webp)</span>
 
@@ -873,11 +873,11 @@ It is not the introduction of numerical symbols as abbreviations that is importa
 
 ### [Ms-122](/ms-122/#96r.3+96v.1) <span class="fac">[96r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96r.webp),[96v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96v.webp)</span>
 
-<span class="series-number">48</span> I want to explain the colorfulness of mathematics.
+<span class="series-number">48</span> I want to explain the colourfulness of mathematics.
 
 ### [Ms-122](/ms-122/#96v.2+97r.1) <span class="fac">[96v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/96v.webp),[97r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/97r.webp)</span>
 
-<span class="series-number">49</span> ‘I can also provide a proof in Russell’s system that 127 : 18 = 7.055.’ Why not? – But must the result of Russell’s proof be the same as that of ordinary division? The two are, of course, connected by a _calculation_ (through translation rules, for example); but is it not still risky to perform the division using the ‘secondary’ technique?
+<span class="series-number">49</span> ‘I can also provide a proof in Russell’s system that 127 : 18 = 7˙055.’ Why not? – But must the result of Russell’s proof be the same as that of ordinary division? The two are, of course, connected by a _calculation_ (through translation rules, for example); but is it not still risky to perform the division using the ‘secondary’ technique?
 
 ### [Ms-122](/ms-122/#97r.2) <span class="fac">[97r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/97r.webp)</span>
 
@@ -887,7 +887,7 @@ But if someone now said: “Nonsense – such concerns play no role at all!” �
 
 January 14, 1940
 
-– But it is not a matter of uncertainty, for we are (indeed) certain of our conclusions, but rather of whether we are still applying (Russellian) logic when, for example, we _divide_. How do I know how to apply a Russellian proof as a division? For example, I see how many times one length is contained in another: how does a Russellian proof show me this application? – For example, counting need not occur in Russellian proofs. But can I not still translate a statement like ‘127 : 18 = 7.05’ into Russellian notation? – Yes, if I _assume_ a certain translation. But isn’t that simply a translation according to a definition? ‒ ‒
+– But it is not a matter of uncertainty, for we are (indeed) certain of our conclusions, but rather of whether we are still applying (Russellian) logic when, for example, we _divide_. How do I know how to apply a Russellian proof as a division? For example, I see how many times one length is contained in another: how does a Russellian proof show me this application? – For example, counting need not occur in Russellian proofs. But can I not still translate a statement like ‘127 : 18 = 7˙05’ into Russellian notation? – Yes, if I _assume_ a certain translation. But isn’t that simply a translation according to a definition? ‒ ‒
 
 ### [Ms-122](/ms-122/#98v.1) <span class="fac">[98v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/98v.webp)</span>
 
@@ -931,7 +931,7 @@ What does one want to show, if one wants to show that mathematics is not logic? 
 
 ### [Ms-122](/ms-122/#101r.2) <span class="fac">[101r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/101r.webp)</span>
 
-One does not want to show that it is impossible to construct a Russellian proof for every mathematical proof that (somehow) ‘corresponds’ to it; but that the assumption of such a correspondence is not based on logic.
+He does not want to show that it is impossible to construct a Russellian proof for every mathematical proof that (somehow) ‘corresponds’ to it; but that the assumption of such a correspondence is not based on logic.
 
 ### [Ms-122](/ms-122/#101r.3+101v.1) <span class="fac">[101r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/101r.webp),[101v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/101v.webp)</span>
 
@@ -981,21 +981,21 @@ On the one hand, we must be able to reproduce the proof in its entirety automati
 
 ### [Ms-122](/ms-122/#106v.3+107r.1) <span class="fac">[106v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/106v.webp),[107r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/107r.webp)</span>
 
-“The proof must be transparent” actually wants to direct our attention to the difference between the concepts: ‘repeating a proof,’ ‘repeating an experiment.’ Repeating a proof does not mean reproducing the conditions under which a certain result was once obtained, but rather repeating every step _and the result_. And although the proof is thus something that must be capable of being reproduced entirely—automatically—every such reproduction must nevertheless contain the compelling evidence to accept the result.
+“The proof must be surveyable” actually wants to direct our attention to the difference between the concepts: ‘repeating a proof,’ ‘repeating an experiment.’ Repeating a proof does not mean reproducing the conditions under which a certain result was once obtained, but rather repeating every step _and the result_. And although the proof is thus something that must be capable of being reproduced entirely—automatically—every such reproduction must nevertheless contain the force of proof compelling us to acknowledge the result.
 
 ### [Ms-122](/ms-122/#109v.2) <span class="fac">[109v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/109v.webp)</span>
 
-<span class="series-number">56</span> When do we say that one calculus ‘corresponds’ to another, except that it is only the abbreviated form of the first? – ‘Well, if one can transform the results of this into the results of that by means of corresponding definitions.’ But has it already been said how one is to calculate with these definitions? What makes us accept this transformation? Is it ultimately a foregone conclusion? It is, if we are determined to accept only the transformation that leads to the result we are used to.
+<span class="series-number">56</span> When do we say that one calculus ‘corresponds’ to another, that it is only the abbreviated form of the first? – ‘Well, if one can transform the results of this into the results of that by means of corresponding definitions.’ But has it already been said how one is to calculate with these definitions? What makes us accept this transformation? Is it ultimately a rigged game? It is, if we are determined to accept only the transformation that leads to the result we are used to.
 
 ### [Ms-122](/ms-122/#110r.2+110v.1) <span class="fac">[110r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/110r.webp),[110v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/110v.webp)</span>
 
-Why do we call part of Russell's calculus the one corresponding to differential calculus? – Because in it all the sentences of differential calculus are proven. – But not, perhaps, only post hoc. – But is that not irrelevant? Enough that one can find proofs of these sentences in the Russellian system! But are these proofs of these sentences only then, if their results can only be translated into _these_ sentences? But is that even true in the case of multiplication in the stroke system with numbered strokes?
+Why do we call part of Russell's calculus the one corresponding to differential calculus? – Because in it all the sentences of differential calculus are proven. – But surely not merely post hoc. – But is that not irrelevant? Enough that one can find proofs of these sentences in the Russellian system! But are these proofs of these sentences only then, if their results can only be translated into _these_ sentences? But is that even true in the case of multiplication in the stroke system with numbered strokes?
 
 ### [Ms-122](/ms-122/#110v.2+111r.1) <span class="fac">[110v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/110v.webp),[111r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111r.webp)</span>
 
 <span class="series-number">57</span> 26.01.1940
 
-Now, it must be clearly stated that the calculations in the stroke notation <img class="math math-inline math-stacked" src="../math/862d6552381d3cc1.svg" alt="({S}&#95;{N})" style="width:2.055em;height:0.870em;vertical-align:-0.164em"> will normally always agree with those in the decimal notation. Perhaps, in order to achieve certain agreement, we will have to resort to having the calculations with strokes checked by _several_ people. And the same will be done with calculations with even higher numbers in the decimal system. But this already shows that the proofs in the stroke system do not necessarily entail the proofs in the decimal system.
+Now, it must be clearly stated that the calculations in the stroke notation <img class="math math-inline math-stacked" src="../math/862d6552381d3cc1.svg" alt="({S}&#95;{N})" style="width:2.055em;height:0.870em;vertical-align:-0.164em"> will normally always agree with those in the decimal notation. Perhaps, in order to achieve reliable agreement, we will have to resort to having the calculations with strokes checked by _several_ people. And the same will be done with calculations with even higher numbers in the decimal system. But this already shows that the proofs in the stroke system do not make the proofs in the decimal system compelling.
 
 ### [Ms-122](/ms-122/#111r.2+111v.1) <span class="fac">[111r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111r.webp),[111v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-122/111v.webp)</span>
 
@@ -1065,17 +1065,17 @@ Let us consider that it is not enough for two proofs to meet within the same pun
 
 ### [Ms-117](/ms-117/#164.3) <span class="fac">[164\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/164.webp)</span>
 
-<span class="series-number">64</span> Suppose I gave someone the task: ‘Find a proof of the theorem …’—the answer is, after all, that they present me with certain symbols. All right: _what_ condition must these symbols satisfy? They must be a proof of that theorem—but is that a _geometric_ condition? Or a psychological one? Sometimes one could call it a geometric condition; where the proof elements are already prescribed & only a specific arrangement is sought.
+<span class="series-number">64</span> Suppose I gave someone the task: ‘Find a proof of the theorem …’—the answer is, after all, that they present me with certain signs. All right: _what_ condition must these signs satisfy? They must be a proof of that theorem—but is that a _geometric_ condition? Or a psychological one? Sometimes one could call it a geometric condition; where the means of proof are already prescribed & only a specific arrangement is sought.
 
 ### [Ms-117](/ms-117/#172.2) <span class="fac">[172\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/172.webp)</span>
 
 <span class="series-number">65</span> 20.02.1940
 
-Are the sentences of mathematics anthropological sentences that say how we humans infer & calculate? – Is a law book a work on anthropology that tells us how the people of this culture treat a thief, etc.? – – Could one say: “The judge looks up in a book on anthropology & then sentences the thief to a prison term.” Now, the judge does not _use_ the law book as a manual of anthropology. (Conversation with Sraffa.)
+Are the sentences of mathematics anthropological sentences that say how we humans infer & calculate? – Is a law book a work on anthropology that tells us how the people of this nation treat a thief, etc.? – – Could one say: “The judge looks up in a book on anthropology & then sentences the thief to a prison term.” Now, the judge does not _use_ the law book as a manual of anthropology. (Conversation with Sraffa.)
 
 ### [Ms-117](/ms-117/#173.2) <span class="fac">[173\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/173.webp)</span>
 
-<span class="series-number">66</span> The prediction is _not_ that the person, when he follows the transformation of this rule, will bring _that_ forth – but that, when we _say_ that he follows the rule, he will bring it forth.
+<span class="series-number">66</span> The prediction is _not_ that the person, when he follows this rule in the transformation, will bring _that_ forth – but that, when we _say_ that he follows the rule, he will bring it forth.
 
 ### [Ms-117](/ms-117/#173.3+174.1) <span class="fac">[173\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/173.webp),[174\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/174.webp)</span>
 
@@ -1135,7 +1135,7 @@ We do not say: “So _this is how_ we go!”, but rather: “So _this is how_ it
 
 ### [Ms-117](/ms-117/#184a.2) <span class="fac">[184a\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184a.webp)</span>
 
-<span class="series-number">70</span> Our agreement proceeds in the same way—but we do not make use of this similarity in the course of events merely to predict the course of agreement. Just as we do not _make_ use of the sentence “this notebook is red” merely to predict that most people will call it ‘red.’
+<span class="series-number">70</span> Our agreement proceeds in the same way—but we do not make use of this sameness of the process merely to predict agreement processes. Just as we do not _make_ use of the sentence “this notebook is red” merely to predict that most people will call it ‘red.’
 
 ### [Ms-117](/ms-117/#184a.3+184b.1) <span class="fac">[184a\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184a.webp),[184b\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/184b.webp)</span>
 
@@ -1199,7 +1199,7 @@ If someone repeats an experiment, ‘again and again with the same result,’ ha
 
 ### [Ms-117](/ms-117/#190.3+191.1) <span class="fac">[190\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/190.webp),[191\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/191.webp)</span>
 
-It is as if I were to say: “When someone measures the table with a ruler, is he thereby conducting an experiment that teaches him what the measurement of this table with _other_ rulers would yield”? There is, after all, no doubt that one can predict from a measurement with _one_ ruler what the measurement with other rulers will yield. And furthermore—if one could not do so—our entire system of measurement would collapse. _No_ ruler, one might say, would be correct if they did not all agree. – But when I say that, I do not mean that they would all be _wrong_.
+What if I were to say: “When someone measures the table with a ruler, is he thereby conducting an experiment that teaches him what the measurement of this table with _other_ rulers would yield”? There is, after all, no doubt that one can predict from a measurement with _one_ ruler what the measurement with other rulers will yield. And furthermore—if one could not do so—our entire system of measurement would collapse. _No_ ruler, one might say, would be correct if they did not all agree. – But when I say that, I do not mean that they would all be _wrong_.
 
 ### [Ms-117](/ms-117/#192.2) <span class="fac">[192\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/192.webp)</span>
 
@@ -1313,7 +1313,7 @@ Can we be sure that there are not abysses _right now_ that we cannot see? But wh
 
 ### [Ms-117](/ms-117/#208.6) <span class="fac">[208\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/208.webp)</span>
 
-Is _some_ little devil misleading us now? Well, if it is misleading us, it doesn’t matter. What I don’t know doesn’t bother me.
+Isn’t _some_ little devil misleading us now? Well, if it is misleading us, it doesn’t matter. What I don’t know doesn’t bother me.
 
 ### [Ms-117](/ms-117/#209.1) <span class="fac">[209\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/209.webp)</span>
 
@@ -1413,27 +1413,27 @@ Wouldn’t it be possible that we _want_ to produce a contradiction? That we –
 
 ### [Ms-117](/ms-117/#234.3) <span class="fac">[234\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/234.webp)</span>
 
-These people would never really use expressions of the form f(f), but they would still be glad that they live in the vicinity of a contradiction.
+These people would never really use expressions of the form f(f), but they would still be glad that they lived in the vicinity of a contradiction.
 
 ### [Ms-117](/ms-117/#234.4+235.1) <span class="fac">[234\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/234.webp),[235\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/235.webp)</span>
 
-“Do I _see_ an order that prevents me from inadvertently arriving at a contradiction?” That’s like saying: Show me an order in your technique that convinces me that I cannot even arrive at a number that is smaller than that number. I then show him, for example, a recursive proof.
+“Do I _see_ an order that prevents me from inadvertently arriving at a contradiction?” That’s like saying: Show me an order in my technique that convinces me that I cannot even arrive at a number that is smaller than that number. I then show him, for example, a recursive proof.
 
 ### [Ms-117](/ms-117/#235.2) <span class="fac">[235\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/235.webp)</span>
 
-But is it wrong to say: “Well, I’ll continue on my way. _If_ I _see_ a contradiction, then it’s time to do something.” – Does that mean: not really calculating? Why shouldn_’t_ that be calculating?! I’ll calmly continue down this path; should I come to an abyss, I’ll try to turn back. Isn’t that ‘gone’?
+But is it wrong to say: “Well, I’ll continue on my way. If I _see_ a contradiction, then it’s time to do something.” – Does that mean: not really calculating? Why should that _not_ be calculating?! I’ll calmly continue down this path; should I come to an abyss, I’ll try to turn back. Hasn’t that ‘gone’?
 
 ### [Ms-117](/ms-117/#235.3+236.1) <span class="fac">[235\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/235.webp),[236\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/236.webp)</span>
 
-Let’s imagine the following case: The people of a certain tribe can only calculate orally. They do not yet know writing. They teach their children to count in the decimal system. They often make mistakes in counting, repeating or omitting digits, without noticing it. But a traveler records their counting phonographically. He teaches them writing and written calculation, and then shows them how often they make mistakes when calculating only orally. – Must these people now admit that they didn’t really calculate before? That they were only stumbling around, while now they are walking? Couldn’t they perhaps even say that things used to be better, that their intuition was not hindered by dead means. One cannot grasp the mind with machines. They might say: “If we repeated a digit back then, as your machine claims, then it must have been right.”
+Let’s imagine the following case: The people of a certain tribe can only calculate orally. They do not yet know writing. They teach their children to count in the decimal system. They often make mistakes in counting, repeating or omitting digits, without noticing it. But a traveller records their counting phonographically. He teaches them writing and written calculation, and then shows them how often they make mistakes when calculating only orally. – Must these people now admit that they didn’t really calculate before? That they were only stumbling around, while now they are walking? Couldn’t they perhaps even say that things used to be better, that their intuition was not hindered by dead means. One cannot grasp the mind with machines. They might say: “If we repeated a digit back then, as your machine claims, then it must have been right.”
 
 ### [Ms-117](/ms-117/#236.2+237.1) <span class="fac">[236\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/236.webp),[237\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/237.webp)</span>
 
-We trust, for example, ‘mechanical’ means of calculation or counting more than our memory. Why? – Does that have to be the case? I may have miscounted, but the machine, once constructed in this way, cannot miscount. Must I take that position? – “Well, experience has (just) taught us that calculating with the machine is more reliable than calculating with memory. It has taught us that our lives go more smoothly if we calculate with machines.” But must smoothness necessarily be our ideal (must our ideal be that everything is wrapped in cellophane)? Couldn’t I also trust my memory and not trust the machine? And couldn’t I distrust the _experience_ that ‘suggests’ to me that the machine is more reliable?
+We trust, for example, ‘mechanical’ means of calculation or counting more than our memory. Why? – Does that have to be the case? I may have miscounted, but the machine, once constructed by us in such and such a way, cannot have miscounted. Must I take that position? – “Well, experience has (just) taught us that calculating with the machine is more reliable than calculating with memory. It has taught us that our lives go more smoothly if we calculate with machines.” But must smoothness necessarily be our ideal (must our ideal be that everything is wrapped in cellophane)? Couldn’t I also trust my memory and not trust the machine? And couldn’t I distrust the _experience_ that ‘suggests’ to me that the machine is more reliable?
 
 ### [Ms-117](/ms-117/#239.3+240.1) <span class="fac">[239\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/239.webp),[240\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/240.webp)</span>
 
-<span class="series-number">82</span> My goal is unclear to me: The goal of these remarks (is unclear to me). For I can, after all, notice the proof of consistency where I did not notice it before the proof. Just as, before the proof showing that only _these_ regular n-gons can be constructed with a ruler and compass, I tried to construct such polygons at random, and gave it up afterward. Before that, I was not sure that among the types of multiplication that correspond to _this_ description, there is none that yields a result other than the accepted one. But let us assume that my uncertainty is one that began only at a certain distance from the normal methods of calculation; and let us assume we said: Since it does no harm, for if I calculate in a very abnormal way, I simply have to reconsider everything. Would that not be quite all right?
+<span class="series-number">82</span> My goal is unclear to me: The goal of these remarks (is unclear to me). For I can, after all, find my way around after the proof of consistency in places where I did not know my way around before the proof. Just as, before the proof showing that only _these_ regular n-gons can be constructed with a ruler and compass, I tried to construct such polygons at random, and gave it up afterward. Before that, I was not sure that among the types of multiplication that correspond to _this_ description, there is none that yields a result other than the accepted one. But let us assume that my uncertainty is one that began only at a certain distance from the normal methods of calculation; and let us assume we said: Since it does no harm, for if I calculate in a very abnormal way, I simply have to reconsider everything. Would that not be quite all right?
 
 ### [Ms-117](/ms-117/#240.2) <span class="fac">[240\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/240.webp)</span>
 
@@ -1451,7 +1451,7 @@ If I, for example, were interested in creating contradictions, perhaps for aesth
 
 ### [Ms-117](/ms-117/#242.5+243.1) <span class="fac">[242\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/242.webp),[243\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/243.webp)</span>
 
-<span class="series-number">83</span> It is a good expression to say: “this calculus does not know this order (this method), this calculus knows it.” How, when one says: “a calculus that does not know this order is actually not a calculus”? (A law firm that does not know this order is actually not a law firm.)
+<span class="series-number">83</span> It is a good expression to say: “this calculus does not know this order (this method), this calculus knows it.” What if one said: “a calculus that does not know this order is actually not a calculus”? (An office operation that does not know this order is actually not an office operation.)
 
 ### [Ms-117](/ms-117/#243.2) <span class="fac">[243\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/243.webp)</span>
 
@@ -1469,7 +1469,7 @@ The misuse of the idea of _mechanical_ protection against contradiction. But wha
 
 <span class="series-number">84</span> 09.03.1940
 
-‘The proof of consistency only shows me that I can trust the calculus.’
+‘The proof of consistency only then shows me that I can trust the calculus.’
 
 ### [Ms-117](/ms-117/#244.1) <span class="fac">[244\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/244.webp)</span>
 
@@ -1495,7 +1495,7 @@ Could one imagine that one would be just as afraid of a possibility of the 7-sid
 
 ### [Ms-117](/ms-117/#246.3+247.1) <span class="fac">[246\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/246.webp),[247\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/247.webp)</span>
 
-How does it come about that we are at all tempted (or are close to it) to shorten (3 ‒ 3) ∙ 2 = (3 ‒ 3) ∙ 5 by (3 ‒ 3)? How does it come about that this step seems plausible according to the rules, & how does it come about that it is nevertheless unusable? When one wants to describe this situation, it is extremely easy to make a mistake in the description. (It is therefore very difficult to describe.) The descriptions that immediately come to our lips are (all) misleading – that is how our language is structured.
+How does it come about that we are at all tempted (or are close to it) to cancel (3 ‒ 3) in (3 ‒ 3) ∙ 2 = (3 ‒ 3) ∙ 5? How does it come about that this step seems plausible according to the rules, & how does it come about that it is nevertheless unusable? When one wants to describe this situation, it is extremely easy to make a mistake in the description. (It is therefore very difficult to describe.) The descriptions that immediately come to our lips are (all) misleading – that is how our language is structured.
 
 ### [Ms-117](/ms-117/#247.2) <span class="fac">[247\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/247.webp)</span>
 
@@ -1507,7 +1507,7 @@ It was, or seems to be, _something like_ this: We have a calculus, let us say, w
 
 ### [Ms-117](/ms-117/#249.2+250.1) <span class="fac">[249\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/249.webp),[250\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/250.webp)</span>
 
-I played a game & followed certain rules in doing so: but _how_ I followed them depended on ⋎ circumstances & this dependence was not laid down in black and white. (This is a somewhat misleading account.) Now I wanted to play this game in such a way that I followed the rules ‘mechanically’ & I ‘formalized’ the game. In doing so, however, I came to points where the game lost _all_ its charm; I therefore wanted to ‘mechanically’ avoid these. – The formalization of logic had not been successfully achieved. But why had it been attempted in the first place? (What was its purpose?) Did this idea not spring from a mistaken conception?
+I played a game & followed certain rules in doing so: but _how_ I followed them depended on ⋎ circumstances & this dependence was not laid down in black and white. (This is a somewhat misleading account.) Now I wanted to play this game in such a way that I followed the rules ‘mechanically’ & I ‘formalized’ the game. In doing so, however, I came to points where the game lost _all_ its point; I therefore wanted to ‘mechanically’ avoid these. – The formalization of logic had not been successfully achieved. But why had it been attempted in the first place? (What was its purpose?) Did this idea not spring from a mistaken conception?
 
 ### [Ms-117](/ms-117/#250.2+251.1) <span class="fac">[250\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/250.webp),[251\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/251.webp)</span>
 
@@ -1519,11 +1519,11 @@ Philosophical dissatisfaction disappears as we see _more_.
 
 ### [Ms-117](/ms-117/#251.4) <span class="fac">[251\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/251.webp)</span>
 
-By allowing the reduction through (3 ‒ 3), arithmetic loses its charm. But what if, for example, I introduced a new equal sign to express: ‘equal, after _this_ operation’? Would it make sense to say, “Won in _that_ _sense_,” if in that sense _every_ game were won by me?
+By allowing cancellation by (3 ‒ 3), arithmetic loses its charm. But what if, for example, I introduced a new equal sign to express: ‘equal, after _this_ operation’? Would it make sense to say, “Won in _that_ sense,” if in that sense _every_ game were won by me?
 
 ### [Ms-117](/ms-117/#251.5+252.1) <span class="fac">[251\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/251.webp),[252\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/252.webp)</span>
 
-The calculus led me in certain places to negate itself. I now want a calculus that does not do this, and I exclude these places. – But does that mean that every calculus in which such an exclusion has not taken place is an uncertain one? ‘Well, the discovery of these points served as a warning to me.’ – But haven’t you had _a misunderstanding_ regarding this ‘warning’?!
+The calculus led me at certain points to cancel itself. I now want a calculus that does not do this, and I exclude these places. – But does that mean that every calculus in which such an exclusion has not taken place is an uncertain one? ‘Well, the discovery of these points served as a warning to me.’ – But haven’t you _misunderstood_ this ‘warning’?!
 
 ### [Ms-117](/ms-117/#252.2) <span class="fac">[252\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/252.webp)</span>
 
@@ -1589,4 +1589,4 @@ Do I know whether, if I ever see a contradiction where I now do not see the poss
 
 ### [Ms-117](/ms-117/#267.3) <span class="fac">[267\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-117/267.webp)</span>
 
-<span class="series-number">90</span> I have not yet clarified the role of calculation. The role of the sentence: “I must have made a mistake in my calculation.” It is actually the key to understanding the ‘foundations’ of mathematics.
+<span class="series-number">90</span> I have not yet clarified the role of miscalculation. The role of the sentence: “I must have made a mistake in my calculation.” It is actually the key to understanding the ‘foundations’ of mathematics.

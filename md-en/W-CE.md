@@ -10,7 +10,7 @@
 
 ### [Ms-119](/ms-119/#1.2+2.1) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/1.webp),[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/2.webp)</span>
 
-If one says: “I am afraid because he looks so menacing” – then here a cause is apparently recognized immediately, without repeated experimentation. Russell said that one must recognize something as a cause through repeated experience, but one must first recognize something as a cause through intuition. Isn't that similar to saying: One must first recognize something as 2 m through measurement, before one recognizes something as 1 m through intuition?
+If one says: “I am afraid because he looks so menacing” – then here a cause is apparently recognized immediately, without repeated experimentation. Russell said that one must, before recognizing something as a cause through repeated experience, recognize something as a cause through intuition. Isn't that similar to saying: One must first recognize something as 2 m through measurement, before one recognizes something as 1 m through intuition?
 
 ### [Ms-119](/ms-119/#2.2+3.1) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/2.webp),[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/3.webp)</span>
 
@@ -18,7 +18,7 @@ What happens if that intuition is contradicted by repeated experiments? Who is r
 
 ### [Ms-119](/ms-119/#3.2+4.1) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/3.webp),[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/4.webp)</span>
 
-But do we not immediately recognize that the pain comes from the blow we received? Is it not the cause, and can there be any doubt that it is? – But isn't it quite conceivable that we are sometimes mistaken about this? And later recognize the mistake. It seems as if something strikes us, and at the same time a pain is caused in us. (One sometimes thinks that one causes a noise by a certain movement, and then realizes that it arose independently of us.) And of course, this is a real experience, which one could call ‘experience of the cause’. But not because it infallibly shows us the cause, but because here, in looking for a cause, _a_ root of the cause-and-effect schema lies.
+But do we not immediately recognize that the pain comes from the blow we received? Is the blow not the cause, and can there be any doubt that it is? – But isn't it quite conceivable that we are sometimes mistaken about this? And later recognize the mistake. It seems as if something strikes us, and at the same time a pain is caused in us. (One sometimes thinks that one causes a noise by a certain movement, and then realizes that it arose independently of us.) And of course, this is a real experience, which one could call ‘experience of the cause’. But not because it infallibly shows us the cause, but because here, in looking for a cause, _a_ root of the cause-and-effect schema lies.
 
 ### [Ms-119](/ms-119/#4.2) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/4.webp)</span>
 
@@ -26,11 +26,11 @@ _We react to the cause._ To call something a “cause” is similar to pointing 
 
 ### [Ms-119](/ms-119/#4.3) <span class="fac">[4\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/4.webp)</span>
 
-We intuitively establish the cause when the effect is unpleasant to us. We instinctively look from the thing that was struck to the thing that struck. (I assume we do this.)
+We intuitively stop the cause when the effect is unpleasant to us. We instinctively look from the thing that was struck to the thing that struck. (I assume we do this.)
 
 ### [Ms-119](/ms-119/#5.1) <span class="fac">[5\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/5.webp)</span>
 
-Now, if I said that we compare everything in the case of cause and effect to the case of the blow; is it the archetype of the cause of an effect? Would we then have ‘recognized’ the blow as the cause? Imagine a language in which, instead of ‘cause,’ one always says ‘impact’!
+Now, if I said that we compare everything to the case of the push when we talk about cause and effect; it is the prototype of the cause of an effect. Would we then have _recognized_ the push as the cause? Imagine a language in which, instead of ‘cause,’ one always says ‘push’!
 
 ---
 
@@ -72,7 +72,7 @@ Similarly: When a child behaves in such & such a way, we say it has toothache �
 
 ### [Ms-119](/ms-119/#104.2+105.1) <span class="fac">[104\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/104.webp),[105\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/105.webp)</span>
 
-What does it mean when one says: the _game_ must first begin without doubt? that doubt can only be added later? – Yes, why shouldn’t one doubt from the start? But hold on – what does doubt then look like? – Yes, however its current phenomenon (e.g., its manifestation) may be, it now has a completely different _environment_ than the one we know. (For as an exception, doubt has regularity as its environment.) (Do (the) eyes have an expression when they are not in a face?) The _reasons_ for doubt are now reasons to leave a well-trodden path.
+What does it mean when one says: the _game_ must first begin without doubt? that doubt can only be added later? – Yes, why shouldn’t one doubt from the start? But hold on – what does doubt then look like? – Yes, whatever its present appearance (e.g., its utterance) may be, it now has a completely different _environment_ than the one we know. (For as an exception, doubt has regularity as its environment.) (Do (the) eyes have an expression when they are not in a face?) The _reasons_ for doubt are now reasons to leave a well-trodden path.
 
 ### [Ms-119](/ms-119/#106.2) <span class="fac">[106\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/106.webp)</span>
 
@@ -80,7 +80,7 @@ Our world appears quite different when one surrounds it with other possibilities
 
 ### [Ms-119](/ms-119/#106.3+107.1) <span class="fac">[106\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/106.webp),[107\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/107.webp)</span>
 
-We teach a child: “_That_ is a chair.” Could we teach it from the beginning to doubt whether this is a chair? One would say: “Impossible! it must first know what a chair is in order to be able to doubt that this is one.” – But isn't it conceivable that the child learns from the beginning to say: “That looks like a chair – but is it really one?” Or that it learns from the beginning to say in a doubting tone: “I _think_ there is a chair here” and not in an assertive tone: “There is a chair here.”
+We teach a child: “_That_ is a chair.” Could we teach it from the beginning to doubt whether this is a chair? One would say: “Impossible! it must first know what a chair is in order to be able to doubt that this is one.” – But isn't it conceivable that the child learns from the beginning to say: “That looks like a chair – but is it really one?” Or that it learns from the beginning to say in a doubting tone: “I _believe_ there is a chair here” and not in an assertive tone: “There is a chair here.”
 
 ### [Ms-119](/ms-119/#107.2) <span class="fac">[107\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/107.webp)</span>
 
@@ -102,7 +102,7 @@ One easily thinks: doubt only makes it – _true to nature_. (If one had to pay 
 
 ### [Ms-119](/ms-119/#110.2) <span class="fac">[110\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/110.webp)</span>
 
-“The game cannot begin with doubt.” – It should say: the game _does not_ begin with doubt. – Or also: “can” has the same warrant as in the sentence: “traffic on roads cannot begin with the fact that everyone doubts whether they should go there – or there; that is, it would never come to what we call ‘traffic,’ and we would probably not call this vacillation ‘doubt.’”
+“The game cannot begin with doubt.” – It should say: the game _does not_ begin with doubt. – Or also: “can” has the same warrant as in the sentence: “traffic on roads cannot begin with the fact that everyone doubts whether they should go here – or there; that is, it would never come to what we call ‘traffic,’ and we would probably not call this vacillation ‘doubt.’”
 
 ### [Ms-119](/ms-119/#110.3+111.1) <span class="fac">[110\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/110.webp),[111\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/111.webp)</span>
 
@@ -130,13 +130,13 @@ Imagine this question: “Can a game begin with one of the players winning (or l
 
 ### [Ms-119](/ms-119/#117.2) <span class="fac">[117\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/117.webp)</span>
 
-“What if he cheats?” – But he cannot cheat if what he does is not cheating in the game.
+“What if he cheats?” – But he cannot cheat if what he does is not _cheating_ in the game.
 
 ### [Ms-119](/ms-119/#118.2) <span class="fac">[118\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/118.webp)</span>
 
 15.10.1937
 
-“Is it certain that there is a chair here?” – Can I not do both: be certain, and doubt? Doesn't it depend on whether I consider something as a criterion of doubt?
+“Is it certain that there is a chair here?” – Can I not do both: be certain, and doubt? Doesn't it depend on whether I consider something as a criterion of doubtfulness?
 
 ### [Ms-119](/ms-119/#118.3+119.1) <span class="fac">[118\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/118.webp),[119\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/119.webp)</span>
 
@@ -172,11 +172,11 @@ Now, whoever has followed the string & found the one pulling it makes yet anothe
 
 ### [Ms-119](/ms-119/#126.2+127.1+128.1+129.1) <span class="fac">[126\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/126.webp),[127\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/127.webp),[128\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/128.webp),[129\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/129.webp)</span>
 
-What is it that I always do in such a case? Reason – I would like to say – presents itself as (a) yardstick par excellence, as the eternal scale, against which what we do measures & judges itself. And I say: do not let your gaze be fixed on this standard; see it as one standard among others. We are, as it were, accustomed to ‘dismiss’ it, saying that it is unreasonable, corresponds to a low level of intelligence, etc. Our gaze is held captive by the standard & is always drawn away from these phenomena, as if upwards. – It is as if we were so prejudiced towards a certain style, architectural style, or style of behaviour, that we cannot direct our gaze fully on another – but can only look at it from the corner of our eye. (Related to this is a beautiful observation that Eddington makes about the demonstration of the law of inertia.)
+What is it that I always do in such a case? Reason – I would like to say – presents itself as (a) yardstick par excellence, as the eternal scale, against which what we do measures & judges itself. And I say: do not let your gaze be fixed on this standard; see it as one standard among others. We are, as it were, accustomed to ‘dismiss’ these, saying that they are unreasonable, correspond to a low level of intelligence, etc. Our gaze is held captive by the standard & is always drawn away from these phenomena, as if upwards. – It is as if we were so prejudiced towards a certain style, architectural style, or style of behaviour, that we cannot direct our gaze fully on another – but can only look at it from the corner of our eye. (Related to this is a beautiful observation that Eddington makes about the demonstration of the law of inertia.)
 
 ### [Ms-119](/ms-119/#129.2+130.1) <span class="fac">[129\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/129.webp),[130\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/130.webp)</span>
 
-In one instance, “_he_ is the cause” simply means: _he_ pulled the string. In the other instance, for example: “_that_ is the circumstance that I had to change in order to stop this phenomenon.” “But how did he – how could he even come up with the idea of changing a circumstance _in order_ to stop the phenomenon? This presupposes that he primarily (initially) senses a connection! He senses a connection where none can be _seen_. He must therefore have already had the idea of such a causal connection beforehand.” Yes, one can say that it presupposes that he is looking for a cause; that he looks from the phenomenon – to _another_ thing.
+In one instance, “_he_ is the cause” simply means: _he_ pulled the string. In the other instance, for example: “_those_ are the circumstances that I had to change in order to stop this phenomenon.” “But how did he – how could he even come up with the idea of changing a circumstance _in order_ to stop the phenomenon? This presupposes that he primarily (initially) senses a connection! He senses a connection where none can be _seen_. He must therefore have already had the idea of such a causal connection beforehand.” Yes, one can say that it presupposes that he is looking for a cause; that he looks from the phenomenon – to _another_ thing.
 
 ### [Ms-119](/ms-119/#132.2+133.1+134.1+135.1+136.1+137.1) <span class="fac">[132\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/132.webp),[133\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/133.webp),[134\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/134.webp),[135\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/135.webp),[136\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/136.webp),[137\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/137.webp)</span>
 
@@ -202,11 +202,11 @@ Knowledge only interests us in the game.
 
 October 19, 1937
 
-October 20, 1937 Why ‘must doubt end somewhere’? – Because the game could not begin if it began with doubt? That is: the _basic form_ of the game is one in which doubt does not enter. Or: we could not know what ‘cause’ is if we did not recognize one thing and another as the cause of an effect without doubt. – But these expressions are all unsatisfactory. – ‘He must instinctively come to recognize a cause.’ He must have a model of the ‘cause’ before he can doubt whether something is the cause. He must once simply call something ‘cause’, otherwise he will never get around to thinking about whether something is the cause. – Just imagine it starts with him racking his brain about whether _this_ is the cause of _that_. How would one have to imagine this racking of the brain, this thinking? In a simple way. So it is something like a _search_, and finally a finding of some object (the cause). What is it that the game cannot begin with doubt? Doubt must have some face. When he doubts, the question is: what does his doubt look like? What does, for example, the investigation he is conducting look like? – Does one only want to say: the game cannot begin with someone saying: ‘One can never _know_ what the cause of something is’? – But why shouldn't he say _that_ too, if he then only takes a courageous step. – But then we don't need to talk about the _beginnings_ of the game, but we can say: the game ‘searching for the cause’ consists primarily and mainly in the fact that we practice a certain practice. Something that we can call doubt and uncertainty also appears in it, but this is a secondary feature. Just as it is characteristic of the functioning of the sewing machine that its parts wear out and bend, and the axles can rattle in the bearings, but it is still a secondary characteristic compared to the normal operation of the machine.
+October 20, 1937 Why ‘must doubt end somewhere’? – Because the game could not begin if it began with doubt? That is: the _basic form_ of the game is one in which doubt does not enter. Or: we could not know what ‘cause’ is if we did not recognize one thing and another as the cause of an effect without doubt. – But these expressions are all unsatisfactory. – ‘At some point he must instinctively come to recognize a cause.’ He must have a model of the ‘cause’ before he can doubt whether something is the cause. He must once simply call something ‘cause’, otherwise he will never get around to thinking about whether something is the cause. – Just imagine it starts with him racking his brain about whether _this_ is the cause of _that_. How would one have to imagine this racking of the brain, this thinking? In a simple way. So it is something like a _search_, and finally a finding of some object (the cause). What is it, then, that makes it impossible for the game to begin with doubt? Doubt must have some face. When he doubts, the question is: what does his doubt look like? What does, for example, the investigation he is conducting look like? – Does one only want to say: the game cannot begin with someone saying: ‘One can never _know_ what the cause of something is’? – But why shouldn't he say _that_ too, if he then only takes a courageous step. – But then we don't need to talk about the _beginnings_ of the game, but we can say: the game ‘searching for the cause’ consists primarily and mainly in the fact that we practice a certain practice. Something that we can call doubt and uncertainty also appears in it, but this is a secondary feature. Just as it is characteristic of the functioning of the sewing machine that its parts wear out and bend, and the axles can rattle in the bearings, but it is still a secondary characteristic compared to the normal operation of the machine.
 
 ### [Ms-119](/ms-119/#146.2) <span class="fac">[146\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/146.webp)</span>
 
-Imagine this strange possibility: we have always miscalculated in the multiplication 12 × 12. Yes, it is incomprehensible how this could have happened, but it has happened. So everything we have calculated is wrong! – But what does that matter? It doesn't matter at all! – There must therefore be something wrong with our idea of the truth and falsehood of mathematical sentences.
+Imagine this strange possibility: we had always miscalculated in the multiplication 12 × 12. Yes, it is incomprehensible how this could have happened, but it has happened. So everything one has calculated is wrong! – But what does that matter? It doesn't matter at all! – There must therefore be something wrong with our idea of the truth and falsehood of mathematical sentences.
 
 ### [Ms-119](/ms-119/#146.4+147.1) <span class="fac">[146\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/146.webp),[147\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/147.webp)</span>
 
@@ -222,7 +222,7 @@ The primitive form of the language-game is certainty, not uncertainty. For uncer
 
 ### [Ms-119](/ms-119/#74v.2+75r.1) <span class="fac">[74v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/74v.webp),[75r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/75r.webp)</span>
 
-I want to say: it is characteristic of our language that it grows up on the basis of firm forms of life, regular actions. Its function is _primarily_ determined by the action, of which it is an accompaniment. We simply have a concept of what primitive forms of life are, & which have only arisen from these. We believe that the simplest plow came before the complicated one.
+I want to say: it is characteristic of our language that it grows up on the basis of firm forms of life, regular actions. Its function is _primarily_ determined by the action, of which it is an accompaniment. We simply have a concept of what primitive forms of life are, & which have only arisen from these. We believe that the simplest plough came before the complicated one.
 
 ### [Ms-119](/ms-119/#75r.2) <span class="fac">[75r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/75r.webp)</span>
 
@@ -258,7 +258,7 @@ The essential thing about the language-game is a practical method (a kind of act
 
 ### [Ms-119](/ms-119/#28.1+29.1+30.1+31.1) <span class="fac">[28\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/28.webp),[29\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/29.webp),[30\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/30.webp),[31\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/31.webp)</span>
 
-The machine (its construction) as a symbol for its mode of operation: The machine – I could say first – ‘seems to already have its mode of operation within itself’. What does that mean? By knowing the machine, everything else, namely the movements it will make, seems to be already quite determined. “We speak as if these parts could only move in this way, as if they could do nothing else.” How is it –: do we forget the possibility that they can bend, break, melt, etc.? _Yes_; in _many_ cases we don’t even think about it. We use a machine, or an image of a machine, as a symbol for a specific mode of operation. We communicate, for example, this image to someone & assume that he derives the phenomena of the movement of the parts from it. (Just as we can communicate a number to someone by saying that it is the 25<sup>th</sup> in the series: 1, 4, 9, 16 …) “The machine seems to already have its mode of operation within itself” means: you are inclined to compare the future movements of the machine to things that are all already in a drawer & are now gradually taken out by us. However, we do not speak this way when it comes to predicting the actual behaviour of a machine; in general, we do not forget the possibilities of deformation of the parts, etc. etc.. But if we wonder how we can use the machine as a symbol of a mode of movement – since it could also move in a completely _different_ way. Well, we could say that the machine, or its image, stands here for us as the beginning of a series of images, which we have learned to derive from this image. But if we consider that the machine could also have moved differently, it seems easy to us that the mode of movement must be contained in the machine as a symbol much more precisely than in the actual machine. It is not enough that these are the movements that are empirically predetermined, but they must even – in a mysterious sense – already be _present_. And it is true: the movement of the machine symbol is predetermined in a different way than that of a given actual machine.
+The machine (its construction) as a symbol for its mode of operation: The machine – I could say first – ‘seems to already have its mode of operation within itself’. What does that mean? By knowing the machine, everything else, namely the movements it will make, seems to be already quite determined. “We speak as if these parts could only move in this way, as if they could do nothing else.” How is it –: do we forget the possibility that they can bend, break, melt, etc.? _Yes_; in _many_ cases we don’t even think about it. We use a machine, or an image of a machine, as a symbol for a specific mode of operation. We communicate, for example, this image to someone & assume that he derives the phenomena of the movement of the parts from it. (Just as we can communicate a number to someone by saying that it is the 25<sup>th</sup> in the series: 1, 4, 9, 16 …) “The machine seems to already have its mode of operation within itself” means: you are inclined to compare the future movements of the machine, in their determinateness, to things that are all already in a drawer & are now gradually taken out by us. However, we do not speak this way when it comes to predicting the actual behaviour of a machine; in general, we do not forget the possibilities of deformation of the parts, etc. etc.. But we do forget them when we wonder how we can use the machine as a symbol of a mode of movement – since it could also move in a completely _different_ way. Well, we could say that the machine, or its image, stands here for us as the beginning of a series of images, which we have learned to derive from this image. But if we consider that the machine could also have moved differently, it seems easy to us as if the mode of movement had to be contained in the machine as a symbol much more precisely than in the actual machine. It is not enough that these are the movements that are empirically predetermined, but they must even – in a mysterious sense – already be _present_. And it is true: the movement of the machine symbol is predetermined in a different way than that of a given actual machine.
 
 ### [Ms-119](/ms-119/#43.2) <span class="fac">[43\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/43.webp)</span>
 
@@ -274,7 +274,7 @@ You must ask yourself: what criteria does one take for the fact that a medicine 
 
 ### [Ms-119](/ms-119/#54.3+55.1+56.1) <span class="fac">[54\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/54.webp),[55\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/55.webp),[56\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/56.webp)</span>
 
-When do we call two objects equally heavy? When we have weighed them, or only while we are weighing them? If weighing is the only criterion for weight, when has an object changed its weight if it now weighs more than before? Linguistic usage could be such that the object has this and that weight until, when weighed, it shows a different one; in response to the question: “When did it change its weight?”, one gives the time of this weighing. – Or: one says: “One cannot know when it changes its weight; we only know that during the first weighing it had this weight, during the second that weight.” – Or: “It is senseless to ask when it changed its weight; one can only ask when the change in weight became apparent.”
+When do we call two bodies equally heavy? When we have weighed them, or only while we are weighing them? If weighing is the only criterion for weight, when has an object changed its weight if it now weighs more than before? Linguistic usage could be such that the object has this and that weight until, when weighed, it shows a different one; in response to the question: “When did it change its weight?”, one gives the time of this weighing. – Or: one says: “One cannot know when it changes its weight; we only know that during the first weighing it had this weight, during the second that weight.” – Or: “It is senseless to ask when it changed its weight; one can only ask when the change in weight became apparent.”
 
 ### [Ms-119](/ms-119/#56.2+57.1+58.1+59.1) <span class="fac">[56\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/56.webp),[57\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/57.webp),[58\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/58.webp),[59\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-119/59.webp)</span>
 
@@ -296,7 +296,7 @@ When do we call two objects equally heavy? When we have weighed them, or only wh
 
 ### [Ms-159](/ms-159/#9v.4+10r.1+10v.1) <span class="fac">[9v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/9v.webp),[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/10r.webp),[10v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/10v.webp)</span>
 
-If I painted my impression instead of just describing it in words, I could now point to my picture & say: “I'm sure that _this_ was what I saw”. (Of course the “I'm sure” is really superfluous.) But further: I have painted, portrayed my impression – but have I portrayed, projected it correctly? All justifications you might try to give are idle wheels, they don't drive anything. – Now this is why the expression “immediate awareness” or “knowledge” are in this sort of case misleading. The proposition is not unquestionable because it rests so securely on something, but there is no question of its resting on anything. To say that we are _certain_ that we have this impression is like saying the earth rests on something that is firm in itself.
+If I painted my impression instead of just describing it in words, I could now point to my picture & say: “I'm sure that _this_ was what I saw”. (Of course the “I'm sure” is really superfluous.) But further: I have painted, portrayed my impression – but have I portrayed, projected it correctly? All justifications you might try to give are idle wheels they don't drive anything. – Now this is why the expression “immediate awareness” or “knowledge” are in this sort of case misleading. The proposition is not unquestionable because it rests so securely on something but there is no question of its resting on anything. To say that we are _certain_ that we have this impression is like saying the earth rests on something that is firm in itself.
 
 ### [Ms-159](/ms-159/#10v.2+11r.1) <span class="fac">[10v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/10v.webp),[11r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/11r.webp)</span>
 
@@ -424,15 +424,15 @@ The unity of grammar & experience.
 
 ### [Ms-159](/ms-159/#20r.2+20v.1) <span class="fac">[20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/20r.webp),[20v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/20v.webp)</span>
 
-“You can't have the relation of ‘knowing’ to a fact of this sort.” The relation of knowing does not fit such a fact; it does not have the right number of valencies, as O can't combine with one atom of H. “A cube can't lie in a plane or be cut by a straight line in two – – –.” “A fact of this sort hasn't the right structure for being known.”
+“You can't have the relation of ‘knowing’ to a fact of this sort”. The relation of knowing does not fit such a fact it has not the right number of valencies, as O can't combine with one atom of H. “A cube can't lie in a plane or be cut by a straight line in two – – –”. “A fact of this sort hasn't the right structure for being known.”
 
 ### [Ms-159](/ms-159/#20v.2) <span class="fac">[20v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/20v.webp)</span>
 
-“Or else – if you call _this_ knowing, it's something else than knowing that you have a sense-datum.”
+“Or else – if you call _this_ knowing it's something else than knowing that you have a sense-datum”.
 
 ### [Ms-159](/ms-159/#20v.3) <span class="fac">[20v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/20v.webp)</span>
 
-Collecting the evidence; distinguishing between evidence & surmise. “Now what did you actually see?” – “Did you touch it?” – No – Then it might also have been a – – –.”
+Collecting the evidence; distinguishing between evidence & surmise. “Now what did you actually see?” – “Did you touch it?” – No – Then it might also have been a – – –”
 
 ### [Ms-159](/ms-159/#21r.1) <span class="fac">[21r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/21r.webp)</span>
 
@@ -440,19 +440,19 @@ We take one _particular_ game & make it into _the_ game always played.
 
 ### [Ms-159](/ms-159/#21r.2) <span class="fac">[21r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/21r.webp)</span>
 
-“The logical structure of the universe.”
+“The logical structure of the universe”
 
 ---
 
 ### [Ms-159](/ms-159/#23r.2+23v.1) <span class="fac">[23r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/23r.webp),[23v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/23v.webp)</span>
 
-“You can't ‘know’ it _in the same sense_….”
+“You can't ‘know’ it _in the same sense_ ….”
 
 Can you deny in the same sense that 20 × 20 = 400 & that it rains?
 
 ### [Ms-159](/ms-159/#23v.2) <span class="fac">[23v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/23v.webp)</span>
 
-“We can't be directly aware of…”
+“We can't be directly aware of …”
 
 ### [Ms-159](/ms-159/#23v.3) <span class="fac">[23v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/23v.webp)</span>
 
@@ -460,11 +460,11 @@ Can you deny in the same sense that 20 × 20 = 400 & that it rains?
 
 ### [Ms-159](/ms-159/#30v.1) <span class="fac">[30v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/30v.webp)</span>
 
-“You can’t _know_.”
+“You can't _know_.”
 
 ### [Ms-159](/ms-159/#30v.2) <span class="fac">[30v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/30v.webp)</span>
 
-_Knowing_ is here like _having_; having in oneself.
+_Knowing_ is here like _having_; having in yourself.
 
 ### [Ms-159](/ms-159/#30v.3) <span class="fac">[30v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/30v.webp)</span>
 
@@ -500,7 +500,7 @@ this↑ fits this↑ “Things being as they are”. ‘Can we imagine it not fi
 
 “This↑ does not fit this↑”
 
-How does one know whether this is a statement or a rule? Is it _meant_ as one or the other?
+How do you know whether this is a statement or a rule? Is it _meant_ as one or the other?
 
 ### [Ms-159](/ms-159/#32r.2) <span class="fac">[32r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-159/32r.webp)</span>
 

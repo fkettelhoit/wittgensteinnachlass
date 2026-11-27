@@ -30,7 +30,7 @@ The sentence describes a picture, namely this:
 
 ### [Ms-125](/ms-125/#7r.1) <span class="fac">[7r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/7r.webp)</span>
 
-This picture is acceptable to us. How it is acceptable to us is the same as how we indicate an imprecise knowledge of a number by rounding it to a multiple of 10.
+This picture is acceptable to us, just as it is acceptable to us to indicate an imprecise knowledge of a number by rounding it to a multiple of 10.
 
 ### [Ms-125](/ms-125/#7r.2) <span class="fac">[7r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/7r.webp)</span>
 
@@ -42,15 +42,15 @@ This picture is acceptable to us. How it is acceptable to us is the same as how 
 
 ### [Ms-125](/ms-125/#7v.2+8r.1) <span class="fac">[7v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/7v.webp),[8r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8r.webp)</span>
 
-The fact that we do not conduct experiments here, but let the clarity count, already determines the use. Because we are not so naive as to let the clarity count instead of the experiment.
+The fact that we do not conduct experiments here, but accept the fact that it seems evident, already determines the use. Because we are not so naive as to let what seems evident count instead of the experiment.
 
 ### [Ms-125](/ms-125/#8r.2) <span class="fac">[8r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8r.webp)</span>
 
-Not that it appears true to us, but that we let the clarity count makes it a mathematical sentence.
+Not that it appears true to us, but our accepting the fact that it seems evident makes it a mathematical sentence.
 
 ### [Ms-125](/ms-125/#8r.3+8v.1) <span class="fac">[8r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8r.webp),[8v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8v.webp)</span>
 
-<span class="series-number">4</span> Does experience teach us that a straight line is possible between any two points? Or that two different colors cannot be at one place? One could say: _imagination_ teaches us this. And therein lies the truth; one must just understand it correctly.
+<span class="series-number">4</span> Does experience teach us that a straight line is possible between any two points? Or that two different colours cannot be at one place? One could say: _imagination_ teaches us this. And therein lies the truth; one must just understand it correctly.
 
 ### [Ms-125](/ms-125/#8v.2) <span class="fac">[8v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/8v.webp)</span>
 
@@ -80,7 +80,7 @@ One could, as it were, put a special assertion mark in front of the axioms.
 
 ### [Ms-125](/ms-125/#9v.4+10r.1) <span class="fac">[9v\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/9v.webp),[10r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/10r.webp)</span>
 
-An axiom is not something _because_ we recognize it as highly probable, indeed as certain, but because _we_ assign it a certain function and one that is contrary to that of the empirical proposition.
+An axiom is not an axiom _because_ we recognize it as highly probable, indeed as certain, but because _we_ assign it a certain function and one that is contrary to that of the empirical proposition.
 
 ### [Ms-125](/ms-125/#10r.2) <span class="fac">[10r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/10r.webp)</span>
 
@@ -104,7 +104,7 @@ Without overlooking the use in the slightest, we cannot doubt that we understand
 
 ### [Ms-125](/ms-125/#11r.3+11v.1) <span class="fac">[11r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/11r.webp),[11v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/11v.webp)</span>
 
-Is the sentence that there is no effect in the distance of the type of mathematical sentences? One would also like to say: the sentence is not intended to express an experience, but that one cannot imagine anything else.
+Is the sentence that there is no action at a distance of the type of mathematical sentences? One would also like to say: the sentence is not intended to express an experience, but to say that one cannot imagine anything else.
 
 ### [Ms-125](/ms-125/#11v.2+12r.1) <span class="fac">[11v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/11v.webp),[12r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/12r.webp)</span>
 
@@ -140,7 +140,7 @@ We describe with the help of the rule: for what purpose? Why? That is another qu
 
 ### [Ms-125](/ms-125/#13v.3+14r.1) <span class="fac">[13v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/13v.webp),[14r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/14r.webp)</span>
 
-‘The rule, when applied to these numbers, gives those’ could mean: the rule, when applied to a person, makes him generate those numbers from these numbers.
+‘The rule, when applied to these numbers, gives those’ could mean: the expression of the rule, when applied to a person, makes him generate those numbers from these numbers.
 
 ### [Ms-125](/ms-125/#14r.2) <span class="fac">[14r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/14r.webp)</span>
 
@@ -160,7 +160,7 @@ Whoever describes with a rule does not know more than he says. That is, he does 
 
 ### [Ms-125](/ms-125/#14v.3+15r.1) <span class="fac">[14v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/14v.webp),[15r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15r.webp)</span>
 
-<span class="series-number">9</span> How could one explain to someone what he has to do who is supposed to follow a rule?
+<span class="series-number">9</span> How could one explain to someone what someone who is supposed to follow a rule has to do?
 
 ### [Ms-125](/ms-125/#15r.2+15v.1) <span class="fac">[15r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15r.webp),[15v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/15v.webp)</span>
 
@@ -180,7 +180,7 @@ The numbers are shapes (I do not mean the number signs), and arithmetic tells us
 
 ### [Ms-125](/ms-125/#17r.2+17r.3) <span class="fac">[17r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp),[17r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp)</span>
 
-<span class="series-number">12</span> We do not judge the images, but by means of the images. We do not investigate them but investigate something else by means of them.
+<span class="series-number">12</span> We do not judge the images, but judge by means of the images. We do not investigate them but investigate something else by means of them.
 
 ### [Ms-125](/ms-125/#17r.4+17v.1) <span class="fac">[17r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17r.webp),[17v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/17v.webp)</span>
 
@@ -204,19 +204,19 @@ But could one not study transformations of animal shapes (for example)? But how 
 
 ### [Ms-125](/ms-125/#18v.3+19r.1) <span class="fac">[18v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/18v.webp),[19r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19r.webp)</span>
 
-A mathematical proposition would then be (e.g.), that _this_ transformation maps _this_ figure onto _that one_. (The figures and the transformation are recognizable.)
+A mathematical proposition would then be (e.g.), that _this_ transformation maps _this_ figure onto _this one_. (The figures and the transformation are recognizable.)
 
 ### [Ms-125](/ms-125/#19r.2+19v.1) <span class="fac">[19r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19r.webp),[19v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19v.webp)</span>
 
-<span class="series-number">14</span> We must, however, remember that the mathematical proof, through its transformations, proves not only propositions of symbolic geometry, but propositions of the most varied _content_.
+<span class="series-number">14</span> We must, however, remember that the mathematical proof, through its transformations, proves not only sign-geometrical propositions, but propositions of the most varied _content_.
 
 ### [Ms-125](/ms-125/#19r.3) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19r.webp)</span>
 
-Thus, the transformation of a Russellian proof demonstrates that this logical proposition can be derived from the fundamental laws using these rules. But the proof is regarded as a proof of the truth of the conclusion, or as a proof that the conclusion says _nothing_. This is possible only through a relationship of the proposition to the outside world; that is, through its relationship to other propositions, e.g., and their application.
+Thus, the transformation of a Russellian proof demonstrates that this logical proposition can be derived from the fundamental laws using these rules. But the proof is regarded as a proof of the truth of the conclusion, or as a proof that the conclusion says _nothing_. This is possible only through a relationship of the proposition to what is outside; that is, through its relationship to other propositions and, for example, their application.
 
 ### [Ms-125](/ms-125/#19v.2+20r.1) <span class="fac">[19v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/19v.webp),[20r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/20r.webp)</span>
 
-‘The tautology (“p ∨ ~p”, for example) says nothing’ is a sentence that refers to the language-game in which the sentence p is used. (E.g.: “It is raining, or it is not raining” is not a communication about the weather.)
+‘The tautology (“p ⌵ ~p”, for example) says nothing’ is a sentence that refers to the language-game in which the sentence p is used. (E.g.: “It is raining, or it is not raining” is not a communication about the weather.)
 
 ### [Ms-125](/ms-125/#20r.2) <span class="fac">[20r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/20r.webp)</span>
 
@@ -224,7 +224,7 @@ R.‘s logic says nothing about the nature and use of _sentences_—I mean, not 
 
 ### [Ms-125](/ms-125/#28v.1+29r.1) <span class="fac">[28v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/28v.webp),[29r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/29r.webp)</span>
 
-<span class="series-number">15</span> One can imagine that people have applied mathematics without pure mathematics. They can, for example—let us assume—calculate the trajectory described by certain moving bodies and predict their location at a given time. To do this, they use a coordinate system, the equations of curves (_a form of describing reality_), and the technique of calculation in the decimal system.
+<span class="series-number">15</span> One can imagine that people have applied mathematics without pure mathematics. They can, for example—let us assume—calculate the trajectory described by certain moving bodies and predict their location at a given time. To do this, they use a coordinate system, the equation of curves (_a form of describing real movement_), and the technique of calculation in the decimal system.
 
 The idea of a theorem in pure mathematics may be completely foreign to them. These people therefore have rules according to which they transform the relevant symbols—in particular, for example, numerical symbols—for the purpose of predicting the occurrence of certain events.
 
@@ -312,7 +312,7 @@ The dual nature of the mathematical proposition—as _a law_ and as _a rule_.
 
 ### [Ms-125](/ms-125/#36r.3+36v.1) <span class="fac">[36r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/36r.webp),[36v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/36v.webp)</span>
 
-<span class="series-number">22</span> What if, instead of “intuition,” one said “correct guessing”? That would show the value of an intuition in a completely different light. Because the phenomenon of guessing is a psychological one, but not that of correct guessing.
+<span class="series-number">22</span> What if, instead of “intuition,” one said “correct guessing”? That would show the value of an intuition in a completely different light. Because the phenomenon of guessing is a psychological one, but not that of guessing correctly.
 
 ### [Ms-125](/ms-125/#36v.2) <span class="fac">[36v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/36v.webp)</span>
 
@@ -356,7 +356,7 @@ But what if someone now says: “I am not conscious of these _two_ processes; I 
 
 ### [Ms-125](/ms-125/#42v.2+43r.1) <span class="fac">[42v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/42v.webp),[43r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/43r.webp)</span>
 
-It is clear that when someone says, “If you follow the _rule_, then it _must_ _be_ so,” they have no _clear_ concept of experiences that would correspond to the opposite.
+It is clear that when someone says, “If you follow the _rule_, then it _must_ be so,” they have no _clear_ concept of experiences that would correspond to the opposite.
 
 ### [Ms-125](/ms-125/#43r.2) <span class="fac">[43r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/43r.webp)</span>
 
@@ -420,7 +420,7 @@ Even the model, as well as the one that shows him that he will be able to assemb
 
 ### [Ms-125](/ms-125/#48r.2+48v.1) <span class="fac">[48r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/48r.webp),[48v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/48v.webp)</span>
 
-Is it said that if one person sees that one can arrange a part of the picture with these stones, he realizes that one will therefore in no way be able to put the whole picture together from them? Is it not possible that he tries and tries again to see if perhaps a position of the stones will achieve this goal?
+Does it follow that if someone sees that one can arrange a part of the picture with these stones, he realizes that one will therefore in no way be able to put the whole picture together from them? Is it not possible that he tries and tries again to see if perhaps a position of the stones will achieve this goal?
 
 ### [Ms-125](/ms-125/#48v.2) <span class="fac">[48v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/48v.webp)</span>
 
@@ -436,7 +436,7 @@ I am not interested in the immediate grasping of a truth, but in the phenomenon 
 
 ### [Ms-125](/ms-125/#49v.2+50r.1) <span class="fac">[49v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/49v.webp),[50r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/50r.webp)</span>
 
-<span class="series-number">33</span> Yes; it is as if the formation of concepts guided our experience in certain channels so that one now sees one experience with the other in a new way. (As an optical instrument lets light from different sources come together in a picture in a certain way.)
+<span class="series-number">33</span> Yes; it is as if the formation of concepts guided our experience in certain channels so that one now sees one experience together with another in a new way. (As an optical instrument lets light from different sources come together in a picture in a certain way.)
 
 ### [Ms-125](/ms-125/#50r.2) <span class="fac">[50r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/50r.webp)</span>
 
@@ -456,7 +456,7 @@ Then it is not such a great wonder that the proof helps us to make a prediction.
 
 ### [Ms-125](/ms-125/#51v.2+52r.1+52v.1) <span class="fac">[51v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/51v.webp),[52r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/52r.webp),[52v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/52v.webp)</span>
 
-I cannot predict what color a chemical compound will have with the help of a picture that illustrates the substances in the test tube and their reaction. If the picture shows foaming and, in the end, red crystals, I could not say: “Yes, _that_ must be it,” or “No, that cannot be it.” It is different, however, when I set the image of a mechanism in motion; this can teach me how a part will actually move. But if the image depicted a mechanism whose parts were made of a very soft material (such as dough) and therefore bent in various ways in _the image_, then the image might not help me make a prediction after all.
+I cannot predict what colour a chemical compound will have with the help of a picture that illustrates the substances in the test tube and their reaction. If the picture shows foaming and, in the end, red crystals, I could not say: “Yes, _that_ must be it,” or “No, that cannot be it.” It is different, however, when I set the image of a mechanism in motion; this can teach me how a part will actually move. But if the image depicted a mechanism whose parts were made of a very soft material (such as dough) and therefore bent in various ways in _the image_, then the image might not help me make a prediction after all.
 
 ### [Ms-125](/ms-125/#52v.2+53r.1) <span class="fac">[52v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/52v.webp),[53r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53r.webp)</span>
 
@@ -476,7 +476,7 @@ There is a difference: whether I interpret something as an illusion of my senses
 
 ### [Ms-125](/ms-125/#53v.3) <span class="fac">[53v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/53v.webp)</span>
 
-By being trained in a technique, we are also conditioned to a way of looking at things that is _just as firmly_ established as that technique.
+By being trained in a technique, we are also trained in a way of looking at things that is _just as firmly_ established as that technique.
 
 ### [Ms-125](/ms-125/#54r.1) <span class="fac">[54r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/54r.webp)</span>
 
@@ -484,7 +484,7 @@ The mathematical proposition seems to deal neither with signs nor with people, &
 
 ### [Ms-125](/ms-125/#54r.2) <span class="fac">[54r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/54r.webp)</span>
 
-It reveals _the_ connections we regard as rigid. But we look, so to speak, away from these connections and toward something else. We turn our backs on them, so to speak. Or: we lean on them or stand upon them.
+It reveals _the_ connections we regard as rigid. But we look, so to speak, away from these connections and toward something else. We turn our backs on them, so to speak. Or: we lean on them or rest on them.
 
 ### [Ms-125](/ms-125/#54r.3+54v.1) <span class="fac">[54r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/54r.webp),[54v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/54v.webp)</span>
 
@@ -512,7 +512,7 @@ The effect of the proof is that one plunges into the new rule.
 
 ### [Ms-125](/ms-125/#56r.1+56v.1) <span class="fac">[56r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/56r.webp),[56v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/56v.webp)</span>
 
-He has so far calculated according to this and that rule; now someone shows him the proof that one can also calculate differently, and he switches (to the other technique) – not because he says to himself that it will also work, but because he regards the new technique as identical with the old, because he must give it the same sense, because he recognizes it as the same as he recognizes this color as green. That is: the comprehension of the mathematical relations plays a similar role to the comprehension of identity. One could almost say that it is a more complicated kind of identity.
+He has so far calculated according to this and that rule; now someone shows him the proof that one can also calculate differently, and he switches (to the other technique) – not because he says to himself that it will also work, but because he regards the new technique as identical with the old, because he must give it the same sense, because he recognizes it as the same as he recognizes this colour as green. That is: the comprehension of the mathematical relations plays a similar role to the comprehension of identity. One could almost say that it is a more complicated kind of identity.
 
 ### [Ms-125](/ms-125/#57r.2) <span class="fac">[57r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/57r.webp)</span>
 
@@ -526,7 +526,7 @@ A person is _trapped_ in a room if the door is unlocked and opens inward, but he
 
 ### [Ms-125](/ms-125/#58r.3+58v.1) <span class="fac">[58r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58r.webp),[58v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/58v.webp)</span>
 
-<span class="series-number">38</span> When white turns to black, some people say, “It is essentially still the same.” And others, when the color becomes one shade darker, say, “It has changed _completely_.”
+<span class="series-number">38</span> When white turns to black, some people say, “It is essentially still the same.” And others, when the colour becomes one shade darker, say, “It has changed _completely_.”
 
 ### [Ms-125](/ms-125/#59v.2+60r.1) <span class="fac">[59v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/59v.webp),[60r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/60r.webp)</span>
 
@@ -556,7 +556,7 @@ Then the result is set as equivalent to the operation.
 
 ### [Ms-125](/ms-125/#61v.2+62r.1) <span class="fac">[61v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/61v.webp),[62r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/62r.webp)</span>
 
-But because they are synthetic (in this sense), they are no less a priori. One could say, that is, that they cannot be derived from the concepts by a process of analysis, but nevertheless determine a concept.
+But because they are synthetic (in this sense), they are no less a priori. One could say, that is, that they cannot be derived from the concepts by a process of analysis, but nevertheless determine a concept afterwards.
 
 ### [Ms-127](/ms-127/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-127/13.webp)</span>
 
@@ -564,7 +564,7 @@ The distribution of prime numbers would be an ideal example of what one might ca
 
 ### [Ms-125](/ms-125/#62v.1+63r.1+63v.1) <span class="fac">[62v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/62v.webp),[63r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63r.webp),[63v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63v.webp)</span>
 
-<span class="series-number">44</span> Could one not speak of intuition in mathematics? Not in the sense that a _mathem._ truth is intuitively grasped, but rather a physical or psychological one. For example, I know with _great_ certainty that I will always calculate 625 when I multiply ten times 25 by 25. That is, I know the psychological fact that this calculation will always appear correct to me; just as I know that if I write down the number sequence from 1 to 20 ten times in a row from memory, the written sequences will prove to be identical when compared. – Is this now an empirical fact? Indeed – and yet it would be difficult to specify experiments that would convince me of it. One could call such a thing an intuitively recognized _Erfahrungs_ fact.
+<span class="series-number">44</span> Could one not speak of intuition in mathematics? Not in the sense that a _mathem._ truth is intuitively grasped, but rather a physical or psychological one. For example, I know with _great_ certainty that I will always calculate 625 when I multiply 25 by 25 ten times. That is, I know the psychological fact that this calculation will always appear correct to me; just as I know that if I write down the number sequence from 1 to 20 ten times in a row from memory, the written sequences will prove to be identical when compared. – Is this now an empirical fact? Indeed – and yet it would be difficult to specify experiments that would convince me of it. One could call such a thing an intuitively recognized _Erfahrungs_ fact.
 
 ### [Ms-125](/ms-125/#63v.3) <span class="fac">[63v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/63v.webp)</span>
 
@@ -576,7 +576,7 @@ But according to what principle is something recognized as a new proof? Or rathe
 
 ### [Ms-125](/ms-125/#65r.2+65v.1) <span class="fac">[65r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/65r.webp),[65v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/65v.webp)</span>
 
-<span class="series-number">46</span> Should I now say: “We are convinced that the same result will always emerge”? No, that is not enough. We are convinced that the same calculation will always emerge, will be carried out. Is _that_ now a mathematical conviction? No – for if the same calculation were always carried out, we could not infer that the calculation yields one result one time and a different result another time.
+<span class="series-number">46</span> Should I now say: “We are convinced that the same result will always emerge”? No, that is not enough. We are convinced that the same calculation will always emerge, will be carried out. Is _that_ now a mathematical conviction? No – for if the same calculation were not always carried out, we could not infer that the calculation yields one result one time and a different result another time.
 
 ### [Ms-125](/ms-125/#65v.2) <span class="fac">[65v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/65v.webp)</span>
 
@@ -584,13 +584,13 @@ We are, of _course_, also convinced that when repeatedly calculating, we will re
 
 ### [Ms-125](/ms-125/#69r.2+69v.1) <span class="fac">[69r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69r.webp),[69v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69v.webp)</span>
 
-<span class="series-number">47</span> Could I not say: whoever does the multiplication certainly does not find the mathematical fact, but the mathematical sentence? For what he _finds_ is the non-mathematical fact, and thus the mathematical sentence. For the mathematical sentence is a definition of a concept that follows an discovery.
+<span class="series-number">47</span> Could I not say: whoever does the multiplication certainly does not find the mathematical fact, but the mathematical sentence? For what he _finds_ is the non-mathematical fact, and thus the mathematical sentence. For the mathematical sentence is a definition of a concept that follows a discovery.
 
 ### [Ms-125](/ms-125/#69v.2) <span class="fac">[69v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69v.webp)</span>
 
 ![](../graphics/125,69v.svg)
 
-You _find_ a new physiognomy. You can, for example, _memorize_ it now or copy it.
+You _find_ a new physiognomy. You can, for example, _remember_ it now or copy it.
 
 ### [Ms-125](/ms-125/#69v.3+70r.1) <span class="fac">[69v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/69v.webp),[70r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/70r.webp)</span>
 
@@ -620,7 +620,7 @@ I want to say: the working of the mathematical machine is only the _image_ of th
 
 ### [Ms-125](/ms-125/#72r.2) <span class="fac">[72r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72r.webp)</span>
 
-The _rule_ does not “work,” because whatever happens according to the rule is an interpretation of the rule.
+The _rule_ does not work, because whatever happens according to the rule is an interpretation of the rule.
 
 ### [Ms-125](/ms-125/#72r.3+72v.1) <span class="fac">[72r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72r.webp),[72v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72v.webp)</span>
 
@@ -628,11 +628,11 @@ The _rule_ does not “work,” because whatever happens according to the rule i
 
 ![](../graphics/125,72r.svg)
 
-in the image before me; this helps me arrive at a proposition that I, as it were, read from this image. The proposition contains the word “approximately” and is a proposition of geometry.
+in the image before me; this helps me arrive at a sentence that I, as it were, read from this image. The sentence contains the word “approximately” and is a proposition of geometry.
 
 ### [Ms-125](/ms-125/#72v.2) <span class="fac">[72v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72v.webp)</span>
 
-It is strange that I am supposed to be able to read a proposition from an _image_.
+It is strange that I am supposed to be able to read a sentence from an _image_.
 
 ### [Ms-125](/ms-125/#72v.3) <span class="fac">[72v\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/72v.webp)</span>
 
@@ -644,7 +644,7 @@ But could I also produce other drawings of the movement of the mechanism if its 
 
 ### [Ms-125](/ms-125/#73r.2+73v.1) <span class="fac">[73r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/73r.webp),[73v\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/73v.webp)</span>
 
-Let us imagine that the construction of the stages of the mechanism is carried out with strokes of alternating colors. Some of the strokes are black on a white background, some white on a black background. Imagine the constructions in Euclid carried out in this way; they will lose all appearance.
+Let us imagine that the construction of the stages of the mechanism is carried out with strokes of alternating colours. Some of the strokes are black on a white background, some white on a black background. Imagine the constructions in Euclid carried out in this way; they will lose all appearance.
 
 ### [Ms-125](/ms-125/#73v.2) <span class="fac">[73v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-125/73v.webp)</span>
 
@@ -776,4 +776,4 @@ The self-contradictory sentence would stand like a monument (with a Janus head) 
 
 ### [Ms-121](/ms-121/#74v.2+75r.1) <span class="fac">[74v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/74v.webp),[75r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-121/75r.webp)</span>
 
-<span class="series-number">60</span> It is not a misfortune to create a contradiction in the region where neither the non-contradictory nor the contradictory sentence has anything to do; but it is a misfortune not to know when one has entered this region where the contradiction no longer harms.
+<span class="series-number">60</span> It is not a misfortune to create a contradiction in the region where neither the non-contradictory nor the contradictory sentence has any work to do; but it is a misfortune not to know when one has entered this region where the contradiction no longer harms.
