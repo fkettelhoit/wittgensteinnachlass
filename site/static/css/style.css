@@ -4,27 +4,27 @@
 
 @font-face {
   font-family: "TeX Gyre Pagella";
-  src: url("/fonts/tex-gyre/texgyrepagella-regular.otf") format("opentype");
+  src: url("/fonts/tex-gyre/texgyrepagella-regular.woff2") format("woff2");
   font-display: swap;
 }
 
 @font-face {
   font-family: "TeX Gyre Pagella";
-  src: url("/fonts/tex-gyre/texgyrepagella-italic.otf") format("opentype");
+  src: url("/fonts/tex-gyre/texgyrepagella-italic.woff2") format("woff2");
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
   font-family: "TeX Gyre Pagella";
-  src: url("/fonts/tex-gyre/texgyrepagella-bold.otf") format("opentype");
+  src: url("/fonts/tex-gyre/texgyrepagella-bold.woff2") format("woff2");
   font-weight: 700;
   font-display: swap;
 }
 
 @font-face {
   font-family: "TeX Gyre Pagella";
-  src: url("/fonts/tex-gyre/texgyrepagella-bolditalic.otf") format("opentype");
+  src: url("/fonts/tex-gyre/texgyrepagella-bolditalic.woff2") format("woff2");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
