@@ -30,7 +30,7 @@
 <main>
   {{ $c := partial "en-links.html" (partial "doc-format-links.html" .Content) }}
   {{ $switcher := printf `</span></h1>%s<p class="lang-switcher"><a class="switch" href="/%s/">German</a>%s | <span class="switch" aria-current="page">German/English</span></p>%s` (partial "doc-description.html" .) (.File.ContentBaseName | urlize) (partial "downloads.html" .) (partial "edition-note.html" .) }}
-  {{ $c = replaceRE `(<h1[^>]*>)` (printf `${1}%s<br><span class="en-title">` .Title) $c 1 }}
+  {{ $c = replaceRE `(<h1[^>]*>)` (printf `${1}<span lang="de">%s</span><br><span class="en-title">` .Title) $c 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ partial "viz-lightbox.html" $c | safeHTML }}
 </main>

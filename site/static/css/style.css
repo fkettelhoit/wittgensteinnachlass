@@ -163,6 +163,9 @@ h1,
 h2 {
   font-family: var(--font-heading);
   font-weight: 400;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  hyphenate-limit-chars: 10 4 4;
 }
 
 h1 {
@@ -275,7 +278,7 @@ button {
 
 .switch {
   line-height: 1; /* with the padding, the peach's box is a matched term's (mark) */
-  padding: 0.3em 0;
+  padding: 0.2em 0;
   white-space: nowrap;
   color: var(--color-text);
 
@@ -1267,7 +1270,7 @@ body:has(.search-map:not([hidden])) {
   & mark {
     background-color: var(--color-highlight);
     color: var(--color-text);
-    padding-block: 0.3em;
+    padding-block: 0.2em;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
   }
