@@ -6,7 +6,24 @@
 {{- /* A page with remarks (### headings), with or without facsimiles; the others (the
   overviews of works in several parts) have just their title and list of parts. */}}
 {{ $hasRemarks := findRE `(?m)^### ` .RawContent 1 }}
-{{ if $hasRemarks }}
+{{- /* A document with nothing to translate (written in English: Ts-309, W-BBB, …) has no
+  English column (tools/merge_bilingual.py): it is shown like its German page, but with
+  the English title under the German one if they differ, and with links to the
+  German/English pages, so that readers stay in the translation. */}}
+{{ $translated := findRE `<div class="en"` .RawContent 1 }}
+{{ if and $hasRemarks (not $translated) }}
+<main>
+  {{ $c := partial "en-links.html" (partial "doc-format-links.html" .Content) }}
+  {{ $enTitle := "" }}
+  {{ if and .Params.entitle (ne .Params.entitle .Title) }}
+    {{ $enTitle = printf `<br><span class="en-title">%s</span>` .Params.entitle }}
+  {{ end }}
+  {{ $switcher := printf `%s</h1>%s<p class="lang-switcher"><a class="switch" href="/%s/">German</a>%s | <span class="switch" aria-current="page">German/English</span></p>%s` $enTitle (partial "doc-description.html" .) (.File.ContentBaseName | urlize) (partial "downloads.html" .) (partial "edition-note.html" .) }}
+  {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
+  {{ $c = replace $c "</h1>" $switcher 1 }}
+  {{ partial "remarks.html" (dict "c" $c "page" .) | safeHTML }}
+</main>
+{{ else if $hasRemarks }}
 <main>
   {{ $c := partial "en-links.html" (partial "doc-format-links.html" .Content) }}
   {{ $enTitle := "" }}

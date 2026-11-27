@@ -8,6 +8,12 @@ Blank lines around div tags are required for Goldmark to process markdown inside
 The links to other versions of a remark (tools/add_versions.py), which open the German
 remark body, are kept between the heading and the two columns, as in the German
 document, so that the layout moves them into the margin in the same way.
+
+A remark whose English is the German (written in English, a formula, a number, Latin)
+gets no English column: it is shown once, in the German column. A document whose
+remarks are all like that (Ts-309, W-BBB, …) is written as the German document, which
+layouts/_default/bilingual.html then shows like the German page (one column), but with
+links to the German/English pages.
 """
 
 import re
@@ -47,6 +53,19 @@ def main():
         sys.stdout.write(en_text.rstrip("\n") + "\n")
         return
 
+    def body(sec):
+        lines = sec.split("\n", 1)
+        b = lines[1].strip() if len(lines) > 1 else ""
+        nav = VERSIONS_NAV.match(b + "\n")
+        return b[nav.end():].strip() if nav else b
+
+    # Nothing translated: the German document as it is.
+    if len(de_sections) == len(en_sections) and all(
+        body(de) == body(en) for de, en in zip(de_sections, en_sections)
+    ):
+        sys.stdout.write(de_text.rstrip("\n") + "\n")
+        return
+
     # Output the German preamble: title line first, then any remaining
     # preamble content (e.g. <details> with viz) wrapped in a .de div
     preamble_lines = de_preamble.rstrip("\n").split("\n")
@@ -82,7 +101,8 @@ def main():
         if nav:
             sys.stdout.write(f"{nav.group(0)}\n")
         sys.stdout.write(f'<div class="de" lang="de">\n\n{de_body}\n\n</div>\n')
-        sys.stdout.write(f'<div class="en" lang="en">\n\n{en_body}\n\n</div>\n')
+        if en_body != de_body or not en_sec:
+            sys.stdout.write(f'<div class="en" lang="en">\n\n{en_body}\n\n</div>\n')
 
 
 if __name__ == "__main__":

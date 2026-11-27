@@ -11,7 +11,9 @@
   <link rel="icon" type="image/png" sizes="any" href="/favicon-dark.png" media="(prefers-color-scheme: dark)">
   <script data-goatcounter="https://fredkettelhoit.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
-<body{{ if eq .Params.layout "bilingual" }}{{ if findRE `(?m)^### ` .RawContent 1 }} class="bilingual"{{ else }} class="overview"{{ end }}{{ end }}>
+{{- /* German/English pages: two columns where there is English (tools/merge_bilingual.py);
+  a document with nothing to translate is laid out like its German page. */}}
+<body{{ if eq .Params.layout "bilingual" }}{{ if findRE `<div class="en"` .RawContent 1 }} class="bilingual"{{ else if not (findRE `(?m)^### ` .RawContent 1) }} class="overview"{{ end }}{{ end }}>
   {{ block "main" . }}{{ end }}
   <script src="/js/tour.js" defer></script>
 </body>
