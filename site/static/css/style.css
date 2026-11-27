@@ -1746,7 +1746,7 @@ main [id] {
   padding: 0.5rem;
   background: var(--color-bg);
   border: var(--bubble-line);
-  box-shadow: 0 0.5rem 2rem color-mix(in srgb, var(--color-shade) 25%, transparent);
+  box-shadow: 0 0.25rem 0.75rem color-mix(in srgb, var(--color-shade) 12%, transparent);
   line-height: 1.5rem;
 
   /* #444 in light mode, #a9a9a9 in dark mode. */
