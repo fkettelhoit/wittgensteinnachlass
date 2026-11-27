@@ -123,17 +123,24 @@ fn remark_blocks(content: &str) -> Vec<(String, Vec<&str>)> {
     blocks
 }
 
-/// Pull the linked facsimile labels, their image URLs and the heading id out of a
-/// heading's `<span class="fac">`. Returns `(page_refs, image_urls, fragment)` with
-/// brackets unescaped for display.
+/// Pull the facsimile labels, the image URLs of the linked ones and the heading id out
+/// of a heading's `<span class="fac">`. Returns `(page_refs, image_urls, fragment)` with
+/// brackets unescaped for display. Every label counts, linked or not: a page without a
+/// facsimile is plain text (`XVIII-134-1\[1\],[XVIII-134-2\[1\]](url)`), as tools/similar
+/// and the site's heading ids read them.
 fn parse_fac(heading: &str, res: &Res) -> (Vec<String>, Vec<String>, String) {
     let mut refs = Vec::new();
     let mut urls = Vec::new();
     let mut fragment = String::new();
     if let Some(span) = res.fac_span.captures(heading) {
-        for cap in res.link.captures_iter(&span[1]) {
-            refs.push(slug::unescape_label(&cap[1]));
-            urls.push(cap[2].to_string());
+        for label in span[1].split(',') {
+            match res.link.captures(label) {
+                Some(cap) if label.starts_with('[') => {
+                    refs.push(slug::unescape_label(&cap[1]));
+                    urls.push(cap[2].to_string());
+                }
+                _ => refs.push(slug::unescape_label(label)),
+            }
         }
         fragment = slug::remark_id(&span[1]);
     }
@@ -340,6 +347,21 @@ Nach meinem Tod zu senden
         let (_, remarks) = parse_file(doc, &res).unwrap();
         assert_eq!(remarks[0].series_number.as_deref(), Some("1˙1"));
         assert_eq!(remarks[0].content, "Die Welt ist die Gesamtheit der Tatsachen.");
+    }
+
+    #[test]
+    fn reads_labels_without_facsimile() {
+        // Pages without a facsimile are plain-text labels; a remark with only such labels
+        // is still indexed.
+        let res = Res::new();
+        let doc = "# Ts-212\n\n### <span class=\"fac\">XVIII-134-1\\[1\\],[XVIII-134-2\\[1\\]](https://cdn/Ts-212/XVIII-134-2.webp)</span>\n\na\n\n### <span class=\"fac\">I-1-9v\\[1\\]</span>\n\nb\n";
+        let (_, remarks) = parse_file(doc, &res).unwrap();
+        assert_eq!(remarks.len(), 2);
+        assert_eq!(remarks[0].page_refs, vec!["XVIII-134-1[1]", "XVIII-134-2[1]"]);
+        assert_eq!(remarks[0].image_url.as_deref(), Some("https://cdn/Ts-212/XVIII-134-2.webp"));
+        assert_eq!(remarks[0].fragment, "xviii-134-1-1--xviii-134-2-1");
+        assert_eq!(remarks[1].page_refs, vec!["I-1-9v[1]"]);
+        assert_eq!(remarks[1].image_url, None);
     }
 
     #[test]

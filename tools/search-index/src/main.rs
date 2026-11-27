@@ -27,15 +27,15 @@ struct Cli {
     en_dir: PathBuf,
 
     /// Meilisearch instance URL, e.g. https://ms-xxxx.meilisearch.io
-    #[arg(long, env = "MEILI_HOST")]
+    #[arg(long, env = "MEILI_HOST", hide_env_values = true)]
     meili_host: Option<String>,
 
     /// Meilisearch admin (write) API key.
-    #[arg(long, env = "MEILI_ADMIN_KEY")]
+    #[arg(long, env = "MEILI_ADMIN_KEY", hide_env_values = true)]
     meili_key: Option<String>,
 
     /// Index name prefix; the live index is `<prefix>` and the build index `<prefix>-build`.
-    #[arg(long, env = "MEILI_INDEX_PREFIX", default_value = "remarks")]
+    #[arg(long, env = "MEILI_INDEX_PREFIX", hide_env_values = true, default_value = "remarks")]
     index_prefix: String,
 
     /// The Nachlass Map's data (written by tools/map/map.py, run by `make content`), for the
@@ -366,4 +366,33 @@ fn report(records: &[SearchRecord]) {
 fn fail(msg: &str) -> ! {
     eprintln!("error: {msg}");
     exit(1);
+}
+
+#[cfg(test)]
+mod help_tests {
+    use super::Cli;
+    use clap::CommandFactory;
+
+    /// `--help` must never print values taken from the environment: `.env` (loaded with
+    /// dotenvy) holds API keys, and clap shows an `env = …` argument's current value in
+    /// its help unless `hide_env_values` is set.
+    #[test]
+    fn help_never_shows_env_values() {
+        fn check(cmd: &clap::Command) {
+            for arg in cmd.get_arguments() {
+                if arg.get_env().is_some() {
+                    assert!(
+                        arg.is_hide_env_values_set(),
+                        "{} {}: set hide_env_values = true",
+                        cmd.get_name(),
+                        arg.get_id()
+                    );
+                }
+            }
+            for sub in cmd.get_subcommands() {
+                check(sub);
+            }
+        }
+        check(&Cli::command());
+    }
 }

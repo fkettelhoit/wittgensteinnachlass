@@ -119,7 +119,7 @@ enum Command {
         translated: PathBuf,
 
         /// DeepL API key (or set DEEPL_API_KEY env var)
-        #[arg(long, env = "DEEPL_API_KEY")]
+        #[arg(long, env = "DEEPL_API_KEY", hide_env_values = true)]
         deepl_key: String,
 
         /// Path to a glossary file (defaults to glossary.md)
@@ -319,4 +319,33 @@ fn migrate_headings(input: &std::path::Path, translated: &std::path::Path) {
         "\nDone. Updated {} heading(s) across {} file(s).",
         headings_updated, files_updated
     );
+}
+
+#[cfg(test)]
+mod help_tests {
+    use super::Cli;
+    use clap::CommandFactory;
+
+    /// `--help` must never print values taken from the environment: `.env` (loaded with
+    /// dotenvy) holds API keys, and clap shows an `env = …` argument's current value in
+    /// its help unless `hide_env_values` is set.
+    #[test]
+    fn help_never_shows_env_values() {
+        fn check(cmd: &clap::Command) {
+            for arg in cmd.get_arguments() {
+                if arg.get_env().is_some() {
+                    assert!(
+                        arg.is_hide_env_values_set(),
+                        "{} {}: set hide_env_values = true",
+                        cmd.get_name(),
+                        arg.get_id()
+                    );
+                }
+            }
+            for sub in cmd.get_subcommands() {
+                check(sub);
+            }
+        }
+        check(&Cli::command());
+    }
 }

@@ -43,9 +43,9 @@ The site is built for one of two Hugo environments: **production** hides the not
 - **`make serve`** -- live local preview with auto-reload, using the staging environment (translations visible). Add `ENV=production` (`make serve ENV=production`) to preview the production layouts (translations hidden).
 - **`make deploy`** -- rebuilds Hugo content, runs a production Hugo build, and deploys via `tools/deploy_site.sh`. Does _not_ regenerate assets -- run `make production` first if covers, ebooks, or PDFs changed.
 - **`make production deploy`** -- full rebuild followed by deployment.
-- **`make similar`** -- recomputes the textually similar remarks in `similar/similar.tsv` (no LLM, takes a few seconds). Run after the German sources changed and commit the result.
+- **`make similar`** -- recomputes the textually similar remarks in `similar/similar.tsv` (no LLM, takes a few seconds). Generated, not committed: `make content` and `make viz` run it first, so the version links and visualizations always match `md/`.
 
-Pushing to `main` triggers `.github/workflows/deploy.yml`, which regenerates everything from source and deploys to the Bunny CDN. Generated artifacts (`covers/`, `viz/`, `epub/`, `pdf/`, `graphics-cropped/`, `site/content`, `site/public`) are not committed. The deploy is gated by `make check` and the licensed SangBleu fonts are pulled read-only from the CDN at build time, never overwritten by the deploy.
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which regenerates everything from source and deploys to the Bunny CDN. Generated artifacts (`covers/`, `viz/`, `epub/`, `pdf/`, `graphics-cropped/`, `similar/similar.tsv`, `site/content`, `site/public`) are not committed. The deploy is gated by `make check` and the licensed SangBleu fonts are pulled read-only from the CDN at build time, never overwritten by the deploy.
 
 Translations require [Ollama](https://ollama.com/) running locally. The translate tool uses git history to detect which German remarks changed since the last translation.
 

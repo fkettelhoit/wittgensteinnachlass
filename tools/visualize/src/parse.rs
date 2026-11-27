@@ -35,7 +35,7 @@ pub enum RemarkBreak {
 pub struct SourceDoc {
     pub anchors: Vec<String>,
     /// Bergen-style siglum of each remark (`Ms-115,118[2]et119[1]`), as assigned by
-    /// tools/similar: repeated sigla get `-2`, `-3`, … in document order.
+    /// tools/similar (unique within a document).
     pub sigla: Vec<String>,
     /// For each remark (except the first), what kind of break precedes it.
     pub breaks: Vec<RemarkBreak>,
