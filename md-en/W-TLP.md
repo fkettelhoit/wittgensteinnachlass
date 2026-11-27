@@ -1,3 +1,12 @@
+# Tractatus Logico-Philosophicus
+
+<details>
+
+<summary>1918–1919, 537 remarks, Ts-204, Ts-203, Ts-202</summary>
+
+<img class="viz" src="/viz/W-TLP.svg">
+
+</details>
 
 ### [Ts-204](/ts-204/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/1r.webp)</span>
 
