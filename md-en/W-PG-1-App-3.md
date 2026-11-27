@@ -10,52 +10,52 @@
 
 ### [Ts-214c1](/ts-214c1/#13.1) <span class="fac">[13\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)</span>
 
-## Gegenstand.
+## Object.
 
 ### [Ts-214c1](/ts-214c1/#13.2) <span class="fac">[13\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)</span>
 
-“Ein Gegenstand läßt sich, in gewissem Sinne, nicht beschreiben” (auch bei Plato: “er kann nicht beschrieben [erklärt] werden, sondern nur benannt”). Mit “Gegenstand” meint man hier “Bedeutung eines nicht weiter definierbaren Wortes” und mit “Beschreibung” oder “Erklärung” eigentlich: Definition. Denn, daß der Gegenstand ‘von außen beschrieben werden’ kann, daß ihm etwa Eigenschaften beigelegt werden können, wird natürlich nicht geleugnet.
+“An object cannot, in a certain sense, be described” (also in Plato: “it cannot be described [explained], but only named”). By “object” one means here “meaning of a word that cannot be defined any further”, and by “description” or “explanation” one really means: definition. For of course it is not denied that the object can be ‘described from outside’, that properties, for instance, can be ascribed to it.
 
 ### [Ts-214c1](/ts-214c1/#13.3) <span class="fac">[13\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)</span>
 
-Wir denken also bei einem Satz, wie dem oberen, an einen Kalkül mit undefinierbaren – aber richtig gesagt, undefinierten – Zeichen, den Namen, und sagen von ihnen, daß sie nicht erklärt werden können.
+So when we consider a sentence like the one above, we think of a calculus with indefinable – or, more correctly, undefined – signs, the names, and say of them that they cannot be explained.
 
 ### [Ts-214c1](/ts-214c1/#13.4) <span class="fac">[13\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp)</span>
 
-“Was ein Wort bedeutet, kann man nicht sagen”.
+“One cannot say what a word means”.
 
 ### [Ts-214c1](/ts-214c1/#13.5+14.1) <span class="fac">[13\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/13.webp),[14\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Wie unterscheidet sich denn blau von rot? Wir meinen doch nicht, daß das eine die, das andere jene Eigenschaften hat. Übrigens sind Eigenschaften von Blau und Rot, daß dieser Körper (oder Ort) blau, jener rot ist.
+How, then, does blue differ from red? Surely we do not mean that one has these properties and the other those. Incidentally, among the properties of blue and red are that this body (or place) is blue and that that one is red.
 
 ### [Ts-214c1](/ts-214c1/#14.2) <span class="fac">[14\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Auf die Frage “welcher Unterschied ist denn zwischen blau und rot” möchte man antworten: das eine ist blau, das andere rot. Aber das heißt natürlich nichts und man denkt hier in Wirklichkeit an den Unterschied der Flächen oder Örter, die diese Farben haben. _Sonst nämlich_ hat die Frage _überhaupt_ keinen Sinn.
+To the question “What difference is there between blue and red?” one would like to answer: one is blue, the other red. But of course that means nothing, and what one is really thinking of here is the difference between the surfaces or places that have these colours. _For otherwise_ the question has no sense _at all_.
 
 ### [Ts-214c1](/ts-214c1/#14.3) <span class="fac">[14\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Vergleiche dagegen: Wie unterscheidet sich Orange von Rosa? Das eine ist eine Mischung von Gelb und Rot, das andre von Weiß und Rot. Und man kann dem entsprechend sagen: Blau entsteht aus Purpur, indem dieses immer bläulicher wird, Rot, wenn es immer rötlicher wird.
+Compare, by contrast: How does orange differ from pink? One is a mixture of yellow and red, the other of white and red. And one can correspondingly say: blue comes from purple as it becomes bluer and bluer, red as it becomes redder and redder.
 
 ### [Ts-214c1](/ts-214c1/#14.4) <span class="fac">[14\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Was ich sage heißt also: Rot kann man nicht beschreiben. Aber kann man es denn nicht malerisch darstellen, indem man etwas rot malt?
+So what I am saying amounts to this: one cannot describe red. But can one not represent it in a painting by painting something red?
 
 ### [Ts-214c1](/ts-214c1/#14.5) <span class="fac">[14\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Nein, das ist keine malerische Darstellung der Bedeutung des Wortes ‘rot’ (_die_ gibt es nicht). Das Porträt von Rot.
+No, that is not a painterly representation of the meaning of the word ‘red’ (there is no _such thing_). The portrait of red.
 
 ### [Ts-214c1](/ts-214c1/#14.6) <span class="fac">[14\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Aber jedenfalls ist es doch nicht Zufall, daß man zur Erklärung der Bedeutung des Wortes ‘rot’ _naturgemäß_ auf einen roten Gegenstand zeigt!
+But in any case it is surely no accident that, in explaining the meaning of the word ‘red’, one _quite naturally_ points to a red object!
 
 ### [Ts-214c1](/ts-214c1/#14.7) <span class="fac">[14\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-(Was daran natürlich ist, ist in diesem Satze dargestellt durch das zweimalige _Vorkommen_ des Wortes ‘rot’.)
+(What is natural about it is represented in this sentence by the two _occurrences_ of the word ‘red’.)
 
 ### [Ts-214c1](/ts-214c1/#14.8) <span class="fac">[14\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/14.webp)</span>
 
-Und zu sagen Blau liege auf der bläulichen Seite von Blaurot und Rot auf der rötlichen, ist ein Satz der Grammatik und ist also einer Definition verwandt. Und man kann ja auch sagen: bläulicher = dem Blau ähnlicher.
+And to say that blue lies on the bluish side of blue-red and red on the reddish side is to utter a sentence of grammar, one which is thus akin to a definition. And one can also say: bluer = more like blue.
 
 ### [Ts-214c1](/ts-214c1/#15.1) <span class="fac">[15\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214c1/15.webp)</span>
 
-“Wer die Farbe Grün einen Gegenstand nennt, muß sagen, daß dieser Gegenstand im Symbolismus vorkommt. Denn sonst wäre der Sinn des Symbolismus also daß es ein Symbolismus ist, nicht gewährleistet.” Aber was ist damit von Grün oder dem Wort “Grün” ausgesagt? ((Dieser Satz bezieht sich auf eine bestimmte Auffassung der Beziehung des Bedeutens und auf eine bestimmte Fragestellung, diese Beziehung betreffend.))
+“Anyone who calls the colour green an object must say that this object occurs in the symbolism. For otherwise the sense of the symbolism, that is, its being a symbolism, would not be assured.” But what does this state about green or the word “green”? ((This sentence refers to a particular conception of the relation of meaning and to a particular way of posing the question about this relation.))

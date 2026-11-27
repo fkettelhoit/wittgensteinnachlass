@@ -42,7 +42,8 @@ pub fn run(args: &CheckArgs) {
     let allow_words = load_allow_words(Path::new("."));
 
     // Document order from all.md (works are assembled from these docs, so checking the
-    // docs covers the works' content too).
+    // docs covers the works' content too, provided the works are assembled from them:
+    // see `check_works` below).
     let index_path = args.input.join("all.md");
     let docs = if index_path.exists() {
         let index_content = std::fs::read_to_string(&index_path).expect("Failed to read all.md");
@@ -140,6 +141,7 @@ pub fn run(args: &CheckArgs) {
     }
 
     let formulas = stale_formulas(&args.input, &args.translated);
+    let (work_missing, works_outdated) = check_works(&args.input, &args.translated);
 
     // Report.
     if !untranslated_docs.is_empty() {
@@ -149,7 +151,12 @@ pub fn run(args: &CheckArgs) {
             untranslated_docs.join(", ")
         );
     }
-    let broken = !missing.is_empty() || !stale.is_empty() || !issues.is_empty() || !formulas.is_empty();
+    let broken = !missing.is_empty()
+        || !stale.is_empty()
+        || !issues.is_empty()
+        || !formulas.is_empty()
+        || !work_missing.is_empty()
+        || !works_outdated.is_empty();
     if !missing.is_empty() {
         eprintln!("\nMissing translations ({}):", missing.len());
         for m in &missing {
@@ -183,17 +190,78 @@ pub fn run(args: &CheckArgs) {
         }
     }
 
+    if !work_missing.is_empty() {
+        eprintln!(
+            "\nWork remarks whose document is translated but that the assembly can't find in \
+             it, so the work keeps the German ({}):",
+            work_missing.len()
+        );
+        for w in &work_missing {
+            println!("WORK-MISSING {}", w);
+        }
+    }
+    if !works_outdated.is_empty() {
+        eprintln!(
+            "\nWorks that differ from a fresh assembly from the documents' translations \
+             (run `make fix`) ({}):",
+            works_outdated.len()
+        );
+        for w in &works_outdated {
+            println!("WORK-OUTDATED {}", w);
+        }
+    }
+
     if broken {
         eprintln!(
-            "\nBuild is broken: {} missing, {} stale, {} quality issue(s), {} outdated formula(s).",
+            "\nBuild is broken: {} missing, {} stale, {} quality issue(s), {} outdated formula(s), \
+             {} work remark(s) not assembled, {} outdated work(s).",
             missing.len(),
             stale.len(),
             issues.len(),
-            formulas.len()
+            formulas.len(),
+            work_missing.len(),
+            works_outdated.len()
         );
         std::process::exit(1);
     }
     eprintln!("All English translations present, up to date, and verified.");
+}
+
+/// The translated works (`md-en/W-*.md`), assembled anew from the documents' translations
+/// as `make fix` does: the remarks the assembly kept in German although their document has
+/// an English file (`W-PR.md:ts-214a1#1.1`), and the works whose file differs from the
+/// fresh assembly (edited by hand, or not reassembled since a document changed).
+fn check_works(input: &Path, translated: &Path) -> (Vec<String>, Vec<String>) {
+    let url_map = build_remark_url_map(translated, input);
+    let work_titles = std::fs::read_to_string(input.join("all.md"))
+        .map(|c| parse_work_titles(&c))
+        .unwrap_or_default();
+    let base_titles = build_base_titles(&work_titles, input);
+    let mut works: Vec<String> = std::fs::read_dir(translated)
+        .expect("Failed to read translated dir")
+        .filter_map(|e| e.ok()?.file_name().into_string().ok())
+        .filter(|name| name.starts_with("W-") && name.ends_with(".md"))
+        .collect();
+    works.sort();
+    let (mut missing, mut outdated) = (Vec::new(), Vec::new());
+    for work in works {
+        let Ok(de) = std::fs::read_to_string(input.join(&work)) else { continue };
+        let assembled = assemble_work_text(&de, &url_map, &base_titles);
+        for heading in &assembled.missing {
+            match parse_work_heading(heading) {
+                Some((doc, anchor)) if translated.join(format!("{doc}.md")).exists() => {
+                    missing.push(format!("{work}:{doc}#{anchor}"))
+                }
+                Some(_) => {} // the document isn't translated yet
+                None => missing.push(format!("{work}:{heading}")),
+            }
+        }
+        let en = std::fs::read_to_string(translated.join(&work)).expect("Failed to read English work");
+        if en != assembled.text {
+            outdated.push(work);
+        }
+    }
+    (missing, outdated)
 }
 
 /// Formulas (math blocks: rendered LaTeX images, inline graphics, legacy MathML) that an

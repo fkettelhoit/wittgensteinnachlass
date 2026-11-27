@@ -796,7 +796,7 @@ pub fn expand_work_parts(works: &[String], input_dir: &Path) -> Vec<String> {
 /// Work headings look like `### [Ms-172](/ms-172/#...): ...`
 pub fn work_source_docs(work_path: &Path) -> Vec<String> {
     let content = fs::read_to_string(work_path).expect("Failed to read work file");
-    let re = Regex::new(r"^### \[([A-Za-z]+-\d+[a-z]*)\]").unwrap();
+    let re = Regex::new(r"^### \[([A-Za-z]+-\d+[a-z0-9]*)\]").unwrap();
     let mut seen = std::collections::HashSet::new();
     let mut docs = Vec::new();
     for line in content.lines() {
@@ -854,8 +854,9 @@ pub fn anchor_from_doc_heading(heading: &str) -> String {
 
 /// Extract doc name and anchor from a work remark heading.
 /// E.g., `### [Ms-172](/ms-172/#1.1): ...` → `("Ms-172", "1.1")`
-fn parse_work_heading(heading: &str) -> Option<(String, String)> {
-    let re = Regex::new(r"^### \[([A-Za-z]+-\d+[a-z]*)\]\(/[^)]+/#([^)]+)\)").unwrap();
+pub fn parse_work_heading(heading: &str) -> Option<(String, String)> {
+    // Document names like Ms-139a, Ts-214a1 (letters and digits after the number).
+    let re = Regex::new(r"^### \[([A-Za-z]+-\d+[a-z0-9]*)\]\(/[^)]+/#([^)]+)\)").unwrap();
     re.captures(heading)
         .map(|cap| (cap[1].to_string(), cap[2].to_string()))
 }
@@ -989,8 +990,43 @@ pub fn assemble_work(
     base_titles: &[(String, String)],
 ) -> usize {
     let content = fs::read_to_string(work_german_path).expect("Failed to read work file");
-    let (preamble, remarks) = parse_document(&content);
     let stem = work_german_path.file_name().unwrap().to_string_lossy();
+    let assembled = assemble_work_text(&content, url_map, base_titles);
+    for heading in &assembled.missing {
+        eprintln!(
+            "  {} remark {}: no translated doc remark found, keeping German",
+            stem,
+            heading.chars().take(60).collect::<String>()
+        );
+    }
+    for heading in &assembled.series_dropped {
+        eprintln!(
+            "  {} remark {}: paragraphs differ from the German work, mid-remark series numbers dropped",
+            stem,
+            heading.chars().take(60).collect::<String>()
+        );
+    }
+    fs::write(output_path, &assembled.text).expect("Failed to write work output file");
+    assembled.missing.len()
+}
+
+/// A work assembled from the documents' translations (see `assemble_work_text`).
+pub struct AssembledWork {
+    pub text: String,
+    /// Headings of the work remarks with no translated document remark (kept in German).
+    pub missing: Vec<String>,
+    /// Headings of the work remarks whose mid-remark series numbers had to be dropped.
+    pub series_dropped: Vec<String>,
+}
+
+/// The English work for the German work `content`, without writing it: `assemble_work`
+/// writes it, `check` compares it with the work file and reports the missing remarks.
+pub fn assemble_work_text(
+    content: &str,
+    url_map: &HashMap<String, String>,
+    base_titles: &[(String, String)],
+) -> AssembledWork {
+    let (preamble, remarks) = parse_document(content);
 
     // Translate the preamble title to English (and, for overview pages, the part
     // links). The English title is resolved from this work's German `# H1` via the
@@ -1010,9 +1046,7 @@ pub fn assemble_work(
         preamble.push('\n');
     }
 
-    let mut missing = 0;
-    let mut file = fs::File::create(output_path).expect("Failed to create work output file");
-    write!(file, "{}", preamble).expect("Failed to write preamble");
+    let mut out = AssembledWork { text: preamble, missing: Vec::new(), series_dropped: Vec::new() };
 
     for remark in &remarks {
         let key = parse_work_heading(&remark.heading)
@@ -1022,28 +1056,18 @@ pub fn assemble_work(
         let translated_body = if let Some(doc_body) = url_map.get(&key) {
             let (body, placed) = work_series_numbers(&remark.body, doc_body);
             if !placed {
-                eprintln!(
-                    "  {} remark {}: paragraphs differ from the German work, mid-remark series numbers dropped",
-                    stem,
-                    remark.heading.chars().take(60).collect::<String>()
-                );
+                out.series_dropped.push(remark.heading.clone());
             }
             body
         } else {
-            missing += 1;
-            eprintln!(
-                "  {} remark {}: no translated doc remark found, keeping German",
-                stem,
-                remark.heading.chars().take(60).collect::<String>()
-            );
+            out.missing.push(remark.heading.clone());
             remark.body.clone()
         };
 
-        write!(file, "\n{}\n\n{}\n", remark.heading, translated_body)
-            .expect("Failed to write remark");
+        out.text.push_str(&format!("\n{}\n\n{}\n", remark.heading, translated_body));
     }
 
-    missing
+    out
 }
 
 /// The translated doc body with the German work's series numbers.

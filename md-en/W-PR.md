@@ -18,83 +18,83 @@ Et multi ante nos vitam istam agentes, praestruxerant aerumnosas vias, per quas 
 
 ### [Ts-214a1](/ts-214a1/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)</span>
 
-## Komplex und Tatsache.
+## Complex and fact.
 
 ### [Ts-214a1](/ts-214a1/#1.2) <span class="fac">[1\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)</span>
 
-Der Gebrauch des Wortes “Tatsache” und “Tat”. – “Das war eine edle Tat”. – “Aber das ist ja nie geschehen.” – Es liegt nahe, das Wort “Tat” so gebrauchen zu wollen, daß es nur dem _wahren_ Satz entspricht. Man redet dann also nicht von einer Tat, die nie getan wurde. Aber der Satz “das war eine edle Tat” muß doch seinen Sinn behalten, auch wenn ich mich darin irre, daß geschehen ist, was ich die Tat nenne. Und darin liegt bereits alles Wichtige und ich kann nur die Bestimmung treffen, daß ich die Wörter “Tat”, “Tatsache”, (etwa auch “Ereignis”) nur in einem Satz verwenden werde, der komplett, das Bestehen dieser behauptet.
+The use of the words “fact” and “deed”. – “That was a noble deed”. – “But that never happened.” – It is tempting to want to use the word “deed” in such a way that it corresponds only to the _true_ sentence. So one does not then speak of a deed that was never done. But surely the sentence “that was a noble deed” must retain its sense even if I am mistaken in thinking that what I call the deed happened. And that already contains everything important, and I can only stipulate that I shall use the words “deed”, “fact”, (and perhaps “event” too) only in a sentence which, taken as a whole, asserts that this obtains.
 
 ### [Ts-214a1](/ts-214a1/#1.3) <span class="fac">[1\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)</span>
 
-Es wäre besser, die Einschränkung in dem Gebrauch dieser Wörter fallen zu lassen, da sie nur irreführend wirkt, und ruhig zu sagen “diese Tat ist nicht begangen worden”, “diese Tatsache besteht nicht”, “dieses Ereignis ist nicht eingetreten”.
+It would be better to drop the restriction on the use of these words, since it only misleads, and simply to say “this deed was not done”, “this fact does not obtain”, “this event did not occur”.
 
 ### [Ts-214a1](/ts-214a1/#1.4) <span class="fac">[1\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/1.webp)</span>
 
-Komplex ist nicht gleich Tatsache. Denn von einem Komplex sage ich z.B., er bewege sich von einem Ort zum andern, aber nicht von einer Tatsache. Daß aber dieser Komplex sich jetzt dort befindet, ist eine Tatsache.
+A complex is not the same as a fact. For I say of a complex, for example, that it moves from one place to another, but I do not say this of a fact. But that this complex is now there is a fact.
 
 ### [Ts-214a1](/ts-214a1/#2.1) <span class="fac">[2\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp)</span>
 
-“Dieser Gebäudekomplex wird eingerissen” heißt so viel wie “die Gebäude, die so beisammenstehen, werden eingerissen”
+“This complex of buildings is being demolished” means the same as “the buildings that stand together in this way are being demolished”
 
 ### [Ts-214a1](/ts-214a1/#2.2) <span class="fac">[2\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp)</span>
 
-Die Blume, das Haus, das Sternbild nenne ich Komplexe, und zwar, von Ziegeln, von Blättern, von Sternen, etc.. Daß dieses Sternbild hier steht, kann allerdings durch einen Satz beschrieben werden, worin nur von seinen Sternen die Rede ist und das Wort ‘Sternbild’, oder sein Name, nicht vorkommen.
+I call the flower, the house and the constellation complexes, namely complexes of bricks, of leaves, of stars, etc. Of course, that this constellation is here can be described by a sentence in which only its stars are spoken of and neither the word ‘constellation’ nor its name occurs.
 
 ### [Ts-214a1](/ts-214a1/#2.3) <span class="fac">[2\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp)</span>
 
-Aber das ist auch alles, was man von der Beziehung zwischen Komplex und Tatsache sagen kann. Und Komplex ist ein räumlicher Gegenstand, bestehend aus räumlichen Gegenständen. (Wobei der Begriff ‘räumlich’ einiger Ausdehnung fähig ist.)
+But that is also all one can say about the relation between complex and fact. And a complex is a spatial object consisting of spatial objects. (The concept ‘spatial’ can be extended somewhat.)
 
 ### [Ts-214a1](/ts-214a1/#2.4) <span class="fac">[2\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp)</span>
 
-Ein Komplex besteht aus seinen Teilen, den gleichartigen Dingen, die ihn bilden. (Dies ist natürlich ein Satz der Grammatik über die Wörter ‘Komplex’, ‘Teil’ und ‘bestehen’.)
+A complex consists of its parts, the things of the same kind that form it. (This is of course a sentence of grammar about the words ‘complex’, ‘part’ and ‘consist’.)
 
 ### [Ts-214a1](/ts-214a1/#2.5) <span class="fac">[2\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp)</span>
 
-Zu sagen, ein roter Kreis _bestehe aus_ Röte und Kreisförmigkeit, oder sei ein Komplex aus diesen Bestandteilen, ist ein Mißbrauch dieser Wörter und irreführend (Frege wüßte dies und sagte es mir). Ebenso irreführend, zu sagen, die Tatsache, daß dieser Kreis rot ist (daß ich müde bin), sei ein Komplex aus den Bestandteilen Kreis und Röte aus mir und der Müdigkeit).
+To say that a red circle _consists of_ redness and circularity, or that it is a complex made up of these constituents, is a misuse of these words and is misleading (Frege would know this and tell me so). It is just as misleading to say that the fact that this circle is red (that I am tired) is a complex made up of the constituents circle and redness (of me and tiredness).
 
 ### [Ts-214a1](/ts-214a1/#2.6) <span class="fac">[2\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp)</span>
 
-Auch ist das Haus nicht ein Komplex aus den Ziegeln und ihren räumlichen Beziehungen. D.h., auch das ist gegen den richtigen Gebrauch der Worte.
+Nor is the house a complex made up of the bricks and their spatial relations. That is, this too goes against the correct use of the words.
 
 ### [Ts-214a1](/ts-214a1/#2.7+3.1) <span class="fac">[2\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/2.webp),[3\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Man kann nun zwar auf eine Konstellation zeigen und sagen: diese Konstellation besteht ganz aus _Gegenständen_, die ich schon kenne; aber man kann nicht ‘auf eine falsche Tatsache zeigen’ und dies sagen.
+Now one can indeed point to a configuration and say: this configuration consists entirely of _objects_ I already know; but one cannot ‘point to a false fact’ and say this.
 
 ### [Ts-214a1](/ts-214a1/#3.2) <span class="fac">[3\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Der Ausdruck “eine Tatsache beschreiben” oder “die Beschreibung einer Tatsache” für die Aussage, die das Bestehen der Tatsache behauptet, ist auch _irreführend_, weil es so klingt, wie “das Tier beschreiben, das ich gesehen habe”.
+The expression “to describe a fact” or “the description of a fact” for the statement that asserts that the fact obtains is also _misleading_, because it sounds like “to describe the animal I saw”.
 
 ### [Ts-214a1](/ts-214a1/#3.3) <span class="fac">[3\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Man sagt freilich auch “auf die Tatsache hinweisen”, aber das heißt immer “auf die Tatsache hinweisen, daß …”. Dagegen heißt “auf eine Blume zeigen” (oder “hinweisen”) nicht, darauf hinweisen, daß diese Blüte auf diesem Stengel sitzt; denn von dieser Blüte und diesem Stengel braucht da gar nicht die Rede zu sein.
+One does of course also say “point to the fact”, but that always means “point to the fact that …”. By contrast, “point at a flower” (or “point to a flower”) does not mean pointing out that this blossom is on this stem; for there need be no mention of this blossom and this stem at all.
 
 ### [Ts-214a1](/ts-214a1/#3.4) <span class="fac">[3\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Ebensowenig kann es heißen, auf die Tatsache hinweisen, daß dort diese Blume steht.
+Nor can it mean pointing to the fact that this flower is there.
 
 ### [Ts-214a1](/ts-214a1/#3.5) <span class="fac">[3\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Auf eine Tatsache hinweisen heißt, etwas behaupten, aussagen. ‘Auf eine Blume hinweisen’ heißt das nicht.
+To point to a fact is to assert, to state something. ‘To point to a flower’ does not mean this.
 
 ### [Ts-214a1](/ts-214a1/#3.6) <span class="fac">[3\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Auch die Kette besteht (nur) aus ihren Gliedern, nicht aus ihnen und ihren räumlichen Beziehungen.
+The chain too consists (only) of its links, not of them and their spatial relations.
 
 ### [Ts-214a1](/ts-214a1/#3.7) <span class="fac">[3\[7\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Die Tatsache, daß diese Glieder so zusammenhängen, ‘_besteht_’ aus gar nichts.
+The fact that these links are connected in this way does not ‘_consist_’ of anything at all.
 
 ### [Ts-214a1](/ts-214a1/#3.8) <span class="fac">[3\[8\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/3.webp)</span>
 
-Die Wurzel dieser Verwechslung ist der verwirrende Gebrauch des Wortes “Gegenstand”.
+The root of this confusion is the confusing use of the word “object”.
 
 ### [Ts-214a1](/ts-214a1/#4.1) <span class="fac">[4\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/4.webp)</span>
 
-Der Teil kleiner als der Ganze. Das gäbe auf Tatsache und Konstituent angewandt eine Absurdität.
+The part smaller than the whole. Applied to fact and constituent, that would yield an absurdity.
 
 ### [Ts-214a1](/ts-214a1/#4.2) <span class="fac">[4\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-214a1/4.webp)</span>
 
-Das Schema: Ding-Eigenschaft. Man sagt: eine Handlung habe eine Eigenschaft! etwa die der Schnelligkeit; oder die der Güte.
+The schema: thing–property. One says: an action has a property! Such as that of speed; or that of goodness.
 
 ### [Ts-215a](/ts-215a/#1.1) <span class="fac">[1\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-215a/1.webp)</span>
 
