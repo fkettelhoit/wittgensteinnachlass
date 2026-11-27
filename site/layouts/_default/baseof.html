@@ -18,6 +18,7 @@
   a document with nothing to translate is laid out like its German page. */}}
 <body{{ if eq .Params.layout "bilingual" }}{{ if findRE `<div class="en"` .RawContent 1 }} class="bilingual"{{ else if not (findRE `(?m)^### ` .RawContent 1) }} class="overview"{{ end }}{{ end }}>
   {{ block "main" . }}{{ end }}
+  {{ partial "dark-filters.html" . }}
   <script src="/js/theme.js" defer></script>
   <script src="/js/tour.js" defer></script>
 </body>

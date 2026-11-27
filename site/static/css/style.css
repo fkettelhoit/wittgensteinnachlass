@@ -98,12 +98,13 @@
     --color-heading: #e1e1e1;
     --color-series-number-bg: #cccccc;
     --color-series-number-fg: #1e1e1e;
-    --color-highlight: #5f3a1d;
+    --color-highlight: #a0562a;
     --color-shade: #e1e1e1;
-    /* The images' white becomes --color-bg (inverted by 225/255), the covers' a shade lighter;
-       the filter also recolours the covers' outline, which so takes the light colours. */
-    --image-filter: invert(0.88235) hue-rotate(180deg);
-    --cover-filter: invert(0.86667) hue-rotate(180deg);
+    /* The images' white becomes --color-bg, the covers' a shade lighter, the peach --color-highlight
+       (layouts/partials/dark-filters.html); the filter also recolours the covers' outline, which
+       so takes the light colours. */
+    --image-filter: url(#dark-images);
+    --cover-filter: url(#dark-covers);
     --cover-outline: #bbb;
     --cover-outline-hover: #000;
   }
@@ -121,10 +122,10 @@
   --color-heading: #e1e1e1;
   --color-series-number-bg: #cccccc;
   --color-series-number-fg: #1e1e1e;
-  --color-highlight: #5f3a1d;
+  --color-highlight: #a0562a;
   --color-shade: #e1e1e1;
-  --image-filter: invert(0.88235) hue-rotate(180deg);
-  --cover-filter: invert(0.86667) hue-rotate(180deg);
+  --image-filter: url(#dark-images);
+  --cover-filter: url(#dark-covers);
   --cover-outline: #bbb;
   --cover-outline-hover: #000;
 }
@@ -143,6 +144,10 @@ img[src*="/images/copyright-map"] {
 
 img[src*="/covers/"] {
   filter: var(--cover-filter);
+}
+
+.filters {
+  position: absolute;
 }
 
 /* --- Base --- */
