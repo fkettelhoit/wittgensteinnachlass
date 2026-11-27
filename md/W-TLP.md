@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>1918–1919, 537 remarks, Ts-204, Ts-203, Ts-202</summary>
+<summary>1918–1919, 531 remarks, Ts-204, Ts-202</summary>
 
 <img class="viz" src="/viz/W-TLP.svg">
 
@@ -1444,9 +1444,9 @@ Diejenigen Wahrheitsmöglichkeiten seiner Wahrheitsargumente, welche den Satz be
 
 <span class="series-number">5.11</span> Sind die Wahrheitsgründe die einer Anzahl von Sätzen gemeinsam sind, auch Wahrheitsgründe eines bestimmten Satzes, so sagen wir, die Wahrheit dieses Satzes _folge_ aus der Wahrheit jener Sätze.
 
-### [Ts-204](/ts-204/#25r.5) <span class="fac">[25r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/25r.webp)</span>
+### [Ts-202](/ts-202/#25r.5) <span class="fac">[25r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/25r.webp)</span>
 
-<span class="series-number">5.12</span> Insbesondere folgt die Wahrheit eines Satzes „p” aus der Wahrheit eines anderen „p”, wenn alle Wahrheitsgründe des ersten Wahrheitsgründe des zweiten sind.
+<span class="series-number">5.12</span> Insbesondere folgt die Wahrheit eines Satzes „p” aus der Wahrheit eines anderen „q”, wenn alle Wahrheitsgründe des zweiten Wahrheitsgründe des ersten sind.
 
 ### [Ts-204](/ts-204/#25r.6) <span class="fac">[25r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/25r.webp)</span>
 
@@ -2845,27 +2845,3 @@ Er muß diese Sätze überwinden, dann sieht er die Welt richtig.
 ### [Ts-204](/ts-204/#53r.6) <span class="fac">[53r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/53r.webp)</span>
 
 <span class="series-number">7</span> Wovon man nicht sprechen kann, darüber muß man schweigen.
-
-### [Ts-203](/ts-203/#1r.1) <span class="fac">[1r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span>
-
-<span class="series-number">1</span> Die Welt ist alles, was der Fall ist.
-
-### [Ts-203](/ts-203/#1r.2) <span class="fac">[1r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span>
-
-<span class="series-number">1.1</span> Die Welt ist die Gesamtheit der Tatsachen, nicht der Dinge.
-
-### [Ts-203](/ts-203/#1r.3) <span class="fac">[1r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span>
-
-<span class="series-number">1.11</span> Die Welt ist durch die Tatsachen bestimmt und dadurch, daß es _alle_ Tatsachen sind.
-
-### [Ts-203](/ts-203/#1r.4) <span class="fac">[1r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/1r.webp)</span>
-
-<span class="series-number">1.12</span> Denn, die Gesamtheit der Tatsachen bestimmt, was der Fall ist und auch, was alles nicht der Fall ist.
-
-### [Ts-203](/ts-203/#2r.6) <span class="fac">[2r\[6\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-203/2r.webp)</span>
-
-<span class="series-number">2.014</span> Die Gegenstände enthalten die Möglichkeit aller Sachlagen.
-
-### [Ts-202](/ts-202/#41av.2-relocated) <span class="fac">[41av\[2\]-relocated](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-202/41av.webp)</span>
-
-<span class="series-number">6.002</span> Ist die allgemeine Form gegeben, wie ein Satz gebaut ist, so ist damit auch schon die allgemeine Form davon gegeben, wie aus einem Satz durch eine Operation ein anderer erzeugt werden kann.

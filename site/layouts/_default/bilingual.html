@@ -16,7 +16,12 @@
   {{ $c = replace $c `<h1` `<div class="title-row"><h1 class="de-title" lang="de"` 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
   {{ $c = partial "remarks.html" (dict "c" $c "page" .) }}
-  {{ $disclaimer := `<div class="disclaimer"><div class="disclaimer-note">The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.</div><div class="disclaimer-warning"><strong>This translation may contain errors!</strong><br><strong>Do not quote from or cite this translation!</strong></div></div>` }}
+  {{ $note := `The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.` }}
+  {{- /* The Tractatus typescripts and the work assembled from them follow the Ogden/Ramsey translation. */}}
+  {{ if in (slice "Ts-202" "Ts-203" "Ts-204" "W-TLP") .File.ContentBaseName }}
+    {{ $note = `This translation is based on the 1922 translation by F. P. Ramsey and C. K. Ogden, which Wittgenstein reviewed, in its corrected form of 1933. It has been adapted to the German text shown here and to the terminology used on this site: <em>Sachverhalt</em> is “state of affairs” (was: “atomic fact”), <em>Sachlage</em> “situation” (was: “state of affairs”) and <em>unsinnig</em> is consistently “nonsensical” (was: “senseless”). The German original is the authoritative text.` }}
+  {{ end }}
+  {{ $disclaimer := print `<div class="disclaimer"><div class="disclaimer-note">` $note `</div><div class="disclaimer-warning"><strong>This translation may contain errors!</strong><br><strong>Do not quote from or cite this translation!</strong></div></div>` }}
   {{ replace $c "<section>" (printf "%s<section>" $disclaimer) 1 | safeHTML }}
 </main>
 {{ else }}
