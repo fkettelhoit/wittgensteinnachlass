@@ -19,9 +19,8 @@ Projection: Equal Earth.
 
 Colors are the site's tokens (site/static/css/style.css): the terms are shades from
 --color-highlight (shortest) to --color-text (longest), --color-bg for the borders and the unknown
-countries, --color-margin for the outline of the unknown countries, with the dark-mode values
-under prefers-color-scheme (which an SVG shown as <img> follows from its page). An SVG shown as
-<img> cannot load the page's web fonts, so the legend asks for TeX Gyre Pagella and falls back
+countries, --color-margin for the outline of the unknown countries; in dark mode the page
+darkens the map with its image filter, as all its images. An SVG shown as <img> cannot load the page's web fonts, so the legend asks for TeX Gyre Pagella and falls back
 to Palatino, which it is a clone of.
 """
 
@@ -59,11 +58,11 @@ CODE_BY_NAME = {"Kosovo": "xk"}
 
 EXCLUDED = {"010"}  # Antarctica
 
-# Site tokens: (light, dark).
-HIGHLIGHT = ("#fbcba4", "#5f3a1d")
-TEXT = ("#444444", "#cccccc")
-BG = ("#ffffff", "#1e1e1e")
-MARGIN = ("#bbbbbb", "#525252")
+# Site tokens (light mode).
+HIGHLIGHT = "#fbcba4"
+TEXT = "#444444"
+BG = "#ffffff"
+MARGIN = "#bbbbbb"
 
 FONT = "'TeX Gyre Pagella','Palatino Linotype',Palatino,'URW Palladio L',serif"
 
@@ -251,20 +250,16 @@ def main():
     label_y = swatch_y + swatch_h + font_size + 4
     height = label_y + 8
 
-    def styles(mode):
-        rules = [f"path{{fill:{BG[mode]};stroke:{BG[mode]}}}"]
-        rules += [f".t{i}{{fill:{mix(HIGHLIGHT[mode], TEXT[mode], i / (len(terms) - 1))}}}"
-                  for i in range(len(terms))]
-        rules += [f"path.u{{stroke:{MARGIN[mode]}}}", f"text{{fill:{TEXT[mode]}}}"]
-        return "".join(rules)
+    styles = [f"path{{fill:{BG};stroke:{BG}}}"]
+    styles += [f".t{i}{{fill:{mix(HIGHLIGHT, TEXT, i / (len(terms) - 1))}}}" for i in range(len(terms))]
+    styles += [f"path.u{{stroke:{MARGIN}}}", f"text{{fill:{TEXT}}}"]
 
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {WIDTH} {height}">',
         "<style>",
         "path{stroke-width:0.5;stroke-linejoin:round}",
         f"text{{font-family:{FONT};font-size:{font_size}px;text-anchor:middle}}",
-        styles(0),
-        f"@media (prefers-color-scheme:dark){{{styles(1)}}}",
+        "".join(styles),
         "</style>",
     ]
     # The unknown countries last, so that their outlines are not covered by their neighbors'.

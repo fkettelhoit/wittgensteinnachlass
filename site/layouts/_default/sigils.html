@@ -2,7 +2,7 @@
   laid out like the About page. Its English titles link to the works' German/English pages
   (en-links.html), except in production, which shows no translations (yet). */ -}}
 {{ define "main" }}
-<nav><a href="/">{{ .Site.Title }}</a></nav>
+<nav>{{ partial "theme-switch.html" . }}<a href="/">{{ .Site.Title }}</a></nav>
 <main class="about">
   <h1>{{ .Title }}</h1>
   {{ $c := .Content }}

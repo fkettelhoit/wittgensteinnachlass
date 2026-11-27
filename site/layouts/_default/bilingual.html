@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- /* German/English pages lead home to the German/English home page. */}}
-<nav><a href="/en/">{{ .Site.Title }}</a></nav>
+<nav>{{ partial "theme-switch.html" . }}<a href="/en/">{{ .Site.Title }}</a></nav>
 {{ partial "sticky-title.html" . }}
 <script src="/js/fragment-links.js" defer></script>
 {{- /* A page with remarks (### headings), with or without facsimiles; the others (the

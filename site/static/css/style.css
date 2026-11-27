@@ -77,8 +77,17 @@
   --sticky-title-line: 2rem;
   --sticky-title-padding: 0.5rem;
 
-  /* Each colour is the image filter applied to its light value, except the brightened text. */
-  @media (prefers-color-scheme: dark) {
+  /* The covers' white a shade darker than the page's. */
+  --image-filter: none;
+  --cover-filter: brightness(0.98);
+  --cover-outline: var(--color-margin);
+  --cover-outline-hover: var(--color-link);
+}
+
+/* Dark mode: the system's, or the one the switch (js/theme.js) sets as data-theme. Each colour
+   is the image filter applied to its light value, except the brightened text. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
     --color-bg: #1e1e1e;
     --color-text: #cccccc;
     --color-link: #e1e1e1;
@@ -91,28 +100,49 @@
     --color-series-number-fg: #1e1e1e;
     --color-highlight: #5f3a1d;
     --color-shade: #e1e1e1;
+    /* The images' white becomes --color-bg (inverted by 225/255), the covers' a shade lighter;
+       the filter also recolours the covers' outline, which so takes the light colours. */
+    --image-filter: invert(0.88235) hue-rotate(180deg);
+    --cover-filter: invert(0.86667) hue-rotate(180deg);
+    --cover-outline: #bbb;
+    --cover-outline-hover: #000;
   }
 }
 
-/* The images are drawn for a white page: in dark mode the filter turns their white into
-   --color-bg (255 → 30, an inversion of 225/255) and their colours into the dark ones. */
-@media (prefers-color-scheme: dark) {
-  img.math,
-  img[src*="/graphics/"],
-  img[src*="/viz/"],
-  img[src*="/map/preview"] {
-    filter: invert(0.88235) hue-rotate(180deg);
-  }
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --color-bg: #1e1e1e;
+  --color-text: #cccccc;
+  --color-link: #e1e1e1;
+  --color-margin: #525252;
+  --color-translation: #868686;
+  --color-margin-link: #868686;
+  --color-current: #fff;
+  --color-heading: #e1e1e1;
+  --color-series-number-bg: #cccccc;
+  --color-series-number-fg: #1e1e1e;
+  --color-highlight: #5f3a1d;
+  --color-shade: #e1e1e1;
+  --image-filter: invert(0.88235) hue-rotate(180deg);
+  --cover-filter: invert(0.86667) hue-rotate(180deg);
+  --cover-outline: #bbb;
+  --cover-outline-hover: #000;
 }
 
-/* The covers stand out a little from the page: their white is a shade darker than the
-   page's (#fafafa), and in dark mode a shade lighter (#222222, a weaker inversion). */
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
+img.math,
+img[src*="/graphics/"],
+img[src*="/viz/"],
+img[src*="/map/preview"],
+img[src*="/images/copyright-map"] {
+  filter: var(--image-filter);
+}
+
 img[src*="/covers/"] {
-  filter: brightness(0.98);
-
-  @media (prefers-color-scheme: dark) {
-    filter: invert(0.86667) hue-rotate(180deg);
-  }
+  filter: var(--cover-filter);
 }
 
 /* --- Base --- */
@@ -246,6 +276,33 @@ nav:not(.versions),
 
 nav {
   margin-bottom: 2rem;
+}
+
+/* The colour scheme switch (partials/theme-switch.html), turned while the page is inverted. */
+.theme-switch {
+  margin-right: 0.5em;
+  color: var(--color-margin-link);
+  line-height: 1;
+
+  &:hover,
+  &:focus-visible {
+    color: var(--color-link);
+  }
+
+  & svg {
+    width: 0.8em;
+    height: 0.8em;
+    vertical-align: -0.05em;
+    transition: transform 0.3s ease;
+
+    :root[data-theme] & {
+      transform: rotate(180deg);
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+    }
+  }
 }
 
 /* --- Links and link-like elements: underlined, thicker and dark on hover --- */
@@ -1061,20 +1118,11 @@ a.sigil-help {
     height: auto;
     aspect-ratio: 2 / 3; /* reserves the box of a lazy cover */
     display: block;
-    outline: 1px solid var(--color-margin);
-
-    /* The image filter also recolours the outline, so it takes the light colours. */
-    @media (prefers-color-scheme: dark) {
-      outline-color: #bbb;
-    }
+    outline: 1px solid var(--cover-outline);
   }
 
   &:hover img {
-    outline-color: var(--color-link);
-
-    @media (prefers-color-scheme: dark) {
-      outline-color: #000;
-    }
+    outline-color: var(--cover-outline-hover);
   }
 }
 

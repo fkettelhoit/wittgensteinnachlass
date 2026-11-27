@@ -1,6 +1,6 @@
 {{ define "main" }}
 <script src="/js/fragment-links.js" defer></script>
-<nav><a href="/">{{ .Site.Title }}</a></nav>
+<nav>{{ partial "theme-switch.html" . }}<a href="/">{{ .Site.Title }}</a></nav>
 <main class="about">
   <h1>{{ .Title }}</h1>
   {{ partial "heading-links.html" (partial "doc-format-links.html" .Content) | safeHTML }}

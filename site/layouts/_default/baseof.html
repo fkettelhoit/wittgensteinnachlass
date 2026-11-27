@@ -3,6 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {{- /* The colour scheme inverted with the switch (js/theme.js), before the page is drawn. */}}
+  <script>try{if(localStorage.getItem("theme")==="inverted")document.documentElement.dataset.theme=matchMedia("(prefers-color-scheme: dark)").matches?"light":"dark"}catch(e){}</script>
+  <noscript><style>.theme-switch{display:none}</style></noscript>
   {{- $home := or .IsHome (eq .RelPermalink "/en/") }}
   <title>{{ if not $home }}{{ .Title }} – {{ end }}{{ .Site.Title }}</title>
   <link rel="stylesheet" href="/css/style.css">
@@ -15,6 +18,7 @@
   a document with nothing to translate is laid out like its German page. */}}
 <body{{ if eq .Params.layout "bilingual" }}{{ if findRE `<div class="en"` .RawContent 1 }} class="bilingual"{{ else if not (findRE `(?m)^### ` .RawContent 1) }} class="overview"{{ end }}{{ end }}>
   {{ block "main" . }}{{ end }}
+  <script src="/js/theme.js" defer></script>
   <script src="/js/tour.js" defer></script>
 </body>
 </html>

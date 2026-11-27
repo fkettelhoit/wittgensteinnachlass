@@ -7,7 +7,7 @@
 {{ $data := (site.GetPage "/map").Resources.Get "data.json" }}
 <link rel="stylesheet" href="/css/map.css">
 <main class="map-page"{{ with $data }} data-src="{{ .RelPermalink }}"{{ end }}>
-  <nav><a href="/">{{ .Site.Title }}</a></nav>
+  <nav>{{ partial "theme-switch.html" . }}<a href="/">{{ .Site.Title }}</a></nav>
   <h1>Nachlass Map</h1>
   <p class="map-intro">
     Every remark as a small block, highlighted to trace published remarks, thematic

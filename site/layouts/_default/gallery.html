@@ -1,6 +1,6 @@
 {{ define "main" }}
 <main class="gallery">
-  <nav><a href="/">{{ .Site.Title }}</a></nav>
+  <nav>{{ partial "theme-switch.html" . }}<a href="/">{{ .Site.Title }}</a></nav>
   {{ partial "intro-brief.html" }}
   {{ $c := partial "doc-format-links.html" .Content }}
   {{ $c = replaceRE `</h2>` `</h2><div>` $c }}
