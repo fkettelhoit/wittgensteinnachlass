@@ -3304,7 +3304,7 @@ Die <img class="math math-inline math-stacked" src="../math/955548a242d3246f.svg
 
 <span class="series-number">6˙011</span> Ich definiere nun: <img class="math math-inline math-stacked" src="../math/6f1c42e51b1dda9c.svg" alt="x={O}^{0}\text{'}x\text{Def}." style="width:5.644em;height:0.870em;vertical-align:-0.020em"> und
 
-<img class="math math-inline math-stacked" src="../math/440f653a7d9891ab.svg" alt="\;\vert x,\;\xi,\;O\text{'}\xi\vert=\vert{O}^{0}\text{'}x,{O}^{\nu}\text{'}\xi,{O}^{\nu+1}\text{'}\;\xi\vert" style="width:14.535em;height:1.080em;vertical-align:-0.226em"> und O + 1 = 1 Def.
+<img class="math math-inline math-stacked" src="../math/75a54eef4c5e72b5.svg" alt="\;\vert x,\;" style="width:1.681em;height:0.805em;vertical-align:-0.155em"><img class="math math-inline math-stacked" src="../math/0923da3264176e7c.svg" alt="\xi,\;" style="width:1.235em;height:0.937em;vertical-align:-0.226em"><img class="math math-inline math-stacked" src="../math/b282f10f865ad7de.svg" alt="O\text{'}\xi\vert=" style="width:3.120em;height:0.937em;vertical-align:-0.226em"><img class="math math-inline math-stacked" src="../math/c3cf07c81213ca48.svg" alt="\vert{O}^{0}\text{'}x,{O}^{\nu}\text{'}\xi,{O}^{\nu+1}\text{'}\;\xi\vert" style="width:8.500em;height:1.080em;vertical-align:-0.226em"> und O + 1 = 1 Def.
 
 also schreibe ich statt „x, O'x, O'O'x, O'O'O'x etc.”
 

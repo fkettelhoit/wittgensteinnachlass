@@ -2255,7 +2255,7 @@ This is the general form of the proposition.
 
 <span class="series-number">6.01</span> The general form of operation is:
 
-<img class="math math-block" src="../math/c441394c57a47bdd.svg" alt="[\pi,\overline{\xi},\;N(\overline{\xi})]\text{'}\pi=O\text{'}\pi\text{Def}." style="display:block;width:11.264em;height:1.277em">
+<img class="math math-block-part" src="../math/1d24fc8627742be6.svg" alt="[\pi,\overline{\xi},\;" style="width:2.766em;height:1.277em;vertical-align:-0.226em"><img class="math math-block-part" src="../math/f33b70ec0df45fc7.svg" alt="N(\overline{\xi})]\text{'}\pi=" style="width:4.901em;height:1.277em;vertical-align:-0.226em"><img class="math math-block-part" src="../math/0b6159cc75e890d6.svg" alt="O\text{'}\pi\text{Def}." style="width:3.597em;height:0.748em;vertical-align:-0.020em">
 
 ### [Ts-204](/ts-204/#42r.4) <span class="fac">[42r\[4\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/42r.webp)</span>
 
@@ -2309,7 +2309,7 @@ This is the general form of the sentence.
 
 ### [Ts-204](/ts-204/#42ar.5) <span class="fac">[42ar\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ts-204/42ar.webp)</span>
 
-<span class="series-number">6.01</span> The general form of the operation <img class="math math-inline math-stacked" src="../math/74312300f347e616.svg" alt="\Omega\text{'}(\overline{\eta})" style="width:2.491em;height:1.098em;vertical-align:-0.276em"> is therefore: <img class="math math-inline math-stacked" src="../math/a3a8925a3b0186cd.svg" alt="[\overline{\eta},\overline{\xi},\;N(\overline{\xi})]\text{'}\;(\overline{\eta})\;(=[\overline{\eta},\overline{\xi},\;N(\overline{\xi})])" style="width:14.472em;height:1.327em;vertical-align:-0.276em">
+<span class="series-number">6.01</span> The general form of the operation <img class="math math-inline math-stacked" src="../math/74312300f347e616.svg" alt="\Omega\text{'}(\overline{\eta})" style="width:2.491em;height:1.098em;vertical-align:-0.276em"> is therefore: <img class="math math-inline math-stacked" src="../math/03bf68fb17b440eb.svg" alt="[\overline{\eta},\overline{\xi},\;" style="width:2.587em;height:1.327em;vertical-align:-0.276em"><img class="math math-inline math-stacked" src="../math/79106a1a4d751903.svg" alt="N(\overline{\xi})]\text{'}\;(\overline{\eta})\;(=" style="width:6.272em;height:1.327em;vertical-align:-0.276em"><img class="math math-inline math-stacked" src="../math/03bf68fb17b440eb.svg" alt="[\overline{\eta},\overline{\xi},\;" style="width:2.587em;height:1.327em;vertical-align:-0.276em"><img class="math math-inline math-stacked" src="../math/c8f11b97d6ec889e.svg" alt="N(\overline{\xi})])" style="width:3.026em;height:1.277em;vertical-align:-0.226em">
 
 That is the most general form of the transition from one sentence to another.
 
@@ -2319,7 +2319,7 @@ That is the most general form of the transition from one sentence to another.
 
 <img class="math math-inline math-stacked" src="../math/42ee2414536daade.svg" alt="x={\Omega}^{0}\text{'}x\text{Def}." style="width:5.705em;height:0.870em;vertical-align:-0.020em"> and
 
-<img class="math math-block" src="../math/cc9a945ebcbe0ab3.svg" alt="\Omega\text{'}{\Omega}^{\nu}\text{'}\;x={\Omega}^{\nu+1}\text{'}x\text{Def}." style="display:block;width:9.569em;height:0.924em">
+<img class="math math-block-part" src="../math/99b9383aa9130e75.svg" alt="\Omega\text{'}{\Omega}^{\nu}\text{'}\;x=" style="width:4.776em;height:0.765em;vertical-align:-0.011em"><img class="math math-block-part" src="../math/c0ed72e37f528a9c.svg" alt="{\Omega}^{\nu+1}\text{'}x\text{Def}." style="width:4.793em;height:0.924em;vertical-align:-0.020em">
 
 In accordance with these rules for signs we therefore write the series
 

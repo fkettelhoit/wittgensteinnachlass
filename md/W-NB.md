@@ -84,7 +84,7 @@ Erinnere dich daß die Worte „Funktion” „Argument” „Satz” etc. in de
 
 ### [Ms-101](/ms-101/#19r.3) <span class="fac">[19r\[3\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/19r.webp)</span>
 
-<img class="math math-block" src="../math/31ffacd2a9f49bde.svg" alt="\Phi[\hat{z}\psi z]\cdot\overset{\text{Def}}{=}\cdot\varphi x\equiv&#95;{x}\psi x\cdot\supset&#95;{\varphi}\cdot\Phi\varphi" style="display:block;width:13.393em;height:1.550em">
+<img class="math math-block-part" src="../math/77411cb900128db5.svg" alt="\Phi[\hat{z}\psi z]\cdot\overset{\text{Def}}{=}" style="width:5.161em;height:1.481em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/1b554820f2890c69.svg" alt="\cdot\varphi x\equiv&#95;{x}" style="width:3.170em;height:0.776em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/e50088b437ef180f.svg" alt="\psi x\cdot\supset&#95;{\varphi}" style="width:3.294em;height:0.991em;vertical-align:-0.345em"><img class="math math-block-part" src="../math/648fa4ae35340ab7.svg" alt="\cdot\Phi\varphi" style="width:1.768em;height:0.968em;vertical-align:-0.276em">
 
 Von zwei Klassen zu sagen sie seien identisch sagt etwas. Von zwei Dingen dies zu sagen sagt nichts dies schon zeigt die Unzulässigkeit der Russellschen Definition
 
@@ -456,7 +456,7 @@ Die Logik sorgt für sich selbst; wir müssen ihr nur zusehen wie sie es macht.
 
 ### [Ms-101](/ms-101/#39r.5+40r.1) <span class="fac">[39r\[5\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/39r.webp),[40r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-101/40r.webp)</span>
 
-Betrachten wir den Satz: „Es gibt eine Klasse mit nur einem Glied”. Oder, was auf dasselbe hinauskommt den Satz: <img class="math math-inline math-stacked" src="../math/f29d3f88d1eeff6d.svg" alt="(∃\varphi):.\;(∃x):\varphi x:\varphi y\;.\;\varphi z\;.{⊃}&#95;{y,z}.\;y=z" style="width:16.632em;height:1.045em;vertical-align:-0.345em">
+Betrachten wir den Satz: „Es gibt eine Klasse mit nur einem Glied”. Oder, was auf dasselbe hinauskommt den Satz: <img class="math math-inline math-stacked" src="../math/302f097cb9193925.svg" alt="(∃\varphi):.\;(∃x):\varphi x:\varphi y\;.\;\varphi z\;.{⊃}&#95;{y,z}.\;y=" style="width:16.188em;height:1.045em;vertical-align:-0.345em"><img class="math math-inline math-stacked" src="../math/b0a5b211ee85f9f2.svg" alt="z" style="width:0.444em;height:0.493em;vertical-align:-0.011em">
 
 Bei „(∃x)x = x” konnte man verstehen daß er tautologisch sei da er überhaupt nicht hingeschrieben werden könnte wenn er falsch wäre, aber hier! _Dieser_ Satz kann an Stelle des infin. ax. untersucht werden!
 
@@ -664,7 +664,7 @@ Ist die Russellsche Definition der Null nicht unsinnig? Kann man von einer Klass
 
 0 = α̂ {(∃φ):(x)~φx ․α = û (φu)} Def
 
-<img class="math math-block" src="../math/8bcbdc7f6f3113e9.svg" alt="1=\hat{\alpha}\;\{(\exists\varphi)\mathbin{:}\mathbin{:}(\exists x)\cdot\varphi x\cdot\varphi y\cdot\varphi z\supset&#95;{yz}y=z:\alpha=\hat{u}(\varphi u)\}\;\text{Def}" style="display:block;width:25.514em;height:1.199em">
+<img class="math math-block-part" src="../math/d8e7276b7144084c.svg" alt="1=" style="width:1.816em;height:0.697em;vertical-align:-0.003em"><img class="math math-block-part" src="../math/bc79307d6498c2c7.svg" alt="\hat{\alpha}\;\{(\exists\varphi)\mathbin{:}\mathbin{:}(\exists x)\cdot" style="width:7.013em;height:1.130em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/ca36179956ee863a.svg" alt="\varphi x\cdot" style="width:1.862em;height:0.758em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/ab2b80f5dbad5e5f.svg" alt="\varphi y\cdot" style="width:1.862em;height:0.758em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/df74ab1429800978.svg" alt="\varphi z\supset&#95;{yz}" style="width:3.166em;height:0.895em;vertical-align:-0.345em"><img class="math math-block-part" src="../math/8c9529c539103a84.svg" alt="y=" style="width:1.816em;height:0.758em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/e1d2cbd67d59d3c5.svg" alt="z:\alpha=" style="width:3.102em;height:0.493em;vertical-align:-0.011em"><img class="math math-block-part" src="../math/742e0e4fad53439c.svg" alt="\hat{u}(\varphi u)\}\;\text{Def}" style="width:4.877em;height:1.130em;vertical-align:-0.276em">
 
 [Das Gleichheitszeichen in der geschweiften Klammer könnte man _vermeiden_ wenn man schriebe
 
@@ -1970,7 +1970,7 @@ Das subjektive Universum.
 
 Statt die logischen Operationen im Satz an dessen Teilsätzen zu vollziehen, können wir diesen auch _Marken_ zuordnen und mit ihnen operieren. Dann ist _einem_ Satzbild ein mit ihm in kompliziertester Weise zusammenhängendes Markensternbild zugeordnet.
 
-<img class="math math-block" src="../math/4d0227a7db258186.svg" alt="(\stack{aRb}{p},\ \stack{cSd}{q},\ \stack{\varphi e}{r})\ ((p\vee q)\cdot r:\supset:q\cdot r\equiv p\vee r)" style="display:block;width:19.011em;height:2.371em">
+<img class="math math-block-part" src="../math/ada027157276694f.svg" alt="(\stack{aRb}{p},\ " style="width:2.905em;height:2.371em;vertical-align:-0.962em"><img class="math math-block-part" src="../math/2ba0b3aaadd5ceff.svg" alt="\stack{cSd}{q},\ " style="width:2.370em;height:2.371em;vertical-align:-0.962em"><img class="math math-block-part" src="../math/7af1a1d83304527a.svg" alt="\stack{\varphi e}{r})\ ((p\vee" style="width:4.493em;height:1.853em;vertical-align:-0.695em"><img class="math math-block-part" src="../math/71630c22133d0b38.svg" alt="q)\cdot" style="width:1.611em;height:0.940em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/2fd50930d28f27f0.svg" alt="r:\supset:" style="width:2.223em;height:0.600em;vertical-align:-0.050em"><img class="math math-block-part" src="../math/15a967fe3c4fcdcf.svg" alt="q\cdot r\equiv" style="width:2.892em;height:0.776em;vertical-align:-0.276em"><img class="math math-block-part" src="../math/dac199db5ff377af.svg" alt="p\vee r)" style="width:2.517em;height:0.940em;vertical-align:-0.276em">
 
 ### [Ms-102](/ms-102/#73r.2) <span class="fac">[73r\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-102/73r.webp)</span>
 
@@ -2370,7 +2370,7 @@ Wohl können wir einen Tatbestand räumlich darstellen welcher den Gesetzen der 
 
 22.05.1915
 
-Die mathematische Notation der unendlichen Reihen wie <img class="math math-inline math-stacked" src="../math/358a780ea39435d4.svg" alt="\text{„}1+\frac{x}{1!}+\frac{x^{2}}{2!}+....\text{”}" style="width:8.428em;height:1.344em;vertical-align:-0.348em"> _mit den Pünktchen_ ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
+Die mathematische Notation der unendlichen Reihen wie <img class="math math-inline math-stacked" src="../math/f7c97e70028b3c7f.svg" alt="\text{„}1+" style="width:2.204em;height:0.847em;vertical-align:-0.153em"><img class="math math-inline math-stacked" src="../math/cbfbd624f2007189.svg" alt="\frac{x}{1!}+" style="width:2.195em;height:1.083em;vertical-align:-0.349em"><img class="math math-inline math-stacked" src="../math/6e485f9c661c95d4.svg" alt="\frac{x^{2}}{2!}+....\text{”}" style="width:4.029em;height:1.344em;vertical-align:-0.348em"> _mit den Pünktchen_ ist ein Beispiel jener erweiterten Allgemeinheit. Ein Gesetz ist gegeben und die hingeschriebenen Glieder dienen als Illustration.
 
 So könnte man statt (x) fx schreiben „f(x).f(y) ‥‥”.
 

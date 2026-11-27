@@ -1155,6 +1155,11 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
         let new_en = toggle_leading_gt_escape(old_en, escape_added);
         return (new_en != old_en).then_some(new_en);
     }
+    // Only formulas changed (re-rendered, or broken into pieces): the English copies them
+    // verbatim, so it gets the new ones.
+    if let Some(new_en) = math_only_change(old_de, new_de, old_en) {
+        return Some(new_en);
+    }
     // Try prefix fix: find longest common tail, check if head is non-word
     let tail_len = common_byte_suffix_len(old_de, new_de);
     if tail_len > 0 {
@@ -1185,6 +1190,53 @@ pub fn try_auto_fix_remark(old_de: &str, new_de: &str, old_en: &str) -> Option<S
         }
     }
     None
+}
+
+/// Split a body into its text and its runs of adjacent math blocks: `texts` has one more
+/// element than `runs`, and they interleave (text, run, text, …, text).
+fn math_runs(body: &str) -> (Vec<&str>, Vec<&str>) {
+    let re = Regex::new(&format!("(?:{MATH_PATTERN})+")).unwrap();
+    let mut texts = Vec::new();
+    let mut runs = Vec::new();
+    let mut last = 0;
+    for m in re.find_iter(body) {
+        texts.push(&body[last..m.start()]);
+        runs.push(m.as_str());
+        last = m.end();
+    }
+    texts.push(&body[last..]);
+    (texts, runs)
+}
+
+/// If the old and new German differ only in their math (the text between the runs of math
+/// blocks is the same), replace each changed run in the English with its new version. The
+/// English must contain every changed run exactly as often as the old German did, and a run
+/// must have changed the same way wherever it occurs; otherwise None.
+fn math_only_change(old_de: &str, new_de: &str, old_en: &str) -> Option<String> {
+    let (old_texts, old_runs) = math_runs(old_de);
+    let (new_texts, new_runs) = math_runs(new_de);
+    if old_texts != new_texts || old_runs == new_runs {
+        return None;
+    }
+    let mut changes: Vec<(&str, &str)> = Vec::new();
+    for (&old, &new) in old_runs.iter().zip(&new_runs) {
+        match changes.iter().find(|c| c.0 == old) {
+            Some(c) if c.1 != new => return None,
+            Some(_) => {}
+            None if old != new => changes.push((old, new)),
+            None => {}
+        }
+    }
+    // Longest first, in case a run also occurs inside another.
+    changes.sort_by_key(|c| std::cmp::Reverse(c.0.len()));
+    let mut new_en = old_en.to_string();
+    for (old, new) in changes {
+        if old_en.matches(old).count() != old_de.matches(old).count() {
+            return None;
+        }
+        new_en = new_en.replace(old, new);
+    }
+    Some(new_en)
 }
 
 /// Detect whether the only difference between two German bodies is the escaping of
@@ -1487,6 +1539,29 @@ mod tests {
             try_auto_fix_remark(old_de, new_de, old_en).as_deref(),
             Some("Text.\n\n> ref]")
         );
+    }
+
+    // A formula broken into pieces by the parser: the English gets the same pieces, wherever
+    // the translation put the formula.
+    #[test]
+    fn auto_fix_replaces_changed_math() {
+        let a = r#"<img class="math math-inline" src="../math/a.svg" alt="a=b">"#;
+        let a1 = r#"<img class="math math-inline" src="../math/a1.svg" alt="a=">"#;
+        let a2 = r#"<img class="math math-inline" src="../math/a2.svg" alt="b">"#;
+        let c = r#"<img class="math math-inline" src="../math/c.svg" alt="c">"#;
+        let old_de = format!("Also {a} und {c}, und wieder {a}.");
+        let new_de = format!("Also {a1}{a2} und {c}, und wieder {a1}{a2}.");
+        let old_en = format!("So {a} and {c}; again {a}.");
+        assert_eq!(
+            try_auto_fix_remark(&old_de, &new_de, &old_en),
+            Some(format!("So {a1}{a2} and {c}; again {a1}{a2}."))
+        );
+        // A text change as well: retranslate.
+        let new_de_text = format!("Also {a1}{a2} oder {c}, und wieder {a1}{a2}.");
+        assert_eq!(try_auto_fix_remark(&old_de, &new_de_text, &old_en), None);
+        // The English lost a formula: retranslate.
+        let old_en_short = format!("So {a} and {c}.");
+        assert_eq!(try_auto_fix_remark(&old_de, &new_de, &old_en_short), None);
     }
 
     // A change that is not purely leading-`>` escaping is not treated as one.

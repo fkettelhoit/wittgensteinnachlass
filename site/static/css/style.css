@@ -485,6 +485,8 @@ details.similar details[open] {
     > section:has(
       > div > img.math-block:first-child,
       > div > .de > img.math-block:first-child,
+      > div > p:first-child > img.math-block-part:first-child,
+      > div > .de > p:first-child > img.math-block-part:first-child,
       > div > p:first-child > img:not([class]):first-child,
       > div > .de > p:first-child > img:not([class]):first-child
     )
@@ -659,10 +661,12 @@ section > div > .en > p:first-child > .series-number:first-child {
   background-color: var(--color-margin);
 }
 
-/* An inline formula wider than the column is cut off at its edge (at full size, so that it
-   keeps its em-based baseline alignment), instead of widening the page; transcription.css
-   leaves it uncapped for the EPUB and PDF. Block formulas shrink to fit instead. */
-img.math-inline {
+/* An inline formula (or piece of a long block formula) wider than the column is cut off at its
+   edge (at full size, so that it keeps its em-based baseline alignment), instead of widening
+   the page; transcription.css leaves it uncapped for the EPUB and PDF. Block formulas shrink to
+   fit instead. */
+img.math-inline,
+img.math-block-part {
   max-width: 100%;
   object-fit: cover;
   object-position: left center;
