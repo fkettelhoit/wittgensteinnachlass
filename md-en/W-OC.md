@@ -1854,7 +1854,7 @@ But how if he said: “I want to make a logical remark”? – – – When the 
 Doubtful and non-doubtful behavior. The former exists only if the latter exists.
 
 
-### [Ms-175](/ms-175/#54v.2+t55r.1) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54v.webp),[t55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/t55r.webp)</span> {#ms-175-54v-2--t55r-1}
+### [Ms-175](/ms-175/#54v.2+55r.1) <span class="fac">[54v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/54v.webp),[55r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-175/55r.webp)</span> {#ms-175-54v-2--55r-1}
 
 The psychiatrist, for example, might ask me, “Do you know what this is,” & I might answer, “I know that this is a chair; I am familiar with it; it has always been in my room.” He might not be testing my eyesight there, but rather my ability to recognize things, to know their name & their function. This is about being familiar with something. It would be wrong for me to say, “I think that this is a chair,” because that would express a willingness to have the statement tested. Whereas “I know that this is…” implies that _surprise_ would occur if confirmation did not occur.
 

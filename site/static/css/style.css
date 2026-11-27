@@ -147,7 +147,8 @@ details,
 
 p,
 ul,
-hr {
+hr,
+table {
   margin: 0 0 2rem 0;
 }
 

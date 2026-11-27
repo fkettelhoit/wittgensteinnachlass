@@ -850,79 +850,79 @@ Ts-211.md:81.3 sweeping
 Ts-211.md:85.4+86.1 mmmmm
 Ts-211.md:89.4 johnson
 Ts-211.md:9.2 baron münchhausen
-Ts-212.md:1015.2 foreshadowing
-Ts-212.md:1049.1 bridge crossed
-Ts-212.md:1102.1+1103.1 tolstoi
-Ts-212.md:1167.1+1168.1 hertz
-Ts-212.md:1215.1+1216.1+1217.1 kreis
-Ts-212.md:1246.1+1247.1 minima visibilia
-Ts-212.md:1271.1+1272.1 relief
-Ts-212.md:1273.1 minima visibilia
-Ts-212.md:1274.5+1275.1 minima visibilia
-Ts-212.md:1279.1 minimum visibile
-Ts-212.md:129.2 laut
-Ts-212.md:1315.1+1316.1 specious
-Ts-212.md:1321.1+1322.1 kronecker
-Ts-212.md:1330.1 intervention
-Ts-212.md:1332.1+1333.1 julius
-Ts-212.md:1356.1 syntax
-Ts-212.md:1376.5 business
-Ts-212.md:1402.1 whitehead
-Ts-212.md:1405.1 hilbert
-Ts-212.md:1445.1 dirichlet
-Ts-212.md:1446.1 kontradiktion tautologie
-Ts-212.md:1448.1 analyse
-Ts-212.md:1455.1 syntax
-Ts-212.md:1460.1 infinity
-Ts-212.md:1497.1+1498.1 arxrb aryrb
-Ts-212.md:1499.1 reducibility
-Ts-212.md:1506.1 aaaa clcggl
-Ts-212.md:1542.1 scheffer
-Ts-212.md:1543.1+1544.1 fermat riemann
-Ts-212.md:1544.3 fermat
-Ts-212.md:1544.4 fermat
-Ts-212.md:1568.1+1569.1 dicta
-Ts-212.md:1579.2+1580.1 sinus
-Ts-212.md:1588.1+1589.1 syntax
-Ts-212.md:1596.1 fermat
-Ts-212.md:1601.1+1602.1 klamank volksmärchen
-Ts-212.md:1619.1 euler
-Ts-212.md:1632.1+1633.1 syntax
-Ts-212.md:165.2 definiendum
-Ts-212.md:1656.3 suite
-Ts-212.md:1664.1+1665.1 kant
-Ts-212.md:1669.3 iteration
-Ts-212.md:1734.1 explicit
-Ts-212.md:1737.3 scheffer
-Ts-212.md:1745.1 liebig
-Ts-212.md:1748.1 scheffer
-Ts-212.md:1751.1 scheffer
-Ts-212.md:1761.1 alpha
-Ts-212.md:180.1+181.1 adbcb
-Ts-212.md:1830.1 type
-Ts-212.md:1843.1 fermat
-Ts-212.md:1872.1 type
-Ts-212.md:1913.1 chasse malheurs
-Ts-212.md:1929.1+1930.1 groß klein
-Ts-212.md:260.1 atlas
-Ts-212.md:279.1 bccbad bccbda
-Ts-212.md:425.1 galton
-Ts-212.md:426.2+427.1 minimum
-Ts-212.md:453.3 magnet
-Ts-212.md:530.1 teekanne
-Ts-212.md:547.1+548.1+549.1 blau blauen fleck
-Ts-212.md:554.1 intervention
-Ts-212.md:571.2 haus kirche stadt
-Ts-212.md:576.2 abbc
-Ts-212.md:633.1 nuce
-Ts-212.md:673.1 explicit
-Ts-212.md:717.1 imperative
-Ts-212.md:722.1 dogmas
-Ts-212.md:767.4 fermat
-Ts-212.md:770.1 syntax
-Ts-212.md:786.1 psychischer vorgang
-Ts-212.md:87.1 bdca cdab fhge
-Ts-212.md:97.1 bedeutung deuten
+Ts-212.md:XI-78-7.2 foreshadowing
+Ts-212.md:XI-80-7.1 bridge crossed
+Ts-212.md:XII-86-2.1+XII-86-3.1 tolstoi
+Ts-212.md:XII-89-33.1+XII-89-34.1 hertz
+Ts-212.md:XIII-94-4.1+XIII-94-5.1+XIII-94-6.1 kreis
+Ts-212.md:XIII-96-12.1+XIII-96-13.1 minima visibilia
+Ts-212.md:XIII-98-9.1+XIII-98-10.1 relief
+Ts-212.md:XIII-99FCr.1 minima visibilia
+Ts-212.md:XIII-99-1.5+XIII-99-2.1 minima visibilia
+Ts-212.md:XIII-99-6.1 minimum visibile
+Ts-212.md:II-9-7.2 laut
+Ts-212.md:XIV-102-5.1+XIV-102-6.1 specious
+Ts-212.md:XIV-102-11.1+XIV-102-12.1 kronecker
+Ts-212.md:XIV-103-6v.1 intervention
+Ts-212.md:XIV-103-8.1+XIV-103-9.1 julius
+Ts-212.md:XIV-105-3.1 syntax
+Ts-212.md:XIV-106-9.5 business
+Ts-212.md:XV-109-5.1 whitehead
+Ts-212.md:XV-109-8.1 hilbert
+Ts-212.md:XV-113-2.1 dirichlet
+Ts-212.md:XV-113-3.1 kontradiktion tautologie
+Ts-212.md:XV-113-4.1 analyse
+Ts-212.md:XV-114-5.1 syntax
+Ts-212.md:XVI-115-3.1 infinity
+Ts-212.md:XVI-116-8.1+XVI-116-9.1 arxrb aryrb
+Ts-212.md:XVI-116-10.1 reducibility
+Ts-212.md:XVI-116-16.1 aaaa clcggl
+Ts-212.md:XVII-119-7.1 scheffer
+Ts-212.md:XVII-119-8.1+XVII-119-9.1 fermat riemann
+Ts-212.md:XVII-119-9.3 fermat
+Ts-212.md:XVII-119-9.4 fermat
+Ts-212.md:XVII-121-2.1+XVII-121-3.1 dicta
+Ts-212.md:XVII-121-13.2+XVII-121-14.1 sinus
+Ts-212.md:XVII-121-23.1+XVII-121-24.1 syntax
+Ts-212.md:XVII-122-3.1 fermat
+Ts-212.md:XVII-122-8.1+XVII-122-9.1 klamank volksmärchen
+Ts-212.md:XVII-123-1.1 euler
+Ts-212.md:XVII-124-7.1+XVII-124-8.1 syntax
+Ts-212.md:II-12-6.2 definiendum
+Ts-212.md:XVIII-127-5.3 suite
+Ts-212.md:XVIII-128-5.1+XVIII-128-6.1 kant
+Ts-212.md:XVIII-129-3.3 iteration
+Ts-212.md:XVIII-134-10.1 explicit
+Ts-212.md:XVIII-134-13.3 scheffer
+Ts-212.md:XVIII-134-21.1 liebig
+Ts-212.md:XVIII-134-24.1 scheffer
+Ts-212.md:XVIII-134-27.1 scheffer
+Ts-212.md:XVIII-135-5.1 alpha
+Ts-212.md:II-13-14.1+II-13-15.1 adbcb
+Ts-212.md:XIX-138-8.1 type
+Ts-212.md:XIX-139-11.1 fermat
+Ts-212.md:XIX-142-7.1 type
+Ts-212.md:XIX-146-1.1 chasse malheurs
+Ts-212.md:XIX-147-12.2+XIX-147-13.1 groß klein
+Ts-212.md:III-19-5r.1 atlas
+Ts-212.md:III-21-12.1 bccbad bccbda
+Ts-212.md:III-33-10.1 galton
+Ts-212.md:III-33-11.2+III-33-12.1 minimum
+Ts-212.md:IV-35-5.3 magnet
+Ts-212.md:V-40-10.1 teekanne
+Ts-212.md:V-41-13.1+V-41-14.1+V-41-15.1 blau blauen fleck
+Ts-212.md:V-42-4r.1 intervention
+Ts-212.md:V-42-21.2 haus kirche stadt
+Ts-212.md:V-42-26.2 abbc
+Ts-212.md:VI-48-1.1 nuce
+Ts-212.md:VI-54-2.1 explicit
+Ts-212.md:VII-57-14.1 imperative
+Ts-212.md:VII-58-4.1 dogmas
+Ts-212.md:VII-60-12.4 fermat
+Ts-212.md:VII-60-15r.1 syntax
+Ts-212.md:VIII-62-10.1 psychischer vorgang
+Ts-212.md:I-6-5.1 bdca cdab fhge
+Ts-212.md:II-7-5.1 bedeutung deuten
 Ts-212.md:XIX-141-4.2 besteht bilden daß diesem drei tatsache vasen zimmer
 Ts-212.md:XVIII-129-3.4 iteration
 Ts-213.md:223r.5 philebos

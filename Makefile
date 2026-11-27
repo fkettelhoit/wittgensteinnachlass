@@ -57,8 +57,8 @@ deploy: content
 
 # --- Build steps ------------------------------------------------------------
 
-# Hugo content (needs md/ + md-en/)
-content:
+# Hugo content (needs md/ + md-en/, and similar/similar.tsv for the version links)
+content: similar
 	tools/build_site.sh
 
 check-fonts:
@@ -69,8 +69,8 @@ check-fonts:
 		exit 1; \
 	fi
 
-# Visualizations (independent, needs only md/ + similar/similar.tsv)
-viz:
+# Visualizations (needs md/ + similar/similar.tsv)
+viz: similar
 	cd tools/visualize && cargo run --release -- --all --all-docs --all-similar
 
 # Covers (independent, needs only md/)
@@ -117,7 +117,8 @@ check:
 # --- Misc -------------------------------------------------------------------
 
 # Find textually similar remarks across all manuscripts and typescripts and write them
-# to similar/similar.tsv (committed). Run by hand after the German sources changed.
+# to similar/similar.tsv (generated, not committed). Derived from md/ alone, so `content`
+# and `viz` regenerate it on every build (a few seconds) and it is never stale.
 similar:
 	cd tools/similar && cargo run --release
 

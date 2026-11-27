@@ -10,7 +10,7 @@ cargo run --release -- --samples 5 --samples-max-shared 5   # only pairs with li
 
 ## Method
 
-1. **Remarks** are split at `### ` headings. Each is identified by its Bergen-style siglum (`Ms-115,118[2]et119[1]`). The transcription's own extensions (`-relocated`, `.2`) are kept. Sigla that occur more than once in a document (cut-up typescripts) get `-2`, `-3`, … in document order.
+1. **Remarks** are split at `### ` headings. Each is identified by its Bergen-style siglum (`Ms-115,118[2]et119[1]`), read from all facsimile labels in the heading, linked or not. The transcription's own extensions (`-relocated`, `.2`) are kept. The parser guarantees that sigla are unique within a document; the tool fails if one occurs twice. `tools/add_versions.py` and `tools/visualize` read sigla from headings the same way, so their keys match those in `similar.tsv`.
 2. **Normalization:** section titles, date lines, rules, math, images and series numbers are dropped. Deletions (`<s>`) are dropped unless they make up more than half of the remark, since Wittgenstein often struck whole remarks after copying them. The text is lowercased, `ß` → `ss`, `&`/`and` → `und`, dotted abbreviations are joined (`d.h.` → `dh`, `u.s.w.` → `usw`), hyphens inside words are removed, and punctuation is ignored. No stemming, no stop words.
 3. **Shingles:** each remark becomes the set of its overlapping 3-word sequences (`--k`). Shingles that occur in more than 100 remarks (`--max-df`) are stock phrases and are ignored.
 4. **Score:** IDF-weighted containment: the IDF weight of the shared shingles divided by the total IDF weight of the shorter remark. A short remark fully contained in a longer one therefore scores 1.0.
@@ -18,7 +18,7 @@ cargo run --release -- --samples 5 --samples-max-shared 5   # only pairs with li
 
 ## Output
 
-`similar/similar.tsv`, tab-separated with a header row. Each pair appears once, ordered by document and position. The output is deterministic.
+`similar/similar.tsv` is generated, not committed: `make content` and `make viz` depend on `make similar`, so every build (including CI) regenerates it from the current `md/`. It is tab-separated with a header row. Each pair appears once, ordered by document and position. The output is deterministic.
 
 | column | meaning |
 |---|---|

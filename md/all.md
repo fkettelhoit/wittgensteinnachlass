@@ -441,7 +441,7 @@
 
 ### [Ts-230c](Ts-230c.md) <span class="doc-info">– 547 remarks, 'Bemerkungen II.'; 1945–46?</span>
 
-### [Ts-231](Ts-231.md) <span class="doc-info">– 8 remarks, concordance of Bemerkungen I and II; 1945–46?</span>
+### [Ts-231](Ts-231.md) <span class="doc-info">– 2 remarks, concordance of Bemerkungen I and II; 1945–46?</span>
 
 ### [Ts-235](Ts-235.md) <span class="doc-info">– 147 remarks, a table of contents; 1945?</span>
 

@@ -101,10 +101,7 @@ fn main() {
         .map(|r| {
             let tokens = normalize::tokens(&r.body);
             let shingles = shingles(&tokens, args.k);
-            let (base, occurrence) = &r.date_key;
-            let date = dates
-                .get(base)
-                .and_then(|v| v.get(*occurrence).or(v.first()).cloned().flatten());
+            let date = dates.get(&r.date_key).cloned().flatten();
             let doc = r.siglum.split(',').next().unwrap().to_string();
             Doc { siglum: r.siglum, doc, date, tokens, shingles }
         })

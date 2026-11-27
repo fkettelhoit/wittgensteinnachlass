@@ -2,7 +2,8 @@
 # Only for remarks with no translatable content (tables, etc.).
 # Format: filename:remark_id
 # Lines starting with # are comments.
-Ts-231.md:a1.1
+Ts-231.md:a1.1+a2.1+a3.1+a4.1
+Ts-231.md:b1.1+b2.1+b3.1+b4.1
 # Ms-301: remarks already in English
 Ms-301.md:1.1
 Ms-301.md:2.1+3.1+4.1

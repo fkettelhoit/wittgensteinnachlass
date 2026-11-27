@@ -7,6 +7,8 @@ use std::sync::LazyLock;
 /// A Markdown link: `[text](url)`, where the text may contain escaped brackets.
 static LINK_RE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new(r"\[([^\]]*(?:\\.[^\]]*)*)\]\(([^)]+)\)").unwrap());
+static FAC_SPAN: LazyLock<Regex> =
+    LazyLock::new(|| Regex::new(r#"<span class="fac">(.*?)</span>"#).unwrap());
 static DATE_RE: LazyLock<Regex> =
     LazyLock::new(|| Regex::new(r"^(\d{2})\.(\d{2})\.(\d{4})$").unwrap());
 
@@ -49,30 +51,12 @@ pub struct Correspondence {
     pub source_idx: usize,
 }
 
-/// Compute the anchor ID from a remark heading's page refs.
-/// E.g., heading `### [1\[1\]](url)` → page ref text `1[1]` → anchor `1.1`
-/// Skips work reference links (internal URLs starting with `/`) and only
-/// uses facsimile links (external URLs) for the anchor.
+/// Compute the anchor ID from a remark heading's facsimile labels, as the parser's
+/// remark_anchor_id does: `### <span class="fac">[1\[1\]](url),2\[1\]</span>` → `1.1+2.1`.
 fn anchor_from_doc_heading(heading: &str) -> String {
-    // Extract link text and URL pairs from the heading
-    let link_re = &*LINK_RE;
-    let mut parts = Vec::new();
-    for cap in link_re.captures_iter(heading) {
-        let url = &cap[2];
-        // Skip internal links (work references like /w-lw-1/#...)
-        if url.starts_with('/') {
-            continue;
-        }
-        let text = cap[1].replace("\\[", "[").replace("\\]", "]");
-        parts.push(text);
-    }
-    let joined = parts.join(",");
-    // Convert to anchor format: replace [ with ., drop ], join with +
-    // But actually we need to match the remark_anchor_id format from the parser:
-    // split by comma (which separates pages), then replace [ with . and drop ]
-    joined
-        .split(',')
-        .map(|seg| seg.replace('[', ".").replace(']', ""))
+    fac_labels(heading)
+        .iter()
+        .map(|label| label.replace('[', ".").replace(']', ""))
         .collect::<Vec<_>>()
         .join("+")
 }
@@ -132,12 +116,22 @@ pub fn parse_work(path: &Path) -> Work {
     Work { title, remarks }
 }
 
-/// Facsimile link labels of a remark heading (`118[2]`), skipping internal work links.
+/// Facsimile labels of a remark heading (`118[2]`): every label in its `fac` span, linked
+/// or not (labels without a facsimile are plain text: `XVIII-134-1\[1\],[XVIII-134-2\[1\]](url)`),
+/// exactly as tools/similar (parse.rs, page_refs) reads them.
 fn fac_labels(heading: &str) -> Vec<String> {
-    LINK_RE
-        .captures_iter(heading)
-        .filter(|cap| !cap[2].starts_with('/'))
-        .map(|cap| cap[1].replace("\\[", "[").replace("\\]", "]"))
+    let Some(fac) = FAC_SPAN.captures(heading) else {
+        return Vec::new();
+    };
+    fac[1]
+        .split(',')
+        .map(|label| {
+            let label = match (label.strip_prefix('['), label.find("](")) {
+                (Some(_), Some(end)) => &label[1..end],
+                _ => label,
+            };
+            label.replace("\\[", "[").replace("\\]", "]")
+        })
         .collect()
 }
 
@@ -158,7 +152,6 @@ pub fn parse_source_doc(path: &Path) -> SourceDoc {
 
     let mut anchors = Vec::new();
     let mut sigla = Vec::new();
-    let mut seen_sigla: HashMap<String, usize> = HashMap::new();
     let mut breaks = Vec::new();
     let mut work_links = Vec::new();
     let mut current_has_separator = false;
@@ -186,10 +179,8 @@ pub fn parse_source_doc(path: &Path) -> SourceDoc {
             }
             anchors.push(anchor_from_doc_heading(line));
             work_links.push(work_links_of_heading(line));
-            let siglum = format!("{doc_name},{}", fac_labels(line).join("et"));
-            let n = seen_sigla.entry(siglum.clone()).or_default();
-            *n += 1;
-            sigla.push(if *n > 1 { format!("{siglum}-{n}") } else { siglum });
+            // Unique: the parser guarantees it, and tools/similar asserts it.
+            sigla.push(format!("{doc_name},{}", fac_labels(line).join("et")));
             current_has_separator = false;
             current_date = None;
             in_remark = true;

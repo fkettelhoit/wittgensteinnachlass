@@ -1560,7 +1560,7 @@ Was ist die ideale Repräsentation der Farbe? Ist es nicht so etwas, wie durch e
 
 ---
 
-### [Ms-169](/ms-169/#80v.2+81r.1) <span class="fac">[80v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-169/80v.webp),[81r\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-169/BCr.webp)</span>
+### [Ms-169](/ms-169/#80v.2+BCr.1) <span class="fac">[80v\[2\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-169/80v.webp),[BCr\[1\]](https://cdn.wittgensteinnachlass.com/2000px/webp/Ms-169/BCr.webp)</span>
 
 ‘Es hat keinen _Sinn_: er _wisse_ meine Gedanken.’ So ist das Forschen nach den Gedanken des Andern nicht das Spiel, wo “wissen” angewendet werden soll. – So bezieht sich der Satz auf's ganze Sprachspiel. Sagt aber der Astronom wenn er eine Mondesfinsternis berechnet, die Zukunft könne man nie wissen? Man sagt es, wo man sich über sie unsicher fühlt. – Sagt der Fabrikant, man könne natürlich nicht wissen, ob seine Automobile funktionieren werden?
 

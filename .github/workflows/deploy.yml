@@ -59,6 +59,7 @@ jobs:
         uses: Swatinem/rust-cache@v2
         with:
           workspaces: |
+            tools/similar
             tools/visualize
             tools/covers
             tools/ebooks
@@ -145,8 +146,10 @@ jobs:
           make check-fonts
           # Pre-build the tools sequentially so the parallel run below only executes
           # binaries — keeps several rustc compiles from contending for memory at once.
-          for t in visualize covers ebooks pdfs; do (cd "tools/$t" && cargo build --release); done
+          for t in similar visualize covers ebooks pdfs; do (cd "tools/$t" && cargo build --release); done
           # Bounded parallelism (= vCPU count) overlaps the independent asset targets.
+          # `viz` first regenerates similar/similar.tsv from md/ (`make similar`), which is
+          # generated rather than committed; `make content` below regenerates it again.
           xvfb-run -a make -j"$(nproc)" viz covers epub pdf
 
       - name: Build content and Hugo site

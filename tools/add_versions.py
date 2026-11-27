@@ -79,32 +79,38 @@ def date_base(siglum):
     return m.group(1) if m else siglum
 
 
+def page_refs(heading):
+    """The siglum part after the comma (`118[2]et119[1]`) of a remark heading, exactly as
+    tools/similar (parse.rs, page_refs) derives it: every facsimile label in the `fac`
+    span, linked or not (`XVIII-134-1\\[1\\],[XVIII-134-2\\[1\\]](url)`)."""
+    fac = FAC_SPAN.search(heading)
+    if not fac:
+        return ""
+    labels = []
+    for label in fac.group(1).split(","):
+        if label.startswith("[") and "](" in label:
+            label = label[1:label.index("](")]
+        labels.append(label.replace("\\[", "[").replace("\\]", "]"))
+    return "et".join(labels)
+
+
 def parse_remarks(md_dir, docs):
     """siglum → dict(doc, fragment, date_key, pos), mirroring tools/similar (sigla)
     and tools/search-index (fragments)."""
     remarks = {}
     pos = 0
     for doc in docs:
-        seen_sigla = defaultdict(int)
         with open(os.path.join(md_dir, doc + ".md"), encoding="utf-8") as f:
             for line in f:
                 if not line.startswith("### "):
                     continue
                 heading = line[4:].rstrip("\n")
                 fac = FAC_SPAN.search(heading)
-                labels = [
-                    m.group(1).replace("\\[", "[").replace("\\]", "]")
-                    for m in FAC_LINK.finditer(fac.group(1) if fac else heading)
-                ]
                 fragment = remark_id(fac.group(1)) if fac else None
-                # Siglum, exactly as tools/similar assigns it.
-                siglum = f"{doc},{'et'.join(labels)}"
-                seen_sigla[siglum] += 1
-                n = seen_sigla[siglum]
-                key = (date_base(siglum), n - 1)
-                if n > 1:
-                    siglum = f"{siglum}-{n}"
-                remarks[siglum] = {"doc": doc, "fragment": fragment, "date_key": key, "pos": pos}
+                siglum = f"{doc},{page_refs(heading)}"
+                # The parser guarantees unique sigla (tools/similar asserts it too).
+                assert siglum not in remarks, f"siglum occurs twice: {siglum}"
+                remarks[siglum] = {"doc": doc, "fragment": fragment, "date_key": date_base(siglum), "pos": pos}
                 pos += 1
     return remarks
 
@@ -236,11 +242,12 @@ def published_docs(md_dir, docs):
 
 
 def load_dates(path):
-    dates = defaultdict(list)
+    """siglum → (start, end), or None for undated remarks (md/dates.tsv, one row per remark)."""
     with open(path, encoding="utf-8") as f:
-        for row in csv.DictReader(f, delimiter="\t"):
-            dates[row["siglum"]].append((row["start"], row["end"]) if row["start"] else None)
-    return dates
+        return {
+            row["siglum"]: (row["start"], row["end"]) if row["start"] else None
+            for row in csv.DictReader(f, delimiter="\t")
+        }
 
 
 def load_versions(path, min_score):
@@ -269,10 +276,7 @@ def short_name(doc):
 
 def nav_html(entries, remarks, dates, first_line=False):
     def date_of(siglum):
-        base, occurrence = remarks[siglum]["date_key"]
-        ranges = dates.get(base, [])
-        d = ranges[occurrence] if occurrence < len(ranges) else (ranges[0] if ranges else None)
-        return d or ("99999999", "99999999")
+        return dates.get(remarks[siglum]["date_key"]) or ("99999999", "99999999")
 
     entries = [(s, g) for s, g in entries if s in remarks and remarks[s]["fragment"]]
     entries.sort(key=lambda e: (GROUP_ORDER[e[1]], date_of(e[0]), remarks[e[0]]["pos"]))
@@ -325,29 +329,20 @@ def main():
     summaries = 0
     for name in docs + works:
         is_work = name.startswith("W-")
-        seen_sigla = defaultdict(int)
         out = []
         with open(os.path.join(md_dir, name + ".md"), encoding="utf-8") as f:
             for line in f:
                 out.append(line)
                 if not line.startswith("### "):
                     continue
-                fac = FAC_SPAN.search(line)
-                labels = [
-                    m.group(1).replace("\\[", "[").replace("\\]", "]")
-                    for m in FAC_LINK.finditer(fac.group(1) if fac else line)
-                ]
                 if is_work:
                     # A work remark is its source remark: `### [Ts-227a](/ts-227a/#1.1) …`
                     source = WORK_SOURCE.match(line)
                     if not source:
                         continue
-                    siglum = f"{source.group(1)},{'et'.join(labels)}"
+                    siglum = f"{source.group(1)},{page_refs(line)}"
                 else:
-                    siglum = f"{name},{'et'.join(labels)}"
-                    seen_sigla[siglum] += 1
-                    if seen_sigla[siglum] > 1:
-                        siglum = f"{siglum}-{seen_sigla[siglum]}"
+                    siglum = f"{name},{page_refs(line)}"
                 # A heading that starts with a link has references in the work column:
                 # works on document pages, the source document on work pages.
                 first_line = not line.startswith("### [")
