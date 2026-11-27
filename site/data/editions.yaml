@@ -9,6 +9,9 @@
 #   year:    year of first publication of that edition
 #   extra:   optional text appended after the year (HTML allowed)
 #   credit:  optional full replacement for the "Edited by …" sentence (HTML allowed)
+#   revision: optional second line, only for a revised edition or a title not chosen by
+#            the editors (HTML allowed); the editors' line must fit on one line in the
+#            German column of the German/English pages
 
 W-BBB:
   editors: Rush Rhees
@@ -20,7 +23,8 @@ W-DB:
   editors: Ilse Somavilla
   year: 1997
 W-EPB:
-  credit: Edited by Rush Rhees (1970), who also gave it its title.
+  editors: Rush Rhees
+  year: 1970
 W-GB:
   editors: Rush Rhees
   year: 1967
@@ -50,15 +54,13 @@ W-NL:
   # edition based Appendix I on TS 201a, which is what this page follows.
   editors: G.H. von Wright and G.E.M. Anscombe
   year: 1979
-  extra: in the second edition of the <em>Notebooks 1914–1916</em>
 W-NM:
   editors: G.H. von Wright and G.E.M. Anscombe
   year: 1961
-  extra: as Appendix II of the <em>Notebooks 1914–1916</em>
 W-NPL:
   editors: David G. Stern
   year: 1993
-  extra: in <em>Philosophical Occasions 1912–1951</em>
+  extra: in <em>Philosophical Occasions</em>
 W-OC:
   editors: G.E.M. Anscombe and G.H. von Wright
   year: 1969
@@ -72,10 +74,8 @@ W-PI:
   editors: G.E.M. Anscombe and Rush Rhees
   year: 1953
 W-PPF:
-  credit: >-
-    Edited by G.E.M. Anscombe and Rush Rhees (1953) as Part II of the
-    <em>Philosophical Investigations</em>; titled <em>Philosophy of Psychology – A
-    Fragment</em> by P.M.S. Hacker and Joachim Schulte (2009).
+  credit: Edited by G.E.M. Anscombe and Rush Rhees (1953) as <em>PI</em>, Part II.
+  revision: Retitled by P.M.S. Hacker and Joachim Schulte (2009).
 W-PR:
   editors: Rush Rhees
   year: 1964
@@ -83,11 +83,10 @@ W-PT:
   editors: B.F. McGuinness, T. Nyberg and G.H. von Wright
   year: 1971
 W-RFM:
-  editors: G.H. von Wright, Rush Rhees and G.E.M. Anscombe
-  year: 1956
+  credit: Edited by G.H. von Wright, Rush Rhees and G.E.M. Anscombe.
   # The revised and expanded German edition (Suhrkamp, Schriften 6) with Parts I–VII;
   # the English third edition followed in 1978
-  extra: revised 1974
+  revision: First published 1956, revised edition 1974.
 W-ROC:
   editors: G.E.M. Anscombe
   year: 1977
@@ -101,11 +100,11 @@ W-RPP-2:
   editors: G.H. von Wright and Heikki Nyman
   year: 1980
 W-TLP:
-  credit: Published by Wittgenstein in 1921; the English title was suggested by G.E. Moore.
+  credit: Published by Wittgenstein (1921).
 W-VB:
-  editors: G.H. von Wright in collaboration with Heikki Nyman
+  editors: G.H. von Wright with Heikki Nyman
   year: 1977
-  extra: revised edition by Alois Pichler 1994
+  revision: Revised edition by Alois Pichler (1994).
 W-Z:
   editors: G.E.M. Anscombe and G.H. von Wright
   year: 1967

@@ -225,6 +225,7 @@ nav:not(.versions),
 .search-options,
 .search-end,
 .edition-credit,
+.edition-revision,
 .search-input::placeholder {
   font-style: italic;
 }
@@ -718,6 +719,15 @@ body.bilingual {
     grid-column: 1;
   }
 
+  /* So do the lines between the title and the summaries (the document's description, the
+     work's edition note), which would otherwise run into the English column. */
+  @media (width >= 68rem) {
+    & .doc-description,
+    & .edition-note {
+      max-width: calc((100% - 2rem) / 2);
+    }
+  }
+
   & .en,
   & .en a,
   & .en h2 {
@@ -823,7 +833,8 @@ body.bilingual {
   }
 }
 
-.edition-credit {
+.edition-credit,
+.edition-revision {
   display: block;
 }
 

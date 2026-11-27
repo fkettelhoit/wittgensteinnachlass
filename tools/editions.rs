@@ -1,5 +1,6 @@
-//! The editor note of the published works (W-*), as on the site: "Edited by … (year)."
-//! and how the text differs from the printed book. Shared by the ebooks and pdfs tools
+//! The editor note of the published works (W-*), as on the site: "Edited by … (year).",
+//! a revised edition or later title if there is one, and how the text differs from the
+//! printed book. Shared by the ebooks and pdfs tools
 //! (`#[path = "../../editions.rs"] mod editions;`). The editors are in
 //! site/data/editions.yaml, the wording in site/data/edition_note.yaml next to it — the
 //! same files the site's layouts/partials/edition-note.html reads.
@@ -92,9 +93,13 @@ pub fn note(stem: &str, editions: &Path) -> Option<String> {
                 .replace("{extra}", &extra))
         })
     });
+    // A revised edition or a later title, on a line of its own after the editors.
+    let revision = key.and_then(|k| works[k].get("revision"));
     let mut md = String::new();
-    if let Some(c) = credit {
-        md.push_str(&format!("<p><em>{c}</em></p>\n\n"));
+    match (credit, revision) {
+        (Some(c), Some(r)) => md.push_str(&format!("<p><em>{c}</em><br><em>{r}</em></p>\n\n")),
+        (Some(c), None) => md.push_str(&format!("<p><em>{c}</em></p>\n\n")),
+        _ => {}
     }
     md.push_str(&format!("<p>{}</p>\n\n", wording.get("note")?.replace("{about}", ABOUT)));
     Some(md)
