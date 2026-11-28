@@ -640,7 +640,7 @@ h2 > .fragment-link {
     color: var(--color-heading);
   }
 
-  @media (hover: hover) {
+  @media (hover: hover) and (width >= 68rem) {
     opacity: 0;
 
     h2:hover > &,
