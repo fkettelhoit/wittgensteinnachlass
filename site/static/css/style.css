@@ -1252,9 +1252,13 @@ a.sigil-help {
 .search-input {
   font-family: var(--font-body);
   font-size: 1.125rem;
+  /* An input clips its text to the line box, and Pagella's ascent (0.73em) is lower than
+     accented capitals (Ü 0.87em, Å 0.94em), so the line box is made taller than `normal`
+     (with less padding, the field keeps its height). */
+  line-height: 1.5;
   width: 100%;
   box-sizing: border-box;
-  padding: 0.4rem 0;
+  padding: 0.125rem 0;
   margin: 0 0 0.5rem 0;
   color: var(--color-text);
   background: transparent;
