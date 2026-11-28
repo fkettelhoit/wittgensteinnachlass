@@ -1726,7 +1726,7 @@ main [id] {
   padding: 1rem 1.25rem;
   background: var(--color-bg);
   color: var(--color-text);
-  box-shadow: 0 0.5rem 2rem color-mix(in srgb, var(--color-shade) 25%, transparent);
+  border: 1px solid var(--color-margin);
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5rem;
@@ -1781,7 +1781,7 @@ main [id] {
 }
 
 .tour-count {
-  color: var(--color-margin);
+  color: var(--color-margin-link);
   font-size: 0.8rem;
 }
 
@@ -1799,7 +1799,7 @@ main [id] {
   white-space: nowrap;
 }
 
-/* "New here?" and, in a bubble pointing at it, the call to action. */
+/* "New here?" and the call to action, with an arrow pointing at it. */
 .status:has(+ .tour-start:not([hidden])) {
   margin-bottom: 1.3rem;
 }
@@ -1816,32 +1816,29 @@ main [id] {
 }
 
 .tour-bubble {
-  --bubble-line: 1px solid color-mix(in srgb, var(--color-shade) 15%, transparent);
+  --bubble-color: var(--color-link);
   position: relative;
-  padding: 0.5rem;
-  background: var(--color-bg);
-  border: var(--bubble-line);
-  box-shadow: 0 0.25rem 0.75rem color-mix(in srgb, var(--color-shade) 12%, transparent);
-  line-height: 1.5rem;
+  display: flex;
 
   /* #444 in light mode, #a9a9a9 in dark mode. */
-  &:hover .tour-button {
-    background: color-mix(in srgb, var(--color-link), var(--color-bg) 26.7%);
+  &:hover {
+    --bubble-color: color-mix(in srgb, var(--color-link), var(--color-bg) 26.7%);
   }
 
-  /* The arrow pointing left, continuing the hairline. */
+  & .tour-button {
+    background: var(--bubble-color);
+  }
+
+  /* The arrow pointing left, out of the button (overlapping it by 1px, so that no seam shows). */
   &::before {
     content: "";
     position: absolute;
-    top: calc(50% - 0.35rem);
-    left: calc(-0.35rem - 1px);
-    box-sizing: border-box;
-    width: 0.7rem;
-    height: 0.7rem;
-    background: var(--color-bg);
-    border-left: var(--bubble-line);
-    border-bottom: var(--bubble-line);
-    transform: rotate(45deg);
+    top: calc(50% - 0.4rem);
+    right: calc(100% - 1px);
+    width: calc(0.4rem + 1px);
+    height: 0.8rem;
+    background: var(--bubble-color);
+    clip-path: polygon(100% 0, 0 50%, 100% 100%);
   }
 }
 
