@@ -711,6 +711,13 @@ section > h3 > .versions a {
   white-space: nowrap;
 }
 
+/* The arrows (from Pagella, nearly an em wide) narrower, at their full height. */
+.versions .arrow {
+  display: inline-block;
+  transform: scaleX(0.8);
+  margin: 0 -0.14em;
+}
+
 @media (width < 68rem) {
   section > h3:has(> a:not(.fragment-link), > .versions) + .fac::before {
     content: "· ";

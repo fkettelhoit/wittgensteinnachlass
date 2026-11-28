@@ -153,7 +153,7 @@
       next: () => (document.querySelector(`${VERSIONS} details`).open = true),
       undo: () => document.querySelector(`[id="${MOTTO}"] + .fac a`)?.click(),
       title: "Versions",
-      text: "This remark also appears in other documents. <strong>←227b</strong> is an earlier version in Ts-227b; → marks later versions and ≈ versions from the same time. Useful for finding early drafts or later uses. <strong>+1</strong> means there is one more.\n\nOpen <strong>+1</strong> and click <strong>→134</strong>.",
+      text: "This remark also appears in other documents. <strong>←227b</strong> is an earlier version in Ts-227b; → marks later versions and ↔ versions whose order the dates leave open. Useful for finding early drafts or later uses. <strong>+1</strong> means there is one more.\n\nOpen <strong>+1</strong> and click <strong>→134</strong>.",
     },
     {
       page: MS134,

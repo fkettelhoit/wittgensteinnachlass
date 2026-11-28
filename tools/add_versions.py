@@ -8,10 +8,10 @@ Writes a copy of every Ms-*/Ts-* document and W-* work from <md-dir> to <out-dir
 with an HTML block inserted at the start of each remark that has versions (in works,
 the versions of the remark's source remark):
 
-    <nav class="versions"><a …>←172</a> <details><summary>+4</summary><a …>≈213</a>…</details></nav>
+    <nav class="versions"><a …>←172</a> <details><summary>+4</summary><a …>↔213</a>…</details></nav>
 
 The first entry of the remark's chronology is always visible; the rest are behind
-`+N`. Entries are ordered earlier (←), concurrent (≈), later (→), and by date within
+`+N`. Entries are ordered earlier (←), of uncertain order (↔), later (→), and by date within
 each group. Labels drop the Ms-/Ts- prefix; a document that occurs more than once in
 a remark's list gets a superscript index. The page template moves the block from the
 remark body into the heading, i.e. the margin column with the work references.
@@ -58,9 +58,9 @@ FAC_SPAN = re.compile(r'<span class="fac">(.*?)</span>')
 FAC_LINK = re.compile(r"\[((?:\\.|[^\]\\])*)\]\((https?://[^)]+)\)")
 WORK_SOURCE = re.compile(r"^### \[((?:Ms|Ts)-[^\]]+)\]\(/")
 
-ARROWS = {"earlier": "←", "concurrent": "≈", "later": "→"}
-TITLES = {"earlier": "Earlier version", "concurrent": "Concurrent version", "later": "Later version"}
-GROUP_ORDER = {"earlier": 0, "concurrent": 1, "later": 2}
+ARROWS = {"earlier": "←", "uncertain": "↔", "later": "→"}
+TITLES = {"earlier": "Earlier version", "uncertain": "Version of uncertain order", "later": "Later version"}
+GROUP_ORDER = {"earlier": 0, "uncertain": 1, "later": 2}
 
 
 def remark_id(fac):
@@ -265,8 +265,8 @@ def load_versions(path, min_score):
                 versions[a].append((b, "earlier"))
                 versions[b].append((a, "later"))
             else:
-                versions[a].append((b, "concurrent"))
-                versions[b].append((a, "concurrent"))
+                versions[a].append((b, "uncertain"))
+                versions[b].append((a, "uncertain"))
     return versions
 
 
@@ -290,7 +290,7 @@ def nav_html(entries, remarks, dates, first_line=False):
     links = []
     for s, group in entries:
         r = remarks[s]
-        label = ARROWS[group] + short_name(r["doc"])
+        label = f'<span class="arrow">{ARROWS[group]}</span>{short_name(r["doc"])}'
         if per_doc[r["doc"]] > 1:
             index[r["doc"]] += 1
             label += f"<sup>{index[r['doc']]}</sup>"
