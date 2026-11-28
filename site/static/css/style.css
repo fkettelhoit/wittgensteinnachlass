@@ -1274,6 +1274,48 @@ a.sigil-help {
   &::-webkit-search-decoration {
     appearance: none;
   }
+
+  &::placeholder {
+    color: var(--color-margin-link);
+    opacity: 1;
+  }
+
+  /* Room for the magnifying glass before the placeholder (below). */
+  &:placeholder-shown {
+    padding-left: 0.9em;
+  }
+}
+
+/* The box and, laid over it while it is empty, a magnifying glass before the placeholder
+   (on the box's line, so on its baseline; clicks go through to the box). */
+.search-field {
+  display: block;
+  position: relative;
+
+  &:has(> .search-input[hidden]) {
+    display: none;
+  }
+}
+
+.search-field-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  padding-top: 0.125rem;
+  color: var(--color-margin-link);
+  pointer-events: none;
+
+  .search-input:not(:placeholder-shown) + & {
+    display: none;
+  }
+
+  & svg {
+    width: 0.7em;
+    height: 0.7em;
+    vertical-align: -0.05em;
+  }
 }
 
 /* While searching on the home page, the rest of the page below is hidden. */

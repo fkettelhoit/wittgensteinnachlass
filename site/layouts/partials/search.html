@@ -31,8 +31,13 @@
      {{- with $documents }} data-documents="{{ . }}"{{ end }} data-default-order="{{ $defaultOrder }}"
      {{- if $embedded }} data-default-view="map"{{ if not $on }} data-search="off"{{ end }}{{ end }}>
   {{- if $configured }}
+  {{- /* The magnifying glass of the Nachlass Map's Search view (tools/map), shown before the
+    placeholder while the box is empty (style.css); a placeholder can only be text. */}}
+  <span class="search-field">
   <input type="search" class="search-input" autocomplete="off" spellcheck="false"{{ if not $on }} hidden{{ end }}
          aria-label="Search Wittgenstein’s writings" placeholder="Search the Nachlass…">
+  <span class="search-field-icon" aria-hidden="true"><svg viewBox="0 0 16 16"><circle cx="6.5" cy="6.5" r="4.75" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M10 10l4.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg></span>
+  </span>
   {{- end }}
   {{- if or $langs $map }}
   {{- /* Each visible group after the first is preceded by an interpunct (style.css). */}}
