@@ -1,0 +1,13 @@
+{{- /* The page's titles (its h1s: the German and the English one) with soft hyphens in their long
+  words (data/hyphenation.yaml), so that a word too wide for the line breaks there, with a hyphen.
+  Only whole words in the text are matched, not in an id (a slug, whose words are followed by "-"
+  or the closing quote). Returns the HTML as a string. */ -}}
+{{- $c := string . -}}
+{{- range findRE `(?s)<h1[^>]*>.*?</h1>` $c -}}
+  {{- $h := . -}}
+  {{- range site.Data.hyphenation -}}
+    {{- $h = replaceRE (printf `([^\p{L}])%s([^\p{L}"-])` (replace . "|" "")) (printf `${1}%s${2}` (replace . "|" "&shy;")) $h -}}
+  {{- end -}}
+  {{- $c = replace $c . $h 1 -}}
+{{- end -}}
+{{- return $c -}}

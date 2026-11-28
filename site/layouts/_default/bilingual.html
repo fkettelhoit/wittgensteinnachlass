@@ -21,7 +21,7 @@
   {{ $switcher := printf `%s</h1>%s<p class="lang-switcher"><a class="switch" href="/%s/">German</a>%s | <span class="switch" aria-current="page">German/English</span></p>%s` $enTitle (partial "doc-description.html" .) (.File.ContentBaseName | urlize) (partial "downloads.html" .) (partial "edition-note.html" .) }}
   {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
-  {{ partial "remarks.html" (dict "c" $c "page" .) | safeHTML }}
+  {{ partial "remarks.html" (dict "c" (partial "title-hyphens.html" $c) "page" .) | safeHTML }}
 </main>
 {{ else if $hasRemarks }}
 <main>
@@ -34,7 +34,7 @@
   {{ $c = replace $c "</h1>" (printf "%s</h1>" (partial "doc-format.html" .Title)) 1 }}
   {{ $c = replace $c `<h1` `<div class="title-row"><h1 class="de-title" lang="de"` 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
-  {{ $c = partial "remarks.html" (dict "c" $c "page" .) }}
+  {{ $c = partial "remarks.html" (dict "c" (partial "title-hyphens.html" $c) "page" .) }}
   {{ $note := `The translation has been generated using a large language model and is provided for orientation only. The German original is the authoritative text. To cite an English translation, use the books published by <a href="https://www.wiley.com/en-us/Philosophical+Investigations%2C+4th+Edition-p-9781405159289">Wiley-Blackwell</a>.` }}
   {{- /* The Tractatus typescripts and the work assembled from them follow the Ogden/Ramsey translation. */}}
   {{ if in (slice "Ts-202" "Ts-203" "Ts-204" "W-TLP") .File.ContentBaseName }}
@@ -49,7 +49,7 @@
   {{ $switcher := printf `</span></h1>%s<p class="lang-switcher"><a class="switch" href="/%s/">German</a>%s | <span class="switch" aria-current="page">German/English</span></p>%s` (partial "doc-description.html" .) (.File.ContentBaseName | urlize) (partial "downloads.html" .) (partial "edition-note.html" .) }}
   {{ $c = replaceRE `(<h1[^>]*>)` (printf `${1}<span lang="de">%s</span><br><span class="en-title">` .Title) $c 1 }}
   {{ $c = replace $c "</h1>" $switcher 1 }}
-  {{ partial "viz-lightbox.html" $c | safeHTML }}
+  {{ partial "viz-lightbox.html" (partial "title-hyphens.html" $c) | safeHTML }}
 </main>
 {{ end }}
 {{ partial "footer.html" }}

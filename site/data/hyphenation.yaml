@@ -1,0 +1,15 @@
+# The long words in titles, which can be wider than a title's line (at least 6.3em in the
+# heading font: the line of a 2-column title, or of a phone's), with the one place where they
+# may be hyphenated (|). Inserted as soft hyphens into the titles (partials/title-hyphens.html);
+# any other word is never hyphenated.
+- Auf|zeichnungen
+- Bemer|kungen
+- Denk|bewegungen
+- Investi|gations
+- Philo|sophical
+- Philo|sophicus
+- Philo|sophische
+- philo|sophische
+- Proto|tractatus
+- Unter|suchungen
+- Volks|schulen

@@ -209,9 +209,6 @@ h1,
 h2 {
   font-family: var(--font-heading);
   font-weight: 400;
-  -webkit-hyphens: auto;
-  hyphens: auto;
-  hyphenate-limit-chars: 10 4 4;
 }
 
 h1 {
